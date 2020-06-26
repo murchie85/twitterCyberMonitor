@@ -1,18 +1,15 @@
-# MURCHIE85 TWITTER PROCESSING 
+# DARKWIRE SOCIAL CYBERINSIGHTS 
 &#x1F34E; **TOPIC = "cyber"**
 
 ## AUTOMATED RESEARCH SUMMARY
- 
-![image](darkLogo.png)
-  
-
-
-
 |     |    | 
 :-------------------------:|:-------------------------:
-|  ![image](http://pbs.twimg.com/media/EbYvJ0JWAAcNJuo.jpg)     <img width=200/> | ![image](dark.png) <img width=200/> |
-|  ![image](BIO.png)     | ![image](http://pbs.twimg.com/media/Ebc1fYjWoAEORFa.jpg) |   
+|  ![image](http://pbs.twimg.com/media/EbcmEneXgAI-fXJ.jpg)     <img width=200/> | ![image](http://pbs.twimg.com/media/Ebcm78_WoAA1rMh.jpg) <img width=200/> |   
 
+  ![image](darkLogo.png)   
+ 
+ 
+  ![image](Bio.png)  
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
   
@@ -30,22 +27,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Mayorspeaks As far as u enter cyber cafe every thing free is story |
-| RT @holisticyber: #ICYMI: 🔒Weekly Cyber Breakdown🔒Featuring articles from @motherboard, @TechCrunch, @CyberGovAU, @CyberScoopNews, @CSOon… |
-| Today's Army Stand-To looks at Data and Cloud Migration initiatives to provide access to trusted data in secure hos… https://t.co/YOLjgBZycJ |
+| RT @EstherNaylor: Well done to @BigCyberIdeas, thoroughly enjoyed the career track session with @CyberMyri @tcstvns on Publishing Cyber Res… |
+| RT @PlNKATRON: Y’all contacted actual murderers. Like actual killers. Y’all knew exactly what you were insenuating. This is way passed cros… |
+| Hot Takes on Cyber!If you're in cyber, you're in the business of people. Eventually, at the end of every system, e… https://t.co/dP81QwJeP1 |
 
-The most popular user is: **elonmusk**
-<div class="alert alert-block alert-danger"> Who controls the memes,
-controls the Universe</div>
+The most popular user is: **helloleslo**
+<div class="alert alert-block alert-danger"> These children are going to remember their childhoods in cages. Not in parks with mom and dad, not in school with c… https://t.co/r4YqQ0sRFb</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **PlNKATRON** |
 | #2 Most tweeted to  | **Mufaa6** |
-| #3 Most tweeted to  | **Maryam_Rajavi_P** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 6.5%|
+| #3 Most tweeted to  | **Sonjoe_Kutuh** |
+| NewProfiles (less than 10 days) | 0.67%  |
+| Tweeters with < 10 followers  | 7.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -57,94 +53,55 @@ controls the Universe</div>
 | ------------- | ------------- |
 | first  | **Y’ALL**  |
 | second  | **ACTUAL**  |
-| third  | **MURDERERS** |
-| fourth  | **WAY**  |
-| fifth  | **@PLNKATRON:**  |
+| third  | **EXACTLY** |
+| fourth  | **PASSED**  |
+| fifth  | **BAD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Soumyadipta @MumbaiPolice who is operating his account? Why the Cyber police is not involved? Plz check his bank d… https://t.co/2kdrL6Deg0 |
+|RT @TeaHubPH: Careful people, y'all raising awareness about (cyber) bullying but you're doing the same thing to Michelle Dy. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **elonmusk**  |
+| The most retweeted user is: **helloleslo**  |
 | ------------- |
-| Who controls the memes,controls the Universe |
+| These children are going to remember their childhoods in cages. Not in parks with mom and dad, not in school with c… https://t.co/r4YqQ0sRFb |
 
 # Potential Fake Accounts
  
-# OneGuy256USER INFO
-![image](http://pbs.twimg.com/profile_images/1275100949938348034/6c6CcbPF_normal.jpg)
+# gaonkar_sajitUSER INFO
+![image](http://pbs.twimg.com/profile_images/1276550971783557120/6nIGhtK6_normal.jpg)
  
-`User ScreenName:` OneGuy256 
+`User ScreenName:` gaonkar_sajit 
  
-`User chosen Name:` That One Guy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jun 18 11:17:10 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 32 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 131 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275100949938348034/6c6CcbPF_normal.jpg 
- 
-`Number of tweets excluding replies:` 134 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARSENAL** 25 , **@LTARSENAL:** 19 , **LEAGUE** 9 , **@AFCSTUFF:** 9 , **@TROLLFOOTBALL:** 8 , **LIVERPOOL** 7 , **MAN** 7 , **PLAYERS** 7 , **AFTER** 6 , **ARTETA** 6 , **CLUB** 6 , **GOT** 6 , **BACK** 6 , **GUENDOUZI** 5 , **LEAVE** 5 , **CONTRACT** 5 , **THESE** 5 , **GOING** 4 , **DOWN** 4 , **BIG** 4 , 
- 
-## What this user tweeted
- 
-RT @DeanJoshua26: @Patrickonyango1 This is cyber harassment ssebo you are just looking for an excuse to enter and steal from our houses
- 
-# ShadowAadmiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276204822148943873/yH4060Id_normal.jpg)
- 
-`User ScreenName:` ShadowAadmi 
- 
-`User chosen Name:` Shadow Man 
+`User chosen Name:` Sajit Gaonkar 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jun 25 17:22:58 +0000 2020 
+`User signup date?:` Fri Jun 26 16:19:56 +0000 2020 
  
-`User Description?:` I work from shadows. 
+`User Description?:` Cricketer 
  
 `Followers?: `0 
  
-`Following?:` 13 
+`Following?:` 5 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 39 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1276204822148943873/yH4060Id_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1276550971783557120/6nIGhtK6_normal.jpg 
  
-`Number of tweets excluding replies:` 40 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -152,11 +109,50 @@ RT @DeanJoshua26: @Patrickonyango1 This is cyber harassment ssebo you are just l
  
 ## User Top tweeted words 
  
-**HINDUS** 9 , **HINDUS_UNDER_ATTACK** 8 , **HINDU** 6 , **ATTACK** 5 , **INDIA** 4 , **KILLED** 4 , **POLITICAL** 4 , **!** 4 , **SAVE** 3 , **ANTI** 3 , **BAIL** 3 , **HUMANITARIAN** 3 , **UNDER** 3 , **THESE** 3 , **INDIAN** 3 , **AGAINST** 2 , **DON'T** 2 , **@SIDDHANT12311:** 2 , **HUMANITY** 2 , **RIOTS** 2 , 
+**@SUDHIRCHAUDHARY** 1 , **SUDHIR** 1 , **SIR** 1 , **I'M** 1 , **YOUTUBER** 1 , **MERE** 1 , **PAS** 1 , **EK** 1 , **URGENT** 1 , **KHABAHR** 1 , **HAI** 1 , **JAHA** 1 , **INDIA** 1 , **CYBER** 1 , **ATTACK** 1 , **40** 1 , **HAZAR** 1 , **CYBER…** 1 , **HTTPS://TCO/TITA7XCO0O** 1 , 
  
 ## What this user tweeted
  
-RT @_DesiPinkman: How I sleep knowing that Anshul Saxena will hack chinese website's data if China plans a cyber attack against India. http…
+@sudhirchaudhary Sudhir Sir I'm A YouTuber Mere Pas Ek Urgent khabahr hai jaha India Me Cyber Attack 40 hazar Cyber… https://t.co/tItA7xco0O
+ 
+# Michele86964267USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Michele86964267 
+ 
+`User chosen Name:` Michele 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jun 17 01:00:43 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 27 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 108 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 109 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**U** 11 , **I’M** 9 , **@CYBERNOVA** 7 , **STAY** 7 , **DREAM** 7 , **GOT** 7 , **HEELS** 7 , **CYBER** 6 , **SAFE** 6 , **MATT** 6 , **@SUGA_RCCC** 6 , **FOLLOW** 6 , **NEW** 6 , **GOTH** 5 , **RETWEET** 5 , **WAIT** 5 , **HALO** 5 , **LOVE** 4 , **GIVE** 4 , **SLEEVES** 4 , 
+ 
+## What this user tweeted
+ 
+@cybernova OMG cyber is having her COVID test rn I’m so scared cyber stay rested safe and healthy we all love u!! ❤️❤️❤️
  
 ### CONCLUSION & EXTERNAL ANALYSIS
 
