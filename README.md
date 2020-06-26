@@ -1,22 +1,17 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "CYBER"**
+&#x1F34E; **TOPIC = "cyber"**
 
 ## AUTOMATED RESEARCH SUMMARY
-  
-<p float="left">
-  <img src="dark.png" width="40%" />
-  <img src="http://pbs.twimg.com/media/EbYvJ0JWAAcNJuo.jpg" width="40%" /> 
-</p>
+ 
+![image](darkLogo.png)
   
 
 
-<p float="left">
-  <img src="http://pbs.twimg.com/media/EbcyJ2NUYAE_8Ur.jpg" width="40%" />
-  <img src="BIO.png" width="40%" /> 
-</p>
-  
 
-
+|     |    | 
+:-------------------------:|:-------------------------:
+|  ![image](http://pbs.twimg.com/media/EbYvJ0JWAAcNJuo.jpg)     <img width=200/> | ![image](dark.png) <img width=200/> |
+|  ![image](BIO.png)     | ![image](http://pbs.twimg.com/media/Ebc1fYjWoAEORFa.jpg) |   
 
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
@@ -35,21 +30,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Y’all need to start canceling people for their behaviors as adults instead trying to play cyber stalker and finding… https://t.co/ihyvR9GuZ8 |
-| RT @MattMurph24: Brian Kemp wants the citizens of Georgia to contract the Coronavirus. |
-| [Job] Senior Cyber Security Consultant | Company: Truesec | Location: Stockholm AB  Sweden | #Stockholm #Forensic… https://t.co/xNoMhPHGHE |
+| @Mayorspeaks As far as u enter cyber cafe every thing free is story |
+| RT @holisticyber: #ICYMI: 🔒Weekly Cyber Breakdown🔒Featuring articles from @motherboard, @TechCrunch, @CyberGovAU, @CyberScoopNews, @CSOon… |
+| Today's Army Stand-To looks at Data and Cloud Migration initiatives to provide access to trusted data in secure hos… https://t.co/YOLjgBZycJ |
 
-The most popular user is: **tylerthecreator**
-<div class="alert alert-block alert-danger"> Hahahahahahahaha How The Fuck Is Cyber Bullying Real Hahahaha Nigga Just Walk Away From The Screen Like Nigga Close Your Eyes Haha</div>
+The most popular user is: **elonmusk**
+<div class="alert alert-block alert-danger"> Who controls the memes,
+controls the Universe</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **PlNKATRON** |
-| #2 Most tweeted to  | **iamebonythomas** |
-| #3 Most tweeted to  | **Mufaa6** |
-| NewProfiles (less than 10 days) | 1.5%  |
-| Tweeters with < 10 followers  | 5.0%|
+| #2 Most tweeted to  | **Mufaa6** |
+| #3 Most tweeted to  | **Maryam_Rajavi_P** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 6.5%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -69,47 +65,47 @@ The most popular user is: **tylerthecreator**
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (57.14%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJECTIVE** (21.43%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NotNihal: one of my favorite things about this app is when celebrities come on here and expect mass adulation for any dumb thing they s… |
+|@Soumyadipta @MumbaiPolice who is operating his account? Why the Cyber police is not involved? Plz check his bank d… https://t.co/2kdrL6Deg0 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tylerthecreator**  |
+| The most retweeted user is: **elonmusk**  |
 | ------------- |
-| Hahahahahahahaha How The Fuck Is Cyber Bullying Real Hahahaha Nigga Just Walk Away From The Screen Like Nigga Close Your Eyes Haha |
+| Who controls the memes,controls the Universe |
 
 # Potential Fake Accounts
  
-# MankeyDanielUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275226519250452480/_YanngBq_normal.jpg)
+# OneGuy256USER INFO
+![image](http://pbs.twimg.com/profile_images/1275100949938348034/6c6CcbPF_normal.jpg)
  
-`User ScreenName:` MankeyDaniel 
+`User ScreenName:` OneGuy256 
  
-`User chosen Name:` DANIEL mankey 
+`User chosen Name:` That One Guy 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jun 23 00:35:11 +0000 2020 
+`User signup date?:` Thu Jun 18 11:17:10 +0000 2020 
  
-`User Description?:` El drilo culidro 
+`User Description?:`  
  
-`Followers?: `1 
+`Followers?: `6 
  
-`Following?:` 3 
+`Following?:` 32 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 131 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275226519250452480/_YanngBq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1275100949938348034/6c6CcbPF_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 134 
  
 
  
@@ -117,81 +113,38 @@ VIEWS WERE : **SUBJECTIVE**  (57.14%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJ
  
 ## User Top tweeted words 
  
-**👏** 9 , **NORMALIZE** 4 , **CYBER** 4 , **BULLYING** 4 , **DE** 2 , **RT** 1 , **@REV_SAYS_DESU:** 1 , **NO…@EMILIODRILO** 1 , **NMS** 1 , **SI** 1 , **COJO** 1 , **AL** 1 , **LA** 1 , **FOTO** 1 , **PEFIL** 1 , **MMMHHHH!!!1!!!1!1!** 1 , 
+**ARSENAL** 25 , **@LTARSENAL:** 19 , **LEAGUE** 9 , **@AFCSTUFF:** 9 , **@TROLLFOOTBALL:** 8 , **LIVERPOOL** 7 , **MAN** 7 , **PLAYERS** 7 , **AFTER** 6 , **ARTETA** 6 , **CLUB** 6 , **GOT** 6 , **BACK** 6 , **GUENDOUZI** 5 , **LEAVE** 5 , **CONTRACT** 5 , **THESE** 5 , **GOING** 4 , **DOWN** 4 , **BIG** 4 , 
  
 ## What this user tweeted
  
-RT @Rev_says_desu: 👏 NORMALIZE CYBER BULLYING 👏
-👏 NORMALIZE CYBER BULLYING 👏
-👏 NORMALIZE CYBER BULLYING 👏
-👏 NORMALIZE CYBER BULLYING 👏
-👏 NO…
+RT @DeanJoshua26: @Patrickonyango1 This is cyber harassment ssebo you are just looking for an excuse to enter and steal from our houses
  
-# its_cyber_leafUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275143138903031808/eXel9TaT_normal.jpg)
+# ShadowAadmiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1276204822148943873/yH4060Id_normal.jpg)
  
-`User ScreenName:` its_cyber_leaf 
+`User ScreenName:` ShadowAadmi 
  
-`User chosen Name:` CyberLeaf 
+`User chosen Name:` Shadow Man 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jun 22 19:05:45 +0000 2020 
+`User signup date?:` Thu Jun 25 17:22:58 +0000 2020 
  
-`User Description?:` Follow me for daily content 🍃 
- 
-`Followers?: `3 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275143138903031808/eXel9TaT_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LIVE** 4 , **BIRTHDAY** 2 , **BROADCAST** 2 , **HTTPS://TCO/JGDASWDX6GRT** 2 , **@ITSFEARIE:** 2 , **WATCH** 2 , **@ITS_CYBER_LEAF** 2 , **RT** 1 , **@DAZ_BLACK:** 1 , **HAPPY** 1 , **@ARIANAGRANDE** 1 , **SING** 1 , **PARTYCHECK** 1 , **PLAYSTATION** 1 , **4!** 1 , **PS4LIVE** 1 , **(FORTNITE)** 1 , **HTTPS://TCO/JGDASWDX6GCHECK** 1 , **PLEASE** 1 , **GO** 1 , 
- 
-## What this user tweeted
- 
-RT @daz_black: Happy birthday @ArianaGrande if you like, i can sing for you at your birthday party
- 
-# blackintrusiveUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276543339022766080/-8kgdi-6_normal.jpg)
- 
-`User ScreenName:` blackintrusive 
- 
-`User chosen Name:` Blackintrusive 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jun 26 15:46:16 +0000 2020 
- 
-`User Description?:` Black Hat intrusive security research, hacking, penetration testing and bug bounty. 
+`User Description?:` I work from shadows. 
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 13 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 39 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1276543339022766080/-8kgdi-6_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1276204822148943873/yH4060Id_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 40 
  
 
  
@@ -199,11 +152,11 @@ RT @daz_black: Happy birthday @ArianaGrande if you like, i can sing for you at y
  
 ## User Top tweeted words 
  
-**SECURITY** 3 , **BLACKINTRUSIVE** 2 , **COMPANY** 2 , **RESEARCH** 2 , **HACKING** 2 , **PENETRATION** 2 , **TESTING** 2 , **BUG** 2 , **FIND** 1 , **VULNERABILITIES** 1 , **ENABLE** 1 , **ORGANISATION** 1 , **DEFEND** 1 , **H…** 1 , **HTTPS://TCO/2NARPIKATJAS** 1 , **SECRETIVE** 1 , **HYPER-COMPETITIVE** 1 , **SINGLE** 1 , **OBJECTIVE:** 1 , **ORGANISATIONS** 1 , 
+**HINDUS** 9 , **HINDUS_UNDER_ATTACK** 8 , **HINDU** 6 , **ATTACK** 5 , **INDIA** 4 , **KILLED** 4 , **POLITICAL** 4 , **!** 4 , **SAVE** 3 , **ANTI** 3 , **BAIL** 3 , **HUMANITARIAN** 3 , **UNDER** 3 , **THESE** 3 , **INDIAN** 3 , **AGAINST** 2 , **DON'T** 2 , **@SIDDHANT12311:** 2 , **HUMANITY** 2 , **RIOTS** 2 , 
  
 ## What this user tweeted
  
-As a secretive and hyper-competitive company, Blackintrusive has a single objective: organisations must try harder.… https://t.co/DS5nz3APdb
+RT @_DesiPinkman: How I sleep knowing that Anshul Saxena will hack chinese website's data if China plans a cyber attack against India. http…
  
 ### CONCLUSION & EXTERNAL ANALYSIS
 
