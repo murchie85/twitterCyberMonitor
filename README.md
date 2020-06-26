@@ -30,9 +30,9 @@ The most popular user is: **wendellpotter**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Your boss wants you to spend 2 weeks learning any subtopic of infosec to be the SME of the dept. Boss also says the… https://t.co/zHHBXSxTry |
-| RT @Remediant: What are the three core capabilities of identity management? According to @InfoSec_Review and @SolutionsReview they are #aut… |
-| RT @blueteamsec1: Sifter 7.4 - OSINT, Recon &amp; Vulnerability Scanner https://t.co/DC3EoGWd61 #hacktool #kitploit #infosec https://t.co/tloI7… |
+| RT @SlickRockWeb: The bit[.]ly shortener sends the user to a domain called dulcegustovita[.]com that was registered that same day. The mali… |
+| RT @ptracesecurity: Instrumenting a Chess game with FЯIDA  https://t.co/ekLanZlxZO  #ReverseEngineering #Frida #Infosec https://t.co/0Z2TEP… |
+| RT @TheHackersNews: 22-year-old hacker has been sentenced to 13 months in prison for creating 'Satori' IoT botnet #malware — one of the suc… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -41,7 +41,7 @@ The most popular user is: **wendellpotter**
 | #2 Most tweeted to  | **TheHackersNews** |
 | #3 Most tweeted to  | **rrcyrus** |
 | NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 1.98%|
+| Tweeters with < 10 followers  | 1.94%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -55,18 +55,18 @@ The most popular user is: **wendellpotter**
 | second  | **MALWARE**  |
 | third  | **IOT** |
 | fourth  | **HACKER**  |
-| fifth  | **BOTNET**  |
+| fifth  | **HACKING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RachelTobac: Today is the day for #ShareTheMicInCyber and I am partnered with @ForSci_Q - a brilliant practitioner, speaker, and mentor… |
+|RT @rbertkiss17: #13 &gt;&gt; Previous today coding tweet continuation...@VisualStudio#freeCodeCamp #100DaysOfCode #system #code #coding #cod… |
 
 ### MOST RETWEETED 
 
