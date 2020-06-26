@@ -6,7 +6,7 @@
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](http://pbs.twimg.com/media/EbeSiKrXYAE9LFt.jpg)     <img width=200/> | ![image](http://pbs.twimg.com/media/EbeL7VKXgAEwa0I.jpg) <img width=200/> |   
+|  ![image](http://pbs.twimg.com/media/EbeSiKrXYAE9LFt.jpg)     <img width=200/> | ![image](https://securityintelligence.com/wp-content/uploads/2019/01/government-cybersecurity-processes-must-change-drastically.jpg) <img width=200/> |   
  
  
 ![image](TWEETS.png)
@@ -30,16 +30,16 @@ The most popular user is: **CiscoIoT**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LarryBiss: In a world where cloud adoption enhanced the #NewNormal, Atos is helping organizations to thwart new #cybersecurity threats.… |
-| RT @Totocellux: #ThreatAnalysis: #WebSites #Skimmer Hides Within #EXIF #Metadata, Exfiltrates #CreditCards Via #ImageFiles - https://t.co/4… |
-| RT @IXIAcom: Join @Keysight at the @FutureCon2019 Virtual Central #CyberSecurity Conference. Andrew Young talks live: “Attack Yourself Befo… |
+| RT @ExploitedSystem: Hey Guys Just Uploaded a Video on #GoBuster It would be appreciated if you guys check it out ! https://t.co/BQPuWXe4MZ… |
+| RT @BinSecSweeper: Malicious app impersonating Facebook analyzed in detail by The File Threat Intelligence Platform: IoC, similarities, ATT… |
+| RT @Techfest_IITB: Presenting Online Live Training Programs on #AndroidDevelopment and Cybersecurity by #Techfest, #IITBombay!Learn to cre… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **TheHackersNews** |
 | #2 Most tweeted to  | **Paula_Piccard** |
-| #3 Most tweeted to  | **CiscoIoT** |
+| #3 Most tweeted to  | **Djax_Alpha** |
 | NewProfiles (less than 10 days) | 0.33%  |
 | Tweeters with < 10 followers  | 2.33%|
 | Tweeters with > 1000000 followers  | 0.0%  |
@@ -53,20 +53,20 @@ The most popular user is: **CiscoIoT**
 | ------------- | ------------- |
 | first  | **INDUSTRIAL**  |
 | second  | **LOOKING**  |
-| third  | **HACKER** |
+| third  | **INFOSEC** |
 | fourth  | **GUYS**  |
-| fifth  | **MALWARE**  |
+| fifth  | **HACKER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CiscoIoT: Security teams need visibility into their industrial assets &amp; industrial processes. So what is the missing puzzle piece that… |
+|Hey Guys Just Uploaded a Video on #GoBuster It would be appreciated if you guys check it out !… https://t.co/zj8Gg4z8oc |
 
 ### MOST RETWEETED 
 
