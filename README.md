@@ -2,23 +2,9 @@
 &#x1F34E; **TOPIC = "Cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
-<style> 
-table th:first-of-type { 
-    width: 10%; 
-} 
-table th:nth-of-type(2) { 
-    width: 10%; 
-} 
-table th:nth-of-type(3) {
-    width: 50%; 
-} 
-table th:nth-of-type(4) {
-    width: 30%; 
-} 
-</style> 
+
  
 
-<div class="foo">
  
 |     |    | 
 :-------------------------:|:-------------------------:
@@ -26,7 +12,6 @@ table th:nth-of-type(4) {
 |          |         |
 |  ![image](http://pbs.twimg.com/media/EbcJ82XUwAE4JRC.jpg)     | ![image](BIO.png) |   
 
-</div> 
  
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
