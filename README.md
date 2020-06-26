@@ -1,15 +1,15 @@
 # DARKWIRE SOCIAL CYBERINSIGHTS 
-&#x1F34E; **TOPIC = "cyber"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](http://pbs.twimg.com/media/EbYvJ0JWAAcNJuo.jpg)     <img width=200/> | ![image](http://pbs.twimg.com/media/Ebcm78_WoAA1rMh.jpg) <img width=200/> |   
+|  ![image](http://pbs.twimg.com/media/EbdAIxiXsAELX6B.jpg)     <img width=200/> | ![image](http://pbs.twimg.com/media/EbagPwwWkAEMVyn.jpg) <img width=200/> |   
 
   ![image](darkLogo.png)   
  
  
-  ![image](Bio.png)  
+  ![image](BIO.png)  
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
   
@@ -27,22 +27,29 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @HunterJCullen: Ahead of the tax return rulings, prepare for an uptick of cyber-attacks from the mob and a major increase of wagging the… |
-| Thomas Wingfield, Cyber Expert, Discusses Implications of Cybersecurity Within DoD, National Security - ExecutiveBiz https://t.co/croqqjQ2SB |
-| RT @HeidyKhlaaf: New Nature study shows that 2/3 of those asymptomatic with Covid-19 had ground-glass opacity abnormalities (lung damage) i… |
+| RT @GlobalSNI: Protect your data privacy with Bitdefender Mobile Security for as low as Rs. 1 per day (only 399 per year) with amazing feat… |
+| Listen to Mocana’s Rolf O’Grady discuss #IIoT device &amp; #cybersecurity lifecycle management, and the importance of p… https://t.co/bwjTcIBAhQ |
+| RT @NetOfEverything: Tesla Type 2 charger wall mount #3DThursday #3DPrinting | https://t.co/z98OJldxeS | #iot #internetofthings #cybersecur… |
 
-The most popular user is: **tylerthecreator**
-<div class="alert alert-block alert-danger"> Hahahahahahahaha How The Fuck Is Cyber Bullying Real Hahahaha Nigga Just Walk Away From The Screen Like Nigga Close Your Eyes Haha</div>
+The most popular user is: **TundeTASH**
+<div class="alert alert-block alert-danger"> If you've ever wanted to learn...
+
+-Cloud Computing
+-Coding
+-Artificial Intelligence
+-IoT
+-Data Analysis
+-Cybersecu… https://t.co/YyjDuonh38</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PlNKATRON** |
-| #2 Most tweeted to  | **Mufaa6** |
-| #3 Most tweeted to  | **AshaRangappa_** |
-| NewProfiles (less than 10 days) | 0.85%  |
-| Tweeters with < 10 followers  | 5.6%|
-| Tweeters with > 1000000 followers  | 0.25%  |
+| #1 Most tweeted to  | **enricomolinari** |
+| #2 Most tweeted to  | **thehill** |
+| #3 Most tweeted to  | **AmoatengTech** |
+| NewProfiles (less than 10 days) | 0.25%  |
+| Tweeters with < 10 followers  | 1.65%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -51,213 +58,57 @@ The most popular user is: **tylerthecreator**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **Y’ALL**  |
-| second  | **ACTUAL**  |
-| third  | **WAY** |
-| fourth  | **MURDERERS**  |
-| fifth  | **EXACTLY**  |
+| first  | **MALWARE**  |
+| second  | **INFOSEC**  |
+| third  | **DATA** |
+| fourth  | **RANSOMWARE**  |
+| fifth  | **IOT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @orfonline: India is among the top 10 countries facing cyber-attacks. These incidents have increased manifold during the lockdown period… |
+|RT @AlyssaM_InfoSec: Racism, like cybersecurity, is a national security issue. It’s not enough to be “not racist”- we must be anti-racist.… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tylerthecreator**  |
+| The most retweeted user is: **TundeTASH**  |
 | ------------- |
-| Hahahahahahahaha How The Fuck Is Cyber Bullying Real Hahahaha Nigga Just Walk Away From The Screen Like Nigga Close Your Eyes Haha |
+| If you've ever wanted to learn...-Cloud Computing-Coding-Artificial Intelligence-IoT-Data Analysis-Cybersecu… https://t.co/YyjDuonh38 |
 
 # Potential Fake Accounts
  
-# anitahraquelUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276059252050874369/44yEciDk_normal.jpg)
+# MBA_Daniel21USER INFO
+![image](http://pbs.twimg.com/profile_images/1275868483272785928/kuyeBiQx_normal.jpg)
  
-`User ScreenName:` anitahraquel 
+`User ScreenName:` MBA_Daniel21 
  
-`User chosen Name:` anitahraquel 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jun 24 14:38:53 +0000 2020 
- 
-`User Description?:` 🤐 
- 
-`Followers?: `34 
- 
-`Following?:` 59 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 34 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276059252050874369/44yEciDk_normal.jpg 
- 
-`Number of tweets excluding replies:` 34 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FOLLOW** 4 , **@SSENSALOB** 4 , **@IAM_RONNIEEAZI** 3 , **@RASTAKHID01** 2 , **YAPPING** 2 , **@QRISY_QRISY** 2 , **@KIWYCLIFF** 2 , **@POLITE_48** 2 , **@BBA4SHH** 2 , **@KABIRAN_NABIRAH** 2 , **@URBANBOUY01** 2 , **@ENGEDDIEMOSES…** 2 , **RT** 1 , **@SHEILAHGASHUMBA:** 1 , **TOPIC:** 1 , **CYBER** 1 , **BULLYING** 1 , **STOPSOCIALMEDIABULLYINGUGANDA** 1 , **@NBSTV** 1 , **HTTPS://TCO/EUTUROITSL@KIWYCLIFF** 1 , 
- 
-## What this user tweeted
- 
-RT @SheilahGashumba: Topic: CYBER BULLYING #stopsocialmediabullyinguganda @nbstv https://t.co/EuTUROiTSl
- 
-# gaonkar_sajitUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276550971783557120/6nIGhtK6_normal.jpg)
- 
-`User ScreenName:` gaonkar_sajit 
- 
-`User chosen Name:` Sajit Gaonkar 
+`User chosen Name:` Dan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jun 26 16:19:56 +0000 2020 
+`User signup date?:` Wed Jun 24 17:57:02 +0000 2020 
  
-`User Description?:` Cricketer 
- 
-`Followers?: `0 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276550971783557120/6nIGhtK6_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SUDHIRCHAUDHARY** 1 , **SUDHIR** 1 , **SIR** 1 , **I'M** 1 , **YOUTUBER** 1 , **MERE** 1 , **PAS** 1 , **EK** 1 , **URGENT** 1 , **KHABAHR** 1 , **HAI** 1 , **JAHA** 1 , **INDIA** 1 , **CYBER** 1 , **ATTACK** 1 , **40** 1 , **HAZAR** 1 , **CYBER…** 1 , **HTTPS://TCO/TITA7XCO0O** 1 , 
- 
-## What this user tweeted
- 
-@sudhirchaudhary Sudhir Sir I'm A YouTuber Mere Pas Ek Urgent khabahr hai jaha India Me Cyber Attack 40 hazar Cyber… https://t.co/tItA7xco0O
- 
-# Michele86964267USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Michele86964267 
- 
-`User chosen Name:` Michele 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jun 17 01:00:43 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 27 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 108 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 109 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**U** 11 , **I’M** 9 , **@CYBERNOVA** 7 , **STAY** 7 , **DREAM** 7 , **GOT** 7 , **HEELS** 7 , **CYBER** 6 , **SAFE** 6 , **MATT** 6 , **@SUGA_RCCC** 6 , **FOLLOW** 6 , **NEW** 6 , **GOTH** 5 , **RETWEET** 5 , **WAIT** 5 , **HALO** 5 , **LOVE** 4 , **GIVE** 4 , **SLEEVES** 4 , 
- 
-## What this user tweeted
- 
-@cybernova OMG cyber is having her COVID test rn I’m so scared cyber stay rested safe and healthy we all love u!! ❤️❤️❤️
- 
-# 256RankyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276459325964169216/Y1DWyUCb_normal.jpg)
- 
-`User ScreenName:` 256Ranky 
- 
-`User chosen Name:` Ranky 256 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jun 26 09:54:51 +0000 2020 
- 
-`User Description?:` musical 
+`User Description?:` Operations leader #operationsmanagement #projectmanagement #finance #analyst #timemanagement #MBA #mentor #generalmanagement #criticalthinking #tiffin 
  
 `Followers?: `4 
  
-`Following?:` 79 
+`Following?:` 64 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 12 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1276459325964169216/Y1DWyUCb_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1275868483272785928/kuyeBiQx_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@NBSTV** 2 , **RT** 1 , **@CALLMEGODSPLAN:** 1 , **UNMISSABLE** 1 , **🙏🙏🙏🙏** 1 , **9PM** 1 , **TOMORROW** 1 , **🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥STOPSOCIALMEDIABULLYINGUGANDA** 1 , **HTTPS://TCO/T1UOP7PSYURT** 1 , **@SHEILAHGASHUMBA:** 1 , **TOPIC:** 1 , **CYBER** 1 , **BULLYING** 1 , **STOPSOCIALMEDIABULLYINGUGANDA** 1 , **HTTPS://TCO/EUTUROITSL** 1 , 
- 
-## What this user tweeted
- 
-RT @SheilahGashumba: Topic: CYBER BULLYING #stopsocialmediabullyinguganda @nbstv https://t.co/EuTUROiTSl
- 
-# txtimehaterUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276315033048399875/InG8Q9Sp_normal.jpg)
- 
-`User ScreenName:` txtimehater 
- 
-`User chosen Name:` a͛ρhrodιtᥱ. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 22 17:34:36 +0000 2020 
- 
-`User Description?:` ❲ ❲ Thᥱrᥱ ιs ᥲ qᥙιᥱt ᥲt thᥱ hᥱᥲrt of ᥣovᥱ, ᥲᥒd I hᥲvᥱ ριᥱrᥴᥱd thᥱ ρᥲιᥒ ᥲᥒd ᥴomᥱ to ρᥱᥲᥴᥱ ❳ ❳ ⎲🐍⎞ #𝐛𝐨𝐨𝐤𝐬#𝐚𝐧𝐢𝐦𝐞#𝐤𝐩𝐨𝐩#𝐯-𝐠𝐚𝐦𝐞𝐬#fanͣaͨtͨiͦcͧᶰᵗ 
- 
-`Followers?: `90 
- 
-`Following?:` 215 
- 
-`User URL?:` https://t.co/RGf3uA1kSf 
- 
-`Location:` Spain 
- 
-`Number of tweets extracted`  : 138 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276315033048399875/InG8Q9Sp_normal.jpg 
- 
-`Number of tweets excluding replies:` 138 
+`Number of tweets excluding replies:` 12 
  
 
  
@@ -265,38 +116,38 @@ RT @SheilahGashumba: Topic: CYBER BULLYING #stopsocialmediabullyinguganda @nbstv
  
 ## User Top tweeted words 
  
-**I'M** 14 , **DON'T** 8 , **HATE** 7 , **LOOK** 6 , **HARRY** 6 , **SOMEONE** 5 , **I'VE** 5 , **DRACO** 5 , **PEOPLE** 5 , **STILL** 5 , **BEING** 5 , **SOME** 4 , **SAY** 4 , **DE** 4 , **@HERMIONESLY:** 4 , **GOOD** 4 , **SPEAK** 4 , **NEED** 4 , **AGAIN** 4 , **SCENE** 4 , 
+**ITS** 3 , **ZERO-DAY** 2 , **@SABIZJOURNAL:** 2 , **@WSJMARKETS:** 2 , **CORONAVIRUS** 2 , **STAKE** 2 , **TREND** 2 , **@BARRONSONLINE:** 2 , **RT** 1 , **@CROWDSTRIKE:** 1 , **EXPLOIT?** 1 , **LEARN** 1 , **ATTACK** 1 , **VECTORS** 1 , **VULNERABILITY** 1 , **EXAMPLES** 1 , **DETECTING** 1 , **DEFENDING** 1 , **AGAIN…RT** 1 , **@SPACEX:** 1 , 
  
 ## What this user tweeted
  
-@gothdraco One have to be blind to not see that some fans fight over ships and judging someone else for liking a sp… https://t.co/kHgTINfFbd
+RT @CrowdStrike: What is a zero-day exploit? Learn about zero-day attack vectors, vulnerability examples, and detecting and defending again…
  
-# OneGuy256USER INFO
-![image](http://pbs.twimg.com/profile_images/1275100949938348034/6c6CcbPF_normal.jpg)
+# C0nMrUSER INFO
+![image](http://pbs.twimg.com/profile_images/1275646927619620864/vFr_ZaxD_normal.jpg)
  
-`User ScreenName:` OneGuy256 
+`User ScreenName:` C0nMr 
  
-`User chosen Name:` That One Guy 
+`User chosen Name:` Mr. C0N 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jun 18 11:17:10 +0000 2020 
+`User signup date?:` Fri Jun 19 22:29:16 +0000 2020 
  
-`User Description?:`  
+`User Description?:` RT ( 📽 Conference  •  🛡 CyberSecurity  •  🌐 Tech ) 
  
-`Followers?: `6 
+`Followers?: `51 
  
-`Following?:` 33 
+`Following?:` 684 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Iberoamérica + Global   
  
-`Number of tweets extracted`  : 133 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275100949938348034/6c6CcbPF_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1275646927619620864/vFr_ZaxD_normal.jpg 
  
-`Number of tweets excluding replies:` 136 
+`Number of tweets excluding replies:` 467 
  
 
  
@@ -304,38 +155,40 @@ RT @SheilahGashumba: Topic: CYBER BULLYING #stopsocialmediabullyinguganda @nbstv
  
 ## User Top tweeted words 
  
-**ARSENAL** 26 , **@LTARSENAL:** 19 , **LEAGUE** 10 , **@AFCSTUFF:** 9 , **@TROLLFOOTBALL:** 8 , **LIVERPOOL** 7 , **MAN** 7 , **PLAYERS** 7 , **AFTER** 6 , **ARTETA** 6 , **CLUB** 6 , **GOT** 6 , **BACK** 6 , **GUENDOUZI** 5 , **LEAVE** 5 , **CONTRACT** 5 , **THESE** 5 , **PLAYER** 4 , **YEARS** 4 , **GOING** 4 , 
+**DE** 155 , **EN** 76 , **LA** 66 , **Y** 43 , **EL** 42 , **CON** 31 , **@DOJOCONFPA:** 29 , **PARA** 26 , **QUE** 22 , **CIBERSEGURIDAD** 21 , **LAS** 19 , **DEL** 13 , **ES** 13 , **UN** 12 , **UNA** 12 , **PONENTES** 12 , **NUESTROS** 12 , **E** 10 , **YA** 10 , **LOS** 10 , 
  
 ## What this user tweeted
  
-RT @DeanJoshua26: @Patrickonyango1 This is cyber harassment ssebo you are just looking for an excuse to enter and steal from our houses
+RT @ECMChile_Tweet: European bank suffers biggest PPS DDoS attack, new botnet suspected
+#ddos #ddosattack NimbusDDOS #cybersecurity #cibers…
  
-# ShadowAadmiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276204822148943873/yH4060Id_normal.jpg)
+# VassiljevValeriUSER INFO
+![image](http://pbs.twimg.com/profile_images/1275184389316624385/ITcy3rtJ_normal.jpg)
  
-`User ScreenName:` ShadowAadmi 
+`User ScreenName:` VassiljevValeri 
  
-`User chosen Name:` Shadow Man 
+`User chosen Name:` Vassiljev Valeri 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jun 25 17:22:58 +0000 2020 
+`User signup date?:` Mon Jun 22 21:08:56 +0000 2020 
  
-`User Description?:` I work from shadows. 
+`User Description?:` *EESTI - ESTONIA - ЭСТОНИЯ*  *** 
+НОВАЯ ЖИЗНЬ в ЭСТОНИИ: РАБОТА и БИЗНЕС, ОБРАЗОВАНИЕ * ЖИЛЬЁ и МЕДИЦИНА * ЭКОЛОГИЯ и БЕЗОПАСНОСТЬ * СВОБОДА и ПУТЕШЕСТВИЯ. 
  
-`Followers?: `0 
+`Followers?: `5 
  
-`Following?:` 14 
+`Following?:` 370 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` ESTONIA 
  
-`Number of tweets extracted`  : 81 
+`Number of tweets extracted`  : 130 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1276204822148943873/yH4060Id_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1275184389316624385/ITcy3rtJ_normal.jpg 
  
-`Number of tweets excluding replies:` 82 
+`Number of tweets excluding replies:` 130 
  
 
  
@@ -343,38 +196,38 @@ RT @DeanJoshua26: @Patrickonyango1 This is cyber harassment ssebo you are just l
  
 ## User Top tweeted words 
  
-**HINDUS** 9 , **CBIFORSUSHANT** 8 , **@NARENDRAMODI** 7 , **@ROOPASPEAKS:** 7 , **HINDUS_UNDER_ATTACK** 7 , **ATTACK** 5 , **HINDU** 5 , **KI** 4 , **@AMITSHAH** 4 , **JUSTICE** 4 , **THESE** 4 , **!** 4 , **INDIA** 4 , **KILLED** 4 , **POLITICAL** 4 , **STILL** 3 , **CBI** 3 , **GUYS** 3 , **@ROOPASPEAKS** 3 , **पे** 3 , 
+**В** 37 , **НА** 19 , **И** 14 , **DE** 12 , **EN** 11 , **С** 9 , **QUE** 7 , **FACEBOOK** 6 , **ЧТО** 6 , **США** 5 , **ESTONIA** 5 , **PARA** 5 , **@CGTNRUSSIAN:** 5 , **@RUSPOSTIMEES:** 4 , **О** 4 , **2** 4 , **LA** 4 , **ЗА** 4 , **ПРОТИВ** 4 , **@BBCRUSSIAN:** 4 , 
  
 ## What this user tweeted
  
-RT @_DesiPinkman: How I sleep knowing that Anshul Saxena will hack chinese website's data if China plans a cyber attack against India. http…
+RT @ZyxelNews: Why do you need a #VPN for your business especially during this disruptive time when your employees are working from home? L…
  
-# MankeyDanielUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275226519250452480/_YanngBq_normal.jpg)
+# Bropha9USER INFO
+![image](http://pbs.twimg.com/profile_images/1275316664704348161/1zEPbLPo_normal.jpg)
  
-`User ScreenName:` MankeyDaniel 
+`User ScreenName:` Bropha9 
  
-`User chosen Name:` DANIEL mankey 
+`User chosen Name:` Bropha 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jun 23 00:35:11 +0000 2020 
+`User signup date?:` Tue Jun 23 06:32:28 +0000 2020 
  
-`User Description?:` El drilo culidro 
+`User Description?:` karateka tr@iner,,self respect self reliance. 
  
-`Followers?: `1 
+`Followers?: `12 
  
-`Following?:` 4 
+`Following?:` 150 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Central Zambia 
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275226519250452480/_YanngBq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1275316664704348161/1zEPbLPo_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -382,81 +235,43 @@ RT @_DesiPinkman: How I sleep knowing that Anshul Saxena will hack chinese websi
  
 ## User Top tweeted words 
  
-**👏** 9 , **NORMALIZE** 4 , **CYBER** 4 , **BULLYING** 4 , **DE** 2 , **RT** 1 , **@REV_SAYS_DESU:** 1 , **NO…@EMILIODRILO** 1 , **NMS** 1 , **SI** 1 , **COJO** 1 , **AL** 1 , **LA** 1 , **FOTO** 1 , **PEFIL** 1 , **MMMHHHH!!!1!!!1!1!** 1 , 
+**CYBERSECURITY** 2 , **RT** 1 , **@VR_OASIS:** 1 , **MAINSTREAM** 1 , **MEDIA** 1 , **VS** 1 , **VRI** 1 , **LOOK** 1 , **FORWARD** 1 , **DAY** 1 , **EAT** 1 , **WORDS** 1 , **HTTPS://TCO/Y1MZLL7KWART** 1 , **@DFIRDIVA:** 1 , **LINKS** 1 , **100** 1 , **FREE** 1 , **DFIR** 1 , **TRAINING** 1 , **COURSES** 1 , 
  
 ## What this user tweeted
  
-RT @Rev_says_desu: 👏 NORMALIZE CYBER BULLYING 👏
-👏 NORMALIZE CYBER BULLYING 👏
-👏 NORMALIZE CYBER BULLYING 👏
-👏 NORMALIZE CYBER BULLYING 👏
-👏 NO…
+RT @DfirDiva: Links to over 100 FREE DFIR &amp; Cybersecurity Training Courses
+
+Categories include:
+
+-General Cybersecurity
+-Incident Response…
  
-# its_cyber_leafUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275143138903031808/eXel9TaT_normal.jpg)
+# AvyuktiTUSER INFO
+![image](http://pbs.twimg.com/profile_images/1274308696261013506/T7Xm3tFF_normal.jpg)
  
-`User ScreenName:` its_cyber_leaf 
+`User ScreenName:` AvyuktiT 
  
-`User chosen Name:` CyberLeaf 
+`User chosen Name:` Avyukti Tech - Invent Tomorrow 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jun 22 19:05:45 +0000 2020 
+`User signup date?:` Sat Jun 20 11:45:25 +0000 2020 
  
-`User Description?:` Follow me for daily content 🍃 
+`User Description?:` Technology, Innovation & Business !! 
  
-`Followers?: `3 
+`Followers?: `2 
  
-`Following?:` 11 
+`Following?:` 77 
  
-`User URL?:` None 
+`User URL?:` https://t.co/4SSXXj41Zr 
  
-`Location:`  
+`Location:` Bangalore 
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 33 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1275143138903031808/eXel9TaT_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1274308696261013506/T7Xm3tFF_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIRTHDAY** 2 , **@ITSFEARIE:** 2 , **@ITS_CYBER_LEAF** 2 , **CHECK** 1 , **BROADCAST** 1 , **PLAYSTATION** 1 , **4!** 1 , **PS4LIVE** 1 , **(FORTNITE)** 1 , **LIVE** 1 , **HTTPS://TCO/JGDASWDX6GRT** 1 , **@DAZ_BLACK:** 1 , **HAPPY** 1 , **@ARIANAGRANDE** 1 , **SING** 1 , **PARTYRT** 1 , **PLEASE** 1 , **GO** 1 , **WATCH** 1 , **STREAMING** 1 , 
- 
-## What this user tweeted
- 
-RT @daz_black: Happy birthday @ArianaGrande if you like, i can sing for you at your birthday party
- 
-# I_amjosh007USER INFO
-![image](http://pbs.twimg.com/profile_images/1276511276148146176/EgFtF4In_normal.jpg)
- 
-`User ScreenName:` I_amjosh007 
- 
-`User chosen Name:` Boo of the booless 👑 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jun 26 13:41:56 +0000 2020 
- 
-`User Description?:` Scholar 🎓 | Check my tweets for wise words | Follow back, let's connect | @liverpoolfc | back up account of @Iam_Josh007 
- 
-`Followers?: `10 
- 
-`Following?:` 66 
- 
-`User URL?:` None 
- 
-`Location:` Makurdi, Nigeria 
- 
-`Number of tweets extracted`  : 116 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276511276148146176/EgFtF4In_normal.jpg 
- 
-`Number of tweets excluding replies:` 116 
+`Number of tweets excluding replies:` 33 
  
 
  
@@ -464,291 +279,11 @@ RT @daz_black: Happy birthday @ArianaGrande if you like, i can sing for you at y
  
 ## User Top tweeted words 
  
-**😂RT** 6 , **FOLLOW** 6 , **NEVER** 5 , **PEOPLE** 5 , **DEY** 5 , **SOMEONE** 4 , **TOO** 4 , **BROKE** 4 , **TWO** 4 , **DON'T** 4 , **WOMEN** 4 , **LOL** 4 , **SMALL** 4 , **STILL** 4 , **MAKE** 4 , **THAN** 4 , **WITHOUT** 4 , **DATE** 4 , **MEN** 4 , **RT** 3 , 
+**COLLEGES** 27 , **ONLINE** 25 , **TEACHING** 24 , **E-PORTAL** 23 , **TOOL** 23 , **BUILT** 21 , **AVYUKTI** 21 , **TEAM** 21 , **HOPE** 21 , **HELPS** 21 , **SCHOOLS** 14 , **MANY** 14 , **DURING…** 4 , **MANY…** 3 , **MA…** 3 , **AI** 2 , **@ENRICOMOLINARI:** 2 , **TY** 2 , **VIA** 2 , **@ENRICOMOLINARI** 2 , 
  
 ## What this user tweeted
  
-We can only imagine those out of the two million people that might have developed a heart attack and died due to lo… https://t.co/M9sZLvDy4F
- 
-# klaudilotionUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275848304212000771/wRYU45ym_normal.jpg)
- 
-`User ScreenName:` klaudilotion 
- 
-`User chosen Name:` 🏳️‍🌈KlaudiLotion🏳️‍🌈 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jun 24 17:47:54 +0000 2020 
- 
-`User Description?:` klaudia lotion 🥰 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275848304212000771/wRYU45ym_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ITS** 3 , **CYBERTEA** 2 , **WORKING** 2 , **CONCEPT** 2 , **GUYS** 2 , **PEOPLE** 2 , **PAYING** 2 , **100K** 2 , **SHADOW** 2 , **EMPRESS** 2 , **HEELS** 2 , **COM** 2 , **ING** 2 , **IM** 2 , **NEW** 2 , **DREAM** 1 , **UR** 1 , **VID** 1 , **CYBER** 1 , **2ND** 1 , 
- 
-## What this user tweeted
- 
-#Cybertea Its my dream to get in ur vid cyber and its like my 2nd time tweting dis pls get it in :c! https://t.co/NGERY9jLBs
- 
-# RuchitaharsoraUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276541928809492480/FdvgUOOQ_normal.jpg)
- 
-`User ScreenName:` Ruchitaharsora 
- 
-`User chosen Name:` Ruchita 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jun 26 15:29:59 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:` Mumbai 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276541928809492480/FdvgUOOQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@MAHACYBER1** 1 , **@MUMBAIPOLICE** 1 , **@CYBERDOST** 1 , **FATHER** 1 , **VICTIM** 1 , **CYBER** 1 , **CRIME** 1 , **ATTACK** 1 , **REGISTERED** 1 , **COMP…** 1 , **HTTPS://TCO/OU3KLP2HXZ** 1 , 
- 
-## What this user tweeted
- 
-@MahaCyber1 @MumbaiPolice @CyberDost My father has been a victim of Cyber Crime attack and I have registered a comp… https://t.co/ou3KlP2hxz
- 
-# reds_ugUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275370120999849984/DxZWp7tT_normal.jpg)
- 
-`User ScreenName:` reds_ug 
- 
-`User chosen Name:` Dj Reds Ug 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jun 23 10:05:36 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 188 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275370120999849984/DxZWp7tT_normal.jpg 
- 
-`Number of tweets excluding replies:` 26 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DJ** 5 , **NEED** 4 , **PEOPLE** 3 , **@SHEILAHGASHUMBA:** 3 , **LOVE** 3 , **@DJROJA:** 2 , **@NINAROZMUSIC** 2 , **@NBSAFTER5:** 2 , **NBSAFTER5** 2 , **NBSKATCHUP** 2 , **@DVJMERCYPRO** 2 , **@NBSTV** 2 , **I'M** 2 , **SOME** 2 , **HOMES** 2 , **MAKE** 2 , **TELL** 2 , **NANDANA** 1 , **ARE!!?🤣🤣🤣** 1 , **HTTPS://TCO/PJORSDKSBXDON'T** 1 , 
- 
-## What this user tweeted
- 
-RT @SheilahGashumba: Topic: CYBER BULLYING #stopsocialmediabullyinguganda @nbstv https://t.co/EuTUROiTSl
- 
-# xRubyDoobyxUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275840233209241602/0DVY2PNH_normal.jpg)
- 
-`User ScreenName:` xRubyDoobyx 
- 
-`User chosen Name:` RubyDoobyHaha23 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jun 18 00:05:32 +0000 2020 
- 
-`User Description?:` Hiii:) I’m new!! I love keeping up with updates and the new things in royal high😜 I don’t mean to upset or offend anyone when I comment. 
- 
-`Followers?: `3 
- 
-`Following?:` 39 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 136 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275840233209241602/0DVY2PNH_normal.jpg 
- 
-`Number of tweets excluding replies:` 137 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FOLLOW** 17 , **GIVEAWAY** 16 , **HALO** 13 , **@HAROONRBLX:** 11 , **ENDS** 10 , **HIGH** 8 , **LUCKY** 7 , **2019** 7 , **@HAROONRBLX** 7 , **TWEET** 7 , **RT** 6 , **IM** 6 , **100** 6 , **ROBUX🎉** 6 , **RULES!** 6 , **1)** 6 , **2)** 6 , **+** 6 , **RETWEET🔄THIS** 6 , **PLEASE** 5 , 
- 
-## What this user tweeted
- 
-Royale high has been super hard for me lately I don’t get the spark of joy I used to get when playing it. Now I fee… https://t.co/B9xavqZLki
- 
-# PopCelestialUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275973361286279168/rpucQlHh_normal.jpg)
- 
-`User ScreenName:` PopCelestial 
- 
-`User chosen Name:` 𝔰𝔬𝔟𝔢𝔯𝔮𝔲𝔢𝔢𝔫🔅𝒟-𝒟𝒶𝓎 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jun 18 23:03:30 +0000 2020 
- 
-`User Description?:` HowYouLikeThat SOTY
-
-old acc. @MoominVale
-cold and naked. smooky and blurry.
-
-⚜️PINKS' ENTHUSIAST⚜️
-
-#BLACKPINK #블랙핑크 #JISOO #지수 #JENNIE #제니 #ROSÉ #로제 #LISA #리사 
- 
-`Followers?: `20 
- 
-`Following?:` 156 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275973361286279168/rpucQlHh_normal.jpg 
- 
-`Number of tweets excluding replies:` 1812 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BLACKPINK** 42 , **1** 40 , **@BLACKPINK** 24 , **THAT"** 23 , **HOWYOULIKETHAT** 23 , **"HOW** 21 , **VIEWS** 20 , **@YGOFFICIALBLINK** 18 , **SURPASSED** 17 , **MILLION** 17 , **👏** 16 , **FIRST** 15 , **MV** 14 , **@KCHARTSOFFICIAL:** 14 , **HOURS** 13 , **PEOPLE** 11 , **MUSIC** 11 , **ITUNES** 11 , **MELON** 11 , **(=)** 11 , 
- 
-## What this user tweeted
- 
-RT @PlNKATRON: Y’all contacted actual murderers. Like actual killers. Y’all knew exactly what you were insenuating. This is way passed cros…
- 
-# mxsooyaaa__USER INFO
-![image](http://pbs.twimg.com/profile_images/1276502893575602178/WOxekkPd_normal.jpg)
- 
-`User ScreenName:` mxsooyaaa__ 
- 
-`User chosen Name:` +* #HYLT D-DAY+ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jun 19 00:09:19 +0000 2020 
- 
-`User Description?:` ot4 stan account • follow me☺☺ • 
- 
-`Followers?: `143 
- 
-`Following?:` 187 
- 
-`User URL?:` None 
- 
-`Location:` 🇵🇭🇵🇭 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276502893575602178/WOxekkPd_normal.jpg 
- 
-`Number of tweets excluding replies:` 833 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BLACKPINK** 59 , **HOWYOULIKETHAT** 56 , **JISOO** 22 , **1** 21 , **@BLACKPINK** 18 , **ROSÉ** 15 , **JENNIE** 15 , **LISA** 14 , **@YGOFFICIALBLINK** 12 , **LOOK** 11 , **NA** 11 , **"HOW** 9 , **NG** 8 , **SONG** 8 , **THAT"** 8 , **MELON** 8 , **KO** 8 , **PLEASE** 7 , **YUNG** 7 , **MV** 7 , 
- 
-## What this user tweeted
- 
-RT @PlNKATRON: Y’all contacted actual murderers. Like actual killers. Y’all knew exactly what you were insenuating. This is way passed cros…
- 
-# GodTierRubyJaneUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276474115088515077/Y_EMThCg_normal.jpg)
- 
-`User ScreenName:` GodTierRubyJane 
- 
-`User chosen Name:` Asawa ni Jendeuk 🌙 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jun 18 19:09:02 +0000 2020 
- 
-`User Description?:` ot4 stans hello ✊ check my pinned too 😊 STREAM #HowYouLikeThat 
- 
-`Followers?: `52 
- 
-`Following?:` 135 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276474115088515077/Y_EMThCg_normal.jpg 
- 
-`Number of tweets excluding replies:` 2454 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JENNIE** 40 , **BLACKPINK** 26 , **HOWYOULIKETHAT** 18 , **1** 18 , **👏** 16 , **@BLACKPINK** 15 , **MV** 13 , **GIRL** 10 , **VIEWS** 9 , **LOOK** 9 , **Y'ALL** 9 , **US** 8 , **HOURS** 7 , **WAY** 7 , **FIRST** 7 , **GROUP** 7 , **ITUNES** 7 , **JISOO** 6 , **THEY’RE** 6 , **VIDEO** 6 , 
- 
-## What this user tweeted
- 
-RT @PlNKATRON: Y’all contacted actual murderers. Like actual killers. Y’all knew exactly what you were insenuating. This is way passed cros…
+RT @enricomolinari: 👉 how #Governments can leverage #blockchain to stunt corruption in public #procurement? TY @wef via @enricomolinari ⏩ #…
  
 ### CONCLUSION & EXTERNAL ANALYSIS
 
