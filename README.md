@@ -29,18 +29,18 @@ The most popular user is: **Mmontsealvarado**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @archonsec: #cybersecurity #infosec    VIA @helpnetsecurity    With remote working on the rise, infosec strategies need to evolve👇    @c… |
-| RT @Thomas_Harrer: #CyberSecurity #InfoSec #SecuritySecurity concerns remain prominent across all network environments, with some unique… |
-| RT @Mmontsealvarado: In a case brought by Catholics &amp; Orthodox Jews, Judge Gary Sharpe said @MayorNYC and @NYGovCuomo treated mass protests… |
+| @autobahn @invertedgeek @har00ga @AlyssaM_InfoSec Our CMO is also very hands on!!🙌💪🙏🙌 |
+| RT @CommuniGate: Pronto! Cloud is the reliable critical communications system used by national public safety organizations. Unparalleled re… |
+| @TheOnlyMike_E @ac1dgoddess @BentleyAudrey bout to be lit in here https://t.co/Di4AANS8GD |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **ahakcil** |
 | #2 Most tweeted to  | **Thomas_Harrer** |
-| #3 Most tweeted to  | **PenTestMag** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 1.8%|
+| #3 Most tweeted to  | **necrohrt** |
+| NewProfiles (less than 10 days) | 1.4%  |
+| Tweeters with < 10 followers  | 2.6%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,16 +51,16 @@ The most popular user is: **Mmontsealvarado**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **HACKING**  |
-| third  | **HERE** |
-| fourth  | **DATA**  |
+| second  | **HERE**  |
+| third  | **DATA** |
+| fourth  | **HACKING**  |
 | fifth  | **PENTEST**  |
 
 
 ## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
@@ -74,6 +74,128 @@ VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
 | #BREAKING: A federal judge in NY has ruled that Mayor Bill de Blasio and Governor Andrew Cuomo have violated the Co… https://t.co/kuWdrmAkuB |
 
 # Potential Fake Accounts
+ 
+# MJedynyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1276962022236868608/uY-vHaPX_normal.jpg)
+ 
+`User ScreenName:` MJedyny 
+ 
+`User chosen Name:` MaciekJedyny 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 27 19:29:15 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1276962022236868608/uY-vHaPX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RETROGAMING** 3 , **@ABYLIGHT:** 2 , **GAME** 2 , **DIGITALART** 2 , **PIXELART** 2 , **VINTAGEART…** 2 , **RT** 1 , **FREE** 1 , **@LOCOMALITO!** 1 , **GO** 1 , **GRAB** 1 , **COPY!** 1 , **🎮😍** 1 , **RETROGAME** 1 , **ARENASHOOTER** 1 , **RETROGAMER** 1 , **FREEGAME** 1 , **FREEGAMES** 1 , **VID…RT** 1 , **@INFOSECCOMM:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @InfoSecComm: If you write writeups and security related articles on Medium this is for you.
+
+For the next 24 hours we are accepting wri…
+ 
+# sankalp_wUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` sankalp_w 
+ 
+`User chosen Name:` Sankalp W 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 22 12:41:47 +0000 2020 
+ 
+`User Description?:` Avid Sci Fi Reader, Science Enthusiast, Futurist 
+ 
+`Followers?: `2 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 3 , **GOOD** 2 , **REFERENCE** 2 , **INFORMATION** 2 , **VULNERABILITIES** 2 , **ANDROID** 2 , **DEVICES?** 2 , **HACKERS** 2 , **INFOSEC** 2 , **LESS** 2 , **DAYS** 2 , **EITHER** 2 , **RT** 1 , **@SANKALP_W:** 1 , **CYBERCRIME…WHAT** 1 , **INFOSEC…** 1 , **HTTPS://TCO/SBZTCNKAZ3@WELLPAIDGEEK** 1 , **JAVASCRIPT** 1 , **FUTURE** 1 , **GUYS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @sankalp_w: What is a good reference for information on vulnerabilities in Android devices?
+#Hackers #cybersecurity #infosec #cybercrime…
+ 
+# EDebuggersUSER INFO
+![image](http://pbs.twimg.com/profile_images/1275132831132340226/TMhs7vVr_normal.jpg)
+ 
+`User ScreenName:` EDebuggers 
+ 
+`User chosen Name:` Ethical Debuggers 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jun 21 19:32:03 +0000 2020 
+ 
+`User Description?:` Debuggers covering infosec news,cyber security tutorials, data breaches, malware, threat analysis, ethical hacking, bugs, vulnerabilities and much more. 
+ 
+`Followers?: `3 
+ 
+`Following?:` 14 
+ 
+`User URL?:` https://t.co/i2Zl4xIAem 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1275132831132340226/TMhs7vVr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**!** 9 , **PRIVACY** 7 , **BACKDOOR** 7 , **CYBERSECURITY** 7 , **MALWARE** 6 , **HACKING** 6 , **@EDEBUGGERS:** 4 , **RATKING** 4 , **INFOSEC** 4 , **USING** 4 , **REVIL** 4 , **RANSOMWARE** 4 , **PHISHING** 3 , **CMS** 3 , **ATTACKS** 3 , **BIG** 3 , **EAT** 2 , **TROJAN** 2 , **RAT** 2 , **CREATED** 2 , 
+ 
+## What this user tweeted
+ 
+RT @EDebuggers: THIS RATKing WILL EAT UP YOUR PRIVACY !
+ #backdoor #malware #phishing #ratking #trojan #RAT #cybersecurity #infosec #hackin…THIS RATKing WILL EAT UP YOUR PRIVACY !
+ #backdoor #malware #phishing #ratking #trojan #RAT #cybersecurity #infosec… https://t.co/RR5a3LSWYJ
  
 # assellalou_USER INFO
 ![image](http://pbs.twimg.com/profile_images/1276584652577398784/6YX8q5b-_normal.jpg)
@@ -129,7 +251,7 @@ VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 `User Description?:` Jesus, Husband and father, DevOps by day, Bug Bounty @hacker0x01 and InfoSec by night. (personal @matglas86) 
  
-`Followers?: `1 
+`Followers?: `2 
  
 `Following?:` 77 
  
@@ -170,94 +292,15 @@ In the last year I have got to know a lot of good InfoSec people. Starting to di
  
 `Followers?: `1 
  
-`Following?:` 114 
+`Following?:` 116 
  
 `User URL?:` None 
  
 `Location:` Buenos Aires, Argentina 
  
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276932856191868930/wiWUxlMW_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MOBILE** 3 , **APPS** 2 , **🎶** 2 , **TOMORROW** 2 , **SECURITY** 2 , **…RT** 2 , **RT** 1 , **@IAMPUKY:** 1 , **LINDA** 1 , **CHARLA** 1 , **DEL** 1 , **AMIGO** 1 , **@JUANURSS** 1 , **EN** 1 , **@EKOPARTY** 1 , **UNIVERSITYTALKS** 1 , **PARA** 1 , **LOS** 1 , **QUE** 1 , **QUIERAN** 1 , 
- 
-## What this user tweeted
- 
-RT @AppSec_Village: Our #callforpapers #callforspeakers #callforworkshops closes in 6 days!!!  Don't procrastinate any more, send us your #…
- 
-# EDebuggersUSER INFO
-![image](http://pbs.twimg.com/profile_images/1275132831132340226/TMhs7vVr_normal.jpg)
- 
-`User ScreenName:` EDebuggers 
- 
-`User chosen Name:` Ethical Debuggers 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jun 21 19:32:03 +0000 2020 
- 
-`User Description?:` Debuggers covering infosec news,cyber security tutorials, data breaches, malware, threat analysis, ethical hacking, bugs, vulnerabilities and much more. 
- 
-`Followers?: `3 
- 
-`Following?:` 14 
- 
-`User URL?:` https://t.co/i2Zl4xIAem 
- 
-`Location:` India 
- 
-`Number of tweets extracted`  : 19 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1275132831132340226/TMhs7vVr_normal.jpg 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**!** 8 , **PRIVACY** 6 , **BACKDOOR** 6 , **CYBERSECURITY** 6 , **HACKING** 6 , **MALWARE** 5 , **USING** 4 , **REVIL** 4 , **RANSOMWARE** 4 , **@EDEBUGGERS:** 3 , **CMS** 3 , **ATTACKS** 3 , **INFOSEC** 3 , **BIG** 3 , **RATKING** 2 , **PHISHING** 2 , **CREATED** 2 , **VULNERABLE** 2 , **DDOS** 2 , **PHP** 2 , 
- 
-## What this user tweeted
- 
-THIS RATKing WILL EAT UP YOUR PRIVACY !
- #backdoor #malware #phishing #ratking #trojan #RAT #cybersecurity #infosec… https://t.co/RR5a3LSWYJ
- 
-# sankalp_wUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` sankalp_w 
- 
-`User chosen Name:` Sankalp W 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 22 12:41:47 +0000 2020 
- 
-`User Description?:` Avid Sci Fi Reader, Science Enthusiast, Futurist 
- 
-`Followers?: `2 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
 `Number of tweets extracted`  : 8 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1276932856191868930/wiWUxlMW_normal.jpg 
  
 `Number of tweets excluding replies:` 8 
  
@@ -267,12 +310,11 @@ THIS RATKing WILL EAT UP YOUR PRIVACY !
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 2 , **LESS** 2 , **DAYS** 2 , **EITHER** 2 , **GOOD** 1 , **REFERENCE** 1 , **INFORMATION** 1 , **VULNERABILITIES** 1 , **ANDROID** 1 , **DEVICES?** 1 , **HACKERS** 1 , **INFOSEC…** 1 , **HTTPS://TCO/SBZTCNKAZ3@WELLPAIDGEEK** 1 , **JAVASCRIPT** 1 , **FUTURE** 1 , **GUYS** 1 , **NODEJS** 1 , **BACKEND** 1 , **ANGULAR** 1 , **MIDDLEWARE** 1 , 
+**MOBILE** 3 , **APPS** 2 , **🎶** 2 , **TOMORROW** 2 , **SECURITY** 2 , **…RT** 2 , **RT** 1 , **@FRIDADOTRE:** 1 , **FRIDA-TOOLS** 1 , **800** 1 , **W/** 1 , **JAVA** 1 , **TRACING** 1 , **SUPPORT** 1 , **🎉** 1 , **HERE'S** 1 , **LITTLE** 1 , **TEASER:** 1 , **FRIDA-TRACE** 1 , **-U** 1 , 
  
 ## What this user tweeted
  
-What is a good reference for information on vulnerabilities in Android devices?
-#Hackers #cybersecurity #infosec… https://t.co/SBztCnkAZ3
+RT @AppSec_Village: Our #callforpapers #callforspeakers #callforworkshops closes in 6 days!!!  Don't procrastinate any more, send us your #…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
