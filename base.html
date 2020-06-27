@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <style>
 body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
-.w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
+.w3-third img{margin-bottom: -4px; opacity: 0.8; cursor: pointer}
 .w3-third img:hover{opacity: 1}
 </style>
 <body class="w3-content" style="max-width:1600px;background-color:#0b101f">
@@ -68,24 +68,29 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="TWEETS.png" style="width:100%" onclick="onClick(this)" alt="Tweet Graph">
-      <img src="twitterPostedImage.png" style="width:100%" onclick="onClick(this)" alt="Twitter posted image">
-      <img src="http://pbs.twimg.com/media/EbYvJ0JWAAcNJuo.jpg" style="width:80%" onclick="onClick(this)" alt="Random twitter image">
+      <img src="TWEETS.png" style="width:100%; border: 5px solid #00008B" onclick="onClick(this)" alt="Tweet Graph";>
+      <img src="twitterPostedImage.png" style="width:100%; border: 5px solid #00008B" onclick="onClick(this)" alt="Twitter posted image">
+      <img src="http://pbs.twimg.com/media/EbYvJ0JWAAcNJuo.jpg" style="width:100%; border: 5px solid #00008B" onclick="onClick(this)" alt="Random twitter image">
     </div>
 
     <div class="w3-third">
-      <img src="BIO.png" style="width:100%" onclick="onClick(this)" alt="Bio graph">
-      <img src="BIO.png" style="width:100%" onclick="onClick(this)" alt="Bio graph">
-      <img src="sentiment.png" style="width:100%" onclick="onClick(this)" alt="Sentiment analysis">
+      <img src="imageFile2.jpg" style="width:100%; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph">
+      <img src="BIO.png" style="width:100%; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph">
+      <img src="sentiment.png" style="width:100%; border: 5px solid #00008B" onclick="onClick(this)" alt="Sentiment analysis">
     </div>
     
-    <div class="w3-third">
-      <img src="http://pbs.twimg.com/media/Ebcm78_WoAA1rMh.jpg" style="width:50% " onclick="onClick(this)" alt="Twitter image">
-      <img src="BIO.png" style="width:100%" onclick="onClick(this)" alt="Bio graph">
-      <img src="BIO.png" style="width:100%" onclick="onClick(this)" alt="Bio graph">
+    <div class="w3-third" >
+      <img src="http://pbs.twimg.com/media/Ebcm78_WoAA1rMh.jpg" style="width:100%; max-height: 50px; border: 5px solid #00008B" onclick="onClick(this)" alt="Twitter image">
+      <img src="imageFile3.jpg" style="width:100%; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph">
+      <img src="imageFile4.jpg" style="width:100%; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph">
     </div>
     
   </div>
+
+
+
+
+
 
   <!-- Pagination -->
   <div class="w3-center w3-padding-32">
@@ -97,6 +102,10 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     </div>
   </div>
   
+  
+
+
+
   <!-- Modal for full size images on click-->
   <div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
     <span class="w3-button w3-black w3-xlarge w3-display-topright">×</span>
@@ -106,18 +115,18 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     </div>
   </div>
 
-  <center><img src="darkLogo.png" alt="darkwire"></center>
-          <center> <i>Real time social-cyber analytics</i></center><br>  
+
+
+
   <!-- About section -->
-  <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
-    <h4><b>About US</b></h4>
-    <img src="../images/coin-FTC.jpg" alt="Me" class="w3-image w3-padding-32" width="600" height="650">
+  <div class="w3-container w3-text-light-grey w3-padding-32" id="about" style="background-color:#324ea8">
+    <center><h4><b>Real time social-cyber analytics</b></h4>
+    <img src="darkLogo.png" alt="Me" class="w3-image w3-padding-32" width="600" height="650"></center>
     <div class="w3-content w3-justify" style="max-width:600px">
-      <h4>CryptoMetrics</h4>
-      <p>This page is a prototype for our main dashboard which will eventually include dynamic displays of current GBP prices, our selected coin graphs from alltime, monthly, weekly,daily and hourly. As well as some other alerting metrics. 
+      <h4>DarkWire</h4>
+      <p>Traditional & Social Media CyberSecurity related insights, including realtine news feeds, Twitter analytics and more. (In Development)
       </p>
       <p>mail: murchie85@gmail.com</p>
-      <p>mail: doubleelforbes@gmail.com</p>
       <hr class="w3-opacity">
       <h4 class="w3-padding-16">Technical Skills</h4>
       <p class="w3-wide">Overall Site Completion</p>
