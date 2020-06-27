@@ -6,7 +6,7 @@
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](http://pbs.twimg.com/media/EbbwNg2WsAAvvwK.jpg)     <img width=200/> | ![image](http://pbs.twimg.com/tweet_video_thumb/EbcJ7IlWAAAMXNM.jpg) <img width=200/> |   
+|  ![image](http://pbs.twimg.com/media/EbdhGzSWkAEBq_U.jpg)     <img width=200/> | ![image](http://pbs.twimg.com/media/EbbwNg2WsAAvvwK.jpg) <img width=200/> |   
  
  
 ![image](TWEETS.png)
@@ -30,18 +30,18 @@ The most popular user is: **wendellpotter**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SlickRockWeb: The bit[.]ly shortener sends the user to a domain called dulcegustovita[.]com that was registered that same day. The mali… |
-| RT @ptracesecurity: Instrumenting a Chess game with FЯIDA  https://t.co/ekLanZlxZO  #ReverseEngineering #Frida #Infosec https://t.co/0Z2TEP… |
-| RT @TheHackersNews: 22-year-old hacker has been sentenced to 13 months in prison for creating 'Satori' IoT botnet #malware — one of the suc… |
+| RT @necrohrt: https://t.co/1et5LULwhPCheck these out!!https://t.co/v01qLAKPIx Cool python Tricks!!👩‍💻👨‍💻🌐🌀✨🐍#pentest#Website#ter… |
+| RT @dwisiswant0: Find sensitive information disclosure with gf by this patterns.https://t.co/f8NuKOYtmICredits goes to @TomNomNom for hi… |
+| Credit card skimmers are now being buried in image file metadata on e-commerce websites Magecart attackers are susp… https://t.co/JhWU4T92dJ |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **AlyssaM_InfoSec** |
-| #2 Most tweeted to  | **TheHackersNews** |
-| #3 Most tweeted to  | **rrcyrus** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 1.94%|
+| #2 Most tweeted to  | **ian_infosec** |
+| #3 Most tweeted to  | **TheHackersNews** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 2.22%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -53,20 +53,20 @@ The most popular user is: **wendellpotter**
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
 | second  | **MALWARE**  |
-| third  | **IOT** |
-| fourth  | **HACKER**  |
-| fifth  | **HACKING**  |
+| third  | **HACKING** |
+| fourth  | **HACKERS**  |
+| fifth  | **IOT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @rbertkiss17: #13 &gt;&gt; Previous today coding tweet continuation...@VisualStudio#freeCodeCamp #100DaysOfCode #system #code #coding #cod… |
+|RT @Shirastweet: Understanding the importance of #diversity in the workplace🛑Full episode here 👇👇👇https://t.co/946zPwHTeA#business #ai #… |
 
 ### MOST RETWEETED 
 
@@ -75,6 +75,259 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
 | Amid America's #COVID19 disaster, I must come clean about a lie I spread as a health insurance exec: We spent big $… https://t.co/iFi0dY6NaS |
 
 # Potential Fake Accounts
+ 
+# HackeyeSecurityUSER INFO
+![image](http://pbs.twimg.com/profile_images/1274805919302459393/KVF_FSWn_normal.jpg)
+ 
+`User ScreenName:` HackeyeSecurity 
+ 
+`User chosen Name:` Cyber Security 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 18 09:31:01 +0000 2020 
+ 
+`User Description?:` Security should be our first priority 💫
+Cyber News 🌐
+Cyber Tips & Facts 🤯
+Certification concepts 🥇
+Keep yourself updated 👑
+#Cybersecurity #Cybernews 
+ 
+`Followers?: `6 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1274805919302459393/KVF_FSWn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COMPUTER** 2 , **CREATED** 2 , **CYBERNEWS** 2 , **WORD** 2 , **LEAK** 2 , **T…** 2 , **VULNERABILITY** 2 , **DAY** 1 , **CELEBRATES** 1 , **CAPS** 1 , **LOCK** 1 , **KEYBOARD** 1 , **DEREK** 1 , **ARNOLD** 1 , **2000** 1 , **CAPSLOCKDAY…** 1 , **HTTPS://TCO/BDBJSMI2UFWHATSAPP** 1 , **USING** 1 , **RARE** 1 , **PROGRAMMING** 1 , 
+ 
+## What this user tweeted
+ 
+The day celebrates the Caps Lock on a #computer keyboard and was created by Derek Arnold in 2000.
+
+#capslockday… https://t.co/bDbJsMI2uF#WhatsApp was created using a rare Programming Language called #ERLANG and C++ along with php. The chat bot is crea… https://t.co/gTSAh93yt5
+ 
+# m_lahierreUSER INFO
+![image](http://pbs.twimg.com/profile_images/1274238126009933825/NmxbHpZZ_normal.jpg)
+ 
+`User ScreenName:` m_lahierre 
+ 
+`User chosen Name:` Mathieu LAHIERRE | CISM,CISA,CRISC,CDPSE, CBSP 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 20 06:56:20 +0000 2020 
+ 
+`User Description?:` Principal Data Security @BHP #datasecurity #dataprotection #insiderthreat #dataloss #speaker #AI #blockchain #cybersecurity #databreach @mathieulahierre 
+ 
+`Followers?: `994 
+ 
+`Following?:` 1119 
+ 
+`User URL?:` https://t.co/DSIrGDYRm4 
+ 
+`Location:` Singapore 
+ 
+`Number of tweets extracted`  : 140 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1274238126009933825/NmxbHpZZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 140 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 79 , **CYBERRISK** 39 , **INSIDERTHREAT** 28 , **DATA** 25 , **INFOSEC…** 23 , **INFOSEC** 22 , **SECURITY** 21 , **CYBERDATABREACH** 17 , **INSIDERTHREAT…** 14 , **DATABREACH** 12 , **DATABREACH…** 10 , **CYBER** 9 , **@INFOSEC_TAYLOR** 9 , **CYBERDATABREACH…** 8 , **COMPANIES** 8 , **GDPR** 7 , **AI** 7 , **COVID19** 6 , **PRIVACY** 6 , **CYBERATTACKS** 5 , 
+ 
+## What this user tweeted
+ 
+Shocking tech theft #CyberRisk #cybersecurity #infosec #insiderthreat #databreach #dataprotection #datasecurity… https://t.co/rNGDc9sjMFAtos to acquire Managed Detection and Response Leader Paladion #CyberRisk #cybersecurity #infosec #insiderthreat… https://t.co/HleE6cjkcT
+ 
+# _askniicodeUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` _askniicode 
+ 
+`User chosen Name:` niicodeBot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 20 18:14:54 +0000 2020 
+ 
+`User Description?:` Just a bot. I retweet content related to tech and web development @kdarkulive created me 
+ 
+`Followers?: `23 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 701 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WEBDEVELOPMENT** 39 , **JAVASCRIPT** 36 , **100DAYSOFCODE** 31 , **DEVELOPER** 26 , **WEB** 25 , **@BYLILYV:** 25 , **COURSES** 24 , **REACT** 21 , **WORDPRESS** 20 , **CODING** 19 , **UDEMY** 17 , **BUILD** 17 , **WEBDESIGN** 17 , **WEBDEVELOPER** 16 , **LEARN** 16 , **@RONLIOFFICIAL:** 15 , **PROGRAMMING** 15 , **FREE** 15 , **FEATURED** 15 , **COMPLETE** 13 , 
+ 
+## What this user tweeted
+ 
+RT @UnitedsoftO: We've got big news! We will release in August our product Unitedsoft Myra Studio! And in July the Summer Update for United…
+ 
+# Maelstr0mXUSER INFO
+![image](http://pbs.twimg.com/profile_images/1276529035691032581/tme3CQpc_normal.jpg)
+ 
+`User ScreenName:` Maelstr0mX 
+ 
+`User chosen Name:` Maelstr0m 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jun 26 13:31:14 +0000 2020 
+ 
+`User Description?:` Nothing but a ghost amidst the fog. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 60 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1276529035691032581/tme3CQpc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@J_OPDENAKKER:** 1 , **EVEN** 1 , **DDOS** 1 , **BRO?** 1 , **MASSIVE** 1 , **ONE!!** 1 , **809** 1 , **MILLION** 1 , **PACKETS** 1 , **PER** 1 , **SECOND** 1 , **THAN** 1 , **DOUBLE** 1 , **BIGGEST** 1 , **PREVI…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @j_opdenakker: Do you even DDoS bro?
+
+This is a massive one!! 
+
+809 million packets per second more than double of the biggest one previ…
+ 
+# DevelopOneillUSER INFO
+![image](http://pbs.twimg.com/profile_images/1275537847257198592/_Ww4NHdV_normal.jpg)
+ 
+`User ScreenName:` DevelopOneill 
+ 
+`User chosen Name:` develop.oneill 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 23 20:00:42 +0000 2020 
+ 
+`User Description?:` Hello, I was created by @oseh87 to retweet anything that has  #blacktechtwitter 
+ 
+`Followers?: `3 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 106 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1275537847257198592/_Ww4NHdV_normal.jpg 
+ 
+`Number of tweets excluding replies:` 106 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BLACKTECHTWITTER** 33 , **TECH** 10 , **100DAYSOFCODE** 8 , **DAY** 8 , **BLACK** 8 , **ANY** 8 , **SOME** 7 , **JOIN** 7 , **BLACKTECHTWITTERRT** 7 , **LOOKING** 6 , **I'M** 6 , **VIA** 6 , **PROJECT** 5 , **I’M** 5 , **LEARNING** 5 , **CODE** 5 , **COMPLETED** 5 , **NEW** 5 , **STUCK** 4 , **BIT** 4 , 
+ 
+## What this user tweeted
+ 
+RT @find_evil: FEMA has a new CISO.
+
+Congratulations Dr. Sutherland on your promotion to SES! 🍾 🥂 
+
+#Infosec
+#InclusiveInfosec
+#BlackTechTw…
+ 
+# trbughuntersUSER INFO
+![image](http://pbs.twimg.com/profile_images/1276616909752942593/JCFCUQbc_normal.jpg)
+ 
+`User ScreenName:` trbughunters 
+ 
+`User chosen Name:` TR Bug Hunters 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jun 26 20:15:12 +0000 2020 
+ 
+`User Description?:` Turkish Bug Hunters' Community 
+ 
+`Followers?: `23 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1276616909752942593/JCFCUQbc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIME** 2 , **@H1_YUSUF** 1 , **COMMUNITY** 1 , **WROTE** 1 , **WRITE-UP** 1 , **ADMIN** 1 , **DISCLOSE** 1 , **BUG!** 1 , **HTTPS://TCO/U6N7VRSCDN…** 1 , **HTTPS://TCO/5TG5XNICFAFINALLY** 1 , **TWITTER** 1 , **RECRUIT** 1 , **NEW** 1 , **MEMBERS** 1 , **GROUP** 1 , **DON'T** 1 , **FORGET** 1 , **FOLLOW** 1 , **US!…** 1 , **HTTPS://TCO/RWOXNQ9LVD** 1 , 
+ 
+## What this user tweeted
+ 
+@h1_yusuf from our community, wrote a write-up about the admin disclose bug!
+
+https://t.co/U6n7VRsCdn… https://t.co/5tg5xnICfAFinally, we are on Twitter. From time to time, we will recruit new members to our group. Don't forget to follow us!… https://t.co/RwOxnQ9LvD
  
 # ImmaMoooooUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
@@ -153,84 +406,6 @@ RT @TheHackersNews: U.S government has filed a superseding indictment against #W
 ## What this user tweeted
  
 RT @ceos3c: I went ahead and visualized The Bug Hunter Methodology v4 by the legend @Jhaddix the best I could. All credit obviously goes to…
- 
-# m_lahierreUSER INFO
-![image](http://pbs.twimg.com/profile_images/1274238126009933825/NmxbHpZZ_normal.jpg)
- 
-`User ScreenName:` m_lahierre 
- 
-`User chosen Name:` Mathieu LAHIERRE | CISM,CISA,CRISC,CDPSE, CBSP 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jun 20 06:56:20 +0000 2020 
- 
-`User Description?:` Principal Data Security @BHP #datasecurity #dataprotection #insiderthreat #dataloss #speaker #AI #blockchain #cybersecurity #databreach @mathieulahierre 
- 
-`Followers?: `998 
- 
-`Following?:` 1119 
- 
-`User URL?:` https://t.co/DSIrGDYRm4 
- 
-`Location:` Singapore 
- 
-`Number of tweets extracted`  : 135 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1274238126009933825/NmxbHpZZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 135 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 74 , **CYBERRISK** 36 , **INSIDERTHREAT** 25 , **DATA** 24 , **INFOSEC…** 22 , **SECURITY** 20 , **INFOSEC** 19 , **CYBERDATABREACH** 17 , **INSIDERTHREAT…** 13 , **DATABREACH** 10 , **DATABREACH…** 9 , **@INFOSEC_TAYLOR** 9 , **COMPANIES** 8 , **CYBER** 8 , **GDPR** 7 , **CYBERDATABREACH…** 7 , **AI** 7 , **COVID19** 6 , **PRIVACY** 6 , **ITS** 5 , 
- 
-## What this user tweeted
- 
-Atos to acquire Managed Detection and Response Leader Paladion #CyberRisk #cybersecurity #infosec #insiderthreat… https://t.co/HleE6cjkcTCybersecurity investment boosted by remote working in Q1 2020, but cuts expected #CyberRisk #cybersecurity #infosec… https://t.co/eUeTus2MON
- 
-# trbughuntersUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276616909752942593/JCFCUQbc_normal.jpg)
- 
-`User ScreenName:` trbughunters 
- 
-`User chosen Name:` TR Bug Hunters 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jun 26 20:15:12 +0000 2020 
- 
-`User Description?:` Turkish Bug Hunters' Community 
- 
-`Followers?: `10 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276616909752942593/JCFCUQbc_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TIME** 2 , **FINALLY** 1 , **TWITTER** 1 , **RECRUIT** 1 , **NEW** 1 , **MEMBERS** 1 , **GROUP** 1 , **DON'T** 1 , **FORGET** 1 , **FOLLOW** 1 , **US!…** 1 , **HTTPS://TCO/RWOXNQ9LVD** 1 , 
- 
-## What this user tweeted
- 
-Finally, we are on Twitter. From time to time, we will recruit new members to our group. Don't forget to follow us!… https://t.co/RwOxnQ9LvD
  
 # MBA_Daniel21USER INFO
 ![image](http://pbs.twimg.com/profile_images/1275868483272785928/kuyeBiQx_normal.jpg)
@@ -325,7 +500,7 @@ RT @CrowdStrike: What is a zero-day exploit? Learn about zero-day attack vectors
  
 `Followers?: `19 
  
-`Following?:` 81 
+`Following?:` 84 
  
 `User URL?:` None 
  
@@ -375,11 +550,11 @@ You will never know who I am...
  
 `Location:`  
  
-`Number of tweets extracted`  : 54 
+`Number of tweets extracted`  : 63 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1275954455293370368/fGqzqKKw_normal.jpg 
  
-`Number of tweets excluding replies:` 54 
+`Number of tweets excluding replies:` 63 
  
 
  
@@ -387,7 +562,7 @@ You will never know who I am...
  
 ## User Top tweeted words 
  
-**CLEARLY** 5 , **DON'T** 5 , **TWITTER** 5 , **THEN** 5 , **EVEN** 4 , **PEOPLE** 4 , **THING** 3 , **THESE** 3 , **TIME** 3 , **FOLLOW** 3 , **MIGHT** 3 , **I'M** 3 , **I'VE** 2 , **PERSONALLY** 2 , **SYSTEMS** 2 , **ACCOUNT** 2 , **HE'S** 2 , **LOOKS** 2 , **SAY** 2 , **REAL** 2 , 
+**CLEARLY** 5 , **DON'T** 5 , **TWITTER** 5 , **THEN** 5 , **ACCOUNT** 4 , **I'M** 4 , **NOBODY** 4 , **EVEN** 4 , **PEOPLE** 4 , **ANYTHING** 3 , **REAL** 3 , **BEING** 3 , **HONESTLY** 3 , **ANY** 3 , **EVERYTHING** 3 , **THING** 3 , **THESE** 3 , **TIME** 3 , **FOLLOW** 3 , **MIGHT** 3 , 
  
 ## What this user tweeted
  
@@ -396,7 +571,7 @@ I just got Domain Admin 🥳
 -Requested though an IAM solution
 -With managers approval
 -On a service account
--In a te… https://t.co/EYrrg6TP5VMost of my #Infosec efforts these days are decommissioning systems and removing available capabilities for my organ… https://t.co/cyLLgM3I6D
+-In a te… https://t.co/EYrrg6TP5V
  
 # Aj41119874USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
@@ -451,21 +626,22 @@ RT @TheHackersNews: 22-year-old hacker has been sentenced to 13 months in prison
 `User Description?:` cybersecurity enthusiast |
 pen tester |
 programmer |
-developer 
+developer |
+techy 
  
-`Followers?: `2 
+`Followers?: `3 
  
-`Following?:` 183 
+`Following?:` 196 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 13 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1276558317104410625/re4X3-dr_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 13 
  
 
  
@@ -473,7 +649,7 @@ developer
  
 ## User Top tweeted words 
  
-**2K20'S** 1 , **RANSOMWARE** 1 , **WEEK** 1 , **HTTPS://TCO/MDKPNDORPSNEW** 1 , **HIGH-END** 1 , **LINUX** 1 , **LAPTOP:** 1 , **SYSTEM76'S** 1 , **ORYX** 1 , **PRO** 1 , **PACKS** 1 , **LATEST** 1 , **INTEL** 1 , **CORE** 1 , **I7** 1 , **H-SERIES** 1 , **CPU** 1 , **HTTPS://TCO/IRDW0FUVFCRT** 1 , **@PRY0CC:** 1 , **NOBODY** 1 , 
+**MALWARE** 3 , **NEW** 2 , **SECURITY** 2 , **APPLE** 2 , **WINDOWS** 2 , **PEOPLE** 2 , **PRIVACY** 2 , **ATTACKS** 2 , **ANDROID** 1 , **11’S** 1 , **GAME-CHANGING** 1 , **UPDATE:** 1 , **NEED** 1 , **ANDROID11** 1 , **APPPERMISSIONS…** 1 , **HTTPS://TCO/94PFSWK1HOARM-BASED** 1 , **MACS** 1 , **WON'T** 1 , **SUPPORT** 1 , **BOOT** 1 , 
  
 ## What this user tweeted
  
@@ -494,17 +670,17 @@ RT @TheHackersNews: 22-year-old hacker has been sentenced to 13 months in prison
  
 `Followers?: `2 
  
-`Following?:` 15 
+`Following?:` 16 
  
 `User URL?:` None 
  
 `Location:` Ranchi, India 
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 3 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1275957058240540673/BHHJWH3u_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -512,7 +688,7 @@ RT @TheHackersNews: 22-year-old hacker has been sentenced to 13 months in prison
  
 ## User Top tweeted words 
  
-**RT** 1 , **@CYBER:** 1 , **MILLIONS** 1 , **AMERICANS** 1 , **FALL** 1 , **VICTIM** 1 , **PHISHING** 1 , **ATTACKS** 1 , **YEAR** 1 , **FEW** 1 , **MINUTES** 1 , **LEARN** 1 , **PROTECT** 1 , **YOURSEL…@SUNDARPICHAI** 1 , **@GOOGLEPHOTOS** 1 , **WOW** 1 , **AMAZING!!** 1 , 
+**RT** 1 , **@THESECRET:** 1 , **REMEMBER** 1 , **WHATEVER** 1 , **YOU'RE** 1 , **GRATEFUL** 1 , **MULTIPLIES** 1 , **GRATITUDE** 1 , **GREAT** 1 , **MULTIPLIER!RT** 1 , **@CYBER:** 1 , **MILLIONS** 1 , **AMERICANS** 1 , **FALL** 1 , **VICTIM** 1 , **PHISHING** 1 , **ATTACKS** 1 , **YEAR** 1 , **FEW** 1 , **MINUTES** 1 , 
  
 ## What this user tweeted
  
@@ -531,9 +707,9 @@ RT @cyber: Millions of Americans fall victim to phishing attacks every year. Tak
  
 `User Description?:` RT ( 📽 Conference  •  🛡 CyberSecurity  •  🌐 Tech ) 
  
-`Followers?: `51 
+`Followers?: `53 
  
-`Following?:` 684 
+`Following?:` 687 
  
 `User URL?:` None 
  
@@ -543,7 +719,7 @@ RT @cyber: Millions of Americans fall victim to phishing attacks every year. Tak
  
 `Profile image:` http://pbs.twimg.com/profile_images/1275646927619620864/vFr_ZaxD_normal.jpg 
  
-`Number of tweets excluding replies:` 467 
+`Number of tweets excluding replies:` 476 
  
 
  
@@ -551,7 +727,7 @@ RT @cyber: Millions of Americans fall victim to phishing attacks every year. Tak
  
 ## User Top tweeted words 
  
-**DE** 155 , **EN** 76 , **LA** 66 , **Y** 43 , **EL** 42 , **CON** 31 , **@DOJOCONFPA:** 29 , **PARA** 26 , **QUE** 22 , **CIBERSEGURIDAD** 21 , **LAS** 19 , **DEL** 13 , **ES** 13 , **UN** 12 , **UNA** 12 , **PONENTES** 12 , **NUESTROS** 12 , **E** 10 , **YA** 10 , **LOS** 10 , 
+**DE** 163 , **EN** 77 , **LA** 66 , **EL** 45 , **Y** 44 , **CON** 29 , **@DOJOCONFPA:** 27 , **PARA** 24 , **QUE** 22 , **CIBERSEGURIDAD** 21 , **LAS** 18 , **PONENTES** 14 , **ES** 13 , **LOS** 13 , **DEL** 13 , **SECURITY** 12 , **UN** 12 , **NUESTROS** 12 , **UNA** 11 , **YA** 10 , 
  
 ## What this user tweeted
  
@@ -609,7 +785,7 @@ RT @TheHackersNews: 22-year-old hacker has been sentenced to 13 months in prison
  
 `User Description?:` Hii, I am Occlude a proud AI, but this time Occlude labs made BOT version.  @occludejs 
  
-`Followers?: `19 
+`Followers?: `18 
  
 `Following?:` 0 
  
@@ -621,7 +797,7 @@ RT @TheHackersNews: 22-year-old hacker has been sentenced to 13 months in prison
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 910 
+`Number of tweets excluding replies:` 912 
  
 
  
@@ -629,58 +805,11 @@ RT @TheHackersNews: 22-year-old hacker has been sentenced to 13 months in prison
  
 ## User Top tweeted words 
  
-**100DAYSOFCODE** 77 , **DAY** 38 , **JAVASCRIPT** 28 , **PYTHON** 18 , **LEARNING** 17 , **CODE** 16 , **CSS** 14 , **LEARN** 13 , **…RT** 13 , **100DAYSOFCODERT** 12 , **BIGDATA** 12 , **CODING** 11 , **CODENEWBIE** 11 , **PROGRAMMING** 11 , **USING** 10 , **AI** 10 , **I'M** 10 , **COURSE** 9 , **ANALYTICS** 9 , **NEW** 9 , 
+**100DAYSOFCODE** 78 , **DAY** 36 , **JAVASCRIPT** 29 , **CODE** 17 , **PYTHON** 17 , **LEARNING** 16 , **CSS** 14 , **LEARN** 13 , **…RT** 13 , **PROGRAMMING** 12 , **100DAYSOFCODERT** 12 , **CODING** 11 , **BIGDATA** 11 , **CODENEWBIE** 11 , **USING** 10 , **I'M** 10 , **APP** 9 , **COURSE** 9 , **AI** 9 , **NEW** 9 , 
  
 ## What this user tweeted
  
 RT @CDWGWAGov: How to Make the Case for Cybersecurity #DBMS #javascript #html #Python #bootstrap #security #codingwithjoy #kali #programmin…
- 
-# HackeyeSecurityUSER INFO
-![image](http://pbs.twimg.com/profile_images/1274805919302459393/KVF_FSWn_normal.jpg)
- 
-`User ScreenName:` HackeyeSecurity 
- 
-`User chosen Name:` Cyber Security 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jun 18 09:31:01 +0000 2020 
- 
-`User Description?:` Security should be our first priority 💫
-Cyber News 🌐
-Cyber Tips & Facts 🤯
-Certification concepts 🥇
-Keep yourself updated 👑
-#Cybersecurity #Cybernews 
- 
-`Followers?: `6 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1274805919302459393/KVF_FSWn_normal.jpg 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERNEWS** 2 , **ATTACK** 2 , **SURPRISE** 2 , **MASSIVE** 2 , **UNPLANNED** 2 , **SHIFT** 2 , **GLOBAL** 2 , **WORKFORCE** 2 , **SUDDENLY** 2 , **BEING** 2 , **RELIANT** 2 , **HOME** 2 , **WORD** 2 , **LEAK** 2 , **TYPES** 2 , **T…** 2 , **VULNERABILITY** 2 , **ENCRYPTION** 2 , **TODAY'S** 1 , **BIGGEST-EVER** 1 , 
- 
-## What this user tweeted
- 
-Today's #CyberNews
-Biggest-Ever packets-per-secind #DDoS #attack hits large European Bank
-
-#CyberSecurity #infosec… https://t.co/mXBknGbST7
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
