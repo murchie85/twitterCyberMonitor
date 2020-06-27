@@ -30,9 +30,9 @@ The most popular user is: **YourAnonCentral**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @evanderburg: 3 ways #ransomware will evolve in 2018 https://t.co/JC47ixXuI9 @Carbonite #cybersecurity |
-| RT @abu7ala1: Friday Squid Blogging: Fishing for Jumbo Squid - Schneier on Security#CyberSecurity #CyberAttack #TechNews #Hacker #cybercr… |
-| RT @Hazloe3: Strategy is 5 percent thinking, 95 percent execution. And strategy execution is 5 percent technical, 95 percent people-related… |
+| RT @secnight: Update !  Cabify #Hardware #hacking (too) We will upload curiosities of this type that is #infosec 4 #everyone  https://t.co/… |
+| RT @cybersec2030: Lucifer Malware Emerges As New Threat To #Windows Devices.#CyberSecurity #Malwarehttps://t.co/bFXFqxbdQE |
+| RT @TobiunddasMoe: I altered the output format of @TomNomNom great kxss tool to make it better grepable 😉😎https://t.co/RRz8KL6vvi#hacke… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,8 +40,8 @@ The most popular user is: **YourAnonCentral**
 | #1 Most tweeted to  | **abu7ala1** |
 | #2 Most tweeted to  | **CiscoIoT** |
 | #3 Most tweeted to  | **antgrasso** |
-| NewProfiles (less than 10 days) | 0.57%  |
-| Tweeters with < 10 followers  | 2.39%|
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 2.43%|
 | Tweeters with > 1000000 followers  | 0.01%  |
 
 
@@ -52,21 +52,21 @@ The most popular user is: **YourAnonCentral**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **DATA**  |
-| third  | **IOT** |
+| second  | **IOT**  |
+| third  | **DATA** |
 | fourth  | **INDUSTRIAL**  |
-| fifth  | **US**  |
+| fifth  | **CYBERATTACK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (30.0%) **OBJECTIVE** (50.0%)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JMonteagudoE: I am proud to announce that the Cybersecurity Observatory APAC – Second Edition goes live on July 15th!You can visit the… |
+|RT @ThomasMaurer: Looking to become Microsoft Azure Certified? Check out: my AZ-500 Microsoft Azure Security Technologies 2020 Exam Study G… |
 
 ### MOST RETWEETED 
 
@@ -75,6 +75,169 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (30.0%) **OBJEC
 | #Anonymous is hitting the U.S. government from all vectors right now. Police departments nationwide are monitoring… https://t.co/4OutqWF8ML |
 
 # Potential Fake Accounts
+ 
+# Eddibrooke1USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Eddibrooke1 
+ 
+`User chosen Name:` Eddibrooke 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 22 06:28:35 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 55 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 55 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GOGCOM:** 12 , **@INDIEGALA:** 12 , **FREE** 8 , **GAMES** 8 , **@HUMBLE:** 6 , **@GREENMANGAMING:** 5 , **GAME** 5 , **SUMMER** 4 , **THINGS** 4 , **DON'T** 4 , **SOME** 4 , **CHECK** 3 , **CYBERPUNK2077** 3 , **@GOGCOMTWITCH:** 3 , **@IGBUNDLES:** 3 , **GRAB** 3 , **DUNGEONS** 3 , **TIME** 3 , **WEEKEND** 3 , **SAVE** 3 , 
+ 
+## What this user tweeted
+ 
+RT @humble: Secure your stuff with a bundle of ebooks like Securing Office 365, Practical Cyber Forensics, Personal Cybersecurity, &amp; more.…
+ 
+# mrkmetyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1274713909279285250/JfGNSBHS_normal.jpg)
+ 
+`User ScreenName:` mrkmety 
+ 
+`User chosen Name:` Matt Kmety 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jun 21 03:12:42 +0000 2020 
+ 
+`User Description?:` Cloud Security & Data Protection @Boeing | Data Privacy Advocate | CISSP | CISM | Loves to pass knowledge on to others 
+ 
+`Followers?: `8 
+ 
+`Following?:` 78 
+ 
+`User URL?:` https://t.co/8cbsstjV1x 
+ 
+`Location:` Chicago, IL 
+ 
+`Number of tweets extracted`  : 43 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1274713909279285250/JfGNSBHS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 43 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 5 , **SOME** 5 , **PRIVACY** 5 , **MFA** 4 , **REALLY** 3 , **CYBER** 3 , **CHECK** 3 , **HELP** 3 , **SECURE** 3 , **DATA** 3 , **SURE** 3 , **VERY** 2 , **USEFUL** 2 , **WIRESHARK** 2 , **TIME** 2 , **VIRTUAL** 2 , **SUMMIT** 2 , **GUIDE** 2 , **HOMELAB** 2 , **DIFFERENT** 2 , 
+ 
+## What this user tweeted
+ 
+Very useful Wireshark cheat sheet from Comparitech. #wireshark #CyberSecurity https://t.co/enHwQOlZHu
+ 
+# JulennysCastil1USER INFO
+![image](http://pbs.twimg.com/profile_images/1275546164759269382/8gj63CD7_normal.jpg)
+ 
+`User ScreenName:` JulennysCastil1 
+ 
+`User chosen Name:` Julennys Castillo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 23 21:47:35 +0000 2020 
+ 
+`User Description?:` Soy licenciada en física, apasionada por la ciencia, la tecnología y la innovación. Aprendiz en el área de la Ciencia de Datos. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 72 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1275546164759269382/8gj63CD7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MRDATASCIENCE:** 2 , **MOBILE** 2 , **LA** 2 , **DE** 2 , **EN** 2 , **LO** 2 , **RT** 1 , **“DATA** 1 , **SCIENTISTS** 1 , **KIND** 1 , **NEW** 1 , **RENAISSANCE** 1 , **FOLKS** 1 , **DATASCIENCE** 1 , **INHERENTLY** 1 , **MULTIDISCIPLINARY”** 1 , **―JOH…RT** 1 , **15** 1 , **TECHNOLOGIES** 1 , **NEXT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @MrDataScience: 15 technologies of the next decade:
+1 #AI
+2 #IoT
+3 #blockchain
+4 #3Dprint
+5 mobile
+6 autonomous cars
+7 mobile internet…
+ 
+# YusriKhoriyah2USER INFO
+![image](http://pbs.twimg.com/profile_images/1276890398917455872/tOmMhC4D_normal.jpg)
+ 
+`User ScreenName:` YusriKhoriyah2 
+ 
+`User chosen Name:` Yusri Khoriyah 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 27 14:48:28 +0000 2020 
+ 
+`User Description?:` mr. merriage 
+ 
+`Followers?: `0 
+ 
+`Following?:` 114 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1276890398917455872/tOmMhC4D_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**POWER** 2 , **INDUSTRIAL** 2 , **RT** 1 , **@IIOT_REPORT:** 1 , **ALTERNATIVE** 1 , **SENSOR** 1 , **SOLUTIONS:** 1 , **PRINTED** 1 , **NEXT?** 1 , **&GT;&GT;** 1 , **HTTPS://TCO/YCYJICMMKQ** 1 , **@IOTFORALL** 1 , **INDUSTRY40** 1 , **IOT** 1 , **IIOT…RT** 1 , **@CISCOIOT:** 1 , **SECURITY** 1 , **TEAMS** 1 , **NEED** 1 , **VISIBILITY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CiscoIoT: Security teams need visibility into their industrial assets &amp; industrial processes. So what is the missing puzzle piece that…
  
 # HackeyeSecurityUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1274805919302459393/KVF_FSWn_normal.jpg)
@@ -178,7 +341,7 @@ RT @cyberpeacecorps: ⚠️#FraudAlert  I Scammers are now using EMI moratorium 
  
 `User Description?:` Principal Data Security @BHP #datasecurity #dataprotection #insiderthreat #dataloss #speaker #AI #blockchain #cybersecurity #databreach @mathieulahierre 
  
-`Followers?: `1014 
+`Followers?: `1013 
  
 `Following?:` 1266 
  
@@ -469,7 +632,7 @@ RT @Kurdcoin: A hacker group has stolen $200 million in cryptocurrency from 5 ex
  
 `User Description?:` Here for Th3 Gr3at Awak3ning. Backup account. We are thrashing them, keep up the great work Dlgltal Soldlers! 
  
-`Followers?: `42 
+`Followers?: `45 
  
 `Following?:` 270 
  
@@ -573,9 +736,7 @@ What are some ideal entry level tech/IT positions or internships for students to
  
 🕵️ Top 25 XSS Dorks according to OpenBugBounty 🧙‍♂️
 
-#bugbountytips #bugbountytip #bugbounty #cybersecurity… https://t.co/rEQp6uMxHJ@h1_yusuf from our community, wrote a write-up about the admin disclose bug!
-
-https://t.co/U6n7VRsCdn… https://t.co/5tg5xnICfA
+#bugbountytips #bugbountytip #bugbounty #cybersecurity… https://t.co/rEQp6uMxHJ
  
 # Subtlet05859126USER INFO
 ![image](http://pbs.twimg.com/profile_images/1275671956059295744/O7IWgK-2_normal.jpg)
@@ -590,9 +751,9 @@ https://t.co/U6n7VRsCdn… https://t.co/5tg5xnICfA
  
 `User Description?:` -𝕾𝖚𝖇𝖙𝖑𝖊𝖙𝖞 𝖎𝖓 𝖞𝖔𝖚𝖗 𝖒𝖔𝖙𝖎𝖔𝖓𝖘, 𝖙𝖗𝖚𝖙𝖍 𝖎𝖓 𝖞𝖔𝖚𝖗 𝖜𝖔𝖗𝖉𝖘, 𝖍𝖚𝖒𝖎𝖑𝖎𝖙𝖞 𝖎𝖓 𝖞𝖔𝖚𝖗 𝖆𝖈𝖙𝖎𝖔𝖓𝖘 𝖆𝖓𝖉 𝖐𝖎𝖓𝖉𝖓𝖊𝖘𝖘. 
  
-`Followers?: `949 
+`Followers?: `948 
  
-`Following?:` 1264 
+`Following?:` 1265 
  
 `User URL?:` https://t.co/FlUGcO9Zh6 
  
@@ -602,7 +763,7 @@ https://t.co/U6n7VRsCdn… https://t.co/5tg5xnICfA
  
 `Profile image:` http://pbs.twimg.com/profile_images/1275671956059295744/O7IWgK-2_normal.jpg 
  
-`Number of tweets excluding replies:` 749 
+`Number of tweets excluding replies:` 748 
  
 
  
@@ -876,7 +1037,7 @@ RT @CiscoIoT: Security teams need visibility into their industrial assets &amp; 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1274683568334286850/xV3MIKsK_normal.jpg 
  
-`Number of tweets excluding replies:` 363 
+`Number of tweets excluding replies:` 369 
  
 
  
@@ -884,7 +1045,7 @@ RT @CiscoIoT: Security teams need visibility into their industrial assets &amp; 
  
 ## User Top tweeted words 
  
-**@PGATOUR:** 31 , **QUICKHITS** 20 , **🐦** 13 , **@REALDONALDTRUMP:** 12 , **YEARS** 12 , **US** 11 , **@REUTERS:** 10 , **LEAD** 8 , **UN** 8 , **PEOPLE** 8 , **TRUMP** 8 , **@USARMYCENTRAL:** 7 , **LABOUR** 7 , **@DJOHNSONPGA** 6 , **ACTION** 6 , **NEW** 6 , **DAY** 6 , **NORWAY** 6 , **PRESIDENT** 6 , **@WHITEHOUSE:** 6 , 
+**@PGATOUR:** 36 , **QUICKHITS** 23 , **🐦** 13 , **YEARS** 12 , **LEAD** 10 , **US** 10 , **@REUTERS:** 10 , **@REALDONALDTRUMP:** 9 , **@DJOHNSONPGA** 8 , **UN** 8 , **PEOPLE** 8 , **TRUMP** 8 , **NORWAY** 7 , **LABOUR** 7 , **@USARMYCENTRAL:** 6 , **ACTION** 6 , **NEW** 6 , **DAY** 6 , **PRESIDENT** 6 , **@WHITEHOUSE:** 6 , 
  
 ## What this user tweeted
  
@@ -1029,17 +1190,17 @@ Baby you must be Google Glasses, B'coz you augment my reality
  
 `Followers?: `10 
  
-`Following?:` 18 
+`Following?:` 21 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 34 
+`Number of tweets extracted`  : 37 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1276127399877492741/EEKCKxhM_normal.jpg 
  
-`Number of tweets excluding replies:` 34 
+`Number of tweets excluding replies:` 37 
  
 
  
@@ -1047,7 +1208,7 @@ Baby you must be Google Glasses, B'coz you augment my reality
  
 ## User Top tweeted words 
  
-**@TURDEYROOSEVEL** 2 , **SUCH** 2 , **BEING** 2 , **DOES** 2 , **CONVICTED** 2 , **FELONS** 2 , **PLAY** 2 , **TV** 2 , **POOR** 2 , **FOLKS** 2 , **SHOW** 2 , **APU** 2 , **SKIN** 2 , **CURRENT** 2 , **WRONG** 2 , **PEOPLE** 2 , **JELLY** 1 , **:(@SCULLYB6** 1 , **WONDER** 1 , **EXCERCISE** 1 , 
+**DOES** 3 , **GREAT** 2 , **LONG** 2 , **SUCH** 2 , **BEING** 2 , **CONVICTED** 2 , **FELONS** 2 , **PLAY** 2 , **TV** 2 , **POOR** 2 , **FOLKS** 2 , **SHOW** 2 , **APU** 2 , **SKIN** 2 , **CURRENT** 2 , **WRONG** 2 , **PEOPLE** 2 , **HAVEN’T** 1 , **HEARD** 1 , **THIS:** 1 , 
  
 ## What this user tweeted
  
@@ -1208,45 +1369,6 @@ RT @CiscoIoT: Security teams need visibility into their industrial assets &amp; 
 ## What this user tweeted
  
 RT @thechriswoodson: Cellular connectivity is at the forefront of network security today. #ITmodernization #cybersecurity https://t.co/prfL…
- 
-# bokklybobchoiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276244839193956353/5T1yjZ7a_normal.jpg)
- 
-`User ScreenName:` bokklybobchoi 
- 
-`User chosen Name:` BokklyBobChoi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jun 25 20:03:18 +0000 2020 
- 
-`User Description?:` I am a Son of the American Revolution and a Digital Soldier. 
- 
-`Followers?: `4 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 73 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1276244839193956353/5T1yjZ7a_normal.jpg 
- 
-`Number of tweets excluding replies:` 73 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MACHINELEARNING** 41 , **@TIDAL** 26 , **MACHINELISTENING** 6 , **COLORTHEORY** 4 , **LAST** 4 , **"THE** 3 , **MACHINEVISION** 3 , **RESONANCEOFTIME** 3 , **NOWPLAYING** 2 , **VNV** 2 , **NATION** 2 , **AMERICAN** 2 , **REVOLUTION:** 2 , **@REALDONALDTRUMP:** 2 , **"BICEP"** 2 , **TR/ST** 2 , **"ALANE"** 2 , **ROBIN** 2 , **SCHULZ** 2 , **WES** 2 , 
- 
-## What this user tweeted
- 
-#Vanity is frequently the undoing of #cybersecurity #moba #mindrot  https://t.co/GraobEjRyz
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
