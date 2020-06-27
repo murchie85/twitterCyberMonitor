@@ -30,9 +30,9 @@ The most popular user is: **wendellpotter**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @necrohrt: https://t.co/1et5LULwhPCheck these out!!https://t.co/v01qLAKPIx Cool python Tricks!!👩‍💻👨‍💻🌐🌀✨🐍#pentest#Website#ter… |
-| RT @dwisiswant0: Find sensitive information disclosure with gf by this patterns.https://t.co/f8NuKOYtmICredits goes to @TomNomNom for hi… |
-| Credit card skimmers are now being buried in image file metadata on e-commerce websites Magecart attackers are susp… https://t.co/JhWU4T92dJ |
+| @laurenmaille @ush1c @BentleyAudrey @cioontherun @MerrittBaer @ravici @ian_infosec @rotate26chars @LisaForteUK… https://t.co/w1U00or49S |
+| @escn Link in my bio or hit me up at a conference (when they start back up) 😊🦝 |
+| RT @RachelTobac: Today is the day for #ShareTheMicInCyber and I am partnered with @ForSci_Q - a brilliant practitioner, speaker, and mentor… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -41,7 +41,7 @@ The most popular user is: **wendellpotter**
 | #2 Most tweeted to  | **ian_infosec** |
 | #3 Most tweeted to  | **TheHackersNews** |
 | NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 2.22%|
+| Tweeters with < 10 followers  | 2.12%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -54,19 +54,19 @@ The most popular user is: **wendellpotter**
 | first  | **INFOSEC**  |
 | second  | **MALWARE**  |
 | third  | **HACKING** |
-| fourth  | **HACKERS**  |
-| fifth  | **IOT**  |
+| fourth  | **IOT**  |
+| fifth  | **HACKERS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Shirastweet: Understanding the importance of #diversity in the workplace🛑Full episode here 👇👇👇https://t.co/946zPwHTeA#business #ai #… |
+|NCSC blog: Why cloud first is not a security problem #infosec #informationsecurity #cybersecurity… https://t.co/NasYWbVv9z |
 
 ### MOST RETWEETED 
 
@@ -174,7 +174,7 @@ Shocking tech theft #CyberRisk #cybersecurity #infosec #insiderthreat #databreac
  
 `User Description?:` Just a bot. I retweet content related to tech and web development @kdarkulive created me 
  
-`Followers?: `23 
+`Followers?: `24 
  
 `Following?:` 1 
  
@@ -186,7 +186,7 @@ Shocking tech theft #CyberRisk #cybersecurity #infosec #insiderthreat #databreac
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 701 
+`Number of tweets excluding replies:` 704 
  
 
  
@@ -194,7 +194,7 @@ Shocking tech theft #CyberRisk #cybersecurity #infosec #insiderthreat #databreac
  
 ## User Top tweeted words 
  
-**WEBDEVELOPMENT** 39 , **JAVASCRIPT** 36 , **100DAYSOFCODE** 31 , **DEVELOPER** 26 , **WEB** 25 , **@BYLILYV:** 25 , **COURSES** 24 , **REACT** 21 , **WORDPRESS** 20 , **CODING** 19 , **UDEMY** 17 , **BUILD** 17 , **WEBDESIGN** 17 , **WEBDEVELOPER** 16 , **LEARN** 16 , **@RONLIOFFICIAL:** 15 , **PROGRAMMING** 15 , **FREE** 15 , **FEATURED** 15 , **COMPLETE** 13 , 
+**WEBDEVELOPMENT** 40 , **JAVASCRIPT** 37 , **100DAYSOFCODE** 31 , **DEVELOPER** 27 , **@BYLILYV:** 25 , **COURSES** 24 , **WEB** 23 , **REACT** 21 , **CODING** 20 , **WORDPRESS** 19 , **UDEMY** 17 , **BUILD** 17 , **WEBDESIGN** 17 , **PROGRAMMING** 16 , **WEBDEVELOPER** 16 , **LEARN** 16 , **@RONLIOFFICIAL:** 15 , **FREE** 15 , **FEATURED** 15 , **COMPLETE** 13 , 
  
 ## What this user tweeted
  
