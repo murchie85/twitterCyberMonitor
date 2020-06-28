@@ -36,9 +36,9 @@ A huge lists of:
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @trbughunters: 🛡 Tomcat RCE from 404 Page 🛡@kerem_tamci from our community, wrote a write-up about the RCE vulnerability on Tomcat ser… |
-| RT @cry__pto: i have uploaded 82 new articles as a pdf files about different fields of hacking to my github repositoryenjoy!#bugbountytip… |
-| RT @TheMegaTrends: 13 ways to defend against #CyberAttacks.by @NCSC via @MikeQuindazzi#CyberSecurity #IoT #CyberCrime #AI #InfoSec #Info… |
+| RT @MImproxyble: https://t.co/r1CqEKeAiu to save your browser history #assange #BigData #datagovernance #digitalmarketing #infosec #legalte… |
+| MT @Fisher85MCC @MikeQuindazzi @antgrassoWhat are the different factors for #software quality?#infosec… https://t.co/hMmcwjI00j |
+| RT @Tismayil1: Yes I earned $3180.Tools :Sub Scanner : https://t.co/LegySAU3sZDir Scanner : https://t.co/1L6MutcaEcGit Dumper : https… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -47,7 +47,7 @@ A huge lists of:
 | #2 Most tweeted to  | **kim_crawley** |
 | #3 Most tweeted to  | **Fisher85M** |
 | NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 4.5%|
+| Tweeters with < 10 followers  | 4.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -67,12 +67,12 @@ A huge lists of:
 ## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @kim_crawley: I'm scared for Gen Z. TikTok has been spying on them perhaps even worse than Facebook has been spying on the boomers. 😱I… |
+|@Infosec_Taylor We just bought 7 more bottles of wine at this winery. |
 
 ### MOST RETWEETED 
 
