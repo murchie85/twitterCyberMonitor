@@ -6,22 +6,19 @@
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile0.jpg)     <img width=200/> | ![image](assets/infosec/imageFile1.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
 ![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **trimstray**  
+The most popular user is: **d1rtydan**  
  
 
-## You wanna play a game?
+## A guy on reddit reversed engineered #TikTok
 
-A huge lists of:
+Here’s what he found on the data it collects on you
 
-- Ethical Hacking Trainings
-- CTF-s Platforms
-- Pentesting Labs
-- Web Tra… https://t.co/K6pypwdRao 
+It’s far worse th… https://t.co/9VTFujhA6J 
 
   
 
@@ -36,18 +33,18 @@ A huge lists of:
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MImproxyble: https://t.co/r1CqEKeAiu to save your browser history #assange #BigData #datagovernance #digitalmarketing #infosec #legalte… |
-| MT @Fisher85MCC @MikeQuindazzi @antgrassoWhat are the different factors for #software quality?#infosec… https://t.co/hMmcwjI00j |
-| RT @Tismayil1: Yes I earned $3180.Tools :Sub Scanner : https://t.co/LegySAU3sZDir Scanner : https://t.co/1L6MutcaEcGit Dumper : https… |
+| RT @RyamSec: Everything enormous on the planet was once someone's https://t.co/Ks1pK8SF1O take your ideas seriously!  You can be the next b… |
+| RT @doretox: In Debian­ based Linux distributions, which include Kali and Ubuntu, the default software manager is the Advanced Packaging To… |
+| RT @RyamSec: Everything enormous on the planet was once someone's https://t.co/Ks1pK8SF1O take your ideas seriously!  You can be the next b… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MikeQuindazzi** |
-| #2 Most tweeted to  | **kim_crawley** |
-| #3 Most tweeted to  | **Fisher85M** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 4.0%|
+| #1 Most tweeted to  | **kim_crawley** |
+| #2 Most tweeted to  | **Hakin9** |
+| #3 Most tweeted to  | **RyamSec** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 0.5%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -58,68 +55,29 @@ A huge lists of:
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **SPYING**  |
-| third  | **HACKING** |
-| fourth  | **"IM"**  |
-| fifth  | **TIKTOK**  |
+| second  | **HACKING**  |
+| third  | **SPYING** |
+| fourth  | **TIKTOK**  |
+| fifth  | **@KIM_CRAWLEY:**  |
 
 
 ## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Infosec_Taylor We just bought 7 more bottles of wine at this winery. |
+|There is a saying all ants will be around when you have sweet with you, when its over no obe see ur face. #infosec… https://t.co/7dtKzNyyAQ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **trimstray**  |
+| The most retweeted user is: **d1rtydan**  |
 | ------------- |
-| You wanna play a game?A huge lists of:- Ethical Hacking Trainings- CTF-s Platforms- Pentesting Labs- Web Tra… https://t.co/K6pypwdRao |
+| A guy on reddit reversed engineered #TikTokHere’s what he found on the data it collects on youIt’s far worse th… https://t.co/9VTFujhA6J |
 
 # Potential Fake Accounts
- 
-# zapata_f1ght3rUSER INFO
-![image](http://pbs.twimg.com/profile_images/1274815100050903045/FX2v7pjW_normal.jpg)
- 
-`User ScreenName:` zapata_f1ght3r 
- 
-`User chosen Name:` InfoSecWorker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jun 21 20:56:34 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:` Nowhere, TX 
- 
-`Number of tweets extracted`  : 37 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1274815100050903045/FX2v7pjW_normal.jpg 
- 
-`Number of tweets excluding replies:` 38 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WON'T** 4 , **@KITPLOIT:** 4 , **PEOPLE** 4 , **MOST** 4 , **INFOSEC** 4 , **OSINT** 3 , **DOESN'T** 3 , **HARD** 3 , **I'M** 3 , **MEAN** 3 , **TOOL** 3 , **LOL** 2 , **MANY** 2 , **SIFTER** 2 , **74** 2 , **RECON** 2 , **VULNERABILITY** 2 , **SCANNER** 2 , **HEY** 2 , **ANY** 2 , 
- 
-## What this user tweeted
- 
-RT @_escapeSequence: Found my first RCE via php shell upload today morning 9:16am . I won't forget the time lol. I thought I won't find an…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
