@@ -1,24 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile0.jpg)     <img width=200/> | ![image](https://securityintelligence.com/wp-content/uploads/2019/01/government-cybersecurity-processes-must-change-drastically.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **d1rtydan**  
+The most popular user is: **AXValdivia**  
  
 
-## A guy on reddit reversed engineered #TikTok
-
-Here’s what he found on the data it collects on you
-
-It’s far worse th… https://t.co/9VTFujhA6J 
+## We've got open paid #internship positions with the @ThreatConnect Research Team! Summer and ongoing options. If you… https://t.co/32TceKLGXl 
 
   
 
@@ -27,24 +23,24 @@ It’s far worse th… https://t.co/9VTFujhA6J
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RyamSec: Everything enormous on the planet was once someone's https://t.co/Ks1pK8SF1O take your ideas seriously!  You can be the next b… |
-| RT @doretox: In Debian­ based Linux distributions, which include Kali and Ubuntu, the default software manager is the Advanced Packaging To… |
-| RT @RyamSec: Everything enormous on the planet was once someone's https://t.co/Ks1pK8SF1O take your ideas seriously!  You can be the next b… |
+| RT @JinibaBD: The database of millions of Telegram users from Russia and Iran appeared on the Darknet  #cybersecurity #dataprotection #cybe… |
+| RT @JinibaBD: More than 75% of all vulnerabilities reside in indirect dependencies #cybersecurity #dataprotection #cyberthreats #hackers… |
+| RT @bad_packets: Daily Top 10 Countries – June 27, 2020New unique DDoS malware hosts detected by country:🇨🇳 China: 367🇹🇼 Taiwan: 347🇮🇳… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **kim_crawley** |
-| #2 Most tweeted to  | **Hakin9** |
-| #3 Most tweeted to  | **RyamSec** |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **bad_packets** |
+| #3 Most tweeted to  | **javier_carriazo** |
 | NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 0.5%|
+| Tweeters with < 10 followers  | 2.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -54,28 +50,28 @@ It’s far worse th… https://t.co/9VTFujhA6J
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **HACKING**  |
-| third  | **SPYING** |
-| fourth  | **TIKTOK**  |
-| fifth  | **@KIM_CRAWLEY:**  |
+| first  | **DATAPROTECTION**  |
+| second  | **CYBERTHREATS**  |
+| third  | **HACKERS** |
+| fourth  | **@JINIBABD:**  |
+| fifth  | **MALWARE**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|There is a saying all ants will be around when you have sweet with you, when its over no obe see ur face. #infosec… https://t.co/7dtKzNyyAQ |
+|The Red Square - Mapping The Connections Inside Russia's #APT Ecosystem -... https://t.co/AMmzvV5HxU #ThreatIntel #CyberSecurity |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **d1rtydan**  |
+| The most retweeted user is: **AXValdivia**  |
 | ------------- |
-| A guy on reddit reversed engineered #TikTokHere’s what he found on the data it collects on youIt’s far worse th… https://t.co/9VTFujhA6J |
+| We've got open paid #internship positions with the @ThreatConnect Research Team! Summer and ongoing options. If you… https://t.co/32TceKLGXl |
 
 # Potential Fake Accounts
  
