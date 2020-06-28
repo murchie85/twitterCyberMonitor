@@ -29,9 +29,9 @@ The most popular user is: **MrsBundrige**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| In your lowest times, be aware of your strengths. In your brightest times, be conscious of your vulnerabilities. G… https://t.co/3weRJJ78nY |
-| RT @ennacore: try again? ❄️— a khunbam au in which khun aguero agnis swore he was over the man who aguero used to give the world to, who… |
-| The British aristocrats run the British establishmentCummings or who ever else do not run this countryLike the Br… https://t.co/2wrPAUlqvL |
+| RT @cybergibbons: There's really not much reason in Android to put vulnerabilities in your app if you want to be malicious. You can just wr… |
+| RT @SwampSanitizer: From May 09, 2020: @Heritage's election fraud database shows vulnerabilities in the system and the many ways in which f… |
+| RT @cutabovedrest: Learn how Cisco Cyber Vision and ISA3000 can help you detect them and protect your industrial operations. #TalesByAkshat… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -39,8 +39,8 @@ The most popular user is: **MrsBundrige**
 | #1 Most tweeted to  | **jae_hak99** |
 | #2 Most tweeted to  | **Lovehasnowords1** |
 | #3 Most tweeted to  | **KolaOyeneyin** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.0%|
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 2.5%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -53,19 +53,19 @@ The most popular user is: **MrsBundrige**
 | first  | **VULNERABILITIES**  |
 | second  | **CHANGE**  |
 | third  | **FIND** |
-| fourth  | **WAY**  |
-| fifth  | **@JAE_HAK99:**  |
+| fourth  | **BRITISH**  |
+| fifth  | **RUN**  |
 
 
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @seecra1: Average Cost of a Data Breach: $116M https://t.co/cdqpl90WvH #DataPrivacy #Cyberattacks https://t.co/a7OSxVUIsV |
+|@netflix @NetflixIndia @reedhastings So finally giving up on me? Wondering how BIG a revenue of one time $8 is to y… https://t.co/wKJhfgQDr9 |
 
 ### MOST RETWEETED 
 
@@ -74,6 +74,45 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
 | How old were you when you began seeing your parents as people and not as a “parental entity”? But as a person with… https://t.co/QBBFSoUzaS |
 
 # Potential Fake Accounts
+ 
+# makeover__USER INFO
+![image](http://pbs.twimg.com/profile_images/1277006786453790720/mPs0T_Qu_normal.jpg)
+ 
+`User ScreenName:` makeover__ 
+ 
+`User chosen Name:` Zaina 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 25 22:17:08 +0000 2020 
+ 
+`User Description?:` information technology, fresh graduate @_ksu | #CyberSecurity #قائدات_التقنية👩🏻‍💻 
+ 
+`Followers?: `6 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:` Kingdom of Saudi Arabia 
+ 
+`Number of tweets extracted`  : 23 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1277006786453790720/mPs0T_Qu_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SECURITY** 8 , **INFORMATION** 5 , **USED** 4 , **DATA** 4 , **ATTACK** 3 , **ENGINEERING** 3 , **SOCIAL** 3 , **MEANS** 3 , **COMPUTER** 2 , **SHOULDER** 2 , **PHISHING:** 2 , **ELECTRONIC** 2 , **INTO** 2 , **THREAT** 2 , **FORM** 2 , **MAKING** 2 , **SURE** 2 , **MODIFIED** 2 , **METASPLOIT** 1 , **PROJECT:** 1 , 
+ 
+## What this user tweeted
+ 
+Metasploit Project: is a computer security project that provides information about security vulnerabilities and aid… https://t.co/Ck0kMJafYw
  
 # V_hrizUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1276769420849922051/iftVQ8Uy_normal.jpg)
