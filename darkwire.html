@@ -7,20 +7,49 @@
 <meta property="og:type"          content="website" />
 <meta property="og:title" content="Social Cybersecurity insights" />
 <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
-<meta itemprop="image" content="darkwire/thumb.png" />   <!-- PREVIEW IMAGE -->
-<meta prefix="og: http://ogp.me/ns#" property="og:image" content="darkwire/thumb.png"> <!-- PREVIEW IMAGE -->
+<meta itemprop="image" content="thumb.png" />   <!-- PREVIEW IMAGE -->
+<meta prefix="og: http://ogp.me/ns#" property="og:image" content="thumb.png"> <!-- PREVIEW IMAGE -->
 <meta prefix="og: http://ogp.me/ns#" property="og:description" content="A one stop shop - what people are saying about Cybersecurity?">
 <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
 
 
-
+<link rel="stylesheet" href="assets/table.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <style>
 body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 .w3-third img{margin-bottom: -4px; opacity: 0.8; cursor: pointer}
 .w3-third img:hover{opacity: 1}
+
+
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color: white;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #1b1a47;}
+#customers tr:nth-child(odd){background-color: #09081a;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #2e2147;
+  color: white;
+}
+
+
+
 </style>
 <body class="w3-content" style="max-width:1600px;background-color:#0b101f">
 
@@ -32,13 +61,16 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       <i class="fa fa-remove"></i>
     </a>
     <img src="dark.png" style="width:70%;" class="w3-round" ><br><br>
-    <a href="../crypto.html" style="text-decoration:none; font-color; white"><h4><b >DARK WIRE</b></h4></a>
-    <p class="w3-text-grey">AA+</p>
+    <a href="https://murchie85.github.io" style="text-decoration:none; font-color; white"><h4><b >DARK WIRE</b></h4></a>
+    <p class="w3-text-grey">Social Insights<</p>
   </div>
   <div class="w3-bar-block">
-    <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>InfoSec</a>  
-    <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>CyberSecurity</a> 
-    <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACT</a>
+    <a href="darkwireinfosec.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>InfoSec</a>  
+    <a href="darkwireInfosec.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>CyberSecurity</a> 
+    <a href="darkwirethreatintel.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ThreatIntel</a> 
+    <a href="darkwirevulnerabilities.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>Vulnerabilities</a> 
+    <a href="https://murchie85.github.io" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>Home</a>
+    <a href="#About" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>About</a>
   </div>
   <div class="w3-panel w3-large">
     <i class="fa fa-facebook-official w3-hover-opacity"></i>
@@ -66,48 +98,79 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <div class="w3-hide-large" style="margin-top:83px"></div>
 
   <!-- Pagination -->
+  <center>
   <div class="w3-center w3-padding-32">
+    <center>
     <div class="w3-bar">
       <a href="#" class="w3-bar-item w3-button w3-hover-black">«</a>
-      <a href="gbpreport.html" class="w3-bar-item w3-black w3-button">CyberSecurity</a>
-      <a href="gbpreport1.html" class="w3-bar-item w3-black w3-button">InfoSec</a>
+      <a href="darkwire.html" class="w3-bar-item w3-black w3-button">CyberSecurity</a>
+      <a href="darkwireinfosec.html" class="w3-bar-item w3-black w3-button">InfoSec</a>
+      <a href="darkwirethreatintel.html" class="w3-bar-item w3-black w3-button">ThreatIntel</a>
+      <a href="darkwirevulnerabilities.html" class="w3-bar-item w3-black w3-button">Vulnerabilities</a>
       <a href="#" class="w3-bar-item w3-button w3-hover-black">»</a>
     </div>
+      </center>
   </div>
+  </center>
+
+
+
+
+
 
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third" style="padding: 2em;">
+
       <img src="assets/cybersecurity/TWEETS.png" style="width:100%; height: 200px; border: 5px solid #00008B" onclick="onClick(this)" alt="Tweet Graph";>
+
       <br></br>
-      <iframe frameborder="0" style="max-height: 250px;" height="220px" width="90%" scrolling="yes" src="assets/cybersecurity/text1.html"></iframe>
-      <img src="assets/cybersecurity/imageFile4.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Random twitter image">
+      <img src="assets/cybersecurity/imageFile1.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Random twitter image">
+
+      <br></br>
+      <iframe frameborder="0" style="max-height: 260px;" height="260px" width="90%" scrolling="yes" src="assets/cybersecurity/table1.html"></iframe>
+
+      <br></br>
+      <iframe frameborder="0" style="max-height: 250px;" height="220px" width="90%" scrolling="yes" src="assets/cybersecurity/tweet1.html"></iframe>
     </div>
 
+
+
     <div class="w3-third" style="padding: 2em;">
+
       <img src="assets/cybersecurity/BIO.png" style="width:100%; height: 200px; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph">
+
       <br></br>
-      <iframe frameborder="0" style="max-height: 250px;" height="220px" width="90%" scrolling="yes" src="assets/cybersecurity/text2.html"></iframe>
-      <img src="assets/cybersecurity/imageFile2.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Twitter posted image">
+      <iframe frameborder="0" style="max-height: 250px;" height="220px" width="90%" scrolling="yes" src="assets/cybersecurity/most_retweeted.html"></iframe>
+
+      <img src="assets/cybersecurity/imageFile0.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Twitter posted image">
+
       <br></br>
-      <img src="assets/cybersecurity/imageFile5.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Sentiment analysis">
+      <img src="assets/cybersecurity/imageFile3.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Sentiment analysis">
+
+      <img src="assets/cybersecurity/imageFile5.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph">
+
     </div>
+
+
     
     <div class="w3-third"style="padding: 2em;">
+
       <img src="assets/cybersecurity/sentiment.png" style="width:100%; height: 200px; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Twitter image">
+
       <br></br>
-      <iframe frameborder="0" style="max-height: 250px;" height="220px" width="90%" scrolling="yes" src="assets/cybersecurity/text3.html"></iframe>
-      <img src="assets/cybersecurity/imageFile3.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph">
+      <iframe frameborder="0" style="max-height: 250px;" height="250px" width="90%" scrolling="yes" src="assets/cybersecurity/table2.html"></iframe>
+
+      <img src="assets/cybersecurity/imageFile2.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph"> 
+        
       <br></br>
-      <img src="assets/cybersecurity/imageFile1.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph">
+      <iframe frameborder="0" style="max-height: 250px;" height="220px" width="90%" scrolling="yes" src="assets/cybersecurity/tweet2.html"></iframe>
+
+      <img src="assets/cybersecurity/imageFile4.jpg" style="width:100%; max-height: 250px; border: 5px solid #00008B" onclick="onClick(this)" alt="Bio graph">
+
     </div>
     
   </div>
-
-
-
-
-
 
 
   
@@ -127,7 +190,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
 
   <!-- About section -->
-  <div class="w3-container w3-text-light-grey w3-padding-32" id="about" style="background-color:#324ea8">
+  <div class="w3-container w3-text-light-grey w3-padding-32" id="about" style="background-color:#2e2147">
     <center><h4><b>Real time social-cyber analytics</b></h4>
     <img src="darkLogo.png" alt="Me" class="w3-image w3-padding-32" width="600" height="650"></center>
     <div class="w3-content w3-justify" style="max-width:600px">
@@ -136,16 +199,16 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       </p>
       <p>mail: murchie85@gmail.com</p>
       <hr class="w3-opacity">
-      <h4 class="w3-padding-16">Technical Skills</h4>
+      <h4 class="w3-padding-16">Site Progress</h4>
       <p class="w3-wide">Overall Site Completion</p>
       <div class="w3-white">
         <div class="w3-container w3-padding-small w3-center w3-grey" style="width:95%">65%</div>
       </div>
-      <p class="w3-wide">Core Coin Metrics</p>
+      <p class="w3-wide">Data Obtained</p>
       <div class="w3-white">
-        <div class="w3-container w3-padding-small w3-center w3-grey" style="width:85%">75%</div>
+        <div class="w3-container w3-padding-small w3-center w3-grey" style="width:85%">45%</div>
       </div>
-      <p class="w3-wide">GBP Rate Reporting and Dashboard</p>
+      <p class="w3-wide">Feature Completion</p>
       <div class="w3-white">
         <div class="w3-container w3-padding-small w3-center w3-grey" style="width:80%">50%</div>
       </div>
@@ -159,62 +222,39 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     </div>
   </div>
 
-  <!-- Contact section -->
-  <div class="w3-container w3-light-grey w3-padding-32 w3-padding-large" id="contact">
-    <div class="w3-content" style="max-width:600px">
-      <h4 class="w3-center"><b>Contact Me</b></h4>
-      <p>Contatct From Disabled - contact murchie85@gmail.com</p>
-      <form action="/action_page.php" target="_blank">
-        <div class="w3-section">
-          <label>Name</label>
-          <input class="w3-input w3-border" type="text" name="Name" required>
-        </div>
-        <div class="w3-section">
-          <label>Email</label>
-          <input class="w3-input w3-border" type="text" name="Email" required>
-        </div>
-        <div class="w3-section">
-          <label>Message</label>
-          <input class="w3-input w3-border" type="text" name="Message" required>
-        </div>
-        <button type="submit" class="w3-button w3-block w3-black w3-margin-bottom">Send Message</button>
-      </form>
-    </div>
-  </div>
 
   <!-- Footer -->
   <footer class="w3-container w3-padding-32 w3-grey">  
     <div class="w3-row-padding">
-      <div class="w3-third">
+      <div class="w3-third" id="About">
         <h3>INFO</h3>
-        <p>This is an off-shoot of Adam McMurchies main website, and will be used for cryptocurrency metrics in collaboration with Allan forbes.</p>      
+        <p>This is an off-shoot of Adam McMurchies main website, but metrics will be continuous and is worth book marking.</p>      
       </div>
     
       <div class="w3-third">
         <h3>BLOG POSTS</h3>
         <ul class="w3-ul">
           <li class="w3-padding-16 w3-hover-black">
-            <img src="../images/coin-dash.jpg" href="../crypto.html" class="w3-left w3-margin-right" style="width:50px">
-            <a href="../crypto.html"> </a>
-            <span class="w3-large">Lorem</span><br>
-            <span>Core Reporting Page</span>
+            <a href="https://murchie85.github.io/rat.html" style ="text-decoration: none;"> 
+            <img src="https://murchie85.github.io/images/virus/virus.jpg" href="https://murchie85.github.io/rat.html" class="w3-left w3-margin-right" style="width:100px">
+            <span class="w3-large">In this tutorial I show you how to dissect and reverse engineer a javascript RAT Virus code to extract the decoded contents of the malicious binary. This will allow you, and others to perform a proper and thorough analysis - which is critical for understanding how these viruses are manufactured, the mindset of the attacker and to better model future attacks to develop better defences.</span><br></a>
           </li>
           <li class="w3-padding-16 w3-hover-black">
-            <img src="../images/coin-UNO.jpg" href="../crypto.html" class="w3-left w3-margin-right" style="width:50px">
-            <span class="w3-large">Ipsum</span><br>
-            <span>Home Page</span>
-          </li> 
+            <a href="https://murchie85.github.io/dnc.html" style ="text-decoration: none;"> 
+            <img src="https://murchie85.github.io/images/blog/dnc.jpg" href="https://murchie85.github.io/dnc.html" class="w3-left w3-margin-right" style="width:100px">
+            <span class="w3-large">The Differentiable Neural Computer is a new breed of A.I that is able to take learnings from one task then apply it to a completely different task. It blends the power of Neural Networks with a detachable read/write memory. This blog gives a high level introduction into the neural computer and its achievements.</span><br></a>
+          </li>
         </ul>
       </div>
 
       <div class="w3-third">
         <h3>POPULAR TAGS</h3>
         <p>
-          <span class="w3-tag w3-black w3-margin-bottom">Cryptocurrency</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Solidity</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">BTC</span>
-          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">LTC</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">GLD</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">GBP</span>
-          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">USD</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Consensus Layer</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">ETH</span>
-          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Block Chain</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Digital Currency</span>
-          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Trading</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">DOGE</span>
+          <span class="w3-tag w3-black w3-margin-bottom">Cybersecurity</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Data Leak</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Dark web</span>
+          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Malware</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Exploit</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Infosec</span>
+          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Virus</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">CVE</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">IOC</span>
+          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">ThreatIntel</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Vulnerabilities</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">PenTesting</span>
+          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">OSint</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Social Engineering</span>
         </p>
       </div>
     </div>
