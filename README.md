@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **MrsBundrige**  
+The most popular user is: **CiscoIoT**  
  
 
-## How old were you when you began seeing your parents as people and not as a “parental entity”? But as a person with… https://t.co/QBBFSoUzaS 
+## Security teams need visibility into their industrial assets &amp; industrial processes. So what is the missing puzzle p… https://t.co/y9wrkW7OS7 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **MrsBundrige**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @cybergibbons: There's really not much reason in Android to put vulnerabilities in your app if you want to be malicious. You can just wr… |
-| RT @SwampSanitizer: From May 09, 2020: @Heritage's election fraud database shows vulnerabilities in the system and the many ways in which f… |
-| RT @cutabovedrest: Learn how Cisco Cyber Vision and ISA3000 can help you detect them and protect your industrial operations. #TalesByAkshat… |
+| How to add a .well-known URL to your Django sitehttps://t.co/0T5U0vZw2w#cybersecurity #infosec #security |
+| RT @CyberDomain: #CyberSecurity #Hacker [Hacked] 🐦 https://t.co/ap22G8TYpm 📢📣🔔 https://t.co/DOXvM71DAw Product Info   IsAdultProduct:  no… |
+| RT @Techfuturenew: Top 8 Extensions For Your Jupyter Notebook #MachineLearning #cybersecurity #learning via https://t.co/NEo7LankbK https:/… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jae_hak99** |
-| #2 Most tweeted to  | **Lovehasnowords1** |
-| #3 Most tweeted to  | **KolaOyeneyin** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 2.5%|
+| #1 Most tweeted to  | **Hakin9** |
+| #2 Most tweeted to  | **CiscoIoT** |
+| #3 Most tweeted to  | **RyamSec** |
+| NewProfiles (less than 10 days) | 1.5%  |
+| Tweeters with < 10 followers  | 3.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,28 +50,28 @@ The most popular user is: **MrsBundrige**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **CHANGE**  |
-| third  | **FIND** |
-| fourth  | **BRITISH**  |
-| fifth  | **RUN**  |
+| first  | **INFOSEC**  |
+| second  | **HACKING**  |
+| third  | **MSBUILD** |
+| fourth  | **INDUSTRIAL**  |
+| fifth  | **HACKERS**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@netflix @NetflixIndia @reedhastings So finally giving up on me? Wondering how BIG a revenue of one time $8 is to y… https://t.co/wKJhfgQDr9 |
+|RT @Ai_Connects_Us: Ai Video: Covid19 – how vulnerable is your critical data?https://t.co/H6tH5rEzfD #datasecurity #databreaches #datap… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MrsBundrige**  |
+| The most retweeted user is: **CiscoIoT**  |
 | ------------- |
-| How old were you when you began seeing your parents as people and not as a “parental entity”? But as a person with… https://t.co/QBBFSoUzaS |
+| Security teams need visibility into their industrial assets &amp; industrial processes. So what is the missing puzzle p… https://t.co/y9wrkW7OS7 |
 
 # Potential Fake Accounts
  
@@ -114,32 +114,32 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 Metasploit Project: is a computer security project that provides information about security vulnerabilities and aid… https://t.co/Ck0kMJafYw
  
-# V_hrizUSER INFO
-![image](http://pbs.twimg.com/profile_images/1276769420849922051/iftVQ8Uy_normal.jpg)
+# dev_bot9190USER INFO
+![image](http://pbs.twimg.com/profile_images/1277203745290489860/A3uskJWg_normal.jpg)
  
-`User ScreenName:` V_hriz 
+`User ScreenName:` dev_bot9190 
  
-`User chosen Name:` 🪓🖤 
+`User chosen Name:` Developer Bot 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jun 27 06:23:42 +0000 2020 
+`User signup date?:` Sun Jun 28 11:32:06 +0000 2020 
  
-`User Description?:` FUCK 
+`User Description?:` Hi I am a bot created by @tnf_stark. I retweet cool tweets with following tags #code #javascript #node #java #cloud #kubernetes #ML #AI 
  
-`Followers?: `3 
+`Followers?: `2 
  
-`Following?:` 63 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 28 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1276769420849922051/iftVQ8Uy_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1277203745290489860/A3uskJWg_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 28 
  
 
  
@@ -147,11 +147,56 @@ Metasploit Project: is a computer security project that provides information abo
  
 ## User Top tweeted words 
  
-**@PGCRAIIG** 1 , **PAID^@PGCRAIIG** 1 , **FUCK** 1 , **SECURITY** 1 , **VULNERABILITIES** 1 , **PLAYSTATION** 1 , **NEED** 1 , **PAY** 1 , **NIGGAS** 1 , **DON’T** 1 , **PLAYING** 1 , **2K** 1 , **STOP** 1 , **D…** 1 , **HTTPS://TCO/U5N8AOVJRE@SIRENZ___** 1 , **@313DEEZY** 1 , **BLACK** 1 , **CLOVER** 1 , **CARRYING** 1 , **2015-2016** 1 , 
+**JAVASCRIPT** 19 , **WORDPRESS** 6 , **USING** 5 , **@P2P_DESIGN:** 5 , **PHOTOSHOP** 5 , **VUE** 4 , **@JAVASCRIPT_ON:** 3 , **REACT** 3 , **☞** 3 , **INTERVIEW** 3 , **PREPRATION** 3 , **READY!** 3 , **JOIN** 3 , **ALGOEXPERT** 3 , **15%** 3 , **OFF** 3 , **COURSES** 3 , **USE** 3 , **PROMOCODE** 3 , **:** 3 , 
  
 ## What this user tweeted
  
-@pgcraiig Fuck that the security vulnerabilities PlayStation need to pay niggas that don’t get playing 2k to stop d… https://t.co/u5n8aOvJRE
+RT @Prashanth_NS: Today's new video...
+
+#Istio Architecture with Service Mesh on Openshift.
+
+https://t.co/7oSPPUeVN8
+
+#Kubernetes #code #Re…
+ 
+# Mdshoag99964075USER INFO
+![image](http://pbs.twimg.com/profile_images/1277283414157082624/6T2JAJWH_normal.jpg)
+ 
+`User ScreenName:` Mdshoag99964075 
+ 
+`User chosen Name:` Sarfaraj Ahmed Sohag 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 22 10:22:30 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 102 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1277283414157082624/6T2JAJWH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 102 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MOHANSHAKTI** 19 , **@MOHANSHAKTI:** 12 , **WOW** 11 , **@NRITYASHAKTI:** 11 , **@THISISMUKTI** 11 , **@THISISMUKTI:** 8 , **STUDENTS** 8 , **@NEETIMOHAN18** 6 , **@NEETIMOHAN18:** 6 , **LOVE** 6 , **THANK** 6 , **@NRITYASHAKTI** 6 , **@FSL_ELEVEN:** 5 , **BEAUTIFUL** 5 , **@HIRDYANSHI:** 5 , **MOM** 5 , **NICE** 5 , **HAPPY** 4 , **BIRTHDAY** 4 , **©TO** 4 , 
+ 
+## What this user tweeted
+ 
+RT @CiscoIoT: Security teams need visibility into their industrial assets &amp; industrial processes. So what is the missing puzzle piece that…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
