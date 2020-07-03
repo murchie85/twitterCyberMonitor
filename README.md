@@ -1366,3 +1366,464 @@ bare your… https://t.co/fQn8GRpxuc
 `Following?:` 36 
  
 `User URL?:` None 
+ 
+`Location:` Tulsa, OK 
+ 
+`Number of tweets extracted`  : 57 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278541553544433664/zZN0gY7__normal.jpg 
+ 
+`Number of tweets excluding replies:` 57 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PADRES:** 5 , **GO** 5 , **@TULSADRILLERS:** 5 , **@MLBONFOX:** 4 , **@THEWILLYVODKA:** 3 , **BASEBALL** 3 , **@** 3 , **@TULSADRILLERS** 3 , **@DODGERS** 3 , **HTTPS://TCO/MBPHUVLBGR** 3 , **@NWS:** 3 , **DOING** 3 , **SEASON** 3 , **2020** 3 , **@DODGERSNATION:** 3 , **JULY** 3 , **➖** 3 , **WATCH** 2 , **I'M** 2 , **RALLY** 2 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# royalcrowncola1USER INFO
+![image](http://pbs.twimg.com/profile_images/1278496796902334466/BdznMq_k_normal.jpg)
+ 
+`User ScreenName:` royalcrowncola1 
+ 
+`User chosen Name:` David Garcia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 02 01:11:34 +0000 2020 
+ 
+`User Description?:` day 2 of trying to get twitter banned 
+ 
+`Followers?: `1 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278496796902334466/BdznMq_k_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DWYANEWADE** 9 , **@MAW29072** 6 , **@SVMR6** 5 , **U** 4 , **@CAGEYFLOW** 4 , **@TYUSAARON** 3 , **@GAMESPOT** 3 , **@DREAMER80793803** 2 , **SAMURAI** 2 , **MOVIES** 2 , **BRO** 2 , **SUCK** 2 , **@ALINITYTWITCH** 2 , **UR** 2 , **2** 2 , **DOESN’T** 2 , **GOT** 2 , **WISH** 1 , **PUSSY** 1 , **MADE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# FreakyO08USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` FreakyO08 
+ 
+`User chosen Name:` FreakyO08 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 25 18:11:53 +0000 2020 
+ 
+`User Description?:` I'm a really big freaky and love Big Ass and. BBW 
+ 
+`Followers?: `1 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 2 , **TRUST** 2 , **NBA** 2 , **@BADDASSHEAVEN:** 1 , **FUCKED** 1 , **CAN’T** 1 , **NOBODY** 1 , **HONESTRT** 1 , **@PROFESSOR_GAIA:** 1 , **B🌍DAY** 1 , **CUSTOM** 1 , **TITTY** 1 , **LOVER** 1 , **PURCHASED** 1 , **GIRL** 1 , **HTTPS://TCO/TOGDQEBXSF** 1 , **HTTPS://TCO/G6ARNEIPXYRT** 1 , **@BIGBOOTY903:** 1 , **SUBSCRIBE** 1 , **THEN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# AwstinxUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278500323473195009/KRMXWvjG_normal.jpg)
+ 
+`User ScreenName:` Awstinx 
+ 
+`User chosen Name:` HRN Awstin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 01 23:03:45 +0000 2020 
+ 
+`User Description?:` Leader for @teamhrn 
+ 
+`Followers?: `12 
+ 
+`Following?:` 88 
+ 
+`User URL?:` https://t.co/WvQu076wNM 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 80 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278500323473195009/KRMXWvjG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 80 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FLEAYT** 9 , **@STABLERONALDO:** 8 , **PEOPLE** 5 , **CLIX** 5 , **CUP** 5 , **JOINED** 5 , **FORTNITE** 4 , **2** 3 , **CRAZY** 3 , **@OPSQT:** 3 , **U** 3 , **NEW** 3 , **DM** 3 , **EVER** 3 , **GETTING** 3 , **EVERYONE** 3 , **VERY** 3 , **@MITR0:** 3 , **@TEAMHRN** 3 , **WALTER** 3 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# UnssideUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278753491666694144/uNpsdOwI_normal.jpg)
+ 
+`User ScreenName:` Unsside 
+ 
+`User chosen Name:` anonymous unsside 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 23 22:14:38 +0000 2020 
+ 
+`User Description?:` Internet Activist | Friendly crackhead activist that’s been around since 2014 but bc of twitter being a bitch had to change accounts often #FuckTheSystem 
+ 
+`Followers?: `15 
+ 
+`Following?:` 51 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 113 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278753491666694144/uNpsdOwI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 113 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 9 , **@DISCORDIANLOL** 9 , **U** 8 , **ANONYMOUS** 8 , **DON’T** 7 , **@ANON2WORLD** 6 , **@B145430953** 5 , **@HASSAN12688891** 5 , **@GOWONCRUNCHY1…** 5 , **ACCOUNTS** 5 , **PLEASE** 5 , **GOT** 5 , **@YOURANONALERTS** 5 , **@INSFIRES_YOONGI** 4 , **@HOSEOKEILISH** 4 , **ITS** 4 , **RACIST** 4 , **MAKE** 4 , **TELL** 4 , **DOESN’T** 4 , 
+ 
+## What this user tweeted
+ 
+RT @unsside: • Selective sharing - aka , tell no one who doesn’t need to know. Do not put your loved ones at risk by giving them knowledge…
+ 
+# Tyler47802500USER INFO
+![image](http://pbs.twimg.com/profile_images/1278108050709254144/8WP_f5Y8_normal.jpg)
+ 
+`User ScreenName:` Tyler47802500 
+ 
+`User chosen Name:` Tyler 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 30 22:26:28 +0000 2020 
+ 
+`User Description?:` Your bio 
+ 
+`Followers?: `2 
+ 
+`Following?:` 91 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278108050709254144/8WP_f5Y8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**YA** 2 , **@DELLOR** 1 , **BRO** 1 , **KILL** 1 , **THING** 1 , **🤣🤣@DELLOR** 1 , **ITS** 1 , **STUPIDTHEY** 1 , **REALLY** 1 , **BAD** 1 , **THINGS** 1 , **MADE** 1 , **SOME** 1 , **LITTLE** 1 , **PERMAD** 1 , **DONTSMHHTTPS://TCO/FOTMWRO6CS@DELLOR** 1 , **LOVE** 1 , **DELL** 1 , **HOMO👍🤟💪@DELLOR** 1 , **LOL@NATEHILLTV** 1 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# KpManiaxUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278441716819820550/qiWNy9wK_normal.jpg)
+ 
+`User ScreenName:` KpManiax 
+ 
+`User chosen Name:` xxKPManiax 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 01 21:29:20 +0000 2020 
+ 
+`User Description?:` add me on twitch kpmania 
+add me on youtube @KPMania/gaming
+ and @KpMania/Vlogs 
+ 
+`Followers?: `6 
+ 
+`Following?:` 92 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278441716819820550/qiWNy9wK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MUTINEERS** 4 , **@GUNSIII_** 4 , **@YASHNIGHTMARE** 3 , **PEOPLE** 3 , **@FAZE_RAIN:** 3 , **BACK** 2 , **@PURESAMAA** 2 , **@HUNTSMANN_** 2 , **@CGCARNAGEGAMING:** 2 , **@CGCARNAGEGAMING** 2 , **@TYLERRYZA** 2 , **WIN!** 2 , **Y’ALL** 2 , **WORKED** 2 , **HARD** 2 , **IM** 2 , **RT** 1 , **@MRBRUINSKID:** 1 , **KRACKEN** 1 , **CHAMPS!** 1 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# Levi27946234USER INFO
+![image](http://pbs.twimg.com/profile_images/1278618023893651456/6LiOXZzy_normal.jpg)
+ 
+`User ScreenName:` Levi27946234 
+ 
+`User chosen Name:` Levi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 01 21:24:36 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 103 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278618023893651456/6LiOXZzy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BYRON** 3 , **FUCK** 2 , **MYSELF** 2 , **DON'T** 2 , **TWITCH** 2 , **WHILE** 2 , **PEOPLE** 2 , **WATCH** 2 , **@IGN:** 2 , **ITS** 2 , **US** 2 , **@STEAM:** 2 , **SUMMER** 2 , **SALE** 2 , **CAN'T** 1 , **BELIEVE** 1 , **GONE** 1 , **DEPRESSION** 1 , **EXACTLY** 1 , **FELT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# MrGill80485669USER INFO
+![image](http://pbs.twimg.com/profile_images/1275758963775037441/5-st-Epi_normal.jpg)
+ 
+`User ScreenName:` MrGill80485669 
+ 
+`User chosen Name:` Mr Gill 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jun 24 11:40:36 +0000 2020 
+ 
+`User Description?:` Father of 3 & a Huband to the most beautiful women in the world. I'm also a gaming freak!!! 
+
+waiting for #GhostOfTsushima #Cyberpunk2077 #Battlefield6 
+ 
+`Followers?: `3 
+ 
+`Following?:` 59 
+ 
+`User URL?:` None 
+ 
+`Location:` Ohio, United States 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1275758963775037441/5-st-Epi_normal.jpg 
+ 
+`Number of tweets excluding replies:` 211 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BLAKWOODZ** 48 , **GAME** 29 , **MAN** 18 , **GOOD** 15 , **GHOST** 15 , **TSUSHIMA** 15 , **@BLAKWOODZ:** 14 , **VIDEO** 12 , **I'M** 11 , **@SUCKERPUNCHPROD** 11 , **LOVE** 10 , **REVIEW** 10 , **NEW** 10 , **@TYR93664616** 10 , **LOOKING** 9 , **@YARIVA__** 9 , **GAMEPLAY** 8 , **@CHEEZHOFFICIAL:** 7 , **WAIT** 7 , **ITS** 7 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# HannahPriestle3USER INFO
+![image](http://pbs.twimg.com/profile_images/1277521863904722944/--45b24n_normal.jpg)
+ 
+`User ScreenName:` HannahPriestle3 
+ 
+`User chosen Name:` Hannah Priestley 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jun 28 14:34:46 +0000 2020 
+ 
+`User Description?:` 22 | Intern @ADPCnet | Disaster Risk Management and International Development 
+ 
+`Followers?: `9 
+ 
+`Following?:` 103 
+ 
+`User URL?:` None 
+ 
+`Location:` United Kingdom 
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1277521863904722944/--45b24n_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CAREINTUK:** 3 , **@RCMRD_:** 2 , **COUNTRIES** 2 , **FUTURE** 2 , **INTERNATIONAL** 2 , **SIGN** 2 , **BECOME** 2 , **PLEASE** 2 , **UK** 2 , **AID** 2 , **RT** 1 , **AFRICAN** 1 , **NATIONS** 1 , **ACCESS** 1 , **HIGH-RESOLUTION** 1 , **SATELLITE** 1 , **IMAGES** 1 , **@DEARTHAFRICA** 1 , **PLATFORM** 1 , **ENABLE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @careintuk: “As #COVID19 has compounded vulnerabilities of countries and especially women, the need for #ClimateAction has become even g…
+ 
+# JaeMoney__USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` JaeMoney__ 
+ 
+`User chosen Name:` JaeMoney$ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jun 28 03:32:05 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 28 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 16 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 16 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 2 , **@TEDDYB_H2O:** 2 , **(VIA** 2 , **😂😂** 2 , **FEAR** 2 , **MAN** 2 , **PRACTICED** 2 , **10000** 2 , **CAME** 1 , **BACK** 1 , **LAY** 1 , **DOWN?** 1 , **DAMN** 1 , **MIND** 1 , **HTTPS://TCO/RQGKR9HCQ5RT** 1 , **@REXCHAPMAN:** 1 , **CASE** 1 , **HAVEN’T** 1 , **SEEN** 1 , **BIRD** 1 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# TheTeckJamesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278297449023430659/zg2jlCK8_normal.jpg)
+ 
+`User ScreenName:` TheTeckJames 
+ 
+`User chosen Name:` James 📱🎮🎧 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 01 11:28:00 +0000 2020 
+ 
+`User Description?:` I like tech📱🖥️🖱️💻 video games 🎧🎮 and science 🧬⚗️🔬| I love Apple products but I'm too poor to buy them 
+ 
+`Followers?: `3 
+ 
+`Following?:` 64 
+ 
+`User URL?:` https://t.co/FxEiEKD9F8 
+ 
+`Location:` 🇺🇸 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278297449023430659/zg2jlCK8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 206 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**+** 20 , **@EMOJIMASHUPBOT:** 11 , **=** 11 , **U** 9 , **LOOK** 8 , **NEW** 7 , **100DAYSOFCODE** 5 , **FACE** 5 , **TWO** 5 , **MAKE** 5 , **EACH** 5 , **SOME** 5 , **THESE** 5 , **PEOPLE** 5 , **PROTECT** 5 , **@NASA:** 5 , **SPACE** 4 , **SPACEWALK** 4 , **MASK** 4 , **TIME** 4 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
