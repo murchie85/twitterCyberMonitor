@@ -827,3 +827,523 @@ RT @sarahsteino: Thrilled to be facilitating @U4_ACRC's online course again on #
  
 # holliwouldxoUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1277444240939851783/Aj6FhGj7_normal.jpg)
+ 
+`User ScreenName:` holliwouldxo 
+ 
+`User chosen Name:` Holli Would Catfish 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 27 23:51:26 +0000 2020 
+ 
+`User Description?:` you know i’m not real but you’ll spoil me rotten anyway tribute to see who’s really ready for me😈:$5 cashapp; $holliwouldxo 💋 
+ 
+`Followers?: `100 
+ 
+`Following?:` 322 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 123 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1277444240939851783/Aj6FhGj7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 125 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DM** 24 , **FINDOM** 19 , **GOOD** 11 , **DRAIN** 9 , **I’LL** 9 , **PAYPIG** 8 , **I’M** 8 , **SUB** 8 , **RT** 7 , **SEND** 7 , **WALLET** 7 , **SENDING** 7 , **GAME** 7 , **PLAY** 7 , **CASHAPP** 7 , **MONEY** 7 , **DON’T** 6 , **@BSLAVE11:** 6 , **MAKE** 6 , **TRIBUTE** 6 , 
+ 
+## What this user tweeted
+ 
+RT @brat_breanna: I profit from the weakness, and vulnerabilities of my stroking-addicts and 'WALLETS'.
+
+That piece of tugging meat is my p…
+ 
+# SkaggsDanielaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278137927483248641/1eR-5fs4_normal.jpg)
+ 
+`User ScreenName:` SkaggsDaniela 
+ 
+`User chosen Name:` Daniela Skaggs 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jun 26 17:35:54 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:` Bucharest, Romania 
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278137927483248641/1eR-5fs4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MIND** 3 , **VAN** 2 , **WHETHER** 1 , **YOU’RE** 1 , **SINGLE** 1 , **MARRIED** 1 , **GAY** 1 , **LESBIAN** 1 , **BISEXUAL** 1 , **TRANSGENDER** 1 , **QUEER** 1 , **DESIRE** 1 , **FAMILY** 1 , **RIGHT…** 1 , **HTTPS://TCO/CHLQWXIZFAPLEASE** 1 , **MINDFUL** 1 , **FIREWORKS** 1 , **TRIGGER** 1 , **COMBAT** 1 , **VETERANS** 1 , 
+ 
+## What this user tweeted
+ 
+Owning our story can be hard but not nearly as difficult as spending our lives running from it. Embracing our vulne… https://t.co/LdXgcW0hrT
+ 
+# GiantMoonchildUSER INFO
+![image](http://pbs.twimg.com/profile_images/1277663877258452993/pAnBoclC_normal.jpg)
+ 
+`User ScreenName:` GiantMoonchild 
+ 
+`User chosen Name:` 𝑱𝑶𝑶𝑵𝑰𝑬⁷ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jun 26 03:05:17 +0000 2020 
+ 
+`User Description?:` ❝𝙏𝙚𝙡𝙡 𝙢𝙚 𝙮𝙤𝙪𝙧 𝙨𝙩𝙤𝙧𝙮. 𝙄 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙝𝙚𝙖𝙧 𝙮𝙤𝙪𝙧 𝙫𝙤𝙞𝙘𝙚.❞ | Lᴇᴀᴅᴇʀ | Rᴀᴘᴘᴇʀ | #btsrp | #kpoprp | multiship 
+ 
+`Followers?: `80 
+ 
+`Following?:` 73 
+ 
+`User URL?:` None 
+ 
+`Location:` ooc age: 22 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1277663877258452993/pAnBoclC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 961 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I'M** 26 , **[HE** 21 , **GOING** 18 , **DON'T** 18 , **TIME** 13 , **HYUNG** 11 , **YOU'RE** 10 , **||** 10 , **GOOD** 8 , **OTHER** 8 , **REALLY** 8 , **FEW** 8 , **MAKE** 8 , **EVEN** 7 , **SOME** 7 , **READ** 7 , **JIN** 7 , **GIVE** 7 , **WELL** 6 , **BEING** 6 , 
+ 
+## What this user tweeted
+ 
+@innergoodboi [He nodded in thanks to the drink, taking a sip of it with a sigh.] That's the beautiful part of it.… https://t.co/Ih7uPfY9yb
+ 
+# security_addUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` security_add 
+ 
+`User chosen Name:` AddSecurity 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 02 18:56:55 +0000 2020 
+ 
+`User Description?:` AddSecurity is a cybersecurity firm that prioritizes eliminating cyber vulnerabilities to old-fashioned manipulation by offering robust solutions. 
+ 
+`Followers?: `4 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:` Kampala, Uganda 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ADDSECURITY** 1 , **CYBERSECURITY** 1 , **FIRM** 1 , **OFFERS** 1 , **ROBUST** 1 , **SECURITY** 1 , **SOLUTIONS** 1 , **PRIORITIZE** 1 , **ELIMINATING** 1 , **CYBER** 1 , **VULNERA…** 1 , **HTTPS://TCO/OZOHOY4Y9E** 1 , 
+ 
+## What this user tweeted
+ 
+AddSecurity is a #cybersecurity firm that offers robust security solutions. We prioritize eliminating cyber vulnera… https://t.co/ozOhOY4Y9E
+ 
+# Ahsan50520603USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Ahsan50520603 
+ 
+`User chosen Name:` Ahsan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 27 13:38:54 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `26 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1848 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ALIZEHS11:** 115 , **LIBERALLYCORRUPTOPPOSITION** 80 , **@NOOR_MEHAR01:** 58 , **SINDH** 31 , **PAKISTAN** 30 , **@SHANZAYLHR:** 22 , **PEOPLE** 20 , **MINISTER** 20 , **NAWAZ** 20 , **LIBERALLYCORRUPTOPPOSITIONRT** 17 , **ZARDARI** 17 , **SHARIF** 16 , **CORRUPTION** 16 , **کی** 16 , **IMRAN** 15 , **KHAN** 14 , **کے** 14 , **CORRUPT** 13 , **GOVERNMENT** 13 , **OPPOSITION** 11 , 
+ 
+## What this user tweeted
+ 
+RT @AlizehS11: The paper provides a comprehensive analysis of the specific vulnerabilities that women and girls face because of the coronav…
+ 
+# alexstellatsys1USER INFO
+![image](http://pbs.twimg.com/profile_images/1276504952869998592/15MPUjfA_normal.jpg)
+ 
+`User ScreenName:` alexstellatsys1 
+ 
+`User chosen Name:` alex.stella@t-systems.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jun 26 13:17:34 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1276504952869998592/15MPUjfA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AUTOMATED** 1 , **ANALYSIS** 1 , **TOOLS** 1 , **EXCEL** 1 , **FINDING** 1 , **VULNERABILITIES** 1 , **HOWEVER** 1 , **HUMAN** 1 , **ANALYSTS** 1 , **STILL** 1 , **NECESSARY** 1 , **EVALUATE…** 1 , **HTTPS://TCO/F9WANR8LPDIN** 1 , **FINANCIAL** 1 , **WORLD** 1 , **DATA** 1 , **SHARING** 1 , **OFFERS** 1 , **BANKS** 1 , **GREAT** 1 , 
+ 
+## What this user tweeted
+ 
+Automated analysis tools excel at finding vulnerabilities. However, human analysts are still necessary to evaluate… https://t.co/F9wanR8lpD
+ 
+# SkinDocumentaryUSER INFO
+![image](http://pbs.twimg.com/profile_images/1277586642249961472/_c_6xq7H_normal.jpg)
+ 
+`User ScreenName:` SkinDocumentary 
+ 
+`User chosen Name:` SkintheDocumentary 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 29 12:18:23 +0000 2020 
+ 
+`User Description?:` Skin is a feature documentary about exploring through identity, and the meaning of black beauty in all different shades of black. 
+ 
+`Followers?: `22 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1277586642249961472/_c_6xq7H_normal.jpg 
+ 
+`Number of tweets excluding replies:` 354 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BEVERLYNAYA** 112 , **SKIN** 71 , **DOCUMENTARY** 47 , **NETFLIX** 22 , **WATCHING** 21 , **SKINNETFLIX** 19 , **THANK** 19 , **@BEVERLYNAYA:** 19 , **WATCHED** 17 , **WATCH** 16 , **WELL** 16 , **BEAUTIFUL** 15 , **BLACK** 15 , **SKINTHEDOCUMENTARY** 15 , **LOVE** 15 , **REALLY** 14 , **DONE** 13 , **PEOPLE** 12 , **VERY** 11 , **DARK** 9 , 
+ 
+## What this user tweeted
+ 
+RT @Kunlele3: @BeverlyNaya 1. So I watched #SkinNetflix with my family yesterday. I find the art expressions in the overture captivating. I…
+ 
+# GoogleCloud_ILUSER INFO
+![image](http://pbs.twimg.com/profile_images/1276084934193668097/6P18YrEC_normal.jpg)
+ 
+`User ScreenName:` GoogleCloud_IL 
+ 
+`User chosen Name:` Google Cloud Israel 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 25 09:18:03 +0000 2020 
+ 
+`User Description?:` Welcome to the Official Google Cloud Israel Twitter page! Find out how computing power delivered everywhere, for everyone, is transforming business. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1276084934193668097/6P18YrEC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**USE** 2 , **♻️** 1 , **100%** 1 , **RENEWABLE** 1 , **ENERGY?** 1 , **FIND** 1 , **REDUCE** 1 , **ENVIRONMENTAL** 1 , **IMPACT** 1 , **WITH…** 1 , **HTTPS://TCO/SCTVNPFQBGDO** 1 , **EXPLAINABLE** 1 , **AI** 1 , **IS?** 1 , **🤖** 1 , **DEEP** 1 , **DIVE** 1 , **INTO** 1 , **MODEL** 1 , **PREDICTIONS** 1 , 
+ 
+## What this user tweeted
+ 
+Ready to transform your business? If you're thinking of migrating to #GoogleCloud, consider these three questions 👇… https://t.co/ZYbJLjzKpi
+ 
+# Khan1HaniaUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Khan1Hania 
+ 
+`User chosen Name:` Huzaira Fatima 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 02 09:49:14 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PIRATEPARTYINT:** 3 , **@ZECOPS** 2 , **RT** 1 , **TELEMETRY** 1 , **APP** 1 , **PERMISSIONS** 1 , **FACEBOOK/INSTAGRAM** 1 , **TWITTER** 1 , **EXPONENTIALLY** 1 , **WAY** 1 , **INVASIVE** 1 , **THAN** 1 , **TIKTOK** 1 , **N…RT** 1 , **REDTEAMING:** 1 , **HMMCOOKIES** 1 , **GRAB** 1 , **COOKIES** 1 , **FIREFOX** 1 , **CHROME** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PiratePartyINT: Part III and final of the SMBleedingGhost Writeup Trilogy: From Remote Read (SMBleed) to RCE via @ZecOps Blog.
+https://…
+ 
+# Vlad56136852USER INFO
+![image](http://pbs.twimg.com/profile_images/1278072154240811010/fwiEOF5W_normal.jpg)
+ 
+`User ScreenName:` Vlad56136852 
+ 
+`User chosen Name:` Vlad 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 30 20:26:42 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 19 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278072154240811010/fwiEOF5W_normal.jpg 
+ 
+`Number of tweets excluding replies:` 19 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VIA** 2 , **@PIRATEPARTYINT:** 2 , **✅** 2 , **پاسخ** 2 , **رو** 2 , **در** 2 , **REMIX** 2 , **RT** 1 , **@AURUM_RUSHGOLD:** 1 , **AURUM_TUTORIAL_JA** 1 , **HTTPS://TCO/Y4ZXJVJL88** 1 , **@YOUTUBERT** 1 , **TFW** 1 , **REALISE** 1 , **ROBOTS** 1 , **STEAL** 1 , **JOB** 1 , **HTTPS://TCO/D0UKTQUKBPRT** 1 , **@JUSTINSUNTRON:** 1 , **(2/3)** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PiratePartyINT: Critical Bugs found in GeoVision's Fingerprint and Card Scanners. 
+
+✅ RCE (Unpatched)
+✅ Hard-coded Shared Private Crypt…
+ 
+# clydemontana254USER INFO
+![image](http://pbs.twimg.com/profile_images/1278611832756932609/GPRDP3SD_normal.jpg)
+ 
+`User ScreenName:` clydemontana254 
+ 
+`User chosen Name:` Clydemontana254 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 02 08:46:36 +0000 2020 
+ 
+`User Description?:` Nature 
+ 
+`Followers?: `14 
+ 
+`Following?:` 193 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 91 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278611832756932609/GPRDP3SD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 91 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ITSEMMIE_G:** 34 , **FOLLOW** 19 , **DROP** 18 , **LET'S** 13 , **HANDLES** 9 , **GAIN** 8 , **UR** 7 , **TURN** 5 , **BACK** 5 , **HANDLE** 5 , **@ITSEMMIE_GRT** 5 , **KWA** 5 , **@ITSEMMIE_G** 4 , **GOOD** 4 , **NOTIFICATIONS** 4 , **@CLYDEMONTANA254:** 4 , **@KBONIMTETEZI** 4 , **RETWEET** 3 , **US** 3 , **USERNAME** 3 , 
+ 
+## What this user tweeted
+ 
+RT @IGN: Sony is offering upwards of $50K in "bounties" in exchange for discovering PS4 vulnerabilities. (via @PCMag) https://t.co/O9EyAKD0…
+ 
+# vrGW4DtaQWAMNOhUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278086495371431937/Yc9y04yx_normal.jpg)
+ 
+`User ScreenName:` vrGW4DtaQWAMNOh 
+ 
+`User chosen Name:` Марина Рябцева 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 30 22:01:52 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278086495371431937/Yc9y04yx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JUSTINSUNTRON:** 2 , **GREAT** 2 , **VOYAGE:** 2 , **TRON** 2 , **40** 2 , **GLOBAL** 2 , **RELEASE** 2 , **ONLINE** 2 , **RT** 1 , **@PIRATEPARTYINT:** 1 , **PART** 1 , **III** 1 , **FINAL** 1 , **SMBLEEDINGGHOST** 1 , **WRITEUP** 1 , **TRILOGY:** 1 , **REMOTE** 1 , **READ** 1 , **(SMBLEED)** 1 , **RCE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PiratePartyINT: Part III and final of the SMBleedingGhost Writeup Trilogy: From Remote Read (SMBleed) to RCE via @ZecOps Blog.
+https://…
+ 
+# 2qIemnPitwtIAMgUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278203645201350656/QteeV5sl_normal.jpg)
+ 
+`User ScreenName:` 2qIemnPitwtIAMg 
+ 
+`User chosen Name:` александр 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 01 05:46:40 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278203645201350656/QteeV5sl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GREEN** 3 , **GLOBAL** 2 , **@PIRATEPARTYINT:** 2 , **RT** 1 , **@EJINACTION:** 1 , **“WHEN** 1 , **SAY** 1 , **‘ICANTBREATHE’-WHETHER** 1 , **POLICE** 1 , **KNEE** 1 , **NECK** 1 , **AIRPOLLUTION** 1 , **WHICH** 1 , **CONTINUES** 1 , **OU…RT** 1 , **@LERRYDEMERRY:** 1 , **⚡️⚡️GIVEAWAY** 1 , **⚡️⚡️** 1 , **LETS** 1 , **THIS!** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PiratePartyINT: Part III and final of the SMBleedingGhost Writeup Trilogy: From Remote Read (SMBleed) to RCE via @ZecOps Blog.
+https://…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
