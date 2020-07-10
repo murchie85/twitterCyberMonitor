@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **orionn___**  
+The most popular user is: **MrsBundrige**  
  
 
-## they should not give cops horses. give those horses to postal workers so i can sit out on my porch drinking iced te… https://t.co/8wBxjB8jxj 
+## How old were you when you began seeing your parents as people and not as a “parental entity”? But as a person with… https://t.co/QBBFSoUzaS 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **orionn___**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| The heart of the attackhttps://t.co/7UmCCpQjiZ#aircraft #airplane #airplanes #airport #Airports #avgeek #aviation… https://t.co/COJsFUNAfe |
-| Researchers connect Evilnum hacking group to cyberattacks against Fintech firmsRead at: https://t.co/n0JfnuJLrW… https://t.co/dT10RKJjDT |
-| RT @DigitalGtu: This is a dangerous practice that could allow criminals to steal your banking data. Check your bank statement for unusual a… |
+| RT @ISPISB: #PMSurrenderModi    India’s dismissive attitude towards the territorial disputes with neighbours is adding to its vulnerabiliti… |
+| RT @MadeWithVueJS: 🚨 2 critical issues found in your commit! Here's how other devs solved them: [...]That's the kind of alerts you can ge… |
+| Being alone teaches u to accept what’s meant for u and to push away whatever, or whoever isn’t. It teaches u to wel… https://t.co/qNRcOSsoGk |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheHackersNews** |
-| #2 Most tweeted to  | **reach2ratan** |
-| #3 Most tweeted to  | **AlyssaM_InfoSec** |
-| NewProfiles (less than 10 days) | 0.46%  |
-| Tweeters with < 10 followers  | 1.92%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **taurusismagic** |
+| #2 Most tweeted to  | **jorgeorchilles** |
+| #3 Most tweeted to  | **Boii_McCoy** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 3.04%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -50,43 +50,122 @@ The most popular user is: **orionn___**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **&GT;**  |
-| third  | **@THEHACKERSNEWS:** |
-| fourth  | **MALWARE**  |
+| first  | **VULNERABILITIES**  |
+| second  | **CITRIX**  |
+| third  | **GOOGLE** |
+| fourth  | **NETWORK**  |
 | fifth  | **CRITICAL**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|User agent claims to be "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0" but crawls websi… https://t.co/OllprAU2GB |
+|RT @nablusiya: And it seems no one wants to discuss that when a young Muslim girl in high school is made to feel inadequate by a Muslim per… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **orionn___**  |
+| The most retweeted user is: **MrsBundrige**  |
 | ------------- |
-| they should not give cops horses. give those horses to postal workers so i can sit out on my porch drinking iced te… https://t.co/8wBxjB8jxj |
+| How old were you when you began seeing your parents as people and not as a “parental entity”? But as a person with… https://t.co/QBBFSoUzaS |
 
 # Potential Fake Accounts
  
-# marylngenest4USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# obsa_tamamUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278763111638601729/Tt6hhtsQ_normal.jpg)
  
-`User ScreenName:` marylngenest4 
+`User ScreenName:` obsa_tamam 
  
-`User chosen Name:` maryln genest 
+`User chosen Name:` Obsa Tamam 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jul 10 13:53:18 +0000 2020 
+`User signup date?:` Thu Jul 02 18:38:37 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Always believing 
+Free Oromia 
+ 
+`Followers?: `14 
+ 
+`Following?:` 168 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 113 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278763111638601729/Tt6hhtsQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 113 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OROMOPROTESTS** 27 , **@HENOKGABISA:** 26 , **HAACAALUUHUNDEESSAA** 20 , **OROMOREVOLUTION** 17 , **OROMO** 17 , **ETHIOPIA** 12 , **HAACAALUU** 11 , **@TOLTUTUFA:** 11 , **ABIYMUSTGO** 11 , **FREEOROMIA** 9 , **HACHALUHUNDEESSAA** 9 , **@AWOLALLO:** 7 , **BEKELE** 5 , **@NAJATHAMZA6:** 5 , **ABIY** 5 , **PEOPLE** 5 , **KILLED** 5 , **FREEJAWARMOHAMMED** 5 , **FREEALLOROMOPOLITICALPRISONERS** 4 , **HUNDEESSAA** 4 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# mbalchaitisUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281584182020448261/CqEza9Tb_normal.jpg)
+ 
+`User ScreenName:` mbalchaitis 
+ 
+`User chosen Name:` Mbalchaitis 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 10 13:39:49 +0000 2020 
+ 
+`User Description?:` Graphic Designer and Instructor 
+ 
+`Followers?: `4 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281584182020448261/CqEza9Tb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SONICWALL:** 16 , **SONICWALL** 7 , **REMOTE** 4 , **FREE** 3 , **EVERYONE** 3 , **CYBERSECURITY** 3 , **SONICWALL'S** 3 , **CURRENTLY** 2 , **THAN** 2 , **MOBILE** 2 , **BEFORE** 2 , **LOOKING** 2 , **P…RT** 2 , **NEW** 2 , **SECURE** 2 , **RISKS** 2 , **CAPTURE** 2 , **UPGRADE** 2 , **BUILT** 2 , **FIND** 2 , 
+ 
+## What this user tweeted
+ 
+RT @SonicWall: Securing remote workers is on everyone's mind right now, including the cybercriminals looking for vulnerabilities. To help p…RT @SonicWall: Are you worried about the risks of using #Slack or #Zoom? SonicWall Capture Client 3.0 will now give real-time visibility of…
+ 
+# ArricoLouUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281660018186756102/gMMdt_SV_normal.jpg)
+ 
+`User ScreenName:` ArricoLou 
+ 
+`User chosen Name:` Lou Arrico 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 10 18:35:41 +0000 2020 
+ 
+`User Description?:` Mayor Of Steubenville Ohio Autonomous Zone 
  
 `Followers?: `0 
  
@@ -96,11 +175,11 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJE
  
 `Location:`  
  
-`Number of tweets extracted`  : 22 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1281660018186756102/gMMdt_SV_normal.jpg 
  
-`Number of tweets excluding replies:` 22 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -108,13 +187,246 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJE
  
 ## User Top tweeted words 
  
-**DE** 6 , **LA** 6 , **EN** 3 , **بدك** 3 , **I'M** 3 , **D…RT** 2 , **I’M** 2 , **CARE** 2 , **SOLUTION** 2 , **HELP** 2 , **STAND** 2 , **ПРО** 2 , **@HAIFAWEHBE** 2 , **NOUS** 2 , **MASA** 2 , **ADLH** 2 , **BERNILAI** 2 , **DESIGN** 2 , **ESSEX** 2 , **بن** 2 , 
+**@EMILLARMI** 3 , **TIME** 3 , **MAYOR** 3 , **ARRICO** 3 , **LOU** 2 , **@VOULTAR** 2 , **@AOC** 1 , **OH** 1 , **SHIT** 1 , **WRONG** 1 , **ALT** 1 , **ACCOUNT@AOC** 1 , **PREFERRED** 1 , **BITCH** 1 , **TWEAKING** 1 , **MADE** 1 , **HARLEM@PENGUINS** 1 , **@EMALKIN71GENO** 1 , **REMEMBER** 1 , **BEND** 1 , 
  
 ## What this user tweeted
  
-RT @reach2ratan: #MongoDB Vulnerability Leaked Health Care Data Of 2 Million Mexicans Online https://t.co/4ux4bbMfPe
+@louiearrico @emillarmi Instead you need to be on the lookout for your time nemesis Harrison he is currently hoppin… https://t.co/W1Xj6r5wCF
+ 
+# SarawatergoolaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280008779204038656/4ITPIDz2_normal.jpg)
+ 
+`User ScreenName:` Sarawatergoola 
+ 
+`User chosen Name:` Sara 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 06 05:09:14 +0000 2020 
+ 
+`User Description?:` It makes me happy when my people have full freedom .I love my country!#PROUDTOBEOROMO! 
+ 
+`Followers?: `1 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:` London, Ontario 
+ 
+`Number of tweets extracted`  : 16 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280008779204038656/4ITPIDz2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 16 
+ 
 
-#CyberSecurity #infos…
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NURADEN15650721:** 6 , **OROMO** 4 , **ABIYMUSTGO** 3 , **@HENOKGABISA:** 3 , **@ABBA_RAAJII:** 2 , **OROMOPROTESTS** 2 , **HAACAALUUHUNDEESSAA** 2 , **OROMOS** 2 , **ETHIOPIA** 2 , **LEADERS!** 2 , **FREEJAWARMOHAMMED** 2 , **FREEALLPOLITICALPRISONERS** 2 , **RT** 1 , **JUSTICEFORHAACAALUUHUNDEESSAART** 1 , **HELLO** 1 , **Y'ALL** 1 , **PLEASE** 1 , **UNFOLLOW** 1 , **DISLIKE** 1 , **OFC** 1 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# mchastain7USER INFO
+![image](http://pbs.twimg.com/profile_images/1278323653290135552/c7xd85Jo_normal.jpg)
+ 
+`User ScreenName:` mchastain7 
+ 
+`User chosen Name:` 🥀 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 01 13:43:12 +0000 2020 
+ 
+`User Description?:` the real her. 
+ 
+`Followers?: `31 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 35 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278323653290135552/c7xd85Jo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 36 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THROUGH** 4 , **REALLY** 4 , **DON’T** 4 , **STILL** 4 , **SHIT** 4 , **ASK** 4 , **GO** 3 , **FEEL** 3 , **X** 3 , **OFF** 3 , **ION** 3 , **BITCH** 3 , **LOVE** 2 , **LIFE** 2 , **@_KELENAXO:** 2 , **=** 2 , **CARE** 2 , **HERE** 2 , **LIL** 2 , **+** 2 , 
+ 
+## What this user tweeted
+ 
+RT @taurusismagic: As a #Taurus I am a fearless communicator. I shed all my vulnerabilities to express how I feel. I take a lot of time to…
+ 
+# haseebk57246795USER INFO
+![image](http://pbs.twimg.com/profile_images/1280499016791457793/k5j3gpX5_normal.jpg)
+ 
+`User ScreenName:` haseebk57246795 
+ 
+`User chosen Name:` haseebkhalid 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 07 13:48:34 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 113 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280499016791457793/k5j3gpX5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 113 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SOTEVENTS:** 107 , **SCHOOL** 61 , **TOMORROW** 54 , **LIVE** 38 , **FIRST** 37 , **VIRTUAL** 36 , **CONFERENCE** 31 , **GLOBAL** 29 , **FULLY** 29 , **US** 24 , **JOIN** 23 , **BEACONHOUSE** 22 , **EDUCATION** 22 , **JOINS** 22 , **WORLD** 20 , **LEADERS** 18 , **LEARNING** 17 , **DR** 17 , **PANEL** 16 , **TOMORROW:** 14 , 
+ 
+## What this user tweeted
+ 
+RT @SOTevents: On the first fully virtual School of Tomorrow Conference, Professor Maggie Atkinson, Former Children’s Commissioner for Engl…
+ 
+# RimshaIjazAliUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280709732425175040/Je7aof0X_normal.jpg)
+ 
+`User ScreenName:` RimshaIjazAli 
+ 
+`User chosen Name:` Rimsha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 01 10:02:12 +0000 2020 
+ 
+`User Description?:` @ImranKhan , @Political_Science ,
+ #Bait_ul_Muqdas_inshAllah ، @ISI_InshAllah😍 
+ 
+`Followers?: `173 
+ 
+`Following?:` 211 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280709732425175040/Je7aof0X_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3906 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PMSURRENDERMODI** 116 , **@ISPISB:** 44 , **INDIAN** 41 , **INDIA** 34 , **CHINA** 32 , **@MUBI_26:** 29 , **PMSURRENDERMODIRT** 24 , **GALWAN** 23 , **MODI** 22 , **CHINESE** 22 , **VALLEY** 19 , **SOLDIERS** 17 , **ARMY** 15 , **کے** 13 , **@BAD_HABBET:** 13 , **BORDER** 11 , **@MALIKA_AHMED1:** 10 , **NEW** 10 , **PAKISTAN** 10 , **REVOLUTION** 10 , 
+ 
+## What this user tweeted
+ 
+RT @ISPISB: #PMSurrenderModi    India’s dismissive attitude towards the territorial disputes with neighbours is adding to its vulnerabiliti…
+ 
+# peace_life2007USER INFO
+![image](http://pbs.twimg.com/profile_images/1280758631806300160/nIceXpct_normal.jpg)
+ 
+`User ScreenName:` peace_life2007 
+ 
+`User chosen Name:` SANJAY 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 08 06:59:55 +0000 2020 
+ 
+`User Description?:` You only live once, but if you do it right, once is enough 
+ 
+`Followers?: `1 
+ 
+`Following?:` 36 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 59 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280758631806300160/nIceXpct_normal.jpg 
+ 
+`Number of tweets excluding replies:` 59 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NCSVENTURES:** 7 , **@DOMINOS_INDIA:** 6 , **NEW** 5 , **VIA** 5 , **CASES** 5 , **IPHONE** 4 , **COVID19** 4 , **SCAMS** 4 , **SECURITY** 3 , **MOBILESECURITY** 3 , **@NARENDRAMODI:** 3 , **PRADESH** 3 , **@ASPI_ICPC:** 3 , **DATA** 3 , **ENJOY** 3 , **@ASYLUMSEEKER00:** 3 , **COVID-19** 3 , **2020** 2 , **ANDROID** 2 , **APPS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: Google has begun rolling out July 2020 #Android security update that patches multiple critical remote code execution vu…
+ 
+# CentreLeftVoterUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280986588223279109/6SaAn99z_normal.jpg)
+ 
+`User ScreenName:` CentreLeftVoter 
+ 
+`User chosen Name:` SocDemsSupporter 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 08 20:34:53 +0000 2020 
+ 
+`User Description?:` Personal account. Irish, Married Father of 2. Worker. Any views expressed are my own. Retweets are not necessarily endorsements. Not a Rep or Staff of #SocDems 
+ 
+`Followers?: `7 
+ 
+`Following?:` 188 
+ 
+`User URL?:` None 
+ 
+`Location:` Rest of Leinster, Ireland 
+ 
+`Number of tweets extracted`  : 122 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280986588223279109/6SaAn99z_normal.jpg 
+ 
+`Number of tweets excluding replies:` 122 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SOCDEMS:** 16 , **NEW** 11 , **@HOLLYCAIRNSTD** 8 , **PEOPLE** 8 , **WHICH** 7 , **SECTOR** 6 , **IRELAND** 6 , **COVID19** 6 , **@WHITMOREJEN:** 6 , **NEED** 6 , **@HOLLYCAIRNSTD:** 6 , **WATCH** 5 , **ISSUE** 5 , **@ROISINSHORTALL:** 5 , **PUBLIC** 5 , **MEAT** 5 , **NEEDS** 5 , **GOVT** 5 , **SUPPORT** 5 , **WORKING** 5 , 
+ 
+## What this user tweeted
+ 
+RT @SocDems: @HollyCairnsTD points out that it is large-scale meat plants that are the issue here. It's not migrant workers, it’s not farme…
  
 # andrewaahnUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1281604308559990786/4i7Upmud_normal.jpg)
@@ -129,9 +441,9 @@ RT @reach2ratan: #MongoDB Vulnerability Leaked Health Care Data Of 2 Million Mex
  
 `User Description?:` Time for courage and innovation 
  
-`Followers?: `1 
+`Followers?: `2 
  
-`Following?:` 10 
+`Following?:` 14 
  
 `User URL?:` None 
  
@@ -153,7 +465,7 @@ RT @reach2ratan: #MongoDB Vulnerability Leaked Health Care Data Of 2 Million Mex
  
 ## What this user tweeted
  
-RT @SonicWall: A recent inspector general's report has found that NASA is still struggling with #cybersecurity. via @ISMG_News https://t.co…
+RT @SonicWall: Securing remote workers is on everyone's mind right now, including the cybercriminals looking for vulnerabilities. To help p…RT @SonicWall: Securing remote workers is on everyone's mind right now, including the cybercriminals looking for vulnerabilities. To help p…RT @SonicWall: Are you worried about the risks of using #Slack or #Zoom? SonicWall Capture Client 3.0 will now give real-time visibility of…RT @SonicWall: Securing remote workers is on everyone's mind right now, including the cybercriminals looking for vulnerabilities. To help p…
  
 # nousvousaidonsUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1281518049246486534/CvINkpg8_normal.jpg)
@@ -170,17 +482,17 @@ RT @SonicWall: A recent inspector general's report has found that NASA is still 
  
 `Followers?: `2 
  
-`Following?:` 76 
+`Following?:` 83 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 43 
+`Number of tweets extracted`  : 53 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1281518049246486534/CvINkpg8_normal.jpg 
  
-`Number of tweets excluding replies:` 43 
+`Number of tweets excluding replies:` 53 
  
 
  
@@ -188,66 +500,26 @@ RT @SonicWall: A recent inspector general's report has found that NASA is still 
  
 ## User Top tweeted words 
  
-**DE** 17 , **LES** 10 , **VOUS** 10 , **LA** 9 , **À** 8 , **?** 7 , **ET** 6 , **EN** 6 , **RT** 5 , **SUR** 5 , **POUR** 5 , **:** 5 , **PASSWORDS** 5 , **LE** 5 , **DES** 5 , **@CYBERVICTIMES:** 5 , **UNE** 4 , **QUE** 4 , **DU** 4 , **UN** 4 , 
+**DE** 19 , **LES** 10 , **VOUS** 10 , **LE** 9 , **À** 9 , **LA** 9 , **RT** 7 , **DES** 7 , **?** 7 , **SUR** 6 , **ET** 6 , **EN** 6 , **UNE** 5 , **@TSECRIME:** 5 , **POUR** 5 , **:** 5 , **PASSWORDS** 5 , **@CYBERVICTIMES:** 5 , **USE** 4 , **INFORMATION** 4 , 
  
 ## What this user tweeted
  
-RT @USCERT_gov: Don't let vulnerabilities ruin your weekend! Check out https://t.co/qCO2UzqAsM to see the latest VMware updates for Fusion,…RT @cyber: ICYMI: @CISAgov launched an #Instagram account yesterday. Follow us here: https://t.co/q4e5WdNtWm #InfoSec #InformationSecurity…
+RT @USCERT_gov: Don't let vulnerabilities ruin your weekend! Check out https://t.co/qCO2UzqAsM to see the latest VMware updates for Fusion,…
  
-# EagleVirUSER INFO
-![image](http://pbs.twimg.com/profile_images/1278904690143608833/c--SpAGS_normal.jpg)
+# tauruske28USER INFO
+![image](http://pbs.twimg.com/profile_images/1280449203781566464/uPrd9ivf_normal.jpg)
  
-`User ScreenName:` EagleVir 
+`User ScreenName:` tauruske28 
  
-`User chosen Name:` Vir Tha Eagle🦅🇺🇲 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 03 04:12:54 +0000 2020 
- 
-`User Description?:` M / ✝️ / lil-🏳️‍🌈 / 2A+ / Forever DM / Jockstraps and shemaghs. 
-Just a rootin shootin lurking eagle. Telegram @VirMichael 
- 
-`Followers?: `14 
- 
-`Following?:` 251 
- 
-`User URL?:` None 
- 
-`Location:` Frisco, TX 
- 
-`Number of tweets extracted`  : 36 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1278904690143608833/c--SpAGS_normal.jpg 
- 
-`Number of tweets excluding replies:` 36 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**👏** 12 , **MAKES** 3 , **POLITICAL** 2 , **SOCIALIST** 2 , **PEOPLE** 2 , **YES** 2 , **@THEBABYLONBEE:** 2 , **DEMENTIA** 2 , **VOICED** 2 , **ILLEGAL** 2 , **MADE** 2 , **@BENNYJOHNSON:** 2 , **BLM** 2 , **@TIMCAST:** 2 , **RT** 1 , **@THEHACKERSNEWS:** 1 , **UPDATED** 1 , **TOR** 1 , **BROWSER** 1 , **VERSIONS** 1 , 
- 
-## What this user tweeted
- 
-RT @TheHackersNews: Updated Tor browser versions 0.3.5.11, 0.4.2.8, and 0.4.3.6 have been released with patches for a medium-severity denia…
- 
-# j03keliteUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281588318514405387/_jm1w5gl_normal.jpg)
- 
-`User ScreenName:` j03kelite 
- 
-`User chosen Name:` ·.¸¸.·♩♪♫ ĴѲέ𝐤乇𝓁ιтε ♫♪♩·.¸¸.· 
+`User chosen Name:` uwning 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jul 02 22:12:39 +0000 2020 
+`User signup date?:` Tue Jul 07 09:53:58 +0000 2020 
  
-`User Description?:` InfoSec lover 
+`User Description?:` lebih seru disini 
  
-`Followers?: `0 
+`Followers?: `21 
  
 `Following?:` 34 
  
@@ -255,50 +527,11 @@ RT @TheHackersNews: Updated Tor browser versions 0.3.5.11, 0.4.2.8, and 0.4.3.6 
  
 `Location:`  
  
-`Number of tweets extracted`  : 14 
+`Number of tweets extracted`  : 64 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1281588318514405387/_jm1w5gl_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1280449203781566464/uPrd9ivf_normal.jpg 
  
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AÐ** 4 , **Á** 3 , **ÞAÐ** 2 , **ER** 2 , **EITTHVAÐ** 2 , **HÉR** 2 , **PERSONAL** 2 , **VIÐ** 2 , **@JTEBASILE** 1 , **DEFAULT** 1 , **PIN** 1 , **ERU** 1 , **ALLTAF** 1 , **0000** 1 , **EÐA** 1 , **1234** 1 , **EF** 1 , **ANNAÐ** 1 , **MÁ** 1 , **FRAMLEIÐANDINN** 1 , 
- 
-## What this user tweeted
- 
-@FireEye Infosec industry is in very early stages in my country so it must be the lack of managers knowledge. How t… https://t.co/YLfJdSihZK
- 
-# UnD3519N4t3DUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281537089125920768/atkPdtGM_normal.jpg)
- 
-`User ScreenName:` UnD3519N4t3D 
- 
-`User chosen Name:` Paul Michael 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 03 15:46:26 +0000 2020 
- 
-`User Description?:` A programmer’s journey into the world of #InfoSec; Penetration Testing, Security Auditing, Security Research, Computer Forensics, and Reverse Engineering. 
- 
-`Followers?: `10 
- 
-`Following?:` 87 
- 
-`User URL?:` https://t.co/XYPAtBSGTh 
- 
-`Location:` United Kingdom 
- 
-`Number of tweets extracted`  : 43 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281537089125920768/atkPdtGM_normal.jpg 
- 
-`Number of tweets excluding replies:` 43 
+`Number of tweets excluding replies:` 65 
  
 
  
@@ -306,116 +539,36 @@ RT @TheHackersNews: Updated Tor browser versions 0.3.5.11, 0.4.2.8, and 0.4.3.6 
  
 ## User Top tweeted words 
  
-**SECURITY** 11 , **INFOSEC** 9 , **USED** 5 , **@BASHEER_A_KHAN:** 5 , **CYBERSEC** 4 , **CYBER** 4 , **CYBERSECURITY** 4 , **MALICIOUS** 3 , **EXCELLENT** 3 , **DATA** 3 , **ARTICLE** 3 , **MALWARE** 3 , **MICROSOFT** 2 , **DOMAINS** 2 , **APPS** 2 , **KNOWLEDGE** 2 , **BOTH** 2 , **THEORETICAL** 2 , **PRACTICAL** 2 , **NETWORK** 2 , 
+**AKU** 9 , **YANG** 7 , **KARENA** 6 , **INI** 6 , **DI** 4 , **JADI** 4 , **BANGET** 4 , **DIEM** 4 , **KAN** 4 , **KAMU** 3 , **YG** 3 , **ITU** 3 , **TAURUS** 3 , **@CURSEDKIDD:** 3 , **ORANG** 3 , **JUGA** 3 , **SEORANG** 3 , **DIA** 3 , **NONTON** 3 , **BISA** 3 , 
  
 ## What this user tweeted
  
-MICROSOFT HAS NEUTERED a large-scale fraud campaign that used knock-off domains and malicious apps to scam customer… https://t.co/4XGW7vugcEAn excellent read that provides readers with fundamental knowledge of #infoSec in both theoretical and practical as… https://t.co/JhxZ1hYJmS
+RT @taurusismagic: As a #Taurus I am a fearless communicator. I shed all my vulnerabilities to express how I feel. I take a lot of time to…
  
-# arl_jobsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1279386654617329664/n-P9ET8z_normal.jpg)
+# my_DHCUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278369121114210305/aZg6hx9G_normal.jpg)
  
-`User ScreenName:` arl_jobs 
+`User ScreenName:` my_DHC 
  
-`User chosen Name:` aar jobs 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 04 12:03:16 +0000 2020 
- 
-`User Description?:` 𝘐𝘵'𝘴 𝘥𝘢𝘯𝘨𝘦𝘳𝘰𝘶𝘴 𝘸𝘩𝘦𝘯 𝘱𝘦𝘰𝘱𝘭𝘦 𝘢𝘳𝘦 𝘸𝘪𝘭𝘭𝘪𝘯𝘨 𝘵𝘰 𝘨𝘪𝘷𝘦 𝘶𝘱 𝘵𝘩𝘦𝘪𝘳 𝘱𝘳𝘪𝘷𝘢𝘤𝘺. 
- 
-`Followers?: `15 
- 
-`Following?:` 22 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1279386654617329664/n-P9ET8z_normal.jpg 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ZOTIDIELL:** 3 , **NAME** 2 , **RT** 1 , **@CODE_QUOTES:** 1 , **VARIABLE** 1 , **USING** 1 , **SAME** 1 , **CARE** 1 , **WHICH** 1 , **FIRST-BORN** 1 , **CHILD„** 1 , **JAMES** 1 , **O** 1 , **COPLIENRT** 1 , **@IOFFICIALHACKER:** 1 , **IOT** 1 , **WITHOUT** 1 , **SECURITY** 1 , **=** 1 , **INTERNET** 1 , 
- 
-## What this user tweeted
- 
-RT @iofficialhacker: IoT without #security = internet of threats.
-
-#OfficialHacker #cybersecurity #infosec #infosecurity
- 
-# SecurityRandomUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` SecurityRandom 
- 
-`User chosen Name:` Random Security 
+`User chosen Name:` Digital Health Community 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jul 10 09:25:30 +0000 2020 
+`User signup date?:` Wed Jul 01 16:44:27 +0000 2020 
  
-`User Description?:` I tweet about the random noise I find in server logs. 
+`User Description?:` Online communities of healthcare professionals and vendors looking to connect, share information, best practices, and collaborate. 
  
-`Followers?: `1 
+`Followers?: `2 
  
-`Following?:` 15 
+`Following?:` 32 
  
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**"MOZILLA/50** 4 , **GECKO/20100101** 4 , **UA** 3 , **WEB** 2 , **IP** 2 , **INSTEAD** 2 , **HOSTNAME** 2 , **(X11;** 2 , **LINUX** 2 , **I686;** 2 , **INFOSEC** 2 , **(WINDOWS** 2 , **NT** 2 , **SEVERAL** 2 , **PROTOP:** 1 , **SERVER** 1 , **REJECT** 1 , **TRAFFIC** 1 , **CONNECTS** 1 , **VIA** 1 , 
- 
-## What this user tweeted
- 
-Protop: your web server should reject all traffic that connects via IP instead of hostname. Consider feeding the cl… https://t.co/9KsYpgqIgpAnother UA "Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1" looking for PHP vulns. #infosec #websecurityAlso a script kiddy UA "Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1" #infosec #websecurityUser agent claims to be "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0" but crawls websi… https://t.co/OllprAU2GB
- 
-# martytellke6USER INFO
-![image](http://pbs.twimg.com/profile_images/1281547750090461185/nJvkXqTB_normal.jpg)
- 
-`User ScreenName:` martytellke6 
- 
-`User chosen Name:` marty tellke 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 10 11:15:25 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 55 
- 
-`User URL?:` None 
+`User URL?:` https://t.co/iLAE2AJ7J4 
  
 `Location:`  
  
 `Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1281547750090461185/nJvkXqTB_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1278369121114210305/aZg6hx9G_normal.jpg 
  
 `Number of tweets excluding replies:` 4 
  
@@ -425,40 +578,38 @@ Protop: your web server should reject all traffic that connects via IP instead o
  
 ## User Top tweeted words 
  
-**RT** 1 , **@Q8E:** 1 , **طرق** 1 , **لحماية** 1 , **منزلك** 1 , **من** 1 , **كورونا** 1 , **عند** 1 , **طلب** 1 , **"ديليفري"** 1 , **الكويت_كورونا** 1 , **HTTPS://TCO/UMTCK5ZGOURT** 1 , **@REACH2RATAN:** 1 , **MONGODB** 1 , **VULNERABILITY** 1 , **LEAKED** 1 , **HEALTH** 1 , **CARE** 1 , **DATA** 1 , **2** 1 , 
+**HEALTHCARE** 2 , **HEALTH** 2 , **SECTOR** 1 , **MOST** 1 , **IMPACTED** 1 , **GROUP** 1 , **19** 1 , **CRITICAL** 1 , **VULNERABILITIES** 1 , **KNOWN** 1 , **RIPPLE20** 1 , **FOUND** 1 , **THE…** 1 , **HTTPS://TCO/EXUAEYFLANMYDHC** 1 , **SECURE** 1 , **ENVIRONMENT** 1 , **LEADERS** 1 , **AROUND** 1 , **GLOBE** 1 , **NETWORK** 1 , 
  
 ## What this user tweeted
  
-RT @reach2ratan: #MongoDB Vulnerability Leaked Health Care Data Of 2 Million Mexicans Online https://t.co/4ux4bbMfPe
-
-#CyberSecurity #infos…
+#Healthcare is the sector most impacted by a group of 19 critical vulnerabilities known as #Ripple20, found in the… https://t.co/EXUaEyFLan
  
-# AnsouriSamahUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281218266569027588/8Vw-kR3x_normal.jpg)
+# allure_techUSER INFO
+![image](http://pbs.twimg.com/profile_images/1279352383005290496/ioX_YEjb_normal.jpg)
  
-`User ScreenName:` AnsouriSamah 
+`User ScreenName:` allure_tech 
  
-`User chosen Name:` samah ansouri 
+`User chosen Name:` AllureTechSolutions 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jul 09 13:05:49 +0000 2020 
+`User signup date?:` Sat Jul 04 07:03:37 +0000 2020 
  
-`User Description?:`  
+`User Description?:` AllureTechSolutions is an innovative company built with passion and creativity. We deliver effective and successful IT solutions to various businesses. 
  
 `Followers?: `2 
  
-`Following?:` 225 
+`Following?:` 5 
  
-`User URL?:` None 
+`User URL?:` https://t.co/JNT6wvMTZL 
  
 `Location:`  
  
-`Number of tweets extracted`  : 195 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1281218266569027588/8Vw-kR3x_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1279352383005290496/ioX_YEjb_normal.jpg 
  
-`Number of tweets excluding replies:` 209 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -466,30 +617,26 @@ RT @reach2ratan: #MongoDB Vulnerability Leaked Health Care Data Of 2 Million Mex
  
 ## User Top tweeted words 
  
-**ONLINE** 19 , **DE** 14 , **@WC_DEV:** 13 , **DESIGN** 12 , **CASINOS** 12 , **BEST** 10 , **@SLUE7773:** 9 , **LOGO** 9 , **@STOCKING_XXXCOM:** 9 , **EN** 8 , **@LOTUSRANCON:** 8 , **MACHINE** 8 , **HTTPS://TCO/FWGDKVHFXD** 7 , **YUWOL** 7 , **KIMYUWOL** 7 , **NEWYOUTUBER** 7 , **SOME** 7 , **초보유튜버** 6 , **@VICTORACLARK:** 6 , **THESE** 6 , 
+**WHICH** 3 , **GAME** 3 , **APPLICATION** 2 , **DEVELOPMENT** 2 , **MOVING** 2 , **FORWARD** 2 , **DIRECTION** 2 , **SOFTWARE** 1 , **FLAWS** 1 , **VULNERABILITIES** 1 , **WEAKNESSES** 1 , **NEED** 1 , **EFFECTIVE** 1 , **RELIABLE** 1 , **WAY** 1 , **DISCOVER** 1 , **REMEDIA…** 1 , **HTTPS://TCO/XBWH6ULYY3OUR** 1 , **DESKTOP** 1 , **SKILLS** 1 , 
  
 ## What this user tweeted
  
-RT @JoshiNishadBlog: June 2020: Top 10 #Technology &amp; #Innovation Tweets
-
-https://t.co/ooYcK5pSmJ
-
-#技術 #革新 #起動 #AI #ML #DL #PenTest #InfoSec…
+All software has flaws, vulnerabilities and weaknesses. You need an effective, reliable way to discover and remedia… https://t.co/xBWH6uLYy3
  
-# keikoco06163041USER INFO
-![image](http://pbs.twimg.com/profile_images/1281507631253856258/m9MnwvYu_normal.jpg)
+# HarleyDrpedroUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281515010917830656/8ucfJTAS_normal.jpg)
  
-`User ScreenName:` keikoco06163041 
+`User ScreenName:` HarleyDrpedro 
  
-`User chosen Name:` keiko cook 
+`User chosen Name:` DrPedro Harley 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jul 10 08:35:57 +0000 2020 
+`User signup date?:` Fri Jul 10 09:05:14 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Medical doctor,and orthopedic surgeon by profession ,love sports like playing basketball, golf,swimming and working for the peace of the world. 
  
-`Followers?: `0 
+`Followers?: `1 
  
 `Following?:` 3 
  
@@ -497,11 +644,11 @@ https://t.co/ooYcK5pSmJ
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 65 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1281507631253856258/m9MnwvYu_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1281515010917830656/8ucfJTAS_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 65 
  
 
  
@@ -509,39 +656,38 @@ https://t.co/ooYcK5pSmJ
  
 ## User Top tweeted words 
  
-**2020** 3 , **@HAIFAWEHBE** 3 , **DUSK** 3 , **كل** 2 , **MARIJUANA** 2 , **شي** 2 , **،** 2 , **RT** 1 , **@Q8E:** 1 , **وزارة** 1 , **العدل** 1 , **تبدأ** 1 , **تفعيل** 1 , **نظام** 1 , **التقديم** 1 , **الإلكتروني** 1 , **للمعاملات** 1 , **العقاريةالأحد** 1 , **HTTPS://TCO/UEWZNP8I0PRT** 1 , **@DUFF22B:** 1 , 
+**@UN:** 43 , **COVID19** 22 , **PANDEMIC** 9 , **CRISIS** 8 , **UN** 7 , **NEW** 7 , **GLOBAL** 7 , **PEOPLE** 7 , **WORLD** 6 , **CHILDREN** 5 , **YEARS** 5 , **ITS** 4 , **--** 4 , **FOOD** 4 , **MISINFORMATION** 4 , **THAN** 4 , **MUST** 4 , **WOMEN** 4 , **@REFUGEES:** 4 , **DUE** 4 , 
  
 ## What this user tweeted
  
-RT @duff22b: From Domain Controller disk access to Enterprise Administrator in just a few minutes. https://t.co/x08HGFXv1t 
-#ActiveDirector…
+RT @antonioguterres: #COVID19 has highlighted vulnerabilities to new and emerging forms of terrorism, such as misuse of digital technology,…
  
-# amalfifer16USER INFO
-![image](http://pbs.twimg.com/profile_images/1281486321203249152/5zYBdz7Q_normal.jpg)
+# IWeyessaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1279039751127891970/5P625jFO_normal.jpg)
  
-`User ScreenName:` amalfifer16 
+`User ScreenName:` IWeyessa 
  
-`User chosen Name:` amal fifer 
+`User chosen Name:` Iftu weyessa 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jul 10 07:11:20 +0000 2020 
+`User signup date?:` Thu Jul 02 12:48:01 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `3 
+`Followers?: `7 
  
-`Following?:` 83 
+`Following?:` 16 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 32 
+`Number of tweets extracted`  : 123 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1281486321203249152/5zYBdz7Q_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1279039751127891970/5P625jFO_normal.jpg 
  
-`Number of tweets excluding replies:` 32 
+`Number of tweets excluding replies:` 123 
  
 
  
@@ -549,72 +695,262 @@ RT @duff22b: From Domain Controller disk access to Enterprise Administrator in j
  
 ## User Top tweeted words 
  
-**@HAIFAWEHBE** 6 , **شي** 3 , **WALLET** 3 , **NEW** 2 , **YOU…RT** 2 , **EN** 2 , **DE** 2 , **CORONAVIRUS** 2 , **كل** 2 , **ما** 2 , **من** 2 , **هي** 2 , **ENJOY** 2 , **US** 2 , **!** 2 , **TIME** 2 , **DURING** 2 , **@FEED_GIFT:** 2 , **LISTEN** 2 , **DJ** 2 , 
+**OROMOPROTESTS** 33 , **@TOLTUTUFA:** 25 , **HAACAALUUHUNDEESSAA** 24 , **OROMO** 17 , **OROMOREVOLUTION** 17 , **HAACAALUU** 15 , **ABIYMUSTGO** 13 , **ETHIOPIA** 11 , **HACHALUHUNDEESSAA** 11 , **FREEOROMIA** 9 , **ABIY** 7 , **OROMOS** 7 , **KILLED** 7 , **@SEENAAJIMJIMO:** 7 , **PEOPLE** 6 , **NEED** 6 , **FREEJAWARMOHAMMED** 6 , **@HENOKGABISA:** 6 , **OROMORT** 6 , **VOICE** 6 , 
  
 ## What this user tweeted
  
-RT @reach2ratan: #MongoDB Vulnerability Leaked Health Care Data Of 2 Million Mexicans Online https://t.co/4ux4bbMfPe
-
-#CyberSecurity #infos…
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
  
-# Mr_Kush_CloudsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1278910632973291520/At_Ge4pm_normal.jpg)
+# xDrghamUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280220970276589573/Y3sAwjCU_normal.jpg)
  
-`User ScreenName:` Mr_Kush_Clouds 
+`User ScreenName:` xDrgham 
  
-`User chosen Name:` Ｄｅｓ　Ｌ． 🅲🆈🅱🅴🆁 🆂🅴🅲🆄🆁🅸🆃🆈 
+`User chosen Name:` ضرغام 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jul 03 04:31:21 +0000 2020 
+`User signup date?:` Mon Jul 06 16:14:02 +0000 2020 
  
-`User Description?:` Black Man | Hacker | Activist | Hip Hop Wizard | Tired Of Your Shit | Blogger | Psychonaut | Programmer | 100% Black Thought |
-Take The Red Pill... 
+`User Description?:` حساب شخصي 
+ 
+`Followers?: `5 
+ 
+`Following?:` 354 
+ 
+`User URL?:` None 
+ 
+`Location:` 🌕 
+ 
+`Number of tweets extracted`  : 24 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280220970276589573/Y3sAwjCU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**من** 10 , **في** 8 , **لا** 5 , **@ALMOSAHF:** 3 , **لماذا** 3 , **لم** 2 , **،** 2 , **SECURITY** 2 , **عن** 2 , **RT** 2 , **على** 2 , **مع** 2 , **أخلاقهم** 2 , **الشغف** 2 , **الله** 2 , **صِدْقٍ** 2 , **@SALEMALSEHMAN:** 2 , **@MAL_HOTHALY** 1 , **للأسف** 1 , **حتى** 1 , 
+ 
+## What this user tweeted
+ 
+RT @pcgamer: Security researchers examined 127 wireless routers from seven manufacturers and found multiple security vulnerabilities in all…
+ 
+# hundaasaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280828104882044929/CgzD4j4A_normal.jpg)
+ 
+`User ScreenName:` hundaasa 
+ 
+`User chosen Name:` Justice For Hundaasa Sabbountu OROMO 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 08 11:34:57 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280828104882044929/CgzD4j4A_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@RABDICG:** 1 , **BECOMING** 1 , **ETHIOPIA'S** 1 , **GEORGE** 1 , **FLOYD** 1 , **MOMENT** 1 , **HTTPS://TCO/DMCQEAY5G8RT** 1 , **@CURATETHIOPIA:** 1 , **"PRISON** 1 , **BREAK** 1 , **HAACAALUU'S** 1 , **DETERMINATION** 1 , **HELPED** 1 , **UNDERSTAND** 1 , **PRECARITY** 1 , **VULNERABILITIES** 1 , **ASSOCIATED** 1 , **W…RT** 1 , **@FFINTERCEPT:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# FenedhisTheUSER INFO
+![image](http://pbs.twimg.com/profile_images/1279772060663906304/OqESNs4X_normal.jpg)
+ 
+`User ScreenName:` FenedhisThe 
+ 
+`User chosen Name:` The Fenedhis Monologues 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 05 12:37:55 +0000 2020 
+ 
+`User Description?:` I am Solas. I was worried about my penis. I was worried about what we think about my penis, and even more worried that we may not think about my penis. . . . 
+ 
+`Followers?: `11 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:` Up my own ass 
+ 
+`Number of tweets extracted`  : 29 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1279772060663906304/OqESNs4X_normal.jpg 
+ 
+`Number of tweets excluding replies:` 29 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PENIS** 6 , **ONES** 4 , **SEXUAL** 4 , **ONCE** 2 , **MUNDANE** 2 , **CONTEMPLATE** 2 , **OTHER** 2 , **DA'LEN** 2 , **COULD** 2 , **WORLD** 2 , **TRUE** 2 , **CONNECTION** 2 , **PRACTICE** 2 , **SELF** 2 , **FUCKING** 2 , **BODY** 2 , **FIRST** 2 , **DEPRESSION** 2 , **TRUELY** 2 , **SENSUALITY** 2 , 
+ 
+## What this user tweeted
+ 
+Once again my singular focus has distracted me from taking into account all of the relevant details. A grave oversi… https://t.co/duoXSJBC0z
+ 
+# BaharMoha2USER INFO
+![image](http://pbs.twimg.com/profile_images/1279546324480901120/me6kbyEH_normal.jpg)
+ 
+`User ScreenName:` BaharMoha2 
+ 
+`User chosen Name:` Bahar Moha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 04 22:42:36 +0000 2020 
+ 
+`User Description?:` jiranyi yaadu sirra fedha 
+ 
+`Followers?: `5 
+ 
+`Following?:` 146 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 151 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1279546324480901120/me6kbyEH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 151 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OROMO** 43 , **@HUDASHAFI4:** 27 , **OROMOPROTESTS** 27 , **PEOPLE** 26 , **ABIYMUSTGO** 24 , **ETHIOPIA** 16 , **ABIY** 13 , **OROMOREVOLUTION** 13 , **ETHIOPIAN** 11 , **HAACAALUUHUNDEESSAA** 10 , **AHMED** 10 , **OROMIA** 9 , **@ABIYAHMEDALI** 9 , **OROMOS** 8 , **THAN** 8 , **RIGHTS** 7 , **OROMOPROTESTSRT** 6 , **FREEJAWARMOHAMMED** 6 , **GOVERNMENT** 6 , **ABIYMUSTGORT** 6 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# mater_livesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1279859785861607425/emTQJF_P_normal.jpg)
+ 
+`User ScreenName:` mater_lives 
+ 
+`User chosen Name:` Lives Mater 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 05 19:23:44 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 33 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1279859785861607425/emTQJF_P_normal.jpg 
+ 
+`Number of tweets excluding replies:` 33 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CURATETHIOPIA:** 12 , **@ROOTEDROUTE:** 5 , **OROMO** 5 , **JUSTICEFORHAACAALUU** 4 , **ABIY** 4 , **ETHIOPIA** 3 , **OROMOPROTEST** 3 , **OROMOPROTESTS** 3 , **PEOPLE** 3 , **AHMED** 3 , **DOWN** 2 , **OROMIA** 2 , **HELPED** 2 , **ITS** 2 , **@ABIYAHMEDALI** 2 , **FULL** 2 , **5** 2 , **ETHNIC** 2 , **ETHIOPIA'S** 2 , **TAKEN** 2 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# mmitofficiallUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280447963693830144/ClUjJg2D_normal.jpg)
+ 
+`User ScreenName:` mmitofficiall 
+ 
+`User chosen Name:` MMIT 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 07 10:25:34 +0000 2020 
+ 
+`User Description?:` I have been working as a Technical Support Supervisor as well as an Information Cyber Security Specialist💻💾🦠🔍🖥 
+ 
+`Followers?: `6 
+ 
+`Following?:` 113 
+ 
+`User URL?:` https://t.co/8nYHVIUB0Z 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280447963693830144/ClUjJg2D_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**می** 7 , **به** 6 , **از** 6 , **راه** 6 , **منطقی** 6 , **استدلال** 6 , **خبری** 6 , **که** 5 , **جا** 5 , **با** 4 , **کردم** 4 , **نیست** 4 , **توجه** 4 , **من** 4 , **تو** 3 , **اول** 3 , **الان** 3 , **سکوت** 3 , **کنم** 3 , **و** 3 , 
+ 
+## What this user tweeted
+ 
+#Microsoft has released information regarding #vulnerabilities (CVE-2020-1425, CVE-2020-1457) in Microsoft Windows… https://t.co/JNpZw2yPZm
+ 
+# Aisha28278994USER INFO
+![image](http://pbs.twimg.com/profile_images/1278904119516897281/b11JSDpx_normal.jpg)
+ 
+`User ScreenName:` Aisha28278994 
+ 
+`User chosen Name:` Aisha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 03 04:10:51 +0000 2020 
+ 
+`User Description?:`  
  
 `Followers?: `7 
  
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 173 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1278910632973291520/At_Ge4pm_normal.jpg 
- 
-`Number of tweets excluding replies:` 173 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VIA** 11 , **ITS** 9 , **BLACK** 9 , **LOL** 7 , **@THOUGHT_CRIMEZ:** 7 , **HACKERS** 7 , **DATA** 6 , **NEW** 6 , **@EGSEVENWRITES:** 6 , **PUBLIC** 6 , **@HACKREAD:** 6 , **SOME** 6 , **ATTACK** 6 , **AFTER** 5 , **DAY** 5 , **SYSTEM** 5 , **RACIST** 5 , **⚠️** 5 , **@THOUGHT_CRIMEZ** 5 , **PEOPLE** 5 , 
- 
-## What this user tweeted
- 
-RT @TheHackersNews: WATCH OUT!
-
-Eleven new innocent-looking #Android apps loaded with 'billing fraud' Joker #malware ONCE AGAIN bypass #Goo…
- 
-# SolFoerstUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281108562350137344/B8ev0cmM_normal.jpg)
- 
-`User ScreenName:` SolFoerst 
- 
-`User chosen Name:` Solitude in the Time of Corona 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 08 01:50:11 +0000 2020 
- 
-`User Description?:` Systems Design * Usability * Amateur Sleuthing * Suddenly Active 
- 
-`Followers?: `4 
- 
-`Following?:` 140 
+`Following?:` 25 
  
 `User URL?:` None 
  
@@ -622,7 +958,7 @@ Eleven new innocent-looking #Android apps loaded with 'billing fraud' Joker #mal
  
 `Number of tweets extracted`  : 38 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1281108562350137344/B8ev0cmM_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1278904119516897281/b11JSDpx_normal.jpg 
  
 `Number of tweets excluding replies:` 38 
  
@@ -632,69 +968,28 @@ Eleven new innocent-looking #Android apps loaded with 'billing fraud' Joker #mal
  
 ## User Top tweeted words 
  
-**TWITTER** 6 , **MAKE** 3 , **PEOPLE** 3 , **THAN** 3 , **I'M** 3 , **VIDEO** 3 , **FEEL** 2 , **BASEBALL** 2 , **THAT'S** 2 , **EVER** 2 , **DOES** 2 , **PERSON** 2 , **HAVING** 2 , **DIVERSE** 2 , **DIE** 2 , **LET** 2 , **BOUNTIES** 2 , **WI…** 2 , **WENT** 2 , **@PROJECTLINCOLN:** 2 , 
+**OROMO** 7 , **PEOPLE** 6 , **@SSFAQO:** 4 , **OROMOREVOLUTION** 4 , **OROMOPROTESTS** 4 , **MAKE** 4 , **FIGHT** 4 , **POWER** 4 , **@PMETHIOPIA** 3 , **POLITICAL** 3 , **ETHIOPIA** 3 , **UNDERSTAND** 3 , **NEVER** 3 , **INTERNET** 3 , **PROFILES** 3 , **RED** 3 , **PUT** 3 , **“🌳”** 3 , **OMN** 2 , **WAR** 2 , 
  
 ## What this user tweeted
  
-Twitter keeps saying "tone it down" bc an algorithm does not believe one person is capable of having a diverse set… https://t.co/esnetTx03K
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
  
-# th3fr09m4nUSER INFO
-![image](http://pbs.twimg.com/profile_images/1278571013643485185/02aiay1q_normal.jpg)
+# Zebiba13784629USER INFO
+![image](http://pbs.twimg.com/profile_images/1279091819536498689/m1u8kR9h_normal.jpg)
  
-`User ScreenName:` th3fr09m4n 
+`User ScreenName:` Zebiba13784629 
  
-`User chosen Name:` Frog Man 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 02 06:05:50 +0000 2020 
- 
-`User Description?:` If you’re feeling froggy, then you better jump because this Frogman has been there, done that & is going back for more. 
- 
-`Followers?: `1 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:` 127.0.0.1 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1278571013643485185/02aiay1q_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**USE** 2 , **INFOSEC** 2 , **LINUX** 2 , **WOKE** 1 , **THINKING** 1 , **NEED** 1 , **@KALILINUX** 1 , **@PARROTSEC** 1 , **@BLACKARCHLINUX** 1 , **@BACKBOX_ORG** 1 , **THEN** 1 , **DOES** 1 , **RE…** 1 , **HTTPS://TCO/ZTCCNTYXS8WHATEVER** 1 , **SCREEN** 1 , **TYPED** 1 , **INTO** 1 , **OPENSOURCE** 1 , **CYBERSECURITY** 1 , **MOBILE** 1 , 
- 
-## What this user tweeted
- 
-Woke up thinking do I need to use @kalilinux or @ParrotSec or @blackarchlinux or @backbox_org 
-
-But then does it re… https://t.co/ZtCCnTYXS8
- 
-# too_wordyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1278840005541212165/RvB0-7Yb_normal.jpg)
- 
-`User ScreenName:` too_wordy 
- 
-`User chosen Name:` I Dont Even Go Here 
+`User chosen Name:` ZebibaH 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jul 02 23:53:30 +0000 2020 
+`User signup date?:` Wed Jul 01 20:40:37 +0000 2020 
  
-`User Description?:` Writer | Sci-Fi | Gamer | She/her | Happy Wife 
+`User Description?:` Muslim alhamdulillah Unapologetically Oromo🌳 Justiceforhachalu# 
  
-`Followers?: `55 
+`Followers?: `18 
  
-`Following?:` 98 
+`Following?:` 38 
  
 `User URL?:` None 
  
@@ -702,9 +997,9 @@ But then does it re… https://t.co/ZtCCnTYXS8
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1278840005541212165/RvB0-7Yb_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1279091819536498689/m1u8kR9h_normal.jpg 
  
-`Number of tweets excluding replies:` 229 
+`Number of tweets excluding replies:` 261 
  
 
  
@@ -712,39 +1007,38 @@ But then does it re… https://t.co/ZtCCnTYXS8
  
 ## User Top tweeted words 
  
-**PEOPLE** 21 , **DON’T** 17 , **@NEVERBORG1** 14 , **SOME** 13 , **I’M** 12 , **WRITING** 10 , **ENOUGH** 9 , **DAY** 8 , **GOOD** 7 , **SOMEONE** 7 , **COME** 7 , **CAN’T** 7 , **THING** 7 , **REALLY** 6 , **SOMETHING** 6 , **THEN** 6 , **I’VE** 6 , **TIME** 6 , **LOVE** 6 , **NEVER** 6 , 
+**OROMOPROTESTS** 43 , **OROMO** 36 , **PEOPLE** 31 , **@SSFAQO:** 24 , **ETHIOPIA** 22 , **ABIYMUSTGO** 20 , **ETHIOPIAN** 17 , **DEMAND** 16 , **FREE** 15 , **OROMOS** 14 , **OROMIA** 13 , **OROMOREVOLUTION** 12 , **@ITSNAIMAB:** 11 , **POLITICAL** 9 , **US** 9 , **FREEOROMIA** 9 , **ABIY** 9 , **NEVER** 9 , **PEACE** 8 , **@FBEDASO:** 8 , 
  
 ## What this user tweeted
  
-RT @kim_crawley: Looking for someone to write about cybersecurity or do threat intel? I've written and researched for some of the biggest t…
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
  
-# s3rgiomazari3goUSER INFO
-![image](http://pbs.twimg.com/profile_images/1279649233545637890/voX81yc4_normal.jpg)
+# huda68301497USER INFO
+![image](http://pbs.twimg.com/profile_images/1278691782113529856/wzZCASqq_normal.jpg)
  
-`User ScreenName:` s3rgiomazari3go 
+`User ScreenName:` huda68301497 
  
-`User chosen Name:` Sergio Mazariego 
+`User chosen Name:` huda 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jul 02 15:43:57 +0000 2020 
+`User signup date?:` Wed Jul 01 23:13:22 +0000 2020 
  
-`User Description?:` #CTF Player | #ComputerScience Student.
-A world without some minimal standards in terms of engeeniering and technology is a world in chaos. 
+`User Description?:` #oromoprotests 
  
-`Followers?: `2 
+`Followers?: `10 
  
-`Following?:` 54 
+`Following?:` 11 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 195 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1279649233545637890/voX81yc4_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1278691782113529856/wzZCASqq_normal.jpg 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 195 
  
 
  
@@ -752,30 +1046,379 @@ A world without some minimal standards in terms of engeeniering and technology i
  
 ## User Top tweeted words 
  
-**RT** 1 , **@TRBUGHUNTERS:** 1 , **🧮** 1 , **TOP** 1 , **25** 1 , **LOCAL** 1 , **FILE** 1 , **INCLUSION** 1 , **(LFI)** 1 , **PARAMETERS** 1 , **🛡️** 1 , **BUGBOUNTYTIPS** 1 , **BUGBOUNTYTIP** 1 , **BUGBOUNTY** 1 , **CYBERSECURITY** 1 , **INFOSEC** 1 , **ETHIC…RT** 1 , **@KVLLY:** 1 , **SKILL** 1 , **LEVEL** 1 , 
+**OROMOPROTESTS** 42 , **@HENOKGABISA:** 42 , **OROMO** 35 , **HAACAALUUHUNDEESSAA** 29 , **ABIYMUSTGO** 27 , **OROMOREVOLUTION** 26 , **ETHIOPIA** 23 , **@TOLTUTUFA:** 22 , **ABIY** 19 , **PEOPLE** 19 , **@HUDASHAFI4:** 17 , **HAACAALUU** 13 , **ETHIOPIAN** 12 , **HACHALUHUNDEESSAA** 12 , **FREEOROMIA** 12 , **AHMED** 10 , **ARRESTED** 10 , **@CURATETHIOPIA:** 10 , **1** 9 , **OROMORT** 9 , 
  
 ## What this user tweeted
  
-RT @trbughunters: 🧮 Top 25 Local File Inclusion (LFI) Parameters 🛡️
-
-#bugbountytips #bugbountytip #bugbounty #cybersecurity #infosec #ethic…
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
  
-# simplem43786527USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# EdaoGanaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1279689043337523200/-b7lr5d2_normal.jpg)
  
-`User ScreenName:` simplem43786527 
+`User ScreenName:` EdaoGana 
  
-`User chosen Name:` simple man 
+`User chosen Name:` Gana Edao 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 01 10:23:41 +0000 2020 
+`User signup date?:` Thu Jul 02 13:25:07 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `9 
+ 
+`Following?:` 99 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1279689043337523200/-b7lr5d2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 483 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OROMOPROTESTS** 44 , **OROMO** 42 , **HACAALUUHUNDEESSAA** 28 , **@BENGUA2020:** 26 , **OROMOREVOLUTION** 23 , **ETHIOPIA** 20 , **PEOPLE** 17 , **HAACAALUUHUNDEESSAA** 16 , **ABIYMUSTGO** 14 , **FREE** 13 , **JUSTICE** 13 , **@EDAOGANA:** 11 , **ETHIOPIAN** 11 , **FREEJAWARMOHAMMED** 11 , **ABIY** 10 , **FREEALLPOLITICALPRISONERS** 9 , **@HENOKGABISA:** 8 , **@GIRMAAGEMEDA:** 8 , **FREEBAKELEGERBA** 8 , **STOPKILLING…RT** 7 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# AbdiMekiyaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1279220194011828224/f9jOWgxk_normal.jpg)
+ 
+`User ScreenName:` AbdiMekiya 
+ 
+`User chosen Name:` mekiya abdi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 02 12:50:41 +0000 2020 
+ 
+`User Description?:` I believe I can do it 
+ 
+`Followers?: `1 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:` Katsushika-ku, Tokyo 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1279220194011828224/f9jOWgxk_normal.jpg 
+ 
+`Number of tweets excluding replies:` 231 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OROMOPROTESTS** 61 , **@ABBA_RAAJII:** 43 , **@HENOKGABISA:** 36 , **HAACAALUUHUNDEESSAA** 30 , **OROMO** 27 , **ABIYMUSTGO** 25 , **ETHIOPIA** 22 , **PEOPLE** 20 , **ETHIOPIAN** 15 , **OROMOREVOLUTION** 15 , **FREEOROMIA** 14 , **ABIY** 12 , **HAACAALUU** 10 , **@TOLTUTUFA:** 10 , **FREEJAWARMOHAMMED** 10 , **1** 9 , **JULY** 9 , **FREEBEKELEGERBA** 9 , **DAY** 8 , **FREEALLPOLITICALPRISONERS** 8 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# FeyruzaYUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278946985949577218/XPPlAcNb_normal.jpg)
+ 
+`User ScreenName:` FeyruzaY 
+ 
+`User chosen Name:` Feyruza Yakub 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 02 21:07:59 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
  
 `Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278946985949577218/XPPlAcNb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 297 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OROMO** 41 , **OROMOPROTESTS** 29 , **ETHIOPIA** 22 , **@CURATETHIOPIA:** 22 , **@HENOKGABISA:** 18 , **ABIY** 17 , **PEOPLE** 14 , **OROMOPROTESTSRT** 12 , **@FBEDASO:** 12 , **ETHIOPIAN** 11 , **ABIYMUSTGO** 10 , **ARRESTED** 10 , **POLITICAL** 10 , **@THAAYANTU:** 9 , **JAWAR** 9 , **FREE** 9 , **WEEK** 8 , **MANY** 8 , **HAACAALUUHUNDEESSAA** 8 , **@OROMOROTEST:** 8 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# mcculley_rogerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280908158609895425/3ssxhRmY_normal.jpg)
+ 
+`User ScreenName:` mcculley_roger 
+ 
+`User chosen Name:` Roger McCulley 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 08 16:53:51 +0000 2020 
+ 
+`User Description?:` Retired teacher, counselor and pastor 
+ 
+`Followers?: `2 
+ 
+`Following?:` 27 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280908158609895425/3ssxhRmY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SICK** 8 , **@ABC** 4 , **PRESIDENT** 4 , **HELP** 4 , **POLICE** 3 , **OFFICERS** 3 , **TRUMP** 3 , **US** 3 , **THANKS** 2 , **OBEY** 2 , **LAW** 2 , **RESPECT** 2 , **MUST** 2 , **SOME** 2 , **!** 2 , **FRONT** 2 , **TOWER** 2 , **GOD** 2 , **DEAR** 2 , **@MARKPREACH** 1 , 
+ 
+## What this user tweeted
+ 
+@FiveThirtyEight @ABC Why must we have division in our country. Do we have some leaders who are self serving and us… https://t.co/e7PHjqGskM
+ 
+# beach__tradesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281300261500334081/RbdPCHos_normal.jpg)
+ 
+`User ScreenName:` beach__trades 
+ 
+`User chosen Name:` cjboro 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 09 18:42:49 +0000 2020 
+ 
+`User Description?:` Theme Based Swing & Day Trader.  Tweets are not a recommendation to buy or sell any stock, they are ideas for educational purposes only Assume I am trading them 
+ 
+`Followers?: `1 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:` NYC 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281300261500334081/RbdPCHos_normal.jpg 
+ 
+`Number of tweets excluding replies:` 303 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BEACH_TRADES:** 185 , **$INPX** 28 , **SWING** 21 , **ADD** 16 , **PLAY** 15 , **HERE** 14 , **$AYTU** 14 , **COVID19** 14 , **$NTN** 12 , **$HTBX** 12 , **EV** 11 , **$NNVC** 10 , **$HAPP** 10 , **2** 9 , **RED** 9 , **$QLGN** 9 , **PLAYS** 8 , **INTO** 8 , **$AIKI** 8 , **$SINT** 8 , 
+ 
+## What this user tweeted
+ 
+RT @beach_trades: $SHMP The #Covid19 Pandemic Draws Attention to Vulnerabilities in the Global Food System  https://t.co/EmVwwwif31
+ 
+# NoreenAfzal123USER INFO
+![image](http://pbs.twimg.com/profile_images/1281235891512582147/-fdu6JQP_normal.jpg)
+ 
+`User ScreenName:` NoreenAfzal123 
+ 
+`User chosen Name:` NOREEN AMMAD 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 09 14:08:29 +0000 2020 
+ 
+`User Description?:` Computer Science Teacher at Beaconhouse Margalla Campus, Girls Branch, Islamabad 
+ 
+`Followers?: `6 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:` Rawalpindi, Pakistan 
+ 
+`Number of tweets extracted`  : 181 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281235891512582147/-fdu6JQP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 201 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SOTEVENTS:** 107 , **SCHOOL** 102 , **TOMORROW** 95 , **VIRTUAL** 66 , **GLOBAL** 62 , **FIRST** 60 , **LIVE** 56 , **WORLD** 53 , **LEADERS** 51 , **CONFERENCE** 50 , **TOMORROW:** 48 , **60** 39 , **BEACONHOUSE** 35 , **@STREAMLINES96:** 33 , **FULLY** 29 , **TOGETHER** 25 , **EDUCATION** 24 , **US** 24 , **JOIN** 23 , **CONFERENCE:** 23 , 
+ 
+## What this user tweeted
+ 
+RT @SOTevents: On the first fully virtual School of Tomorrow Conference, Professor Maggie Atkinson, Former Children’s Commissioner for Engl…
+ 
+# katimaabdoshUSER INFO
+![image](http://pbs.twimg.com/profile_images/1279619907504803840/xASPm1LZ_normal.jpg)
+ 
+`User ScreenName:` katimaabdosh 
+ 
+`User chosen Name:` katimaabdosh@gmail.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 05 03:35:12 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 179 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1279619907504803840/xASPm1LZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 180 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HENOKGABISA:** 79 , **OROMO** 44 , **OROMOPROTESTS** 40 , **ETHIOPIA** 25 , **PEOPLE** 19 , **ETHIOPIAN** 14 , **ABIY** 13 , **ABIYMUSTGO** 13 , **DEATH** 11 , **HACHALU** 11 , **1** 11 , **PROTEST** 10 , **HUNDESSA** 9 , **@CURATETHIOPIA:** 9 , **JAWAR** 8 , **BEKELE** 8 , **DAY** 8 , **ARRESTED** 8 , **PROTESTS** 7 , **JULY** 7 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# AbdurazaakKUSER INFO
+![image](http://pbs.twimg.com/profile_images/1279544993175293952/qT9IsRUn_normal.jpg)
+ 
+`User ScreenName:` AbdurazaakK 
+ 
+`User chosen Name:` Abdurazaak kabira 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 04 22:36:40 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 97 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1279544993175293952/qT9IsRUn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 97 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OROMO** 22 , **ABIY** 17 , **AHMED** 14 , **@HENOKGABISA:** 13 , **OROMOPROTESTS** 13 , **PEOPLE** 12 , **ETHIOPIA** 9 , **JAWAR** 7 , **@CURATETHIOPIA:** 6 , **NOBEL** 6 , **FREEJAWARMOHAMED** 6 , **PEACE** 5 , **OROMIA** 5 , **ETHIOPIAN** 5 , **PM** 4 , **OROMOLIVESMATTER** 4 , **KILLING** 4 , **@OROMOROTEST:** 4 , **GOVERNMENT** 4 , **@ABDURAZAAKK:** 4 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# Aiza30707650USER INFO
+![image](http://pbs.twimg.com/profile_images/1280058805561118721/XmNDcZsL_normal.jpg)
+ 
+`User ScreenName:` Aiza30707650 
+ 
+`User chosen Name:` Aiza 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 06 08:38:45 +0000 2020 
+ 
+`User Description?:` Doctor and Researcher. A bookworm who craves colorful sharpies and markers. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 115 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280058805561118721/XmNDcZsL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 115 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کو** 26 , **نہیں** 22 , **سے** 20 , **کی** 19 , **کے** 17 , **میں** 16 , **کر** 15 , **اس** 14 , **ہی** 13 , **تو** 12 , **کا** 11 , **یہ** 11 , **پر** 11 , **کہ** 11 , **ہے** 10 , **بھی** 9 , **دل** 9 , **ALLAH** 9 , **وہ** 8 , **PPL** 8 , 
+ 
+## What this user tweeted
+ 
+RT @nablusiya: And it seems no one wants to discuss that when a young Muslim girl in high school is made to feel inadequate by a Muslim per…
+ 
+# SamuraiSal2USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` SamuraiSal2 
+ 
+`User chosen Name:` SamuraiSal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 05 16:59:26 +0000 2020 
+ 
+`User Description?:` Cybersec enthusiastic, looking for knowledge and always curious. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 46 
  
 `User URL?:` None 
  
@@ -793,13 +1436,169 @@ RT @trbughunters: 🧮 Top 25 Local File Inclusion (LFI) Parameters 🛡️
  
 ## User Top tweeted words 
  
-**RT** 1 , **@SALAHHASONEH1:** 1 , **🛡️TOP** 1 , **10** 1 , **REACH** 1 , **CASE** 1 , **UPLOADED** 1 , **🛡️** 1 , **CYBERSECURITY** 1 , **INFOSEC** 1 , **ETHICALHACKING** 1 , **BUGBOUNTY** 1 , **BUGBOUNTYTI…** 1 , 
+**DAY** 2 , **RT** 1 , **@REALTRYHACKME:** 1 , **STARTING** 1 , **13TH** 1 , **JULY** 1 , **LEARN** 1 , **OWASP** 1 , **VULNERABILITIES** 1 , **10** 1 , **DAYS** 1 , **ROW!** 1 , **RELEASE** 1 , **A…** 1 , 
  
 ## What this user tweeted
  
-RT @SalahHasoneh1: 🛡️Top 10 - What can you reach in case you uploaded.. 🛡️
+RT @RealTryHackMe: Starting 13th July, learn one of the OWASP vulnerabilities every day for 10 days in a row! 
 
-#cybersecurity #infosec #ethicalhacking #bugbounty #bugbountyti…
+Every day we will release a…
+ 
+# OromiaBilisumaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278721583029215232/mChOqOD__normal.jpg)
+ 
+`User ScreenName:` OromiaBilisuma 
+ 
+`User chosen Name:` Bilisuma Oromia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 02 16:05:02 +0000 2020 
+ 
+`User Description?:` Never give up! 
+ 
+`Followers?: `6 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 130 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278721583029215232/mChOqOD__normal.jpg 
+ 
+`Number of tweets excluding replies:` 131 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HENOKGABISA:** 36 , **ETHIOPIA** 19 , **OROMO** 16 , **@FBEDASO:** 14 , **ABIY** 13 , **JAWAR** 13 , **@AWOLALLO:** 12 , **OROMOPROTESTS** 10 , **HAACAALUUHUNDEESSAA** 9 , **1** 8 , **PEOPLE** 8 , **POLITICAL** 8 , **GOVERNMENT** 7 , **ETHIOPIAN** 7 , **ARRESTED** 6 , **PRISONERS** 6 , **@NAJATHAMZA6:** 6 , **ARREST** 6 , **RELEASE** 6 , **INTO** 6 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
+ 
+# 98jhxUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281452336800567296/pVSUOnu-_normal.jpg)
+ 
+`User ScreenName:` 98jhx 
+ 
+`User chosen Name:` 👺 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 03 18:22:43 +0000 2020 
+ 
+`User Description?:` Optom grad || pakhtun 
+ 
+`Followers?: `42 
+ 
+`Following?:` 87 
+ 
+`User URL?:` None 
+ 
+`Location:` mcr/ elaaka chach 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281452336800567296/pVSUOnu-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 474 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ALLAH** 19 , **MAY** 7 , **SAID:** 7 , **MAN** 6 , **الله** 6 , **IBN** 6 , **رحمه** 5 , **THEN** 5 , **BRO** 5 , **US** 5 , **PEOPLE** 5 , **NEED** 5 , **REMEMBER** 4 , **HEART** 4 , **GIRL** 4 , **GOOD** 4 , **MAKE** 4 , **NEVER** 4 , **LIFE** 4 , **@SHARINGANATHARI:** 4 , 
+ 
+## What this user tweeted
+ 
+RT @nablusiya: And it seems no one wants to discuss that when a young Muslim girl in high school is made to feel inadequate by a Muslim per…
+ 
+# flaszczynskaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281182744513478657/ZZQqGdjn_normal.jpg)
+ 
+`User ScreenName:` flaszczynska 
+ 
+`User chosen Name:` Laura Flaszczynska 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 09 10:59:47 +0000 2020 
+ 
+`User Description?:` Above all be kind. Exercising the right to free speech that others so selflessly fought for 
+ 
+`Followers?: `3 
+ 
+`Following?:` 35 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281182744513478657/ZZQqGdjn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHANGE** 2 , **LOVING** 2 , **SELF** 2 , **KIDS** 2 , **ALWAYS** 2 , **CHILD** 2 , **WHO'S** 2 , **DIDN'T** 2 , **MATTER** 2 , **DECIDE** 1 , **BODY** 1 , **VIEWPOINT** 1 , **CARE** 1 , **MINDSET** 1 , **CHILD…** 1 , **HTTPS://TCO/PGKGCKKAHOLONG** 1 , **LASTING** 1 , **HAPPENS** 1 , **RESULT** 1 , **PUNISHMENT** 1 , 
+ 
+## What this user tweeted
+ 
+I was never going to have a twitter - even as a child I was always in trouble for speaking my mind out. The way in… https://t.co/zkdfB2L5KH
+ 
+# MusxafaHasan3USER INFO
+![image](http://pbs.twimg.com/profile_images/1281204559457681410/XsMjhR8V_normal.jpg)
+ 
+`User ScreenName:` MusxafaHasan3 
+ 
+`User chosen Name:` Musxafa Hasan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 09 12:31:52 +0000 2020 
+ 
+`User Description?:` oromo 
+ 
+`Followers?: `17 
+ 
+`Following?:` 249 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 51 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281204559457681410/XsMjhR8V_normal.jpg 
+ 
+`Number of tweets excluding replies:` 51 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OROMO** 14 , **OROMOPROTESTS** 12 , **PEOPLE** 8 , **ABIYMUSTGO** 6 , **OROMOREVOLUTION** 6 , **ABIY** 5 , **HAACAALUUHUNDEESSAA** 4 , **ARRESTED** 4 , **I’M** 4 , **TRUMPSTOPFUNDINGETHIOPIA** 3 , **@HENOKGABISA:** 3 , **@JAWAR_MOHAMMED** 3 , **ETHIOPIAN** 3 , **AHMED** 3 , **OROMOPROTESTSRT** 3 , **NYAATE** 3 , **BASIC** 2 , **@SSFAQO:** 2 , **FREEDOM** 2 , **@HUDASHAFI4:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @curatethiopia: "Prison did not break Haacaaluu's determination. It helped him understand the precarity and vulnerabilities associated w…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
