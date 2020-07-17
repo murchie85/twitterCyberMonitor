@@ -1,21 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **jonasLyk**  
+The most popular user is: **CiscoIoT**  
  
 
-## As Microsoft have no intensions of ever paying me for all my submitted vulnerabilities I am forced to do this.
-Coun… https://t.co/QmwcGKcmJ6 
+## Ripple20: Critical vulnerabilities might be putting your #IoT/OT devices at risk. Learn how @CiscoIoT can help you… https://t.co/JzS5PA9DKf 
 
   
 
@@ -24,25 +23,25 @@ Coun… https://t.co/QmwcGKcmJ6
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Joywinter90: 7 Cloud Computing Security Vulnerabilities and What to Do About Them: https://t.co/05QaZvwpou  #DataScience #ArtificialI… |
-| RT @itscharosoriano: To have people who are willing to share their burdens, vulnerabilities, and dreams with you is such a blessing. Love y… |
-| RT @MarshallCohen: My story this morning — highlighting how Trump exploits loopholes in Twitter's election misinformation policy — seems li… |
+| CISO advisor, Jane Frankland believes that a CISO has a tougher time today than even just a few years ago. Do you C… https://t.co/RESnWdV869 |
+| People are precious treasure, protect your assets by being skillful against all crime. Take up time to protect peop… https://t.co/U2ukJoJwE5 |
+| RT @TheHackersNews: OPSEC Fail!Iranian APT35 hackers accidentally exposed 40 GB worth of sensitive data online, containing #hacking train… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **dnvolz** |
-| #2 Most tweeted to  | **sidharth_shukla** |
-| #3 Most tweeted to  | **LoonyBeanie** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 2.66%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **TheHackersNews** |
+| #2 Most tweeted to  | **nd_apanda** |
+| #3 Most tweeted to  | **DrJDrooghaag** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 2.76%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -51,340 +50,57 @@ Coun… https://t.co/QmwcGKcmJ6
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **TWITTER**  |
-| third  | **HACK** |
-| fourth  | **PEOPLE**  |
-| fifth  | **CISCO**  |
+| first  | **DATA**  |
+| second  | **HACKERS**  |
+| third  | **ONLINE** |
+| fourth  | **TWITTER**  |
+| fifth  | **INFOSEC**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#Covid19 has been a great revealer and accelerator of major vulnerabilities pertaining to human security.One of t… https://t.co/a2YXGSe3ID |
+|RT @CDWGWAGov: Knowledge 2020: Entering the Next Chapter of the Next Normal #Know20 #ServiceNow #digitalworkspace #Python #100DaysOfCode #D… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jonasLyk**  |
+| The most retweeted user is: **CiscoIoT**  |
 | ------------- |
-| As Microsoft have no intensions of ever paying me for all my submitted vulnerabilities I am forced to do this.Coun… https://t.co/QmwcGKcmJ6 |
+| Ripple20: Critical vulnerabilities might be putting your #IoT/OT devices at risk. Learn how @CiscoIoT can help you… https://t.co/JzS5PA9DKf |
 
 # Potential Fake Accounts
  
-# rainbowpeejayUSER INFO
-![image](http://pbs.twimg.com/profile_images/1282587989093134342/D2Z71rLH_normal.jpg)
+# sitcs_rsuUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283586273089695744/INmLcqgx_normal.jpg)
  
-`User ScreenName:` rainbowpeejay 
+`User ScreenName:` sitcs_rsu 
  
-`User chosen Name:` PJ Morante 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jul 13 07:23:35 +0000 2020 
- 
-`User Description?:` bakla. 
- 
-`Followers?: `3 
- 
-`Following?:` 23 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1282587989093134342/D2Z71rLH_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SA** 2 , **PAGIGING** 2 , **MULA** 1 , **BL** 1 , **UMALAGWA** 1 , **ANG** 1 , **GAMEBOYSEP8** 1 , **HIGH** 1 , **FILIPINO** 1 , **DRAMA** 1 , **DISCUSSING** 1 , **TROPES** 1 , **COMING** 1 , **O…** 1 , **HTTPS://TCO/CBHGCL4KFQ** 1 , 
- 
-## What this user tweeted
- 
-Mula sa pagiging BL, umalagwa ang #GameboysEp8 sa pagiging high end Filipino drama. Discussing tropes like coming o… https://t.co/cbhgcL4kFQ
- 
-# GeorgeMalolet20USER INFO
-![image](http://pbs.twimg.com/profile_images/1281929533172649990/OSeQGpfW_normal.jpg)
- 
-`User ScreenName:` GeorgeMalolet20 
- 
-`User chosen Name:` George Maloletoff 
+`User chosen Name:` School of Information Technology & Cyber Security 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jul 11 12:31:23 +0000 2020 
+`User signup date?:` Wed Jul 15 07:22:08 +0000 2020 
  
-`User Description?:` 💹CRYPTO/BINARY TRADER
-💴BITCOIN INVESTMENT 
-📉BITCOIN MINING
-📊EARN $22,000 weekly 
-⏲️24hours trading 
-📝DM for more info 
- 
-`Followers?: `2 
- 
-`Following?:` 24 
- 
-`User URL?:` https://t.co/dRmUHOLcou 
- 
-`Location:` Houston, TX 
- 
-`Number of tweets extracted`  : 85 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281929533172649990/OSeQGpfW_normal.jpg 
- 
-`Number of tweets excluding replies:` 85 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@BUSINESSINSIDER:** 29 , **INVEST** 24 , **TRADE** 20 , **HELP** 18 , **ACCOUNT** 18 , **EARN** 18 , **GOOD** 18 , **7** 18 , **DAYS** 18 , **$22000** 17 , **INVESTMENT** 17 , **MAKING** 17 , **COMPANY** 10 , **OPTION** 10 , **TRADE!!!** 10 , **MANAGE** 10 , **PROFIT** 10 , **7DAYS** 10 , **(FREE** 10 , **ACCESS…** 10 , 
- 
-## What this user tweeted
- 
-RT @businessinsider: The US government spent $1.75 million on an Airbus A321 passenger jet just to blow it up — here's why https://t.co/ycn…
- 
-# wongderlustUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281760229021986816/cOiJPonb_normal.jpg)
- 
-`User ScreenName:` wongderlust 
- 
-`User chosen Name:` wongderlust 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 11 00:22:49 +0000 2020 
- 
-`User Description?:` Nature 🌿Personal Finance💰Tech 🦾Bitcoin⛓ Precious Metal ⭐️ Prosperity Mindset 🌞 
- 
-`Followers?: `11 
- 
-`Following?:` 107 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281760229021986816/cOiJPonb_normal.jpg 
- 
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SOME** 2 , **CLOUD** 2 , **LOT** 2 , **TECH** 2 , **FOLKS** 2 , **IG** 2 , **FB** 2 , **GAME** 2 , **WHILE** 1 , **UNDERSTAND** 1 , **R** 1 , **CONCERNED** 1 , **ABT** 1 , **APPS’** 1 , **SECURITY** 1 , **VULNERABILITIES** 1 , **APPS** 1 , **SOLVE** 1 , **MAJOR…** 1 , **HTTPS://TCO/SNATHYFLXEBOBA** 1 , 
- 
-## What this user tweeted
- 
-While I understand some r concerned abt cloud apps’ security vulnerabilities... cloud apps can solve a lot of major… https://t.co/sNAThYflXE
- 
-# BigJeff55951871USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` BigJeff55951871 
- 
-`User chosen Name:` BigJeff 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 16 19:44:45 +0000 2020 
- 
-`User Description?:` Special Appointed Expert 
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 460 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DON'T** 12 , **PEOPLE** 11 , **REALLY** 10 , **GO** 8 , **ACCOUNT** 8 , **BEING** 7 , **GOT** 7 , **@FACEBOOK** 7 , **TIME** 6 , **I’M** 6 , **BULLSHIT** 6 , **LOVE** 6 , **SITTING** 6 , **NAH** 6 , **FUCK** 5 , **GIVE** 5 , **NAME** 5 , **PAIN** 5 , **GREAT** 5 , **COULD** 5 , 
- 
-## What this user tweeted
- 
-RT @P39A_nlud: Question: what about the vulnerabilities of prisoners who are under death row? 
-Maitreyi: These are prisoners who have been…
- 
-# xElitiok_USER INFO
-![image](http://pbs.twimg.com/profile_images/1283599855034802176/D6_N7BjC_normal.jpg)
- 
-`User ScreenName:` xElitiok_ 
- 
-`User chosen Name:` xElitiok 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jul 13 01:06:29 +0000 2020 
- 
-`User Description?:` HighSchoolStudent Writes C++, Reverse Malware and Hack Games. @GuidedHacking is my Home. 
- 
-`Followers?: `1 
- 
-`Following?:` 187 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 30 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1283599855034802176/D6_N7BjC_normal.jpg 
- 
-`Number of tweets excluding replies:` 30 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GAME** 4 , **TUTORIALS** 4 , **ANY** 3 , **@GUIDEDHACKING:** 3 , **LANGUAGE** 3 , **@THE_SECRET_CLUB** 2 , **EYE** 2 , **@GUIDEDHACKING** 2 , **WHICH** 2 , **PUT** 2 , **DON'T** 2 , **QUESTION** 2 , **FIRST** 2 , **1** 2 , **@ERFG12** 2 , **VIDEO** 2 , **RT** 1 , **@JONASLYK:** 1 , **MICROSOFT** 1 , **INTENSIONS** 1 , 
- 
-## What this user tweeted
- 
-RT @jonasLyk: As Microsoft have no intensions of ever paying me for all my submitted vulnerabilities I am forced to do this.
-Countdown star…
- 
-# spymasterlordUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281635863437312000/c3Y4peed_normal.jpg)
- 
-`User ScreenName:` spymasterlord 
- 
-`User chosen Name:` Spymaster $NXM $LINK Lord Archer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 10 15:52:20 +0000 2020 
- 
-`User Description?:` Just another spy serving their duty. $LINK $LEND $SNX $DXD $NXM 
- 
-`Followers?: `89 
- 
-`Following?:` 404 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 41 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281635863437312000/c3Y4peed_normal.jpg 
- 
-`Number of tweets excluding replies:` 41 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**$LINK** 8 , **CONTRACT** 5 , **$NXM** 5 , **SOMEONE** 4 , **MENTION** 4 , **VULNERABILITIES?** 4 , **COVERED** 4 , **NEXUSMUTUAL** 4 , **🐢** 4 , **SHALL** 4 , **UNDERSTAND** 3 , **@LINK_CHANCE** 3 , **@DREDADRDRIZZLE** 3 , **MISSION** 3 , **OBVIOUSLY** 2 , **@MCJB0GIE** 2 , **GOOD** 2 , **GOING** 2 , **@LINKMARINE2000** 2 , **@CHOKETHEHIPPO** 2 , 
- 
-## What this user tweeted
- 
-https://t.co/FQRkQIY88c Did someone mention contract vulnerabilities? Get covered by $NXM nexusmutual today 🐢 https://t.co/FhkyBDh7Q9https://t.co/dKLe1fFg1H Did someone mention contract vulnerabilities? Get covered by $NXM nexusmutual today 🐢 https://t.co/56aqepxrbIhttps://t.co/y6emsRnGEI Did someone mention contract vulnerabilities? Get covered by $NXM nexusmutual today 🐢 https://t.co/NMjZVu4KWGhttps://t.co/Yx3ypCrcnQ Did someone mention contract vulnerabilities? Get covered by $NXM nexusmutual today 🐢 https://t.co/28JESdjOOi
- 
-# MkenyaKe1USER INFO
-![image](http://pbs.twimg.com/profile_images/1283422716557774848/C9ZQ2knz_normal.jpg)
- 
-`User ScreenName:` MkenyaKe1 
- 
-`User chosen Name:` Odi wa Pipu 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 15 10:49:21 +0000 2020 
- 
-`User Description?:` Mkenya Mzalendo 🇰🇪
-I believe theres milky way in the galaxy
-i follow back instantly🥰
-instagram @odiwapipu 
+`User Description?:` School of Information Technology and Cyber Security at Raksha Shakti University 
  
 `Followers?: `22 
  
-`Following?:` 7 
+`Following?:` 10 
  
-`User URL?:` None 
+`User URL?:` https://t.co/XVbfu73K3b 
  
-`Location:` Nairobi 
+`Location:` Gandhinagar,Gujarat,India 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1283422716557774848/C9ZQ2knz_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1283586273089695744/INmLcqgx_normal.jpg 
  
-`Number of tweets excluding replies:` 295 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@JMEKAOFFICIAL:** 23 , **KAMENEANDJALAS** 22 , **US** 17 , **MAISHACONCERTFRIDAY** 15 , **SPORTPESA** 15 , **@KAMENEGORO** 15 , **@JALANGOMWENYEWE** 14 , **RUTO** 12 , **YOUTH** 12 , **OWINO** 12 , **UHURU** 12 , **BUILDINGBACKABETTERKE** 11 , **@KISS100KENYA** 11 , **KAMENEANDJALASRT** 10 , **WHICH** 10 , **WHATSAPP** 9 , **YOUTHS** 9 , **PEOPLE** 8 , **KENYA** 8 , **PAY** 8 , 
- 
-## What this user tweeted
- 
-RT @JmekaOfficial: COVID-19 has exposed the vulnerabilities of our social, health and economic systems with large sums of money being disbu…
- 
-# shanan_thomasUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281632636788760576/2ABWTTmC_normal.jpg)
- 
-`User ScreenName:` shanan_thomas 
- 
-`User chosen Name:` shanan thomas 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 10 16:43:08 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 146 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281632636788760576/2ABWTTmC_normal.jpg 
- 
-`Number of tweets excluding replies:` 1916 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -392,158 +108,46 @@ RT @JmekaOfficial: COVID-19 has exposed the vulnerabilities of our social, healt
  
 ## User Top tweeted words 
  
-**U** 71 , **DON'T** 25 , **UR** 21 , **CHIT** 15 , **HOES** 14 , **YA** 11 , **PPL** 10 , **BUSINESS** 10 , **BITCHES** 9 , **BETTER** 9 , **FUX** 8 , **HATING** 8 , **PUT** 7 , **AIN'T** 7 , **WAY** 7 , **WAT** 7 , **BASTARDS** 7 , **FUCKING** 6 , **WRONG** 6 , **LEARN** 6 , 
+**WAY** 2 , **"EDUCATION** 1 , **MOST** 1 , **POWERFUL** 1 , **WEAPON** 1 , **WHICH** 1 , **USE** 1 , **CHANGE** 1 , **WORLD"** 1 , **-NELSON** 1 , **MANDELA** 1 , **ADMISSION** 1 , **OPEN** 1 , **AT…** 1 , **HTTPS://TCO/MIFDTCMVYP"A** 1 , **LEADER** 1 , **KNOWS** 1 , **GOES** 1 , **SHOWS** 1 , **WAY"** 1 , 
  
 ## What this user tweeted
  
-You've had to open up your heart more lately.
+"Education is the most powerful weapon which you can use to change the world."
 
-Now, that you are allowing others to see your vulnerabilities, it's… https://t.co/3nIEdPLY9K
+-Nelson Mandela
+
+Admission Open at… https://t.co/MIFDTCmvYp
  
-# frei57924USER INFO
-![image](http://pbs.twimg.com/profile_images/1282559874493292545/Mt7k6Uaz_normal.jpg)
+# FMelanhUSER INFO
+![image](http://pbs.twimg.com/profile_images/1284098740563968006/hdtUiPFq_normal.jpg)
  
-`User ScreenName:` frei57924 
+`User ScreenName:` FMelanh 
  
-`User chosen Name:` PLFrei57924 
+`User chosen Name:` Fx-trader_melanh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jul 13 06:14:13 +0000 2020 
+`User signup date?:` Fri Jul 17 12:06:21 +0000 2020 
  
-`User Description?:` Christian NAR defector. C-PTSD. INFJ. Cat mom. Politically homeless. Sarcasm runs in my veins. No DMs without asking. 
+`User Description?:` 📊Pro FX and B_O_Trader
+📈 profession Crypto Trader
+👨🏼‍💻 Entrepreneur
+📉 6_7 figure trader
+💵 Over $100k been made weekly 
  
-`Followers?: `33 
+`Followers?: `0 
  
-`Following?:` 42 
- 
-`User URL?:` https://t.co/yzpjKj27eU 
- 
-`Location:` Missouri, USA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1282559874493292545/Mt7k6Uaz_normal.jpg 
- 
-`Number of tweets excluding replies:` 408 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DON'T** 25 , **PEOPLE** 25 , **@STOMPTHEGOP** 20 , **@CHARLTAYLORPAGE** 15 , **@JAKETAPPER** 12 , **@ONETHA_** 12 , **@ALEXISTHE__** 12 , **SOME** 11 , **@CAMJAMES407** 11 , **@TEXASGAL_98** 10 , **@BLUEWAVEREDHEAD** 10 , **TIME** 9 , **I'M** 9 , **@MARKKNOLLER** 9 , **@THEREBENTHATDUN** 9 , **YOU'RE** 8 , **THAT'S** 8 , **HE'S** 8 , **EAT** 8 , **@SKYEBELEW** 7 , 
- 
-## What this user tweeted
- 
-@BringMeHisHead @ggbergDC @jadski @DrDathanPaterno @jaketapper 3. Do you think I asked to be born this way? Was it… https://t.co/MjjVsSkUBd
- 
-# workersofuncUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281766194819850247/akrz_lT4_normal.jpg)
- 
-`User ScreenName:` workersofunc 
- 
-`User chosen Name:` Workers of UNC 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 11 01:43:50 +0000 2020 
- 
-`User Description?:` We are a coalition for all UNC System workers.
-Register for our Town Hall on July 16th, 2020: https://t.co/h3xfiYd83R | Join our Day of Action on July 17th, 2020 
- 
-`Followers?: `75 
- 
-`Following?:` 96 
- 
-`User URL?:` https://t.co/o4LymQFP6s 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 91 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281766194819850247/akrz_lT4_normal.jpg 
- 
-`Number of tweets excluding replies:` 91 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WORKERSUNIONUNC:** 17 , **UNC** 13 , **WORKERS** 9 , **UNIVERSITY** 9 , **STUDENTS** 9 , **COVID-19** 8 , **TOWN** 8 , **HALL** 7 , **@HANNAWON72:** 6 , **@WORKERSUNIONUNC** 6 , **HOUSING** 6 , **POSITIVE** 6 , **US** 5 , **PLEASE** 5 , **@WORKERSOFUNC** 5 , **@WORKERSATSTATE** 5 , **@UNC_CH_AAUP** 5 , **@AAUP** 5 , **WE'RE** 5 , **BACK** 5 , 
- 
-## What this user tweeted
- 
-RT @workersunionunc: From David Branagan, a UNC-CH groundskeeper: "One thing that struck me is that no one seemed to be paying any attentio…
- 
-# evemper2USER INFO
-![image](http://pbs.twimg.com/profile_images/1282966819138088961/seQXUR6r_normal.jpg)
- 
-`User ScreenName:` evemper2 
- 
-`User chosen Name:` evemper 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 14 08:02:33 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 101 
+`Following?:` 12 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 17 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1282966819138088961/seQXUR6r_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1284098740563968006/hdtUiPFq_normal.jpg 
  
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TECHTIMES_NEWS:** 2 , **TECH** 2 , **APPS** 2 , **TRIED** 2 , **CYBERSECURITY** 2 , **NETFLIX** 2 , **NA** 2 , **TECHNOLOGY** 2 , **RT** 1 , **@ALEEYAROSLEE:** 1 , **SUCCESSFULLY** 1 , **USE** 1 , **US** 1 , **VPN** 1 , **WATCH** 1 , **I-LAND** 1 , **EP4** 1 , **YOUTUBE** 1 , **LIVE** 1 , **😍😍😍** 1 , 
- 
-## What this user tweeted
- 
-RT @secassured: Third-Party IoT Vulnerabilities: We Need a Cybersecurity Paradigm Shift https://t.co/S08qWRO3ld https://t.co/E0eyqAw2eN
- 
-# Linkmarine15USER INFO
-![image](http://pbs.twimg.com/profile_images/1281036077868949505/Ff3B_jP1_normal.jpg)
- 
-`User ScreenName:` Linkmarine15 
- 
-`User chosen Name:` 《£》 $link ¥ou ₩!n 《£》 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 09 01:16:59 +0000 2020 
- 
-`User Description?:` $link marine #cryptotour2020 
- 
-`Followers?: `308 
- 
-`Following?:` 844 
- 
-`User URL?:` None 
- 
-`Location:` Planet Earth 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281036077868949505/Ff3B_jP1_normal.jpg 
- 
-`Number of tweets excluding replies:` 1234 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -551,514 +155,28 @@ RT @secassured: Third-Party IoT Vulnerabilities: We Need a Cybersecurity Paradig
  
 ## User Top tweeted words 
  
-**$LINK** 44 , **U** 18 , **@3M** 16 , **@VECHAINOFFICIAL** 16 , **CHAINLINK** 11 , **TIME** 9 , **GOING** 9 , **@BINANCE** 8 , **$LINKRT** 7 , **KEK!** 7 , **UR** 7 , **PEOPLE** 7 , **@SERGEYEINSTEIN** 6 , **GO** 5 , **SOME** 5 , **COULD** 5 , **@KEKSPAWN:** 5 , **LOOK** 5 , **HERE** 4 , **ALREADY** 4 , 
+**RT** 1 , **@CRYPTOCOM:** 1 , **CISO** 1 , **@JASONCISO** 1 , **INVITED** 1 , **AMBASSADOR** 1 , **@RSACONFERENCE** 1 , **YEAR** 1 , **COMPLETED** 1 , **SESSION** 1 , **SHARE** 1 , **O…** 1 , **@PRILAGA** 1 , **JOINMYTEAM** 1 , **TASTY** 1 , **FAMILY** 1 , **CLEARSKIN** 1 , **NLAFORHER** 1 , **MONEY** 1 , **ENERGYSMARTDIET** 1 , 
  
 ## What this user tweeted
  
-RT @spymasterlord: https://t.co/Yx3ypCrcnQ Did someone mention contract vulnerabilities? Get covered by $NXM nexusmutual today 🐢 https://t.…
+RT @cryptocom: Our CISO @JasonCISO has been invited as an  Ambassador of @RSAConference this year and he has completed a session to share o…
  
-# RayJrNCUSER INFO
-![image](http://pbs.twimg.com/profile_images/1283453571636367365/Gtl-Qbr6_normal.jpg)
+# eNLNbRMPHNUuH79USER INFO
+![image](http://pbs.twimg.com/profile_images/1283412145414246400/uHeD61pI_normal.jpg)
  
-`User ScreenName:` RayJrNC 
+`User ScreenName:` eNLNbRMPHNUuH79 
  
-`User chosen Name:` Ray Jr. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 15 17:27:59 +0000 2020 
- 
-`User Description?:` For the people. 🌹
-
-#BlackLivesMatter // #M4A // #GND // #UBI // #DSA 
- 
-`Followers?: `10 
- 
-`Following?:` 188 
- 
-`User URL?:` None 
- 
-`Location:` Raleigh, NC 
- 
-`Number of tweets extracted`  : 87 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1283453571636367365/Gtl-Qbr6_normal.jpg 
- 
-`Number of tweets excluding replies:` 87 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COVID** 7 , **@PROUDSOCIALIST** 6 , **BELIEVE** 6 , **@JOEBIDEN** 6 , **GO** 5 , **NEED** 5 , **EVEN** 5 , **PEOPLE** 4 , **HAVING** 4 , **MANY** 4 , **ANY** 4 , **MUST** 4 , **DOES** 4 , **MEDICAREFORALL** 4 , **ELECTED** 3 , **REALLY** 3 , **MOVEMENT** 3 , **BERNIE** 3 , **DEMS** 3 , **POLITICAL** 3 , 
- 
-## What this user tweeted
- 
-@Lockwood4NC @JoeBiden I have not a single iota of faith that the establishment wants to hold anyone accountable. G… https://t.co/Cxfc6BMNn3
- 
-# Sonu86448194USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Sonu86448194 
- 
-`User chosen Name:` Sonu 
+`User chosen Name:` София Воробьева 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jul 16 15:04:34 +0000 2020 
+`User signup date?:` Wed Jul 15 14:44:07 +0000 2020 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 35 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 37 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 37 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SIDHARTH_SHUKLA** 13 , **DILKOKARAARAAYA** 11 , **🎼** 10 , **SIDHARTHSHUKLA** 8 , **LOVE** 7 , **FIRST** 6 , **@SIDDIANS:** 5 , **U** 5 , **SIDHARTH** 4 , **LOOK** 4 , **SIDHEARTS** 4 , **@SIDHARTH_SHUKLA:** 4 , **COMING** 3 , **GUYS** 3 , **HEY** 3 , **SMALL** 3 , **KE** 3 , **SMILE** 3 , **HE'S** 3 , **FAN** 3 , 
- 
-## What this user tweeted
- 
-RT @LoonyBeanie: ☘️Courage starts with showing up n letting ourselves be seen.
-
-Incredibly indebted to @sidharth_shukla for absolutely owni…
- 
-# SaeedAh88293313USER INFO
-![image](http://pbs.twimg.com/profile_images/1283402764849049601/Muaodpv2_normal.jpg)
- 
-`User ScreenName:` SaeedAh88293313 
- 
-`User chosen Name:` Saeed Ahmed 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 14 14:27:53 +0000 2020 
- 
-`User Description?:` i am 
- 
-`Followers?: `5 
- 
-`Following?:` 60 
- 
-`User URL?:` None 
- 
-`Location:` Sindh, Pakistan 
- 
-`Number of tweets extracted`  : 89 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1283402764849049601/Muaodpv2_normal.jpg 
- 
-`Number of tweets excluding replies:` 89 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MUST** 12 , **TWEET** 10 , **FOLLOWING** 10 , **FOLLOW** 9 , **RETWEETS** 9 , **PERSON** 8 , **MINUTES** 7 , **MYSELF** 7 , **RETWEET** 6 , **@XD4RKS0U1X:** 6 , **SEND** 6 , **SOMEONE** 6 , **HOURS** 6 , **@JAM100K:** 5 , **ENDS** 5 , **3** 5 , **@GIVEAWAY_CONTST** 5 , **$25** 5 , **SENDING** 4 , **GOOD** 4 , 
- 
-## What this user tweeted
- 
-RT @blockonomi: Bingbon Launches Crypto Bounty to Discover Security Vulnerabilities
-
-https://t.co/XyCaDpDLmC
-
-@BingbonOfficial  @SlowMist_T…
- 
-# SharifShafeiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281945875242246144/FKR9sLuv_normal.jpg)
- 
-`User ScreenName:` SharifShafei 
- 
-`User chosen Name:` Shafei Sharif 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 11 13:35:49 +0000 2020 
- 
-`User Description?:` Computer Scientist and Human rights Activist. 
- 
-`Followers?: `10 
- 
-`Following?:` 221 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281945875242246144/FKR9sLuv_normal.jpg 
- 
-`Number of tweets excluding replies:` 1399 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WEBDEVELOPMENT** 70 , **WORDPRESS** 36 , **@WMBBKN:** 36 , **WEBSITE** 35 , **PROGRAMMING** 33 , **JAVASCRIPT** 26 , **CODING** 25 , **ONLINE** 24 , **STARTUPS** 21 , **WEB** 19 , **SMALLBUSINESS** 19 , **WORDPRESSWEBSITE** 17 , **ONLINEMARKETING** 17 , **100DAYSOFCODE** 15 , **CREATE** 14 , **FREE** 13 , **DEVELOPMENT** 12 , **HTML** 11 , **APP** 11 , **BUSINESS** 11 , 
- 
-## What this user tweeted
- 
-RT @lorenadecruz1: Mobile App Security Vulnerabilities and How to Mitigate Them: https://t.co/scA43dtmJz 
-
-#DataScience #Analytics #startup…
- 
-# Cwa9DdcmKJWtU2KUSER INFO
-![image](http://pbs.twimg.com/profile_images/1283732889641742336/WKJNmaNG_normal.jpg)
- 
-`User ScreenName:` Cwa9DdcmKJWtU2K 
- 
-`User chosen Name:` छोटा डॉन 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 16 11:58:48 +0000 2020 
- 
-`User Description?:` Biggest fan of Sidharth shukla 
- 
-`Followers?: `1 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 193 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1283732889641742336/WKJNmaNG_normal.jpg 
- 
-`Number of tweets excluding replies:` 292 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DILKOKARAARAAYA** 92 , **SIDHARTHSHUKLA** 55 , **@SIDHARTH_SHUKLA** 49 , **DILKOKARAARAAYART** 24 , **TRENDING** 23 , **SIDHEARTS** 18 , **HAI** 16 , **LOVE** 15 , **KE** 13 , **SID** 13 , **POSTER** 10 , **KO** 10 , **@OFFICIALNEHA** 10 , **TWEET** 10 , **LOOK** 9 , **BHAI** 9 , **SIDHARTHSHUKLART** 9 , **U** 9 , **EXCITED** 9 , **RT** 8 , 
- 
-## What this user tweeted
- 
-RT @LoonyBeanie: ☘️Courage starts with showing up n letting ourselves be seen.
-
-Incredibly indebted to @sidharth_shukla for absolutely owni…
- 
-# Bittu60323114USER INFO
-![image](http://pbs.twimg.com/profile_images/1283657348825837568/UhFg5GRu_normal.jpg)
- 
-`User ScreenName:` Bittu60323114 
- 
-`User chosen Name:` Bittu 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 16 06:24:44 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `16 
- 
-`Following?:` 418 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 45 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1283657348825837568/UhFg5GRu_normal.jpg 
- 
-`Number of tweets excluding replies:` 45 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AMALA** 24 , **PAUL** 24 , **HOT** 19 , **@URSTRULYMAHESH** 5 , **@NETFLIXINDIA:** 5 , **IMAGES** 5 , **LATEST** 5 , **FAN** 4 , **@KEERTHYOFFICIAL** 4 , **ACTRESS** 4 , **AMALAPAUL** 4 , **HD** 4 , **HERE** 3 , **!!** 3 , **STILLS** 3 , **KEERTHYSURESH** 3 , **@ACTRESSANDDIVAS:** 3 , **RED** 3 , **LOOKING** 3 , **SPICY** 3 , 
- 
-## What this user tweeted
- 
-RT @NetflixIndia: Watch these #BombayBegums deal with desire, ethics, personal crises, and vulnerabilities to own their ambition, in contem…
- 
-# cyber_kirkUSER INFO
-![image](http://pbs.twimg.com/profile_images/1282012603921903616/AlurvBx4_normal.jpg)
- 
-`User ScreenName:` cyber_kirk 
- 
-`User chosen Name:` Kirk Koehler 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 11 17:50:39 +0000 2020 
- 
-`User Description?:` Cyber Defense Labs is a full life-cycle information security service provider helping companies manage, detect and respond to today’s cyber risks. 
- 
-`Followers?: `4 
- 
-`Following?:` 63 
- 
-`User URL?:` https://t.co/PitdFALJUq 
- 
-`Location:` DFW 
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1282012603921903616/AlurvBx4_normal.jpg 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 5 , **DATA** 2 , **RANSOMWARE** 2 , **VULNERABILITIES** 2 , **NEED** 2 , **LEARN** 2 , **INFORMATION** 1 , **@CYBERDEFENSELAB** 1 , **HELP** 1 , **MITIGATE** 1 , **RISK** 1 , **CONTACT** 1 , **972-737-8200** 1 , **X1030** 1 , **KIRK…** 1 , **HTTPS://TCO/9AD6TIJXQP@CYBERDEFENSELAB** 1 , **SEVERAL** 1 , **HIGH-PROFILE** 1 , **ACCOUNTS** 1 , **HACKED** 1 , 
- 
-## What this user tweeted
- 
-@CyberDefenseLab 
-
-Several High-Profile Accounts Hacked in the Biggest Twitter Hack of All Time… https://t.co/ZKdJzzWqw7
- 
-# TargetedIntUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281565862395285504/qsx9oMbQ_normal.jpg)
- 
-`User ScreenName:` TargetedInt 
- 
-`User chosen Name:` Targeted International 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 10 12:04:31 +0000 2020 
- 
-`User Description?:` Online community for Targeted Individuals. Private membership, forums, groups, research, & informative links. 
- 
-`Followers?: `152 
- 
-`Following?:` 684 
- 
-`User URL?:` https://t.co/DrXavcxXfA 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281565862395285504/qsx9oMbQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 329 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TARGETEDINDIVIDUALS** 21 , **TORTURE** 11 , **VERY** 9 , **BEING** 8 , **PEOPLE** 8 , **YEARS** 8 , **SURVEILLANCE** 7 , **THESE** 7 , **THROUGH** 7 , **HUMAN** 7 , **TARGETED** 7 , **TIME** 6 , **@BIBBI02374449:** 6 , **@TARGETEDBYTHE:** 6 , **UN** 6 , **CONTROL** 6 , **INDIVIDUALS** 6 , **ENERGY** 6 , **🇺🇳** 6 , **USED** 5 , 
- 
-## What this user tweeted
- 
-RT @USCERT_gov: Cisco has released patches for multiple vulnerabilities, including vulnerabilities that allow an unauthenticated remote att…
- 
-# MaryamnawaNawazUSER INFO
-![image](http://pbs.twimg.com/profile_images/1281586094711209987/h1hkZtyb_normal.png)
- 
-`User ScreenName:` MaryamnawaNawaz 
- 
-`User chosen Name:` MARYAM NAWAZ fan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 10 12:06:31 +0000 2020 
- 
-`User Description?:` PMLN JUIF PKMAP ANP PPP... KPK PESHAWAR 
- 
-`Followers?: `83 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1281586094711209987/h1hkZtyb_normal.png 
- 
-`Number of tweets excluding replies:` 526 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**کے** 80 , **کی** 63 , **میں** 52 , **کا** 51 , **اور** 37 , **سے** 37 , **کو** 34 , **ہے** 33 , **پر** 30 , **نے** 25 , **نہیں** 22 , **اس** 20 , **🏆** 17 , **ایک** 16 , **@MOULANAOFFICIAL:** 16 , **@AADIIROY:** 15 , **وہ** 14 , **بھی** 14 , **کہ** 14 , **یہ** 14 , 
- 
-## What this user tweeted
- 
-RT @AWGoraya: Last night’s twitter hack exposed vulnerabilities in system and also we got to know that twitter employees have acess to your…
- 
-# Naano50USER INFO
-![image](http://pbs.twimg.com/profile_images/1283346686736076800/EkY0JfIo_normal.jpg)
- 
-`User ScreenName:` Naano50 
- 
-`User chosen Name:` Minion ke (Dil Ko Karaar Aaya)😲 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 15 07:13:08 +0000 2020 
- 
-`User Description?:` New account join here to support @Sidharth_shukla .
-#Siddian❤️ #Sidheart🖤. 
- 
-`Followers?: `8 
- 
-`Following?:` 10 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1283346686736076800/EkY0JfIo_normal.jpg 
- 
-`Number of tweets excluding replies:` 409 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SIDHARTH_SHUKLA** 54 , **DILKOKARAARAAYA** 54 , **SIDHARTHSHUKLA** 44 , **HAI** 25 , **SID** 21 , **SIDHEARTS** 16 , **U** 15 , **SONG** 14 , **TREND** 13 , **SIDHARTH** 13 , **~** 12 , **POSTER** 12 , **US** 10 , **PLEASE** 10 , **@SIDDUPDATES** 10 , **@SAMLOVESSID** 10 , **TIME** 9 , **KO** 9 , **@SIDHARTH_UNITY:** 9 , **KALA** 9 , 
- 
-## What this user tweeted
- 
-RT @LoonyBeanie: ☘️Courage starts with showing up n letting ourselves be seen.
-
-Incredibly indebted to @sidharth_shukla for absolutely owni…
- 
-# Aparna_Rama_USER INFO
-![image](http://pbs.twimg.com/profile_images/1283461179197788162/bWXAED4f_normal.jpg)
- 
-`User ScreenName:` Aparna_Rama_ 
- 
-`User chosen Name:` Aparna Ramarathnam 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 15 17:00:42 +0000 2020 
- 
-`User Description?:` Your @thermofisher partner at JHU & Fast Forward  
-Life Technologies | Invitrogen | Applied Biosystems | Gibco | eBioscience Aparna.Ramarathnam@thermofisher.com 
- 
-`Followers?: `36 
- 
-`Following?:` 221 
- 
-`User URL?:` https://t.co/iT255IMiVs 
- 
-`Location:` Baltimore, MD 
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1283461179197788162/bWXAED4f_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GRCF** 2 , **FIRST** 2 , **HELP** 2 , **NEW** 1 , **@GIBCO** 1 , **STEM** 1 , **CELL** 1 , **PRODUCT** 1 , **INTRODUCTION** 1 , **STEMSCALE-** 1 , **WEBINAR** 1 , **JHU** 1 , **TUES** 1 , **7/21** 1 , **1-2PM!** 1 , **LOOK…** 1 , **HTTPS://TCO/WBXUEEEZE1@GABSANG** 1 , **CONGRATS!!SURVEILLANCE** 1 , **SARS-COV-2** 1 , **OUTBREAKS** 1 , 
- 
-## What this user tweeted
- 
-RT @JohnsHopkinsSPH: How does the novel #coronavirus infect people, and what are researchers learning about its possible vulnerabilities?…
- 
-# MarsJaronUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` MarsJaron 
- 
-`User chosen Name:` Jaron Mars 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 08 18:02:18 +0000 2020 
- 
-`User Description?:` just a gamer here for gamer tweets 
- 
-`Followers?: `1 
- 
-`Following?:` 26 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SUCKERPUNCHPROD:** 3 , **HTTPS://TCO/XU3ZJ8Y3DC** 3 , **GO** 2 , **@PLAYSTATION:** 2 , **UNTIL** 2 , **@PLAYGODFALL** 2 , **DAYS** 2 , **PS5** 2 , **RT** 1 , **@GEOFFKEIGHLEY:** 1 , **PLAYSTATION5** 1 , **DUALSENSE** 1 , **CONTROLLER** 1 , **TOMORROW** 1 , **NOON** 1 , **ET** 1 , **/** 1 , **9** 1 , **PT** 1 , **TIME** 1 , 
- 
-## What this user tweeted
- 
-RT @PlayStation: Malevolent Visitors roam the streets Ghostwire: Tokyo. Tap into your powers, discover their vulnerabilities, and banish th…
- 
-# donienobluetickUSER INFO
-![image](http://pbs.twimg.com/profile_images/1283555934187532288/XSYm-n0w_normal.jpg)
- 
-`User ScreenName:` donienobluetick 
- 
-`User chosen Name:` Donie O’Sullivan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 16 00:15:37 +0000 2020 
- 
-`User Description?:` using this account during the great blue checkmark blackout of 2020 @donie @cnn 
- 
-`Followers?: `10 
- 
-`Following?:` 4 
+`Following?:` 6 
  
 `User URL?:` None 
  
@@ -1066,7 +184,7 @@ RT @PlayStation: Malevolent Visitors roam the streets Ghostwire: Tokyo. Tap into
  
 `Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1283555934187532288/XSYm-n0w_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1283412145414246400/uHeD61pI_normal.jpg 
  
 `Number of tweets excluding replies:` 5 
  
@@ -1076,42 +194,41 @@ RT @PlayStation: Malevolent Visitors roam the streets Ghostwire: Tokyo. Tap into
  
 ## User Top tweeted words 
  
-**🤔** 1 , **1** 1 , **THAT’S** 1 , **QUITE** 1 , **ASSESSMENT** 1 , **MAKE** 1 , **2** 1 , **QUESTION** 1 , **ACCESS** 1 , **ATTACKERS** 1 , **HAVE?** 1 , **3** 1 , **CRIMINAL…** 1 , **HTTPS://TCO/SZFQY6VE3LRT** 1 , **@MARSHALLCOHEN:** 1 , **STORY** 1 , **MORNING** 1 , **HIGHLIGHTING** 1 , **TRUMP** 1 , **EXPLOITS** 1 , 
+**FUTURE** 2 , **RT** 1 , **@PIXELRATEDGAMES:** 1 , **RUSSIAN** 1 , **STATE-SPONSORED** 1 , **HACKERS** 1 , **TARGET** 1 , **COVID19** 1 , **VACCINE** 1 , **RESEARCHERS** 1 , **@GUARDIAN** 1 , **HTTPS://TCO/SNIAT6IVDV** 1 , **[KREML…RT** 1 , **@LEEJCLUSKEY:** 1 , **MANCHESTER** 1 , **AUTHOR** 1 , **WINS** 1 , **SCREENWRITING** 1 , **AWARD** 1 , **INDIAN** 1 , 
  
 ## What this user tweeted
  
-RT @MarshallCohen: My story this morning — highlighting how Trump exploits loopholes in Twitter's election misinformation policy — seems li…
+RT @PixelRatedGames: #Russian state-sponsored #hackers target #Covid19 #vaccine researchers | @Guardian -
+ https://t.co/SNIAt6IvDV
+
+[#Kreml…
  
-# PunishedFelixUSER INFO
-![image](http://pbs.twimg.com/profile_images/1283148042128982019/9smZfbWl_normal.jpg)
+# MishlerMikeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283561801817284609/hbEZhBiQ_normal.jpg)
  
-`User ScreenName:` PunishedFelix 
+`User ScreenName:` MishlerMike 
  
-`User chosen Name:` Punished Felix 
+`User chosen Name:` Mike Mishler 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 08 14:20:32 +0000 2020 
+`User signup date?:` Thu Jul 16 00:37:25 +0000 2020 
  
-`User Description?:` i'm a crazy person who writes games for blind people
-
-i made braillemon
-
-daigonite on https://t.co/jVdNNWewy6 
+`User Description?:` Helping organizations secure Kubernetes natively 
  
-`Followers?: `145 
+`Followers?: `1 
  
-`Following?:` 168 
+`Following?:` 9 
  
 `User URL?:` None 
  
-`Location:` they 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1283148042128982019/9smZfbWl_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1283561801817284609/hbEZhBiQ_normal.jpg 
  
-`Number of tweets excluding replies:` 697 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -1119,11 +236,1174 @@ daigonite on https://t.co/jVdNNWewy6
  
 ## User Top tweeted words 
  
-**PEOPLE** 29 , **ITS** 15 , **FUCKING** 14 , **DON'T** 11 , **I'M** 11 , **MANY** 9 , **ACTUALLY** 9 , **REALLY** 9 , **YOU'RE** 8 , **ANIME** 8 , **METH** 7 , **GF** 7 , **GO** 7 , **TWITTER** 7 , **NEVER** 6 , **BEING** 6 , **MISOGYNY** 6 , **TRANSWOMEN** 6 , **HAIR** 6 , **SHIT** 6 , 
+**SECURITY** 3 , **@STACKROX:** 2 , **RT** 1 , **@SEARCHSECURITY** 1 , **PUT** 1 , **TOGETHER** 1 , **GREAT** 1 , **INFOGRAPHIC** 1 , **CONTAINER** 1 , **VENDORS** 1 , **UNIQUE** 1 , **CAPABILITIES** 1 , **EARLIER** 1 , **YE…RT** 1 , **❓❓ABOUT** 1 , **KUBE** 1 , **ANSWERED** 1 , **NEW** 1 , **KUBERNETES** 1 , **WIKI!** 1 , 
  
 ## What this user tweeted
  
-Furthermore, Twitter cannot be expected to protect itself from attacks like this in the future, because the ratio o… https://t.co/sTVqAfK8Af
+RT @stackrox: @SearchSecurity put together this great infographic of container security vendors &amp; their unique capabilities earlier this ye…
+ 
+# tulaleetom2USER INFO
+![image](http://pbs.twimg.com/profile_images/1284135032525778955/RivdV4P0_normal.jpg)
+ 
+`User ScreenName:` tulaleetom2 
+ 
+`User chosen Name:` tula leetom 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 17 14:36:19 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1284135032525778955/RivdV4P0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IÇIN** 3 , **NEVER** 2 , **LOSE** 2 , **HOPE** 2 , **EL** 2 , **DE** 2 , **NOTHING** 2 , **BETTER** 2 , **IP** 2 , **ADDRESS** 2 , **✅** 2 , **ILE** 2 , **RT** 1 , **@WHILLYBERMUDEZ:** 1 , **CORONAVIRUS** 1 , **MATTER** 1 , **SITUATION** 1 , **TRAGEDY** 1 , **CHALLENGE** 1 , **CORONAVIR…RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @BlackFridays19: Public IP address can actually reveal about you so its better to disguise your actual ip address with a proxy or a vpn.…
+ 
+# GbZXfhXuU5wPSTNUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283461399235244034/WZce9rOc_normal.jpg)
+ 
+`User ScreenName:` GbZXfhXuU5wPSTN 
+ 
+`User chosen Name:` Ваня 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 18:00:04 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283461399235244034/WZce9rOc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BIGFLU5000:** 3 , **VIDEO** 2 , **PAY** 2 , **HTTPS://TCO/CWZSOTEX1S** 2 , **VIA** 2 , **AVAILABLE** 2 , **RT** 1 , **@PIXELRATEDGAMES:** 1 , **RUSSIAN** 1 , **STATE-SPONSORED** 1 , **HACKERS** 1 , **TARGET** 1 , **COVID19** 1 , **VACCINE** 1 , **RESEARCHERS** 1 , **@GUARDIAN** 1 , **HTTPS://TCO/SNIAT6IVDV** 1 , **[KREML…RT** 1 , **@SAUD_AL8ET:** 1 , **غش** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PixelRatedGames: #Russian state-sponsored #hackers target #Covid19 #vaccine researchers | @Guardian -
+ https://t.co/SNIAt6IvDV
+
+[#Kreml…
+ 
+# coding_xUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282859362831052800/LQOfcKY6_normal.jpg)
+ 
+`User ScreenName:` coding_x 
+ 
+`User chosen Name:` {coding:x} 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 08 00:58:51 +0000 2020 
+ 
+`User Description?:` Hi, I am a bot helping coders show their progress. Automation built in #Python by @TechParida. DM for removal of offensive content. Let's learn together. 
+ 
+`Followers?: `48 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/7lO0jWPQOF 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282859362831052800/LQOfcKY6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2926 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**100DAYSOFCODE** 48 , **PYTHON** 34 , **JAVASCRIPT** 33 , **CODE** 19 , **DAY** 17 , **AI** 17 , **DEVELOPER** 15 , **DATASCIENCE** 15 , **DATA** 14 , **PROGRAMMING** 14 , **MACHINELEARNING** 14 , **AWS** 13 , **LEARN** 12 , **BIGDATA** 12 , **CODENEWBIE** 12 , **USE** 11 , **FREE)** 11 , **NEW** 11 , **LEARNING** 10 , **CSS** 10 , 
+ 
+## What this user tweeted
+ 
+RT @sanksshep: Google’s secretive ATAP lab is imagining the future of smart devices https://t.co/ymoJcPeHai
+
+#MachineLearning #AI #NLP #Big…
+ 
+# drkyukaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283464189575561218/AWI3ICP1_normal.jpg)
+ 
+`User ScreenName:` drkyuka 
+ 
+`User chosen Name:` drkyuka 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 17:49:23 +0000 2020 
+ 
+`User Description?:` tech is just a tool... haha! just kidding. but seriously... 
+ 
+`Followers?: `2 
+ 
+`Following?:` 118 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283464189575561218/AWI3ICP1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CSEAN** 2 , **FORMER** 2 , **TEAM** 2 , **SUPPORT** 2 , **CAREFULLY** 2 , **RT** 1 , **@ECCOUNCIL:** 1 , **HAPPY** 1 , **ANNOUNCE** 1 , **CYBER** 1 , **SECURITY** 1 , **EXPERTS** 1 , **ASSOCIATION** 1 , **NIGERIA** 1 , **KEY** 1 , **PARTNER** 1 , **EC-COUNCIL'S** 1 , **MA…RT** 1 , **@REMIAFON:** 1 , **CYBERCRIMETBT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ECCOUNCIL: We are happy to announce that CSEAN - Cyber Security Experts Association of Nigeria is now a key Partner for EC-Council's Ma…
+ 
+# Latha81370204USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Latha81370204 
+ 
+`User chosen Name:` Latha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 14 00:20:16 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JUDICIARYDEMS** 25 , **@HOUSEJUDICIARY** 25 , **@JUDICIARYGOP** 25 , **@SENATEFLOOR** 24 , **@SENATEPRESS** 22 , **@SENATEDEMS** 21 , **@SENATEGOP…** 21 , **PASSS386** 8 , **@SENATORDURBIN** 8 , **S386** 7 , **US** 4 , **SUPPORT** 4 , **PLS** 4 , **INDIAN** 3 , **IMMIGRANTS** 3 , **PLEASE** 3 , **MUCH** 3 , **CALL** 3 , **=** 3 , **@ROHITNS:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @rohitns: So @Twitter got hacked. @SenatorDurbin can U guess how many #GreenCardBacklog people in US were working on this Major Incident…
+ 
+# awsmsaltaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282564904621408258/HlFMMrCF_normal.jpg)
+ 
+`User ScreenName:` awsmsalta 
+ 
+`User chosen Name:` Салтанат 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 13 06:36:36 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282564904621408258/HlFMMrCF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KANYEWEST** 2 , **@JUSTINSUNTRON:** 2 , **RT** 1 , **@PIXELRATEDGAMES:** 1 , **RUSSIAN** 1 , **STATE-SPONSORED** 1 , **HACKERS** 1 , **TARGET** 1 , **COVID19** 1 , **VACCINE** 1 , **RESEARCHERS** 1 , **@GUARDIAN** 1 , **HTTPS://TCO/SNIAT6IVDV** 1 , **[KREML…RT** 1 , **@RAFAYRASHDI:** 1 , **SHAME** 1 , **@GSKHAN_OFFICIAL** 1 , **@PTIOFFICIAL** 1 , **@ALIHZAIDIPTI** 1 , **WASTING** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PixelRatedGames: #Russian state-sponsored #hackers target #Covid19 #vaccine researchers | @Guardian -
+ https://t.co/SNIAt6IvDV
+
+[#Kreml…
+ 
+# BlaqNick420USER INFO
+![image](http://pbs.twimg.com/profile_images/1283034091831676932/4QiZ6LcG_normal.jpg)
+ 
+`User ScreenName:` BlaqNick420 
+ 
+`User chosen Name:` Yung Blaq Kvng Nick420 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 14 13:34:12 +0000 2020 
+ 
+`User Description?:` 30 minutes PAST NoRmaL RockSTAR 
+ 
+`Followers?: `17 
+ 
+`Following?:` 167 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 125 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283034091831676932/4QiZ6LcG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 125 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DAT** 4 , **Y'ALL** 4 , **@DIE_MONDEZ** 4 , **@SHIKONEKENI_** 3 , **@KINGTEEDEE3545** 3 , **AGAIN** 3 , **CAN'T** 3 , **POP** 3 , **MORNING** 3 , **DRIPPING** 3 , **STILL** 3 , **@ZOOLANDERMOVIE** 3 , **MAAR** 2 , **LAUGHING** 2 , **PRODUCTIVE** 2 , **WHAT'S** 2 , **DAY** 2 , **I'M** 2 , **HARD** 2 , **GEEN** 2 , 
+ 
+## What this user tweeted
+ 
+RT @nd_apanda: Good day 😊
+
+I am a third year, Bachelor of Science in Computer Science in Cybersecurity understudy student at NUST. I'm in n…
+ 
+# Lindsay90858527USER INFO
+![image](http://pbs.twimg.com/profile_images/1283623691126022144/48dE4GkY_normal.jpg)
+ 
+`User ScreenName:` Lindsay90858527 
+ 
+`User chosen Name:` Lindsay Wang 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 16 04:44:43 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283623691126022144/48dE4GkY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AFRAID** 1 , **DESIRES!** 1 , **FEAR** 1 , **MINE!** 1 , **💑** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO/XMZWTXEATVI** 1 , **WHISPER** 1 , **EAR:** 1 , **“I** 1 , **YOURS** 1 , **WITHOUT** 1 , **FIGHT** 1 , **ZONES** 1 , **AVAILABLE!** 1 , **💚** 1 , **BTC** 1 , **HTTPS://TCO/4SYW9G4V0N** 1 , 
+ 
+## What this user tweeted
+ 
+Do not be afraid of your desires! Fear mine!
+ 💑  #cybersecurity https://t.co/xmzwtxEATV
+ 
+# BernadetteMbon3USER INFO
+![image](http://pbs.twimg.com/profile_images/1283748963900952576/S5X57j8o_normal.jpg)
+ 
+`User ScreenName:` BernadetteMbon3 
+ 
+`User chosen Name:` Bernadette Mbongo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 16 13:02:23 +0000 2020 
+ 
+`User Description?:` chanter 
+ 
+`Followers?: `13 
+ 
+`Following?:` 198 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 70 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283748963900952576/S5X57j8o_normal.jpg 
+ 
+`Number of tweets excluding replies:` 70 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 35 , **LA** 31 , **À** 21 , **ET** 16 , **LE** 13 , **DU** 11 , **LES** 10 , **DES** 9 , **QUE** 9 , **POUR** 9 , **:** 8 , **VOUS** 8 , **@MUYUMBA:** 8 , **EST** 7 , **QUI** 7 , **UN** 6 , **PAR** 6 , **SUR** 5 , **EN** 5 , **CE** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Mickeyinblack: The #EU’s top court ruled Thursday that an agreement that allows thousands of companies — from tech giants to small fina…
+ 
+# WareCyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283679957646893056/EjWmS6X6_normal.jpg)
+ 
+`User ScreenName:` WareCyber 
+ 
+`User chosen Name:` CyberWare 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 16 08:12:49 +0000 2020 
+ 
+`User Description?:` This page is made to aware people about cyber crimes and how to prevent themselves from being a victim. #BeCyberWare 
+ 
+`Followers?: `5 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283679957646893056/EjWmS6X6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MOST** 2 , **ALWAYS** 2 , **WEB** 2 , **DAY** 2 , **CLICK** 2 , **CYBERBULLYING** 1 , **VERY** 1 , **COMMON** 1 , **AMONGST** 1 , **TEENAGERS** 1 , **GO** 1 , **THROUGH** 1 , **DILEMMA** 1 , **THERE'S** 1 , **W…** 1 , **HTTPS://TCO/TV27IJV8OZALWAYS** 1 , **KEEP** 1 , **WI-FI** 1 , **ROUTERS** 1 , **PROTECTED** 1 , 
+ 
+## What this user tweeted
+ 
+Cyberbullying is very common amongst the teenagers and most of them go through this dilemma. But there's always a w… https://t.co/Tv27IjV8OZ
+ 
+# ginnylespinass4USER INFO
+![image](http://pbs.twimg.com/profile_images/1284108096680407042/eQLqRfrQ_normal.jpg)
+ 
+`User ScreenName:` ginnylespinass4 
+ 
+`User chosen Name:` ginny lespinasse 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 17 12:49:14 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 29 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1284108096680407042/eQLqRfrQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 29 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BELIAU** 3 , **IP** 2 , **ADDRESS** 2 , **2020** 2 , **MIAO** 2 , **ES** 2 , **EN** 2 , **QUE** 2 , **TURBOS** 2 , **BUSINESS** 2 , **SELALU** 2 , **VERIFICATION** 2 , **회원님들이** 2 , **RT** 1 , **@GETTHEWELL:** 1 , **HTTPS://TCO/5QJFNNYFA8** 1 , **SATISFYING** 1 , **SMOOTHIES** 1 , **VIA** 1 , **@EATFITFUELRT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @BlackFridays19: Public IP address can actually reveal about you so its better to disguise your actual ip address with a proxy or a vpn.…
+ 
+# yourcto_inUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283739251541041154/rT630ASj_normal.png)
+ 
+`User ScreenName:` yourcto_in 
+ 
+`User chosen Name:` YourCTO 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 16 12:04:36 +0000 2020 
+ 
+`User Description?:` YourCTO customers get access to a whole range of offerings at a fraction of the cost of hiring a full time CTO. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/kdHvpTQzrx 
+ 
+`Location:` Pune, India 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283739251541041154/rT630ASj_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DATA** 2 , **CUSTOMER** 1 , **LOSS** 1 , **MAY** 1 , **CAUSE** 1 , **IRREVERSIBLE** 1 , **DAMAGE** 1 , **REPUTATION** 1 , **BUSINESS** 1 , **ASSESS** 1 , **IMPLEMENT** 1 , **SECU…** 1 , **HTTPS://TCO/H4NVHYHJDA** 1 , 
+ 
+## What this user tweeted
+ 
+Customer data loss may cause irreversible damage to the reputation of your business. Assess &amp; implement a data secu… https://t.co/h4NvHyHjdA
+ 
+# MWWarZoneUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282038939239485441/YNDdQp33_normal.jpg)
+ 
+`User ScreenName:` MWWarZone 
+ 
+`User chosen Name:` WarZone 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 11 19:46:56 +0000 2020 
+ 
+`User Description?:` #ModernWarfare #Warzone #BattleRoyale 
+ 
+`Followers?: `2 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 55 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282038939239485441/YNDdQp33_normal.jpg 
+ 
+`Number of tweets excluding replies:` 55 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SONICWALL:** 53 , **SONICWALL** 25 , **SONICWALL'S** 12 , **CYBERSECURITY** 10 , **FIND** 9 , **FREE** 8 , **SECURITY** 7 , **FIREWALL** 7 , **3** 6 , **OFFER** 6 , **THREAT** 5 , **NEW** 5 , **LEARN** 5 , **FIVE** 5 , **TIME** 5 , **NETWORK** 4 , **BRANCH** 4 , **FIREWALLS** 4 , **BACK** 4 , **UPGRADE** 4 , 
+ 
+## What this user tweeted
+ 
+RT @SonicWall: Thanks again to @firewallscom for really going all out and bringing the gravitas of #Shakespeare to the SonicWall 3 and Free…
+ 
+# lauriissa8USER INFO
+![image](http://pbs.twimg.com/profile_images/1284108168751124480/enmqz_kS_normal.jpg)
+ 
+`User ScreenName:` lauriissa8 
+ 
+`User chosen Name:` lauri issa 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 17 12:49:33 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1284108168751124480/enmqz_kS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**+** 2 , **SOME** 2 , **RT** 1 , **@PUBLICISTMUSIC:** 1 , **⭐️VIRAL** 1 , **SOUNDCLOUD** 1 , **PROMOTION⭐️** 1 , **WEEK** 1 , **(AVERAGE** 1 , **35000** 1 , **PLAYS** 1 , **LIKES/REPO​STS/COMMEN​TS** 1 , **PER** 1 , **SONG** 1 , **RANKING:** 1 , **100** 1 , **FOLL…RT** 1 , **@CAUEGARCIA_:** 1 , **ACABOU** 1 , **DE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @AlexRyals: Working remote due to #COVID19? Here are some tips to keep your data safe.  @TechDataSecInf 
+
+https://t.co/MqMLgzCG48
+
+#remo…
+ 
+# PDFNKo5QJruiwXgUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` PDFNKo5QJruiwXg 
+ 
+`User chosen Name:` Иван 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 17 07:29:55 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**हैं** 3 , **@DOMINIONENERGY** 2 , **अभी** 2 , **बाकी** 2 , **@SUBSCRIBERWISE** 2 , **@SWFLCOURTS** 2 , **@ENTERPRISE** 2 , **@NATIONALCARES** 2 , **من** 2 , **RT** 1 , **@PIXELRATEDGAMES:** 1 , **RUSSIAN** 1 , **STATE-SPONSORED** 1 , **HACKERS** 1 , **TARGET** 1 , **COVID19** 1 , **VACCINE** 1 , **RESEARCHERS** 1 , **@GUARDIAN** 1 , **HTTPS://TCO/SNIAT6IVDV** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PixelRatedGames: #Russian state-sponsored #hackers target #Covid19 #vaccine researchers | @Guardian -
+ https://t.co/SNIAt6IvDV
+
+[#Kreml…
+ 
+# dary_severinoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281750980472844289/j8U64TYb_normal.jpg)
+ 
+`User ScreenName:` dary_severino 
+ 
+`User chosen Name:` Dary Josué Severino Matos 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 11 00:42:33 +0000 2020 
+ 
+`User Description?:` política 
+ 
+`Followers?: `2 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281750980472844289/j8U64TYb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 311 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 155 , **LA** 97 , **EL** 75 , **Y** 67 , **EN** 62 , **@HOLI_MATOS:** 48 , **QUE** 46 , **POR** 46 , **UN** 40 , **DEL** 38 , **ES** 31 , **LOS** 31 , **PARA** 29 , **SU** 28 , **AL** 28 , **CON** 27 , **SE** 26 , **@LUISABINADER** 25 , **@LUISABINADER:** 24 , **LAS** 23 , 
+ 
+## What this user tweeted
+ 
+RT @Mike_IMC: #TechNationalism may cause downstream effects in the supply chain or adjacent industries, with negative implications for nati…
+ 
+# Marcus_558USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Marcus_558 
+ 
+`User chosen Name:` Marcus 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 17 03:34:42 +0000 2020 
+ 
+`User Description?:` Follow Back 
+ 
+`Followers?: `0 
+ 
+`Following?:` 136 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 42 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 42 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ABAKARMANANY:** 5 , **LA** 4 , **DE** 4 , **2020** 4 , **POUR** 4 , **LES** 4 , **TE** 3 , **ONLINE** 3 , **@SIDAYUDATUK:** 3 , **@HARRYGOAZ:** 2 , **@HARRYGOAZ** 2 , **HARRYGOAZ** 2 , **@LANADELREY** 2 , **ANGELLAIRRANCH** 2 , **STATE** 2 , **NEW** 2 , **SCREEN** 2 , **DARK** 2 , **PAK** 2 , **WORLD** 2 , 
+ 
+## What this user tweeted
+ 
+RT @NoBeardEcho6: Intelligence and Security Services warning that Russian spies are targeting organisations trying to develop a coronavirus…
+ 
+# CarlosG99674909USER INFO
+![image](http://pbs.twimg.com/profile_images/1282790350730526722/StNabe27_normal.jpg)
+ 
+`User ScreenName:` CarlosG99674909 
+ 
+`User chosen Name:` Carlos Guarin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 12 15:26:22 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282790350730526722/StNabe27_normal.jpg 
+ 
+`Number of tweets excluding replies:` 221 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 258 , **LA** 147 , **EL** 125 , **@CASCZGNB53SUCRE:** 119 , **EN** 98 , **DEL** 79 , **Y** 78 , **@GNB_SUCRE:** 68 , **LAS** 59 , **13JUL** 56 , **PARA** 46 , **14JUL** 44 , **QUE** 43 , **LOS** 38 , **CON** 34 , **SE** 30 , **POR** 28 , **AL** 21 , **UNA** 21 , **NORMAS** 20 , 
+ 
+## What this user tweeted
+ 
+RT @Mike_IMC: #TechNationalism may cause downstream effects in the supply chain or adjacent industries, with negative implications for nati…
+ 
+# BUhq8AMKSdJybhtUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282112716661039109/JN5cbuYK_normal.jpg)
+ 
+`User ScreenName:` BUhq8AMKSdJybht 
+ 
+`User chosen Name:` Ярослав 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 12 00:40:32 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 35 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 139 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282112716661039109/JN5cbuYK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 139 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JUSTINSUNTRON:** 35 , **TRON** 25 , **VOYAGE:** 18 , **TRONCONFERENCE** 16 , **SUPPORT** 14 , **SUCCESSFULLY** 11 , **FINISHED** 11 , **THANKS** 11 , **🎉GREAT** 10 , **🤗TAKE** 9 , **RECAP** 9 , **40** 9 , **@BIGFLU5000:** 8 , **JULY** 8 , **GREAT** 7 , **@RIPGALE:** 7 , **COMMUNITY** 6 , **AMA** 6 , **7** 6 , **AMAZING** 5 , 
+ 
+## What this user tweeted
+ 
+RT @PixelRatedGames: #Russian state-sponsored #hackers target #Covid19 #vaccine researchers | @Guardian -
+ https://t.co/SNIAt6IvDV
+
+[#Kreml…
+ 
+# alik47054584USER INFO
+![image](http://pbs.twimg.com/profile_images/1283656326321758213/No7e9G5g_normal.jpg)
+ 
+`User ScreenName:` alik47054584 
+ 
+`User chosen Name:` alik 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 16 06:53:44 +0000 2020 
+ 
+`User Description?:` I am best player 
+ 
+`Followers?: `0 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 27 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283656326321758213/No7e9G5g_normal.jpg 
+ 
+`Number of tweets excluding replies:` 27 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTO** 4 , **VISON-PAPER** 3 , **READY✔️** 3 , **DEXFIN** 3 , **BITCOIN** 3 , **GOOD** 3 , **TWITTER** 2 , **OFF** 2 , **VIDEO** 2 , **@ALIK47054584:** 2 , **PRESENTATIONS** 2 , **BLOCKCHAIN** 2 , **WHITEPAPER** 2 , **@CLAUDIASHEIN** 2 , **@JUANJSERRANOM** 2 , **@MICHAELAISIZZU1:** 2 , **YEEES** 2 , **IAM** 2 , **RT** 1 , **@SUTERUSU_IO:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PixelRatedGames: #Russian state-sponsored #hackers target #Covid19 #vaccine researchers | @Guardian -
+ https://t.co/SNIAt6IvDV
+
+[#Kreml…
+ 
+# KKTech7USER INFO
+![image](http://pbs.twimg.com/profile_images/1282425955047190528/GsnTYTp4_normal.jpg)
+ 
+`User ScreenName:` KKTech7 
+ 
+`User chosen Name:` KK Tech 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 12 18:43:17 +0000 2020 
+ 
+`User Description?:` Following #python
+I am a bot
+
+Created by @KajalMahawer 
+ 
+`Followers?: `22 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282425955047190528/GsnTYTp4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1407 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PYTHON** 112 , **JAVASCRIPT** 31 , **DATASCIENCE** 30 , **AI** 27 , **BIGDATA** 27 , **MACHINELEARNING** 24 , **LEARNING** 24 , **PROGRAMMING** 23 , **ANALYTICS** 20 , **IOT** 18 , **100DAYSOFCODE** 17 , **RSTATS** 16 , **@50F7W4R37R4D3R:** 16 , **MACHINE** 15 , **DATA** 13 , **IIOT** 13 , **DEVELOPER** 12 , **LEARN** 12 , **JAVA** 12 , **…RT** 12 , 
+ 
+## What this user tweeted
+ 
+RT @infosec_jobsCOM: HIRING: Security Engineer / Warsaw, Masovian Voivodeship, Poland - https://t.co/pQK8fhhfe9 #InfoSec #infosecjobs #Cybe…
+ 
+# CyberVisionPtyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281533224922030086/E3k3xX47_normal.png)
+ 
+`User ScreenName:` CyberVisionPty 
+ 
+`User chosen Name:` CyberVision 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 10 10:02:45 +0000 2020 
+ 
+`User Description?:` CyberVision is an IT security distribution company that conducts business throughout Africa through a variety of resellers 
+ 
+`Followers?: `7 
+ 
+`Following?:` 2 
+ 
+`User URL?:` https://t.co/IsLASpDf36 
+ 
+`Location:` South Africa 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281533224922030086/E3k3xX47_normal.png 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RESTFUL** 1 , **WEEKEND** 1 , **CYBERVISIONHUMOUR** 1 , **CYBERVISION** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO/AK9RE3EV7KSOCIAL** 1 , **NETWORKS** 1 , **BEING** 1 , **WEAPONIZED** 1 , **ORDER** 1 , **FABRICATE** 1 , **SUPPORT** 1 , **POLITICAL** 1 , **VIEWPOINTS** 1 , **ALTER** 1 , **PERCEIVED** 1 , **SENTI…** 1 , **HTTPS://TCO/6RDHW9GSHI𝐅-𝐒𝐞𝐜𝐮𝐫𝐞** 1 , **𝐑𝐀𝐃𝐀𝐑** 1 , **AWARD-WINNING** 1 , 
+ 
+## What this user tweeted
+ 
+Have a restful weekend.
+#CyberVisionHumour #CyberVision #CyberSecurity https://t.co/ak9rE3EV7k
+ 
+# heatilUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282955417870639104/KsbDe7Y-_normal.jpg)
+ 
+`User ScreenName:` heatil 
+ 
+`User chosen Name:` Heatil 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 14 08:08:21 +0000 2020 
+ 
+`User Description?:` dayn 
+ 
+`Followers?: `1 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 42 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282955417870639104/KsbDe7Y-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 42 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JUSTINSUNTRON:** 7 , **TRON** 5 , **@KENKLIPPENSTEIN** 5 , **@COSMOSISWITHIN** 4 , **TWITTER** 3 , **BIG** 3 , **OFF** 3 , **INTO** 3 , **@IAJANUS** 3 , **AD** 3 , **@TOKENBETTER:** 3 , **COVID19** 2 , **LOOK** 2 , **3** 2 , **YEARS** 2 , **ECOSYSTEM** 2 , **@BOOKWRITER1949:** 2 , **FIRST** 2 , **BOOK** 2 , **"TEARDROPS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @PixelRatedGames: #Russian state-sponsored #hackers target #Covid19 #vaccine researchers | @Guardian -
+ https://t.co/SNIAt6IvDV
+
+[#Kreml…
+ 
+# Kaleigh_GCSUSER INFO
+![image](http://pbs.twimg.com/profile_images/1283391981113270274/SxxZBHn6_normal.jpg)
+ 
+`User ScreenName:` Kaleigh_GCS 
+ 
+`User chosen Name:` Kaleigh Dwyer 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 12:04:11 +0000 2020 
+ 
+`User Description?:` Cyber Knight @ GreyCastle Security
+kdwyer@greycastlesecurity.com | 315-417-3045 
+ 
+`Followers?: `8 
+ 
+`Following?:` 13 
+ 
+`User URL?:` https://t.co/PmMESFtSpD 
+ 
+`Location:` Herkimer, New York 
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283391981113270274/SxxZBHn6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TOP** 2 , **MIND** 2 , **@GREYCASTLESEC:** 2 , **CYBERSECURITY** 2 , **@_WEB3_** 1 , **ENSURING** 1 , **IMPLEMENTATION** 1 , **REGULARLY** 1 , **TESTED** 1 , **INCIDENT** 1 , **RESPONSE** 1 , **PLAN** 1 , **WHILE** 1 , **IT…** 1 , **HTTPS://TCO/W3PRZMHSIC@RODINOUTREACH** 1 , **I’D** 1 , **LOVE** 1 , **CONVERSATION** 1 , **FEW** 1 , **QUESTION** 1 , 
+ 
+## What this user tweeted
+ 
+@RodinOutreach I’d love to further this conversation with you. A few question this post brings top of mind, what ty… https://t.co/RLjPaHMz0p
+ 
+# MyCyberHygieneUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281537966217854991/0lzKD_QH_normal.jpg)
+ 
+`User ScreenName:` MyCyberHygiene 
+ 
+`User chosen Name:` My Cyber Hygiene 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 10 09:11:24 +0000 2020 
+ 
+`User Description?:` We report cyber incidents and offer free cyber hygiene e-learning course for individuals. My Cyber Hygiene is run by Cybexer Technologies. Be cyber aware! 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/Hd9t9a6sAi 
+ 
+`Location:` Tallinn, Estonia, EU 
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281537966217854991/0lzKD_QH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 1 , **CYBER** 1 , **ACTORS** 1 , **TARGETING** 1 , **ORGANISATIONS** 1 , **INVOLVED** 1 , **CORONAVIRUS** 1 , **VACCINE** 1 , **DEVELOPMENT** 1 , **UK** 1 , **SECURITY** 1 , **OFFICIALS…** 1 , **HTTPS://TCO/TFT9ODOZJOTHE** 1 , **TWITTER** 1 , **ACCOUNTS** 1 , **MAJOR** 1 , **USERS** 1 , **BILL** 1 , **GATES** 1 , **ELON** 1 , 
+ 
+## What this user tweeted
+ 
+Trustwave’s SpiderLabs reported on malware they called GoldenSpy, which was hidden inside software that their clien… https://t.co/5FZMoNYI5V
+ 
+# BrandiS15602017USER INFO
+![image](http://pbs.twimg.com/profile_images/1283396130391429120/1x4fdfrE_normal.jpg)
+ 
+`User ScreenName:` BrandiS15602017 
+ 
+`User chosen Name:` Brandi Scott 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 13:40:24 +0000 2020 
+ 
+`User Description?:` My Bio :) 
+ 
+`Followers?: `0 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283396130391429120/1x4fdfrE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LET** 1 , **HANDS** 1 , **DAY!** 1 , **💖** 1 , **IRENE** 1 , **HTTPS://TCO/WYIEP1KUJJI** 1 , **DREAM** 1 , **SURRENDERING** 1 , **CALL** 1 , **SINFUL** 1 , **FLESH** 1 , **MOST** 1 , **WONDERFUL** 1 , **GUY** 1 , **WORLD** 1 , **READING** 1 , **CO…** 1 , **HTTPS://TCO/CEPWFTKPZMPRAYED** 1 , 
+ 
+## What this user tweeted
+ 
+I dream of surrendering to the call of sinful flesh with the most wonderful guy in the world who is reading this co… https://t.co/cePWfTKpZm
+ 
+# DanielStent2029USER INFO
+![image](http://pbs.twimg.com/profile_images/1284022513572491264/QV3m8qeY_normal.jpg)
+ 
+`User ScreenName:` DanielStent2029 
+ 
+`User chosen Name:` Daniel Stent (Text Trump to 88022) 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 16 15:58:13 +0000 2020 
+ 
+`User Description?:` Conservative / Brexiteer / Trump Supporter / Pro 2nd Amendment / Futurist / Sailor 
+ 
+`Followers?: `6 
+ 
+`Following?:` 400 
+ 
+`User URL?:` None 
+ 
+`Location:` Newcastle Upon Tyne 
+ 
+`Number of tweets extracted`  : 45 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1284022513572491264/QV3m8qeY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 45 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FIRST** 4 , **@BOEINGAUSTRALIA:** 4 , **LOYALWINGMAN** 3 , **AIRCRAFT** 3 , **COVID-19** 3 , **RESEARCHERS** 2 , **NEW** 2 , **@FOLDINGATHOME:** 2 , **COVID19** 2 , **FULL** 2 , **UNMANNED** 2 , **USING** 2 , **@AUSAIRFORCE** 2 , **US** 2 , **@ALMAOBS:** 2 , **MADE** 2 , **@NASAJPL:** 2 , **WAY** 2 , **MARS** 2 , **LOCAL** 2 , 
+ 
+## What this user tweeted
+ 
+RT @NSACyber: Russian Intelligence Services #APT29 is using WellMess, WellMail, and SoreFang #malware to target COVID-19 research and more.…
+ 
+# Chris73143153USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Chris73143153 
+ 
+`User chosen Name:` Chris 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 17 10:12:08 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**YOU'RE** 2 , **BEST** 2 , **NSA** 2 , **RIDDLES@NSAGOV** 2 , **TIME** 2 , **@NSACYBER** 1 , **EXPLAIN** 1 , **DOING** 1 , **WAY@NSACYBER** 1 , **@NCSC** 1 , **@CSE_CST** 1 , **@CISAGOV** 1 , **WAY** 1 , **DEAL** 1 , **GO** 1 , **RUSSIANS** 1 , **SPECIFICALLYRT** 1 , **@NSACYBER:** 1 , **RUSSIAN** 1 , **INTELLIGENCE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @NSACyber: Russian Intelligence Services #APT29 is using WellMess, WellMail, and SoreFang #malware to target COVID-19 research and more.…
+ 
+# GEBgtKKRWglZBvVUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282385802278981632/cJdPDuET_normal.jpg)
+ 
+`User ScreenName:` GEBgtKKRWglZBvV 
+ 
+`User chosen Name:` حمودش العراقي 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 12 18:45:48 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:` Iraq 
+ 
+`Number of tweets extracted`  : 15 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282385802278981632/cJdPDuET_normal.jpg 
+ 
+`Number of tweets excluding replies:` 15 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FIRASALSARRAI:** 4 , **🔴** 4 , **الوزراء** 4 , **في** 4 , **العراق** 3 , **ام** 3 , **@ALIALKHALEDE:** 3 , **من** 3 , **مناشدة** 2 , **يناشدون** 2 , **قيادة** 2 , **البصرة** 2 , **تسيطر** 2 , **على** 2 , **مع** 2 , **قصر** 2 , **مجلس** 2 , **؟** 2 , **بعد** 2 , **@FCBARCELONA_ARA:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @LogicomDisti: Your customers deserve better #CyberSecurity. Protect them with the strongest security team on the planet! Learn more abo…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
