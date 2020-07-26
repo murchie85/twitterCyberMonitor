@@ -546,25 +546,29 @@ Delete this chat app that can spy on your data https://t.co/6r90fAbnaj
  
 `User ScreenName
  
+`Is the User 
+ 
+`User chosen Name:` ONPASSIVE USA 
+ 
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jul 21 08:49:58 +0000 2020 
+`User signup date?:` Wed Jul 22 02:46:34 +0000 2020 
  
-`User Description?:` Beautiful-Hardworking-Intelligent-Traveller-Sweet-Fashion Addict-Jewelries. 
+`User Description?:` ONPASSIVE is the first and only Total Internet Solution 🔂 With a complete AI Automation Tools & Applications. A Total IT Smart Business Solution #onpassiveusa 
  
-`Followers?: `20 
+`Followers?: `46 
  
-`Following?:` 399 
+`Following?:` 235 
  
-`User URL?:` None 
+`User URL?:` https://t.co/i3UETaRr0c 
  
-`Location:` New York 
+`Location:` Orlando, FL 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1286651048569065472/vPVApp7a_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1285768259581640706/N1IByaiX_normal.jpg 
  
-`Number of tweets excluding replies:` 305 
+`Number of tweets excluding replies:` 261 
  
 
  
@@ -572,38 +576,42 @@ Delete this chat app that can spy on your data https://t.co/6r90fAbnaj
  
 ## User Top tweeted words 
  
-**TRUMP** 12 , **PRESIDENT** 12 , **PEOPLE** 10 , **@THEHILL:** 9 , **US** 9 , **HOUSE** 9 , **AFTER** 8 , **BACK** 8 , **NEW** 7 , **@RONPAUL:** 7 , **ITS** 7 , **@DBONGINO:** 7 , **@NEWTGINGRICH:** 7 , **WATCH** 6 , **FIRST** 6 , **BEST** 6 , **INTO** 6 , **MAN** 6 , **BIDEN** 6 , **@REALDONALDTRUMP:** 6 , 
+**@SALLYCHARLES_93:** 28 , **MARKETING** 23 , **DIGITAL** 18 , **BUSINESS** 17 , **NEW** 13 , **SOCIAL** 13 , **MARKETERS** 12 , **@MITCHFREE360:** 12 , **GLOBAL** 10 , **PLATFORM** 10 , **DIGITALMARKETING** 8 , **MEDIA** 8 , **WORK** 7 , **MOBILE** 7 , **FIRST** 7 , **BUILD** 7 , **HELP** 7 , **@ANNAKRISTINE101:** 7 , **@KEITHS:** 7 , **@CODEWITHMO:** 7 , 
  
 ## What this user tweeted
  
-RT @newtgingrich: Mail-in voting is vulnerable to intimidation and coercion by rogue parties looking to install chaos into our election pro…
+RT @IAM__Network: emt calls for resellers looking for cloud security solution 
+
+READ MORE: https://t.co/uqeUoXHzDq
+
+#CyberSecurity #CyberSe…
  
-# RakeshR01592892USER INFO
-![image](http://pbs.twimg.com/profile_images/1286528596798971905/zojxvsnc_normal.jpg)
+# LAFORTRUMP20USER INFO
+![image](http://pbs.twimg.com/profile_images/1286904280180355072/8m3ZC5ZJ_normal.jpg)
  
-`User ScreenName:` RakeshR01592892 
+`User ScreenName:` LAFORTRUMP20 
  
-`User chosen Name:` Rakesh Rajoria 
+`User chosen Name:` LOVE17Trump 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 22 18:17:32 +0000 2020 
+`User signup date?:` Thu Jul 23 21:57:56 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Love Life, Love GOD, LOVE USA 
  
-`Followers?: `4 
+`Followers?: `202 
  
-`Following?:` 9 
+`Following?:` 370 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 151 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1286528596798971905/zojxvsnc_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1286904280180355072/8m3ZC5ZJ_normal.jpg 
  
-`Number of tweets excluding replies:` 151 
+`Number of tweets excluding replies:` 525 
  
 
  
@@ -611,38 +619,19 @@ RT @newtgingrich: Mail-in voting is vulnerable to intimidation and coercion by r
  
 ## User Top tweeted words 
  
-**STOP_PRIVATIZATION** 67 , **@PRIYANKA94MEENA:** 43 , **के** 31 , **है** 25 , **की** 22 , **GOVERNMENT** 22 , **STOP_PRIVATIZATIONRT** 21 , **और** 18 , **निजीकरण** 18 , **PRIVATIZATION** 18 , **का** 16 , **में** 16 , **मे** 16 , **से** 15 , **भी** 14 , **@HANSRAJMEENA** 14 , **तो** 13 , **नहीं** 13 , **सरकारी** 12 , **को** 12 , 
+**PORTLAND** 14 , **NEWS** 11 , **POLICE** 11 , **ANTIFA** 10 , **@MRANDYNGO:** 10 , **BLACK** 9 , **FEDERAL** 9 , **@REALDONALDTRUMP:** 8 , **PEOPLE** 8 , **@JSOLOMONREPORTS:** 8 , **TRUMP** 8 , **SEATTLE** 8 , **THESE** 7 , **NEW** 6 , **PUBLIC** 6 , **MEDIA** 6 , **RIOT** 6 , **OTHER** 6 , **YESTERDAY** 6 , **HELP** 6 , 
  
 ## What this user tweeted
  
-RT @kk__sharma: Privatization of public resources, enterprises will impact country in two ways.1- it'll de-politicise issues and reduce the…
+The Democrats voted against this! Why do Democrats put China before the American citizens? https://t.co/RYOW9Pbt5G
  
-# apnablogsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1286519789599350785/74Usowol_normal.jpg)
- 
-`User ScreenName:` apnablogs 
- 
-`User chosen Name:` Apnablogs.com 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 24 04:32:53 +0000 2020 
- 
-`User Description?:` Apnablogs - A Step Towards Great deals on Amazon 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/dGtfrEq2Y4 
- 
-`Location:` Mumbai 
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1286519789599350785/74Usowol_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br> excluding replies:` 4 
  
 
  
