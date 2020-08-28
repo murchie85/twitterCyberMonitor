@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **AIBizDir**  
+The most popular user is: **cyb3rops**  
  
 
-## #ArtificialIntelligence (#AI) Business Directory https://t.co/cVozfg4nxy #Startup #MachineLearning #IoT… https://t.co/hlLC6FNb4u 
+## I've updated my Security Analyst Workshop slides with a few more tools and services
+
+#DFIR #SOC #SIEM #ThreatIntel… https://t.co/dSLxBmxYJl 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **AIBizDir**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Venafi: You can't fix it if you can't define it.Kevin Bocek talks about the importance of creating common language between #threat an… |
-| Results of August @AFCyberWorx #CommercialSolutionsforClassified event? 50 plus @DeptofDefense &amp; #Industry reps exp… https://t.co/sbD6XwtITp |
-| RT @reach2ratan: UltraRank Digital Skimming Group Hit Hundreds of Sites https://t.co/reELm1iwq6#CyberSecurity #digital #Hackers #infosec… |
+| RT @intel_owl: v.1.5.0 is out! #IntelOwl now integrates @_IntelligenceX! All the release details here: https://t.co/ROmAwhgVfhIf you fi… |
+| RT @javier_carriazo: 19 common antivirus terms explained  #cyberthreats #hackers  #darkweb #privacy #databreaches #cyberattacks #cybercrime… |
+| RT @MISPProject: MISP 2.4.130 released with various fixes, performance improvements and new features.  #threatintel #threatintelligenceht… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DrJDrooghaag** |
-| #2 Most tweeted to  | **reach2ratan** |
-| #3 Most tweeted to  | **_whitneywebb** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.06%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 0.05%  |
+| Tweeters with < 10 followers  | 0.64%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,108 +52,30 @@ The most popular user is: **AIBizDir**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **DATA**  |
-| third  | **HACKERS** |
-| fourth  | **ATTACK**  |
-| fifth  | **RANSOMWARE**  |
+| first  | **HACKERS**  |
+| second  | **CYBERTHREATS**  |
+| third  | **@JINIBABD:** |
+| fourth  | **DARKWEB**  |
+| fifth  | **INFOSEC**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Learn what you can do to stay safe online and keep control of your IoT! Download our Information Exposed whitepaper… https://t.co/nGiVXK76sl |
+|FBI, CISA issue joint advisory on increased vishing attacks targeting teleworkers https://t.co/VQBg6p609G |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AIBizDir**  |
+| The most retweeted user is: **cyb3rops**  |
 | ------------- |
-| #ArtificialIntelligence (#AI) Business Directory https://t.co/cVozfg4nxy #Startup #MachineLearning #IoT… https://t.co/hlLC6FNb4u |
+| I've updated my Security Analyst Workshop slides with a few more tools and services#DFIR #SOC #SIEM #ThreatIntel… https://t.co/dSLxBmxYJl |
 
 # Potential Fake Accounts
- 
-# katenwebUSER INFO
-![image](http://pbs.twimg.com/profile_images/1298130122810130433/ZY8yhD5K_normal.jpg)
- 
-`User ScreenName:` katenweb 
- 
-`User chosen Name:` Kate Neighbours 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 25 05:28:13 +0000 2020 
- 
-`User Description?:` Computer Science student and cyber enthusiast 
- 
-`Followers?: `18 
- 
-`Following?:` 182 
- 
-`User URL?:` None 
- 
-`Location:` Sacramento, CA 
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1298130122810130433/ZY8yhD5K_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SOME** 4 , **GOOD** 4 , **100DAYSOFMATH** 4 , **@KHANACADEMY** 4 , **JOURNEY** 3 , **1** 3 , **SOUNDS** 2 , **GREAT** 2 , **WORK!** 2 , **DOING** 2 , **DAYS** 2 , **GOT** 2 , **100%** 2 , **I'M** 2 , **WELL** 2 , **CONGRATULATIONS** 2 , **FUNCTIONS** 2 , **SEQUENCES** 2 , **DAY** 2 , **FORWARD** 2 , 
- 
-## What this user tweeted
- 
-@itcareerguidan1 I hope to be some type of software developer or a cybersecurity analyst. I have a dream of working… https://t.co/gzBbA66oAC
- 
-# girlgonecrypto2USER INFO
-![image](http://pbs.twimg.com/profile_images/1299456162530840586/7j1xOEL8_normal.jpg)
- 
-`User ScreenName:` girlgonecrypto2 
- 
-`User chosen Name:` Girl Gone Crypto 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Aug 28 21:08:03 +0000 2020 
- 
-`User Description?:` @girlgone_crypto Content Creator. Focus on increasing #crypto adoption. #Bitcoin 
- 
-`Followers?: `9 
- 
-`Following?:` 197 
- 
-`User URL?:` https://t.co/BufihBYSka 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 140 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1299456162530840586/7j1xOEL8_normal.jpg 
- 
-`Number of tweets excluding replies:` 140 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@GIRLGONE_CRYPTO:** 112 , **BITCOIN** 37 , **CRYPTO** 17 , **DOWN** 10 , **TIME** 10 , **@CRYPTOFINALLY:** 10 , **PEOPLE** 9 , **SAT** 9 , **@GIRLGONE_CRYPTO** 9 , **BUY** 7 , **🚀🚀** 7 , **MAKE** 6 , **NEXT** 6 , **BEST** 6 , **GO** 6 , **I’M** 6 , **REALLY** 5 , **DAY** 5 , **AMA** 5 , **DON’T** 5 , 
- 
-## What this user tweeted
- 
-RT @girlgone_crypto: Had an awesome conversation with @ozsultan about what it takes for a #crypto project to succeed, how different generat…
  
 # 407RedcultUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1298905546930692098/UjSxDXjG_normal.jpg)
@@ -190,295 +114,7 @@ RT @girlgone_crypto: Had an awesome conversation with @ozsultan about what it ta
  
 ## What this user tweeted
  
-RT @windowsactvator: https://t.co/KHX0iUhmzl
- IPad ICloud Activation Lock
-#WebDev #BigData #CyberSecurity #IoT #IIoT #PyTorch #Python #RSta…RT @nenamooore: 3 Static #Application Security Testing advantages (SAST) You Should Know: https://t.co/W3LsAbWwZq 
-
-#DataScience #Artificia…RT @nenamooore: Advantages of a Secure Software Development Life Cycle (SDLC): https://t.co/XPQJSflcE0 
-
-#DataScience #ArtificialIntelligen…RT @SurfWatchLabs: Download our free paper: Using a Cyber #ThreatIntel Mind Map to Visualize and Improve Your #Cybersecurity Program https:…RT @three_cube: Why YOU Should Study SCADA/ICS Hacking and Security #scada #scadahacking #cybersecurity #cyberwar #cyberwarrior
-
-https://t.…RT @vishne0: Nobel laureate author emerges as powerful voice backing Belarus protests - Reuters India
-
-https://t.co/tzpQXLVo81
-
-#cybersecur…
- 
-# ExpelScrivUSER INFO
-![image](http://pbs.twimg.com/profile_images/1297972691815862277/8--ttuuY_normal.jpg)
- 
-`User ScreenName:` ExpelScriv 
- 
-`User chosen Name:` Nick 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Aug 24 18:59:45 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1297972691815862277/8--ttuuY_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@EXPEL_IO:** 2 , **RT** 1 , **CYBERSECURITY** 1 , **INVESTIGATION** 1 , **@EXPEL_IO** 1 , **WAY:** 1 , **TOOK** 1 , **PLACE** 1 , **THEN** 1 , **RUNDOWN** 1 , **ACTIONS** 1 , **SOC** 1 , **TAKEN…RT** 1 , **HATE** 1 , **BURST** 1 , **ANYONE'S** 1 , **BUBBLE** 1 , **CO-MANAGED** 1 , **SIEM** 1 , **ISN'T** 1 , 
- 
-## What this user tweeted
- 
-RT @expel_io: A #cybersecurity investigation the @expel_io way: see what took place, then get a rundown of the actions the #SOC has taken,…
- 
-# ElevateMktUSER INFO
-![image](http://pbs.twimg.com/profile_images/1299429815506829314/2nPK4nyb_normal.png)
- 
-`User ScreenName:` ElevateMkt 
- 
-`User chosen Name:` Elevate Personal Marketing 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Aug 27 19:02:55 +0000 2020 
- 
-`User Description?:` Resume’ and career consulting 
- 
-`Followers?: `3 
- 
-`Following?:` 26 
- 
-`User URL?:` None 
- 
-`Location:` United States 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1299429815506829314/2nPK4nyb_normal.png 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@USNEWSEDUCATION:** 3 , **THESE** 3 , **LEAD** 2 , **MISTAKES** 2 , **DURING** 2 , **@USNEWSMONEY:** 2 , **@JONGORDON11:** 2 , **POT** 2 , **RECRUITING** 2 , **15** 2 , **DISNEY** 2 , **SERVE** 2 , **RT** 1 , **TUITION** 1 , **DISCOUNTS** 1 , **RANGE** 1 , **10%** 1 , **100%** 1 , **SOME** 1 , **COLLEGES** 1 , 
- 
-## What this user tweeted
- 
-RT @JeffElder: Salaries can reach $300K in #Cybersecurity for engineers and even marketing execs. At one company, the median pay is $170K.…
- 
-# McgarrigleShaunUSER INFO
-![image](http://pbs.twimg.com/profile_images/1298303895651917824/3iyYqfDY_normal.jpg)
- 
-`User ScreenName:` McgarrigleShaun 
- 
-`User chosen Name:` Shaun McGarrigle 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 25 16:58:53 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 118 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 61 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1298303895651917824/3iyYqfDY_normal.jpg 
- 
-`Number of tweets excluding replies:` 61 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@FBI:** 14 , **US** 7 , **INFORMATION** 5 , **DURING** 5 , **STEAL** 4 , **@KOFC:** 4 , **NEW** 4 , **QUANTUM** 4 , **HELICOPTER** 4 , **@USCERT_GOV:** 3 , **CHINESE** 3 , **MILLION** 3 , **FBI** 3 , **CHILDREN** 3 , **ARREST** 3 , **MONEY** 3 , **MAJOR** 3 , **SYSTEMS** 3 , **SEA** 3 , **HELP** 3 , 
- 
-## What this user tweeted
- 
-RT @USCERT_gov: ☑️ Sign up TODAY to receive timely information about #cybersecurity topics, alerts, and emerging threats from our expert an…
- 
-# transientxincUSER INFO
-![image](http://pbs.twimg.com/profile_images/1298363538076045313/3assEsUw_normal.png)
- 
-`User ScreenName:` transientxinc 
- 
-`User chosen Name:` @transientxinc 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Aug 19 13:51:44 +0000 2020 
- 
-`User Description?:` TransientX: Cloud-Native Zero Trust Network Access (ZTNA)  Our mission: To transform fixed networks to disposable networks of apps.
-
-https://t.co/VD7Dxo3kfk 
- 
-`Followers?: `9 
- 
-`Following?:` 15 
- 
-`User URL?:` https://t.co/VTK2mGDB5Y 
- 
-`Location:` Hoboken, New Jersey 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1298363538076045313/3assEsUw_normal.png 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NETWORK** 2 , **ZERO** 2 , **TRUST** 2 , **THANKS** 1 , **MICRO-CONTAINERS** 1 , **FUNCTION** 1 , **VIRTUALIZATION** 1 , **TRANSIENTACCESS’S** 1 , **PERFORMANCE** 1 , **MOBILE** 1 , **FAR** 1 , **MOR…** 1 , **HTTPS://TCO/FZK30U6FUFA** 1 , **PRIMER** 1 , **TRUST:** 1 , **NEVER** 1 , **ALWAYS** 1 , **VERIFY** 1 , **HTTPS://TCO/WBMPNYPRPKDYK** 1 , **TRANSIENTX** 1 , 
- 
-## What this user tweeted
- 
-Thanks to micro-containers and network function virtualization, TransientAccess’s performance on mobile  is far mor… https://t.co/fzk30u6FUF
- 
-# FranklinWitterUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` FranklinWitter 
- 
-`User chosen Name:` Franklin Witter 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Aug 28 16:05:17 +0000 2020 
- 
-`User Description?:` Security Leader - Husband/Father - Foodie.  Tweets are my own and do not reflect the opinion of my employer. 
- 
-`Followers?: `1 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**2020** 2 , **MARKET** 2 , **GUIDE** 2 , **RT** 1 , **@ESENTIRE:** 1 , **NEW** 1 , **MDR** 1 , **SERVICES** 1 , **DON’T** 1 , **MISS** 1 , **IT!** 1 , **READ** 1 , **@GARTNER_INC** 1 , **TO…** 1 , 
- 
-## What this user tweeted
- 
-RT @eSentire: The New 2020 Market Guide for #MDR Services is out, and you don’t want to miss it! Read the 2020 @Gartner_Inc Market Guide to…
- 
-# zfcrd3USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` zfcrd3 
- 
-`User chosen Name:` คนสัญจร 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Aug 23 18:00:53 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 54 
- 
-`User URL?:` None 
- 
-`Location:` วัฒนา, กรุงเทพมหานคร 
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 26 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@2HB3W9TOU0NCXOF:** 2 , **@EP7JC7WKBXRMBZR@HDJYQOCRIBLOCNRRT** 1 , **@PING998811:** 1 , **กลุ่มเสียวถอดหมดคู่เทพ👇👇👇** 1 , **กลุ่มลับ** 1 , **บาทเดียว** 1 , **HTTPS://TCO/TKNAIRDEDN** 1 , **HTTPS://TCO/PKZACULMBFRT** 1 , **@SWISSCYBERFORUM:** 1 , **NATIONAL** 1 , **CYBERSECURITY** 1 , **CENTER** 1 , **NCSC** 1 , **ANNOUNCED** 1 , **REPORT** 1 , **CYBER** 1 , **INCIDENTS** 1 , **NOTIFIED** 1 , **STARTING** 1 , **FIRST** 1 , 
- 
-## What this user tweeted
- 
-RT @swisscyberforum: National #Cybersecurity Center NCSC announced a report about the cyber #incidents notified starting from the first wee…
- 
-# MyxoOwoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1296892737917132800/jVimUJAM_normal.jpg)
- 
-`User ScreenName:` MyxoOwo 
- 
-`User chosen Name:` myxo 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Aug 20 06:21:36 +0000 2020 
- 
-`User Description?:` MYXO | Turn on post notification and follow me :) 
- 
-`Followers?: `17 
- 
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1296892737917132800/jVimUJAM_normal.jpg 
- 
-`Number of tweets excluding replies:` 253 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@OUTOFCONTEXTEV** 17 , **OH** 9 , **WAIT** 7 , **@CARK_IRL** 7 , **ITS** 5 , **GREAT** 5 , **TWEET** 5 , **THATS** 5 , **YEAH** 4 , **DAMN** 4 , **FUCK** 4 , **VIRAL** 4 , **OK** 4 , **HIT** 3 , **HEY** 3 , **TRYING** 3 , **@DOCTOR_ARBYS** 3 , **NEW** 3 , **UH** 3 , **WOW** 3 , 
- 
-## What this user tweeted
- 
-@Finaticgraza1 You can do this!
-Also I am trying to learn CyberSecurity or just programming language
+RT @SurfWatchLabs: Download our free paper: Using a Cyber #ThreatIntel Mind Map to Visualize and Improve Your #Cybersecurity Program https:…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
