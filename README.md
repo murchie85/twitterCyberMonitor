@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **ChrisMurphyCT**  
+The most popular user is: **likethecoins**  
  
 
-## Joe Biden condemns violence, no matter who commits it.
-
-Donald Trump refuses to condemn violence when his supporter… https://t.co/onmaRrMLx5 
+## New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O 
 
   
 
@@ -25,24 +23,24 @@ Donald Trump refuses to condemn violence when his supporter… https://t.co/onma
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Effortlessly encrypt your data and keep it secure on the move with the datAshur PRO2 Secure Encrypted Flash Drive:… https://t.co/b1AK6lkoWN |
-| RT @goprivacy1: Reply-All storm flares as email announcing privacy policy puts 500 addresses in the 'To' field, not 'BCC':… https://t.co/68… |
-| “Eshoo said it’s “frightening” that the only thing preventing the wiretapping of lawmakers was the contractor’s ina… https://t.co/HcPv5NyvTO |
+| RT @JinibaBD: Most malicious actors starts their attacks with OSINT methodology. Learn how to use it for #security: The next big #cyber thi… |
+| Recent Ransomware Attacks: Latest Ransomware Attack News in 2020 #CyberSecurity  #infosec #cyberthreats #hackers… https://t.co/XcPM6ovEpI |
+| RT @javier_carriazo: Magento Multiversion (1.x/2.x) Backdoor #cybersecurity #infosec    #cyberthreats #hackers  #darkweb #privacy #databrea… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MalwareJake** |
-| #2 Most tweeted to  | **Infosec_Taylor** |
-| #3 Most tweeted to  | **TheHackersNews** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 1.48%|
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 0.91%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -53,98 +51,54 @@ Donald Trump refuses to condemn violence when his supporter… https://t.co/onma
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **HACKING**  |
-| third  | **HACKERS** |
-| fourth  | **CLOUD**  |
-| fifth  | **TOP**  |
+| second  | **HACKERS**  |
+| third  | **CYBERTHREATS** |
+| fourth  | **@JINIBABD:**  |
+| fifth  | **OSINT**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SANSDefense: "This was an excellent course with so many tools, techniques and event thought patterns to digest. Thank you for teaching… |
+|RT @bad_packets: Active #DDoS malware payload detected:http://209.141.58.69/mips (https://t.co/2Q9NC6X1yj)Target: ZTE router unauthentic… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ChrisMurphyCT**  |
+| The most retweeted user is: **likethecoins**  |
 | ------------- |
-| Joe Biden condemns violence, no matter who commits it.Donald Trump refuses to condemn violence when his supporter… https://t.co/onmaRrMLx5 |
+| New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O |
 
 # Potential Fake Accounts
  
-# GlynLewisTPUSER INFO
-![image](http://pbs.twimg.com/profile_images/1298205798888361984/XArVEgDE_normal.jpg)
+# ail_projectUSER INFO
+![image](http://pbs.twimg.com/profile_images/1298966135719833601/bJpxYqAi_normal.jpg)
  
-`User ScreenName:` GlynLewisTP 
+`User ScreenName:` ail_project 
  
-`User chosen Name:` Glyn Lewis 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 25 10:28:30 +0000 2020 
- 
-`User Description?:` Account Manager Threat Protect (@CybersecurityTP) • Cybersecurity simplified - email: glewis@threatprotect.co.uk LinkedIn: https://t.co/nRckusPkOU 
- 
-`Followers?: `5 
- 
-`Following?:` 26 
- 
-`User URL?:` https://t.co/PX0fHJHZwo 
- 
-`Location:` London 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1298205798888361984/XArVEgDE_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 2 , **PRICE** 2 , **RT** 1 , **@ONCYBERWAR:** 1 , **HAPPY** 1 , **TUESDAY** 1 , **SECURITY** 1 , **EXPERTS!** 1 , **INFOSEC** 1 , **HTTPS://TCO/2CHXKTTHOK@MCWM** 1 , **HOPE** 1 , **SO!** 1 , **LOVE** 1 , **IDEA** 1 , **DEVICE** 1 , **CONSOLIDATION** 1 , **AGREE** 1 , **WHILE** 1 , **BEFORE** 1 , **R…** 1 , 
- 
-## What this user tweeted
- 
-RT @OnCyberWar: Happy Tuesday security experts!
-#infosec #cybersecurity https://t.co/2CHxkttHok
- 
-# cybitcyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1297540038163456001/okfqLois_normal.jpg)
- 
-`User ScreenName:` cybitcyber 
- 
-`User chosen Name:` Cybit 
+`User chosen Name:` AIL Project 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Aug 23 14:06:52 +0000 2020 
+`User signup date?:` Thu Aug 27 12:50:15 +0000 2020 
  
-`User Description?:` Welcome to Cybit!
-
-Want to learn Cyber Security for FREE?
-
-Youtube Channel Link: https://t.co/E5fhlqDDok 
+`User Description?:` AIL Project is an open source project to collect and analyse data to produce security intelligence. 
  
-`Followers?: `1 
+`Followers?: `96 
  
-`Following?:` 20 
+`Following?:` 13 
  
-`User URL?:` None 
+`User URL?:` https://t.co/tmp5d0GoTg 
  
-`Location:`  
+`Location:` Worldwide 
  
 `Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1297540038163456001/okfqLois_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1298966135719833601/bJpxYqAi_normal.jpg 
  
 `Number of tweets excluding replies:` 9 
  
@@ -154,207 +108,38 @@ Youtube Channel Link: https://t.co/E5fhlqDDok
  
 ## User Top tweeted words 
  
-**SECURITY** 8 , **COURSE** 4 , **CYBER** 4 , **||** 4 , **FULL** 3 , **YOUTUBE** 3 , **BEGINNERS** 3 , **TRAINING** 3 , **VIA** 3 , **BEGINNERS"** 2 , **PUBLISHED** 2 , **SCREENS** 2 , **PLEASE** 2 , **WATCH** 2 , **BIO** 2 , **CYBERPUNK** 2 , **CYBERSECURITY** 2 , **@YOUTUBECYBER** 2 , **RT** 1 , **@CYBITCYBER:** 1 , 
+**AIL** 5 , **NEW** 4 , **@CIRCL_LU** 2 , **PROJECT** 2 , **ADDING** 2 , **AVERAGE** 2 , **YARA** 2 , **USING** 2 , **FRAMEWORK** 2 , **INCLUDES** 2 , **BETWEEN** 2 , **VERSION** 2 , **TWITTER** 2 , **USERS** 2 , **DEFAULT** 2 , **SET** 2 , **@MIKEL_HAMM** 1 , **INDEED** 1 , **SOURCE** 1 , **DIVERSITY** 1 , 
  
 ## What this user tweeted
  
-RT @cybitcyber: "Cyber Security Full Course for Beginners" has been published and on your Youtube screens now. Please watch and like the vi…
+The AIL framework includes a feature to detect duplicates and especially to show the similarities between collected… https://t.co/LuWIymlFp8
  
-# jak_slimUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# 407RedcultUSER INFO
+![image](http://pbs.twimg.com/profile_images/1298905546930692098/UjSxDXjG_normal.jpg)
  
-`User ScreenName:` jak_slim 
+`User ScreenName:` 407Redcult 
  
-`User chosen Name:` JakRabbitSlim 
+`User chosen Name:` Johnny's other 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Sep 01 06:46:13 +0000 2020 
+`User signup date?:` Thu Aug 27 08:46:54 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `5 
  
-`Following?:` 63 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PYTHON** 2 , **NEW** 2 , **WEB** 2 , **RT** 1 , **@SOURABHSKATOCH:** 1 , **BUILD** 1 , **FLIGHT** 1 , **TRACKING** 1 , **APPLICATION** 1 , **OPEN** 1 , **AIR** 1 , **TRAFFIC** 1 , **DATA** 1 , **HTTPS://TCO/BSCXHMIT9F** 1 , **100DAYSOFCODE…RT** 1 , **@ABISHEIKMAGESH:** 1 , **OMG** 1 , **INVITED** 1 , **BOUNTYCON** 1 , **FROM@FACEBOOK** 1 , 
- 
-## What this user tweeted
- 
-RT @AbisheikMagesh: Omg I have been invited #bountycon from.@Facebook I am glad to say this is my 1st ever #livehacking event going to be v…RT @InfoSecComm: New Write-up on InfoSec Write-ups publication : "VPS Cheatsheet for bug hunting" #bugbounty #bugbountywriteup #bugbountyti…
- 
-# CyberCreUSER INFO
-![image](http://pbs.twimg.com/profile_images/1300934064178974725/lxBcZVmx_normal.jpg)
- 
-`User ScreenName:` CyberCre 
- 
-`User chosen Name:` CyberCre 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Sep 01 22:25:40 +0000 2020 
- 
-`User Description?:` #InfoSec Student. Mother of 3 sons. Creative. BSin Psychology. Grad School Drop Out with Good Grades. Indie Music Influencer. Foodie. 
- 
-`Followers?: `2 
- 
-`Following?:` 48 
- 
-`User URL?:` https://t.co/DOGGeqpvBk 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1300934064178974725/lxBcZVmx_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**I’M** 2 , **GONNA** 2 , **STUDY** 2 , **SCHEDULE** 2 , **!** 2 , **DECISION** 2 , **TRYING** 1 , **FIGURE** 1 , **STAY** 1 , **HELPING** 1 , **3** 1 , **SONS** 1 , **NIECE** 1 , **VIRTUAL** 1 , **SCHOOL** 1 , **WHI…** 1 , **HTTPS://TCO/J0T9XMGFZUI’M** 1 , **RUNNING** 1 , **INTO** 1 , **MANY** 1 , 
- 
-## What this user tweeted
- 
-I’m running into so many dope Black people on here in #infosec . It’s like everything is aligning for me to positio… https://t.co/ZR2toojZxIThis is not just a decision for me, but one for my family &amp; one for The Culture...
-
-It is more important than ever… https://t.co/r8yShVmjgZ
- 
-# JuanCSantana3USER INFO
-![image](http://pbs.twimg.com/profile_images/1300904037299220481/zQKzdKQb_normal.jpg)
- 
-`User ScreenName:` JuanCSantana3 
- 
-`User chosen Name:` Juan Santana C 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Aug 27 15:52:26 +0000 2020 
- 
-`User Description?:` Hijo Adoptivo
-Colombo - Judío
-entusiasta del hacking - Navego en la Deep y Dark sin VPN 
- 
-`Followers?: `12 
- 
-`Following?:` 237 
- 
-`User URL?:` https://t.co/eoc3ghfAp2 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 163 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1300904037299220481/zQKzdKQb_normal.jpg 
- 
-`Number of tweets excluding replies:` 163 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 94 , **QUE** 64 , **LA** 44 , **Y** 39 , **EN** 34 , **LOS** 32 , **EL** 30 , **SE** 19 , **POR** 19 , **ES** 19 , **PARA** 18 , **DEL** 16 , **LO** 16 , **LAS** 15 , **VA** 13 , **UN** 12 , **MÁS** 11 , **PERO** 11 , **LE** 10 , **UNA** 10 , 
- 
-## What this user tweeted
- 
-RT @three_cube: Getting Started Becoming a Master Hacker! #hacker #infosec #cybersecurity #cyberwarrior
-
-https://t.co/aflUIkZzl3 https://t.…
- 
-# RobstechnicheUSER INFO
-![image](http://pbs.twimg.com/profile_images/1299403519166803968/tCNZNhg1_normal.jpg)
- 
-`User ScreenName:` Robstechniche 
- 
-`User chosen Name:` Robert 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Aug 28 17:47:41 +0000 2020 
- 
-`User Description?:` Computer information Systems -CyberSecurity; #Python, #Java, #Csharp, #DataAnalytics, #ComputerForensics, Dad, Husband. 
- 
-`Followers?: `6 
- 
-`Following?:` 74 
+`Following?:` 16 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 49 
+`Number of tweets extracted`  : 180 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1299403519166803968/tCNZNhg1_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1298905546930692098/UjSxDXjG_normal.jpg 
  
-`Number of tweets excluding replies:` 49 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**I'M** 4 , **GOT** 3 , **1** 3 , **THANK** 3 , **DIGITAL** 3 , **FORENSICS** 3 , **OFFICE** 3 , **EVIDENCE** 3 , **UNTIL** 2 , **TEST** 2 , **RESULTS** 2 , **COME** 2 , **DANGEROUS** 2 , **LEADS** 2 , **2** 2 , **WATCH** 2 , **TIME** 2 , **THROUGH** 2 , **QUESTIONS:** 2 , **LOVE** 2 , 
- 
-## What this user tweeted
- 
-AS of this moment, my criteria for following people
-
-Infosec
-Tech industry. 
-
-I'll refine the algorithm later. 
-
-I… https://t.co/w6GlfTvjVf
- 
-# TrustwaveGovtUSER INFO
-![image](http://pbs.twimg.com/profile_images/1300856675012874242/DfZEC6mT_normal.jpg)
- 
-`User ScreenName:` TrustwaveGovt 
- 
-`User chosen Name:` TrustwaveGovt 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Sep 01 15:43:11 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 391 
- 
-`User URL?:` None 
- 
-`Location:` Reston, VA 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1300856675012874242/DfZEC6mT_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 180 
  
 
  
@@ -362,129 +147,11 @@ I… https://t.co/w6GlfTvjVf
  
 ## User Top tweeted words 
  
-**2020** 2 , **CLOUD** 2 , **SEPTEMBER** 2 , **RT** 1 , **@TRUSTWAVE:** 1 , **@TRUSTWAVE** 1 , **POSITIONED** 1 , **LEADER** 1 , **FORRESTER** 1 , **WAVE:** 1 , **GLOBAL** 1 , **MANAGED** 1 , **SECURITY** 1 , **SERVICES** 1 , **PROVIDERS** 1 , **Q3** 1 , **COMP…PROTECTING** 1 , **NATION** 1 , **TRUSTWAVE** 1 , **FUTUREISCLOUD** 1 , 
+**VIA** 15 , **CYBERSECURITY** 14 , **US** 12 , **SECURITY** 10 , **@THEINTERCEPT:** 10 , **@HNBULLETIN:** 10 , **PEOPLE** 9 , **CYBER** 8 , **INFOSEC** 7 , **GOD:** 7 , **AFTER** 7 , **@MATTHEWACOLE:** 7 , **KILLED** 6 , **POLICE** 6 , **GOT** 6 , **SCHOOL** 6 , **MOST** 6 , **RISK** 6 , **RELEASES:** 6 , **NEW** 5 , 
  
 ## What this user tweeted
  
-RT @Trustwave: .@Trustwave Positioned as a Leader in The Forrester Wave: Global Managed Security Services Providers, Q3 2020. Get your comp…
- 
-# saltitnowUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` saltitnow 
- 
-`User chosen Name:` R Shankar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Aug 24 13:50:21 +0000 2020 
- 
-`User Description?:` Learner. Hacker. Dreamer 
- 
-`Followers?: `0 
- 
-`Following?:` 64 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HAPPY** 1 , **23RD** 1 , **NMAP!** 1 , **NMAP** 1 , **INFOSEC** 1 , **SECURITY** 1 , 
- 
-## What this user tweeted
- 
-Happy 23rd Nmap! 
-#nmap #infosec #Security
- 
-# zeller_krisUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` zeller_kris 
- 
-`User chosen Name:` Kris Zeller @ Work 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Aug 31 17:44:45 +0000 2020 
- 
-`User Description?:` Father, Husband, Technology enthusiast and Account Director at CenturyLink 
- 
-`Followers?: `1 
- 
-`Following?:` 151 
- 
-`User URL?:` None 
- 
-`Location:` Nations Capital aka the DMV 
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CEO** 4 , **JEFF** 4 , **@CENTURYLINK:** 3 , **FIBER** 3 , **STOREY** 3 , **@RACHELBITECOFER:** 2 , **5G** 2 , **NEW** 2 , **CENTURYLINK** 2 , **@CENTURYLINK’S** 2 , **EARNINGS** 2 , **RT** 1 , **@ELECTIONWSPHR:** 1 , **THAT’S** 1 , **FOLKS-** 1 , **@OLDBULLTV** 1 , **GOING** 1 , **GRAB** 1 , **COWBOY** 1 , **HATS** 1 , 
- 
-## What this user tweeted
- 
-30% of enterprises experienced a #DDoS attack last year. There is protection within reach. Let’s fight back togethe… https://t.co/SehPpVTX0v
- 
-# Hockomock_ISUSER INFO
-![image](http://pbs.twimg.com/profile_images/1300806733556838400/9c_6a7Fj_normal.jpg)
- 
-`User ScreenName:` Hockomock_IS 
- 
-`User chosen Name:` Hockomock InfoSec 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Sep 01 13:50:03 +0000 2020 
- 
-`User Description?:` Southeastern Massachusetts' preferred Information Security Subject Matter Experts. 
- 
-`Followers?: `1 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:` Southeastern Massachusetts  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1300806733556838400/9c_6a7Fj_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LIFE** 2 , **MONTHS** 2 , **USED** 1 , **RECOMMEND** 1 , **ABSOLUTE** 1 , **MAXIMUM** 1 , **CERT** 1 , **24** 1 , **IDEAL** 1 , **SPAN** 1 , **BEING** 1 , **12** 1 , **A…** 1 , **HTTPS://TCO/EBQRZ559IOTHIS** 1 , **GENUINELY** 1 , **SURPRISING** 1 , **FEELS** 1 , **PULLING** 1 , **TEETH** 1 , **COMPANIES** 1 , 
- 
-## What this user tweeted
- 
-“With any in-app redirect-logic/open redirect, HTML or JavaScript injection, it’s possible to execute arbitrary cod… https://t.co/Uunt877Stb
+RT @SurfWatchLabs: Download our free paper: Using a Cyber #ThreatIntel Mind Map to Visualize and Improve Your #Cybersecurity Program https:…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
