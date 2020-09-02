@@ -559,27 +559,52 @@ RT @WHOISbinit: My friend @noobibek told me about this method, and I got some cr
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Aug 28 14:53:22 +0000 2020 tps://t.co/CbAEUlaHbB
+`User signup date?:` Fri Aug 28 14:53:22 +0000 2020 
  
-# JUnderw82547191USER INFO
-![image](http://pbs.twimg.com/profile_images/1301177522873413632/gf5-BF39_normal.jpg)
+`User Description?:` 《snowflakes not welcome》lvl 39 Warrior Princess & Empath ~ I generally hate people & don't understand human behavior♡ MMJ Lifer 💋💨💨 
  
-`User ScreenName:` JUnderw82547191 
+`Followers?: `4 
  
-`User chosen Name:` J.Underwood 
+`Following?:` 29 
+ 
+`User URL?:` None 
+ 
+`Location:` PTSD▪︎MDD▪︎BiPolar2▪︎AnXiEtY 
+ 
+`Number of tweets extracted`  : 35 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1299359535505707010/7-NZEPE__normal.jpg 
+ 
+`Number of tweets excluding replies:` 35 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOOD** 4 , **I'M** 4 , **PEOPLE** 4 , **@CURVYNYMPH** 4 , **SOME** 3 , **💋💨💨** 3 , **DON'T** 2 , **HEART** 2 , **SOMEONE** 2 , **DIFFERENT** 2 , **HAVING** 2 , **OTHER** 2 , **THINGS** 2 , **THROUGH** 2 , **(&AMP;** 2 , **VERY** 2 , **HEAR** 2 , **REASON** 2 , **UNDERSTAND** 2 , **WITHOUT** 2 , 
+ 
+## What this user tweeted
+ 
+RT @goodjuujuubox: Evil people use the vulnerabilities of others to manipulate them.
+ 
+# LalitSh11699170USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` LalitSh11699170 
+ 
+`User chosen Name:` Lalit Sharma 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Sep 02 15:16:50 +0000 2020 
+`User signup date?:` Tue Sep 01 02:21:29 +0000 2020 
  
-`User Description?:` I Love My President and My Country!
-#MAGA
-#Trump2020
-#4MoreYears 
+`User Description?:` student 
  
-`Followers?: `20 
+`Followers?: `1 
  
-`Following?:` 333 
+`Following?:` 8 
  
 `User URL?:` None 
  
@@ -587,9 +612,9 @@ RT @WHOISbinit: My friend @noobibek told me about this method, and I got some cr
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1301177522873413632/gf5-BF39_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 386 
+`Number of tweets excluding replies:` 311 
  
 
  
@@ -597,38 +622,38 @@ RT @WHOISbinit: My friend @noobibek told me about this method, and I got some cr
  
 ## User Top tweeted words 
  
-**TRUMP** 32 , **BIDEN** 25 , **JOE** 19 , **PELOSI** 15 , **PRESIDENT** 15 , **@JSOLOMONREPORTS:** 15 , **NEW** 14 , **NEWS** 14 , **@JUDGEJEANINEFAN:** 8 , **@REALDONALDTRUMP** 7 , **NANCY** 7 , **NORTH** 7 , **@JACKPOSOBIEC:** 7 , **PORTLAND** 7 , **GO** 6 , **FIRST** 6 , **WORLD** 6 , **STATE** 6 , **CALLS** 5 , **@JOEBIDEN** 5 , 
+**SPEAKUPFORSSCRALIWAYSTUDENTS** 113 , **SPEAKUPFORSSCRAILWAYSSTUDENTS** 37 , **SSC** 36 , **TIME** 34 , **EXAM** 29 , **@PMOINDIA** 28 , **JUSTICE** 24 , **@NARENDRAMODI** 22 , **SSCDECLARECGLRESULTS** 22 , **GOVERNMENT** 20 , **STUDENTS** 18 , **EXAMINATION** 16 , **@CAREERWILLAPP** 16 , **RESULT** 15 , **BOYCOTT** 15 , **RESULTS** 13 , **RAILWAY** 13 , **RRB** 12 , **THESE** 12 , **EXAMS** 12 , 
  
 ## What this user tweeted
  
-RT @SpaceForceDoD: Teams gathered for a cybersecurity exercise to test and @hack_a_sat. @AF_SMC experts played an integral role during the…
+RT @kk__sharma: Privatization of public resources, enterprises will impact country in two ways.1- it'll de-politicise issues and reduce the…
  
-# AvataraDigitalUSER INFO
-![image](http://pbs.twimg.com/profile_images/1300628629798363142/GqrrWE2O_normal.jpg)
+# sageraygoddessUSER INFO
+![image](http://pbs.twimg.com/profile_images/1300252795912753158/Wit0s4m5_normal.jpg)
  
-`User ScreenName:` AvataraDigital 
+`User ScreenName:` sageraygoddess 
  
-`User chosen Name:` Avatara Digital 
+`User chosen Name:` Ayithagoddess 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Aug 29 07:14:28 +0000 2020 
+`User signup date?:` Mon Aug 31 02:02:41 +0000 2020 
  
-`User Description?:` Digital marketing toolkits. Software platforms + services. 
+`User Description?:` Empathic Advisor Spiritual Healer Plant 🌿🌱Goddess Stoner 💨pisces♓️🌞♐️🌜♊️💫 Jamaican production Bronx Baby Single Parent 
  
-`Followers?: `1 
+`Followers?: `22 
  
-`Following?:` 16 
+`Following?:` 125 
  
-`User URL?:` https://t.co/yg8nAsecIo 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 58 
+`Number of tweets extracted`  : 56 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1300628629798363142/GqrrWE2O_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1300252795912753158/Wit0s4m5_normal.jpg 
  
-`Number of tweets excluding replies:` 58 
+`Number of tweets excluding replies:` 56 
  
 
  
@@ -636,30 +661,147 @@ RT @SpaceForceDoD: Teams gathered for a cybersecurity exercise to test and @hack
  
 ## User Top tweeted words 
  
-**@TIECON** 17 , **@TIECON:** 14 , **TIECON** 12 , **CEO** 7 , **PANEL** 7 , **START:** 7 , **@VRUSH_MALPEKAR:** 7 , **KEYNOTE** 6 , **2020** 6 , **JOIN** 6 , **TIE** 6 , **TIECON2020** 6 , **VIRTUAL** 6 , **GLOBAL** 5 , **DOWNLOAD** 4 , **APP** 4 , **HTTPS://TCO/E7CQ1OWVRJ** 4 , **FRONT-ROW** 4 , **SEAT** 4 , **ACTION** 4 , 
+**LOVE** 23 , **CAREER** 12 , **ADVICE** 9 , **9/1-9/8** 9 , **CONT** 7 , **TIME** 6 , **CONT&GT;&GT;** 5 , **CONT&GT;&GT;&GT;** 5 , **PISCES** 4 , **COMES** 4 , **MAY** 4 , **MOON** 4 , **LIFE** 4 , **GO** 3 , **GONNA** 3 , **MOVE** 3 , **SOMETHING** 3 , **FOCUS** 3 , **HURT** 3 , **UNIVERSE** 3 , 
  
 ## What this user tweeted
  
-RT @chenxiwang: Listen to my good friend @SplunkHaiyan keynoting the #cybersecurity track @tiecon. It's a good day when the two of us are p…
+RT @sageraygoddess: Full moon in Pisces brings focus on consciousness.
+Vulnerabilities are at an all time high, so is imagination and thoug…Full moon in Pisces brings focus on consciousness.
+Vulnerabilities are at an all time high, so is imagination and t… https://t.co/YjfZyGN58a
  
-# PakistanSoldie3USER INFO
-![image](http://pbs.twimg.com/profile_images/1300434484056264705/BM2fQgKc_normal.jpg)
+# Someonevoice777USER INFO
+![image](http://pbs.twimg.com/profile_images/1300630470120538112/EWL1E1AM_normal.jpg)
  
-`User ScreenName:` PakistanSoldie3 
+`User ScreenName:` Someonevoice777 
  
-`User chosen Name:` Pakistan Soldier 
+`User chosen Name:` Someonevoice 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Aug 31 14:03:54 +0000 2020 
+`User signup date?:` Tue Sep 01 03:03:36 +0000 2020 
  
-`User Description?:` Team Patriot
-Pakistan Zindabad 🇵🇰
-backup account 
+`User Description?:` Human trafficking in need of help please call 6614215798 even if it's just to talk! Support human trafficking please push the Hart button 
  
-`Followers?: `28 
+`Followers?: `42 
  
-`Following?:` 39 
+`Following?:` 360 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 89 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1300630470120538112/EWL1E1AM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 89 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRAFFICKING** 16 , **HUMAN** 12 , **@SOMEONEVOICE777:** 8 , **MISSING** 5 , **@IAMCARDIB** 5 , **CHILDREN** 5 , **WOMEN** 3 , **LOVE** 3 , **DURING** 3 , **SEX** 3 , **PLEASE** 3 , **MAKE** 3 , **CHILD** 3 , **NEED** 3 , **HELP** 3 , **@WSDOTBLOWS:** 2 , **THEMRT** 2 , **HULL** 2 , **@GENDERSTUDY:** 2 , **GREAT** 2 , 
+ 
+## What this user tweeted
+ 
+RT @Polaris_Project: Child sex trafficking often evokes images of kidnappings, windowless vans, and chains. However, the reality often invo…
+ 
+# Horizon3aiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1298612332533227522/RZIRTYNj_normal.jpg)
+ 
+`User ScreenName:` Horizon3ai 
+ 
+`User chosen Name:` Horizon3.ai 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Aug 26 13:23:33 +0000 2020 
+ 
+`User Description?:` Fix What Matters. See your enterprise through the eyes of an attacker 
+ 
+`Followers?: `12 
+ 
+`Following?:` 75 
+ 
+`User URL?:` https://t.co/ppleeozicQ 
+ 
+`Location:` San Francisco, CA 
+ 
+`Number of tweets extracted`  : 39 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1298612332533227522/RZIRTYNj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 39 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SECURITY** 6 , **CYBER** 6 , **VS** 6 , **ATTACK** 5 , **THAN** 4 , **USED** 4 , **@HMGSTRATEGY:** 4 , **COMPANIES** 3 , **PRODUCT** 3 , **SNEHAL** 3 , **ANTANI** 3 , **CO-FOUNDER** 3 , **CEO** 3 , **@HORIZON3AI—** 3 , **PASSWORD** 3 , **VULNERABILITIES** 3 , **MOST** 3 , **FIX** 3 , **FIND** 3 , **EXPLOITS** 3 , 
+ 
+## What this user tweeted
+ 
+@Horizon3ai analytics tries to identify every possible attack vector by analyzing how exploitable vulnerabilities,… https://t.co/KpSnvbHtY8
+ 
+# Orneno1USER INFO
+![image](http://pbs.twimg.com/profile_images/1300533166759907328/tJHHgEw5_normal.jpg)
+ 
+`User ScreenName:` Orneno1 
+ 
+`User chosen Name:` Orneno 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Aug 31 14:29:36 +0000 2020 
+ 
+`User Description?:` Creator of Love Life and Creativity. Writer. Dreamer. Focused on drinking more water and reading.  The girl who always "talked too much" in class. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 52 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 22 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1300533166759907328/tJHHgEw5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 22 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROBABLY** 2 , **I'M** 2 , **OTHER** 2 , **PLANS** 2 , **NEVER** 2 , **UNDERSTAND** 2 , **TIME** 2 , **HERE** 2 , **WEEK** 2 , **MASK** 2 , **LOT** 2 , **LESS** 2 , **@ALL2HIM1** 1 , **@VERZUZONLINE** 1 , **WON'T** 1 , **HAPPEN** 1 , **MONICA** 1 , **PLAYS** 1 , **MISTY** 1 , **BLUE?** 1 , 
+ 
+## What this user tweeted
+ 
+RT @blackgirlinom: When you understand your inner self — your passions, motivations, moral code and vulnerabilities, you don’t have to blow…
+ 
+# Covidtimes1USER INFO
+![image](http://pbs.twimg.com/profile_images/1299461193589981185/u4CUACxr_normal.jpg)
+ 
+`User ScreenName:` Covidtimes1 
+ 
+`User chosen Name:` Covid times 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Aug 24 00:23:27 +0000 2020 
+ 
+`User Description?:` Hey 👋☺️ 💋 
+ 
+`Followers?: `50 
+ 
+`Following?:` 87 
  
 `User URL?:` None 
  
@@ -667,9 +809,9 @@ backup account
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1300434484056264705/BM2fQgKc_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1299461193589981185/u4CUACxr_normal.jpg 
  
-`Number of tweets excluding replies:` 766 
+`Number of tweets excluding replies:` 351 
  
 
  
@@ -677,40 +819,77 @@ backup account
  
 ## User Top tweeted words 
  
-**STOPSUSPENSIONPAKACCOUNTS** 98 , **@MUBI_26:** 50 , **@DUARINDBALOCH:** 49 , **بچےکا_زناکار_موت_کاحقدار** 44 , **TWITTER** 27 , **CHILD** 19 , **PAKISTAN** 16 , **MEDIA** 15 , **CHILDREN** 15 , **کے** 14 , **ACCOUNTS** 14 , **SOCIAL** 14 , **ABUSE** 13 , **INDIAN** 12 , **میں** 11 , **PAKISTANI** 11 , **بچےکا_زناکار_موت_کاحقدارRT** 11 , **کی** 11 , **@TWITTER** 10 , **FREEDOM** 10 , 
+**@JEFFSEKERAK:** 25 , **US** 20 , **PEOPLE** 18 , **U** 18 , **@CONSPIRACYB0T:** 18 , **I’M** 13 , **@EPIGENETICWHISP:** 13 , **@FREE_MAN789** 11 , **THEY'RE** 10 , **YOU'RE** 9 , **@INTUITIVE1966** 8 , **SOME** 7 , **DON'T** 6 , **DON’T** 6 , **NEED** 6 , **MOST** 6 , **BEING** 6 , **BIG** 6 , **MANY** 6 , **MAKE** 5 , 
  
 ## What this user tweeted
  
-RT @MuBi_26: #StopSuspensionPakAccounts
-  “Today we removed 103 pages, Groups and accounts for engaging in coordinated inauthentic behavior…RT @MuBi_26: #StopSuspensionPakAccounts
-“how come Facebook Cybersecurity only found Pakistani ISPR linked social media teams &amp; Congress par…
+RT @EpigeneticWhisp: I’ve received a lot of outpouring of support after exposing my vulnerabilities 2 U all. I appreciate it. Many of U tol…
  
-# YesudasA7USER INFO
-![image](http://pbs.twimg.com/profile_images/1300322918610604033/zRLZCLg9_normal.jpg)
+# ProfMinnisUSER INFO
+![image](http://pbs.twimg.com/profile_images/1297793392576008194/nF4jE7uG_normal.jpg)
  
-`User ScreenName:` YesudasA7 
+`User ScreenName:` ProfMinnis 
  
-`User chosen Name:` Yesudas A 
+`User chosen Name:` ProfMinnis 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Aug 31 06:39:29 +0000 2020 
+`User signup date?:` Mon Aug 24 07:09:25 +0000 2020 
  
-`User Description?:` IT Professional graduate,Bsc computer science, Hardware and Network engineering. 
+`User Description?:` Academic child psychiatrist @UofGlasgow @GillbergCentre @LSHTM-alum. Loves a challenge! Complex interventions, neurodevelopment, trauma – now school reopening 
  
-`Followers?: `1 
+`Followers?: `764 
+ 
+`Following?:` 61 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 136 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1297793392576008194/nF4jE7uG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 136 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ARGSTRINGARIS** 7 , **I'M** 7 , **US** 6 , **WORK** 6 , **HI** 6 , **TIME** 5 , **AMAZING** 5 , **READ** 5 , **@CATHY_CRESWELL** 5 , **GREAT** 5 , **BEING** 4 , **PROGRAMME** 4 , **CHILDREN** 4 , **GLASGOW** 4 , **PARENTS** 4 , **SCHOOLS** 4 , **KEEP** 4 , **SUCH** 4 , **MUCH** 3 , **BEST** 3 , 
+ 
+## What this user tweeted
+ 
+First we asked ALL sorts of families how they were coping and who could/couldn’t quite manage lockdown. Low-income,… https://t.co/1ME14a6hhu
+ 
+# CyberPanda_laUSER INFO
+![image](http://pbs.twimg.com/profile_images/1300301986877698048/HsKsCw9j_normal.jpg)
+ 
+`User ScreenName:` CyberPanda_la 
+ 
+`User chosen Name:` CyberPanda 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Aug 31 05:16:57 +0000 2020 
+ 
+`User Description?:` We help startups to secure their applications within a reasonable cost. 
+ 
+`Followers?: `0 
  
 `Following?:` 3 
  
-`User URL?:` None 
+`User URL?:` https://t.co/pkVhNAdE7A 
  
-`Location:`  
+`Location:` Los Angeles 
  
-`Number of tweets extracted`  : 7 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1300322918610604033/zRLZCLg9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1300301986877698048/HsKsCw9j_normal.jpg 
  
-`Number of tweets excluding replies:` 7 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -718,12 +897,92 @@ RT @MuBi_26: #StopSuspensionPakAccounts
  
 ## User Top tweeted words 
  
-**TENCENT** 2 , **G90T** 2 , **ANI** 1 , **RELEASED** 1 , **ANITVINDIA** 1 , **CYBER** 1 , **SECURITY** 1 , **BANNED** 1 , **118** 1 , **APPS** 1 , **INCLUDE** 1 , **(PUBG)** 1 , **HERE** 1 , **LIST** 1 , **PUBG** 1 , **INDIA…** 1 , **HTTPS://TCO/R5IS07EKNPTESLA** 1 , **BOSS(TESLA** 1 , **CEO** 1 , **ELON** 1 , 
+**LARAVEL** 4 , **APIS** 2 , **ATTACK** 2 , **SECURITY** 2 , **ACCORDING** 1 , **GARTNER** 1 , **ACCOUNT** 1 , **90%** 1 , **SURFACE** 1 , **NEXT** 1 , **YEAR** 1 , **2022** 1 , **BECOME** 1 , **T…** 1 , **HTTPS://TCO/UJNCK5S4QEHTTPS://TCO/VZBKZPYLUDXSS** 1 , **VECTORS** 1 , **BLADE** 1 , **HTTPS://TCO/LN4LNB4JWO** 1 , **APPSECMASS** 1 , **ASSIGNMENT** 1 , 
  
 ## What this user tweeted
  
-India cyber security has banned 118 apps include Tencent (PUBG) and here is the list
-#Tencent #PUBG #India… https://t.co/R5iS07ekNP
+Mass Assignment Vulnerabilities in Laravel Applications
+https://t.co/OzemO8ZUPr 
+
+#Laravel #security #appsec
+ 
+# gurahiyanihalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1299209954075656192/fvid2W3J_normal.jpg)
+ 
+`User ScreenName:` gurahiyanihal 
+ 
+`User chosen Name:` Nihal Singh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Aug 26 04:36:49 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `9 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 67 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1299209954075656192/fvid2W3J_normal.jpg 
+ 
+`Number of tweets excluding replies:` 67 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FBDPOLICE:** 64 , **@FBDPOLICE** 13 , **को** 13 , **FARIDABAD** 11 , **के** 10 , **की** 10 , **से** 9 , **का** 9 , **में** 9 , **POLICE** 8 , **CP** 8 , **पर** 7 , **है।** 7 , **पुलिस** 7 , **⁦@FBDPOLICE⁩** 6 , **CPFARIDABAD** 6 , **@POLICE_HARYANA** 5 , **BULLYING** 5 , **⁦@POLICE_HARYANA⁩** 5 , **ARRESTED** 5 , 
+ 
+## What this user tweeted
+ 
+RT @FBDPolice: Saurabh, an IT pro, called on CP, Faridabad today to discuss IT plan for #TeenAgePolice. Idea is to use Instagram &amp; Facebook…
+ 
+# pingugu2USER INFO
+![image](http://pbs.twimg.com/profile_images/1299429326736306176/Qmvkc2tU_normal.jpg)
+ 
+`User ScreenName:` pingugu2 
+ 
+`User chosen Name:` pingugu 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Aug 28 19:29:43 +0000 2020 
+ 
+`User Description?:` oh boy let me see i got a big dream 
+ 
+`Followers?: `1 
+ 
+`Following?:` 47 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1299429326736306176/Qmvkc2tU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOVE** 6 , **BLONDE** 3 , **DON'T** 3 , **TWITTER** 3 , **GIMME** 3 , **NEED** 2 , **BABY** 2 , **ALMOST** 2 , **THING** 2 , **TAEKOOK** 2 , **THO** 2 , **WORLD** 2 , **CHASING** 2 , **AFTER** 2 , **BTS** 2 , **DREAM** 2 , **NEVER** 2 , **BEING** 2 , **MINS** 2 , **SINGLE** 2 , 
+ 
+## What this user tweeted
+ 
+like his moves, LOVE his vulnerabilities
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
