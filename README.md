@@ -551,13 +551,38 @@ Do you want to know if how many cybersecurity companies are there in Kansas, MO?
  
 ## User Top tweeted words 
  
-**के** 45 , **को** 26 , **से** 24 , **की** 24 , **में** 24 , **पर** 20 , **ने** 18 , **है** 13 , **का** 10 , **@GUARDIAN:** 9 , Capital Territory, Nig 
+**के** 45 , **को** 26 , **से** 24 , **की** 24 , **में** 24 , **पर** 20 , **ने** 18 , **है** 13 , **का** 10 , **@GUARDIAN:** 9 , **COVID-19** 8 , **@INDIATODAY:** 8 , **COVID19** 8 , **एक** 8 , **पुलिस** 8 , **NEW** 7 , **हैं** 7 , **AFTER** 7 , **तो** 6 , **@REUTERS:** 6 , 
  
-`Number of tweets extracted`  : 20 
+## What this user tweeted
  
-`Profile image:` http://pbs.twimg.com/profile_images/1301616232974737414/XD9rp5gq_normal.jpg 
+RT @ESET: Did you know that 1/3 of internet users are children? Take a moment to go through some of the cybersecurity basics with your kids…
  
-`Number of tweets excluding replies:` 20 
+# k_patknowleUSER INFO
+![image](http://pbs.twimg.com/profile_images/1301301728428556288/hAPrvBaN_normal.jpg)
+ 
+`User ScreenName:` k_patknowle 
+ 
+`User chosen Name:` Kimberly Patknowle 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 02 23:28:28 +0000 2020 
+ 
+`User Description?:` Trust because you're willing to accept the Risk, not because it's safe or certain. MBFX #TRADER 
+ 
+`Followers?: `43 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:` California, USA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1301301728428556288/hAPrvBaN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1270 
  
 
  
@@ -565,90 +590,80 @@ Do you want to know if how many cybersecurity companies are there in Kansas, MO?
  
 ## User Top tweeted words 
  
-**SEX** 5 , **@THESANASI:** 4 , **WHERE** 3 , **KINDLY** 2 , **FOLLOW** 2 , **ACCOUNT** 2 , **GOT** 2 , **BONE** 2 , **@THESANASI** 2 , **TRAFFICKING** 2 , **RT** 1 , **@IFETHEOXYGEN:** 1 , **GUYS** 1 , **OLD** 1 , **SUSPENDEDRT** 1 , **@DANIELAREMSON:** 1 , **RECEIVED** 1 , **EMERGENCY** 1 , **CALL** 1 , **MORNING** 1 , 
+**POUND** 38 , **POUNDS** 35 , **EURO** 14 , **INVEST** 12 , **2** 11 , **NEW** 10 , **@EURO2020:** 10 , **10** 10 , **BLACK** 10 , **TIME** 9 , **5** 8 , **DAY** 8 , **AFTER** 8 , **US** 7 , **NATIONSLEAGUE** 7 , **MAKES** 7 , **MAKE** 6 , **WEEK** 6 , **MILLION** 6 , **TWO** 6 , 
  
 ## What this user tweeted
  
-RT @thesanasi: Sex Trafficking Trends you should know
--They take advantage of your vulnerabilities 
--Women make the larger percentage of se…
+RT @NamoAmbTN: Great opportunity4 youngsters who wish 2b entrepreneurs in the IT sector. The Grand Challenge for Cyber Security is designed…
  
-# RootDanteUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# Macrolongatuli1USER INFO
+![image](http://pbs.twimg.com/profile_images/1302323653326053377/NOCiL-Fp_normal.jpg)
  
-`User ScreenName:` RootDante 
+`User ScreenName:` Macrolongatuli1 
  
-`User chosen Name:` Dante Root 
+`User chosen Name:` /home/users/Macro 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Sep 05 02:40:57 +0000 2020 
+`User signup date?:` Sat Sep 05 19:08:20 +0000 2020 
  
-`User Description?:` Information security engages two groups on opposites sides both calling themselves hackers.
-The tweets capture ingenuity of ideas at the forefront of technology 
+`User Description?:` Infosec Engineer // Hacker // Red Team // Blue Team // DFIR 
  
-`Followers?: `0 
+`Followers?: `2 
  
-`Following?:` 0 
+`Following?:` 60 
+ 
+`User URL?:` https://t.co/mZSzQPNi9M 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1302323653326053377/NOCiL-Fp_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THREE_CUBE:** 4 , **INTERNET** 3 , **PART** 2 , **GETTING** 2 , **STARTED** 2 , **REVERSING** 2 , **CYBERSECURITY** 2 , **HACKING** 2 , **EXIF** 2 , **KALI** 2 , **LINUX** 2 , **WINDOWS** 2 , **SAYING** 2 , **RT** 1 , **REVERSE** 1 , **ENGINEERING** 1 , **1:** 1 , **REVERSEENGINEERING** 1 , **MALWARE** 1 , **CYBERWARRIOR…RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @three_cube: Reverse Engineering, Part 1: Getting Started Reversing #reversing #reverseengineering #malware #cybersecurity #cyberwarrior…RT @hackerscrolls: Incredible mindmap about hacking iOS applications by @hd_421 
+
+Pay attention, we have prepared two versions:
+1. Full Sec…RT @three_cube: Digital Forensics, Part 9: Extracting EXIF Data (including location) from Graphic Images #exif #digitalforensics #cybersecu…
+ 
+# techfospectUSER INFO
+![image](http://pbs.twimg.com/profile_images/1301082989934391297/zGOg6avY_normal.jpg)
+ 
+`User ScreenName:` techfospect 
+ 
+`User chosen Name:` Techfospect 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 02 09:01:12 +0000 2020 
+ 
+`User Description?:` This is a tech info blog dedicated to bringing you the latest news on Information and Technology matters. 
+ 
+`Followers?: `17 
+ 
+`Following?:` 33 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 37 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1301082989934391297/zGOg6avY_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AI** 2 , **GREAT** 1 , **WRITE-UP** 1 , **STORY** 1 , **STUXNET** 1 , **MALWARE** 1 , **HTTPS://TCO/8X0NVAVTMD** 1 , **MOST** 1 , **SOPHISTICATED** 1 , **PIECE** 1 , **SOFTWARE** 1 , **EVER** 1 , **WRITTEN?AUTOENCODING** 1 , **MODEL** 1 , **LEARN** 1 , **LOW-DIMENSIONAL** 1 , **REPRESENTATION** 1 , **RECONSTRUCTION** 1 , **USED** 1 , **DETECT** 1 , 
- 
-## What this user tweeted
- 
-Progress in #AI will enable new varieties of #security attacks that may use AI systems to complete certain tasks mo… https://t.co/vk2p1tP34l
- 
-# Military_Man_65USER INFO
-![image](http://pbs.twimg.com/profile_images/1301760575953711104/9Im4kBSL_normal.jpg)
- 
-`User ScreenName:` Military_Man_65 
- 
-`User chosen Name:` 🌊Veteran For Biden_Harris🌊#FBR🌊 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Sep 03 18:45:44 +0000 2020 
- 
-`User Description?:` 🌊#FBR🌊
-#AmericaOrTrump
-Veteran for Biden/Harris 2020
-Software & A/V Engineer
-#ClimateCrisis
-#WearADamnMask
-#AnimalRights
-#BLM
-#Biden2020
-#TrumpVirus
-🌊VOTE🌊 
- 
-`Followers?: `321 
- 
-`Following?:` 1147 
- 
-`User URL?:` https://t.co/yOjvJkqusI 
- 
-`Location:` 🇺🇸 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1301760575953711104/9Im4kBSL_normal.jpg 
- 
-`Number of tweets excluding replies:` 1761 
+`Number of tweets excluding replies:` 37 
  
 
  
@@ -656,80 +671,38 @@ Software & A/V Engineer
  
 ## User Top tweeted words 
  
-**TRUMP** 42 , **REPORT** 19 , **ACCOUNT** 13 , **DEJOY** 11 , **FOLKS** 11 , **RUSSIAN** 11 , **BOT** 11 , **Q** 11 , **MANY** 10 , **FAKE** 10 , **PRESIDENT** 9 , **DOWN** 9 , **CAMPAIGN** 8 , **PEOPLE** 8 , **@THOMASKAINE5:** 8 , **PLEASE** 7 , **@CASLERNOEL:** 7 , **AFTER** 7 , **NEW** 7 , **FOLLOWERS** 7 , 
+**@TECHFOSPECT:** 14 , **PROGRAMMING** 13 , **CYBERSECURITY** 10 , **100DAYSOFCODE** 9 , **DEVELOPER** 6 , **US** 6 , **APPLE** 6 , **DEVELOPERS** 5 , **INFOSEC** 5 , **NEW** 5 , **DJANGO** 5 , **ERP** 5 , **PYTHON** 4 , **APP** 4 , **TECHNOLOGY** 4 , **CAMPAIGN** 4 , **MICROSOFT** 4 , **GIT** 4 , **FEATURES** 3 , **IOT** 3 , 
  
 ## What this user tweeted
  
-RT @jennobenno: Sen. Tina Smith &amp; Sen. Elizabeth Warren are a formidable pair!
-
-They introduced legislation to revamp domestic manufacture…
+RT @techfospect: Are you a #developer, a #CyberSecurity professional, a #programmer or other IT personel, follow us @techfospect for the la…
  
-# StarvixJotaroUSER INFO
-![image](http://pbs.twimg.com/profile_images/1300399826832486400/k4vued40_normal.jpg)
+# Professor__01USER INFO
+![image](http://pbs.twimg.com/profile_images/1301212592367480833/9L5H8EZO_normal.jpg)
  
-`User ScreenName:` StarvixJotaro 
+`User ScreenName:` Professor__01 
  
-`User chosen Name:` Jotara Kujo (Female... Indefinitly..?) 
+`User chosen Name:` The Professor 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Aug 28 10:22:05 +0000 2020 
+`User signup date?:` Tue Sep 01 08:48:52 +0000 2020 
  
-`User Description?:` I'm staying like this until I've properly raised my daughter, Jolyne.
-she/her, or whatever... | Starvix Jotaro(a) | Ran by @icestonevulpix 
+`User Description?:` Not all those who wander are lost. 
  
-`Followers?: `87 
+`Followers?: `24 
  
-`Following?:` 113 
+`Following?:` 173 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Jammu And Kashmir 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 181 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1300399826832486400/k4vued40_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1301212592367480833/9L5H8EZO_normal.jpg 
  
-`Number of tweets excluding replies:` 1949 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**YARE** 11 , ***SHE** 10 , **@RABIDTRISHPLUSH** 6 , **YOU'RE** 5 , **OH** 5 , **ACTUALLY** 5 , **I'M** 5 , **GO** 5 , **NEED** 5 , **BACK** 4 , **DON'T** 4 , **ALRIGHT** 4 , **JOJO** 4 , **STONE** 4 , ***COUGH*** 4 , **SAW** 3 , **WHILE** 3 , **LOOK** 3 , **LEAST** 3 , **WHERE** 3 , 
- 
-## What this user tweeted
- 
-@PassioneBoss1 @RabidTrishPlush Starvix immune systems have no vulnerabilities! https://t.co/hhJ434OtPV
- 
-# gsrvcaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1301563506416930819/kw_2Yw23_normal.jpg)
- 
-`User ScreenName:` gsrvca 
- 
-`User chosen Name:` Robin Secato 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Sep 03 16:51:00 +0000 2020 
- 
-`User Description?:` IT security enthusiast. 
- 
-`Followers?: `19 
- 
-`Following?:` 249 
- 
-`User URL?:` None 
- 
-`Location:` In your /root folder 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1301563506416930819/kw_2Yw23_normal.jpg 
- 
-`Number of tweets excluding replies:` 472 
+`Number of tweets excluding replies:` 184 
  
 
  
@@ -737,22 +710,19 @@ she/her, or whatever... | Starvix Jotaro(a) | Ran by @icestonevulpix
  
 ## User Top tweeted words 
  
-**GIVEAWAY** 32 , **FOLLOW** 28 , **ART** 22 , **RT** 21 , **CYBERSECURITY** 18 , **PHOTOGRAPHY** 15 , **DE** 13 , **RETWEET** 13 , **WIN** 12 , **CRYPTO** 12 , **ETHEREUM** 11 , **NEW** 10 , **BITCOIN** 10 , **XBOX** 10 , **CONCOURS** 9 , **+** 9 , **!** 9 , **•** 9 , **2** 8 , **POUR** 8 , 
+**@KOSHURNAYID** 42 , **@SHAFIYAH_SHAGOO** 33 , **@NAARECHUUR** 28 , **JAVASCRIPT** 19 , **@TABINDA_JAVEED** 16 , **FREE** 14 , **PROGRAMMING** 14 , **100DAYSOFCODE** 13 , **@HUDAMATOO** 13 , **COURSE** 11 , **BUDDY** 10 , **UDEMY** 10 , **@PROGRAMMINBUDDY:** 9 , **CLUB** 9 , **@MISBALALA** 8 , **DAY** 7 , **LOOK** 7 , **LEARN** 6 , **WORDPRESS** 5 , **SOME** 5 , 
  
 ## What this user tweeted
  
-RT @CanonBusinessUK: The pandemic has exposed the UK’s #cybersecurity vulnerabilities. A new report from Robert Walters and data provider @…
+RT @ITProUS: Our friends across the pond are counting the months until #Brexit, but there's a lot to consider in terms of #cybersecurity po…
  
-# laz0rdeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1301822536926322688/qntsvSgy_normal.jpg)
- 
-`User ScreenName:` laz0rde 
- 
-`User chosen Name:` Ahmed 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 04 09:59:14 +0000 2020 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>:14 +0000 2020 
  
 `User Description?:` Bug-Bounty Hunter but noob
 19 year's old Otaku 
