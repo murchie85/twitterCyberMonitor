@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **FrankFigliuzzi1**  
+The most popular user is: **likethecoins**  
  
 
-## Next time you hear Trump or Barr rant about mail-in ballots: Russia 'amplifying' concerns around mail-in voting to… https://t.co/jCzBmnnfoD 
+## New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **FrankFigliuzzi1**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CISAgov: We strongly recommend organizations prioritize protecting email accounts and systems from malicious #phishing campaigns. Learn… |
-| RT @JMonteagudoE: The Cybersecurity Observatory Africa - First Edition is ready for download. Please follow the link below:https://t.co/1p… |
-| IoT for All shares more on how #AI platforms can identify security threats and network changes, offering organizati… https://t.co/8O4Q9HSc1S |
+| RT @javier_carriazo: How to get started using a password manager #CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #privacy #d… |
+| RT @JinibaBD: Iranian hackers are selling access to compromised companies on an underground forum #CyberSecurity #osint #infosec #cyberthre… |
+| RT @javier_carriazo: Online marketing company exposes 38+ million US citizen records #CyberSecurity #osint #infosec #cyberthreats #hackers… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Fisher85M** |
-| #2 Most tweeted to  | **ingliguori** |
-| #3 Most tweeted to  | **antgrasso** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 1.4%|
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **Subytweets** |
+| NewProfiles (less than 10 days) | 0.25%  |
+| Tweeters with < 10 followers  | 0.64%|
 | Tweeters with > 1000000 followers  | 0.04%  |
 
 
@@ -50,59 +50,57 @@ The most popular user is: **FrankFigliuzzi1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **RANSOMWARE**  |
-| third  | **DATA** |
+| first  | **OSINT**  |
+| second  | **INFOSEC**  |
+| third  | **CYBERTHREATS** |
 | fourth  | **HACKERS**  |
-| fifth  | **US**  |
+| fifth  | **THREATINTEL**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#cybersecurity | #comptia | #info | DEF CON 28 Safe Mode Red Team Village – Justin Hutchens’ ‘Bypassing Multifactor… https://t.co/PkiNIQ2rOQ |
+|RT @nodexl: #osint via NodeXL https://t.co/JTG5mLi0jv@rdsweb@intel_sky@jayeshmthakur@bendobrown@cry__pto@osinttechniques@ghostlulz13… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FrankFigliuzzi1**  |
+| The most retweeted user is: **likethecoins**  |
 | ------------- |
-| Next time you hear Trump or Barr rant about mail-in ballots: Russia 'amplifying' concerns around mail-in voting to… https://t.co/jCzBmnnfoD |
+| New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O |
 
 # Potential Fake Accounts
  
-# CyberpollsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1303775472657092615/gvmvX6Vq_normal.jpg)
+# kaylie20298964USER INFO
+![image](http://pbs.twimg.com/profile_images/1302810910055108608/B38p3Spt_normal.jpg)
  
-`User ScreenName:` Cyberpolls 
+`User ScreenName:` kaylie20298964 
  
-`User chosen Name:` Cyberpolls 
+`User chosen Name:` Kaylie 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Sep 09 19:02:29 +0000 2020 
+`User signup date?:` Sun Sep 06 08:53:30 +0000 2020 
  
-`User Description?:` Your cybersecurity opinions are matter that lead people make research and drive business.
-#cyber_poll
-#الاستطلاع_الأمني 
+`User Description?:` Studying SCADA/ICS hacking & security: #scada #ics #scadahacking #cybersecurity #cyberwar 
  
 `Followers?: `7 
  
-`Following?:` 304 
+`Following?:` 160 
  
 `User URL?:` None 
  
-`Location:` Kingdom of Saudi Arabia 
+`Location:` Paris, France 
  
-`Number of tweets extracted`  : 15 
+`Number of tweets extracted`  : 131 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1303775472657092615/gvmvX6Vq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1302810910055108608/B38p3Spt_normal.jpg 
  
-`Number of tweets excluding replies:` 15 
+`Number of tweets excluding replies:` 131 
  
 
  
@@ -110,49 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 15 , **CYBER_POLL** 11 , **INFOSEC** 7 , **BEST** 4 , **@CYBERPOLLS:** 4 , **الإستطلاع_الأمني** 3 , **BUSINESS** 3 , **WHICH** 3 , **POLL** 3 , **MOST** 3 , **COMMUNITY** 3 , **IS:** 3 , **SECURITY** 3 , **BUSINESS?** 3 , **أمن_المعلومات** 2 , **CYBER_POLL…** 2 , **MIGHT** 2 , **START** 2 , **WITH?** 2 , **ENTREPRENEURS** 2 , 
+**VIA** 22 , **DE** 12 , **NEW** 7 , **US** 6 , **HACKERS** 5 , **EN** 5 , **@LE_PARISIEN:** 5 , **PEOPLE** 4 , **HAPPY** 4 , **DU** 4 , **PRISON** 4 , **:** 4 , **ITS** 4 , **TARGETING** 4 , **UN** 4 , **RANSOMWARE** 4 , **SINGLE** 3 , **MAKE** 3 , **CHANGE** 3 , **NE** 3 , 
  
 ## What this user tweeted
  
-What is the best job for #women in #CyberSecurity?
-
-#cyber_poll
- #الإستطلاع_الأمني 
-#infosec 
-#أمن_المعلومات 
-#الامن_السيبرانيWhat do you think who is the best cybersecurity training provider? (List it down if other)
-
-#cyber_poll… https://t.co/kitsFQGl8SRT @Cyberpolls: What is the best business in cybersecurity that you might start with?
-
-#cyber_poll #CyberSecurity #infosec #entrepreneurs
-#…
+RT @Subytweets: This "chilling proof" was deep frozen in @TimesNow Refrigerator! @RShivshankar microwaves #ThreatIntel only when Modi is in…RT @bad_packets: Mass scanning activity detected from 185.195.24.186 (🇷🇺) targeting Palo Alto GlobalProtect VPN endpoints. #threatintelWhy Cybersecurity Is More Difficult Today Than 2 Years Ago https://t.co/GEI7SsGZBM via @RecordedFuture… https://t.co/rJm9e9rRPX
  
-# raneegeorgetti8USER INFO
-![image](http://pbs.twimg.com/profile_images/1304537518050889728/x7pIPgfB_normal.jpg)
+# gsrvcaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1301563506416930819/kw_2Yw23_normal.jpg)
  
-`User ScreenName:` raneegeorgetti8 
+`User ScreenName:` gsrvca 
  
-`User chosen Name:` ranee georgetti 
+`User chosen Name:` Robin Secato 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Sep 11 21:48:36 +0000 2020 
+`User signup date?:` Thu Sep 03 16:51:00 +0000 2020 
  
-`User Description?:`  
+`User Description?:` IT security enthusiast. 
  
-`Followers?: `0 
+`Followers?: `16 
  
-`Following?:` 2 
+`Following?:` 248 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` In your /root folder 
  
-`Number of tweets extracted`  : 28 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1304537518050889728/x7pIPgfB_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1301563506416930819/kw_2Yw23_normal.jpg 
  
-`Number of tweets excluding replies:` 28 
+`Number of tweets excluding replies:` 465 
  
 
  
@@ -160,77 +147,42 @@ What is the best job for #women in #CyberSecurity?
  
 ## User Top tweeted words 
  
-**:** 4 , **𝐔** 3 , **الله** 3 , **RT** 2 , **@ISTARMAG:** 2 , **في** 2 , **عبر** 2 , **الحفرة** 2 , **MALLS** 2 , **NEW** 2 , **النجمة** 2 , ***** 2 , **لا** 2 , **على** 2 , **IL** 2 , **FESTE** 2 , **CAPITALE** 2 , **𝐊** 2 , **𝐎** 2 , **𝐑** 2 , 
+**GIVEAWAY** 31 , **FOLLOW** 26 , **ART** 22 , **RT** 20 , **CYBERSECURITY** 18 , **PHOTOGRAPHY** 16 , **DE** 13 , **WIN** 12 , **RETWEET** 12 , **CRYPTO** 12 , **ETHEREUM** 11 , **NEW** 10 , **BITCOIN** 10 , **XBOX** 10 , **CONCOURS** 9 , **!** 9 , **2** 8 , **+** 8 , **POUR** 8 , **ENTER** 7 , 
  
 ## What this user tweeted
  
-RT @BlackFridays19: Public IP address can actually reveal about you so its better to disguise your actual ip address with a proxy or a vpn.…
+RT @RakeshKrish12: #Zeoticus #Ransomware updated with more features!
+
+Appeared in Jan, 2020
+Works offline, No Dependency
+X25519+XSalsa20+Po…
  
-# TheNewerNewbieUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# Nanjunda_SHMUSER INFO
+![image](http://pbs.twimg.com/profile_images/1301577619301957633/JaFJm1MA_normal.jpg)
  
-`User ScreenName:` TheNewerNewbie 
+`User ScreenName:` Nanjunda_SHM 
  
-`User chosen Name:` Surya Prakash Sankhala 
+`User chosen Name:` Nanjundaswamy HM 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Sep 10 14:13:04 +0000 2020 
+`User signup date?:` Thu Sep 03 17:47:27 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Be You... Be Yourself 
  
-`Followers?: `1 
+`Followers?: `150 
  
-`Following?:` 131 
+`Following?:` 212 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 37 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1301577619301957633/JaFJm1MA_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@WEHACKPURPLE:** 1 , **CHECK** 1 , **GIVEAWAY!** 1 , **RETWEET** 1 , **FOLLOW** 1 , **US** 1 , **ENTERED** 1 , **WIN!** 1 , **48** 1 , **HOURS** 1 , **WINNERS** 1 , **ANNOUNCED** 1 , **FRID…** 1 , 
- 
-## What this user tweeted
- 
-RT @wehackpurple: CHECK OUT OUR GIVEAWAY! Retweet and follow us to be entered to win! You have 48 hours, the winners will be announced Frid…
- 
-# FNMediaLLCUSER INFO
-![image](http://pbs.twimg.com/profile_images/1304447300534763524/e5g3qcod_normal.jpg)
- 
-`User ScreenName:` FNMediaLLC 
- 
-`User chosen Name:` FNMedia Ltd Co 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 11 15:37:19 +0000 2020 
- 
-`User Description?:` Solution Engineers in #IoT, #InfoSec, #CyberSec, #Marketing, #SEO and more. For God, Country, and You. 🇺🇸 
- 
-`Followers?: `0 
- 
-`Following?:` 17 
- 
-`User URL?:` https://t.co/98H92fmy6B 
- 
-`Location:` South Carolina 
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1304447300534763524/e5g3qcod_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 37 
  
 
  
@@ -238,80 +190,38 @@ RT @wehackpurple: CHECK OUT OUR GIVEAWAY! Retweet and follow us to be entered to
  
 ## User Top tweeted words 
  
-**ACCOUNT** 2 , **RT** 1 , **@CISAGOV:** 1 , **STRONGLY** 1 , **RECOMMEND** 1 , **ORGANIZATIONS** 1 , **PRIORITIZE** 1 , **PROTECTING** 1 , **EMAIL** 1 , **ACCOUNTS** 1 , **SYSTEMS** 1 , **MALICIOUS** 1 , **PHISHING** 1 , **CAMPAIGNS** 1 , **LEARN…LET** 1 , **PROFESSIONAL** 1 , **NAVIGATE** 1 , **CHOPPY** 1 , **DIGITAL** 1 , **WATERS** 1 , 
+**@ARJUNDSAGE:** 9 , **GOVT** 4 , **DRUG** 4 , **@KANAGALOGY:** 3 , **WHICH** 3 , **@ASHOSWAI:** 3 , **@SEVADALKA:** 3 , **ಕಣ್ಮರೆ** 3 , **GDP** 3 , **RT** 2 , **@INCKARNATAKA:** 2 , **ಗಾಂಜಾ** 2 , **ಖಾಸಗಿ** 2 , **EVER** 2 , **@FAYEDSOUZA:** 2 , **DOES** 2 , **DAY** 2 , **GOVERNMENT** 2 , **WRONG** 2 , **MODI’S** 2 , 
  
 ## What this user tweeted
  
-RT @CISAgov: We strongly recommend organizations prioritize protecting email accounts and systems from malicious #phishing campaigns. Learn…
+RT @Subytweets: #ThreatIntel Template for everyday use. https://t.co/Z0JazQrXXS
  
-# PFiskilisUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# J_SuchithraUSER INFO
+![image](http://pbs.twimg.com/profile_images/1301561917325139969/bba6mza0_normal.jpg)
  
-`User ScreenName:` PFiskilis 
+`User ScreenName:` J_Suchithra 
  
-`User chosen Name:` Panagiotis Fiskilis 
+`User chosen Name:` Suchithra Janardhan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Sep 11 15:59:37 +0000 2020 
+`User signup date?:` Thu Sep 03 16:45:03 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Care for the deprived ,work for downtrodden. 
  
-`Followers?: `0 
+`Followers?: `146 
  
-`Following?:` 5 
+`Following?:` 215 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 40 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1301561917325139969/bba6mza0_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**✅** 3 , **RT** 1 , **@HACKTHEBOX_EU:** 1 , **HACKTHEBOX** 1 , **NEW** 1 , **PLATFORM** 1 , **AUGUST** 1 , **UPDATES** 1 , **😎** 1 , **PUBLIC** 1 , **PROFILES** 1 , **BADGES** 1 , **(ADDED** 1 , **V2)** 1 , **SUBSCRIPTIONS** 1 , **MANAGEMENT** 1 , **PAGE** 1 , **CON…** 1 , 
- 
-## What this user tweeted
- 
-RT @hackthebox_eu: #HackTheBox NEW Platform August UPDATES 😎
-✅ Public Profiles &amp; Badges (added on v2)
-✅ Subscriptions Management Page
-✅ Con…
- 
-# SimciaSecurityUSER INFO
-![image](http://pbs.twimg.com/profile_images/1302059207366250497/6l6AITTN_normal.jpg)
- 
-`User ScreenName:` SimciaSecurity 
- 
-`User chosen Name:` Simcia Security 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 04 21:34:25 +0000 2020 
- 
-`User Description?:` Simcia elevates #SecurityAwareness into #SecurityMindfulness with our #BehavoralChange Platform. We are Security Mindfulness Simplified 
- 
-`Followers?: `29 
- 
-`Following?:` 533 
- 
-`User URL?:` None 
- 
-`Location:` Washington, DC 
- 
-`Number of tweets extracted`  : 30 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1302059207366250497/6l6AITTN_normal.jpg 
- 
-`Number of tweets excluding replies:` 30 
+`Number of tweets excluding replies:` 40 
  
 
  
@@ -319,132 +229,11 @@ RT @hackthebox_eu: #HackTheBox NEW Platform August UPDATES 😎
  
 ## User Top tweeted words 
  
-**GETTOKNOW** 6 , **CYBERSECURITY** 6 , **@RSACONFERENCE:** 5 , **THANK** 3 , **THURSDAY** 3 , **OCTOBER** 3 , **1ST** 3 , **12PM** 3 , **EST?** 3 , **ATTENDING** 3 , **WEBINAR** 3 , **“CHANGING** 3 , **BEHAVIOR”** 3 , **LEARN** 3 , **ABO…** 3 , **CYBER** 3 , **LABOR** 3 , **DAY** 3 , **HOME** 3 , **WIFI** 3 , 
+**@ARJUNDSAGE:** 12 , **DRUG** 5 , **@KANGANATEAM** 4 , **@SEVADALKA:** 4 , **@KANAGALOGY:** 3 , **WHICH** 3 , **TIME** 3 , **YES** 3 , **ಕಣ್ಮರೆ** 3 , **MUMBAI** 3 , **RT** 2 , **@INCKARNATAKA:** 2 , **ಗಾಂಜಾ** 2 , **ಖಾಸಗಿ** 2 , **GIVEN** 2 , **ALMOST** 2 , **STATES** 2 , **MODI’S** 2 , **BOOKED** 2 , **DAY** 2 , 
  
 ## What this user tweeted
  
-RT @RSAConference: #GettoKnow @MelissaRobbins. Melissa is a consultant with the Scientific and Technical Affairs Team, @NTI_WMD, whose work…RT @RSAConference: #GettoKnow Teressa Gehrke, @DrkShinyUnicorn. Teressa is a Threat Intelligence Consultant whose work bridges data and inf…RT @RSAConference: #GettoKnow Chris Cochran, @chriscochrcyber. Chris is the Founder and Producer of Hacker Valley Studio (@TheHackerValley)…RT @RSAConference: #GettoKnow Richard J Scott, @richardjscott16. Richard is new to #cybersecurity, currently working on his Security+ certi…RT @RSAConference: #GettoKnow Safi Mojidi, @Do1nIT_Sec. Safi is a #cybersecurity doctoral student, adjunct professor &amp; mentor with 13+ year…
- 
-# cyber_icaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1304151617734926338/TfleYIrn_normal.jpg)
- 
-`User ScreenName:` cyber_ica 
- 
-`User chosen Name:` Cyber Solutions - ICA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Sep 10 20:15:02 +0000 2020 
- 
-`User Description?:` CSICA exists to teach our members, clients, customers and volunteers about cyber security by enabling remote learning with our knowledge in the cyber field. 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/YtVwk8osNW 
- 
-`Location:` Clarksville, TX 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1304151617734926338/TfleYIrn_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HELLO!** 1 , **CYBER** 1 , **SOLUTIONS** 1 , **ICA** 1 , **(CSICA)** 1 , **LOCATED** 1 , **CLARKSVILLE** 1 , **TX** 1 , **EXIST** 1 , **TEACH** 1 , **TRAIN** 1 , **HELP** 1 , **MEM…** 1 , **HTTPS://TCO/S4ZGI6ND1P** 1 , 
- 
-## What this user tweeted
- 
-Hello! We are Cyber Solutions - ICA (CSICA), located in Clarksville, TX. We exist to teach, train, and help our mem… https://t.co/S4ZGI6nd1P
- 
-# hackR68762099USER INFO
-![image](http://pbs.twimg.com/profile_images/1303980561841750016/lbI00mQv_normal.jpg)
- 
-`User ScreenName:` hackR68762099 
- 
-`User chosen Name:` r3l1K 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 09 14:23:44 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 84 
- 
-`User URL?:` None 
- 
-`Location:` At fight club 
- 
-`Number of tweets extracted`  : 79 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1303980561841750016/lbI00mQv_normal.jpg 
- 
-`Number of tweets excluding replies:` 79 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SOME** 10 , **LOOK** 7 , **@3XS0:** 7 , **HACKING** 7 , **FFUF** 6 , **HERE** 6 , **/** 6 , **BUGBOUNTY** 5 , **@PORLOSOCIAL** 5 , **@ISECEMALL** 5 , **@AMAZON** 5 , **FRENCH** 4 , **GUY** 4 , **@SH0CKFR** 4 , **THREAT** 4 , **YEAH** 4 , **GO** 4 , **WHERE** 4 , **INFOSEC** 4 , **OTHER** 4 , 
- 
-## What this user tweeted
- 
-RT @HacktoryAI: Are you game? Wading through a JWT jungle to a better life
-
-#hacktory #bugbounty #bugbountytip #cybersecurity #infosec http…
- 
-# saiinfosecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1304471722452639745/Hnb9I8df_normal.jpg)
- 
-`User ScreenName:` saiinfosec 
- 
-`User chosen Name:` Saiinfosec 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 11 17:27:05 +0000 2020 
- 
-`User Description?:` we are there to H@ck You with your permission in the intension to SAVE you 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1304471722452639745/Hnb9I8df_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**--------------------------------------------------------** 1 , **LOOKING** 1 , **GO** 1 , **AHEAD** 1 , **FIELD** 1 , **CYBERSECURITY?** 1 , **-------…** 1 , **HTTPS://TCO/EBWLKK30EE** 1 , 
- 
-## What this user tweeted
- 
---------------------------------------------------------
-Looking to go ahead in the field of cybersecurity?
--------… https://t.co/eBWLKK30ee
+RT @Subytweets: #ThreatIntel Template for everyday use. https://t.co/Z0JazQrXXS
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
