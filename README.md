@@ -281,109 +281,27 @@ The photos are from Security Audit conducted…
  
 `User ScreenName:` fiestyajje 
  
-`User chosen Name:` tya--  
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1303775472657092615/gvmvX6Vq_normal.jpg 
- 
-`Number of tweets excluding replies:` 37 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBER_POLL** 25 , **CYBERSECURITY** 22 , **INFOSEC** 13 , **@CYBERPOLLS:** 8 , **POLL** 7 , **BEST** 5 , **الإستطلاع_الأمنيRT** 5 , **WHICH** 5 , **الإستطلاع_الأمني** 4 , **MOST** 4 , **SECURITY** 4 , **BUSINESS?** 4 , **COMMUNITY** 4 , **IS:** 4 , **CYBERSECURITY?** 3 , **ANY** 3 , **أمن_المعلومات** 3 , **BUSINESS** 3 , **RT** 2 , **TODAY!** 2 , 
- 
-## What this user tweeted
- 
-RT @GPCyberCrime: How do you #CyberProtect your mobile phone? 📱🛡️🔒
-
-Vote on our #CyberSecurity #Poll today! 🙂
-
-#CyberCSO #MobilePhone #Mobi…RT @spirovskib: #cybersecurity #poll: Are you using MFA (multi-factor authentication) for logging in to services on the Internet?RT @hackthebox_eu: It's #poll o'clock! ⏱️
-Have you checked out the brand new #HTB Knowledge Base?
-Find it here ➡️ https://t.co/XcXxHhN0QW
-L…RT @payatulabs: Poll Time! ⏱️
-
-What is your preferred way to keep up with #cybersecurity?.
-
-Leave a comment for any other unmentioned optio…RT @Cyberpolls: What is the best job for #women in #CyberSecurity?
-
-#cyber_poll
- #الإستطلاع_الأمني 
-#infosec 
-#أمن_المعلومات 
-#الامن_السيبر…
- 
-# QattanYassirUSER INFO
-![image](http://pbs.twimg.com/profile_images/1305572567198175232/LHRzh6t2_normal.jpg)
- 
-`User ScreenName:` QattanYassir 
- 
-`User chosen Name:` Yassir_Qattan 
+`User chosen Name:` tya-- 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Sep 14 18:01:03 +0000 2020 
- 
-`User Description?:` Supply Chain Grad, Knowledgeable in Logistics Procurement, Inventory Transport & Warehouse Managements.
-#CIPP Certified International Procurement Professional. 
- 
-`Followers?: `0 
- 
-`Following?:` 30 
- 
-`User URL?:` https://t.co/x3aaKxwIBq 
- 
-`Location:` Saudi Arabia 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1305572567198175232/LHRzh6t2_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BLOCKCHAIN** 3 , **SUPPLY** 3 , **TECHNOLOGY** 2 , **LOW** 2 , **SUPPLYCHAIN** 2 , **LOGISTICS** 2 , **RT** 1 , **@FISHER85M:** 1 , **SOME** 1 , **USE-CASES?** 1 , **{INFOGRAPHIC}** 1 , **IOT** 1 , **INDUSTRY40** 1 , **CYBERSECURITY** 1 , **FINTECH** 1 , **BITCOIN** 1 , **@FISHER85M** 1 , **INNOVATION…RT** 1 , **@IDEASPBUSINESS:** 1 , **TOP** 1 , 
- 
-## What this user tweeted
- 
-RT @Fisher85M: What are some #BlockChain use-cases? {Infographic}
-
-#IoT #Industry40 #CyberSecurity #FinTech #Bitcoin @Fisher85M #innovation…
- 
-# hackR68762099USER INFO
-![image](http://pbs.twimg.com/profile_images/1303980561841750016/lbI00mQv_normal.jpg)
- 
-`User ScreenName:` hackR68762099 
- 
-`User chosen Name:` r3l1K 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 09 14:23:44 +0000 2020 
+`User signup date?:` Mon Sep 14 03:29:28 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `7 
+`Followers?: `0 
  
-`Following?:` 98 
+`Following?:` 11 
  
 `User URL?:` None 
  
-`Location:` At fight club 
+`Location:`  
  
-`Number of tweets extracted`  : 114 
+`Number of tweets extracted`  : 47 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1303980561841750016/lbI00mQv_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1305348433411100672/fsY1__Oz_normal.jpg 
  
-`Number of tweets excluding replies:` 114 
+`Number of tweets excluding replies:` 47 
  
 
  
@@ -391,36 +309,36 @@ RT @Fisher85M: What are some #BlockChain use-cases? {Infographic}
  
 ## User Top tweeted words 
  
-**@3XS0:** 10 , **@GWENDALLECOGUIC** 10 , **SOME** 10 , **LOOK** 8 , **ET** 8 , **TU** 7 , **DE** 7 , **HACKING** 7 , **GO** 6 , **PAS** 6 , **FFUF** 6 , **HERE** 6 , **/** 6 , **GUY** 5 , **THAT'S** 5 , **BUGBOUNTY** 5 , **@PORLOSOCIAL** 5 , **@ISECEMALL** 5 , **@AMAZON** 5 , **DONT** 4 , 
+**@JAE_DAY6** 18 , **FROMFRIENDSJAEANDJED** 15 , **WANNA** 5 , **YOU?** 4 , **FROMFRIENDSWITHJAE** 4 , **DAY6** 3 , **YOU'RE** 3 , **US** 3 , **IM** 3 , **FROMFRIENDSJAEANDJEDCAN** 3 , **PLAYING** 2 , **LIVE** 2 , **I'M** 2 , **READY** 2 , **MAYBE** 2 , **HAPPY** 2 , **BIRTHDAY** 2 , **GOING** 2 , **MADE** 2 , **WHICH** 2 , 
  
 ## What this user tweeted
  
-RT @3XS0: For those that that don't have it and need it. Python pentest cheat sheet.  #tech #PenTest #Python #pythonprogramming #CodingTips…
+Just wanna tell you that I'm so proud of you. Accepting vulnerabilities allows us to become even stronger individua… https://t.co/QVyHLeRUCD
  
-# CyberSelf5USER INFO
-![image](http://pbs.twimg.com/profile_images/1305562025872023552/KVlKH7ml_normal.jpg)
+# clumsylilbabyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1303375714130034693/9fuTsTZP_normal.jpg)
  
-`User ScreenName:` CyberSelf5 
+`User ScreenName:` clumsylilbaby 
  
-`User chosen Name:` Cyber Self 
+`User chosen Name:` Daisy Maisy 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Sep 14 17:36:42 +0000 2020 
+`User signup date?:` Tue Sep 08 16:44:08 +0000 2020 
  
-`User Description?:` Cyber Security info Youtube channel, Data security, Mobile security, AI, Secure servers, digital security, Youtuber 
+`User Description?:` I’m just a little clumsy and a bit of a cry baby. That’s about it. 
  
-`Followers?: `0 
+`Followers?: `2 
  
-`Following?:` 0 
+`Following?:` 18 
  
 `User URL?:` None 
  
-`Location:` India 
+`Location:`  
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1305562025872023552/KVlKH7ml_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1303375714130034693/9fuTsTZP_normal.jpg 
  
 `Number of tweets excluding replies:` 1 
  
@@ -430,79 +348,38 @@ RT @3XS0: For those that that don't have it and need it. Python pentest cheat sh
  
 ## User Top tweeted words 
  
-**YOUTUBE** 2 , **FIRST** 1 , **TEST** 1 , **VIDEO** 1 , **CYBERSECURITY** 1 , **AI** 1 , **HINDI** 1 , **HTTPS://TCO/JRY1SLL2ZC** 1 , 
+**RT** 1 , **@SSPARKLESDAILY:** 1 , **FAULT** 1 , **HANDED** 1 , **BLUEPRINT** 1 , **VULNERABILITIES** 1 , **CHOSE** 1 , **USE** 1 , **ROB** 1 , **BANK** 1 , 
  
 ## What this user tweeted
  
-First Test Video on Youtube.
-#CyberSecurity #AI #Youtube #Hindi 
-https://t.co/jRy1sll2ZC
+RT @SSparklesDaily: It's not your fault if you handed them a blueprint to your vulnerabilities and they chose to use it to rob the bank.
  
-# CatGuy84026085USER INFO
-![image](http://pbs.twimg.com/profile_images/1303739307686088709/T4XhR01K_normal.jpg)
+# agneskynUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` CatGuy84026085 
+`User ScreenName:` agneskyn 
  
-`User chosen Name:` TheRealCatGuy 
+`User chosen Name:` Agnes 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Sep 09 14:45:45 +0000 2020 
+`User signup date?:` Mon Sep 14 09:24:26 +0000 2020 
  
-`User Description?:` lots of cats and stuff - cats never DM 
- 
-`Followers?: `5 
- 
-`Following?:` 76 
- 
-`User URL?:` None 
- 
-`Location:` In the wild 
- 
-`Number of tweets extracted`  : 197 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1303739307686088709/T4XhR01K_normal.jpg 
- 
-`Number of tweets excluding replies:` 208 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 26 , **PRESIDENT** 14 , **PEOPLE** 13 , **COULD** 8 , **TIME** 8 , **THAN** 8 , **@NPR:** 8 , **@JOEBIDEN:** 7 , **YEARS** 7 , **DAY** 7 , **STATE** 7 , **NEVER** 7 , **NEED** 6 , **COVID** 6 , **ELECTION** 6 , **TRUMP'S** 6 , **I’M** 6 , **9/11** 6 , **FOUR** 5 , **BEING** 5 , 
- 
-## What this user tweeted
- 
-RT @NJCybersecurity: ALERT: Emotet trojan attacks continue to increase in frequency, with a large uptick occurring since the beginning of S…
- 
-# CmitBestUSER INFO
-![image](http://pbs.twimg.com/profile_images/1303791804580585474/noSVZ0zl_normal.jpg)
- 
-`User ScreenName:` CmitBest 
- 
-`User chosen Name:` CMIT Solutions of Best Southwest Dallas County 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 09 20:22:10 +0000 2020 
- 
-`User Description?:` CMIT Solutions of Best Southwest Dallas County provides information technology (IT) services and solutions for small and medium-sized businesses (SMBs). 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 14 
+`Following?:` 96 
  
-`User URL?:` https://t.co/ovcVPUpBB4 
+`User URL?:` None 
  
-`Location:` Cedar Hill, Texas 
+`Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1303791804580585474/noSVZ0zl_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 262 
  
 
  
@@ -510,12 +387,656 @@ RT @NJCybersecurity: ALERT: Emotet trojan attacks continue to increase in freque
  
 ## User Top tweeted words 
  
-**PROTECT** 1 , **PASSWORDS** 1 , **BUSINESS** 1 , **ENHANCED** 1 , **LOGIN** 1 , **SECURITY** 1 , **READ** 1 , **HTTPS://TCO/GI2E6SKVSO…** 1 , **HTTPS://TCO/1LKIQ74ULMDID** 1 , **22** 1 , **TYPES** 1 , **MALICIOUS** 1 , **SOFTWARE** 1 , **AVAILABLE** 1 , **CYBERCRIMINALS** 1 , **USE?** 1 , **RANSOMWARE** 1 , **THE…** 1 , **HTTPS://TCO/QYNCFTOLKG** 1 , 
+**@MUFTIMENK:** 37 , **LIFE** 36 , **@IYANLAVANZANT:** 34 , **PEOPLE** 28 , **DON’T** 21 , **THINGS** 14 , **WAY** 14 , **@DAMIANPROSA:** 14 , **LOVE** 13 , **TIME** 13 , **@BILLYGRAHAM:** 12 , **NEVER** 12 , **LET** 11 , **FEEL** 10 , **MAKE** 10 , **@FIERCEMARRIAGE:** 9 , **WHICH** 9 , **MIND** 9 , **STOP** 9 , **GIVE** 9 , 
  
 ## What this user tweeted
  
-Did you know that there are 22 types of malicious #software available that #cybercriminals use? 
-#Ransomware is the… https://t.co/QYnCFToLKg
+RT @HarrietLerner: We grow in self-worth when we can acknowledge and share our strengths and accomplishments as well as our vulnerabilities…
+ 
+# washedupsleuthUSER INFO
+![image](http://pbs.twimg.com/profile_images/1303536678661890048/5IwbT2Qw_normal.jpg)
+ 
+`User ScreenName:` washedupsleuth 
+ 
+`User chosen Name:` 𝐉𝐀𝐌𝐈𝐒𝐎𝐍 𝐋𝐀𝐊𝐄. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 05 02:20:58 +0000 2020 
+ 
+`User Description?:` ❝ It wasn't about how smart or how good you were. It was chaos and luck, and anyone who thought different was a fool. ❞ 
+ 
+`Followers?: `143 
+ 
+`Following?:` 132 
+ 
+`User URL?:` None 
+ 
+`Location:` dbd rp account / oc 
+ 
+`Number of tweets extracted`  : 160 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1303536678661890048/5IwbT2Qw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 160 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I’M** 8 , **SOMETHING** 7 , **THEN** 7 , **JAMISON** 6 , **PLACE** 6 , **GONNA** 6 , **INTO** 6 , **HEAD** 6 , **DARK** 6 , **EVEN** 6 , **THINGS** 6 , **DON’T** 6 , **GOING** 6 , **NEW** 6 , **ISN’T** 6 , **THERE’S** 6 , **COULD** 5 , **BAD** 5 , **GOOD** 5 , **KILLING** 5 , 
+ 
+## What this user tweeted
+ 
+halt, slowing down, individual bullets flying past him and leaving a visible trail of vapor. In these moments, he f… https://t.co/Y6sgc93qqf
+ 
+# cxxcvxcvxcvUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` cxxcvxcvxcv 
+ 
+`User chosen Name:` cxxcvxcvxcv 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 05:48:20 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 45 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 48 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PRODUCTS4YOU2:** 5 , **SUPPLEMENT** 4 , **SUNERGETIC** 4 , **@JUNAIDA04801376:** 3 , **VANTAGE** 3 , **@TERADATA** 3 , **CAR** 3 , **QUE** 3 , **Y** 3 , **MEN'S** 3 , **MULTIVITAMIN** 3 , **RT** 2 , **NEW** 2 , **DEVICES** 2 , **$1000** 2 , **WALMART** 2 , **GIFT** 2 , **THAN** 2 , **FREE** 2 , **NEWMUSIC** 2 , 
+ 
+## What this user tweeted
+ 
+RT @astutelook: New Unpatched Bluetooth Flaw Lets Hackers Easily Target Nearby Devices
+.
+.
+.
+#astutelooktechnologies #cybersecurity #hackin…
+ 
+# BricsAfricaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1303299409560637441/O2oyI_9L_normal.jpg)
+ 
+`User ScreenName:` BricsAfrica 
+ 
+`User chosen Name:` Brics Africa Consulting LLC 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 07 04:33:36 +0000 2020 
+ 
+`User Description?:` Technology and Business Consulting 
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/CbSHhjouJa 
+ 
+`Location:` East Legon 
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1303299409560637441/O2oyI_9L_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MANAGEMENT** 2 , **TECHNOLOGY** 1 , **RESEARCHSTRATEGY** 1 , **HERE** 1 , **SERVE** 1 , **ENGAGE** 1 , **US** 1 , **HTTPS://TCO/Y6YLQSWYNSHTTPS://TCO/6RBFTBVHHWCYBERSECURITYRISK** 1 , **TAKES** 1 , **IDEA** 1 , **REAL** 1 , **WORLD** 1 , **RISK** 1 , **APPLIES** 1 , **CYBERWORLD** 1 , **INVO…** 1 , **HTTPS://TCO/OHO1T4ZJAQ** 1 , 
+ 
+## What this user tweeted
+ 
+Cybersecurityrisk management takes the idea of real world risk management and applies it to the cyberworld. It invo… https://t.co/oHO1T4zJaQ
+ 
+# BLACKMAMATWEETSUSER INFO
+![image](http://pbs.twimg.com/profile_images/1304434981293481984/kKoN-9ar_normal.jpg)
+ 
+`User ScreenName:` BLACKMAMATWEETS 
+ 
+`User chosen Name:` BLACKMAMA 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 14:57:49 +0000 2020 
+ 
+`User Description?:` “I brought you in and I will take you out!” - black mama proverb 
+ 
+`Followers?: `9 
+ 
+`Following?:` 189 
+ 
+`User URL?:` None 
+ 
+`Location:` Washington, DC 
+ 
+`Number of tweets extracted`  : 63 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1304434981293481984/kKoN-9ar_normal.jpg 
+ 
+`Number of tweets excluding replies:` 63 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BLACKMAMATWEET** 7 , **BLACK** 6 , **KIDS** 5 , **THAT’S** 4 , **GO** 4 , **PEOPLE** 3 , **MAMAS** 3 , **SOME** 3 , **Y’ALL** 3 , **GOING** 3 , **SHOW** 3 , **THESE** 3 , **VOICE** 3 , **YES** 2 , **ONE!!!!** 2 , **OK** 2 , **CHILLEEEEEE** 2 , **NOBODY** 2 , **WAITING** 2 , **TRUTH** 2 , 
+ 
+## What this user tweeted
+ 
+@shomaristone The truth is we will never be back to “normal.” #COVID has exposed the hidden vulnerabilities in so m… https://t.co/d5R0ELVWqY
+ 
+# _AboveAllNormsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1305557262895808513/5trY64Qc_normal.jpg)
+ 
+`User ScreenName:` _AboveAllNorms 
+ 
+`User chosen Name:` Nah. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 09 15:23:40 +0000 2020 
+ 
+`User Description?:` Account #12😪 (still hate broke women) 
+ 
+`Followers?: `250 
+ 
+`Following?:` 303 
+ 
+`User URL?:` https://t.co/xdq7bEuO0V 
+ 
+`Location:` Somewhere Wholesome 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1305557262895808513/5trY64Qc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2533 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**YO** 10 , **DON’T** 7 , **MAN** 6 , **SAY** 6 , **PAY** 6 , **PEOPLE** 6 , **TRYNNA** 5 , **HERE** 5 , **AFTER** 5 , **Y’ALL** 5 , **HATE** 4 , **GIVE** 4 , **MEN** 4 , **SHIT** 4 , **@_ABOVEALLNORMS** 4 , **TIME** 4 , **NA** 4 , **I’M** 4 , **CALL** 4 , **REALLY** 3 , 
+ 
+## What this user tweeted
+ 
+RT @foreverbrxtn: the #PALACE is a metaphor for a location where you can let go of all your vulnerabilities and embrace all that you are. t…
+ 
+# Prabhas28778162USER INFO
+![image](http://pbs.twimg.com/profile_images/1304278708036014081/EAXb8SKl_normal.jpg)
+ 
+`User ScreenName:` Prabhas28778162 
+ 
+`User chosen Name:` Prabhas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 04:39:39 +0000 2020 
+ 
+`User Description?:` Darling 😍 
+ 
+`Followers?: `3 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1304278708036014081/EAXb8SKl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1803 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**41DAYSTOREBELSTARBDAY** 119 , **41DAYSTOREBELSTARBDAYRT** 66 , **PRABHAS** 65 , **LAST** 27 , **PRABHASRT** 25 , **SPEED** 18 , **MINS** 16 , **TREND** 15 , **||** 13 , **20** 13 , **RETWEETS** 10 , **RETWEET** 10 , **RT** 9 , **TWEETS** 9 , **REBEL** 8 , **GEAR** 7 , **JAI** 7 , **DARLINGS** 7 , **RTS** 7 , **FANS** 6 , 
+ 
+## What this user tweeted
+ 
+RT @pbwarrior143: Out of your vulnerabilities will come your strength.
+#41DaysToREBELSTARBday https://t.co/wtQdBwQ0vt
+ 
+# Mani83982492USER INFO
+![image](http://pbs.twimg.com/profile_images/1304687601677291525/x5rgbZU5_normal.jpg)
+ 
+`User ScreenName:` Mani83982492 
+ 
+`User chosen Name:` Mani 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 13:39:12 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1304687601677291525/x5rgbZU5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1489 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**41DAYSTOREBELSTARBDAY** 135 , **PRABHAS** 74 , **41DAYSTOREBELSTARBDAYRT** 27 , **RETWEETS** 25 , **SPEED** 23 , **MINS** 17 , **🔥** 16 , **LAST** 16 , **11M** 15 , **PRABHASRT** 13 , **REBELS** 12 , **TWEETS** 12 , **RTS** 12 , **@TPHOFFL:** 11 , **REACH** 11 , **RETWEET** 10 , **INDIA** 10 , **@TEAMTWTPOFFI:** 10 , **||** 10 , **DONE** 9 , 
+ 
+## What this user tweeted
+ 
+RT @pbwarrior143: Out of your vulnerabilities will come your strength.
+#41DaysToREBELSTARBday https://t.co/wtQdBwQ0vt
+ 
+# AkshayK29921808USER INFO
+![image](http://pbs.twimg.com/profile_images/1304408187357995013/xqm1MKZT_normal.jpg)
+ 
+`User ScreenName:` AkshayK29921808 
+ 
+`User chosen Name:` Akshay Kumar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 13:15:09 +0000 2020 
+ 
+`User Description?:` die hard fan of Prabhas 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 194 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1304408187357995013/xqm1MKZT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 637 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**41DAYSTOREBELSTARBDAY** 133 , **PRABHAS** 83 , **41DAYSTOREBELSTARBDAYRT** 29 , **SPEED** 25 , **LAST** 25 , **RETWEETS** 16 , **TWEETS** 15 , **RT** 14 , **MINS** 14 , **PRABHASRT** 12 , **DARLINGS** 12 , **11M** 11 , **RETWEET** 11 , **REACH** 11 , **REBELS** 10 , **MOVIE** 10 , **🔥** 10 , **LET'S** 10 , **LEFT** 9 , **DONE** 9 , 
+ 
+## What this user tweeted
+ 
+RT @pbwarrior143: Out of your vulnerabilities will come your strength.
+#41DaysToREBELSTARBday https://t.co/wtQdBwQ0vt
+ 
+# Balasai85812873USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Balasai85812873 
+ 
+`User chosen Name:` Balasai 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 06:28:28 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1171 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**41DAYSTOREBELSTARBDAY** 143 , **PRABHAS** 79 , **41DAYSTOREBELSTARBDAYRT** 29 , **SPEED** 21 , **RETWEETS** 21 , **LAST** 20 , **MINS** 17 , **11M** 16 , **🔥** 15 , **TWEETS** 15 , **RTS** 15 , **REBELS** 13 , **107M** 13 , **DONE** 12 , **RETWEET** 12 , **@TPHOFFL:** 11 , **REACH** 11 , **STAR** 11 , **PRABHASRT** 10 , **MIN** 10 , 
+ 
+## What this user tweeted
+ 
+RT @pbwarrior143: Out of your vulnerabilities will come your strength.
+#41DaysToREBELSTARBday https://t.co/wtQdBwQ0vt
+ 
+# Prabhas86757417USER INFO
+![image](http://pbs.twimg.com/profile_images/1304426494576324612/eZ2Vn-MW_normal.jpg)
+ 
+`User ScreenName:` Prabhas86757417 
+ 
+`User chosen Name:` Prabhas ❤️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 13:53:59 +0000 2020 
+ 
+`User Description?:` Prabhas anna Abhimani ikkada 
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1304426494576324612/eZ2Vn-MW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1879 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**41DAYSTOREBELSTARBDAY** 143 , **PRABHAS** 86 , **41DAYSTOREBELSTARBDAYRT** 23 , **LAST** 20 , **SPEED** 17 , **RETWEETS** 17 , **DARLINGS** 14 , **TWEETS** 14 , **RETWEET** 13 , **DONE** 13 , **@TPHOFFL:** 11 , **@TRENDSPRABHAS:** 10 , **11M** 10 , **MINS** 9 , **🔥** 9 , **RT** 8 , **INDIA** 8 , **GUYS** 8 , **DARLING** 8 , **106M** 8 , 
+ 
+## What this user tweeted
+ 
+RT @pbwarrior143: Out of your vulnerabilities will come your strength.
+#41DaysToREBELSTARBday https://t.co/wtQdBwQ0vt
+ 
+# Dency36774055USER INFO
+![image](http://pbs.twimg.com/profile_images/1304667472402894848/z6rdYjkZ_normal.jpg)
+ 
+`User ScreenName:` Dency36774055 
+ 
+`User chosen Name:` Dency 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 13:24:53 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1304667472402894848/z6rdYjkZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1796 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**41DAYSTOREBELSTARBDAY** 145 , **PRABHAS** 91 , **41DAYSTOREBELSTARBDAYRT** 26 , **LAST** 20 , **MINS** 19 , **SPEED** 19 , **RETWEETS** 18 , **RETWEET** 12 , **TWEETS** 12 , **DARLINGS** 11 , **@TPHOFFL:** 10 , **🔥** 10 , **20** 9 , **RT** 8 , **MINUTES** 8 , **11M** 8 , **PRABHASRT** 8 , **||** 8 , **10** 8 , **DONE** 8 , 
+ 
+## What this user tweeted
+ 
+RT @pbwarrior143: Out of your vulnerabilities will come your strength.
+#41DaysToREBELSTARBday https://t.co/wtQdBwQ0vt
+ 
+# Pabsu7USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Pabsu7 
+ 
+`User chosen Name:` Pabsu 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 14:56:03 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 799 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**41DAYSTOREBELSTARBDAY** 133 , **PRABHAS** 75 , **41DAYSTOREBELSTARBDAYRT** 32 , **RETWEETS** 21 , **LAST** 20 , **SPEED** 17 , **@TEAMPRABHASOFFL:** 15 , **@TPHOFFL:** 14 , **RT** 13 , **MINS** 13 , **RETWEET** 12 , **DARLINGS** 11 , **@TRENDSPRABHAS:** 11 , **@TEAMTWTPOFFI:** 10 , **PRABHASRT** 10 , **10** 9 , **11M** 9 , **TWEETS** 9 , **MIN** 9 , **||** 9 , 
+ 
+## What this user tweeted
+ 
+RT @pbwarrior143: Out of your vulnerabilities will come your strength.
+#41DaysToREBELSTARBday https://t.co/wtQdBwQ0vt
+ 
+# Gabriel77696801USER INFO
+![image](http://pbs.twimg.com/profile_images/1304748698828705792/EA6xtQxv_normal.jpg)
+ 
+`User ScreenName:` Gabriel77696801 
+ 
+`User chosen Name:` Gabriela 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 12 11:47:14 +0000 2020 
+ 
+`User Description?:` i like my man like the sunset 
+ 
+`Followers?: `2 
+ 
+`Following?:` 36 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 122 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1304748698828705792/EA6xtQxv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 123 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JUNAIDA04801376:** 14 , **NEW** 13 , **@TRENDINGTECH20:** 11 , **@TERADATA** 7 , **COMPANIES** 7 , **DE** 7 , **BETTER** 5 , **LEARN** 5 , **@PREOWNEDBUSES:** 5 , **@PREOWNEDBUSES** 5 , **@PRODUCTS4YOU2:** 5 , **MUSIC** 5 , **@SCORUMSOCIAL:** 4 , **READ** 4 , **HELP** 4 , **TO…RT** 4 , **ITS** 4 , **DATA** 4 , **BEST** 4 , **ASK** 4 , 
+ 
+## What this user tweeted
+ 
+RT @astutelook: New Unpatched Bluetooth Flaw Lets Hackers Easily Target Nearby Devices
+.
+.
+.
+#astutelooktechnologies #cybersecurity #hackin…
+ 
+# DwarkaShoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1304000925380407298/a3VrHGCX_normal.jpg)
+ 
+`User ScreenName:` DwarkaSho 
+ 
+`User chosen Name:` SHO Jaffar Pur Kalan / Dwarka 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 09 12:42:16 +0000 2020 
+ 
+`User Description?:` SHO Jaffar Pur Kalan 
+ 
+`Followers?: `2 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1304000925380407298/a3VrHGCX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DCPDWARKA:** 12 , **2** 4 , **RIGHTFUL** 3 , **OWNERS** 3 , **THINGS** 2 , **TEAMS** 2 , **HELP** 2 , **PHONE** 2 , **CALL** 2 , **PATROLLING** 2 , **DWARKA** 2 , **TIME** 2 , **DRUGS** 2 , **FOUND** 2 , **PROPERTY** 2 , **UNCLAIMED** 2 , **GIVING** 2 , **RETURNING** 2 , **MINUTES** 2 , **US** 2 , 
+ 
+## What this user tweeted
+ 
+RT @DCPDwarka: To make an elderly person happy is the noblest act a young person can ever do!
+
+The photos are from Security Audit conducted…
+ 
+# alphaswalletUSER INFO
+![image](http://pbs.twimg.com/profile_images/1304471724629667848/SAf_xart_normal.jpg)
+ 
+`User ScreenName:` alphaswallet 
+ 
+`User chosen Name:` Alpha Investment 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 11 17:27:28 +0000 2020 
+ 
+`User Description?:` investor, nurse, multiply by all of 'em... YTD! 
+ 
+`Followers?: `7 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1304471724629667848/SAf_xart_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIR** 2 , **GELEBILIR** 2 , **MOODY'S** 2 , **DEDIĞIM** 1 , **GIBI** 1 , **ALICILI** 1 , **AÇILIŞ** 1 , **GELDI** 1 , **PANIK** 1 , **SATIŞÇILAR** 1 , **KENDINI** 1 , **GÖSTERMEYE** 1 , **DEVAM** 1 , **EDIYORPANIK** 1 , **SATIŞLARDAN** 1 , **KAÇINALIM@RASIMEFE42** 1 , **32** 1 , **LIRA** 1 , **HEDEFINE** 1 , **GIDENE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ahval_en: #NEW 
+
+Moody's downgrades Turkey's ratings to B2 from B1 and maintains negative outlook
+
+Moody's cites an increase in the nat…
+ 
+# ZeChrolloUSER INFO
+![image](http://pbs.twimg.com/profile_images/1303647091051421696/rXtaw3sX_normal.jpg)
+ 
+`User ScreenName:` ZeChrollo 
+ 
+`User chosen Name:` Alfie 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 07 14:30:58 +0000 2020 
+ 
+`User Description?:` Ball is life ⚽️ | Arsenal, Barça, Inter, Dortmund 
+ 
+`Followers?: `74 
+ 
+`Following?:` 187 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1303647091051421696/rXtaw3sX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 230 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STILL** 10 , **NEED** 9 , **MIGHT** 7 , **SZN** 7 , **GAME** 6 , **IFB** 6 , **NEEDS** 6 , **TOP** 5 , **3** 5 , **GOLDEN** 5 , **LEAGUE** 5 , **EVEN** 5 , **WAY** 5 , **ARTETA** 5 , **GO** 5 , **WORLD** 5 , **BACK** 5 , **BEST** 5 , **SAY** 4 , **NEVER** 4 , 
+ 
+## What this user tweeted
+ 
+Just rewatching the QF 1st leg between Liverpool and City and I have to say City's defensive vulnerabilities were so quick to jump out
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
