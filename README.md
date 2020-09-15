@@ -552,6 +552,113 @@ RT @helpnetsecurity: Adopting more tools doesn't necessarily improve security re
 Link &gt; https://t.co/6…
  
 
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling m
+ 
+`Followers?: `2 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1303375714130034693/9fuTsTZP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@SSPARKLESDAILY:** 1 , **FAULT** 1 , **HANDED** 1 , **BLUEPRINT** 1 , **VULNERABILITIES** 1 , **CHOSE** 1 , **USE** 1 , **ROB** 1 , **BANK** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SSparklesDaily: It's not your fault if you handed them a blueprint to your vulnerabilities and they chose to use it to rob the bank.
+ 
+# victor83770612USER INFO
+![image](http://pbs.twimg.com/profile_images/1303703211509977124/QTRd_sB1_normal.jpg)
+ 
+`User ScreenName:` victor83770612 
+ 
+`User chosen Name:` victor 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 09 14:33:34 +0000 2020 
+ 
+`User Description?:` 💡💡💡 
+ 
+`Followers?: `85 
+ 
+`Following?:` 164 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1303703211509977124/QTRd_sB1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2922 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LAYCON** 116 , **VOTELAYCONTOFINAL** 80 , **900K** 55 , **ICONS** 52 , **VOTE** 50 , **BBNAIJA** 47 , **FOLLOWERS** 31 , **32052** 22 , **VOTING** 21 , **PLEASE** 18 , **@ITSLAYCON** 16 , **IG** 15 , **💡** 15 , **KEEP** 14 , **DON'T** 12 , **DEY** 11 , **VOTES** 11 , **LET'S** 11 , **GOD** 10 , **MILLION** 10 , 
+ 
+## What this user tweeted
+ 
+RT @OliviaAdams720: Human reality is a totality of things including abilities, vulnerabilities, control and feelings. #bbnaija is a reality…
+ 
+# agneskynUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` agneskyn 
+ 
+`User chosen Name:` Agnes 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 14 09:24:26 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 96 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 263 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MUFTIMENK:** 37 , **LIFE** 36 , **@IYANLAVANZANT:** 34 , **PEOPLE** 27 , **DON’T** 21 , **LOVE** 14 , **THINGS** 14 , **WAY** 14 , **@DAMIANPROSA:** 14 , **TIME** 13 , **@BILLYGRAHAM:** 12 , **NEVER** 12 , **LET** 11 , **@FIERCEMARRIAGE:** 10 , **FEEL** 10 , **WHICH** 9 , **MIND** 9 , **STOP** 9 , **GIVE** 9 , **ALMIGHTY** 9 , 
+ 
+## What this user tweeted
+ 
+RT @HarrietLerner: We grow in self-worth when we can acknowledge and share our strengths and accomplishments as well as our vulnerabilities…
+ 
+
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
 ### CONCLUSION & EXTERNAL ANALYSIS
 
