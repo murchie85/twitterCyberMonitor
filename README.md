@@ -804,3 +804,95 @@ U.S. to announce charges in China-related computer intrusion campaigns, DOJ says
 ## User Top tweeted words 
  
 **SHIELD** 5 , **DECEPTION** 3 , **@MITRECORP** 3 , **@JC_VAZQUEZ:** 2 , **TECHNOLOGIES** 2 , **HOME** 2 , **CISO** 2 , **CYBER** 2 , **@COUNTERCRAFTSEC:** 2 , **@KEVINBFISCUS** 2 , **RELEASE** 2 , **INFOSEC** 2 , **CEO** 2 , **RT** 1 , **“SOME** 1 , **PROVIDERS** 1 , **MAY** 1 , **USE** 1 , **OTHER** 1 , **DETECT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @jc_vazquez: “Some providers may also use other technologies to detect threats, such as deception technologies, and will also monitor ot…RT @FidelisCyber: #CISOs – have you outlined #cybersecurity best practices with your work from home employees? Our CISO wrote a blog on mes…
+ 
+# arpc0nUSER INFO
+![image](http://pbs.twimg.com/profile_images/1303688755329380352/QYWc6DF8_normal.jpg)
+ 
+`User ScreenName:` arpc0n 
+ 
+`User chosen Name:` ARPCon: Virtual Conference & Capture The Flag 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 09 13:36:15 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `111 
+ 
+`Following?:` 20 
+ 
+`User URL?:` https://t.co/vwadsReSuz 
+ 
+`Location:` localhost 
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1303688755329380352/QYWc6DF8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ARPCON** 5 , **2020** 4 , **VIRTUAL** 3 , **TALKING** 3 , **HOPE** 2 , **OFFICIAL** 2 , **EXCITED** 2 , **MR** 2 , **SPEAKER** 2 , **"APPROACH** 2 , **LEARN** 2 , **REGISTER** 2 , **FORGET** 1 , **CRAZY** 1 , **PRIZES** 1 , **GONNA** 1 , **ANNOUNCED** 1 , **SOON** 1 , **CAPTURE** 1 , **FLAG** 1 , 
+ 
+## What this user tweeted
+ 
+Hi everyone!
+We present @offsectraining as official sponsors of ARPCON 2020 Virtual Cybersecurity.Get ready for kno… https://t.co/A2hHZe4c4a
+ 
+# CyberSelf5USER INFO
+![image](http://pbs.twimg.com/profile_images/1305562025872023552/KVlKH7ml_normal.jpg)
+ 
+`User ScreenName:` CyberSelf5 
+ 
+`User chosen Name:` Cyber Self 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 14 17:36:42 +0000 2020 
+ 
+`User Description?:` Cyber Security info Youtube channel, Data security, Mobile security, AI, Secure servers, digital security, Youtuber 
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1305562025872023552/KVlKH7ml_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 2 , **YOUTUBE** 2 , **MOBILE** 1 , **SECURITY** 1 , **UNWANTED** 1 , **SURVEILLANCE** 1 , **OTHER** 1 , **HACKERS** 1 , **PAYLOAD** 1 , **HTTPS://TCO/W78N4TCABRFIRST** 1 , **TEST** 1 , **VIDEO** 1 , **AI** 1 , **HINDI** 1 , **HTTPS://TCO/JRY1SLL2ZC** 1 , 
+ 
+## What this user tweeted
+ 
+Mobile Security from unwanted surveillance from other #hackers #CyberSecurity #Payload
+https://t.co/W78n4tCaBr
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
