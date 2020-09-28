@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **LaurenUnderwood**  
+The most popular user is: **likethecoins**  
  
 
-## I’m getting my first gavel, friends! I’m thrilled to be named Chair of the House Homeland Security Committee - Subc… https://t.co/ovRKO8fIch 
+## New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **LaurenUnderwood**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @scouttanmay @YTCreatorsIndia @TeamYouTube @YouTubeGaming @Fwiz @Chen I can help you how it might get hacked I am p… https://t.co/xbd96A5L6E |
-| From Leak to Domain Administrator: an in-depth review of the highly critical and infamous vulnerability that we sti… https://t.co/cTGAKdwZTt |
-| @IoTCommunity #IoTPL ranked me @rvp @7GTech 2nd in #IoT #InternetOfThings@Onalytica rated me 19 in #Telecom &amp; 42… https://t.co/YY3fZsp8Dr |
+| RT @bad_packets: Mass scanning activity detected from 159.69.15.131 (🇩🇪) checking for Citrix (NetScaler) servers vulnerable to CVE-2019-197… |
+| RT @javier_carriazo: India's Cybercrime and APT Operations on the Rise #CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #priv… |
+| Todays TOPIC = threatintel 📈 DarkWire Cyber insights dashboard . #threatintelINFO HERE 👉 👉  https://t.co/D7FfGI6A9X https://t.co/d5EYG3jMOd |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SourabhSKatoch** |
-| #2 Most tweeted to  | **antgrasso** |
-| #3 Most tweeted to  | **ingliguori** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 2.46%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 0.21%  |
+| Tweeters with < 10 followers  | 0.32%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,458 +50,57 @@ The most popular user is: **LaurenUnderwood**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DATA**  |
-| second  | **US**  |
-| third  | **INFOSEC** |
-| fourth  | **IOT**  |
-| fifth  | **RANSOMWARE**  |
+| first  | **OSINT**  |
+| second  | **INFOSEC**  |
+| third  | **CYBERTHREATS** |
+| fourth  | **@JINIBABD:**  |
+| fifth  | **HACKERS**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (64.29%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|AI gives IT an edge in improving customer experienceThe pandemic has only accelerated IT’s need to improve  #IT… https://t.co/r7CyY5hkzf |
+|RT @eSentire: We joined forces with @VMW_CarbonBlack to bring you new #threatintel on evasive #malware and altered attack surfaces in the f… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LaurenUnderwood**  |
+| The most retweeted user is: **likethecoins**  |
 | ------------- |
-| I’m getting my first gavel, friends! I’m thrilled to be named Chair of the House Homeland Security Committee - Subc… https://t.co/ovRKO8fIch |
+| New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O |
 
 # Potential Fake Accounts
  
-# BriFreeCSUSER INFO
-![image](http://pbs.twimg.com/profile_images/1310494628596989953/7znw1hZ8_normal.jpg)
+# trippythenerdUSER INFO
+![image](http://pbs.twimg.com/profile_images/1308381729409900545/YgFXCgXI_normal.jpg)
  
-`User ScreenName:` BriFreeCS 
+`User ScreenName:` trippythenerd 
  
-`User chosen Name:` Briana Freer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Sep 28 08:20:10 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 48 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310494628596989953/7znw1hZ8_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**"UNIVERSITY** 1 , **TECHNOLOGY** 1 , **SYDNEY** 1 , **FINDING** 1 , **EMPLOYERS** 1 , **WORKERS** 1 , **INTRODUCTORY** 1 , **SKILLS** 1 , **AREAS** 1 , **SU…** 1 , **HTTPS://TCO/CJXOHQLIG8WHAT** 1 , **GREAT** 1 , **OPPORTUNITY** 1 , **SA!** 1 , **CYBERSECURITY** 1 , **ACCENTURE** 1 , **HTTPS://TCO/0IGRH9G7MT** 1 , 
- 
-## What this user tweeted
- 
-What a great opportunity for SA!
-#cybersecurity #Accenture https://t.co/0iGrh9g7MT
- 
-# CyberSecProPHUSER INFO
-![image](http://pbs.twimg.com/profile_images/1309743983560503296/XAz61Gw8_normal.jpg)
- 
-`User ScreenName:` CyberSecProPH 
- 
-`User chosen Name:` CyberSec Philippines 
+`User chosen Name:` Trevor 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Sep 26 06:36:18 +0000 2020 
+`User signup date?:` Tue Sep 22 12:24:21 +0000 2020 
  
-`User Description?:` Cybersecurity Professional based in Metro Manila, Philippines 
- 
-`Followers?: `1 
- 
-`Following?:` 22 
- 
-`User URL?:` None 
- 
-`Location:` Manila, Philippines 
- 
-`Number of tweets extracted`  : 124 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1309743983560503296/XAz61Gw8_normal.jpg 
- 
-`Number of tweets excluding replies:` 124 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TECHNOLOGY** 20 , **EDGE** 17 , **LINUX** 15 , **CYBERSECURITY** 12 , **VIA** 9 , **MICROSOFT** 9 , **NOBODY** 7 , **SYSTEM** 6 , **DATA** 6 , **NETWORK** 6 , **NEED** 5 , **MALWARE** 5 , **OCTOBER** 5 , **SECURITY** 5 , **TECHNOLOGY…** 5 , **USERS** 4 , **THAN** 4 , **MOST** 4 , **THESE** 4 , **MAKE** 4 , 
- 
-## What this user tweeted
- 
-In Belarus, more than 100,000 people marched through the capital of Minsk on Sunday during the sixth straight weeke… https://t.co/BBaiojhUFVIf you need a refresher, we have assembled tips for spotting shady apps, phishing schemes, malware, and other onlin… https://t.co/d58uEuvbwx
- 
-# A4AnalysisUSER INFO
-![image](http://pbs.twimg.com/profile_images/1310665671009738752/CzdnVCF__normal.jpg)
- 
-`User ScreenName:` A4Analysis 
- 
-`User chosen Name:` A_for_analysis 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Sep 28 19:39:26 +0000 2020 
- 
-`User Description?:` Analyzing anything and everything. 
- 
-`Followers?: `1 
- 
-`Following?:` 89 
- 
-`User URL?:` https://t.co/YgPMWPCIb8 
- 
-`Location:` India 
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310665671009738752/CzdnVCF__normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DATA** 3 , **PYTHON** 2 , **COVID** 2 , **TRACKER** 2 , **RT** 1 , **@MOMENTSWITHBREN:** 1 , **COLABORATORY** 1 , **"COLAB"** 1 , **ALLOWS** 1 , **WRITE** 1 , **EXECUTE** 1 , **BROWSER** 1 , **💡ZERO** 1 , **CONFIGURATION** 1 , **REQUIRED** 1 , **💡F…RT** 1 , **@SOURABHSKATOCH:** 1 , **7** 1 , **FREE** 1 , **EBOOKS** 1 , 
- 
-## What this user tweeted
- 
-RT @SourabhSKatoch: 7 Free eBooks every Data Scientist should read 2020.
-
-Book 2-&gt;Dive into Deep Learning
-https://t.co/K5EYueN9zU
-
-#100Days…
- 
-# secure_coffeeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1310296637093314568/dATaoOTv_normal.jpg)
- 
-`User ScreenName:` secure_coffee 
- 
-`User chosen Name:` Siobhan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 27 19:12:06 +0000 2020 
- 
-`User Description?:` Coffee and Infosec in that order always! ☕️ my views are not my employers 
- 
-`Followers?: `3 
- 
-`Following?:` 94 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310296637093314568/dATaoOTv_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**I’M** 3 , **NEW** 2 , **RT** 1 , **@EXN_NA:** 1 , **DETAILED** 1 , **ACTIONABLE** 1 , **EFFECTIVE** 1 , **INTELLIGENCE** 1 , **KEY** 1 , **THWARTING** 1 , **CYBER** 1 , **ATTACKS** 1 , **@SENTINELONE** 1 , **REVISITS** 1 , **PYRAMIDOFPAIN** 1 , **SHO…RT** 1 , **@THREATINTEL:** 1 , **DARK** 1 , **OVERLORD** 1 , **HACKER** 1 , 
- 
-## What this user tweeted
- 
-RT @EXN_NA: Detailed, actionable, effective intelligence is key to thwarting cyber attacks. @SentinelOne revisits the #PyramidofPain to sho…
- 
-# patrick59394861USER INFO
-![image](http://pbs.twimg.com/profile_images/1310664977926090752/7N8kh4oh_normal.jpg)
- 
-`User ScreenName:` patrick59394861 
- 
-`User chosen Name:` patrick moreno 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Sep 28 19:37:19 +0000 2020 
- 
-`User Description?:` Product Marketing Manager, Tech is my thing! 
- 
-`Followers?: `1 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310664977926090752/7N8kh4oh_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**INTERESTED** 1 , **HOME** 1 , **CYBERSECURITY?** 1 , **REGISTER** 1 , **ATTEND** 1 , **LEARN** 1 , **HTTPS://TCO/UEFPED5A3O** 1 , 
- 
-## What this user tweeted
- 
-Interested in Home Cybersecurity? Register and attend to learn more. https://t.co/UeFpED5a3O
- 
-# Y8Y1K61USER INFO
-![image](http://pbs.twimg.com/profile_images/1307811848306204673/8uuWwQBf_normal.jpg)
- 
-`User ScreenName:` Y8Y1K61 
- 
-`User chosen Name:` Y8Y1K6 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 20 21:45:48 +0000 2020 
- 
-`User Description?:` THT Junior Çevirmen 
- 
-`Followers?: `15 
- 
-`Following?:` 89 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 37 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1307811848306204673/8uuWwQBf_normal.jpg 
- 
-`Number of tweets excluding replies:` 37 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 19 , **CYBERPUNK** 19 , **NETWORK** 14 , **@THT_RESMI:** 14 , **CYBERMONDAY** 13 , **@THT_EN:** 12 , **PROGRAMMING** 12 , **5** 8 , **CODE** 8 , **🔗** 7 , **CYBER** 6 , **SECURITY** 6 , **CODER** 5 , **BIR** 5 , **@THTSTATUS:** 5 , **TOP** 4 , **TOOLS** 4 , **SIBERGÜVENLIK** 4 , **IÇIN** 4 , **EN** 3 , 
- 
-## What this user tweeted
- 
-RT @tht_en: Top 5 best network spying tools!
-
-#cybersecurity #cyber #network #cyberpunk #tools #programming #cybermonday #code #data #atera…
- 
-# drewCor01177630USER INFO
-![image](http://pbs.twimg.com/profile_images/1309944253901090816/G4nm8qHe_normal.jpg)
- 
-`User ScreenName:` drewCor01177630 
- 
-`User chosen Name:` drew Corriveau 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Sep 24 19:21:26 +0000 2020 
- 
-`User Description?:` journalist 
+`User Description?:` Hi my name is Trevor I was born without hands I love technologies cyber security android Apple windows Linux any kind of operating system security guru 
  
 `Followers?: `71 
  
-`Following?:` 531 
+`Following?:` 565 
  
 `User URL?:` None 
  
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1309944253901090816/G4nm8qHe_normal.jpg 
- 
-`Number of tweets excluding replies:` 2709 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 22 , **BIDEN** 17 , **@THEHILL:** 14 , **TAXES** 11 , **@RIDEWITHC4T** 10 , **THAN** 9 , **HARVESTING** 8 , **@CATTURD2:** 8 , **JOE** 8 , **TAX** 8 , **NEW** 8 , **MILLION** 8 , **LA** 8 , **@REALDONALDTRUMP** 7 , **AFTER** 7 , **YEARS** 7 , **VERITAS** 7 , **US** 6 , **@76ECHOXRAY:** 6 , **VOTER** 6 , 
- 
-## What this user tweeted
- 
-RT @thehill: JUST IN: Hospital chain targeted in one of the largest cyberattacks on US medical systems: report https://t.co/5ongSYIDxz http…
- 
-# AmericanRegTechUSER INFO
-![image](http://pbs.twimg.com/profile_images/1307709635978235906/fKjNf0Vv_normal.jpg)
- 
-`User ScreenName:` AmericanRegTech 
- 
-`User chosen Name:` American RegTech 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 20 15:23:07 +0000 2020 
- 
-`User Description?:` Promoting #Technology for #Regulatory #Compliance in the #USA.
-#American #RegTech
-#FinTech #DataPrivacy 
- 
-`Followers?: `239 
- 
-`Following?:` 591 
- 
-`User URL?:` None 
- 
-`Location:` New York, NY 
- 
-`Number of tweets extracted`  : 42 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1307709635978235906/fKjNf0Vv_normal.jpg 
- 
-`Number of tweets excluding replies:` 42 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REGTACCELERATOR:** 8 , **US** 6 , **CYBERSECURITY** 6 , **AML** 6 , **COMPLIANCE** 5 , **REGTECH** 5 , **REGULATION** 3 , **THREAT** 3 , **MARKET** 3 , **WAYS** 3 , **LAUNCHES** 2 , **CONSULTATION** 2 , **ITS** 2 , **IMPORTANCE** 2 , **NEW** 2 , **ANALYSIS** 2 , **TRENDS** 2 , **GROWTH** 2 , **@CYBERSECBOARDRM:** 2 , **FACEBOOK** 2 , 
- 
-## What this user tweeted
- 
-When coffee makers are demanding a ransom, you know #IoT is screwed
-What a #hacked #coffeemachine looks like.… https://t.co/8K8EmQ3eZ9
- 
-# LinhTan70338521USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` LinhTan70338521 
- 
-`User chosen Name:` Linh Tang 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Sep 19 07:38:05 +0000 2020 
- 
-`User Description?:` #nemo #ghc2020 #vGHC #ghc 
- 
-`Followers?: `0 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:` Iowa, USA 
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SWAG** 2 , **@MORGANSTANLEY:** 2 , **GRACE** 2 , **HOPPER** 2 , **CELEBRATION** 2 , **VIRTUAL** 2 , **NEXT** 2 , **CAREER** 2 , **RT** 1 , **@TWITTERU:** 1 , **MENTION** 1 , **GRABS?** 1 , **ADD** 1 , **🎙** 1 , **TWITTER** 1 , **DISPLAY** 1 , **NAME** 1 , **SHARE** 1 , **US** 1 , **GOBIGSTAYHOME** 1 , 
- 
-## What this user tweeted
- 
-RT @MorganStanley: ""Having the opportunity to solve real word cybersecurity issues that in turn protect our employees and clients makes me…
- 
-# EbothoCyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1310200659657003009/c0MkWs35_normal.jpg)
- 
-`User ScreenName:` EbothoCyber 
- 
-`User chosen Name:` eBotho Cyber 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 27 12:52:15 +0000 2020 
- 
-`User Description?:` eBotho Cyber Awareness is a public education campaign that seeks to sensitise people about cyber threats and raise awareness on safe and secure online habits. 
- 
-`Followers?: `13 
- 
-`Following?:` 78 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310200659657003009/c0MkWs35_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CHALLENGE** 5 , **"THE** 3 , **CYBERSMARTBW** 3 , **@KAENEDISEPO:** 2 , **INITIATIVE** 2 , **DEVELOPMENT** 2 , **CAMPAIGN** 2 , **EU** 2 , **MUST** 2 , **CYBER** 2 , **LAUNCH** 2 , **COMMUNICATIONS** 2 , **RT** 1 , **EXCITED** 1 , **PARTNER** 1 , **SUCH** 1 , **WONDERFUL** 1 , **🙏🏽** 1 , **HTTPS://TCO/T6HNEZENPGRT** 1 , **DEAR** 1 , 
- 
-## What this user tweeted
- 
-#CyberSmartBWLaunch: "Cybersecurity is a shared responsibility everybody must play his part to ensure the online sp… https://t.co/jZ7OPO1L7S
- 
-# ripster43USER INFO
-![image](http://pbs.twimg.com/profile_images/1310633700779008000/QtRgHU7G_normal.jpg)
- 
-`User ScreenName:` ripster43 
- 
-`User chosen Name:` Ripster 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 27 21:29:42 +0000 2020 
- 
-`User Description?:` Stock Trading Ideas & Education. Charts & Price Action Creator of EMA Cloud System Sr.EIM Consultant Disclaimer: All tweets are for entertainment purpose only 
- 
-`Followers?: `0 
- 
-`Following?:` 29 
- 
-`User URL?:` https://t.co/bSoWVPrWex 
- 
-`Location:` USA/Canada 
+`Location:` Louisiana, USA 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1310633700779008000/QtRgHU7G_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1308381729409900545/YgFXCgXI_normal.jpg 
  
-`Number of tweets excluding replies:` 632 
+`Number of tweets excluding replies:` 1390 
  
 
  
@@ -509,43 +108,39 @@ RT @MorganStanley: ""Having the opportunity to solve real word cybersecurity iss
  
 ## User Top tweeted words 
  
-**@RIPSTER47:** 145 , **@RIPSTER47** 47 , **UPDATE** 46 , **HERE** 17 , **TRADINGTIPS** 14 , **$ZI** 14 , **THANKS** 14 , **$SPY** 13 , **$QQQ** 13 , **CALLS** 13 , **NEED** 13 , **DAY** 12 , **$BIGC** 12 , **GOOD** 12 , **$BYND** 12 , **BELOW** 11 , **WINNER** 11 , **GAP** 10 , **U** 10 , **IDEA** 10 , 
+**CYBERSECURITY** 18 , **NEW** 17 , **@ZDNET:** 15 , **SECURITY** 14 , **US** 12 , **DATA** 12 , **AI** 11 , **IOT** 11 , **GOOGLE** 9 , **HOME** 9 , **MAKE** 9 , **@MASHABLE:** 8 , **MACHINELEARNING** 8 , **COVID-19** 7 , **@TECHREPUBLIC:** 7 , **PEOPLE** 7 , **RANSOMWARE** 7 , **APP** 7 , **VIA** 7 , **@WIRED:** 6 , 
  
 ## What this user tweeted
  
-RT @ripster47: $CRWD #chart $STUDY
-Range Break today and 50% Fib Reclaim Breakout
-
-Good Setup when two levels-coincide
-
-Look for basing ove…
+RT @novirusthanks: List of suspicious URLs with a high risk score spotted by @apivoid URL Reputation API https://t.co/JLPN2HL2vU #Phishing…RT @JinibaBD: Hacker Accessed Network of U.S. Agency and Downloaded Data 
+#CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #p…
  
-# SonaHakhverdya8USER INFO
-![image](http://pbs.twimg.com/profile_images/1310575711741194241/RNbSIZcZ_normal.jpg)
+# NofornUmbraUSER INFO
+![image](http://pbs.twimg.com/profile_images/1307708494917713920/1-09BJuh_normal.jpg)
  
-`User ScreenName:` SonaHakhverdya8 
+`User ScreenName:` NofornUmbra 
  
-`User chosen Name:` Sona 
+`User chosen Name:` Secret Agent Number Seven 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Sep 27 10:01:10 +0000 2020 
+`User signup date?:` Sun Sep 20 15:38:33 +0000 2020 
  
-`User Description?:` 🇦🇲❗Artsakh is Armenia❗🇦🇲 
+`User Description?:`  
  
-`Followers?: `17 
+`Followers?: `255 
  
-`Following?:` 56 
+`Following?:` 11 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 145 
+`Number of tweets extracted`  : 26 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1310575711741194241/RNbSIZcZ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1307708494917713920/1-09BJuh_normal.jpg 
  
-`Number of tweets excluding replies:` 145 
+`Number of tweets excluding replies:` 26 
  
 
  
@@ -553,11 +148,11 @@ Look for basing ove…
  
 ## User Top tweeted words 
  
-**ARTSAKH** 35 , **AZERBAIJAN** 30 , **ARMENIA** 18 , **ARMENIAN** 15 , **@ZARTONKMEDIA:** 14 , **@PRES_ARTSAKH:** 11 , **AGAINST** 11 , **TURKEY** 11 , **ARTSAKHSTRONG** 10 , **MILITARY** 10 , **FORCES** 9 , **@NIKOLPASHINYAN:** 9 , **Է** 9 , **@ARMENIA_BETTER:** 9 , **ATTACK** 8 , **LOST** 8 , **@NARECUS:** 8 , **ARMY** 8 , **OFFENSIVE** 7 , **HOMELAND** 7 , 
+**@GROUPIB** 7 , **RUSSIAN** 6 , **@NOFORNUMBRA:** 5 , **KISLITSIN** 5 , **COMPANY** 5 , **CYBERCRIMINALS** 5 , **@FBI** 4 , **@FBISEATTLE** 4 , **NIKULIN** 4 , **TROLLS** 4 , **EMPLOYED** 4 , **NIKITA** 4 , **RUSSIA** 3 , **ANOTHER** 3 , **@MANDIANT** 3 , **UNDER** 3 , **@MIKE_ECKEL** 2 , **@ATTORNEYNECHAY** 2 , **@MFA_RUSSIA** 2 , **@FBISANFRANCISCO** 2 , 
  
 ## What this user tweeted
  
-RT @zhannaminasyan: Armenia is facing cyber threat every day and not only from our neighbor Azerbaijan, but also from Turkey, which is NATO…
+RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…@FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not… https://t.co/tfGHVEWCtP
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
