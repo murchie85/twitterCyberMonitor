@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **likethecoins**  
+The most popular user is: **benvyle**  
  
 
-## New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O 
+## one thing this pandemic has made me realise is how strange it was that (in the before times) people were expected t… https://t.co/AiFwg85hkh 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **likethecoins**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| INTL: IP: 103.85.21[.]175Subnet: 103.85.20[.]0/22 &amp; 103.85.20[.]0/23Host: AS 55933 ( Cloudie Limited ) CN [🇨🇳]… https://t.co/vafar8P05X |
-| RT @Redscan: With Microsoft announcing that #Zerologon is now being actively exploited in the wild, immediate patching is essential. Learn… |
-| Cyber attacks keep increasing in volume &amp; sophistication by the minute. Learn how companies can ensure proactive de… https://t.co/xi8LMV5RO4 |
+| RT @JinibaBD: Kenya, SA and Nigeria See Millions of Cyber Attacks in 2020 #CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #p… |
+| RT @infosecreportr: Drive-by Downloads - Refers to the unintentional download of malicious code onto a device that exposes users to differe… |
+| RT @gargic15: #womenintech Brand new series by @DynamicCIO with the aim to bring #women #tech leadership #infosec professionals on a pedest… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.21%  |
-| Tweeters with < 10 followers  | 0.32%|
+| #1 Most tweeted to  | **CyberWarship** |
+| #2 Most tweeted to  | **TheHackersNews** |
+| #3 Most tweeted to  | **Infosec_Taylor** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 1.86%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,97 +50,57 @@ The most popular user is: **likethecoins**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
-| second  | **INFOSEC**  |
-| third  | **CYBERTHREATS** |
-| fourth  | **@JINIBABD:**  |
+| first  | **INFOSEC**  |
+| second  | **HACKING**  |
+| third  | **RANSOMWARE** |
+| fourth  | **DATA**  |
 | fifth  | **HACKERS**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|APT41 is a prolific Chinese cyber threat group that carries out state-sponsored espionage activity with financially… https://t.co/Q54W8XMBoC |
+|RT @bsdbandit: Good morning my fellow awesome hackers happy Magnificent Monday I love you all owwwww yip yip https://t.co/rYRRkIPChy |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **likethecoins**  |
+| The most retweeted user is: **benvyle**  |
 | ------------- |
-| New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O |
+| one thing this pandemic has made me realise is how strange it was that (in the before times) people were expected t… https://t.co/AiFwg85hkh |
 
 # Potential Fake Accounts
  
-# trippythenerdUSER INFO
-![image](http://pbs.twimg.com/profile_images/1308381729409900545/YgFXCgXI_normal.jpg)
+# N0tUrS0ckUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310638703266721802/c7GaeFNC_normal.jpg)
  
-`User ScreenName:` trippythenerd 
+`User ScreenName:` N0tUrS0ck 
  
-`User chosen Name:` Trevor 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Sep 22 12:24:21 +0000 2020 
- 
-`User Description?:` Hi my name is Trevor I was born without hands I love technologies cyber security android Apple windows Linux any kind of operating system security guru 
- 
-`Followers?: `71 
- 
-`Following?:` 565 
- 
-`User URL?:` None 
- 
-`Location:` Louisiana, USA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1308381729409900545/YgFXCgXI_normal.jpg 
- 
-`Number of tweets excluding replies:` 1390 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 18 , **NEW** 17 , **@ZDNET:** 15 , **SECURITY** 14 , **US** 12 , **DATA** 12 , **AI** 11 , **IOT** 11 , **GOOGLE** 9 , **HOME** 9 , **MAKE** 9 , **@MASHABLE:** 8 , **MACHINELEARNING** 8 , **COVID-19** 7 , **@TECHREPUBLIC:** 7 , **PEOPLE** 7 , **RANSOMWARE** 7 , **APP** 7 , **VIA** 7 , **@WIRED:** 6 , 
- 
-## What this user tweeted
- 
-RT @novirusthanks: List of suspicious URLs with a high risk score spotted by @apivoid URL Reputation API https://t.co/JLPN2HL2vU #Phishing…RT @JinibaBD: Hacker Accessed Network of U.S. Agency and Downloaded Data 
-#CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #p…
- 
-# NofornUmbraUSER INFO
-![image](http://pbs.twimg.com/profile_images/1307708494917713920/1-09BJuh_normal.jpg)
- 
-`User ScreenName:` NofornUmbra 
- 
-`User chosen Name:` Secret Agent Number Seven 
+`User chosen Name:` n0tWVU 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Sep 20 15:38:33 +0000 2020 
+`User signup date?:` Mon Sep 28 16:52:11 +0000 2020 
  
-`User Description?:`  
+`User Description?:` probably nsfw 
  
-`Followers?: `258 
+`Followers?: `8 
  
-`Following?:` 11 
+`Following?:` 72 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 26 
+`Number of tweets extracted`  : 102 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1307708494917713920/1-09BJuh_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1310638703266721802/c7GaeFNC_normal.jpg 
  
-`Number of tweets excluding replies:` 26 
+`Number of tweets excluding replies:` 102 
  
 
  
@@ -148,11 +108,395 @@ RT @novirusthanks: List of suspicious URLs with a high risk score spotted by @ap
  
 ## User Top tweeted words 
  
-**@GROUPIB** 7 , **RUSSIAN** 6 , **@NOFORNUMBRA:** 5 , **KISLITSIN** 5 , **COMPANY** 5 , **CYBERCRIMINALS** 5 , **@FBI** 4 , **@FBISEATTLE** 4 , **NIKULIN** 4 , **TROLLS** 4 , **EMPLOYED** 4 , **NIKITA** 4 , **RUSSIA** 3 , **ANOTHER** 3 , **@MANDIANT** 3 , **UNDER** 3 , **@MIKE_ECKEL** 2 , **@ATTORNEYNECHAY** 2 , **@MFA_RUSSIA** 2 , **@FBISANFRANCISCO** 2 , 
+**@ORDROFTHINGS** 6 , **GOT** 6 , **@0XAMIT** 6 , **DON'T** 5 , **I'M** 4 , **THAN** 4 , **ITS** 4 , **@MALWAREJAKE:** 3 , **TWITTER** 3 , **STOP** 3 , **NEVER** 3 , **BACK** 3 , **WORDS** 3 , **FIX** 3 , **HOSPITAL** 3 , **THAT'S** 3 , **ALWAYS** 3 , **RT** 2 , **@GOSSITHEDOG:** 2 , **BRUTEFORCE** 2 , 
  
 ## What this user tweeted
  
-RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…@FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not… https://t.co/tfGHVEWCtP
+I let twitter select my follows and now I'm in academia land (I'm in InfoSec)
+ 
+# XC0rpUSER INFO
+![image](http://pbs.twimg.com/profile_images/1308192319288545281/Aa2u9ULM_normal.jpg)
+ 
+`User ScreenName:` XC0rp 
+ 
+`User chosen Name:` Matt Farrell 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 21 22:17:41 +0000 2020 
+ 
+`User Description?:` Computer Addicts | Don't Hate The Hacker, Hate The Code.
+#CyberSecurity #Bugbounty #Android #IOS 
+ 
+`Followers?: `32 
+ 
+`Following?:` 227 
+ 
+`User URL?:` None 
+ 
+`Location:` Somewhere 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1308192319288545281/Aa2u9ULM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 204 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 47 , **@CNET:** 23 , **SECURITY** 17 , **@BMURPHYPOINTMAN:** 16 , **@TECHCRUNCH:** 15 , **GOOGLE** 12 , **INFOSEC** 12 , **NEW** 11 , **@SECURITYTUBE:** 11 , **@CVENEW:** 11 , **PRIOR** 10 , **CHECK** 9 , **TOP** 9 , **HACKER** 8 , **VIA** 8 , **USING** 8 , **CHROME** 8 , **ALLOWED** 8 , **ATTACKER** 8 , **HACKING** 7 , 
+ 
+## What this user tweeted
+ 
+RT @yp_yogeshprasad: Attention !!!
+
+Security Leads - Ever wanted to have a personalized platform for you teams to improve their Penetration…
+ 
+# hiimsteve27USER INFO
+![image](http://pbs.twimg.com/profile_images/1310431739525775360/m9DVn8nW_normal.jpg)
+ 
+`User ScreenName:` hiimsteve27 
+ 
+`User chosen Name:` Steve 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Sep 27 20:41:48 +0000 2020 
+ 
+`User Description?:` Just another Steve 27 cluttering up the Multiverse. 
+ 
+`Followers?: `4 
+ 
+`Following?:` 36 
+ 
+`User URL?:` None 
+ 
+`Location:` California, USA 
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1310431739525775360/m9DVn8nW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I'M** 5 , **@SHEHACKSPURPLE** 3 , **@JENNYPOTTS** 3 , **PEOPLE** 3 , **NEW** 3 , **WOMAN** 3 , **@ALISYAKAINTH** 2 , **MIGHT** 2 , **STRONG** 2 , **HI** 2 , **I'VE** 2 , **SOME** 2 , **ASSHOLE** 2 , **REALLY** 2 , **DON'T** 2 , **@LISAFORTEUK** 2 , **MEAN** 2 , **STEVE** 2 , **DAY** 2 , **@MARCUSJCAREY** 2 , 
+ 
+## What this user tweeted
+ 
+@r0wdy_ @marcusjcarey Infosec always focuses on blaming guys for bad behavior. I haven't ever seen anything like th… https://t.co/hgz0PGGyDn
+ 
+# TatulyanHaykuhiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310117839764938752/cqrtKD5W_normal.jpg)
+ 
+`User ScreenName:` TatulyanHaykuhi 
+ 
+`User chosen Name:` Haykuhi Tatulyan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Sep 27 07:19:46 +0000 2020 
+ 
+`User Description?:` #physics ⚛
+#Armenia🇦🇲 
+ 
+`Followers?: `46 
+ 
+`Following?:` 65 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 197 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1310117839764938752/cqrtKD5W_normal.jpg 
+ 
+`Number of tweets excluding replies:` 409 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 32 , **ARMENIA** 29 , **ARTSAKH** 23 , **ARTSAKHSTRONG** 22 , **STOPAZERBAIJANIAGGRESSION** 19 , **TURKEY** 16 , **@LILIT98469941:** 14 , **AGAINST** 12 , **TURKISH** 12 , **NKPEACE** 12 , **NAGORNOKARABAKH** 10 , **@NEKTAR63297530:** 10 , **WAR** 10 , **ARTSAKHSTRONGRT** 9 , **STOPALIYEV** 9 , **@MINASYANMANUK:** 9 , **Է** 8 , **AGGRESSION** 8 , **ARMENIAN** 8 , **ԵՆ** 7 , 
+ 
+## What this user tweeted
+ 
+RT @PeterVolper: The NIST Cybersecurity Framework 
+Available in Press Quality:
+https://t.co/0vie68MXvW
+For further information on cyber top…
+ 
+# mrbuilddevopsUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` mrbuilddevops 
+ 
+`User chosen Name:` mrbuilddevops 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 26 16:22:26 +0000 2020 
+ 
+`User Description?:` systems for smb - opnsense, selks, virt solutions, total packet capture, gpu boxes, dcbox, flash drives, alt fw wiki2600.linuxportland 
+ 
+`Followers?: `0 
+ 
+`Following?:` 80 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 99 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 99 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DA_667** 12 , **SOME** 10 , **GOING** 8 , **PROBABLY** 6 , **Q** 5 , **MAYBE** 5 , **@JAYSONSTREET** 5 , **MAY** 5 , **@NOGHIRI** 5 , **GETTING** 4 , **GPU** 4 , **PEOPLE** 4 , **NEED** 4 , **BACK** 4 , **WAY** 4 , **PHONE** 4 , **COMM** 3 , **LOOK** 3 , **THINGS** 3 , **T…** 3 , 
+ 
+## What this user tweeted
+ 
+@da_667 no return to casual normal for q4 21 - i am going to work and try to get back to gym here soonish - i get t… https://t.co/I7nlAn2xgR
+ 
+# Hacker18ProUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310506301647192065/pCvbfyro_normal.jpg)
+ 
+`User ScreenName:` Hacker18Pro 
+ 
+`User chosen Name:` ProHacker18 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 28 09:03:41 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 15 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1310506301647192065/pCvbfyro_normal.jpg 
+ 
+`Number of tweets excluding replies:` 15 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 5 , **RESILIENCE** 3 , **HELP@HERRO_HEROYT** 2 , **@HDJSSJS11** 1 , **YES** 1 , **LET** 1 , **US** 1 , **TALK** 1 , **VIA** 1 , **INBOX@XOXOVERCOME** 1 , **@TMFANSUPPORT** 1 , **@LIVENATIONON** 1 , **@PLAYSTATIONAU** 1 , **@ASKPS_ANZ** 1 , **HELP@NATHAN50328779** 1 , **@GMAIL** 1 , **HELP@HDJSSJS11** 1 , **@ROBLOX** 1 , **HELP@ALEXMAHER4687** 1 , **@ATVIASSIST** 1 , 
+ 
+## What this user tweeted
+ 
+RT @robmay70: ⭕ #Microsoft Windows XP source code leaked online https://t.co/gPvv8c55zw #CyberSecurity #infosec 
+
+@ramsac_ltd @avrohomg @Dr…
+ 
+# sahakyan_sedaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310236014644989965/hP7akNl3_normal.jpg)
+ 
+`User ScreenName:` sahakyan_seda 
+ 
+`User chosen Name:` Seda Sahakyan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Sep 27 15:12:40 +0000 2020 
+ 
+`User Description?:` PR/SMM spesialist 
+ 
+`Followers?: `20 
+ 
+`Following?:` 28 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 39 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1310236014644989965/hP7akNl3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 39 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 18 , **TURKEY** 12 , **AGGRESSIVE** 7 , **ARMENIA** 7 , **ACTIONS** 6 , **VERY** 6 , **AGAINST** 6 , **SENDING** 5 , **SYRIAN** 5 , **REBEL** 5 , **FIGHTERS** 5 , **SUPPORT** 5 , **ITS** 5 , **ESCALATING** 5 , **CONFLICT** 5 , **RESULT** 5 , **CRIMINAL** 5 , **CASUALTIES** 5 , **AMONG** 5 , **CIVILIAN** 5 , 
+ 
+## What this user tweeted
+ 
+RT @PeterVolper: The NIST Cybersecurity Framework 
+Available in Press Quality:
+https://t.co/0vie68MXvW
+For further information on cyber top…
+ 
+# human91929570USER INFO
+![image](http://pbs.twimg.com/profile_images/1308879809263566860/z_rYWILy_normal.jpg)
+ 
+`User ScreenName:` human91929570 
+ 
+`User chosen Name:` Коммунист77 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 19 07:47:37 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 123 
+ 
+`User URL?:` None 
+ 
+`Location:` Выжженная Земля 
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1308879809263566860/z_rYWILy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WHOA** 3 , **ABSOLUTE** 2 , **DONALD** 2 , **PAY** 2 , **TAX** 2 , **MAYBE** 2 , **THAT'S** 2 , **@HAVEIGOTNEWS:** 2 , **YEARS** 2 , **DON'T** 2 , **CONSOLE** 2 , **HATE** 2 , **THAN** 2 , **@REALDONALDTRUMP** 1 , **@BARACKOBAMA** 1 , **CUNT@CAMANALYTICA** 1 , **BUNCH** 1 , **CUNTS@MATTEUSBEUS** 1 , **HTTPS://TCO/NUYSJZPYDKSO** 1 , **DOESN'T** 1 , 
+ 
+## What this user tweeted
+ 
+@Infosec_Taylor That's absolutely appalling.@Infosec_Taylor Maybe I'm wrong but don't men also need the same permission?
+ 
+# EnterprisesTckUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310508871195095040/39drvaZ4_normal.jpg)
+ 
+`User ScreenName:` EnterprisesTck 
+ 
+`User chosen Name:` tCk_Enterprises 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 28 09:16:04 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1310508871195095040/39drvaZ4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BUILD** 1 , **CYBERSECURITY** 1 , **CAREER** 1 , **[2019** 1 , **UPDATE]** 1 , **DANIEL** 1 , **MIESSLER** 1 , **@DANIELMIESSLER** 1 , **HTTPS://TCO/M8Y0A6S02P** 1 , 
+ 
+## What this user tweeted
+ 
+How to Build a Cybersecurity Career [2019 Update] | Daniel Miessler @danielmiessler https://t.co/m8y0a6S02p
+ 
+# tester98763USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` tester98763 
+ 
+`User chosen Name:` tester9876 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 28 08:36:37 +0000 2020 
+ 
+`User Description?:` int3 
+ 
+`Followers?: `0 
+ 
+`Following?:` 23 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CYBERWARSHIP:** 4 , **INFOSEC** 3 , **AD** 3 , **USER** 2 , **SYSCALLS** 2 , **USING** 2 , **HELL’S** 2 , **GATE** 2 , **:** 2 , **1)** 2 , **2)** 2 , **ATTACK** 2 , **WINDOWS** 2 , **THROUGH** 2 , **@PTRACESECURITY:** 2 , **PENTESTING** 2 , **AMSI** 2 , **RT** 1 , **@VIVEKRAMAC:** 1 , **AWESOME** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CyberWarship: Red Team Tactics: Utilizing Syscalls in C# - Prerequisite Knowledge
+
+#infosec #pentest #redteam 
+https://t.co/O3TBX05sbKRT @CyberWarship: AD Attack
+
+1) Performing domain recon using PS
+https://t.co/Pt6VpJqGdO
+
+2) Attack mapping with bloodhound
+https://t.co/Cp…RT @CyberWarship: No Privilege Escalating through standard methods ?
+
+whoami /priv
+
+If you got one of these == win 😉
+
+SeBackupPrivilege, Se…RT @ptracesecurity: Understanding and Bypassing AMSI  https://t.co/LG8bzmbMBr  #Pentesting #AMSI #PowerShell #Windows #Infosec https://t.co…RT @CyberWarship: Hacking SQL Server Stored Procedures
+
+1: (un)Trustworthy Databases
+https://t.co/9LHwSKErVn
+
+2: User Impersonation
+https:/…RT @blueteamsec1: ActiveDirectoryEnumeration - Enumerate AD Through LDAP With A Collection Of Helpfull Scripts Being Bundled https://t.co/T…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
