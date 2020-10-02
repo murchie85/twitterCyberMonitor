@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **BretWeinstein**  
+The most popular user is: **USMC**  
  
 
-## No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process… https://t.co/2lV6Hl8lFW 
+## Compete. Deter. Win.
+
+While #cybersecurity is always a Marine Corps priority, we’re increasing our focus on it duri… https://t.co/xb7fOThvkW 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **BretWeinstein**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp… |
-| RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp… |
-| RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and… |
+| RT @MarkBrownTV: Angelo State awarded grant from the NSA for their cybersecurity program https://t.co/OGJz8tM3RT |
+| RT @Paula_Piccard: Are Cloud Services Vulnerable Without End-To-End Encryption? #CloudSecurity #RiskManagement #Cybersecurity https://t.co/… |
+| RT @CSETGeorgetown: We partnered with @StanfordCyber’s #DigiChina project to translate this government document from Beijing about high-tec… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CBSNews** |
-| #2 Most tweeted to  | **CBS_Herridge** |
-| #3 Most tweeted to  | **BretWeinstein** |
-| NewProfiles (less than 10 days) | 0.92%  |
-| Tweeters with < 10 followers  | 4.48%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **SourabhSKatoch** |
+| #2 Most tweeted to  | **techopcode** |
+| #3 Most tweeted to  | **hardwear_io** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 1.62%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -50,30 +52,119 @@ The most popular user is: **BretWeinstein**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **POTENTIAL**  |
-| third  | **ANY** |
-| fourth  | **ASSESSING**  |
-| fifth  | **TELLS**  |
+| first  | **AWARENESS**  |
+| second  | **MONTH**  |
+| third  | **INFOSEC** |
+| fourth  | **NATIONAL**  |
+| fifth  | **100DAYSOFCODE**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp… |
+|HP Device Manager backdoor lets attackers take over Windows systems #cybersecurity #infosec https://t.co/X7xohDFd3o |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BretWeinstein**  |
+| The most retweeted user is: **USMC**  |
 | ------------- |
-| No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process… https://t.co/2lV6Hl8lFW |
+| Compete. Deter. Win.While #cybersecurity is always a Marine Corps priority, we’re increasing our focus on it duri… https://t.co/xb7fOThvkW |
 
 # Potential Fake Accounts
+ 
+# HipaaShenandoahUSER INFO
+![image](http://pbs.twimg.com/profile_images/1309597347178057728/x1nR1aHL_normal.jpg)
+ 
+`User ScreenName:` HipaaShenandoah 
+ 
+`User chosen Name:` Shenandoah HIPAA Consultants 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 25 20:54:32 +0000 2020 
+ 
+`User Description?:` Healthcare Compliance 
+ 
+`Followers?: `8 
+ 
+`Following?:` 38 
+ 
+`User URL?:` https://t.co/fwITh3RPUD 
+ 
+`Location:` Stephens City, VA 
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1309597347178057728/x1nR1aHL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PAY** 3 , **HIPAA** 2 , **COMPLIANCE** 2 , **CYBERSECURITY** 2 , **￼** 1 , **ANTHEM** 1 , **NEARLY** 1 , **$40M** 1 , **SETTLEMENT** 1 , **2015** 1 , **CYBERATTACK** 1 , **HTTPS://TCO/A03GUCUU96OCTOBER** 1 , **=** 1 , **NATIONAL** 1 , **AWARENESS** 1 , **MONTH** 1 , **LET'S** 1 , **CONNECT** 1 , **PROTECT!** 1 , **HTTPS://TCO/OYMGLBTBOH…** 1 , 
+ 
+## What this user tweeted
+ 
+￼
+
+Anthem to pay nearly $40M settlement over 2015 cyberattack
+#HIPAA #Compliance #CyberSecurity
+https://t.co/A03gUCuu96
+ 
+# CodingRetweetsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311043254629142528/qf5ZtM4V_normal.jpg)
+ 
+`User ScreenName:` CodingRetweets 
+ 
+`User chosen Name:` CodingRetweets 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 28 19:55:11 +0000 2020 
+ 
+`User Description?:` Grow your dev network and expand the reach of your tweets! Just @CodingRetweets with #tweetMyCode and we will retweet it asap! It's that simple! 
+ 
+`Followers?: `14 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311043254629142528/qf5ZtM4V_normal.jpg 
+ 
+`Number of tweets excluding replies:` 338 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**100DAYSOFCODE** 60 , **DAY** 39 , **JAVASCRIPT** 24 , **PYTHON** 23 , **CODING** 19 , **PROGRAMMING** 17 , **AI** 14 , **NEED** 14 , **DEVELOPER** 11 , **2** 10 , **DATA** 9 , **SOME** 9 , **@STREAMACADEMYRT** 9 , **@SMALLSTREAMERSR** 9 , **…RT** 9 , **BIGDATA** 9 , **WORK** 8 , **CODENEWBIE** 8 , **COURSE** 8 , **JAVA** 8 , 
+ 
+## What this user tweeted
+ 
+RT @Fisheyebox: Industrial Automation 5.0
+
+#ArtificialIntelligence #BigData #AI #IoT #Python #RStats #JavaScript #ReactJS #CloudComputing #…RT @coding_monkeys: Tell more CSS codes in comments..
+#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputin…RT @cloudpreacher: How to Write a Research Paper- A guide From Professionals.
+
+https://t.co/K0xI4jMLpj
+
+Mt @SourabhSKatoch #100DaysOfCode #…
  
 # MicrosoftRTweetUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1311006946770718720/3v5WuGyw_normal.jpg)
@@ -102,7 +193,7 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJEC
  
 `Profile image:` http://pbs.twimg.com/profile_images/1311006946770718720/3v5WuGyw_normal.jpg 
  
-`Number of tweets excluding replies:` 4456 
+`Number of tweets excluding replies:` 4458 
  
 
  
@@ -110,85 +201,45 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**MICROSOFT** 133 , **DE** 33 , **XBOX** 18 , **NEW** 16 , **AZURE** 15 , **Y** 13 , **WINDOWS** 13 , **SURFACE** 11 , **LA** 10 , **MICROSOFTRT** 9 , **GOOGLE** 8 , **PARA** 8 , **QUE** 8 , **…RT** 8 , **CLOUD** 8 , **UPDATE** 8 , **MSEXCEL** 8 , **AMAZON** 7 , **LATEST** 7 , **@XCELERATIONC:** 7 , 
+**MICROSOFT** 133 , **DE** 33 , **XBOX** 21 , **NEW** 16 , **AZURE** 15 , **Y** 13 , **WINDOWS** 12 , **SURFACE** 11 , **LA** 10 , **MICROSOFTRT** 9 , **GOOGLE** 8 , **PARA** 8 , **QUE** 8 , **…RT** 8 , **CLOUD** 8 , **UPDATE** 8 , **US** 7 , **AMAZON** 7 , **LATEST** 7 , **MSEXCEL** 7 , 
  
 ## What this user tweeted
  
-RT @blueteamsec1: Unit 42 Discovers 27 New Vulnerabilities Across Microsoft Products https://t.co/BqWUfhXRe2 #microsoft #MicrosoftSecurityR…RT @TheCyberPost1: Zero Day Survival Guide | How to be prepared from day one
+RT @conta_dor: 🆕+50 Malwarebytes Premium License Keys💯
+🆓https://t.co/9eBME5ayTu
+
+#btc #cybersecurity #socialmedia #android #blockchain #iot…RT @TheCyberPost1: Zero Day Survival Guide | How to be prepared from day one
 
 https://t.co/URPSUTdX3P
 
-#Zeroday #report #cybersecurity #Sen…RT @TheCyberPost1: Over 61% of Exchange servers vulnerable to CVE-2020-0688 attacks
-
-https://t.co/5oRlv4fh0S
-
-#Microsoft #MicrosoftExchange…
+#Zeroday #report #cybersecurity #Sen…RT @The_Proc: #Microsoft’s #Detection and #Response Team (#DART) identifies #supplychain #compromise as an entry point for attacks, thanks…RT @techstar_group: Free #Webinar on Microsoft’s most requested class in 2020, Azure Governance. This 90-minute webinar teaches the ins &amp; o…RT @The_Proc: #Microsoft's #Digital #Defense Report 2020 highlights that #ransomware is a high-impact, #human-operated #threat with over 70…
  
-# axsonman1USER INFO
-![image](http://pbs.twimg.com/profile_images/1312013670461902854/-0gOTiuM_normal.jpg)
+# PhishingDeepUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311426950930468864/hIYKIM8K_normal.jpg)
  
-`User ScreenName:` axsonman1 
+`User ScreenName:` PhishingDeep 
  
-`User chosen Name:` axsonman 
+`User chosen Name:` PhishingDeepWaters 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Oct 01 11:41:06 +0000 2020 
+`User signup date?:` Wed Sep 30 22:01:30 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Learn how to defend against phishing attacks 
  
-`Followers?: `12 
+`Followers?: `3 
  
-`Following?:` 136 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1312013670461902854/-0gOTiuM_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1311426950930468864/hIYKIM8K_normal.jpg 
  
-`Number of tweets excluding replies:` 879 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 40 , **PRESIDENT** 36 , **WELOVEYOUTRUMP** 22 , **@REALDONALDTRUMP** 16 , **PRAY** 16 , **WALTER** 13 , **REED** 12 , **@REALJAMESWOODS:** 11 , **GOING** 11 , **US** 9 , **@K_OVFEFE2:** 9 , **DEATH** 8 , **FIRST** 8 , **DEMOCRATS** 8 , **BEING** 8 , **@JACKPOSOBIEC:** 8 , **JOHN** 8 , **@FLOTUS** 7 , **ROBERTS** 7 , **GOD** 6 , 
- 
-## What this user tweeted
- 
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# MartyJo92476056USER INFO
-![image](http://pbs.twimg.com/profile_images/1311631465172602883/pf3GyNSe_normal.jpg)
- 
-`User ScreenName:` MartyJo92476056 
- 
-`User chosen Name:` M 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 01 11:36:46 +0000 2020 
- 
-`User Description?:` 3rd Account. Twitter hates me. Mom Mimi Sister Aunt. Love America and #Trump2020  Stand for what is right. Or get out of the way! 
- 
-`Followers?: `159 
- 
-`Following?:` 315 
- 
-`User URL?:` None 
- 
-`Location:` Kentucky 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311631465172602883/pf3GyNSe_normal.jpg 
- 
-`Number of tweets excluding replies:` 757 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -196,409 +247,11 @@ RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel commun
  
 ## User Top tweeted words 
  
-**TRUMP** 30 , **PRESIDENT** 28 , **FIRST** 11 , **LADY** 9 , **COVID-19** 9 , **BIDEN** 8 , **WALLACE** 8 , **@REALDONALDTRUMP** 8 , **CHRIS** 8 , **@JACKPOSOBIEC:** 8 , **NEGATIVE** 8 , **POSITIVE** 8 , **AFTER** 8 , **US** 7 , **WHITE** 7 , **HOUSE** 7 , **WELL** 6 , **@CBSNEWS** 6 , **@CBS_HERRIDGE:** 6 , **GOOD** 6 , 
+**WINNER** 2 , **PHISHING** 2 , **CRYPTO** 2 , **CHALLENGE** 2 , **@LUNDELLKODY** 2 , **@SHERRIECOWLEY** 2 , **SECOND** 1 , **@TOM99008532** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO/NLTIEGHUQFFIRST** 1 , **DEEP** 1 , **WATERS** 1 , **@CNISHP3** 1 , **CYBERCRAFTSUMMIT** 1 , **HTTPS://TCO/2DQ4MNGJ63** 1 , 
  
 ## What this user tweeted
  
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# JJ_DubonUSER INFO
-![image](http://pbs.twimg.com/profile_images/1312047038507356162/8g4h6GOB_normal.jpg)
- 
-`User ScreenName:` JJ_Dubon 
- 
-`User chosen Name:` TheLatinoHandModel 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Oct 02 15:07:05 +0000 2020 
- 
-`User Description?:` https://t.co/ejyiUiOFH4 
- 
-`Followers?: `37 
- 
-`Following?:` 403 
- 
-`User URL?:` https://t.co/qEeUVwVi2J 
- 
-`Location:` Siria  
- 
-`Number of tweets extracted`  : 192 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1312047038507356162/8g4h6GOB_normal.jpg 
- 
-`Number of tweets excluding replies:` 147 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 64 , **WALTER** 18 , **REED** 18 , **HOUSE** 17 , **WHITE** 17 , **PRESIDENT** 15 , **BIDEN** 14 , **AFTER** 13 , **TESTED** 13 , **@DONVONCRUMP1:** 12 , **@REALDONALDTRUMP** 11 , **@MEIDASTOUCH:** 11 , **PEOPLE** 10 , **WELL** 9 , **JOE** 9 , **POSITIVE** 9 , **@KIRBYSOMMERS:** 9 , **@KYLEGRIFFIN1:** 8 , **@ANONCATANONCAT:** 8 , **MARINE** 8 , 
- 
-## What this user tweeted
- 
-RT @JDWackrow: Flying is always the safer option.  This is not about speed, it is about mitigating the threats and vulnerabilities around t…
- 
-# buhhbblebassUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311916929003782149/4ITDUJfB_normal.jpg)
- 
-`User ScreenName:` buhhbblebass 
- 
-`User chosen Name:` buhhbblebass 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 25 08:48:37 +0000 2020 
- 
-`User Description?:` It twirled up!
-New account because you don't love me, Twitter. RTs prolly mean I love ya, baby! Rats, bats, and truth or poof. 
- 
-`Followers?: `454 
- 
-`Following?:` 992 
- 
-`User URL?:` None 
- 
-`Location:` Above Hell 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311916929003782149/4ITDUJfB_normal.jpg 
- 
-`Number of tweets excluding replies:` 760 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 29 , **PRESIDENT** 18 , **BIDEN** 12 , **MELANIA** 10 , **US** 9 , **LOVE** 9 , **COVID-19** 8 , **WHITE** 8 , **MANY** 7 , **WISH** 7 , **MEDIA** 6 , **THAN** 6 , **CLINTON** 6 , **GOING** 6 , **@PEPEMATTER:** 6 , **GOT** 5 , **FORMER** 5 , **@REALDONALDTRUMP** 5 , **MAKE** 5 , **MUCH** 5 , 
- 
-## What this user tweeted
- 
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# alenamelmar1USER INFO
-![image](http://pbs.twimg.com/profile_images/1310278584007786496/zoOgPrq7_normal.jpg)
- 
-`User ScreenName:` alenamelmar1 
- 
-`User chosen Name:` alenamelmar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 27 18:00:21 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 83 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310278584007786496/zoOgPrq7_normal.jpg 
- 
-`Number of tweets excluding replies:` 75 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BAY** 25 , **BAYYANLIŞ** 23 , **YANLIŞ** 23 , **CANYAMAN** 20 , **STREAMING** 17 , **SAVEBAYYANLIŞ** 12 , **ÖZGEGÜREL** 11 , **ALWAYS** 8 , **@LINAB14:** 8 , **@CANYAMAN1989** 8 , **EZGÜR🍬** 7 , **BAYYANLIŞ❌** 7 , **EZGÜR** 7 , **SAVEBAYYANLIŞRT** 7 , **@OZGECANGUREL** 6 , **LOVE** 6 , **THANK** 6 , **GOODBYE** 5 , **@YAMAN_IDEAL:** 5 , **US** 5 , 
- 
-## What this user tweeted
- 
-RT @myysoulx: Ezgur will forever be remembered as one of the most iconic couple, They portrayed a realistic mature relationship, their hone…
- 
-# Izzy58817075USER INFO
-![image](http://pbs.twimg.com/profile_images/1310288269373050880/mc1NBiEr_normal.jpg)
- 
-`User ScreenName:` Izzy58817075 
- 
-`User chosen Name:` Izzy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 27 18:29:06 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 46 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310288269373050880/mc1NBiEr_normal.jpg 
- 
-`Number of tweets excluding replies:` 255 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**QUE** 81 , **DE** 62 , **BAY** 59 , **YANLIŞ** 51 , **LA** 45 , **BAYYANLIŞ** 38 , **Y** 37 , **EL** 36 , **STREAMING** 34 , **SAVEBAYYANLIŞ** 29 , **POR** 26 , **LO** 24 , **ES** 23 , **SE** 23 , **NOS** 21 , **EN** 20 , **SAVEBAYYANLIŞRT** 18 , **CANYAMAN** 16 , **UN** 13 , **SERIE** 13 , 
- 
-## What this user tweeted
- 
-RT @myysoulx: Ezgur will forever be remembered as one of the most iconic couple, They portrayed a realistic mature relationship, their hone…
- 
-# Ele902020USER INFO
-![image](http://pbs.twimg.com/profile_images/1310172810657046529/lafPvbNI_normal.jpg)
- 
-`User ScreenName:` Ele902020 
- 
-`User chosen Name:` Ele 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 27 11:00:12 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 39 
- 
-`User URL?:` None 
- 
-`Location:` Italia 
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310172810657046529/lafPvbNI_normal.jpg 
- 
-`Number of tweets excluding replies:` 1479 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BAYYANLIŞ** 101 , **•** 94 , **CHE** 60 , **DI** 56 , **E** 53 , **SAVEBAYYANLIŞ** 51 , **NON** 44 , **IL** 38 , **EZGÜR** 36 , **LA** 33 , **UN** 29 , **MA** 27 , **È** 24 , **CI** 22 , **PER** 21 , **SONO** 21 , **@MARRMAT:** 19 , **SI** 19 , **UNA** 18 , **SAVEBAYYANLIŞRT** 18 , 
- 
-## What this user tweeted
- 
-RT @myysoulx: Ezgur will forever be remembered as one of the most iconic couple, They portrayed a realistic mature relationship, their hone…
- 
-# AlaZab89862611USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` AlaZab89862611 
- 
-`User chosen Name:` AlaZab 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 27 18:12:09 +0000 2020 
- 
-`User Description?:` crazy máma with red wine 
- 
-`Followers?: `24 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 970 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BAYYANLIŞ** 78 , **BAYYANLIŞRT** 65 , **SE** 29 , **LOVE** 28 , **TEAM** 24 , **ŽE** 23 , **JE** 22 , **@HANKAKOPECKA11:** 20 , **KONEC** 18 , **TAK** 16 , **MI** 16 , **CANYAMAN** 15 , **@CANYAMAN1989** 13 , **@ZDEKA88445126** 13 , **EZGÜR** 12 , **NA** 12 , **@JANA198906:** 12 , **MOC** 12 , **BAY** 11 , **V** 11 , 
- 
-## What this user tweeted
- 
-RT @myysoulx: Ezgur will forever be remembered as one of the most iconic couple, They portrayed a realistic mature relationship, their hone…
- 
-# junealready1USER INFO
-![image](http://pbs.twimg.com/profile_images/1310526925736009735/MnRtXQWy_normal.jpg)
- 
-`User ScreenName:` junealready1 
- 
-`User chosen Name:` junealready 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Sep 28 10:28:37 +0000 2020 
- 
-`User Description?:` Korean 🇰🇷 fan who made twitter account for the first time to save #BayYanlış / #Dolunay enthusiast🌕 / My little jelly bean #ÖzgeGürel💖 
- 
-`Followers?: `6 
- 
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:` 대한민국 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310526925736009735/MnRtXQWy_normal.jpg 
- 
-`Number of tweets excluding replies:` 483 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BAYYANLIŞ** 54 , **ÖZGEGÜREL** 46 , **CANYAMAN** 33 , **YANLIŞ** 31 , **BAY** 30 , **EZGÜR** 20 , **DE** 20 , **ÖZGE** 17 , **LA** 16 , **MAKE** 16 , **STREAMING** 16 , **QUE** 14 , **SAVEBAYYANLIŞ** 14 , **@MOONPRETTY18:** 14 , **EN** 13 , **@LINAB14:** 12 , **@OZGECANGUREL** 11 , **MUCH** 11 , **LOVE** 10 , **EL** 10 , 
- 
-## What this user tweeted
- 
-RT @myysoulx: Ezgur will forever be remembered as one of the most iconic couple, They portrayed a realistic mature relationship, their hone…
- 
-# MouthofApollyonUSER INFO
-![image](http://pbs.twimg.com/profile_images/1309556233595125762/ko0pPZO5_normal.jpg)
- 
-`User ScreenName:` MouthofApollyon 
- 
-`User chosen Name:` 🇺🇸FromtheMouthofApollyon🇺🇸 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 25 18:10:31 +0000 2020 
- 
-`User Description?:` Panopticon Investor
-Pronouns: Demon/Archangel
-
-Just here to keep an eye on the other hellspawn.
-
-Opinions/Your soul are mine
-🐸👻✝️ 
- 
-`Followers?: `7 
- 
-`Following?:` 179 
- 
-`User URL?:` None 
- 
-`Location:` Hell on Earth 
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1309556233595125762/ko0pPZO5_normal.jpg 
- 
-`Number of tweets excluding replies:` 287 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 22 , **BIDEN** 16 , **WALLACE** 14 , **CHRIS** 13 , **DEBATE** 9 , **DON'T** 8 , **PEOPLE** 8 , **I'M** 8 , **GOOD** 7 , **THAN** 7 , **MOST** 7 , **ANY** 7 , **PROUD** 7 , **ANTIFA** 7 , **LEFT** 6 , **PRESIDENT** 6 , **YOU'RE** 6 , **THING** 6 , **@JOEBIDEN** 6 , **WHITE** 6 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
- 
-# Hope31669039USER INFO
-![image](http://pbs.twimg.com/profile_images/1310966875728220160/1WWBy9Mj_normal.jpg)
- 
-`User ScreenName:` Hope31669039 
- 
-`User chosen Name:` Hope 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Sep 29 15:30:25 +0000 2020 
- 
-`User Description?:` This is my 2nd account cause the twat police keep banning me....
-USAF Vet, TX B&R, Vegas Roots. Anti-participation 🏆 
- 
-`Followers?: `34 
- 
-`Following?:` 99 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310966875728220160/1WWBy9Mj_normal.jpg 
- 
-`Number of tweets excluding replies:` 698 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 14 , **PEOPLE** 10 , **@GOVSISOLAK** 8 , **@TAYLERUSA** 8 , **SAYING** 7 , **MELANIA** 7 , **GO** 6 , **@REALDONALDTRUMP** 6 , **PRESIDENT** 6 , **CHILDREN** 6 , **NEVER** 6 , **I'M** 6 , **GOING** 6 , **VERY** 5 , **CAMPAIGN** 5 , **COVID** 5 , **MASKS** 5 , **ANTIFA** 5 , **THESE** 5 , **@BATTLEBORNPATS** 5 , 
- 
-## What this user tweeted
- 
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# VincentRosalin7USER INFO
-![image](http://pbs.twimg.com/profile_images/1308820104621314048/vbh4osO4_normal.jpg)
- 
-`User ScreenName:` VincentRosalin7 
- 
-`User chosen Name:` Vincent Rosalina 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 23 17:26:26 +0000 2020 
- 
-`User Description?:` csu | ‘23 
- 
-`Followers?: `18 
- 
-`Following?:` 31 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 23 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1308820104621314048/vbh4osO4_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 3 , **BIDEN** 3 , **BIDEN:** 2 , **“I** 2 , **NEW** 2 , **@REALDONALDTRUMP:** 2 , **INTO** 2 , **ANY** 2 , **BROWNS** 2 , **OTHER** 2 , **RACIST** 2 , **@NRA:** 2 , **NEVER** 2 , **RT** 1 , **@BRETWEINSTEIN:** 1 , **AMERICAN** 1 , **CROW** 1 , **PRESIDENT** 1 , **CONTRACTING** 1 , **DEADLY** 1 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
+Second winner of the Phishing Crypto Challenge is @Tom99008532 #cybersecurity @LundellKody @SherrieCowley https://t.co/nLTIeghuQf
  
 # WhatCodingUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1312126253143527424/NdyHFYJO_normal.jpg)
@@ -637,283 +290,36 @@ RT @BretWeinstein: No American should crow about the President contracting a dea
  
 ## What this user tweeted
  
-RT @brad_frost: npm install
+RT @kevincollier: It's October 1, which means it's National Cybersecurity Awareness Month.
 
-WARN
-WARN
-WARN
-install
-obtuse warning 
-done
-install
-ERROR but don't worry about it
-install
-thank you!
-plea for…
+You are now aware of cybersecurity. Thank you.Hello there! I'm Molly, a feminist queer security software engineer with a deep hunger to learn everything I can ab… https://t.co/2UHAUqSJHw
  
-# HoodservativeSJUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311187692927901699/wio4lxts_normal.jpg)
- 
-`User ScreenName:` HoodservativeSJ 
- 
-`User chosen Name:` Joseph San Jo 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Sep 24 04:34:19 +0000 2020 
- 
-`User Description?:` Instagram @hoodservative 
- 
-`Followers?: `6 
- 
-`Following?:` 126 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 197 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311187692927901699/wio4lxts_normal.jpg 
- 
-`Number of tweets excluding replies:` 254 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 34 , **BIDEN** 25 , **PRESIDENT** 21 , **JOE** 18 , **@REALDONALDTRUMP:** 13 , **@REALDONALDTRUMP** 13 , **PEOPLE** 13 , **WHITE** 12 , **LEFT** 10 , **DEBATE** 10 , **TIME** 9 , **YEARS** 8 , **DON’T** 7 , **NEED** 7 , **STILL** 7 , **WALLACE** 7 , **HUNTER** 7 , **I’M** 6 , **YOU’RE** 6 , **PROUD** 6 , 
- 
-## What this user tweeted
- 
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# harvest_truthUSER INFO
-![image](http://pbs.twimg.com/profile_images/1310835857977475073/iwIXM4_n_normal.jpg)
- 
-`User ScreenName:` harvest_truth 
- 
-`User chosen Name:` Harvest Truth 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Sep 29 05:06:10 +0000 2020 
- 
-`User Description?:` Question the narrative. Seek truth. Find answers. 
- 
-`Followers?: `4 
- 
-`Following?:` 82 
- 
-`User URL?:` None 
- 
-`Location:` Florida 
- 
-`Number of tweets extracted`  : 33 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310835857977475073/iwIXM4_n_normal.jpg 
- 
-`Number of tweets excluding replies:` 33 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 9 , **PRESIDENT** 5 , **@CBS_HERRIDGE:** 5 , **2016** 4 , **@BENNYJOHNSON:** 3 , **BREAKING:** 3 , **SAME** 3 , **TRUMPCOVID** 3 , **GO** 2 , **WALTER** 2 , **REED** 2 , **MEDICAL** 2 , **CENTER** 2 , **@ERICTRUMP:** 2 , **@REALDONALDTRUMP** 2 , **NEXT** 2 , **DAYS** 2 , **WHITE** 2 , **HOUSE** 2 , **@CBSNEWS** 2 , 
- 
-## What this user tweeted
- 
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# kingofthefores7USER INFO
-![image](http://pbs.twimg.com/profile_images/1309149377865412610/UWv2kBet_normal.jpg)
- 
-`User ScreenName:` kingofthefores7 
- 
-`User chosen Name:` kingoftheforest 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Sep 24 15:10:21 +0000 2020 
- 
-`User Description?:` searching for truth, justice, and the american way. 
- 
-`Followers?: `45 
- 
-`Following?:` 293 
- 
-`User URL?:` None 
- 
-`Location:` good 'ol USA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1309149377865412610/UWv2kBet_normal.jpg 
- 
-`Number of tweets excluding replies:` 356 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 15 , **BREAKING:** 11 , **US** 9 , **PRESIDENT** 8 , **PEOPLE** 7 , **THEN** 7 , **HOUSE** 6 , **GOING** 6 , **@CJTRUTH:** 6 , **INTO** 6 , **DEBATE** 6 , **BIDEN** 6 , **COULD** 5 , **WHITE** 5 , **POLICE** 5 , **ANY** 5 , **THESE** 5 , **SECOND** 5 , **=** 5 , **@BREAKING911:** 5 , 
- 
-## What this user tweeted
- 
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# WILDDOGSRULE1USER INFO
-![image](http://pbs.twimg.com/profile_images/1311614275484557312/LMRIvnHy_normal.jpg)
- 
-`User ScreenName:` WILDDOGSRULE1 
- 
-`User chosen Name:` WILD DOGS🐾🐾 JFK JR.🇺🇸 Q IS REAL🇺🇸 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 25 10:32:47 +0000 2020 
- 
-`User Description?:` 💖I LOVE WILD DOGS. 💖I LOVE PRESIDENT TRUMP💖🇺🇸 AND I ALSO LOVE ALL OUR MILITARY PEOPLE.🇺🇸💖SAVE OUR CHILDREN.💖
-🇺🇸JOHN F KENNEDY JR.🇺🇸 (VIRGINIA) USA 
- 
-`Followers?: `224 
- 
-`Following?:` 352 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311614275484557312/LMRIvnHy_normal.jpg 
- 
-`Number of tweets excluding replies:` 4978 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 24 , **PRESIDENT** 22 , **@CJTRUTH:** 20 , **@REALDONALDTRUMP** 12 , **GOING** 12 , **@TRUMPERWAVIN:** 12 , **VERSE** 12 , **@THEBRADFORDFILE:** 11 , **SHOW** 11 , **🎥** 10 , **POTUS** 8 , **PEOPLE** 8 , **FIRST** 8 , **GOD** 7 , **PATRIOTS** 6 , **@STQRMTHE:** 6 , **DOWN** 6 , **US** 6 , **TESTED** 6 , **TIME** 6 , 
- 
-## What this user tweeted
- 
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# CarterLavedaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311361150328729602/AWkqTjWy_normal.jpg)
- 
-`User ScreenName:` CarterLaveda 
- 
-`User chosen Name:` LaVeda Carter Fields 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 30 17:38:02 +0000 2020 
- 
-`User Description?:` Christian ✝️ Love Jesus Love Others 
- 
-`Followers?: `6 
- 
-`Following?:` 101 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311361150328729602/AWkqTjWy_normal.jpg 
- 
-`Number of tweets excluding replies:` 557 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 40 , **PRESIDENT** 36 , **FIRST** 29 , **@REALDONALDTRUMP** 20 , **RECOVERY** 17 , **BIDEN** 16 , **PRAYING** 16 , **@FLOTUS** 16 , **JOE** 14 , **LADY** 14 , **WHITE** 14 , **@JACKPOSOBIEC:** 12 , **SPEEDY** 11 , **JOBS** 10 , **@DBONGINO:** 10 , **POSITIVE** 10 , **AFTER** 9 , **HOUSE** 9 , **PRAYERS** 9 , **FAMILY** 9 , 
- 
-## What this user tweeted
- 
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# 1317PeachesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311623664966807557/UDiuYjq5_normal.jpg)
- 
-`User ScreenName:` 1317Peaches 
- 
-`User chosen Name:` Peaches 1317 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 01 10:46:27 +0000 2020 
- 
-`User Description?:` Call me Jules or Peaches FreeGeneralFlynn TRUMPLANDSLIDE2020 
-Thank the Lord our God everyday 
-❤🇺🇸💙😉😁😘 No DM Happily Married 
- 
-`Followers?: `251 
- 
-`Following?:` 315 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311623664966807557/UDiuYjq5_normal.jpg 
- 
-`Number of tweets excluding replies:` 893 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 20 , **@LJT_IS_ME:** 20 , **PRESIDENT** 19 , **@DBONGINO:** 17 , **FIRST** 15 , **@REALDONALDTRUMP** 14 , **@1317PEACHES** 12 , **@LEWLESTER** 12 , **@STACEYTHEGHOST** 11 , **@STONESGHOST** 11 , **PEOPLE** 9 , **@KELLYC7002** 9 , **@COVERT_S1** 9 , **@RAIDEN3PT0** 9 , **@DMCDUFFIN** 9 , **US** 9 , **@IAMAMYSUECASE** 9 , **@REALJAMESWOODS:** 9 , **LADY** 8 , **@JIMSCILEPPI** 8 , 
- 
-## What this user tweeted
- 
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
- 
-# PiemonteJulieUSER INFO
+# discover_tech7USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` PiemonteJulie 
+`User ScreenName:` discover_tech7 
  
-`User chosen Name:` Julie Piemonte 
+`User chosen Name:` DISCOVER-TECH 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Sep 25 17:54:24 +0000 2020 
+`User signup date?:` Fri Oct 02 05:44:47 +0000 2020 
  
-`User Description?:` Cat lover, No Name despiser, down with the 13. 
+`User Description?:` Hi, I'm a bot made with #nodejs.I post and retweet relevant information about technology. Kindly follow me to 
  
-`Followers?: `52 
+`Followers?: `18 
  
-`Following?:` 291 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 200 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 510 
+`Number of tweets excluding replies:` 929 
  
 
  
@@ -921,38 +327,46 @@ RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel commun
  
 ## User Top tweeted words 
  
-**TRUMP** 22 , **PRESIDENT** 9 , **@CJTRUTH** 8 , **BIDEN** 8 , **TIME** 8 , **US** 7 , **@CJTRUTH:** 6 , **@REALDONALDTRUMP:** 6 , **@REALDONALDTRUMP** 5 , **EVEN** 5 , **GO** 5 , **NEWS** 5 , **I'M** 5 , **GOT** 5 , **GOING** 5 , **AGAINST** 5 , **INTELLIGENCE** 5 , **YEARS** 5 , **@CHADPERGRAM:** 5 , **INFO** 5 , 
+**JAVASCRIPT** 26 , **100DAYSOFCODE** 24 , **PYTHON** 22 , **COURSE** 17 , **DATASCIENCE** 16 , **REACT** 15 , **DAY** 12 , **IOT** 12 , **WI-FI** 12 , **DIGITAL** 12 , **LEARN** 11 , **AI** 11 , **COMPLETE** 10 , **NEW** 10 , **SOME** 10 , **BIGDATA** 10 , **INDIEDEV** 10 , **CONTINUED** 9 , **DEVELOPMENT** 9 , **2020** 9 , 
  
 ## What this user tweeted
  
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
+RT @SourabhSKatoch: This CTO got his staff to pay attention to his commit messages! You won't believe how he did it!
+
+#100DaysOfCode #Machi…RT @SourabhSKatoch: This CTO got his staff to pay attention to his commit messages! You won't believe how he did it!
+
+#100DaysOfCode #Machi…RT @SourabhSKatoch: Who else relates to this Instance? 😂
+
+#100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs…RT @panther__labs: Panther uses #Python to help you write expressive, flexible, and testable detections.
+
+Learn how you can write purpose-b…
  
-# Storm23TheUSER INFO
-![image](http://pbs.twimg.com/profile_images/1312079826153594880/XJIJW9wY_normal.jpg)
+# BldgEagleTechUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311659164490436608/jBBezPs6_normal.jpg)
  
-`User ScreenName:` Storm23The 
+`User ScreenName:` BldgEagleTech 
  
-`User chosen Name:` theSTORM23 
+`User chosen Name:` BldgEagleTech 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Oct 02 17:18:39 +0000 2020 
+`User signup date?:` Thu Oct 01 13:26:40 +0000 2020 
  
-`User Description?:` I’m back. 
+`User Description?:` Personal Account: Sr. Systems Engineer, looking for anything to due with #infosec #sysadmin #technology #ITsupport 
  
-`Followers?: `59 
+`Followers?: `2 
  
-`Following?:` 376 
+`Following?:` 53 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 139 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1312079826153594880/XJIJW9wY_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1311659164490436608/jBBezPs6_normal.jpg 
  
-`Number of tweets excluding replies:` 129 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -960,38 +374,38 @@ RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel commun
  
 ## User Top tweeted words 
  
-**PRESIDENT** 20 , **TRUMP** 15 , **WALTER** 10 , **WHITE** 9 , **HOUSE** 9 , **REED** 8 , **BREAKING:** 8 , **MARINE** 8 , **@ZEROSUM24:** 6 , **NEGATIVE** 6 , **TIME** 5 , **@JOSHDCAPLAN:** 5 , **TRUMP’S** 4 , **@DIAMONDANDSILK:** 4 , **FIRST** 4 , **@FIELDOFFIGHT:** 4 , **CORONAVIRUS** 4 , **@TRUMPJEW:** 4 , **@DISCLOSETV:** 4 , **BREAKING** 4 , 
+**RT** 1 , **@KNOWBE4:** 1 , **HAPPY** 1 , **NATIONAL** 1 , **CYBERSECURITY** 1 , **AWARENESS** 1 , **MONTH** 1 , **KNOWBE4!** 1 , **CHECK** 1 , **EXCITING** 1 , **ACTIVITIES** 1 , **PLANNED** 1 , **BUILD** 1 , **Y…** 1 , 
  
 ## What this user tweeted
  
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
+RT @KnowBe4: Happy National Cybersecurity Awareness Month from KnowBe4! Check out all of the exciting activities we have planned to build y…
  
-# Peachfu08019815USER INFO
-![image](http://pbs.twimg.com/profile_images/1311784739125092352/6QJqdfF9_normal.jpg)
+# GormeSuzyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1309580224711938048/TcIWbiVU_normal.jpg)
  
-`User ScreenName:` Peachfu08019815 
+`User ScreenName:` GormeSuzy 
  
-`User chosen Name:` 🍂🍁Peachfuzz🍁🍂 
+`User chosen Name:` Suzy Gorme 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Sep 25 16:37:59 +0000 2020 
+`User signup date?:` Thu Sep 24 18:29:54 +0000 2020 
  
-`User Description?:` Mama Grizzly to 2 bear cubs.  Classical Liberal. 
+`User Description?:` Sr Admin at Micro Focus 
  
-`Followers?: `14 
+`Followers?: `0 
  
-`Following?:` 173 
+`Following?:` 1 
  
 `User URL?:` None 
  
-`Location:` Middle of Nowwhere 
+`Location:` Mountain View, California 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1311784739125092352/6QJqdfF9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1309580224711938048/TcIWbiVU_normal.jpg 
  
-`Number of tweets excluding replies:` 693 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -999,38 +413,120 @@ RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel commun
  
 ## User Top tweeted words 
  
-**TRUMP** 25 , **PEOPLE** 13 , **PRESIDENT** 11 , **LEFT** 9 , **COVID** 9 , **@HISTORYVARECK** 9 , **PERSON** 8 , **GOOD** 8 , **@DRMC0628** 8 , **MANY** 7 , **RICK** 7 , **@NEOAVATARA:** 7 , **OCTOBER** 6 , **ACTUALLY** 6 , **TWITTER** 6 , **TIME** 6 , **@JACKPOSOBIEC:** 6 , **AFTER** 6 , **DON’T** 6 , **MORANIS** 6 , 
+**@MICROFOCUSSEC'S** 2 , **NATIONAL** 2 , **CYBERSECURITYAWARENESSMONTH** 2 , **@MICROFOCUS** 2 , **CYBERRESILIENCE** 1 , **ESSENTIAL** 1 , **SUCCESSFUL** 1 , **DIGITALTRANSFORMATION** 1 , **@JOHNRDELK** 1 , **VIA…** 1 , **HTTPS://TCO/BSD3HBUXGJCYBERRESILIENCE** 1 , **KEY** 1 , **OCTOBER’S** 1 , **NEW** 1 , **INFOSEC** 1 , **BLOG** 1 , **DIS…** 1 , **HTTPS://TCO/JNTAQ9CSYLMICROFOCUS** 1 , **ANNOUNCES** 1 , **COMMITMENT** 1 , 
  
 ## What this user tweeted
  
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
+#CyberResilience Is essential for successful #DigitalTransformation, says @MicroFocusSec's @johnrdelk via… https://t.co/BsD3hBUXgj#CyberResilience is key for October’s National #CybersecurityAwarenessMonth. @MicroFocusSec's new #InfoSec blog dis… https://t.co/jNtAQ9CSYl#MicroFocus announces commitment to National #CybersecurityAwarenessMonth by signing up as a Champion &amp; joining a g… https://t.co/snmW0aETUO
  
-# dlcj072452USER INFO
-![image](http://pbs.twimg.com/profile_images/1311066723517333505/pHqvaK64_normal.jpg)
+# AgtGermanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1309342802673840128/n6yzW9NC_normal.jpg)
  
-`User ScreenName:` dlcj072452 
+`User ScreenName:` AgtGerman 
  
-`User chosen Name:` dlcj072452 
+`User chosen Name:` AGT - Advanced German Technology 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Sep 29 00:11:14 +0000 2020 
+`User signup date?:` Fri Sep 25 03:58:33 +0000 2020 
+ 
+`User Description?:` Founded in Berlin a decade ago, AGT is a leading security solutions provider with a strong consultancy focus and extensive system integration expertise. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1309342802673840128/n6yzW9NC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ZDNET** 12 , **AGTCYBERSECURITY** 8 , **BIG** 4 , **REMOTE** 3 , **COULD** 3 , **CHANGE** 2 , **RISE** 2 , **AGAINST** 2 , **FORCED** 2 , **SPY** 2 , **APP** 2 , **USAGE** 2 , **COLLEGES** 2 , **UNIVERSITIES** 2 , **VIDEO** 2 , **PRIME** 2 , **DURING** 2 , **AGT…** 2 , **REMOVES** 2 , **17** 2 , 
+ 
+## What this user tweeted
+ 
+The price of stolen remote login passwords is dropping. That's a bad sign https://t.co/Q3tjWEcvZ0 #AGT#Cybersecurity https://t.co/rmMqAPoPye
+ 
+# TrollhunterXpUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` TrollhunterXp 
+ 
+`User chosen Name:` TrollhunterXP 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 02 09:50:28 +0000 2020 
+ 
+`User Description?:` ₱μbLi¢★€ñ3M¥ 
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 68 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 68 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TROLLHUNTERX** 19 , **OPHUNTDASEIN** 19 , **🎃━☆ﾟ*･｡ﾟ** 13 , **@NATALIEBEN** 12 , **HOLLYWOOD** 12 , **ANONYMOUS** 11 , **@GARYLEEEACH:** 11 , **OPERATION** 10 , **OPSTOPSUICIDE** 9 , **@NCA_LYNNEOWENS** 9 , **@TROLLHUNTERXP:** 9 , **★** 7 , **DIFFERENT** 7 , **@ANON_LOSANGELES** 6 , **TEMPORARY** 6 , **LIMITED** 6 , **ACCOUNT** 6 , **STALKING** 5 , **@TROLLHUNTERXL5:** 5 , **@DASEIN_ONLY** 5 , 
+ 
+## What this user tweeted
+ 
+@ChiefMI6 I gave her a #Job to do. #Journalism 
+I gave a link #CyberSecurity 
+@GGHQ 
+I gave an email address 
+jo@sa… https://t.co/hKcjinCx6i
+ 
+# VanReinCompUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311360659204927488/vPdRDNI8_normal.jpg)
+ 
+`User ScreenName:` VanReinComp 
+ 
+`User chosen Name:` VanRein Compliance 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 30 17:38:29 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `6 
+`Followers?: `1 
  
-`Following?:` 66 
+`Following?:` 6 
  
-`User URL?:` None 
+`User URL?:` https://t.co/G0ZuY9f9ta 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1311066723517333505/pHqvaK64_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1311360659204927488/vPdRDNI8_normal.jpg 
  
-`Number of tweets excluding replies:` 584 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -1038,38 +534,38 @@ RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel commun
  
 ## User Top tweeted words 
  
-**TRUMP** 28 , **BIDEN** 21 , **PRESIDENT** 15 , **NEW** 14 , **@SEANHANNITY:** 10 , **AMERICAN** 10 , **@DBONGINO:** 10 , **DEMOCRATS** 9 , **NEVER** 9 , **PEOPLE** 9 , **CUOMO** 9 , **DON’T** 9 , **WIN** 8 , **ELECTION** 8 , **@REALDONALDTRUMP:** 8 , **JOE** 8 , **BELIEVE** 7 , **AFTER** 7 , **MEDIA** 7 , **@MARKLEVINSHOW:** 7 , 
+**CYBERSECURITY** 2 , **AWARENESS** 2 , **DYK** 1 , **2019** 1 , **THAN** 1 , **$35** 1 , **BILLION** 1 , **LOST** 1 , **GLOBALLY** 1 , **CYBERCRIME?LEARN** 1 , **BECYBERSMART** 1 , **PROTECT** 1 , **YOURSELF…** 1 , **HTTPS://TCO/CHLR0ZRVX7NATIONAL** 1 , **MONTH** 1 , **(NCSAM)** 1 , **OFFICIALLY** 1 , **BEGUN!** 1 , **JOIN** 1 , **US** 1 , 
  
 ## What this user tweeted
  
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
+#DYK in 2019 more than $3.5 billion was lost globally to cybercrime?Learn how to #BeCyberSmart and protect yourself… https://t.co/chLr0ZRvx7
  
-# DunknMaNutts17USER INFO
-![image](http://pbs.twimg.com/profile_images/1310289418645843968/SoYb2csF_normal.jpg)
+# mx_blackbirdUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310645626452029442/iY1G4cmy_normal.jpg)
  
-`User ScreenName:` DunknMaNutts17 
+`User ScreenName:` mx_blackbird 
  
-`User chosen Name:` Sleventeen Kalevra🐸 
+`User chosen Name:` Blackbird_mx 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Sep 27 18:34:34 +0000 2020 
+`User signup date?:` Sun Sep 27 03:02:27 +0000 2020 
  
-`User Description?:` Starting over is fun. Stable Genius. I once programmed a VCR. I'm just here to enjoy the show On Parler @DunknManutts 
+`User Description?:` Hanging out in the grid! 
  
-`Followers?: `44 
+`Followers?: `2 
  
-`Following?:` 272 
+`Following?:` 88 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 11 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1310289418645843968/SoYb2csF_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1310645626452029442/iY1G4cmy_normal.jpg 
  
-`Number of tweets excluding replies:` 703 
+`Number of tweets excluding replies:` 11 
  
 
  
@@ -1077,387 +573,28 @@ RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel commun
  
 ## User Top tweeted words 
  
-**TRUMP** 15 , **US** 9 , **PRESIDENT** 9 , **GO** 7 , **BIDEN** 7 , **MEDIA** 7 , **OBAMA** 6 , **@JOEBIDEN** 6 , **+** 6 , **TWITTER** 6 , **DOWN** 6 , **👇** 6 , **@REALDONALDTRUMP** 6 , **WHITE** 6 , **PEOPLE** 5 , **TIME** 5 , **JOE** 5 , **POTUS** 5 , **POSITIVE** 5 , **CHILDREN** 5 , 
+**TWO** 3 , **PROBLEMS** 3 , **@EFF:** 2 , **DE** 2 , **YEAR** 2 , **DON’T** 2 , **ENCRYPTED** 2 , **RT** 1 , **THANK** 1 , **15000** 1 , **ONLINE** 1 , **RIGHTS** 1 , **ADVOCATES** 1 , **DONATED** 1 , **EFF** 1 , **SUMMER!** 1 , **JOIN** 1 , **US** 1 , **HELP** 1 , **REACH** 1 , 
  
 ## What this user tweeted
  
-RT @CBS_Herridge: #TrumpCovid US Intelligence source tells @CBSNews intel community is assessing any potential vulnerabilities with a stepp…
+RT @kaspersky: Every year, we publish a Global Corporate IT Security Risks report that looks at how #cybersecurity has influenced budgets a…
  
-# LisaUrban20USER INFO
-![image](http://pbs.twimg.com/profile_images/1311226470933594112/_eP6iZw7_normal.jpg)
+# cybertopi4USER INFO
+![image](http://pbs.twimg.com/profile_images/1312089663910408192/5qUIbU_K_normal.jpg)
  
-`User ScreenName:` LisaUrban20 
+`User ScreenName:` cybertopi4 
  
-`User chosen Name:` Lisa Urban 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 30 08:47:59 +0000 2020 
- 
-`User Description?:` BIGBANG IS 5 👑👑👑👑👑
-OT5 💛💛💛💛💛
-VIP until whenever🙏💛
-stay strong seungri 💙💙
-the truth will come soon or later 
- 
-`Followers?: `91 
- 
-`Following?:` 62 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311226470933594112/_eP6iZw7_normal.jpg 
- 
-`Number of tweets excluding replies:` 745 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIGBANG** 35 , **SEUNGRI** 18 , **@YG_GLOBALVIP** 15 , **NYONGTORY** 10 , **U** 10 , **NEVER** 10 , **[** 9 , **]** 9 , **JIYONG** 8 , **TIME** 8 , **@BIGBANGHOURLY:** 8 , **@IAMLEOVIP:** 8 , **REALLY** 7 , **VIPS** 7 , **LOVE** 7 , **DAESUNG** 7 , **강대성** 7 , **ALBUM** 7 , **@JIYONGISMANUAL:** 6 , **MADE** 6 , 
- 
-## What this user tweeted
- 
-RT @DeeD89172651: You know what's fucked up? The fact that BIGBANG literally served the world with their vulnerabilities on a silver platte…
- 
-# MatthewWest__USER INFO
-![image](http://pbs.twimg.com/profile_images/1311702359127592960/mfMhoyNX_normal.jpg)
- 
-`User ScreenName:` MatthewWest__ 
- 
-`User chosen Name:` Matthew 
+`User chosen Name:` Cybertopia 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Oct 01 16:17:34 +0000 2020 
+`User signup date?:` Fri Oct 02 17:45:01 +0000 2020 
  
 `User Description?:`  
  
 `Followers?: `3 
  
-`Following?:` 117 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 41 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311702359127592960/mfMhoyNX_normal.jpg 
- 
-`Number of tweets excluding replies:` 41 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 8 , **WHITE** 8 , **@REALDONALDTRUMP** 6 , **PRESIDENT** 5 , **MEDIA** 5 , **DEBATE** 4 , **MODERATOR** 4 , **BIDEN** 4 , **TOO** 3 , **COUNTRY** 3 , **NEWS** 3 , **LEFT** 3 , **@TEDCRUZ:** 3 , **USED** 3 , **LOVE** 3 , **RT** 2 , **TWITTER** 2 , **MELANIA** 2 , **THEN** 2 , **LAST** 2 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
- 
-# GabbardAmash24USER INFO
-![image](http://pbs.twimg.com/profile_images/1310677262161907712/qfLB2kOn_normal.jpg)
- 
-`User ScreenName:` GabbardAmash24 
- 
-`User chosen Name:` Gabbard/Amash2024 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Sep 27 23:14:41 +0000 2020 
- 
-`User Description?:` This is an account to honor the best potential ticket for 2024.  Not associated with the inverse of this account, but I fully support that ticket as well 
- 
-`Followers?: `4 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310677262161907712/qfLB2kOn_normal.jpg 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@BRETWEINSTEIN:** 2 , **PRESIDENT** 2 , **WHICH** 2 , **VOTE** 2 , **TULSI** 2 , **F…** 2 , **@TULSIGABBARD** 2 , **I'M** 2 , **RT** 1 , **AMERICAN** 1 , **CROW** 1 , **CONTRACTING** 1 , **DEADLY** 1 , **DISEASE** 1 , **FRAGILITY** 1 , **LEADERS** 1 , **PROCESS** 1 , **AND…@AMASHGABBARD24** 1 , **GARY** 1 , **JOHNSON** 1 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
- 
-# seun6ris3y0hhhUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311866452438380545/XEq3gKEp_normal.jpg)
- 
-`User ScreenName:` seun6ris3y0hhh 
- 
-`User chosen Name:` soongreeseiyohhh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 23 18:20:17 +0000 2020 
- 
-`User Description?:` 𝕆𝕋𝟝 || ʙʙ'ꜱ ᴍᴀᴋɴᴀᴇ II 🆅 🅸 || 𝓒𝓔𝓞 𝓛𝓮𝓮 𝓢𝓮𝓾𝓷𝓰𝓱𝔂𝓾𝓷 || 𝐁𝐈𝐆𝐁𝐀𝐍𝐆 𝐈𝐒 𝟓 || ᴹᵃᵏⁿᵃᵉ ⁱˢ ᵐⁱⁿᵉ ⁻ ᴷʷᵒⁿ ᴶⁱʸᵒⁿᵍ || 🇵🇭 || Baby VIP 
- 
-`Followers?: `107 
- 
-`Following?:` 176 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311866452438380545/XEq3gKEp_normal.jpg 
- 
-`Number of tweets excluding replies:` 817 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SEUNGRI** 30 , **@FORVDISCHARGE:** 27 , **BIGBANG** 20 , **🗣️** 9 , **@YG_GLOBALVIP** 8 , **REALLY** 8 , **@LAASEDK:** 7 , **OT5** 7 , **@BIGBANG__OT5:** 6 , **HERE** 6 , **US** 6 , **😭** 6 , **DON'T** 5 , **@HOURLYSEUNGRI:** 5 , **BEST** 5 , **KPOP** 5 , **@BIGBANGHOURLY:** 5 , **[** 5 , **]** 5 , **@FORVICTORI** 5 , 
- 
-## What this user tweeted
- 
-RT @DeeD89172651: You know what's fucked up? The fact that BIGBANG literally served the world with their vulnerabilities on a silver platte…
- 
-# najlaisvipUSER INFO
-![image](http://pbs.twimg.com/profile_images/1308861916098498563/xrMQAxL7_normal.jpg)
- 
-`User ScreenName:` najlaisvip 
- 
-`User chosen Name:` Waiting for BIGBANG 🥺 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 23 18:57:31 +0000 2020 
- 
-`User Description?:` Mainly YG Fam 👑 From B🐉I👻G🌞B😇A🐼 N💛G to #TREASURE ✦ but I listen to good music anyway 
- 
-`Followers?: `171 
- 
-`Following?:` 414 
- 
-`User URL?:` None 
- 
-`Location:` YG Building  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1308861916098498563/xrMQAxL7_normal.jpg 
- 
-`Number of tweets excluding replies:` 478 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TREASURE** 34 , **BLACKPINK** 29 , **@BLACKPINK** 19 , **LOVE** 16 , **STREAM** 16 , **LOVESICK** 15 , **@TREASUREMEMBERS** 15 , **GIRLS** 14 , **ALBUM** 14 , **@TREASUREGLOBAL_:** 13 , **1** 13 , **BIGBANG** 11 , **YG** 10 , **트레저** 9 , **THEALBUM** 9 , **LOVESICKGIRLS** 9 , **4** 8 , **VOTE** 8 , **VIEWS** 8 , **PLEASE** 8 , 
- 
-## What this user tweeted
- 
-RT @DeeD89172651: You know what's fucked up? The fact that BIGBANG literally served the world with their vulnerabilities on a silver platte…
- 
-# HiddenTuckUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311089527616831488/oJ7tiDjH_normal.jpg)
- 
-`User ScreenName:` HiddenTuck 
- 
-`User chosen Name:` TUCK - Hidden Values 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Sep 29 23:43:45 +0000 2020 
- 
-`User Description?:` TUCK - Hidden Values
-Come away -- for healing REST & healing WORK!
-Therapeutic Consulting in the "Center Square" & beyond...
-Eutychus Enterprises -- Speak Life! 
- 
-`Followers?: `0 
- 
-`Following?:` 10 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311089527616831488/oJ7tiDjH_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PUEBLO** 3 , **@KEVBEARD75** 2 , **~** 2 , **@VOCONDUS** 1 , **GLAD** 1 , **TOO!** 1 , **WHERE** 1 , **MOVE** 1 , **FROM?@VOCONDUS** 1 , **WEST?!** 1 , **FAMILY** 1 , **PARENTS** 1 , **CENTRAL** 1 , **WILDCATS** 1 , **'59😼@SCROWDER** 1 , **@THETRISTANKELLY** 1 , **LOVE** 1 , **PROFILE** 1 , **--** 1 , **WORTHWHILE** 1 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
- 
-# flwrrdVIPUSER INFO
-![image](http://pbs.twimg.com/profile_images/1312078694379208705/K1jIU5Jb_normal.png)
- 
-`User ScreenName:` flwrrdVIP 
- 
-`User chosen Name:` BabyVIP/Mary 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 25 11:42:40 +0000 2020 
- 
-`User Description?:` She/Her | Bigbang fan account | Let's spread VIP love. Always willing to talk about Bigbang ❤ 
- 
-`Followers?: `113 
- 
-`Following?:` 143 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1312078694379208705/K1jIU5Jb_normal.png 
- 
-`Number of tweets excluding replies:` 984 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@YG_GLOBALVIP** 17 , **BIGBANG** 15 , **@BIGBANGHOURLY:** 11 , **[** 11 , **]** 10 , **I'M** 9 , **JIYONG** 8 , **@BIGBANGDOMINATE:** 7 , **LOVE** 6 , **VIPS** 6 , **THAT'S** 6 , **@HOURLYSEUNGHYUN:** 6 , **😭** 6 , **TOO** 5 , **CAN'T** 5 , **BB** 5 , **@_HOURLYTAEYANG:** 5 , **HERE** 5 , **GOOD** 5 , **G-DRAGON** 5 , 
- 
-## What this user tweeted
- 
-EXACTLY! Even I can't believe it sometimes, how they were able to show their vulnerabilities in their music. And pe… https://t.co/6V8hO4qwNQ
- 
-# alibertariangayUSER INFO
-![image](http://pbs.twimg.com/profile_images/1310693678071992320/1PoA64pp_normal.jpg)
- 
-`User ScreenName:` alibertariangay 
- 
-`User chosen Name:` J.D.C. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Sep 28 20:23:54 +0000 2020 
- 
-`User Description?:` 36. LA. Libertarian. Homo. 
- 
-`Followers?: `37 
- 
-`Following?:` 98 
- 
-`User URL?:` None 
- 
-`Location:` Los Angeles, CA 
- 
-`Number of tweets extracted`  : 127 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1310693678071992320/1PoA64pp_normal.jpg 
- 
-`Number of tweets excluding replies:` 126 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 14 , **TRUMP** 14 , **JOE** 7 , **PEOPLE** 6 , **DEBATE** 6 , **REALLY** 4 , **MEDIA** 4 , **DON’T** 4 , **@CONCEPTUALJAMES:** 4 , **SAYING** 4 , **YEARS** 4 , **@CHIZMAGA:** 4 , **@KONSTANTINKISIN:** 3 , **WAY** 3 , **GOING** 3 , **I’M** 3 , **PRESIDENT** 3 , **KEEP** 3 , **@CONCEPTUALJAMES** 3 , **WALLACE** 3 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
- 
-# MpaMatthewUSER INFO
-![image](http://pbs.twimg.com/profile_images/1309547518422855685/clSlJGyH_normal.jpg)
- 
-`User ScreenName:` MpaMatthew 
- 
-`User chosen Name:` Matthew J. Christopher, MPA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 25 17:36:43 +0000 2020 
- 
-`User Description?:` Retired Firefighter, Environmental Scientist & Public Works Director. Masters of Public Administration, Villanova University. Christian / Catholic. 
- 
-`Followers?: `27 
- 
-`Following?:` 134 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1309547518422855685/clSlJGyH_normal.jpg 
- 
-`Number of tweets excluding replies:` 455 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 42 , **@DBONGINO:** 23 , **TRUMP** 22 , **@REALDONALDTRUMP:** 21 , **PRESIDENT** 20 , **JOE** 18 , **@REALDONALDTRUMP** 16 , **DEBATE** 13 , **KNEW** 13 , **@TOMFITTON:** 11 , **OBAMA** 11 , **CLINTON** 11 , **@SEANHANNITY:** 10 , **@FLOTUS** 9 , **WHITE** 9 , **@MARKLEVINSHOW:** 9 , **COMEY** 9 , **HILLARY** 9 , **THEN** 7 , **RECOVERY** 7 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
- 
-# PREDICT_MesoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1312031906096177152/GXTttZz6_normal.jpg)
- 
-`User ScreenName:` PREDICT_Meso 
- 
-`User chosen Name:` PREDICT-Meso 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Oct 02 14:07:00 +0000 2020 
- 
-`User Description?:` PREDICT-Meso:PRE-malignant Drivers Combined with Target-Drug validation in Mesothelioma.
-UK/EU Network aiming to transform Mesothelioma diagnosis & treatment 
- 
-`Followers?: `39 
- 
-`Following?:` 38 
+`Following?:` 12 
  
 `User URL?:` None 
  
@@ -1465,9 +602,9 @@ UK/EU Network aiming to transform Mesothelioma diagnosis & treatment
  
 `Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1312031906096177152/GXTttZz6_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1312089663910408192/5qUIbU_K_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -1475,78 +612,38 @@ UK/EU Network aiming to transform Mesothelioma diagnosis & treatment
  
 ## User Top tweeted words 
  
-**TWITTER** 3 , **@KEVINGBLYTH:** 2 , **🚨** 1 , **@US_FDA** 1 , **APPROVAL** 1 , **IPI/NIVO** 1 , **COMBINATION** 1 , **IMMUNOTHERAPY!** 1 , **⬇️** 1 , **BAD** 1 , **DAY** 1 , **JOIN** 1 , **TURNS** 1 , **OUT!…** 1 , **HTTPS://TCO/SSXRIUXLTURT** 1 , **WELCOME** 1 , **@PREDICT_MESO** 1 , **!** 1 , **WE’LL** 1 , **USE** 1 , 
+**HTTPS://TCO/ROMKTZIPVSHTTPS://TCO/2GO0RIKR02RT** 1 , **@SAMESMAIL:** 1 , **TAKES** 1 , **BACK** 1 , **MRROBOT** 1 , **WRITERS** 1 , **ROOMRT** 1 , **@CYBERDOMAIN:** 1 , **CYBERSECURITY** 1 , **HACKER** 1 , **[NETTED:** 1 , **INSIDE** 1 , **(A** 1 , **DARK** 1 , **WEB** 1 , **HORROR** 1 , **TRILOGY)]** 1 , **🐦** 1 , **HTTPS://TCO/AXCMQY4POW** 1 , **📢📣🔔** 1 , 
  
 ## What this user tweeted
  
-PREDICT-Meso aims to transform MPM diagnosis and treatment by investigating how asbestos-driven chronic inflammatio… https://t.co/c9lCQ9TLAG
+RT @CyberDomain: #CyberSecurity #Hacker [Netted: Inside Out (A Dark Web Horror Trilogy)] 🐦 https://t.co/AxCmQY4POw 📢📣🔔 https://t.co/DOXvM71…
  
-# thewestcoastdi1USER INFO
-![image](http://pbs.twimg.com/profile_images/1311696362291908610/5bcBOwWE_normal.jpg)
+# Bhagva11USER INFO
+![image](http://pbs.twimg.com/profile_images/1312014016093417473/QJ_yeaHw_normal.jpg)
  
-`User ScreenName:` thewestcoastdi1 
+`User ScreenName:` Bhagva11 
  
-`User chosen Name:` #thewestcoastdidntburnitself 
+`User chosen Name:` Heil Traditionalism 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Oct 01 15:54:09 +0000 2020 
+`User signup date?:` Mon Sep 28 10:03:57 +0000 2020 
  
-`User Description?:`  
+`User Description?:` alt of @Bhagva_crusader 
  
-`Followers?: `1 
+`Followers?: `88 
  
-`Following?:` 216 
+`Following?:` 98 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 70 
+`Number of tweets extracted`  : 132 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1311696362291908610/5bcBOwWE_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1312014016093417473/QJ_yeaHw_normal.jpg 
  
-`Number of tweets excluding replies:` 70 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WHITE** 5 , **@MRANDYNGO:** 4 , **BALLOT** 4 , **@SCROWDER:** 4 , **PRESIDENT** 3 , **HARVESTING** 3 , **BIDEN** 3 , **DENOUNCE** 3 , **GOING** 3 , **TRUMP** 3 , **@JACKPOSOBIEC:** 3 , **@DBONGINO:** 3 , **US** 3 , **@JOHNBASHAM:** 3 , **DEMOCRATS** 3 , **@PRAYINGMEDIC:** 3 , **@DONALDJTRUMPJR:** 3 , **WHAT’S** 2 , **AMERICANS** 2 , **MAYOR** 2 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
- 
-# NavyPatriotRetUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311726723550138370/YIT3lToG_normal.jpg)
- 
-`User ScreenName:` NavyPatriotRet 
- 
-`User chosen Name:` NavyPatriot 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 01 17:53:41 +0000 2020 
- 
-`User Description?:` #Trump2020 #AllLivesMatter #MAGA
-Constitutional Conservative, Retired Navy, #prolife,  NRA Life, Christian ✝️ Rebuilding my account AGAIN 
- 
-`Followers?: `27 
- 
-`Following?:` 89 
- 
-`User URL?:` None 
- 
-`Location:` Delaware, USA 
- 
-`Number of tweets extracted`  : 82 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311726723550138370/YIT3lToG_normal.jpg 
- 
-`Number of tweets excluding replies:` 82 
+`Number of tweets excluding replies:` 132 
  
 
  
@@ -1554,38 +651,42 @@ Constitutional Conservative, Retired Navy, #prolife,  NRA Life, Christian ✝️
  
 ## User Top tweeted words 
  
-**TRUMP** 14 , **PRESIDENT** 10 , **@JACKPOSOBIEC:** 10 , **TWITTER** 7 , **PRAY** 6 , **BIDEN** 6 , **@REALDONALDTRUMP** 5 , **COVID** 4 , **@JACKPOSOBIEC** 4 , **@TWITTERSUPPORT** 4 , **GOT** 4 , **@DBONGINO:** 4 , **THAN** 4 , **PEOPLE** 4 , **TIME** 4 , **WIFE** 4 , **DEATH** 3 , **GOING** 3 , **BOTH** 3 , **LET'S** 3 , 
+**@HATEPATROLLER:** 5 , **TRUE** 5 , **TIME** 5 , **HINDU** 5 , **TWITTER** 5 , **BASED** 4 , **HAHAHA** 4 , **TOP** 4 , **STATE** 4 , **DON'T** 4 , **BYE** 4 , **ANY** 4 , **THESE** 4 , **ACCOUNT** 3 , **STILL** 3 , **PAKISTANI** 3 , **HINDUS** 3 , **YES** 3 , **REALLY** 3 , **DAY** 3 , 
  
 ## What this user tweeted
  
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
+RT @HatePatroller: Instagram: https://t.co/mDeNXmc4hp
+
+see the 2 bios "Cybersecurity engineer | Internet Enterpreneur" 
+
+He has two work af…
  
-# NewsUptakeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1310985202701758464/IydGCR5J_normal.jpg)
+# the404codeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310838008774447104/A6Pfuo2F_normal.jpg)
  
-`User ScreenName:` NewsUptake 
+`User ScreenName:` the404code 
  
-`User chosen Name:` UpTake News 
+`User chosen Name:` the404code 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Sep 29 16:48:33 +0000 2020 
+`User signup date?:` Tue Sep 29 06:59:57 +0000 2020 
  
-`User Description?:` Real News. Not left or right but American 🇺🇸 
+`User Description?:` I'm a bot. Follow me to get updates on the latest tech blogs and tech trends #the404code | Creator: @nitinmanocha16 
  
-`Followers?: `9 
+`Followers?: `18 
  
-`Following?:` 227 
+`Following?:` 8 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 84 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1310985202701758464/IydGCR5J_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1310838008774447104/A6Pfuo2F_normal.jpg 
  
-`Number of tweets excluding replies:` 84 
+`Number of tweets excluding replies:` 436 
  
 
  
@@ -1593,38 +694,40 @@ RT @BretWeinstein: No American should crow about the President contracting a dea
  
 ## User Top tweeted words 
  
-**PRESIDENT** 18 , **TRUMP** 18 , **MR** 9 , **BIDEN** 9 , **FIRST** 7 , **DEBATE** 7 , **JOE** 6 , **POSITIVE** 4 , **COVID-19** 4 , **WINNING** 4 , **PEOPLE** 4 , **PROBABLY** 4 , **LADY** 3 , **POLITICS** 3 , **TRUE** 3 , **TIME** 3 , **@JOEBIDEN** 3 , **TESTED** 3 , **VOTE** 3 , **CHINA** 3 , 
+**JAVASCRIPT** 32 , **CODE** 30 , **AI** 29 , **PYTHON** 22 , **ANALYTICS** 22 , **DATASCIENCE** 21 , **BIGDATA** 20 , **TYPESCRIPT** 19 , **TECHNOLOGY** 18 , **MACHINELEARNING** 17 , **IIOT** 17 , **IOT** 15 , **…RT** 15 , **READ** 13 , **IMPORT** 12 , **LEARN** 11 , **100DAYSOFCODE** 11 , **TECH** 11 , **@SOFIAITC:** 11 , **PROGRAMMING** 10 , 
  
 ## What this user tweeted
  
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
+RT @Fisheyebox: Industrial Automation 5.0
+
+#ArtificialIntelligence #BigData #AI #IoT #Python #RStats #JavaScript #ReactJS #CloudComputing #…
  
-# ZandorFelokUSER INFO
-![image](http://pbs.twimg.com/profile_images/1308878148939862016/kXH8h_3X_normal.jpg)
+# AlmightyVeeeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1312077134081466368/3ktzQouq_normal.jpg)
  
-`User ScreenName:` ZandorFelok 
+`User ScreenName:` AlmightyVeee 
  
-`User chosen Name:` Aaron Peterson 
+`User chosen Name:` Pooch 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Sep 23 21:10:52 +0000 2020 
+`User signup date?:` Fri Oct 02 16:54:08 +0000 2020 
  
-`User Description?:` "I look to a day when people will not be judged by the color of their skin, but by the content of their character." 
+`User Description?:` 🥴 
  
-`Followers?: `8 
+`Followers?: `135 
  
-`Following?:` 119 
+`Following?:` 261 
  
 `User URL?:` None 
  
-`Location:` SoCal 
+`Location:`  
  
-`Number of tweets extracted`  : 48 
+`Number of tweets extracted`  : 118 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1308878148939862016/kXH8h_3X_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1312077134081466368/3ktzQouq_normal.jpg 
  
-`Number of tweets excluding replies:` 48 
+`Number of tweets excluding replies:` 110 
  
 
  
@@ -1632,114 +735,36 @@ RT @BretWeinstein: No American should crow about the President contracting a dea
  
 ## User Top tweeted words 
  
-**I'M** 4 , **@MRANDYNGO** 4 , **PRESIDENT** 3 , **PEOPLE** 3 , **@REALDONALDTRUMP** 3 , **MEDIA** 3 , **@JENARIEL17** 3 , **T…** 3 , **BEING** 3 , **UNITED** 2 , **AMERICAN** 2 , **PROCESS** 2 , **CURRENT** 2 , **DO…** 2 , **KEEPING** 2 , **NEWS** 2 , **PLEASE** 2 , **LOCKED** 2 , **LONG** 2 , **CALIFORNIA** 2 , 
+**LMAO** 11 , **BACK** 7 , **GOT** 7 , **SHIT** 5 , **FOLLOW** 5 , **DIDN’T** 5 , **LOL** 5 , **LOCKED** 5 , **PROBABLY** 4 , **ANYTHING** 4 , **GONNA** 4 , **NOTHING** 4 , **@VEEALMIGHTY** 4 , **WHILE** 3 , **CRAZY** 3 , **Y’ALL** 3 , **SHE’S** 3 , **PEOPLE** 3 , **YEAH** 3 , **OTHER** 3 , 
  
 ## What this user tweeted
  
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
+Damn all that Cybersecurity info I acquired by networking on my other page is gone too..that’s the worst thing abou… https://t.co/Iy5Ma45m3W
  
-# RMachinisUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311873219432009732/Z8FUhW46_normal.jpg)
+# Mythrey44815376USER INFO
+![image](http://pbs.twimg.com/profile_images/1310236621762035712/-FKq5FJy_normal.jpg)
  
-`User ScreenName:` RMachinis 
+`User ScreenName:` Mythrey44815376 
  
-`User chosen Name:` RexMachinis 
+`User chosen Name:` Balakrishnan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Oct 02 03:36:37 +0000 2020 
+`User signup date?:` Sun Sep 27 15:12:52 +0000 2020 
  
-`User Description?:` AI rules the world already.  You just don't know it yet. 
+`User Description?:` "கற்றது கைமண் அளவு, கல்லாதது உலகளவு” 
  
 `Followers?: `0 
  
-`Following?:` 41 
+`Following?:` 28 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 40 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311873219432009732/Z8FUhW46_normal.jpg 
- 
-`Number of tweets excluding replies:` 40 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CONCEPTUALJAMES:** 13 , **CRITICAL** 6 , **THEORY** 6 , **TRUMP** 6 , **RACE** 5 , **@SCOTTADAMSSAYS:** 4 , **COVID-19** 3 , **@CERNOVICH:** 3 , **PRESIDENT** 2 , **❗** 2 , **LAUNCH** 2 , **GO** 2 , **HUMAN** 2 , **THREAD** 2 , **HOPING** 2 , **@JACKPOSOBIEC:** 2 , **MEDIA** 2 , **EVEN** 2 , **PEOPLE** 2 , **I'M** 2 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
- 
-# FlounderPaulUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311342019650838528/opw2J7gk_normal.jpg)
- 
-`User ScreenName:` FlounderPaul 
- 
-`User chosen Name:` Paul Flounder 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 30 02:30:55 +0000 2020 
- 
-`User Description?:` Boston University, PhD in Economics, Proud Husband, God Bless America!🇺🇸 
- 
-`Followers?: `9 
- 
-`Following?:` 40 
- 
-`User URL?:` None 
- 
-`Location:` Boston, MA 
- 
-`Number of tweets extracted`  : 15 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311342019650838528/opw2J7gk_normal.jpg 
- 
-`Number of tweets excluding replies:` 15 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**S** 7 , **PRESIDENT** 5 , **TRUMP** 5 , **@THEJTLEWIS:** 2 , **@BENSHAPIRO:** 2 , **@REALDONALDTRUMP:** 2 , **RED** 2 , **LAW** 2 , **ORDER** 2 , **WON** 2 , **BIDEN’S** 2 , **BIDEN** 2 , **DOWN** 2 , **RT** 1 , **DEMOCRATS** 1 , **CURRENTLY** 1 , **WISHING** 1 , **DEATH** 1 , **UNITED** 1 , **STATES** 1 , 
- 
-## What this user tweeted
- 
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
- 
-# MelvinGC01USER INFO
-![image](http://pbs.twimg.com/profile_images/1311335175897468928/qUEbf8Rv_normal.jpg)
- 
-`User ScreenName:` MelvinGC01 
- 
-`User chosen Name:` MelvinGC 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 30 15:53:43 +0000 2020 
- 
-`User Description?:` easy peasy lemon squeezie 
- 
-`Followers?: `1 
- 
-`Following?:` 38 
- 
-`User URL?:` None 
- 
-`Location:` Evans, GA 
- 
 `Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1311335175897468928/qUEbf8Rv_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1310236621762035712/-FKq5FJy_normal.jpg 
  
 `Number of tweets excluding replies:` 6 
  
@@ -1749,38 +774,38 @@ RT @BretWeinstein: No American should crow about the President contracting a dea
  
 ## User Top tweeted words 
  
-**@REALDONALDTRUMP:** 3 , **PROCESS** 2 , **47** 2 , **HIGHEST** 2 , **TELEVISION** 2 , **RATINGS** 2 , **TIME** 2 , **RT** 1 , **@BRETWEINSTEIN:** 1 , **AMERICAN** 1 , **CROW** 1 , **PRESIDENT** 1 , **CONTRACTING** 1 , **DEADLY** 1 , **DISEASE** 1 , **FRAGILITY** 1 , **LEADERS** 1 , **AND…RT** 1 , **TONIGHT** 1 , **@FLOTUS** 1 , 
+**CYBERSECURITY** 2 , **RT** 1 , **@MSFTSECURITY:** 1 , **HAPPY** 1 , **NATIONAL** 1 , **AWARENESS** 1 , **MONTH!** 1 , **SHARE** 1 , **BEST** 1 , **TIP** 1 , **TRAINING** 1 , **USERS** 1 , **COMPANY** 1 , **BE…RT** 1 , **@AATHIRAJ8585:** 1 , **நல்லவேளை** 1 , **ராவணன்** 1 , **தூக்கிட்டு** 1 , **போனதால** 1 , **தப்பிச்சேன்** 1 , 
  
 ## What this user tweeted
  
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
+RT @msftsecurity: Happy National Cybersecurity Awareness Month! Share your best tip for training users in your company on #cybersecurity be…
  
-# SharonJ03626335USER INFO
-![image](http://pbs.twimg.com/profile_images/1311922270017712128/r6Oiq4hE_normal.jpg)
+# wvsecurityexpoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1309379360881860608/zRl4MLjG_normal.jpg)
  
-`User ScreenName:` SharonJ03626335 
+`User ScreenName:` wvsecurityexpo 
  
-`User chosen Name:` Sharon Johnston 
+`User chosen Name:` West Virginia Cybersecurity Expo 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Oct 02 04:33:20 +0000 2020 
+`User signup date?:` Thu Sep 24 23:39:45 +0000 2020 
  
-`User Description?:` I’m Debbie Downer in Twitter jail🙀 
+`User Description?:` West Virginia Cybersecurity Expo is an event for security professionals to get together, share ideas, learn new techniques, and build communities. 
  
-`Followers?: `20 
+`Followers?: `6 
  
-`Following?:` 159 
+`Following?:` 14 
  
-`User URL?:` None 
+`User URL?:` https://t.co/hFZBd2fqnC 
  
-`Location:` United States 
+`Location:` Huntington, WV 
  
-`Number of tweets extracted`  : 141 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1311922270017712128/r6Oiq4hE_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1309379360881860608/zRl4MLjG_normal.jpg 
  
-`Number of tweets excluding replies:` 141 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -1788,38 +813,38 @@ RT @BretWeinstein: No American should crow about the President contracting a dea
  
 ## User Top tweeted words 
  
-**@NORABRUP** 20 , **@BANANASHAYSH** 20 , **TRUMP** 16 , **MIDST** 12 , **REGIME** 9 , **@PHILARBALLO2020** 9 , **AG** 7 , **TRUMP’S** 7 , **WE’RE** 7 , **@HAWAIIDELILAH** 7 , **COULD** 7 , **RESTRUCTURE** 7 , **MALIGNANT** 6 , **@NUMBERS28** 6 , **VIOLATES** 6 , **LAW** 6 , **OUTSTANDING** 6 , **PLUS** 6 , **HE’S** 6 , **BARR** 6 , 
+**WEST** 4 , **VIRGINIA** 4 , **CYBERSECURITY** 4 , **EXPO** 4 , **GAME** 2 , **DEVELOPERS** 2 , **REGISTRATION** 1 , **LIVE!** 1 , **HTTPS://TCO/WKELHRG2FBWILLING** 1 , **SHARE** 1 , **EXPERIENCE** 1 , **ADVICE** 1 , **INDUSTRY?** 1 , **PRODUCT** 1 , **COMPANY** 1 , **WISH** 1 , **PROMOTE?** 1 , **FILL…** 1 , **HTTPS://TCO/0NKOLQTTFKWANT** 1 , **SUBMIT** 1 , 
  
 ## What this user tweeted
  
-@beteigeuze66 @NoraBrup @BananaShaysh It’s easy to manipulate people’s vulnerabilities. Anything re WANT NEED or FE… https://t.co/zDUvWQkuHh
+Registration for the West Virginia Cybersecurity and Game Developers Expo is now live! https://t.co/wkElHRg2FB
  
-# PhysicistMaskedUSER INFO
-![image](http://pbs.twimg.com/profile_images/1308744897571192835/hEAqUXml_normal.jpg)
+# ieeeksu1USER INFO
+![image](http://pbs.twimg.com/profile_images/1310923746736304129/vWOkQ3sL_normal.jpg)
  
-`User ScreenName:` PhysicistMasked 
+`User ScreenName:` ieeeksu1 
  
-`User chosen Name:` Juanlu 
+`User chosen Name:` IEEE KSU 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Sep 23 12:25:36 +0000 2020 
+`User signup date?:` Tue Sep 29 08:28:05 +0000 2020 
  
-`User Description?:` Físico por las mañanas, músico por las tardes y en mis ratos libres bailo salsa y soy creador homologado de memes. Y sí, por las noches combato el crimen. 
+`User Description?:` Official Account for #IEEE King Saud University @_ksu student branch 
  
-`Followers?: `39 
+`Followers?: `16 
  
-`Following?:` 54 
+`Following?:` 35 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 51 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1308744897571192835/hEAqUXml_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1310923746736304129/vWOkQ3sL_normal.jpg 
  
-`Number of tweets excluding replies:` 51 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -1827,11 +852,11 @@ RT @BretWeinstein: No American should crow about the President contracting a dea
  
 ## User Top tweeted words 
  
-**DE** 28 , **QUE** 27 , **LA** 16 , **@JOCO_SR** 9 , **@GERARDOTC** 9 , **TE** 8 , **LO** 8 , **UN** 8 , **LOS** 8 , **ES** 7 , **EN** 7 , **Y** 7 , **LAS** 5 , **PERO** 5 , **SI** 5 , **UNA** 5 , **SE** 5 , **EL** 5 , **PARA** 5 , **CUANDO** 4 , 
+**@IEEESAUDIARABIA:** 3 , **RT** 2 , **@COE_KSU** 2 , **IEEE** 2 , **STUDENT** 2 , **BRANCH** 2 , **@_KSU** 2 , **@COMPUTERSOCIETY:** 1 , **NATIONAL** 1 , **CYBERSECURITYAWARENESSMONTH!** 1 , **MONTH** 1 , **LONG** 1 , **IEEECS** 1 , **PROVIDE** 1 , **DAILY** 1 , **TIPS** 1 , **RESOURCES** 1 , **KEEP** 1 , **I…RT** 1 , **TECHNICAL** 1 , 
  
 ## What this user tweeted
  
-RT @BretWeinstein: No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process and…
+RT @ComputerSociety: It's National #CybersecurityAwarenessMonth! All month long #IEEECS will provide daily tips and resources to keep you i…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
