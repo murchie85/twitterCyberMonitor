@@ -529,3 +529,373 @@ RT @BlackFridays19: Public IP address can actually reveal about you so its bette
 ![image](http://pbs.twimg.com/profile_images/1310898259012050944/cLSPAf8m_normal.jpg)
  
 `User ScreenName:` phishingorguk 
+ 
+`User chosen Name:` Phishing.org.uk 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 29 10:55:43 +0000 2020 
+ 
+`User Description?:` Cyber Security Awareness Training - Anti Phishing Solutions 
+ 
+`Followers?: `122 
+ 
+`Following?:` 747 
+ 
+`User URL?:` https://t.co/Rb043TkJsj 
+ 
+`Location:` London, UK 
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1310898259012050944/cLSPAf8m_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SECURITY** 12 , **CYBERSECURITY** 12 , **@KEEPNETLABS:** 8 , **RANSOMWARE** 6 , **TECHNOLOGY** 5 , **ATTACK** 5 , **HTTPS://TCO/OSLO1QKJR8** 4 , **PHISHING** 4 , **@TANTIVYUK:** 4 , **HTTPS://TCO/YYUJRBEPSU** 2 , **LATEST** 2 , **@SECURITYAFFAIRS** 2 , **…RT** 2 , **CYBER** 2 , **@QANEWSLETTER:** 2 , **38TH** 2 , **ISSUE** 2 , **BEST** 2 , **NEWS** 2 , **NOW!** 2 , 
+ 
+## What this user tweeted
+ 
+RT @keepnetlabs: Nephilim’s victims have usually been big organisations and companies, see more https://t.co/YyujRbePsU #security #cybersec…RT @keepnetlabs: CAM4 Breach: 10.88 Billion Records Were Exposed, see https://t.co/oSLO1QKJr8 #security #cybersecurity #technology  #ransom…RT @keepnetlabs: Instagram “Help Center” Phishing Attack, see more https://t.co/fFrBh0bu1u #security #cybersecurity #technology #ransomware…RT @keepnetlabs: Known as Mailto, Netwalker is one of the latest variations of the ransomware https://t.co/YyujRbePsU #security #cybersecur…
+ 
+# micaelabrandt7USER INFO
+![image](http://pbs.twimg.com/profile_images/1312825088362905600/g2UHP30y_normal.jpg)
+ 
+`User ScreenName:` micaelabrandt7 
+ 
+`User chosen Name:` micaela brandt 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 04 18:40:27 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 42 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 27 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312825088362905600/g2UHP30y_normal.jpg 
+ 
+`Number of tweets excluding replies:` 27 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THEATRE** 15 , **من** 3 , **YEAR** 2 , **IP** 2 , **ADDRESS** 2 , **شر** 2 , **😁** 2 , **_** 2 , **GOOD** 2 , **2020** 2 , **BERNIE** 2 , **SANDERS** 2 , **MONEY** 2 , **HIT** 2 , **RT** 1 , **@DRJOEODUMAKIN:** 1 , **WOMEN** 1 , **ARISE** 1 , **IWD2020** 1 , **REPRESENTS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @BlackFridays19: Public IP address can actually reveal about you so its better to disguise your actual ip address with a proxy or a vpn.…
+ 
+# BotVernoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1312809464559538176/LTVgY7Eg_normal.png)
+ 
+`User ScreenName:` BotVerno 
+ 
+`User chosen Name:` VernoBot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 04 17:38:42 +0000 2020 
+ 
+`User Description?:` I am a bot made by @VernoCreations and dose whatever he programs me to do! 
+ 
+`Followers?: `6 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312809464559538176/LTVgY7Eg_normal.png 
+ 
+`Number of tweets excluding replies:` 264 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GAMEDEV** 46 , **GAME** 35 , **INDIEDEV** 19 , **PROGRAMMING** 19 , **SOME** 15 , **INDIEGAME** 12 , **I'M** 12 , **NEW** 10 , **INDIEGAMES** 10 , **FIRST** 10 , **PLAY** 9 , **INTO** 9 , **LITTLE** 9 , **UE4** 8 , **CHECK** 8 , **INDIE** 8 , **LOOK** 7 , **INDIEGAMEDEV** 7 , **DAY** 7 , **1** 6 , 
+ 
+## What this user tweeted
+ 
+RT @nrjunejo: The transformation of memory storage 
+#EmergingTech #DigitalTransformation #datacenter #memory #tech 
+#cybersecurity #coder #…RT @Joynula77353258: do you want promote your business and sale ??
+check link:https://t.co/sQFzK7rjcJ
+ 
+#EmergingTech #DigitalTransformatio…
+ 
+# MicrosoftRTweetUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311006946770718720/3v5WuGyw_normal.jpg)
+ 
+`User ScreenName:` MicrosoftRTweet 
+ 
+`User chosen Name:` MicrosoftRetweetBot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 29 18:11:30 +0000 2020 
+ 
+`User Description?:` Just a bot that retweets tweets containing "#Microsoft".
+| By @raphheuhh.
+| This is not an account created by Microsoft. 
+ 
+`Followers?: `83 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:` From the Cloud 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311006946770718720/3v5WuGyw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6232 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MICROSOFT** 128 , **DE** 23 , **XBOX** 22 , **CLOUD** 17 , **MICROSOFTRT** 11 , **SONY** 10 , **USE** 10 , **WINDOWS** 10 , **SURFACE** 9 , **NEW** 9 , **KEYBOARD** 9 , **XBOXSERIESX** 8 , **TIPS** 8 , **GOOGLE** 7 , **GAMES** 7 , **Y** 7 , **10** 7 , **DEVICE** 7 , **TABLET** 7 , **SOON** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Entisys360: Security Buzz: #Microsoft report shows increasing sophistication of cyber threats https://t.co/ljhzn7K86e #cybersecurity ht…RT @Fortify_247: Fortify247: A New Era of Cybersecurity
+
+If you use your Windows 10 device as a tablet, you'll soon see improvements to the…
+ 
+# CyberSecProPHUSER INFO
+![image](http://pbs.twimg.com/profile_images/1309743983560503296/XAz61Gw8_normal.jpg)
+ 
+`User ScreenName:` CyberSecProPH 
+ 
+`User chosen Name:` CyberSec Philippines 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 26 06:36:18 +0000 2020 
+ 
+`User Description?:` Cybersecurity Professional based in Metro Manila, Philippines 
+ 
+`Followers?: `7 
+ 
+`Following?:` 28 
+ 
+`User URL?:` None 
+ 
+`Location:` Manila, Philippines 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1309743983560503296/XAz61Gw8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 494 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TECHNOLOGY** 24 , **CYBERSECURITY** 22 , **LINUX** 21 , **@PHILIPPINESTAR** 12 , **SECURITY** 10 , **ITS** 8 , **SOME** 8 , **FIRST** 8 , **LOL** 8 , **MILLION** 7 , **WINDOWS** 7 , **NEW** 7 , **VIA** 7 , **@NEWS5PH** 7 , **FILE** 6 , **OPEN** 6 , **SOFTWARE** 6 , **USING** 6 , **YOU'RE** 6 , **@LATEST_CHIKA** 6 , 
+ 
+## What this user tweeted
+ 
+"Facilitating a ransomware payment that is demanded as a result of malicious cyber activities may enable criminals… https://t.co/cSEDiDYnUY
+ 
+# sauravnk30USER INFO
+![image](http://pbs.twimg.com/profile_images/1310516383113904128/yN2B1P19_normal.jpg)
+ 
+`User ScreenName:` sauravnk30 
+ 
+`User chosen Name:` Saurav Kanchan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 28 09:37:13 +0000 2020 
+ 
+`User Description?:` To create a better and decentralized Internet and make a worldwide supercomputer by using the computational power of all devices around the world 
+ 
+`Followers?: `22 
+ 
+`Following?:` 42 
+ 
+`User URL?:` https://t.co/p3Qw7M8xmM 
+ 
+`Location:` Mumbai, India 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1310516383113904128/yN2B1P19_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MEDIUM** 2 , **@AKHIL_KEDARE** 1 , **THANK** 1 , **@AKHIL_KEDAREWROTE** 1 , **BLOG** 1 , **POST** 1 , **AUTHENTICATION** 1 , **MECHANISM** 1 , **DOES** 1 , **REQUIRE** 1 , **EMAIL** 1 , **ID** 1 , **PASSWORD** 1 , **A…** 1 , **HTTPS://TCO/TXDP8RZQ4R** 1 , 
+ 
+## What this user tweeted
+ 
+Wrote a blog post on @Medium about an authentication mechanism that does not require an email id and password for a… https://t.co/TXDP8rZQ4r
+ 
+# ListsOfArraysUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311453518004465670/RGcSaZXo_normal.jpg)
+ 
+`User ScreenName:` ListsOfArrays 
+ 
+`User chosen Name:` Jacob 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 30 23:05:53 +0000 2020 
+ 
+`User Description?:` Ethical Hacker, love cats and dogs, pwn is a WIP.
+https://t.co/5q45cHjzVA
+1 Th 4:11 
+ 
+`Followers?: `1 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311453518004465670/RGcSaZXo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@THREE_CUBE:** 1 , **BECOME** 1 , **OPEN** 1 , **SOURCE** 1 , **INTELLIGENCE(OSINT)** 1 , **EXPERT!** 1 , **LEARN** 1 , **HARVEST** 1 , **INTELLIGENCE** 1 , **INTERNET** 1 , **OSINT** 1 , **FORENSICS…HELLO** 1 , **WORLD** 1 , **------** 1 , **SYNTAX** 1 , **ERROR** 1 , **LINE** 1 , **1:** 1 , **"HELLO"** 1 , 
+ 
+## What this user tweeted
+ 
+RT @three_cube: Become an Open Source Intelligence(OSINT) Expert! 
+
+Learn to Harvest the Intelligence from the Internet.  #osint #forensics…
+ 
+# watchdogdevUSER INFO
+![image](http://pbs.twimg.com/profile_images/1312105597551206402/o9Zj8PPC_normal.jpg)
+ 
+`User ScreenName:` watchdogdev 
+ 
+`User chosen Name:` Watchdog Development 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 02 18:51:09 +0000 2020 
+ 
+`User Description?:` Your unified solution for PC security and performance. #cybersecurity #antivirus 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/aEehklQCaV 
+ 
+`Location:` United States of America 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312105597551206402/o9Zj8PPC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**REPORTED** 2 , **COVID-19** 1 , **US** 1 , **FBI** 1 , **300%** 1 , **INCREASE** 1 , **CYBERCRIMES** 1 , **PANDEMIC** 1 , **WASN’T** 1 , **SCARY** 1 , **ENOUGH…** 1 , **HTTPS://TCO/ZVTU8LDZD7WATCHDOG** 1 , **ANTI-MALWARE** 1 , **USES** 1 , **CLOUD** 1 , **SCANNING** 1 , **PLATFORM** 1 , **HIGHLY** 1 , **OPTIMIZED** 1 , **CLUSTER** 1 , 
+ 
+## What this user tweeted
+ 
+Since COVID-19, the US FBI reported a 300% increase in reported cybercrimes. As if a pandemic wasn’t scary enough,… https://t.co/zVtu8lDzD7Watchdog Anti-Malware uses our Cloud Scanning Platform, a highly optimized cluster of servers running several anti-… https://t.co/6eLsz72KO2
+ 
+# kemp0ngUSER INFO
+![image](http://pbs.twimg.com/profile_images/1309390080205754368/URbUwrba_normal.jpg)
+ 
+`User ScreenName:` kemp0ng 
+ 
+`User chosen Name:` Van Lyubov 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 25 07:10:46 +0000 2020 
+ 
+`User Description?:` Cyber Security Enthusiast | Bug Hunter |
+root@tegalsec.org 
+ 
+`Followers?: `4 
+ 
+`Following?:` 30 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1309390080205754368/URbUwrba_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**XSS** 4 , **PAYLOAD** 3 , **BYPASS** 3 , **WAF** 2 , **BUG** 2 , **BOUNTY** 2 , **RT** 1 , **@LUTFUMERTCEYLAN:** 1 , **SOME** 1 , **FILTERS** 1 , **FIREFOX** 1 , **&LT;INPUT** 1 , **ACCESSKEY=X** 1 , **ONCLICK="SELF['WIND'+'OW']['ONE'+'RROR']=AL…RT** 1 , **@TRBUGHUNTERS:** 1 , **⚔️** 1 , **PRIVILEGE** 1 , **ESCALATION** 1 , **VIA** 1 , **ACCOUNT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @lutfumertceylan: an XSS payload to bypass some waf &amp; filters in Firefox
+
+&lt;input accesskey=X onclick="self['wind'+'ow']['one'+'rror']=al…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
