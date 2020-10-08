@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **RichLowry**  
+The most popular user is: **MohanadAlKalash**  
  
 
-## For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed 
+## 3 Days to go....Last Call.. Register for the Virtual Future Tech Event on 07-08 October 2020 to avail your Free Pas… https://t.co/AJU0wMxWex 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **RichLowry**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Cyber security awareness month is an efficient time used in the industry to inform others on securing their data, w… https://t.co/S8VD681p4a |
-| RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed |
-| @PMOIndia @narendramodi @rajnathsingh  Ji, How many slaps must an Indian take before he’s ready to face the enemy?… https://t.co/mNL6uyxvVG |
+| CHS, associate to pay $5M to 28 states in data #breach settlement https://t.co/v5FIi0fJbi |
+| RT @InsuranceBureau: October is #CyberSecurityAwarenessMonth. Do you know what it takes to help keep your family, employees, business and y… |
+| RT @DataVault_UK: Last May the new EU #DataProtection regulations #GDPR came into force. With over a year now in it's enforcement we look a… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RichLowry** |
-| #2 Most tweeted to  | **FrontalAssault1** |
-| #3 Most tweeted to  | **TheHackersNews** |
-| NewProfiles (less than 10 days) | 1.22%  |
-| Tweeters with < 10 followers  | 3.28%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **ingliguori** |
+| #2 Most tweeted to  | **LaurenUnderwood** |
+| #3 Most tweeted to  | **SourabhSKatoch** |
+| NewProfiles (less than 10 days) | 1.68%  |
+| Tweeters with < 10 followers  | 2.88%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -50,55 +50,139 @@ The most popular user is: **RichLowry**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **FIRST**  |
-| third  | **TIME** |
-| fourth  | **BEING**  |
-| fifth  | **ECONOMY**  |
+| first  | **INFOSEC**  |
+| second  | **AWARENESS**  |
+| third  | **DATA** |
+| fourth  | **MONTH**  |
+| fifth  | **IOT**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed |
+|Scale Up Threat Hunting to Skill Up Analysts #Cybersecurity #security  https://t.co/VrbAUrQyrw |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RichLowry**  |
+| The most retweeted user is: **MohanadAlKalash**  |
 | ------------- |
-| For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed |
+| 3 Days to go....Last Call.. Register for the Virtual Future Tech Event on 07-08 October 2020 to avail your Free Pas… https://t.co/AJU0wMxWex |
 
 # Potential Fake Accounts
  
-# rootedfloUSER INFO
-![image](http://pbs.twimg.com/profile_images/1313064942908522497/4eVnH2j7_normal.jpg)
+# ChasseCyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1312136369326551040/GiKgJSwx_normal.jpg)
  
-`User ScreenName:` rootedflo 
+`User ScreenName:` ChasseCyber 
  
-`User chosen Name:` rootedflo 
+`User chosen Name:` Cyber Chasse Canada 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Oct 04 15:41:23 +0000 2020 
+`User signup date?:` Fri Oct 02 21:04:07 +0000 2020 
  
-`User Description?:`  
+`User Description?:` We at Cyber Chasse hold a very high level of experience in rendering quality end-to-end cybersecurity solutions in Canada. 
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 21 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/8yq8U7y7QS 
+ 
+`Location:` Toronto 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312136369326551040/GiKgJSwx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AEM** 3 , **OFFER** 1 , **MANAGED** 1 , **SERVICES** 1 , **IMPLEMENTATIONS** 1 , **HELP** 1 , **MONITOR** 1 , **INSTANCES** 1 , **HANDLE** 1 , **TICKETS** 1 , **SECU…** 1 , **HTTPS://TCO/UVFJEFJNH1LEAVE** 1 , **CONSULTING** 1 , **HIRING** 1 , **NEEDS** 1 , **US!** 1 , **CYBERSECURITY** 1 , **ITJOBS** 1 , **CYBERCHASSECANADA** 1 , **HTTPS://TCO/S9YPBWNAAJ** 1 , 
+ 
+## What this user tweeted
+ 
+Leave All Your IT Consulting And Hiring Needs To Us! 
+#CyberSecurity #ITJobs #CyberChasseCanada https://t.co/S9ypBWnaaJ
+ 
+# the404codeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310838008774447104/A6Pfuo2F_normal.jpg)
+ 
+`User ScreenName:` the404code 
+ 
+`User chosen Name:` the404code 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 29 06:59:57 +0000 2020 
+ 
+`User Description?:` I'm a bot. Follow me to get updates on the latest tech blogs and tech trends #the404code | Creator: @nitinmanocha16 
+ 
+`Followers?: `118 
+ 
+`Following?:` 8 
  
 `User URL?:` None 
  
 `Location:`  
  
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1310838008774447104/A6Pfuo2F_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4115 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 57 , **ARTIFICIALINTELLIGENCE** 23 , **TECHNOLOGY** 22 , **MACHINELEARNING** 19 , **JAVASCRIPT** 18 , **WEBDEV** 18 , **PROGRAMMING** 18 , **DATASCIENCE** 17 , **PYTHON** 14 , **INFOSEC** 14 , **RT** 12 , **100DAYSOFCODE** 12 , **CHECK** 12 , **BIGDATA** 12 , **ANALYTICS** 12 , **TECH** 12 , **IOT** 11 , **@TECHNCODE2017:** 11 , **MACHINE** 10 , **LEARNING** 10 , 
+ 
+## What this user tweeted
+ 
+RT @coding_monkeys: It’s funny because it’s true, especially with no exit function ⁣
+
+#Python #rstats #java #javascript #AWS #100DaysOfCode…RT @ingliguori: Using #DataScience In Quality Operations 
+👉 https://t.co/HSvrGVKBMj via @ingliguori #DigitalTransformation #Cloud #MachineL…RT @EbotAyuk: Don't criticize proofs, value it.The hand of God is upon my life. #ebotayuk #cybersecurity #infosec #riskmanagement #encrypti…RT @CloudiLab: 📌 Data Visualization Cheatsheet — Core Principles 📊✨
+
+#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #Py…RT @ingliguori: Types of #AI Use Cases by @EverestGroup via @ingliguori #DigitalTransformation #Cloud #MachineLearning #BigData #cybersecur…
+ 
+# HighlandsClerkUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311996320941563905/zLr-zwql_normal.jpg)
+ 
+`User ScreenName:` HighlandsClerk 
+ 
+`User chosen Name:` Highlands Clerk of Circuit Court & Comptroller 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 02 11:46:04 +0000 2020 
+ 
+`User Description?:` Welcome to @HighlandsClerk, the official Twitter profile for the Highlands County Florida Clerk of Circuit Court & Comptroller. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/6OdqaEKY4M 
+ 
+`Location:` 430 S Commerce Ave Sebring, FL 
+ 
 `Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1313064942908522497/4eVnH2j7_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1311996320941563905/zLr-zwql_normal.jpg 
  
 `Number of tweets excluding replies:` 7 
  
@@ -108,452 +192,11 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**GOOD** 2 , **IDEA** 2 , **DOMAIN** 2 , **CHINA** 2 , **RT** 1 , **@SAMWCYO:** 1 , **WITHIN** 1 , **ARTICLE** 1 , **I'D** 1 , **MENTIONED** 1 , **APPLE** 1 , **YET** 1 , **PAID** 1 , **VULNERABILITIES** 1 , **AFTER** 1 , **PUBLISHING** 1 , **W…@APPLE** 1 , **INNOVATION:** 1 , **INSULTING** 1 , **DEVELOPERS** 1 , 
+**MONTH** 4 , **OCTOBER** 3 , **LEARN** 3 , **DOMESTIC** 3 , **VIOLENCE** 3 , **AWARENESS** 2 , **PUBLIC** 2 , **CLERK** 2 , **DURING** 1 , **CYBERSECURITY** 1 , **WE’RE** 1 , **HIGHLIGHTING** 1 , **WAYS** 1 , **CLERKS** 1 , **PROTECT** 1 , **PRIVATE** 1 , **CONFIDENTIAL** 1 , **INFORMATION…** 1 , **HTTPS://TCO/KPESK3RGZDDURING** 1 , **THESE** 1 , 
  
 ## What this user tweeted
  
-RT @samwcyo: Within the article I'd mentioned that Apple had not yet paid for all of the vulnerabilities. Right after publishing it, they w…
- 
-# LisaUrban20USER INFO
-![image](http://pbs.twimg.com/profile_images/1311226470933594112/_eP6iZw7_normal.jpg)
- 
-`User ScreenName:` LisaUrban20 
- 
-`User chosen Name:` Lisa Urban 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 30 08:47:59 +0000 2020 
- 
-`User Description?:` BIGBANG IS 5 👑👑👑👑👑
-OT5 💛💛💛💛💛
-VIP until whenever🙏💛
-stay strong seungri 💙
-armyvipblackjackblink 
- 
-`Followers?: `123 
- 
-`Following?:` 119 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311226470933594112/_eP6iZw7_normal.jpg 
- 
-`Number of tweets excluding replies:` 2472 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIGBANG** 26 , **SEUNGRI** 22 , **JIYONG** 10 , **KPOP** 8 , **LOVE** 8 , **PART** 8 , **@CMBACK_BIGBANG:** 8 , **@WHITNEY_ARMY** 8 , **PACK** 8 , **@CFRI90:** 8 , **@YG_GLOBALVIP** 7 , **BTS** 7 , **WAY** 7 , **IM** 6 , **CHANEL** 6 , **GD** 6 , **STAN** 6 , **:** 6 , **THESE** 6 , **GONNA** 6 , 
- 
-## What this user tweeted
- 
-RT @DeeD89172651: You know what's fucked up? The fact that BIGBANG literally served the world with their vulnerabilities on a silver platte…
- 
-# MicrosoftRTweetUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311006946770718720/3v5WuGyw_normal.jpg)
- 
-`User ScreenName:` MicrosoftRTweet 
- 
-`User chosen Name:` MicrosoftRetweetBot 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Sep 29 18:11:30 +0000 2020 
- 
-`User Description?:` Just a bot that retweets tweets containing "#Microsoft".
-| By @raphheuhh.
-| This is not an account created by Microsoft. 
- 
-`Followers?: `156 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:` From the Cloud 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311006946770718720/3v5WuGyw_normal.jpg 
- 
-`Number of tweets excluding replies:` 13714 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MICROSOFT** 147 , **PRE** 34 , **ORDER** 34 , **XBOXSERIESX** 21 , **DE** 18 , **PARTNER** 18 , **XBOX** 17 , **@IDONTJUSTRAP:** 17 , **CALLOFDUTY** 17 , **HTTPS://TCO/XAHD0UAZDG** 17 , **AZURE** 16 , **GAMESTOP** 15 , **SONY** 14 , **GAMING** 13 , **COLDWARBETA** 12 , **HTTPS://TCO/XAHD…RT** 12 , **EN** 11 , **MICROSOFTRT** 11 , **WINDOWS** 10 , **VIRTUAL** 9 , 
- 
-## What this user tweeted
- 
-RT @CyberSecDN: #Microsoft Paid Out Over $374,000 for Azure Sphere Vulnerabilities https://t.co/1kHYAGkOZp via @Sec_CyberRT @NcsVentures: #microsoft | #microsoftsecurity | Researchers Find Vulnerabilities in Microsoft Azure Cloud Service https://t.co/GLbwPVtvLXRT @RMCholewa: Researchers Find Vulnerabilities in #Microsoft #Azure #Cloud Service https://t.co/lIHKVSFSH2RT @JohnerStefan: Researchers find vulnerabilities in #Microsoft #Azure App Service https://t.co/hi10uSlAcc via @TheHackersNews #CloudRT @AntiVirusLV: Researchers have disclosed two flaws in #Microsoft’s #Azure web hosting application service, App Services, which if exploi…RT @rul3r: NEW: Intezer researchers reported security vulnerabilities in #Microsoft Azure App Service that could allow attackers to carry o…RT @SecurityNewsbot: Researchers Find #Vulnerabilities in #Microsoft Azure #Cloud Service https://t.co/JEXJC8kZ6Y #TheHackerNewsRT @bonjinjpn: Researchers Find #Vulnerabilities in #Microsoft #Azure "two security flaws in Azure App Services could have enabled a bad ac…RT @AcidTec: Researchers Find #Vulnerabilities in #Microsoft Azure Cloud Service https://t.co/FNHMIFbz5d via @TheHackersNewsRT @AusRealNews: RT TheHackersNews "NEW: Intezer researchers reported security vulnerabilities in #Microsoft Azure App Service that could a…RT @security_wang: NEW: @Intezerlabs researchers reported security vulnerabilities in #Microsoft Azure App Service that could allow attacke…RT @blu3cloak: Researchers Find Vulnerabilities in #Microsoft Azure Cloud Service https://t.co/ehoBZLumkuRT @unix_root: NEW: @IntezerLabs researchers reported security vulnerabilities in #Microsoft Azure App Service that could allow attackers t…RT @Swati_THN: NEW: @IntezerLabs researchers reported security vulnerabilities in #Microsoft Azure App Service that could allow attackers t…RT @TheHackersNews: NEW: Intezer researchers reported security vulnerabilities in #Microsoft Azure App Service that could allow attackers t…RT @barryshess: #Microsoft #Zerologon Flaw Under Attack By #Iranian Nation-State Actors
-
- #cybersecurity #vulnerabilities
-
-https://t.co/Z8y…
- 
-# HeeeersTUSER INFO
-![image](http://pbs.twimg.com/profile_images/1314281806489882626/bvt5RO7H_normal.jpg)
- 
-`User ScreenName:` HeeeersT 
- 
-`User chosen Name:` heeeers_trouble! 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 08 19:09:03 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1314281806489882626/bvt5RO7H_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**N** 10 , **U** 9 , **I’M** 4 , **REALLY** 3 , **UR** 3 , **FOUND** 3 , **CAN’T** 3 , **HERE** 3 , **DON’T** 3 , **😆** 3 , **HITLER** 3 , **HAPPY** 2 , **🙃** 2 , **BRAIN** 2 , **F** 2 , **WORRIED** 2 , **GIG** 2 , **WELL** 2 , **THOUGHT** 2 , **DA** 2 , 
- 
-## What this user tweeted
- 
-I found it interestin, that they’ve found the common denominator for those who get really ill, n die of covid, with… https://t.co/JuwlaaX2wu
- 
-# antgrasso_USER INFO
-![image](http://pbs.twimg.com/profile_images/1314303412952014852/3EBjG-3O_normal.jpg)
- 
-`User ScreenName:` antgrasso_ 
- 
-`User chosen Name:` Antonio Grasso 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 08 07:00:22 +0000 2020 
- 
-`User Description?:` Digital entrepreneur with a passion for knowledge translation | B2B Tech Influencer | Startups Mentor | CEO @dbi_srl | #Al #loT #Blockchain |🇮🇹 @antgrasso_IT 
- 
-`Followers?: `2 
- 
-`Following?:` 1 
- 
-`User URL?:` https://t.co/rG8xFyu0hY 
- 
-`Location:` Global 
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1314303412952014852/3EBjG-3O_normal.jpg 
- 
-`Number of tweets excluding replies:` 198 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ANTGRASSO:** 183 , **DIGITAL** 40 , **LINK** 28 , **DATA** 19 , **VIA** 16 , **&GT;&GT;** 14 , **@ANTGRASSO** 12 , **SOURCE** 12 , **TECHNOLOGIES** 12 , **FUTURE** 12 , **@LINDAGRASS0:** 12 , **COMPANIES** 12 , **ARTIFICIAL** 11 , **@EVERESTGROUP** 11 , **&GT;&GT;&GT;** 11 , **RESEARCH** 11 , **BUSINESSES** 11 , **WATCH** 11 , **SECURITY** 10 , **AI** 10 , 
- 
-## What this user tweeted
- 
-RT @antgrasso: With many nations working from home, cyber hackers are looking to exploit vulnerabilities in an attempt to steal valuable in…
- 
-# gabirg95USER INFO
-![image](http://pbs.twimg.com/profile_images/1313871491625291778/KLgPajAx_normal.jpg)
- 
-`User ScreenName:` gabirg95 
- 
-`User chosen Name:` Gabi Rodriguez 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 07 15:54:28 +0000 2020 
- 
-`User Description?:` Abogada. Bailarina frustrada. En un mundo lleno de ‘vidas perfectas’ quiero tener el poder de ser vulnerable - B.B. 
- 
-`Followers?: `22 
- 
-`Following?:` 32 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313871491625291778/KLgPajAx_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**QUE** 4 , **SE** 2 , **LAS** 2 , **“OWNING** 1 , **STORY** 1 , **HARD** 1 , **NEARLY** 1 , **DIFFICULT** 1 , **SPENDING** 1 , **LIVES** 1 , **RUNNING** 1 , **EMBRACING** 1 , **VULN…** 1 , **HTTPS://TCO/VVYPNZTRCMRT** 1 , **@BETASCARONE:** 1 , **NOS** 1 , **OLVIDA** 1 , **LA** 1 , **VIDA** 1 , **ES** 1 , 
- 
-## What this user tweeted
- 
-“Owning our story can be hard but not nearly as difficult as spending our lives running from it. Embracing our vuln… https://t.co/vVYPNZTrcM
- 
-# AbnPepeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1314158312922009600/6M7NBWNC_normal.jpg)
- 
-`User ScreenName:` AbnPepe 
- 
-`User chosen Name:` abn pepe jr 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 08 10:58:03 +0000 2020 
- 
-`User Description?:` 🇺🇲 American through and through 🇺🇲 
- 
-`Followers?: `8 
- 
-`Following?:` 93 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1314158312922009600/6M7NBWNC_normal.jpg 
- 
-`Number of tweets excluding replies:` 476 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AIRBORNERT** 37 , **@CURIOUSCAMO:** 14 , **PRESIDENT** 10 , **@DBONGINO:** 9 , **TRUMP** 8 , **BIDEN** 7 , **@MAJORPATRIOT:** 7 , **PEOPLE** 7 , **@SEANHANNITY:** 6 , **@JUDICIALWATCH:** 6 , **@JULIANSRUM:** 6 , **SHOW** 6 , **AIRBORNE!RT** 6 , **AIRBORNE** 6 , **@TOMFITTON:** 6 , **RUSH** 6 , **JOE** 6 , **WAY** 5 , **@CURIOUSCAMO** 5 , **KAMALA** 5 , 
- 
-## What this user tweeted
- 
-RT @FBI: Select trusted and reputable telework software vendors, and keep your software updated. Updates help patch security vulnerabilitie…
- 
-# Linda95277034USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Linda95277034 
- 
-`User chosen Name:` Linda 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 08 17:32:47 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 88 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 356 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PENCE** 30 , **PRESIDENT** 24 , **KAMALA** 21 , **HARRIS** 21 , **BIDEN** 20 , **TRUMP** 17 , **JOE** 15 , **DEBATE** 14 , **VP** 12 , **COURT** 11 , **@JENNAELLISESQ:** 10 , **@REALDONALDTRUMP:** 9 , **QUESTION** 9 , **PEOPLE** 9 , **25TH** 9 , **AMERICAN** 8 , **@REALDONALDTRUMP** 8 , **AFTER** 8 , **MIKE** 8 , **@SEANHANNITY:** 8 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# JoyBinfordUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` JoyBinford 
- 
-`User chosen Name:` Joy Binford 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Oct 05 17:13:55 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `9 
- 
-`Following?:` 202 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 214 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KAMALA** 31 , **HARRIS** 30 , **DEBATE** 29 , **PENCE** 21 , **BIDEN** 18 , **PRESIDENT** 15 , **@REALJAMESWOODS:** 15 , **TRUMP** 14 , **PEOPLE** 11 , **JOE** 11 , **GOING** 10 , **LAST** 10 , **MIKE** 10 , **VIRTUAL** 9 , **COMMISSION** 8 , **VP** 8 , **AFTER** 8 , **@BENSHAPIRO:** 8 , **RT** 7 , **MEDIA** 7 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# thelife_shapesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1313088840962375681/tE5Q33-__normal.jpg)
- 
-`User ScreenName:` thelife_shapes 
- 
-`User chosen Name:` Lifeshapes Foundation 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Oct 05 12:05:32 +0000 2020 
- 
-`User Description?:` We are committed to building generations of young people who are equipped and empowered through quality education to become compassionate and entrepreneurial. 
- 
-`Followers?: `3 
- 
-`Following?:` 13 
- 
-`User URL?:` https://t.co/4o8Uj95feB 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313088840962375681/tE5Q33-__normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STUDENTS** 5 , **SCHOOLONTHEGO** 3 , **TEAM** 3 , **DEVICE** 3 , **ACCESS** 2 , **TECHNOLOGY** 2 , **REDUCE** 2 , **DIGITAL** 2 , **AMAZING** 2 , **CENTERS** 2 , **LEARNING** 2 , **SCHOOL** 2 , **GO** 2 , **FIRST** 2 , **EXPANDING** 1 , **DIVIDE** 1 , **SOCIO-ECONOMIC** 1 , **VULNERA…** 1 , **HTTPS://TCO/GYHTDEMGQSTHANKS** 1 , **NASSARAWA** 1 , 
- 
-## What this user tweeted
- 
-#SchoolOnTheGo
-
-Expanding access to technology and reduce the digital divide for students in socio-economic vulnera… https://t.co/GYHtdEmgqS
- 
-# RogerShi10USER INFO
-![image](http://pbs.twimg.com/profile_images/1311493092663533571/jpft6vjk_normal.jpg)
- 
-`User ScreenName:` RogerShi10 
- 
-`User chosen Name:` Roger Shi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 30 05:42:08 +0000 2020 
- 
-`User Description?:` Trump 2020 Don’t let the communist win! ｜Duke 2020｜WUSTL 2019｜Bentley 2017｜波士顿地产经纪｜奥地利学派粉丝｜Conservative｜Republican｜MAGA 
- 
-`Followers?: `29 
- 
-`Following?:` 138 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311493092663533571/jpft6vjk_normal.jpg 
- 
-`Number of tweets excluding replies:` 2265 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KAMALA** 22 , **HARRIS** 18 , **PENCE** 18 , **DEBATE** 16 , **BIDEN** 14 , **TRUMP** 10 , **PRESIDENT** 10 , **@CHOOLUCIA:** 10 , **@REALDONALDTRUMP:** 10 , **PEOPLE** 8 , **MIKE** 7 , **JOE** 6 , **@LIFETIMEUSCN:** 6 , **REALLY** 6 , **DOES** 5 , **@REALDONALDTRUMP** 5 , **@BENSHAPIRO:** 5 , **DAY** 4 , **ELECTION** 4 , **@SAMANTHAMARIKA1:** 4 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# 0xryuuUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` 0xryuu 
- 
-`User chosen Name:` ryū 🎃 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 07 23:00:53 +0000 2020 
- 
-`User Description?:` infosec student 
- 
-`Followers?: `1 
- 
-`Following?:` 49 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@SARASCHLEISMAN:** 1 , **@SANSINSTITUTE** 1 , **CYBERSOLUTIONSFEST** 1 , **10** 1 , **MINUTES!** 1 , **HTTPS://TCO/BCEZZYSMTV** 1 , **@DAVESHACKLEFORD** 1 , **CLOUD:** 1 , **@CISCOUMBRELLA** 1 , **@QU…RT** 1 , **@THEHACKERSNEWS:** 1 , **NEW:** 1 , **INTEZER** 1 , **RESEARCHERS** 1 , **REPORTED** 1 , **SECURITY** 1 , **VULNERABILITIES** 1 , **MICROSOFT** 1 , **AZURE** 1 , 
- 
-## What this user tweeted
- 
-RT @TheHackersNews: NEW: Intezer researchers reported security vulnerabilities in #Microsoft Azure App Service that could allow attackers t…
+During #Cybersecurity Awareness Month, we’re highlighting ways Clerks protect private &amp; confidential information.… https://t.co/KPesk3Rgzd
  
 # Discovertech3USER INFO
 ![image](http://pbs.twimg.com/profile_images/1313330139619487746/H3eghM5S_normal.jpg)
@@ -592,7 +235,220 @@ RT @TheHackersNews: NEW: Intezer researchers reported security vulnerabilities i
  
 ## What this user tweeted
  
-RT @sec_consult: Multiple Confluence Plugins are affected by stored #XSS vulnerabilities https://t.co/pItpjYygoZ allowing to inject malicio…
+RT @PolyverseCorp: Check out our new open source detection agent called Zerotect! Help us find previously unidentified open source attack v…RT @SourabhSKatoch: Behold, the world's most advanced search engine.
+
+#100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #Python #flutte…RT @SourabhSKatoch: This CTO got his staff to pay attention to his commit messages! You won't believe how he did it!
+
+#100DaysOfCode #Machi…RT @SourabhSKatoch: This CTO got his staff to pay attention to his commit messages! You won't believe how he did it!
+
+#100DaysOfCode #Machi…RT @SourabhSKatoch: This CTO got his staff to pay attention to his commit messages! You won't believe how he did it!
+
+#100DaysOfCode #Machi…RT @SourabhSKatoch: This CTO got his staff to pay attention to his commit messages! You won't believe how he did it!
+
+#100DaysOfCode #Machi…RT @SourabhSKatoch: This CTO got his staff to pay attention to his commit messages! You won't believe how he did it!
+
+#100DaysOfCode #Machi…RT @SourabhSKatoch: This CTO got his staff to pay attention to his commit messages! You won't believe how he did it!
+
+#100DaysOfCode #Machi…RT @ruben_arce_s: Comprehensive Python Cheatsheet for Beginners.
+@ruben_arce_s
+
+#Python #100DaysOfCode #Machinelearning #IoT #100DaysOfMLCo…RT @cloudpreacher: The "Cybersecurity Adoption Lifecycle" adapted by @MonTalksCyber !
+
+#data #security #strategy #CyberAttack #malware #AI…RT @cloudpreacher: The "Cybersecurity Adoption Lifecycle" adapted by @MonTalksCyber !
+
+#data #security #strategy #CyberAttack #malware #AI…RT @cloudpreacher: The "Cybersecurity Adoption Lifecycle" adapted by @MonTalksCyber !
+
+#data #security #strategy #CyberAttack #malware #AI…RT @SourabhSKatoch: The correct order should be,
+
+1. Anger
+
+2. Anger
+
+3. Anger
+
+4. Anger
+
+5. Acceptance
+
+#DEVCommunity #DataScience #Python…RT @SourabhSKatoch: Step 3 should have been "git -tf out".
+
+#DEVCommunity #Python #100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #fl…RT @SourabhSKatoch: Spotted in a programming course material. Kind of true though 😂
+
+#DEVCommunity #Python #100DaysOfCode #Machinelearning…RT @sashax2_: Get #custom #tshirts #design on #fiverr #fiverrgigs #100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #Python #javascript…RT @pak_aims: Data Structure Learning
+
+#AI #Analytics #DataScience #rstats #IoT #TensorFlow #javascript #reactjs #Cloud #Serverless #NodeJS…RT @SourabhSKatoch: Democratizing Big Brother: Web surveillance for the SME.
+
+https://t.co/JGlnLhBw2K
+
+#Machinelearning #Python #100DaysOfC…RT @tamalot16: I will provide any machine learning solution in python
+---------
+Link : https://t.co/rePe8QJl25
+------------
+#Python #Machin…RT @adMasterszw: Who else can relate here? 😂
+
+#100DaysOfCode  #MachineLearning  #IoT  #100DaysOfMLCode  #Python  #Flutter  #javascript  #Se…
+ 
+# thequantumbotUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311939409193828353/i93GgU33_normal.jpg)
+ 
+`User ScreenName:` thequantumbot 
+ 
+`User chosen Name:` Everything Quantum 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 30 08:30:18 +0000 2020 
+ 
+`User Description?:` A bot that retweets everything related to Quantum Technologies. Created by @SumitJaswal_ 
+ 
+`Followers?: `61 
+ 
+`Following?:` 86 
+ 
+`User URL?:` None 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311939409193828353/i93GgU33_normal.jpg 
+ 
+`Number of tweets excluding replies:` 916 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**QUANTUM** 174 , **COMPUTING** 56 , **LEARNING** 24 , **MACHINE** 23 , **INTERNET** 22 , **NEW** 16 , **QUANTUMCOMPUTING** 11 , **SCIENCE** 11 , **AI** 11 , **NEXT** 10 , **IBM** 10 , **TIME** 10 , **👇** 10 , **SOME** 9 , **FUTURE** 9 , **PHYSICS** 8 , **US** 8 , **COMPUTING?** 8 , **COMPUTER** 8 , **USING** 7 , 
+ 
+## What this user tweeted
+ 
+RT @DiscoverMag: The quantum internet promises entirely secure communication. But cybersecurity experts say quantum mechanics opens up enti…
+ 
+# QldCyberNodeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1313298145690832897/AKXD0LVT_normal.jpg)
+ 
+`User ScreenName:` QldCyberNode 
+ 
+`User chosen Name:` QLDCyberNode 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 06 01:52:06 +0000 2020 
+ 
+`User Description?:` Queensland Cyber Security Innovation Node - a partnership between @AustCyber and QLD Government to grow the Cyber Security Sector 
+ 
+`Followers?: `5 
+ 
+`Following?:` 8 
+ 
+`User URL?:` https://t.co/IYV9T8Bt3l 
+ 
+`Location:` Brisbane, Queensland 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1313298145690832897/AKXD0LVT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AUSTCYBER:** 2 , **RT** 1 , **WATCH** 1 , **10** 1 , **🇦🇺'S** 1 , **MOST** 1 , **PROMISING** 1 , **CYBERSECURITY** 1 , **COMPANIES** 1 , **DELIVER** 1 , **SHORT** 1 , **3-MIN** 1 , **PITCH** 1 , **FOLLOWED** 1 , **Q&AMP;A** 1 , **‘JUDGING** 1 , **PANEL’…RT** 1 , **REGISTRATION** 1 , **OPENED** 1 , **AUCYBERWEEK2020** 1 , 
+ 
+## What this user tweeted
+ 
+RT @AustCyber: Watch 10 of 🇦🇺's most promising #CyberSecurity companies deliver a short 3-min pitch, followed by Q&amp;A with a ‘judging panel’…
+ 
+# northstar7852USER INFO
+![image](http://pbs.twimg.com/profile_images/1312800929650028545/cLGOy2Cc_normal.jpg)
+ 
+`User ScreenName:` northstar7852 
+ 
+`User chosen Name:` northstar7852 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 04 15:28:23 +0000 2020 
+ 
+`User Description?:` ● watching world events ● supporter of Israel ● sharing the Good News 
+ 
+`Followers?: `0 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312800929650028545/cLGOy2Cc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ISRAEL** 6 , **@DESIRINGGOD:** 5 , **INTO** 3 , **MAKE** 3 , **US** 3 , **GOD** 3 , **LIVE** 3 , **PRESIDENT** 3 , **@ARUTZSHEVA_EN:** 3 , **CHURCH** 3 , **GREAT** 3 , **–** 3 , **GOOD** 3 , **25TH** 2 , **AMENDMENT** 2 , **?** 2 , **“I** 2 , **CHRIST** 2 , **@BEHOLDISRAEL:** 2 , **WHICH** 2 , 
+ 
+## What this user tweeted
+ 
+RT @i24NEWS_EN: Swedish company Dsruptvie has injected subdermal implants into thousands of Swedes, allowing them to make payments and more…
+ 
+# MicrosoftRTweetUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311006946770718720/3v5WuGyw_normal.jpg)
+ 
+`User ScreenName:` MicrosoftRTweet 
+ 
+`User chosen Name:` MicrosoftRetweetBot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 29 18:11:30 +0000 2020 
+ 
+`User Description?:` Just a bot that retweets tweets containing "#Microsoft".
+| By @raphheuhh.
+| This is not an account created by Microsoft. 
+ 
+`Followers?: `156 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:` From the Cloud 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311006946770718720/3v5WuGyw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13715 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MICROSOFT** 148 , **PRE** 34 , **ORDER** 34 , **XBOXSERIESX** 21 , **DE** 18 , **PARTNER** 18 , **XBOX** 17 , **@IDONTJUSTRAP:** 17 , **CALLOFDUTY** 17 , **HTTPS://TCO/XAHD0UAZDG** 17 , **AZURE** 16 , **GAMESTOP** 15 , **SONY** 14 , **GAMING** 13 , **COLDWARBETA** 12 , **HTTPS://TCO/XAHD…RT** 12 , **EN** 11 , **MICROSOFTRT** 11 , **WINDOWS** 10 , **VIRTUAL** 9 , 
+ 
+## What this user tweeted
+ 
+RT @adminahead: Security flaws in Microsoft's Azure App Services could help carry out server-side request forgery (SSRF) attacks or execute…RT @TheCyberPost1: EMOTET Banking Malware Is Big Threat For US Agencies CISA Warns
+
+https://t.co/uh57BTDrkq
+
+#Emotet #Cybersecurity #CISA #…RT @fannonland: Bridging India’s cybersecurity gender gap https://t.co/P78uFRakKV #Microsoft #News
  
 # randomness12335USER INFO
 ![image](http://pbs.twimg.com/profile_images/1312800403256475649/8SrbA_8u_normal.jpg)
@@ -609,17 +465,17 @@ RT @sec_consult: Multiple Confluence Plugins are affected by stored #XSS vulnera
  
 `Followers?: `38 
  
-`Following?:` 1224 
+`Following?:` 1223 
  
 `User URL?:` None 
  
 `Location:` United States 
  
-`Number of tweets extracted`  : 157 
+`Number of tweets extracted`  : 158 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1312800403256475649/8SrbA_8u_normal.jpg 
  
-`Number of tweets excluding replies:` 157 
+`Number of tweets excluding replies:` 158 
  
 
  
@@ -627,730 +483,33 @@ RT @sec_consult: Multiple Confluence Plugins are affected by stored #XSS vulnera
  
 ## User Top tweeted words 
  
-**TRUMP** 20 , **US** 9 , **@REUTERS** 7 , **DON'T** 7 , **@REALDONALDTRUMP** 7 , **BEING** 6 , **MARKET** 5 , **DIDN'T** 5 , **@ZEROHEDGE** 5 , **THAN** 5 , **CONSTITUTION** 4 , **AGAINST** 4 , **GOOD** 4 , **FACE** 4 , **LEFT** 4 , **PRESIDENT** 4 , **THAT'S** 4 , **SUPER** 4 , **NEW** 4 , **@SCIAM** 4 , 
+**TRUMP** 20 , **US** 10 , **DON'T** 7 , **@REALDONALDTRUMP** 7 , **BEING** 6 , **@REUTERS** 6 , **MARKET** 5 , **DIDN'T** 5 , **@ZEROHEDGE** 5 , **THAN** 5 , **CONSTITUTION** 4 , **AGAINST** 4 , **GOOD** 4 , **FACE** 4 , **LEFT** 4 , **PRESIDENT** 4 , **THAT'S** 4 , **SUPER** 4 , **NEW** 4 , **@SCIAM** 4 , 
  
 ## What this user tweeted
  
-Asset complexity will introduce unintended vulnerabilities.
+RT @3BodyProblem: Impressive #deepfake
+
+Via @CurieuxExplorer 
+
+#DeepLearning #AI #CyberSecurity @ShiCooks @HaroldSinnott 
+https://t.co/4gTv…
  
-# OriginalConsti1USER INFO
+# cjordan22221USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` OriginalConsti1 
+`User ScreenName:` cjordan22221 
  
-`User chosen Name:` @OriginalConstitutionalistVA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 08 12:40:00 +0000 2020 
- 
-`User Description?:` Constitutional Originalist Conservative from Virginia. Virulent anti facistbook, twatter censoring thugs, school indoctrinators, PRO MR. TRUMP! VOTE R. E. D.!! 
- 
-`Followers?: `4 
- 
-`Following?:` 92 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 201 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DEBATE** 23 , **KAMALA** 21 , **PENCE** 18 , **HARRIS** 16 , **TRUMP** 15 , **BIDEN** 14 , **@TOMFITTON:** 14 , **JOE** 11 , **@REALDAILYWIRE:** 10 , **MEDIA** 9 , **PRESIDENT** 9 , **PEOPLE** 8 , **FBI** 8 , **RUSSIA** 8 , **NEW** 8 , **VOTE** 8 , **AGAIN** 7 , **INTO** 7 , **MIKE** 7 , **TWITTER** 6 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# ArturoBust1USER INFO
-![image](http://pbs.twimg.com/profile_images/1313517972997038081/xUHUJwBt_normal.jpg)
- 
-`User ScreenName:` ArturoBust1 
- 
-`User chosen Name:` Jojobber 🥐🥐🥓🥓🇺🇸🇺🇸 
+`User chosen Name:` cjordan2222 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Oct 05 07:30:33 +0000 2020 
- 
-`User Description?:` Tweets and opinons are my own. People in Congress are representatives, NOT leaders. #MAGA Twitter is not letting me tweet! 🤬Backup account-lost 3K+ followers. 
- 
-`Followers?: `203 
- 
-`Following?:` 508 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313517972997038081/xUHUJwBt_normal.jpg 
- 
-`Number of tweets excluding replies:` 1965 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HARRIS** 33 , **KAMALA** 32 , **PENCE** 26 , **BIDEN** 21 , **@MZHEMINGWAY:** 14 , **JOE** 14 , **@REALDONALDTRUMP:** 13 , **ANSWER** 12 , **DEBATE** 12 , **QUESTION** 12 , **MIKE** 10 , **COURT** 10 , **PACKING** 10 , **@KAMALAHARRIS** 9 , **NEVER** 8 , **ASK** 8 , **@BYRONYORK:** 7 , **PAGE** 7 , **PEOPLE** 7 , **WATCH** 6 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# LSchemanskiUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` LSchemanski 
- 
-`User chosen Name:` Livvy Schemanski 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 08 00:48:02 +0000 2020 
- 
-`User Description?:` Just a grandma passing through. 
- 
-`Followers?: `10 
- 
-`Following?:` 224 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 365 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 32 , **TRUMP** 23 , **JOE** 23 , **PRESIDENT** 18 , **DEBATE** 14 , **RUSH** 10 , **PENCE** 10 , **AMENDMENT** 9 , **LAST** 8 , **KAMALA** 8 , **HARRIS** 8 , **25TH** 8 , **ELECTION** 8 , **@REALDONALDTRUMP** 7 , **COURT** 7 , **@REALDONALDTRUMP:** 7 , **DON’T** 7 , **@JACKPOSOBIEC:** 7 , **FIRST** 6 , **TOMORROW** 6 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# Anne11405141USER INFO
-![image](http://pbs.twimg.com/profile_images/1312053881396838401/efYtk-20_normal.jpg)
- 
-`User ScreenName:` Anne11405141 
- 
-`User chosen Name:` Anne Newhouse 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Oct 02 15:34:43 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `9 
- 
-`Following?:` 113 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1312053881396838401/efYtk-20_normal.jpg 
- 
-`Number of tweets excluding replies:` 269 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REALDONALDTRUMP:** 28 , **TRUMP** 22 , **BIDEN** 22 , **PENCE** 18 , **DEBATE** 16 , **@DBONGINO:** 14 , **PRESIDENT** 14 , **KAMALA** 13 , **@DONALDJTRUMPJR:** 12 , **HARRIS** 12 , **JOE** 9 , **OBAMA** 9 , **OFF** 8 , **GREAT** 8 , **@INGRAHAMANGLE:** 8 , **MEDIA** 8 , **BACK** 8 , **@REALJAMESWOODS:** 7 , **GOOD** 7 , **@REALDONALDTRUMP** 7 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# sumtingwong411USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` sumtingwong411 
- 
-`User chosen Name:` sumtingwong411@gmail.com 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 03 23:33:37 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 8 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 644 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REALDONALDTRUMP:** 42 , **@JUDICIALWATCH:** 26 , **PRESIDENT** 19 , **TRUMP** 15 , **@DAILYCALLER:** 14 , **BIDEN** 12 , **PENCE** 12 , **@MRANDYNGO:** 12 , **@OANN:** 10 , **@DBONGINO:** 10 , **WATCH** 9 , **HARRIS** 9 , **VOTE** 8 , **CLINTON** 8 , **MIKE** 8 , **TIME** 8 , **AFTER** 8 , **@SALTYCRACKER9:** 8 , **@ALEXSALVINEWS:** 8 , **DOCUMENTS** 7 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# CarterLavedaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311361150328729602/AWkqTjWy_normal.jpg)
- 
-`User ScreenName:` CarterLaveda 
- 
-`User chosen Name:` LaVeda Carter Fields 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 30 17:38:02 +0000 2020 
- 
-`User Description?:` Christian ✝️ Love Jesus Love Others 
- 
-`Followers?: `22 
- 
-`Following?:` 265 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311361150328729602/AWkqTjWy_normal.jpg 
- 
-`Number of tweets excluding replies:` 2147 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 29 , **PRESIDENT** 24 , **JOE** 21 , **DEBATE** 19 , **TRUMP** 18 , **HARRIS** 14 , **PENCE** 13 , **COURT** 12 , **KAMALA** 12 , **@REALDONALDTRUMP** 11 , **ELECTION** 10 , **MEDIA** 10 , **VICE** 10 , **PACKING** 9 , **ANSWER** 8 , **RUSH** 8 , **VIRTUAL** 8 , **@MIKE_PENCE:** 7 , **PRESIDENTIAL** 7 , **PEOPLE** 7 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# mammysevenUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` mammyseven 
- 
-`User chosen Name:` Mammyseven 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 03 22:09:37 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 70 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 508 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KAMALA** 30 , **HARRIS** 25 , **PENCE** 25 , **DEBATE** 20 , **BIDEN** 18 , **TRUMP** 17 , **PRESIDENT** 15 , **JOE** 14 , **@THEBRADFORDFILE:** 12 , **LAST** 12 , **@BREITBARTNEWS** 11 , **MIKE** 10 , **@JACKPOSOBIEC:** 8 , **THAN** 8 , **VIRTUAL** 8 , **@MRANDYNGO:** 7 , **INTO** 7 , **AFTER** 7 , **TAXES** 7 , **NEVER** 7 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# Alexis71891604USER INFO
-![image](http://pbs.twimg.com/profile_images/1313207482311942144/l102cfwl_normal.jpg)
- 
-`User ScreenName:` Alexis71891604 
- 
-`User chosen Name:` Alexis 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Oct 05 19:57:10 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `14 
- 
-`Following?:` 123 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 104 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313207482311942144/l102cfwl_normal.jpg 
- 
-`Number of tweets excluding replies:` 104 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 15 , **BIDEN** 10 , **PRESIDENT** 9 , **@CERWINLIVE:** 9 , **@REALDONALDTRUMP:** 6 , **MEDIA** 6 , **WELL** 5 , **BACK** 5 , **@THESAMSORBO:** 5 , **KNEW** 5 , **@BRENTSCHER:** 4 , **KAMALA** 4 , **HARRIS** 4 , **@DAVIDJHARRISJR:** 4 , **COUNTRY** 4 , **JOE** 4 , **@CATTURD2:** 4 , **FEELING** 4 , **@LOUDCLOWN:** 4 , **@LAVERN_SPICER:** 4 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# Rebecca42970871USER INFO
-![image](http://pbs.twimg.com/profile_images/1313609289651478528/qqG-sx39_normal.jpg)
- 
-`User ScreenName:` Rebecca42970871 
- 
-`User chosen Name:` Rebecca 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Oct 06 22:02:41 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `15 
- 
-`Following?:` 273 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313609289651478528/qqG-sx39_normal.jpg 
- 
-`Number of tweets excluding replies:` 1226 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DMILLS3710:** 10 , **PEOPLE** 9 , **@JAMESOKEEFEIII:** 9 , **PRESIDENT** 8 , **US** 8 , **@SVNEWSALERTS:** 7 , **@BARDSFM:** 7 , **JOE** 7 , **TRUMP** 7 , **POLICE** 6 , **TIME** 6 , **AGAINST** 6 , **COME** 6 , **@PROJECT_VERITAS:** 6 , **NEW** 6 , **BIDEN** 6 , **CALL** 5 , **@JOSHDCAPLAN:** 5 , **@JOEROGAN** 5 , **@CERNOVICH:** 5 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# Addie88073363USER INFO
-![image](http://pbs.twimg.com/profile_images/1312583474096734208/WR3MoVLk_normal.jpg)
- 
-`User ScreenName:` Addie88073363 
- 
-`User chosen Name:` Addie 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Oct 02 01:07:41 +0000 2020 
- 
-`User Description?:` love my GOD,,,love all animals ,,love my Arizona. MAGA.   MAGA.  MAGA. BLUE LIVES MATTER 
- 
-`Followers?: `42 
- 
-`Following?:` 396 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1312583474096734208/WR3MoVLk_normal.jpg 
- 
-`Number of tweets excluding replies:` 799 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KAMALA** 32 , **HARRIS** 30 , **PENCE** 23 , **BIDEN** 22 , **DEBATE** 13 , **TRUMP** 13 , **PRESIDENT** 10 , **JOE** 10 , **@BENSHAPIRO:** 9 , **LAST** 9 , **@KAMALAHARRIS** 7 , **@CHIZMAGA:** 7 , **TONIGHT** 7 , **@REALJAMESWOODS:** 7 , **NEW** 6 , **VP** 6 , **GO** 6 , **MUCH** 6 , **@THEBRADFORDFILE:** 6 , **WOMAN** 6 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# WallyTh53282159USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` WallyTh53282159 
- 
-`User chosen Name:` Wally Thompson 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 03 00:47:06 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 37 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 185 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 185 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 12 , **PRESIDENT** 12 , **@REALDONALDTRUMP:** 10 , **BIDEN** 8 , **HILLARY** 7 , **@REALDONALDTRUMP** 6 , **PENCE** 6 , **JOE** 6 , **VIA** 6 , **RIC** 6 , **GRENELL** 6 , **KEEP** 5 , **TIME** 4 , **GREAT** 4 , **YEARS** 4 , **OBAMA** 4 , **@BENNYJOHNSON:** 4 , **@DRAWANDSTRIKE** 3 , **HARRIS** 3 , **@CHIZMAGA:** 3 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# SporliticalJunkUSER INFO
-![image](http://pbs.twimg.com/profile_images/1313581702946660356/fDo9cT3S_normal.jpg)
- 
-`User ScreenName:` SporliticalJunk 
- 
-`User chosen Name:` 🇬🇧🇺🇸 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Oct 06 17:09:37 +0000 2020 
- 
-`User Description?:` A healthy dose of politics and sports. #WalkAway from the left. Former liberal. Immigrant. #Trump2020 
- 
-`Followers?: `3 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:` Massachusetts, USA 
- 
-`Number of tweets extracted`  : 56 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313581702946660356/fDo9cT3S_normal.jpg 
- 
-`Number of tweets excluding replies:` 56 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HARRIS** 11 , **@BENSHAPIRO:** 8 , **KAMALA** 6 , **DEBATE** 5 , **BIDEN** 5 , **PENCE** 5 , **TRUMP** 4 , **QUESTION** 4 , **REALLY** 4 , **VPDEBATERT** 4 , **DON'T** 3 , **ANALYSIS** 3 , **CAMPAIGN** 3 , **WHICH** 3 , **HARRIS:** 3 , **SEXIST** 2 , **LAST** 2 , **NIGHT** 2 , **TAX** 2 , **MEANS** 2 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# CooperUSA1USER INFO
-![image](http://pbs.twimg.com/profile_images/1312086856172032001/LnxOB4F__normal.jpg)
- 
-`User ScreenName:` CooperUSA1 
- 
-`User chosen Name:` CooperUSA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Oct 02 17:47:07 +0000 2020 
- 
-`User Description?:` Patriot, Chef, Dog Lover 
- 
-`Followers?: `26 
- 
-`Following?:` 280 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1312086856172032001/LnxOB4F__normal.jpg 
- 
-`Number of tweets excluding replies:` 624 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HARRIS** 45 , **KAMALA** 36 , **PENCE** 32 , **BIDEN** 21 , **DEBATE** 17 , **@REALJAMESWOODS:** 17 , **TRUMP** 16 , **COURT** 13 , **PRESIDENT** 12 , **QUESTION** 12 , **@BENSHAPIRO:** 12 , **PEOPLE** 11 , **@DLOESCH:** 10 , **@BUCKSEXTON:** 10 , **ANSWER** 9 , **WON** 8 , **JOE** 8 , **@MATTWALSHBLOG:** 8 , **@RAHEEMKASSAM:** 8 , **NEVER** 7 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# roberto64909631USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` roberto64909631 
- 
-`User chosen Name:` Robert 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 07 01:30:00 +0000 2020 
- 
-`User Description?:` President Trump supporter currently locked out of my account for No reason            Hoping I get my acct back?   @ suzost 
- 
-`Followers?: `4 
- 
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 585 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 22 , **DEBATE** 21 , **PRESIDENT** 19 , **@REALDONALDTRUMP** 17 , **TRUMP** 15 , **HARRIS** 14 , **KAMALA** 13 , **COURT** 12 , **PENCE** 10 , **GOING** 10 , **RUSH** 9 , **SUPREME** 8 , **VIRTUAL** 8 , **PACK** 7 , **JOE** 7 , **@TRUMPWARROOM:** 7 , **SHOW** 7 , **ELECTION** 6 , **PARTY** 6 , **VOTERS** 6 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# istillbelieve44USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` istillbelieve44 
- 
-`User chosen Name:` Istillbelieve44 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 08 02:30:20 +0000 2020 
+`User signup date?:` Wed Oct 07 22:15:22 +0000 2020 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 17 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@MIKE_PENCE:** 1 , **HTTPS://TCO/H5RNFOE8M0RT** 1 , **@SEANSPICER:** 1 , **"IM** 1 , **PRO-LIFE** 1 , **PROUD** 1 , **IT"** 1 , **@VP** 1 , **@MIKE_PENCE** 1 , **PROLIFE** 1 , **VPDEBATERT** 1 , **@RICHLOWRY:** 1 , **FIRST** 1 , **TIME** 1 , **CAMPAIGN** 1 , **BIDEN** 1 , **VULNERABILITIES** 1 , **ECONOMY** 1 , **ENERGY** 1 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# nomDeGu65960702USER INFO
-![image](http://pbs.twimg.com/profile_images/1313719051156217856/FVeUZB3e_normal.jpg)
- 
-`User ScreenName:` nomDeGu65960702 
- 
-`User chosen Name:` nomDeGuerre 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 07 05:52:57 +0000 2020 
- 
-`User Description?:` The supreme art of war is to defeat the enemy without fighting 
- 
-`Followers?: `1 
- 
-`Following?:` 106 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 62 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313719051156217856/FVeUZB3e_normal.jpg 
- 
-`Number of tweets excluding replies:` 62 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HARRIS** 13 , **BIDEN** 11 , **KAMALA** 9 , **PENCE** 7 , **TRUMP** 5 , **@REALDONALDTRUMP:** 5 , **FRACKING** 5 , **JOE** 4 , **WHICH** 4 , **@SEANMDAV:** 3 , **NEVER** 3 , **@JACKPOSOBIEC:** 3 , **@TRUMPWARROOM:** 3 , **@STEVEGUEST:** 3 , **@JENNAELLISESQ:** 3 , **BAN** 3 , **NANCY** 3 , **DEBATE** 3 , **@CHARLIEKIRK11:** 3 , **VERY** 3 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# LibertyLolitaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1311718208794095616/McMd1hcT_normal.jpg)
- 
-`User ScreenName:` LibertyLolita 
- 
-`User chosen Name:` LibertyLolita 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 01 17:21:38 +0000 2020 
- 
-`User Description?:` Fiery but Mostly Peaceful Lover of Life, Liberty & Coffee 
- 
-`Followers?: `32 
- 
-`Following?:` 222 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311718208794095616/McMd1hcT_normal.jpg 
- 
-`Number of tweets excluding replies:` 457 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 32 , **JOE** 21 , **KAMALA** 15 , **PRESIDENT** 14 , **TRUMP** 14 , **@REALDONALDTRUMP** 12 , **@TRUMPWARROOM:** 11 , **HARRIS** 11 , **PENCE** 10 , **DEBATE** 9 , **BREAKING:** 9 , **OBAMA** 8 , **TIME** 7 , **DEMOCRATS** 7 , **PEOPLE** 7 , **EVEN** 6 , **VOTE** 6 , **INTO** 6 , **AMERICANS** 6 , **@REALMATTCOUCH:** 6 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# Lola76048275USER INFO
-![image](http://pbs.twimg.com/profile_images/1312250087473647616/GuS8ZGr1_normal.jpg)
- 
-`User ScreenName:` Lola76048275 
- 
-`User chosen Name:` Lola 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 03 04:35:45 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `10 
- 
-`Following?:` 151 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1312250087473647616/GuS8ZGr1_normal.jpg 
- 
-`Number of tweets excluding replies:` 606 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HARRIS** 40 , **KAMALA** 39 , **PENCE** 32 , **PRESIDENT** 19 , **BIDEN** 17 , **DEBATE** 17 , **@SAMANTHAMARIKA1** 16 , **JOE** 14 , **COURT** 14 , **TRUMP** 13 , **VICE** 13 , **MIKE** 12 , **ANSWER** 11 , **PACKING** 10 , **@REALDONALDTRUMP:** 10 , **QUESTION** 10 , **VPDEBATERT** 8 , **SUPREME** 7 , **GOT** 6 , **JUSTICE** 6 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# Babs98181082USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Babs98181082 
- 
-`User chosen Name:` Babs 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 30 03:38:14 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `15 
- 
-`Following?:` 423 
+`Following?:` 0 
  
 `User URL?:` None 
  
@@ -1360,7 +519,7 @@ RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on econ
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 1188 
+`Number of tweets excluding replies:` 258 
  
 
  
@@ -1368,77 +527,97 @@ RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on econ
  
 ## User Top tweeted words 
  
-**PENCE** 37 , **KAMALA** 33 , **HARRIS** 33 , **DEBATE** 15 , **MIKE** 15 , **@REALDONALDTRUMP:** 14 , **JOE** 13 , **WON** 12 , **PRESIDENT** 11 , **@REALDONALDTRUMP** 11 , **BIDEN** 10 , **TRUMP** 9 , **QUESTION** 9 , **@MIKE_PENCE** 8 , **VICE** 7 , **MEDIA** 7 , **TIME** 6 , **NEVER** 6 , **WOMAN** 6 , **@CHUCKWOOLERY:** 6 , 
+**VIRTUAL** 202 , **SPECIAL** 200 , **FORCES** 200 , **SUMMIT** 199 , **OCT** 26 , **8** 26 , **EST** 26 , **ORACLE** 22 , **BREAKOUT** 22 , **UNDEFINEDAVANT** 21 , **SD-WAN** 19 , **VIDEO** 15 , **SHEET** 11 , **FIVE9** 11 , **SAKON** 11 , **CASE** 10 , **STUDY** 10 , **SECURITY** 10 , **SUCCESS** 10 , **FLEXENTIAL** 10 , 
  
 ## What this user tweeted
  
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
+AVANT Virtual Special Forces Summit - Flexential Cust Success Cybersecurity Globalstar https://t.co/xD5Wkc58zY
  
-# Ed51624549USER INFO
-![image](http://pbs.twimg.com/profile_images/1311243318978805760/qefCjOxo_normal.jpg)
+# antgrasso_USER INFO
+![image](http://pbs.twimg.com/profile_images/1314303412952014852/3EBjG-3O_normal.jpg)
  
-`User ScreenName:` Ed51624549 
+`User ScreenName:` antgrasso_ 
  
-`User chosen Name:` Ed 
+`User chosen Name:` Antonio Grasso 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Sep 30 09:52:09 +0000 2020 
+`User signup date?:` Thu Oct 08 07:00:22 +0000 2020 
  
-`User Description?:` 🇺🇸 🐶🏖⚾️🌈 
+`User Description?:` Digital entrepreneur with a passion for knowledge translation | B2B Tech Influencer | Startups Mentor | CEO @dbi_srl | #Al #loT #Blockchain |🇮🇹 @antgrasso_IT 
  
-`Followers?: `8 
+`Followers?: `2 
  
-`Following?:` 186 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/rG8xFyu0hY 
+ 
+`Location:` Global 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1314303412952014852/3EBjG-3O_normal.jpg 
+ 
+`Number of tweets excluding replies:` 198 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ANTGRASSO:** 183 , **DIGITAL** 40 , **LINK** 28 , **DATA** 19 , **VIA** 16 , **&GT;&GT;** 14 , **@ANTGRASSO** 12 , **SOURCE** 12 , **TECHNOLOGIES** 12 , **FUTURE** 12 , **@LINDAGRASS0:** 12 , **COMPANIES** 12 , **ARTIFICIAL** 11 , **@EVERESTGROUP** 11 , **&GT;&GT;&GT;** 11 , **RESEARCH** 11 , **BUSINESSES** 11 , **WATCH** 11 , **SECURITY** 10 , **AI** 10 , 
+ 
+## What this user tweeted
+ 
+RT @antgrasso: Top 13 General Security Findings and Remedies by @Siemens. [3/13]
+
+👎 "Insecure separation of Networks" - 👍 "Network zone sep…RT @antgrasso: Effective Security for the Multi-Cloud Era.
+
+#infographic Link &gt;&gt; https://t.co/4zIRLmfOpw  @Cisco @cloudlock via @antgrasso…RT @antgrasso: 4 different types of insider attacks.
+
+#Infographic @Fisher85M @teramindco via @antgrasso &gt;&gt;&gt; #CyberSecurity #insiders #Data…RT @antgrasso: Top 13 General Security Findings and Remedies by @Siemens. [2/13]
+ 
+👎 "Unprotected network traffic" - 👍 "Protect network tra…RT @antgrasso: Top 13 General Security Findings and Remedies by @Siemens. [1/13]
+
+👎 "Misplaced client-side Trust" 👍 "Server-side Security"…RT @antgrasso: SMEs are becoming increasingly aware of the risks.
+
+In a recent survey, 43 percent of SMEs with up to 500 employees consider…RT @antgrasso: As the adoption of cloud technology surges, protecting organizations against evolving threats on internet-facing infrastruct…RT @antgrasso: Cyber Security - Ransomware and Government. An Isolated Recovery Vault, can mitigate the consequence of a Ransomware attack.…RT @antgrasso: What’s the cybersecurity situation at small and medium-sized enterprises? Numerous studies show that it could be better. But…RT @antgrasso: In a recent #Ransomware analysis, @DeloitteInsight said: "Like the chicken and the egg, it is difficult to know whether incr…RT @antgrasso: With many nations working from home, cyber hackers are looking to exploit vulnerabilities in an attempt to steal valuable in…RT @antgrasso: A recent @Capgemini research shows that 51 percent of executives are making extensive AI for Cyber Threat detection, outpaci…RT @antgrasso: Privacy isn’t just about compliance anymore. Learn how financial institutions can adopt a more expansive framework to ensure…RT @antgrasso: Top 8 Security Findings and Remedies in Cloud Environments by @Siemens.
+
+8/8 "Insecure Software and Components."
+
+Read More…RT @antgrasso: Top 8 Security Findings and Remedies in Cloud Environments by @Siemens.
+
+7/8 "Weak Application Level Security."
+
+Read More &gt;…
+ 
+# 2TB16USER INFO
+![image](http://pbs.twimg.com/profile_images/1313891215264407552/m-5kwzQK_normal.jpg)
+ 
+`User ScreenName:` 2TB16 
+ 
+`User chosen Name:` 2TB 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Oct 07 17:15:32 +0000 2020 
+ 
+`User Description?:` There's always a right and a wrong. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 16 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 45 
+`Number of tweets extracted`  : 47 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1311243318978805760/qefCjOxo_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1313891215264407552/m-5kwzQK_normal.jpg 
  
-`Number of tweets excluding replies:` 45 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REALDONALDTRUMP:** 11 , **HARRIS** 10 , **PENCE** 8 , **KAMALA** 6 , **WELL** 6 , **@BENSHAPIRO:** 4 , **TRUMP** 4 , **JOE** 4 , **BIDEN** 4 , **DEBATE** 3 , **CAMPAIGN** 3 , **GOING** 3 , **QUESTION** 3 , **YOU’RE** 3 , **PRESIDENT** 3 , **PRESIDENTRT** 3 , **RT** 2 , **@GREGGUTFELD:** 2 , **WIN** 2 , **MEDIA** 2 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# Johnmac69999980USER INFO
-![image](http://pbs.twimg.com/profile_images/1313993370545598464/-nG-fsfa_normal.jpg)
- 
-`User ScreenName:` Johnmac69999980 
- 
-`User chosen Name:` John mack🇨🇦 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Oct 06 17:07:08 +0000 2020 
- 
-`User Description?:` Animal lover. Reformed conservative. God includes the lost and broken in his planes. Alot of times they are the hero's- 
- 
-`Followers?: `58 
- 
-`Following?:` 265 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313993370545598464/-nG-fsfa_normal.jpg 
- 
-`Number of tweets excluding replies:` 1104 
+`Number of tweets excluding replies:` 47 
  
 
  
@@ -1446,38 +625,38 @@ RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on econ
  
 ## User Top tweeted words 
  
-**HARRIS** 21 , **KAMALA** 20 , **DEBATE** 19 , **TRUMP** 18 , **BIDEN** 17 , **PENCE** 12 , **PRESIDENT** 10 , **JOE** 10 , **@REALDONALDTRUMP:** 8 , **@ROBBYSTARBUCK:** 8 , **@JACKPOSOBIEC:** 8 , **HUNTER** 7 , **@JOHNCARDILLO:** 7 , **AFTER** 7 , **@REALDONALDTRUMP** 7 , **VIRTUAL** 7 , **GO** 6 , **MOST** 6 , **MEDIA** 6 , **PEOPLE** 6 , 
+**WORLD** 10 , **AZERBAIJAN** 7 , **STOPALIYEV** 7 , **ARMENIAN** 7 , **ARTSAKH** 6 , **ARMENIANS** 5 , **PEOPLE** 5 , **@ANCA_DC:** 4 , **US** 4 , **ITS** 4 , **ARMENIA** 3 , **STOPAZERILIES** 3 , **STOP** 3 , **INNOCENT** 3 , **STAND** 3 , **CLUSTER** 3 , **BOMBS** 3 , **@NARMENIAN:** 3 , **CLEAR** 2 , **TURKEY** 2 , 
  
 ## What this user tweeted
  
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
  
-# GDad561USER INFO
-![image](http://pbs.twimg.com/profile_images/1313770252661149696/MgiZQ-f0_normal.jpg)
+# AltaPointConsu1USER INFO
+![image](http://pbs.twimg.com/profile_images/1313990215602708482/9pkP5RRa_normal.png)
  
-`User ScreenName:` GDad561 
+`User ScreenName:` AltaPointConsu1 
  
-`User chosen Name:` GradDAD561 
+`User chosen Name:` AltaPoint Consulting 🎁 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Sep 30 22:15:04 +0000 2020 
+`User signup date?:` Wed Oct 07 23:50:00 +0000 2020 
  
-`User Description?:` I’m so deplorable; it’s a wonder I was able to earn my terminal degree and spend the next 50 years living the American Dream! TRUMP2020. IFB all Patriots! 
+`User Description?:` AltaPoint Consulting, redefining Business Transformation. A community caring firm 🎁$ to Charities  & 🎁advice  2 a # of underprivileged Students & Businesses. 
  
-`Followers?: `56 
+`Followers?: `3 
  
-`Following?:` 142 
+`Following?:` 123 
  
-`User URL?:` None 
+`User URL?:` https://t.co/vLE1VRepBM 
  
-`Location:`  
+`Location:` 2000 Ponce De Leon Blvd  33134 
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1313770252661149696/MgiZQ-f0_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1313990215602708482/9pkP5RRa_normal.png 
  
-`Number of tweets excluding replies:` 199 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -1485,156 +664,118 @@ RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on econ
  
 ## User Top tweeted words 
  
-**BIDEN** 17 , **TRUMP** 17 , **@ATENSNUT:** 16 , **PRESIDENT** 15 , **JOE** 14 , **@REALJAMESWOODS:** 14 , **HARRIS** 14 , **OBAMA** 14 , **KAMALA** 12 , **PENCE** 12 , **@REALDONALDTRUMP:** 11 , **@RYANAFOURNIER:** 9 , **@DBONGINO:** 9 , **DEBATE** 8 , **NEVER** 8 , **CHRIS** 8 , **WALLACE** 8 , **@GOVMIKEHUCKABEE:** 8 , **MOST** 7 , **BIDEN’S** 7 , 
+**CYBER** 2 , **STATS** 2 , **NEED** 2 , **RT** 1 , **@ALTAPOINTCONSU1:** 1 , **HTTPS://TCO/TUUMAJD7SMALTAPOINT** 1 , **CONSULTING** 1 , **🎞👀🎯🐱‍💻🤢✔🎁😆👍🤞** 1 , **RECORD** 1 , **BRAKING** 1 , **ATTACKS** 1 , **INTERNET** 1 , **RANSOM…** 1 , **HTTPS://TCO/SXZQBITEMITHE** 1 , **2020** 1 , **CYBERSECURITY** 1 , **HACKING** 1 , **BECOME** 1 , **EVEN** 1 , **LUCRATIVE** 1 , 
  
 ## What this user tweeted
  
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
+The 2020 Cybersecurity Stats You Need To Know &amp; How Hacking Has Become An Even More Lucrative Business Of
+Cyber-Thi… https://t.co/OMQEX0RCSa
  
-# TeddiNugentUSER INFO
-![image](http://pbs.twimg.com/profile_images/1313268817657827328/l3nVKdqM_normal.jpg)
+# liana85799435USER INFO
+![image](http://pbs.twimg.com/profile_images/1313367691298775040/Z5WlA003_normal.jpg)
  
-`User ScreenName:` TeddiNugent 
+`User ScreenName:` liana85799435 
  
-`User chosen Name:` TNug 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Sep 30 06:12:15 +0000 2020 
- 
-`User Description?:` Mom,Nana,Daughter,Sister...Conservative, Politics, Animal Lover.. 
- 
-`Followers?: `4 
- 
-`Following?:` 190 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 152 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313268817657827328/l3nVKdqM_normal.jpg 
- 
-`Number of tweets excluding replies:` 152 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 26 , **PENCE** 21 , **HARRIS** 19 , **TRUMP** 15 , **VIA** 15 , **JOE** 15 , **KAMALA** 12 , **PRESIDENT** 10 , **DEBATE** 8 , **--** 8 , **NEVER** 7 , **@ATENSNUT:** 6 , **THEN** 6 , **@REALDONALDTRUMP** 6 , **TONIGHT** 6 , **PEOPLE** 6 , **VICE** 6 , **@CHARLIEKIRK11:** 6 , **GOING** 5 , **TIME** 5 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# Maria08830433USER INFO
-![image](http://pbs.twimg.com/profile_images/1311160624378978304/bg-7RiuP_normal.jpg)
- 
-`User ScreenName:` Maria08830433 
- 
-`User chosen Name:` Maria 
+`User chosen Name:` liana 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Sep 30 04:24:49 +0000 2020 
- 
-`User Description?:` Patriot
-Love my country 
- 
-`Followers?: `5 
- 
-`Following?:` 108 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 129 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311160624378978304/bg-7RiuP_normal.jpg 
- 
-`Number of tweets excluding replies:` 130 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 15 , **@REALDONALDTRUMP:** 15 , **PRESIDENT** 12 , **HARRIS** 9 , **JOE** 8 , **@JACKPOSOBIEC:** 8 , **BIDEN** 8 , **KAMALA** 8 , **@REALDONALDTRUMP** 8 , **PENCE** 7 , **LOVE** 6 , **@EVERASTEGUI:** 6 , **@THELEOTERRELL:** 5 , **@REDSTEEZE:** 5 , **OBAMA** 5 , **OUTSIDE** 5 , **MELANIA** 5 , **YEARS** 4 , **STATES** 4 , **GO** 4 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# Michael94435464USER INFO
-![image](http://pbs.twimg.com/profile_images/1312869735873220616/QCUOPKi6_normal.jpg)
- 
-`User ScreenName:` Michael94435464 
- 
-`User chosen Name:` Michael 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Oct 04 21:38:00 +0000 2020 
- 
-`User Description?:` MAGA. Proud supporter of President Trump. Conservative and Republican 
- 
-`Followers?: `53 
- 
-`Following?:` 226 
- 
-`User URL?:` None 
- 
-`Location:` Phoenix, AZ 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1312869735873220616/QCUOPKi6_normal.jpg 
- 
-`Number of tweets excluding replies:` 1013 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KAMALA** 37 , **HARRIS** 35 , **PENCE** 26 , **TRUMP** 21 , **BIDEN** 18 , **RT** 13 , **PRESIDENT** 13 , **DEBATE** 12 , **JOE** 11 , **WON** 10 , **COURT** 9 , **PLEASE** 8 , **@REALDONALDTRUMP** 8 , **NEW** 8 , **MIKE** 8 , **ANSWER** 7 , **NEED** 7 , **25TH** 7 , **@DFBHARVARD:** 7 , **PRESIDENTIAL** 7 , 
- 
-## What this user tweeted
- 
-RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on economy, energy, and China being fully and clearly exposed
- 
-# SheoranKalpnaUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` SheoranKalpna 
- 
-`User chosen Name:` Kalpna Sheoran 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Oct 04 08:12:00 +0000 2020 
+`User signup date?:` Fri Oct 02 16:01:48 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `24 
  
-`Following?:` 9 
+`Following?:` 105 
+ 
+`User URL?:` None 
+ 
+`Location:` Armenia 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1313367691298775040/Z5WlA003_normal.jpg 
+ 
+`Number of tweets excluding replies:` 264 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ARCRUNMOD:** 29 , **AZERBAIJAN** 18 , **ԵՄ** 15 , **ARMENIAN** 14 , **ARMENIA** 12 , **THANK** 12 , **ԵՆ** 11 , **STEPANAKERT** 10 , **@PETERVDALEN** 10 , **TURKEY** 9 , **ՄԻ** 9 , **Է** 9 , **ՈՒ** 9 , **ARTSAKH** 9 , **PEOPLE** 8 , **ԷԼ** 8 , **ՈՐ** 8 , **SUPPORT** 7 , **@KORNELIJ:** 7 , **ԻՆՁ** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# Hasmik93543606USER INFO
+![image](http://pbs.twimg.com/profile_images/1312810333170401282/0T6RE-jD_normal.jpg)
+ 
+`User ScreenName:` Hasmik93543606 
+ 
+`User chosen Name:` Hasmik 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 04 14:51:32 +0000 2020 
+ 
+`User Description?:` Armeniër in België 
+ 
+`Followers?: `9 
+ 
+`Following?:` 93 
  
 `User URL?:` None 
  
 `Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312810333170401282/0T6RE-jD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 268 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 26 , **SANCTIONTURKEY** 21 , **@ARCRUNMOD:** 19 , **ARMENIAN** 16 , **STOPAZERBAIJANIAGGRESSION** 15 , **STOPERDOGAN** 15 , **ARMENIA** 14 , **ARTSAKH** 11 , **SAVEARMENIA** 11 , **@BAIRAMIAN:** 8 , **@NATO** 8 , **STEPANAKERT** 8 , **TURKISH** 7 , **WAR** 6 , **@EUROPARL_EN** 6 , **@EUCOPRESIDENT** 6 , **PEOPLE** 6 , **PLEASE** 6 , **AGAINST** 6 , **NAGORNO-KARABAKH** 6 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# DoctorEla1USER INFO
+![image](http://pbs.twimg.com/profile_images/1313273659356844033/eNGrbOvV_normal.jpg)
+ 
+`User ScreenName:` DoctorEla1 
+ 
+`User chosen Name:` Doctor Ela 🦋 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 06 00:23:08 +0000 2020 
+ 
+`User Description?:` I'm the hero of my story 🏹 ⚖ 
+        and also I'm not a doc 👠 
+ 
+`Followers?: `42 
+ 
+`Following?:` 147 
+ 
+`User URL?:` None 
+ 
+`Location:` Here and There  
  
 `Number of tweets extracted`  : 39 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1313273659356844033/eNGrbOvV_normal.jpg 
  
-`Number of tweets excluding replies:` 39 
+`Number of tweets excluding replies:` 40 
  
 
  
@@ -1642,79 +783,116 @@ RT @RichLowry: For the first time in the campaign, Biden vulnerabilities on econ
  
 ## User Top tweeted words 
  
-**@FBDPOLICE:** 39 , **CPFARIDABAD** 13 , **OFFICERS** 10 , **को** 8 , **के** 7 , **POLICE** 7 , **@FBDPOLICE** 7 , **BEAT** 7 , **का** 6 , **है।** 6 , **में** 5 , **पर** 5 , **CRIME** 5 , **APPRECIATED** 4 , **है** 4 , **कि** 4 , **BRANCH** 4 , **ZONE** 4 , **CP** 3 , **FARIDABAD** 3 , 
+**ΤΟ** 11 , **ΝΑ** 11 , **ΠΟΥ** 10 , **ΚΑΙ** 9 , **ΜΕ** 9 , **ΔΕΝ** 8 , **ΤΑ** 5 , **Κ** 5 , **ΤΙ** 5 , **Η** 5 , **ΘΑ** 5 , **ΤΟΥ** 5 , **ΓΙΑ** 5 , **ΤΟΥΣ** 4 , **ΑΝ** 4 , **ΣΕ** 4 , **ΣΑΣ** 4 , **ΤΗΝ** 4 , **ΕΊΝΑΙ** 4 , **@PDCHINALIFE:** 3 , 
  
 ## What this user tweeted
  
-RT @FBDPolice: Saurabh, an IT pro, called on CP, Faridabad today to discuss IT plan for #TeenAgePolice. Idea is to use Instagram &amp; Facebook…
+RT @ChinaScience: For the first time ever, large-scale parallel simulation-based cyber range construction tech has won top prize of 2019 Be…
  
-# Fabric22957013USER INFO
-![image](http://pbs.twimg.com/profile_images/1311012435969609729/bPb8isbb_normal.jpg)
+# MikeCharles617USER INFO
+![image](http://pbs.twimg.com/profile_images/1311152660381184000/qz9jX4df_normal.jpg)
  
-`User ScreenName:` Fabric22957013 
+`User ScreenName:` MikeCharles617 
  
-`User chosen Name:` Fabric 
+`User chosen Name:` Mike Charles 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Sep 29 18:21:18 +0000 2020 
+`User signup date?:` Wed Sep 30 02:57:29 +0000 2020 
  
-`User Description?:` Business owner in FLORIDA 
+`User Description?:` An Armenian American living in the Diaspora. Combating products of forced turkification who have lost their identities and don’t have a clue what they are 
+ 
+`Followers?: `64 
+ 
+`Following?:` 97 
+ 
+`User URL?:` None 
+ 
+`Location:` Watertown, MA 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311152660381184000/qz9jX4df_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1476 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 28 , **TURKEY** 22 , **ARMENIAN** 20 , **ARMENIA** 16 , **😂** 14 , **FAKE** 12 , **MADE** 11 , **ITS** 10 , **TURKIFICATION** 9 , **PEOPLE** 9 , **WORLD** 9 , **AZERBAIJANI** 8 , **FORCED** 8 , **TERRORIST** 8 , **AZERI** 8 , **ARMENIANS** 8 , **EVEN** 8 , **BEFORE** 7 , **ARTSAKH** 7 , **CATHEDRAL** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# CyroseSecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1313045080656076800/Fr6GBEiO_normal.jpg)
+ 
+`User ScreenName:` CyroseSec 
+ 
+`User chosen Name:` CyRose 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 03 14:58:06 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 39 
+ 
+`User URL?:` None 
+ 
+`Location:` Arizona, USA 
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1313045080656076800/Fr6GBEiO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FIRST** 2 , **LINUX** 2 , **BASICS!** 2 , **TOMORROW** 2 , **CYBER** 2 , **SECURITY** 2 , **BOOTCAMP** 2 , **COULD** 2 , **PASSED** 1 , **ASSESSMENT** 1 , **INFOSEC** 1 , **CYBERSECURITYRT** 1 , **@CNN:** 1 , **ASKED** 1 , **HACKER** 1 , **TRY** 1 , **STEAL** 1 , **CNN** 1 , **TECH** 1 , **REPORTER'S** 1 , 
+ 
+## What this user tweeted
+ 
+Passed my first assessment. Now on to #linux basics! #infosec #cybersecurity
+ 
+# PraveenSuisseUSER INFO
+![image](http://pbs.twimg.com/profile_images/1312486729409064960/wrI1HCxm_normal.jpg)
+ 
+`User ScreenName:` PraveenSuisse 
+ 
+`User chosen Name:` Praveen Gajjala 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 03 20:15:36 +0000 2020 
+ 
+`User Description?:` CEO & Founder / Facedapter 
  
 `Followers?: `1 
  
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:` Miami, FL 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1311012435969609729/bPb8isbb_normal.jpg 
- 
-`Number of tweets excluding replies:` 251 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 37 , **PRESIDENT** 23 , **@MARSHABLACKBURN:** 19 , **@KAMALAHARRIS:** 17 , **JUDGE** 16 , **PEOPLE** 15 , **@SENWARREN:** 14 , **@EWARREN:** 13 , **@SENKAMALAHARRIS:** 13 , **@SENATORLOEFFLER:** 12 , **SENATE** 11 , **@AMYKLOBUCHAR:** 11 , **DONALD** 11 , **AMY** 11 , **CONEY** 11 , **BIDEN** 10 , **@SENATORFISCHER:** 10 , **AMERICANS** 9 , **COURT** 9 , **THAN** 9 , 
- 
-## What this user tweeted
- 
-RT @SenatorLoeffler: This #MadeInAmerica Week, we must remember the critical need to bring manufacturing home.
- 
-COVID has exposed our reli…
- 
-# Zakirg13USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Zakirg13 
- 
-`User chosen Name:` Zakirg 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 07 20:08:52 +0000 2020 
- 
-`User Description?:` I'm new I need online projects 
- 
-`Followers?: `4 
- 
-`Following?:` 26 
+`Following?:` 4 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1312486729409064960/wrI1HCxm_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -1722,30 +900,28 @@ COVID has exposed our reli…
  
 ## User Top tweeted words 
  
-**DRIVING** 3 , **OFFER** 3 , **@ARSTECHNICA:** 3 , **DE** 3 , **QUE** 3 , **SAADAT** 2 , **SCHOOL** 2 , **NOS** 2 , **मे** 2 , **काम** 2 , **से** 2 , **आप** 2 , **LO** 2 , **RT** 1 , **@EHTASHA44633505:** 1 , **VERY** 1 , **IMPORTANT** 1 , **TRAVELLING** 1 , **OTHER** 1 , **PURPOSE'S** 1 , 
+**MEMBER** 2 , **@CREUSMOREIRA:** 2 , **INTERNET** 2 , **RT** 1 , **@ADNOVUM:** 1 , **LEO** 1 , **BOLCHANINE** 1 , **HEAD** 1 , **CYBERSECURITY** 1 , **ROMANDIE** 1 , **INTERVIEWED** 1 , **STARTUPS** 1 , **ADVISORY** 1 , **BOARD** 1 , **TECH4TRUST…RT** 1 , **MAJOR** 1 , **FOREIGN** 1 , **COMPANY** 1 , **WANTS** 1 , **SWITZERLAND** 1 , 
  
 ## What this user tweeted
  
-RT @pfsense: pfSense version 2.4.4-RELEASE is now available.
-
-https://t.co/oq9rVnweJ6 includes fixes for three potential vulnerabilities.
+RT @AdNovum: Leo Bolchanine, our Head of Cybersecurity Romandie, interviewed startups as a member of the advisory board for the #TECH4TRUST…
  
-# Atena63640856USER INFO
-![image](http://pbs.twimg.com/profile_images/1312764522017497089/-1j_Wlcg_normal.jpg)
+# gh_shakeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310948430995492864/N4iZ4GYo_normal.jpg)
  
-`User ScreenName:` Atena63640856 
+`User ScreenName:` gh_shake 
  
-`User chosen Name:` Atena 
+`User chosen Name:` Shaké_Gh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Oct 04 14:40:06 +0000 2020 
+`User signup date?:` Tue Sep 29 14:18:44 +0000 2020 
  
-`User Description?:` Atena 
+`User Description?:`  
  
-`Followers?: `96 
+`Followers?: `19 
  
-`Following?:` 74 
+`Following?:` 46 
  
 `User URL?:` None 
  
@@ -1753,9 +929,9 @@ https://t.co/oq9rVnweJ6 includes fixes for three potential vulnerabilities.
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1312764522017497089/-1j_Wlcg_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1310948430995492864/N4iZ4GYo_normal.jpg 
  
-`Number of tweets excluding replies:` 729 
+`Number of tweets excluding replies:` 292 
  
 
  
@@ -1763,37 +939,36 @@ https://t.co/oq9rVnweJ6 includes fixes for three potential vulnerabilities.
  
 ## User Top tweeted words 
  
-**و** 87 , **به** 65 , **که** 60 , **از** 56 , **در** 47 , **را** 44 , **حسین** 44 , **اربعین** 40 , **حب_الحسین_یجمعناRT** 37 , **حب_الحسین_یجمعنا** 33 , **ما** 32 , **است** 30 , **این** 29 , **با** 27 , **کربلا** 25 , **امام** 23 , **می** 22 , **تا** 20 , **من** 19 , **تو** 19 , 
+**AZERBAIJAN** 51 , **ARMENIA** 28 , **ARTSAKH** 20 , **STEPANAKERT** 17 , **TURKEY** 14 , **ARMENIAN** 12 , **ATTACK** 12 , **STOPTURKEY** 12 , **@PRES_ARTSAKH:** 12 , **CIVILIAN** 11 , **@ARTAK_BEGLARYAN:** 10 , **STOPAZERBAIJANIAGGRESSION** 10 , **SHUSHI** 10 , **AGAINST** 10 , **STOPALIYEV** 10 , **@ARCRUNMOD:** 10 , **CIVILIANS** 9 , **ARTSAKHSTRONG** 9 , **STOPTERRORISMAGAINSTARTSAKH** 9 , **ARTSAKH/KARABAKH** 8 , 
  
 ## What this user tweeted
  
-RT @verica_io: Chaos Engineering discovers vulnerabilities and prevents outages before they impact your customers.  Get the @OReillyMedia b…
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
  
-# Boboster3USER INFO
-![image](http://pbs.twimg.com/profile_images/1313569613213556738/XqNeTPOH_normal.jpg)
+# fkmtc_cyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311708881819709445/gxKg019R_normal.jpg)
  
-`User ScreenName:` Boboster3 
+`User ScreenName:` fkmtc_cyber 
  
-`User chosen Name:` Boboster 
+`User chosen Name:` Cyber Instructor 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Oct 06 19:58:57 +0000 2020 
+`User signup date?:` Thu Oct 01 16:45:13 +0000 2020 
  
-`User Description?:` Bobo is back bois
-$YFI $UNI 
+`User Description?:` The Applied Cybersecurity program is committed to developing skilled professionals who can meet the ever-evolving field's challenges. 
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 20 
+`Following?:` 17 
  
-`User URL?:` None 
+`User URL?:` https://t.co/Z5vzQZnsOF 
  
-`Location:`  
+`Location:` F K Marchman Technical College 
  
 `Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1313569613213556738/XqNeTPOH_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1311708881819709445/gxKg019R_normal.jpg 
  
 `Number of tweets excluding replies:` 6 
  
@@ -1803,38 +978,906 @@ $YFI $UNI
  
 ## User Top tweeted words 
  
-**$UNI** 3 , **$YFI** 3 , **HERE** 3 , **BOBO** 2 , **RT** 1 , **@FALCONIUSFIST:** 1 , **LOOKS** 1 , **WRAPPING** 1 , **RETEST** 1 , **TIME** 1 , **PUSH** 1 , **UP?** 1 , **EVERYTHING'S** 1 , **MOVING** 1 , **UNISON** 1 , **WOW** 1 , **PUN…LOOKS** 1 , **MADE** 1 , **GOOD** 1 , **CALL** 1 , 
+**CYBERSECURITY** 2 , **BECYBERSMART** 2 , **CYBERSECURITYAWARENESSMONTH** 2 , **CYBER** 2 , **ROLE** 1 , **HTTPS://TCO/F4MIKFBM7UCONGRATULATIONS** 1 , **WILLIAM** 1 , **BIRDWELL** 1 , **EARNING** 1 , **AWARD** 1 , **EXCELLENCE** 1 , **MONTH** 1 , **SEPTEMBER!!!** 1 , **PHOENIXPROUD** 1 , **HTTPS://TCO/PBVSVV1E7QTHE** 1 , **DEMAND** 1 , **WELL-TRAINED** 1 , **PROS** 1 , **ALL-TIME** 1 , **HIGH** 1 , 
  
 ## What this user tweeted
  
-RT @AndreCronjeTech: I am still building @eminencefi. I love the metaverse and metaconomy. 
-
-I am also going to continue deploying test con…
+Own Your Role in Cybersecurity. #BeCyberSmart this #CybersecurityAwarenessMonth https://t.co/f4MiKFbm7u
  
-# LiskeyMeganUSER INFO
-![image](http://pbs.twimg.com/profile_images/1313138726055354370/A5JVQHNo_normal.jpg)
+# SkekTekk1USER INFO
+![image](http://pbs.twimg.com/profile_images/1314230775362056193/EFsQBKDx_normal.jpg)
  
-`User ScreenName:` LiskeyMegan 
+`User ScreenName:` SkekTekk1 
  
-`User chosen Name:` Megan Liskey 
+`User chosen Name:` Waiting for Trump's OUT OF OFFICE reply 🤘🏽 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Oct 05 15:11:11 +0000 2020 
+`User signup date?:` Thu Oct 08 15:43:10 +0000 2020 
  
-`User Description?:` UCL Institute of Education ~ Social Policy and Social Research MSc student | Psychology and Human Development | Avid reader | Podcast enthusiast 
+`User Description?:` Here until Trump's email responds OUT OF OFFICE 
  
-`Followers?: `11 
+`Followers?: `4 
  
-`Following?:` 128 
+`Following?:` 92 
  
 `User URL?:` None 
  
-`Location:` London 
+`Location:` Europe 
+ 
+`Number of tweets extracted`  : 56 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1314230775362056193/EFsQBKDx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 56 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 13 , **@POVHIGHPLAINS** 7 , **@MARILYNBORGLUM** 7 , **@GOVWHITMER** 7 , **@REALDONALDTRUMP** 7 , **THESE** 4 , **JOE** 4 , **BIDEN** 4 , **COULD** 3 , **SHOW** 3 , **SHIT-COVERED** 3 , **FAN** 3 , **ENOUGH** 3 , **@PROJECTLINCOLN:** 3 , **@THEHILL** 2 , **@HAPPIG19** 2 , **PRESIDENT** 2 , **@JOEBIDEN** 2 , **@KAMALAHARRIS** 2 , **NEEDS** 2 , 
+ 
+## What this user tweeted
+ 
+@HappiG19 @POVHighPlains @MarilynBorglum @GovWhitmer https://t.co/VjfqP8AH3i
+Yeah, this guy clearly points the fing… https://t.co/6Q8HfMpHLQ
+ 
+# Vahe27250250USER INFO
+![image](http://pbs.twimg.com/profile_images/1311560860641513477/4FYy1pw6_normal.jpg)
+ 
+`User ScreenName:` Vahe27250250 
+ 
+`User chosen Name:` Vahe 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 30 11:08:53 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `39 
+ 
+`Following?:` 77 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 171 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311560860641513477/4FYy1pw6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 187 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STOPAZERBAIJANIAGGRESSION** 18 , **STOPALIYEV** 16 , **@ARMENIANUNIFIED:** 15 , **TURKEY** 13 , **ARMENIA** 12 , **ARTSAKH** 12 , **ARMENIAN** 10 , **STOPERDOGHAN** 10 , **AZERBAIJAN** 9 , **STOPERDOGAN** 9 , **@ARCRUNMOD:** 9 , **@NIKOLPASHINYAN:** 8 , **STOPTURKISHAGGRESSION** 8 , **AZERBAIJANI** 8 , **REPORTERS** 8 , **@PRES_ARTSAKH:** 7 , **ARMENIANS** 7 , **FORCES** 7 , **AZERBAIJAN/I** 7 , **INJURED** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# RickPino2USER INFO
+![image](http://pbs.twimg.com/profile_images/1314275504078434305/dEH95EyZ_normal.jpg)
+ 
+`User ScreenName:` RickPino2 
+ 
+`User chosen Name:` Rick Pino 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 08 18:44:08 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1314275504078434305/dEH95EyZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PCI** 2 , **DSS** 2 , **RT** 1 , **@SOUTHSEASDATA:** 1 , **279%** 1 , **ORGANIZATIONS** 1 , **ABLE** 1 , **MAINTAIN** 1 , **COMPLIANCE** 1 , **CYBERSECURITY** 1 , **SYSTEM** 1 , **CISO** 1 , **HTTPS:/…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SouthSeasData: Only 27.9% of organizations able to maintain compliance with the PCI DSS.
+#PCI #Cybersecurity #DSS #System #CISO
+https:/…
+ 
+# Lilit73966254USER INFO
+![image](http://pbs.twimg.com/profile_images/1311984470183104512/ZRYAjpaJ_normal.jpg)
+ 
+`User ScreenName:` Lilit73966254 
+ 
+`User chosen Name:` Lilit 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 02 11:00:09 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 99 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311984470183104512/ZRYAjpaJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 103 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 25 , **ARMENIA** 15 , **@KORNELIJ:** 12 , **KARABAKH** 12 , **STEPANAKERT** 10 , **ARTSAKH** 9 , **STOPAZERBAIJANIAGGRESSION** 8 , **TURKEY** 7 , **WAR** 7 , **ATTACK** 6 , **FORCES** 6 , **CIVILIANS** 6 , **CIVILIAN** 6 , **ARMENIAN** 5 , **THANK** 5 , **AGAINST** 5 , **HEAVY** 5 , **ARMENIANS** 5 , **CLUSTER** 5 , **SHELLING** 5 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# Tigran12819780USER INFO
+![image](http://pbs.twimg.com/profile_images/1311626818269700098/BtsxcA-f_normal.jpg)
+ 
+`User ScreenName:` Tigran12819780 
+ 
+`User chosen Name:` Tigran 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 01 11:18:44 +0000 2020 
+ 
+`User Description?:` 🇦🇲We will win the war against terrorism of  Azerbaijan and Turkey🇦🇲
+https://t.co/LtD84O4Ihd 
+ 
+`Followers?: `164 
+ 
+`Following?:` 756 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311626818269700098/BtsxcA-f_normal.jpg 
+ 
+`Number of tweets excluding replies:` 808 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STOPAZERBAIJANIAGGRESSION** 44 , **STOPTERRORISMAGAINSTARTSAKH** 15 , **AZERBAIJAN** 14 , **ARMENIAN** 11 , **ARMENIA** 11 , **ARTSAKHSTRONG** 9 , **STOPALIYEV** 8 , **ARTSAKH** 8 , **STEPANAKERT** 8 , **CATHEDRAL** 7 , **SHELLING** 7 , **SANCTIONTURKEY** 6 , **@TIGRAN12819780:** 6 , **CIVILIANS** 6 , **CITY** 6 , **AGAINST** 6 , **GHAZANCHETSOTS** 5 , **SHUSHI** 5 , **WAR** 5 , **@ARMINAMOVSESYAN:** 5 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# vulnmachinesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1314088264131723264/Jix3MeIo_normal.png)
+ 
+`User ScreenName:` vulnmachines 
+ 
+`User chosen Name:` Vulnmachines 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 08 06:20:00 +0000 2020 
+ 
+`User Description?:` VulnMachines - Place for Pentesters
+
+Manage by @Rapidsafeguard 
+ 
+`Followers?: `5 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/gLwSUA4q5v 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1314088264131723264/Jix3MeIo_normal.png 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SMUGGLER** 1 , **HTTP** 1 , **REQUEST** 1 , **SMUGGLING** 1 , **/** 1 , **DESYNC** 1 , **TESTING** 1 , **TOOL** 1 , **WRITTEN** 1 , **PYTHON** 1 , **3** 1 , **@DEFPARAM** 1 , **HTTPS://TCO/6WRPC8WAN5** 1 , **INFOSECOPEN** 1 , **REDIRECTS** 1 , **BYPASSING** 1 , **CSRF** 1 , **VALIDATIONS-** 1 , **SIMPLIFIED** 1 , **GOSWAMIIJAYA** 1 , 
+ 
+## What this user tweeted
+ 
+Cybersecurity Project budget.
+
+#infosec #security #informationtechnology https://t.co/DABTX4DKeV
+ 
+# Stevendeukmedj1USER INFO
+![image](http://pbs.twimg.com/profile_images/1314148411726204928/4qJLJxJo_normal.jpg)
+ 
+`User ScreenName:` Stevendeukmedj1 
+ 
+`User chosen Name:` Stevendeukmedjian@gmail.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 08 10:18:38 +0000 2020 
+ 
+`User Description?:` Armenian 🇦🇲
+Sydney Australia 
+ 
+`Followers?: `20 
+ 
+`Following?:` 93 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1314148411726204928/4qJLJxJo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHURCH** 2 , **WEEKS** 2 , **RT** 1 , **@WEBIMPRINTS:** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **HACKING** 1 , **SECURITY** 1 , **ANONYMOUS** 1 , **DEFACES** 1 , **TURKISH** 1 , **PARLIAMENT** 1 , **WEBSITE** 1 , **SUPPORT** 1 , **ARMENIA** 1 , **HTTPS://TCO…RT** 1 , **@HOFFSET69:** 1 , **ISHALLA** 1 , **DIE** 1 , **@PRESIDENTAZ** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# Yeranuh39849635USER INFO
+![image](http://pbs.twimg.com/profile_images/1311019671597060100/JnhO1l2Y_normal.jpg)
+ 
+`User ScreenName:` Yeranuh39849635 
+ 
+`User chosen Name:` Yeranuhi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 29 08:32:34 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `8 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311019671597060100/JnhO1l2Y_normal.jpg 
+ 
+`Number of tweets excluding replies:` 769 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 49 , **STEPANAKERT** 36 , **ARTSAKH** 26 , **ARMENIA** 21 , **SHUSHI** 18 , **CAPITAL** 14 , **ARMENIAN** 13 , **@517DESIGN:** 13 , **CATHEDRAL** 13 , **TURKEY** 13 , **GHAZANCHETSOTS** 13 , **AZERBAIJANI** 13 , **KARABAKH** 12 , **UNDER** 12 , **@TBALAYAN:** 11 , **AGAINST** 11 , **FORCES** 11 , **CITY** 11 , **HEAVY** 11 , **SHELLING** 10 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# KalantaryanAramUSER INFO
+![image](http://pbs.twimg.com/profile_images/1312376044574380032/gf6bH_Q7_normal.jpg)
+ 
+`User ScreenName:` KalantaryanAram 
+ 
+`User chosen Name:` Aram Kalantaryan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 03 09:21:25 +0000 2020 
+ 
+`User Description?:` #հաղթելուենք 
+ 
+`Followers?: `2 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 88 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312376044574380032/gf6bH_Q7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 88 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ARCRUNMOD:** 23 , **ARMENIA** 13 , **Է** 12 , **STEPANAKERT** 11 , **ԵՒ** 8 , **AZERBAIJAN** 7 , **ԵՆ** 6 , **SHELLING** 6 , **ՄԻ** 6 , **ARTSAKH** 6 , **TURKISH** 5 , **@ARMENIANUNIFIED:** 5 , **ARMENIAN** 5 , **AZERBAIJAN'S** 5 , **@SHSTEPANYAN:** 5 , **EN** 4 , **TURKEY** 4 , **AGAINST** 4 , **@RAZMINFO:** 4 , **@ARMENIANPOLICE:** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# cydtechcaucusUSER INFO
+![image](http://pbs.twimg.com/profile_images/1312068559359471618/RGn3cL6D_normal.jpg)
+ 
+`User ScreenName:` cydtechcaucus 
+ 
+`User chosen Name:` cydtechcaucus 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 02 16:34:49 +0000 2020 
+ 
+`User Description?:` We're young, tech-focused, & vote @thedemocrats.
+Re-chartering with @cayoungdems.
+Email: cydtechcaucus@gmail.com 
+ 
+`Followers?: `4 
+ 
+`Following?:` 11 
+ 
+`User URL?:` https://t.co/m15ux2W6cq 
+ 
+`Location:` California 
+ 
+`Number of tweets extracted`  : 16 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312068559359471618/RGn3cL6D_normal.jpg 
+ 
+`Number of tweets excluding replies:` 16 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CISAGOV:** 5 , **CYBER** 4 , **@JOEBIDEN:** 3 , **USE** 3 , **SPOOFED** 3 , **WE'RE** 2 , **CRIMINALS** 2 , **MAY** 2 , **DOMAINS** 2 , **ELECTION** 2 , **ISSUED** 2 , **ALERT** 2 , **US** 2 , **RT** 1 , **⚠️** 1 , **WE’VE** 1 , **SEEN** 1 , **SIGNIFICANT** 1 , **INCREASE** 1 , **MALICIOUS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CISAgov: ⚠️ We’ve seen a significant increase in malicious cyber actors targeting state &amp; local governments with #Emotet #phishing emai…
+ 
+# MeliqPHUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311769524497190915/XNS5df3E_normal.jpg)
+ 
+`User ScreenName:` MeliqPH 
+ 
+`User chosen Name:` Meliq Pilosyan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 01 15:53:45 +0000 2020 
+ 
+`User Description?:` #RoR software engineer — Founder of #RubyLabs LLC 
+ 
+`Followers?: `2 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:` Gyumri, Armenia 
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311769524497190915/XNS5df3E_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SILVA71932894** 1 , **@KORNELIJ** 1 , **😂😂😂👌RT** 1 , **@WEBIMPRINTS:** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **HACKING** 1 , **SECURITY** 1 , **ANONYMOUS** 1 , **DEFACES** 1 , **TURKISH** 1 , **PARLIAMENT** 1 , **WEBSITE** 1 , **SUPPORT** 1 , **ARMENIA** 1 , **HTTPS://TCO…RT** 1 , **@NIKOLPASHINYAN:** 1 , **ARMENIANS** 1 , **NAGORNO-KARABAKH** 1 , **FACING** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# RMesrkhaniUSER INFO
+![image](http://pbs.twimg.com/profile_images/1312224169459773440/Q05gd1pP_normal.jpg)
+ 
+`User ScreenName:` RMesrkhani 
+ 
+`User chosen Name:` Romik Mesrkhani 🇦🇲 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 03 02:48:09 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `36 
+ 
+`Following?:` 151 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 103 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312224169459773440/Q05gd1pP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 103 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 24 , **ARTSAKH** 16 , **ARMENIA** 13 , **ARMENIAN** 13 , **TURKISH** 10 , **TURKEY** 9 , **GENOCIDE** 9 , **@ARMENIANVOICES:** 7 , **AZERI** 6 , **SANCTIONTURKEY** 6 , **@REALDONALDTRUMP** 5 , **STOP** 5 , **STOPAZERBAIJANIAGGRESSION** 5 , **PEOPLE** 5 , **@REUTERS** 5 , **DONTBELIEVEAZERBAIJAN** 5 , **NEWS** 4 , **@LATIMES** 4 , **STOPERDOGAN** 4 , **ARMENIANS** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# RoxyJoh26160491USER INFO
+![image](http://pbs.twimg.com/profile_images/1312391262419529734/z_qID8kN_normal.jpg)
+ 
+`User ScreenName:` RoxyJoh26160491 
+ 
+`User chosen Name:` Roxy Johnson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 03 13:54:55 +0000 2020 
+ 
+`User Description?:` I’m a Documentary Photographer and Armenian Bakery Owner. My roots came from Armenia and I’m very proud to be part of Armenia! 
+ 
+`Followers?: `2 
+ 
+`Following?:` 71 
+ 
+`User URL?:` None 
+ 
+`Location:` New York, NY 
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312391262419529734/z_qID8kN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WAR!!!** 11 , **ARMENIAN** 11 , **POPULATION** 11 , **DANGER!** 11 , **SAY** 10 , **AZERBAIJANIAGGRESSION** 10 , **TURKEYTERRORIST** 7 , **ARMENIA** 4 , **!!!!!…** 4 , **PRAY** 2 , **TURKISH** 2 , **NEW** 2 , **YORK** 2 , **!!!!!** 2 , **TURKEY** 2 , **UNITED** 2 , **STATES** 2 , **WAR** 2 , **NEED** 2 , **RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# MuradyanAnna1USER INFO
+![image](http://pbs.twimg.com/profile_images/1311387228468383745/Ni4xqza6_normal.jpg)
+ 
+`User ScreenName:` MuradyanAnna1 
+ 
+`User chosen Name:` Muradyan Anna 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 30 19:27:18 +0000 2020 
+ 
+`User Description?:` #Artsakhstrong 🇦🇲                 #Հաղթելուենք 
+ 
+`Followers?: `15 
+ 
+`Following?:` 68 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311387228468383745/Ni4xqza6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1221 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**Է** 26 , **AZERBAIJAN** 25 , **DE** 20 , **SHUSHI** 16 , **LA** 16 , **ARTSAKH** 14 , **ARMENIA** 14 , **@ARAVOTDAILY:** 13 , **ԵՒ** 13 , **CATHEDRAL** 13 , **GHAZANCHETSOTS** 13 , **@TERTAM_ARM:** 13 , **ET** 11 , **SANCTIONTURKEY** 11 , **ARTSAKHSTRONG** 11 , **ARMENIAN** 10 , **À** 10 , **LE** 10 , **@MPHRACHHAKOBYAN:** 9 , **@HETQ_TRACE:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# AndreArmenuhiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311268896570187779/ceYSbkgZ_normal.jpg)
+ 
+`User ScreenName:` AndreArmenuhi 
+ 
+`User chosen Name:` André Armenuhi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 30 11:25:00 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `21 
+ 
+`Following?:` 63 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311268896570187779/ceYSbkgZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 330 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 31 , **DE** 27 , **LA** 26 , **@ARCRUNMOD:** 23 , **LES** 23 , **ARTSAKH** 21 , **ET** 19 , **STEPANAKERT** 16 , **ARMENIA** 14 , **LE** 14 , **DES** 13 , **RECOGNIZEARTSAKH** 12 , **MILITARY** 11 , **@SHSTEPANYAN:** 11 , **STOPALIYEV** 10 , **🇦🇲** 10 , **AZERBAIJANI** 9 , **ARTSAKHSTRONG** 9 , **D** 8 , **ARMY** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# Brendan13622549USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Brendan13622549 
+ 
+`User chosen Name:` Brendan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 08 18:36:00 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ACCOUNT** 3 , **REPLYING** 2 , **ACCOUNTS** 2 , **EMAIL** 2 , **@ATVIASSIST** 1 , **@JOHNNYBEASTBOY** 1 , **YOU'VE** 1 , **BUSY** 1 , **DOESN'T** 1 , **MEAN** 1 , **ISN'T** 1 , **COMPLETE** 1 , **FAILURE** 1 , **CUSTOMER** 1 , **SUPPORT@ATVIASSIST** 1 , **POSTS** 1 , **AUGUST** 1 , **PEOPLE'S** 1 , **SAME** 1 , **TIME** 1 , 
+ 
+## What this user tweeted
+ 
+@ATVIAssist On another note, what is the point of having an email associated with your account if anyone can go in… https://t.co/iPaZdlWpgD
+ 
+# Hacktales_ngUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311961728469602306/7BMGh9-r_normal.jpg)
+ 
+`User ScreenName:` Hacktales_ng 
+ 
+`User chosen Name:` Hacktales Limited 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 02 09:30:05 +0000 2020 
+ 
+`User Description?:` Hacktales is committed to training and developing resourceful professionals for the cybersecurity industry. 
+ 
+`Followers?: `32 
+ 
+`Following?:` 11 
+ 
+`User URL?:` https://t.co/qx95zOY0Bk 
+ 
+`Location:` Lagos, Nigeria 
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311961728469602306/7BMGh9-r_normal.jpg 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 4 , **US** 3 , **MONTH** 2 , **@CHENNE___:** 2 , **LIFE** 2 , **@NEEMAHSEC** 2 , **WHICH** 2 , **I'M** 2 , **RT** 1 , **@LIFEINHERLANE:** 1 , **ANYONE** 1 , **INTERESTED** 1 , **CYBRARY** 1 , **MADE** 1 , **7** 1 , **COURSES** 1 , **FREE** 1 , **OCTOBER** 1 , **CYBERSECU…RT** 1 , **GOOD** 1 , 
+ 
+## What this user tweeted
+ 
+RT @lifeinherlane: For anyone interested in Cybersecurity, Cybrary has made 7 of their courses free for the month of October for #Cybersecu…
+ 
+# mar__aveUSER INFO
+![image](http://pbs.twimg.com/profile_images/1310971313083822087/BfXianWP_normal.jpg)
+ 
+`User ScreenName:` mar__ave 
+ 
+`User chosen Name:` Mariam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 29 14:02:50 +0000 2020 
+ 
+`User Description?:` We Will Win / We are stronger together ❤️ 
+ 
+`Followers?: `10 
+ 
+`Following?:` 92 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 100 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1310971313083822087/BfXianWP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 100 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 19 , **ARTSAKH** 18 , **STEPANAKERT** 15 , **ARMENIA** 14 , **ARTSAKHSTRONG** 13 , **AZERBAIJANI** 13 , **CIVILIAN** 9 , **@ARCRUNMOD:** 8 , **@NEILPHAUER:** 7 , **FORCES** 7 , **@NIKOLPASHINYAN:** 7 , **@KORNELIJ:** 6 , **KARABAKH** 6 , **PEOPLE** 6 , **NEW** 6 , **AGAINST** 6 , **CITY** 6 , **@SHSTEPANYAN:** 6 , **STOPAZERBAIJANIAGGRESSION** 6 , **TURKEY** 6 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# Dlge74612602USER INFO
+![image](http://pbs.twimg.com/profile_images/1311808208017780738/_EPVC9_Z_normal.jpg)
+ 
+`User ScreenName:` Dlge74612602 
+ 
+`User chosen Name:` 𝒦𝒰ℛ𝒟 𝖯𝖾𝗋𝖾𝗌𝗍 | ✪ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 01 17:56:41 +0000 2020 
+ 
+`User Description?:` Until every inch is free!❤️☀️💚 #𝖪𝖴𝖱𝖣 #𝖪𝖴𝖱𝖣Î #𝖪𝖴𝖱𝖣Î𝖲𝖳𝖠𝖭 ☭ 2+2=1 ✪ 𝖷𝗈𝗋𝗍𝖾𝗄 𝗃𝗂 𝖪𝗎𝗋𝖽𝗂𝗌𝗍𝖺𝗇𝖾 ☼ 
+ 
+`Followers?: `215 
+ 
+`Following?:` 458 
+ 
+`User URL?:` None 
+ 
+`Location:` KURDÎSTAN 
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311808208017780738/_EPVC9_Z_normal.jpg 
+ 
+`Number of tweets excluding replies:` 407 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VE** 29 , **BIR** 25 , **FREEDOM4OCALANNOW** 23 , **BU** 14 , **IÇIN** 12 , **KADAR** 10 , **FREEDOM4OCALANNEW** 10 , **TURKEY** 9 , **KÜRT** 9 , **EKIM** 9 , **6** 9 , **ARMENIA** 8 , **KARŞI** 7 , **@SENDIKAORGARSIV:** 7 , **2014** 7 , **VAR** 6 , **EN** 6 , **DA** 6 , **SANCTIONTURKEY** 6 , **HIÇ** 6 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# MuradyanArminUSER INFO
+![image](http://pbs.twimg.com/profile_images/1311583977266909184/ohyoYM_G_normal.jpg)
+ 
+`User ScreenName:` MuradyanArmin 
+ 
+`User chosen Name:` Armin Muradyan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 01 08:28:04 +0000 2020 
+ 
+`User Description?:` Armenian 
+ 
+`Followers?: `3 
+ 
+`Following?:` 55 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 167 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1311583977266909184/ohyoYM_G_normal.jpg 
+ 
+`Number of tweets excluding replies:` 167 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ARCRUNMOD:** 23 , **ARMENIA** 20 , **AZERBAIJAN** 20 , **@SHSTEPANYAN:** 18 , **ARTSAKH** 11 , **@PRES_ARTSAKH:** 11 , **@KORNELIJ:** 10 , **ARMENIAN** 10 , **AZERBAIJANI** 10 , **TURKEY** 9 , **STEPANAKERT** 9 , **ARMY** 8 , **AGAINST** 8 , **FORCES** 8 , **CALL** 8 , **ENEMY** 8 , **@ATATOYAN:** 7 , **ATTACK** 7 , **WORLD** 7 , **EXPRESS** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# AarhusUniCyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1313751519741739008/oDQZkRUA_normal.jpg)
+ 
+`User ScreenName:` AarhusUniCyber 
+ 
+`User chosen Name:` Aarhus University Cybersecurity Information 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Oct 07 07:25:20 +0000 2020 
+ 
+`User Description?:` Twitter account managed by AU IT Blue Team. We attempt to spread awareness of current cybersecurity issues. 
+ 
+`Followers?: `3 
+ 
+`Following?:` 4 
+ 
+`User URL?:` https://t.co/Jja5pBLrQg 
+ 
+`Location:` Aarhus, Denmark 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1313751519741739008/oDQZkRUA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PHISHING** 2 , **E-MAILS** 2 , **ACTIVE** 1 , **MASTERCARD** 1 , **TONIGHT:** 1 , **TRANSACTION** 1 , **MADE** 1 , **IP-ADDRESS** 1 , **OUTSIDE** 1 , **DK** 1 , **(NOT)** 1 , **PLEASE** 1 , **CA…** 1 , **HTTPS://TCO/WUXIZOY3JXBEC** 1 , **AWARE** 1 , **COLLEAGUES** 1 , **SUPERIORS** 1 , **OTHERS** 1 , **SUDDENLY** 1 , **HAVING** 1 , 
+ 
+## What this user tweeted
+ 
+Active Mastercard Phishing tonight: A transaction has been made from an IP-address outside DK. (not)
+Please take ca… https://t.co/WuXIzOy3Jx
+ 
+# dearsonaaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1312036731059941376/cqbGRfxm_normal.jpg)
+ 
+`User ScreenName:` dearsonaa 
+ 
+`User chosen Name:` Sona 🇦🇲 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 02 07:22:20 +0000 2020 
+ 
+`User Description?:` my previous account was suspended but fuck twitter im not gonna shut up about war in Artsakh so follow me and lets raise awareness together ! 🇦🇲💪🏻 
+ 
+`Followers?: `36 
+ 
+`Following?:` 63 
+ 
+`User URL?:` None 
+ 
+`Location:` Armenia 
+ 
+`Number of tweets extracted`  : 64 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1312036731059941376/cqbGRfxm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 64 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AZERBAIJAN** 9 , **ARMENIA** 7 , **STOPAZERBAIJANIAGGRESSION** 7 , **ARTSAKH** 7 , **TURKEY** 5 , **ARMENIAN** 5 , **ARMENIANS** 4 , **STOPALIYEV** 4 , **CIVILIAN** 4 , **STOPATTACKINGCIVILIANS** 4 , **AZERBAIJANI** 4 , **KARABAKH** 4 , **STOPTURKISHAGGRESSION** 4 , **@KORNELIJ:** 4 , **ARMENIAAGAINSTTERRORISM** 4 , **TURKISH** 3 , **MUST** 3 , **STOP** 3 , **GOING** 3 , **WAR** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
+ 
+# NelliTumanyanMUSER INFO
+![image](http://pbs.twimg.com/profile_images/1313564815634432005/7OBliIvj_normal.jpg)
+ 
+`User ScreenName:` NelliTumanyanM 
+ 
+`User chosen Name:` Nelli 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 04 17:06:32 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1313138726055354370/A5JVQHNo_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1313564815634432005/7OBliIvj_normal.jpg 
  
 `Number of tweets excluding replies:` 7 
  
@@ -1844,38 +1887,38 @@ I am also going to continue deploying test con…
  
 ## User Top tweeted words 
  
-**DOES** 2 , **ANYONE** 2 , **MEDIA** 2 , **BROUGHT** 2 , **US** 2 , **TOGETHER** 2 , **TRUMP** 1 , **PENCE** 1 , **ACTUALLY** 1 , **LOST** 1 , **DEBATES?** 1 , **LEFT** 1 , **BIDEN** 1 , **HAR…** 1 , **HTTPS://TCO/F8I6P7QZQXSEARCHING** 1 , **INTELLIGENT** 1 , **FEMALE** 1 , **PODCASTER** 1 , **THOUGHTFULLY** 1 , **DISCUSSING** 1 , 
+**RT** 1 , **@WEBIMPRINTS:** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **HACKING** 1 , **SECURITY** 1 , **ANONYMOUS** 1 , **DEFACES** 1 , **TURKISH** 1 , **PARLIAMENT** 1 , **WEBSITE** 1 , **SUPPORT** 1 , **ARMENIA** 1 , **HTTPS://TCO…RT** 1 , **@ARMPUBLICTV:** 1 , **ST** 1 , **GHAZANCHETSOTS** 1 , **CHURCH** 1 , **SHUSHI** 1 , **DAMAGED** 1 , 
  
 ## What this user tweeted
  
-"We really need to be a self aware culture of the vulnerabilities of our own mind." @tristanharris on @SamHarrisOrg podcast
+RT @Webimprints: #infosec #cybersecurity #hacking #security Anonymous defaces Turkish Parliament website in support of Armenia https://t.co…
  
-# TheRugbyStudentUSER INFO
-![image](http://pbs.twimg.com/profile_images/1312061343806218240/NXVlnDHH_normal.jpg)
+# AbnPepeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1314158312922009600/6M7NBWNC_normal.jpg)
  
-`User ScreenName:` TheRugbyStudent 
+`User ScreenName:` AbnPepe 
  
-`User chosen Name:` The Rugby Student 
+`User chosen Name:` abn pepe jr 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Oct 02 13:20:46 +0000 2020 
+`User signup date?:` Thu Oct 08 10:58:03 +0000 2020 
  
-`User Description?:` I study #rugby. I played the game for twenty years now trying my hand at #CoachingRugby. “If you fail to prepare, you’re prepared to fail.” @leinsterrugby 
+`User Description?:` 🇺🇲 American through and through 🇺🇲 
  
-`Followers?: `57 
+`Followers?: `9 
  
-`Following?:` 141 
+`Following?:` 93 
  
 `User URL?:` None 
  
-`Location:` On a rugby pitch somewhere 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1312061343806218240/NXVlnDHH_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1314158312922009600/6M7NBWNC_normal.jpg 
  
-`Number of tweets excluding replies:` 218 
+`Number of tweets excluding replies:` 482 
  
 
  
@@ -1883,12 +1926,11 @@ I am also going to continue deploying test con…
  
 ## User Top tweeted words 
  
-**RUGBY** 24 , **SEASON** 11 , **PLAYERS** 10 , **GREAT** 10 , **SQUAD** 9 , **TRY** 9 , **BACK** 8 , **TEAM** 7 , **GOOD** 7 , **INTO** 7 , **COACHING** 6 , **ENGLAND** 6 , **SOME** 6 , **BEST** 6 , **FINAL** 6 , **TRAINING** 6 , **@PRO14OFFICIAL:** 6 , **@PREMRUGBY** 6 , **OFF** 6 , **GO** 6 , 
+**AIRBORNERT** 36 , **@CURIOUSCAMO:** 13 , **PRESIDENT** 10 , **@DBONGINO:** 9 , **TRUMP** 8 , **BIDEN** 7 , **@MAJORPATRIOT:** 7 , **PEOPLE** 7 , **@CURIOUSCAMO** 6 , **@SEANHANNITY:** 6 , **@JUDICIALWATCH:** 6 , **@JULIANSRUM:** 6 , **AIRBORNE!RT** 6 , **AIRBORNE** 6 , **RUSH** 6 , **JOE** 6 , **WAY** 5 , **KAMALA** 5 , **HARRIS** 5 , **SHOW** 5 , 
  
 ## What this user tweeted
  
-conflicts that need resolution, and team and organisational vulnerabilities that
-need addressing.
+RT @FBI: The #FBI will join our partners at the @IDTheftCenter and @StaySafeOnline for a Twitter chat on cybersecurity today. For tips on h…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
