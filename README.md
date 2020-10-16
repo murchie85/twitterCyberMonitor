@@ -974,21 +974,50 @@ RT @Nishi67151120: I am shook. Being a part of a technical university all my inf
  
 `User signup date?:` Tue Oct 13 05:58:23 +0000 2020 
  
-`User Description?:`  rofile_images/default_profile_normal.png)
- 
-`User ScreenName:` AgboladeDamilo2 
- 
-`User chosen Name:` Agbolade Damilola 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 15 11:00:11 +0000 2020 
- 
 `User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 16 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 30 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 30 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JEZHUMBLE:** 4 , **@ANTGRASSO:** 4 , **@RONALD_VANLOON:** 4 , **THESE** 3 , **@JEFFBARR:** 3 , **AWS** 3 , **FIRST** 3 , **PROFESSOR** 3 , **@IITMADRAS:** 3 , **AI** 3 , **HOSTED** 2 , **OPEN** 2 , **DIGITAL** 2 , **OFFERS** 2 , **MARIAN** 2 , **MUST** 2 , **INVESTORS** 2 , **BLOCKCHAIN** 2 , **GUIDE** 2 , **FEEL** 2 , 
+ 
+## What this user tweeted
+ 
+RT @antgrasso: By the number of deals, investors in FinTech are the most active blockchain investors followed by blockchain infrastructures…
+ 
+# ZonaYadavUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` ZonaYadav 
+ 
+`User chosen Name:` Zona 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 13 12:29:06 +0000 2020 
+ 
+`User Description?:` Igdtuw student 
+ 
+`Followers?: `10 
+ 
+`Following?:` 8 
  
 `User URL?:` None 
  
@@ -998,7 +1027,7 @@ RT @Nishi67151120: I am shook. Being a part of a technical university all my inf
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 299 
+`Number of tweets excluding replies:` 541 
  
 
  
@@ -1006,77 +1035,38 @@ RT @Nishi67151120: I am shook. Being a part of a technical university all my inf
  
 ## User Top tweeted words 
  
-**ENDSWAT** 82 , **ENDSARS** 35 , **PROTESTERS** 34 , **THUGS** 27 , **PROTEST** 21 , **US** 18 , **POLICE** 17 , **ENDSWATRT** 16 , **ONLINE** 14 , **ALAUSAPROTEST** 13 , **PLEASE** 13 , **PEOPLE** 12 , **NEED** 12 , **SARS** 11 , **PEACEFUL** 11 , **SOME** 10 , **ALAUSA** 10 , **GOVERNMENT** 10 , **NIGERIAN** 10 , **THESE** 10 , 
+**IGDTUW** 131 , **EXAMS** 63 , **BOYCOTTPEXA** 62 , **STUDENTS** 56 , **UNHEARDVOICESOFIGDTUW** 54 , **MENTALHEALTHMATTERS** 46 , **STOPVIRTUALPRIVACYINVASION** 31 , **PEXALITE** 27 , **PLEASE** 21 , **@MSISODIA** 19 , **IGDTUWEXAMSRT** 19 , **GIVE** 19 , **AGAINST** 17 , **@ARVINDKEJRIWAL** 17 , **IGDTUWEXAMS** 16 , **SUCH** 16 , **DON'T** 15 , **THIRD** 15 , **SOFTWARE** 15 , **NOTICE** 14 , 
  
 ## What this user tweeted
  
-RT @MomentsWithBren: Protesting for your rights as Nigerian citizens is something they are aware of but they are going to feed on your vuln…
+RT @IGDTUWStudent1: How hard is it or how much  unjustified is it to provide the students safe environment to take exams rather than relyin…
  
-# StacyLa21211219USER INFO
-![image](http://pbs.twimg.com/profile_images/1316685033394958337/TjHlkC3Z_normal.jpg)
- 
-`User ScreenName:` StacyLa21211219 
- 
-`User chosen Name:` Stacy Lawrence 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 15 05:53:56 +0000 2020 
- 
-`User Description?:` Testing Specialist with immense interest in technology and learning new things. Welcome to my space! 
- 
-`Followers?: `5 
- 
-`Following?:` 58 
- 
-`User URL?:` None 
- 
-`Location:` United States 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1316685033394958337/TjHlkC3Z_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GUIDE** 4 , **TESTING** 3 , **TOOLS** 2 , **SOFTWARE** 2 , **WHICH** 2 , **INFORMATIVE** 2 , **FRIDAY** 2 , **GO** 1 , **WEB** 1 , **AUTOMATED** 1 , **CHALLENGES** 1 , **OVERCOME** 1 , **HTTPS://TCO/OVY6VUTFXZQUICK** 1 , **VIEW** 1 , **TRENDING** 1 , **HTTPS://TCO/LHFQBYDXN2** 1 , **SOFTWAREDEVLOVEPER** 1 , **TECHNOLOGYREAD** 1 , **QUICK** 1 , **GOT** 1 , 
- 
-## What this user tweeted
- 
-Read this informative guide on penetration testing which helps to uncover the critical security issues of your syst… https://t.co/49UYtXK0cI
- 
-# thatssobasic3USER INFO
+# priyal250USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` thatssobasic3 
+`User ScreenName:` priyal250 
  
-`User chosen Name:` thats_so_basic 
+`User chosen Name:` Igdtuw21 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Oct 13 06:08:29 +0000 2020 
+`User signup date?:` Fri Oct 16 14:58:50 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `12 
  
-`Following?:` 67 
+`Following?:` 7 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 200 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 476 
  
 
  
@@ -1084,77 +1074,38 @@ Read this informative guide on penetration testing which helps to uncover the cr
  
 ## User Top tweeted words 
  
-**@TRAPTALKTOEM** 1 , **SAGITTARIUSRT** 1 , **@BLVCK_HERBALIST:** 1 , **FEW** 1 , **MOMENTS** 1 , **JUSTBREATH** 1 , **EXIST** 1 , **MOMENT** 1 , **YOU’RE** 1 , **CURRENTLY** 1 , **PLANT** 1 , **FEET** 1 , **FLAT** 1 , **GROUND** 1 , **IN…RT** 1 , **@TAMUDABIANCA:** 1 , **SELF** 1 , **IMPROVEMENT** 1 , **VERY** 1 , **IMPORTANT** 1 , 
+**IGDTUW** 90 , **BOYCOTTPEXA** 66 , **UNHEARDVOICESOFIGDTUW** 63 , **MENTALHEALTHMATTERS** 41 , **EXAMS** 37 , **@ARVINDKEJRIWAL** 37 , **STOPVIRTUALPRIVACYINVASION** 34 , **STUDENTS** 28 , **@MSISODIA** 26 , **IGDTUWEXAMS** 23 , **US** 22 , **GIVE** 20 , **PLEASE** 20 , **PEXALITE** 19 , **DON'T** 17 , **HELP** 17 , **DEMAND** 17 , **IGDTUWEXAMSRT** 16 , **MENTAL** 16 , **AGAINST** 14 , 
  
 ## What this user tweeted
  
-RT @blvck_herbalist: Take a few moments to just...breath. Exist in the moment you’re currently in. Plant your feet flat to ground &amp; take in…
+RT @Nishi67151120: I am shook. Being a part of a technical university all my information and work files are stored in my laptop . Just for…
  
-# Luna_0x01USER INFO
-![image](http://pbs.twimg.com/profile_images/1313992776237805568/c4rCX1yi_normal.jpg)
+# felipe23831576USER INFO
+![image](http://pbs.twimg.com/profile_images/1317151959120531456/RR_9PzUO_normal.jpg)
  
-`User ScreenName:` Luna_0x01 
+`User ScreenName:` felipe23831576 
  
-`User chosen Name:` °( ̳• ·̫ • ̳) °ルナ(Luna) 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 07 23:56:45 +0000 2020 
- 
-`User Description?:` 초보 Ethical Hacker&그림쟁이/버그바운티 준비중/그린그림 가끔 올림/같은 화이트해커,라테일 유저,그림쟁이 분들은 부담갖지 마시고 팔로우 하셔도 됩니다 XD 잡덕 분들도 가능 맞팔가능 부담 (X) /하는게임:라테일&콜오브튜티 블랙옵스 좀비/리트윗&잡담많음 
- 
-`Followers?: `1 
- 
-`Following?:` 41 
- 
-`User URL?:` https://t.co/DZSxcY9W1Y 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 94 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1313992776237805568/c4rCX1yi_normal.jpg 
- 
-`Number of tweets excluding replies:` 94 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ART** 14 , **@BUGCROWD:** 14 , **라테일** 12 , **:** 10 , **사신** 10 , **@LATALE_JAPAN:** 9 , **@MY_LATALE:** 8 , **@ARTING_2D:** 7 , **G** 7 , **HTTPS://TCO/OKDVSAUWMC** 7 , **이미지** 7 , **자료모음** 7 , **입니다** 7 , **캐릭터원화** 7 , **CHARACTER** 7 , **아트인지** 7 , **ARTING** 7 , **게임학원** 7 , **이펙트** 7 , **UI** 7 , 
- 
-## What this user tweeted
- 
-RT @Hacker0x01: Calling @sfisaca members! Attending the monthly member meeting? On Wednesday we're taking an inside look at the most common…
- 
-# Narende90616502USER INFO
-![image](http://pbs.twimg.com/profile_images/1315900484213932032/LYzQyHet_normal.jpg)
- 
-`User ScreenName:` Narende90616502 
- 
-`User chosen Name:` Narender 
+`User chosen Name:` felipe 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Oct 13 05:59:23 +0000 2020 
+`User signup date?:` Fri Oct 16 17:13:49 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Cybersecurity is my passion, computer engineer. 
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 1 
+`Following?:` 10 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 189 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1315900484213932032/LYzQyHet_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1317151959120531456/RR_9PzUO_normal.jpg 
  
-`Number of tweets excluding replies:` 189 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -1162,38 +1113,77 @@ RT @Hacker0x01: Calling @sfisaca members! Attending the monthly member meeting? 
  
 ## User Top tweeted words 
  
-**@FBDPOLICE:** 179 , **के** 41 , **@FBDPOLICE** 36 , **की** 33 , **POLICE** 31 , **में** 30 , **को** 29 , **FARIDABAD** 23 , **पर** 22 , **पुलिस** 21 , **ने** 21 , **CPFARIDABAD** 20 , **से** 19 , **का** 17 , **है।** 16 , **@POLICE_HARYANA** 14 , **OFFICERS** 14 , **और** 13 , **⁦@FBDPOLICE⁩** 13 , **एक** 12 , 
+**KEEP** 5 , **INFOSEC** 4 , **CHECK** 3 , **TIMES** 3 , **THESE** 3 , **PHISHING** 2 , **IMPORTANT** 2 , **CYBERSECURITY** 2 , **BUSINESS** 2 , **CONTINUITY** 2 , **TOP** 2 , **MIND!** 2 , **INFOSEC!** 2 , **SECURITY** 2 , **DATA-ENTRY** 1 , **ATTACKS** 1 , **GETTING** 1 , **CRAFTIER** 1 , **BLOG** 1 , **LEARN** 1 , 
  
 ## What this user tweeted
  
-RT @FBDPolice: Saurabh, an IT pro, called on CP, Faridabad today to discuss IT plan for #TeenAgePolice. Idea is to use Instagram &amp; Facebook…
+Some great tips from Infosec on how employers can empower their employees and close their organization’s cybersecur… https://t.co/61wLGAfkqc
  
-# A_Thieves_ThiefUSER INFO
+# Anonymo92718607USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` A_Thieves_Thief 
+`User ScreenName:` Anonymo92718607 
  
-`User chosen Name:` Thief 
+`User chosen Name:` Anonymous 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Oct 12 03:14:00 +0000 2020 
+`User signup date?:` Fri Oct 16 16:42:15 +0000 2020 
  
-`User Description?:` lost 
+`User Description?:`  
  
-`Followers?: `0 
+`Followers?: `3 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 38 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 38 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IGDTUW** 11 , **STUDENTS** 11 , **COME** 9 , **SOFTWARE** 9 , **UNHEARDVOICESOFIGDTUW** 8 , **UNIVERSITY** 8 , **@ARVINDKEJRIWAL** 7 , **US** 7 , **BOYCOTTPEXA** 6 , **MENTAL** 5 , **GIVE** 5 , **@MSISODIA** 5 , **BEING** 5 , **@IGDTUSTUDENT12:** 5 , **IGDTUWEXAMS** 4 , **EXAM** 4 , **NEW** 4 , **DEMAND** 4 , **PLEASE** 4 , **HEALTH** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Nishi67151120: I am shook. Being a part of a technical university all my information and work files are stored in my laptop . Just for…
+ 
+# IgdtuwgirlUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Igdtuwgirl 
+ 
+`User chosen Name:` Igdtuw Girl 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 16 17:28:01 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
  
 `Following?:` 0 
  
 `User URL?:` None 
  
-`Location:` REDACTED 
+`Location:` Delhi 
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 131 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 131 
  
 
  
@@ -1201,7 +1191,19 @@ RT @FBDPolice: Saurabh, an IT pro, called on CP, Faridabad today to discuss IT p
  
 ## User Top tweeted words 
  
-**STEAL** 18 , **STOLEN** 15 , **I'M** 3 , **KEEP** 2 , **SAFE?** 2 , **MANY** 2 , **NAMES** 2 , **MATTER?** 2 , **PEOPLE** 2 , **DYING** 1 , **TONIGHT** 1 , **ELEVATOR** 1 , **HELL** 1 , **SURVIVED** 1 , **HIGHWAYHOW** 1 , **POSSESSIONS** 1 , **YOURSELF** 1 , **FLAWS** 1 , **STRATEGIES?…** 1 , **HTTPS://TCO/RMQDKTBSMFSTEAL** 1 , 
+**IGDTUW** 68 , **UNHEARDVOICESOFIGDTUW** 43 , **BOYCOTTPEXA** 41 , **STUDENTS** 32 , **EXAMS** 28 , **MENTALHEALTHMATTERS** 27 , **@MSISODIA** 17 , **STOPVIRTUALPRIVACYINVASION** 16 , **@ARVINDKEJRIWAL** 15 , **BEING** 14 , **PLEASE** 13 , **IGDTUWEXAMS** 12 , **SOFTWARE** 11 , **GIVE** 11 , **PRIVACY** 11 , **US** 11 , **DEMAND** 11 , **AI** 9 , **UNIVERSITY** 9 , **HELP** 9 , 
+ 
+## What this user tweeted
+ 
+RT @Nishi67151120: I am shook. Being a part of a technical university all my information and work files are stored in my laptop . Just for…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>STEAL** 1 , 
  
 ## What this user tweeted
  
