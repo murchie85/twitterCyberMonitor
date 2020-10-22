@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **jsolomonReports**  
+The most popular user is: **likethecoins**  
  
 
-## Bernard Kerik confirmed he joined Giuliani in reporting laptop contents to Delaware police, saying he has concerns… https://t.co/LpZzanhLmW 
+## I have some REALLY exciting news... this year's #CTISummit is FREE!!!!!! You can get more info and register here:… https://t.co/p3y1oc2PJJ 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **jsolomonReports**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @EthicsPh: As part of these attacks, the NSA has seen twenty-five publicly disclosed vulnerabilities exploited to gain access to network… |
-| Cisco Firepower Management Center Software  Cross-Site Scripting Vulnerabilities https://t.co/5uhYhYsOS9 |
-| RT @AghiathChbib: Address bar spoofing vulnerabilities disclosed by security researchers https://t.co/0eOrmTUewf #Cybercrime #Cyberattacks… |
+| RT @JinibaBD: U.S. Spy Agency Warns That Chinese Hackers Target Military, Defense Industry #CyberSecurity #osint #infosec #cyberthreats #ha… |
+| RT @asfakian: It gets even worse. Ryuk in 5 hours according to a recent blog post from @TheDFIRReport . Interesting to see privilege escala… |
+| RT @JinibaBD: Card details for 3 million Dickey's customers posted on carding forum #CyberSecurity #osint #infosec #cyberthreats #hackers #… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jsolomonReports** |
-| #2 Most tweeted to  | **hugolowell** |
-| #3 Most tweeted to  | **Transgendertrd** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 1.62%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 1.93%  |
+| Tweeters with < 10 followers  | 0.96%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,86 +50,47 @@ The most popular user is: **jsolomonReports**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **CHINESE**  |
-| third  | **HACKERS** |
-| fourth  | **REPORTING**  |
-| fifth  | **NSA**  |
+| first  | **OSINT**  |
+| second  | **INFOSEC**  |
+| third  | **CYBERTHREATS** |
+| fourth  | **HACKERS**  |
+| fifth  | **@JINIBABD:**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (13.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @mi_mcca: Owning our story is hard but not as difficult as spending our lives running from it. Embracing our vulnerabilities is risky bu… |
+|RT @qolhf: What happened to the Mirai infections? @abuse_ch #CyberSecurity #infosecurity #vulnerability #linux #Pentesting #Bitcoin #Cybe… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jsolomonReports**  |
+| The most retweeted user is: **likethecoins**  |
 | ------------- |
-| Bernard Kerik confirmed he joined Giuliani in reporting laptop contents to Delaware police, saying he has concerns… https://t.co/LpZzanhLmW |
+| I have some REALLY exciting news... this year's #CTISummit is FREE!!!!!! You can get more info and register here:… https://t.co/p3y1oc2PJJ |
 
 # Potential Fake Accounts
  
-# AwarenessRfgUSER INFO
-![image](http://pbs.twimg.com/profile_images/1318983305879080966/F4xfMg0v_normal.jpg)
+# ellengineerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1318695321157791744/M84XxHxQ_normal.jpg)
  
-`User ScreenName:` AwarenessRfg 
+`User ScreenName:` ellengineer 
  
-`User chosen Name:` Homeland Project 
+`User chosen Name:` ellengineer 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Oct 21 12:16:09 +0000 2020 
+`User signup date?:` Tue Oct 20 23:22:32 +0000 2020 
  
-`User Description?:` This is an academic project with the objective of creating awareness with Refugees' situation nowadays 
+`User Description?:` I’m an engineer 
  
 `Followers?: `1 
  
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1318983305879080966/F4xfMg0v_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MEXICO** 2 , **SOME** 1 , **MAIN** 1 , **CONSEQUENCES** 1 , **REFUGEES** 1 , **FACE** 1 , **KIDNAPPING** 1 , **DISAPPEARANCE** 1 , **SEXUAL** 1 , **ASSAULT** 1 , **TRAFFICKI…** 1 , **HTTPS://TCO/ITXHOYSPXPDID** 1 , **COUNTRY** 1 , **IMMIGRANTS** 1 , **GO** 1 , **THROUGH** 1 , **REFUGEE** 1 , **RECIEVING** 1 , **COUNTRY?** 1 , **HTTPS://TCO/RTYWJOMGWKWELCOME** 1 , 
- 
-## What this user tweeted
- 
-Some of the main consequences that refugees in Mexico face are kidnapping, disappearance, sexual assault, trafficki… https://t.co/ItxHOYspXP
- 
-# HinataNakamotoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1318549153769787394/EuaH6gGd_normal.jpg)
- 
-`User ScreenName:` HinataNakamoto 
- 
-`User chosen Name:` Hinata Nakamoto 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Oct 20 13:46:16 +0000 2020 
- 
-`User Description?:` Trying to teach Naruto Bitcoin but he's dumb! 
- 
-`Followers?: `10 
- 
-`Following?:` 63 
+`Following?:` 16 
  
 `User URL?:` None 
  
@@ -137,7 +98,7 @@ Some of the main consequences that refugees in Mexico face are kidnapping, disap
  
 `Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1318549153769787394/EuaH6gGd_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1318695321157791744/M84XxHxQ_normal.jpg 
  
 `Number of tweets excluding replies:` 5 
  
@@ -147,119 +108,41 @@ Some of the main consequences that refugees in Mexico face are kidnapping, disap
  
 ## User Top tweeted words 
  
-**@RAZOR_NETWORK** 3 , **PROJECT** 2 , **PROJECTS** 2 , **INCREDIBLE** 1 , **-TRULY** 1 , **DECENTRALIZED** 1 , **PUBLIC** 1 , **-ONLY** 1 , **ORACLE** 1 , **OFFER** 1 , **FAST** 1 , **SECURE** 1 , **RESULTS** 1 , **-…** 1 , **HTTPS://TCO/16GKKSCRTHGREAT** 1 , **COMING** 1 , **OTHE** 1 , **PARTS** 1 , **ASIA** 1 , **TESTNET** 1 , 
+**@CYBER:** 3 , **@DARKREADING:** 2 , **RANSOMWARE** 2 , **ATTACKS** 2 , **CYBER** 2 , **RT** 1 , **STANDARDS** 1 , **EXIST** 1 , **CERTIFY** 1 , **SECURE** 1 , **IOT** 1 , **SYSTEMS?** 1 , **LOREN** 1 , **BROWMAN** 1 , **SENIOR** 1 , **SECURITY** 1 , **RESEARCHER** 1 , **@OPTIV** 1 , **WEIGHS** 1 , **IN:** 1 , 
  
 ## What this user tweeted
  
-@dens_club @razor_network New Project from India! The hub of developers. 
-We have solved the security probleim with… https://t.co/GTP8DfTdpY
+RT @DarkReading: Ransomware Attacks Show Little Sign of Slowing in 2021 https://t.co/OFEuiRBXMy by @jaivijayan 
+#ransomware #cybercrime #th…
  
-# U153NUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# CursosFacuUSER INFO
+![image](http://pbs.twimg.com/profile_images/1315862751915520000/Y7DaAg59_normal.jpg)
  
-`User ScreenName:` U153N 
+`User ScreenName:` CursosFacu 
  
-`User chosen Name:` 311107P0U153N 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 22 18:23:45 +0000 2020 
- 
-`User Description?:` Big Bad Hacker 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 2 , **INFORMATION** 2 , **THESE** 1 , **CHINESE** 1 , **MAKE** 1 , **FUSS** 1 , **ALWAYS** 1 , **TRY** 1 , **LEARN** 1 , **RUSSIAN** 1 , **HACKERS** 1 , **HTTPS://TCO/PK6WSQFUUJ** 1 , **SNOWDENISGREATCAN** 1 , **ANY** 1 , **MOMENT** 1 , **TIME** 1 , **RISE** 1 , **ECONOMIC** 1 , **DEPRESSION** 1 , **NATIONWANTSTOKNOWPLEASE** 1 , 
- 
-## What this user tweeted
- 
-These chinese people have to make a fuss always just try to learn from russian hackers.
-https://t.co/pk6WSQfuuj
-#Snowdenisgreat
- 
-# MA_7861USER INFO
-![image](http://pbs.twimg.com/profile_images/1319240757904113665/wRNpL_2z_normal.jpg)
- 
-`User ScreenName:` MA_7861 
- 
-`User chosen Name:` محمد منیر 
+`User chosen Name:` Cursos Facu 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Oct 22 01:07:49 +0000 2020 
+`User signup date?:` Tue Oct 13 03:47:21 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Cursos de informática
+Ciberseguridad
+Programación 
  
-`Followers?: `67 
+`Followers?: `99 
  
-`Following?:` 168 
+`Following?:` 3 
  
-`User URL?:` None 
+`User URL?:` https://t.co/uHumdEX0q4 
  
 `Location:`  
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1319240757904113665/wRNpL_2z_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1315862751915520000/Y7DaAg59_normal.jpg 
  
-`Number of tweets excluding replies:` 517 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**فوج_ہے_تو_پاکستان_ہے** 115 , **کے** 66 , **کی** 49 , **اور** 46 , **میں** 46 , **سے** 43 , **کا** 36 , **کو** 33 , **PAKISTAN** 31 , **@IMRANBURGER:** 26 , **نے** 23 , **پر** 22 , **پاکستان** 22 , **ARMY** 22 , **ہے** 21 , **کہ** 19 , **کر** 18 , **فوج** 18 , **اس** 17 , **PAK** 16 , 
- 
-## What this user tweeted
- 
-RT @ali4812: #فوج_ہے_تو_پاکستان_ہے                        While Pakistan is the 36th largest country in the world in terms of total land ar…
- 
-# UndeadDrMcCoyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1319191957961408512/MseYkrq6_normal.png)
- 
-`User ScreenName:` UndeadDrMcCoy 
- 
-`User chosen Name:` Sven "DrMcCoy" Hesse 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 22 08:19:50 +0000 2020 
- 
-`User Description?:` Geek. Left. Doom and Stoner Metal. καλλίστῃ. RPG DM. Social Justice Wizard. Reverse engineer. xoreos. Software freedom zealot. He/Him, cis. Algorithm-generated. 
- 
-`Followers?: `8 
- 
-`Following?:` 130 
- 
-`User URL?:` https://t.co/l6goiBW23s 
- 
-`Location:` Braunschweig, Germany 
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1319191957961408512/MseYkrq6_normal.png 
- 
-`Number of tweets excluding replies:` 21 
+`Number of tweets excluding replies:` 9310 
  
 
  
@@ -267,38 +150,70 @@ RT @ali4812: #فوج_ہے_تو_پاکستان_ہے                        While 
  
 ## User Top tweeted words 
  
-**DAS** 3 , **FOOT** 2 , **ONCE** 2 , **VOR** 2 , **FUGEN-S** 2 , **@FOONE** 1 , **FONTS** 1 , **JADE** 1 , **EMPIRE** 1 , **(SBM** 1 , **IMAGE** 1 , **DATA)** 1 , **DOES** 1 , **SAME** 1 , **2** 1 , **BITS** 1 , **PER** 1 , **PIXEL** 1 , **GRAYSCALE** 1 , **I…** 1 , 
+**INFOSEC** 84 , **CYBERSECURITY** 56 , **SECURITY** 28 , **HACKING** 16 , **CYBER** 15 , **DE** 14 , **NEW** 13 , **ATTACKS** 11 , **@INFORMACIJA:** 9 , **MALWARE** 8 , **MICROSOFT** 8 , **DATA** 8 , **US** 8 , **…RT** 8 , **READ** 8 , **INFOSECRT** 8 , **ANDROID** 7 , **RANSOMWARE** 7 , **HACKERS** 7 , **@IAM__NETWORK:** 7 , 
  
 ## What this user tweeted
  
-RT @jfbastien: Ugh! I was going to finally tell you my joke about vulnerabilities, but the vendor demanded an extension 24 hours before the…
+RT @MonarchinMN: In a little over 1 hour 
+DOJ #LIVE update on a  #NationalSecurity and #cyber  matter #ThreatIntel 
+https://t.co/GYjqeiZR35…RT @javier_carriazo: China Cybersecurity: No Place to Hide, Part 2 #CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #databrea…RT @cnoanalysis: OUT NOW! @selenalarson and I contributed “Industrial Cyber Attacks in the Middle East and International Consequences” to h…RT @FarsightSecInc: Farsight Security Debuts Farsight Labs to Create a New Collaborative Community for Security Practitioners https://t.co/…RT @FarsightSecInc: Farsight Security Announces General Availability for DNSDB 2.0 Flexible Search, a Powerful Tool to Uncover Phishing, Br…RT @Hakin9: Hacker's OSINT Compendium - Special edition that contains all the important information and tutorials about open source intelli…RT @JinibaBD: Hackers steal Haldiram's data: Asks for $750k ransom #CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #databrea…RT @Hakin9: Cyber Threat Intelligence is our latest edition! Download free preview and read one full article! https://t.co/dBEVXi0Hqg 
+
+#in…RT @agedchild003: RT @Secnewsbytes: RT @javier_carriazo: China Cybersecurity: No Place to Hide, Part 2 #CyberSecurity #osint #infosec #cybe…RT @agedchild003: RT @CyberSecurityN8: RT @javier_carriazo: China Cybersecurity: No Place to Hide, Part 2 #CyberSecurity #osint #infosec #c…RT @piiqmedia: PiiQ SPEAR - Insider Threat + Social Engineering Detection https://t.co/akLRjMKJ40 via @YouTube @piiqmedia #SocialEngineerin…RT @FarsightSecInc: Farsight Security Announces General Availability for DNSDB 2.0 Flexible Search, a Powerful Tool to Uncover Phishing, Br…RT @cyb0rgsecur1ty: [LIVE] Threat Intelligence should drive efficiencies in a SOC.
+https://t.co/yCWTNkGiyJ
+
+#ThreatIntel #threatintelligenc…RT @cyb0rgsecur1ty: [LIVE] Business operations can leverage threat intelligence to highlight blindspots and determine security procurement…RT @cyb0rgsecur1ty: [LIVE] A Wall is a Wall, No Matter How Small, but Walls can Fall.
+https://t.co/IrrQQsruQT
+
+#ThreatIntel #threatintellig…RT @FarsightSecInc: Farsight Security Debuts Farsight Labs to Create a New Collaborative Community for Security Practitioners https://t.co/…RT @cyb0rgsecur1ty: [LIVE] Operational and strategic intelligence, organizations should seek to make actors lives harder.
+https://t.co/H7XK…RT @cyb0rgsecur1ty: [LIVE] Organizations need to build fewer walls, and start improving the ones they have with threat detection.
+https://t…RT @cyb0rgsecur1ty: [LIVE] At the tactical level, however intelligence should seek to make stakeholders lives easier.
+https://t.co/KWL4dOZt…RT @cyb0rgsecur1ty: [LIVE] Intelligence is the collection of that data, and placing it is the broader context, in order to provide guidance…RT @cyb0rgsecur1ty: [LIVE] Threat Intelligence should serve as a key input to the improvement of proactive defense. 
+https://t.co/l5XoCplda…RT @cyb0rgsecur1ty: [LIVE] Intelligence analysts should not be to act primarily as a tool for ingesting indicators.
+https://t.co/R6C09AwuwX…RT @cyb0rgsecur1ty: [LIVE] Threat Intelligence should drive operations.
+https://t.co/R0YjMf6zkX
+
+#ThreatIntel #threatintelligence #ThreatHu…RT @javier_carriazo: State-sponsored hackers and ransomware gangs are diversifying tactics to inflict more harm #CyberSecurity #osint #info…RT @javier_carriazo: China Cybersecurity: No Place to Hide, Part 2 #CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #databrea…RT @javier_carriazo: 25% of BEC Cybercriminals Based in the US #CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #databreaches…RT @JinibaBD: Report: Iranian Hacking Group Launched Concentrated Attack on Israeli Companies #CyberSecurity #osint #infosec #cyberthreats…RT @JinibaBD: Iran-linked Silent Librarian APT targets universities again #CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #d…RT @JinibaBD: Hackers steal Haldiram's data: Asks for $750k ransom #CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #databrea…RT @Hakin9: Cyber Threat Intelligence is our latest edition! Download free preview and read one full article! https://t.co/dBEVXi0Hqg 
+
+#in…RT @JinibaBD: How attackers exploit QR codes and how to mitigate the risk 
+#CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #…RT @JinibaBD: This new malware uses remote overlay attacks to hijack your bank account 
+#CyberSecurity #osint #infosec #cyberthreats #hacke…RT @JinibaBD: Microsoft is the Most-Imitated Brand for Phishing Emails 
+#CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #dat…RT @JinibaBD: What does a hacker look like? 
+#CyberSecurity #osint #infosec #cyberthreats #hackers #darkweb #databreaches #cybercrime #cybe…RT @javier_carriazo: IoT Devices: Privacy and Security in Abusive Relationships 
+
+#CyberSecurity #osint #infosec #cyberthreats #hackers #da…RT @cnoanalysis: OUT NOW! @selenalarson and I contributed “Industrial Cyber Attacks in the Middle East and International Consequences” to h…RT @Totocellux: #ThreatIntel: Looking Back On The Last Decade Of #Linux #APTattacks - https://t.co/6sZqdUvCHT @IntezerLabs
+𝞝
+#Enterprises…RT @qolhf: What happened to the Mirai infections? @abuse_ch 
+
+#CyberSecurity #infosecurity #vulnerability #linux #Pentesting #Bitcoin #Cybe…RT @fly_hunters: If your #cybersecurity **certificate (2020-2021) is not at these levels you should think about where you are going.. #Tier…RT @CtacPaladion: [VUL] #Google Warns of Zero-Click #Bluetooth #Flaws in #Linux-based Devices
+To read more visit: https://t.co/RNT0wbWSed
+#…
  
-# dykwheisUSER INFO
-![image](http://pbs.twimg.com/profile_images/1318775826167595013/n4CNhsPd_normal.jpg)
+# weffrFwvh3hcy6xUSER INFO
+![image](http://pbs.twimg.com/profile_images/1318575429784162306/kTey5G0l_normal.jpg)
  
-`User ScreenName:` dykwheis 
+`User ScreenName:` weffrFwvh3hcy6x 
  
-`User chosen Name:` S 
+`User chosen Name:` Кристина 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Oct 20 17:39:46 +0000 2020 
+`User signup date?:` Tue Oct 20 15:30:44 +0000 2020 
  
-`User Description?:` Leaving wasn’t easing all that heaving in my vines 
+`User Description?:`  
  
-`Followers?: `1 
+`Followers?: `5 
  
-`Following?:` 69 
+`Following?:` 65 
  
 `User URL?:` None 
  
-`Location:` she/her | 19 
+`Location:`  
  
-`Number of tweets extracted`  : 55 
+`Number of tweets extracted`  : 60 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1318775826167595013/n4CNhsPd_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1318575429784162306/kTey5G0l_normal.jpg 
  
-`Number of tweets excluding replies:` 55 
+`Number of tweets excluding replies:` 60 
  
 
  
@@ -306,80 +221,234 @@ RT @jfbastien: Ugh! I was going to finally tell you my joke about vulnerabilitie
  
 ## User Top tweeted words 
  
-**I’M** 7 , **REALLY** 5 , **HARRY** 5 , **CAUSE** 4 , **FUCK** 3 , **CAN’T** 3 , **IM** 3 , **OPEN** 3 , **FEEL** 3 , **LOOK** 3 , **PEOPLE** 2 , **LITERALLY** 2 , **GOLDEN** 2 , **SCARED** 2 , **GONNA** 2 , **BOT** 2 , **FOLLOWER** 2 , **DAYS** 2 , **EVER** 2 , **HI** 2 , 
+**VIA** 24 , **В** 13 , **И** 8 , **BRAVE** 5 , **@YOUTUBEГЕРДА** 5 , **HTTPS://TCO/QPAWRGAZTI** 5 , **НА** 4 , **@YOUTUBERT** 4 , **ЗА** 4 , **HTTPS://TCO/1NJOHFPSBT** 4 , **@MUZEYPOBEDY:** 3 , **КАК** 3 , **@BITCOINCASINO01:** 3 , **@YOUTOPCHANNEL16:** 3 , **ДО** 3 , **@NOFORNUMBRA:** 3 , **С** 3 , **@WEFFRFWVH3HCY6X:** 2 , **ГЕРДА** 2 , **ПРОБЕЖКЕ** 2 , 
  
 ## What this user tweeted
  
-RT @hestreIlita: fine line's filmography is literally my favorite thing in this world. adore you, lights up, falling and golden project his…
+RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
  
-# X04609344USER INFO
-![image](http://pbs.twimg.com/profile_images/1319388070655844352/4fUuI6l5_normal.jpg)
+# likelikelike110USER INFO
+![image](http://pbs.twimg.com/profile_images/1318514836519686144/SSK1Sqoq_normal.jpg)
  
-`User ScreenName:` X04609344 
+`User ScreenName:` likelikelike110 
  
-`User chosen Name:` 742617000027 
+`User chosen Name:` Виктория 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Oct 18 17:56:02 +0000 2020 
+`User signup date?:` Tue Oct 20 11:27:04 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:` Беларусь 
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1318514836519686144/SSK1Sqoq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@OLEGEFR73560146:** 5 , **В** 5 , **HTTPS://TCO/QPAWRGAZTI** 5 , **И** 4 , **HTTPS://TCO/1NJOHFPSBT** 4 , **GREAT** 3 , **A…RT** 3 , **@YOUTOPCHANNEL16:** 3 , **КАК** 3 , **BRAVE** 3 , **@NOFORNUMBRA:** 3 , **НА** 2 , **@ALGORAND** 2 , **SALE** 2 , **@L_SLUTSKY:** 2 , **@BRAVEBR66010682:** 2 , **BRANDS** 2 , **CARS** 2 , **350** 2 , **СМОТРИТЕ** 2 , 
+ 
+## What this user tweeted
+ 
+RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
+ 
+# MatthewVinckUSER INFO
+![image](http://pbs.twimg.com/profile_images/1317910237391716352/Ro_b6fZN_normal.jpg)
+ 
+`User ScreenName:` MatthewVinck 
+ 
+`User chosen Name:` Matthew vinck 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 18 19:24:56 +0000 2020 
+ 
+`User Description?:` Mid level network administrator.
+Striving for cyber security. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 84 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1317910237391716352/Ro_b6fZN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THECYBERSECHUB:** 3 , **NEW** 3 , **TIME** 2 , **THREAT** 2 , **VULNERABILITY** 2 , **VULNERABILITIES** 2 , **SECURITY** 2 , **@DARKREADING:** 2 , **IOT** 2 , **OFFICIAL** 2 , **TRICKBOT** 2 , **CYBERSECURITY** 2 , **NETWORKING** 2 , **CDP** 1 , **AUDITING** 1 , **HTTPS://TCO/HKFABN4SQB@CAPTAIN_QUENCH** 1 , **@AORUSOFFICIAL** 1 , **WELL** 1 , **REVIEWED!!RT** 1 , **@FORTIGUARDLABS:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @DarkReading: Trickbot Tenacity Shows Infrastructure Resistant to Takedowns https://t.co/amt5J5AFx7 by @roblemos #Trickbot #botnet #thre…
+ 
+# AdekunleHakee20USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` AdekunleHakee20 
+ 
+`User chosen Name:` Adekunle Hakeem 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Oct 19 20:13:17 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 60 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 23 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 23 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@YOURANONCENTRAL:** 4 , **ENDSARS** 3 , **@AM_ANNONYMOUS:** 3 , **@YOURANONONE:** 2 , **NIGERIAN** 2 , **KILLED** 2 , **GOVERNMENT** 2 , **JUSTICE** 2 , **RETWEET** 2 , **WASTED** 2 , **ANONYMOUS** 2 , **PEOPLE** 2 , **THESE** 2 , **VPN** 2 , **@YOURANONS0U1:** 2 , **SELL** 2 , **DATA** 2 , **AIRTEL** 2 , **RT** 1 , **@_TAAOOMA:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @bad_packets: Mass scanning activity detected from 125.86.165.233 (🇨🇳) checking for Pulse Secure VPN servers vulnerable to CVE-2019-1151…
+ 
+# dr_jeffreUSER INFO
+![image](http://pbs.twimg.com/profile_images/1316340958976454658/HCP6SAiN_normal.jpg)
+ 
+`User ScreenName:` dr_jeffre 
+ 
+`User chosen Name:` The Real Candyman 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Oct 14 11:30:53 +0000 2020 
+ 
+`User Description?:` Empathic, Sincere, Creative, The maker of the worlds first and only Everlasting Gobstopper. 
+ 
+`Followers?: `62 
+ 
+`Following?:` 220 
+ 
+`User URL?:` None 
+ 
+`Location:` Loompa Land 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1316340958976454658/HCP6SAiN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 395 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HORELICK_M:** 74 , **NEW** 21 , **Q** 20 , **@HORELICK_M** 11 , **@THEREALQDOG17:** 8 , **🚨** 7 , **…RT** 7 , **@THREADREADERAPP:** 6 , **@THREADREADERAPP** 6 , **VERY** 6 , **ALERT** 6 , **@HSRETOUCHER:** 6 , **@THEREALQDOG17** 6 , **@OFSLINKY:** 6 , **HERE** 5 , **TRUMP** 5 , **UNROLL** 5 , **VIA** 5 , **1** 5 , **@USARMY** 5 , 
+ 
+## What this user tweeted
+ 
+RT @sansforensics: One week left to submit your #CTISummit 2021 talk proposal! CFP submissions should detail how the #threatintel case stud…
+ 
+# kNX1QTpLL3lYC8KUSER INFO
+![image](http://pbs.twimg.com/profile_images/1317962284375937024/QXzOH1Bf_normal.jpg)
+ 
+`User ScreenName:` kNX1QTpLL3lYC8K 
+ 
+`User chosen Name:` алиса 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 18 22:54:21 +0000 2020 
+ 
+`User Description?:` Нет 
+ 
+`Followers?: `5 
+ 
+`Following?:` 70 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 46 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1317962284375937024/QXzOH1Bf_normal.jpg 
+ 
+`Number of tweets excluding replies:` 46 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HTTPS://TCO/QPAWRGAZTI** 5 , **HTTPS://TCO/1NJOHFPSBT** 4 , **В** 4 , **BRAVE** 4 , **TOKEN** 3 , **@OLEGEFR73560146:** 3 , **@YOUTOPCHANNEL16:** 3 , **@BITCOINCASINO01:** 3 , **@NOFORNUMBRA:** 3 , **RT** 2 , **PROJECT** 2 , **$EGLD** 2 , **MAINNET** 2 , **JOIN** 2 , **ДО** 2 , **350** 2 , **BRANDS** 2 , **CARS** 2 , **@BRAVE20202:** 2 , **О** 2 , 
+ 
+## What this user tweeted
+ 
+RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
+ 
+# 8N4k4fKAVcHU35gUSER INFO
+![image](http://pbs.twimg.com/profile_images/1317812798886469632/6gRkgJcA_normal.jpg)
+ 
+`User ScreenName:` 8N4k4fKAVcHU35g 
+ 
+`User chosen Name:` Дима 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 18 12:57:28 +0000 2020 
  
 `User Description?:`  
  
 `Followers?: `3 
  
-`Following?:` 12 
+`Following?:` 48 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 66 
+`Number of tweets extracted`  : 35 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1319388070655844352/4fUuI6l5_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1317812798886469632/6gRkgJcA_normal.jpg 
  
-`Number of tweets excluding replies:` 67 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 10 , **?** 4 , **MADE** 3 , **THEN** 3 , **GOING** 3 , **BLACK** 3 , **@MIKEEMANUELFOX** 3 , **ACTUALLY** 3 , **WHITE** 3 , **NEVER** 3 , **@PRAGERU** 3 , **MONEY** 3 , **WELL** 3 , **THESE** 3 , **DON’T** 3 , **RT** 2 , **AGAIN** 2 , **STILL** 2 , **SOMEONE** 2 , **MESSAGE** 2 , 
- 
-## What this user tweeted
- 
-@MacDhomnuill @nataliemaeloves @MikeEmanuelFox I was only providing some insight as to why someone would want/own o… https://t.co/IF3R80gR5F
- 
-# Gracious_EijazUSER INFO
-![image](http://pbs.twimg.com/profile_images/1319388202394808320/OxzT_v5p_normal.jpg)
- 
-`User ScreenName:` Gracious_Eijaz 
- 
-`User chosen Name:` 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝𝐄𝐢𝐣𝐚𝐳𝐊𝐡𝐚𝐧𝐅𝐜 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 14 07:15:48 +0000 2020 
- 
-`User Description?:` @khanEijaz stan account ✨👑✨
-#EijazKhan #TeamEijazKhan #GabbarIsBack
-💯 FB
-supporting Eijaz in BB14  a official Fc account for him 💫✨✨✨💜 
- 
-`Followers?: `30 
- 
-`Following?:` 52 
- 
-`User URL?:` None 
- 
-`Location:` Eijaz✨💜💜 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1319388202394808320/OxzT_v5p_normal.jpg 
- 
-`Number of tweets excluding replies:` 218 
+`Number of tweets excluding replies:` 35 
  
 
  
@@ -387,157 +456,77 @@ supporting Eijaz in BB14  a official Fc account for him 💫✨✨✨💜
  
 ## User Top tweeted words 
  
-**EIJAZ** 47 , **EIJAZKHAN** 45 , **WARRIOR** 38 , **LONE** 36 , **@KHANEIJAZ** 25 , **BB14** 15 , **TASK** 13 , **EIJAZRT** 10 , **STAND** 10 , **@COLORSTV** 9 , **TEAM** 9 , **@SANAKAN157:** 8 , **HAI** 8 , **GUYS** 8 , **ALWAYS** 8 , **U** 8 , **WON** 7 , **@SIMIESIMI:** 7 , **@OFFICIALEIJAZFC:** 7 , **RT** 6 , 
+**الشارقة** 5 , **HTTPS://TCO/QPAWRGAZTI** 5 , **@TELLUSDAO:** 4 , **BRAVE** 4 , **PLAY** 3 , **PROJECT** 3 , **في** 3 , **@BITCOINCASINO01:** 3 , **A…RT** 3 , **В** 2 , **СО** 2 , **GREAT** 2 , **MODEL** 2 , **@EJADAMARKETING:** 2 , **مشروع** 2 , **من** 2 , **شقق** 2 , **للبيع** 2 , **MASKS** 2 , **FIRE** 2 , 
  
 ## What this user tweeted
  
-“There was no such thing as a fair fight. All vulnerabilities must be exploited.” 
-
-LONE WARRIOR EIJAZ
+RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
  
-# Arslan_Azhar1USER INFO
-![image](http://pbs.twimg.com/profile_images/1317330210237415424/NMvrxFHJ_normal.jpg)
+# ONSIM_INFOUSER INFO
+![image](http://pbs.twimg.com/profile_images/1317483579027456002/WHStoe2P_normal.jpg)
  
-`User ScreenName:` Arslan_Azhar1 
+`User ScreenName:` ONSIM_INFO 
  
-`User chosen Name:` Rana Arslan Azhar 
+`User chosen Name:` Simon Bourgoin 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Oct 17 05:02:23 +0000 2020 
- 
-`User Description?:` #Leader_PMIK❤  #PakArmy🇵🇰#PTI✌#Member @TMF__Rocks_ @TeamISPOfficial @TeamJingoist @TeamOfPatriot @Team4Pakistan @Team_EaglesPak @TeamPVFofficial @ImranK_Force 
- 
-`Followers?: `358 
- 
-`Following?:` 352 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1317330210237415424/NMvrxFHJ_normal.jpg 
- 
-`Number of tweets excluding replies:` 2168 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**فوج_ہے_تو_پاکستان_ہے** 133 , **کے** 41 , **ARMY** 40 , **PAKISTAN** 40 , **کی** 40 , **اور** 36 , **PAK** 34 , **فوج** 31 , **ہے** 31 , **کو** 30 , **پاکستان** 28 , **FORCES** 24 , **پاک** 24 , **ZINDABAD** 22 , **یہ** 22 , **سے** 22 , **میں** 20 , **FOOJ** 19 , **ہیں** 19 , **بھی** 17 , 
- 
-## What this user tweeted
- 
-RT @ali4812: #فوج_ہے_تو_پاکستان_ہے                        While Pakistan is the 36th largest country in the world in terms of total land ar…
- 
-# ombresombraUSER INFO
-![image](http://pbs.twimg.com/profile_images/1317652688998440966/oWE2zq3j_normal.jpg)
- 
-`User ScreenName:` ombresombra 
- 
-`User chosen Name:` тень 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Oct 18 02:22:48 +0000 2020 
+`User signup date?:` Sat Oct 17 15:05:17 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1317652688998440966/oWE2zq3j_normal.jpg 
- 
-`Number of tweets excluding replies:` 850 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**I’M** 35 , **DON’T** 30 , **TOLD** 13 , **COULD** 13 , **BACK** 11 , **SOME** 11 , **PEOPLE** 11 , **GOT** 11 , **MONEY** 11 , **DIDN’T** 11 , **CAR** 10 , **LITTLE** 9 , **EVEN** 9 , **ASK** 9 , **HERE** 9 , **TIME** 8 , **COME** 8 , **INTO** 8 , **PAY** 8 , **FEEL** 8 , 
- 
-## What this user tweeted
- 
-Lifetime Movie Network showed me something of vital importance. Men, picking up women, who of course have vulnerabi… https://t.co/uytk2HOh91
- 
-# sudoworldpeaceUSER INFO
-![image](http://pbs.twimg.com/profile_images/1318617941143937024/emZDUbDu_normal.jpg)
- 
-`User ScreenName:` sudoworldpeace 
- 
-`User chosen Name:` sudo WorldPeace 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Oct 20 18:07:12 +0000 2020 
- 
-`User Description?:` G**** 💎All about that #cybersecurity life. 
- 
 `Followers?: `1 
  
-`Following?:` 21 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:` Québec, CA 
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1317483579027456002/WHStoe2P_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TEAMCYMRU:** 4 , **@TEAMCYMRU** 1 , **@NINOSEKI** 1 , **@CERTBR** 1 , **🤐🕵️🪝🤐RT** 1 , **TOP** 1 , **BELGIUM** 1 , **TELECOMS** 1 , **FIRM** 1 , **DROPS** 1 , **HUAWEI** 1 , **HTTPS://TCO/H6WQT3LYK9RT** 1 , **POST** 1 , **PROVIDE** 1 , **DETAILS** 1 , **NEWLY** 1 , **IDENTIFIED** 1 , **GHOSTDNS** 1 , **INFRASTRUCTURE** 1 , **INFORMATION** 1 , 
+ 
+## What this user tweeted
+ 
+RT @teamcymru: This post will provide details on newly identified #GhostDNS infrastructure, information about the #phishing servers in use,…
+ 
+# kira48031220USER INFO
+![image](http://pbs.twimg.com/profile_images/1316986571279794176/tHNrHgH9_normal.jpg)
+ 
+`User ScreenName:` kira48031220 
+ 
+`User chosen Name:` kira 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 16 06:17:05 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 34 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 30 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1318617941143937024/emZDUbDu_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1316986571279794176/tHNrHgH9_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@FULLSTACK** 1 , **DEFINITELY** 1 , **RANSOMWARE** 1 , **CHALLENGING** 1 , **PROTECT** 1 , **BYOD** 1 , **VULNERABILITIES** 1 , **BEING** 1 , **EXPLOITED** 1 , **THE…** 1 , **HTTPS://TCO/QFMUQDP2TU** 1 , 
- 
-## What this user tweeted
- 
-@fullstack Definitely #Ransomware.  It's challenging to protect BYOD vulnerabilities from being exploited with the… https://t.co/qFmUqDp2TU
- 
-# IndustrySecuri1USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` IndustrySecuri1 
- 
-`User chosen Name:` Industry Security Blog 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 21 15:08:46 +0000 2020 
- 
-`User Description?:` Blog on Industry Security for the non technical manager 
- 
-`Followers?: `2 
- 
-`Following?:` 31 
- 
-`User URL?:` https://t.co/fRWsY5vP3d 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 10 
+`Number of tweets excluding replies:` 30 
  
 
  
@@ -545,54 +534,11 @@ Lifetime Movie Network showed me something of vital importance. Men, picking up 
  
 ## User Top tweeted words 
  
-**BLOG** 3 , **EFFECTS** 3 , **CYBER** 3 , **ATTACK** 3 , **NEW** 2 , **ACTORS** 2 , **HTTPS://TCO/SDOLEDRMWJRT** 1 , **@F5NETWORKS:** 1 , **@F5SECURITY** 1 , **EVANGELIST** 1 , **@PRESTONHOGUE** 1 , **WRITES** 1 , **@SECURITYWEEK** 1 , **GREATER** 1 , **CONVENIENCE** 1 , **DIFGITAL** 1 , **REALM** 1 , **BRINGS** 1 , **N…MY** 1 , **NEWEST** 1 , 
+**HTTPS://TCO/QPAWRGAZTI** 5 , **BRAVE** 4 , **HTTPS://TCO/1NJOHFPSBT** 4 , **@BITCOINCASINO01:** 3 , **@YOUTOPCHANNEL16:** 3 , **@OLEGEFR73560146:** 3 , **@NOFORNUMBRA:** 3 , **«** 2 , **»** 2 , **MASKS** 2 , **FIRE** 2 , **WEB** 2 , **@BRAVEBR66010682:** 2 , **MAINNET** 2 , **JOIN** 2 , **$EGLD** 2 , **TOKEN** 2 , **ДО** 2 , **350** 2 , **BRANDS** 2 , 
  
 ## What this user tweeted
  
-RT @NSACyber: Chinese state-sponsored malicious cyber actors are exploiting publicly known #vulnerabilities. Network defenders should take…
- 
-# kd7884USER INFO
-![image](http://pbs.twimg.com/profile_images/1318872898388459520/HNiQN6jk_normal.jpg)
- 
-`User ScreenName:` kd7884 
- 
-`User chosen Name:` KD7884 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 21 11:12:22 +0000 2020 
- 
-`User Description?:` Crypto and Blockchain enthusiast. 
- 
-`Followers?: `2 
- 
-`Following?:` 23 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1318872898388459520/HNiQN6jk_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**$FLOW** 3 , **@B_ART_2020:** 2 , **@FLOWPROTOCOL** 2 , **DEFI** 2 , **RT** 1 , **@PAYPAL:** 1 , **ANNOUNCING** 1 , **LAUNCH** 1 , **NEW** 1 , **SERVICE** 1 , **ENABLE** 1 , **CUSTOMERS** 1 , **BUY** 1 , **HOLD** 1 , **SELL** 1 , **CRYPTOCURRENCY** 1 , **DIRECTLY…RT** 1 , **HOPE** 1 , **ALREADY** 1 , **DOES** 1 , 
- 
-## What this user tweeted
- 
-RT @b_Art_2020: @FlowProtocol @Red4Sec $FLOW #DeFi 
-
-💥⚡️Red4Sec has completed their security audit of FLOW Protocol ⚡️💥
-
-Their determinatio…
+RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
