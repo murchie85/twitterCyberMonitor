@@ -11,10 +11,10 @@
  
 ![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **ProjectLincoln**  
+The most popular user is: **ddale8**  
  
 
-## Make him famous. https://t.co/Mit3XlVZ3z 
+## What Biden said is on the left. The Trump campaign's version of the quote is on the right. https://t.co/Gv6XZx3vPC 
 
   
 
@@ -29,18 +29,18 @@ The most popular user is: **ProjectLincoln**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AhmedKaram_t: #Cybersecurity in the Remote Work Era: A Global Risk Report#cybersecurityawareness #cyberdefense #securityawareness #inf… |
-| RT @BsidesORL: We are excited to have @cybersecjobsusa joining us @BSidesORL career village year! Looking for a job? Have an open position… |
-| RT @arnabch01: @sminaev2015 @FriseSally @Marinella_Maria @MariangelaSant8 @angelicagallegs @YukariKingdom18 @mhall55nine @eoff_sylvia @semi… |
+| @hailnolly @AlyssaM_InfoSec and u can read all the things! don't get me wrong. i love theory (im not joking i do) i… https://t.co/7jHHadVm9o |
+| Only 1 week left to register for our intensive Data Breaches &amp;  Physical Access Control Systems classes! Learn proa… https://t.co/YRmHuz5HYT |
+| Amazon Discloses Security Incident Involving Customers’ Email Addresses https://t.co/vfRwpKFnUC #news… https://t.co/VPIIb9KurL |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **reach2ratan** |
-| #2 Most tweeted to  | **Hakin9** |
-| #3 Most tweeted to  | **TheHackersNews** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 1.56%|
+| #1 Most tweeted to  | **AlyssaM_InfoSec** |
+| #2 Most tweeted to  | **ISC2** |
+| #3 Most tweeted to  | **divinetechygirl** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 1.46%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,56 +51,56 @@ The most popular user is: **ProjectLincoln**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **HACKING**  |
-| third  | **HACKERS** |
-| fourth  | **@REACH2RATAN:**  |
-| fifth  | **DATA**  |
+| second  | **DATA**  |
+| third  | **HACKING** |
+| fourth  | **INFORMATION**  |
+| fifth  | **HACKERS**  |
 
 
 ## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Donald Trump's Twitter hacked after researcher guessed password https://t.co/y3ShPCriAj #infosec #security #technology #phenomlab |
+|RT @SecurityMetrics: Learn about National Cybersecurity Awareness Month 2020 by following @StaySafeOnline &amp; @CISAgov https://t.co/3a28Luz2c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ProjectLincoln**  |
+| The most retweeted user is: **ddale8**  |
 | ------------- |
-| Make him famous. https://t.co/Mit3XlVZ3z |
+| What Biden said is on the left. The Trump campaign's version of the quote is on the right. https://t.co/Gv6XZx3vPC |
 
 # Potential Fake Accounts
  
-# ShaneDaleWells2USER INFO
-![image](http://pbs.twimg.com/profile_images/1320822048478822401/qgqN3O1V_normal.jpg)
+# nyx_xciUSER INFO
+![image](http://pbs.twimg.com/profile_images/1319489815981805568/f_l9uimd_normal.jpg)
  
-`User ScreenName:` ShaneDaleWells2 
+`User ScreenName:` nyx_xci 
  
-`User chosen Name:` Shane Dale Wells Jr. 
+`User chosen Name:` Nyx 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Oct 26 20:17:36 +0000 2020 
+`User signup date?:` Fri Oct 23 04:03:57 +0000 2020 
  
-`User Description?:` Your Cyber Security and Network Architecture Friend at A10 Networks! 
+`User Description?:` Information is Power 
  
-`Followers?: `1 
+`Followers?: `3 
  
-`Following?:` 2 
+`Following?:` 106 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 24 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1320822048478822401/qgqN3O1V_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1319489815981805568/f_l9uimd_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 24 
  
 
  
@@ -108,11 +108,132 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 2 , **INFOSEC** 2 , **READY** 1 , **TRANSCEND?** 1 , **HTTPS://TCO/BJ9TBINIPOTLS** 1 , **DECRYPTION** 1 , **EQUALS** 1 , **BLIND** 1 , **SPOTS!** 1 , **HTTPS://TCO/XWEGETLBHO** 1 , 
+**@3XS0:** 3 , **PYTHON** 3 , **CYBERSECURITY** 2 , **HACKING** 2 , **USING** 2 , **LINUX** 2 , **GOOD** 2 , **VERSION** 2 , **GAMING** 2 , **2** 2 , **RT** 1 , **20** 1 , **WAYS** 1 , **BUILD** 1 , **SECURITY** 1 , **FORTRESS** 1 , **ANYWHERE** 1 , **KNOWBE4** 1 , **INFOSEC** 1 , **CYBERATTACK** 1 , 
  
 ## What this user tweeted
  
-Are you ready to Transcend? #CyberSecurity #Infosec https://t.co/Bj9tbiniPOTLS Decryption equals no Blind Spots! #infosec #cybersecurity https://t.co/XWeGEtLbhO
+RT @3XS0: Alarm Using Python
+
+#hacker #hacking #cybersecurity #hackers #hack #programming #ethicalhacking #linux #python #coding #technolog…
+ 
+# DzH4x0rUSER INFO
+![image](http://pbs.twimg.com/profile_images/1321103347299078147/UbP4kQka_normal.jpg)
+ 
+`User ScreenName:` DzH4x0r 
+ 
+`User chosen Name:` H4X0r_DZ)(moka) 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 27 14:54:24 +0000 2020 
+ 
+`User Description?:` ‏يقول# هتلر اذا # كثر عليك # الحاقدون # فأعلم انك. # اسطورره...🤫
+😈😈death lover😈😈
+ㄾ🅼🅾🅺🅰 
+ 
+`Followers?: `15 
+ 
+`Following?:` 45 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1321103347299078147/UbP4kQka_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@PTRACESECURITY:** 1 , **BYPASSING** 1 , **WORLD** 1 , **WARCRAFT'S** 1 , **READ-ONLY** 1 , **CODE** 1 , **PROTECTION** 1 , **(CRC32)** 1 , **HTTPS://TCO/K7LZKDEDUC** 1 , **PENTESTING** 1 , **BYPASS** 1 , **CHEATENG…RT** 1 , **@0XBOOGY:** 1 , **HTTPS://TCO/I3GMPMPLX0TODAY** 1 , **AGOOD** 1 , **DAY** 1 , **ME♥♥** 1 , **HTTPS://TCO/ENHDS91AGKRT** 1 , **@MAGAG777:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ptracesecurity: Bypassing World of Warcraft's Read-Only Code Protection (crc32)  https://t.co/K7lzKdEduc  #Pentesting #Bypass #CheatEng…
+ 
+# FaunaMeraUSER INFO
+![image](http://pbs.twimg.com/profile_images/1320787177303846914/BTDJCWLD_normal.jpg)
+ 
+`User ScreenName:` FaunaMera 
+ 
+`User chosen Name:` LA Mera Fauna 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 25 05:15:32 +0000 2020 
+ 
+`User Description?:` world wrestling entertainment 
+ 
+`Followers?: `1 
+ 
+`Following?:` 82 
+ 
+`User URL?:` None 
+ 
+`Location:` Brampton, Ontario 
+ 
+`Number of tweets extracted`  : 175 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1320787177303846914/BTDJCWLD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 175 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@STEPHENKING** 28 , **HIAC** 25 , **@** 24 , **ORLANDO** 22 , **KDKA** 21 , **@SHOTZIWWE** 19 , **12** 15 , **NEW** 13 , **@NICKFERRARILBC** 6 , **DOWN** 6 , **RADIO** 6 , **@JOEBIDEN:** 6 , **@JOEBIDEN** 6 , **TORONTO** 5 , **@CNN** 5 , **@LBC** 5 , **COULD** 5 , **SOMEONE** 5 , **T…** 5 , **@CTVNEWS:** 5 , 
+ 
+## What this user tweeted
+ 
+@LBC @NickFerrariLBC @Zoomer a safe microwave plate cover needs a pin screw and release mechanism on the rim to tur… https://t.co/PUHu56EX5W
+ 
+# GhostdawgggUSER INFO
+![image](http://pbs.twimg.com/profile_images/1319542635594473472/95Hi1qik_normal.jpg)
+ 
+`User ScreenName:` Ghostdawggg 
+ 
+`User chosen Name:` 404 Not Found 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 23 07:26:29 +0000 2020 
+ 
+`User Description?:` Cyber Security Major | graduating soon 
+ 
+`Followers?: `2 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:` Trinidad and Tobago 
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1319542635594473472/95Hi1qik_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MSELYSEROBINSON** 1 , **@BOTBLACKTECH** 1 , **THANKS@12SUGARPLUMS** 1 , **THANK** 1 , **YOUBLACKTECHI’M** 1 , **NEW** 1 , **PYTHON** 1 , **SOME** 1 , **TUTORIALS** 1 , **FIND** 1 , **YOUTUBE** 1 , **ISN’T** 1 , **CUTTING** 1 , **ANY** 1 , **SUGGESTIONS** 1 , **WHERE** 1 , **C…** 1 , **HTTPS://TCO/TIKREW5KPPI** 1 , **LOVE** 1 , **CYBERSECURITY** 1 , 
+ 
+## What this user tweeted
+ 
+I’m new to python but some of the tutorials I find on YouTube isn’t cutting it for me. Any suggestions on where I c… https://t.co/tiKrew5kPP
  
 # SecVlogUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1319748680296157190/MA9tpQZp_normal.jpg)
@@ -127,19 +248,19 @@ Are you ready to Transcend? #CyberSecurity #Infosec https://t.co/Bj9tbiniPOTLS D
  
 `User Description?:` Cibersecurity 
  
-`Followers?: `10 
+`Followers?: `14 
  
-`Following?:` 80 
+`Following?:` 175 
  
 `User URL?:` https://t.co/u25TLEptlb 
  
 `Location:`  
  
-`Number of tweets extracted`  : 14 
+`Number of tweets extracted`  : 20 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1319748680296157190/MA9tpQZp_normal.jpg 
  
-`Number of tweets excluding replies:` 14 
+`Number of tweets excluding replies:` 20 
  
 
  
@@ -147,40 +268,43 @@ Are you ready to Transcend? #CyberSecurity #Infosec https://t.co/Bj9tbiniPOTLS D
  
 ## User Top tweeted words 
  
-**DE** 9 , **HACKERS** 4 , **PENTESTING** 4 , **PENTEST** 4 , **CYBERSECURITY** 4 , **CYBERATTACK** 3 , **SECURITY** 3 , **VIA** 2 , **INFOSEC** 2 , **HACKING** 2 , **POR** 2 , **HACKINGTIME** 2 , **PHISHING** 2 , **@CRYPTOLEXICON** 1 , **@KNAVERIT** 1 , **HTTPS://TCO/A33DVCVWDV@XATAKAMEXICO** 1 , **HTTPS://TCO/GUBFW8NA5V‘AMONG** 1 , **US’** 1 , **MOBILE** 1 , **GAME** 1 , 
+**DE** 11 , **HACKERS** 5 , **PENTEST** 5 , **CYBERSECURITY** 5 , **SECURITY** 4 , **PENTESTING** 4 , **POR** 3 , **INFOSEC** 3 , **CYBERATTACK** 3 , **PARA** 2 , **DETECCIÓN** 2 , **VIA** 2 , **HACKING** 2 , **HACKINGTIME** 2 , **PHISHING** 2 , **TRAPPING** 1 , **CONTAINERIZED** 1 , **DECEPTION** 1 , **HTTPS://TCO/RGEYC23OP5** 1 , **DOCKER** 1 , 
  
 ## What this user tweeted
  
-SQL Joins 🤣🤣🤣🤣🤣🤣🤣🤣
+Plataforma free para Pentest 😎!!
 
- #sqlinjection  #database #sql #infosec #hacking #hackers #Pentesting #programming #hallowen… https://t.co/FsUy5MEpMk
+🔥Attack chains
+🔥Manage Vulnerability Library
+🔥Download Reports &amp; Evidence
+🔥OWASP… https://t.co/GeO8vQWif1
  
-# TopherTebowUSER INFO
-![image](http://pbs.twimg.com/profile_images/1318675856462471168/TGz5ctAE_normal.jpg)
+# markvanVuuren4USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` TopherTebow 
+`User ScreenName:` markvanVuuren4 
  
-`User chosen Name:` Topher Tebow 
+`User chosen Name:` mark van Vuuren 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Oct 20 22:08:14 +0000 2020 
+`User signup date?:` Mon Oct 26 14:49:10 +0000 2020 
  
-`User Description?:` Cybersecurity geek | Advocate of community collaboration | Forever student | Writer | Looks great in a skirt | Personal account, thoughts are my own | He/him. 
+`User Description?:`  
  
-`Followers?: `48 
+`Followers?: `0 
  
-`Following?:` 438 
+`Following?:` 21 
  
 `User URL?:` None 
  
-`Location:` /dev/null 
+`Location:`  
  
-`Number of tweets extracted`  : 40 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1318675856462471168/TGz5ctAE_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 40 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -188,39 +312,38 @@ SQL Joins 🤣🤣🤣🤣🤣🤣🤣🤣
  
 ## User Top tweeted words 
  
-**@ACRONIS:** 5 , **@ACRONIS** 4 , **DATA** 4 , **SECURITY** 3 , **CYBER** 3 , **KEY** 3 , **NEED** 3 , **BETWEEN** 2 , **MACHINE** 2 , **PASSWORD** 2 , **VISIT** 2 , **NEW** 2 , **CENTER** 2 , **CANADIAN** 2 , **ACRONIS** 2 , **FOUNDER** 2 , **CEO** 2 , **HERE** 2 , **TAKEAWAYS** 2 , **HELP** 2 , 
+**@SERVECORR:** 5 , **ENSURE** 2 , **CLOUDSPHERE** 2 , **BUSINESS** 2 , **RT** 1 , **USERS** 1 , **APP** 1 , **PROTECTED** 1 , **AGAINST** 1 , **DATA** 1 , **BREACHES?** 1 , **HERE** 1 , **8** 1 , **APPROACHES** 1 , **SECURING** 1 , **MOB…RT** 1 , **LEARN** 1 , **CRITICAL** 1 , **ORGANISATIONS** 1 , **ADOPT** 1 , 
  
 ## What this user tweeted
  
-RT @USCERT_gov: ⚠️ @CISAgov has noticed a spike in #password spraying, which typically targets single sign-on and cloud-based apps. Visit h…
+RT @ServeCorr: How do you ensure that the users of your app are protected against data breaches? Here are 8 approaches to securing your mob…
  
-# greenrabbitgangUSER INFO
-![image](http://pbs.twimg.com/profile_images/1318208897241534464/eWHTqGTG_normal.jpg)
+# RiodrwnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1320898013720530944/JLTtFZsq_normal.jpg)
  
-`User ScreenName:` greenrabbitgang 
+`User ScreenName:` Riodrwn 
  
-`User chosen Name:` AnonymousNG 
+`User chosen Name:` Rio 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Oct 19 14:53:52 +0000 2020 
+`User signup date?:` Tue Oct 27 01:08:56 +0000 2020 
  
-`User Description?:` I don't know what am doing but I know am gonna fuck you up for all your evil deeds!!!
-#OpNigeria #Endsars #reformnigeria #Ambazoniaonlinehq 
+`User Description?:` Pretending to be smart! 
  
-`Followers?: `90 
+`Followers?: `15 
  
-`Following?:` 145 
+`Following?:` 46 
  
-`User URL?:` None 
+`User URL?:` https://t.co/ZGqYV0Z45H 
  
-`Location:` Void 
+`Location:` In your mind 
  
-`Number of tweets extracted`  : 198 
+`Number of tweets extracted`  : 19 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1318208897241534464/eWHTqGTG_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1320898013720530944/JLTtFZsq_normal.jpg 
  
-`Number of tweets excluding replies:` 640 
+`Number of tweets excluding replies:` 19 
  
 
  
@@ -228,11 +351,55 @@ RT @USCERT_gov: ⚠️ @CISAgov has noticed a spike in #password spraying, which
  
 ## User Top tweeted words 
  
-**OPNIGERIA** 89 , **ANONYMOUS** 86 , **ENDSARS** 81 , **ENDSWAT** 41 , **REFORMNIGERIA** 37 , **PEOPLE** 30 , **@HACKDOWN2:** 25 , **ENDSARSPROTESTS** 23 , **ENDSARSOPPRESSION** 22 , **:** 20 , **CALABAR…** 20 , **VRT** 19 , **GIVE** 17 , **MESSAGE** 16 , **ENDSARSPROTESTS…** 16 , **NIGERIAN** 14 , **@LORIANSYNARO** 12 , **@GHOSTSEC__** 12 , **NIGERIA** 11 , **OPNIGERIART** 9 , 
+**DI** 4 , **BARU** 3 , **BANG** 3 , **KWKWK** 3 , **GW** 3 , **AKU** 3 , **@ABAYKANDOTCOM** 3 , **JAKARTA** 2 , **HI** 2 , **LIST** 2 , **AJA** 2 , **CEWE** 2 , **OPEN** 2 , **JUGA** 2 , **SOCENG** 2 , **OKE** 2 , **APA** 2 , **UDH** 2 , **ORANG** 2 , **RT** 1 , 
  
 ## What this user tweeted
  
-RT @HackDown2: #Anonymous MESSAGE: Start of the #OpNigeria operation at 18:00 GMT LONDON. Meet 15 minutes before in the TG room to unlock t…
+RT @dwisiswant0: Made public now &amp; beta version released!
+
+teler: Real-time HTTP #Intrusion Detection
+https://t.co/oAmJFd86TO
+
+#go #golang…
+ 
+# NinaCercyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1320677695353737216/a8662EF2_normal.jpg)
+ 
+`User ScreenName:` NinaCercy 
+ 
+`User chosen Name:` Nina Cercy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Oct 26 09:34:54 +0000 2020 
+ 
+`User Description?:` Cybersecurity Consultant. Behavioral Psychology. Organizational matters. #womenintech 
+ 
+`Followers?: `61 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1320677695353737216/a8662EF2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 3 , **DU** 3 , **ASSESSMENT** 3 , **LES** 2 , **PLUS** 2 , **THIRD-PARTIES** 2 , **;** 2 , **1** 2 , **COMMERÇANTES** 1 , **PEUVENT** 1 , **SOUFFLER** 1 , **:** 1 , **PAS** 1 , **BESOIN** 1 , **GÉRER** 1 , **ÇA** 1 , **EN** 1 , **COVID** 1 , **POUR** 1 , **ACHATS** 1 , 
+ 
+## What this user tweeted
+ 
+Thoughts? #infosec
  
 # StayawareNGUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1320651355258847232/HRL5tpMK_normal.jpg)
@@ -247,7 +414,7 @@ RT @HackDown2: #Anonymous MESSAGE: Start of the #OpNigeria operation at 18:00 GM
  
 `User Description?:` We are a social awareness company on Cybersecurity. your security is our concern💯 
  
-`Followers?: `4 
+`Followers?: `7 
  
 `Following?:` 6 
  
@@ -255,11 +422,11 @@ RT @HackDown2: #Anonymous MESSAGE: Start of the #OpNigeria operation at 18:00 GM
  
 `Location:` Nigeria 
  
-`Number of tweets extracted`  : 39 
+`Number of tweets extracted`  : 40 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1320651355258847232/HRL5tpMK_normal.jpg 
  
-`Number of tweets excluding replies:` 39 
+`Number of tweets excluding replies:` 40 
  
 
  
@@ -267,130 +434,38 @@ RT @HackDown2: #Anonymous MESSAGE: Start of the #OpNigeria operation at 18:00 GM
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 13 , **INFOSEC** 6 , **2020** 5 , **AI** 5 , **LATEST** 4 , **SECURITY** 4 , **JOIN** 3 , **MONTH** 3 , **NOVEMBER** 3 , **PASSWORDS** 3 , **MALWARE** 3 , **PASSWORD** 3 , **CHECK** 3 , **NEW** 3 , **US** 2 , **NATIONAL** 2 , **++** 2 , **DIE** 2 , **ENTERPRISES** 2 , **CYBER** 2 , 
+**CYBERSECURITY** 13 , **INFOSEC** 6 , **PASSWORD** 5 , **2020** 5 , **AI** 5 , **LATEST** 4 , **SECURITY** 4 , **SYSTEM** 3 , **JOIN** 3 , **MONTH** 3 , **NOVEMBER** 3 , **PASSWORDS** 3 , **MALWARE** 3 , **CHECK** 3 , **NEW** 3 , **US** 2 , **NATIONAL** 2 , **++** 2 , **DIE** 2 , **ENTERPRISES** 2 , 
  
 ## What this user tweeted
  
-RT @cybermaterial_: Machine Learning Methods for Malware Detection - https://t.co/oE54tUFzM3 
-#cybersecurity #infosec #cybersecurityawarene…RT @lbhuston: As an addendum to this advice, I want to emphasize caution when clicking on links or accessing websites having to do with the…RT @Open_Sez_Me: 1000's of default passwords on https://t.co/BLx0w0oG1P -=- fb/defaultpasswords #password #infosec #opsec https://t.co/dWy4…RT @GeekmomK: OK, #infosec and #cybersecurity - I've got a poll. How  many of you often spell ransomware with an "e" (ransomeware) before h…RT @rahulrajrai: #infosec Turns out you don't even need 197 IQ or 15% of his password to know 100% of his password 🤦🏻‍♂️ https://t.co/WxnRg…RT @tgrandpre: The Largest #DataBreaches in U.S. History | #CyberSecurity #InfoSec https://t.co/FPujYprfir https://t.co/6bQzKwUd4IRT @hackthebox_eu: #HTB x @tech_vets &amp; @VeteranSec #CTF starting TODAY!🚩
-Good luck to all participants! 🏆
-Looking to host or join a CTF? 👉…
+The system has no knowledge of who insert the password. If the password is correct, the system will grant access th… https://t.co/Y1Gozxnted
  
-# BlueChardsUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# Sojib58089304USER INFO
+![image](http://pbs.twimg.com/profile_images/1320636400178348032/8URRC8aM_normal.jpg)
  
-`User ScreenName:` BlueChards 
+`User ScreenName:` Sojib58089304 
  
-`User chosen Name:` Chard 
+`User chosen Name:` Sojib 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Oct 26 12:44:54 +0000 2020 
+`User signup date?:` Sun Oct 25 18:20:12 +0000 2020 
  
-`User Description?:` Green Leafy Boye. Will hack and slash your fav gadgets. Maybe slice them in two. Will get stuck in your throat~ 
- 
-`Followers?: `0 
- 
-`Following?:` 16 
- 
-`User URL?:` https://t.co/3iJ3wypDDM 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STUFF** 2 , **LONGER** 2 , **USE** 2 , **LOOKING** 1 , **TWITTER** 1 , **FEED** 1 , **FEEL** 1 , **VERY** 1 , **UNCOMFORTABLE** 1 , **I'LL** 1 , **KEEP** 1 , **POSTINGSETTING** 1 , **HTTPS://TCO/H3U6KDS1U9I'M** 1 , **INTO** 1 , **DISAPPEARING** 1 , **WEB** 1 , **I'M** 1 , **INFOSEC** 1 , **ENTHUSIAST** 1 , **READ** 1 , 
- 
-## What this user tweeted
- 
-I'm not that into disappearing from the web, but I'm an infosec enthusiast.
-You can read my stuff on my blog, or we… https://t.co/Y0uJWHl4t9RT @j_opdenakker: Security by removal.
-
-Remove all
-
-- user accounts you no longer use
-- software you no longer use on your pc
-- redundant a…
- 
-# MayoralVenegasUSER INFO
-![image](http://pbs.twimg.com/profile_images/1320344555754033154/HhFMQ-5K_normal.jpg)
- 
-`User ScreenName:` MayoralVenegas 
- 
-`User chosen Name:` Eliseo Venegas Mayoral 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Oct 25 12:39:57 +0000 2020 
- 
-`User Description?:` Ingeniero electrónico de telecomunicaciones especializado en ciberseguridad trabajando para Everis. 
- 
-`Followers?: `0 
- 
-`Following?:` 64 
- 
-`User URL?:` None 
- 
-`Location:` Entre pinto y valdemoro 
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1320344555754033154/HhFMQ-5K_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 4 , **QUE** 3 , **LA** 2 , **LOS** 2 , **DATOS** 2 , **THESE** 2 , **RT** 1 , **@CYBER:** 1 , **DEVICES** 1 , **EQUIPPED** 1 , **CONNECTIVITY** 1 , **VITAL** 1 , **VIGILANT** 1 , **MAINTAINING** 1 , **SECURITY** 1 , **LEARN** 1 , **SECURI…RT** 1 , **@ELPAIS_TEC:** 1 , **FACEBOOK** 1 , **HA** 1 , 
- 
-## What this user tweeted
- 
-RT @cyber: As more devices are equipped with connectivity, it's vital to be vigilant in maintaining their security. Learn more about securi…
- 
-# gerbot_USER INFO
-![image](http://pbs.twimg.com/profile_images/1320455496478924800/E4KGHn0F_normal.jpg)
- 
-`User ScreenName:` gerbot_ 
- 
-`User chosen Name:` gerbot 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Oct 25 19:36:10 +0000 2020 
- 
-`User Description?:` Cybersec Researcher & Enthusiast | 
-Programmer | 
-CTF Player |
-Diploma in Computer Applications |
-EC-Council CND/CEH/ECSA/LPT 
+`User Description?:` #DigitalMarketing Specialists | #ContentMarketing #Copywriting #AdWords #SEO #SocialMedia #InboundMarketing 
  
 `Followers?: `3 
  
-`Following?:` 24 
+`Following?:` 34 
  
 `User URL?:` None 
  
-`Location:` Johannesburg, South Africa 
+`Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1320455496478924800/E4KGHn0F_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1320636400178348032/8URRC8aM_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -398,11 +473,14 @@ EC-Council CND/CEH/ECSA/LPT
  
 ## User Top tweeted words 
  
-**SOME** 2 , **RT** 1 , **@PTRACESECURITY:** 1 , **FAST** 1 , **STEGANOGRAPHY** 1 , **BRUTEFORCE** 1 , **TOOL** 1 , **WRITTEN** 1 , **RUST** 1 , **USEFUL** 1 , **CTF'S** 1 , **HTTPS://TCO/HWI5BRHVSO** 1 , **PENTESTING** 1 , **DOCKER** 1 , **HACK…RT** 1 , **@JHADDIX:** 1 , **MINOR** 1 , **UPDATES** 1 , **(401)** 1 , **BUG** 1 , 
+**MARKETING** 3 , **BUSINESS** 3 , **SAFELY** 2 , **FACEBOOK** 2 , **PROMOTION** 2 , **SOCIAL** 2 , **MEDIA** 2 , **ADVERTISING** 2 , **AMERICA** 2 , **AMERICAFIRST…** 2 , **@WEBDESIGNERSCO:** 2 , **WEBSITE** 2 , **WEB** 2 , **DESIGN** 2 , **WEBDESIGN** 2 , **HTTPS://TCO/OLANBVPSQMRT** 1 , **START** 1 , **QUALITY** 1 , **👍** 1 , **HTTPS://TCO/AGWUMGBVUX** 1 , 
  
 ## What this user tweeted
  
-RT @ptracesecurity: Fast Steganography bruteforce tool written in Rust useful for CTF's  https://t.co/hwI5bRhVSO  #Pentesting #Docker #Hack…
+RT @webdesignersco: Start your business with quality website 👍
+https://t.co/AgWUMGbVUx
+
+#Webinar #web #Website #design #webdesign #webdevel…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
