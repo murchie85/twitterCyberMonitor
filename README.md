@@ -837,29 +837,74 @@ From @AndrewKerrNC:
 https://t.co/hGYLe4KtXe
  
 # tape_secUSER INFO
-![image](http://pbs.twimg.com/profile_images/1322181962195443713/V7v3ynk2_normal.jpg)/1321556272374829059/u5vaoIFj_normal.jpg)
+![image](http://pbs.twimg.com/profile_images/1322181962195443713/V7v3ynk2_normal.jpg)
  
-`User ScreenName:` ScientistBriana 
+`User ScreenName:` tape_sec 
  
-`User chosen Name:` Briana Allison 
+`User chosen Name:` RedTapeSec 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Oct 28 06:59:36 +0000 2020 
+`User signup date?:` Fri Oct 30 14:07:36 +0000 2020 
  
-`User Description?:` undergrad senior | rock collector | #BlackinGeoscience #LatinxinSTEM 
+`User Description?:` You don't have security, You have illusion of security !! 
  
-`Followers?: `24 
+`Followers?: `0 
  
-`Following?:` 53 
+`Following?:` 40 
  
-`User URL?:` https://t.co/qFwpVPmdX1 
+`User URL?:` https://t.co/dXHtVZoW4g 
  
-`Location:` Houston, TX 
+`Location:`  
+ 
+`Number of tweets extracted`  : 19 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1322181962195443713/V7v3ynk2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 19 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ADVICE** 3 , **HOSPITALS** 3 , **NEW** 2 , **FRAMEWORK** 2 , **BAD** 2 , **ANGLES** 2 , **USE** 2 , **EVALUATE** 2 , **WHETHER** 2 , **PIECE** 2 , **GOOD** 2 , **STOP** 2 , **DATA** 2 , **PRIVACY** 2 , **WROBA** 1 , **CAMPAIGN** 1 , **LATEST** 1 , **SIGN** 1 , **GROWING** 1 , **MOBILE** 1 , 
+ 
+## What this user tweeted
+ 
+The Cybersecurity Framework consists of three main components:
+
+1. Framework Core
+
+2. Implementation Tiers
+
+3. Prof… https://t.co/o3s2UGnBzF
+ 
+# heavenflyer04USER INFO
+![image](http://pbs.twimg.com/profile_images/1322249465936314374/Mr1iQ09M_normal.jpg)
+ 
+`User ScreenName:` heavenflyer04 
+ 
+`User chosen Name:` heavenflyer04 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 30 18:35:33 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1321556272374829059/u5vaoIFj_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1322249465936314374/Mr1iQ09M_normal.jpg 
  
 `Number of tweets excluding replies:` 9 
  
@@ -869,38 +914,41 @@ https://t.co/hGYLe4KtXe
  
 ## User Top tweeted words 
  
-**I'M** 3 , **YOU!** 2 , **@DRWENDYROCKS** 2 , **@JUSTINMSAMUEL** 2 , **CAPTIONED** 2 , **RT** 1 , **@JANANIHARAN:** 1 , **YOU'RE** 1 , **EDUCATOR** 1 , **SCIENTIST** 1 , **USES** 1 , **TWO** 1 , **LANGUAGES** 1 , **WORK** 1 , **TALK** 1 , **WORKING** 1 , **ON…@VOLCANICLASTIC** 1 , **@EATTHECRUST** 1 , **THANK** 1 , **REALLY** 1 , 
+**PARTY** 11 , **BEYOND** 5 , **LEFT** 5 , **AMERICAS** 5 , **FOCUS** 5 , **PARTIES** 5 , **FORGET** 5 , **TRUE** 5 , **VOTING** 4 , **CRIME!@CNN** 3 , **@RUDYGIULIANI:** 3 , **BIDEN** 3 , **CHINESE** 2 , **JOE** 2 , **HUNTER** 2 , **@CNN** 1 , **CRIME!VOTING** 1 , **CRIME!RT** 1 , **“REMINDER:** 1 , **COMMUNIST** 1 , 
  
 ## What this user tweeted
  
-RT @DrPhillipsMD: This updated version of the Swiss cheese model of interventions is an excellent way to understand that layers of mitigati…
+RT @DailyCaller: We obtained a copy Hunter Biden's alleged laptop from 
+@RudyGiuliani. 
+
+The email was independently verified by cybersecur…
  
-# i_bot404USER INFO
-![image](http://pbs.twimg.com/profile_images/1320118704575832065/BOsFBgkL_normal.jpg)
+# JensonDelacruzUSER INFO
+![image](http://pbs.twimg.com/profile_images/1322257238497484800/fgAHmuCm_normal.jpg)
  
-`User ScreenName:` i_bot404 
+`User ScreenName:` JensonDelacruz 
  
-`User chosen Name:` R@miz 
+`User chosen Name:` JensonDelacruz 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Oct 24 21:27:40 +0000 2020 
+`User signup date?:` Mon Oct 26 04:16:06 +0000 2020 
  
-`User Description?:` crypto, cyber and cloud story teller | senior academic @UniStrathclyde | analysis and views are personal | 👨‍💻👾💫 
+`User Description?:`  
  
-`Followers?: `22 
+`Followers?: `0 
  
-`Following?:` 42 
+`Following?:` 71 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 112 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1320118704575832065/BOsFBgkL_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1322257238497484800/fgAHmuCm_normal.jpg 
  
-`Number of tweets excluding replies:` 112 
+`Number of tweets excluding replies:` 1074 
  
 
  
@@ -908,40 +956,41 @@ RT @DrPhillipsMD: This updated version of the Swiss cheese model of intervention
  
 ## User Top tweeted words 
  
-**BITCOIN** 22 , **$BTC** 13 , **😎** 5 , **SUPPORT** 4 , **ITS** 4 , **AUTUMN** 4 , **🙌🏽** 4 , **GOING** 4 , **DAY** 4 , **DON'T** 4 , **YEAR** 4 , **GETTING** 3 , **PRAYERS** 3 , **LOCKDOWN** 3 , **FUTURE** 3 , **DATA** 3 , **🤭** 3 , **@NCSC:** 3 , **PROJECT** 3 , **😂** 3 , 
+**G** 242 , **EVIDENCES** 122 , **B-I-D-E-N** 121 , **FAMILY’S** 121 , **CRIME** 121 , **AT:** 121 , **O** 121 , **R** 121 , **T** 90 , **V** 90 , **🔥🔥🔥URGENT:** 67 , **DESERVE** 67 , **KNOW!** 67 , **VOTE** 51 , **CHOOSE** 39 , **N** 31 , **E** 31 , **W** 31 , **S** 31 , **LEFT** 27 , 
  
 ## What this user tweeted
  
-RT @CoinDesk: The Lightning Network has attack vectors that have never been exploited.
+RT @DailyCaller: We obtained a copy Hunter Biden's alleged laptop from 
+@RudyGiuliani. 
+
+The email was independently verified by cybersecur…
  
-Why have the vulnerabilities been left untouched?…
+# DickHur07649335USER INFO
+![image](http://pbs.twimg.com/profile_images/1321574160787791872/tbPX4oQS_normal.jpg)
  
-# AzwadeRahmanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1321495857418612737/G84iINkN_normal.jpg)
+`User ScreenName:` DickHur07649335 
  
-`User ScreenName:` AzwadeRahman 
- 
-`User chosen Name:` Azwade Rahman (he/him) 
+`User chosen Name:` Dick Hurtz 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Oct 28 00:42:45 +0000 2020 
+`User signup date?:` Wed Oct 28 17:34:35 +0000 2020 
  
-`User Description?:` MD/MPH Candidate Class of 2022, Aspiring Radiologist, Patient Advocacy, Policy Reform, Black Lives Matter, Universal Healthcare, LGBTQIA+ Advocacy, Pro-Choice 
+`User Description?:`  
  
-`Followers?: `91 
+`Followers?: `4 
  
-`Following?:` 317 
+`Following?:` 30 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 89 
+`Number of tweets extracted`  : 115 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1321495857418612737/G84iINkN_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1321574160787791872/tbPX4oQS_normal.jpg 
  
-`Number of tweets excluding replies:` 89 
+`Number of tweets excluding replies:` 115 
  
 
  
@@ -949,84 +998,116 @@ Why have the vulnerabilities been left untouched?…
  
 ## User Top tweeted words 
  
-**@SARAROSENZ** 6 , **NEED** 6 , **US** 5 , **PEOPLE** 5 , **HEALTHCARE** 5 , **GOOD** 4 , **MEDICINE** 4 , **PANDEMIC** 4 , **OTHER** 3 , **MEDICAL** 3 , **DON’T** 3 , **MUCH** 3 , **DAY** 3 , **YEAR** 3 , **AWESOME** 3 , **A…** 3 , **MUST** 3 , **ARTICLE** 3 , **CAN’T** 3 , **SURE** 3 , 
+**BIDEN** 14 , **TRUMP** 11 , **JOE** 10 , **@REALDONALDTRUMP:** 8 , **@BREITBARTNEWS:** 5 , **PRESIDENT** 5 , **TIME** 5 , **TWITTER** 5 , **VOTE** 5 , **SENATE** 5 , **FRAUD** 5 , **@NEWTGINGRICH:** 4 , **DEMOCRAT** 4 , **@SEANHANNITY:** 4 , **@LARRYELDER:** 4 , **I’M** 4 , **AFTER** 4 , **HUNTER** 4 , **BEING** 4 , **@REALDONALDTRUMP** 4 , 
  
 ## What this user tweeted
  
-RT @gregggonsalves: The @YaleGHJP and  @c4sr_columbia at @YaleSPH, @YaleLawSch &amp; @ColumbiaGSAPP are launching a new project today, Mapping…
+RT @peterjhasson: NEW: Forensic analysis of the metadata of the Hunter Biden email at the center of the NYPost expose shows it’s 100% authe…
  
-# KarthickDev96USER INFO
-![image](http://pbs.twimg.com/profile_images/1319552687210332160/Th1MUdRj_normal.jpg)
+# BackingTrump202USER INFO
+![image](http://pbs.twimg.com/profile_images/1321871920158154753/H4KYyT-v_normal.jpg)
  
-`User ScreenName:` KarthickDev96 
+`User ScreenName:` BackingTrump202 
  
-`User chosen Name:` Karthick Rajan 
+`User chosen Name:` BackingTrump2020 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Oct 23 08:13:14 +0000 2020 
+`User signup date?:` Thu Oct 29 17:45:01 +0000 2020 
  
-`User Description?:` I'm a Front-End Developer currently using React JS who likes to explore new technologies. 
+`User Description?:` Trump, America, Freedom! 
  
-`Followers?: `47 
+`Followers?: `63 
  
-`Following?:` 548 
+`Following?:` 148 
+ 
+`User URL?:` None 
+ 
+`Location:` Dallas 
+ 
+`Number of tweets extracted`  : 69 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1321871920158154753/H4KYyT-v_normal.jpg 
+ 
+`Number of tweets excluding replies:` 69 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 10 , **@REALDONALDTRUMP:** 10 , **@TRUMPWARROOM:** 8 , **JOE** 7 , **PRESIDENT** 7 , **VOTE** 6 , **PEOPLE** 6 , **TRUMP** 6 , **@17ANONJOHN:** 5 , **GOING** 4 , **@MUSTANGMAN_TX:** 4 , **DEMOCRAT** 4 , **GO** 4 , **@KIRSTIEALLEY:** 4 , **STATES** 4 , **VOTING** 4 , **@REALDONALDTRUMP** 4 , **@1776STONEWALL:** 3 , **GOOD** 3 , **BEST** 3 , 
+ 
+## What this user tweeted
+ 
+RT @1776Stonewall: https://t.co/MWG04Vn8K6 NY Post’s ‘Smoking Gun’ Hunter Biden Email 100% Authentic, Forensic Analysis Concludes
+ 
+# BohneJacobUSER INFO
+![image](http://pbs.twimg.com/profile_images/1321854367687974912/lcNx0AI2_normal.jpg)
+ 
+`User ScreenName:` BohneJacob 
+ 
+`User chosen Name:` Nathaniel Hale 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 29 16:40:03 +0000 2020 
+ 
+`User Description?:` Liberty or Death 
+ 
+`Followers?: `15 
+ 
+`Following?:` 451 
+ 
+`User URL?:` None 
+ 
+`Location:` Bedico,Louisiana 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1321854367687974912/lcNx0AI2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 322 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 31 , **@REALDONALDTRUMP** 20 , **TRUMP** 18 , **PRESIDENT** 16 , **@WARROOMPANDEMIC:** 15 , **HUNTER** 13 , **JOE** 12 , **PEOPLE** 10 , **TWITTER** 7 , **GOING** 7 , **COUNTRY** 7 , **@REALDONALDTRUMP:** 7 , **RALLY** 6 , **VOTE** 6 , **MEDIA** 6 , **MAN** 6 , **AMERICAN** 6 , **@DBONGINO:** 6 , **DEMOCRAT** 5 , **DOWN** 5 , 
+ 
+## What this user tweeted
+ 
+RT @1776Stonewall: https://t.co/MWG04Vn8K6 NY Post’s ‘Smoking Gun’ Hunter Biden Email 100% Authentic, Forensic Analysis Concludes
+ 
+# CookieburttUSER INFO
+![image](http://pbs.twimg.com/profile_images/1322168414853603328/WWl1Qzz3_normal.jpg)
+ 
+`User ScreenName:` Cookieburtt 
+ 
+`User chosen Name:` Proudmama 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 30 13:27:37 +0000 2020 
+ 
+`User Description?:` Mom of 3 amazing kids, starting over on twitter-cut off 2 months  constitutionalist, free thinker, proud American; God, Family, Country, also  Proud Deplorable. 
+ 
+`Followers?: `10 
+ 
+`Following?:` 209 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 82 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1319552687210332160/Th1MUdRj_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1322168414853603328/WWl1Qzz3_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WE'RE** 3 , **VIDEO** 2 , **JAVASCRIPT** 2 , **FEELING** 2 , **RT** 1 , **@SHRUTIBALASA:** 1 , **TODAY'S** 1 , **@THIRUSOFFICIAL** 1 , **OUT!** 1 , **CREATE** 1 , **DEMO** 1 , **WEBPAGE** 1 , **USING** 1 , **SMALL** 1 , **AUTO-SCROLL** 1 , **SNIPPET** 1 , **(…RT** 1 , **@CODESANDBOX:** 1 , **HIRING!** 1 , **REMOTE-FIRST** 1 , 
- 
-## What this user tweeted
- 
-RT @github: From research, we know that the more code we write, the more security vulnerabilities we introduce.
- 
-Justin Hutchings @jhutchi…
- 
-# DarkJustice99USER INFO
-![image](http://pbs.twimg.com/profile_images/1321991321016586243/V2jXxXZ1_normal.jpg)
- 
-`User ScreenName:` DarkJustice99 
- 
-`User chosen Name:` DarkJustice 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 28 16:54:20 +0000 2020 
- 
-`User Description?:` #CrazyBitch
-Lovely and Nice and All That Shit🥂🥂🥂
-#SpookME🌹🗝️❤️LS⚡ #Ghoste #BOO #Ghosted 
-#KatibaDesKuffars
-Team #GhostSec #GSM 
- @GhostSec__ 
- 
-`Followers?: `11 
- 
-`Following?:` 23 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 139 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1321991321016586243/V2jXxXZ1_normal.jpg 
- 
-`Number of tweets excluding replies:` 140 
+`Number of tweets excluding replies:` 82 
  
 
  
@@ -1034,92 +1115,19 @@ Team #GhostSec #GSM
  
 ## User Top tweeted words 
  
-**@GHOSTEJUSTUS:** 66 , **@LORIANSYNARO:** 13 , **ANONYMOUS** 10 , **PEOPLE** 8 , **ENDSARS** 8 , **DONE** 7 , **GOOD** 6 , **@GHOSTSEC__:** 6 , **OPNIGERIA** 6 , **REAL** 6 , **LIVE** 5 , **BEING** 5 , **EVERYTHING** 5 , **STILL** 5 , **LOVE** 4 , **GO** 4 , **FRIEDRICH** 4 , **MOST** 4 , **DARK** 4 , **FIND** 4 , 
+**BIDEN** 7 , **TRUMP** 6 , **VOTE** 6 , **PRESIDENT** 5 , **LEFT** 4 , **KEEP** 4 , **JOE** 4 , **HUNTER** 4 , **ITS** 3 , **VOTED** 3 , **@REALDONALDTRUMP** 3 , **KITTY** 3 , **U** 3 , **BLACK** 3 , **FBI** 3 , **CNN** 3 , **DEMOCRAT** 3 , **TRIED** 3 , **AMERICANS** 2 , **TIME** 2 , 
  
 ## What this user tweeted
  
-RT @_gHOST3301_: @TelecomsHoop @GhostSec__ @YounesAnonymous @HackDown2 "Our servers &amp; systems are fully protected from attacks of all kinds…
- 
-# TwitaNiGPoliceUSER INFO
-![image](http://pbs.twimg.com/profile_images/1322150795417104395/2maT0ook_normal.jpg)
- 
-`User ScreenName:` TwitaNiGPolice 
- 
-`User chosen Name:` Twita NG Police station 👮 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 24 15:25:55 +0000 2020 
- 
-`User Description?:` Just for fun. Ensuring justice on the timeline DM to report cases 
- 
-`Followers?: `77 
- 
-`Following?:` 77 
- 
-`User URL?:` None 
- 
-`Location:` United States 
- 
-`Number of tweets extracted`  : 140 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1322150795417104395/2maT0ook_normal.jpg 
- 
-`Number of tweets excluding replies:` 140 
+RT @1776Stonewall: https://t.co/MWG04Vn8K6 NY Post’s ‘Smoking Gun’ Hunter Biden Email 100% Authentic, Forensic Analysis Concludes
  
 
- 
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
 
- 
-## User Top tweeted words 
- 
-**ENDSARS** 30 , **ACCOUNT** 29 , **NIGERIANS** 24 , **INFO** 21 , **MODIFIED** 20 , **QUICK** 20 , **REGARDING** 18 , **NIGERIA** 14 , **MOVEMENT** 12 , **HERE'S** 11 , **PEOPLE** 9 , **GO** 9 , **YOUTHS** 8 , **GOVERNMENT** 8 , **@ADEYANJUDEJI:** 7 , **FOLLOW** 7 , **ELECTORAL** 6 , **REFORM** 6 , **RETWEET** 6 , **PLEASE** 6 , 
- 
-## What this user tweeted
- 
-"Our servers &amp; systems are fully protected from attacks of all kinds." Yeah, So About That ... ( ͡° ͜ʖ ͡°) Your Apa… https://t.co/6Bf0w0xnnW
- 
-# pndthingzUSER INFO
-![image](http://pbs.twimg.com/profile_images/1322257453111635968/wIAnZyIg_normal.jpg)
- 
-`User ScreenName:` pndthingz 
- 
-`User chosen Name:` cm 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 28 11:04:35 +0000 2020 
- 
-`User Description?:` just pnd thingz 🤩 
- 
-`Followers?: `1 
- 
-`Following?:` 8 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 70 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1322257453111635968/wIAnZyIg_normal.jpg 
- 
-`Number of tweets excluding replies:` 70 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NA** 23 , **KO** 21 , **KARLEEN** 17 , **LANG** 16 , **SA** 14 , **AKO** 13 , **YUNG** 10 , **PERO** 10 , **TALAGA** 10 , **ANG** 9 , **PA** 9 , **NI** 9 , **ALEX** 9 , **EP** 9 , **PEARL** 9 , **KASI** 9 , **PA-FALL** 8 , **RIN** 7 , **NAMAN** 7 , **NG** 6 , 
- 
-## What this user tweeted
- 
-I also find it interesting na first ep pa lang, ni-reveal na nila agad yung flaws and vulnerabilities ni Karleen. I… https://t.co/r1iwZ2Mqpv
- 
-# pcmichaudUSER INFO
-![image](http://pbs.twimg.com/profile_images/1320524527768580096/qNpz-buQ_normal.jpg)
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>//pbs.twimg.com/profile_images/1320524527768580096/qNpz-buQ_normal.jpg)
  
 `User ScreenName:` pcmichaud 
  
