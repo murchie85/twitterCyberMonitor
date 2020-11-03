@@ -598,240 +598,54 @@ https://t.co/owi0IIcXrp by @ingliguori #SmartCity #IoT #IIoT #InternetOfThings #
  
 ## User Top tweeted words 
  
-**@MJIBRANNASIR:** 4 , **COURT** 4 , **POLICE** 4 , **ARZOO** 3 , **CHILD** 3 , **MINORITY** 3 , **@NCRC_PAKISTAN:** 3 , **@NCRC_PAKISTAN** 3 , **MINOR** 3 , **CHRISTIAN** 3 , **GIRL** 3 , **SINDH** 3 , **ABDUCTION** 2 , **ORDERS** 2 , **RIGHTS** 2 , **ARZOORAJA** 2 , **FOLLOW-UP** 2 , **OCTOBER** 2 , **2020** 2 , **REGARDING** 2 , 
+**@MJIRT @sherpas_cyber: Our Proprietary solutions give us an edge over others. Like, the Proprietary Active Exfiltration Protection Engine makes…RT @BrentJArnold: Brent J. Arnold
+@BrentJArnold
+As I am close to 1K followers, I am temporarily suspending my policy of blocking bots and p…RT @keepnetlabs: According to FBI, #whaling attacks resulted in losses of more than $12.5 billion during 2018. https://t.co/yduNKZW7nP #hac…RT @ThisWeekinHIT: How hard is it to put together an adequate response plan? How much does it cost?
+
+@drexdeford is on to talk #cybersecuri…RT @keepnetlabs: How to Respond to #Phishing #Attacks https://t.co/ICksumSSDj
+#cybersecurity #hacking #technology #infosec #hack #cyber #io…RT @clubciso: Why did you leave your last role? 
+CISOs need to feel challenged, and then it’s typically on to the next gig. However, 22% mo…RT @BeckyArenson: Avoid the business KO … @TechBeaconCom’s @JPMello rounds up what #CyberResilience is, why it should matter to your organi…RT @leotanczt: Amongst all the bad news, I've got some good ones 🤗: 
+
+I am advertising a *fully-funded* #PhD Studentship on the topic of "#…RT @AXELGlobal: AXEL is on Blockfolio Signal! You can "Watch" our token on Blockfolio now and get up-to-date information about its performa…RT @BeckyArenson: #Cybersecurity policy is a must in government - Read more via @TechRepublic:
+ https://t.co/039HEzVJAn https://t.co/GGNzpf…RT @TopCyberNews: 🌏 Be The Voice!
+The future Nobel Prize Nominee (my prediction...!). L.
+🆕 #Cybersecurity #Predictions2021
+#PhDResearch @ #…RT @SecuredComm: Fascinating piece by Sam Denison on the Gen Z perspective re: protecting #privacy. He explains why companies need to take…RT @cflack1: Learn how #Cloud, #Collaboration, #CustomerExperience and #Cybersecurity are driving the IT Services industry in the new norma…RT @FBI: The #FBI, @CISAgov, and @HHSGov released a #cybersecurity advisory to warn of an increased and imminent threat to U.S. hospitals a…RT @Fabriziobustama: How #AI and #MachineLearning are Changing Cybersecurity
+#ArtificialIntelligence #ITsecurity
+#CyberSecurity
+Cc: @gerald…RT @visualedgeit: Cybersecurity Awareness Tips: Use trusted ant-virus and anti-malware software.
+
+https://t.co/Q0meguDZRy
+.
+.
+#cybersecurit…RT @TheCyberHub2: The npm security team has removed today a malicious JavaScript library from the npm website that contained malicious code…RT @SecureObservat1: Avoid the business KO … @TechBeaconCom’s @JPMello rounds up what #CyberResilience is, why it should matter to your org…RT @keepnetlabs: Here is how to use comedy to elevate your #security #awarenesstraining programs... https://t.co/KOUZy0En6e #information #i…RT @RecordedFuture: As the threat landscape continues to evolve, organizations need to be increasingly proactive in their approach to #cybe…RT @mnk716: Technologies like WAFs and threat intelligence may not be enough to protect against web skimming. Learn unique approaches to pr…RT @AAShakil50: Whenever I ask pro hackers for an advice as I'm beginner they'll say to solve @WebSecAcademy labs by @PortSwigger . I've fo…RT @valleygetlisted: 🔒 Security is a must, with all the hacks and infections across the internet. Making sure your data is safe and your we…RT @globalyouthigf: When we talk about #cybersecurity and #certifications, I think that the EU can also have a leading role in introducing…
  
-## What this user tweeted
+# CraigMarley5USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-“The case of #AarzooRaja, once again, seeks the State’s attention to the multiple vulnerabilities of minor girls of… https://t.co/ecC5gCt0vp
+`User ScreenName:` CraigMarley5 
  
-# cryptosyn1USER INFO
-![image](http://pbs.twimg.com/profile_images/1322822940786888704/MEbgOjKg_normal.jpg)
- 
-`User ScreenName:` cryptosyn1 
- 
-`User chosen Name:` cryptosyn 
+`User chosen Name:` Craig Marley 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Nov 01 08:47:28 +0000 2020 
+`User signup date?:` Thu Oct 29 00:33:31 +0000 2020 
  
-`User Description?:` #crypto my love! 
+`User Description?:`  
  
 `Followers?: `2 
  
-`Following?:` 38 
+`Following?:` 79 
  
 `User URL?:` None 
  
 `Location:`  
- 
-`Number of tweets extracted`  : 45 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1322822940786888704/MEbgOjKg_normal.jpg 
- 
-`Number of tweets excluding replies:` 45 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CRYPTOADVENTURE:** 20 , **RT** 16 , **FOLLOW** 16 , **GIVEAWAY** 14 , **🎯** 14 , **WINNERS** 12 , **✅** 11 , **2** 11 , **US** 11 , **7** 10 , **DAYS** 10 , **👇** 10 , **RETWEET** 9 , **PICKED** 9 , **📰** 6 , **FOLLOWING** 5 , **CRYPTO** 5 , **BITCOIN** 5 , **MYSELF** 4 , **GIVE** 4 , 
- 
-## What this user tweeted
- 
-RT @CryptoAdventure: 📈 Privacy Tips on Storing and Transacting Ether (ETH) in 2020
-
-Just like most cryptocurrencies, trading ether comes wi…
- 
-# PenTestingSA1USER INFO
-![image](http://pbs.twimg.com/profile_images/1321402032046166017/Cqu5hCSU_normal.png)
- 
-`User ScreenName:` PenTestingSA1 
- 
-`User chosen Name:` PenTestingSA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 28 10:28:43 +0000 2020 
- 
-`User Description?:` PenTestingSA, a friendly security company. 
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1321402032046166017/Cqu5hCSU_normal.png 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**الرجاء** 4 , **PLEASE** 3 , **الرد** 3 , **على** 3 , **@EALDABBAGH** 2 , **السلام** 2 , **عليكم،** 2 , **الخاص** 2 , **SENT** 2 , **EMAIL** 2 , **US** 2 , **REPLY** 2 , **في** 2 , **حاولت** 1 , **مساعدة** 1 , **MUKAFAAT** 1 , **لكن** 1 , **لم** 1 , **يردو** 1 , **علا** 1 , 
- 
-## What this user tweeted
- 
-@mukafaatms We found vulnerabilities in your system. Please contact us as soon as possible
- 
-# Lock3rNetworkUSER INFO
-![image](http://pbs.twimg.com/profile_images/1321891332605042689/NlJmgJQ7_normal.jpg)
- 
-`User ScreenName:` Lock3rNetwork 
- 
-`User chosen Name:` Lock3r Network 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 29 18:59:59 +0000 2020 
- 
-`User Description?:` Lock3r - Andre's vision, with fairer ownership/distribution. Encouraging a community maintained ecosystem, by providing MaaS - Maintenance as a Service - $LK3R 
- 
-`Followers?: `44 
- 
-`Following?:` 26 
- 
-`User URL?:` https://t.co/xJSXy8oIub 
- 
-`Location:` Currently on Kovan TestNetwork 
- 
-`Number of tweets extracted`  : 97 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1321891332605042689/NlJmgJQ7_normal.jpg 
- 
-`Number of tweets excluding replies:` 97 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DEXTOOLSAPP** 12 , **EVEN** 9 , **SOME** 8 , **PROJECT** 8 , **PROJECTS** 7 , **DEPLOYED** 7 , **@UNISWAPCOCKTAIL** 7 , **CONTRACT** 7 , **@KP4RNETWORK** 7 , **BEFORE** 6 , **NEED** 6 , **KP4R** 6 , **PEOPLE** 6 , **@CERTIK_IO** 6 , **@SKRTNNNN** 5 , **MAINNET** 5 , **@VIDARTHEAUDITOR** 5 , **STILL** 5 , **TOKEN** 5 , **USE** 5 , 
- 
-## What this user tweeted
- 
-@crypt0cry @VidarTheAuditor Yes - categorise the vulnerabilities found, suspicious functions etc.
- 
-# smuggzzzUSER INFO
-![image](http://pbs.twimg.com/profile_images/1323258347538288646/oKKLIOKR_normal.jpg)
- 
-`User ScreenName:` smuggzzz 
- 
-`User chosen Name:` 😈wierdo!♐️✨ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 31 07:08:20 +0000 2020 
- 
-`User Description?:` sui juris in esse⚖️i Reserve ALL My Rights & Waive NONE of My Rights📜we accept the challenge🕯go🐝GR🎱💜✨🧘🏾‍♀️✨🧘🏽‍♀️✨🧘🏾‍♂️✨ 
- 
-`Followers?: `17 
- 
-`Following?:` 122 
- 
-`User URL?:` None 
- 
-`Location:` in Orbit🛸 
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1323258347538288646/oKKLIOKR_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**🍿😎RT** 2 , **BIDEN** 2 , **81** 2 , **@SUIJURISINESSE:** 2 , **DIGITAL** 2 , **CHECK** 1 , **FRIENDS** 1 , **HTTPS://TCO/Z5HVPIHA81SECURITIZATION** 1 , **FRAUD** 1 , **LYTEONE🕯@LKING23KING** 1 , **LET** 1 , **PASSPORT** 1 , **SITUATED** 1 , **DOWN!🛩🍿😎** 1 , **HTTPS://TCO/TKNDWGET2QFACTOIDS** 1 , **HTTPS://TCO/6USWMEOOQCSO** 1 , **@TWITTER** 1 , **@JACK** 1 , **ADDED** 1 , **ACCOUNT** 1 , 
- 
-## What this user tweeted
- 
-RT @CoinDesk: It’s not that these @Lightning developers are negative toward Bitcoin; they’re just realistic. 
-
-With every upgrade comes the…
- 
-# TruthnotTreasonUSER INFO
-![image](http://pbs.twimg.com/profile_images/1322331925181247492/iG6SDX9Z_normal.jpg)
- 
-`User ScreenName:` TruthnotTreason 
- 
-`User chosen Name:` Justabloke 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 31 00:16:42 +0000 2020 
- 
-`User Description?:` Common Sense over Intelligence 
- 
-`Followers?: `25 
- 
-`Following?:` 57 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1322331925181247492/iG6SDX9Z_normal.jpg 
- 
-`Number of tweets excluding replies:` 577 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LIZZYWALES** 9 , **@REALDONALDTRUMP** 8 , **NEWS** 7 , **VIDEO** 6 , **THESE** 6 , **@JULIANSRUM** 6 , **HERE** 6 , **ANY** 5 , **POLICE** 5 , **@REALJAMESWOODS:** 5 , **TRUMP** 5 , **US** 5 , **@CJTRUTH:** 5 , **EVEN** 4 , **NEED** 4 , **@LIZZYWALES:** 4 , **PEOPLE** 4 , **TWITTER** 4 , **LOVE** 4 , **DR** 4 , 
- 
-## What this user tweeted
- 
-RT @99freemind: Yikes please don't turn to random twitter strangers for comfort in these difficult times.
-I'm seeing people offering 'frien…
- 
-# raj_92bUSER INFO
-![image](http://pbs.twimg.com/profile_images/1321048637804339200/I4mPz6oG_normal.jpg)
- 
-`User ScreenName:` raj_92b 
- 
-`User chosen Name:` aizii 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Oct 26 16:01:26 +0000 2020 
- 
-`User Description?:` vice captain team @teampvfofficial
-pak Army zindabad♥️♥️
-@imrankhan...♥️ 
- 
-`Followers?: `86 
- 
-`Following?:` 104 
- 
-`User URL?:` None 
- 
-`Location:` سندھ, پاکستان 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1321048637804339200/I4mPz6oG_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 479 
+`Number of tweets excluding replies:` 468 
  
 
  
@@ -839,12 +653,132 @@ pak Army zindabad♥️♥️
  
 ## User Top tweeted words 
  
-**WEARESOLDIERSOF5THGENWAR** 108 , **@NOORF__:** 33 , **@FS_L78** 32 , **🔃GET** 31 , **@RB_MAB** 31 , **@I___MRAN** 31 , **@A_O786** 31 , **@1N0RS** 31 , **@SK2_D** 31 , **@_GR19** 31 , **@H__PTI** 31 , **PTI_PG1** 29 , **@RAJ_92B** 29 , **@26UBID** 29 , **@KIRANANJUM10:** 28 , **WARFARE** 27 , **PAKISTAN** 24 , **WAR** 23 , **GENERATION** 20 , **FB** 18 , 
+**VOTE** 39 , **TRUMP** 22 , **ELECTION** 22 , **DAY** 17 , **@JOEBIDEN:** 14 , **@JOEBIDEN** 13 , **BIDEN** 11 , **DONALD** 10 , **POLLS** 10 , **LET’S** 10 , **WHITE** 10 , **@B52MALMET:** 8 , **TIME** 8 , **LINE** 8 , **GO** 8 , **REMEMBER** 8 , **@FUNDER:** 8 , **HOUSE** 8 , **PRESIDENT** 8 , **@AMY_SISKIND:** 7 , 
  
 ## What this user tweeted
  
-RT @NoorF__: #WeAreSoldiersOf5thGenWar
-5GW is a reality and it is being effectively waged. It orchestrates resources to target and exploit…
+RT @kurteichenwald: As we watch the @USPS slowdown that is impeding ballot delivery, I hope that there is a criminal referral for his perju…
+ 
+# TisecIUSER INFO
+![image](http://pbs.twimg.com/profile_images/1321048640559976449/i4-z9vrc_normal.jpg)
+ 
+`User ScreenName:` TisecI 
+ 
+`User chosen Name:` TiSec Segurança da Informação 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 27 11:18:13 +0000 2020 
+ 
+`User Description?:` Olá, somos um provedor de segurança gerenciada, oferecemos a empresas segurança da informação como serviço, DPO as a Service e implementação de ferramentas. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1321048640559976449/i4-z9vrc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEW** 3 , **FORTIGATE** 2 , **2600F** 2 , **ENABLES** 2 , **LARGE** 2 , **ENTERPRISE** 2 , **ORGANIZATIONS** 2 , **SIMPLIFY** 2 , **OPERATIONS** 2 , **REALIZE** 2 , **BETTER** 2 , **ROI…** 2 , **QUE** 2 , **LGPD** 2 , **READ** 1 , **KEY** 1 , **INSIGHTS** 1 , **FORTIGUARDLABS** 1 , **TEAM** 1 , **TIMELY** 1 , 
+ 
+## What this user tweeted
+ 
+Read key insights from the #FortiGuardLabs team on timely attack trends and what to plan for coming up as the threa… https://t.co/fdLgRVE1MQ
+ 
+# Bitcoin_RTUSER INFO
+![image](http://pbs.twimg.com/profile_images/1322604000110411778/q2DGaH1C_normal.jpg)
+ 
+`User ScreenName:` Bitcoin_RT 
+ 
+`User chosen Name:` Bitcoin RT 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 31 18:18:40 +0000 2020 
+ 
+`User Description?:` First of all Bitcoin,          
+Bot developed in Node.js,          
+My BTC Wallet: 1DtYtaiQMJt8ZskMDTki7eU7Lk84aD5X6G 
+ 
+`Followers?: `107 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:` Earth 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1322604000110411778/q2DGaH1C_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5204 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BITCOIN** 128 , **BTC** 16 , **BITCOINRT** 12 , **CRYPTO** 11 , **VOTE** 10 , **DE** 10 , **🚨** 10 , **PRICE** 9 , **WALLET** 8 , **AIRDROP** 8 , **$BTC** 7 , **US** 7 , **MAKE** 7 , **$** 7 , **=** 6 , **ELECTION** 6 , **BLOCKCHAIN** 6 , **BIDEN** 6 , **FREE** 5 , **EARN** 5 , 
+ 
+## What this user tweeted
+ 
+RT @WallStCopywrite: Former #NYSE #CEO: #Markets are saying that #TRUMP will win the #election
+
+#finance #money #business #entrepreneur #in…
+ 
+# Dalson31350488USER INFO
+![image](http://pbs.twimg.com/profile_images/1323692070654136323/ADD-r_iQ_normal.jpg)
+ 
+`User ScreenName:` Dalson31350488 
+ 
+`User chosen Name:` Dalson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 25 08:06:50 +0000 2020 
+ 
+`User Description?:` Expressive 
+ 
+`Followers?: `4 
+ 
+`Following?:` 112 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 46 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1323692070654136323/ADD-r_iQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 46 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 9 , **PRESIDENT** 6 , **@JACKPOSOBIEC:** 6 , **ELECTION** 5 , **@FOXNEWS:** 4 , **DAY** 4 , **STATE** 4 , **I’M** 4 , **SAY** 4 , **PEOPLE** 3 , **PA** 3 , **AFTER** 3 , **JOE** 3 , **BIDEN** 3 , **@TOMFITTON** 2 , **HOWEVER** 2 , **TIME** 2 , **N** 2 , **VOTES** 2 , **@TRUMPWARROOM:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @nprpolitics: Election Day appeared to be “just another Tuesday” from a cybersecurity perspective at the time of a lunch hour update fro…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
