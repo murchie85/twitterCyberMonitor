@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **peterjhasson**  
+The most popular user is: **FireEye**  
  
 
-## NEW: Forensic analysis of the metadata of the Hunter Biden email at the center of the NYPost expose shows it’s 100%… https://t.co/vojwsYRWzj 
+## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **peterjhasson**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @cybercellviit: Care to be Aware! #cybersecurity #infosec #NEW #Newsnight #hacking #technology #WHO https://t.co/ClAviTTdlG |
-| RT @jseldin: More than 3,000 National Guard troops now activated in +14 states - with duties ranging from helping poll workers to #cybersec… |
-| RT @USCERT_gov: Oracle released an out-of-band security alert to address a vulnerability—CVE-2020-14750—in Oracle WebLogic Server. Patch AS… |
+| RT @JinibaBD: Iran-linked Phosphorous APT hacked emails of security conference attendees #CyberSecurity #osint #cyberthreats #hackers #dar… |
+| RT @MosseSecurity: With MCSI you get moreRegister Now! https://t.co/Y6sYmjvJNM#TrainWithMCSI #Pentesting #ThreatIntelligence #threatint… |
+| RT @javier_carriazo: The Big Lie in Threat Hunting #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreaches #cybercrime #cybers… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **rvp** |
-| #2 Most tweeted to  | **SourabhSKatoch** |
-| #3 Most tweeted to  | **BeyondTrust** |
-| NewProfiles (less than 10 days) | 0.04%  |
-| Tweeters with < 10 followers  | 2.0%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **bad_packets** |
+| #3 Most tweeted to  | **FireEye** |
+| NewProfiles (less than 10 days) | 0.29%  |
+| Tweeters with < 10 followers  | 1.63%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,98 +50,57 @@ The most popular user is: **peterjhasson**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **IOT**  |
-| second  | **INFOSEC**  |
-| third  | **US** |
-| fourth  | **DATA**  |
-| fifth  | **RANSOMWARE**  |
+| first  | **OSINT**  |
+| second  | **HACKERS**  |
+| third  | **CYBERTHREATS** |
+| fourth  | **THREATINTEL**  |
+| fifth  | **@JINIBABD:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (13.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|More than half of cybersecurity professionals reported that the #cybersecurity skills shortage is either “bad” or “… https://t.co/xEuj8LjeZ8 |
+|RT @chriscochrcyber: Hacker Valley Studio and AttackIQ joined forces to bring you the newest course in the AttackIQ Academy:Introduction… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **peterjhasson**  |
+| The most retweeted user is: **FireEye**  |
 | ------------- |
-| NEW: Forensic analysis of the metadata of the Hunter Biden email at the center of the NYPost expose shows it’s 100%… https://t.co/vojwsYRWzj |
+| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
 
 # Potential Fake Accounts
  
-# InstituteInterUSER INFO
-![image](http://pbs.twimg.com/profile_images/1322561614252511233/aBr8xGPE_normal.jpg)
+# KLitkettUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` InstituteInter 
+`User ScreenName:` KLitkett 
  
-`User chosen Name:` InterAgencyInstitute 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 28 13:52:42 +0000 2020 
- 
-`User Description?:` https://t.co/cn0rX4fOzY - Beyond Institutional Boundaries
-
-(RTs for sharing experiences and ideas) 
- 
-`Followers?: `6 
- 
-`Following?:` 132 
- 
-`User URL?:` https://t.co/cn0rX4fOzY 
- 
-`Location:` Europe 
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1322561614252511233/aBr8xGPE_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**INSTITUTE** 4 , **INTERAGENCY** 3 , **@SABRINAMED** 2 , **RESEARCH** 2 , **PARTICIPATED** 2 , **@DJAP2222** 1 , **POLICY** 1 , **PAPER** 1 , **“DIGITAL** 1 , **GEOPOLITICS** 1 , **INFORMATIO…** 1 , **HTTPS://TCO/JMTIPZVNJGRT** 1 , **@GUILHERME_AMADO** 1 , **”BRASIL** 1 , **BEHIND** 1 , **PARAGUAY** 1 , **ARGENTINA** 1 , **URUGUAY** 1 , **CHILE** 1 , **CYBERSECURITY”** 1 , 
- 
-## What this user tweeted
- 
-@sabrinamed and @djap2222 from the InterAgency Institute had their Policy Paper “Digital Geopolitics and Informatio… https://t.co/jMtiPZVNjG
- 
-# space_mlUSER INFO
-![image](http://pbs.twimg.com/profile_images/1323339481294925825/tZyRp1p-_normal.jpg)
- 
-`User ScreenName:` space_ml 
- 
-`User chosen Name:` AI ML Space 
+`User chosen Name:` Keith Litkett 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Nov 02 18:48:58 +0000 2020 
+`User signup date?:` Fri Oct 30 02:56:07 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Creative Hard worker 
  
-`Followers?: `5 
+`Followers?: `1 
  
-`Following?:` 16 
+`Following?:` 40 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 14 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1323339481294925825/tZyRp1p-_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 14 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -149,15 +108,215 @@ VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 ## User Top tweeted words 
  
-**RT** 5 , **MACHINELEARNING** 4 , **PROGRAMMING** 3 , **AI** 3 , **DATA** 3 , **@TOWARDS_AI:** 2 , **@SOURABHSKATOCH:** 2 , **7** 2 , **PYTHON** 2 , **IOT** 2 , **AMAZON** 2 , **BIGDATA** 2 , **ANALYTICS** 2 , **TIPS** 2 , **GUIDE** 2 , **LEARNING** 2 , **@AMULYAYADAV19:** 1 , **CONTINUING** 1 , **PSU** 1 , **AI4SOCIALIMPACT** 1 , 
+**ARTICLE** 2 , **GREAT** 2 , **USING** 2 , **TIPS** 2 , **UNDER** 2 , **SOCIAL** 2 , **MEDIA** 2 , **@CAINESROENA** 1 , **GOOD** 1 , **TIP** 1 , **KEYWORDS** 1 , **BETTER** 1 , **APPEARANCE** 1 , **SEARCH** 1 , **RESULTS** 1 , **SN4JS@JOPERRY23** 1 , **LOVE** 1 , **WAY** 1 , **GIVES** 1 , **EXPLANATION** 1 , 
  
 ## What this user tweeted
  
-RT @SourabhSKatoch: 5 Practical tips for data aggregation in pandas.
+RT @SentinelOne: 📊  Healthcare and public sector under attack - Read #SentinelLabs threat intelligence briefing - #Trickbot continues to wr…
+ 
+# pmcslabsUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` pmcslabs 
+ 
+`User chosen Name:` pmcslabs 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Oct 26 17:51:42 +0000 2020 
+ 
+`User Description?:` pmcs labs 
+ 
+`Followers?: `4 
+ 
+`Following?:` 48 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 34 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 34 
+ 
 
-https://t.co/VSwHAyZdkM
+ 
 
-#Python #MachineLearning #AI #100DaysOfCode…
+ 
+## User Top tweeted words 
+ 
+**ESCALATION** 5 , **RCE** 4 , **PRIVELEGE** 4 , **SCORE** 4 , **SEVERITY** 3 , **20201013** 3 , **72** 3 , **TARGETING** 2 , **20201020** 2 , **20201029** 2 , **VULNERABILITY** 2 , **WINDOWS** 1 , **7-10** 1 , **(CHROME)** 1 , **ZERO** 1 , **DAY** 1 , **PRIVILEGE** 1 , **CVE-2020-17087** 1 , **HTTPS://TCO/ZHS3QTAG1QHTTPS://TCO/T3ECVQKP5G(0)** 1 , **WINDOWS7-10/CHROME** 1 , 
+ 
+## What this user tweeted
+ 
+RT @bad_packets: Exploit activity detected from 85.248.227.164 (🇸🇰 Tor exit node) targeting Fortinet VPN servers vulnerable to unauthentica…
+ 
+# Lucky7sCyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1321918196119674886/LyIafKH8_normal.jpg)
+ 
+`User ScreenName:` Lucky7sCyber 
+ 
+`User chosen Name:` Lucky7sCyber 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 29 19:54:20 +0000 2020 
+ 
+`User Description?:` I've worked in cyber security for 25+ years. Yes, cyber security existed back in 1995 but no one called it that. #blueteam #vulns #csirt #dfir #gtfo 
+ 
+`Followers?: `3 
+ 
+`Following?:` 60 
+ 
+`User URL?:` None 
+ 
+`Location:` Antarctica 
+ 
+`Number of tweets extracted`  : 24 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1321918196119674886/LyIafKH8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 24 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THREATPOST:** 4 , **RANSOMWARE** 3 , **DATA** 2 , **THREAT** 2 , **US** 2 , **HOSPITALS** 2 , **TIME** 2 , **GO** 2 , **@INFOSECURITYMAG:** 2 , **EVERYTHING** 2 , **RT** 1 , **ROAMING** 1 , **MANTIS** 1 , **GROUP** 1 , **TARGETING** 1 , **STATES** 1 , **MALWARE** 1 , **STEAL** 1 , **INFORMATION** 1 , **HARVEST** 1 , 
+ 
+## What this user tweeted
+ 
+@MalwareJake @DomainTools Recorded Future can also do this. #threatintel
+ 
+# frictosmUSER INFO
+![image](http://pbs.twimg.com/profile_images/1322301272016519168/zgi6NmGQ_normal.jpg)
+ 
+`User ScreenName:` frictosm 
+ 
+`User chosen Name:` Medo (C T) $DVT 💥 $BTC 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 27 09:46:30 +0000 2020 
+ 
+`User Description?:` #bitcoin
+#DeVault
+#DVT
+#ColdRewards
+#BLSsignatures 
+ 
+`Followers?: `22 
+ 
+`Following?:` 117 
+ 
+`User URL?:` https://t.co/YsC5uZ4Qg3 
+ 
+`Location:` Everywhere  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1322301272016519168/zgi6NmGQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 249 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$DVT** 40 , **@COINKIT_** 35 , **DEVAULT** 33 , **@DEVAULTCRYPTO** 25 , **BITCOIN** 23 , **GIVE** 21 , **@KENNETHBOSAK:** 20 , **RETWEETS** 15 , **MUST** 14 , **1** 14 , **RETWEET** 12 , **FOLLOW** 12 , **@KENNETHBOSAK** 10 , **GIVEAWAY** 10 , **BTC** 10 , **DVT** 10 , **💥** 10 , **100** 9 , **NEXT** 9 , **🔥** 9 , 
+ 
+## What this user tweeted
+ 
+RT @bad_packets: Ongoing mass scanning activity detected from 193.202.45.242 (🇺🇸) attempting to exploit Fortinet VPN servers vulnerable to…
+ 
+# Tt14092019USER INFO
+![image](http://pbs.twimg.com/profile_images/1320989586185740289/_hvvyWgW_normal.jpg)
+ 
+`User ScreenName:` Tt14092019 
+ 
+`User chosen Name:` hvf fun nbh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 27 07:18:07 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `10 
+ 
+`Following?:` 81 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1320989586185740289/_hvvyWgW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BBV** 1 , **HTTPS://TCO/SEPI82FW7LBBCV** 1 , **HTTPS://TCO/SEPI82FW7LN** 1 , **V** 1 , **HTTPS://TCO/KG5FQDKNKART** 1 , **@NOFORNUMBRA:** 1 , **@FSISAC** 1 , **EXPECT** 1 , **MR** 1 , **NIKITA** 1 , **KISLITSIN** 1 , **@GROUPIB_GIB** 1 , **UNDER** 1 , **INVESTIGATION** 1 , **@FBI?** 1 , **APART** 1 , **O…HTTPS://TCO/1ZSAEGW5FUHTTPS://TCO/5RT2AYOS0OHTTPS://TCO/XOM9IEKLUQAMG** 1 , **HTTPS://TCO/EAPU9DKDRHHBV** 1 , **HTTPS://TCO/XRU2YOPPOCHTTPS://TCO/IWPL3Q2TEU** 1 , 
+ 
+## What this user tweeted
+ 
+RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
+ 
+# RiodrwnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1320898013720530944/JLTtFZsq_normal.jpg)
+ 
+`User ScreenName:` Riodrwn 
+ 
+`User chosen Name:` Rio 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 27 01:08:56 +0000 2020 
+ 
+`User Description?:` Pretending to be smart! 
+ 
+`Followers?: `20 
+ 
+`Following?:` 56 
+ 
+`User URL?:` https://t.co/hP7jlZ6NsX 
+ 
+`Location:` In your mind 
+ 
+`Number of tweets extracted`  : 37 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1320898013720530944/JLTtFZsq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 37 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BANG** 5 , **GW** 5 , **DI** 5 , **JUGA** 4 , **YG** 4 , **AJA** 3 , **BARU** 3 , **KWKWK** 3 , **AKU** 3 , **@ABAYKANDOTCOM** 3 , **:** 2 , **SEMANGAT** 2 , **=** 2 , **BELOK** 2 , **SAMA** 2 , **@SLARKSLARK** 2 , **JELAS** 2 , **HI** 2 , **CEWE** 2 , **OPEN** 2 , 
+ 
+## What this user tweeted
+ 
+RT @dwisiswant0: Made public now &amp; beta version released!
+
+teler: Real-time HTTP #Intrusion Detection
+https://t.co/oAmJFd86TO
+
+#go #golang…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
