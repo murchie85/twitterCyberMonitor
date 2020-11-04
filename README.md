@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **FireEye**  
+The most popular user is: **ProjectLincoln**  
  
 
-## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
+## The Lincoln Project and Harrison Ford are teaming up to let Americans know you can only keep one of them: Trump, or… https://t.co/yrNuMzhAh6 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **FireEye**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @javier_carriazo: Ransomware booms, but how many attacks achieve their ends? #CyberSecurity #osint #cyberthreats #hackers #darkweb #dat… |
-| RT @FireEye: Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for analysts to ge… |
-| RT @Netenrich: Warning: New 'Windows Update' attachment is the template of choice for #Emotet malware.https://t.co/J0IcQMociV #Cybersecur… |
+| RT @keepnetlabs: 95% of all attacks on networks are the result of successful #spearphishing, see https://t.co/rOKt0PSmbm #statistics #fact&amp;… |
+| RT @iotcybersec24: 👉 $199.99 👈TOGUARD 5MP PoE Home Security Camera System 8Channel NVR 4pcs Wired IP @iotcybersec24 #TOGUARD #5MP #PoE #… |
+| RT @reach2ratan: How to implement password-less authentication with Amazon Cognito and WebAuthn https://t.co/Ljm765tkjn#CyberSecurity #di… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bad_packets** |
-| #2 Most tweeted to  | **FireEye** |
-| #3 Most tweeted to  | **javier_carriazo** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 1.67%|
+| #1 Most tweeted to  | **TheHackersNews** |
+| #2 Most tweeted to  | **keepnetlabs** |
+| #3 Most tweeted to  | **reach2ratan** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 1.52%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,57 +50,57 @@ The most popular user is: **FireEye**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **THREATINTEL**  |
-| second  | **OSINT**  |
-| third  | **@BAD_PACKETS:** |
-| fourth  | **DETECTED**  |
-| fifth  | **ACTIVITY**  |
+| first  | **INFOSEC**  |
+| second  | **CHROME**  |
+| third  | **EXPLOITED** |
+| fourth  | **BROWSER**  |
+| fifth  | **GOOGLE**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (26.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Scammers are spoofing bank phone numbers to rob victims - https://t.co/u2L4aA5Sm6#OSINT #Security #Threatintel #cybersecurity |
+|RT @TheHackersNews: Another #Chrome Browser 0-Day Found Being Exploited in the Wild.https://t.co/p0oY9AGW1bUpdate Your #Google Chrome t… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FireEye**  |
+| The most retweeted user is: **ProjectLincoln**  |
 | ------------- |
-| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
+| The Lincoln Project and Harrison Ford are teaming up to let Americans know you can only keep one of them: Trump, or… https://t.co/yrNuMzhAh6 |
 
 # Potential Fake Accounts
  
-# KLitkettUSER INFO
+# Cs118BUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` KLitkett 
+`User ScreenName:` Cs118B 
  
-`User chosen Name:` Keith Litkett 
+`User chosen Name:` CS118Bot 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Oct 30 02:56:07 +0000 2020 
+`User signup date?:` Thu Oct 29 23:46:27 +0000 2020 
  
-`User Description?:` Creative Hard worker 
+`User Description?:` Hi :) This is my project for my CS118 Final and I am making a bot that retweets things about cyber security. @MattysenShort is my real account. 
  
-`Followers?: `0 
+`Followers?: `2 
  
-`Following?:` 40 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 200 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 217 
  
 
  
@@ -108,120 +108,53 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJ
  
 ## User Top tweeted words 
  
-**ARTICLE** 2 , **GREAT** 2 , **USING** 2 , **TIPS** 2 , **UNDER** 2 , **SOCIAL** 2 , **MEDIA** 2 , **@CAINESROENA** 1 , **GOOD** 1 , **TIP** 1 , **KEYWORDS** 1 , **BETTER** 1 , **APPEARANCE** 1 , **SEARCH** 1 , **RESULTS** 1 , **SN4JS@JOPERRY23** 1 , **LOVE** 1 , **WAY** 1 , **GIVES** 1 , **EXPLANATION** 1 , 
+**CYBERSECURITY** 79 , **SECURITY** 32 , **INFOSEC** 18 , **DATA** 17 , **CYBER** 16 , **RANSOMWARE** 16 , **THREAT** 12 , **NEW** 11 , **HACKING** 11 , **@KEEPNETLABS:** 10 , **NEED** 8 , **MACHINELEARNING** 8 , **US** 7 , **INFORMATION** 7 , **VIA** 7 , **CYBERSECURITYRT** 7 , **ATTACKS** 7 , **PRIVACY** 7 , **CYBERRESILIENCE** 6 , **HACKERS** 6 , 
  
 ## What this user tweeted
  
-RT @SentinelOne: 📊  Healthcare and public sector under attack - Read #SentinelLabs threat intelligence briefing - #Trickbot continues to wr…
+RT @joeclark947: @CIOonline @avast_antivirus @kaspersky @AVGFree @symantec @ESET  @TheHackersNews @hackernoon @Cisco @Microsoft @IBM @intel…RT @SoniaDHooge: Strengthen Your #CyberResilience. Check out @MicroFocusSec's new #InfoSec website packed with resources for #CISOs, #CIOs,…RT @tbgsecurity: #CCPA Compliance: What Your Company Needs to Know  https://t.co/aA7JcVYXOx #infosec #cybersecurity https://t.co/yga46eePk8RT @CyberSecOb: The Need to Change the Paradigm of Control Systems Cyber Security
+https://t.co/jQfixDYxxk
+For further information on cyber…RT @Transform_Sec: From #CyberSecurity Awareness to Genuine Cultural Change &gt;&gt; What do you need to make this work ?
+
+Check It Out &gt;&gt; The @C…RT @ocean20182018: RT:
+
+Understanding the terminology in Industrial #IoT Security: https://t.co/t3dApyO9gz
+———————#IIoT #IoTPL #DataSecurit…RT @keepnetlabs: Hackers use #whaling to get large money transfers or trade secrets. https://t.co/yduNKZW7nP #hacking #infosec #ransomware…RT @keepnetlabs: Only 3% of users report #phishing emails to their management,  https://t.co/rOKt0PSmbm #statistics #fact&amp;figures  #technol…RT @KirkDBorne: #IoTSecurity Best Practices for Industry and Enterprise: https://t.co/Z7uWYlHAyV by @AerisM2M
+—————
+#M2M #IoT #IIoT #IoTPL…RT @keepnetlabs: What did happen in the #cybersecurity world in this week? See more at https://t.co/1Hd7AGAE5t  #technology  #ransomware #d…RT @DrJDrooghaag: 🔵 Cyber Security is a shared responsibility which requires inclusion and human-centric collaboration
+
+👉 https://t.co/rzkA…RT @keepnetlabs: Here is how to use comedy to elevate your #security #awarenesstraining programs... https://t.co/KOUZy0En6e #information #i…RT @keepnetlabs: Hackers use #whaling to get large money transfers or trade secrets. https://t.co/yduNKZW7nP #hacking #infosec #ransomware…RT @ECCOUNCIL: Join James Binford, VP, Cloud Security Solutions at US Bank on November 17, 2020, and learn how to drive digital transformat…RT @CioAmaro: Types of cybersecurity threats by https://t.co/YG573CW1b1
+#Infosec #CyberSecurity #CyberAttack #Hacking #Privacy #Threat #Mal…RT @keepnetlabs: 85% of organisations have suffered from phishing attacks,  see more at https://t.co/rOKt0PSmbm #statistics #fact&amp;figures…RT @BeckyArenson: Strengthen Your #CyberResilience. Check out @MicroFocusSec's new #InfoSec website packed with resources for #CISOs, #CIOs…RT @keepnetlabs: According to FBI, #whaling attacks resulted in losses of more than $12.5 billion during 2018. https://t.co/yduNKZW7nP #hac…RT @keepnetlabs: How to Respond to #Phishing #Attacks https://t.co/ICksumSSDj
+#cybersecurity #hacking #technology #infosec #hack #cyber #io…RT @keepnetlabs: Here is how to use comedy to elevate your #security #awarenesstraining programs... https://t.co/KOUZy0En6e #information #i…RT @RecordedFuture: As the threat landscape continues to evolve, organizations need to be increasingly proactive in their approach to #cybe…RT @AAShakil50: Whenever I ask pro hackers for an advice as I'm beginner they'll say to solve @WebSecAcademy labs by @PortSwigger . I've fo…
  
-# pmcslabsUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# Bitcoin_RTUSER INFO
+![image](http://pbs.twimg.com/profile_images/1322604000110411778/q2DGaH1C_normal.jpg)
  
-`User ScreenName:` pmcslabs 
+`User ScreenName:` Bitcoin_RT 
  
-`User chosen Name:` pmcslabs 
+`User chosen Name:` Bitcoin RT 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Oct 26 17:51:42 +0000 2020 
+`User signup date?:` Sat Oct 31 18:18:40 +0000 2020 
  
-`User Description?:` pmcs labs 
+`User Description?:` First of all Bitcoin,          
+Bot developed in Node.js,          
+My BTC Wallet: 1DtYtaiQMJt8ZskMDTki7eU7Lk84aD5X6G 
  
-`Followers?: `3 
+`Followers?: `110 
  
-`Following?:` 48 
+`Following?:` 1 
  
 `User URL?:` None 
  
-`Location:`  
- 
-`Number of tweets extracted`  : 34 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 34 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ESCALATION** 5 , **RCE** 4 , **PRIVELEGE** 4 , **SCORE** 4 , **SEVERITY** 3 , **20201013** 3 , **72** 3 , **TARGETING** 2 , **20201020** 2 , **20201029** 2 , **VULNERABILITY** 2 , **WINDOWS** 1 , **7-10** 1 , **(CHROME)** 1 , **ZERO** 1 , **DAY** 1 , **PRIVILEGE** 1 , **CVE-2020-17087** 1 , **HTTPS://TCO/ZHS3QTAG1QHTTPS://TCO/T3ECVQKP5G(0)** 1 , **WINDOWS7-10/CHROME** 1 , 
- 
-## What this user tweeted
- 
-RT @bad_packets: Exploit activity detected from 85.248.227.164 (🇸🇰 Tor exit node) targeting Fortinet VPN servers vulnerable to unauthentica…
- 
-# Lucky7sCyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1321918196119674886/LyIafKH8_normal.jpg)
- 
-`User ScreenName:` Lucky7sCyber 
- 
-`User chosen Name:` Lucky7sCyber 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 29 19:54:20 +0000 2020 
- 
-`User Description?:` I've worked in cyber security for 25+ years. Yes, cyber security existed back in 1995 but no one called it that. #blueteam #vulns #csirt #dfir #gtfo 
- 
-`Followers?: `3 
- 
-`Following?:` 60 
- 
-`User URL?:` None 
- 
-`Location:` Antarctica 
- 
-`Number of tweets extracted`  : 24 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1321918196119674886/LyIafKH8_normal.jpg 
- 
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THREATPOST:** 4 , **RANSOMWARE** 3 , **DATA** 2 , **THREAT** 2 , **US** 2 , **HOSPITALS** 2 , **TIME** 2 , **GO** 2 , **@INFOSECURITYMAG:** 2 , **EVERYTHING** 2 , **RT** 1 , **ROAMING** 1 , **MANTIS** 1 , **GROUP** 1 , **TARGETING** 1 , **STATES** 1 , **MALWARE** 1 , **STEAL** 1 , **INFORMATION** 1 , **HARVEST** 1 , 
- 
-## What this user tweeted
- 
-@MalwareJake @DomainTools Recorded Future can also do this. #threatintel
- 
-# frictosmUSER INFO
-![image](http://pbs.twimg.com/profile_images/1322301272016519168/zgi6NmGQ_normal.jpg)
- 
-`User ScreenName:` frictosm 
- 
-`User chosen Name:` Medo (C T) $DVT 💥 $BTC 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Oct 27 09:46:30 +0000 2020 
- 
-`User Description?:` #bitcoin
-#DeVault
-#DVT
-#ColdRewards
-#BLSsignatures 
- 
-`Followers?: `24 
- 
-`Following?:` 133 
- 
-`User URL?:` https://t.co/YsC5uZ4Qg3 
- 
-`Location:` Everywhere  
+`Location:` Earth 
  
 `Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1322301272016519168/zgi6NmGQ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1322604000110411778/q2DGaH1C_normal.jpg 
  
-`Number of tweets excluding replies:` 280 
+`Number of tweets excluding replies:` 5244 
  
 
  
@@ -229,38 +162,40 @@ RT @bad_packets: Exploit activity detected from 85.248.227.164 (🇸🇰 Tor exi
  
 ## User Top tweeted words 
  
-**$DVT** 31 , **@COINKIT_** 31 , **DEVAULT** 27 , **GIVE** 27 , **RETWEETS** 24 , **BITCOIN** 23 , **MUST** 19 , **RANDOM** 18 , **@DEVAULTCRYPTO** 18 , **@KENNETHBOSAK:** 16 , **PERSON** 16 , **FOLLOW** 15 , **RT** 14 , **RETWEET** 13 , **FOLLOWING** 13 , **SOMEONE** 12 , **MYSELF** 11 , **NEXT** 11 , **1** 11 , **💥** 10 , 
+**BITCOIN** 137 , **BTC** 14 , **BITCOINRT** 13 , **VOTE** 12 , **🚨** 12 , **MAKE** 10 , **CRYPTO** 9 , **$BTC** 9 , **US** 8 , **ELECTION** 8 , **DE** 7 , **WALLET** 7 , **PRICE** 7 , **14K** 6 , **DON'T** 6 , **AGAIN** 6 , **$** 6 , **AIRDROP** 6 , **BIDEN** 6 , **=** 5 , 
  
 ## What this user tweeted
  
-RT @bad_packets: Ongoing mass scanning activity detected from 193.202.45.242 (🇺🇸) attempting to exploit Fortinet VPN servers vulnerable to…
+RT @WallStCopywrite: Former #NYSE #CEO: #Markets are saying that #TRUMP will win the #election
+
+#finance #money #business #entrepreneur #in…
  
-# Tt14092019USER INFO
-![image](http://pbs.twimg.com/profile_images/1320989586185740289/_hvvyWgW_normal.jpg)
+# flocki50317141USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` Tt14092019 
+`User ScreenName:` flocki50317141 
  
-`User chosen Name:` hvf fun nbh 
+`User chosen Name:` flocki 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Oct 27 07:18:07 +0000 2020 
+`User signup date?:` Tue Nov 03 12:24:50 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `10 
+`Followers?: `1 
  
-`Following?:` 81 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 10 
+`Number of tweets extracted`  : 23 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1320989586185740289/_hvvyWgW_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 10 
+`Number of tweets excluding replies:` 23 
  
 
  
@@ -268,38 +203,44 @@ RT @bad_packets: Ongoing mass scanning activity detected from 193.202.45.242 (�
  
 ## User Top tweeted words 
  
-**BBV** 1 , **HTTPS://TCO/SEPI82FW7LBBCV** 1 , **HTTPS://TCO/SEPI82FW7LN** 1 , **V** 1 , **HTTPS://TCO/KG5FQDKNKART** 1 , **@NOFORNUMBRA:** 1 , **@FSISAC** 1 , **EXPECT** 1 , **MR** 1 , **NIKITA** 1 , **KISLITSIN** 1 , **@GROUPIB_GIB** 1 , **UNDER** 1 , **INVESTIGATION** 1 , **@FBI?** 1 , **APART** 1 , **O…HTTPS://TCO/1ZSAEGW5FUHTTPS://TCO/5RT2AYOS0OHTTPS://TCO/XOM9IEKLUQAMG** 1 , **HTTPS://TCO/EAPU9DKDRHHBV** 1 , **HTTPS://TCO/XRU2YOPPOCHTTPS://TCO/IWPL3Q2TEU** 1 , 
+**PYTHON** 10 , **PROGRAMMING** 5 , **MACHINELEARNING** 5 , **DATASCIENCE** 4 , **DATA** 3 , **AI** 3 , **PYTHONRT** 2 , **BIGDATA** 2 , **ANALYTICS** 2 , **👉** 2 , **HELLO** 1 , **;)RT** 1 , **@MUKULKADEL:** 1 , **😂😂😂😂😂** 1 , **FOUND** 1 , **INTERNET** 1 , **RETWEET** 1 , **AGREE😂** 1 , **100DAYSOFCODE** 1 , **CODERLIFE** 1 , 
  
 ## What this user tweeted
  
-RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
+RT @necrohrt: https://t.co/cj5pPtbAVw
+
+Contribute to #DataScience and #MachineLearning projects on #github 
+
+⭐🍴
+
+#python #programming #Arti…
  
-# RiodrwnUSER INFO
-![image](http://pbs.twimg.com/profile_images/1320898013720530944/JLTtFZsq_normal.jpg)
+# bruno_prigentUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` Riodrwn 
+`User ScreenName:` bruno_prigent 
  
-`User chosen Name:` Rio 
+`User chosen Name:` Bruno Prigent 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Oct 27 01:08:56 +0000 2020 
+`User signup date?:` Sat Oct 31 23:01:46 +0000 2020 
  
-`User Description?:` Pretending to be smart! 
+`User Description?:`  
  
-`Followers?: `20 
+`Followers?: `0 
  
-`Following?:` 58 
+`Following?:` 14 
  
-`User URL?:` https://t.co/hP7jlZ6NsX 
+`User URL?:` None 
  
-`Location:` In your mind 
+`Location:`  
  
-`Number of tweets extracted`  : 44 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1320898013720530944/JLTtFZsq_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 44 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -307,16 +248,50 @@ RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB
  
 ## User Top tweeted words 
  
-**JUGA** 8 , **YG** 7 , **DI** 7 , **BANG** 6 , **GW** 6 , **UDH** 5 , **DARI** 3 , **GITU** 3 , **ADA** 3 , **AJA** 3 , **BARU** 3 , **KWKWK** 3 , **AKU** 3 , **@ABAYKANDOTCOM** 3 , **BERANI** 2 , **UNTUK** 2 , **KEK** 2 , **MENDING** 2 , **SEBELUM** 2 , **SUKA** 2 , 
+**WINDOWS** 2 , **RT** 1 , **@THEHACKERSNEWS:** 1 , **CHROME** 1 , **IE** 1 , **BROWSER** 1 , **BUGS** 1 , **EXPLOITED** 1 , **INSTALL** 1 , **2** 1 , **NEW** 1 , **BACKDOORS** 1 , **TARGETED** 1 , **COMPUTERS** 1 , **HTTPS://TCO/RNTLL2AMDJ** 1 , **INFOSECRT** 1 , **@PTRACESECURITY:** 1 , **CREDENTIALS** 1 , **PROCESSES** 1 , **AUTHENTICATION** 1 , 
  
 ## What this user tweeted
  
-RT @dwisiswant0: Made public now &amp; beta version released!
+RT @ptracesecurity: Credentials Processes in Windows Authentication  https://t.co/ghCCyfp5oP  #Windows #ActiveDirectory #CyberSecurity #Inf…
+ 
+# kristopherbl1USER INFO
+![image](http://pbs.twimg.com/profile_images/1322611286283292672/uyCWKp7u_normal.jpg)
+ 
+`User ScreenName:` kristopherbl1 
+ 
+`User chosen Name:` Kris 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Oct 28 10:15:06 +0000 2020 
+ 
+`User Description?:` 3D Printing, Art, MTB 
+ 
+`Followers?: `21 
+ 
+`Following?:` 186 
+ 
+`User URL?:` None 
+ 
+`Location:` Glasgow, Scotland 
+ 
+`Number of tweets extracted`  : 35 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1322611286283292672/uyCWKp7u_normal.jpg 
+ 
+`Number of tweets excluding replies:` 35 
+ 
 
-teler: Real-time HTTP #Intrusion Detection
-https://t.co/oAmJFd86TO
+ 
 
-#go #golang…
+ 
+## User Top tweeted words 
+ 
+**PS5** 3 , **SAME** 3 , **I'M** 3 , **I'D** 3 , **TIME** 3 , **I'VE** 3 , **GAMES** 2 , **GOING** 2 , **PUT** 2 , **DAY** 2 , **@CELTICFC** 2 , **THINKING** 2 , **VERY** 2 , **DON'T** 2 , **LEARN** 2 , **FIRST** 2 , **NEED** 2 , **NIGEL** 2 , **LET'S** 2 , **WORKING** 2 , 
+ 
+## What this user tweeted
+ 
+@will_mallett Welcome to my life. I should learn blender. I should do more photography. I should learn InfoSec. I s… https://t.co/el8F7Tosh5
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
