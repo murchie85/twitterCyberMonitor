@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **ericgarland**  
+The most popular user is: **FireEye**  
  
 
-## Trump’s first overseas meeting was to Riyadh on May 20 2017 to sign the largest arms deal in world history with Sau… https://t.co/Sm9RRzegbG 
+## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **ericgarland**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NovaStor: Download a FREE HIPAA Security Checklist with this direct (.PDF) link from the data security experts at NovaBACKUP. HIPAA Cer… |
-| RT @TheVitaminV: Are You Buying A Vpn? I'm Giving You The Best Deal On The Market, A Year Free &amp; 81% Off 😁Surfshark VPN - Click My Discou… |
-| One of our favorite topics. @howtogeek  #cybersecurity #techtipshttps://t.co/q2yHpRIx2h |
+| How to Protect a #WordPress Site from Hackers #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreaches… https://t.co/xtsolKrmd1 |
+| RT @JinibaBD: Alibaba's Online Store Redmart Suffers Data Breach of More Than Million Accounts#CyberSecurity #osint #cyberthreats #hackers… |
+| RT @FireEye: Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for analysts to ge… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SourabhSKatoch** |
-| #2 Most tweeted to  | **BardsFM** |
-| #3 Most tweeted to  | **sashax2_** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 1.78%|
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **bad_packets** |
+| #3 Most tweeted to  | **FireEye** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 1.07%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,96 +50,57 @@ The most popular user is: **ericgarland**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DATA**  |
-| second  | **INFOSEC**  |
-| third  | **MACHINELEARNING** |
-| fourth  | **AI**  |
-| fifth  | **IOT**  |
+| first  | **OSINT**  |
+| second  | **HACKERS**  |
+| third  | **THREATINTEL** |
+| fourth  | **CYBERTHREATS**  |
+| fifth  | **@JINIBABD:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (12.5%) **OBJECTIVE** (37.5%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|LUCY Global Security Awareness Study 2020 #cybersecurity #infosec #securityawareness https://t.co/jLxCfXqFvq |
+|RT @cnoanalysis: The best threat hunting doesn't resolve by finding threats but by improving detection and visibility so threats can be fou… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ericgarland**  |
+| The most retweeted user is: **FireEye**  |
 | ------------- |
-| Trump’s first overseas meeting was to Riyadh on May 20 2017 to sign the largest arms deal in world history with Sau… https://t.co/Sm9RRzegbG |
+| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
 
 # Potential Fake Accounts
  
-# JkrMarketplaceUSER INFO
-![image](http://pbs.twimg.com/profile_images/1322214883618795520/bZH_I1y9_normal.jpg)
+# kennymo94578697USER INFO
+![image](http://pbs.twimg.com/profile_images/1324128827279331330/1HVPgB6S_normal.jpg)
  
-`User ScreenName:` JkrMarketplace 
+`User ScreenName:` kennymo94578697 
  
-`User chosen Name:` JKR Marketplace 
+`User chosen Name:` kenny morris 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Oct 30 16:28:50 +0000 2020 
+`User signup date?:` Wed Oct 28 20:47:37 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `44 
  
-`Following?:` 32 
- 
-`User URL?:` https://t.co/1wTReclz0D 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1322214883618795520/bZH_I1y9_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ELECTRONICS** 4 , **PART** 2 , **SECURITY** 2 , **HERE** 2 , **RT** 1 , **@FEMBOY_EMOJI:** 1 , **IM** 1 , **SICK** 1 , **DAD** 1 , **BLAMED** 1 , **HTTPS://TCO/O5IX2NBMCPRT** 1 , **@EKARUIT:** 1 , **HARD** 1 , **DRIVE** 1 , **SHREDDING** 1 , **RECYCLING** 1 , **PROPER** 1 , **DESTRUCTION** 1 , **OLD** 1 , **DATA** 1 , 
- 
-## What this user tweeted
- 
-RT @EkaruIT: Hard drive shredding and electronics recycling today.  Proper destruction of old data is an important part of any security pla…
- 
-# GeorgeB14941177USER INFO
-![image](http://pbs.twimg.com/profile_images/1321136734248292352/CDqD3Mvh_normal.jpg)
- 
-`User ScreenName:` GeorgeB14941177 
- 
-`User chosen Name:` Venture Investment Partners LLC 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Oct 27 17:01:17 +0000 2020 
- 
-`User Description?:` Medical & Biotech Startups & Venture Capital... 
- 
-`Followers?: `233 
- 
-`Following?:` 496 
+`Following?:` 287 
  
 `User URL?:` None 
  
-`Location:` Atlanta, GA 
+`Location:` North East, England 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1321136734248292352/CDqD3Mvh_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1324128827279331330/1HVPgB6S_normal.jpg 
  
-`Number of tweets excluding replies:` 938 
+`Number of tweets excluding replies:` 610 
  
 
  
@@ -147,45 +108,42 @@ RT @EkaruIT: Hard drive shredding and electronics recycling today.  Proper destr
  
 ## User Top tweeted words 
  
-**FOLLOW** 65 , **LIKES** 32 , **RETWEETS** 22 , **FIRST** 17 , **DROP** 17 , **EVERYONE** 16 , **HANDLES** 14 , **❤️** 14 , **FOLLOWING** 14 , **WHOEVER** 14 , **DATA** 13 , **RETWEET** 12 , **FINTECH** 12 , **NEW** 11 , **@MBAAHDEYFORYOU:** 11 , **FOLLOWERS** 9 , **I'M** 8 , **FIRSTRT** 8 , **USING** 8 , **100DAYSOFCODE** 8 , 
+**@KENNYMO94578697RT** 23 , **@COLONELCUTSHAW:** 11 , **@MILITANTME1** 11 , **LOCKDOWN** 8 , **@JS100JS100** 7 , **MAKE** 7 , **NEW** 7 , **@CRICKETWYVERN:** 7 , **PEOPLE** 6 , **INTO** 6 , **AGAINST** 6 , **@BANGOBILLY:** 6 , **NEED** 5 , **UK** 5 , **ITS** 5 , **US** 5 , **COULD** 5 , **MEET** 5 , **EACH** 5 , **ENGLAND** 5 , 
  
 ## What this user tweeted
  
-RT @Ronald_vanLoon: 4 most common types of #CyberSecurity threats
-by @TyNMagazine
+RT @IronNet: Our November #ThreatIntelligence report is now live. 
 
-Learn more https://t.co/XhppIiFIvw
-
-#AI #ArtificialIntel…RT @Fisheyebox: A/B Testing for #DataScience.
-
-#DataScientist #selfdrivingcars #BigData #Analytics #TensorFlow #AI #MachineLearning #IoT #I…
+▶️ 7,750 #ThreatIntel Rules Developed
+▶️ 232 IoCs reported
+▶️ 204 Billi…
  
-# ExpertInfosecUSER INFO
+# KLitkettUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` ExpertInfosec 
+`User ScreenName:` KLitkett 
  
-`User chosen Name:` infosec expert 
+`User chosen Name:` Keith Litkett 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Nov 05 20:55:45 +0000 2020 
+`User signup date?:` Fri Oct 30 02:56:07 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Creative Hard worker 
  
 `Followers?: `0 
  
-`Following?:` 45 
+`Following?:` 40 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 9 
+`Number of tweets extracted`  : 4 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 9 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -193,38 +151,38 @@ Learn more https://t.co/XhppIiFIvw
  
 ## User Top tweeted words 
  
-**ATTACK** 4 , **ATTACKER** 3 , **CYBER** 3 , **WHERE** 2 , **RECIPIENT** 2 , **PHISHING** 2 , **MALICIOUS** 2 , **DIGITAL** 2 , **POTENTIAL** 2 , **THREAT** 2 , **DATA** 2 , **“MAN** 1 , **MIDDLE”** 1 , **(MITM)** 1 , **ESTABLISHES** 1 , **POSITION** 1 , **BETWEEN** 1 , **SENDER** 1 , **ELE…** 1 , **HTTPS://TCO/2GOINU5K7VSPEAR** 1 , 
+**ARTICLE** 2 , **GREAT** 2 , **USING** 2 , **TIPS** 2 , **UNDER** 2 , **SOCIAL** 2 , **MEDIA** 2 , **@CAINESROENA** 1 , **GOOD** 1 , **TIP** 1 , **KEYWORDS** 1 , **BETTER** 1 , **APPEARANCE** 1 , **SEARCH** 1 , **RESULTS** 1 , **SN4JS@JOPERRY23** 1 , **LOVE** 1 , **WAY** 1 , **GIVES** 1 , **EXPLANATION** 1 , 
  
 ## What this user tweeted
  
-A cyber or cybersecurity threat is a malicious act that seeks to damage data, steal data, or disrupt digital life i… https://t.co/ov5MYQE3Bo
+RT @SentinelOne: 📊  Healthcare and public sector under attack - Read #SentinelLabs threat intelligence briefing - #Trickbot continues to wr…
  
-# GorgenaGreenUSER INFO
-![image](http://pbs.twimg.com/profile_images/1324112739028127744/_NyL6ckq_normal.jpg)
+# Lucky7sCyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1321918196119674886/LyIafKH8_normal.jpg)
  
-`User ScreenName:` GorgenaGreen 
+`User ScreenName:` Lucky7sCyber 
  
-`User chosen Name:` gorgena Green 
+`User chosen Name:` Lucky7sCyber 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 04 22:13:49 +0000 2020 
+`User signup date?:` Thu Oct 29 19:54:20 +0000 2020 
  
-`User Description?:` Creative graphic and website designer/developer and expert animator and illustrator 
+`User Description?:` I've worked in cyber security for 25+ years. Yes, cyber security existed back in 1995 but no one called it that. #blueteam #vulns #csirt #dfir #gtfo 
  
-`Followers?: `45 
+`Followers?: `3 
  
-`Following?:` 64 
+`Following?:` 60 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Antarctica 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 24 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1324112739028127744/_NyL6ckq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1321918196119674886/LyIafKH8_normal.jpg 
  
-`Number of tweets excluding replies:` 585 
+`Number of tweets excluding replies:` 24 
  
 
  
@@ -232,197 +190,71 @@ A cyber or cybersecurity threat is a malicious act that seeks to damage data, st
  
 ## User Top tweeted words 
  
-**WRITINGCOMMUNITY** 29 , **TWITCH** 19 , **WRITING** 18 , **BUSINESSGROWTH** 18 , **BOOK** 14 , **CHECK** 13 , **LIVE** 13 , **BUSINESS** 13 , **TWITCHSTREAMERS** 12 , **MAKE** 10 , **NEW** 10 , **HERE** 9 , **STREAM** 9 , **AMWRITING** 9 , **READ** 9 , **GOING** 9 , **HEY** 8 , **TIME** 8 , **@BMURPHYPOINTMAN:** 8 , **LOGO** 7 , 
+**@THREATPOST:** 4 , **RANSOMWARE** 3 , **DATA** 2 , **THREAT** 2 , **US** 2 , **HOSPITALS** 2 , **TIME** 2 , **GO** 2 , **@INFOSECURITYMAG:** 2 , **EVERYTHING** 2 , **RT** 1 , **ROAMING** 1 , **MANTIS** 1 , **GROUP** 1 , **TARGETING** 1 , **STATES** 1 , **MALWARE** 1 , **STEAL** 1 , **INFORMATION** 1 , **HARVEST** 1 , 
  
 ## What this user tweeted
  
-RT @CaptainRitain: @JeriLRyan You must comply. 
-@Schwarzenegger 
-#UnitedStates
-#ConstitutionalLaw 
-#robot
-#WeAreNotSevenWithYou 
-@summergla…RT @FizenTechnology: Scammers have been abusing a Google Drive feature to send phishing links in email notifications from Google.  Always b…
+@MalwareJake @DomainTools Recorded Future can also do this. #threatintel
  
-# flag_023USER INFO
-![image](http://pbs.twimg.com/profile_images/1324430837572579329/trKemW_a_normal.jpg)
+# frictosmUSER INFO
+![image](http://pbs.twimg.com/profile_images/1322301272016519168/zgi6NmGQ_normal.jpg)
  
-`User ScreenName:` flag_023 
+`User ScreenName:` frictosm 
  
-`User chosen Name:` Ｆｌａｇ🇺🇸 
+`User chosen Name:` Medo (C T) $DVT 💥 $BTC 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Nov 05 19:15:01 +0000 2020 
+`User signup date?:` Tue Oct 27 09:46:30 +0000 2020 
+ 
+`User Description?:` #bitcoin
+#DeVault
+#DVT
+#ColdRewards
+#BLSsignatures 
+ 
+`Followers?: `26 
+ 
+`Following?:` 134 
+ 
+`User URL?:` https://t.co/YsC5uZ4Qg3 
+ 
+`Location:` Everywhere  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1322301272016519168/zgi6NmGQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 359 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$DVT** 32 , **@COINKIT_** 30 , **BITCOIN** 26 , **DEVAULT** 23 , **GIVE** 21 , **RETWEETS** 20 , **@KENNETHBOSAK:** 19 , **RANDOM** 17 , **MUST** 17 , **@DEVAULTCRYPTO** 16 , **RT** 13 , **FOLLOW** 13 , **PERSON** 12 , **MYSELF** 12 , **🔥** 11 , **RETWEET** 11 , **HOURS** 11 , **💥** 10 , **DVT** 10 , **FOLLOWING** 10 , 
+ 
+## What this user tweeted
+ 
+RT @bad_packets: Ongoing mass scanning activity detected from 193.202.45.242 (🇺🇸) attempting to exploit Fortinet VPN servers vulnerable to…
+ 
+# Tt14092019USER INFO
+![image](http://pbs.twimg.com/profile_images/1320989586185740289/_hvvyWgW_normal.jpg)
+ 
+`User ScreenName:` Tt14092019 
+ 
+`User chosen Name:` hvf fun nbh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 27 07:18:07 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `10 
  
-`Following?:` 64 
- 
-`User URL?:` None 
- 
-`Location:` Alexandria, VA 
- 
-`Number of tweets extracted`  : 55 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1324430837572579329/trKemW_a_normal.jpg 
- 
-`Number of tweets excluding replies:` 55 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ELECTION** 12 , **TRUMP** 8 , **OFFICIALS** 5 , **CAMPAIGN** 5 , **CONTINUE** 5 , **@TEAMTRUMP:** 4 , **WIN** 4 , **@NSAGOV** 4 , **MEDIA** 3 , **US** 3 , **MUST** 3 , **COUNTY** 3 , **GOING** 3 , **STOP** 3 , **DEFENSE** 3 , **VOTERS** 3 , **@US_CYBERCOM** 3 , **STATEHOOD** 3 , **VOTE** 3 , **COUNTING** 3 , 
- 
-## What this user tweeted
- 
-RT @USMC: Hardened Targets
-
-Think of cybersecurity like physical security. You must do your part as a sentry to guard the Marine Corps at w…
- 
-# zultanextremeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1323750610978672646/rTYZT7pG_normal.jpg)
- 
-`User ScreenName:` zultanextreme 
- 
-`User chosen Name:` Zultanextreme 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Nov 03 22:02:54 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 118 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1323750610978672646/rTYZT7pG_normal.jpg 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TCONNECTION:** 3 , **NOBODY** 3 , **TRUSTS** 3 , **SHOULDN'T** 2 , **FRAUD** 2 , **RT** 1 , **@NICKGAYDOS1:** 1 , **@CONNECTWISE** 1 , **HAVING** 1 , **ISSUES** 1 , **CLOUD** 1 , **INSTANCE** 1 , **MANAGE** 1 , **(NA)** 1 , **SEEMS** 1 , **FAILING** 1 , **LOAD** 1 , **PAGES/TIMING** 1 , **ANY** 1 , **ISSUES?RT** 1 , 
- 
-## What this user tweeted
- 
-RT @CRN: #ConnectWise hopes to announce that it acquired Perch Security, a #cybersecurity company with an in-house SOC, for $80 million, so…
- 
-# TF1lipUSER INFO
-![image](http://pbs.twimg.com/profile_images/1324427108911820800/MCm5s2Zj_normal.jpg)
- 
-`User ScreenName:` TF1lip 
- 
-`User chosen Name:` TheF1lip 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 05 18:47:35 +0000 2020 
- 
-`User Description?:` Hello☺️
-My name is Filip
-I am a full stack web-designer
-I will learn you about internet and cyber security 
- 
-`Followers?: `0 
- 
-`Following?:` 55 
- 
-`User URL?:` https://t.co/lbRuQbGycf 
- 
-`Location:` Hrvatska 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1324427108911820800/MCm5s2Zj_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HI** 1 , **STARTERS** 1 , **HERE’S** 1 , **SOMETHING** 1 , **SMALL** 1 , **ME;** 1 , **COULD** 1 , **READ** 1 , **NAME** 1 , **FILIP** 1 , **COME** 1 , **CROATIA** 1 , **LOVE** 1 , **H…** 1 , **HTTPS://TCO/MCIESUFOFQ** 1 , 
- 
-## What this user tweeted
- 
-Hi, for starters here’s something small about me;
-as you could read my name is Filip. I come from Croatia. I love h… https://t.co/mcieSufOfQ
- 
-# chump24042266USER INFO
-![image](http://pbs.twimg.com/profile_images/1322372390131802112/GwpGPleX_normal.jpg)
- 
-`User ScreenName:` chump24042266 
- 
-`User chosen Name:` Jan “Banned Chump” Galt 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 31 02:53:06 +0000 2020 
- 
-`User Description?:` MAGA Bitches! 
- 
-`Followers?: `52 
- 
-`Following?:` 166 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1322372390131802112/GwpGPleX_normal.jpg 
- 
-`Number of tweets excluding replies:` 1455 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 18 , **BIDEN** 17 , **ELECTION** 17 , **PEOPLE** 10 , **TIME** 9 , **NEED** 9 , **VOTES** 9 , **DON’T** 8 , **WHERE** 8 , **FRAUD** 8 , **SOME** 7 , **@LIONELMEDIA:** 7 , **CAMPAIGN** 7 , **RT** 6 , **@REALDONALDTRUMP** 6 , **PA** 6 , **MEDIA** 6 , **INTO** 6 , **COUNT** 6 , **BALLOTS** 6 , 
- 
-## What this user tweeted
- 
-RT @BardsFM: Lookie here... 
-https://t.co/NBZZJgYMdY
- 
-# HulcyCameronUSER INFO
-![image](http://pbs.twimg.com/profile_images/1324429113457811462/EpBpCwLa_normal.jpg)
- 
-`User ScreenName:` HulcyCameron 
- 
-`User chosen Name:` Cameron Hulcy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 05 19:10:22 +0000 2020 
- 
-`User Description?:` Account Executive - Cyber Security, ADM, ITOM at Micro Focus 
- 
-`Followers?: `1 
- 
-`Following?:` 0 
+`Following?:` 81 
  
 `User URL?:` None 
  
@@ -430,7 +262,7 @@ https://t.co/NBZZJgYMdY
  
 `Number of tweets extracted`  : 10 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1324429113457811462/EpBpCwLa_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1320989586185740289/_hvvyWgW_normal.jpg 
  
 `Number of tweets excluding replies:` 10 
  
@@ -440,52 +272,11 @@ https://t.co/NBZZJgYMdY
  
 ## User Top tweeted words 
  
-**@MICROFOCUS:** 8 , **QUALITY** 3 , **BUSINESS** 3 , **@MICROFOCUSDEV** 2 , **@SOGETI** 2 , **@CAPGEMINI** 2 , **2020-21** 2 , **WORLD** 2 , **REPORT** 2 , **SHOWS** 2 , **QA** 2 , **PRIORITY** 2 , **CYBERSECURITY** 2 , **MICROFOCUS** 2 , **CYBERRESILIENCE** 2 , **HEL…** 1 , **HTTPS://TCO/RDS9GEOVVTIMAGINE** 1 , **ORGS** 1 , **COULD** 1 , **USE** 1 , 
+**BBV** 1 , **HTTPS://TCO/SEPI82FW7LBBCV** 1 , **HTTPS://TCO/SEPI82FW7LN** 1 , **V** 1 , **HTTPS://TCO/KG5FQDKNKART** 1 , **@NOFORNUMBRA:** 1 , **@FSISAC** 1 , **EXPECT** 1 , **MR** 1 , **NIKITA** 1 , **KISLITSIN** 1 , **@GROUPIB_GIB** 1 , **UNDER** 1 , **INVESTIGATION** 1 , **@FBI?** 1 , **APART** 1 , **O…HTTPS://TCO/1ZSAEGW5FUHTTPS://TCO/5RT2AYOS0OHTTPS://TCO/XOM9IEKLUQAMG** 1 , **HTTPS://TCO/EAPU9DKDRHHBV** 1 , **HTTPS://TCO/XRU2YOPPOCHTTPS://TCO/IWPL3Q2TEU** 1 , 
  
 ## What this user tweeted
  
-Imagine if orgs could use adverse situations such as the #COVID19 pandemic to pivot their #cybersecurity and gain… https://t.co/ntzx2lM0EzRT @MicroFocus: Protect. Detect. Evolve. 
-
-Strengthen your #CyberResilience. Find out how with our new #InfoSec website: https://t.co/39Bro…RT @MicroFocus: Take the #CyberResilience assessment. In 15-20 minutes, holistically assess your current #cybersecurity status and identify…
- 
-# S3cEntrepreneurUSER INFO
-![image](http://pbs.twimg.com/profile_images/1324410640518254595/jt-cCPYO_normal.jpg)
- 
-`User ScreenName:` S3cEntrepreneur 
- 
-`User chosen Name:` Secure Entrepreneur 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 05 17:57:25 +0000 2020 
- 
-`User Description?:` Cybersecurity for enterpreneurs 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1324410640518254595/jt-cCPYO_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MAIN** 1 , **PURPOSE:** 1 , **DON'T** 1 , **FORGET** 1 , **ENTREPRENEURS** 1 , **CYBERSECURITY** 1 , **MATERIA** 1 , **SAME** 1 , **NEEDS** 1 , **THAN** 1 , **BIG** 1 , **COMPANIES** 1 , **EXPLAIN** 1 , 
- 
-## What this user tweeted
- 
-Main purpose: don't forget entrepreneurs in cybersecurity materia. We all have same needs than big companies. I explain it.
+RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
