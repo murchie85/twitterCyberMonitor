@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **FireEye**  
+The most popular user is: **Jeopardy**  
  
 
-## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
+## Jeopardy! is saddened to share that Alex Trebek passed away peacefully at home early this morning, surrounded by fa… https://t.co/I8GuVbsvPY 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **FireEye**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JinibaBD: Italian liquor giant Campari Group suffers Ragnar Locker ransomware attack #CyberSecurity #osint #cyberthreats #hackers #dark… |
-| RT @Certego_Intel: #Malware #Team9 #BlocklistDomain: ukmedm[.comVirusTotal: https://t.co/SMmLOGkkSx#CyberSecurity #ThreatIntel (bot gene… |
-| RT @javier_carriazo: Behavioral Biometrics: People-Friendly Zero Trust #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreaches… |
+| RT @archonsec: #cybersecurity #infosec     6️⃣2️⃣% of SMBs don't have an active cybersecurity strategy in place. Want to make sure that you… |
+| So, question to audience: are my random postings on infosec ('cyber', if you must) of any use / help / interest ? G… https://t.co/xucpnU14vT |
+| RT @keepnetlabs: Are you Safe? Use the Best Anti-Phishing Software That Can Help You Fight Against Phishing Attacks in 2020.  https://t.co/… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.19%  |
-| Tweeters with < 10 followers  | 0.56%|
+| #1 Most tweeted to  | **reach2ratan** |
+| #2 Most tweeted to  | **CyberWarship** |
+| #3 Most tweeted to  | **keepnetlabs** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 1.08%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,57 +50,57 @@ The most popular user is: **FireEye**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
-| second  | **HACKERS**  |
-| third  | **CYBERTHREATS** |
-| fourth  | **@JINIBABD:**  |
-| fifth  | **DARKWEB**  |
+| first  | **INFOSEC**  |
+| second  | **@REACH2RATAN:**  |
+| third  | **HACKERS** |
+| fourth  | **DIGITAL**  |
+| fifth  | **HACKING**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (80.0%) **OBJECTIVE** (20.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: Yet a new #databreach! 😱😨😱 Minted - 4,418,182 breached accounts #CyberSecurity #osint #cyberthreats #hackers #darkweb #datab… |
+|@ASUSUSA Is @ASUS a reliable brand to work??? M an infosec researcher nd Want something high on RAM.. Simple questi… https://t.co/3928EfpZA3 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FireEye**  |
+| The most retweeted user is: **Jeopardy**  |
 | ------------- |
-| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
+| Jeopardy! is saddened to share that Alex Trebek passed away peacefully at home early this morning, surrounded by fa… https://t.co/I8GuVbsvPY |
 
 # Potential Fake Accounts
  
-# m67898834USER INFO
-![image](http://pbs.twimg.com/profile_images/1325485859475427330/6cLCoYkq_normal.jpg)
+# HB_itprogUSER INFO
+![image](http://pbs.twimg.com/profile_images/1322336177194561536/aYPLVDv5_normal.jpg)
  
-`User ScreenName:` m67898834 
+`User ScreenName:` HB_itprog 
  
-`User chosen Name:` m. 
+`User chosen Name:` 花ヶ崎分枝(ハナガサキブンシ)@初心者エンジニア 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Nov 08 17:09:56 +0000 2020 
+`User signup date?:` Sat Oct 31 00:34:09 +0000 2020 
  
-`User Description?:` 💙💕 
+`User Description?:` #プログラミング や勉強方法などの情報発信をします！【学習経験】C,C#,C++,Java,Swift,Python,html/css,JavaScript【ツール】VS,Unity,Arduino,UIkit,WordPress,Linux等 #プログラミング初心者 #駆け出しエンジニア #プログラミング学習 #IT 
  
-`Followers?: `5 
+`Followers?: `318 
  
-`Following?:` 8 
+`Following?:` 842 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 21 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1325485859475427330/6cLCoYkq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1322336177194561536/aYPLVDv5_normal.jpg 
  
-`Number of tweets excluding replies:` 21 
+`Number of tweets excluding replies:` 1188 
  
 
  
@@ -108,11 +108,11 @@ VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (80.0%) **OBJECT
  
 ## User Top tweeted words 
  
-**BRAVE** 5 , **@EPILKINGTON:** 4 , **BROWSER!** 3 , **BRAVEBROWSER** 3 , **@NOFORNUMBRA:** 3 , **BEST** 2 , **@ELIJAHAHAKIM:** 2 , **CONGRATS** 2 , **@BRAVEBR66010682:** 2 , **SECURE** 2 , **FAST** 2 , **PRIVATE** 2 , **WEB** 2 , **WELCOME** 2 , **HTTPS://TCO/30RPLUJMCF** 2 , **BRAVEBROWSERDO…RT** 2 , **NIKITA** 2 , **KISLITSIN** 2 , **RT** 1 , **DONE!!!!!!!!!** 1 , 
+**今日の積み上げ** 26 , **PROGATE** 16 , **APPLE** 15 , **駆け出しエンジニアと繋がりたい** 15 , **プログラミング初心者** 15 , **PROGATERT** 9 , **学習コース** 8 , **プログラミング** 8 , **駆け出しエンジニアと繋がりたいRT** 7 , **@HIRO_BUSINESSZ:** 7 , **IPHONE** 6 , **✅** 6 , **【プログラミング学習のPROGATE】HTML** 6 , **CSS** 6 , **IPAD** 6 , **NEW** 6 , **「HTML** 5 , **@YOSHIII514:** 4 , **@BANBURERO001:** 4 , **おはようございます** 4 , 
  
 ## What this user tweeted
  
-RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
+RT @keepnetlabs: Try our 6 platform modules working ‘hand-in-glove’  and provide a market-leading, holistic anti-phishing solutions. https:…
  
 # MarioOnSecurityUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1325507339668086785/8vEQouw4_normal.jpg)
@@ -151,34 +151,36 @@ RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB
  
 ## What this user tweeted
  
-RT @attcyber: The debate over cybercriminals using open source #pentest tools continues - read more here https://t.co/AnLQDSL0c6 @SCMagazin…
+RT @attcyber: The debate over cybercriminals using open source #pentest tools continues - read more here https://t.co/AnLQDSL0c6 @SCMagazin…RT @KiyaHeike: More stuff #infosec #security #iot https://t.co/059WbcrQuVRT @AvinzanoFelipe: What Are The Fastest Growing Cybersecurity Skills In 2021?
+
+#cybersecurity #security #privacy #infosec #hacking #cyberc…
  
-# sjDY9fLm4TNvGvaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1323695856529203200/JtpL6ano_normal.jpg)
+# rajeshbatrasajdUSER INFO
+![image](http://pbs.twimg.com/profile_images/1324770529534861313/FOruOsCF_normal.jpg)
  
-`User ScreenName:` sjDY9fLm4TNvGva 
+`User ScreenName:` rajeshbatrasajd 
  
-`User chosen Name:` Мария 
+`User chosen Name:` sajidkhan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Nov 03 18:37:08 +0000 2020 
+`User signup date?:` Thu Nov 05 23:13:23 +0000 2020 
  
-`User Description?:`  
+`User Description?:` #technology #digital  #cloud #china #indopacific #southchinasea #indian 
  
-`Followers?: `10 
+`Followers?: `11 
  
-`Following?:` 5 
+`Following?:` 177 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` india 
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1323695856529203200/JtpL6ano_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1324770529534861313/FOruOsCF_normal.jpg 
  
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 468 
  
 
  
@@ -186,38 +188,125 @@ RT @attcyber: The debate over cybercriminals using open source #pentest tools co
  
 ## User Top tweeted words 
  
-**@NOFORNUMBRA:** 2 , **СКАЧАТЬ** 1 , **ОБУЧАЮЩИЕ** 1 , **КУРСЫ** 1 , **БЕСПЛАТНО** 1 , **ЭЛЕКТРОННЫЕ** 1 , **КНИГИ** 1 , **И** 1 , **ЖУРНАЛЫ** 1 , **HTTPS://TCO/GH9NKRXPDJМАКСИМ** 1 , **ЗАБЫВАЙ** 1 , **HTTPS://TCO/I1KRJCYN4BRT** 1 , **@FSISAC** 1 , **EXPECT** 1 , **MR** 1 , **NIKITA** 1 , **KISLITSIN** 1 , **@GROUPIB_GIB** 1 , **UNDER** 1 , **INVESTIGATION** 1 , 
+**US** 19 , **@LAWRENCESELLIN:** 12 , **AFTER** 12 , **VIA** 10 , **TRUMP** 10 , **@OULOSP:** 10 , **BIDEN** 9 , **ELECTION** 9 , **@MASHABLE:** 9 , **@REALDONALDTRUMP:** 8 , **AI** 8 , **THESE** 8 , **PEOPLE** 7 , **JOE** 7 , **PRESIDENT** 7 , **@SFRANTZMAN:** 6 , **BALLOTS** 6 , **@WIONEWS:** 6 , **CYBERSECURITY** 6 , **MEDIA** 6 , 
  
 ## What this user tweeted
  
-RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
+RT @reach2ratan: Ransomware operators target CVE-2020-14882 WebLogic flaw https://t.co/K4vFoJQwlM
+
+#CyberSecurity #digital #Hackers #infose…RT @reach2ratan: 20 million Bigbasket user records available on the dark web https://t.co/bCBW8OavlJ
+
+#CyberSecurity #digital #Hackers #inf…RT @Ronald_vanLoon: Top five #AI capabilities companies will cultivate
+by @PwC
+
+#IoT #ArtificialIntelligence #InternetofThings #FinTech #Di…
  
-# KLitkettUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# all_coding_botUSER INFO
+![image](http://pbs.twimg.com/profile_images/1325486844230856704/DKgdw-w-_normal.jpg)
  
-`User ScreenName:` KLitkett 
+`User ScreenName:` all_coding_bot 
  
-`User chosen Name:` Keith Litkett 
+`User chosen Name:` All about Coding bot 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Oct 30 02:56:07 +0000 2020 
+`User signup date?:` Sun Nov 08 17:07:54 +0000 2020 
  
-`User Description?:` Creative Hard worker 
+`User Description?:` retweets almost all about #coding #developers #programming #IOT #Machine #100DaysOfCode 
+ 
+`Followers?: `3 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 68 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1325486844230856704/DKgdw-w-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 68 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**100DAYSOFCODE** 17 , **@PANGER__LKR:** 17 , **AI** 11 , **JAVASCRIPT** 11 , **CODING** 11 , **ANALYTICS** 9 , **DATASCIENCE** 9 , **IOT** 9 , **PYTHON** 9 , **DEVELOPER** 9 , **BIGDATA** 8 , **RSTATS** 8 , **LEARN** 8 , **MACHINELEARNING** 7 , **IIOT** 7 , **PROGRAMMING** 7 , **CODE** 7 , **PROGRAM** 7 , **@GP_PULIPAKA:** 6 , **PROGRAMMER** 6 , 
+ 
+## What this user tweeted
+ 
+RT @cyber: 81% of customers surveyed would stop engaging with a brand online following a data breach. Visit https://t.co/AVb5PNxH56 to lear…
+ 
+# n00b94035464USER INFO
+![image](http://pbs.twimg.com/profile_images/1322557924972122112/ODbVS56I_normal.jpg)
+ 
+`User ScreenName:` n00b94035464 
+ 
+`User chosen Name:` n00b 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 31 15:15:09 +0000 2020 
+ 
+`User Description?:` Security researcher 
+ 
+`Followers?: `4 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1322557924972122112/ODbVS56I_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUST** 1 , **SECURING** 1 , **CLIENT** 1 , **DATA:** 1 , **SECURITY;** 1 , **CARROT** 1 , **STICK** 1 , **ALWAYS** 1 , **CHASED** 1 , **NEVER** 1 , **FOUND** 1 , **VULNERABILITY;** 1 , **THE…** 1 , **HTTPS://TCO/XSJWW0IN5AREALNEWS** 1 , **HTTPS://TCO/SS5QDVT5ABTIME** 1 , **DRUM** 1 , **SOME** 1 , **CONTENT** 1 , **INFOSECCREATORS** 1 , 
+ 
+## What this user tweeted
+ 
+On trust and securing client data:
+Security; a carrot on a stick, always chased and never found.
+Vulnerability; the… https://t.co/Xsjww0In5a
+ 
+# InfoSecPro3USER INFO
+![image](http://pbs.twimg.com/profile_images/1325383871244890113/0Vbt9cKj_normal.jpg)
+ 
+`User ScreenName:` InfoSecPro3 
+ 
+`User chosen Name:` InfoSecPro 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 08 10:23:51 +0000 2020 
+ 
+`User Description?:` Information Security Professional | Trainer | Mentor 
  
 `Followers?: `0 
  
-`Following?:` 40 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1325383871244890113/0Vbt9cKj_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -225,11 +314,54 @@ RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB
  
 ## User Top tweeted words 
  
-**ARTICLE** 2 , **GREAT** 2 , **USING** 2 , **TIPS** 2 , **UNDER** 2 , **SOCIAL** 2 , **MEDIA** 2 , **@CAINESROENA** 1 , **GOOD** 1 , **TIP** 1 , **KEYWORDS** 1 , **BETTER** 1 , **APPEARANCE** 1 , **SEARCH** 1 , **RESULTS** 1 , **SN4JS@JOPERRY23** 1 , **LOVE** 1 , **WAY** 1 , **GIVES** 1 , **EXPLANATION** 1 , 
+**@HAKIN9:** 2 , **INFOSEC** 2 , **HACKING** 2 , **HACKERS** 2 , **PENTESTING** 2 , **PROGRAMMING** 2 , **PYTHON** 2 , **RT** 1 , **STRIKER** 1 , **RECON** 1 , **VULNERABILITY** 1 , **SCANNING** 1 , **SUITE** 1 , **HTTPS://TCO/KM0UUEEWYM** 1 , **…RT** 1 , **@SOURABHSKATOCH:** 1 , **NEURAL** 1 , **NETWORK** 1 , **SCRATCH** 1 , **TUTORIAL** 1 , 
  
 ## What this user tweeted
  
-RT @SentinelOne: 📊  Healthcare and public sector under attack - Read #SentinelLabs threat intelligence briefing - #Trickbot continues to wr…
+RT @Hakin9: Striker - Recon &amp; Vulnerability Scanning Suite  https://t.co/km0UuEewYM 
+
+#infosec #hacking #hackers #Pentesting #programming #…RT @Hakin9: Sudomy - Subdomain Enumeration and Analysis Tool https://t.co/FgPj7O8PWG
+
+#infosec #hacking #hackers #Pentesting #programming #…
+ 
+# Bro_anon23USER INFO
+![image](http://pbs.twimg.com/profile_images/1324326589660876801/UfkKO8ke_normal.jpg)
+ 
+`User ScreenName:` Bro_anon23 
+ 
+`User chosen Name:` /b/ro_anon23 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 05 12:23:38 +0000 2020 
+ 
+`User Description?:` Another /b/ro. Srs Bzns 0n1y. Internet Love Machine v .2 
+ 
+`Followers?: `38 
+ 
+`Following?:` 124 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1324326589660876801/UfkKO8ke_normal.jpg 
+ 
+`Number of tweets excluding replies:` 520 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GARYCOBY** 24 , **SESAME** 23 , **PEOPLE** 7 , **Q** 6 , **WEIRD** 6 , **RESULT** 6 , **UK** 6 , **@TRACYBEANZ** 6 , **FRIENDS** 5 , **GONNA** 5 , **QANON** 5 , **PRISON** 5 , **WELL** 5 , **@JIMSTEWARTSON:** 5 , **REGISTERED** 5 , **AGENTS** 5 , **TRUSTEE** 5 , **@GENFLYNN** 5 , **@FOGCITYMIDGE** 5 , **@SIDNEYPOWELL1** 5 , 
+ 
+## What this user tweeted
+ 
+@Coleens_IS @AlyssaM_InfoSec watch
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
