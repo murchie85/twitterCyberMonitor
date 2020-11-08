@@ -481,21 +481,38 @@ RT @OpzSecTeam: If we find any kind of vulnerabilities in any website we will tw
  
 ## User Top tweeted words 
  
-**ELECTION** 22 , **BIDEN** 16 , **FRAUD** 15 , **PEOPLE** 15 , **TRUMP** 10 , **VOTE** 9 , **BALLOTS** 9 , **@STILLGRAY:** 8 , **@JAMESOKEEFEIII:** 8 , **VOTER** 8 , **THING** 7 , er, a mother of 4, entrepreneur, intuitive artist and enjoy saying “fuck you”🤪 
+**ELECTION** 22 , **BIDEN** 16 , **FRAUD** 15 , **PEOPLE** 15 , **TRUMP** 10 , **VOTE** 9 , **BALLOTS** 9 , **@STILLGRAY:** 8 , **@JAMESOKEEFEIII:** 8 , **VOTER** 8 , **THING** 7 , **MANY** 7 , **VIDEO** 7 , **@TIMCAST:** 7 , **@DONALDJTRUMPJR:** 7 , **STILL** 6 , **@JACKPOSOBIEC:** 6 , **LEGAL** 6 , **VOTES** 6 , **GOING** 6 , 
  
-`Followers?: `4 
+## What this user tweeted
  
-`Following?:` 209 
+RT @lyndseyfifield: Which is exactly the kind of attitude that leads people to go out and commit voter fraud especially when they know they…
  
-`User URL?:` None 
+# manziverso2USER INFO
+![image](http://pbs.twimg.com/profile_images/1324110982159962112/hPgLBPIE_normal.jpg)
+ 
+`User ScreenName:` manziverso2 
+ 
+`User chosen Name:` Lucas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 04 22:06:47 +0000 2020 
+ 
+`User Description?:` Bolsojedi 
+ 
+`Followers?: `13 
+ 
+`Following?:` 241 
+ 
+`User URL?:` https://t.co/BzxvGo3toj 
  
 `Location:`  
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1324754869698351106/lIxpaAwU_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1324110982159962112/hPgLBPIE_normal.jpg 
  
-`Number of tweets excluding replies:` 729 
+`Number of tweets excluding replies:` 734 
  
 
  
@@ -503,38 +520,38 @@ RT @OpzSecTeam: If we find any kind of vulnerabilities in any website we will tw
  
 ## User Top tweeted words 
  
-**TRUMP** 33 , **@JENNYCOHN1:** 16 , **ELECTION** 13 , **@REALDONALDTRUMP** 12 , **BIDEN** 11 , **PEOPLE** 11 , **VOTING** 10 , **PRESIDENT** 10 , **JOE** 9 , **TIME** 8 , **EVEN** 8 , **AMERICA** 8 , **PRESIDENT-ELECT** 8 , **WHITE** 7 , **BLACK** 7 , **VOTES** 7 , **SOME** 7 , **HOUSE** 7 , **@MAYAHARRIS_:** 7 , **NEED** 6 , 
+**O** 21 , **QUE** 18 , **É** 17 , **E** 12 , **@REALDONALDTRUMP** 11 , **DE** 10 , **TRUMP** 10 , **ELE** 9 , **MIDIA** 8 , **GAME** 8 , **@CARLOSBOLSONARO** 8 , **OS** 7 , **STOP** 7 , **NÃO** 7 , **WAIT** 7 , **BIDEN** 6 , **ESTÁ** 6 , **UMA** 6 , **LINE** 6 , **STARTED** 6 , 
  
 ## What this user tweeted
  
-RT @jennycohn1: @kylenabecker “Rs will accept no...cybersecurity standards...I pointed out that right now...u can have a voting machine w/…
+RT @lyndseyfifield: Which is exactly the kind of attitude that leads people to go out and commit voter fraud especially when they know they…
  
-# KlickaLubosUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# Q2PendulumUSER INFO
+![image](http://pbs.twimg.com/profile_images/1324205792548052992/8J14SQkJ_normal.jpg)
  
-`User ScreenName:` KlickaLubos 
+`User ScreenName:` Q2Pendulum 
  
-`User chosen Name:` Lubos Klicka 
+`User chosen Name:` ThePendulumQ2 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Nov 07 15:40:32 +0000 2020 
+`User signup date?:` Thu Nov 05 04:23:31 +0000 2020 
  
-`User Description?:`  
+`User Description?:` No bio 
  
-`Followers?: `0 
+`Followers?: `51 
  
-`Following?:` 9 
+`Following?:` 132 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 198 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1324205792548052992/8J14SQkJ_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 1337 
  
 
  
@@ -542,41 +559,38 @@ RT @jennycohn1: @kylenabecker “Rs will accept no...cybersecurity standards...I
  
 ## User Top tweeted words 
  
-**RT** 2 , **@SWAN_FINANCE:** 2 , **V…RT** 2 , **US** 2 , **FOLLOW** 2 , **HONOR** 1 , **CYBERSECURITYMONTH** 1 , **WROTE** 1 , **ARTICLE** 1 , **HIGHLIGHTING** 1 , **CEXS** 1 , **DEXS** 1 , **VERY** 1 , **$1** 1 , **BILLION** 1 , **BTC** 1 , **TRANSFER** 1 , **ACTUALLY** 1 , **GOVERNMENT** 1 , **SEIZURE** 1 , 
+**ELECTION** 12 , **BIDEN** 8 , **JOE** 8 , **@JULIANSRUM:** 7 , **@THECAT09231543:** 7 , **TRUMP** 7 , **TUCKER** 7 , **@DIGMEMEPRAY:** 6 , **PEOPLE** 6 , **@STILLGRAY:** 5 , **PRESIDENT** 5 , **@DBONGINO:** 5 , **@VINCENTCRYPT46:** 5 , **BEING** 5 , **@DOQHOLLIDAY:** 5 , **THAN** 5 , **US** 5 , **@STORMYPATRIOT21:** 5 , **VOTING** 5 , **@SOMEBITCHIKNOW:** 5 , 
  
 ## What this user tweeted
  
-RT @swan_finance: In honor of #CyberSecurityMonth, we wrote an article highlighting what CEXs and DEXs get right, and what they get very, V…
+RT @lyndseyfifield: Which is exactly the kind of attitude that leads people to go out and commit voter fraud especially when they know they…
  
-# ruffybeoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1324715653438255106/DLS39CrW_normal.jpg)
+# BamgbeluMichaelUSER INFO
+![image](http://pbs.twimg.com/profile_images/1324366302581084161/lgwu80UY_normal.jpg)
  
-`User ScreenName:` ruffybeo 
+`User ScreenName:` BamgbeluMichael 
  
-`User chosen Name:` Ruffybeo 
+`User chosen Name:` MO artless🌿 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Oct 29 13:36:44 +0000 2020 
+`User signup date?:` Thu Nov 05 14:54:08 +0000 2020 
  
-`User Description?:` 😄- Fav.Smiley: 😅
-👤- Fan of: Heroes &👌less Stuff
-➡- No-SD. 💯|🐢|Wannabe Nerd
-🎬 Currently starring as sprt cast in my own reality show👍😁 
+`User Description?:` A Leader, public commentator, Accountant, Financial Consultant and Business man 
  
-`Followers?: `10 
+`Followers?: `7 
  
-`Following?:` 60 
+`Following?:` 65 
  
 `User URL?:` None 
  
-`Location:` Karlsruhe, Baden-Württemberg 
+`Location:` Lagos, Nigeria 
  
-`Number of tweets extracted`  : 43 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1324715653438255106/DLS39CrW_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1324366302581084161/lgwu80UY_normal.jpg 
  
-`Number of tweets excluding replies:` 43 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -584,237 +598,199 @@ RT @swan_finance: In honor of #CyberSecurityMonth, we wrote an article highlight
  
 ## User Top tweeted words 
  
-**PYTHON** 19 , **DATA** 17 , **SCIENCE** 8 , **DATASCIENCE** 6 , **AI** 5 , **ANALYSIS** 4 , **MACHINE** 4 , **LEARNING** 4 , **MACHINELEARNING** 4 , **ACCURACY** 4 , **DATASET** 4 , **EEG** 4 , **PANDAS** 3 , **SCIPY** 3 , **FIRST** 3 , **TOWARDS** 3 , **BIGDATA** 3 , **14** 3 , **DAYS:** 3 , **I'M** 3 , 
+**U** 3 , **GO** 3 , **STILL** 2 , **LOAN** 2 , **DEN** 2 , **OK** 1 , **SIR** 1 , **MARRY** 1 , **WIFE** 1 , **VIRGIN?** 1 , **HTTPS://TCO/7UKBN51NW8EXACTLY** 1 , **HTTPS://TCO/DMNKGY9NFQNA** 1 , **HERE** 1 , **DEY?** 1 , **TOT** 1 , **@NGPOLICEFORCE** 1 , **MOVED** 1 , **HTTPS://TCO/6LSU8OYFXFU** 1 , **HTTPS://TCO/UV0EJTZ5IJSEEMS** 1 , **NA** 1 , 
  
 ## What this user tweeted
  
-RT @aicanedo: 5 Must-Have #DataScience Skills That You Should Learn.
-https://t.co/nWcGyPYlh7 #MachineLearning #DataScience #Python #AI #100…
+RT @ShehuSani: American model of democracy has been a reference point for standard,order and https://t.co/39BQTdi7JN has been an exemplar f…
  
-# CyberCoyoteeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1325193882775203842/Q7nSKnVk_normal.jpg)
+# littlegrim84USER INFO
+![image](http://pbs.twimg.com/profile_images/1324532952957558784/rymk2MkG_normal.jpg)
  
-`User ScreenName:` CyberCoyotee 
+`User ScreenName:` littlegrim84 
  
-`User chosen Name:` Coyotee 
+`User chosen Name:` grims🌻 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Nov 07 16:41:42 +0000 2020 
+`User signup date?:` Fri Nov 06 01:48:49 +0000 2020 
  
-`User Description?:` Cyber Soldier 
+`User Description?:` Hey there, sweet scrollers! Credit to the author🦦 Promote Wattpad stories📚 
+ 
+`Followers?: `45 
+ 
+`Following?:` 452 
+ 
+`User URL?:` https://t.co/um3rUpe29D 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 84 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1324532952957558784/rymk2MkG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 84 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WATTPAD** 27 , **I'M** 13 , **STORIES** 13 , **CHECK** 6 , **I'LL** 6 , **SERIES** 6 , **ACCOUNT** 5 , **YOURS** 5 , **STORY** 5 , **UPDATE** 5 , **BOOKS** 5 , **YOU'RE** 4 , **HI!** 4 , **CAME** 4 , **ACROSS** 4 , **RETWEETING** 4 , **PROMOTING** 4 , **GOOD** 4 , **BOOK** 4 , **WEEK** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Joanne_Iyanu: Do you like sweet, wholesome slowburns and stories about women redefining their pasts? With a focus on hope, healing, and…
+ 
+# Lyapark_USER INFO
+![image](http://pbs.twimg.com/profile_images/1324980797833555969/AauhfnU2_normal.jpg)
+ 
+`User ScreenName:` Lyapark_ 
+ 
+`User chosen Name:` ᴮᴱ 𝙻𝚢𝚊🐣 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 29 22:02:55 +0000 2020 
+ 
+`User Description?:` ﾟ･:*➹ - #박지민: ᴍʏ ᴍᴏᴄʜɪ ʙᴏʏ「🍥✉」 
+ 
+`Followers?: `441 
+ 
+`Following?:` 456 
+ 
+`User URL?:` None 
+ 
+`Location:` yg baca jd babu gue 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1324980797833555969/AauhfnU2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2161 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**YOONGI** 26 , **LOVE** 25 , **💜** 15 , **@BTS_TWT** 12 , **Q** 10 , **GETWELLSOONYOONGI** 8 , **WELL** 7 , **SOON** 7 , **HTTPS://TCO/DXOTYDELAWRT** 6 , **AK** 6 , **BTS** 5 , **AKU** 5 , **ADA** 5 , **YANG** 5 , **RT** 4 , **BTS_BE** 4 , **CURATED_BY_BTS** 4 , **MIN** 4 , **방탄소년단** 4 , **SKYFORYOONGI** 4 , 
+ 
+## What this user tweeted
+ 
+RT @khmjsgj: stop analysing every Yoongi moment to find signs of him struggling. don't show his vulnerabilities. tf?? worms for brain.
+ 
+# mrs_fakerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1323642036218601472/Zx71Vv1J_normal.jpg)
+ 
+`User ScreenName:` mrs_faker 
+ 
+`User chosen Name:` jungkook's necklace 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 03 15:03:13 +0000 2020 
+ 
+`User Description?:` fan acc 
+ 
+`Followers?: `19 
+ 
+`Following?:` 111 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 197 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1323642036218601472/Zx71Vv1J_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1143 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BTS** 36 , **MUSIC** 17 , **DYNAMITE** 15 , **@MYGTRIVIAS:** 15 , **@BTS_TWT** 15 , **US** 14 , **ARMYS** 13 , **PLEASE** 13 , **@IVANTEKOOK_:** 13 , **ARMY** 12 , **SONG** 12 , **1** 11 , **WINS** 11 , **VOTE** 10 , **VOTING** 10 , **@2COOI4SKULL:** 10 , **SONGS** 10 , **SHOW** 10 , **STAY** 9 , **WON** 8 , 
+ 
+## What this user tweeted
+ 
+RT @khmjsgj: stop analysing every Yoongi moment to find signs of him struggling. don't show his vulnerabilities. tf?? worms for brain.
+ 
+# terrykang02USER INFO
+![image](http://pbs.twimg.com/profile_images/1325072361155153920/wBT49_-y_normal.jpg)
+ 
+`User ScreenName:` terrykang02 
+ 
+`User chosen Name:` sunookim03 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 03 03:11:47 +0000 2020 
+ 
+`User Description?:` BTS | TXT | ENHYPEN 
+ 
+`Followers?: `0 
+ 
+`Following?:` 55 
+ 
+`User URL?:` https://t.co/L4J2hXl1fr 
+ 
+`Location:` She/Her 
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1325072361155153920/wBT49_-y_normal.jpg 
+ 
+`Number of tweets excluding replies:` 27 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ARMYS** 3 , **슈가** 3 , **HOBI** 2 , **1** 2 , **BTS** 2 , **방탄소년단** 2 , **SUGA** 2 , **DON'T** 2 , **ANY** 2 , **NEGATIVITY** 2 , **YOONGI** 2 , **@TWITTER** 2 , **@TWITTERSUPPORT** 2 , **@MAGIC_SHOPTAE** 2 , **@BTS_HISTORY613** 2 , **@BTS_TWT** 2 , **RT** 1 , **@__GACIRIA:** 1 , **CHART** 1 , **SONG** 1 , 
+ 
+## What this user tweeted
+ 
+RT @khmjsgj: stop analysing every Yoongi moment to find signs of him struggling. don't show his vulnerabilities. tf?? worms for brain.
+ 
+# Cypher_1_2_3_4USER INFO
+![image](http://pbs.twimg.com/profile_images/1321827536687583234/pAjCemLx_normal.jpg)
+ 
+`User ScreenName:` Cypher_1_2_3_4 
+ 
+`User chosen Name:` ᴮᴱCypher⁷ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 29 13:51:31 +0000 2020 
+ 
+`User Description?:` Hello! I am Cypher 1 2 3 4.
+
+
+#BTS_BE and #LifeGoesOn out on 20th November! Presave now. https://t.co/a2yuFmDhwB
+
+https://t.co/ec6oMVhnKr 
  
 `Followers?: `2 
  
-`Following?:` 70 
+`Following?:` 20 
  
 `User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1325193882775203842/Q7nSKnVk_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THECYBERMENTOR** 1 , **COUPLE** 1 , **CYBERSECURITY** 1 , **QUESTIONS** 1 , **MIND** 1 , **ANSWERING** 1 , **IT?** 1 , 
- 
-## What this user tweeted
- 
-@thecybermentor I have a couple of Cybersecurity questions. Would you mind answering it?
- 
-# ali20425755USER INFO
-![image](http://pbs.twimg.com/profile_images/1323003741428207616/qVzb6e14_normal.jpg)
- 
-`User ScreenName:` ali20425755 
- 
-`User chosen Name:` ali 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Nov 01 19:54:42 +0000 2020 
- 
-`User Description?:` Success is the best revenge 
- 
-`Followers?: `0 
- 
-`Following?:` 22 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 41 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1323003741428207616/qVzb6e14_normal.jpg 
- 
-`Number of tweets excluding replies:` 41 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**READRT** 8 , **@JUSTINSUNTRON:** 5 , **TRON** 4 , **READ@VISITSAUDIAR** 3 , **@DISCOVERSAUDI1** 3 , **OLD** 2 , **🔴** 2 , **نوفر** 2 , **CASUAL** 2 , **BTT** 2 , **READ@MYSNUBBRICKS** 2 , **READ@PETRFILONICH** 2 , **NETWORK** 2 , **ANGEBOT** 2 , **BITCOIN** 2 , **HAPPY** 2 , **ORACLE** 2 , **PROJECT** 2 , **RT** 1 , **@CHRISTOPHERSIX:** 1 , 
- 
-## What this user tweeted
- 
-RT @ChristopherSix: I’d say now is better then anytime for the old joke. “Two old guys walk into a bar.....” yeah. Lame but true. #jokes no…
- 
-# 0x5752USER INFO
-![image](http://pbs.twimg.com/profile_images/1322959228286476289/zrz2siNu_normal.jpg)
- 
-`User ScreenName:` 0x5752 
- 
-`User chosen Name:` Will 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Nov 01 17:49:57 +0000 2020 
- 
-`User Description?:` Computer Security Student @ University of South Wales | Aspiring Pentester | CTF Player 
- 
-`Followers?: `6 
- 
-`Following?:` 32 
- 
-`User URL?:` None 
- 
-`Location:` Wales 
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1322959228286476289/zrz2siNu_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HTB** 3 , **MANAGED** 1 , **SNAG** 1 , **FIRST** 1 , **TOP** 1 , **10** 1 , **MACHINE** 1 , **LOTS** 1 , **FUN🙂** 1 , **HTTPS://TCO/VJOZXIFM3Z** 1 , **HACKTHEBOX** 1 , **CYBERSECURITY** 1 , **PENTESTINGUSER** 1 , **DOWN** 1 , **INSANE** 1 , **BOX** 1 , **CROSSFIT🙂GOT** 1 , **BRUSH** 1 , **LOT** 1 , **SOME** 1 , 
- 
-## What this user tweeted
- 
-managed to snag my first top 10 on a htb machine, lots of fun🙂
-
-https://t.co/vjOzXIfm3Z #hackthebox #htb #cybersecurity #Pentesting
- 
-# chris_livefreeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1321888526133321738/XdSZ_hAy_normal.jpg)
- 
-`User ScreenName:` chris_livefree 
- 
-`User chosen Name:` BBQ-Beer-Freedom Guy 2024 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Oct 29 18:06:52 +0000 2020 
- 
-`User Description?:` Army veteran, American patriot, informed citizen, purveyor of truth, slayer of hypocrisy, usually a smart ass, and maybe or maybe not Hunter’s crack dealer 
- 
-`Followers?: `17 
- 
-`Following?:` 86 
- 
-`User URL?:` None 
- 
-`Location:` Illinois, USA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1321888526133321738/XdSZ_hAy_normal.jpg 
- 
-`Number of tweets excluding replies:` 408 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@GEORGEPAPA19** 10 , **@RILINGBILL** 9 , **@ROBBYSTARBUCK** 9 , **@SEANMDAV** 9 , **TRUMP** 8 , **STILL** 7 , **@RICHARDGRENELL** 7 , **EVEN** 6 , **@REALDONALDTRUMP** 6 , **WELL** 6 , **THESE** 6 , **GO** 6 , **ELECTION** 6 , **EXACTLY** 6 , **PROJECT** 6 , **@BARNES_LAW** 5 , **VOTES** 5 , **BEING** 5 , **DAY** 5 , **T…** 5 , 
- 
-## What this user tweeted
- 
-@richiefield @RilingBill @GeorgePapa19 Well, I am a certified cybersecurity analyst. Does that count? But keep thin… https://t.co/AiUN1qSB5D
- 
-# janinem10794513USER INFO
-![image](http://pbs.twimg.com/profile_images/1325148582618431489/RlMIuKMy_normal.jpg)
- 
-`User ScreenName:` janinem10794513 
- 
-`User chosen Name:` janine m 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 07 18:20:01 +0000 2020 
- 
-`User Description?:` Republicans have used voting machines to cheat for decades. We now have 3 Supreme Court Justices that directly helped cheat in 2000 election. Paper ballots now! 
- 
-`Followers?: `3 
- 
-`Following?:` 77 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 126 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1325148582618431489/RlMIuKMy_normal.jpg 
- 
-`Number of tweets excluding replies:` 126 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VOTING** 16 , **NEED** 12 , **MACHINES** 11 , **NEEDS** 11 , **HACKED** 10 , **POLLS** 9 , **REPUBLICANS** 8 , **PEOPLE** 6 , **TRUMP** 6 , **BIDEN** 5 , **PROSECUTED** 5 , **THESE** 5 , **SENATE** 5 , **REMOVED** 5 , **@JOHNCUSACK** 4 , **CHEAT** 4 , **LOVE** 4 , **@CHRISTOQ:** 4 , **NATIONAL** 4 , **GO** 4 , 
- 
-## What this user tweeted
- 
-RT @jennycohn1: @kylenabecker “Rs will accept no...cybersecurity standards...I pointed out that right now...u can have a voting machine w/…
- 
-# TheIndieGameDe1USER INFO
-![image](http://pbs.twimg.com/profile_images/1322597366072041472/rJ5GoZ_D_normal.jpg)
- 
-`User ScreenName:` TheIndieGameDe1 
- 
-`User chosen Name:` The Indie GameDev Bot 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 31 17:51:55 +0000 2020 
- 
-`User Description?:` I'm an experimental indie dev bot. I will retweet anything #indiedev #gamedev
-Made with python by @GameGenesis3 
- 
-`Followers?: `90 
- 
-`Following?:` 39 
- 
-`User URL?:` https://t.co/cp1j2rEPFS 
  
 `Location:`  
  
 `Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1322597366072041472/rJ5GoZ_D_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1321827536687583234/pAjCemLx_normal.jpg 
  
-`Number of tweets excluding replies:` 3143 
+`Number of tweets excluding replies:` 754 
  
 
  
@@ -822,26 +798,143 @@ Made with python by @GameGenesis3
  
 ## User Top tweeted words 
  
-**GAMEDEV** 70 , **INDIEDEV** 62 , **INDIEGAME** 34 , **GAME** 32 , **SCREENSHOTSATURDAY** 23 , **NEW** 18 , **INDIEGAMEDEV** 17 , **INDIEGAMES** 17 , **@INDIEVIDEOGAMES:** 15 , **WORKING** 13 , **PIXELART** 11 , **PLAY** 9 , **SOME** 9 , **US** 8 , **…RT** 8 , **HERE'S** 8 , **TIME** 7 , **MADEWITHUNITY** 7 , **HTTPS://T…RT** 7 , **ANOTHER** 7 , 
+**BTS** 49 , **@BTS_TWT** 44 , **FAVORITE** 29 , **AMAS** 21 , **ARTIST** 20 , **VOTING** 20 , **VOTE** 19 , **(@BTS_TWT)** 17 , **SOCIAL** 17 , **I'M** 16 , **ARMY** 16 , **1** 15 , **@BTS_HISTORY613:** 14 , **@BTSVOTINGORG:** 14 , **PLEASE** 13 , **@BTS_TWT:** 13 , **@BTS_TWTRT** 13 , **MUSIC** 12 , **ALBUM** 12 , **DYNAMITE** 11 , 
  
 ## What this user tweeted
  
-RT @desirevile: sensibly human V/@farhad55526050 cc:#TOI #gamedev #indiedev #socialmedia #cybersecurity #Manali @Nicochan33 @DrRwtl @George…
+RT @khmjsgj: stop analysing every Yoongi moment to find signs of him struggling. don't show his vulnerabilities. tf?? worms for brain.
  
-# spinexorUSER INFO
-![image](http://pbs.twimg.com/profile_images/1324644186684088322/t5SsaJpc_normal.jpg)
+# jjksIuvbotUSER INFO
+![image](http://pbs.twimg.com/profile_images/1324737714869030913/3SZ-OQ4J_normal.jpg)
  
-`User ScreenName:` spinexor 
+`User ScreenName:` jjksIuvbot 
  
-`User chosen Name:` spinexor 
+`User chosen Name:` A⁷ 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Nov 01 16:15:41 +0000 2020 
+`User signup date?:` Tue Nov 03 14:51:16 +0000 2020 
  
-`User Description?:` im computer engginer 
+`User Description?:` #Jungkook: Let Amm@n breathe 🙄| any pronouns | Fan Account | Trumpets, sanghis and godis don't interact 
  
-`Followers?: `0 
+`Followers?: `272 
+ 
+`Following?:` 350 
+ 
+`User URL?:` None 
+ 
+`Location:` TAYONCÉ + BANGTWICE + IU 
+ 
+`Number of tweets extracted`  : 197 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1324737714869030913/3SZ-OQ4J_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1251 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**😭** 10 , **BTS** 9 , **U** 8 , **IM** 7 , **@BESTVOCALISTWW:** 6 , **EVEN** 4 , **NIGHT** 4 , **KASHMIRI** 4 , **CHART** 4 , **BEST** 4 , **OMG** 4 , **@BTS_TWT:** 3 , **INDIA** 3 , **BIDEN** 3 , **SAY** 3 , **HATE** 3 , **TRUMP** 3 , **TOO** 3 , **BESTIE** 3 , **S** 3 , 
+ 
+## What this user tweeted
+ 
+RT @khmjsgj: stop analysing every Yoongi moment to find signs of him struggling. don't show his vulnerabilities. tf?? worms for brain.
+ 
+# elvira_stancatoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1322988876701585408/e0jZ_mPv_normal.jpg)
+ 
+`User ScreenName:` elvira_stancato 
+ 
+`User chosen Name:` Elvira Stancato 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 01 19:47:32 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `123 
+ 
+`Following?:` 135 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1322988876701585408/e0jZ_mPv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1664 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**KALBIMSENIBEKLIYOR** 73 , **CANYAMAN** 51 , **ÖZGEGÜREL** 50 , **BAYYANLIŞREWIND** 49 , **EZGÜR** 45 , **NON** 40 , **@CLAUDIA9776:** 37 , **LA** 36 , **MRWRONG** 34 , **PIÙ** 34 , **E** 33 , **SONO** 29 , **EZGI** 28 , **SIAMO** 27 , **INSIEME** 25 , **CHE** 24 , **OZGUR:** 23 , **VICINO** 23 , **PREOCCUPARTI** 23 , **:** 23 , 
+ 
+## What this user tweeted
+ 
+RT @myysoulx: Bay Yanlış is not just a show,  it's the story of two different people finding love despite their fears, failed experiences a…
+ 
+# MoonMission87USER INFO
+![image](http://pbs.twimg.com/profile_images/1323971567487864838/irB9tz1P_normal.jpg)
+ 
+`User ScreenName:` MoonMission87 
+ 
+`User chosen Name:` Moon Mission 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 03 13:23:20 +0000 2020 
+ 
+`User Description?:` My mission is to spread $KEX word 📢 
+ 
+`Followers?: `58 
+ 
+`Following?:` 287 
+ 
+`User URL?:` https://t.co/haZnte5Ucj 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1323971567487864838/irB9tz1P_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KIRA_CORE:** 11 , **KIRA** 6 , ***** 4 , **VIDEO** 3 , **LIQUID** 3 , **STAKING** 3 , **IMPLEMENTATIONS** 2 , **SUPPORTS** 2 , **ANY** 2 , **AMBASSADOR** 2 , **KIRADEV** 2 , **UPDATE** 2 , **PART** 2 , **ASSET** 2 , **RT** 1 , **🎤📹SONG** 1 , **COMPETITION** 1 , **REMINDER** 1 , **📹🎤** 1 , **SUBMIT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @kira_core: #KIRA supports liquid staking, eliminates potential vulnerabilities 🔐 of foreign dApp implementations, and utilizes liquid s…
+ 
+# DiscontentGUSER INFO
+![image](http://pbs.twimg.com/profile_images/1324483430189596673/pXOh172F_normal.jpg)
+ 
+`User ScreenName:` DiscontentG 
+ 
+`User chosen Name:` Discontent Groyper 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 05 22:46:21 +0000 2020 
+ 
+`User Description?:` Based Zoomer. Avowed Shitposter. Member of the new Lost Generation 
+ 
+`Followers?: `9 
  
 `Following?:` 30 
  
@@ -849,11 +942,11 @@ RT @desirevile: sensibly human V/@farhad55526050 cc:#TOI #gamedev #indiedev #soc
  
 `Location:`  
  
-`Number of tweets extracted`  : 26 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1324644186684088322/t5SsaJpc_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1324483430189596673/pXOh172F_normal.jpg 
  
-`Number of tweets excluding replies:` 26 
+`Number of tweets excluding replies:` 329 
  
 
  
@@ -861,11 +954,366 @@ RT @desirevile: sensibly human V/@farhad55526050 cc:#TOI #gamedev #indiedev #soc
  
 ## User Top tweeted words 
  
-**TRON** 4 , **@JUSTINSUNTRON:** 3 , **1** 2 , **OLD** 2 , **INTO** 2 , **OCT** 2 , **EXCEEDED** 2 , **•** 2 , **°** 2 , **CASUAL** 2 , **NOVEMBER** 2 , **@DIGITALER_STAAT** 2 , **ВВП** 2 , **RT** 1 , **@CB658AAA:** 1 , **上头电子烟** 1 , **嗨操电子烟** 1 , **一次吸一口就上劲** 1 , **一口✈️** 1 , **做爱** 1 , 
+**ELECTION** 21 , **YEAH** 20 , **FRAUD** 16 , **BIDEN** 13 , **@TRUMPUNLIMITED** 13 , **@CSOMK2** 13 , **@MRNUKEMCOCAINE** 13 , **@FLECCAS** 13 , **TRUMP** 11 , **US** 10 , **VOTER** 10 , **@AMERICAFIRSTPAC** 10 , **NEVER** 9 , **VOTES** 9 , **@ALANMORLOCK** 9 , **@LINDIWE69484583** 8 , **PEOPLE** 8 , **GOT** 7 , **@STAPSEA2** 7 , **@TARIQNASHEED** 7 , 
  
 ## What this user tweeted
  
-RT @ChristopherSix: I’d say now is better then anytime for the old joke. “Two old guys walk into a bar.....” yeah. Lame but true. #jokes no…
+@Ayriuss @bropedio @BettyTsla @ighaworth @benshapiro They already do bro. They are stuffing ballots right now in th… https://t.co/1ks04NP8VT
+ 
+# KIRADeFiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1323977078669144065/bf2QXO6i_normal.jpg)
+ 
+`User ScreenName:` KIRADeFi 
+ 
+`User chosen Name:` Chief of KIRA Network 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 03 13:15:51 +0000 2020 
+ 
+`User Description?:` KIRA Network - Powering DeFi with Liquid Staking 💰 
+ 
+`Followers?: `77 
+ 
+`Following?:` 359 
+ 
+`User URL?:` https://t.co/VZ1a8noeHd 
+ 
+`Location:` New York, USA  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1323977078669144065/bf2QXO6i_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KIRA_CORE:** 11 , **KIRA** 6 , ***** 4 , **VIDEO** 3 , **LIQUID** 3 , **STAKING** 3 , **IMPLEMENTATIONS** 2 , **SUPPORTS** 2 , **ANY** 2 , **AMBASSADOR** 2 , **KIRADEV** 2 , **UPDATE** 2 , **PART** 2 , **ASSET** 2 , **RT** 1 , **🎤📹SONG** 1 , **COMPETITION** 1 , **REMINDER** 1 , **📹🎤** 1 , **SUBMIT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @kira_core: #KIRA supports liquid staking, eliminates potential vulnerabilities 🔐 of foreign dApp implementations, and utilizes liquid s…
+ 
+# shadetreader2USER INFO
+![image](http://pbs.twimg.com/profile_images/1323185463881027593/wYd8OJnl_normal.jpg)
+ 
+`User ScreenName:` shadetreader2 
+ 
+`User chosen Name:` 🏳️‍🌈🌊 Chromatistes 🌊🏳️‍🌈 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 02 08:49:02 +0000 2020 
+ 
+`User Description?:` Voices of dissent against the fascist Trump regime will NOT be silenced. #BlueWave2020 #VoteOutEveryRepublican #RemoveTrump #TrumpIsLosing 
+ 
+`Followers?: `67 
+ 
+`Following?:` 206 
+ 
+`User URL?:` https://t.co/2cJU2wiG1k 
+ 
+`Location:` Nazi-Occupied Texas 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1323185463881027593/wYd8OJnl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 960 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 21 , **@POLITICO** 21 , **PEOPLE** 19 , **@IANBREMMER** 18 , **@MSLATOSHABROWN** 14 , **TIME** 13 , **BEING** 10 , **GO** 9 , **@AP** 9 , **@GADINBC** 9 , **PELOSI** 9 , **DON’T** 8 , **FASCISTS** 8 , **CARE** 7 , **THESE** 7 , **REPUBLICANS** 7 , **NANCY** 7 , **I’M** 6 , **NEEDS** 6 , **ANY** 5 , 
+ 
+## What this user tweeted
+ 
+@mini_007 @cmclymer That’s because when Republicans accuse Democrats of cheating, that isn’t just a spiteful whim.… https://t.co/qFAZjTqwve@steve_seaton @bblock29 Seriously. Even if the EC prevents a continuation of the fascist Trump regime, it still nee… https://t.co/sIlMz4Fj5L
+ 
+# scott_patiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1324952083129249792/69NnKENA_normal.jpg)
+ 
+`User ScreenName:` scott_pati 
+ 
+`User chosen Name:` Pati Scott 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 05 22:49:12 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 80 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1324952083129249792/69NnKENA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 80 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REALDONALDTRUMP** 10 , **DT** 9 , **U** 8 , **EVEN** 7 , **GOT** 7 , **DON’T** 6 , **HAPPY** 6 , **ELECTION** 6 , **@AOC** 6 , **@THENAKEDCOWBOY** 5 , **DEFEAT** 5 , **THAN** 5 , **TRUMP** 5 , **@JAKETAPPER** 4 , **MUST** 4 , **@OHNOSHETWITNT** 4 , **HE’S** 4 , **VOTES** 4 , **US** 4 , **@IAMPRA98** 4 , 
+ 
+## What this user tweeted
+ 
+@GrantSmith16 @DanWhitCongress @realDonaldTrump DT has only himself to blame: he whined of rigged elections in 2016… https://t.co/V1eOuLMQI4
+ 
+# realMaxMeier_2USER INFO
+![image](http://pbs.twimg.com/profile_images/1322965881660575749/miiThEUs_normal.jpg)
+ 
+`User ScreenName:` realMaxMeier_2 
+ 
+`User chosen Name:` Max Meier 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 01 18:16:24 +0000 2020 
+ 
+`User Description?:` Backup Account von @realMaxMeier ‼️Dieser Account lebt nur durch Hass 😜😂! Werde bis zum 7.11 auf meinem Hauptaccount eingeschränkt 😤 
+ 
+`Followers?: `109 
+ 
+`Following?:` 153 
+ 
+`User URL?:` None 
+ 
+`Location:` 🎪BRD🎪 
+ 
+`Number of tweets extracted`  : 197 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1322965881660575749/miiThEUs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 614 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DIE** 62 , **DAS** 33 , **IST** 30 , **DER** 22 , **ES** 22 , **UND** 20 , **EIN** 19 , **NICHT** 17 , **AUCH** 16 , **ICH** 15 , **MIT** 15 , **DEN** 13 , **AUF** 12 , **SICH** 12 , **FÜR** 12 , **NOCH** 12 , **DA** 11 , **SIND** 11 , **HABEN** 11 , **JA** 11 , 
+ 
+## What this user tweeted
+ 
+RT @Heiko_Frenzel: I have just notified @BSI_Bund of critical SQL injection and XSS vulnerabilities on a government system.
+
+#infosec #itse…
+ 
+# BackingFlynn1USER INFO
+![image](http://pbs.twimg.com/profile_images/1324150078458777600/K4r9UjKb_normal.jpg)
+ 
+`User ScreenName:` BackingFlynn1 
+ 
+`User chosen Name:` @BackingFlynn 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 04 21:15:42 +0000 2020 
+ 
+`User Description?:` Making sure we have a fair election, SHOULD be the hopes of ever American but, libs are fine with cheating.#TheRealResistance 
+ 
+`Followers?: `15 
+ 
+`Following?:` 130 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1324150078458777600/K4r9UjKb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1018 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ELECTION** 19 , **TRUMP** 19 , **MEDIA** 14 , **PRESIDENT** 13 , **BIDEN** 11 , **@REALDONALDTRUMP** 9 , **GOING** 9 , **PEOPLE** 8 , **DEMOCRATS** 7 , **JOE** 7 , **NEWS** 6 , **FRAUD** 6 , **NEVER** 6 , **LET** 6 , **@FOXNEWS** 5 , **WELL** 5 , **VOTE** 5 , **CIVIL** 5 , **EVEN** 5 , **SURE** 5 , 
+ 
+## What this user tweeted
+ 
+RT @BrianMazzola: The 2020 election has exposed the vulnerabilities in  our electoral process to no less an extent than 9/11 exposed our vu…
+ 
+# covidbattlerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1324355694334791682/ds4oc9BF_normal.jpg)
+ 
+`User ScreenName:` covidbattler 
+ 
+`User chosen Name:` @COVIDbattler 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 31 07:31:58 +0000 2020 
+ 
+`User Description?:` Currently battling COVID. Off work from my day job, which ironically included battling COVID. Fortunately I’m well, but sadly not everyone is. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 91 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1324355694334791682/ds4oc9BF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 505 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@RYANAFOURNIER** 57 , **@DARRENGRIMES_** 21 , **@KH14245350ADNAN** 20 , **@HOUSENSTOCK** 18 , **@BOADICEENNE** 15 , **@KEVINPLATZ** 15 , **@JOEBIDEN** 14 , **@RITAPANAHI** 14 , **TRUMP** 13 , **@BERNIESANDERS** 12 , **@NICKCHEP** 12 , **@AFNEIL** 10 , **THAT’S** 10 , **YES** 10 , **@REALDONALDTRUMP** 9 , **@ROBERTFRITZ33** 9 , **SYSTEM** 8 , **@D5_RSS** 8 , **@BARRISTERSECRET** 8 , **COULD** 8 , 
+ 
+## What this user tweeted
+ 
+@nickchep @KevinPlatz @housenstock @Kh14245350Adnan @RyanAFournier But you will. Because that’s your system and eve… https://t.co/Tu1o9hv136@BewareTyrants @Kh14245350Adnan @RyanAFournier Please explain in simple terms how the party in opposition manages t… https://t.co/eCXdMubG7e
+ 
+# Alana88364099USER INFO
+![image](http://pbs.twimg.com/profile_images/1321908599405293568/YqJJn4ZB_normal.jpg)
+ 
+`User ScreenName:` Alana88364099 
+ 
+`User chosen Name:` Alana 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 29 20:14:45 +0000 2020 
+ 
+`User Description?:` Trump2020 #17 
+ 
+`Followers?: `38 
+ 
+`Following?:` 271 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 196 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1321908599405293568/YqJJn4ZB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1001 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 28 , **BIDEN** 19 , **LEGAL** 15 , **PRESIDENT** 15 , **VOTES** 13 , **ELECTION** 12 , **FRAUD** 12 , **MEDIA** 11 , **@TRUMPERWAVIN:** 11 , **@SEANHANNITY:** 11 , **@REALDONALDTRUMP:** 10 , **@JULIANSRUM:** 9 , **JOE** 8 , **@DOQHOLLIDAY:** 7 , **WON** 7 , **GOT** 7 , **GOING** 7 , **VOTER** 7 , **VOTE** 6 , **@ABSOLUTE1776:** 6 , 
+ 
+## What this user tweeted
+ 
+RT @BrianMazzola: The 2020 election has exposed the vulnerabilities in  our electoral process to no less an extent than 9/11 exposed our vu…
+ 
+# NatalieNenadicUSER INFO
+![image](http://pbs.twimg.com/profile_images/1323606209925128200/6OdCbXrG_normal.jpg)
+ 
+`User ScreenName:` NatalieNenadic 
+ 
+`User chosen Name:` Philosophy&Law Prof 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 03 10:37:20 +0000 2020 
+ 
+`User Description?:` Initiated landmark crimes against humanity/genocide case in SDNY. Teach Hannah Arendt, authoritarian govt, political philosophy at U-KY, @yale@Stanford@Umichlaw 
+ 
+`Followers?: `0 
+ 
+`Following?:` 25 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1323606209925128200/6OdCbXrG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GTCONWAY3D** 6 , **@THERICKWILSON** 3 , **CASE** 2 , **US** 2 , **INVENTED** 2 , **NEW** 2 , **MEANS** 2 , **@JOSHTPM** 1 , **PAPER** 1 , **TRAIL** 1 , **IMPORTANT** 1 , **BUILDING** 1 , **GETTING** 1 , **JURISDICTION** 1 , **HIM…** 1 , **HTTPS://TCO/PE2PW1WRCY@YOURAUNTEMMA** 1 , **TRUMP'S** 1 , **CRIMINALITY** 1 , **COMMITTING** 1 , **CRIMES** 1 , 
+ 
+## What this user tweeted
+ 
+@dandrezner @gtconway3d Narcissists induce complex-PTSD in their victims. This sociopath is doing this writ large o… https://t.co/cQJ9OjH5BM
+ 
+# NYULH_RadOncUSER INFO
+![image](http://pbs.twimg.com/profile_images/1324133172980948995/jsLwC0zq_normal.jpg)
+ 
+`User ScreenName:` NYULH_RadOnc 
+ 
+`User chosen Name:` NYURadOnc 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Oct 29 13:26:38 +0000 2020 
+ 
+`User Description?:` The official account for the NYU Department of Radiation Oncology. 
+ 
+`Followers?: `12 
+ 
+`Following?:` 32 
+ 
+`User URL?:` https://t.co/72mzATuxMF 
+ 
+`Location:` New York City 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1324133172980948995/jsLwC0zq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**METABOLIC** 2 , **PLEASE** 1 , **JOIN** 1 , **US** 1 , **MEET** 1 , **GREET!** 1 , **HTTPS://TCO/PS05MTQXIAMORE** 1 , **GREAT** 1 , **WORK** 1 , **KIMMELMAN** 1 , **BIRSOY** 1 , **LAB** 1 , **HTTPS://TCO/EBKTQG3V3TRT** 1 , **@AIIMS1742:** 1 , **TWO** 1 , **CRISPR** 1 , **SCREEN** 1 , **PAPERS** 1 , **VULNERABILITIES** 1 , **PANCREATICCANCER** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Aiims1742: Two #CRISPR screen papers on metabolic vulnerabilities in #PancreaticCancer in @Cell_Metabolism:
+https://t.co/hZKmcw1y7a
+htt…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
