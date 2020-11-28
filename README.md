@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **FireEye**  
+The most popular user is: **realDonaldTrump**  
  
 
-## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
+## For purposes of National Security, Section 230 must be immediately terminated!!! 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **FireEye**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bad_packets: Active CVE-2020-14882 (https://t.co/VYVhFLPnXb) payload detected: http://205.185.116.78/poc.xmlhttp://205.185.116.78/xms… |
-| #Malware #Ursnif #BlocklistDomain: gamenetline[.comVirusTotal: https://t.co/mGOxcDqjNr#CyberSecurity #ThreatIntel (bot generated) |
-| RT @UK_Daniel_Card: major breaches.. day in day out.. are they by scary AF 1337 zero days run by nation states? mainly no. they are risky e… |
+| Wanted to share with all in case anyone uses Fortinet-https://t.co/IVtGqfkQX5 #cyber #firewalls #networsecurity… https://t.co/8p5pMV9kAH |
+| @Infosec_Taylor Thank you so much for this!!! 🙏🏼🙏🏼🙏🏼 |
+| RT @Alevskey: A zero-day in Windows 7 and Windows Server 2008 has yet to be fixed: https://t.co/KTGb8pZZkH by Security Affairs  #infosec #s… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.23%  |
-| Tweeters with < 10 followers  | 1.81%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **USCERT_gov** |
+| #2 Most tweeted to  | **AlyssaM_InfoSec** |
+| #3 Most tweeted to  | **fr0gger_** |
+| NewProfiles (less than 10 days) | 0.06%  |
+| Tweeters with < 10 followers  | 1.04%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -50,174 +50,58 @@ The most popular user is: **FireEye**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
-| second  | **HACKERS**  |
-| third  | **CYBERTHREATS** |
-| fourth  | **DARKWEB**  |
-| fifth  | **@JINIBABD:**  |
+| first  | **INFOSEC**  |
+| second  | **MALWARE**  |
+| third  | **RANSOMWARE** |
+| fourth  | **HACKING**  |
+| fifth  | **DATA**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: Chinese Hacking Group Suspected of Far-Reaching Campaign #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreaches… |
+|RT @XtonTech: #XtonTech BLOG: Is It Time to Replace VPNs? https://t.co/kaHJ5Ke30U #PAM #InfoSec #AccessManagement #JustInTimeAccess #ZeroTr… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FireEye**  |
+| The most retweeted user is: **realDonaldTrump**  |
 | ------------- |
-| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
+| For purposes of National Security, Section 230 must be immediately terminated!!! |
 
 # Potential Fake Accounts
  
-# binbash84171135USER INFO
-![image](http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg)
+# CommunityWicsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1332289056881795072/QuWI2ldw_normal.jpg)
  
-`User ScreenName:` binbash84171135 
+`User ScreenName:` CommunityWics 
  
-`User chosen Name:` #!/bin/bash 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 26 22:58:51 +0000 2020 
- 
-`User Description?:` Security tinkerer, I am good at googling and some Bash scripting 
- 
-`Followers?: `0 
- 
-`Following?:` 45 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COBALTSTRIKE** 2 , **HOSTS** 1 , **LAST** 1 , **SEEN** 1 , **NOVEMBER** 1 , **2020** 1 , **HTTPS://TCO/NCE1DCN2RS** 1 , **IOCS** 1 , **THREATINTEL** 1 , 
- 
-## What this user tweeted
- 
-CobaltStrike hosts last seen in November 2020 https://t.co/nCe1DCN2RS #cobaltstrike #iocs #ThreatIntel
- 
-# JennKnesekUSER INFO
-![image](http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg)
- 
-`User ScreenName:` JennKnesek 
- 
-`User chosen Name:` Jenn Knesek 
+`User chosen Name:` WICS Community 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 25 15:38:19 +0000 2020 
+`User signup date?:` Fri Nov 27 11:43:22 +0000 2020 
  
-`User Description?:` Account Executive @ZintelPR Follow for Story Ideas #CyberSecurity #PR #PublicRelations 📧:Jennifer.Knesek@ZintelPR.com 
- 
-`Followers?: `15 
- 
-`Following?:` 199 
- 
-`User URL?:` https://t.co/lGq4TsQjFw 
- 
-`Location:` Houston, TX 
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg 
- 
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RANSOMWARE** 5 , **TECH** 3 , **CYBERATTACKS** 3 , **CYBERSECURITY** 3 , **IMPORTANT** 2 , **CYBERSECURITYAWARENESSMONTH** 2 , **HEALTHCARE** 2 , **MANY** 2 , **TARGET** 2 , **THANKSGIVING2020** 1 , **HTTPS://TCO/SNRNHVWKFZBEING** 1 , **PROACTIVE** 1 , **ADDITION** 1 , **REACTIVE** 1 , **HTTPS://TCO/BNCQ8XCCICBLACKFRIDAY** 1 , **HTTPS://TCO/HZC9HJWA3BCYBERSECURITY** 1 , **HTTPS://TCO/AAJK9WIJBGRT** 1 , **@PETERCAVICCHIA:** 1 , **WHILE** 1 , **LARGE** 1 , 
- 
-## What this user tweeted
- 
-RT @DarkReading: How Ransomware Defense is Evolving With Ransomware Attacks https://t.co/ZXIdY8if4M by @JoanGoodchild #ransomware #datathef…
- 
-# RepairITDubUSER INFO
-![image](http://pbs.twimg.com/profile_images/1328985257740210176/Lrsi3dbV_normal.jpg)
- 
-`User ScreenName:` RepairITDub 
- 
-`User chosen Name:` Repair-IT 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 18 08:54:57 +0000 2020 
- 
-`User Description?:` Providing Computer Repair & I.T. Services. 
- 
-`Followers?: `133 
- 
-`Following?:` 137 
- 
-`User URL?:` https://t.co/Q4NazvEvxF 
- 
-`Location:` Dublin City, (Ireland) 
- 
-`Number of tweets extracted`  : 31 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1328985257740210176/Lrsi3dbV_normal.jpg 
- 
-`Number of tweets excluding replies:` 31 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KEY** 24 , **FEATURES** 23 , **CORE** 18 , **PROCESSOR** 13 , **AMD** 8 , **SPEED** 8 , **INTEL** 7 , **HD** 7 , **IPS** 7 , **SOCKET** 7 , **GHZ** 7 , **FULL** 6 , **SCREEN** 4 , **GEN** 4 , **GEFORCE** 4 , **RTX** 4 , **QUAD** 4 , **BASE** 4 , **MAX** 4 , **DDR4** 4 , 
- 
-## What this user tweeted
- 
-RT @threatintel: In this week’s #CyberSecurityBrief, we discuss our own blog about #Cicada (aka #APT10) targeting #Japan –linked orgs; atta…
- 
-# RajeshAnanth4USER INFO
-![image](http://pbs.twimg.com/profile_images/1331043770142400512/FVmQtB0-_normal.jpg)
- 
-`User ScreenName:` RajeshAnanth4 
- 
-`User chosen Name:` Rajesh Ananth 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 18 22:49:38 +0000 2020 
- 
-`User Description?:` Dad, Staying fit, Family, Friends and Technologist at work 
+`User Description?:` Leading Platform in South India for Empowering Women in Cybersecurity.
+A community initiative @redteamacademy 
  
 `Followers?: `1 
  
-`Following?:` 22 
+`Following?:` 2 
  
-`User URL?:` None 
+`User URL?:` https://t.co/rWFwIqDeDh 
  
-`Location:`  
+`Location:` Kochi 
  
-`Number of tweets extracted`  : 37 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1331043770142400512/FVmQtB0-_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1332289056881795072/QuWI2ldw_normal.jpg 
  
-`Number of tweets excluding replies:` 37 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -225,11 +109,92 @@ RT @threatintel: In this week’s #CyberSecurityBrief, we discuss our own blog a
  
 ## User Top tweeted words 
  
-**@NETENRICH:** 35 , **ATTACK** 8 , **RANSOMWARE** 7 , **SECURITY** 7 , **EMAILS** 4 , **CYBER** 4 , **SURFACE** 4 , **PHISHING** 4 , **LATEST** 3 , **GREATER** 3 , **VALUE** 3 , **EXISTING** 3 , **INVESTMENTS** 3 , **CONTINUOUS** 3 , **SHINYHUNTERS** 3 , **T…RT** 3 , **CHECK** 3 , **WHICH** 3 , **INSTALLED** 3 , **ROLE** 3 , 
+**WICS** 2 , **COMMUNITY** 2 , **PROVIDING** 1 , **INFORMATION** 1 , **Z** 1 , **CYBERSECURITY** 1 , **LET'S** 1 , **LEARN** 1 , **TOGETHER…** 1 , **HTTPS://TCO/AL1PE6YROIWOMEN** 1 , **CYBER** 1 , **SECURITY** 1 , **INDIA** 1 , **KERALA** 1 , **HTTPS://TCO/EQQ3Y5H2BD** 1 , **WOMENINCYBERSECURITY…** 1 , **HTTPS://TCO/5A0TEGC9EF** 1 , 
  
 ## What this user tweeted
  
-RT @Netenrich: 'Resident Evil ' game maker Capcom confirms data breach after #ransomware attack by Ragnar Locker. Here's all the latest new…RT @Netenrich: ShinyHunters has leaked 123RF’s database with 8.3 million users on an infamous hacker forum for download. They made the head…
+Women In Cyber Security | WICS Community India , Kerala https://t.co/Eqq3y5H2Bd 
+#womenincybersecurity… https://t.co/5A0TEgc9ef
+ 
+# PanevezioVUSER INFO
+![image](http://pbs.twimg.com/profile_images/1331888346847653894/phRlwZe4_normal.jpg)
+ 
+`User ScreenName:` PanevezioV 
+ 
+`User chosen Name:` Ervinas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 24 07:49:56 +0000 2020 
+ 
+`User Description?:` Erve | Self taught DEV 👨🏻‍🎓
+Studying Cyber Security  / Networking 👨🏻‍💻 
+ 
+`Followers?: `5 
+ 
+`Following?:` 86 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1331888346847653894/phRlwZe4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@THEHACKERSNEWS:** 1 , **NEW** 1 , **DIGITALLY-SIGNED** 1 , **BANDOOK** 1 , **MALWARE** 1 , **SAMPLE** 1 , **SPOTTED** 1 , **WILD** 1 , **ONCE** 1 , **AGAIN** 1 , **AIMING** 1 , **HIGH-VALUE** 1 , **TARGETS** 1 , **ACROSS** 1 , **MULT…RT** 1 , **@TESLARATI:** 1 , **TESLA** 1 , **GOING** 1 , **FULL** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: A new digitally-signed Bandook #malware sample spotted in the wild, once again aiming at high-value targets across mult…
+ 
+# Juanjo_OrnelasUSER INFO
+![image](http://pbs.twimg.com/profile_images/1329172289569624064/FlLEc6sH_normal.jpg)
+ 
+`User ScreenName:` Juanjo_Ornelas 
+ 
+`User chosen Name:` Juan Ornelas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 18 01:45:29 +0000 2020 
+ 
+`User Description?:` Cyber Incident Responder on the way!! 
+#Forensics #MalwareAnalysis 
+ 
+`Followers?: `12 
+ 
+`Following?:` 110 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1329172289569624064/FlLEc6sH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 9 , **QUE** 4 , **Y** 3 , **APP** 3 , **TODO** 2 , **UN** 2 , **@SKYNETTOOLS:** 2 , **INFOSEC** 2 , **@THECYBERSECHUB:** 2 , **POR** 2 , **ANDROID** 2 , **MOMENTO** 2 , **DESPUÉS** 1 , **DÍA** 1 , **ANÁLISIS** 1 , **DATOS** 1 , **ESTADÍSTICA** 1 , **DESCANSAR** 1 , **😉RT** 1 , **(WEB** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SkyNetTools: (Web App Penetration Testing - #15 - HTTP Attributes (Cookie Stealing)) - https://t.co/I4oOr5RV5F #Tutorials #infosec #net…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
