@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **FireEye**  
+The most popular user is: **HuffmanForNC**  
  
 
-## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
+## Why do I support cancelling student loan debt for 45 million students?  Because we canceled trillions in taxes for… https://t.co/RvH8JsAPRD 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **FireEye**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JinibaBD: Suspected #BEC scammers arrested in Nigeria following #Interpol investigation#CyberSecurity #osint #cyberthreats #hackers #d… |
-| RT @tip_intel: Cybercriminals are known to capitalize on world events &amp; crises. This investigative post explores how #TIP can aid in thwart… |
-| RT @RakeshKrish12: #Crypters getting advertised on #DarkWeb as standalone shops#PECrypt claims to be-#Automated #Polymorphic #Web #Crypte… |
+| @kylelady @AlyssaM_InfoSec wouldn't want you disclosing that fb is hostile to a functional society, you know... |
+| RT @EvanKirstel: Walmart-exclusive router and others sold on Amazon &amp; eBay contain hidden backdoors to control devices #CyberSecurity #hack… |
+| RT @CioAmaro: Applications of Blockchain in Cybersecurity #Infosec #CyberSecurity #CyberAttack #Hacking #Privacy #Threat #Malware #Ransomw… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 0.87%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **AlyssaM_InfoSec** |
+| #2 Most tweeted to  | **Infosec_Taylor** |
+| #3 Most tweeted to  | **USCERT_gov** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 1.22%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -50,47 +50,47 @@ The most popular user is: **FireEye**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
-| second  | **HACKERS**  |
-| third  | **CYBERTHREATS** |
-| fourth  | **@JINIBABD:**  |
-| fifth  | **DARKWEB**  |
+| first  | **INFOSEC**  |
+| second  | **MALWARE**  |
+| third  | **DATA** |
+| fourth  | **RANSOMWARE**  |
+| fifth  | **HACKERS**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jase_passwaters: Part 2 of a 3 part series on Ransomware by @gregotto is out. It takes a look at ransomware from the POV of a victim th… |
+|Dr. Zulfikar  Ramzan (@Zulfikar_Ramzan?lang=en) provides expert commentary for ''dot your expert comments'' at Info… https://t.co/eCE9hYZsmy |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FireEye**  |
+| The most retweeted user is: **HuffmanForNC**  |
 | ------------- |
-| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
+| Why do I support cancelling student loan debt for 45 million students?  Because we canceled trillions in taxes for… https://t.co/RvH8JsAPRD |
 
 # Potential Fake Accounts
  
-# binbash84171135USER INFO
-![image](http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg)
+# STbeileUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` binbash84171135 
+`User ScreenName:` STbeile 
  
-`User chosen Name:` #!/bin/bash 
+`User chosen Name:` SammyTbeile 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Nov 26 22:58:51 +0000 2020 
+`User signup date?:` Fri Nov 27 13:57:43 +0000 2020 
  
-`User Description?:` Security tinkerer, I am good at googling and some Bash scripting 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 45 
+`Following?:` 19 
  
 `User URL?:` None 
  
@@ -98,7 +98,7 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
 `Number of tweets excluding replies:` 1 
  
@@ -108,38 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**COBALTSTRIKE** 2 , **HOSTS** 1 , **LAST** 1 , **SEEN** 1 , **NOVEMBER** 1 , **2020** 1 , **HTTPS://TCO/NCE1DCN2RS** 1 , **IOCS** 1 , **THREATINTEL** 1 , 
+**@ALYSSAM_INFOSEC** 1 , **PRETTY** 1 , **FREQUENTLY** 1 , **INTERVIEWS** 1 , **LARGER** 1 , **COMPANIES** 1 , 
  
 ## What this user tweeted
  
-CobaltStrike hosts last seen in November 2020 https://t.co/nCe1DCN2RS #cobaltstrike #iocs #ThreatIntel
+@AlyssaM_InfoSec Pretty frequently in interviews with larger companies
  
-# JennKnesekUSER INFO
-![image](http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg)
+# Greyhatcyberso1USER INFO
+![image](http://pbs.twimg.com/profile_images/1332783701529333760/1C0PS3DU_normal.jpg)
  
-`User ScreenName:` JennKnesek 
+`User ScreenName:` Greyhatcyberso1 
  
-`User chosen Name:` Jenn Knesek 
+`User chosen Name:` Grey-hat Cyber Solutions. 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 25 15:38:19 +0000 2020 
+`User signup date?:` Sat Nov 28 20:29:16 +0000 2020 
  
-`User Description?:` Account Executive @ZintelPR Follow for Story Ideas #CyberSecurity #PR #PublicRelations 📧:Jennifer.Knesek@ZintelPR.com 
+`User Description?:` #1 Crowd sourced sec platform in Africa that seeks to promote VDP | VRP | BUG BOUNTY | BUG HUNTING SCOPES | CONCEPTS across the African Landscape. 
  
-`Followers?: `15 
+`Followers?: `1 
  
-`Following?:` 199 
+`Following?:` 0 
  
-`User URL?:` https://t.co/lGq4TsQjFw 
+`User URL?:` None 
  
-`Location:` Houston, TX 
+`Location:`  
  
-`Number of tweets extracted`  : 17 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1332783701529333760/1C0PS3DU_normal.jpg 
  
-`Number of tweets excluding replies:` 17 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -147,11 +147,271 @@ CobaltStrike hosts last seen in November 2020 https://t.co/nCe1DCN2RS #cobaltstr
  
 ## User Top tweeted words 
  
-**RANSOMWARE** 5 , **TECH** 3 , **CYBERATTACKS** 3 , **CYBERSECURITY** 3 , **IMPORTANT** 2 , **CYBERSECURITYAWARENESSMONTH** 2 , **HEALTHCARE** 2 , **MANY** 2 , **TARGET** 2 , **THANKSGIVING2020** 1 , **HTTPS://TCO/SNRNHVWKFZBEING** 1 , **PROACTIVE** 1 , **ADDITION** 1 , **REACTIVE** 1 , **HTTPS://TCO/BNCQ8XCCICBLACKFRIDAY** 1 , **HTTPS://TCO/HZC9HJWA3BCYBERSECURITY** 1 , **HTTPS://TCO/AAJK9WIJBGRT** 1 , **@PETERCAVICCHIA:** 1 , **WHILE** 1 , **LARGE** 1 , 
+**BUGBOUNTYTIPS** 2 , **INFOSEC** 2 , **ETHICALHACKING** 2 , **READ** 1 , **UP!!!** 1 , **BUGBOUNTY** 1 , **HACKING** 1 , **HACKERS** 1 , **HTTPS://TCO/PF4MV6PHJBIMAGEMAGICK** 1 , **SHELL** 1 , **INJECTION** 1 , **VIA** 1 , **PDF** 1 , **PASSWORD!!** 1 , **HACKING…** 1 , **HTTPS://TCO/LPGMHGCMJX** 1 , 
  
 ## What this user tweeted
  
-RT @DarkReading: How Ransomware Defense is Evolving With Ransomware Attacks https://t.co/ZXIdY8if4M by @JoanGoodchild #ransomware #datathef…
+Read up!!!
+#BugBounty #bugbountytips  #infosec #Hacking #hackers #ethicalhacking 
+https://t.co/Pf4mV6pHJBImageMagick - Shell injection via PDF password!!
+
+#bugbountytips #infosec #ethicalhacking #Hacking… https://t.co/LpGmhgCmJX
+ 
+# 0xed1337USER INFO
+![image](http://pbs.twimg.com/profile_images/1332348591076122624/tmLUlknv_normal.jpg)
+ 
+`User ScreenName:` 0xed1337 
+ 
+`User chosen Name:` Ed 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Nov 27 15:36:20 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 71 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332348591076122624/tmLUlknv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**•** 4 , **SECURITY** 2 , **INFOSEC** 2 , **REDTEAM** 2 , **RT** 1 , **@REALTRYHACKME:** 1 , **ADVENT** 1 , **CYBER** 1 , **BACK!** 1 , **🎅** 1 , **LEARN** 1 , **BASICS** 1 , **DOING** 1 , **BEGINNER** 1 , **FRIENDLY** 1 , **EXERCISE** 1 , **EVERYDAY** 1 , **LEADING…RT** 1 , **@BANK_SECURITY:** 1 , **BREAKING:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CyberWarship: mssqlproxy is a toolkit aimed to perform lateral movement in restricted environments through a compromised Microsoft SQL…RT @maldevel: Initial Access with Evil Calendar Files and GoPhish #infosec #redteam 
+https://t.co/Bnb1JwYR4oRT @blueteamblog: Cheat Sheets for:
+
+• Kali Linux
+• Metasploit
+• John the Ripper
+• nmap
+
+#cybersecurity #infosec #redteam https://t.co/U4RG…
+ 
+# OnlinemailStoreUSER INFO
+![image](http://pbs.twimg.com/profile_images/1330857691997220864/itKmf1lE_normal.jpg)
+ 
+`User ScreenName:` OnlinemailStore 
+ 
+`User chosen Name:` Online Email Store 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 22 10:06:54 +0000 2020 
+ 
+`User Description?:` -Create an email system with a company name
+-Email security & host
+-Information protection
+-Backup data & IT
+-Provide servers & free books
+-Web design 
+ 
+`Followers?: `3 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:` Gamal Abdel Nasser st, Mandara 
+ 
+`Number of tweets extracted`  : 33 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1330857691997220864/itKmf1lE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 33 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**US** 18 , **FOLLOW** 17 , **WHATSAPP0020101969933** 13 , **EMAIL** 10 , **CHANNEL** 10 , **OSDEGY** 7 , **OSDEGY…** 7 , **WEBDESIGN** 6 , **SECURITY** 6 , **CHANNELS** 5 , **INFORMATION** 5 , **STORE** 5 , **PROTECTION** 5 , **EMAIL…** 4 , **WORK** 4 , **PROFESSIONAL** 3 , **WHATSAPP** 3 , **WEBSITE** 3 , **WHATSAPP0020101969933…** 3 , **ONLINEBUSINESS** 3 , 
+ 
+## What this user tweeted
+ 
+#First #impression is the key to start your #business and #Competition  
+Follow our channels or #WhatsApp 002010196… https://t.co/eBsdVTgDXdwhy you should use your #domain name as your professional #email address.
+Required to make the first impression is… https://t.co/D2tbvq13To
+ 
+# LightOrithmUSER INFO
+![image](http://pbs.twimg.com/profile_images/1331677898672136192/A2yfpUWn_normal.jpg)
+ 
+`User ScreenName:` LightOrithm 
+ 
+`User chosen Name:` MB 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 25 19:13:49 +0000 2020 
+ 
+`User Description?:` Currently Studying Heath's Practical Ethical Hacker Course @TheCyberMentor 👨‍💻 23% Completed, Future #EthicalHacker + Learning as we go along. #CyberSec #THM 
+ 
+`Followers?: `16 
+ 
+`Following?:` 39 
+ 
+`User URL?:` None 
+ 
+`Location:` United Kingdom 
+ 
+`Number of tweets extracted`  : 57 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1331677898672136192/A2yfpUWn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 57 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REALTRYHACKME** 11 , **ETHICAL** 7 , **STARTING** 5 , **I'M** 5 , **TIER** 5 , **TRYHACKME** 4 , **ROOMS** 4 , **HACKERS** 4 , **COURSE** 4 , **🤣** 3 , **@TCMSECURITY** 3 , **2** 3 , **CTF'S** 3 , **HACKER** 3 , **@THECYBERMENTOR** 3 , **~** 3 , **3** 3 , **COMPLETED** 3 , **CYBER** 3 , **👇** 2 , 
+ 
+## What this user tweeted
+ 
+@BBTRetweet @BugBountyHunt3r @infosec_au I tried 🤣
+ 
+# V2shngekiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1332475218196099081/xBFLb8O6_normal.jpg)
+ 
+`User ScreenName:` V2shngeki 
+ 
+`User chosen Name:` suba 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Nov 27 23:16:49 +0000 2020 
+ 
+`User Description?:` Sublime 
+ 
+`Followers?: `3 
+ 
+`Following?:` 53 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 57 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332475218196099081/xBFLb8O6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 64 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 9 , **QUE** 6 , **@HPCL_RETAIL** 6 , **@HPCL** 6 , **LES** 5 , **NE** 5 , **PAS** 5 , **UN** 5 , **LA** 5 , **من** 5 , **خصم** 5 , **و** 4 , **SE** 4 , **Y** 4 , **@CAROLINEDEHAAS** 4 , **متجر** 4 , **كود** 4 , **NÃO** 4 , **QUI** 3 , **C'EST** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Kilo_Hacker: The Website should Be Open today.
+ Had to Upgrade .. https://t.co/C8O8hvIpjg
+
+#Hacker #Hacker411 #KiLo_Hacker #Phreak #KiL…
+ 
+# Rojina66USER INFO
+![image](http://pbs.twimg.com/profile_images/1331243465120702465/M9dWXSYt_normal.jpg)
+ 
+`User ScreenName:` Rojina66 
+ 
+`User chosen Name:` Rojina 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 24 14:07:33 +0000 2020 
+ 
+`User Description?:` smile:) 
+ 
+`Followers?: `2 
+ 
+`Following?:` 31 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 59 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1331243465120702465/M9dWXSYt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 59 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 14 , **من** 10 , **كود** 9 , **QUE** 7 , **متجر** 6 , **خصم** 6 , **تخفيضات** 5 , **UN** 5 , **Y** 5 , **EN** 5 , **في** 5 , **RT** 4 , **@KEWALSHRESTHA5:** 4 , **ولعيونكم** 4 , **عروض** 4 , **POR** 4 , **NÃO** 4 , **الله** 4 , **GREAT** 3 , **@5RWVLFLIJL687WP:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Kilo_Hacker: The Website should Be Open today.
+ Had to Upgrade .. https://t.co/C8O8hvIpjg
+
+#Hacker #Hacker411 #KiLo_Hacker #Phreak #KiL…
+ 
+# Sriniva16842944USER INFO
+![image](http://pbs.twimg.com/profile_images/1331826319957532674/0y8uaj-J_normal.jpg)
+ 
+`User ScreenName:` Sriniva16842944 
+ 
+`User chosen Name:` Srinivasaragavan Subramanian 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 26 05:04:50 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1331826319957532674/0y8uaj-J_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VIRTUAL** 4 , **SERVICES** 3 , **INFRASTRUCTURE** 2 , **MANAGED** 2 , **CLOUD** 2 , **POSTED** 2 , **PHOTO** 2 , **@** 2 , **BANGALORE** 2 , **INDIA** 2 , **PRIVATE** 2 , **VIMS_VIRTUAL** 1 , **DELIVERING** 1 , **BASED** 1 , **ENABLE** 1 , **INNOVATION** 1 , **HIGH…** 1 , **HTTPS://TCO/USLOWA1LLYJUST** 1 , **HTTPS://TCO/WF2HNGKOMNVIMS** 1 , **INCLUDE** 1 , 
+ 
+## What this user tweeted
+ 
+VIMS_Virtual Infrastructure Managed Services
+Delivering Cloud based virtual IT services to enable innovation, High… https://t.co/usLOWa1lLy
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
