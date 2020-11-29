@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **FireEye**  
+The most popular user is: **HuffmanForNC**  
  
 
-## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
+## Why do I support cancelling student loan debt for 45 million students?  Because we canceled trillions in taxes for… https://t.co/RvH8JsAPRD 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **FireEye**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Mass scanning activity detected from 37.187.139.22 (🇫🇷) targeting Fortinet VPN servers vulnerable to unauthenticate… https://t.co/yJ2JpkLaC9 |
-| RT @JinibaBD: Chinese State-Sponsored Hackers Exploiting Zerologon Vulnerability #CyberSecurity #osint #cyberthreats #hackers #darkweb #dat… |
-| New powerful malware obfuscation technique! Video: https://t.co/fwP0kN0oW1Paper: https://t.co/TVjJ6P4f6U… https://t.co/0XbwVPPRr8 |
+| Blue - I have just completed this room! Check it out:  https://t.co/ApJW0EE1m4 #tryhackme #windows #eternalblue… https://t.co/7BMF7PCDkP |
+| Tool review: shcheck (test HTTP headers of web applications) by @_meliot #analysis #infosec #tools https://t.co/AANuDt0hgq |
+| RT @USCERT_gov: 🛡️ @CISAgov is committed to sharing resources on ways to reduce the risk of #ransomware. Check out our webpage with info to… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.09%  |
-| Tweeters with < 10 followers  | 1.85%|
+| #1 Most tweeted to  | **AlyssaM_InfoSec** |
+| #2 Most tweeted to  | **martingeddes** |
+| #3 Most tweeted to  | **keepnetlabs** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 1.22%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,47 +50,370 @@ The most popular user is: **FireEye**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
-| second  | **HACKERS**  |
-| third  | **CYBERTHREATS** |
-| fourth  | **@JINIBABD:**  |
-| fifth  | **DARKWEB**  |
+| first  | **INFOSEC**  |
+| second  | **HACKING**  |
+| third  | **PHISHING** |
+| fourth  | **RANSOMWARE**  |
+| fifth  | **EXPERT**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BushidoToken: #ModiLoader is one to watch (also called DbatLoader or NatsoLoader). Dropping #malware such as:- AZORult, Raccoon, Oski,… |
+|RT @eudyzerpa: new #phishing at hXXp://www[.]chaseonline[.]security[.]com[.]thefilipinodoctor[.]com/ | 162[.]241[.]158[.]229 | United State… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FireEye**  |
+| The most retweeted user is: **HuffmanForNC**  |
 | ------------- |
-| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
+| Why do I support cancelling student loan debt for 45 million students?  Because we canceled trillions in taxes for… https://t.co/RvH8JsAPRD |
 
 # Potential Fake Accounts
  
-# binbash84171135USER INFO
-![image](http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg)
+# CommunityWicsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1332289056881795072/QuWI2ldw_normal.jpg)
  
-`User ScreenName:` binbash84171135 
+`User ScreenName:` CommunityWics 
  
-`User chosen Name:` #!/bin/bash 
+`User chosen Name:` WICS Community 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Nov 26 22:58:51 +0000 2020 
+`User signup date?:` Fri Nov 27 11:43:22 +0000 2020 
  
-`User Description?:` Security tinkerer, I am good at googling and some Bash scripting 
+`User Description?:` Leading Platform in South #India for Empowering #Women in #Cybersecurity.
+A community initiative @redteamacademy 
+ 
+`Followers?: `1 
+ 
+`Following?:` 5 
+ 
+`User URL?:` https://t.co/rWFwIqDeDh 
+ 
+`Location:` Kochi 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332289056881795072/QuWI2ldw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COMMUNITY** 4 , **WICS** 3 , **INFORMATION** 2 , **SECURITY** 2 , **SERIES** 2 , **CYBER** 2 , **WRONG** 1 , **CLICK** 1 , **MAY** 1 , **LEAD** 1 , **LOSING** 1 , **DATA** 1 , **RUINED** 1 , **SYSTEM** 1 , **SOMETHING** 1 , **WORST** 1 , **BY…** 1 , **HTTPS://TCO/QFMXR5TRYCINTRODUCING** 1 , **ATHENA** 1 , **CTF** 1 , 
+ 
+## What this user tweeted
+ 
+A wrong click may lead to losing your data or ruined your system or something worst.
+Information Security series by… https://t.co/qfmxr5tRycIntroducing Cyber Athena CTF powered by WICS Community and Sponsored by NetSentries.
+On December 12th, 2020
+Registe… https://t.co/SnVboYQjrP
+ 
+# DarrenH30021956USER INFO
+![image](http://pbs.twimg.com/profile_images/1332132817510207489/U2AkJT6E_normal.jpg)
+ 
+`User ScreenName:` DarrenH30021956 
+ 
+`User chosen Name:` Darren Harrison 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 25 14:57:29 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `15 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:` California, USA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332132817510207489/U2AkJT6E_normal.jpg 
+ 
+`Number of tweets excluding replies:` 336 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 23 , **ELECTION** 16 , **STATE** 10 , **US** 10 , **PEOPLE** 9 , **@LLINWOOD:** 9 , **PENNSYLVANIA** 9 , **PRESIDENT** 8 , **JOE** 8 , **NEW** 8 , **BIDEN** 8 , **GEORGIA** 7 , **VOTING** 7 , **COURT** 7 , **SAY** 6 , **@REALDONALDTRUMP** 6 , **DOMINION** 6 , **MAY** 6 , **@EPOCHTIMES:** 6 , **SUPREME** 6 , 
+ 
+## What this user tweeted
+ 
+RT @martingeddes: I'm not an infosec specialist, but I am a bona fide high profile IT expert. That voting machines are potentially insecure…
+ 
+# jkehelwalaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1333012886457774084/ifyy2EwX_normal.jpg)
+ 
+`User ScreenName:` jkehelwala 
+ 
+`User chosen Name:` Janani Kehelwala 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 29 11:40:02 +0000 2020 
+ 
+`User Description?:` Existentialist, Researcher, Poet, Nuisance 
+ 
+`Followers?: `1 
+ 
+`Following?:` 14 
+ 
+`User URL?:` https://t.co/sCr8YO92gf 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1333012886457774084/ifyy2EwX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**•** 3 , **@SWIFTONSECURITY:** 3 , **WORLD** 3 , **@KYLEPLANTEMOJI:** 3 , **@INFOSECMEMES_:** 2 , **SAYING** 2 , **BUG** 2 , **VERSION** 2 , **FRIENDS** 2 , **START** 2 , **DOES** 2 , **CAN'T** 2 , **THEN** 2 , **⚪️** 2 , **RT** 1 , **BOUNTIES:** 1 , **VAGUE** 1 , **BORING** 1 , **COULD** 1 , **EXTERMINATOR** 1 , 
+ 
+## What this user tweeted
+ 
+RT @InfosecMemes_: Saying you do bug bounties:
+
+• Vague
+• Boring
+• Could be an exterminator
+
+Saying you're like an InfoSec version of the M…RT @TheHive_Project: Minor version bump but big improvements: discover useful new features and shiny UI enhancements with our fresh release…
+ 
+# VladVoronov6USER INFO
+![image](http://pbs.twimg.com/profile_images/1332986714269261827/sQoWsrgC_normal.jpg)
+ 
+`User ScreenName:` VladVoronov6 
+ 
+`User chosen Name:` Vlad Voronov 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 29 09:29:03 +0000 2020 
+ 
+`User Description?:` Pentester. Cybersec Specialist. Just a man who loves the life. 
+ 
+`Followers?: `5 
+ 
+`Following?:` 65 
+ 
+`User URL?:` None 
+ 
+`Location:` LA 
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332986714269261827/sQoWsrgC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GAME** 4 , **I'M** 3 , **PRACTICE** 3 , **@MALWAREUNICORN:** 2 , **2021** 2 , **GOING** 2 , **DEV** 2 , **RT** 1 , **@KENSHIRRIFF:** 1 , **STARTED:** 1 , **GOING:** 1 , **HTTPS://TCO/R5BPCH1AOQRT** 1 , **@FOX0X01:** 1 , **STILL** 1 , **GETTING** 1 , **MANY** 1 , **DMS** 1 , **ASKING** 1 , **LEARN** 1 , **ARM** 1 , 
+ 
+## What this user tweeted
+ 
+RT @malwareunicorn: I’ve been in the planning phase of building my game. Learning game dev is just like infosec, the deeper you go the more…
+ 
+# Hopkins17761USER INFO
+![image](http://pbs.twimg.com/profile_images/1332167407088132097/WylAq2GJ_normal.jpg)
+ 
+`User ScreenName:` Hopkins17761 
+ 
+`User chosen Name:` Hopkins1776 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 26 21:19:55 +0000 2020 
+ 
+`User Description?:` Love my God, Country, Family!  "I have not yet begun to fight", Captain John Paul Jones.  MAGA!  Trump 2020!!!  Never give up!!!!! 
+ 
+`Followers?: `81 
+ 
+`Following?:` 240 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332167407088132097/WylAq2GJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 524 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 17 , **ELECTION** 17 , **TRUMP** 16 , **PRESIDENT** 12 , **STATE** 9 , **BIDEN** 9 , **@REALDONALDTRUMP** 8 , **VOTING** 8 , **DOMINION** 8 , **VERY** 7 , **@LLINWOOD:** 7 , **PLEASE** 7 , **US** 7 , **MEDIA** 6 , **JOE** 6 , **@DOUGMASTRIANO:** 6 , **FRAUD** 5 , **1** 5 , **WENT** 5 , **2020** 5 , 
+ 
+## What this user tweeted
+ 
+RT @martingeddes: I'm not an infosec specialist, but I am a bona fide high profile IT expert. That voting machines are potentially insecure…
+ 
+# ErikPrince16USER INFO
+![image](http://pbs.twimg.com/profile_images/1332495898367168514/Dj2slAOR_normal.png)
+ 
+`User ScreenName:` ErikPrince16 
+ 
+`User chosen Name:` Erik Prince 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Nov 28 01:23:45 +0000 2020 
+ 
+`User Description?:` ~Private Security & Intelligence For D.J.T~
+~Special Forces ~NSA~US Consulate General~ 
+ 
+`Followers?: `104 
+ 
+`Following?:` 181 
+ 
+`User URL?:` https://t.co/mVHOxzYUNT 
+ 
+`Location:` Washington D.C. 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332495898367168514/Dj2slAOR_normal.png 
+ 
+`Number of tweets excluding replies:` 491 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 23 , **@LLINWOOD:** 22 , **ELECTION** 16 , **PRESIDENT** 14 , **BIDEN** 12 , **PEOPLE** 10 , **VOTES** 9 , **GA** 8 , **MACHINES** 7 , **MOST** 7 , **GOING** 7 , **FRAUD** 6 , **DEMOCRATS** 6 , **PATRIOTS** 6 , **STATE** 6 , **US** 6 , **STILL** 6 , **GOT** 6 , **SAME** 6 , **MILLION** 6 , 
+ 
+## What this user tweeted
+ 
+RT @martingeddes: I'm not an infosec specialist, but I am a bona fide high profile IT expert. That voting machines are potentially insecure…
+ 
+# MaryJoh97085763USER INFO
+![image](http://pbs.twimg.com/profile_images/1330980286239178752/AtXyv1N4_normal.jpg)
+ 
+`User ScreenName:` MaryJoh97085763 
+ 
+`User chosen Name:` Mary Johnson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 22 00:49:02 +0000 2020 
+ 
+`User Description?:` Free thinker.  USA. 
+ 
+`Followers?: `49 
+ 
+`Following?:` 112 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1330980286239178752/AtXyv1N4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 332 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 14 , **BIDEN** 11 , **DON’T** 10 , **ELECTION** 9 , **I'M** 8 , **DEMOCRATS** 8 , **@DINESHDSOUZA:** 8 , **MEDIA** 7 , **PEOPLE** 7 , **GOOD** 7 , **@SCOTTBAIO** 7 , **NEVER** 6 , **US** 6 , **@SIDNEYPOWELL1** 6 , **@CAROLMSWAIN:** 6 , **@ALYSSA_MILANO** 6 , **FIRST** 6 , **LOVE** 6 , **EVIDENCE** 6 , **FREE** 6 , 
+ 
+## What this user tweeted
+ 
+RT @martingeddes: I'm not an infosec specialist, but I am a bona fide high profile IT expert. That voting machines are potentially insecure…
+ 
+# DeplorableNews4USER INFO
+![image](http://pbs.twimg.com/profile_images/1331408275116486656/7WVp6jMO_normal.jpg)
+ 
+`User ScreenName:` DeplorableNews4 
+ 
+`User chosen Name:` DeplorableNews 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 25 01:06:35 +0000 2020 
+ 
+`User Description?:` Here for the party. 
+ 
+`Followers?: `60 
+ 
+`Following?:` 678 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1331408275116486656/7WVp6jMO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1509 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@LLINWOOD:** 24 , **@REALDONALDTRUMP** 15 , **ELECTION** 14 , **@LLINWOOD** 14 , **US** 14 , **GEORGIA** 12 , **STATE** 11 , **18** 11 , **BALLOTS** 11 , **@BRIANKEMPGA** 10 , **VOTING** 10 , **GA** 10 , **CODE** 10 , **§** 10 , **MACHINES** 10 , **@SIDNEYPOWELL1** 9 , **ORDER** 9 , **JUDGE** 8 , **DOMINION** 8 , **PRESIDENT** 8 , 
+ 
+## What this user tweeted
+ 
+RT @martingeddes: I'm not an infosec specialist, but I am a bona fide high profile IT expert. That voting machines are potentially insecure…
+ 
+# STbeileUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` STbeile 
+ 
+`User chosen Name:` SammyTbeile 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Nov 27 13:57:43 +0000 2020 
+ 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 45 
+`Following?:` 19 
  
 `User URL?:` None 
  
@@ -98,7 +421,7 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJ
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
 `Number of tweets excluding replies:` 1 
  
@@ -108,38 +431,38 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJ
  
 ## User Top tweeted words 
  
-**COBALTSTRIKE** 2 , **HOSTS** 1 , **LAST** 1 , **SEEN** 1 , **NOVEMBER** 1 , **2020** 1 , **HTTPS://TCO/NCE1DCN2RS** 1 , **IOCS** 1 , **THREATINTEL** 1 , 
+**@ALYSSAM_INFOSEC** 1 , **PRETTY** 1 , **FREQUENTLY** 1 , **INTERVIEWS** 1 , **LARGER** 1 , **COMPANIES** 1 , 
  
 ## What this user tweeted
  
-CobaltStrike hosts last seen in November 2020 https://t.co/nCe1DCN2RS #cobaltstrike #iocs #ThreatIntel
+@AlyssaM_InfoSec Pretty frequently in interviews with larger companies
  
-# JennKnesekUSER INFO
-![image](http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg)
+# Greyhatcyberso1USER INFO
+![image](http://pbs.twimg.com/profile_images/1332783701529333760/1C0PS3DU_normal.jpg)
  
-`User ScreenName:` JennKnesek 
+`User ScreenName:` Greyhatcyberso1 
  
-`User chosen Name:` Jenn Knesek 
+`User chosen Name:` Grey-hat Cyber Solutions. 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 25 15:38:19 +0000 2020 
+`User signup date?:` Sat Nov 28 20:29:16 +0000 2020 
  
-`User Description?:` Account Executive @ZintelPR Follow for Story Ideas #CyberSecurity #PR #PublicRelations 📧:Jennifer.Knesek@ZintelPR.com 
+`User Description?:` #1 Crowd sourced sec platform in Africa that seeks to promote VDP | VRP | BUG BOUNTY | BUG HUNTING SCOPES | CONCEPTS across the African Landscape. 
  
-`Followers?: `15 
+`Followers?: `4 
  
-`Following?:` 199 
+`Following?:` 0 
  
-`User URL?:` https://t.co/lGq4TsQjFw 
+`User URL?:` None 
  
-`Location:` Houston, TX 
+`Location:`  
  
-`Number of tweets extracted`  : 19 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1332783701529333760/1C0PS3DU_normal.jpg 
  
-`Number of tweets excluding replies:` 19 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -147,11 +470,15 @@ CobaltStrike hosts last seen in November 2020 https://t.co/nCe1DCN2RS #cobaltstr
  
 ## User Top tweeted words 
  
-**RANSOMWARE** 5 , **TECH** 3 , **CYBERATTACKS** 3 , **CYBERSECURITY** 3 , **IMPORTANT** 2 , **CYBERSECURITYAWARENESSMONTH** 2 , **HEALTHCARE** 2 , **MANY** 2 , **TARGET** 2 , **RT** 1 , **@RTEHRANI:** 1 , **HERE'S** 1 , **LONDON'S** 1 , **USED** 1 , **FIRE** 1 , **HOSES** 1 , **RECYCLED** 1 , **INTO** 1 , **ACCESSORIES** 1 , **HTTPS://TCO/YTCHCCVSL3RT** 1 , 
+**BUGBOUNTYTIPS** 2 , **INFOSEC** 2 , **ETHICALHACKING** 2 , **READ** 1 , **UP!!!** 1 , **BUGBOUNTY** 1 , **HACKING** 1 , **HACKERS** 1 , **HTTPS://TCO/PF4MV6PHJBIMAGEMAGICK** 1 , **SHELL** 1 , **INJECTION** 1 , **VIA** 1 , **PDF** 1 , **PASSWORD!!** 1 , **HACKING…** 1 , **HTTPS://TCO/LPGMHGCMJX** 1 , 
  
 ## What this user tweeted
  
-RT @DarkReading: How Ransomware Defense is Evolving With Ransomware Attacks https://t.co/ZXIdY8if4M by @JoanGoodchild #ransomware #datathef…
+Read up!!!
+#BugBounty #bugbountytips  #infosec #Hacking #hackers #ethicalhacking 
+https://t.co/Pf4mV6pHJBImageMagick - Shell injection via PDF password!!
+
+#bugbountytips #infosec #ethicalhacking #Hacking… https://t.co/LpGmhgCmJX
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
