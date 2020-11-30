@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **ericgarland**  
+The most popular user is: **FireEye**  
  
 
-## Trump’s first overseas meeting was to Riyadh on May 20 2017 to sign the largest arms deal in world history with Sau… https://t.co/Sm9RRzegbG 
+## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **ericgarland**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Paula_Piccard: Two in Five Home Workers Vulnerable to Cyber-Attacks#cybersecurity #remotework #riskmanagement #phishing #malware #Inf… |
-| More positive signs on the international climate policy front. United Arab Emirates, the 6th largest oil exporter,… https://t.co/MidVGy9Mmj |
-| RT @CioAmaro: Security in a connected home by digital guardian #Infographic [ @CioAmaro ] #Infosec #CyberSecurity #CyberAttack #Hack #Brea… |
+| RT @bad_packets: Mass scanning activity detected from 37.187.139.22 (🇫🇷) targeting Fortinet VPN servers vulnerable to unauthenticated arbit… |
+| RT @FireEye: #MandiantAdvantage puts our #threatintel into the hands of our customers. Hear the other reasons we're excited about our new… |
+| RT @JinibaBD: Who stole my data? #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreaches #cybercrime #cybersec #ThreatIntel #da… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **biannagolodryga** |
-| #2 Most tweeted to  | **60Minutes** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 2.76%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 0.09%  |
+| Tweeters with < 10 followers  | 1.83%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,137 +50,57 @@ The most popular user is: **ericgarland**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ELECTION**  |
-| second  | **EVIDENCE**  |
-| third  | **SECURE** |
-| fourth  | **PRESIDENT**  |
-| fifth  | **CREDIT**  |
+| first  | **OSINT**  |
+| second  | **HACKERS**  |
+| third  | **CYBERTHREATS** |
+| fourth  | **@JINIBABD:**  |
+| fifth  | **DARKWEB**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @biannagolodryga: Sen. Blunt on election security: “The system was more secure, the President deserves credit for that, The DHS.” The P… |
+|RT @JinibaBD: E-Land hit by ransomware attack as McAfee warns retailers of more to come  #CyberSecurity #osint #cyberthreats #hackers #dark… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ericgarland**  |
+| The most retweeted user is: **FireEye**  |
 | ------------- |
-| Trump’s first overseas meeting was to Riyadh on May 20 2017 to sign the largest arms deal in world history with Sau… https://t.co/Sm9RRzegbG |
+| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
 
 # Potential Fake Accounts
  
-# Chapter1115USER INFO
-![image](http://pbs.twimg.com/profile_images/1331074573819895808/IFKnPgnm_normal.jpg)
+# binbash84171135USER INFO
+![image](http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg)
  
-`User ScreenName:` Chapter1115 
+`User ScreenName:` binbash84171135 
  
-`User chosen Name:` Chapter 11 
+`User chosen Name:` #!/bin/bash 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Nov 20 20:30:16 +0000 2020 
+`User signup date?:` Thu Nov 26 22:58:51 +0000 2020 
  
-`User Description?:` Cybersecurity analyst 
+`User Description?:` Security tinkerer, I am good at googling and some Bash scripting 
  
 `Followers?: `0 
  
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:` Montréal, Québec 
- 
-`Number of tweets extracted`  : 88 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1331074573819895808/IFKnPgnm_normal.jpg 
- 
-`Number of tweets excluding replies:` 88 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REALDONALDTRUMP** 17 , **TRUMP** 9 , **@NYTIMES** 7 , **MILLION** 7 , **GOT** 6 , **DEMS** 6 , **@ROGUECHICO1** 5 , **TIME** 5 , **TOO** 5 , **@PELE** 5 , **MEAN** 4 , **TWITTER** 4 , **CHEATED** 4 , **COURSE** 4 , **DON'T** 4 , **SENT** 4 , **FRENCH** 4 , **!** 4 , **@OANN** 3 , **PA** 3 , 
- 
-## What this user tweeted
- 
-@jonathonadams30 @OANN There was fraud . Cybersecurity experts found anomalies in the PA election as well as mathem… https://t.co/PKgiQ8iing
- 
-# TrumpTheTraito6USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` TrumpTheTraito6 
- 
-`User chosen Name:` Trump_The_Traitor 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 26 21:20:39 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 0 
+`Following?:` 45 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 152 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg 
  
-`Number of tweets excluding replies:` 152 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REALDONALDTRUMP** 119 , **DIAPERDON** 39 , **TRUMP** 32 , **I'M** 17 , **MAN** 16 , **SURE** 15 , **@FOXNEWS** 14 , **YOU'RE** 14 , **@MARIABARTIROMO** 12 , **PRETTY** 12 , **GOD** 12 , **HAPPY** 12 , **INVOKING** 12 , **NAME** 12 , **DIAPERDONALD** 11 , **LOST** 11 , **REAL** 8 , **PEOPLE** 8 , **FRAUD** 8 , **SAY** 7 , 
- 
-## What this user tweeted
- 
-@JimLukowicz @realDonaldTrump Media: No evidence of fraud.
-Politicians: No evidence of fraud.
-Legal experts: No evi… https://t.co/lwWm0AE2zA
- 
-# jenspen87USER INFO
-![image](http://pbs.twimg.com/profile_images/1332912068912144385/oszm2UT3_normal.jpg)
- 
-`User ScreenName:` jenspen87 
- 
-`User chosen Name:` Jennifer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 28 18:54:13 +0000 2020 
- 
-`User Description?:` Mom, wife, RN, Scorpio 
- 
-`Followers?: `7 
- 
-`Following?:` 146 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 61 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1332912068912144385/oszm2UT3_normal.jpg 
- 
-`Number of tweets excluding replies:` 61 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -188,279 +108,36 @@ Legal experts: No evi… https://t.co/lwWm0AE2zA
  
 ## User Top tweeted words 
  
-**GOOD** 9 , **BOY!** 9 , **TRUMP** 8 , **JOE** 6 , **ATTACKED** 6 , **DOG** 6 , **CHEATERS** 6 , **STATE** 6 , **@LLINWOOD:** 5 , **I’M** 5 , **@CNN** 5 , **PENNSYLVANIA** 4 , **@REALDONALDTRUMP** 4 , **NEVER** 4 , **2020** 4 , **COURT** 4 , **GA** 3 , **BIDEN** 3 , **MAJOR** 3 , **PATRIOT!** 3 , 
+**COBALTSTRIKE** 2 , **HOSTS** 1 , **LAST** 1 , **SEEN** 1 , **NOVEMBER** 1 , **2020** 1 , **HTTPS://TCO/NCE1DCN2RS** 1 , **IOCS** 1 , **THREATINTEL** 1 , 
  
 ## What this user tweeted
  
-RT @news_ntd: “Our experts and other academics believe that up to 1.2 million Pennsylvania votes could have been altered or fraudulent,”
-
-S…
+CobaltStrike hosts last seen in November 2020 https://t.co/nCe1DCN2RS #cobaltstrike #iocs #ThreatIntel
  
-# LightOrithmUSER INFO
-![image](http://pbs.twimg.com/profile_images/1331677898672136192/A2yfpUWn_normal.jpg)
+# JennKnesekUSER INFO
+![image](http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg)
  
-`User ScreenName:` LightOrithm 
+`User ScreenName:` JennKnesek 
  
-`User chosen Name:` MB 
+`User chosen Name:` Jenn Knesek 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 25 19:13:49 +0000 2020 
+`User signup date?:` Wed Nov 25 15:38:19 +0000 2020 
  
-`User Description?:` Currently Studying Heath's Practical Ethical Hacker Course @TheCyberMentor 👨‍💻 23% Completed, Future #EthicalHacker + Learning as we go along. #CyberSec #THM 
+`User Description?:` Account Executive @ZintelPR Follow for Story Ideas #CyberSecurity #PR #PublicRelations 📧:Jennifer.Knesek@ZintelPR.com 
  
-`Followers?: `17 
+`Followers?: `15 
  
-`Following?:` 40 
+`Following?:` 199 
  
-`User URL?:` None 
+`User URL?:` https://t.co/lGq4TsQjFw 
  
-`Location:` United Kingdom 
- 
-`Number of tweets extracted`  : 66 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1331677898672136192/A2yfpUWn_normal.jpg 
- 
-`Number of tweets excluding replies:` 66 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REALTRYHACKME** 12 , **ETHICAL** 8 , **STARTING** 6 , **@TCMSECURITY** 6 , **I'M** 6 , **COURSE** 5 , **TIER** 5 , **~** 4 , **1** 4 , **2** 4 , **3** 4 , **TRYHACKME** 4 , **ROOMS** 4 , **HACKERS** 4 , **LEVEL** 3 , **CYBERSECURITY** 3 , **HANDY** 3 , **🤣** 3 , **CTF'S** 3 , **HACKER** 3 , 
- 
-## What this user tweeted
- 
-29% Done ~ Starting #Kioptrix Level 1 
-
-Anybody used Kioptrix? 
-
-#CyberSecurity #KaliLinux #EthicalHacker
- 
-# LRMO1960USER INFO
-![image](http://pbs.twimg.com/profile_images/1330076898316214273/FGY02uLB_normal.jpg)
- 
-`User ScreenName:` LRMO1960 
- 
-`User chosen Name:` L.R.M.O. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 21 09:11:19 +0000 2020 
- 
-`User Description?:` Patriot - Do not be afraid - Justice & Truth shall make us free. 
- 
-`Followers?: `19 
- 
-`Following?:` 448 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1330076898316214273/FGY02uLB_normal.jpg 
- 
-`Number of tweets excluding replies:` 1091 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LLINWOOD:** 22 , **ELECTION** 20 , **TRUMP** 20 , **@KYLENABECKER:** 15 , **COURT** 11 , **PENNSYLVANIA** 11 , **@REALDONALDTRUMP:** 11 , **BIDEN** 9 , **PRESIDENT** 9 , **MANY** 9 , **@JENNAELLISESQ:** 9 , **VOTES** 9 , **@MAJORPATRIOT:** 9 , **@REALDONALDTRUMP** 8 , **VOTE** 8 , **THAN** 8 , **2020** 8 , **FRAUD** 8 , **VOTING** 8 , **MACHINES** 7 , 
- 
-## What this user tweeted
- 
-RT @EpochTimes: CyberSecurity expert and retired @USArmy Colonel #PhilWaldron said that the voting systems in #Pennsylvania and elsewhere i…
- 
-# monty_barrUSER INFO
-![image](http://pbs.twimg.com/profile_images/1332095331593560067/mLWJdJyS_normal.jpg)
- 
-`User ScreenName:` monty_barr 
- 
-`User chosen Name:` Monty Barr 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 26 22:50:57 +0000 2020 
- 
-`User Description?:` A man who stands for nothing will fall for anything.
-— Malcolm X 
- 
-`Followers?: `2 
- 
-`Following?:` 73 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 116 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1332095331593560067/mLWJdJyS_normal.jpg 
- 
-`Number of tweets excluding replies:` 116 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REALDONALDTRUMP** 23 , **MAN** 8 , **@OANN** 8 , **TRUMP** 7 , **@MEHDIRHASAN:** 7 , **PEOPLE** 6 , **PRESIDENT** 6 , **MR** 6 , **MILLION** 5 , **TIME** 5 , **OFF** 5 , **BLACK** 5 , **GOOD** 5 , **VOTES** 5 , **ENOUGH** 4 , **GOT** 4 , **@WALTSHAUB:** 4 , **@FOXNEWS** 4 , **NEVER** 4 , **WORK** 4 , 
- 
-## What this user tweeted
- 
-@Myrnastwit @daveweigel According to all the court rulings so far, the director of elections Cybersecurity, and the… https://t.co/x5rihomSie
- 
-# Rob75465189USER INFO
-![image](http://pbs.twimg.com/profile_images/1331558797358272518/iZWZp6j4_normal.jpg)
- 
-`User ScreenName:` Rob75465189 
- 
-`User chosen Name:` Rob 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Nov 24 11:51:48 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 69 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 137 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1331558797358272518/iZWZp6j4_normal.jpg 
- 
-`Number of tweets excluding replies:` 137 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 36 , **HET** 27 , **IK** 23 , **DAT** 16 , **@BARTNIJMAN** 15 , **JE** 14 , **DIE** 13 , **ER** 13 , **EEN** 13 , **VAN** 12 , **NIET** 10 , **NOG** 10 , **OP** 9 , **DAN** 8 , **ZIJN** 8 , **EN** 8 , **ZE** 8 , **@THIERRYBAUDET** 8 , **WAT** 7 , **@JOOSTNIEMOLLER** 7 , 
- 
-## What this user tweeted
- 
-@JagerTwee @eelcobvr De New York Times over hem: Navid Keshavarz-Nia, those who worked with him said, "was always t… https://t.co/UF2ihT1WLh
- 
-# anncoombs10USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` anncoombs10 
- 
-`User chosen Name:` ann coombs 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Nov 20 08:06:04 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 120 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 74 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 74 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 10 , **@REALDONALDTRUMP** 10 , **PRESIDENT** 8 , **BIDEN** 7 , **DONALD** 6 , **@DONWINSLOW:** 5 , **U** 5 , **GEORGIA** 5 , **THAN** 4 , **@ELECTROBOYUSA:** 4 , **VERY** 4 , **ELECT** 4 , **HE’S** 4 , **@OANN** 4 , **LOST** 4 , **HELP** 4 , **TWICE** 4 , **AGO** 3 , **PEOPLE** 3 , **TIME** 3 , 
- 
-## What this user tweeted
- 
-RT @biannagolodryga: Sen. Blunt on election security: “The system was more secure, the President deserves credit for that, The DHS.” 
-The P…
- 
-# brooke_chapman7USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` brooke_chapman7 
- 
-`User chosen Name:` Brooke Chapman 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 25 21:39:16 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 41 
- 
-`User URL?:` None 
- 
-`Location:` United States 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 581 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DIAPERDONALD** 57 , **TRUMP** 36 , **DIAPERDON** 26 , **TRENDING** 14 , **ELECTION** 11 , **RECOUNT** 11 , **DIAPERDONRT** 10 , **@REALDONALDTRUMP** 10 , **GORSUCH** 10 , **BIDEN** 8 , **PRESIDENT** 8 , **THAN** 7 , **WISCONSIN** 6 , **CAMPAIGN** 6 , **COURT** 6 , **BARTIROMO** 6 , **MAKE** 6 , **JON** 6 , **VOIGHT** 6 , **MILWAUKEE** 6 , 
- 
-## What this user tweeted
- 
-RT @biannagolodryga: Sen. Blunt on election security: “The system was more secure, the President deserves credit for that, The DHS.” 
-The P…
- 
-# Jakesta43556976USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Jakesta43556976 
- 
-`User chosen Name:` Jake state 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Nov 29 16:31:51 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
+`Location:` Houston, TX 
  
 `Number of tweets extracted`  : 19 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg 
  
 `Number of tweets excluding replies:` 19 
  
@@ -470,179 +147,11 @@ The P…
  
 ## User Top tweeted words 
  
-**@REALDONALDTRUMP** 6 , **WAKE** 3 , **EVIDENCE** 3 , **FRAUD** 3 , **AMERICANS** 2 , **267885** 2 , **UP!** 2 , **LOOK** 2 , **FORWARD** 2 , **@FOXNEWS** 2 , **NEED** 2 , **JAN** 2 , **20** 2 , **HERE** 2 , **ITS** 2 , **PEOPLE** 2 , **@JOEBIDEN** 2 , **80** 2 , **MILLION** 2 , **RT** 1 , 
+**RANSOMWARE** 5 , **TECH** 3 , **CYBERATTACKS** 3 , **CYBERSECURITY** 3 , **IMPORTANT** 2 , **CYBERSECURITYAWARENESSMONTH** 2 , **HEALTHCARE** 2 , **MANY** 2 , **TARGET** 2 , **RT** 1 , **@RTEHRANI:** 1 , **HERE'S** 1 , **LONDON'S** 1 , **USED** 1 , **FIRE** 1 , **HOSES** 1 , **RECYCLED** 1 , **INTO** 1 , **ACCESSORIES** 1 , **HTTPS://TCO/YTCHCCVSL3RT** 1 , 
  
 ## What this user tweeted
  
-RT @mike_wanaoni: @realDonaldTrump Media: No evidence of fraud.
-Politicians: No evidence of fraud.
-Legal experts: No evidence of fraud.
-Ele…
- 
-# WilliamBTurner5USER INFO
-![image](http://pbs.twimg.com/profile_images/1331405976768040962/87F8qDle_normal.png)
- 
-`User ScreenName:` WilliamBTurner5 
- 
-`User chosen Name:` The GOP Will Not Govern 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 25 01:14:31 +0000 2020 
- 
-`User Description?:` Ph.D., J.D., relentless critic of Republican malfeasance and perfidy.  The GOP Will Not Govern.  Book on Amazon. 
- 
-`Followers?: `14 
- 
-`Following?:` 65 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1331405976768040962/87F8qDle_normal.png 
- 
-`Number of tweets excluding replies:` 1794 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WILLIAMBTURNER5:** 48 , **TRUMP** 29 , **PEOPLE** 13 , **GOING** 10 , **@MKRAJU** 10 , **@PWNALLTHETHINGS** 10 , **YOU'RE** 9 , **PARTY** 9 , **I'M** 9 , **CHRISTIANITY** 9 , **REALLY** 9 , **ELECTION** 8 , **@TODDSTARNES** 8 , **@RMFIFTHCIRCUIT** 8 , **IDEA** 8 , **PRESIDENT** 7 , **REPUBLICANS** 7 , **WHERE** 7 , **SAY** 7 , **NICE** 7 , 
- 
-## What this user tweeted
- 
-RT @biannagolodryga: Sen. Blunt on election security: “The system was more secure, the President deserves credit for that, The DHS.” 
-The P…
- 
-# cysecstepsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1332416945853931521/9mHW4SEF_normal.jpg)
- 
-`User ScreenName:` cysecsteps 
- 
-`User chosen Name:` Cyber Security Steps 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Nov 27 19:52:35 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/MheLddWtbO 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1332416945853931521/9mHW4SEF_normal.jpg 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBER** 4 , **CYBERSECURITY** 3 , **SECURITY?** 2 , **CYSECSTEPS** 2 , **:** 2 , **SYSTEMS** 2 , **SECURITY** 2 , **WEBSITE** 1 , **HTTPS://TCO/7B7GYQ4NW6** 1 , **GO** 1 , **ONLINE** 1 , **SOON** 1 , **HTTPS://TCO/JX2MHF37KQWHY** 1 , **STUDY** 1 , **HTTPS://TCO/NUWYHITIZ6** 1 , **HTTPS://TCO/KXVQG4B7YMSOURCE** 1 , **HTTPS://TCO/U7MQ0SP6HK** 1 , **PARALYZE** 1 , **MAKING** 1 , **DATA** 1 , 
- 
-## What this user tweeted
- 
-Why Study Cyber Security?
-
-https://t.co/nuWyHiTIZ6
-
-#cybersecurity #cysecsteps https://t.co/kXVqg4B7yMHow does cyber security affect us?
-#cybersecurity #cysecstepsWhat is cyber security?
-#cybersecurity #cysecsteps
- 
-# _sajidhasan_USER INFO
-![image](http://pbs.twimg.com/profile_images/1330721928231804928/CGZ-iXbN_normal.jpg)
- 
-`User ScreenName:` _sajidhasan_ 
- 
-`User chosen Name:` Sajid Hasan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 23 03:41:06 +0000 2020 
- 
-`User Description?:` Hay! I'm Sajid. 
-
-I'm a certified cybersecurity specialist and web developer. 
- 
-`Followers?: `61 
- 
-`Following?:` 183 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1330721928231804928/CGZ-iXbN_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURE** 9 , **SECURITY** 9 , **WORDPRESS** 9 , **MALWARE_REMOVE** 9 , **WEBSECURITY** 8 , **CYBERATTACK** 8 , **CYBER** 8 , **MALWARE…** 8 , **CYBERSECURITY** 1 , **HTTPS://TCO/LDTFDB9TMZCYBERSECURITY** 1 , **HTTPS://TCO/MHTCJ68MHSCYBERSECURITY** 1 , **HTTPS://TCO/03GBLVB7C3CYBERSECURITY** 1 , **HTTPS://TCO/YRX8TDR2WICYBERSECURITY** 1 , **HTTPS://TCO/8P077EVEOVCYBERSECURITY** 1 , **HTTPS://TCO/NZ3WQLLMJMCYBERSECURITY** 1 , **HTTPS://TCO/WFDSJ0I9FACYBERSECURITY** 1 , **HTTPS://TCO/W3RIE9DP2OCYBERSECURITY** 1 , **ORDER** 1 , **/** 1 , **SERVICES** 1 , 
- 
-## What this user tweeted
- 
-#cybersecurity #cybersecure #security #WordPress #malware_remove #websecurity #CyberAttack #cyber #Malware… https://t.co/LDtfDB9tMZ
- 
-# Ali46204086USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Ali46204086 
- 
-`User chosen Name:` Ali 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Nov 20 14:43:36 +0000 2020 
- 
-`User Description?:` Friends 
- 
-`Followers?: `0 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SIR** 9 , **HELP** 6 , **JOB** 5 , **HI** 4 , **@CNNNEWS18** 3 , **@HARPIC_INDIA** 3 , **LEAST** 3 , **JOBLESS** 3 , **PLEASE** 3 , **BEING** 2 , **SOFTWARE** 2 , **ENGINEER** 2 , **PLEASE@AKSHAYKUMAR** 2 , **@WIPRO** 1 , **WORK** 1 , **CYBERSECURITY** 1 , **ME@AAMIR_KHAN** 1 , **@ARUN2247** 1 , **REQUEST** 1 , **TOWARDS** 1 , 
- 
-## What this user tweeted
- 
-@Wipro I want to work in cybersecurity can you help me.
+RT @DarkReading: How Ransomware Defense is Evolving With Ransomware Attacks https://t.co/ZXIdY8if4M by @JoanGoodchild #ransomware #datathef…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
