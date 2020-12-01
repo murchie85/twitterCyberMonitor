@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **tribelaw**  
+The most popular user is: **drdavidsamadi**  
  
 
-## Trump just “terminated” Chris Krebs, the Cybersecurity and Infrastructure Security Agency director. By tweet, of co… https://t.co/AeuwKmKnzS 
+## 33,772,990 people around the world have gotten COVID-19 and recovered from it.
+
+The media doesn’t want you to know… https://t.co/fxL9vQolcN 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **tribelaw**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Reputenet: The UK government will set up Digital Markets Unit to oversee a pro-competition regime for all platforms.The Unit will sub… |
-| RT @BillKristol: 🔥🔥🔥This is President Trump’s campaign lawyer. Is this incitement to violence ok, Mr. President? Is it ok, DHS chief Wolf… |
-| RT @politico: An attorney for President Trump’s reelection efforts said on Monday that Chris Krebs, the former head of U.S. cybersecurity,… |
+| @Infosec_Taylor Thank youuu!! |
+| RT @Petit_Poutin: @shehackspurple Hi I work already on infosec but I need someone who would like to review my English resume #CyberMentorin… |
+| RT @corelight_inc: We've substantially expanded our Threat Hunting Guide! Organized around the @MITREattack framework, it's designed to hel… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **donwinslow** |
-| #2 Most tweeted to  | **politico** |
-| #3 Most tweeted to  | **BillKristol** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 3.48%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **AlyssaM_InfoSec** |
+| #2 Most tweeted to  | **reach2ratan** |
+| #3 Most tweeted to  | **Infosec_Taylor** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 1.56%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,97 +52,57 @@ The most popular user is: **tribelaw**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LAWYER**  |
-| second  | **TRUMP**  |
-| third  | **KREBS** |
-| fourth  | **DAWN**  |
-| fifth  | **FORMER**  |
+| first  | **INFOSEC**  |
+| second  | **MALWARE**  |
+| third  | **HACKERS** |
+| fourth  | **PHISHING**  |
+| fifth  | **HACKING**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (61.54%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @donwinslow: Um...Trump's lawyer should be disbarred for this conduct.Trump Lawyer Says Krebs Should Be ‘Taken Out at Dawn and Shot’ f… |
+|@AlyssaM_InfoSec @blackroomsec We all know Twitter sometimes isn't the nicest place to hang around, and there are m… https://t.co/WCiCgGUMQB |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tribelaw**  |
+| The most retweeted user is: **drdavidsamadi**  |
 | ------------- |
-| Trump just “terminated” Chris Krebs, the Cybersecurity and Infrastructure Security Agency director. By tweet, of co… https://t.co/AeuwKmKnzS |
+| 33,772,990 people around the world have gotten COVID-19 and recovered from it.The media doesn’t want you to know… https://t.co/fxL9vQolcN |
 
 # Potential Fake Accounts
  
-# BlueDogFan12USER INFO
-![image](http://pbs.twimg.com/profile_images/1331649047770374150/d5JszhvP_normal.jpg)
+# bugbountynotesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1332313047075983361/Gt3iFgyU_normal.jpg)
  
-`User ScreenName:` BlueDogFan12 
+`User ScreenName:` bugbountynotes 
  
-`User chosen Name:` Proud Blue Dog Democrat 
+`User chosen Name:` BugBountyNotes 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 25 04:43:32 +0000 2020 
+`User signup date?:` Thu Nov 26 14:38:39 +0000 2020 
  
-`User Description?:` Heat fan Edwards Democrat #NeverTrumpism #ProLife Conservative Democrat partisans are idiots 
+`User Description?:` Bug Bounty Notes parody account. Back again from where we left. 
  
-`Followers?: `80 
+`Followers?: `81 
  
-`Following?:` 126 
+`Following?:` 52 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` #BugBounty 
  
-`Number of tweets extracted`  : 138 
+`Number of tweets extracted`  : 41 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1331649047770374150/d5JszhvP_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1332313047075983361/Gt3iFgyU_normal.jpg 
  
-`Number of tweets excluding replies:` 138 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 16 , **@HEATVSHATERS:** 6 , **REALLY** 6 , **@THEVALUESVOTER:** 6 , **PRESIDENT** 5 , **@MIAMIHEAT:** 5 , **GOING** 5 , **@40ACRESBUILT:** 5 , **I'M** 5 , **@STEAMTUG7:** 5 , **PEOPLE** 5 , **GOOD** 5 , **THANKSGIVING** 5 , **BIDEN** 4 , **NBA** 4 , **HEAT** 4 , **BABY** 4 , **BETTER** 4 , **THAN** 4 , **NEW** 4 , 
- 
-## What this user tweeted
- 
-RT @BillKristol: 🔥🔥🔥
-This is President Trump’s campaign lawyer. Is this incitement to violence ok, Mr. President? Is it ok, DHS chief Wolf…
- 
-# RandyRagsdale5USER INFO
-![image](http://pbs.twimg.com/profile_images/1332838310104985600/5i4PKUf-_normal.jpg)
- 
-`User ScreenName:` RandyRagsdale5 
- 
-`User chosen Name:` Randy Ragsdale 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 28 23:56:47 +0000 2020 
- 
-`User Description?:` WWE 🤛🏽🤜🏽 NBA 🙌🏽🏀 NFL🏈 Hip-Hop junkie 🎧 #TeamSashaBanks #BullsNation #Virgo 
- 
-`Followers?: `24 
- 
-`Following?:` 683 
- 
-`User URL?:` None 
- 
-`Location:` Philly 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1332838310104985600/5i4PKUf-_normal.jpg 
- 
-`Number of tweets excluding replies:` 506 
+`Number of tweets excluding replies:` 41 
  
 
  
@@ -148,132 +110,13 @@ This is President Trump’s campaign lawyer. Is this incitement to violence ok, 
  
 ## User Top tweeted words 
  
-**WWERAW** 13 , **GOOD** 13 , **WWERAWRT** 11 , **DON'T** 10 , **EAGLES** 9 , **@EAGLES:** 9 , **HE'S** 9 , **TRUMP** 8 , **FLYEAGLESFLY** 8 , **@WWE:** 8 , **SEAVSPHI** 8 , **MISS** 7 , **WRESTLING** 7 , **RAW** 7 , **BEST** 7 , **WOMEN'S** 7 , **FIRST** 6 , **GOT** 6 , **BEING** 6 , **TEAM** 6 , 
+**BUGBOUNTY** 22 , **BUGBOUNTYTIPS** 15 , **BUGBOUNTYTIP** 11 , **@BUGBOUNTYNOTES:** 9 , **CHEATSHEET** 8 , **@ZEROC00I** 6 , **INFOSEC** 5 , **FOLLOWERS** 4 , **COLLECTION** 4 , **RECON** 4 , **@HACKER0X01** 4 , **PARODY** 4 , **ENUMERATION** 4 , **PEOPLE** 3 , **ACCOUNT** 3 , **@OBHEDA12** 3 , **THANKS** 3 , **BUGBOUNTYHUNTER** 3 , **OSCP** 3 , **GIVE** 2 , 
  
 ## What this user tweeted
  
-RT @cenkuygur: A Trump lawyer just said Trump's former DHS Cybersecurity chief should be murdered. "Taken out at dawn and shot." Is there e…
- 
-# dubious034USER INFO
-![image](http://pbs.twimg.com/profile_images/1331045454847430659/wxnWJND7_normal.jpg)
- 
-`User ScreenName:` dubious034 
- 
-`User chosen Name:` dipshitific 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 23 22:10:34 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `10 
- 
-`Following?:` 253 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1331045454847430659/wxnWJND7_normal.jpg 
- 
-`Number of tweets excluding replies:` 500 
- 
+RT @bugbountynotes: The Ultimate Github dorks collection for recon #bugbounty #infosec
 
- 
-
- 
-## User Top tweeted words 
- 
-**NEERA** 26 , **TANDEN** 20 , **PEOPLE** 15 , **BIDEN** 15 , **@DAVIDSIROTA:** 11 , **BERNIE** 8 , **I'M** 8 , **@BOURGEOISALIEN:** 7 , **LOL** 7 , **BEING** 7 , **GOING** 7 , **JOE** 7 , **TRUMP** 6 , **EVEN** 6 , **SOME** 6 , **LEFT** 5 , **CAN'T** 5 , **@BRIEBRIEJOY:** 5 , **US** 5 , **THING** 5 , 
- 
-## What this user tweeted
- 
-RT @cenkuygur: A Trump lawyer just said Trump's former DHS Cybersecurity chief should be murdered. "Taken out at dawn and shot." Is there e…
- 
-# Sarasarabobara4USER INFO
-![image](http://pbs.twimg.com/profile_images/1332516655595884545/5CGpRF9A_normal.jpg)
- 
-`User ScreenName:` Sarasarabobara4 
- 
-`User chosen Name:` 🇨🇦 𝒮𝒽𝒶𝓇ℴ𝓃 🍁 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 28 02:48:03 +0000 2020 
- 
-`User Description?:` Had an account for many years and it was hacked. I WAS @sharonsaralynn Starting over. #BLM #BidenHarris2020 #Ally🌈 🌊🇨🇦👩‍🦽#MaskItOrCasket ❤️Animals 
- 
-`Followers?: `322 
- 
-`Following?:` 524 
- 
-`User URL?:` https://t.co/KnSw5xVSxk 
- 
-`Location:` Calgary, Alberta 
- 
-`Number of tweets extracted`  : 143 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1332516655595884545/5CGpRF9A_normal.jpg 
- 
-`Number of tweets excluding replies:` 143 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**I’M** 12 , **ACCOUNT** 11 , **TRUMP** 10 , **YEAR** 9 , **STOLEN** 8 , **UNDER** 7 , **YOURS** 7 , **FOLLOWER** 6 , **@SHARONSARALYNN** 6 , **2011** 6 , **(@** 6 , **HERE** 5 , **YES** 5 , **HAPPY** 5 , **DON’T** 4 , **YOURSELF** 4 , **MILLION** 4 , **COVID** 4 , **THAN** 4 , **GOOD** 4 , 
- 
-## What this user tweeted
- 
-RT @donwinslow: Um...Trump's lawyer should be disbarred for this conduct.
-
-Trump Lawyer Says Krebs Should Be ‘Taken Out at Dawn and Shot’ f…
- 
-# Natalie95270026USER INFO
-![image](http://pbs.twimg.com/profile_images/1331617735818809347/iVDWXaAX_normal.jpg)
- 
-`User ScreenName:` Natalie95270026 
- 
-`User chosen Name:` NatalieDay 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 25 13:27:01 +0000 2020 
- 
-`User Description?:` Not a Trumper - Truth not Lies 
- 
-`Followers?: `1 
- 
-`Following?:` 97 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1331617735818809347/iVDWXaAX_normal.jpg 
- 
-`Number of tweets excluding replies:` 305 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REALDONALDTRUMP** 32 , **DIAPERDON** 31 , **STOPTHESTUPID** 20 , **@TEAMTRUMP** 18 , **@POTUS** 15 , **@FLOTUS** 14 , **TRUMP** 14 , **@MEIDASTOUCH** 13 , **PEOPLE** 10 , **DON'T** 8 , **@MELANIATRUMP** 8 , **NEED** 8 , **NEEDS** 8 , **NOBODYLIKESKELLY** 8 , **BACK** 8 , **PRESIDENT** 7 , **@PROJECTLINCOLN** 7 , **GOING** 6 , **GEORGIA** 6 , **REALLY** 6 , 
- 
-## What this user tweeted
- 
-RT @donwinslow: Um...Trump's lawyer should be disbarred for this conduct.
-
-Trump Lawyer Says Krebs Should Be ‘Taken Out at Dawn and Shot’ f…
+made by @obheda12 https://t.co/fj1uPgwx3Q
  
 # technivorussUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1331848086336008192/RiRsVgu2_normal.jpg)
@@ -313,24 +156,67 @@ Trump Lawyer Says Krebs Should Be ‘Taken Out at Dawn and Shot’ f…
 ## What this user tweeted
  
 RT @CioAmaro: 4 types of cyberattacks - Straight Edge Technology, Inc. 
-#Infosec #CyberSecurity #CyberAttack #Hacking #Privacy #Threat #Mal…RT @AppsUnify: Top 10 Cybersecurity Tips for Small Businesses https://t.co/1Zr0BxJO9V #CyberSecurity #CyberAttack #Malware #Ransomware #App…
+#Infosec #CyberSecurity #CyberAttack #Hacking #Privacy #Threat #Mal…
  
-# OlleyAirUSER INFO
-![image](http://pbs.twimg.com/profile_images/1333490152958779396/hHDmnYiN_normal.jpg)
+# MiltoniousMACUSER INFO
+![image](http://pbs.twimg.com/profile_images/1332384968681476096/gWTTiw_7_normal.jpg)
  
-`User ScreenName:` OlleyAir 
+`User ScreenName:` MiltoniousMAC 
  
-`User chosen Name:` OlleyAirServices 
+`User chosen Name:` Miltonious Mamac 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Nov 30 19:13:50 +0000 2020 
+`User signup date?:` Fri Nov 27 18:04:26 +0000 2020 
  
-`User Description?:` I don't describe myself! 
+`User Description?:`  
  
-`Followers?: `6 
+`Followers?: `15 
  
-`Following?:` 238 
+`Following?:` 105 
+ 
+`User URL?:` None 
+ 
+`Location:` In your head 
+ 
+`Number of tweets extracted`  : 141 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332384968681476096/gWTTiw_7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 141 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOL** 12 , **TWITTER** 10 , **@CODEMONKEYZ** 10 , **@REALDONALDTRUMP** 7 , **EVEN** 7 , **I'M** 6 , **DON'T** 6 , **@JENNAELLISESQ** 6 , **@JACKPOSOBIEC** 5 , **SAFE** 5 , **@CNNPOLITICS** 5 , **@NRA** 5 , **@BYSJAY** 4 , **@DAILYCALLER** 4 , **SPACE** 4 , **THOUGH** 4 , **ANYMORE** 4 , **@THEBRADFORDFILE** 4 , **@SMITH_WESSONINC** 4 , **@FBI** 4 , 
+ 
+## What this user tweeted
+ 
+@InfoSec_MH @WoeUntoBabylon @Cernovich Lol,  so the impeachment hoax, bleach enema nonsense, Russian collusion hoax… https://t.co/4KQUXGi54u
+ 
+# FreeGameListBotUSER INFO
+![image](http://pbs.twimg.com/profile_images/1330264569827237897/m19hmOVY_normal.png)
+ 
+`User ScreenName:` FreeGameListBot 
+ 
+`User chosen Name:` FreeGameListBot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Nov 21 21:39:16 +0000 2020 
+ 
+`User Description?:` https://t.co/I2t9sBNnls - Follow for Info, Help, Q&A, Games +
+
+Free Playable Unity & Other Games Online!
+
+3D, 2D, Unity Pokémon & Minecraft, Black jack, No Downloads! 
+ 
+`Followers?: `16 
+ 
+`Following?:` 24 
  
 `User URL?:` None 
  
@@ -338,50 +224,9 @@ RT @CioAmaro: 4 types of cyberattacks - Straight Edge Technology, Inc.
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1333490152958779396/hHDmnYiN_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1330264569827237897/m19hmOVY_normal.png 
  
-`Number of tweets excluding replies:` 446 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ELECTION** 26 , **TRUMP** 16 , **ARIZONA** 12 , **FRAUD** 12 , **DOMINION** 11 , **BREAKING:** 11 , **@OLLEYAIR:** 10 , **@ROTHBARD1776:** 10 , **STATE** 10 , **@KYLENABECKER:** 8 , **GO** 8 , **MUST** 8 , **GOING** 8 , **VOTING** 8 , **REPUBLICAN** 8 , **@CODEMONKEYZ:** 7 , **MACHINES** 7 , **THEN** 6 , **NEED** 6 , **HEARING** 6 , 
- 
-## What this user tweeted
- 
-RT @news_ntd: “After they analyzed ... and determined that there were vulnerabilities.”
-
-The Department of Homeland Security (#DHS) was war…
- 
-# AngelaB96150291USER INFO
-![image](http://pbs.twimg.com/profile_images/1330361874915995648/ldMBC8R9_normal.jpg)
- 
-`User ScreenName:` AngelaB96150291 
- 
-`User chosen Name:` Alegna 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Nov 22 04:04:57 +0000 2020 
- 
-`User Description?:` Introverted single mom. Lover of coziness and The Golden Girls. 
- 
-`Followers?: `23 
- 
-`Following?:` 245 
- 
-`User URL?:` None 
- 
-`Location:` Kansas City  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1330361874915995648/ldMBC8R9_normal.jpg 
- 
-`Number of tweets excluding replies:` 1362 
+`Number of tweets excluding replies:` 4799 
  
 
  
@@ -389,30 +234,29 @@ The Department of Homeland Security (#DHS) was war…
  
 ## User Top tweeted words 
  
-**TRUMP** 25 , **@REALDONALDTRUMP** 11 , **PEOPLE** 11 , **ELECTION** 11 , **@AUSCHWITZMUSEUM:** 10 , **BORN** 10 , **BIDEN** 10 , **MILLION** 9 , **REPUBLICANS** 9 , **AUSCHWITZ** 8 , **30** 8 , **GOP** 8 , **STILL** 7 , **COUNTRY** 7 , **REPUBLICAN** 7 , **VOTES** 7 , **NEED** 7 , **JOE** 7 , **PASS** 7 , **NOVEMBER** 7 , 
+**REMOTE** 115 , **JOB** 61 , **NEW** 41 , **LOOKING** 34 , **REMOTEWORK** 29 , **WORKATHOME** 29 , **ENGINEER** 28 , **REMOTEJOBS** 28 , **SENIOR** 24 , **HIRING** 24 , **WORK** 22 , **@BESTREMOTEJOBS1:** 20 , **DIGITALNOMAD** 19 , **DEVELOPER** 18 , **SOFTWARE** 16 , **👉** 15 , **APPLY** 14 , **MANAGER** 14 , **REMOTEJOB** 14 , **LEAD** 12 , 
  
 ## What this user tweeted
  
-RT @donwinslow: Um...Trump's lawyer should be disbarred for this conduct.
-
-Trump Lawyer Says Krebs Should Be ‘Taken Out at Dawn and Shot’ f…
+RT @infosec_jobsCOM: HIRING: Software Engineer - Security / Remote, Isreal, Europe, United Kingdom, Africa - https://t.co/gAgY1QfHwA #InfoS…
  
-# BrianKelvin18USER INFO
-![image](http://pbs.twimg.com/profile_images/1332152284223041536/36FvibUB_normal.jpg)
+# Ruby16972618USER INFO
+![image](http://pbs.twimg.com/profile_images/1332921119582642178/fKlUA9l8_normal.jpg)
  
-`User ScreenName:` BrianKelvin18 
+`User ScreenName:` Ruby16972618 
  
-`User chosen Name:` Brian Kelvin 
+`User chosen Name:` Ruby🌾 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Nov 27 02:39:58 +0000 2020 
+`User signup date?:` Fri Nov 27 19:31:41 +0000 2020 
  
-`User Description?:` Music, Sport, Driver, Coffer,Let Love Lead,God First, Dog Lover, No Porn, Love Smiling, Nature•• 
+`User Description?:` F the CCP!
+WRONG COUNTRY! WRONG FLAG! WRONG PEOPLE! WE ARE THE MAJORITY! 
  
-`Followers?: `8 
+`Followers?: `25 
  
-`Following?:` 197 
+`Following?:` 16 
  
 `User URL?:` None 
  
@@ -420,9 +264,9 @@ Trump Lawyer Says Krebs Should Be ‘Taken Out at Dawn and Shot’ f…
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1332152284223041536/36FvibUB_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1332921119582642178/fKlUA9l8_normal.jpg 
  
-`Number of tweets excluding replies:` 684 
+`Number of tweets excluding replies:` 202 
  
 
  
@@ -430,78 +274,118 @@ Trump Lawyer Says Krebs Should Be ‘Taken Out at Dawn and Shot’ f…
  
 ## User Top tweeted words 
  
-**@NYTIMES:** 53 , **@GTCONWAY3D:** 31 , **TRUMP** 17 , **ELECTION** 17 , **NEW** 13 , **PRESIDENT** 12 , **BIDEN** 9 , **ANY** 9 , **SOME** 8 , **AFTER** 8 , **THESE** 8 , **@60MINUTES:** 8 , **@STEVESCHMIDTSES:** 7 , **PEOPLE** 7 , **HERE** 7 , **2020** 7 , **CORONAVIRUS** 7 , **REPUBLICAN** 6 , **THAN** 6 , **STATES** 6 , 
+**I'M** 18 , **DON'T** 15 , **@GASECOFSTATE** 14 , **@JOEBIDEN** 13 , **MEDIA** 11 , **@KATIEHASEDITS** 11 , **PEOPLE** 10 , **@REALDONALDTRUMP** 10 , **READ** 10 , **BIDEN** 9 , **TWITTER** 9 , **YOU'RE** 9 , **FIND** 9 , **DOWN** 9 , **LOL** 9 , **MAINSTREAM** 9 , **BEING** 8 , **RESEARCH** 8 , **NEWS** 8 , **EVIDENCE** 8 , 
  
 ## What this user tweeted
  
-RT @60Minutes: Chris Krebs, former director of the Cybersecurity and Infrastructure Security Agency, who was fired by President Trump, resp…RT @60Minutes: “What I saw was an apparent attempt to undermine confidence in the election, to confuse people, to scare people,” says the f…RT @60Minutes: After the Cybersecurity and Infrastructure Security Agency released a joint statement with election security partners saying…RT @60Minutes: On Election Day 2020, Chris Krebs, then director of the Cybersecurity and Infrastructure Security Agency, assembled a team f…RT @biannagolodryga: Sen. Blunt on election security: “The system was more secure, the President deserves credit for that, The DHS.” 
-The P…
+@InfoSec_MH @Breaking911 Well, Haspel's been arrested after the Frankfurt raid at the server that Smartmatic uses.… https://t.co/wbxPKUhFl3
  
-# BooyaJoeyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1332381684424204292/qAUF9xOQ_normal.jpg)
+# Than26601027USER INFO
+![image](http://pbs.twimg.com/profile_images/1331046702212530176/A_iBrJ-P_normal.jpg)
  
-`User ScreenName:` BooyaJoey 
+`User ScreenName:` Than26601027 
  
-`User chosen Name:` Joseph Hobbs 
+`User chosen Name:` Than 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Nov 24 21:29:20 +0000 2020 
+`User signup date?:` Tue Nov 24 01:05:19 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 64 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1331046702212530176/A_iBrJ-P_normal.jpg 
+ 
+`Number of tweets excluding replies:` 64 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CODEMONKEYZ** 12 , **@EMILYBRODEN** 11 , **@ALI** 9 , **@TRUMPIS86806962** 9 , **THESE** 6 , **PEOPLE** 5 , **@REALDONALDTRUMP** 5 , **@BERNARDKERIK** 5 , **TRUMP** 5 , **MOVE** 4 , **LOOKS** 4 , **@TWITTER** 4 , **CAN'T** 3 , **DAY** 3 , **GOOD** 3 , **@BOBBYPITON** 3 , **AREN'T** 3 , **TOLD** 3 , **READING** 3 , **PROOF** 3 , 
+ 
+## What this user tweeted
+ 
+@SamSimeonSays @TrumpIs86806962 @EmilyBroden @CodeMonkeyZ OK, has anyone seen proof of malicious configuration or l… https://t.co/HLbhMmtDmk
+ 
+# BoyNayanaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1333487740852133888/HGe7a25F_normal.jpg)
+ 
+`User ScreenName:` BoyNayana 
+ 
+`User chosen Name:` nayana boy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 30 19:06:09 +0000 2020 
+ 
+`User Description?:` MY NAME IS NAYANA SULOCHANA
+I AM 15 YEARS OLD
+I AM MAKE MONEY IN ONLINE 
+ 
+`Followers?: `0 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 89 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1333487740852133888/HGe7a25F_normal.jpg 
+ 
+`Number of tweets excluding replies:` 89 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**EMAIL** 81 , **CHANCE** 79 , **$100** 79 , **&LT;** 78 , **TOP10WORLD2005@GMAILCOM** 67 , **&GT;** 64 , **SHARE** 53 , **ANY** 14 , **ANY…** 9 , **@FANTOMDE_SPARTE** 8 , **WITH…** 7 , **ON…** 6 , **AN…** 6 , **O…** 5 , **A…** 5 , **T…** 5 , **GO** 4 , **MAY** 4 , **NEED** 4 , **SOME** 4 , 
+ 
+## What this user tweeted
+ 
+@zadankzadank @hackerhiker @AlyssaM_InfoSec @j2k3k @keithnab if you would like the chance to get $100, email me on… https://t.co/BxCmfs5DNB
+ 
+# JackFlemming6USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` JackFlemming6 
+ 
+`User chosen Name:` Jack Flemming 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 25 16:56:40 +0000 2020 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 17 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 25 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1332381684424204292/qAUF9xOQ_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 25 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@MATTBRAYNARD** 9 , **UPS** 5 , **SERVICE** 4 , **PEOPLE** 3 , **CONTRADICTION** 3 , **T…** 3 , **@M1K3__M0** 3 , **USED** 3 , **BUSINESSES** 3 , **@MARKFINCHEM** 2 , **HONEST** 2 , **TESTIMONY** 2 , **MOST** 2 , **TOTAL** 2 , **WITNESSES** 2 , **ONE-SIDED** 2 , **PARTISAN** 2 , **OF…** 2 , **SAD** 2 , **NAME** 2 , 
- 
-## What this user tweeted
- 
-@WendyRogersAZ @MarkFinchem How do you and Mark sit there all day and not think how most of that was a total sham?… https://t.co/X64b77Iy9O@NatyLiy This was an awful example of cybersecurity expert testimony. All theory, no contradiction from the actual… https://t.co/EtxqPdjhqF
- 
-# Ineedanewlife1USER INFO
-![image](http://pbs.twimg.com/profile_images/1331423773527056385/DNcoUvTf_normal.jpg)
- 
-`User ScreenName:` Ineedanewlife1 
- 
-`User chosen Name:` mynewlife 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 25 02:25:15 +0000 2020 
- 
-`User Description?:` 2nd chance 100% disabled veteran 
- 
-`Followers?: `242 
- 
-`Following?:` 252 
- 
-`User URL?:` None 
- 
-`Location:` Nowhere  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1331423773527056385/DNcoUvTf_normal.jpg 
- 
-`Number of tweets excluding replies:` 431 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -509,40 +393,38 @@ The P…
  
 ## User Top tweeted words 
  
-**@REALDONALDTRUMP** 21 , **@JEN06424524** 21 , **@THEANGIESTANTON** 17 , **TRUMP** 15 , **PRESIDENT** 9 , **@INEEDANEWLIFE1** 9 , **@ANRADILA17** 9 , **@SART48** 7 , **BIDEN** 7 , **@GATEWAYPUNDIT** 7 , **ELECTION** 6 , **PEOPLE** 6 , **@CUDS_1246** 6 , **I’M** 6 , **@BRIALALEXI** 6 , **HERE** 5 , **TWITTER** 5 , **HELL** 5 , **DAMN** 5 , **4** 5 , 
+**@ITSJEFFTIEDRICH** 1 , **CHANGE** 1 , **ADMINISTRATION** 1 , **GOING** 1 , **REQUIRE** 1 , **INFOSEC** 1 , **AUDITS** 1 , **RETOOLING** 1 , **NEVER** 1 , **BEFORE** 1 , **I…** 1 , **HTTPS://TCO/ELDKWMCDCW@ERICTRUMP** 1 , **MOST** 1 , **VOTES** 1 , **LOCKED** 1 , **DAY** 1 , **AFTER** 1 , **ELECTION** 1 , **2016** 1 , **GREATLY** 1 , 
  
 ## What this user tweeted
  
-RT @VincentLaBarge: @NatyLiy I work in Cybersecurity.
-They actually have the packet capture files showing the traffic going off shore? 
-If…
+@itsJeffTiedrich This change of administration is going to require infosec audits and retooling like never before i… https://t.co/ELDKwmcDcW
  
-# Ken88326558USER INFO
-![image](http://pbs.twimg.com/profile_images/1330748591569211394/GHtj2b80_normal.jpg)
+# infosecnoob77USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` Ken88326558 
+`User ScreenName:` infosecnoob77 
  
-`User chosen Name:` Ken 🇨🇦🌈 
+`User chosen Name:` Whats Rundll32 Doing? 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Nov 23 04:19:45 +0000 2020 
+`User signup date?:` Thu Nov 26 02:14:40 +0000 2020 
  
-`User Description?:` Starting all over again on Twitter.  A political junkie that will never understand Trumpism. 
+`User Description?:` Detection Engineer.                                 Fan of FireEye/Mandiant and Microsoft Defender 
  
-`Followers?: `104 
+`Followers?: `3 
  
-`Following?:` 411 
+`Following?:` 58 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 123 
+`Number of tweets extracted`  : 19 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1330748591569211394/GHtj2b80_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 123 
+`Number of tweets excluding replies:` 19 
  
 
  
@@ -550,38 +432,83 @@ If…
  
 ## User Top tweeted words 
  
-**TRUMP** 19 , **BIDEN** 14 , **@REALDONALDTRUMP** 11 , **MILLION** 9 , **PEOPLE** 9 , **JOE** 7 , **THEN** 6 , **DON'T** 6 , **OTHER** 6 , **GOING** 6 , **AGAIN** 6 , **FRAUD** 5 , **GEORGIA** 5 , **ACCOUNT** 5 , **AROUND** 5 , **VOTES** 5 , **DIAPERDON** 5 , **UNDER** 4 , **LAWYER** 4 , **SUPPORTERS** 4 , 
+**HOPEFULLY** 3 , **LITTLE** 2 , **INTRUSIONDETECTION** 2 , **KEEP** 2 , **TABLE** 2 , **USERS** 2 , **I’M** 2 , **CREWS** 2 , **T…** 2 , **MDE** 2 , **WHERE** 2 , **CONTRIBUTE** 2 , **QUESTION** 1 , **COMPLEX** 1 , **THAN** 1 , **TWEET** 1 , **CURIOUS** 1 , **HIGH** 1 , **LEVEL** 1 , **THOUGHTSWHAT** 1 , 
  
 ## What this user tweeted
  
-RT @amvetsupport: “trump lawyer diGenova said Monday that former cybersecurity chief deserves to be put to death for claiming that the pres…
+What criteria do you use to prioritize the creation of detections? #intrusiondetection #infosec
  
-# TonySam24649629USER INFO
-![image](http://pbs.twimg.com/profile_images/1331591339721547776/RWLQzasu_normal.jpg)
+# OnlinemailStoreUSER INFO
+![image](http://pbs.twimg.com/profile_images/1330857691997220864/itKmf1lE_normal.jpg)
  
-`User ScreenName:` TonySam24649629 
+`User ScreenName:` OnlinemailStore 
  
-`User chosen Name:` Tony Samuel 
+`User chosen Name:` Online Email Store 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 25 03:16:27 +0000 2020 
+`User signup date?:` Sun Nov 22 10:06:54 +0000 2020 
  
-`User Description?:` God Bless the USA 🇺🇸; Standing up against bullies; Say NO to Fascism; Dog  lover; Foodie 
+`User Description?:` -Create an email system with a company name
+-Email security & host
+-Information protection
+-Backup data & IT
+-Provide servers & free books
+-Web design 
  
-`Followers?: `13 
+`Followers?: `4 
  
-`Following?:` 316 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:` Gamal Abdel Nasser st, Mandara 
+ 
+`Number of tweets extracted`  : 38 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1330857691997220864/itKmf1lE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 38 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FOLLOW** 19 , **US** 18 , **WHATSAPP0020101969933** 13 , **EMAIL** 12 , **CHANNEL** 12 , **OSDEGY…** 9 , **OSDEGY** 7 , **INFORMATION** 6 , **WEBDESIGN** 6 , **SECURITY** 6 , **CHANNELS** 5 , **STORE** 5 , **PROTECTION** 5 , **PROFESSIONAL** 4 , **WHATSAPP** 4 , **EMAIL…** 4 , **WORK** 4 , **DATA** 3 , **HACKING** 3 , **NEW** 3 , 
+ 
+## What this user tweeted
+ 
+Your #Professional #email address can be a company #brand and build #Awareness and #trust 
+For information, please… https://t.co/bewPEdBVV8
+ 
+# StraightPloppi1USER INFO
+![image](http://pbs.twimg.com/profile_images/1332071612007518213/lyTCtfTc_normal.jpg)
+ 
+`User ScreenName:` StraightPloppi1 
+ 
+`User chosen Name:` Straight Plopping 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 26 21:18:30 +0000 2020 
+ 
+`User Description?:` Changing the game for easily weighed down curls, gurl! 
+ 
+`Followers?: `0 
+ 
+`Following?:` 12 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 80 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1331591339721547776/RWLQzasu_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1332071612007518213/lyTCtfTc_normal.jpg 
  
-`Number of tweets excluding replies:` 215 
+`Number of tweets excluding replies:` 81 
  
 
  
@@ -589,79 +516,38 @@ RT @amvetsupport: “trump lawyer diGenova said Monday that former cybersecurity
  
 ## User Top tweeted words 
  
-**@REALDONALDTRUMP** 40 , **@JENNAELLISESQ** 24 , **@RUDYGIULIANI** 19 , **TRUMP** 18 , **@SIDNEYPOWELL1** 13 , **@OANN** 13 , **@KYLENABECKER** 10 , **@FOXNEWS** 9 , **REALLY** 9 , **PRESIDENT** 8 , **MILLION** 8 , **JESUS** 8 , **GOING** 8 , **SIDE** 8 , **ELECTION** 7 , **PEOPLE** 7 , **80+** 7 , **US** 7 , **DONALD** 7 , **SOME** 6 , 
+**NEVER** 6 , **NOR** 6 , **HAPPINESS** 5 , **TELL** 5 , **THEN** 4 , **CANNOT** 4 , **MAKE** 4 , **APOLOGIZE** 4 , **NEITHER** 4 , **GO** 4 , **GIVE** 3 , **LOVE** 3 , **CHANGE** 3 , **POWER** 3 , **BEING** 3 , **BEFORE** 3 , **OTHERS** 3 , **ACTIONS** 3 , **OURSELVES** 3 , **ALWAYS** 3 , 
  
 ## What this user tweeted
  
-RT @JebBush: Trump Lawyer Says Krebs Should Be ‘Taken Out at Dawn and Shot’ for Defending Election https://t.co/YaQnTImOZX Crazy time. Let’…
+@Infosec_Taylor @lassmanac @Infosec_Taylor I do not believe in a fate that falls on men however they commit; but I… https://t.co/l9tFATR5KM
  
-# _sajidhasan_USER INFO
-![image](http://pbs.twimg.com/profile_images/1330721928231804928/CGZ-iXbN_normal.jpg)
+# AnantharamJUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` _sajidhasan_ 
+`User ScreenName:` AnantharamJ 
  
-`User chosen Name:` Sajid Hasan 
+`User chosen Name:` Anantharam Jayesh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Nov 23 03:41:06 +0000 2020 
+`User signup date?:` Mon Nov 30 14:32:50 +0000 2020 
  
-`User Description?:` Hay! I'm Sajid. 
-
-I'm a certified cybersecurity specialist and web developer. 
+`User Description?:` student 
  
-`Followers?: `98 
+`Followers?: `1 
  
-`Following?:` 282 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1330721928231804928/CGZ-iXbN_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURE** 11 , **SECURITY** 11 , **WORDPRESS** 11 , **MALWARE_REMOVE** 11 , **WEBSECURITY** 10 , **CYBERATTACK** 10 , **CYBER** 10 , **MALWARE…** 10 , **CYBERSECURITY** 1 , **HTTPS://TCO/LDSJETA1OMCYBERSECURITY** 1 , **HTTPS://TCO/UQPV5PS5TFCYBERSECURITY** 1 , **HTTPS://TCO/LDTFDB9TMZCYBERSECURITY** 1 , **HTTPS://TCO/MHTCJ68MHSCYBERSECURITY** 1 , **HTTPS://TCO/03GBLVB7C3CYBERSECURITY** 1 , **HTTPS://TCO/YRX8TDR2WICYBERSECURITY** 1 , **HTTPS://TCO/8P077EVEOVCYBERSECURITY** 1 , **HTTPS://TCO/NZ3WQLLMJMCYBERSECURITY** 1 , **HTTPS://TCO/WFDSJ0I9FACYBERSECURITY** 1 , **HTTPS://TCO/W3RIE9DP2OCYBERSECURITY** 1 , **ORDER** 1 , 
- 
-## What this user tweeted
- 
-#cybersecurity #cybersecure #security #WordPress #malware_remove #websecurity #CyberAttack #cyber #Malware… https://t.co/ldsjETa1Om
- 
-# JennKnesekUSER INFO
-![image](http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg)
- 
-`User ScreenName:` JennKnesek 
- 
-`User chosen Name:` Jenn Knesek 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 25 15:38:19 +0000 2020 
- 
-`User Description?:` Account Executive @ZintelPR Follow for Story Ideas #CyberSecurity #PR #PublicRelations 📧:Jennifer.Knesek@ZintelPR.com 
- 
-`Followers?: `17 
- 
-`Following?:` 200 
- 
-`User URL?:` https://t.co/lGq4TsQjFw 
- 
-`Location:` Houston, TX 
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1331641586254557186/z2nn22CX_normal.jpg 
- 
-`Number of tweets excluding replies:` 26 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -669,11 +555,17 @@ I'm a certified cybersecurity specialist and web developer.
  
 ## User Top tweeted words 
  
-**RANSOMWARE** 6 , **TECH** 4 , **HEALTHCARE** 4 , **CYBERATTACKS** 4 , **WORK** 3 , **IMPORTANT** 3 , **CYBERSECURITY** 3 , **SECURITY** 2 , **@DARKREADING:** 2 , **DEFENSE** 2 , **EVOLVE** 2 , **US** 2 , **COMPUTERS** 2 , **SECTOR** 2 , **ATTACKS** 2 , **VIA** 2 , **DONE** 2 , **THAN** 2 , **CYBERSECURITYAWARENESSMONTH** 2 , **MANY** 2 , 
+**@ENDNOWCYBER:** 8 , **–** 5 , **CYBER** 4 , **ENDNOWFOUNDATION** 3 , **WEEKLY** 3 , **TALK** 3 , **NOV** 3 , **2020** 3 , **VOTE** 2 , **GHMCELECTIONS2020** 2 , **REPUTATION** 2 , **ARTICLE** 2 , **SOCIAL** 2 , **MEDIA** 2 , **SOCIALMEDIA** 2 , **PRREQUEST** 2 , **వల** 2 , **సాక్షి** 2 , **వార్తాపత్రిక** 2 , **ఆదివారం** 2 , 
  
 ## What this user tweeted
  
-RT @JenniferKnesek: #ComputerSecurityDay on November 30th reminds us to protect our computers. Every day, computers become faster and more…
+RT @EndNowCyber: It takes 20 years to build a reputation and you need 05 minutes to ruin it - Weekly Cyber Talk Article 
+
+#reputation #onli…RT @EndNowCyber: Social media and freedom of expression – Weekly Cyber Talk Column
+
+#socialmedia #endnowfoundation #prrequest #infosec #cyb…RT @EndNowCyber: Social Media and Its Impact on Elections - Cyber Talk Article - 24th Nov 2020
+
+#GHMCElections2020   #socialmedia  #prreque…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
