@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **FireEye**  
+The most popular user is: **realDonaldTrump**  
  
 
-## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
+## 25, wow! I am surprised there are so many. We have just begun to fight. Please send me a list of the 25 RINOS. I re… https://t.co/rTlToqblE4 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **FireEye**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @nil0x42: 🤩 Find private URLs by keyword from bruteforced URL shorteners database, for #bugbounty hunters 💰urlhunter https://t.co/V6jj… |
-| RT @bad_packets: Exploit activity detected from 61.222.108.235 (🇹🇼) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary… |
-| RT @javier_carriazo: 4 cyber-threats coming to an e-store near you #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreaches #cyb… |
+| Black Arrow Cyber Threat Briefing 4 December 2020: hackers target Covid vaccine; Criminals favour Ransomware &amp; BEC;… https://t.co/yoJxJoyd5C |
+| A7 Layered #CyberSec defences key alongside holistic #strategy but we need to address #legacy too - a #protocol fro… https://t.co/h1guNNIlYp |
+| RT @payloadartist: Always look for internal sub-domains of companies on GitHub"https://t.co/IQzuNMEcRe" password"https://t.co/XwtR9VctRw… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.09%  |
-| Tweeters with < 10 followers  | 0.57%|
+| #1 Most tweeted to  | **reach2ratan** |
+| #2 Most tweeted to  | **AlyssaM_InfoSec** |
+| #3 Most tweeted to  | **Paula_Piccard** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 1.36%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,96 +50,57 @@ The most popular user is: **FireEye**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
+| first  | **INFOSEC**  |
 | second  | **HACKERS**  |
-| third  | **CYBERTHREATS** |
-| fourth  | **@JINIBABD:**  |
-| fifth  | **DARKWEB**  |
+| third  | **MALWARE** |
+| fourth  | **PHISHING**  |
+| fifth  | **@REACH2RATAN:**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (20.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @javier_carriazo: MacOS Users Targeted By OceanLotus Backdoor  #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreaches #cybe… |
+|RT @sansforensics: In this episode of the #TMICpodcast, @chriscochrcyber shares how his experiences have helped him build confidence in him… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FireEye**  |
+| The most retweeted user is: **realDonaldTrump**  |
 | ------------- |
-| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
+| 25, wow! I am surprised there are so many. We have just begun to fight. Please send me a list of the 25 RINOS. I re… https://t.co/rTlToqblE4 |
 
 # Potential Fake Accounts
  
-# none028_dasomUSER INFO
-![image](http://pbs.twimg.com/profile_images/1332737693776691200/K8SFBicJ_normal.jpg)
+# White64580404USER INFO
+![image](http://pbs.twimg.com/profile_images/1335263033585754113/XX32AJl3_normal.jpg)
  
-`User ScreenName:` none028_dasom 
+`User ScreenName:` White64580404 
  
-`User chosen Name:` Dasom Kim 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 28 17:26:02 +0000 2020 
- 
-`User Description?:` Cyber Threat Intelligence Specialist, Ensign infosecurity 
- 
-`Followers?: `9 
- 
-`Following?:` 101 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1332737693776691200/K8SFBicJ_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LIST** 3 , **WEBSITE** 2 , **MALWARE** 2 , **RT** 1 , **@IRONNET:** 1 , **MONTHLY** 1 , **THREATINTEL** 1 , **REPORT** 1 , **LIVE!** 1 , **SOC** 1 , **COMBED** 1 , **THROUGH** 1 , **ALMOST** 1 , **400K** 1 , **ALERTS** 1 , **PUT** 1 , **TOGETHER** 1 , **TOP** 1 , **10** 1 , **IOCS** 1 , 
- 
-## What this user tweeted
- 
-RT @IronNet: Our monthly #ThreatIntel report is live! Our SOC combed through almost 400K alerts to put together this list of top 10 IoCs we…
- 
-# binbash84171135USER INFO
-![image](http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg)
- 
-`User ScreenName:` binbash84171135 
- 
-`User chosen Name:` #!/bin/bash 
+`User chosen Name:` White 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Nov 26 22:58:51 +0000 2020 
+`User signup date?:` Sat Dec 05 16:41:01 +0000 2020 
  
-`User Description?:` Security tinkerer, I am good at googling and some Bash scripting 
+`User Description?:` WTF 
  
 `Followers?: `0 
  
-`Following?:` 45 
+`Following?:` 36 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 74 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1335263033585754113/XX32AJl3_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 74 
  
 
  
@@ -147,11 +108,148 @@ RT @IronNet: Our monthly #ThreatIntel report is live! Our SOC combed through alm
  
 ## User Top tweeted words 
  
-**COBALTSTRIKE** 2 , **HOSTS** 1 , **LAST** 1 , **SEEN** 1 , **NOVEMBER** 1 , **2020** 1 , **HTTPS://TCO/NCE1DCN2RS** 1 , **IOCS** 1 , **THREATINTEL** 1 , 
+**/** 14 , **@MYDEARFATHER200:** 12 , **رسالتي** 7 , **@TURKI_ALALSHIKH** 6 , **يارب** 6 , **بن** 6 , **BEST** 6 , **و** 5 , **الشيخ** 5 , **محمد** 5 , **DE** 5 , **GUIDE** 5 , **@YOUTUBE** 5 , **@MAYROSIENSTORE:** 4 , **تطبيقات** 4 , **في** 4 , **سمو** 4 , **EN** 4 , **FREE** 4 , **2020** 4 , 
  
 ## What this user tweeted
  
-CobaltStrike hosts last seen in November 2020 https://t.co/nCe1DCN2RS #cobaltstrike #iocs #ThreatIntel
+RT @rashed_hasan00: Impersonating Team Member via IDOR, Technically not a serious issue but definitely a classic one to get you some $$$…
+ 
+# AnantharamJUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` AnantharamJ 
+ 
+`User chosen Name:` Anantharam Jayesh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 30 14:32:50 +0000 2020 
+ 
+`User Description?:` student 
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ENDNOWCYBER:** 15 , **–** 8 , **INFOSEC** 7 , **CYBER** 7 , **CYBERSECURITY** 5 , **SOCIAL** 4 , **MEDIA** 4 , **SOCIALMEDIA** 4 , **WEEKLY** 4 , **TALK** 4 , **ENDNOWFOUNDATION** 4 , **CYBERSAFETY** 3 , **ARTICLE** 3 , **NOV** 3 , **2020** 3 , **OVERSHARING** 2 , **CELL** 2 , **DETAILS!** 2 , **MALWARE** 2 , **SMARTPHONE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @EndNowCyber: Oversharing on Social Media, A Big Security Risk to You!
+
+#infosec #cybersecurity #socialmedia #privacy #ehealth #digitalh…RT @EndNowCyber: Nodal Cyber Cell Officer – Contacts Details! 
+
+https://t.co/jaX3ycypHt 
+
+#infosec #cybersecurity #cybersafety #vulnerabili…RT @EndNowCyber: Preventing Malware Damage!
+
+#malware #antimalware #websecurity #antivirus #infosec #cybersecurity #cybersafety #digitalsaf…RT @EndNowCyber: What is SIM SWAP Fraud? ...
+
+#infosec #cybersecurity #cybersafety #digitalsafety  #vulnerability #infosec #cybersec #ranso…RT @EndNowCyber: Smartphone blue light affects your brain and body!
+
+#memory #neurotoxin #retina #cataract #cancer #smartphone #addiction #…RT @EndNowCyber: Grievance Officers Cyber Cell – Updated Contact Details! 
+
+https://t.co/NLZxJwIA7n 
+
+#infosec #cybersecurity #cybersafety…
+ 
+# CommunityWicsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1332289056881795072/QuWI2ldw_normal.jpg)
+ 
+`User ScreenName:` CommunityWics 
+ 
+`User chosen Name:` WICS Community 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Nov 27 11:43:22 +0000 2020 
+ 
+`User Description?:` Leading Platform in South #India for Empowering #Women in #Cybersecurity.
+A community initiative @redteamacademy 
+ 
+`Followers?: `4 
+ 
+`Following?:` 7 
+ 
+`User URL?:` https://t.co/rWFwIqDeDh 
+ 
+`Location:` Kochi 
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332289056881795072/QuWI2ldw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEXT** 5 , **TALK** 5 , **"** 5 , **TOPIC** 4 , **COMMUNITY** 4 , **HAPPY** 3 , **SECURITY** 3 , **INFORMATION** 3 , **WICS** 3 , **CYBERSPACE** 2 , **PLEASURE** 2 , **INFORMATIVE** 2 , **SERIES** 2 , **CYBER** 2 , **ANNOUNCE** 1 , **TOPIC-** 1 , **DEMYSTIFYING** 1 , **DEEP** 1 , **WEB** 1 , **FORENSICS"** 1 , 
+ 
+## What this user tweeted
+ 
+We are happy to announce the next talk Topic-  " Demystifying the deep Web Forensics" by Deepak Kumar.
+
+Register No… https://t.co/OdPnD2v77dWe are happy to introduce the next Talk Topic " Cyberspace - The new Warfront " by Illyas Kooliyankal.
+Join us to l… https://t.co/8IWPcPwisp
+ 
+# videogamingbotUSER INFO
+![image](http://pbs.twimg.com/profile_images/1333497920419717120/Z9LCVq3x_normal.jpg)
+ 
+`User ScreenName:` videogamingbot 
+ 
+`User chosen Name:` Gaming Bot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 30 17:47:27 +0000 2020 
+ 
+`User Description?:` I am a friendly bot that that collects Tweets about video games, #gaming, #videogames and gaming industry. Follow me to support our gaming communities. 
+ 
+`Followers?: `75 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:` MF world 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1333497920419717120/Z9LCVq3x_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1676 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GAMING** 89 , **LIVE** 26 , **TWITCH** 21 , **NEW** 16 , **FORTNITE** 16 , **COME** 15 , **GAME** 13 , **CHECK** 13 , **GAMER** 13 , **STREAM** 12 , **SOME** 11 , **YOUTUBE** 11 , **STREAMING** 11 , **XBOX** 11 , **STREAMER** 10 , **VIDEO** 10 , **VIDEOGAMES** 9 , **GAMES** 9 , **GOING** 9 , **…RT** 9 , 
+ 
+## What this user tweeted
+ 
+RT @CDWGWAGov: Microsoft 365 - Management &amp; Security #microsoft #infosec #cybersecurity #technology #facebook #business #O365 #bitcoin #cor…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
