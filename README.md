@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **FireEye**  
+The most popular user is: **realDonaldTrump**  
  
 
-## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
+## 25, wow! I am surprised there are so many. We have just begun to fight. Please send me a list of the 25 RINOS. I re… https://t.co/rTlToqblE4 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **FireEye**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @0xthreatintel: INTL: APT10 aka [ Cicada ] targets Japan Linked Orgs Worldwide.Blog: https://t.co/VbeBBVqjj8#threatintel #APT10 #Cic… |
-| RT @HeikeRitter: Great read about recent campaigns from the nation-state actor #BISMUTH, how they leverage coin miner techniques to stay un… |
-| RT @javier_carriazo: 4 cyber-threats coming to an e-store near you #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreaches #cyb… |
+| Bomb Threat, DDoS Purveyor Gets Eight Years https://t.co/hA4iKg6TTm#CyberSecurity #digital #Hackers #infosec… https://t.co/MGc48pgLSs |
+| RT @ptracesecurity: An Open-Source iOS 11.0 -&gt; 11.4.1 (soon iOS 13) Jailbreak, made for teaching purposes.   https://t.co/WX0DwlGwfP   #Mob… |
+| RT @Paula_Piccard: Nation-State Hackers Caught Hiding Espionage Activities Behind Crypto Miners#cybersecurity #riskmanagement #cloud #phi… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.09%  |
-| Tweeters with < 10 followers  | 0.57%|
+| #1 Most tweeted to  | **reach2ratan** |
+| #2 Most tweeted to  | **AlyssaM_InfoSec** |
+| #3 Most tweeted to  | **Paula_Piccard** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 1.46%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,55 +50,55 @@ The most popular user is: **FireEye**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
+| first  | **INFOSEC**  |
 | second  | **HACKERS**  |
-| third  | **CYBERTHREATS** |
-| fourth  | **@JINIBABD:**  |
-| fifth  | **DARKWEB**  |
+| third  | **MALWARE** |
+| fourth  | **PHISHING**  |
+| fifth  | **@REACH2RATAN:**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|2020's worst #cryptocurrency breaches, thefts, and exit scams  #CyberSecurity #osint #cyberthreats #hackers… https://t.co/Rn8jxuZ5xa |
+|(The Hacker's Guide to 3D Printing [Tutorial]) - https://t.co/yl64Pyv0cH #Tutorials #infosec #netsec #pentest https://t.co/Kd4e9OndtZ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FireEye**  |
+| The most retweeted user is: **realDonaldTrump**  |
 | ------------- |
-| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
+| 25, wow! I am surprised there are so many. We have just begun to fight. Please send me a list of the 25 RINOS. I re… https://t.co/rTlToqblE4 |
 
 # Potential Fake Accounts
  
-# none028_dasomUSER INFO
-![image](http://pbs.twimg.com/profile_images/1332737693776691200/K8SFBicJ_normal.jpg)
+# BaltimoreInfoseUSER INFO
+![image](http://pbs.twimg.com/profile_images/1333839103037743108/MweDNrfD_normal.jpg)
  
-`User ScreenName:` none028_dasom 
+`User ScreenName:` BaltimoreInfose 
  
-`User chosen Name:` Dasom Kim 
+`User chosen Name:` Baltimore Information Security 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Nov 28 17:26:02 +0000 2020 
+`User signup date?:` Tue Dec 01 18:15:16 +0000 2020 
  
-`User Description?:` Cyber Threat Intelligence Specialist, Ensign infosecurity 
+`User Description?:` Learning and spreading the love of Cyber Security. 
  
-`Followers?: `9 
+`Followers?: `0 
  
-`Following?:` 101 
+`Following?:` 9 
  
-`User URL?:` None 
+`User URL?:` https://t.co/57FHj7UPM5 
  
-`Location:`  
+`Location:` Maryland, USA 
  
 `Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1332737693776691200/K8SFBicJ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1333839103037743108/MweDNrfD_normal.jpg 
  
 `Number of tweets excluding replies:` 5 
  
@@ -108,38 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJ
  
 ## User Top tweeted words 
  
-**LIST** 3 , **WEBSITE** 2 , **MALWARE** 2 , **RT** 1 , **@IRONNET:** 1 , **MONTHLY** 1 , **THREATINTEL** 1 , **REPORT** 1 , **LIVE!** 1 , **SOC** 1 , **COMBED** 1 , **THROUGH** 1 , **ALMOST** 1 , **400K** 1 , **ALERTS** 1 , **PUT** 1 , **TOGETHER** 1 , **TOP** 1 , **10** 1 , **IOCS** 1 , 
+**CYBER** 5 , **ADVENT** 4 , **DAY** 3 , **@REALTRYHACKME** 3 , **SOME** 2 , **TOOLS** 2 , **COMPLETED** 2 , **5** 1 , **DONEI** 1 , **STUMBLE** 1 , **POINTS** 1 , **POINT** 1 , **GE…** 1 , **HTTPS://TCO/MBV2HHKVYWOH** 1 , **MAN!** 1 , **"TRICKY** 1 , **TRICKY** 1 , **TRICKY"** 1 , **TODAY'S** 1 , **NEW** 1 , 
  
 ## What this user tweeted
  
-RT @IronNet: Our monthly #ThreatIntel report is live! Our SOC combed through almost 400K alerts to put together this list of top 10 IoCs we…
+Day 5 of the Advent of Cyber from @RealTryHackMe  is done.I had some stumble points today. At one point I had to ge… https://t.co/Mbv2hhKvYw
  
-# binbash84171135USER INFO
-![image](http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg)
+# AnantharamJUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` binbash84171135 
+`User ScreenName:` AnantharamJ 
  
-`User chosen Name:` #!/bin/bash 
+`User chosen Name:` Anantharam Jayesh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Nov 26 22:58:51 +0000 2020 
+`User signup date?:` Mon Nov 30 14:32:50 +0000 2020 
  
-`User Description?:` Security tinkerer, I am good at googling and some Bash scripting 
+`User Description?:` student 
  
 `Followers?: `0 
  
-`Following?:` 45 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 18 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1332096878025039878/7Tr_FGpg_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 18 
  
 
  
@@ -147,11 +147,70 @@ RT @IronNet: Our monthly #ThreatIntel report is live! Our SOC combed through alm
  
 ## User Top tweeted words 
  
-**COBALTSTRIKE** 2 , **HOSTS** 1 , **LAST** 1 , **SEEN** 1 , **NOVEMBER** 1 , **2020** 1 , **HTTPS://TCO/NCE1DCN2RS** 1 , **IOCS** 1 , **THREATINTEL** 1 , 
+**@ENDNOWCYBER:** 15 , **–** 8 , **INFOSEC** 7 , **CYBER** 7 , **CYBERSECURITY** 5 , **SOCIAL** 4 , **MEDIA** 4 , **SOCIALMEDIA** 4 , **WEEKLY** 4 , **TALK** 4 , **ENDNOWFOUNDATION** 4 , **CYBERSAFETY** 3 , **ARTICLE** 3 , **NOV** 3 , **2020** 3 , **OVERSHARING** 2 , **CELL** 2 , **DETAILS!** 2 , **MALWARE** 2 , **SMARTPHONE** 2 , 
  
 ## What this user tweeted
  
-CobaltStrike hosts last seen in November 2020 https://t.co/nCe1DCN2RS #cobaltstrike #iocs #ThreatIntel
+RT @EndNowCyber: Oversharing on Social Media, A Big Security Risk to You!
+
+#infosec #cybersecurity #socialmedia #privacy #ehealth #digitalh…RT @EndNowCyber: Nodal Cyber Cell Officer – Contacts Details! 
+
+https://t.co/jaX3ycypHt 
+
+#infosec #cybersecurity #cybersafety #vulnerabili…RT @EndNowCyber: Preventing Malware Damage!
+
+#malware #antimalware #websecurity #antivirus #infosec #cybersecurity #cybersafety #digitalsaf…RT @EndNowCyber: What is SIM SWAP Fraud? ...
+
+#infosec #cybersecurity #cybersafety #digitalsafety  #vulnerability #infosec #cybersec #ranso…RT @EndNowCyber: Smartphone blue light affects your brain and body!
+
+#memory #neurotoxin #retina #cataract #cancer #smartphone #addiction #…RT @EndNowCyber: Grievance Officers Cyber Cell – Updated Contact Details! 
+
+https://t.co/NLZxJwIA7n 
+
+#infosec #cybersecurity #cybersafety…
+ 
+# CommunityWicsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1332289056881795072/QuWI2ldw_normal.jpg)
+ 
+`User ScreenName:` CommunityWics 
+ 
+`User chosen Name:` WICS Community 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Nov 27 11:43:22 +0000 2020 
+ 
+`User Description?:` Leading Platform in South #India for Empowering #Women in #Cybersecurity.
+A community initiative @redteamacademy 
+ 
+`Followers?: `4 
+ 
+`Following?:` 7 
+ 
+`User URL?:` https://t.co/rWFwIqDeDh 
+ 
+`Location:` Kochi 
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332289056881795072/QuWI2ldw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEXT** 5 , **TALK** 5 , **"** 5 , **TOPIC** 4 , **COMMUNITY** 4 , **HAPPY** 3 , **SECURITY** 3 , **INFORMATION** 3 , **WICS** 3 , **CYBERSPACE** 2 , **PLEASURE** 2 , **INFORMATIVE** 2 , **SERIES** 2 , **CYBER** 2 , **ANNOUNCE** 1 , **TOPIC-** 1 , **DEMYSTIFYING** 1 , **DEEP** 1 , **WEB** 1 , **FORENSICS"** 1 , 
+ 
+## What this user tweeted
+ 
+We are happy to announce the next talk Topic-  " Demystifying the deep Web Forensics" by Deepak Kumar.
+
+Register No… https://t.co/OdPnD2v77dWe are happy to introduce the next Talk Topic " Cyberspace - The new Warfront " by Illyas Kooliyankal.
+Join us to l… https://t.co/8IWPcPwisp
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
