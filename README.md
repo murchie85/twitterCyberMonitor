@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **FireEye**  
+The most popular user is: **RSBNetwork**  
  
 
-## Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn 
+## Fox News made their bed, now they must lie in it. https://t.co/lxvm7vkePJ 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **FireEye**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bad_packets: DNS-hijacking exploit attempts ongoing targeting D-Link and ZTE routers.Rogue DNS server 192.95.59.130 (🇨🇦) still online… |
-| RT @DarkReading: Inside North Korea's Rapid Evolution to Cyber Superpower https://t.co/QqC1NC04CF by @kellymsheridan #NorthKorea #threatin… |
-| Farsight Principal Architect Boris Taratine to host a 3-hour workshop, "Threat Hunting Using DNS to Map Adversary I… https://t.co/9rbKkzwkn8 |
+| RT @JamesConlan96: My #GTFOBLookup tool has been updated to accept files containing full filepaths so you can now pass it unmodified output… |
+| RT @EternalToDo: Nice research by @jelleverg about extracting SSH session keys from memory (live or dumped) and decrypting SSH traffic http… |
+| RT @Paula_Piccard: Apple's data-collection 'nutrition labels' for apps will begin appearing next week#data #dataprotection #dataprivacy #… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.05%  |
-| Tweeters with < 10 followers  | 0.48%|
+| #1 Most tweeted to  | **AlyssaM_InfoSec** |
+| #2 Most tweeted to  | **reach2ratan** |
+| #3 Most tweeted to  | **iotcybersec24** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 1.44%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,57 +50,57 @@ The most popular user is: **FireEye**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
+| first  | **INFOSEC**  |
 | second  | **HACKERS**  |
-| third  | **CYBERTHREATS** |
-| fourth  | **@JINIBABD:**  |
-| fifth  | **DARKWEB**  |
+| third  | **MALWARE** |
+| fourth  | **PHISHING**  |
+| fifth  | **HACKING**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (71.43%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: Hacker leaks credentials for 50,000 vulnerable Fortinet VPNs (Includes interview) #CyberSecurity #osint #cyberthreats #hacke… |
+|RT @infosec_jobsCOM: HIRING: SR. Director of Cyber Security / San Diego, CA - https://t.co/GTniHOrBmI #InfoSec #infosecjobs #CyberSecurity… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FireEye**  |
+| The most retweeted user is: **RSBNetwork**  |
 | ------------- |
-| Meet ThreatPursuit VM, an open-sourced Windows-based distribution focused on #threatintel analysis designed for ana… https://t.co/RbyL9iaLTn |
+| Fox News made their bed, now they must lie in it. https://t.co/lxvm7vkePJ |
 
 # Potential Fake Accounts
  
-# none028_dasomUSER INFO
-![image](http://pbs.twimg.com/profile_images/1332737693776691200/K8SFBicJ_normal.jpg)
+# wintgineerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1335623161061240837/CIZ_tjPt_normal.png)
  
-`User ScreenName:` none028_dasom 
+`User ScreenName:` wintgineer 
  
-`User chosen Name:` Dasom Kim 
+`User chosen Name:` senior staff wintgineer 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Nov 28 17:26:02 +0000 2020 
+`User signup date?:` Fri Dec 04 15:01:07 +0000 2020 
  
-`User Description?:` Cyber Threat Intelligence Specialist, Ensign infosecurity 
+`User Description?:` no one should be allowed to post to eng-misc,, except me 
  
-`Followers?: `9 
+`Followers?: `129 
  
-`Following?:` 101 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 18 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1332737693776691200/K8SFBicJ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1335623161061240837/CIZ_tjPt_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 18 
  
 
  
@@ -108,11 +108,207 @@ VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**LIST** 3 , **WEBSITE** 2 , **MALWARE** 2 , **RT** 1 , **@IRONNET:** 1 , **MONTHLY** 1 , **THREATINTEL** 1 , **REPORT** 1 , **LIVE!** 1 , **SOC** 1 , **COMBED** 1 , **THROUGH** 1 , **ALMOST** 1 , **400K** 1 , **ALERTS** 1 , **PUT** 1 , **TOGETHER** 1 , **TOP** 1 , **10** 1 , **IOCS** 1 , 
+**INTO** 4 , **SHIT** 3 , **ENGINEER:** 3 , **MASTERED** 3 , **SOFTWARE** 3 , **IM** 3 , **WEARING** 2 , **FUCK** 2 , **DEVOPS** 2 , **SENIOR** 2 , **SAYING** 2 , **CONTINUOUS** 2 , **SOON** 1 , **FIGURE** 1 , **MACT** 1 , **HEN** 1 , **ENCRYPT** 1 , **GOOD** 1 , **BAD** 1 , **INFOSEC** 1 , 
  
 ## What this user tweeted
  
-RT @IronNet: Our monthly #ThreatIntel report is live! Our SOC combed through almost 400K alerts to put together this list of top 10 IoCs we…
+as soon as i figure out if mact hen encrypt is good or bad, infosec is fucking finished
+ 
+# BaltimoreInfoseUSER INFO
+![image](http://pbs.twimg.com/profile_images/1333839103037743108/MweDNrfD_normal.jpg)
+ 
+`User ScreenName:` BaltimoreInfose 
+ 
+`User chosen Name:` Baltimore Information Security 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 01 18:15:16 +0000 2020 
+ 
+`User Description?:` Learning and spreading the love of Cyber Security. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 9 
+ 
+`User URL?:` https://t.co/57FHj7UPM5 
+ 
+`Location:` Maryland, USA 
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1333839103037743108/MweDNrfD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBER** 6 , **ADVENT** 5 , **COMPLETED** 3 , **DAY** 3 , **@REALTRYHACKME** 3 , **@REALTRYHACKME'S** 2 , **YESTERDAY** 2 , **SOME** 2 , **TOOLS** 2 , **6** 1 , **PAINFUL** 1 , **FAMILIAR** 1 , **THE…** 1 , **HTTPS://TCO/LBJHSFKEHMDAY** 1 , **5** 1 , **DONEI** 1 , **STUMBLE** 1 , **POINTS** 1 , **POINT** 1 , **GE…** 1 , 
+ 
+## What this user tweeted
+ 
+Just completed day 6 of @RealTryHackMe's Advent of Cyber. Today was not as painful as yesterday, familiar with the… https://t.co/LBjhsfKEhMDay 5 of the Advent of Cyber from @RealTryHackMe  is done.I had some stumble points today. At one point I had to ge… https://t.co/Mbv2hhKvYw
+ 
+# IoNotebookUSER INFO
+![image](http://pbs.twimg.com/profile_images/1335625590376960001/vPgAUP16_normal.jpg)
+ 
+`User ScreenName:` IoNotebook 
+ 
+`User chosen Name:` LabNotebookIO with ✨glitter✨ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 03 01:06:00 +0000 2020 
+ 
+`User Description?:` Experiments from the home lab of an #infosec, #linux, #networking explorer. Mad scientist ENTP. It’s all one ongoing experiment. 🔬🧪 
+ 
+`Followers?: `19 
+ 
+`Following?:` 90 
+ 
+`User URL?:` https://t.co/CTX7UEbV9s 
+ 
+`Location:` My garage 
+ 
+`Number of tweets extracted`  : 139 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1335625590376960001/vPgAUP16_normal.jpg 
+ 
+`Number of tweets excluding replies:` 139 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@IANCOLDWATER** 15 , **I’M** 10 , **INFOSEC** 8 , **@DIXIE3FLATLINE** 8 , **INTO** 6 , **@GABSMASHH:** 6 , **24DAYSOFMICROBES** 6 , **DAY** 6 , **THINGS** 6 , **DIFFERENT** 5 , **LOT** 5 , **SOMEONE** 5 , **SCIENTIST** 5 , **TWITTER** 4 , **THESE** 4 , **THINKING** 4 , **WHICH** 3 , **COSPLAYING** 3 , **PEOPLE** 3 , **MAKES** 3 , 
+ 
+## What this user tweeted
+ 
+@NerdShinobe I’ve only been involved in infosec and IT for roughly two years...and that fact that this was immediat… https://t.co/luDJRWliRzRT @Tomaketu: I stumbled into infosec/k8s twitter by mistake and now I have to try to make sense of these geese and folks cosplaying as one…
+ 
+# IRSEM_RAMHUSER INFO
+![image](http://pbs.twimg.com/profile_images/1335686697783357444/1JjPok7N_normal.jpg)
+ 
+`User ScreenName:` IRSEM_RAMH 
+ 
+`User chosen Name:` IRSEM - RAMH 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 05 20:13:27 +0000 2020 
+ 
+`User Description?:` Compte officiel du Domaine "Renseignement, Anticipation & Menaces Hybrides" @IRSEM1 • Official Account of "Intelligence, Foresight & Hybrid Threats" Department 
+ 
+`Followers?: `476 
+ 
+`Following?:` 449 
+ 
+`User URL?:` https://t.co/IQR84WWwfC 
+ 
+`Location:` Paris 
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1335686697783357444/1JjPok7N_normal.jpg 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INTELLIGENCE** 4 , **LEADERS** 3 , **DE** 3 , **LES** 3 , **INTERNATIONAL** 2 , **CHINESE** 2 , **VIA** 2 , **8** 2 , **OPERATIONS** 2 , **FOREIGN** 2 , **FASCINATING** 2 , **MOST** 2 , **US** 2 , **POUR** 2 , **LA** 2 , **CE** 2 , **NATIONAL** 2 , **DOMAINE** 2 , **EST** 2 , **HEUREUX** 2 , 
+ 
+## What this user tweeted
+ 
+RT @BilyanaLilly: Focus on attribution, pressure of #Russia &amp; #China, offensive #cyber capabilities and international engagement in #cybers…
+ 
+# fall3n_AustinUSER INFO
+![image](http://pbs.twimg.com/profile_images/1334431987914788866/hk8t6ir__normal.jpg)
+ 
+`User ScreenName:` fall3n_Austin 
+ 
+`User chosen Name:` Austin Parker 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 03 09:00:31 +0000 2020 
+ 
+`User Description?:` IT And Security Enthusiast. I never stop learning. Programmer And Geek Since 6.
+I Enjoy Tinkering With Tech. I live for this sh*t. Hackername fall3n. 
+ 
+`Followers?: `12 
+ 
+`Following?:` 625 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1334431987914788866/hk8t6ir__normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THAT'S** 2 , **REALLY** 2 , **:)** 2 , **ROME** 2 , **CONTROLS** 2 , **NEED** 1 , **COMMUNITY!** 1 , **HTTPS://TCO/QIPU0AFZD7@ALYSSAM_INFOSEC** 1 , **@DAEKEN** 1 , **OLD** 1 , **MAN** 1 , **USED** 1 , **SAY"SON** 1 , **SOMETIMES** 1 , **TWO** 1 , **WORDS** 1 , **BETTER** 1 , **THAN** 1 , **YEARS** 1 , **ARGUEMENTS"RT** 1 , 
+ 
+## What this user tweeted
+ 
+@AlyssaM_InfoSec @daeken As My Old Man Used To Say,"Son, Sometimes Two Words Are Better Than Years Of Arguements."
+ 
+# Chris01927515USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Chris01927515 
+ 
+`User chosen Name:` Chris 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Dec 02 11:45:51 +0000 2020 
+ 
+`User Description?:` gangstar 
+ 
+`Followers?: `2 
+ 
+`Following?:` 370 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 194 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 325 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BEST** 16 , **@NORAH_SAAAD22:** 12 , **ENGINAKYÜREK** 12 , **SANCAR** 12 , **EFE** 12 , **CHECK** 11 , **FREE** 10 , **DE** 10 , **SEFIRINKIZI** 10 , **QUE** 9 , **HERE** 8 , **VIA** 8 , **FRIENDS** 8 , **2** 7 , **MAKE** 6 , **@WC_DEV:** 6 , **@ELITESTOORE:** 6 , **و** 6 , **Y** 6 , **:** 6 , 
+ 
+## What this user tweeted
+ 
+RT @rashed_hasan00: Impersonating Team Member via IDOR, Technically not a serious issue but definitely a classic one to get you some $$$…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
