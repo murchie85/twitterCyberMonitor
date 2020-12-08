@@ -271,77 +271,115 @@ Thank You CISO Mag. https://t.co/Lopw2yphNP
  
 RT @LetsDefendIO: Windows logging cheat sheet
 
-#dfir #cybersecurity #blueteam https://t.co/QgWkGDAdAERT @Gerald_Auger: Top tier SOC Training with @Recon_InfoSec and @eric_capuano on their Network Defense Range  : a retrospective review. #si…                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      **MONEY** 11 , **TIME** 11 , **GOVERNMENT** 11 , **COVID** 11 , **CANADIANS** 10 , **US** 10 , **@CHRISJSANKEY:** 10 , **OTHER** 8 , **MANY** 8 , **ALBERTA** 8 , **SAY** 8 , **OTTAWA** 7 , **TAXES** 7 , **PANDEMIC** 7 , **MINISTER** 7 , **LIBERAL** 7 , 
+#dfir #cybersecurity #blueteam https://t.co/QgWkGDAdAERT @Gerald_Auger: Top tier SOC Training with @Recon_InfoSec and @eric_capuano on their Network Defense Range  : a retrospective review. #si…
  
-## What this user tweeted
+# BaltimoreInfoseUSER INFO
+![image](http://pbs.twimg.com/profile_images/1333839103037743108/MweDNrfD_normal.jpg)
  
-RT @TPostMillennial: “The devastation brought on by COVID...is not a time to capitalize on our vulnerabilities by utilizing our tax dollars…
+`User ScreenName:` BaltimoreInfose 
  
-# NiravShankarUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` NiravShankar 
- 
-`User chosen Name:` Nirav Shankar 
+`User chosen Name:` Baltimore Information Security 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 03 12:46:29 +0000 2020 
+`User signup date?:` Tue Dec 01 18:15:16 +0000 2020 
  
-`User Description?:`  
+`User Description?:` Learning and spreading the love of Cyber Security. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 9 
+ 
+`User URL?:` https://t.co/57FHj7UPM5 
+ 
+`Location:` Maryland, USA 
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1333839103037743108/MweDNrfD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBER** 7 , **ADVENT** 6 , **DAY** 4 , **@REALTRYHACKME** 4 , **SOME** 3 , **COMPLETED** 3 , **NEW** 2 , **@REALTRYHACKME'S** 2 , **YESTERDAY** 2 , **TOOLS** 2 , **7TH** 1 , **DONE** 1 , **REVIEW** 1 , **WIRESHARK** 1 , **SOMETHING** 1 , **A…** 1 , **HTTPS://TCO/VG3OQLIQWGJUST** 1 , **6** 1 , **PAINFUL** 1 , **FAMILIAR** 1 , 
+ 
+## What this user tweeted
+ 
+The 7th day of @RealTryHackMe Advent of Cyber is done. Some review of Wireshark and also something new. I was not a… https://t.co/vG3oQliqWG
+ 
+# salik_hammaadUSER INFO
+![image](http://pbs.twimg.com/profile_images/1335220757186695173/iutgGngL_normal.jpg)
+ 
+`User ScreenName:` salik_hammaad 
+ 
+`User chosen Name:` Hammaad Salik 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 04 20:14:07 +0000 2020 
+ 
+`User Description?:` Cybersecurity Consultant, Advisor, Speaker and Tech Leader.
+My loathings are simple: stupidity, oppression, crime, cruelty, and weak network defense. 
+ 
+`Followers?: `395 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:` Kernel 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1335220757186695173/iutgGngL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**KIND** 1 , **RHYME** 1 , **NEED** 1 , **!!** 1 , **CYBERSECURITY** 1 , **CYBER** 1 , **WORDS** 1 , **HTTPS://TCO/I4U9AHR016INTERESTING** 1 , **E-GUIDE** 1 , **BUILD** 1 , **(C2)** 1 , **COMMAND** 1 , **CONTROL** 1 , **IMPLANTS** 1 , **PART** 1 , **RED** 1 , **TEAM** 1 , **OPERATIONS** 1 , **HTTPS://TCO/2JLHOJG7HW** 1 , 
+ 
+## What this user tweeted
+ 
+The kind of rhyme we need !! #CyberSecurity  #cyber #words https://t.co/I4U9ahR016
+ 
+# LaurenNewby15USER INFO
+![image](http://pbs.twimg.com/profile_images/1336093330426322946/rxE0gJ71_normal.jpg)
+ 
+`User ScreenName:` LaurenNewby15 
+ 
+`User chosen Name:` Lauren Newby 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 07 23:40:05 +0000 2020 
+ 
+`User Description?:` Cyber Security Professional @darktrace
+Artist, Wanna-be Chef
+Scottsdale, AZ 
  
 `Followers?: `0 
  
-`Following?:` 29 
+`Following?:` 47 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 51 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1336093330426322946/rxE0gJ71_normal.jpg 
  
-`Number of tweets excluding replies:` 51 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@BUSINESS:** 9 , **CHINA** 7 , **@BABALJEETKAUR55:** 6 , **ITS** 5 , **BEST** 4 , **US** 3 , **LAST** 3 , **FOREIGN** 3 , **PEOPLE** 3 , **WORLD** 3 , **ENTIRE** 3 , **BUSINESS** 3 , **EVEN** 3 , **CLASS** 3 , **COMPANY** 3 , **OTHER** 3 , **@PINGIDENTITY** 3 , **@MARSHABLACKBURN:** 3 , **TRACTORTOTWITTER** 3 , **CHINESE** 3 , 
- 
-## What this user tweeted
- 
-RT @business: China and the U.K. tried to be pals. That didn’t last. Now Beijing is seizing on the economic vulnerabilities arising from Br…
- 
-# rajeevrathnamvUSER INFO
-![image](http://pbs.twimg.com/profile_images/1335177170671468549/5Pwwk3Vf_normal.jpg)
- 
-`User ScreenName:` rajeevrathnamv 
- 
-`User chosen Name:` Rajeevrathnam Vijayan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 30 03:06:47 +0000 2020 
- 
-`User Description?:` REALIST | Cybersecurity Enthusiast | Penetration Tester | Bug Bounty Hunter. 
- 
-`Followers?: `3 
- 
-`Following?:` 207 
- 
-`User URL?:` https://t.co/ZcwvyPtua4 
- 
-`Location:` India 
- 
-`Number of tweets extracted`  : 24 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1335177170671468549/5Pwwk3Vf_normal.jpg 
- 
-`Number of tweets excluding replies:` 24 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -349,43 +387,38 @@ RT @business: China and the U.K. tried to be pals. That didn’t last. Now Beiji
  
 ## User Top tweeted words 
  
-**@SECURITYWEEK:** 6 , **@KITPLOIT:** 4 , **NEW** 3 , **VULNERABILITIES** 3 , **HACKERS** 2 , **VULNERABILITY** 2 , **@BLACKHATEVENTS:** 2 , **BUSINESS** 2 , **ACCESS** 2 , **VIA** 2 , **1** 2 , **USE** 2 , **HIT** 2 , **RANSOMWARE** 2 , **IOS** 2 , **RT** 1 , **RUSSIAN** 1 , **EXPLOITING** 1 , **VMWARE** 1 , **@NSAGOV** 1 , 
+**@NCSVENTURES:** 2 , **RUSSIAN** 2 , **VMWARE** 2 , **RT** 1 , **PHISHING** 1 , **CAMPAIGN** 1 , **TARGETS** 1 , **200M** 1 , **MICROSOFT** 1 , **365** 1 , **ACCOUNTS** 1 , **EXPLOITS** 1 , **VULNVERABILITIES** 1 , **HTTPS://TCO/YWF2IZEX5GRT** 1 , **HUNTSVILLE** 1 , **ALABAMA** 1 , **SCHOOL** 1 , **DISTRICT** 1 , **RANSOMWARE** 1 , **ATTACK:** 1 , 
  
 ## What this user tweeted
  
-RT @Ahmad_Halabi_: Glad to reach 9k reputation on @Hacker0x01 with 700+ resolved vulnerabilities and 90+ company thanks received. https://t…
+RT @NSACyber: Russian state-sponsored cyber actors are exploiting #vulnerability CVE-2020-4006 affecting VMware Workspace ONE Access. We re…
  
-# DeveloperSingh1USER INFO
-![image](http://pbs.twimg.com/profile_images/1334819403234385920/cHLECght_normal.jpg)
+# PrivacyTips2USER INFO
+![image](http://pbs.twimg.com/profile_images/1336048384743006211/ywAI5CD6_normal.jpg)
  
-`User ScreenName:` DeveloperSingh1 
+`User ScreenName:` PrivacyTips2 
  
-`User chosen Name:` Developer Singh 
+`User chosen Name:` Privacy Tips 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Dec 04 11:17:38 +0000 2020 
+`User signup date?:` Mon Dec 07 20:38:01 +0000 2020 
  
-`User Description?:` ❤️Proud to be Sikh❤️
-#cybersecurity
-#pentesting
-#tech
-#security
-#infosec 
+`User Description?:` This accounts main focus is to express the importance of privacy and to share tips and tricks to protect those who use todays technology. 
  
-`Followers?: `3 
+`Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 7 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 14 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1334819403234385920/cHLECght_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1336048384743006211/ywAI5CD6_normal.jpg 
  
-`Number of tweets excluding replies:` 14 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -393,14 +426,263 @@ RT @Ahmad_Halabi_: Glad to reach 9k reputation on @Hacker0x01 with 700+ resolved
  
 ## User Top tweeted words 
  
-**NEW** 5 , **FOUND** 3 , **ALERT** 2 , **HACKERS** 2 , **DISTRIBUTING** 2 , **ANDROID** 2 , **BOTNET** 2 , **MALWARE** 2 , **CALL** 2 , **POPULAR** 2 , **CISCO** 2 , **US** 2 , **CRYPTO** 2 , **💯CYBER** 1 , **NEWS** 1 , **💯** 1 , **CISA** 1 , **RELEASES** 1 , **HEIGHTENED** 1 , **AWARENESS** 1 , 
+**⬆️** 2 , **TOP** 1 , **5** 1 , **BEST** 1 , **SAFETY** 1 , **TIPS** 1 , **-DON'T** 1 , **SAME** 1 , **PASSWORD** 1 , **-INSTALL** 1 , **VPN** 1 , **PROTECT** 1 , **DEVICE** 1 , **TRACKING** 1 , **MALW…** 1 , **HTTPS://TCO/N2T3Y0VMOFHERE** 1 , **VIDEO** 1 , **EXPLAINS** 1 , **IMPORTANCE** 1 , **CYBERSECURITY** 1 , 
  
 ## What this user tweeted
  
-Researcher publicly revealed PoCs for as many as 12  Pre-Auth RCE vulnerabilities affecting #Cisco Security Manager… https://t.co/MDoFbN8HdF
+Here is a video that explains the importance of cybersecurity hope you enjoy and learn something new today. 📱
+
+https://t.co/2XDwyMiirx
  
-# Ervin49781244USER INFO
-![image](http://pbs.twimg.com/profile_images/1334663100453146624/RNyLlxDT_normal.jpg)
+# Marcin57331163USER INFO
+![image](http://pbs.twimg.com/profile_images/1332875315585159169/WQI9INdg_normal.jpg)
+ 
+`User ScreenName:` Marcin57331163 
+ 
+`User chosen Name:` Martin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 29 02:32:40 +0000 2020 
+ 
+`User Description?:` Simple Man 🧔 
+ 
+`Followers?: `1 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:` Ireland 
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332875315585159169/WQI9INdg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CISCO** 2 , **RT** 1 , **@CISCOSECURE:** 1 , **SAYING** 1 , **"KNOW** 1 , **THY** 1 , **ENEMY"** 1 , **NEVER** 1 , **RELEVANT** 1 , **SECURING** 1 , **DIGITAL** 1 , **FUTURE** 1 , **CYBER-ATTACKS** 1 , **JOIN** 1 , **US** 1 , **TO…RT** 1 , **@CISCOUKI:** 1 , **TECHNOLOGY** 1 , **EDUCATION** 1 , **HELPS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CiscoSecure: The saying, "Know thy enemy." has never been more relevant in securing your digital future from cyber-attacks. Join us to…
+ 
+# camzy_lUSER INFO
+![image](http://pbs.twimg.com/profile_images/1334937855211294722/IXXAPSsY_normal.jpg)
+ 
+`User ScreenName:` camzy_l 
+ 
+`User chosen Name:` Faith James 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 01 10:04:38 +0000 2020 
+ 
+`User Description?:` on a journey to excel, willing to share the knowledge I have,
+Web Developer | Python | Django | Vue.js.
+I can Google things for you😁. 
+ 
+`Followers?: `36 
+ 
+`Following?:` 179 
+ 
+`User URL?:` None 
+ 
+`Location:` Jos, Nigeria 
+ 
+`Number of tweets extracted`  : 132 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1334937855211294722/IXXAPSsY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 132 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CAMZY_L:** 9 , **JAVASCRIPT** 7 , **@DTHOMPSONDEV:** 7 , **100DAYSOFCODE** 6 , **CODE** 6 , **PYTHON** 5 , **VUEJS** 5 , **GOOD** 5 , **TECH** 5 , **MAKES** 5 , **LOOKING** 4 , **3** 4 , **CHECK** 4 , **GO** 4 , **/** 4 , **100** 4 , **VIA** 4 , **HERE** 4 , **BEFORE** 4 , **@FLORINPOP1705** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Paula_Piccard: Malicious npm packages caught installing remote access trojans
+
+#MachineLearning #Python #AI #100DaysOfCode #DEVCommunit…
+ 
+# yaconsulting1USER INFO
+![image](http://pbs.twimg.com/profile_images/1336044277227511808/k63qsZVs_normal.png)
+ 
+`User ScreenName:` yaconsulting1 
+ 
+`User chosen Name:` yaconsulting 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 07 20:25:17 +0000 2020 
+ 
+`User Description?:` Cybersecurity Experts 
+ 
+`Followers?: `0 
+ 
+`Following?:` 23 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1336044277227511808/k63qsZVs_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LEARN** 1 , **CYBERSECURITY!!!@THEHILL** 1 , **LOOKS** 1 , **PROMISING@THEHILL** 1 , **VERY** 1 , **INTERESTING** 1 , **CONTENT** 1 , **TONIGHT** 1 , 
+ 
+## What this user tweeted
+ 
+I want to learn more about cybersecurity!!!
+ 
+# DxhKXFUQil1MITpUSER INFO
+![image](http://pbs.twimg.com/profile_images/1333469198903889920/hTUkBNQR_normal.jpg)
+ 
+`User ScreenName:` DxhKXFUQil1MITp 
+ 
+`User chosen Name:` عماد فوزي عماد 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 30 17:49:34 +0000 2020 
+ 
+`User Description?:` ابن مصر وممنوع الخاص لاي حد الحساب الجديد 
+ 
+`Followers?: `69 
+ 
+`Following?:` 40 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1333469198903889920/hTUkBNQR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2366 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 23 , **@DIEBO37:** 22 , **Y** 19 , **@PRANI73910711:** 19 , **QUE** 18 , **@CAHYANIHARYANTO:** 14 , **@ARCINIEGAS595:** 13 , **PARA** 11 , **EN** 11 , **@TERMINEITAR1:** 10 , **LA** 10 , **GOOD** 10 , **@DXHKXFUQIL1MITP:** 10 , **LO** 9 , **𝔊𝕯𝔏𝔈** 9 , **EVERYONE** 9 , **E** 9 , **@KISSMEAGAIN99** 9 , **@MORRISMEDIANO:** 9 , **UN** 8 , 
+ 
+## What this user tweeted
+ 
+RT @DIEBO37: You Can Hack An IPhone Just by Turning An Antenna.
+#Security #Hack #IPhone #CyberSecurity #Privacy #𝒟𝒾𝑒𝒷𝒪37  
+https://t.co/qfm…
+ 
+# auditomateUSER INFO
+![image](http://pbs.twimg.com/profile_images/1336048946561560578/KnWqNSp0_normal.jpg)
+ 
+`User ScreenName:` auditomate 
+ 
+`User chosen Name:` auditomate 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 07 20:38:26 +0000 2020 
+ 
+`User Description?:` IT auditor who can't help but automate routine tasks. Follow my learnings on cybersecurity, data analytics, audit automation and random CISA prep tips 
+ 
+`Followers?: `0 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1336048946561560578/KnWqNSp0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**EMAIL** 4 , **API** 3 , **SETUP** 2 , **INTERESTING** 2 , **KEY** 2 , **ADDRESSES** 2 , **WORK** 1 , **GUYS** 1 , **NOTIFICATION** 1 , **ANY** 1 , **EMAILS** 1 , **BREACHES** 1 , **USING** 1 , **HTTPS://TCO/MQ33DSAKOXYOU** 1 , **MIGHT** 1 , **SOME** 1 , **RESULTS** 1 , **NOTHING** 1 , **ELSE** 1 , **PROVIDE** 1 , 
+ 
+## What this user tweeted
+ 
+It's been a while since I touched the inner workings to email. Today I delved into email security and authenticatio… https://t.co/rrQ3tbdVdR
+ 
+# CharlieNesssssUSER INFO
+![image](http://pbs.twimg.com/profile_images/1332869263514886144/0d-uQ5gd_normal.jpg)
+ 
+`User ScreenName:` CharlieNesssss 
+ 
+`User chosen Name:` Charlie-Nesssss 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 29 02:08:58 +0000 2020 
+ 
+`User Description?:` ky-el is my human.                                                              
+                                
+😎😎😎😎😎😎😎 
+ 
+`Followers?: `0 
+ 
+`Following?:` 55 
+ 
+`User URL?:` https://t.co/vZMfFLLO00 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1332869263514886144/0d-uQ5gd_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@NYTIMES:** 1 , **XAVIER** 1 , **BECERRA** 1 , **PRESIDENT-ELECT** 1 , **JOE** 1 , **BIDEN’S** 1 , **NOMINEE** 1 , **RUN** 1 , **DEPARTMENT** 1 , **HEALTH** 1 , **HUMAN** 1 , **SERVICES** 1 , **ATTORNEY** 1 , **GENERAL…RT** 1 , **@WSJ:** 1 , **TRYING** 1 , **SCARE** 1 , **EMPLOYEES** 1 , **INTO** 1 , 
+ 
+## What this user tweeted
+ 
+RT @WSJ: Trying to scare employees into being more vigilant about cybersecurity doesn't work. Here is what does. https://t.co/nhQvI8SdYp
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>.twimg.com/profile_images/1334663100453146624/RNyLlxDT_normal.jpg)
  
 `User ScreenName:` Ervin49781244 
  
