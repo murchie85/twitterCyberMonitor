@@ -562,6 +562,248 @@ Gfuel Partner Use Code BOOGZ
 What path will you chose?🚻 #Cyberpunk2077 ⤵️Comment Below. #CyberNight #Cyberpunk2077Hype #Cyberpunk #CyberSecurity… https://t.co/YrhMdB3XPu
  
 
+<b> This report is AUTOMATED and n**MVP'S** 1 , **HE'S** 1 , **LEGIT@RIOTCROWER** 1 , **TODO** 1 , **ESTO** 1 , **LO** 1 , **DIGO** 1 , **SIN** 1 , **SABER** 1 , **SI** 1 , **SE** 1 , 
+ 
+## What this user tweeted
+ 
+- There have already been tests to penetrate the vulnerabilities of the anticheat system.
+- Niesow's cousin ko1N (g… https://t.co/JP8TgRyt4A
+ 
+# JohnCeeKing1USER INFO
+![image](http://pbs.twimg.com/profile_images/1335716791151157260/dRxV6zNr_normal.jpg)
+ 
+`User ScreenName:` JohnCeeKing1 
+ 
+`User chosen Name:` John ↙️↙️↙️ Alt 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 05 00:10:23 +0000 2020 
+ 
+`User Description?:` The cons got me... For six days. 
+ 
+`Followers?: `85 
+ 
+`Following?:` 230 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1335716791151157260/dRxV6zNr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 379 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 11 , **@NUMANHU04272070** 9 , **@SPECIALPUPPY1** 9 , **GOOD** 8 , **GOING** 7 , **I'M** 7 , **BAD** 7 , **@_JACK_W___** 7 , **TRUMP** 7 , **@MATTYGLESIAS** 7 , **MUCH** 6 , **DON'T** 6 , **REALLY** 6 , **@NOMINALTHOUGHTS** 5 , **THAT'S** 5 , **ABSOLUTELY** 5 , **SAME** 5 , **@INIHELENE** 5 , **SOCIAL** 5 , **VERY** 4 , 
+ 
+## What this user tweeted
+ 
+@samdman95 @nominalthoughts Hawley is the fascist who is going to exploit all of the vulnerabilities that Trump has… https://t.co/8KHjJTL1c3
+ 
+# Jeff_P_FullerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1335965004051443714/7BDDEJTR_normal.jpg)
+ 
+`User ScreenName:` Jeff_P_Fuller 
+ 
+`User chosen Name:` Jeff Fuller 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 07 15:10:32 +0000 2020 
+ 
+`User Description?:` #Bankruptcy Analyst @BLaw, Ohio native, Davidson grad, shiba inu dog dad, history/language nerd, opinions my own, RTs not endorsements, #chapter11 
+ 
+`Followers?: `25 
+ 
+`Following?:` 65 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1335965004051443714/7BDDEJTR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**QUICK** 2 , **TECHNOLOGY** 2 , **DEALS** 2 , **LEGAL** 2 , **RT** 1 , **@NPETERRASMUSSE1:** 1 , **LOOK** 1 , **SOME** 1 , **INTERESTING** 1 , **DATA** 1 , **ESG/RESILENCE** 1 , **BLAW** 1 , **SURVEY** 1 , **HIT** 1 , **HERE** 1 , **HTTPS://TCO/GKBD7RS77M…RT** 1 , **@BURNETTGRACEM:** 1 , **LATHAM** 1 , **WATKINS** 1 , **“HAS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Alison_LakeBen: 2020 saw systemic disruptions in business, government, and society, highlighting vulnerabilities and shaking up the leg…
+ 
+# KilianM26495709USER INFO
+![image](http://pbs.twimg.com/profile_images/1334296442001895424/cGMcAs3T_normal.jpg)
+ 
+`User ScreenName:` KilianM26495709 
+ 
+`User chosen Name:` Kilian M. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 03 00:36:33 +0000 2020 
+ 
+`User Description?:` Un bâtiment est un symbole, tout comme le fait de le détruire.  Les symboles reçoivent le pouvoir des gens.  Seulement, des sympople uniques n'ont pas de sens🪄 
+ 
+`Followers?: `0 
+ 
+`Following?:` 42 
+ 
+`User URL?:` None 
+ 
+`Location:`  Paris  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1334296442001895424/cGMcAs3T_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOOD** 3 , **@FRANCE24:** 2 , **RT** 1 , **@CULTURAALBERTO:** 1 , **PINTURA** 1 , **ARTE** 1 , **PAINTS** 1 , **ART** 1 , **PAINTINGS** 1 , **PINTORES** 1 , **CULTURA** 1 , **CULTURE** 1 , **TWITTERWORLD** 1 , **SABERYGANAR** 1 , **ARTISTAS** 1 , **ARTISTS** 1 , **ARTIS…RT** 1 , **@VERONICAENDLESS:** 1 , **MORNING** 1 , **VIBES** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ET_CISO: ETCISO | Hackers leak key data from Brazilian airplane maker Embraer #SecurityHackers #VirtualPrivateNetwork #CyberAttack #Vul…
+ 
+# thmiyasUSER INFO
+![image](http://pbs.twimg.com/profile_images/1335860409258012672/SOicKgLo_normal.jpg)
+ 
+`User ScreenName:` thmiyas 
+ 
+`User chosen Name:` 🍃 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 04 15:15:10 +0000 2020 
+ 
+`User Description?:` (not spoiler-free) anime and coffee dump | 21↑ 
+ 
+`Followers?: `0 
+ 
+`Following?:` 3 
+ 
+`User URL?:` https://t.co/Dsw7eqICKf 
+ 
+`Location:` wherever 
+ 
+`Number of tweets extracted`  : 79 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1335860409258012672/SOicKgLo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 79 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I'M** 8 , **AKAASHI** 7 , **SAKUATSU** 6 , **REALLY** 6 , **ATSUMU** 6 , **BC** 6 , **THESE** 5 , **HAIKYUU** 5 , **LOVE** 5 , **@EMSBY4:** 5 , **TSUMU** 4 , **MAYBE** 4 , **HEART** 4 , **WHILE** 3 , **WANNA** 3 , **CAN'T** 3 , **BREAK** 3 , **I'D** 3 , **SONG** 3 , **SAKUSA** 3 , 
+ 
+## What this user tweeted
+ 
+maybe i'm a sucker for tsumu bc he can read people like a book without necessarily being derisive/insufferable abou… https://t.co/g2iiJ2xRym
+ 
+# Ranked_RightUSER INFO
+![image](http://pbs.twimg.com/profile_images/1335372972195008518/y_JzoTir_normal.jpg)
+ 
+`User ScreenName:` Ranked_Right 
+ 
+`User chosen Name:` RankedRight 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 05 23:47:07 +0000 2020 
+ 
+`User Description?:` The New Way To Prioritize Your Vulnerabilities. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/Pt4qZaUAGC 
+ 
+`Location:` London, UK 
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1335372972195008518/y_JzoTir_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RANKEDRIGHT** 3 , **@STARTUPTRACKER:** 2 , **RANKING** 2 , **👇** 2 , **STARTUP** 2 , **CHECK** 2 , **@RANKED_RIGHTRANKEDRIGHT** 2 , **FEATURED** 2 , **"RANKEDRIGHT"** 2 , **SAAS** 2 , **CYBERSECURITY** 2 , **VULNERABILITIES** 2 , **RT** 1 , **SERIOUS** 1 , **SECURITY?** 1 , **AUTOMATES** 1 , **VULNERABILITY** 1 , **FREE** 1 , **TRIAL** 1 , **HTTPS://TCO/PD6PEKOTLZ** 1 , 
+ 
+## What this user tweeted
+ 
+RankedRight: Ranking vulnerabilities the right way for your organization https://t.co/86vLxItd5P via @Ranked_Right
+ 
+# BerryHeart_XUSER INFO
+![image](http://pbs.twimg.com/profile_images/1333300227764326400/fYHF7zDl_normal.jpg)
+ 
+`User ScreenName:` BerryHeart_X 
+ 
+`User chosen Name:` catching villians 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 30 06:41:41 +0000 2020 
+ 
+`User Description?:` burner account. Here for the drama ☕️ 
+ 
+`Followers?: `160 
+ 
+`Following?:` 73 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1333300227764326400/fYHF7zDl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 981 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I’M** 27 , **@GUDELZILV** 22 , **DON’T** 21 , **EVEN** 14 , **KEEP** 13 , **PEOPLE** 12 , **CAN’T** 10 , **@KJGM12** 10 , **@COME_ON_DANTE** 10 , **SOME** 9 , **BLOCKED** 8 , **@2LOVE_YOURSELF1** 8 , **I’VE** 7 , **THAT’S** 7 , **GETTING** 7 , **ROURKE** 7 , **Z** 6 , **LOL** 6 , **GOT** 6 , **NOTHING** 6 , 
+ 
+## What this user tweeted
+ 
+Rourke always made sure to tell us that he made mistakes as well. He never blamed you for your fall out. However, a… https://t.co/ORe0ZeAXqZ
+ 
+
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
 ### CONCLUSION & EXTERNAL ANALYSIS
 
