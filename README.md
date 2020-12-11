@@ -29,19 +29,19 @@ The most popular user is: **OANN**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RAtheRuggedMan: Your Government does not have your best interest.They play off your vulnerabilities &amp; only care about whats best for th… |
-| @mattcrew81 Thank you for sharing, will have to take the time to read the authors' concerns &amp; see if they're practi… https://t.co/FjFllKQUqd |
-| RT @CdnHeritage: With #COVID19, people’s vulnerabilities have been disproportionally exposed worldwide. Today, on #HumanRightsDay, let’s… |
+| @julianrunes As an immunocompromised person, thank you from the bottom of my heart. If everyone were as decent and… https://t.co/0Dvxv99kWl |
+| RT @tfri_research: 1⃣ Getting to the root of cancer relapseA team led by Dr. John Dick will receive $5.45M over six years to search for w… |
+| RT @CioAmaro: Widespread IoT, OT vulnerabilities reported https://t.co/jZTDYwaSsJ#IoT #IIoT #IoTPL #IntrernetOfThings #Sensors #Network #T… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **RAtheRuggedMan** |
-| #2 Most tweeted to  | **avrohomg** |
-| #3 Most tweeted to  | **owasp** |
-| NewProfiles (less than 10 days) | 0.51%  |
-| Tweeters with < 10 followers  | 4.41%|
-| Tweeters with > 1000000 followers  | 0.17%  |
+| #2 Most tweeted to  | **FridaGhitis** |
+| #3 Most tweeted to  | **VakashaS** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 4.79%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -52,20 +52,20 @@ The most popular user is: **OANN**
 | ------------- | ------------- |
 | first  | **VULNERABILITIES**  |
 | second  | **BEST**  |
-| third  | **DOES** |
-| fourth  | **CARE**  |
-| fifth  | **PLAY**  |
+| third  | **DEMOCRACY** |
+| fourth  | **DOES**  |
+| fifth  | **CARE**  |
 
 
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (30.0%) **OBJECTIVE** (70.0%)
+VIEWS WERE : **SUBJECTIVE**  (27.27%) & **NEGATIVELY-SUBJECTIVE** (27.27%) **OBJECTIVE** (45.45%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Our generation is indeed with broken hearts and damaged souls, carrying our pieces and baggage along with us, wande… https://t.co/MC41saMS7y |
+|RT @RAtheRuggedMan: Your Government does not have your best interest.They play off your vulnerabilities &amp; only care about whats best for th… |
 
 ### MOST RETWEETED 
 
@@ -74,6 +74,162 @@ VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (30.0%) **OBJECT
 | Exclusive CNN report from 2017 exposes dangerous vulnerabilities in U.S. voting machines https://t.co/5cL2SZfLZy #OANN @PearsonSharp |
 
 # Potential Fake Accounts
+ 
+# slayer_krakenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1336805185075625984/HjhezYkP_normal.jpg)
+ 
+`User ScreenName:` slayer_kraken 
+ 
+`User chosen Name:` KrakenSlayer 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Dec 09 22:38:01 +0000 2020 
+ 
+`User Description?:` Qult de-programmer. Protecting the American experiment from those who would choose a dictatorship over a democracy. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 60 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1336805185075625984/HjhezYkP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 60 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CODEMONKEYZ** 13 , **@JENNAELLISESQ** 12 , **@REALMATTCOUCH** 7 , **AGAINST** 7 , **@RSBNETWORK** 6 , **AMERICAN** 6 , **TRUMP** 6 , **DEMOCRACY** 5 , **DIDN’T** 4 , **TREASON** 4 , **@YOUTUBE** 4 , **DON’T** 3 , **MAYBE** 3 , **EXCEPT** 3 , **UNITED** 3 , **GOOD** 3 , **YOU’RE** 3 , **THEN** 3 , **COUNTRY** 3 , **PEOPLE** 3 , 
+ 
+## What this user tweeted
+ 
+@christina_bobb @OANN After losing over 50 cases and parroting some conspiracy bullshit about Dominion propagated b… https://t.co/PRPoyEeft6
+ 
+# nawmickUSER INFO
+![image](http://pbs.twimg.com/profile_images/1336914068813189122/n1yFsfng_normal.jpg)
+ 
+`User ScreenName:` nawmick 
+ 
+`User chosen Name:` Jonathan Naumiec 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 10 05:21:32 +0000 2020 
+ 
+`User Description?:` Cyberish. Intelligentish. @RecordedFuture  |  These are my opinions. Kindly provide your own. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1336914068813189122/n1yFsfng_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**5G** 3 , **4** 2 , **PRIVACY** 2 , **VULNERABILITIES** 1 , **POINT** 1 , **3** 1 , **ABOVE** 1 , **VULNS** 1 , **RUN** 1 , **RAMPANT** 1 , **CHEAPER** 1 , **PRODUCTS** 1 , **AND/OR** 1 , **PRESENT** 1 , **SECURIT…** 1 , **HTTPS://TCO/MA1EMYOO293** 1 , **BUDGET** 1 , **@CISAGOV** 1 , **MENTIONS** 1 , **COMPONENTS** 1 , 
+ 
+## What this user tweeted
+ 
+4. Vulnerabilities. See point 3, above. Vulns will run rampant in cheaper products and/or present their own securit… https://t.co/ma1emYOo29
+ 
+# chuckwickmnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1336113719017938945/h_Cz-Om7_normal.jpg)
+ 
+`User ScreenName:` chuckwickmn 
+ 
+`User chosen Name:` Chuck 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 08 00:55:04 +0000 2020 
+ 
+`User Description?:` I should probably have a fork on me at all times. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:` Minnesota, USA 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1336113719017938945/h_Cz-Om7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BEST** 2 , **RT** 1 , **@RATHERUGGEDMAN:** 1 , **GOVERNMENT** 1 , **DOES** 1 , **INTERESTTHEY** 1 , **PLAY** 1 , **OFF** 1 , **VULNERABILITIES** 1 , **CARE** 1 , **WHATS** 1 , **TH…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @RAtheRuggedMan: Your Government does not have your best interest.They play off your vulnerabilities &amp; only care about whats best for th…
+ 
+# Zetly092USER INFO
+![image](http://pbs.twimg.com/profile_images/1336903293172285440/SaFqGyFr_normal.jpg)
+ 
+`User ScreenName:` Zetly092 
+ 
+`User chosen Name:` Zetly09 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 10 05:18:10 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1336903293172285440/SaFqGyFr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I’M** 2 , **@BANGPATENG_COM** 1 , **@UCOKKEREN8** 1 , **@PRASAGAOFFICIAL** 1 , **DEVELOPER** 1 , **INTERESTED** 1 , **CONTRIBUTING** 1 , **PROJECT** 1 , **AL…** 1 , **HTTPS://TCO/IM5CBXY6NJ** 1 , 
+ 
+## What this user tweeted
+ 
+@bangpateng_com @Ucokkeren8 @PrasagaOfficial I’m a developer, and I’m interested in contributing to your project al… https://t.co/im5CbXY6nJ
  
 # BoredSWUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1334527360532705280/En0PSEgk_normal.jpg)
@@ -88,7 +244,7 @@ VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (30.0%) **OBJECT
  
 `User Description?:` Grumpy, bored, fed up. Opinionated survivor of patriarchy. Anti SWERF/TERF. Sex sells & it always will, so make it safer for survivors & thrivers alike! #Decrim 
  
-`Followers?: `12 
+`Followers?: `14 
  
 `Following?:` 58 
  
