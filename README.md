@@ -29,18 +29,18 @@ The most popular user is: **likethecoins**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FireEye: Learn how to use the @MITREattack framework to align organizational cyber components over the long term and see how you can us… |
-| RT @JinibaBD: Another #databreach! 😱😱😨😨 Pluto TV - 3,225,080 breached accounts #CyberSecurity #osint #cyberthreats #hackers #darkweb #data… |
-| A lot has been written about Chinese state-sponsored #espionage.What can a company do?@nisos expert Willis McDo… https://t.co/Nd8CI6gOnd |
+| RT @bad_packets: Scanning activity detected from 51.75.64.187 (🇫🇷/🇩🇪 Tor exit node) checking for Pulse Secure VPN servers vulnerable to CVE… |
+| RT @javier_carriazo: Phishing Campaign Targets 200M Microsoft 365 Accounts Try @IRONSCALES!#CyberSecurity #osint #cyberthreats #hackers #d… |
+| RT @nil0x42: 🤩 Find private URLs by keyword from bruteforced URL shorteners database, for #bugbounty hunters 💰urlhunter https://t.co/V6jj… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.05%  |
-| Tweeters with < 10 followers  | 0.46%|
+| #1 Most tweeted to  | **javier_carriazo** |
+| #2 Most tweeted to  | **bad_packets** |
+| #3 Most tweeted to  | **FarsightSecInc** |
+| NewProfiles (less than 10 days) | 0.13%  |
+| Tweeters with < 10 followers  | 0.71%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,21 +51,21 @@ The most popular user is: **likethecoins**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **OSINT**  |
-| second  | **HACKERS**  |
-| third  | **CYBERTHREATS** |
-| fourth  | **@JINIBABD:**  |
-| fifth  | **DARKWEB**  |
+| second  | **THREATINTEL**  |
+| third  | **HACKERS** |
+| fourth  | **@JAVIER_CARRIAZO:**  |
+| fifth  | **CYBERTHREATS**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|[#PublicSector #OSINT Experts] Mark your calendar for a 45-min briefing on the nation-state threat landscape of… https://t.co/q1YKcded3i |
+|RT @javier_carriazo: Financial threats in 2021: cryptocurrency transit, web skimmers move to the server side and extortion#CyberSecurity #… |
 
 ### MOST RETWEETED 
 
@@ -74,6 +74,45 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
 | New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O |
 
 # Potential Fake Accounts
+ 
+# atrandafir_roUSER INFO
+![image](http://pbs.twimg.com/profile_images/1337811905616949249/4CgunD9e_normal.jpg)
+ 
+`User ScreenName:` atrandafir_ro 
+ 
+`User chosen Name:` Adrian Trandafir 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 12 17:28:38 +0000 2020 
+ 
+`User Description?:` Cyber threat research as profession and passion. Opinions my own. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 20 
+ 
+`User URL?:` https://t.co/eXLloaud1i 
+ 
+`Location:` Bucharest 
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1337811905616949249/4CgunD9e_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RANSOMWARE** 3 , **@INTEL471INC:** 3 , **PART** 2 , **@MARKARENAAU:** 2 , **INTEL** 2 , **CYBERCRIME** 2 , **UNDERGROUND** 2 , **ACCESS** 2 , **RT** 1 , **@JASE_PASSWATERS:** 1 , **2** 1 , **3** 1 , **SERIES** 1 , **@GREGOTTO** 1 , **TAKES** 1 , **LOOK** 1 , **POV** 1 , **VICTIM** 1 , **TH…RT** 1 , **ALLEGED** 1 , 
+ 
+## What this user tweeted
+ 
+RT @jase_passwaters: Part 2 of a 3 part series on Ransomware by @gregotto is out. It takes a look at ransomware from the POV of a victim th…
  
 # var1m_USER INFO
 ![image](http://pbs.twimg.com/profile_images/1335840426042011651/oej4ceLz_normal.jpg)
