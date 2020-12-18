@@ -29,9 +29,9 @@ The most popular user is: **Volexity**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| WinZip Trial Popup Had A Vulnerability That Allowed Malware Attacks #CyberSecurity #osint #cyberthreats #hackers… https://t.co/LFM8Tabc0N |
-| RT @CtacPaladion: [VUL] Critical CSRF #vulnerability found on #Glassdoor company review platform.To read more visit: https://t.co/MmotSD5a… |
-| RT @javier_carriazo: RiskIQ Releases 2020 Holiday Shopping E-commerce Blacklist Threat Report #CyberSecurity #osint #cyberthreats #hackers… |
+| RT @Volexity: If you are concerned about a #SolarWinds breach, we have issued guidance on detecting, preventing &amp; remediating the Dark Halo… |
+| RT @Volexity: Supply Chain compromise of #SolarWinds provides Dark Halo actor with unauthorized remote access to select targets. @Volexity… |
+| RT @bad_packets: Top 10 Countries – December 11, 2020New unique DDoS malware hosts detected by country:🇨🇳 China: 333🇪🇬 Egypt: 98🇮🇳 Indi… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **Volexity**
 | #2 Most tweeted to  | **JinibaBD** |
 | #3 Most tweeted to  | **javier_carriazo** |
 | NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 0.98%|
+| Tweeters with < 10 followers  | 0.93%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,21 +51,21 @@ The most popular user is: **Volexity**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **OSINT**  |
-| second  | **CYBERTHREATS**  |
-| third  | **HACKERS** |
-| fourth  | **SOLARWINDS**  |
+| second  | **SOLARWINDS**  |
+| third  | **CYBERTHREATS** |
+| fourth  | **HACKERS**  |
 | fifth  | **THREATINTEL**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: US government agencies hacked; Russia a possible culprit #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreaches… |
+|RT @JinibaBD: Hacked Subway UK marketing system used in #TrickBot phishing campaign #CyberSecurity #osint #cyberthreats #hackers #darkweb… |
 
 ### MOST RETWEETED 
 
@@ -96,11 +96,11 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJ
  
 `Location:`  
  
-`Number of tweets extracted`  : 53 
+`Number of tweets extracted`  : 54 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1339054981119414275/14CFl8J2_normal.jpg 
  
-`Number of tweets excluding replies:` 53 
+`Number of tweets excluding replies:` 54 
  
 
  
@@ -108,7 +108,7 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJ
  
 ## User Top tweeted words 
  
-**@SECURITYTUBE:** 11 , **LEARN** 6 , **SECURITY** 6 , **TEAM** 5 , **WINDOWS** 5 , **LABS** 4 , **COM** 4 , **QUE** 4 , **DE** 4 , **NÃO** 4 , **US** 4 , **NEW** 4 , **RED** 4 , **ATTACKDEFENSE** 3 , **DA** 3 , **EMAIL** 3 , **CYBERSECURITY** 3 , **TIME** 3 , **GTK** 3 , **4** 3 , 
+**@SECURITYTUBE:** 11 , **LEARN** 6 , **SECURITY** 6 , **E** 5 , **TEAM** 5 , **WINDOWS** 5 , **LABS** 4 , **COM** 4 , **QUE** 4 , **DE** 4 , **NÃO** 4 , **US** 4 , **NEW** 4 , **RED** 4 , **É** 3 , **ATTACKDEFENSE** 3 , **DA** 3 , **EMAIL** 3 , **CYBERSECURITY** 3 , **TIME** 3 , 
  
 ## What this user tweeted
  
@@ -130,7 +130,7 @@ VirusTotal: https://t.co/F1WuwU49Fe
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
 `Following?:` 1 
  
@@ -169,7 +169,7 @@ RT @AttackIQ: Our friends at @TheHackerValley join #AttackIQAcademy to share how
  
 `User Description?:` Bugbounty retweet bot || I retweet bugbounty things! || Made with python by @coder_rc || Made In India || Desi botwa 
  
-`Followers?: `46 
+`Followers?: `49 
  
 `Following?:` 33 
  
@@ -181,7 +181,7 @@ RT @AttackIQ: Our friends at @TheHackerValley join #AttackIQAcademy to share how
  
 `Profile image:` http://pbs.twimg.com/profile_images/1337957194898104323/cHH3o4X7_normal.jpg 
  
-`Number of tweets excluding replies:` 459 
+`Number of tweets excluding replies:` 462 
  
 
  
@@ -189,7 +189,7 @@ RT @AttackIQ: Our friends at @TheHackerValley join #AttackIQAcademy to share how
  
 ## User Top tweeted words 
  
-**BUGBOUNTY** 82 , **RT** 38 , **BUG** 34 , **HACKERONE** 33 , **BUGBOUNTYTIPS** 33 , **BUGBOUNTYTIP** 24 , **SUBMITTED** 23 , **DISCLOSED** 22 , **CYBERSECURITY** 19 , **INFOSEC** 19 , **@DISCLOSEDH1:** 16 , **@M404NTF:** 16 , **BYPASS** 15 , **RECON** 13 , **1** 12 , **SECURITY** 11 , **BOUNTY:** 11 , **NEW** 11 , **@SECURISEC:** 11 , **XSS** 11 , 
+**BUGBOUNTY** 80 , **RT** 36 , **BUGBOUNTYTIPS** 33 , **BUG** 32 , **HACKERONE** 31 , **BUGBOUNTYTIP** 24 , **SUBMITTED** 21 , **DISCLOSED** 20 , **CYBERSECURITY** 19 , **INFOSEC** 19 , **@M404NTF:** 16 , **@DISCLOSEDH1:** 15 , **BYPASS** 15 , **RECON** 13 , **1** 12 , **SECURITY** 11 , **BOUNTY:** 11 , **NEW** 11 , **XSS** 11 , **@INFOSECSANYAM:** 10 , 
  
 ## What this user tweeted
  
@@ -211,7 +211,7 @@ https://t.co/OyCDd3PIdk Enabling Incident Response in a Remote Wo…
  
 `Followers?: `52 
  
-`Following?:` 332 
+`Following?:` 331 
  
 `User URL?:` None 
  
@@ -248,7 +248,7 @@ RT @threatintel: #ThreatProtection #SpyMax continues to stalk Android users. #Sy
  
 `User Description?:`  
  
-`Followers?: `4 
+`Followers?: `5 
  
 `Following?:` 106 
  
@@ -287,7 +287,7 @@ RT @bad_packets: Mass scanning activity detected from 91.241.19.84 (🇷🇺) ta
  
 `User Description?:` Cyber threat research as profession and passion. Opinions my own. 
  
-`Followers?: `6 
+`Followers?: `7 
  
 `Following?:` 49 
  
