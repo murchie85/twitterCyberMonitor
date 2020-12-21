@@ -546,3 +546,250 @@ RT @obheda12: The Ultimate GitHub Dorks List v2 is out now!
 ## What this user tweeted
  
 RT @Wario64: Humble Book Bundle: Cybersecurity &amp; Cryptography https://t.co/q5RTDK2eM3 https://t.co/JrEHFiBjW4
+ 
+# RaselRa13453260USER INFO
+![image](http://pbs.twimg.com/profile_images/1338910636877574144/q4kDrqfW_normal.jpg)
+ 
+`User ScreenName:` RaselRa13453260 
+ 
+`User chosen Name:` Rasel Rahman 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 15 15:24:08 +0000 2020 
+ 
+`User Description?:` Hay! I'm Rasel_Rahman
+
+ I'm a Certified Ethical Hacker And Cyber Security Expert.!!!
+ I Also an Expert in Website Malware Removal.(wordpress, drupal E.T.C ) 
+ 
+`Followers?: `13 
+ 
+`Following?:` 466 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1338910636877574144/q4kDrqfW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ORDER** 5 , **/** 5 , **INFO** 5 , **NEWS** 4 , **MALWAREANALYSIS** 3 , **VULNERABILITYTESTING** 3 , **HTTPS://TCO/KZJSNMBVLV@FCBARCELONA** 2 , **@JORDIALBA** 2 , **@DEJONGFRENKIE21** 2 , **MALWAREREMOVER** 2 , **BLACKLISTREMOVAL** 2 , **VULNERABILITY** 2 , **MALWARE…** 2 , **WORDPRESS** 1 , **MALWAREREMOVAR** 1 , **SPORTSCENTER** 1 , **MALWARE** 1 , **SECURITY…** 1 , **HTTPS://TCO/H4GRMVMKEZ@WEBWALLEN** 1 , **HTTPS://TCO/KZJSNMBVLV@LFC** 1 , 
+ 
+## What this user tweeted
+ 
+#WordPress #MalwareRemovar #MalwareAnalysis #VulnerabilityTesting #news #SportsCenter #Malware #security… https://t.co/H4GRmVMKeZ
+ 
+# AkiraKu46992023USER INFO
+![image](http://pbs.twimg.com/profile_images/1339669926420746240/-f2HGSk3_normal.jpg)
+ 
+`User ScreenName:` AkiraKu46992023 
+ 
+`User chosen Name:` Akira Kurusu 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 12 00:21:18 +0000 2020 
+ 
+`User Description?:` PSN: Diego-BrandoSBR 
+ 
+`Followers?: `1 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:` Tokyo-to, Japan 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339669926420746240/-f2HGSk3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 235 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@WARIO64:** 196 , **BUY** 38 , **BEST** 37 , **US** 36 , **AMAZON** 32 , **ESHOP** 30 , **$999** 18 , **(SWITCH)** 16 , **$1499** 16 , **GAMESTOP** 16 , **XBOX** 15 , **STEAM** 14 , **EDITION** 13 , **SALE** 12 , **GAMES** 11 , **STORE** 11 , **GAME** 11 , **SWITCH** 11 , **XBL** 10 , **EPIC** 10 , 
+ 
+## What this user tweeted
+ 
+RT @Wario64: Humble Book Bundle: Cybersecurity &amp; Cryptography https://t.co/q5RTDK2eM3 https://t.co/JrEHFiBjW4
+ 
+# Williammarcus89USER INFO
+![image](http://pbs.twimg.com/profile_images/1340987325275357184/ax3OTIPy_normal.jpg)
+ 
+`User ScreenName:` Williammarcus89 
+ 
+`User chosen Name:` William Marcus 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 11:47:19 +0000 2020 
+ 
+`User Description?:` William Richard Marcus.
+(646)-995-2440 text me on WhatsApp for business.
+Business: William's Grant Organization (W.G.O) 
+ 
+`Followers?: `1 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:` Washington, USA 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340987325275357184/ax3OTIPy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SARALYNNWARBY** 1 , **@YOUTUBE** 1 , **HEY@AJAHBITCH** 1 , **HEY** 1 , **LET'S** 1 , **CHAT** 1 , **MORERT** 1 , **@ONYXGOVERNMENT:** 1 , **ONYX** 1 , **PROVIDES** 1 , **SOLUTIONS** 1 , **ENTERPRISE** 1 , **CYBERSECURITY** 1 , **ANALYTICS** 1 , **PROTECT** 1 , **MISSION-CRITICAL** 1 , **SYSTEMS** 1 , **DA…RT** 1 , **@LIAMPAYNE:** 1 , **FINAL** 1 , 
+ 
+## What this user tweeted
+ 
+RT @OnyxGovernment: Onyx provides solutions for enterprise IT, cybersecurity, analytics and more to protect mission-critical systems and da…
+ 
+# JSped3USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` JSped3 
+ 
+`User chosen Name:` J Sped 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 14 13:46:03 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 51 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BARR** 3 , **ATTORNEY** 2 , **GENERAL** 2 , **WILLIAM** 2 , **SPECIAL** 2 , **COUNSEL** 2 , **HUNTER** 2 , **RT** 1 , **@THEHILL:** 1 , **RUSSIA** 1 , **APPEARS** 1 , **BEHIND** 1 , **MASSIVE** 1 , **HACK** 1 , **HTTPS://TCO/9MUEO3FGB8** 1 , **HTTPS://TCO/OLTFPV915BRT** 1 , **@NYTIMES:** 1 , **BREAKING** 1 , **NEWS:** 1 , **OUTGOING** 1 , 
+ 
+## What this user tweeted
+ 
+RT @thehill: Barr says Russia appears to be behind massive hack https://t.co/9MUeo3FgB8 https://t.co/olTfPv915B
+ 
+# QuantumTech12USER INFO
+![image](http://pbs.twimg.com/profile_images/1341086534213267462/JvBH3-O8_normal.jpg)
+ 
+`User ScreenName:` QuantumTech12 
+ 
+`User chosen Name:` Quantum Tech 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 18:20:46 +0000 2020 
+ 
+`User Description?:` Trending trends in Information Technology 
+ 
+`Followers?: `0 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341086534213267462/JvBH3-O8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SCIAM:** 4 , **@FORBESTECH:** 3 , **INDUSTRY** 3 , **US** 2 , **@PLAYSTATION:** 2 , **MILES** 2 , **HTT…RT** 2 , **USED** 2 , **RT** 1 , **USING** 1 , **ARTIFICIAL** 1 , **INTELLIGENCE** 1 , **TRANSFORM** 1 , **INDUSTRY?** 1 , **NOMINATIONS** 1 , **2021** 1 , **AI** 1 , **50** 1 , **LIST** 1 , **OPEN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @sciam: A cybersecurity expert explains how hackers used SolarWinds to steal information from government and industry organizations. htt…
+ 
+# Mohamme66035689USER INFO
+![image](http://pbs.twimg.com/profile_images/1341081911435821056/kkqZxM9v_normal.jpg)
+ 
+`User ScreenName:` Mohamme66035689 
+ 
+`User chosen Name:` Mohammed Irfan MI 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 18:02:20 +0000 2020 
+ 
+`User Description?:` bulet lover 
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341081911435821056/kkqZxM9v_normal.jpg 
+ 
+`Number of tweets excluding replies:` 277 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MESMERIZINGJASMIN** 98 , **MESMERIZINGJASMINRT** 79 , **JASMIN** 45 , **JASMINBHASIN** 33 , **@JASMINBHASIN** 31 , **@JASMINBHASINRT** 27 , **@VISH90062853:** 26 , **MESMERISING** 26 , **@AVNISIN08598646:** 16 , **@SAHILPA18620354:** 16 , **LOVE** 15 , **@BIGGBOSS** 12 , **@COLORSTV** 12 , **@ALYGONI** 10 , **@VOOTSELECT** 10 , **@NK00652196:** 10 , **MAKE** 9 , **GUYS** 9 , **MESMERIZING** 9 , **@ORMAXMEDIA** 8 , 
+ 
+## What this user tweeted
+ 
+RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the SolarWinds cyber supply chain attack. It's time to be proac…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
