@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **MeidasTouch**  
+The most popular user is: **MrsBundrige**  
  
 
-## The federal budget deficit was $587 billion in 2016. It is over $3.1 trillion today. And Republicans have the nerve… https://t.co/blY53d8Ylx 
+## How old were you when you began seeing your parents as people and not as a “parental entity”? But as a person with… https://t.co/QBBFSoUzaS 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **MeidasTouch**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @ChrisWithTheBat @SarahASmith75 @RMGirlUK @PrivaCat @AlyssaM_InfoSec @zsk @NikkiC360 @RoseSecOps @FLAnderson… https://t.co/aaNqiEKum2 |
-| #LordSystem #Closeprotection &amp; #Infosec Lord Systems is a converged security consulting firm.Physical securit… https://t.co/vE8O8TIpMW |
-| RT @vishne0: 'Sadistic and amoral': Mental health expert performs postmortem on the 'pathological' Trump presidencyhttps://t.co/zz9FHswr7… |
+| https://t.co/kbpHCQcWmQ mitre CVE list has no 2020 results 🤔🤔🤔 |
+| Slashdot: China Accused of Spying On Americans Via Caribbean Phone Networks https://t.co/DjiRYZb4GC |
+| RT @tedlieu: As one of four recovering computer science majors in Congress, here is my statement on the massive Russian hack of US federal… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AlyssaM_InfoSec** |
-| #2 Most tweeted to  | **Infosec_Taylor** |
-| #3 Most tweeted to  | **TheHackersNews** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 1.26%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **SanaKiFakeID** |
+| #2 Most tweeted to  | **thejessicadore** |
+| #3 Most tweeted to  | **CBS_Herridge** |
+| NewProfiles (less than 10 days) | 1.96%  |
+| Tweeters with < 10 followers  | 7.82%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **MeidasTouch**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **MALWARE**  |
-| third  | **SOLARWINDS** |
-| fourth  | **PHISHING**  |
-| fifth  | **@ALYSSAM_INFOSEC**  |
+| first  | **VULNERABILITIES**  |
+| second  | **LOVE**  |
+| third  | **MADE** |
+| fourth  | **SPECIFIC**  |
+| fifth  | **BIG**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@roguecyber Yes, there is. Some of our hospitals have zero vaccines so far. You act like every hospital has been gi… https://t.co/T6WlzWNXyo |
+|RT @KanekoaTheGreat: GEORGIA🚨USB drives used in voting machines, but disabled in military's classified equipment systems because of *vuln… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MeidasTouch**  |
+| The most retweeted user is: **MrsBundrige**  |
 | ------------- |
-| The federal budget deficit was $587 billion in 2016. It is over $3.1 trillion today. And Republicans have the nerve… https://t.co/blY53d8Ylx |
+| How old were you when you began seeing your parents as people and not as a “parental entity”? But as a person with… https://t.co/QBBFSoUzaS |
 
 # Potential Fake Accounts
  
-# forzajojoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1340938302417997826/znl1_ZY1_normal.jpg)
+# shopbooks2USER INFO
+![image](http://pbs.twimg.com/profile_images/1341053539481759745/CdPICa2y_normal.jpg)
  
-`User ScreenName:` forzajojo 
+`User ScreenName:` shopbooks2 
  
-`User chosen Name:` forza_jojo 
+`User chosen Name:` shop books 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 21 08:01:32 +0000 2020 
+`User signup date?:` Mon Dec 21 16:09:48 +0000 2020 
  
-`User Description?:` I am passionate by IT and anything related to it. 
+`User Description?:` Selling electronic books at low prices 
  
-`Followers?: `2 
+`Followers?: `8 
  
-`Following?:` 82 
+`Following?:` 105 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 40 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1340938302417997826/znl1_ZY1_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1341053539481759745/CdPICa2y_normal.jpg 
  
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 40 
  
 
  
@@ -108,28 +108,301 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJ
  
 ## User Top tweeted words 
  
-**ATTACKS** 2 , **INTO** 2 , **STEAL** 2 , **DON'T** 2 , **@NEWSCIENTIST:** 2 , **VIRUS** 2 , **DU** 2 , **RT** 1 , **@DARKREADING:** 1 , **CLOUD** 1 , **GIVEN** 1 , **ATTACKERS** 1 , **TARGETS** 1 , **NEW** 1 , **TOOLS** 1 , **CONDUCT** 1 , **BASED** 1 , **LAUNCH** 1 , **POINTS** 1 , **RANG…RT** 1 , 
+**@GUMROAD** 21 , **HACKING** 12 , **LEARN** 9 , **HACKING:** 8 , **HACK** 8 , **HACKS** 7 , **ETHICAL** 7 , **+** 6 , **GUIDE** 6 , **COURSE** 6 , **:** 4 , **PYTHON** 4 , **COMPREHENSIVE** 4 , **HACKS:** 4 , **WIRELESS** 4 , **FAST** 3 , **COMPUTER** 3 , **PROGRAMMING** 3 , **BEGINNERS:** 3 , **LINUX** 3 , 
  
 ## What this user tweeted
  
-RT @Gurgling_MrD: No vendor should turn what happened in the intrusion into SolarWinds, FireEye, and multiple US Government agencies into a…RT @TheHackersNews: 🚨 iPhones of at least 36 journalists were hacked using a critical zero-click #iMessage exploit to install NSO Group's P…
+Buy Advanced https://t.co/A9ALxQcRzH Core 3 Security: Understanding Hacks, Attacks, and Vulnerabilities to Secure Y… https://t.co/2odLZq894d
  
-# Mohamme66035689USER INFO
-![image](http://pbs.twimg.com/profile_images/1341081911435821056/kkqZxM9v_normal.jpg)
+# DrOctagonHSUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` Mohamme66035689 
+`User ScreenName:` DrOctagonHS 
  
-`User chosen Name:` Mohammed Irfan MI 
+`User chosen Name:` DrOctagonHS 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 21 18:02:20 +0000 2020 
+`User signup date?:` Wed Dec 16 18:59:47 +0000 2020 
  
-`User Description?:` bulet lover 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 113 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JONST0KES** 9 , **@SKDH** 7 , **POINT** 6 , **@FARUK_MUSTAFIC** 6 , **@ERINBIBA** 6 , **@CELIARESEARCH** 6 , **@WESYANG** 5 , **FUCKING** 4 , **@ZOEMCLAREN** 4 , **@SEA_TWIN** 4 , **@NAKRAMR** 4 , **WELL** 4 , **@DRKITTYGIRL** 4 , **ACIP** 3 , **YOU’RE** 3 , **TALKING** 3 , **SILVER** 3 , **THAN** 3 , **PEOPLE** 3 , **MEANS** 3 , 
+ 
+## What this user tweeted
+ 
+@Rich_Penny @NakramR @jonst0kes “Genetically induced vulnerabilities” is exactly what he means by “biological essentialism,” dum dum.
+ 
+# IngaSmirnoffUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340360673008693248/kewXB4Ar_normal.jpg)
+ 
+`User ScreenName:` IngaSmirnoff 
+ 
+`User chosen Name:` Inga Smirnoff 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 19 18:17:07 +0000 2020 
+ 
+`User Description?:` Cute man 
+ 
+`Followers?: `0 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340360673008693248/kewXB4Ar_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**И** 6 , **НЕ** 4 , **А** 3 , **@JUSTINSUNTRON:** 3 , **@KSYOMIN** 3 , **ЭТО** 3 , **INSTAGRAM** 2 , **LIKES** 2 , **DON'T** 2 , **ЧТО** 2 , **ВЫ** 2 , **IK** 2 , **@TEAMANYBRASIL** 2 , **@PITUFANYS** 2 , **С** 2 , **BTCTRON** 2 , **ECOSYSTEM** 2 , **2019** 2 , **ПИНГВИНЫ** 2 , **ШАЛАВА** 2 , 
+ 
+## What this user tweeted
+ 
+RT @mr_ransomware: @Linktree_ Hello I am a Security Researcher &amp; Malware Analyst that is based in the United States. I work with tech giant…
+ 
+# James00004865USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` James00004865 
+ 
+`User chosen Name:` James 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 01:50:28 +0000 2020 
+ 
+`User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 2 
+`Following?:` 21 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MSNBC:** 7 , **@CNN:** 4 , **•** 4 , **@TRIBELAW:** 4 , **NEW** 3 , **DAYS** 3 , **NEED** 3 , **@KAMALAHARRIS:** 3 , **MONTH** 3 , **@JOEBIDEN:** 3 , **UNEMPLOYMENT** 2 , **TWO** 2 , **TRUMP** 2 , **COULD** 2 , **AGAIN** 2 , **DIDN’T** 2 , **FAILED** 2 , **REPUBLICANS** 2 , **PARTY** 2 , **FEW** 2 , 
+ 
+## What this user tweeted
+ 
+RT @MSNBC: An obscure company based in Austin, Texas, is believed to be at the center of a widespread Russian hacking campaign against the…
+ 
+# JasFan10USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` JasFan10 
+ 
+`User chosen Name:` Jas Fan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 15:30:43 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `11 
+ 
+`Following?:` 55 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 196 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 807 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MESMERIZING** 145 , **JASMINRT** 104 , **JASMIN** 47 , **GUYS** 35 , **STOP** 27 , **@JASMINBHASIN** 23 , **@BIGGBOSS** 20 , **@COLORSTV** 18 , **@ORMAXMEDIA** 17 , **TREND** 16 , **LET'S** 15 , **SPEED** 15 , **DON'T** 14 , **YES** 13 , **@ALYGONI** 12 , **@KHUSHI_192** 11 , **LOVE** 10 , **1** 10 , **1M** 10 , **SHOULDN'T** 10 , 
+ 
+## What this user tweeted
+ 
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
+ 
+# arcanodezUSER INFO
+![image](http://pbs.twimg.com/profile_images/1338251088491909120/ywFj80On_normal.jpg)
+ 
+`User ScreenName:` arcanodez 
+ 
+`User chosen Name:` invólucro do nada 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 13 22:18:18 +0000 2020 
+ 
+`User Description?:` eu não tenho nada a dizer 
+ 
+`Followers?: `13 
+ 
+`Following?:` 27 
+ 
+`User URL?:` None 
+ 
+`Location:` Salvador, Brasil 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1338251088491909120/ywFj80On_normal.jpg 
+ 
+`Number of tweets excluding replies:` 315 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 54 , **E** 47 , **EU** 42 , **QUE** 40 , **NÃO** 29 , **O** 25 , **É** 23 , **UM** 17 , **UMA** 16 , **AMIGA** 15 , **SE** 14 , **MEU** 12 , **MINHA** 11 , **VOCÊ** 11 , **DA** 10 , **ELA** 10 , **PRA** 10 , **POR** 9 , **JÁ** 8 , **COM** 8 , 
+ 
+## What this user tweeted
+ 
+RT @thejessicadore: Today's card. When we're doing well it's easy to forget about our weak spots, vulnerabilities &amp; the fact that there is…
+ 
+# PalakYa50220075USER INFO
+![image](http://pbs.twimg.com/profile_images/1341044722945589248/C_PFnlJ5_normal.jpg)
+ 
+`User ScreenName:` PalakYa50220075 
+ 
+`User chosen Name:` Palak Yadav 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 18 15:14:59 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 196 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341044722945589248/C_PFnlJ5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 898 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MESMERIZING** 159 , **JASMINRT** 132 , **JASMIN** 46 , **@MINTYJASMIN:** 24 , **@JASMINBHASIN** 19 , **SPEED** 16 , **GUYS** 15 , **@ITSAYSHA9** 15 , **@JASMINBHASIN_FP:** 12 , **DON'T** 12 , **@ITSAYSHA9:** 12 , **@ITSTEAMJASMIN** 11 , **TREND** 11 , **HAI** 11 , **@BHASINFP:** 11 , **@MIRACULOUSVIBE:** 10 , **1M** 10 , **EPISODE** 10 , **PEOPLE** 10 , **JALDI** 10 , 
+ 
+## What this user tweeted
+ 
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
+ 
+# ewaaaanaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340649254864338944/b_zI4IcM_normal.jpg)
+ 
+`User ScreenName:` ewaaaana 
+ 
+`User chosen Name:` MESMERIZING JASMIN 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 17 03:01:17 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340649254864338944/b_zI4IcM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 958 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MESMERIZING** 148 , **JASMIN** 103 , **@JASMINBHASIN** 64 , **JASMINRT** 62 , **@BIGGBOSS** 42 , **@ORMAXMEDIA** 33 , **@COLORSTV** 29 , **GUYS** 27 , **1M** 25 , **1** 20 , **MILLION** 18 , **LOVE** 16 , **@ALYGONI** 16 , **@ENDEMOLSHINEIND** 13 , **@MINTYJASMIN:** 13 , **VERY** 13 , **@BHASINFP:** 12 , **DON'T** 11 , **@ORMAXMEDIART** 11 , **PEOPLE** 11 , 
+ 
+## What this user tweeted
+ 
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
+ 
+# 00JaslyUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` 00Jasly 
+ 
+`User chosen Name:` _&_ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 13 13:15:22 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 8 
  
 `User URL?:` None 
  
@@ -137,89 +410,9 @@ RT @Gurgling_MrD: No vendor should turn what happened in the intrusion into Sola
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1341081911435821056/kkqZxM9v_normal.jpg 
- 
-`Number of tweets excluding replies:` 277 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MESMERIZINGJASMIN** 98 , **MESMERIZINGJASMINRT** 79 , **JASMIN** 45 , **JASMINBHASIN** 33 , **@JASMINBHASIN** 31 , **@JASMINBHASINRT** 27 , **@VISH90062853:** 26 , **MESMERISING** 26 , **@AVNISIN08598646:** 16 , **@SAHILPA18620354:** 16 , **LOVE** 15 , **@BIGGBOSS** 12 , **@COLORSTV** 12 , **@ALYGONI** 10 , **@VOOTSELECT** 10 , **@NK00652196:** 10 , **MAKE** 9 , **GUYS** 9 , **MESMERIZING** 9 , **@ORMAXMEDIA** 8 , 
- 
-## What this user tweeted
- 
-RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the SolarWinds cyber supply chain attack. It's time to be proac…
- 
-# AbdulWa18282000USER INFO
-![image](http://pbs.twimg.com/profile_images/1340618103852388352/7QmGUyEt_normal.jpg)
- 
-`User ScreenName:` AbdulWa18282000 
- 
-`User chosen Name:` NONPAREIL_THALA_FANS 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 20 11:19:58 +0000 2020 
- 
-`User Description?:` தல வெறியன்... 
-தன்னபிக்கை. தனிவழி. தல. 
-தாய். தந்தை. தல...... 
- 
-`Followers?: `6 
- 
-`Following?:` 40 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1340618103852388352/7QmGUyEt_normal.jpg 
- 
-`Number of tweets excluding replies:` 602 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WEALWAYSSUPPORTFARMERSRT** 60 , **WEALWAYSSUPPORTFARMERS** 55 , **FARMERS** 28 , **SUPPORT** 18 , **VALIMAI** 18 , **THALAAJITH** 15 , **இந்த** 14 , **TAG** 13 , **தான்** 13 , **கடவுள்** 13 , **மட்டும்** 10 , **@THANGAMV19:** 10 , **THALA** 9 , **FANS** 9 , **விவசாயி** 9 , **RT** 7 , **ஒரு** 7 , **❤** 7 , **KEEP** 7 , **BRO** 7 , 
- 
-## What this user tweeted
- 
-RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the SolarWinds cyber supply chain attack. It's time to be proac…
- 
-# UnaishaZulaikhaUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` UnaishaZulaikha 
- 
-`User chosen Name:` zulaikha unaisha 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 16 09:34:34 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 182 
- 
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 301 
+`Number of tweets excluding replies:` 1002 
  
 
  
@@ -227,69 +420,22 @@ RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the 
  
 ## User Top tweeted words 
  
-**VIEWERSDEMANDRAHULRT** 75 , **RAHUL** 31 , **VIEWERSDEMANDRAHUL** 29 , **@RAHULVAIDYA23** 26 , **@COLORSTV** 21 , **VAIDYA** 14 , **TASK** 14 , **HAI** 14 , **WATCH** 11 , **POINTS** 11 , **WKV** 11 , **@NIKITACHEKE:** 11 , **@VOOTSELECT** 11 , **@RGTINO7** 11 , **@RANIKUM90053556:** 10 , **SCENES** 10 , **RKV** 10 , **NEAUTRAL** 9 , **TREAT** 9 , **RAH…RT** 9 , 
+**MESMERIZING** 144 , **JASMIN** 109 , **@JASMINBHASIN** 65 , **JASMINRT** 52 , **@ORMAXMEDIA** 35 , **@BIGGBOSS** 31 , **@COLORSTV** 21 , **@ENDEMOLSHINEIND** 21 , **LOVE** 18 , **GUYS** 18 , **@ALYGONI** 15 , **@JASMINBHASIN:** 13 , **PEOPLE** 12 , **SPEED** 12 , **@JUSTVOOT** 11 , **HAI** 10 , **TREND** 10 , **@BIGGBOSSRT** 10 , **@COLORSTVRT** 10 , **@TEAMJBTWEETS:** 10 , 
  
 ## What this user tweeted
  
-RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the SolarWinds cyber supply chain attack. It's time to be proac…
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
  
-# Jaynara52772147USER INFO
-![image](http://pbs.twimg.com/profile_images/1340669490174910465/WlTW71Eh_normal.jpg)
- 
-`User ScreenName:` Jaynara52772147 
- 
-`User chosen Name:` Jaynarayan Singraul 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 19 16:27:47 +0000 2020 
- 
-`User Description?:` YouTube 
-
-
-jay singroul official
-
-my channel link 
-
-👉👉
-https://t.co/HxSGUhNUfm 
- 
-`Followers?: `100 
- 
-`Following?:` 97 
- 
-`User URL?:` https://t.co/HxSGUhNUfm 
- 
-`Location:` Madhya Pradesh, India 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1340669490174910465/WlTW71Eh_normal.jpg 
- 
-`Number of tweets excluding replies:` 589 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**को** 83 , **में** 57 , **के** 52 , **रिट्वीट** 50 , **है** 49 , **फॉलो** 43 , **करें** 41 , **तो** 39 , **कर** 31 , **सिर्फ** 24 , **से** 24 , **ट्वीट** 23 , **फॉलोवर्स** 23 , **का** 23 , **होने** 22 , **अपनी** 22 , **वालों** 21 , **तैयार** 20 , **आपस** 19 , **हैं** 19 , 
- 
-## What this user tweeted
- 
-RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the SolarWinds cyber supply chain attack. It's time to be proac…
- 
-# Kalyani54274689USER INFO
+# Jasmin15120274USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` Kalyani54274689 
+`User ScreenName:` Jasmin15120274 
  
-`User chosen Name:` Kalyani 
+`User chosen Name:` Jasmin 👑 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 21 14:06:04 +0000 2020 
+`User signup date?:` Mon Dec 21 11:26:58 +0000 2020 
  
 `User Description?:`  
  
@@ -301,11 +447,11 @@ RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the 
  
 `Location:`  
  
-`Number of tweets extracted`  : 198 
+`Number of tweets extracted`  : 199 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 303 
+`Number of tweets excluding replies:` 908 
  
 
  
@@ -313,128 +459,11 @@ RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the 
  
 ## User Top tweeted words 
  
-**MESMERIZING** 118 , **JASMIN** 85 , **JASMINRT** 55 , **@JASMINBHASIN** 41 , **@ORMAXMEDIA** 24 , **@BIGGBOSS** 23 , **GUYS** 21 , **LOVE** 19 , **@COLORSTV** 17 , **TREND** 16 , **600K** 15 , **TWEETS** 14 , **SPEED** 13 , **@ALYGONI** 13 , **MESMERIZINGJASMIN** 12 , **@ENDEMOLSHINEIND** 11 , **HAI** 10 , **TRENDING** 10 , **@MINTYJASMIN:** 9 , **BEST** 9 , 
+**MESMERIZING** 161 , **JASMIN** 103 , **JASMINRT** 76 , **@JASMINBHASIN** 63 , **@BIGGBOSS** 38 , **@ORMAXMEDIA** 37 , **@COLORSTV** 33 , **@ENDEMOLSHINEIND** 21 , **GUYS** 21 , **JASMINBHASIN** 19 , **SPEED** 19 , **1M** 18 , **MILLION** 15 , **LOVE** 14 , **TWEETS** 13 , **1** 12 , **NEVER** 12 , **@VOOTSELECT** 11 , **@ALYGONI** 11 , **@BHASINFP:** 11 , 
  
 ## What this user tweeted
  
-RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the SolarWinds cyber supply chain attack. It's time to be proac…
- 
-# Riddhim66140771USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Riddhim66140771 
- 
-`User chosen Name:` Riddhima 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 21 14:04:42 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 197 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 513 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MESMERIZING** 160 , **JASMINRT** 91 , **JASMIN** 89 , **@JASMINBHASIN** 51 , **@COLORSTV** 32 , **@BIGGBOSS** 27 , **@ORMAXMEDIA** 25 , **GUYS** 22 , **@ENDEMOLSHINEIND** 20 , **LOVE** 17 , **SPEED** 16 , **TWEETS** 13 , **TREND** 13 , **MILLION** 12 , **1** 12 , **JASMINIANS** 11 , **JAS** 11 , **KEEP** 10 , **YES** 10 , **HAI** 8 , 
- 
-## What this user tweeted
- 
-RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the SolarWinds cyber supply chain attack. It's time to be proac…
- 
-# lil_deferredCPAUSER INFO
-![image](http://pbs.twimg.com/profile_images/1340898167097708544/wCGvmBTO_normal.jpg)
- 
-`User ScreenName:` lil_deferredCPA 
- 
-`User chosen Name:` Erlyn Mancia 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 21 05:46:12 +0000 2020 
- 
-`User Description?:` XIX | 🇵🇭 
- 
-`Followers?: `1 
- 
-`Following?:` 62 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 15 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1340898167097708544/wCGvmBTO_normal.jpg 
- 
-`Number of tweets excluding replies:` 15 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JUPITER** 4 , **SATURN** 3 , **“MY** 3 , **FATHER** 3 , **MANY** 2 , **@HASHTAG_WILBERT** 1 , **HTTPS://TCO/JCMXPWF7TU@JZTOL** 1 , **👀** 1 , **HTTPS://TCO/5LGBEQGXP2SERIOUSLY** 1 , **?** 1 , **JUSTICEFORGREGORIOFAMILY** 1 , **STOPTHEKILLINGSPH** 1 , **HTTPS://TCO/BKCV8KLCL3@PBBABSCBN** 1 , **GORGEOUS** 1 , **😍@PBBABSCBN** 1 , **PBBCONNECT1STNOMINIGHT@PBBABSCBN** 1 , **2** 1 , **PTS** 1 , **KUYA** 1 , **PARA** 1 , 
- 
-## What this user tweeted
- 
-RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the SolarWinds cyber supply chain attack. It's time to be proac…
- 
-# Sagar53038589USER INFO
-![image](http://pbs.twimg.com/profile_images/1340633388168998912/qvOdWh06_normal.jpg)
- 
-`User ScreenName:` Sagar53038589 
- 
-`User chosen Name:` Sagar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 20 12:20:54 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `60 
- 
-`Following?:` 74 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 174 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1340633388168998912/qvOdWh06_normal.jpg 
- 
-`Number of tweets excluding replies:` 174 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**کے** 51 , **کی** 46 , **میں** 46 , **سے** 37 , **کو** 34 , **ہے** 34 , **کا** 33 , **نے** 27 , **اور** 27 , **یہ** 23 , **تو** 22 , **کر** 20 , **نہیں** 19 , **ہیں** 18 , **اس** 17 , **کہ** 16 , **وہ** 16 , **HAPPY** 14 , **پر** 14 , **کیا** 12 , 
- 
-## What this user tweeted
- 
-RT @tophatsecurity1: Tophat's Due Diligence X could have protected you from the SolarWinds cyber supply chain attack. It's time to be proac…
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
