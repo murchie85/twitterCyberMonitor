@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **CNN**  
+The most popular user is: **Volexity**  
  
 
-## The former Florida data analyst who has accused state officials of covering up the extent of the pandemic has filed… https://t.co/zx4hJLAR6g 
+## Supply Chain compromise of #SolarWinds provides Dark Halo actor with unauthorized remote access to select targets.… https://t.co/1aHEUQZ2bA 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **CNN**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @0xmchow so it's like work? |
-| RT @ChuckDBrooks: Please see my blog today in GovConWire: GovCon Expert Chuck Brooks: Better Cybersecurity on 2021 Urgent Wish List for U.… |
-| RT @sailingbikeruk: #infosec if you were advising someone starting a #dfir journey on a primarily windows network, what online training res… |
+| RT @FarsightSecInc: Blog: How Many “Parts” (or “Labels”) Does A Domain Name Typically Have? https://t.co/9FsXlCX7yj #DNS  #DFIR #infosec #t… |
+| RT @javier_carriazo: This ‘off the shelf’ Tor backdoor malware is now a firm favorite with ransomware operators #CyberSecurity #osint #cyb… |
+| [INFO] #Googles Gives a New Perspective to #WebSecurity Threats via XS-Leaks.To read more visit:… https://t.co/IReWMCnDNk |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ian_infosec** |
-| #2 Most tweeted to  | **AlyssaM_InfoSec** |
-| #3 Most tweeted to  | **iotcybersec24** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 1.46%|
+| #1 Most tweeted to  | **Volexity** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 1.34%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,96 +50,144 @@ The most popular user is: **CNN**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **MALWARE**  |
-| third  | **SOLARWINDS** |
-| fourth  | **LINUX**  |
-| fifth  | **PHISHING**  |
+| first  | **SOLARWINDS**  |
+| second  | **THREATINTEL**  |
+| third  | **CHAIN** |
+| fourth  | **SUPPLY**  |
+| fifth  | **@VOLEXITY:**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|🎶 He's downloading our dictionary and checking it twice, gonna find out which passwords are naughty or nice! 🎶 Ev… https://t.co/IqWH0O4tKI |
+|Police detained hackers who stole more than 20 million rubles - https://t.co/OeTf9Tt1zo#OSINT #Security #Threatintel #cybersecurity |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CNN**  |
+| The most retweeted user is: **Volexity**  |
 | ------------- |
-| The former Florida data analyst who has accused state officials of covering up the extent of the pandemic has filed… https://t.co/zx4hJLAR6g |
+| Supply Chain compromise of #SolarWinds provides Dark Halo actor with unauthorized remote access to select targets.… https://t.co/1aHEUQZ2bA |
 
 # Potential Fake Accounts
  
-# LetterkennyAnsrUSER INFO
-![image](http://pbs.twimg.com/profile_images/1341077779916447745/USzO_D0Y_normal.jpg)
+# NairBro3USER INFO
+![image](http://pbs.twimg.com/profile_images/1340391448676429825/c7yIk60r_normal.jpg)
  
-`User ScreenName:` LetterkennyAnsr 
+`User ScreenName:` NairBro3 
  
-`User chosen Name:` Letterkenny Answers 
+`User chosen Name:` Nair_Bro 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 21 17:45:59 +0000 2020 
+`User signup date?:` Sat Dec 19 20:19:29 +0000 2020 
  
-`User Description?:` There’s a #LetterkennyAnswer for any problem. @ me and I’ll prove it. Betcha can’t, so... 
+`User Description?:` The hunt for STOP DJVU.
+
+I will fight until my files are fuckin decrypted by the Russians.
+
+Personal Handle @chitzprophecy 
+ 
+`Followers?: `1 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:` Mumbai, India 
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340391448676429825/c7yIk60r_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DEMONSLAY335** 3 , **@VNBARROS4** 2 , **DATA** 2 , **@REDBEARDIOCS:** 2 , **WANNACRY** 2 , **@OZYNRN** 1 , **IDENTIFY** 1 , **TYPE** 1 , **ENCRYPTION** 1 , **USING** 1 , **EMSISOFT** 1 , **DECRYTOR** 1 , **OFFLIN…** 1 , **HTTPS://TCO/DNAJKTKBUB@OZYNRN** 1 , **PER** 1 , **FINDINGS** 1 , **CONNECTED** 1 , **DURING** 1 , **ATTACK** 1 , **MALWARE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @MeltX0R: #EmissaryPanda #APT Recent infrastructure and RAT analysis
+
+IOCS:
+
+70cff7c176c7df265a808aa52daf6f34
+37fc73c754ef2706659a18837a…
+ 
+# BrainBoxnowUSER INFO
+![image](http://pbs.twimg.com/profile_images/1338260673193799680/W9FAoqZr_normal.jpg)
+ 
+`User ScreenName:` BrainBoxnow 
+ 
+`User chosen Name:` Brain Box 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 13 23:11:26 +0000 2020 
+ 
+`User Description?:` Honoring the best of in+ter+network. Writer,Paranoid at time.Let's keep it simple: Love creativity + Technology #MachineLearning #DataScience #CyberSec #AI 
+ 
+`Followers?: `83 
+ 
+`Following?:` 492 
+ 
+`User URL?:` None 
+ 
+`Location:` Manchester, England 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1338260673193799680/W9FAoqZr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 533 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LEARNING** 18 , **MACHINE** 15 , **NEW** 13 , **@RONALD_VANLOON:** 10 , **@LOLLYDASKAL:** 10 , **@MISHRARUTUJA:** 9 , **AI** 9 , **@BMOORE_20:** 9 , **@JEFFREYFELDBERG:** 9 , **MACHINELEARNING** 8 , **QUOTE** 8 , **PYTHON** 8 , **@TECHCRUNCH:** 8 , **LEARN** 7 , **CHRISTMAS** 7 , **@PYTHONBOT_:** 7 , **LIFE** 7 , **LEADERSHIP** 7 , **LOVE** 6 , **MOST** 6 , 
+ 
+## What this user tweeted
+ 
+RT @attcyber: How the meaning of #endpoint has changed in #healthcare and what this means for #cybersecurity https://t.co/MpLGOXQRyl @Healt…
+ 
+# anonybrspUSER INFO
+![image](http://pbs.twimg.com/profile_images/1339054981119414275/14CFl8J2_normal.jpg)
+ 
+`User ScreenName:` anonybrsp 
+ 
+`User chosen Name:` Anonybrsp 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Dec 16 03:45:13 +0000 2020 
+ 
+`User Description?:` "We are Anonymous. We are legion. We have not forgotten. We have not forgiven. Wait for us." "The Internet is a serious thing." 
  
 `Followers?: `6 
  
-`Following?:` 41 
+`Following?:` 78 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 34 
+`Number of tweets extracted`  : 92 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1341077779916447745/USzO_D0Y_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1339054981119414275/14CFl8J2_normal.jpg 
  
-`Number of tweets excluding replies:` 34 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PRODUCESTANDPOD** 8 , **@MEMELETTERKENNY** 8 , **@LETTERKENNYPOD** 8 , **@HOWAREYANOWPOD** 7 , **@THESICKOSTRICH** 5 , **@NCLETTERKENNY** 4 , **@HULU** 2 , **@LETTERKENNYPROB** 2 , **@IAN_INFOSEC** 1 , **LETTERKENNY** 1 , **SEASON** 1 , **9** 1 , **DROPS** 1 , **12/16** 1 , **🇺🇸** 1 , **HTTPS://TCO/BVLAHTB4JV@HOWAREYANOWPOD** 1 , **HTTPS://TCO/HNS0GE3FTQ@OSCARTHEGROUCH** 1 , **HTTPS://TCO/WW28B4XNPY@SUNSHINESUCKS** 1 , **HTTPS://TCO/XL6JLTRMTY@KACEYDIAN** 1 , **HTTPS://TCO/21BL9HQWY9@HALLOWEENMANCOM** 1 , 
- 
-## What this user tweeted
- 
-@ian_infosec #Letterkenny season 9 drops 12/16 in 🇺🇸 on @hulu https://t.co/bvlahtb4jv
- 
-# JakeJiang7USER INFO
-![image](http://pbs.twimg.com/profile_images/1341380485596000256/aZP6akec_normal.jpg)
- 
-`User ScreenName:` JakeJiang7 
- 
-`User chosen Name:` Jake Jiang 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 22 13:49:46 +0000 2020 
- 
-`User Description?:` Senior Full Stack Engineer 
- 
-`Followers?: `1 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:` Montreal, Canada 
- 
-`Number of tweets extracted`  : 48 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1341380485596000256/aZP6akec_normal.jpg 
- 
-`Number of tweets excluding replies:` 48 
+`Number of tweets excluding replies:` 92 
  
 
  
@@ -147,79 +195,41 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
  
 ## User Top tweeted words 
  
-**VIA** 38 , **HTTPS://TCO/EOLT21OBYI** 38 , **VIA…** 10 , **LEARNING** 9 , **BIOTECH** 8 , **EDUCATION** 7 , **DESIGNTHINKING** 6 , **COACHING** 6 , **SPACEX** 5 , **ASTRONOMY** 4 , **PROTOTYPING** 4 , **ASTROPHYSICS** 4 , **USABILITY** 3 , **NASA** 3 , **UI** 3 , **DIGITAL** 3 , **STARTUP** 3 , **ITSM** 3 , **DEEP** 2 , **INTO** 2 , 
+**@SECURITYTUBE:** 15 , **NEW** 8 , **E** 7 , **LEARN** 7 , **PHISHING** 7 , **WINDOWS** 7 , **SECURITY** 7 , **NÃO** 6 , **O** 6 , **CODE** 5 , **LABS** 5 , **CYBERSECURITY** 5 , **É** 5 , **US** 5 , **DE** 5 , **TEAM** 5 , **TODAY:** 4 , **ATTACKDEFENSE** 4 , **PASSWORD** 4 , **PDF** 4 , 
  
 ## What this user tweeted
  
-GDPR Compliance and Significance of Securing PII #GDPR #cybersecurity #infosec via https://t.co/eoLt21oByi https://t.co/Z2RyqJYfSE
+RT @cemmurphy: Part 4 of our Data-Centric Security Automation blog series is new today: How to Build a Data-Centric SOC. Learn how to manag…RT @Certego_Intel: #Malware #Ursnif #Blocklist
+Domain: fortiol[.com
+VirusTotal: https://t.co/F1WuwU49Fe
+#CyberSecurity #ThreatIntel (bot ge…
  
-# adrianakarante2USER INFO
-![image](http://pbs.twimg.com/profile_images/1341520816463372289/ac0NHR3m_normal.jpg)
+# JamesBa98660106USER INFO
+![image](http://pbs.twimg.com/profile_images/1340763137163800579/RfqYuklI_normal.jpg)
  
-`User ScreenName:` adrianakarante2 
+`User ScreenName:` JamesBa98660106 
  
-`User chosen Name:` Adriana Karantedeux 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 22 21:18:37 +0000 2020 
- 
-`User Description?:` i hate Arch 
- 
-`Followers?: `1 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1341520816463372289/ac0NHR3m_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**THAN** 3 , **:(@THE_MIAOUNSTER** 2 , **STOP** 1 , **DMING** 1 , **READ** 1 , **SUBJECTS@THE_MIAOUNSTER** 1 , **HOPE** 1 , **IM** 1 , **NUMBER** 1 , **OLDER** 1 , **RANKING** 1 , **HIGHER** 1 , **HTB** 1 , **:P@THE_MIAOUNSTER** 1 , **NONEED** 1 , **:X** 1 , **HTTPS://TCO/UAFRROOCQ8RT** 1 , **@HACKTHEBOX_EU:** 1 , **HACKTHEBOX** 1 , **PROUDLY** 1 , 
- 
-## What this user tweeted
- 
-RT @hackthebox_eu: #HackTheBox proudly presents #HTBAcademy 🎓
-It's time to #HackYourBrain! 😎  
-#CyberSecurity courses for everybody, from #…
- 
-# Sachin35649398USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Sachin35649398 
- 
-`User chosen Name:` Sachin 
+`User chosen Name:` James Barton 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Dec 22 11:55:29 +0000 2020 
+`User signup date?:` Tue Dec 15 22:48:43 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 10 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 35 
+`Number of tweets extracted`  : 93 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1340763137163800579/RfqYuklI_normal.jpg 
  
-`Number of tweets excluding replies:` 35 
+`Number of tweets excluding replies:` 93 
  
 
  
@@ -227,52 +237,11 @@ It's time to #HackYourBrain! 😎
  
 ## User Top tweeted words 
  
-**@MYSELFRANVEER:** 35 , **PYTHON** 15 , **:** 10 , **TURTLE** 8 , **DESIGN** 8 , **USING** 8 , **YT** 8 , **NEW** 8 , **LAST** 7 , **WEEK** 7 , **100DAYSOFCODE** 7 , **MATPLOTLIB** 7 , **VIDEO** 6 , **PYGAME** 5 , **GAME** 5 , **LEARNING** 5 , **HOPE** 5 , **PROJECT** 4 , **CODING** 4 , **SOMETHING** 4 , 
+**@ATTACKIQ:** 87 , **ATTACKIQ** 37 , **SECURITY** 20 , **MITRE** 19 , **CYBERSECURITY** 12 , **LIVE** 9 , **ATTACKIQACADEMY** 9 , **ATT&AMP;CK** 9 , **DEMO** 9 , **TIME** 8 , **JOIN** 8 , **LEARN** 7 , **WEEKLY** 7 , **THANKS** 7 , **CONTROLS** 7 , **O…RT** 7 , **FREE** 6 , **EXPERTS** 6 , **ATT&AMP;CK®** 6 , **VP** 5 , 
  
 ## What this user tweeted
  
-RT @MySelfRanveer: Last week learning
-Game Development using Pygame , Pyglet , java GUI ...
-#javascript #100DaysOfCode Coding #Python #Data…
- 
-# AxelLimousinUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` AxelLimousin 
- 
-`User chosen Name:` LIMOUSIN Axel 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 17 19:09:36 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 76 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 49 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 49 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SANSFORENSICS:** 7 , **CHECK** 5 , **NEW** 4 , **SUNBURST** 4 , **ATTACK** 4 , **LATERAL** 3 , **INTO** 3 , **AVAILABLE** 3 , **@LEE_HOLMES:** 3 , **@DIRTEAMCOM:** 3 , **DIRTEAMRT** 3 , **VULNERABILITY** 3 , **SHARES** 3 , **USING** 3 , **GUIDANCE** 3 , **THE…RT** 3 , **MOVEMENT** 2 , **ZEEK** 2 , **VIA** 2 , **DATA** 2 , 
- 
-## What this user tweeted
- 
-RT @sansforensics: In this episode of the #TMICpodcast, @hacks4pancakes discusses the barriers she's faced to being perceived as an equal &amp;…RT @RedSiege: Follow along as Mike Saunders @hardwaterhacker writes on how he used Netcat and Wireshark to harvest domain credentials from…
+RT @AttackIQ: Our friends at @TheHackerValley join #AttackIQAcademy to share how E-A-S-Y your #threatintel program can really be. Register…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
