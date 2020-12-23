@@ -1105,4 +1105,408 @@ Authors analytical summary on request.
  
 ## User Top tweeted words 
  
-**FARMERS** 12 , **FARMERPROTEST** 10 , **PROTEST** 8 , **SUPPORT** 7 , **@RAVISINGHKA:** 5 , **PEOPLE** 5 , **!** 5 , **FARMERSPROTEST** 5 , **INDIAN** 5 , **INDIA** 5 , **FREE** 4 , **AGAINST** 4 , 
+**FARMERS** 12 , **FARMERPROTEST** 10 , **PROTEST** 8 , **SUPPORT** 7 , **@RAVISINGHKA:** 5 , **PEOPLE** 5 , **!** 5 , **FARMERSPROTEST** 5 , **INDIAN** 5 , **INDIA** 5 , **FREE** 4 , **AGAINST** 4 , **ISTANDWITHFARMERS** 4 , **@UK51NGH:** 4 , **POLICE** 4 , **DOG** 3 , **THROUGH** 3 , **TO…RT** 3 , **TAKING** 3 , **PEACEFUL** 3 , 
+ 
+## What this user tweeted
+ 
+RT @TheAtlantic: The joys and vulnerabilities of a Black childhood, as seen from a father’s gaze, by @EnaAlvarado: https://t.co/juh20GkFsb
+ 
+# RoseMar95953838USER INFO
+![image](http://pbs.twimg.com/profile_images/1338328723028897792/lwYSSxWA_normal.jpg)
+ 
+`User ScreenName:` RoseMar95953838 
+ 
+`User chosen Name:` Rose Marie 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 13 04:12:48 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `22 
+ 
+`Following?:` 99 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1338328723028897792/lwYSSxWA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 371 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REALDONALDTRUMP** 55 , **@VIRIMAC** 20 , **@GEORGEPAPA19** 20 , **PEOPLE** 17 , **WELL** 16 , **TRUMP** 15 , **@DREXBRIT** 14 , **@MASTEXAS87** 14 , **@SIDNEYPOWELL1** 14 , **@CREEPSONAMISSIO** 14 , **@JENNAELLISESQ** 14 , **@MS_LINDLEY** 14 , **DON’T** 13 , **@NORMANEBERLY** 13 , **@LLINWOOD…** 13 , **@EATTHERICHONEZ** 12 , **@WEBSTRACTIONS** 11 , **@BRIANKEMPGA** 11 , **@BREITBARTNEWS** 10 , **ACTUALLY** 10 , 
+ 
+## What this user tweeted
+ 
+@bolger47602245 @virimac @GeorgePapa19 You bring up a great point. If the pandemic is bad enough to change election… https://t.co/MuiOyOCBFB
+ 
+# BackYardCircusPUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340654298951200768/2YoXGMFU_normal.jpg)
+ 
+`User ScreenName:` BackYardCircusP 
+ 
+`User chosen Name:` Faith No More 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 13:44:16 +0000 2020 
+ 
+`User Description?:` Retire 30 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 15 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340654298951200768/2YoXGMFU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 15 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PLEASE** 6 , **STOP** 5 , **TODD** 3 , **YOU’VE** 3 , **FIRST** 3 , **ONLYFANS** 2 , **GIRLS** 2 , **CORRECT** 2 , **REACHING** 2 , **PEOPLE** 2 , **WOMEN** 2 , **HASN’T** 2 , **TIME** 2 , **@FABER4REAL** 1 , **CLEARLY** 1 , **READY** 1 , **DELETE** 1 , **THESE** 1 , **ACCOUNTS** 1 , **ENGAGING** 1 , 
+ 
+## What this user tweeted
+ 
+@Faber4Real Todd, first of all, let me say that catfishing is extremely horrible and preys upon people with vulnera… https://t.co/kANjwtxAcj
+ 
+# Shehnaa49797560USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Shehnaa49797560 
+ 
+`User chosen Name:` Shehnaaz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 07:47:57 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 186 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 575 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYA** 78 , **SIDNAAZKIPYAARIDUNIYART** 43 , **SIDNAAZ** 23 , **LOVE** 22 , **HAI** 13 , **TRENDING** 12 , **BOTH** 12 , **RT** 10 , **HEART** 9 , **@SIDHARTH_SHUKLA** 8 , **@OHUDEADPPL:** 8 , **BEST** 8 , **TIME** 8 , **LIFE** 8 , **U** 8 , **1** 7 , **N** 7 , **SHEHNAAZ** 7 , **TOGETHER** 7 , **SMILE** 7 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# santosh91283915USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` santosh91283915 
+ 
+`User chosen Name:` santosh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 06:38:46 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 191 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 302 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYART** 64 , **SIDNAAZKIPYAARIDUNIYA** 52 , **@SIDHARTH_SHUKLA** 24 , **SIDNAAZ** 23 , **@OFFICIALSIDNAAZ** 21 , **SNSHAKH** 18 , **LOVE** 15 , **!!!** 15 , **@ISHEHNAAZ_GILL** 15 , **U** 11 , **GUYS** 11 , **@IBEINGAMAN:** 9 , **1** 8 , **RT** 7 , **HAI** 7 , **TWEETS** 7 , **TAGLINE** 7 , **SPEED** 7 , **AGAINST** 7 , **TRENDING** 6 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# Bishnup64784376USER INFO
+![image](http://pbs.twimg.com/profile_images/1339815050333147136/aMt3K8h8_normal.jpg)
+ 
+`User ScreenName:` Bishnup64784376 
+ 
+`User chosen Name:` Bishnupriya Behera 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 18 05:50:21 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 193 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339815050333147136/aMt3K8h8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 821 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SIDHARTH_SHUKLA** 58 , **QUEEN** 47 , **SHEHNAAZ** 34 , **CONGRATULATIONS** 33 , **2MPOSTSFORSIDSHUKLAONIG** 30 , **2MPOSTSFORSIDSHUKLAONIGRT** 28 , **@ISHEHNAAZ_GILL** 21 , **LOVE** 21 , **TRENDING** 17 , **2M** 16 , **FIRST** 14 , **SIDHEARTS** 14 , **SHEHNAAZRT** 13 , **ALWAYS** 12 , **SIDHARTHSHUKLA** 11 , **TWEETS** 10 , **INSTAGRAM** 10 , **POSTS** 9 , **KEEP** 9 , **SHEHNAAZGILL** 9 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# SidnaazTrueUSER INFO
+![image](http://pbs.twimg.com/profile_images/1339905241962016769/p9vtsi1u_normal.jpg)
+ 
+`User ScreenName:` SidnaazTrue 
+ 
+`User chosen Name:` True.living ❤Sidnaaz❤ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 18 04:30:54 +0000 2020 
+ 
+`User Description?:` ❤Sidnaaz is Emotion❤
+❤🌟❤Sid ki Naaz❤🌟❤ 
+❤🌟❤Naaz ka sid❤🌟❤ 
+ 
+`Followers?: `6 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 191 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339905241962016769/p9vtsi1u_normal.jpg 
+ 
+`Number of tweets excluding replies:` 363 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYA** 41 , **SIDNAAZKIPYAARIDUNIYART** 41 , **LOVE** 37 , **SIDNAAZ** 36 , **U** 19 , **BEST** 18 , **@SIDHARTH_SHUKLA** 17 , **@SIDNAAZBAEBIES:** 17 , **@IBEINGAMAN:** 16 , **RT** 15 , **WAY** 15 , **!!!** 15 , **ALWAYS** 14 , **TREND** 14 , **HAI** 13 , **TWO** 12 , **EACH** 12 , **@GHANTAFADAK:** 12 , **@ISHEHNAAZ_GILL** 10 , **NEVER** 10 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# DewaniSidnaazUSER INFO
+![image](http://pbs.twimg.com/profile_images/1339859520739106819/2_XYbE-7_normal.jpg)
+ 
+`User ScreenName:` DewaniSidnaaz 
+ 
+`User chosen Name:` SidNaaz Ki Dewani 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 18 09:05:38 +0000 2020 
+ 
+`User Description?:` SidNaaz Meri Jaan😍 
+ 
+`Followers?: `180 
+ 
+`Following?:` 214 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339859520739106819/2_XYbE-7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1219 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ISHEHNAAZ_GILL** 38 , **SIDNAAZ** 29 , **CONGRATULATIONS** 26 , **@SIDHARTH_SHUKLA** 24 , **SHEHNAAZ** 21 , **SHEHNAAZGILL** 21 , **KURTAPAJAMAHITS150M** 19 , **SANA** 19 , **HAI** 18 , **SIDHARTH** 14 , **FAMILY** 14 , **SID** 12 , **2MPOSTSFORSIDSHUKLAONIG** 11 , **SIDHARTHSHUKLA** 11 , **INSTA** 10 , **@ROSE_ISFAE:** 10 , **U** 9 , **@IBEINGAMAN:** 9 , **KURTAPAJAMAHITS150MRT** 9 , **@AGREENEYEDMNSTR:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# RiyaMan37420432USER INFO
+![image](http://pbs.twimg.com/profile_images/1340229132597092353/BZSMIBXI_normal.jpg)
+ 
+`User ScreenName:` RiyaMan37420432 
+ 
+`User chosen Name:` Riya Mandal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 19 09:33:56 +0000 2020 
+ 
+`User Description?:` sidnaaz 
+ 
+`Followers?: `1 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 188 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340229132597092353/BZSMIBXI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 318 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYART** 102 , **SIDNAAZ** 37 , **HAI** 33 , **SIDNAAZKIPYAARIDUNIYA** 24 , **LOVE** 19 , **TAGLINE** 15 , **TREND** 14 , **@SIDHARTH_SHUKLA** 13 , **KI** 12 , **NA** 11 , **!!!** 10 , **SE** 10 , **@ISHEHNAAZ_GILL** 10 , **DUNIYA** 10 , **FIRST** 9 , **KE** 8 , **@ISHASAHANI7:** 8 , **US** 8 , **U** 7 , **SIDHARTH** 7 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# SidNaaz13187831USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` SidNaaz13187831 
+ 
+`User chosen Name:` SidNaaz♥️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 05:16:40 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 185 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 301 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYART** 55 , **SIDNAAZKIPYAARIDUNIYA** 51 , **LOVE** 29 , **SIDNAAZ** 21 , **TAGLINE** 16 , **EACH** 15 , **TRENDING** 14 , **U** 13 , **TREND** 11 , **DUNIYA** 11 , **@SIDHARTH_SHUKLA** 11 , **TWEETS** 11 , **OTHER** 10 , **RT** 9 , **THING** 8 , **NEVER** 8 , **AGAINST** 8 , **WAY** 8 , **MADE** 8 , **!** 8 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# Sneha41125947USER INFO
+![image](http://pbs.twimg.com/profile_images/1339581634245357571/SBx3HAbA_normal.jpg)
+ 
+`User ScreenName:` Sneha41125947 
+ 
+`User chosen Name:` Sneha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 17 14:32:32 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `31 
+ 
+`Following?:` 63 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 193 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339581634245357571/SBx3HAbA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1050 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYART** 47 , **SIDNAAZKIPYAARIDUNIYA** 40 , **LOVE** 34 , **SIDNAAZ** 32 , **@SIDHARTH_SHUKLA** 25 , **HAI** 23 , **TREND** 20 , **1M** 17 , **CONGRATULATIONS** 16 , **SIDHARTHSHUKLA** 13 , **@ISHEHNAAZ_GILL** 13 , **TU** 13 , **@PAM38685602:** 12 , **MILLION** 11 , **MAIN** 10 , **1** 10 , **SID** 9 , **BEST** 9 , **HI** 9 , **TWEETS** 9 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
