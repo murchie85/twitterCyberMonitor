@@ -29,18 +29,18 @@ The most popular user is: **Volexity**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @threatintel: #ThreatProtection #Symantec #MobiHok RAT, out of the gutter and continuing to prey on Android users. Read more: https://t.… |
-| I get asked a lot what skills do you need for #threatintel #threathunting or #incidentresponse. IMHO technical skil… https://t.co/utegfwHvBO |
-| RT @FarsightSecInc: Farsight Security Debuts ThreatConnect Playbooks for Faster Threat Hunting https://t.co/9swkbRQlEQ by @Yahoo #DNS #info… |
+| Emotet returns just in time for Christmas - https://t.co/4PVkM19ePP#OSINT #Security #Threatintel #cybersecurity |
+| NATO is checking its systems to determine the impact of SolarWinds hack - https://t.co/hT18d7lkCK#Hacking #OSINT… https://t.co/A85SzWuudt |
+| RT @bad_packets: So far today, exploit activity detected from ...84.199.89.45 (🇧🇪)23.146.241.232 (🇺🇸)95.179.164.190 (🇩🇪)46.166.129.200… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **Volexity** |
-| #3 Most tweeted to  | **javier_carriazo** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 1.08%|
+| #2 Most tweeted to  | **MISPProject** |
+| #3 Most tweeted to  | **cnoanalysis** |
+| NewProfiles (less than 10 days) | 0.25%  |
+| Tweeters with < 10 followers  | 1.04%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,21 +51,21 @@ The most popular user is: **Volexity**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **OSINT**  |
-| second  | **CYBERTHREATS**  |
-| third  | **HACKERS** |
-| fourth  | **SOLARWINDS**  |
-| fifth  | **THREATINTEL**  |
+| second  | **THREATINTEL**  |
+| third  | **SOLARWINDS** |
+| fourth  | **CYBERTHREATS**  |
+| fifth  | **HACKERS**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT 5 Key Takeaways from the SolarWinds Breach https://t.co/aa89sqDb69 by @jaivijayan #SolarWinds #cyberattack #threatintel #ITsecurity |
+|RT @dan_gunter: Threat hunting, circa last week and before. Remember: there are no silver bullets for security and hypotheses are guesses w… |
 
 ### MOST RETWEETED 
 
@@ -90,17 +90,17 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJ
  
 `Followers?: `3 
  
-`Following?:` 50 
+`Following?:` 49 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 46 
+`Number of tweets extracted`  : 47 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1340526812158255106/dkEhwbFU_normal.jpg 
  
-`Number of tweets excluding replies:` 46 
+`Number of tweets excluding replies:` 47 
  
 
  
@@ -108,7 +108,7 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJ
  
 ## User Top tweeted words 
  
-**ITS** 6 , **AFTER** 5 , **GOOD** 5 , **SOLARWIND** 4 , **THAN** 4 , **JOB** 3 , **HAVING** 3 , **THERE'S** 3 , **TIME** 3 , **PEOPLE** 3 , **INFORMATION** 3 , **HACK** 3 , **STUXNET** 3 , **MALWARE** 3 , **SOLARWINDS** 2 , **OPERATION** 2 , **SAYING** 2 , **ANY** 2 , **WOULDNT** 2 , **EMOTIONS** 2 , 
+**ITS** 6 , **AFTER** 5 , **GOOD** 5 , **SOLARWIND** 4 , **THAN** 4 , **JOB** 3 , **HAVING** 3 , **THERE'S** 3 , **TIME** 3 , **PEOPLE** 3 , **INFORMATION** 3 , **HACK** 3 , **STUXNET** 3 , **MALWARE** 3 , **:(** 2 , **SOLARWINDS** 2 , **OPERATION** 2 , **SAYING** 2 , **ANY** 2 , **WOULDNT** 2 , 
  
 ## What this user tweeted
  
@@ -175,19 +175,19 @@ IOCS:
  
 `User Description?:` "We are Anonymous. We are legion. We have not forgotten. We have not forgiven. Wait for us." "The Internet is a serious thing." 
  
-`Followers?: `11 
+`Followers?: `13 
  
-`Following?:` 109 
+`Following?:` 111 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 114 
+`Number of tweets extracted`  : 115 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1339054981119414275/14CFl8J2_normal.jpg 
  
-`Number of tweets excluding replies:` 114 
+`Number of tweets excluding replies:` 115 
  
 
  
@@ -199,10 +199,7 @@ IOCS:
  
 ## What this user tweeted
  
-RT @cemmurphy: Part 4 of our Data-Centric Security Automation blog series is new today: How to Build a Data-Centric SOC. Learn how to manag…RT @Certego_Intel: #Malware #Ursnif #Blocklist
-Domain: fortiol[.com
-VirusTotal: https://t.co/F1WuwU49Fe
-#CyberSecurity #ThreatIntel (bot ge…
+RT @cemmurphy: Part 4 of our Data-Centric Security Automation blog series is new today: How to Build a Data-Centric SOC. Learn how to manag…
  
 # JamesBa98660106USER INFO
 ![image](http://pbs.twimg.com/profile_images/1340763137163800579/RfqYuklI_normal.jpg)
