@@ -11,10 +11,10 @@
  
 ![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **CodeMonkeyZ**  
+The most popular user is: **DrTedros**  
  
 
-## .@dbongino Please reach out to me when you have time. I'll write up a quick report on parler issues and vulnerabili… https://t.co/BeudvSaPah 
+## The need for a #COVID19 vaccine is very real. But it will not fix the vexing vulnerabilities afflicting us all. The… https://t.co/tdWE8I3D8v 
 
   
 
@@ -40,7 +40,7 @@ The most popular user is: **CodeMonkeyZ**
 | #2 Most tweeted to  | **SurvivalFund_ng** |
 | #3 Most tweeted to  | **NigeriaGov** |
 | NewProfiles (less than 10 days) | 1.4%  |
-| Tweeters with < 10 followers  | 4.26%|
+| Tweeters with < 10 followers  | 4.24%|
 | Tweeters with > 1000000 followers  | 0.16%  |
 
 
@@ -54,13 +54,13 @@ The most popular user is: **CodeMonkeyZ**
 | second  | **PARENTS**  |
 | third  | **MOST** |
 | fourth  | **REALLY**  |
-| fifth  | **"DONT"**  |
+| fifth  | **AFTER**  |
 
 
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (45.45%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (54.55%)
+VIEWS WERE : **SUBJECTIVE**  (36.36%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (63.64%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
@@ -69,9 +69,9 @@ VIEWS WERE : **SUBJECTIVE**  (45.45%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CodeMonkeyZ**  |
+| The most retweeted user is: **DrTedros**  |
 | ------------- |
-| .@dbongino Please reach out to me when you have time. I'll write up a quick report on parler issues and vulnerabili… https://t.co/BeudvSaPah |
+| The need for a #COVID19 vaccine is very real. But it will not fix the vexing vulnerabilities afflicting us all. The… https://t.co/tdWE8I3D8v |
 
 # Potential Fake Accounts
  
@@ -422,7 +422,7 @@ He’s giving…
  
 `Profile image:` http://pbs.twimg.com/profile_images/1340909032203141121/9pOB2K0O_normal.jpg 
  
-`Number of tweets excluding replies:` 1889 
+`Number of tweets excluding replies:` 1902 
  
 
  
@@ -430,7 +430,7 @@ He’s giving…
  
 ## User Top tweeted words 
  
-**LONE** 178 , **LION** 170 , **EIJAZRT** 83 , **EIJAZ** 78 , **@COLORSTV** 38 , **@JUSTVOOT** 26 , **@SANIA03477995:** 21 , **@MRHOLAA:** 18 , **@KHANEIJAZRT** 17 , **@MAHI29357853:** 16 , **@ALISSA_RS:** 15 , **TIME** 13 , **@KHANEIJAZ** 12 , **@BIGGBOSS** 12 , **HAI** 12 , **@ORMAXMEDIA** 10 , **EIJAZKHAN** 10 , **PEOPLE** 9 , **@SARAH11792416:** 8 , **DON’T** 8 , 
+**LONE** 180 , **LION** 172 , **EIJAZRT** 84 , **EIJAZ** 76 , **@COLORSTV** 36 , **@JUSTVOOT** 25 , **@SANIA03477995:** 23 , **@MAHI29357853:** 18 , **TIME** 17 , **@MRHOLAA:** 17 , **@KHANEIJAZRT** 16 , **@ALISSA_RS:** 14 , **@KHANEIJAZ** 12 , **@BIGGBOSS** 11 , **NEVER** 10 , **HAI** 10 , **@SARAH11792416:** 9 , **@ORMAXMEDIA** 9 , **PEOPLE** 9 , **EIJAZKHAN** 9 , 
  
 ## What this user tweeted
  
@@ -1169,7 +1169,7 @@ RT @cryptogems555: Great News for $YFD holders! The team has just performed a 2n
  
 `Profile image:` http://pbs.twimg.com/profile_images/1342140588703956993/FH7X_5SD_normal.jpg 
  
-`Number of tweets excluding replies:` 2716 
+`Number of tweets excluding replies:` 2717 
  
 
  
@@ -1177,7 +1177,7 @@ RT @cryptogems555: Great News for $YFD holders! The team has just performed a 2n
  
 ## User Top tweeted words 
  
-**FOLLOW** 61 , **+** 51 , **RT** 50 , **GCASH** 48 , **ENDS** 41 , **RETWEET** 34 , **GIVEAWAY** 29 , **•** 27 , **1** 20 , **RETWEETS** 19 , **PINNED** 16 , **SEND** 16 , **10** 15 , **REPLY** 15 , **DONERT** 14 , **PERSON** 13 , **5** 12 , **TWEET** 10 , **PROOF** 10 , **FOLLOWS** 10 , 
+**FOLLOW** 60 , **RT** 52 , **+** 50 , **GCASH** 48 , **ENDS** 41 , **RETWEET** 33 , **GIVEAWAY** 30 , **•** 25 , **1** 20 , **RETWEETS** 19 , **PINNED** 16 , **SEND** 16 , **10** 15 , **REPLY** 15 , **DONERT** 14 , **PERSON** 13 , **5** 12 , **TWEET** 10 , **FOLLOWS** 10 , **PROOF** 9 , 
  
 ## What this user tweeted
  
@@ -1289,7 +1289,7 @@ My old account @jjoIIyesha was lost, so i created this one. Pls follow me back!!
  
 `Profile image:` http://pbs.twimg.com/profile_images/1341975887604899840/WItZHDKn_normal.jpg 
  
-`Number of tweets excluding replies:` 932 
+`Number of tweets excluding replies:` 933 
  
 
  
@@ -1297,7 +1297,7 @@ My old account @jjoIIyesha was lost, so i created this one. Pls follow me back!!
  
 ## User Top tweeted words 
  
-**FOLLOW** 46 , **RETWEETS** 44 , **TWEET** 35 , **GIVEAWAY** 32 , **RT** 32 , **PERSON** 32 , **GIVE** 27 , **ENDS** 26 , **RETWEET** 25 , **SEND** 24 , **+** 22 , **1** 21 , **HOURS** 20 , **FOLLOWS** 19 , **$20** 18 , **RANDOM** 18 , **MUST** 18 , **MYSELF** 17 , **SOMEONE** 17 , **24** 17 , 
+**FOLLOW** 46 , **RETWEETS** 44 , **TWEET** 36 , **RT** 33 , **GIVEAWAY** 32 , **PERSON** 32 , **GIVE** 27 , **ENDS** 26 , **SEND** 25 , **RETWEET** 25 , **+** 22 , **1** 21 , **HOURS** 20 , **FOLLOWS** 19 , **$20** 18 , **RANDOM** 18 , **MUST** 18 , **I’LL** 17 , **MYSELF** 17 , **SOMEONE** 17 , 
  
 ## What this user tweeted
  
@@ -1803,11 +1803,11 @@ RT @redwineclouds: After therapy sessions, it is occurring to me how my parents 
  
 `Location:` Washington, D.C. 
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 6 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1341470614729715719/qL6gg1TC_normal.jpg 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -1815,7 +1815,7 @@ RT @redwineclouds: After therapy sessions, it is occurring to me how my parents 
  
 ## User Top tweeted words 
  
-**NEW** 3 , **YEAR** 1 , **BRINGS** 1 , **ADOBE** 1 , **FLASH** 1 , **PLAYER** 1 , **HTTPS://TCO/H7TCYZC1ANOLDER** 1 , **FREE** 1 , **VERSIONS** 1 , **WINZIP** 1 , **MAY** 1 , **SECURITY** 1 , **VULNERABILITIES** 1 , **HTTPS://TCO/SJMHFBZLK9INCREASED** 1 , **SPEED** 1 , **COMING** 1 , **MICROSOFT** 1 , **EDGE** 1 , **FEATURE** 1 , **HTTPS://TCO/R14JKHGD5NCYBER** 1 , 
+**NEW** 3 , **MAY** 2 , **FAKE** 1 , **GIFT** 1 , **CARD** 1 , **BALANCE** 1 , **CHECKING** 1 , **SITES** 1 , **STEAL** 1 , **MONEY** 1 , **HTTPS://TCO/BOJK63TLAYTHE** 1 , **YEAR** 1 , **BRINGS** 1 , **ADOBE** 1 , **FLASH** 1 , **PLAYER** 1 , **HTTPS://TCO/H7TCYZC1ANOLDER** 1 , **FREE** 1 , **VERSIONS** 1 , **WINZIP** 1 , 
  
 ## What this user tweeted
  
@@ -2468,11 +2468,11 @@ RT @seld_on: @nypost Yes, we get it. The secret police targets awkward teenagers
  
 `Location:`  
  
-`Number of tweets extracted`  : 97 
+`Number of tweets extracted`  : 98 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1341186597853798400/2_tpsa5F_normal.jpg 
  
-`Number of tweets excluding replies:` 97 
+`Number of tweets excluding replies:` 98 
  
 
  
@@ -2480,7 +2480,7 @@ RT @seld_on: @nypost Yes, we get it. The secret police targets awkward teenagers
  
 ## User Top tweeted words 
  
-**TRUMP** 9 , **@TWEETWORDZ:** 9 , **@REALDONALDTRUMP** 9 , **@REALDONALDTRUMP:** 7 , **PEOPLE** 7 , **PRESIDENT** 5 , **PENCE** 5 , **@TRUMPERWAVIN:** 4 , **THAN** 4 , **@DANSCAVINO** 4 , **ELECTION** 4 , **@SIDNEYPOWELL1** 4 , **US** 4 , **3** 4 , **THEN** 4 , **TIME** 3 , **SENSE** 3 , **BOMB** 3 , **SCHIFF** 3 , **@TWEETWORDZ** 3 , 
+**@TWEETWORDZ:** 10 , **TRUMP** 9 , **@REALDONALDTRUMP** 9 , **@REALDONALDTRUMP:** 7 , **PEOPLE** 7 , **PRESIDENT** 5 , **PENCE** 5 , **@TRUMPERWAVIN:** 4 , **THAN** 4 , **@DANSCAVINO** 4 , **ELECTION** 4 , **@SIDNEYPOWELL1** 4 , **US** 4 , **3** 4 , **THEN** 4 , **TIME** 3 , **SENSE** 3 , **BOMB** 3 , **SCHIFF** 3 , **@TWEETWORDZ** 3 , 
  
 ## What this user tweeted
  
