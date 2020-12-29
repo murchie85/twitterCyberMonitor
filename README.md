@@ -268,240 +268,26 @@ RT @AijazHu__0: However, practitioners of the Doval Doctrine must have thought t
  
 ## What this user tweeted
  
-RT @AijazHu__0: However, practitioners of the Doval Doctrine must have thought through the consequences and vulnerabilities of India, espec…words 
+RT @AijazHu__0: However, practitioners of the Doval Doctrine must have thought through the consequences and vulnerabilities of India, e
  
-**AI** 8 , **DEEPLEARNING** 5 , **ML** 3 , **MACHINELEARNING** 3 , **NEW** 2 , **BIGDATA** 2 , **SELF** 2 , **LEARNING** 2 , **@DEEP_IN_DEPTH:** 2 , **DL** 2 , **@PAULA_PICCARD:** 2 , **DATASCIENCE** 2 , **IIOT** 2 , **ARTIFICIALINTELLIGENCE** 2 , **SIMPLE** 2 , **RT** 1 , **@BOMOIMAJID:** 1 , **⭕GOOD** 1 , **READ:** 1 , **CREATING** 1 , 
+`Num
  
-## What this user tweeted
+# Davidaung7860USER INFO
+![image](http://pbs.twimg.com/profile_images/1341768025448452099/IlYmCKhJ_normal.jpg)
  
-RT @Paula_Piccard: AI &amp; Shopping: A New #Retail Era 
-
-#MachineLearning #DataScience #DeepLearning
-#IIoT #ComputerVision #AI #IoT #neuralnet…RT @Paula_Piccard: AI #Algorithms Proliferates Gender Bias during the Recruitment Process of Women
-
-#MachineLearning #DataScience #DeepLear…
+`User ScreenName:` Davidaung7860 
  
-# APEQUANTUM1USER INFO
-![image](http://pbs.twimg.com/profile_images/1343264156548554756/XgCT_vj9_normal.jpg)
- 
-`User ScreenName:` APEQUANTUM1 
- 
-`User chosen Name:` APEQUANTUM 
+`User chosen Name:` David Aung 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Dec 27 18:34:19 +0000 2020 
+`User signup date?:` Wed Dec 23 15:29:49 +0000 2020 
  
-`User Description?:`  
+`User Description?:` No 
  
-`Followers?: `21 
+`Followers?: `1 
  
-`Following?:` 201 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 181 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1343264156548554756/XgCT_vj9_normal.jpg 
- 
-`Number of tweets excluding replies:` 182 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 15 , **@REALDONALDTRUMP:** 14 , **@REALDONALDTRUMP** 12 , **BIDEN** 8 , **PRESIDENT** 8 , **GOING** 7 , **US** 7 , **ELECTION** 6 , **WORK** 6 , **@DONTDREGMEBRO:** 6 , **@DANSCAVINO** 6 , **EVIDENCE** 5 , **GOOD** 5 , **WATCH** 5 , **LOVE** 5 , **6TH** 5 , **JANUARY** 5 , **BILL** 4 , **WIN** 4 , **NEVER** 4 , 
- 
-## What this user tweeted
- 
-RT @780thC: Dec. 16: The FBI, CISA, and ODNI have become aware of a significant and ongoing cybersecurity campaign. Pursuant to Presidentia…
- 
-# alannah44874USER INFO
-![image](http://pbs.twimg.com/profile_images/1343695614542893056/_xkSApN9_normal.jpg)
- 
-`User ScreenName:` alannah44874 
- 
-`User chosen Name:` Alannah44874 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 23 03:34:33 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1343695614542893056/_xkSApN9_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**EMPLOYEES** 2 , **YOU'RE** 2 , **RT** 1 , **@OPENVPN:** 1 , **GREATEST** 1 , **ASSET** 1 , **SECURITY** 1 , **RISK** 1 , **MOST** 1 , **BEST** 1 , **INTENTIONS** 1 , **EVEN…BEING** 1 , **STUDENT** 1 , **2020** 1 , **TOUGH** 1 , **YOU'VE** 1 , **GOT** 1 , **WORLD** 1 , **KNOWLEDGE** 1 , **FINGERTIPS** 1 , 
- 
-## What this user tweeted
- 
-RT @OpenVPN: Employees are your greatest asset — but they can also be a security risk. Most employees have the best of intentions, but even…
- 
-# MarcosMontanez6USER INFO
-![image](http://pbs.twimg.com/profile_images/1343279718133497856/XdlZlr_T_normal.jpg)
- 
-`User ScreenName:` MarcosMontanez6 
- 
-`User chosen Name:` The Watchlist Group 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 20 02:59:05 +0000 2020 
- 
-`User Description?:` An easy way to discuss stocks, options, news, and more with like-minded individuals, help expand your portfolio and amplify your investments! Join the community 
- 
-`Followers?: `6 
- 
-`Following?:` 80 
- 
-`User URL?:` https://t.co/Ukzt99YbW6 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1343279718133497856/XdlZlr_T_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STILL** 2 , **RT** 1 , **@BAHAMABEN9:** 1 , **--10** 1 , **STOCKS** 1 , **NEXT** 1 , **DECADE--** 1 , **1** 1 , **$RDFN** 1 , **REAL** 1 , **ESTATE** 1 , **TECH** 1 , **2** 1 , **$SHOP** 1 , **ECOMMERCE** 1 , **3** 1 , **$SQ** 1 , **FINTECH** 1 , **4** 1 , **$ABNB** 1 , 
- 
-## What this user tweeted
- 
-RT @BahamaBen9: --10 stocks for the next decade--
-
-1. $RDFN - real estate tech
-2. $SHOP - ecommerce 
-3. $SQ - fintech
-4. $ABNB - travel 
-5.…
- 
-# adolfoeliazat13USER INFO
-![image](http://pbs.twimg.com/profile_images/1341353035239460866/yXGM6SsL_normal.jpg)
- 
-`User ScreenName:` adolfoeliazat13 
- 
-`User chosen Name:` Adolfo Eliazàt 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 21 16:41:46 +0000 2020 
- 
-`User Description?:` building the future. 
- 
-`Followers?: `14 
- 
-`Following?:` 394 
- 
-`User URL?:` https://t.co/puRNF2WR3w 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 141 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1341353035239460866/yXGM6SsL_normal.jpg 
- 
-`Number of tweets excluding replies:` 141 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AI** 49 , **@AINEWSFEED:** 27 , **DE** 20 , **O** 18 , **ARTIFICIAL** 18 , **INTELLIGENCE** 17 , **E** 16 , **ML** 16 , **@RITUPAGHOSH:** 13 , **É** 12 , **QUE** 12 , **ARTIFICIALINTELLIGENCE** 12 , **UM** 12 , **DLRT** 11 , **@DANILOGENTILI** 9 , **VOCÊ** 7 , **ESQUERDISTA** 7 , **NÃO** 7 , **MARKET** 7 , **DA** 6 , 
- 
-## What this user tweeted
- 
-RT @Fabriziobustama: The Marketplace Is Demanding Ethical AI
-By @barronsonline
-#AI #Technology #Cloud #Bigdata #AIEthics #innovation #futur…
- 
-# DavidASmith10USER INFO
-![image](http://pbs.twimg.com/profile_images/1343994875876941824/8wAQTtFH_normal.jpg)
- 
-`User ScreenName:` DavidASmith10 
- 
-`User chosen Name:` David A. Smith 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 29 18:52:44 +0000 2020 
- 
-`User Description?:` Executive Leader with solid background in IT operations, infrastructure, and project management. 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1343994875876941824/8wAQTtFH_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CHECK** 1 , **FIRST** 1 , **CYBERSECURITY** 1 , **APPRENTICESHIP** 1 , **PROGRAM** 1 , **SC** 1 , **HTTPS://TCO/5BE7P4WNIC** 1 , **CHSTECHCHSBIZ…** 1 , **HTTPS://TCO/LWC5T4P4E7BECOME** 1 , **AMBASSADOR** 1 , **CHARLESTON** 1 , **OPEN** 1 , **SOURCE** 1 , **CLICK** 1 , **HERE** 1 , **SIGN** 1 , **HTTPS://TCO/QDW1DYUFKV** 1 , 
- 
-## What this user tweeted
- 
-Check out the first Cybersecurity Apprenticeship program in SC.  https://t.co/5BE7P4WNiC
-  
-#chstech#chsbiz… https://t.co/lwC5t4p4E7
- 
-# SorayaTebbUSER INFO
-![image](http://pbs.twimg.com/profile_images/1343242900394692608/14_MQcBF_normal.jpg)
- 
-`User ScreenName:` SorayaTebb 
- 
-`User chosen Name:` Tebb soraya 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 27 17:09:42 +0000 2020 
- 
-`User Description?:` chaque être vivant est un être souverain sur cette planète 
- 
-`Followers?: `6 
- 
-`Following?:` 75 
+`Following?:` 63 
  
 `User URL?:` None 
  
@@ -509,9 +295,9 @@ Check out the first Cybersecurity Apprenticeship program in SC.  https://t.co/5B
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1343242900394692608/14_MQcBF_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1341768025448452099/IlYmCKhJ_normal.jpg 
  
-`Number of tweets excluding replies:` 444 
+`Number of tweets excluding replies:` 354 
  
 
  
@@ -519,77 +305,128 @@ Check out the first Cybersecurity Apprenticeship program in SC.  https://t.co/5B
  
 ## User Top tweeted words 
  
-**DE** 107 , **LE** 69 , **LA** 62 , **À** 48 , **ET** 47 , **LES** 47 , **QUE** 40 , **EN** 38 , **PAS** 38 , **DES** 34 , **UN** 27 , **SUR** 26 , **:** 25 , **JE** 24 , **DU** 24 , **IL** 23 , **UNE** 22 , **QUI** 22 , **POUR** 21 , **VOUS** 19 , 
+**DECENTRALIZED** 28 , **PLATFORM** 23 , **🔖** 22 , **BLOCKCHAIN** 19 , **USERS** 16 , **DEFI** 16 , **@YIELD_FIELD_1:** 14 , **TOKEN** 13 , **@ERC20_NEWS:** 13 , **NETWORK** 12 , **LIQUIDITY** 12 , **EXCHANGE** 12 , **@NEWS1LEAD:** 12 , **@SMART_NFT_NEWS:** 12 , **CRYPTO** 11 , **@DEXDIGEST:** 11 , **ANNOUNCED** 10 , **@CHAINLINK** 10 , **@SMARTCRYPTONEW1:** 10 , **@DEFI_EAGLE:** 10 , 
  
 ## What this user tweeted
  
-RT @RachBlevins: Not only will Biden not decrease defense spending, he’s calling for more money to be spent “modernizing our defense priori…
+@News1Lead @PancakeSwap @ReefDeFi @ReefDeFi advanced penetration testing of the web apps that interact with smart c… https://t.co/VYduZIU3fr
  
-# blaccxyz_USER INFO
-![image](http://pbs.twimg.com/profile_images/1341951529306222592/8gQKFxOE_normal.jpg)
+# BthabadazzUSER INFO
+![image](http://pbs.twimg.com/profile_images/1342183337411170311/omJsw29J_normal.jpg)
  
-`User ScreenName:` blaccxyz_ 
+`User ScreenName:` Bthabadazz 
  
-`User chosen Name:` BLACC 
+`User chosen Name:` B 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 24 03:31:06 +0000 2020 
+`User signup date?:` Thu Dec 24 18:59:40 +0000 2020 
  
-`User Description?:` The Black Coder Community 
+`User Description?:` Here 2 talk a whole lotta shit 
  
-`Followers?: `33 
+`Followers?: `4 
  
-`Following?:` 9 
+`Following?:` 48 
  
-`User URL?:` https://t.co/MOwyUVeEpC 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1342183337411170311/omJsw29J_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FEEL** 7 , **CHRISTMAS** 7 , **ASS** 5 , **I’M** 4 , **SHIT** 3 , **NEEDA** 3 , **FACE** 2 , **WISH** 2 , **FAT** 2 , **IAN** 2 , **DAY** 2 , **YEARS** 2 , **DOES** 2 , **PARENTS** 2 , **KIDS** 2 , **Y’ALL** 2 , **COVER** 2 , **GOTTA** 1 , **SHOW** 1 , **ONCE** 1 , 
+ 
+## What this user tweeted
+ 
+You only gotta show me once you gonna try to throw my “vulnerabilities” in my face before our whole relationship finna switch up
+ 
+# ifb_ftUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340687483063971841/VM2hzt2p_normal.jpg)
+ 
+`User ScreenName:` ifb_ft 
+ 
+`User chosen Name:` @A_c) 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 15:50:01 +0000 2020 
+ 
+`User Description?:` !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!! #z_z !!!!!!!!!!!!!! 𝔱𝔥𝔞𝔱𝔰 𝔦𝔱 
+ 
+`Followers?: `121 
+ 
+`Following?:` 215 
+ 
+`User URL?:` https://t.co/1mG5tNEhfM 
+ 
+`Location:` wala buj lavo  
+ 
+`Number of tweets extracted`  : 196 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340687483063971841/VM2hzt2p_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1940 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LETSFIGHTINDIANHYBRIDWAR** 122 , **@IRSHAD_RATHI:** 114 , **کے** 44 , **PAKISTAN** 34 , **ANTIPAKISTANVOICES** 31 , **کی** 29 , **اور** 29 , **میں** 24 , **سے** 18 , **ہے** 16 , **@ZSHN_B8:** 15 , **کو** 14 , **HYBRID** 14 , **یہ** 13 , **کا** 13 , **WAR** 13 , **ARMY** 13 , **CHIEF** 13 , **اس** 12 , **INDIAN** 11 , 
+ 
+## What this user tweeted
+ 
+RT @irshad_rathi: #LetsFightIndianHybridWar
+“Hybrid warfare” waged by intelligence agencies, involves the use of irregular forces and uncon…RT @irshad_rathi: #LetsFightIndianHybridWar
+These vulnerabilities could be political, economic, social or diplomatic in nature; capitalisin…RT @irshad_rathi: #LetsFightIndianHybridWar
+The spectrum of irregular forces deployed against Pakistan is carefully designed to target vuln…RT @khan34602: #LetsFightIndianHybridWar
+
+Hybrid warfare” waged by intelligence agencies, involves the use of irregular forces and unconven…RT @khan34602: #LetsFightIndianHybridWar
+These vulnerabilities could be political, economic, social or diplomatic in nature; capitalising o…RT @khan34602: #LetsFightIndianHybridWar
+The spectrum of irregular forces deployed against Pakistan is carefully designed to target vulnera…RT @irshad_rathi: #LetsFightIndianHybridWar
+domain approach that leverages on exploiting adversary’s vulnerabilities. It aims at inflicting…RT @irshad_rathi: #LetsFightIndianHybridWar
+In the current age of irregular warfare where political objectives are secured by capitalizing…RT @S_Zahra23: #LetsFightIndianHybridWar
+The 21st century conflicts incorporate multi-domain approach that leverages on exploiting adversar…
+ 
+# Kate43031375USER INFO
+![image](http://pbs.twimg.com/profile_images/1340705857567264770/mERmDOPw_normal.jpg)
+ 
+`User ScreenName:` Kate43031375 
+ 
+`User chosen Name:` Kate 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 05:13:44 +0000 2020 
+ 
+`User Description?:` next 
+ 
+`Followers?: `15 
+ 
+`Following?:` 183 
+ 
+`User URL?:` None 
  
 `Location:`  
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1341951529306222592/8gQKFxOE_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1340705857567264770/mERmDOPw_normal.jpg 
  
-`Number of tweets excluding replies:` 538 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BLACKTECHTWITTER** 67 , **FREE)** 64 , **STARTUP** 46 , **100DAYSOFCODE** 36 , **JUCKTION** 34 , **@JUCKTION:** 32 , **CODENEWBIE** 31 , **WOMENWHOCODE** 30 , **($9499** 29 , **@COURSEOP:** 29 , **PROGRAMMING** 26 , **DEVELOPER** 24 , **CODING** 20 , **TECH** 18 , **JAVASCRIPT** 18 , **($1999** 16 , **WEBDEV** 16 , **…RT** 15 , **PYTHON** 14 , **2021** 13 , 
- 
-## What this user tweeted
- 
-RT @domyboo: Come Study with Me - #AWS Solutions Architect Exam, Chap 5 #100DaysofCloud #cloudsecurity #cloudcomputing #cloud #cyber #cyber…
- 
-# OpenSquirrelUSER INFO
-![image](http://pbs.twimg.com/profile_images/1341091082600255492/VQDmYGiP_normal.jpg)
- 
-`User ScreenName:` OpenSquirrel 
- 
-`User chosen Name:` OpenSecretSquirrel 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 21 16:42:27 +0000 2020 
- 
-`User Description?:` anti war. anti technocracy. anti corporatism. no political allegiance to the establishment. interested in the intelligence machinations which uphold Atlanticism 
- 
-`Followers?: `12 
- 
-`Following?:` 133 
- 
-`User URL?:` None 
- 
-`Location:` Angel Grove, California 
- 
-`Number of tweets extracted`  : 193 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1341091082600255492/VQDmYGiP_normal.jpg 
- 
-`Number of tweets excluding replies:` 254 
+`Number of tweets excluding replies:` 857 
  
 
  
@@ -597,77 +434,38 @@ RT @domyboo: Come Study with Me - #AWS Solutions Architect Exam, Chap 5 #100Days
  
 ## User Top tweeted words 
  
-**US** 14 , **VERY** 9 , **PEOPLE** 9 , **CHRISTMAS** 9 , **@CALEBMAUPIN:** 9 , **BERNIE** 8 , **SYRIA** 8 , **BIDEN** 7 , **STILL** 7 , **GOOD** 7 , **FORCETHEVOTE** 7 , **VIDEO** 7 , **VOTE** 6 , **SOME** 6 , **MANY** 6 , **PARTY** 6 , **TRUMP** 6 , **AFTER** 6 , **THANKS** 6 , **@AARONJMATE:** 6 , 
+**@NEWS1LEAD:** 26 , **@DEFINEWS_INFO:** 26 , **@YIELD_FIELD_1:** 25 , **@DEXDIGEST:** 22 , **@SMARTCRYPTONEW1:** 21 , **EXCHANGE** 17 , **PLATFORM** 16 , **DECENTRALIZED** 15 , **LIQUIDITY** 15 , **BLOCKCHAIN** 13 , **DEFI** 13 , **SMART** 11 , **TRADING** 11 , **DAILY** 11 , **DIGEST** 11 , **@SMART_NFT_NEWS:** 10 , **@REEFDEFI** 10 , **@PANCAKESWAP** 10 , **USERS** 10 , **@BINANCE** 9 , 
  
 ## What this user tweeted
  
-RT @RachBlevins: Not only will Biden not decrease defense spending, he’s calling for more money to be spent “modernizing our defense priori…
+@News1Lead @PancakeSwap @ReefDeFi @ReefDeFi advanced penetration testing of the web apps that interact with smart c… https://t.co/lPJjQTCELV
  
-# L0rd_V9d3rUSER INFO
-![image](http://pbs.twimg.com/profile_images/1340884974535380993/pZOuPFnK_normal.jpg)
+# Devilli45901039USER INFO
+![image](http://pbs.twimg.com/profile_images/1343198401803005953/nfmU7_EW_normal.jpg)
  
-`User ScreenName:` L0rd_V9d3r 
+`User ScreenName:` Devilli45901039 
  
-`User chosen Name:` Ar1el 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 21 04:58:00 +0000 2020 
- 
-`User Description?:` Now you see me? 
- 
-`Followers?: `12 
- 
-`Following?:` 171 
- 
-`User URL?:` None 
- 
-`Location:` ./DeathStar 
- 
-`Number of tweets extracted`  : 124 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1340884974535380993/pZOuPFnK_normal.jpg 
- 
-`Number of tweets excluding replies:` 124 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ADANIELHILL** 15 , **@ILLYRIAN598** 13 , **QUE** 10 , **DE** 9 , **@EXODUSGHOST** 8 , **TU** 8 , **LA** 6 , **DON'T** 5 , **Y** 5 , **EL** 5 , **@DREAM_EAT3R** 5 , **BELIEVE** 4 , **GOOD** 4 , **I'M** 4 , **@XXW1NTERMUTEXX** 4 , **@ZABROS2020** 4 , **CHRISTMAS** 4 , **AWESOME** 3 , **TE** 3 , **UNA** 3 , 
- 
-## What this user tweeted
- 
-RT @ADanielHill: Hear my story tomorrow at the #rC3 #ccc Remote Chaos Experience, #germany - the most important security conference of the…
- 
-# SPetricigUSER INFO
-![image](http://pbs.twimg.com/profile_images/1341367883465699328/GEEUFelS_normal.jpg)
- 
-`User ScreenName:` SPetricig 
- 
-`User chosen Name:` Scott C:\ Petricig 
+`User chosen Name:` Devillish 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Dec 22 12:55:35 +0000 2020 
+`User signup date?:` Sun Dec 27 13:55:52 +0000 2020 
  
-`User Description?:` Info Security, DFIR, Technology, NYC, Nature, Cars, Motorcycles 
+`User Description?:` Fashion fades, only style remains the same. 
  
-`Followers?: `8 
+`Followers?: `61 
  
-`Following?:` 224 
+`Following?:` 52 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 53 
+`Number of tweets extracted`  : 196 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1341367883465699328/GEEUFelS_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1343198401803005953/nfmU7_EW_normal.jpg 
  
-`Number of tweets excluding replies:` 53 
+`Number of tweets excluding replies:` 196 
  
 
  
@@ -675,7 +473,156 @@ RT @ADanielHill: Hear my story tomorrow at the #rC3 #ccc Remote Chaos Experience
  
 ## User Top tweeted words 
  
-**@REALDONALDTRUMP** 14 , **YOU'RE** 4 , **YES** 3 , **@MARKLEVINSHOW** 3 , **LOL** 3 , **DUMB** 2 , **MOST** 2 , **LAST** 2 , **@BEING_TIM** 2 , **@DEPLORABLEBRIDE** 2 , **TRUMP** 2 , **THAN** 2 , **US** 2 , **MAYBE** 2 , **@DEVILNINJA777** 2 , **WOW** 2 , **AMERICAN** 2 , **TH…** 2 , **@ATTYSCOTTFOSTER** 2 , **@AOC** 2 , 
+**LETSFIGHTINDIANHYBRIDWAR** 119 , **PAKISTAN** 49 , **HYBRID** 35 , **@S_ZAHRA23:** 33 , **INDIA** 31 , **WAR** 24 , **WARFARE** 24 , **AGAINST** 22 , **@SAI_F007:** 22 , **INDIAN** 19 , **کریں** 18 , **@INGENIOUS_ANNIE:** 18 , **ITS** 14 , **WHICH** 13 , **@SHAFQATKHANPK:** 11 , **TERRORIST** 10 , **!!!** 10 , **THESE** 10 , **MILITARY** 9 , **MEDIA** 9 , 
+ 
+## What this user tweeted
+ 
+RT @Imran8pk: #LetsFightIndianHybridWar
+These vulnerabilities could be political, economic, social or diplomatic in nature; capitalising on…RT @Imran8pk: #LetsFightIndianHybridWar
+“Hybrid warfare” waged by intelligence agencies, involves the use of irregular forces and unconvent…
+ 
+# MFawadYounusUSER INFO
+![image](http://pbs.twimg.com/profile_images/1341652584726224897/XEJafd5S_normal.jpg)
+ 
+`User ScreenName:` MFawadYounus 
+ 
+`User chosen Name:` M Fawad 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Dec 23 07:34:44 +0000 2020 
+ 
+`User Description?:` ⛔If you don't follow back, so don't bother yourself to follow me⛔
+#SocialMediaVolunteer #LovePakArmy #LovePakistan #Insafian
+🇵🇰🇦🇪 
+ 
+`Followers?: `32 
+ 
+`Following?:` 81 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 194 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341652584726224897/XEJafd5S_normal.jpg 
+ 
+`Number of tweets excluding replies:` 432 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ANTIPAKISTANVOICES** 141 , **@HAIDERSHAH_9:** 45 , **@SIALKOT_BAWA:** 40 , **کے** 34 , **کی** 25 , **INDIAN** 22 , **PAKISTAN** 22 , **میں** 20 , **@SHAHZADSHAHBA12:** 20 , **سے** 19 , **INDIA** 17 , **@INVISIBLE_RAI:** 17 , **اور** 16 , **کو** 15 , **پاکستان** 15 , **NETWORK** 15 , **EU** 14 , **SRIVASTAVA** 14 , **ANI** 13 , **FAKE** 13 , 
+ 
+## What this user tweeted : 34 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343676792561811457/OVVFzHZh_normal.jpg 
+ 
+`Number of tweets excluding replies:` 34 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@RONBUPDATES:** 8 , **म** 4 , **GOOD** 4 , **को** 3 , **❤️** 3 , **जिन्दगी** 3 , **होला🥰** 3 , **चुनौती** 3 , **र** 2 , **स्वागत** 2 , **अनि** 2 , **कहिले** 2 , **100** 2 , **2020** 2 , **EITHER** 2 , **WAY** 2 , **हुने** 2 , **त** 2 , **NEW** 2 , **लग्छ** 2 , 
+ 
+## What this user tweeted
+ 
+RT @4n6lady: IMO: In InfoSec, building a portfolio of projects, references, guides and collaborative material is as or more important than…
+ 
+# TheCollegiateA1USER INFO
+![image](http://pbs.twimg.com/profile_images/1343927367820079104/2fkwam9M_normal.jpg)
+ 
+`User ScreenName:` TheCollegiateA1 
+ 
+`User chosen Name:` TheCollegiateAmerican 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 29 09:29:30 +0000 2020 
+ 
+`User Description?:` U.S Current Events • International News Analysis • We The People • Restoring the Republic • Seeking the Truth 🇺🇸 🗽 🦅 
+ 
+`Followers?: `11 
+ 
+`Following?:` 209 
+ 
+`User URL?:` https://t.co/F5NzO3Tmam 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 114 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343927367820079104/2fkwam9M_normal.jpg 
+ 
+`Number of tweets excluding replies:` 115 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 16 , **PRESIDENT** 10 , **ELECTION** 7 , **PEOPLE** 7 , **JANUARY** 6 , **BIDEN** 6 , **PARTY** 5 , **6TH** 5 , **AMERICANS** 5 , **@TEAMTRUMP:** 5 , **NEVER** 5 , **DC** 4 , **@GEORGEPAPA19:** 4 , **$2000** 4 , **NEW** 4 , **GOVERNMENT** 4 , **REPUBLICAN** 4 , **VOTERS** 4 , **COUNTRY** 4 , **@REALDONALDTRUMP** 4 , 
+ 
+## What this user tweeted
+ 
+RT @4n6lady: IMO: In InfoSec, building a portfolio of projects, references, guides and collaborative material is as or more important than…
+ 
+# ShadoSecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1341064802425315330/8oGlR72n_normal.jpg)
+ 
+`User ScreenName:` ShadoSec 
+ 
+`User chosen Name:` ShadoSec 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 16:55:01 +0000 2020 
+ 
+`User Description?:` ShadoSec Podcast discussing Cyber news and events 
+
+Join the fun and give us your feedback 
+ 
+`Followers?: `4 
+ 
+`Following?:` 66 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341064802425315330/8oGlR72n_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PODCAST** 7 , **SHADOSEC** 6 , **EPISODE** 5 , **CYBERSECURITY** 5 , **INFOSEC** 5 , **2** 3 , **SOON** 3 , **CYBER** 3 , **LISTEN** 2 , **AI** 2 , **TINDER** 2 , **COMING** 2 , **STAY** 2 , **FIRST** 2 , **SECURITY** 2 , **SECOND** 1 , **HTTPS://TCO/D8VTT826AR** 1 , **CYBERCLEARVIEW** 1 , **LEADS** 1 , **FALSE** 1 , 
+ 
+## What this user tweeted
+ 
+We discuss the recent ripple lawsuit from the SEC in this weeks ShadoSec podcast https://t.co/da61KrAV3r… https://t.co/iIJvjZxVSa
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br> , **US** 2 , **MAYBE** 2 , **@DEVILNINJA777** 2 , **WOW** 2 , **AMERICAN** 2 , **TH…** 2 , **@ATTYSCOTTFOSTER** 2 , **@AOC** 2 , 
  
 ## What this user tweeted
  
