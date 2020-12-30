@@ -29,9 +29,9 @@ The most popular user is: **wikileaks**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JsPadoan: Defending the COVID-19 Vaccine Supply Chain #Cybersecurity #security via https://t.co/CDsfTZ2vJz https://t.co/DYEfEIOX7O |
-| @unknown_lankan From stack overflow :https://t.co/3PIejXBL4U |
-| RT @FBIElPaso: The #FBI is raising awareness for parents and caregivers of school-age children about potential disruptions to schools and c… |
+| RT @sdxcentral: Definition: 11 Critical Cloud Security Vulnerabilities It’s vital to recognize and enforce measures protecting the cloud f… |
+| RT @stpiindia: “Adherence to medical regulations is a critical aspect of #MedTech. Critical healthcare data securities must be ensured by I… |
+| RT @Rothbard1776: This might be THE most comprehensive and important documentary that I’ve watched reviewing the 2020 election to date. @Jo… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -60,12 +60,12 @@ The most popular user is: **wikileaks**
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@jackf723 @miki123211 People figure out windows vulnerabilities all the time and it's not open source. |
+|RT @jeff_kaye: “The Bureau recruits counterintelligence assets in much the same way it turns witnesses in domestic racketeering cases: agen… |
 
 ### MOST RETWEETED 
 
@@ -268,9 +268,7 @@ RT @AijazHu__0: However, practitioners of the Doval Doctrine must have thought t
  
 ## What this user tweeted
  
-RT @AijazHu__0: However, practitioners of the Doval Doctrine must have thought through the consequences and vulnerabilities of India, e
- 
-`Num
+RT @AijazHu__0: However, practitioners of the Doval Doctrine must have thought through the consequences and vulnerabilities of India, espec…
  
 # Davidaung7860USER INFO
 ![image](http://pbs.twimg.com/profile_images/1341768025448452099/IlYmCKhJ_normal.jpg)
@@ -627,7 +625,7 @@ RT @ItsAPerfectLife: maybe you will understand my vulnerabilities, but you won't
  
 `Profile image:` http://pbs.twimg.com/profile_images/1343647694485647362/iRYXz4fx_normal.jpg 
  
-`Number of tweets excluding replies:` 1236 
+`Number of tweets excluding replies:` 1239 
  
 
  
@@ -635,7 +633,7 @@ RT @ItsAPerfectLife: maybe you will understand my vulnerabilities, but you won't
  
 ## User Top tweeted words 
  
-**ELECTION** 25 , **@BOBBYPITON3:** 23 , **TRUMP** 19 , **@REALDONALDTRUMP** 16 , **PRESIDENT** 15 , **@CODEMONKEYZ:** 14 , **@LLINWOOD:** 12 , **US** 11 , **STATE** 11 , **@RAIKLIN:** 9 , **MOST** 9 , **VOTES** 9 , **@REALDONALDTRUMP:** 9 , **PENNSYLVANIA** 9 , **BIDEN** 8 , **THAN** 8 , **@PATRICKBYRNE:** 8 , **VOTE** 6 , **WITHOUT** 6 , **@SIDNEYPOWELL1:** 6 , 
+**ELECTION** 25 , **@BOBBYPITON3:** 23 , **TRUMP** 20 , **PRESIDENT** 16 , **@REALDONALDTRUMP** 16 , **@CODEMONKEYZ:** 14 , **STATE** 12 , **@LLINWOOD:** 12 , **US** 11 , **@REALDONALDTRUMP:** 10 , **@RAIKLIN:** 9 , **MOST** 9 , **VOTES** 9 , **PENNSYLVANIA** 9 , **BIDEN** 8 , **THAN** 8 , **@PATRICKBYRNE:** 8 , **VOTE** 6 , **WITHOUT** 6 , **@SIDNEYPOWELL1:** 6 , 
  
 ## What this user tweeted
  
@@ -654,7 +652,7 @@ RT @Rothbard1776: @PatrickByrne @YouTube This might be THE most comprehensive an
  
 `User Description?:` Truth Seeker Trump Supporter and 1000% behind anyone looking to Learn and become aware that's it Now or Never to Save our Great Nation! Education+Action =HOPE 
  
-`Followers?: `170 
+`Followers?: `171 
  
 `Following?:` 438 
  
@@ -705,7 +703,7 @@ RT @Rothbard1776: @PatrickByrne @YouTube This might be THE most comprehensive an
  
 `Profile image:` http://pbs.twimg.com/profile_images/1340820243455700992/IOfnPdBy_normal.jpg 
  
-`Number of tweets excluding replies:` 964 
+`Number of tweets excluding replies:` 965 
  
 
  
@@ -713,7 +711,7 @@ RT @Rothbard1776: @PatrickByrne @YouTube This might be THE most comprehensive an
  
 ## User Top tweeted words 
  
-**@AZGOP:** 26 , **ELECTION** 20 , **@SIDNEYPOWELL1** 17 , **@STEVEPIECZENIK:** 16 , **PRESIDENT** 16 , **TRUMP** 16 , **@REALDONALDTRUMP** 14 , **@LLINWOOD:** 14 , **@KANEKOATHEGREAT:** 12 , **EVIDENCE** 11 , **BIDEN** 10 , **FRAUD** 9 , **PEOPLE** 9 , **@REALDONALDTRUMP:** 8 , **GEORGIA** 8 , **@SIDNEYPOWELL1:** 8 , **2020** 8 , **@GENFLYNN:** 8 , **REPUBLICANS** 8 , **STATES** 7 , 
+**@AZGOP:** 26 , **ELECTION** 20 , **@STEVEPIECZENIK:** 16 , **@SIDNEYPOWELL1** 16 , **PRESIDENT** 16 , **TRUMP** 16 , **@LLINWOOD:** 14 , **@REALDONALDTRUMP** 13 , **@KANEKOATHEGREAT:** 12 , **EVIDENCE** 11 , **BIDEN** 10 , **REPUBLICANS** 9 , **FRAUD** 9 , **PEOPLE** 9 , **@REALDONALDTRUMP:** 8 , **GEORGIA** 8 , **@SIDNEYPOWELL1:** 8 , **2020** 8 , **STATES** 7 , **@LLINWOOD** 7 , 
  
 ## What this user tweeted
  
@@ -1450,9 +1448,9 @@ RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to disco
  
 `User Description?:` Disabled veteran,patriot,father of 3,husband. Watching the country I fought for turning into just another banana republic. Our country is under attack. 
  
-`Followers?: `832 
+`Followers?: `835 
  
-`Following?:` 2160 
+`Following?:` 2175 
  
 `User URL?:` None 
  
@@ -1462,7 +1460,7 @@ RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to disco
  
 `Profile image:` http://pbs.twimg.com/profile_images/1340685189413007367/JlG517DE_normal.jpg 
  
-`Number of tweets excluding replies:` 3051 
+`Number of tweets excluding replies:` 3098 
  
 
  
@@ -1470,7 +1468,7 @@ RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to disco
  
 ## User Top tweeted words 
  
-**PEOPLE** 18 , **TRUMP** 14 , **ELECTION** 12 , **MOST** 10 , **DEMOCRATS** 10 , **@REALDONALDTRUMP** 10 , **PRESIDENT** 10 , **US** 8 , **NEVER** 8 , **2020** 8 , **REPUBLICANS** 8 , **MCCONNELL** 8 , **GOING** 8 , **BIDEN** 8 , **STATE** 7 , **MITCH** 7 , **JUDGE** 7 , **EVIDENCE** 7 , **SAY** 7 , **FRAUD** 6 , 
+**PEOPLE** 19 , **TRUMP** 16 , **PRESIDENT** 13 , **GOING** 12 , **@REALDONALDTRUMP** 11 , **US** 10 , **MOST** 9 , **MCCONNELL** 9 , **ELECTION** 9 , **DEMOCRATS** 9 , **BILL** 9 , **MITCH** 8 , **STATE** 8 , **NEED** 7 , **STOP** 7 , **AMERICA** 7 , **MASK** 7 , **BIDEN** 7 , **REPUBLICANS** 7 , **JUDGE** 7 , 
  
 ## What this user tweeted
  
@@ -2077,7 +2075,7 @@ https://t.co/IXfUsWZuHk
  
 `Followers?: `55 
  
-`Following?:` 741 
+`Following?:` 743 
  
 `User URL?:` https://t.co/fhcJEcMi0V 
  
@@ -2087,7 +2085,7 @@ https://t.co/IXfUsWZuHk
  
 `Profile image:` http://pbs.twimg.com/profile_images/1342962969072660480/2EghIWSv_normal.jpg 
  
-`Number of tweets excluding replies:` 1762 
+`Number of tweets excluding replies:` 1764 
  
 
  
@@ -2095,7 +2093,7 @@ https://t.co/IXfUsWZuHk
  
 ## User Top tweeted words 
  
-**FOLLOW** 46 , **GIVEAWAY** 31 , **RETWEET** 27 , **+** 27 , **PERSON** 23 , **TWEET** 21 , **RT** 20 , **RETWEETS** 20 , **ENDS** 16 , **24** 16 , **PINNED** 15 , **GIVING** 15 , **HOURS** 15 , **SEND** 14 , **$20** 14 , **ATAU** 11 , **$25** 11 , **MUST** 11 , **ALBUM** 10 , **MYSELF** 10 , 
+**FOLLOW** 48 , **GIVEAWAY** 32 , **RETWEET** 29 , **+** 28 , **PERSON** 23 , **TWEET** 23 , **RT** 22 , **RETWEETS** 21 , **HOURS** 17 , **24** 16 , **PINNED** 16 , **ENDS** 16 , **GIVING** 15 , **SEND** 14 , **$20** 13 , **MYSELF** 12 , **$25** 12 , **$100** 12 , **MUST** 11 , **ATAU** 11 , 
  
 ## What this user tweeted
  
