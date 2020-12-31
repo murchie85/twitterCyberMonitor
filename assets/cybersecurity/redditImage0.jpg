@@ -120,7 +120,7 @@ jQuery("a.et_pb_promo_button").attr('rel', 'nofollow');
 });
 </script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">		</head>
-<body class="post-template-default single single-post postid-4588 single-format-standard et_monarch et_pb_button_helper_class et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns3 et_cover_background et_pb_gutter osx et_pb_gutters3 et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+<body class="post-template-default single single-post postid-4588 single-format-standard et_monarch et_pb_button_helper_class et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns3 et_cover_background et_pb_gutter et_pb_gutters3 et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
     
     <!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PGM4F3T"
@@ -419,7 +419,7 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/www.webtitan.com\/wp-json\/contact
 
 <script type='text/javascript' id='et_monarch-custom-js-js-extra'>
 /* <![CDATA[ */
-var monarchSettings = {"ajaxurl":"https:\/\/www.webtitan.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/www.webtitan.com\/blog\/malicious-word-documents-used-to-deliver-malicious-cobalt-strike-script-hidden-in-png-file\/","stats_nonce":"a2bc834a58","share_counts":"505d03cf17","follow_counts":"f3dc1d4f58","total_counts":"41cb23d840","media_single":"18766a2f00","media_total":"bc907cebab","generate_all_window_nonce":"6283f3786d","no_img_message":"No images available for sharing on this page"};
+var monarchSettings = {"ajaxurl":"https:\/\/www.webtitan.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/www.webtitan.com\/blog\/malicious-word-documents-used-to-deliver-malicious-cobalt-strike-script-hidden-in-png-file\/","stats_nonce":"522b03b298","share_counts":"9956680c67","follow_counts":"acb8b683c2","total_counts":"b83aa4719b","media_single":"3894044288","media_total":"ce37152e5a","generate_all_window_nonce":"8e2557e689","no_img_message":"No images available for sharing on this page"};
 /* ]]> */
 </script>
 
@@ -434,7 +434,7 @@ var spuvar_social = [];
 /* <![CDATA[ */
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
-var et_pb_custom = {"ajaxurl":"https:\/\/www.webtitan.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.webtitan.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.webtitan.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"e2de017ad3","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"c4d107f7a3","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"4588","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.webtitan.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.webtitan.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.webtitan.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"e71daa0a5f","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"9f1261b849","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"4588","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
 var et_pb_box_shadow_elements = [];
 var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
 var et_pb_sticky_elements = [];
@@ -450,9 +450,9 @@ var et_pb_sticky_elements = [];
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 89/98 objects using disk
+Object Caching 88/99 objects using disk
 Page Caching using disk: enhanced 
-Database Caching 11/22 queries in 0.008 seconds using disk
+Database Caching 7/23 queries in 0.011 seconds using disk
 
-Served from: www.webtitan.com @ 2020-12-30 22:42:13 by W3 Total Cache
+Served from: www.webtitan.com @ 2020-12-31 23:37:57 by W3 Total Cache
 -->
