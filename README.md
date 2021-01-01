@@ -29,8 +29,8 @@ The most popular user is: **NatashaBertrand**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Now more than ever we are called upon to make a difference. We’ve faced unprecedented challenges this year which sh… https://t.co/6gqq93nDP9 |
-| @rhoml I expect SREs to adopt security best practices in system design, but exploring vulnerabilities requires high… https://t.co/owlIAGxTKS |
+| COVID-19 has weakened organizational security. Remote access inefficiencies, VPN vulnerabilities, and a shortage of… https://t.co/mJ83jU22gc |
+| RT @JanuaryJames: I’m only fragile if I let you see my vulnerabilities. |
 | RT @naukarshah: A few simple questions to @ECISVEEP and @SpokespersonECI on the current EVM-VVPAT design and the vulnerabilities therein.… |
 
 ## RELATED METRICS<br>
@@ -39,9 +39,9 @@ The most popular user is: **NatashaBertrand**
 | #1 Most tweeted to  | **ECISVEEP** |
 | #2 Most tweeted to  | **SpokespersonECI** |
 | #3 Most tweeted to  | **naukarshah** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 3.64%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 3.66%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -54,18 +54,18 @@ The most popular user is: **NatashaBertrand**
 | second  | **@ECISVEEP**  |
 | third  | **FEW** |
 | fourth  | **@SPOKESPERSONECI**  |
-| fifth  | **CURRENT**  |
+| fifth  | **SIMPLE**  |
 
 
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJECTIVE** (50.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.15%) & **NEGATIVELY-SUBJECTIVE** (30.77%) **OBJECTIVE** (23.08%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @naukarshah: A few simple questions to @ECISVEEP and @SpokespersonECI on the current EVM-VVPAT design and the vulnerabilities therein.… |
+|@wtfKevv I stopped sharing stuff with my Mom when I realized everytime we having differences,she used my problems a… https://t.co/J0ZXarWXkA |
 
 ### MOST RETWEETED 
 
@@ -74,6 +74,165 @@ VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJ
 | JUST OUT: Volume 5 of the Senate Intelligence Committee's Russia report, focused on counterintelligence threats and… https://t.co/SJk5xXBEIg |
 
 # Potential Fake Accounts
+ 
+# SanistTheUSER INFO
+![image](http://pbs.twimg.com/profile_images/1345019132677390337/igDidGTT_normal.jpg)
+ 
+`User ScreenName:` SanistThe 
+ 
+`User chosen Name:` the.sanist 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 01 14:47:16 +0000 2021 
+ 
+`User Description?:` I dwell among the untrodden ways ... 
+ 
+`Followers?: `0 
+ 
+`Following?:` 55 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345019132677390337/igDidGTT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**2** 2 , **KNOWLEDGE** 2 , **RT** 1 , **@INSIDERPHD:** 1 , **@K0NGS3NG** 1 , **RCES** 1 , **USUALLY** 1 , **REQUIRE** 1 , **THINGS** 1 , **1** 1 , **KNOWN** 1 , **VULNERABILITIES** 1 , **(CVES)** 1 , **RECON** 1 , **AIM…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @InsiderPhD: @K0ngS3ng RCEs usually require 2 things, 1 a knowledge of known vulnerabilities (CVEs) and 2 a knowledge of recon. The aim…
+ 
+# avasec1USER INFO
+![image](http://pbs.twimg.com/profile_images/1345078898053156864/b8TApN9P_normal.jpg)
+ 
+`User ScreenName:` avasec1 
+ 
+`User chosen Name:` avasec 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 01 18:41:57 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 45 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345078898053156864/b8TApN9P_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOT** 2 , **I'LL** 2 , **SECURITY** 2 , **@BUGCROWD** 1 , **EASY** 1 , **INSPIRED** 1 , **YOUNG** 1 , **WOMEN** 1 , **CYBERSECURITY** 1 , **BREAKING** 1 , **GLASS** 1 , **CEILINGS** 1 , **I…** 1 , **HTTPS://TCO/OAQCVKCY4H@MADDIESTONE** 1 , **STARTED** 1 , **WORKING** 1 , **BOOK** 1 , **WHICH** 1 , **LEARN** 1 , **SOMETHING** 1 , 
+ 
+## What this user tweeted
+ 
+Building a security strategy around the idea that there are no non-technical vulnerabilities is a failure of imagination.
+ 
+# BluesLibertyUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` BluesLiberty 
+ 
+`User chosen Name:` Liberty Blues 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 01 14:41:11 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JOVANHPULITZER** 6 , **@DAVIDJU83087868** 4 , **@RPARKERSCIENCE** 4 , **@GATEWAYPUNDIT** 4 , **TCL** 2 , **TV** 2 , **@KAMALAHARRIS** 2 , **TRUMP** 2 , **@REALDONALDTRUMP** 2 , **@HAVETOBKIDDIN** 1 , **GOOD** 1 , **SPOTTING** 1 , **SURE** 1 , **LINKED…** 1 , **HTTPS://TCO/GX6CIW9D3W@JOVANHPULITZER** 1 , **ARTICLE** 1 , **LINKED** 1 , **SOFTWARE** 1 , **VULNERABILITY** 1 , **DOES** 1 , 
+ 
+## What this user tweeted
+ 
+@havetobkiddin @DavidJu83087868 @Rparkerscience @JovanHPulitzer @gatewaypundit Good spotting, not sure if he linked… https://t.co/Gx6CIW9d3W@JovanHPulitzer @JovanHPulitzer the article you linked says the software vulnerability for TCL TV does not affect t… https://t.co/lF2stYXDAS
+ 
+# Sexstone75USER INFO
+![image](http://pbs.twimg.com/profile_images/1343216798020358149/1LzG4ta7_normal.jpg)
+ 
+`User ScreenName:` Sexstone75 
+ 
+`User chosen Name:` Battle of Trenton 1776 #FightBack👊 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 27 15:10:18 +0000 2020 
+ 
+`User Description?:` Starting Over 👊
+Former bassist for Sexstone and Sideshow Romance..paranormal enthusiast..storm chaser🔥
+Parler @Sexstone75
+Gab @ Trent45 
+ 
+`Followers?: `206 
+ 
+`Following?:` 1121 
+ 
+`User URL?:` None 
+ 
+`Location:` Western KY 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343216798020358149/1LzG4ta7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2587 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PATRICKBYRNE:** 15 , **BIG** 14 , **@LLINWOOD:** 14 , **@SECPOMPEO:** 10 , **GREAT** 8 , **6TH** 8 , **NEW** 8 , **(202)** 8 , **PEOPLE** 7 , **FREEDOM** 7 , **?** 7 , **POMPEO** 7 , **@REALDONALDTRUMP:** 7 , **SWAGGER** 7 , **SENATE** 6 , **TRUMP** 6 , **@LLINWOOD** 6 , **HOUSE** 6 , **DC** 6 , **WHERE’S** 6 , 
+ 
+## What this user tweeted
+ 
+RT @T_S_P_O_O_K_Y: I spent the last 4 years, as an expert on cyber, working to educate Federal and State governments on the need to prevent…
  
 # ItsJust77367852USER INFO
 ![image](http://pbs.twimg.com/profile_images/1343208839689203712/Mwi8hkmD_normal.jpg)
@@ -88,9 +247,9 @@ VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJ
  
 `User Description?:` I'm just me. 
  
-`Followers?: `384 
+`Followers?: `424 
  
-`Following?:` 1493 
+`Following?:` 1693 
  
 `User URL?:` None 
  
@@ -100,7 +259,7 @@ VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJ
  
 `Profile image:` http://pbs.twimg.com/profile_images/1343208839689203712/Mwi8hkmD_normal.jpg 
  
-`Number of tweets excluding replies:` 2427 
+`Number of tweets excluding replies:` 2662 
  
 
  
@@ -108,7 +267,7 @@ VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJ
  
 ## User Top tweeted words 
  
-**2** 19 , **@LLINWOOD** 13 , **PPL** 12 , **PEOPLE** 12 , **4** 11 , **U** 10 , **ANY** 9 , **BIG** 9 , **NEW** 8 , **@REALDONALDTRUMP** 8 , **NEED** 7 , **AFTER** 7 , **TIME** 7 , **@MARKMEADOWS** 7 , **@WHEREISTRUTH4:** 7 , **DOWN** 6 , **AMERICAN** 6 , **LAST** 6 , **VOTES** 6 , **PHARMA** 6 , 
+**@REALDONALDTRUMP** 14 , **2** 9 , **ELECTION** 9 , **@GENFLYNN** 9 , **4** 8 , **TRUMP** 8 , **NEW** 7 , **DEMOCRATS** 6 , **GEORGIA** 6 , **@SECPOMPEO** 6 , **COUNTRY** 6 , **@LLINWOOD** 6 , **1** 6 , **PRESIDENT** 6 , **MILITARY** 5 , **THESE** 5 , **NEVER** 5 , **FUCK** 5 , **GOT** 5 , **CHILD** 5 , 
  
 ## What this user tweeted
  
@@ -127,7 +286,7 @@ RT @T_S_P_O_O_K_Y: I spent the last 4 years, as an expert on cyber, working to e
  
 `User Description?:` Just Ringing in the Cheer during a 12 hour Twat Rehab Program 
  
-`Followers?: `26 
+`Followers?: `28 
  
 `Following?:` 189 
  
@@ -135,7 +294,7 @@ RT @T_S_P_O_O_K_Y: I spent the last 4 years, as an expert on cyber, working to e
  
 `Location:`  
  
-`Number of tweets extracted`  : 165 
+`Number of tweets extracted`  : 166 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1344734560471429121/8iAoVErM_normal.jpg 
  
@@ -147,7 +306,7 @@ RT @T_S_P_O_O_K_Y: I spent the last 4 years, as an expert on cyber, working to e
  
 ## User Top tweeted words 
  
-**NEW** 12 , **ELECTION** 9 , **@REALDONALDTRUMP** 8 , **YEAR** 7 , **HAPPY** 7 , **HOUSE** 6 , **US** 6 , **REP** 6 , **@TLSHAW1997:** 6 , **STATE** 5 , **@MICHAELBEATTY3:** 5 , **PULITZER** 5 , **@HODGHEG90** 5 , **@NEWYEARGIRL17** 5 , **@MAGAMEDIUM17** 5 , **@BAALTHE** 5 , **@DANCINGCURIOUS** 5 , **REP-ELECT** 5 , **@MAREQ16:** 5 , **BREAKING:** 4 , 
+**NEW** 12 , **ELECTION** 9 , **@REALDONALDTRUMP** 8 , **YEAR** 7 , **HAPPY** 7 , **@MAREQ16:** 6 , **HOUSE** 6 , **US** 6 , **REP** 6 , **@TLSHAW1997:** 6 , **STATE** 5 , **@MICHAELBEATTY3:** 5 , **PULITZER** 5 , **@HODGHEG90** 5 , **@NEWYEARGIRL17** 5 , **@MAGAMEDIUM17** 5 , **@BAALTHE** 5 , **@DANCINGCURIOUS** 5 , **REP-ELECT** 5 , **BREAKING:** 4 , 
  
 ## What this user tweeted
  
@@ -166,19 +325,19 @@ RT @T_S_P_O_O_K_Y: I spent the last 4 years, as an expert on cyber, working to e
  
 `User Description?:` PhD at Fukayna Fenyang School of Science 
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 7 
+`Following?:` 9 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 23 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1344781716590833667/svnHf5WH_normal.jpg 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 23 
  
 
  
@@ -186,7 +345,7 @@ RT @T_S_P_O_O_K_Y: I spent the last 4 years, as an expert on cyber, working to e
  
 ## User Top tweeted words 
  
-**NEW** 3 , **OH** 2 , **GOODYE** 2 , **COVID19** 2 , **THAN** 2 , **VACCINE** 2 , **@ZOOM_US:** 2 , **YEAR** 2 , **EXCITED** 2 , **SOME** 2 , **ZOOM** 2 , **@CGDEV:** 2 , **@ASTRO_ILLINI** 1 , **@NASA** 1 , **@SPACE_STATION** 1 , **@ISS_RESEARCH** 1 , **@NASA_ASTRONAUTS** 1 , **LOVE** 1 , **RADISHRT** 1 , **@CDCGOV:** 1 , 
+**VERY** 5 , **ZOOM** 3 , **NEW** 3 , **PSYCHOLOGY** 2 , **ARTICLES** 2 , **MANY** 2 , **@GREENAR81082859** 2 , **@IHATEMYSELFFOR6** 2 , **OH** 2 , **GOODYE** 2 , **COVID19** 2 , **THAN** 2 , **VACCINE** 2 , **@ZOOM_US:** 2 , **YEAR** 2 , **EXCITED** 2 , **SOME** 2 , **@CGDEV:** 2 , **RT** 1 , **@CNN:** 1 , 
  
 ## What this user tweeted
  
@@ -209,17 +368,17 @@ NEW @CGDev &amp; @RefugeesIntl takes a closer lo…
  
 `Followers?: `6 
  
-`Following?:` 59 
+`Following?:` 62 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 196 
+`Number of tweets extracted`  : 197 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1342702734450036737/ksOfKPVP_normal.jpg 
  
-`Number of tweets excluding replies:` 202 
+`Number of tweets excluding replies:` 224 
  
 
  
@@ -227,7 +386,7 @@ NEW @CGDev &amp; @RefugeesIntl takes a closer lo…
  
 ## User Top tweeted words 
  
-**TRUMP** 22 , **@REALDONALDTRUMP:** 17 , **CHINA** 17 , **PEOPLE** 14 , **@LLINWOOD:** 13 , **PRESIDENT** 13 , **BIDEN** 11 , **NEW** 11 , **2020** 11 , **@REALDONALDTRUMP** 11 , **@AWAKENEDOUTLAW:** 11 , **GEORGIA** 9 , **ELECTION** 9 , **YEARS** 8 , **GOING** 8 , **@MAJORPATRIOT:** 8 , **DON'T** 8 , **DON’T** 7 , **@SIDNEYPOWELL1:** 7 , **DONALD** 7 , 
+**TRUMP** 23 , **@LLINWOOD:** 17 , **CHINA** 17 , **@REALDONALDTRUMP** 15 , **PEOPLE** 13 , **@REALDONALDTRUMP:** 12 , **PRESIDENT** 12 , **NEW** 11 , **@AWAKENEDOUTLAW:** 10 , **2020** 10 , **BIDEN** 9 , **GEORGIA** 9 , **ELECTION** 9 , **YEARS** 8 , **GOING** 8 , **@MAJORPATRIOT:** 8 , **DON'T** 8 , **NEVER** 7 , **MILITARY** 7 , **AFTER** 6 , 
  
 ## What this user tweeted
  
@@ -328,7 +487,7 @@ Shit, ya may have had to fix something I did.
  
 `User Description?:` Existentialist world traveler and psychologist. Love dogs, art, reading, my husband and our king size bed. Grateful we Voted the Bigot Out! Committed #Resister 
  
-`Followers?: `359 
+`Followers?: `368 
  
 `Following?:` 591 
  
@@ -340,7 +499,7 @@ Shit, ya may have had to fix something I did.
  
 `Profile image:` http://pbs.twimg.com/profile_images/1344079067071434752/Q-VpEahx_normal.png 
  
-`Number of tweets excluding replies:` 438 
+`Number of tweets excluding replies:` 437 
  
 
  
@@ -348,7 +507,7 @@ Shit, ya may have had to fix something I did.
  
 ## User Top tweeted words 
  
-**NEW** 16 , **HAPPY** 13 , **2020** 13 , **YEAR** 12 , **2021** 10 , **COAST** 9 , **LOVE** 8 , **GOING** 8 , **SOME** 7 , **@CATEYEZGREEN_** 6 , **PEOPLE** 6 , **EAST** 6 , **@1STRONGROBIN** 5 , **LOOKING** 5 , **LAST** 5 , **NEED** 5 , **PLANET** 5 , **YEARS** 5 , **EVERYONE** 5 , **BIDEN** 5 , 
+**NEW** 16 , **HAPPY** 13 , **2020** 13 , **YEAR** 12 , **2021** 10 , **COAST** 9 , **LOVE** 8 , **GOING** 8 , **SOME** 7 , **@CATEYEZGREEN_** 6 , **PEOPLE** 6 , **EAST** 6 , **@RHYMESRADICAL** 6 , **@1STRONGROBIN** 5 , **LAST** 5 , **NEED** 5 , **PLANET** 5 , **YEARS** 5 , **EVERYONE** 5 , **BIDEN** 5 , 
  
 ## What this user tweeted
  
@@ -408,19 +567,19 @@ In the summer of 2019, Apple filed a lawsuit… https://t.co/W27bljquMD
  
 `User Description?:` Exposing the crazy to the downright dangerous activities of some members of UsForThemEngland’s Facebook group who go unchallenged by the group admins 
  
-`Followers?: `108 
+`Followers?: `147 
  
-`Following?:` 167 
+`Following?:` 171 
  
 `User URL?:` None 
  
 `Location:` England 
  
-`Number of tweets extracted`  : 100 
+`Number of tweets extracted`  : 124 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1343610152956604417/B_4X-_6g_normal.jpg 
  
-`Number of tweets excluding replies:` 100 
+`Number of tweets excluding replies:` 124 
  
 
  
@@ -428,7 +587,7 @@ In the summer of 2019, Apple filed a lawsuit… https://t.co/W27bljquMD
  
 ## User Top tweeted words 
  
-**USFORTHEM** 21 , **SCHOOLS** 11 , **COVID19** 11 , **CLOSETHESCHOOLS** 8 , **COVIDIOTS** 6 , **GROUP** 5 , **WHICH** 5 , **SOME** 5 , **THREAD** 4 , **PARENTS** 4 , **BACK** 4 , **THAT’S** 4 , **GOING** 4 , **YES** 4 , **WONDER** 4 , **GO** 4 , **PRIMARY** 4 , **AREAS** 4 , **@GAVINWILLIAMSON** 4 , **ENGLAND** 3 , 
+**USFORTHEM** 23 , **SCHOOLS** 12 , **COVID19** 11 , **CLOSETHESCHOOLS** 8 , **GO** 6 , **GROUP** 6 , **COVIDIOTS** 6 , **WONDER** 5 , **THREAD** 5 , **@UPTONANDREA** 5 , **PARENTS** 5 , **GOING** 5 , **WHICH** 5 , **SOME** 5 , **PEOPLE** 4 , **SOMEONE** 4 , **WRONG** 4 , **WELL** 4 , **BACK** 4 , **THAT’S** 4 , 
  
 ## What this user tweeted
  
@@ -447,19 +606,19 @@ So more of the UK moves to Tier 4, shielding is reinstated, but, despite not see
  
 `User Description?:` Dummy.DevilAdvocate.Weirdseeker.Imposter.DayDreamer.Lovr.Flatteryphobe.Chameleon.Fightr.Hodlr.Freeballer.NavalSponge.Optimist.Insomniac.Skeptic.AssEater.2016 
  
-`Followers?: `29 
+`Followers?: `33 
  
-`Following?:` 354 
+`Following?:` 365 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 24 
+`Number of tweets extracted`  : 26 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1344276985342672897/InHW6t0P_normal.jpg 
  
-`Number of tweets excluding replies:` 24 
+`Number of tweets excluding replies:` 26 
  
 
  
@@ -467,7 +626,7 @@ So more of the UK moves to Tier 4, shielding is reinstated, but, despite not see
  
 ## User Top tweeted words 
  
-**@SCOTTMELKER** 5 , **@PETERSCHIFF** 3 , **GOOD** 2 , **@PRESTONPYSH** 2 , **HEAR** 2 , **NUANCES** 2 , **GREAT** 2 , **INCENTIVE** 2 , **BITCOIN** 2 , **@JOHNSATMAN** 2 , **@8BITGOMES** 1 , **GOTTA** 1 , **GIVE** 1 , **PROPS** 1 , **COMMITMENT** 1 , **TROLL** 1 , **IMPRESSIVE** 1 , **BEST** 1 , **I’VE** 1 , **SEEN** 1 , 
+**@SCOTTMELKER** 5 , **@PETERSCHIFF** 3 , **GOOD** 2 , **@PRESTONPYSH** 2 , **HEAR** 2 , **NUANCES** 2 , **GREAT** 2 , **INCENTIVE** 2 , **BITCOIN** 2 , **@JOHNSATMAN** 2 , **@AHCASTOR** 1 , **THROWING** 1 , **PEBBLES** 1 , **THINNING** 1 , **PANED** 1 , **GLASS** 1 , **HOUSERT** 1 , **@RABOIS:** 1 , **EVIDENCE** 1 , **ALREADY** 1 , 
  
 ## What this user tweeted
  
@@ -486,9 +645,9 @@ So more of the UK moves to Tier 4, shielding is reinstated, but, despite not see
  
 `User Description?:` No DMs Truly disgusted by Racist Doctors who allow innocent souls to needlessly suffer/die. Trying to find if there’s any humanity left🙏🏾 
  
-`Followers?: `56 
+`Followers?: `60 
  
-`Following?:` 182 
+`Following?:` 187 
  
 `User URL?:` None 
  
@@ -498,7 +657,7 @@ So more of the UK moves to Tier 4, shielding is reinstated, but, despite not see
  
 `Profile image:` http://pbs.twimg.com/profile_images/1344334465292787714/PVg6S0CA_normal.jpg 
  
-`Number of tweets excluding replies:` 751 
+`Number of tweets excluding replies:` 791 
  
 
  
@@ -506,7 +665,7 @@ So more of the UK moves to Tier 4, shielding is reinstated, but, despite not see
  
 ## User Top tweeted words 
  
-**NEW** 30 , **GEORGIA** 24 , **@FUNDER** 23 , **TRUMP** 23 , **VOTE** 20 , **YEAR** 17 , **@FUNDER:** 14 , **@COQUINEICI:** 14 , **HAPPY** 13 , **MITCH** 13 , **@WASHINGTONPOST:** 13 , **2021** 12 , **MCCONNELL** 10 , **DAYS** 9 , **PRESIDENT** 9 , **@TRIBELAW:** 9 , **@OSSOFF** 9 , **@DEBRAMESSING:** 9 , **PEOPLE** 8 , **$2000** 8 , 
+**NEW** 33 , **@FUNDER** 23 , **TRUMP** 21 , **VOTE** 20 , **GEORGIA** 20 , **YEAR** 17 , **@FUNDER:** 15 , **HAPPY** 14 , **@COQUINEICI:** 14 , **2021** 12 , **@WASHINGTONPOST:** 12 , **@DEBRAMESSING:** 11 , **$2000** 11 , **MITCH** 11 , **MCCONNELL** 9 , **DAYS** 9 , **@TRIBELAW:** 9 , **AMERICANS** 8 , **2020** 8 , **OSSOFF** 7 , 
  
 ## What this user tweeted
  
