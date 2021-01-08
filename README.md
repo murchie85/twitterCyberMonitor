@@ -267,21 +267,153 @@ TOP GROWTH 2021 ETF (index fund) to buy for your portfolio! https://t.co/Xygr8VQ
  
 ## User Top tweeted words 
  
-**TRUMP** 34 , **CAPITOL** 22 , **PEOPLE** 17 , **PRESIDENT** 17 , **US** 12 , **HOUSE** 12 , **DONALD** 11 , **HAWLEY** 9 , **25TH** 9 , **AMENDMENT** 9 ,        
+**TRUMP** 34 , **CAPITOL** 22 , **PEOPLE** 17 , **PRESIDENT** 17 , **US** 12 , **HOUSE** 12 , **DONALD** 11 , **HAWLEY** 9 , **25TH** 9 , **AMENDMENT** 9 , **IMPEACHMENT** 9 , **PENCE** 8 , **DURING** 8 , **CONGRESS** 8 , **POLICE** 7 , **@SETHABRAMSON:** 7 , **ARRESTED** 7 , **@BRADHEATH:** 7 , **YESTERDAY** 7 , **PELOSI** 7 , 
  
-`User ScreenName:` MaxnetSecurity 
+## What this user tweeted
  
-`User chosen Name:` MaxNet Security 
+RT @thehill: State Department sets up new bureau for cybersecurity and emerging technologies https://t.co/vuXvcTlXhh https://t.co/hEs5EVbk4U
+ 
+# AvertStaffingUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347274766017843205/pYgBUsUT_normal.jpg)
+ 
+`User ScreenName:` AvertStaffing 
+ 
+`User chosen Name:` Avert Staffing Group 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 07 16:08:52 +0000 2021 
+`User signup date?:` Thu Jan 07 20:11:20 +0000 2021 
  
-`User Description?:` Driving business outcomes and optimizing IT efficiency with cybersecurity consulting, solutions, & implementations. 
+`User Description?:` Bridging the #cybersecurity talent gap. Career resource provider for #cybersecurity professionals.  
+https://t.co/PF64uSUumq        #cyberjobs 
  
 `Followers?: `0 
  
-`Following?:` 25 
+`Following?:` 24 
+ 
+`User URL?:` https://t.co/RuafHnQyG1 
+ 
+`Location:` New York, USA 
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347274766017843205/pYgBUsUT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 3 , **SKILLS** 2 , **2021** 2 , **SECURITY** 2 , **50** 1 , **TITLES** 1 , **JOB** 1 , **SEEKER** 1 , **HTTPS://TCO/N7EDIUVVRE** 1 , **CYBERJOBS** 1 , **ETHICALHACKING** 1 , **CYBERCRIMETOP** 1 , **10** 1 , **IN-DEMAND** 1 , **TECH** 1 , **MASTER** 1 , **HTTPS://TCO/YPYRD3YXIV** 1 , **CYBERSECURITYENGINEER** 1 , **CYBERATTACKCYBERSECURITY** 1 , **EMPLOYEE** 1 , 
+ 
+## What this user tweeted
+ 
+50 Cybersecurity Titles That Every Job Seeker Should Know About https://t.co/N7EDiuvvre
+
+#cyberjobs #ethicalhacking #cybercrimeTop 10 In-Demand Tech Skills You Should Master in 2021 https://t.co/ypyrD3YXIv
+#cybersecurity  #cybersecurityengineer #cyberattackCybersecurity Skills Every Employee Should Have https://t.co/UQjmhzwHNyCyber security trend 2021: Higher Cyber Risks for Every Business https://t.co/bsye1lhufV
+
+#security #hacker #infosec
+ 
+# StocksCommunityUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347309302415912962/ePgkBmmg_normal.jpg)
+ 
+`User ScreenName:` StocksCommunity 
+ 
+`User chosen Name:` Community Investment Members 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 07 22:19:27 +0000 2021 
+ 
+`User Description?:` Community Investment Members - Join Our Community - Penny Stock Investors - Earn While You Learn -All Stocks Are Only Our Opinion - We Help Members 
+ 
+`Followers?: `14 
+ 
+`Following?:` 77 
+ 
+`User URL?:` None 
+ 
+`Location:` Las Vegas, Nevada 
+ 
+`Number of tweets extracted`  : 27 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347309302415912962/ePgkBmmg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 27 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STOCK** 8 , **INCREASE** 8 , **$MCOA** 8 , **GREAT** 7 , **$NEOM** 4 , **BEST** 4 , **GOOD** 3 , **@NEOM** 3 , **US** 3 , **MEMBERS** 3 , **SOLID** 3 , **EXPECTATIONS** 3 , **NEW** 2 , **YEAR** 2 , **INVESTMENT** 2 , **TELL** 2 , **GREATEST** 2 , **THROUGH** 2 , **FAR** 2 , **WELL** 2 , 
+ 
+## What this user tweeted
+ 
+$SFOR Could this be the next Zoom?
+@StrikeForceTech Cybersecurity Company
+high expectations were on the Launch of… https://t.co/Dz98XgTwSz
+ 
+# MainlyPainUSER INFO
+![image](http://pbs.twimg.com/profile_images/1345402566755151873/JiK4n_KR_normal.jpg)
+ 
+`User ScreenName:` MainlyPain 
+ 
+`User chosen Name:` Election Frog 🇵🇷🐸🇺🇸 #BourbonAndNails 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 02 16:11:44 +0000 2021 
+ 
+`User Description?:` IT Pro, Son of the Most High, All around average guy! Temp Account waiting on #twitter to email me 
+ 
+`Followers?: `86 
+ 
+`Following?:` 392 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 187 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345402566755151873/JiK4n_KR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 687 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SECPOMPEO:** 37 , **US** 18 , **TRUMP** 16 , **DC** 10 , **VOTES** 10 , **LAW** 9 , **SECURITY** 9 , **@REALDONALDTRUMP:** 8 , **COUNTRIES** 7 , **@PATRICKBYRNE:** 7 , **PRESIDENT** 7 , **@REALDONALDTRUMP** 6 , **SECRETARY** 6 , **DON’T** 6 , **WHERE** 6 , **NEVER** 6 , **MILITARY** 5 , **MUST** 5 , **BIG** 5 , **@CODEMONKEYZ:** 5 , 
+ 
+## What this user tweeted
+ 
+RT @politico: President-elect Joe Biden plans to pluck a career intelligence official Anne Neuberger from the NSA to serve in a newly creat…
+ 
+# Jimmy63533010USER INFO
+![image](http://pbs.twimg.com/profile_images/1347310343559602176/f7ub1Sdu_normal.jpg)
+ 
+`User ScreenName:` Jimmy63533010 
+ 
+`User chosen Name:` Jimmy vang 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 07 22:32:33 +0000 2021 
+ 
+`User Description?:` Currently going to Devry for Cyber security certification, and I'm a Newbie. Any help would be appreciated it. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
  
 `User URL?:` None 
  
@@ -289,7 +421,7 @@ TOP GROWTH 2021 ETF (index fund) to buy for your portfolio! https://t.co/Xygr8VQ
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1347252844131463169/8owUUoJw_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1347310343559602176/f7ub1Sdu_normal.jpg 
  
 `Number of tweets excluding replies:` 1 
  
@@ -299,38 +431,38 @@ TOP GROWTH 2021 ETF (index fund) to buy for your portfolio! https://t.co/Xygr8VQ
  
 ## User Top tweeted words 
  
-**CISO** 1 , **NEW** 1 , **YEAR'S** 1 , **RESOLUTIONS** 1 , **2021?** 1 , **SPOILER** 1 , **ALERT:** 1 , **DMARC** 1 , **RANSOMWARE** 1 , **RISK** 1 , **REDUCTION** 1 , **TOP** 1 , **PRIORITIES!…** 1 , **HTTPS://TCO/UYMXHT82PB** 1 , 
+**WHERE** 1 , **START?** 1 , **CURRENTLY** 1 , **ENROLL** 1 , **DEVRY** 1 , **UNIVERSITY** 1 , **MAJOR** 1 , **CYBER** 1 , **SECURITY** 1 , **SOME** 1 , **HANDS** 1 , **EXPER…** 1 , **HTTPS://TCO/N02PHGVHNK** 1 , 
  
 ## What this user tweeted
  
-What are CISO New Year's Resolutions for 2021? Spoiler Alert: DMARC &amp; Ransomware Risk Reduction are top priorities!… https://t.co/uyMXht82pB
+Where to start? Currently enroll to Devry University and major is Cyber Security. I want to get some hands on exper… https://t.co/N02pHgvHnk
  
-# Nancy62192814USER INFO
-![image](http://pbs.twimg.com/profile_images/1345921143442649090/77ErkWe__normal.jpg)
+# Marcel_campUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347299486238969857/Z3g7_4uY_normal.jpg)
  
-`User ScreenName:` Nancy62192814 
+`User ScreenName:` Marcel_camp 
  
-`User chosen Name:` Melton 
+`User chosen Name:` Marcel Campbell 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 04 02:32:36 +0000 2021 
+`User signup date?:` Thu Jan 07 21:49:49 +0000 2021 
  
-`User Description?:`  
+`User Description?:` Follow me on insight about the Crypto Currency Stock Market and the Forex Market | Adviser and Mentor @ForexInvestme16 
  
-`Followers?: `10 
+`Followers?: `5 
  
-`Following?:` 125 
+`Following?:` 74 
  
 `User URL?:` None 
  
-`Location:` North Carolina, USA 
+`Location:` Jakarta Capital Region 
  
-`Number of tweets extracted`  : 153 
+`Number of tweets extracted`  : 106 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1345921143442649090/77ErkWe__normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1347299486238969857/Z3g7_4uY_normal.jpg 
  
-`Number of tweets excluding replies:` 154 
+`Number of tweets excluding replies:` 106 
  
 
  
@@ -338,82 +470,38 @@ What are CISO New Year's Resolutions for 2021? Spoiler Alert: DMARC &amp; Ransom
  
 ## User Top tweeted words 
  
-**TRUMP** 31 , **@FUNDER:** 19 , **GEORGIA** 17 , **PRESIDENT** 10 , **@JONCOOPERTWEETS:** 8 , **CAPITOL** 8 , **DONALD** 8 , **@DONWINSLOW:** 8 , **OSSOFF** 8 , **UNITED** 7 , **PEOPLE** 7 , **@ROBREINER:** 7 , **WARNOCK** 7 , **ELECTION** 7 , **STATES** 6 , **DAY** 6 , **REPUBLICAN** 6 , **ARRESTED** 6 , **SAY** 6 , **VOTES** 6 , 
+**CAPITOL** 22 , **AFTER** 13 , **US** 11 , **POLICE** 10 , **@THESUN:** 10 , **HOUSE** 8 , **TRUMP** 7 , **CHIEF** 7 , **NEW** 7 , **BITCOIN** 6 , **PEOPLE** 5 , **PRESIDENT** 5 , **INTO** 5 , **@MEPFULLER:** 5 , **H…RT** 5 , **@FORBES:** 5 , **STORMED** 5 , **@SKYNEWS:** 5 , **DAYS** 5 , **YESTERDAY'S** 4 , 
  
 ## What this user tweeted
  
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
-
-1. This was highly planned+coordinated. They knew the…
+RT @Federal_IT: IT security is not the first--or even third or fourth--thing that needs to get talked out after yesterday's disgraceful act…
  
-# Lord666LokiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1343894519754977289/9oBTevLr_normal.jpg)
+# meisheri_vikramUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` Lord666Loki 
+`User ScreenName:` meisheri_vikram 
  
-`User chosen Name:` LordLoki 
+`User chosen Name:` VIKRAM.K.K.MEISHERI 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Dec 29 12:17:09 +0000 2020 
- 
-`User Description?:` No whining please.
-The account is new. I am not. 
- 
-`Followers?: `14 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:` KY 
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1343894519754977289/9oBTevLr_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SADIESATANAS** 3 , **THEN** 2 , **BOOBIES** 2 , **HAIL** 2 , **@CASEYCREEPERS** 1 , **HTTPS://TCO/AJXPR699HL@KVLTVS** 1 , **MATT** 1 , **WINS** 1 , **INTERNET** 1 , **EVERYDAYANTIFA** 1 , **INFILTRATED** 1 , **RALLY** 1 , **OK** 1 , **HOLD** 1 , **SECOND** 1 , **LET** 1 , **LOOK** 1 , **WELL** 1 , **SEE…** 1 , **HTTPS://TCO/9EGKRKXSRURT** 1 , 
- 
-## What this user tweeted
- 
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
-
-1. This was highly planned+coordinated. They knew the…
- 
-# cherimeadows12USER INFO
-![image](http://pbs.twimg.com/profile_images/1347040866230099969/Qmp-QBSr_normal.jpg)
- 
-`User ScreenName:` cherimeadows12 
- 
-`User chosen Name:` cheri meadows 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 07 04:41:42 +0000 2021 
+`User signup date?:` Sun Jan 03 12:17:48 +0000 2021 
  
 `User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 50 
+`Following?:` 195 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 189 
+`Number of tweets extracted`  : 34 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1347040866230099969/Qmp-QBSr_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 189 
+`Number of tweets excluding replies:` 34 
  
 
  
@@ -421,30 +509,28 @@ RT @donwinslow: I re-watched footage from the capitol today. A few things are cl
  
 ## User Top tweeted words 
  
-**TRUMP** 33 , **CAPITOL** 27 , **PEOPLE** 18 , **@DONWINSLOW:** 16 , **25TH** 15 , **PRESIDENT** 15 , **US** 14 , **AMENDMENT** 13 , **IMPEACHMENT** 11 , **OFFICE** 11 , **@DEARAUNTCRABBY:** 11 , **@RBREICH:** 11 , **POLICE** 11 , **SENATE** 10 , **@JOYCEWHITEVANCE:** 9 , **YESTERDAY** 8 , **DC** 8 , **TERRORISTS** 8 , **THE…RT** 7 , **REMOVE** 7 , 
+**INSURANCE** 18 , **AGENT** 10 , **HDFC** 7 , **LIFE** 7 , **EXARMY** 7 , **OFFICER** 7 , **14** 7 , **@NARENDRAMODI** 6 , **FARMERS** 6 , **BECOME** 6 , **CRORES** 5 , **@NSGBLACKCATS** 4 , **@PMOINDIA** 4 , **@NSITHARAMAN** 3 , **2ND** 3 , **LIN…** 3 , **WORLD** 2 , **HTTPS://TCO/KCKUZXRRKF@ANJANAOMKASHYAP** 2 , **FOOD** 2 , **HERBAL** 2 , 
  
 ## What this user tweeted
  
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
-
-1. This was highly planned+coordinated. They knew the…
+@StateDeputySPOX @StateDept @SecPompeo One world one cybersecurity law
  
-# AshleyVeeyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1343822272201633793/XAfiLeXN_normal.jpg)
+# MarianneLandru1USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` AshleyVeey 
+`User ScreenName:` MarianneLandru1 
  
-`User chosen Name:` AshleyVeey 
+`User chosen Name:` Marianne Landrum 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Dec 29 07:32:16 +0000 2020 
+`User signup date?:` Wed Jan 06 17:17:33 +0000 2021 
  
-`User Description?:` Nothing Bothers Me Anymore God Is By My Side ✌🏻 
+`User Description?:` Retired English teacher; grand mom; cat mom; liberal 
  
-`Followers?: `37 
+`Followers?: `1 
  
-`Following?:` 466 
+`Following?:` 140 
  
 `User URL?:` None 
  
@@ -452,9 +538,9 @@ RT @donwinslow: I re-watched footage from the capitol today. A few things are cl
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1343822272201633793/XAfiLeXN_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 1043 
+`Number of tweets excluding replies:` 921 
  
 
  
@@ -462,71 +548,67 @@ RT @donwinslow: I re-watched footage from the capitol today. A few things are cl
  
 ## User Top tweeted words 
  
-**CAPITOL** 56 , **PRESIDENT** 46 , **US** 43 , **TRUMP** 42 , **AFTER** 21 , **@WASHINGTONPOST:** 20 , **@CNN:** 19 , **BREAKING:** 18 , **MOB** 17 , **@ABC:** 16 , **FACEBOOK** 16 , **@NBCNEWS:** 15 , **CONGRESS** 15 , **BIDEN** 14 , **@CBSNEWS:** 14 , **@MSNBC:** 13 , **FORMER** 13 , **JOE** 13 , **PENCE** 12 , **@SKYNEWS:** 11 , 
+**TRUMP** 41 , **CAPITOL** 21 , **PRESIDENT** 17 , **POLICE** 11 , **YESTERDAY** 11 , **US** 10 , **25TH** 9 , **AMENDMENT** 8 , **NEW** 8 , **TRUMP'S** 8 , **REMOVED** 7 , **@B52MALMET:** 7 , **CALLS** 7 , **NEWS** 7 , **IMPEACHMENT** 7 , **OFFICE** 7 , **HOUSE** 7 , **MANY** 6 , **DAY** 6 , **AFTER** 6 , 
  
 ## What this user tweeted
  
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
-
-1. This was highly planned+coordinated. They knew the…
+RT @b_fung: Update: US officials say multiple electronic items were stolen from senators’ offices, and documents too, which could have pote…
  
-# Alessan47103287USER INFO
-![image](http://pbs.twimg.com/profile_images/1347106913578856448/tg7fIGOF_normal.jpg)
+# Mrs_B_2021USER INFO
+![image](http://pbs.twimg.com/profile_images/1344112551320154112/br4xt5c3_normal.jpg)
  
-`User ScreenName:` Alessan47103287 
+`User ScreenName:` Mrs_B_2021 
  
-`User chosen Name:` Alessandro Zeoli 
+`User chosen Name:` Mrs. B 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 07 09:04:24 +0000 2021 
+`User signup date?:` Wed Dec 30 02:35:09 +0000 2020 
+ 
+`User Description?:` Proud Democrat. Teacher.  Firm believer in our democratic values and the Rule of Law. Trumpism is a stain on our democracy; we must denounce it and unroot it. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 174 
+ 
+`User URL?:` None 
+ 
+`Location:` Sacramento, CA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1344112551320154112/br4xt5c3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 936 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 17 , **CAPITOL** 16 , **@TIMOTHYDSNYDER:** 14 , **25TH** 13 , **BIG** 13 , **PRESIDENT** 11 , **POLICE** 11 , **PEOPLE** 11 , **AMENDMENT** 10 , **US** 10 , **LIE** 10 , **IMPEACHMENT** 8 , **PENCE** 7 , **INVOKE** 7 , **NEW** 7 , **MAKE** 7 , **DEMOCRACY** 7 , **HAWLEY** 7 , **@TEDCRUZ** 7 , **YESTERDAY** 7 , 
+ 
+## What this user tweeted
+ 
+RT @b_fung: Update: US officials say multiple electronic items were stolen from senators’ offices, and documents too, which could have pote…
+ 
+# w70639554USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` w70639554 
+ 
+`User chosen Name:` w 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 05 09:52:26 +0000 2021 
  
 `User Description?:`  
  
-`Followers?: `5 
+`Followers?: `3 
  
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1347106913578856448/tg7fIGOF_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CAPITOL** 2 , **RT** 1 , **@SAINTHOAX:** 1 , **LITERALLY** 1 , **NOBODY:** 1 , **TRUMP** 1 , **SEARCHING** 1 , **11780** 1 , **VOTES:** 1 , **HTTPS://TCO/OLUNM8VCRFRT** 1 , **@ELONMUSK:** 1 , **CALLED** 1 , **DOMINO** 1 , **EFFECT** 1 , **HTTPS://TCO/QPBEW54RVMRT** 1 , **@MARIANGELAPIRA:** 1 , **CARI** 1 , **TUTTI** 1 , **3FATTORI** 1 , **7GENNAIO** 1 , 
- 
-## What this user tweeted
- 
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
-
-1. This was highly planned+coordinated. They knew the…
- 
-# Tae11012USER INFO
-![image](http://pbs.twimg.com/profile_images/1346682334251274240/dAjzxTww_normal.jpg)
- 
-`User ScreenName:` Tae11012 
- 
-`User chosen Name:` Tae1101 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 06 04:54:12 +0000 2021 
- 
-`User Description?:` Fun loving out going spirit 
- 
-`Followers?: `10 
- 
-`Following?:` 54 
+`Following?:` 0 
  
 `User URL?:` None 
  
@@ -534,9 +616,9 @@ RT @donwinslow: I re-watched footage from the capitol today. A few things are cl
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1346682334251274240/dAjzxTww_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 567 
+`Number of tweets excluding replies:` 643 
  
 
  
@@ -544,81 +626,84 @@ RT @donwinslow: I re-watched footage from the capitol today. A few things are cl
  
 ## User Top tweeted words 
  
-**TRUMP** 22 , **PEOPLE** 21 , **THESE** 20 , **CAPITOL** 19 , **DON’T** 14 , **GO** 13 , **CUZ** 12 , **@AUBREYODAY:** 11 , **REALLY** 11 , **YESTERDAY** 9 , **POLICE** 9 , **AGAIN** 8 , **@KYLEGRIFFIN1:** 8 , **SHIT** 8 , **Y’ALL** 8 , **DUMB** 7 , **HE’S** 7 , **4** 7 , **@REXCHAPMAN:** 7 , **FUCKING** 6 , 
+**FREE** 21 , **GIFT** 20 , **CARD** 19 , **HERE** 18 , **BEST** 17 , **CHECK** 14 , **WATER** 12 , **@LOTUSRANCON:** 11 , **2021** 10 , **WIN** 10 , **@STORMY07119732:** 9 , **DAMAGE** 8 , **GIG** 8 , **FIVERR:** 8 , **@ACNESUPPSCRITIC:** 7 , **@METHODSEVEN:** 7 , **@FLEETCOSTCARE:** 7 , **RESTORATION** 7 , **@UNITYPS:** 7 , **HELP** 6 , 
  
 ## What this user tweeted
  
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
+RT @CloudTechy1: We provide an intuitive and ﬂexible interface to search and analyze your security-related data.
 
-1. This was highly planned+coordinated. They knew the…
+Contact us for more infor…
  
-# MaryRoam4USER INFO
-![image](http://pbs.twimg.com/profile_images/1345165552289984512/PITw_yyJ_normal.jpg)
+# thejenelliottUSER INFO
+![image](http://pbs.twimg.com/profile_images/1346999680350109702/GmzGQvkZ_normal.jpg)
  
-`User ScreenName:` MaryRoam4 
+`User ScreenName:` thejenelliott 
  
-`User chosen Name:` Midnight Blue 
+`User chosen Name:` Jennifer Elliott 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 02 00:28:57 +0000 2021 
+`User signup date?:` Thu Jan 07 01:57:30 +0000 2021 
  
-`User Description?:` Hair on fire liberal animal advocate political junkie 
+`User Description?:` Publishing Admin for INFORMS, figure skater, knitter, social media for Informs Journal on Data Sci.
+#datascience @InformsJDataSci 
  
-`Followers?: `23 
+`Followers?: `222 
  
-`Following?:` 159 
+`Following?:` 287 
+ 
+`User URL?:` https://t.co/9VPlEZ9dBP 
+ 
+`Location:` Baltimore, MD 
+ 
+`Number of tweets extracted`  : 82 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1346999680350109702/GmzGQvkZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 82 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 14 , **FOLLOW** 10 , **DATASCIENCE** 9 , **DATA** 9 , **MACHINELEARNING** 9 , **NEW** 9 , **LEARNING** 8 , **DIGITALTRANSFORMATION** 7 , **MACHINE** 6 , **@THEJENELLIOTT** 6 , **TRENDS** 5 , **@INFORMSJDATASCI:** 5 , **MAKE** 4 , **VIA** 4 , **CLOUD** 4 , **IOT** 4 , **ML** 4 , **TOP** 4 , **TECHNOLOGY** 4 , **TIME** 4 , 
+ 
+## What this user tweeted
+ 
+RT @ingliguori: #Infographic Future of Cybersecurity
+#InfoSec #MobileSecurity #Tech #Ransomware #CyberSecurity #hacking #ML #AI #IoT #DeepL…RT @ingliguori: Top 10 #Technology Trends For 2021 @DZoneInc 👉 https://t.co/EiQY6QRA43 via @ingliguori ht @SpirosMargaris
+#fintech #Tech4Al…RT @wissen_tech: Some Digital Transformation trends for 2020! - #infographic 
+
+#DigitalTransformation #AI #Blockchain #IoT #Cloud #cybersec…
+ 
+# arkevinnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1344731563385208833/VkdKZ9ji_normal.jpg)
+ 
+`User ScreenName:` arkevinn 
+ 
+`User chosen Name:` ky 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 31 19:45:39 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 4 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 197 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1345165552289984512/PITw_yyJ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1344731563385208833/VkdKZ9ji_normal.jpg 
  
-`Number of tweets excluding replies:` 395 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 36 , **CAPITOL** 29 , **PRESIDENT** 16 , **US** 13 , **THESE** 12 , **POLICE** 11 , **@DKNIGHT10K** 9 , **PEOPLE** 8 , **OFFICE** 8 , **MINORITYMITCH** 8 , **VIOLENCE** 7 , **WHITE** 7 , **NEVER** 7 , **SENATE** 7 , **DON’T** 7 , **DAY** 7 , **NATIONAL** 6 , **THUGS** 6 , **HOUSE** 6 , **HAPPENED** 6 , 
- 
-## What this user tweeted
- 
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
-
-1. This was highly planned+coordinated. They knew the…
- 
-# DanielleJN4USER INFO
-![image](http://pbs.twimg.com/profile_images/1344845879346253824/l9pBs7x__normal.jpg)
- 
-`User ScreenName:` DanielleJN4 
- 
-`User chosen Name:` DanielleJN 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jan 01 03:18:03 +0000 2021 
- 
-`User Description?:` Canadian who curses a great deal... 
- 
-`Followers?: `9 
- 
-`Following?:` 161 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1344845879346253824/l9pBs7x__normal.jpg 
- 
-`Number of tweets excluding replies:` 521 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -626,13 +711,11 @@ RT @donwinslow: I re-watched footage from the capitol today. A few things are cl
  
 ## User Top tweeted words 
  
-**CAPITOL** 12 , **TRUMP** 11 , **US** 11 , **FUCKING** 10 , **THESE** 9 , **HA** 8 , **DON’T** 8 , **CALL** 8 , **POLICE** 8 , **OFF** 7 , **HEY** 7 , **PRESIDENT** 7 , **AFTER** 7 , **SENATE** 7 , **HOUSE** 7 , **WOMAN** 6 , **THAT’S** 6 , **PEOPLE** 6 , **SECRETARY** 6 , **DAY** 6 , 
+**@VISIUMANALYTICS:** 2 , **$VISM** 2 , **RT** 1 , **GOOD** 1 , **AFTERNOON** 1 , **SPLUNK** 1 , **SUCH** 1 , **GREAT** 1 , **PRODUCT!** 1 , **ANYONE** 1 , **GUESS** 1 , **WRONG** 1 , **PICTURE?** 1 , **SPLUNK…RT** 1 , **BEST!** 1 , **LOVE** 1 , **NEW** 1 , **INTERACTION** 1 , **CURRENT** 1 , **CORPORATE** 1 , 
  
 ## What this user tweeted
  
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
-
-1. This was highly planned+coordinated. They knew the…
+RT @VisiumAnalytics: $VISM Good afternoon all.  Splunk is such a great product! Can anyone guess what is wrong with this picture?  #splunk…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
