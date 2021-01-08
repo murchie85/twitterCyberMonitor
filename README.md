@@ -553,38 +553,74 @@ RT @HananyaNaftali: Orthodox Jewish woman and a cybersecurity expert, Anne Neube
  
 @stealthymagne @KingofShirgar I assume it was the affidavit or whatever it's called signed by some Italian Cybersec… https://t.co/992sWJNNB7
  
-# AvertStaffingU**CAPITOL** 12 , **@GTCONWAY3D** 12 , **HOUSE** 11 , **IMPEACHMENT** 11 , **PRESIDENT** 11 , **MOB** 10 , **PELOSI** 10 , **INSURRECTION** 10 , **OFFICE** 8 , **CONGRESS** 8 , **DAYS** 8 , **AGAINST** 7 , **@ASHARANGAPPA_** 7 , **DONALD** 7 , **YEARS** 6 , **PEOPLE** 6 , **REMOVED** 6 , **FIND** 6 , 
+# AvertStaffingU**CAPITO
+![image](http://pbs.twimg.com/profile_images/1347274766017843205/pYgBUsUT_normal.jpg)
  
-## What this user tweeted
+`User ScreenName:` AvertStaffing 
  
-RT @JesseDamiani: At least one laptop was missing from a congressional office after a pro-Trump mob stormed the Capitol on Wednesday, and o…
- 
-# SMJ_155USER INFO
-![image](http://pbs.twimg.com/profile_images/1347317185887297541/k__Z6oNS_normal.jpg)
- 
-`User ScreenName:` SMJ_155 
- 
-`User chosen Name:` SMJ_155 
+`User chosen Name:` Avert Staffing Group 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 07 22:43:08 +0000 2021 
+`User signup date?:` Thu Jan 07 20:11:20 +0000 2021 
  
-`User Description?:` Condemned to Twitmo account. Be back in 7 days. JMS155. Hate Trump. Biden/Harris will restore our democracy. #Steelers 
+`User Description?:` Bridging the #cybersecurity talent gap. Career resource provider for #cybersecurity professionals.  
+https://t.co/PF64uSUumq        #cyberjobs 
  
-`Followers?: `2 
+`Followers?: `0 
  
-`Following?:` 101 
+`Following?:` 26 
+ 
+`User URL?:` https://t.co/RuafHnQyG1 
+ 
+`Location:` New York, USA 
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347274766017843205/pYgBUsUT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 5 , **2021:** 2 , **BUSINESS** 2 , **HACKER** 2 , **SKILLS** 2 , **2021** 2 , **SECURITY** 2 , **OUTLOOK** 1 , **TRENDS** 1 , **PREDICTIONS** 1 , **ESECURITYPLANET** 1 , **HTTPS://TCO/8WHCF19UYB** 1 , **INFOSEC** 1 , **SECURITYHOW** 1 , **PROTECT** 1 , **RANSOMWARE** 1 , **ATTACKS** 1 , **HTTPS://TCO/B7HS14UXOL** 1 , **HACKERCYBERSECURITY** 1 , **CERTIFICATES** 1 , 
+ 
+## What this user tweeted
+ 
+Cybersecurity Outlook 2021: Trends and Predictions | eSecurityPlanet https://t.co/8WhCF19UyB
+
+#infosec #security
+ 
+# Phoebus57975247USER INFO
+![image](http://pbs.twimg.com/profile_images/1344513868182265857/7-F9iFCI_normal.jpg)
+ 
+`User ScreenName:` Phoebus57975247 
+ 
+`User chosen Name:` Phoebus Apollo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 31 05:20:21 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 40 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 93 
+`Number of tweets extracted`  : 21 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1347317185887297541/k__Z6oNS_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1344513868182265857/7-F9iFCI_normal.jpg 
  
-`Number of tweets excluding replies:` 93 
+`Number of tweets excluding replies:` 21 
  
 
  
@@ -592,38 +628,38 @@ RT @JesseDamiani: At least one laptop was missing from a congressional office af
  
 ## User Top tweeted words 
  
-**TRUMP** 16 , **@SETHABRAMSON:** 9 , **CAPITOL** 7 , **@TEAPAINUSA:** 6 , **STATE** 5 , **HOUSE** 5 , **IMPEACHMENT** 5 , **PENCE** 5 , **PRESIDENT** 5 , **DONALD** 4 , **REPUBLICANS** 4 , **SEDITION** 4 , **OFFICE** 4 , **AMENDMENT** 4 , **JOE** 4 , **HAWLEY** 4 , **VIDEO** 3 , **NEED** 3 , **NEW:** 3 , **PEOPLE** 3 , 
+**FREE** 4 , **OBJECT** 4 , **@MEEMIECAT:** 3 , **VOTE** 3 , **ATTACK** 3 , **DEMOCRACY** 3 , **THAN** 2 , **ELECTED** 2 , **BLACK** 2 , **NATIONAL** 2 , **JUDGE** 2 , **DRINKING** 2 , **RESIGN** 2 , **COUNTRY** 2 , **US** 2 , **SENATORS** 2 , **AGAINST** 2 , **ELECTIONS** 2 , **INSURRECTION** 2 , **DESPICABLE** 2 , 
  
 ## What this user tweeted
  
-RT @JesseDamiani: At least one laptop was missing from a congressional office after a pro-Trump mob stormed the Capitol on Wednesday, and o…
+Everyone from deputy press secretaries to senior economic and cybersecurity advisors to the cabinet is resigning to… https://t.co/Ilra9v5kP3
  
-# LParamasamyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1347061558333952003/CwNmqqKX_normal.jpg)
+# CorrineC15USER INFO
+![image](http://pbs.twimg.com/profile_images/1346972600581427200/RJC9oMmg_normal.jpg)
  
-`User ScreenName:` LParamasamy 
+`User ScreenName:` CorrineC15 
  
-`User chosen Name:` Lloyd Paramasamy 
+`User chosen Name:` Corrine C 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 07 06:02:30 +0000 2021 
+`User signup date?:` Thu Jan 07 00:10:21 +0000 2021 
  
-`User Description?:` Really enjoy #security architect , learning new things and constantly seeking out new learning opportunities in #cybersecurity 
+`User Description?:` Campaign wonk - DC 
  
-`Followers?: `2 
+`Followers?: `5 
  
-`Following?:` 35 
+`Following?:` 71 
  
 `User URL?:` None 
  
-`Location:` Melbourne, Victoria 
+`Location:`  
  
-`Number of tweets extracted`  : 31 
+`Number of tweets extracted`  : 36 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1347061558333952003/CwNmqqKX_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1346972600581427200/RJC9oMmg_normal.jpg 
  
-`Number of tweets excluding replies:` 31 
+`Number of tweets excluding replies:` 36 
  
 
  
@@ -631,77 +667,119 @@ RT @JesseDamiani: At least one laptop was missing from a congressional office af
  
 ## User Top tweeted words 
  
-**VIA** 9 , **CYBERSECURITY** 4 , **US** 4 , **SYSTEM** 4 , **@ZDNET** 4 , **SECURITY** 3 , **DATA** 3 , **AI** 2 , **USED** 2 , **ENDPOINT** 2 , **PLATFORM** 2 , **SOLARWINDS** 2 , **CYBERSEC…** 2 , **KEYS** 2 , **CYBERSEC** 2 , **OFFICE** 2 , **GOT** 2 , **LAUNCHES** 2 , **FACIAL** 2 , **RECOGNITION** 2 , 
+**CAPITOL** 4 , **@REALDONALDTRUMP** 4 , **TRUMP** 3 , **THAN** 3 , **KEEP** 3 , **ANY** 2 , **IN:** 2 , **LAWMAKER** 2 , **INTO** 2 , **MAN** 2 , **EVER** 2 , **@THEHILL:** 2 , **OFFICE** 2 , **DURING** 2 , **PEOPLE** 2 , **PRESIDENT** 2 , **PLANNED** 2 , **SEDITIOUS** 2 , **INSURRECTION** 2 , **STILL** 2 , 
  
 ## What this user tweeted
  
-Investigation launched into #vulnerabilities found within US Judiciary case file system https://t.co/go0cWhSMcj via @ZDNet &amp; @ashabeeeee
+RT @thehill: JUST IN: Laptop stolen from Pelosi's office during Capitol riots https://t.co/kyoYUdWWLZ https://t.co/Ydb7M3Aryo
  
-# DepressedTwoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1345840768431353856/uYTpYlBK_normal.jpg)
+# slightlysoutho1USER INFO
+![image](http://pbs.twimg.com/profile_images/1345256903572656129/cAbIzRZM_normal.jpg)
  
-`User ScreenName:` DepressedTwo 
+`User ScreenName:` slightlysoutho1 
  
-`User chosen Name:` Depressed bitches 
+`User chosen Name:` slightlysouthofsanity 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 03 20:56:52 +0000 2021 
+`User signup date?:` Fri Jan 01 22:04:52 +0000 2021 
  
-`User Description?:`  
+`User Description?:` I dream of a HEALTHY, EDUCATED purple America with radical inclusivity, small government 
+ 
+`Followers?: `2 
+ 
+`Following?:` 67 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345256903572656129/cAbIzRZM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 510 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CAPITOL** 34 , **TRUMP** 27 , **US** 24 , **PRESIDENT** 19 , **POLICE** 15 , **AFTER** 15 , **@NBCNEWS:** 13 , **@JAKETAPPER:** 13 , **HOUSE** 11 , **PEOPLE** 11 , **@JAKETAPPER** 10 , **OFFICER** 10 , **TERRORIST** 9 , **@ABC:** 8 , **CALLS** 8 , **SENATE** 7 , **WHITE** 7 , **@CBSNEWS:** 7 , **FORMER** 6 , **DOWN** 6 , 
+ 
+## What this user tweeted
+ 
+RT @EzraNBC: Reporting with @kevincollier about just how much cybersecurity damage may have been done from the Jan 6 riot in Washington. Al…
+ 
+# FightWnyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1345421493879136258/CnBxcdAw_normal.jpg)
+ 
+`User ScreenName:` FightWny 
+ 
+`User chosen Name:` Fight_Fascism_WNY 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 02 17:22:37 +0000 2021 
+ 
+`User Description?:` She/ Her / Hers
+Here we go again, I'm BACK, did you miss me!
+Cancer Survivor fighting fascism from the sidelines.
+Let's see how long be4 TW deletes this account 
+ 
+`Followers?: `1 
+ 
+`Following?:` 95 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 147 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345421493879136258/CnBxcdAw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 147 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CAPITOL** 16 , **NEW** 14 , **US** 12 , **@MARKPOLONCARZ:** 12 , **TRUMP** 10 , **AFTER** 9 , **PRESIDENT** 9 , **COVID-19** 9 , **POLICE** 7 , **@NBCNEWS:** 7 , **STATE** 6 , **DC** 6 , **PEOPLE** 6 , **YEARS** 6 , **REPORT** 6 , **VIRGINIA** 5 , **@NYPOST:** 5 , **@NEWS4BUFFALO:** 5 , **CONGRESS** 5 , **OFFICE** 5 , 
+ 
+## What this user tweeted
+ 
+RT @EzraNBC: Reporting with @kevincollier about just how much cybersecurity damage may have been done from the Jan 6 riot in Washington. Al…
+ 
+# DamionRojoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347280801562386432/0TwbMm9F_normal.jpg)
+ 
+`User ScreenName:` DamionRojo 
+ 
+`User chosen Name:` Damion Rojo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 07 19:54:45 +0000 2021 
+ 
+`User Description?:` Peoria High School Junior | MET Professional Academy Student in the engineering strand 
  
 `Followers?: `3 
  
-`Following?:` 15 
+`Following?:` 19 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 29 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1345840768431353856/uYTpYlBK_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1347280801562386432/0TwbMm9F_normal.jpg 
  
-`Number of tweets excluding replies:` 29 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@GR333DYY:** 4 , **I’M** 4 , **@LASTVIBES:** 4 , **TRYING** 3 , **LET** 3 , **PEOPLE** 3 , **HARD** 3 , **@SIDVILLAINYV2:** 3 , **DON'T** 3 , **STOP** 3 , **CARE** 3 , **TOXIC** 2 , **NEVER** 2 , **BRO** 2 , **@STFUFEEIS:** 2 , **HEART** 2 , **ONCE** 2 , **LOVE** 2 , **FUCK** 2 , **THINGS** 2 , 
- 
-## What this user tweeted
- 
-RT @stfufeeIs: you're only fragile if you let people know your vulnerabilities
- 
-# LisaDesautellUSER INFO
-![image](http://pbs.twimg.com/profile_images/1346914825398591492/zrr71Iru_normal.jpg)
- 
-`User ScreenName:` LisaDesautell 
- 
-`User chosen Name:` FlawLessmyDearLifer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 06 20:20:19 +0000 2021 
- 
-`User Description?:` please Excuse THE disorderLY Their all staring ...what if life is not about perfection? Is yet to be determined.....it is I yours truly to examine for proof.. 
- 
-`Followers?: `14 
- 
-`Following?:` 197 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1346914825398591492/zrr71Iru_normal.jpg 
- 
-`Number of tweets excluding replies:` 971 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -709,198 +787,38 @@ RT @stfufeeIs: you're only fragile if you let people know your vulnerabilities
  
 ## User Top tweeted words 
  
-**TRUMP** 17 , **@DDALE8** 13 , **PEOPLE** 10 , **CAPITOL** 9 , **@JOHNCUSACK:** 8 , **PRESIDENT** 7 , **@DONWINSLOW:** 6 , **@REXCHAPMAN** 6 , **US** 6 , **@CLEAVON_MD** 6 , **RICHARD** 5 , **OFFICER** 5 , **OH** 5 , **COUNTRY** 5 , **THESE** 5 , **@JAKKIISAID:** 4 , **RIOT** 4 , **POLICE** 4 , **@ASTHEHOSPTURNS** 4 , **RAN** 4 , 
+**RT** 1 , **@PEORIAUNIFIED11:** 1 , **@PEORIAMET** 1 , **HOSTING** 1 , **ITS** 1 , **SPRING** 1 , **OPEN** 1 , **HOUSE** 1 , **VIRTUALLY** 1 , **5:30** 1 , **PM** 1 , **THURS** 1 , **JAN** 1 , **14** 1 , **JOIN** 1 , **LEARN** 1 , **INNOVATI…** 1 , 
  
 ## What this user tweeted
  
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
-
-1. This was highly planned+coordinated. They knew the…
+RT @PeoriaUnified11: .@PeoriaMET will be hosting its spring open house virtually 5:30 p.m., Thurs, Jan 14. Join to learn about the innovati…
  
-# NanaDemi2USER INFO
-![image](http://pbs.twimg.com/profile_images/1347272139880194058/o1lr6TS6_normal.jpg)
+# loyaltypurgeUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` NanaDemi2 
+`User ScreenName:` loyaltypurge 
  
-`User chosen Name:` NanaDemi 
+`User chosen Name:` loyaltypurge 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 07 19:57:20 +0000 2021 
- 
-`User Description?:` Gramma Mad As Hell 
- 
-`Followers?: `0 
- 
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 108 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1347272139880194058/o1lr6TS6_normal.jpg 
- 
-`Number of tweets excluding replies:` 109 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 26 , **CAPITOL** 21 , **@AOC:** 10 , **US** 9 , **25TH** 9 , **@JAKETAPPER:** 8 , **PRESIDENT** 8 , **HOUSE** 8 , **@THEHILL:** 8 , **SEN** 8 , **CALLS** 8 , **AMENDMENT** 8 , **@KYLEGRIFFIN1:** 7 , **YESTERDAY** 7 , **COULD** 6 , **AFTER** 6 , **CONGRESS** 6 , **MUST** 6 , **DAY** 5 , **@ACOSTA:** 5 , 
- 
-## What this user tweeted
- 
-RT @nowthisnews: ‘Yesterday, they could have blown the building up. They could have killed us all’ — Lindsey Graham joins bipartisan anger…
- 
-# DanielaGzzHrtaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1344758069499224064/JooOvpLY_normal.jpg)
- 
-`User ScreenName:` DanielaGzzHrta 
- 
-`User chosen Name:` Daniela 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 31 21:11:28 +0000 2020 
- 
-`User Description?:` Magic's just science that we don't understand yet. Arthur C. Clarke / Pensamientos de mi súper conciencia... 📝 
- 
-`Followers?: `16 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:` Texas, USA 
- 
-`Number of tweets extracted`  : 85 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1344758069499224064/JooOvpLY_normal.jpg 
- 
-`Number of tweets excluding replies:` 85 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**QUE** 29 , **DE** 25 , **Y** 19 , **EN** 18 , **MI** 14 , **EL** 12 , **LA** 11 , **ES** 11 , **UNA** 10 , **CON** 10 , **LO** 10 , **LOS** 7 , **LAS** 7 , **PARA** 7 , **MÁS** 5 , **LOVE** 5 , **VERY** 4 , **ROBOT** 4 , **AI** 4 , **FEEL** 4 , 
- 
-## What this user tweeted
- 
-RT @js68209551: @SpaceForceDoD @AviationWeek Excellent point made by Gen. Raymond — and a lot of work still needs to be done on this:
-
-"I t…
- 
-# jungleofwordsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1347274588514779136/18O-4PEc_normal.jpg)
- 
-`User ScreenName:` jungleofwords 
- 
-`User chosen Name:` BoJack RemorseMan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 07 18:03:31 +0000 2021 
- 
-`User Description?:` The only truth is that it's all going to END 
- 
-`Followers?: `40 
- 
-`Following?:` 157 
- 
-`User URL?:` https://t.co/84Di8L9DUW 
- 
-`Location:` in your darkest corners 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1347274588514779136/18O-4PEc_normal.jpg 
- 
-`Number of tweets excluding replies:` 230 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@JUNGLEOFWORDS:** 31 , **LOVE** 10 , **KISS** 9 , **HERE** 9 , **LIFE** 9 , **@SH060906:** 8 , **YOURT** 8 , **NEED** 8 , **HEART** 8 , **BACK** 7 , **FEEL** 7 , **LET** 7 , **HAIR** 7 , **WORDS** 7 , **LIPS** 7 , **ALWAYS** 7 , **COME** 7 , **WANNA** 7 , **SKIN** 6 , **BEING** 6 , 
- 
-## What this user tweeted
- 
-RT @awakendmindsoul: she becomes his weakness when his hand reaches her neck. the strength of his fingers against her delicate flesh remind…
- 
-# MaxnetSecurityUSER INFO
-![image](http://pbs.twimg.com/profile_images/1347252844131463169/8owUUoJw_normal.jpg)
- 
-`User ScreenName:` MaxnetSecurity 
- 
-`User chosen Name:` MaxNet Security 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 07 16:08:52 +0000 2021 
- 
-`User Description?:` Driving business outcomes and optimizing IT efficiency with cybersecurity consulting, solutions, & implementations. 
- 
-`Followers?: `0 
- 
-`Following?:` 25 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1347252844131463169/8owUUoJw_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STOP** 1 , **SECURITY** 1 , **BREECHES** 1 , **ATTACKERS** 1 , **CREDENTIALED?** 1 , **FIREEYE** 1 , **UNTANGLES** 1 , **SOLARWINDS** 1 , **ATTACK** 1 , **HOW…** 1 , **HTTPS://TCO/BRLPOUDPGYWHAT** 1 , **CISO** 1 , **NEW** 1 , **YEAR'S** 1 , **RESOLUTIONS** 1 , **2021?** 1 , **SPOILER** 1 , **ALERT:** 1 , **DMARC** 1 , **RANSOMWARE** 1 , 
- 
-## What this user tweeted
- 
-What are CISO New Year's Resolutions for 2021? Spoiler Alert: DMARC &amp; Ransomware Risk Reduction are top priorities!… https://t.co/uyMXht82pB
- 
-# Nancy62192814USER INFO
-![image](http://pbs.twimg.com/profile_images/1345921143442649090/77ErkWe__normal.jpg)
- 
-`User ScreenName:` Nancy62192814 
- 
-`User chosen Name:` Melton 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 04 02:32:36 +0000 2021 
+`User signup date?:` Mon Jan 04 17:41:20 +0000 2021 
  
 `User Description?:`  
  
-`Followers?: `10 
+`Followers?: `0 
  
-`Following?:` 129 
+`Following?:` 68 
  
 `User URL?:` None 
  
-`Location:` North Carolina, USA 
+`Location:`  
  
-`Number of tweets extracted`  : 159 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1345921143442649090/77ErkWe__normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 167 
+`Number of tweets excluding replies:` 842 
  
 
  
@@ -908,13 +826,372 @@ What are CISO New Year's Resolutions for 2021? Spoiler Alert: DMARC &amp; Ransom
  
 ## User Top tweeted words 
  
-**TRUMP** 33 , **@FUNDER:** 21 , **GEORGIA** 17 , **PRESIDENT** 11 , **@DONWINSLOW:** 9 , **DONALD** 9 , **@JONCOOPERTWEETS:** 9 , **CAPITOL** 8 , **OSSOFF** 8 , **UNITED** 7 , **@ROBREINER:** 7 , **WARNOCK** 7 , **ELECTION** 7 , **REPUBLICAN** 6 , **US** 6 , **STATES** 6 , **PEOPLE** 6 , **DAY** 6 , **ARRESTED** 6 , **SAY** 6 , 
+**TRUMP** 34 , **CAPITOL** 32 , **@THEHILL:** 18 , **US** 18 , **AFTER** 13 , **MOB** 11 , **HOUSE** 11 , **POLICE** 10 , **NEEDS** 9 , **@FPWELLMAN:** 9 , **PEOPLE** 9 , **PRESIDENT** 9 , **@ABC:** 8 , **REPUBLICAN** 8 , **INTO** 8 , **PRO-TRUMP** 7 , **OFFICE** 7 , **GOING** 6 , **RIOTERS** 6 , **SUPPORTERS** 6 , 
  
 ## What this user tweeted
  
-RT @donwinslow: I re-watched footage from the capitol today. A few things are clear:
+RT @latimes: The pro-Trump mob at the U.S. Capitol may have breached more than just the building’s physical security.
 
-1. This was highly planned+coordinated. They knew the…
+@smasunaga reports:…
+ 
+# DrakonLepusUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347601875965767681/BVutMG5v_normal.jpg)
+ 
+`User ScreenName:` DrakonLepus 
+ 
+`User chosen Name:` LepusDrakon 🇺🇸⚔️🦅🚨🇺🇸 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 03 17:54:41 +0000 2021 
+ 
+`User Description?:` Just a furry 
+ 
+`Followers?: `5 
+ 
+`Following?:` 205 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347601875965767681/BVutMG5v_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1270 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DUR** 36 , **WHERE** 17 , **WHITE** 17 , **SERVE** 16 , **WHINE** 16 , **TRUMP** 15 , **CAPITOL** 15 , **@NYPOST** 14 , **@IMAYOUNGPRODIGY** 13 , **ANTI** 11 , **LAST** 8 , **ANSWER** 8 , **SEN** 7 , **MOST** 7 , **HTTPS://TCO/IYCKBYIOERRT** 7 , **UNDERSTAND** 7 , **“WHEN** 7 , **AMERICA** 7 , **GREAT?”** 7 , **1861-1865** 7 , 
+ 
+## What this user tweeted
+ 
+RT @thehill: JUST IN: Laptop stolen from Pelosi's office during Capitol riots https://t.co/kyoYUdWWLZ https://t.co/Ydb7M3Aryo
+ 
+# thebluesaregoodUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347261173419241473/xwk7-3mT_normal.jpg)
+ 
+`User ScreenName:` thebluesaregood 
+ 
+`User chosen Name:` 25th Amendment Now. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 07 03:07:05 +0000 2021 
+ 
+`User Description?:` Low-Fi account while other account is in Twitter jail. Not a bot. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 70 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347261173419241473/xwk7-3mT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 234 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 17 , **CAPITOL** 12 , **IMPEACHMENT** 8 , **POLICE** 8 , **US** 8 , **25TH** 7 , **THESE** 6 , **@AMY_SISKIND:** 6 , **@GRANTSTERN:** 6 , **ARRESTED** 6 , **@FUNDER:** 6 , **AMENDMENT** 6 , **NEW** 5 , **PEOPLE** 5 , **NEEDS** 5 , **BREAKING:** 4 , **@DONWINSLOW** 4 , **GOOD** 4 , **TWITTER** 4 , **ASKING** 4 , 
+ 
+## What this user tweeted
+ 
+RT @thehill: JUST IN: Laptop stolen from Pelosi's office during Capitol riots https://t.co/kyoYUdWWLZ https://t.co/Ydb7M3Aryo
+ 
+# M6WorksUSER INFO
+![image](http://pbs.twimg.com/profile_images/1346905685544595458/_KQvX1UO_normal.png)
+ 
+`User ScreenName:` M6Works 
+ 
+`User chosen Name:` M6 Works 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 06 19:44:57 +0000 2021 
+ 
+`User Description?:` Your organization is unique, Your solutions should be too. IT Consulting, NOC, SOC, Compliance, and much more. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 4 
+ 
+`User URL?:` https://t.co/EZ5TZDxXwR 
+ 
+`Location:` Buffalo, NY 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1346905685544595458/_KQvX1UO_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HEY** 1 , **THERE!** 1 , **M6** 1 , **TECHNOLOGY** 1 , **GROUP** 1 , **BUFFALO** 1 , **BASED** 1 , **COMPANY** 1 , **OFFERING** 1 , **VARIETY** 1 , **CYBERSECURITY** 1 , **SERVICES…** 1 , **HTTPS://TCO/8YMKFTDJ42** 1 , 
+ 
+## What this user tweeted
+ 
+Hey there! We are M6 Technology Group, a Buffalo based company offering a variety of IT and Cybersecurity services.… https://t.co/8YMKftDj42
+ 
+# mario66296782USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` mario66296782 
+ 
+`User chosen Name:` mario 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 08 18:53:07 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 91 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 23 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 23 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHECK** 4 , **@POLITICALTREND_:** 4 , **GIG** 3 , **FIVERR:** 3 , **WHERE** 3 , **NEWS** 3 , **@MYEASYDECOR:** 3 , **DON'T** 2 , **XSS** 2 , **!** 2 , **READ** 2 , **WEBSITE** 2 , **BUSINESS** 2 , **COUNTRIES** 2 , **SOME** 2 , **@MOSDEF_XV:** 2 , **+35** 2 , **NAIL** 2 , **INVITATION** 2 , **RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @rashed_hasan00: How I converted a self XSS to Good XSS for leveraging this to steal user information ! 
+
+Read in my website  
+
+https://…
+ 
+# securicuriousUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347307409031704583/aa-QVguV_normal.jpg)
+ 
+`User ScreenName:` securicurious 
+ 
+`User chosen Name:` Peter B 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 07 20:10:44 +0000 2021 
+ 
+`User Description?:` Nur wo du zu Fuss warst, bist du auch wirklich gewesen. (Goethe) 
+ 
+`Followers?: `14 
+ 
+`Following?:` 123 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347307409031704583/aa-QVguV_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MADE** 2 , **DEN** 2 , **NACH** 2 , **BEI** 2 , **FIRST** 2 , **WIE** 2 , **ICH** 2 , **@NICRO** 2 , **@WUCHI1** 2 , **@REXPLOIT** 2 , **@DABIRT** 2 , **@GRAMELS** 2 , **VERDÄCHTIG!** 1 , **HTTPS://TCO/KWGYSJQLQVRT** 1 , **@QUENTYNBLOG:** 1 , **RECENT** 1 , **CONVERSATION** 1 , **RE** 1 , **CONSIDER** 1 , **JOKINGLY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @cybersecboardrm: SolarWinds Hires Chris Krebs and Alex Stamos for Breach Recovery #Cybersecurity #security  https://t.co/KXHnSrmaLS
+ 
+# MaximaMotivacaoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347322215394631689/Y1dTziuq_normal.jpg)
+ 
+`User ScreenName:` MaximaMotivacao 
+ 
+`User chosen Name:` Motivação Maxima 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 07 23:20:02 +0000 2021 
+ 
+`User Description?:` Persistência 
+ 
+`Followers?: `3 
+ 
+`Following?:` 361 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 156 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347322215394631689/Y1dTziuq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 156 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BEST** 27 , **@SLUE7773:** 17 , **NEWYOUTUBER** 14 , **YUWOL** 14 , **KIMYUWOL** 14 , **초보유튜버** 13 , **HTTPS://TCO/FWGDKVHFXD** 13 , **@LOTUSRANCON:** 12 , **WATER** 12 , **2021** 11 , **@COLOGNE_HUNT:** 9 , **FREE** 8 , **CHECK** 8 , **DAMAGE** 8 , **@MYEASYDECOR:** 7 , **RESTORATION** 6 , **GIG** 5 , **FIVERR:** 5 , **HELP** 5 , **NEW** 5 , 
+ 
+## What this user tweeted
+ 
+RT @rashed_hasan00: How I converted a self XSS to Good XSS for leveraging this to steal user information ! 
+
+Read in my website  
+
+https://…
+ 
+# jonDMaieUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347628911748915203/mFiC9RXQ_normal.jpg)
+ 
+`User ScreenName:` jonDMaie 
+ 
+`User chosen Name:` jonDMaier 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 07 19:14:41 +0000 2021 
+ 
+`User Description?:` CIO, Global X Management Co. #ETF model portfolio strategist. https://t.co/O4prqXZUsN 
+ 
+`Followers?: `5 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:` New York, USA 
+ 
+`Number of tweets extracted`  : 86 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347628911748915203/mFiC9RXQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 86 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JONDMAIER:** 82 , **LOOK** 12 , **US** 10 , **STIMULUS** 7 , **COVID** 7 , **WHILE** 7 , **GROWTH** 6 , **TIME** 6 , **PLEASE** 6 , **GDP** 5 , **MAY** 5 , **COVID-19** 5 , **SOME** 4 , **LIKELY** 4 , **VACCINE** 4 , **2020** 4 , **TWO** 4 , **–** 4 , **SCHOOL** 4 , **SON** 4 , 
+ 
+## What this user tweeted
+ 
+RT @JonDMaier: It is a new world as many years have been compressed into just a few months. The transformation and disruption occurring in…
+ 
+# Sweets93093786USER INFO
+![image](http://pbs.twimg.com/profile_images/1347616751618412544/SCwkD3aH_normal.jpg)
+ 
+`User ScreenName:` Sweets93093786 
+ 
+`User chosen Name:` Sweets 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 08 18:46:05 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347616751618412544/SCwkD3aH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CNN:** 3 , **F**KING** 2 , **IMPEACHMENT** 2 , **RT** 1 , **DIGITAL** 1 , **SECURITY** 1 , **EXPERTS** 1 , **RAISING** 1 , **ALARM** 1 , **WEDNESDAY'S** 1 , **BREACH** 1 , **US** 1 , **CAPITOL** 1 , **WHICH** 1 , **RAISES** 1 , **QUESTIONS** 1 , **CONGRESS'S…RT** 1 , **"THEY'RE** 1 , **PROTESTORS** 1 , **THEY'RE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CNN: Digital security experts are raising the alarm over Wednesday's breach of the US Capitol, which raises questions about Congress's…
+ 
+# Frenchy69364757USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Frenchy69364757 
+ 
+`User chosen Name:` Frenchy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 08 18:48:42 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP'S** 4 , **RIOTERS** 2 , **CAPITOL** 2 , **VIA** 2 , **POSITION** 2 , **POSSIBLE** 2 , **IMPEACHMENT** 2 , **PELOSI** 2 , **ACCESS** 2 , **GOING** 2 , **TRUMP** 2 , **ACTUALLY** 2 , **WHERE** 1 , **LISTS** 1 , **PICS** 1 , **BURNED** 1 , **BUSINESSES** 1 , **GROUND** 1 , **KILLED** 1 , **CIVILIANS** 1 , 
+ 
+## What this user tweeted
+ 
+A laptop belonging to Nancy Pelosi's aide was stolen during the Capitol siege, a potential cybersecurity risk https://t.co/dMiZFPJJX7
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
