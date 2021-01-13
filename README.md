@@ -1069,13 +1069,252 @@ Hellloooo there, great big world! It’s our first time posting on Twitter. We�
  
 
  
+## User Top twe## What this user tweeted
+ 
+@Brandulf44 @CBOSglobal @cyndi10d @GroyperOdin In states that allow ballot harvesting, do you think signature verif… https://t.co/VDHdwrx9ga
+ 
+# coastallyfleekUSER INFO
+![image](http://pbs.twimg.com/profile_images/1347291743079727104/tXM2tOUT_normal.jpg)
+ 
+`User ScreenName:` coastallyfleek 
+ 
+`User chosen Name:` coastallyfleek 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 07 03:10:24 +0000 2021 
+ 
+`User Description?:` Don’t call it a comeback 
+ 
+`Followers?: `3 
+ 
+`Following?:` 132 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 73 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1347291743079727104/tXM2tOUT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 73 
+ 
+
+ 
+
+ 
 ## User Top tweeted words 
  
-**UNCLOAK** 4 , **LEARN** 4 , **@CATEXOFFICIAL:** 4 , **$YCATT** 4 , **PRE-SALE!** 4 , **BUY** 4 , **YCATT:** 4 , **REMAINING** 3 , **HTTPS://TCO/6O7491WQWN** 3 , **DAY** 2 , **$250** 1 , **USDT** 1 , **CONTEST** 1 , **HTTPS://TCO/UKKXBQA3XFRT** 1 , **@UNCLOAKIO:** 1 , **FIND** 1 , **REVOLUTIONIZING** 1 , **CYBERSECURITY** 1 , **THROUGH** 1 , **AI** 1 , 
+**@RXTOROSIAN** 7 , **@JESSICAFOR57TH** 7 , **@REXCHAPMAN** 5 , **PEOPLE** 4 , **TRUMP** 4 , **BRAZEN** 3 , **AMERICA** 3 , **THESE** 3 , **US** 3 , **NOTHING** 3 , **MANY** 3 , **TERRORISTS** 3 , **@MPIATT3** 3 , **TIME** 3 , **ALWAYS** 3 , **NEED** 3 , **@MIKEDEBONIS** 2 , **SOME** 2 , **SHE’S** 2 , **STILL** 2 , 
  
 ## What this user tweeted
  
-RT @uncloakio: Find out how Uncloak is revolutionizing cybersecurity through AI and Blockchain technologies. Join us on Telegram to learn m…
+@TimAlberta These confederate terrorists are going to be brazen. We have so many vulnerabilities.
+ 
+# paulineborcena1USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` paulineborcena1 
+ 
+`User chosen Name:` paulineborcena2020 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 10 19:53:30 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 70 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BITCOIN** 8 , **@REALVISION:** 4 , **RECORD** 4 , **🚀** 4 , **FIRST** 3 , **⬆️** 3 , **HIGH** 3 , **ETHEREUM** 3 , **SOME** 2 , **TRILLION** 2 , **THAT'S** 2 , **ITS** 2 , **$ETH** 2 , **WEEK** 2 , **@MARKETS:** 2 , **PUT** 2 , **RT** 1 , **@NEXOFINANCE:** 1 , **DISPATCH** 1 , **2021** 1 , 
+ 
+## What this user tweeted
+ 
+RT @RealVision: The Real Vision Daily Briefing 📊
+
+DJI ⬆️ .68% Record High 🚀
+S&amp;P ⬆️ 1.48% Record High 🚀
+NASDAQ ⬆️ 2.56% Record High 🚀
+#Bitco…
+ 
+# spiralsaturnnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1346217170661990401/o-kiTsZd_normal.jpg)
+ 
+`User ScreenName:` spiralsaturnn 
+ 
+`User chosen Name:` 🦋🪐♋️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 03 08:40:06 +0000 2021 
+ 
+`User Description?:` ♋︎ ☀, ♌︎ 🌕, ♏︎ ⇡ 
+ 
+`Followers?: `0 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1346217170661990401/o-kiTsZd_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOVE** 6 , **@MILKSTROLOGY:** 5 , **LEO** 5 , **BEING** 5 , **CANCER** 4 , **TOO** 3 , **MOON** 3 , **MARS** 3 , **ACCOUNT** 2 , **:** 2 , **FEELS** 2 , **DAY** 2 , **I…RT** 2 , **FEEL** 2 , **COMFORTABLE** 2 , **GOOD** 2 , **REASON** 2 , **MAYBE** 2 , **NEED** 2 , **SAY** 2 , 
+ 
+## What this user tweeted
+ 
+RT @milkstrology: a cancer will never let you know when they're angry, and if they do - they feel immensely comfortable with you. seldom to…
+ 
+# Roamer83453475USER INFO
+![image](http://pbs.twimg.com/profile_images/1346970111463182337/gCwmpzub_normal.jpg)
+ 
+`User ScreenName:` Roamer83453475 
+ 
+`User chosen Name:` Roamer 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 07 00:00:14 +0000 2021 
+ 
+`User Description?:` Freedom and Personal Responsibility.         pronoun, pew, pew, pew 
+ 
+`Followers?: `13 
+ 
+`Following?:` 250 
+ 
+`User URL?:` https://t.co/J2dL7VAoHS 
+ 
+`Location:` AZ 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1346970111463182337/gCwmpzub_normal.jpg 
+ 
+`Number of tweets excluding replies:` 946 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 12 , **@MOLTOVINOS** 12 , **@JEREMYKAUFFMAN** 12 , **@JOE69379825** 11 , **@REPSWALWELL** 9 , **@PROJECTLINCOLN** 7 , **@THEBABYLONBEE:** 7 , **PEOPLE** 6 , **BIG** 6 , **@AUTHENTICCHACHA** 6 , **FOUR** 6 , **DEMOCRATS** 6 , **@GOPLEADER** 6 , **TWITTER** 6 , **DON'T** 5 , **MAYBE** 5 , **NEVER** 5 , **FIRST** 5 , **YEARS** 5 , **PRESIDENT** 5 , 
+ 
+## What this user tweeted
+ 
+@davetroy Does that mean the censors become the enemy of free people?
+
+What happens to enemies?
+
+Do they have vulne… https://t.co/coOcD32wFx
+ 
+# _kevinmindsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1348205039815417856/z2pMTv0C_normal.jpg)
+ 
+`User ScreenName:` _kevinminds 
+ 
+`User chosen Name:` Kevin Mart 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 09 12:21:50 +0000 2021 
+ 
+`User Description?:` IT Optimist📲|Bike Enthusiast 🏍|Aspiring Humourist|Extroverted Introvert|⚽️COYG⚪🔴#Tech 
+ 
+`Followers?: `87 
+ 
+`Following?:` 110 
+ 
+`User URL?:` https://t.co/VmU0oqcLfj 
+ 
+`Location:` Nairobi, Kenya 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1348205039815417856/z2pMTv0C_normal.jpg 
+ 
+`Number of tweets excluding replies:` 284 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@_KEVINMINDS@DANIELMAVIIIN** 14 , **@_KEVINMINDS@F_RIDA_H** 11 , **@_KEVINMINDSRT** 10 , **PYTHON** 7 , **DEVELOPER** 6 , **ALWAYS** 5 , **MOST** 5 , **EVEN** 5 , **THINGS** 5 , **SOMEONE** 4 , **TIME** 4 , **YEAR** 4 , **YOU'RE** 4 , **GIVE** 4 , **→** 4 , **BEING** 3 , **BOOKS** 3 , **LIFE** 3 , **WHICH** 3 , **3** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Infopiebiz: If you're a developer writing code in .NET, C++, Java, JavaScript, PHP, or Python, the following research highlights the ma…
+ 
+# csguardnetUSER INFO
+![image](http://pbs.twimg.com/profile_images/1348223332064309248/QJc8q1wd_normal.jpg)
+ 
+`User ScreenName:` csguardnet 
+ 
+`User chosen Name:` Cyber Security Guard 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 08 20:24:22 +0000 2021 
+ 
+`User Description?:` Cyber Security | Soc | Noc | Penetration Testing | Red Team | Blue Team info@csguard.net #cybersecurity #penetrationtesting #redteam #blueteam #soc #noc 
+ 
+`Followers?: `6 
+ 
+`Following?:` 86 
+ 
+`User URL?:` https://t.co/aOFXmXvLo5 
+ 
+`Location:` İstanbul, Türkiye 
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1348223332064309248/QJc8q1wd_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@USCERT_GOV:** 4 , **OAUTH** 2 , **20** 2 , **NEW** 2 , **@CISAGOV** 2 , **ALERT** 2 , **RT** 1 , **@TIBSEC:** 1 , **PORTSWIGGER** 1 , **WEB** 1 , **ACADEMY** 1 , **STREAM** 1 , **RECORDING** 1 , **YOUTUBE** 1 , **LET** 1 , **VIEWERS** 1 , **CHOOSE** 1 , **TOPIC** 1 , **SOM…RT** 1 , **REVIEW** 1 , 
+ 
+## What this user tweeted
+ 
+RT @USCERT_gov: Review the latest #VulnerabilityBulletin at https://t.co/7l6qISwIFL for a summary of new vulnerabilities recorded in the Na…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
