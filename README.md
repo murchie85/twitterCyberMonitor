@@ -29,9 +29,9 @@ The most popular user is: **likethecoins**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RustySowers: Add risk-data- 1 example (of many)- would it be good 2 know if network device was built by company no longer in business❓(… |
-| RT @RustySowers: ⚡️-Politically exposed persons per @ComplyAdvantage def. (not an ad)Does it justify the spend?#Cybersecurity #infosec… |
-| RT @bad_packets: 2020 – End of Year SummaryTop 10 ports targeted by DDoS malware botnets:1⃣ 23/tcp2⃣ 5555/tcp3⃣ 80/tcp4⃣ 2323/tcp5⃣ 8… |
+| Ongoing mass scanning activity detected from 185.191.32.178 (🇷🇺) targeting Fortinet VPN servers vulnerable to unaut… https://t.co/CcVIjgJSBC |
+| RT @CYINT_dude: Great post from @jfslowik. I strongly believe that #threatintel teams that do not partner hand-in-hand with their SOC and I… |
+| #Covid19 #CertStream #SuspiciousDomain: covid19[.lisle-bnk[.helpdesksupports[.infoVirusTotal:… https://t.co/KuWsueEbIV |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -39,8 +39,8 @@ The most popular user is: **likethecoins**
 | #1 Most tweeted to  | **sansforensics** |
 | #2 Most tweeted to  | **RustySowers** |
 | #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.19%  |
-| Tweeters with < 10 followers  | 1.19%|
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 1.08%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,21 +51,21 @@ The most popular user is: **likethecoins**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **THREATINTEL**  |
-| second  | **JOIN**  |
-| third  | **MALWARE** |
-| fourth  | **THREAT**  |
+| second  | **THREAT**  |
+| third  | **JOIN** |
+| fourth  | **MALWARE**  |
 | fifth  | **US**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (86.67%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @anthomsec: I'm not sure if you heard, but @Mandiant Advantage now includes a lot more threat groups and detections for code families yo… |
+|RT @rickhholland: It has been so crazy, I haven't really promoted the .@sansforensics #CTISummit as much as I normally do. Despite not bein… |
 
 ### MOST RETWEETED 
 
@@ -88,19 +88,19 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 `User Description?:` Cobra Commander G 
  
-`Followers?: `16 
+`Followers?: `21 
  
-`Following?:` 363 
+`Following?:` 398 
  
 `User URL?:` https://t.co/MaZ5jgihex 
  
 `Location:` EnThroned  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 199 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1350315630768091137/9iZWx_Gf_normal.jpg 
  
-`Number of tweets excluding replies:` 3711 
+`Number of tweets excluding replies:` 4067 
  
 
  
@@ -108,11 +108,26 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 ## User Top tweeted words 
  
-**@AVENEZUELAN19** 18 , **@AUSCHWITZMUSEUM** 13 , **@_DSTM_:** 10 , **LOVE** 8 , **@SOSADTODAY** 8 , **NEVER** 7 , **@DEARHONEYANDINK:** 7 , **@FEELINGSGRAM:** 7 , **SOME** 6 , **NEW** 6 , **TIME** 6 , **MAKE** 6 , **@DULLANDWICKED:** 6 , **@LANESBREW:** 6 , **PEOPLE** 5 , **LISTEN** 5 , **THROUGH** 5 , **•** 5 , **RT** 4 , **@FLEETILYA:** 4 , 
+**@DODGERKB:** 18 , **@WES10** 14 , **:** 12 , **NEVER** 10 , **SOMEONE** 9 , **@IDKHOW** 9 , **@SPOTIFY** 9 , **LOVE** 8 , **1** 7 , **TIME** 7 , **GABI** 7 , **SOME** 6 , **GO** 6 , **YES** 6 , **CAN’T** 6 , **I'M** 6 , **DES** 5 , **REPORT** 5 , **GOOD** 5 , **OH** 5 , 
  
 ## What this user tweeted
  
-RT @hostinfonet: 🔍WP Honeypot #1 | IP: 18.208.202.49
+RT @hostinfonet: 🔍WP Honeypot #1 | IP: 139.59.159.48
+
+    🗒️Abuse Report: 
+    https://t.co/M9y75aafub
+
+    #hacking #attempts #report #hon…RT @hostinfonet: 🔍WP Honeypot #1 | IP: 139.59.159.48
+
+    🗒️Abuse Report: 
+    https://t.co/M9y75aafub
+
+    #hacking #attempts #report #hon…RT @hostinfonet: 🔍WP Honeypot #1 | IP: 139.59.159.48
+
+    🗒️Abuse Report: 
+    https://t.co/M9y75aafub
+
+    #hacking #attempts #report #hon…RT @hostinfonet: 🔍WP Honeypot #1 | IP: 18.208.202.49
 
     🗒️Abuse Report: 
     https://t.co/M9y75arQSL
