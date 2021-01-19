@@ -1111,3 +1111,338 @@ RT @gleefulmess: He dared to express his vulnerabilities on NTV but all that the
 `Number of tweets extracted`  : 200 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1350718156940038147/vufWboXq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 637 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**EIJAZ** 188 , **BB14RT** 87 , **BB14** 81 , **@BIGGBOSS** 35 , **@COLORSTV** 34 , **@GABBARKIGANG:** 29 , **@KHANEIJAZ** 24 , **RT** 22 , **@ORMAXMEDIA** 19 , **@GRACIOUS_EIJAZ:** 18 , **GUYS** 16 , **@KARTIKFEVER:** 16 , **TREND** 16 , **@MRHOLAA:** 12 , **SPEED** 11 , **@RASHMIKATWEETS:** 11 , **MOST** 10 , **@ORMAXMEDIART** 10 , **TAGLINE** 10 , **GIVE** 9 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: He dared to express his vulnerabilities on NTV but all that the HMs did was misuse his vulnerabilities, tried use it again…
+ 
+# Ayaan240673423USER INFO
+![image](http://pbs.twimg.com/profile_images/1350716164180086784/EWvHoMyj_normal.jpg)
+ 
+`User ScreenName:` Ayaan240673423 
+ 
+`User chosen Name:` Ayaan 2 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 13 16:47:18 +0000 2021 
+ 
+`User Description?:` supporting Ejaz khan on twitter ♥️ biggest fan of Asim riaz ❤️ 
+ 
+`Followers?: `15 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1350716164180086784/EWvHoMyj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 704 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**EIJAZ** 172 , **BB14** 89 , **BB14RT** 63 , **@GABBARKIGANG:** 38 , **@BIGGBOSS** 37 , **@COLORSTV** 37 , **@KHANEIJAZ** 34 , **@ORMAXMEDIA** 26 , **RT** 22 , **TREND** 17 , **GUYS** 17 , **@GRACIOUS_EIJAZ:** 16 , **@KARTIKFEVER:** 14 , **@MRHOLAA:** 13 , **@ORMAXMEDIART** 12 , **EIJAZKHAN** 11 , **SPEED** 11 , **@DRMEETAPAUL4:** 11 , **TIME** 10 , **LOVE** 10 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: He dared to express his vulnerabilities on NTV but all that the HMs did was misuse his vulnerabilities, tried use it again…
+ 
+# Gigantile1USER INFO
+![image](http://pbs.twimg.com/profile_images/1350544067810254858/bvgqupkF_normal.jpg)
+ 
+`User ScreenName:` Gigantile1 
+ 
+`User chosen Name:` gigantile 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 16 20:41:30 +0000 2021 
+ 
+`User Description?:` #Bitcoin #Crypto #SocialMedia 
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` https://t.co/Vb4k4lQvKt 
+ 
+`Location:` California, USA 
+ 
+`Number of tweets extracted`  : 36 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1350544067810254858/bvgqupkF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 36 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SEARCHREMOTELY:** 8 , **@ITBIOMETRICS:** 8 , **@DATANUMEN:** 8 , **@ANNEXUSTECH:** 7 , **@NATIVESCRIPTING:** 5 , **PROVIDE** 4 , **STEP** 4 , **USE** 4 , **REMOTE** 4 , **GUIDE** 3 , **DATANUMEN** 3 , **RECOVER** 3 , **DAMAGED** 3 , **@DIGITALIX** 3 , **NEW** 3 , **M1** 3 , **MACBOOK** 3 , **HERE** 3 , **WORK** 2 , **VIRTUAL** 2 , 
+ 
+## What this user tweeted
+ 
+RT @annexustech: Annexus Technologies can equip your virtual teams with just the right infrastructure to deal with the ongoing vulnerabilit…
+ 
+# 0MsdianUSER INFO
+![image](http://pbs.twimg.com/profile_images/1350466544317317123/G4QMh29s_normal.jpg)
+ 
+`User ScreenName:` 0Msdian 
+ 
+`User chosen Name:` Msdian 3.0 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 16 08:46:55 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `44 
+ 
+`Following?:` 140 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1350466544317317123/G4QMh29s_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1853 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BACK** 189 , **SAVAGE** 186 , **DEVO** 186 , **SOON** 71 , **COME** 70 , **EIJAZKHAN** 65 , **BACKRT** 64 , **EIJAZ** 56 , **@MDSRAZ1:** 31 , **@MSDIAN2021:** 23 , **EIJAZISTHEBOSS** 22 , **@HAMNA_EIJAZKFAN:** 18 , **@MARWA_ALBLUSHI** 18 , **@AMINNIRJHAR:** 18 , **@BHAVANA51287264:** 18 , **EIJAZKHANRT** 16 , **EIJAZRT** 16 , **@COLORSTV** 15 , **@BIGGBOSS** 13 , **LOVE** 12 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: He dared to express his vulnerabilities on NTV but all that the HMs did was misuse his vulnerabilities, tried use it again…
+ 
+# msdian102trendUSER INFO
+![image](http://pbs.twimg.com/profile_images/1349467592696598528/rw6ZDv5g_normal.jpg)
+ 
+`User ScreenName:` msdian102trend 
+ 
+`User chosen Name:` Msdian2.0 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 12 19:26:47 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `38 
+ 
+`Following?:` 89 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1349467592696598528/rw6ZDv5g_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1975 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DEVO** 186 , **SAVAGE** 183 , **BACK** 163 , **BACKRT** 80 , **EIJAZKHAN** 69 , **SOON** 64 , **COME** 63 , **EIJAZ** 59 , **@MDSRAZ1:** 32 , **EIJAZISTHEBOSS** 24 , **@COLORSTV** 22 , **@BHAVANA51287264:** 22 , **@MSDIAN2021:** 19 , **@BIGGBOSS** 18 , **@OMG_DEVOLEENA:** 17 , **LOVE** 15 , **@DEVOLEENA_23** 13 , **@HAFSONS5:** 12 , **@ENDEMOLSHINEIND** 11 , **LEADERS** 9 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: He dared to express his vulnerabilities on NTV but all that the HMs did was misuse his vulnerabilities, tried use it again…
+ 
+# trumpne16848645USER INFO
+![image](http://pbs.twimg.com/profile_images/1348113647197847556/5YdDfTS1_normal.jpg)
+ 
+`User ScreenName:` trumpne16848645 
+ 
+`User chosen Name:` trumpnewsnetwork 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 10 03:44:55 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1348113647197847556/5YdDfTS1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MATTGAETZ** 2 , **@KEYLONGBOAT** 1 , **@GOPCHAIRWOMAN** 1 , **GOD’S** 1 , **EXCEPT** 1 , **EXECUTION** 1 , **PART** 1 , **COURSEWE** 1 , **COLLECTING** 1 , **PHOTOS** 1 , **NAMES** 1 , **FACIAL** 1 , **RECOGNITION** 1 , **DATABASE** 1 , **IDENTIFY** 1 , **TRUE** 1 , **@REALDONALDTRUMP** 1 , **SUP…** 1 , **HTTPS://TCO/GJPJH2NTJ1@JONTHEHARLEYGUY** 1 , **@MIAFARROW** 1 , 
+ 
+## What this user tweeted
+ 
+@seanhannity @RepMattGaetz @mattgaetz @dbongino Great show on how the Russians made a carbon copy of US National se… https://t.co/mipb5rikqF
+ 
+# Amanda46575118USER INFO
+![image](http://pbs.twimg.com/profile_images/1350353917624762372/jmLyL0P8_normal.jpg)
+ 
+`User ScreenName:` Amanda46575118 
+ 
+`User chosen Name:` Amanda 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 16 08:05:34 +0000 2021 
+ 
+`User Description?:` 20 ~ I am Amanda , I retweet #100DaysOfCode
+My humble daddy ❤ @thunderleopardX 
+ 
+`Followers?: `70 
+ 
+`Following?:` 87 
+ 
+`User URL?:` None 
+ 
+`Location:` everywhere 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1350353917624762372/jmLyL0P8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1664 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**~** 67 , **MOTIVATIONALQUOTES** 33 , **MOTIVATION** 27 , **PAY** 17 , **BITCOIN** 14 , **100DAYSOFCODE** 12 , **INSPIRATIONAL…** 12 , **MOTIVATION…** 12 , **INSPIRATION** 11 , **LOVE** 11 , **DIE** 11 , **LANNISTER** 11 , **TIME** 10 , **ESSAY** 10 , **FOCUS** 10 , **HOMEWORK** 9 , **LIFE** 9 , **DAY** 8 , **NED** 8 , **MOTIVATIONALQUOTES…** 8 , 
+ 
+## What this user tweeted
+ 
+RT @ECCOUNCIL: While Python is extremely helpful and widely used, it is not 100% secure from cyber threats like any scripting language. Rea…RT @ArceoChoya: Vulnerabilities present in 'every major anti-malware product': #ai #deeplearning #iot HT: @worldtrendsinfo https://t.co/DhF…
+ 
+# LSmissleUSER INFO
+![image](http://pbs.twimg.com/profile_images/1350221132406923265/xzN2iLIb_normal.jpg)
+ 
+`User ScreenName:` LSmissle 
+ 
+`User chosen Name:` L Smissle 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 15 17:24:20 +0000 2021 
+ 
+`User Description?:` I am. 
+ 
+`Followers?: `3 
+ 
+`Following?:` 77 
+ 
+`User URL?:` None 
+ 
+`Location:` Madison, MS 
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1350221132406923265/xzN2iLIb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ELECTION** 8 , **EVIDENCE** 7 , **FRAUD** 6 , **SKEPTIC** 5 , **BEING** 4 , **PRESENTED** 4 , **@MICHAELSHERMER** 4 , **HOURS** 4 , **MANY** 3 , **I’M** 3 , **ISSUE** 3 , **@ELTAUTHOR** 3 , **CAPITOL** 3 , **@CHARLIEKIRK11** 2 , **DOES** 2 , **SUPPORT** 2 , **WITHOUT** 2 , **FIREARMS** 2 , **ACTIVIST** 2 , **PRETTY** 2 , 
+ 
+## What this user tweeted
+ 
+@cathinott @ELTAuthor @michaelshermer @MickWest @PolitiFact Yeah, I’m pretty well read on both of those. Are you su… https://t.co/pum9BdAW67
+ 
+# ThelightPolarisUSER INFO
+![image](http://pbs.twimg.com/profile_images/1350582892582211585/4mrD-OL9_normal.jpg)
+ 
+`User ScreenName:` ThelightPolaris 
+ 
+`User chosen Name:` TheNorthStar TheLight Polaris 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 16 23:16:38 +0000 2021 
+ 
+`User Description?:` The Great Awakening• Love of God • World Peace #NoViolenceEver #EqualityForAll #Justice #ClimateCrisis 
+ 
+`Followers?: `9 
+ 
+`Following?:` 42 
+ 
+`User URL?:` None 
+ 
+`Location:` Vortex AZ 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1350582892582211585/4mrD-OL9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 263 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 20 , **@THELIGHTPOLARIS** 14 , **US** 13 , **@SARAHCPR** 12 , **BIDEN** 7 , **@TUCKERCARLSON** 7 , **@FOXNEWS** 7 , **@SEANHANNITY** 6 , **THEN** 6 , **CAPITOL** 6 , **WHITE** 5 , **@MMPADELLAN:** 5 , **PRESIDENT** 5 , **@ORACLE** 5 , **NEED** 5 , **@ANGRY_STAFFER** 4 , **DOG** 4 , **HOUSE** 4 , **DAY** 4 , **DONALD** 4 , 
+ 
+## What this user tweeted
+ 
+RT @arwen_786: @mjfree Trump was fifth degree political hurricane. Destroyed a lot of vulnerable norms and showed us where the vulnerabilit…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
