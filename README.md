@@ -29,9 +29,9 @@ The most popular user is: **naukarshah**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Human trafficking impacts tribal people, preying on vulnerabilities such as jurisdiction and limited resources.… https://t.co/9heKoPF2Cj |
-| RT @MJibranNasir: So nice to see us all getting sensitised to vulnerabilities of staff/workers, perhaps we should have conversations with s… |
-| RT @Abba_Borko: Become more mindful of ur thoughts, feelings nd behavior. Know ur vulnerabilities as well as ur strengths nd achievements n… |
+| RT @MSignorile: "Like rabid dogs, enemies of equality always look for the vulnerabilities and fear among Democrats. And they exploit that m… |
+| RT @binitamshah: FreakOut – Leveraging Newest Vulnerabilities for creating a Botnet : https://t.co/qN76GtBJht https://t.co/cXGp3Lkfm0 |
+| ESB-2021.0238 - [RedHat] OpenShift Container Platform 3.11: Multiple vulnerabilities https://t.co/NbYLDzvYof |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **naukarshah**
 | #2 Most tweeted to  | **nombonisogasa** |
 | #3 Most tweeted to  | **tiraniddo** |
 | NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 2.34%|
+| Tweeters with < 10 followers  | 2.36%|
 | Tweeters with > 1000000 followers  | 0.12%  |
 
 
@@ -52,20 +52,20 @@ The most popular user is: **naukarshah**
 | ------------- | ------------- |
 | first  | **VULNERABILITIES**  |
 | second  | **OTHER**  |
-| third  | **HUGE** |
-| fourth  | **MALWARE**  |
+| third  | **MALWARE** |
+| fourth  | **HUGE**  |
 | fifth  | **LEFT**  |
 
 
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @tiraniddo: Just released a new blog post in my exploitation tricks series about research I did to implement a virtual memory access tra… |
+|RT @foojay2020: On Foojay Today, learn about #Java deserialization, “the gift that keeps on giving security issues”, by @BrianVerm from @sn… |
 
 ### MOST RETWEETED 
 
@@ -136,11 +136,11 @@ RT @AlphaStrikeLabs: One third of all German hospitals have cybersecurity vulner
  
 `Location:` Twitter 
  
-`Number of tweets extracted`  : 196 
+`Number of tweets extracted`  : 199 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1351036939340832768/J9L0anMw_normal.png 
  
-`Number of tweets excluding replies:` 1362 
+`Number of tweets excluding replies:` 1382 
  
 
  
@@ -148,7 +148,7 @@ RT @AlphaStrikeLabs: One third of all German hospitals have cybersecurity vulner
  
 ## User Top tweeted words 
  
-**@56DCHESS:** 17 , **@ARUNPUDUR:** 11 , **@AHINDU_:** 11 , **GOVERNMENT** 10 , **HINDUS** 10 , **@RAIZADA55:** 9 , **WHICH** 8 , **EVEN** 7 , **@FRONTIERINDICA:** 7 , **AFTER** 7 , **DON'T** 7 , **@ADARSHRJHA:** 6 , **INDIA** 6 , **TWO** 6 , **BEING** 6 , **GOOD** 6 , **BJP** 6 , **TEMPLE** 6 , **@INFINITCHY:** 6 , **SEND** 5 , 
+**@56DCHESS:** 17 , **@AHINDU_:** 13 , **@ARUNPUDUR:** 12 , **GOVERNMENT** 11 , **@RAIZADA55:** 10 , **HINDUS** 10 , **@FRONTIERINDICA:** 8 , **INDIA** 8 , **EVEN** 7 , **DON'T** 7 , **WHICH** 7 , **TWO** 6 , **GOOD** 6 , **BEING** 6 , **BJP** 6 , **TEMPLE** 6 , **@INFINITCHY:** 6 , **GOVT** 5 , **THAN** 5 , **AFTER** 5 , 
  
 ## What this user tweeted
  
@@ -167,19 +167,19 @@ RT @NB4Dev: @MNageswarRaoIPS @narendramodi @RSSorg @BJP4India Sir, we the Hindus
  
 `User Description?:` defcon group 661 
  
-`Followers?: `9 
+`Followers?: `10 
  
-`Following?:` 245 
+`Following?:` 258 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 187 
+`Number of tweets extracted`  : 198 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1352794254234460161/XI7tZ7qj_normal.jpg 
  
-`Number of tweets excluding replies:` 187 
+`Number of tweets excluding replies:` 198 
  
 
  
@@ -187,7 +187,7 @@ RT @NB4Dev: @MNageswarRaoIPS @narendramodi @RSSorg @BJP4India Sir, we the Hindus
  
 ## User Top tweeted words 
  
-**VIA** 52 , **@YOUTUBERT** 31 , **@DYNAMICCYOPS:** 23 , **VIDEO)** 23 , **(OFFICIAL** 22 , **MUSIC** 18 , **NEW** 10 , **@THEHILL:** 9 , **US** 8 , **FT** 8 , **MOST** 6 , **DATA** 6 , **2021** 6 , **CAN'T** 5 , **OFFICE** 5 , **COVID-19** 5 , **CAPITOL** 5 , **@BAKERSFIELDNOW:** 5 , **LOVE** 5 , **AMAZON** 5 , 
+**VIA** 60 , **@YOUTUBERT** 35 , **VIDEO)** 28 , **(OFFICIAL** 27 , **@DYNAMICCYOPS:** 25 , **MUSIC** 20 , **FT** 11 , **NEW** 10 , **US** 9 , **@THEHILL:** 9 , **BIDEN** 6 , **MOST** 6 , **DATA** 6 , **2021** 6 , **CAN'T** 5 , **OFFICE** 5 , **COVID-19** 5 , **CAPITOL** 5 , **@BAKERSFIELDNOW:** 5 , **LOVE** 5 , 
  
 ## What this user tweeted
  
@@ -206,7 +206,7 @@ RT @ZDNet: New website launched to document vulnerabilities in malware strains h
  
 `User Description?:` Hacktevo offers training and most advanced  protection to the organizations around the world from cyber attacks. 
  
-`Followers?: `32 
+`Followers?: `34 
  
 `Following?:` 201 
  
@@ -269,7 +269,7 @@ The set of seven DNSpooq vulnerabilities can be further subdivided into DNS cach
  
 ## User Top tweeted words 
  
-**ICHOOSEHOPE** 1 , **READING** 1 , **OPEN** 1 , **LETTER** 1 , **MOVED** 1 , **W**NEED** 5 , ***BOLDNESS** 1 , **COURAGE** 1 , **HONESTY** 1 , **TO…** 1 , **HTTPS://TCO/S4BUH4IHBHWELCOME** 1 , **TWITTERVERSE** 1 , **FOLLOW** 1 , **INSIGHTS** 1 , **LESSONS** 1 , **LEARNED** 1 , **MAYBE** 1 , **(WHO** 1 , **KNOWS)** 1 , **INTEREST** 1 , 
+**ICHOOSEHOPE** 1 , **READING** 1 , **OPEN** 1 , **LETTER** 1 , **MOVED** 1 , **WRITER'S** 1 , **BOLDNESS** 1 , **COURAGE** 1 , **HONESTY** 1 , **TO…** 1 , **HTTPS://TCO/S4BUH4IHBHWELCOME** 1 , **TWITTERVERSE** 1 , **FOLLOW** 1 , **INSIGHTS** 1 , **LESSONS** 1 , **LEARNED** 1 , **MAYBE** 1 , **(WHO** 1 , **KNOWS)** 1 , **INTEREST** 1 , 
  
 ## What this user tweeted
  
@@ -407,7 +407,7 @@ RT @EssJay79496175: @Richard08726471 @MetLife Don't expect much from them and if
  
 `User Description?:` 53(0nd 4((0un7 
  
-`Followers?: `4 
+`Followers?: `5 
  
 `Following?:` 446 
  
