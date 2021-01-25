@@ -29,18 +29,18 @@ The most popular user is: **threatintel**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MosseSecurity: Register for a #free account for a 175+ hours of practical #cybersecurity training!https://t.co/IegcS9NszU#infosec #… |
-| RT @RakeshKrish12: A new #DarkWeb Service "TorWhois" found that tells the server-type and other details of an inquired onion site! https:… |
-| RT @SomeIRguy: Cloud and Containers continue to be on the target list, check out our new blog @CadoSecurity on some of the latest activity.… |
+| Thank you @vthakur and @threatintel team for the early share with @CyberAlliance your analysis on the SolarWinds at… https://t.co/1lAgtdh1dX |
+| RT @JinibaBD: Apple Lets Some of its Big Sur macOS Apps Bypass Firewall and VPNs #CyberSecurity #osint #cyberthreats #hackers #darkweb #dat… |
+| RT @threatintel: Breaking news on our SolarWinds investigation. We've found a previously undocumented piece of malware called Raindrop whic… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **threatintel** |
-| #2 Most tweeted to  | **sansforensics** |
-| #3 Most tweeted to  | **RustySowers** |
-| NewProfiles (less than 10 days) | 0.59%  |
-| Tweeters with < 10 followers  | 1.92%|
+| #2 Most tweeted to  | **bad_packets** |
+| #3 Most tweeted to  | **sansforensics** |
+| NewProfiles (less than 10 days) | 0.55%  |
+| Tweeters with < 10 followers  | 1.81%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,21 +51,21 @@ The most popular user is: **threatintel**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **MALWARE**  |
-| second  | **SOLARWINDS**  |
-| third  | **THREATINTEL** |
-| fourth  | **@THREATINTEL:**  |
-| fifth  | **RAINDROP**  |
+| second  | **THREATINTEL**  |
+| third  | **SOLARWINDS** |
+| fourth  | **RAINDROP**  |
+| fifth  | **@THREATINTEL:**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (69.23%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (30.77%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @threatintel: Breaking news on our SolarWinds investigation. We've found a previously undocumented piece of malware called Raindrop whic… |
+|TOMORROW: Join top #threatintel analysts at this FREE #CTISummit where you'll explore specific analytical technique… https://t.co/ukWfjKsrAw |
 
 ### MOST RETWEETED 
 
@@ -75,32 +75,32 @@ VIEWS WERE : **SUBJECTIVE**  (69.23%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
 
 # Potential Fake Accounts
  
-# BlacklistPcrUSER INFO
-![image](http://pbs.twimg.com/profile_images/1349727124777803777/DRjP4h8E_normal.jpg)
+# isaak_benUSER INFO
+![image](http://pbs.twimg.com/profile_images/1353158764279566336/Dq8cDDN8_normal.jpg)
  
-`User ScreenName:` BlacklistPcr 
+`User ScreenName:` isaak_ben 
  
-`User chosen Name:` The PCR Blacklist 
+`User chosen Name:` Isaak Eli Ben David 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 14 14:36:11 +0000 2021 
+`User signup date?:` Sun Jan 24 01:51:27 +0000 2021 
  
-`User Description?:` Pills, casinos, replicas, etc.  The dystopian element of a networked planet. 
+`User Description?:` proud Israeli Jew!right to self defence!conservative Zionist!profreespech!stop terror!military! 
  
-`Followers?: `0 
+`Followers?: `65 
  
-`Following?:` 0 
+`Following?:` 407 
  
-`User URL?:` https://t.co/h9n2oZvoXm 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 7 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1349727124777803777/DRjP4h8E_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1353158764279566336/Dq8cDDN8_normal.jpg 
  
-`Number of tweets excluding replies:` 7 
+`Number of tweets excluding replies:` 1041 
  
 
  
@@ -108,11 +108,11 @@ VIEWS WERE : **SUBJECTIVE**  (69.23%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**IP** 8 , **DESCRIPTION** 7 , **IOCS** 5 , **ADDRESS** 4 , **AT…** 4 , **SITE** 4 , **SERVICE** 2 , **LLC** 2 , **ROGUE** 1 , **SECURITY** 1 , **RESEARCH** 1 , **NETWORKINGANALYSIS[]COM** 1 , **VOLUME** 1 , **9410249218** 1 , **T…** 1 , **HTTPS://TCO/79RYFY6TDGROGUE** 1 , **CASINO** 1 , **TANGIERS-CASINO[]COM** 1 , **PE** 1 , **SKURYKHIN** 1 , 
+**את** 16 , **ISRAEL** 15 , **HOLOCAUST** 13 , **BIDEN** 11 , **JEWS** 10 , **@CHARLES28973069:** 10 , **DAY** 7 , **PALESTINIAN** 7 , **ISRAELI** 7 , **IRAN** 7 , **שלנו** 7 , **@LEHIRED:** 7 , **@AFAGERBAKKE:** 6 , **US** 6 , **EMBASSY** 6 , **POLICE** 6 , **ITS** 6 , **@POLICEOFFICER:** 5 , **@ANI_BENCOHEN:** 5 , **TIME** 5 , 
  
 ## What this user tweeted
  
-Rogue #security research service networkinganalysis[.]com at IP Volume IP address 94.102.49.218.  Description and t… https://t.co/79rYfY6TDG
+RT @fr0gger_: Binary diffing is a great way to visualize differences and similarities in malware samples. I just posted a blog post explain…
  
 # threatintel2077USER INFO
 ![image](http://pbs.twimg.com/profile_images/1352279865878261760/8H6eiU08_normal.jpg)
@@ -127,19 +127,19 @@ Rogue #security research service networkinganalysis[.]com at IP Volume IP addres
  
 `User Description?:` Infosec, OSINT and CTI professional. Gamer, meme king, fan of the outdoors. 
  
-`Followers?: `13 
+`Followers?: `14 
  
-`Following?:` 64 
+`Following?:` 65 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 29 
+`Number of tweets extracted`  : 30 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1352279865878261760/8H6eiU08_normal.jpg 
  
-`Number of tweets excluding replies:` 29 
+`Number of tweets excluding replies:` 30 
  
 
  
@@ -147,7 +147,7 @@ Rogue #security research service networkinganalysis[.]com at IP Volume IP addres
  
 ## User Top tweeted words 
  
-**CTISUMMIT** 12 , **CTI** 6 , **EXPLAIN** 4 , **US** 4 , **@LINCOLNKBERGER** 3 , **@SANSFORENSICS** 3 , **@ASFAKIAN** 3 , **TOPICS** 3 , **@RICKHHOLLAND:** 2 , **@C_C_KREBS** 2 , **@BITSOFBINARY** 2 , **SUPER** 2 , **@LIKETHECOINS:** 2 , **@SANSFORENSICS:** 2 , **@BENGOERZ:** 2 , **BEHAVIORAL** 2 , **CYCLE** 2 , **CHECK** 2 , **AWESOME** 2 , **DAY** 2 , 
+**CTISUMMIT** 13 , **CTI** 6 , **EXPLAIN** 4 , **US** 4 , **@LINCOLNKBERGER** 3 , **@SANSFORENSICS** 3 , **@ASFAKIAN** 3 , **TOPICS** 3 , **MISSED** 2 , **@RICKHHOLLAND:** 2 , **@C_C_KREBS** 2 , **@BITSOFBINARY** 2 , **SUPER** 2 , **@LIKETHECOINS:** 2 , **@SANSFORENSICS:** 2 , **@BENGOERZ:** 2 , **BEHAVIORAL** 2 , **CYCLE** 2 , **CHECK** 2 , **AWESOME** 2 , 
  
 ## What this user tweeted
  
@@ -252,11 +252,11 @@ RT @threatintel: Breaking news on our SolarWinds investigation. We've found a pr
  
 `Location:` Houston, Texas 
  
-`Number of tweets extracted`  : 28 
+`Number of tweets extracted`  : 30 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1351587685786394625/T09Cf24Y_normal.jpg 
  
-`Number of tweets excluding replies:` 28 
+`Number of tweets excluding replies:` 30 
  
 
  
@@ -264,7 +264,7 @@ RT @threatintel: Breaking news on our SolarWinds investigation. We've found a pr
  
 ## User Top tweeted words 
  
-**TRUMP** 6 , **SAY** 4 , **PC** 3 , **GO** 3 , **HE'S** 2 , **LONGER** 2 , **PRESIDENT** 2 , **BESIDES** 2 , **GAMES** 2 , **--** 2 , **FUCK** 2 , **WORST** 2 , **RACIST** 2 , **@JOEBIDEN** 2 , **DONALD** 2 , **CULTISM** 2 , **THAN** 2 , **AMERICAN** 2 , **HEROES** 2 , **CULTURE** 2 , 
+**TRUMP** 6 , **SAY** 4 , **PC** 3 , **GO** 3 , **SOMEONE** 2 , **HE'S** 2 , **LONGER** 2 , **PRESIDENT** 2 , **BESIDES** 2 , **GAMES** 2 , **--** 2 , **FUCK** 2 , **WORST** 2 , **RACIST** 2 , **@JOEBIDEN** 2 , **DONALD** 2 , **CULTISM** 2 , **THAN** 2 , **AMERICAN** 2 , **HEROES** 2 , 
  
 ## What this user tweeted
  
@@ -291,11 +291,11 @@ RT @threatintel: Breaking news on our SolarWinds investigation. We've found a pr
  
 `Location:` Internet Alley  
  
-`Number of tweets extracted`  : 114 
+`Number of tweets extracted`  : 120 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1350146771725516811/vRiGvPXi_normal.jpg 
  
-`Number of tweets excluding replies:` 114 
+`Number of tweets excluding replies:` 120 
  
 
  
@@ -303,7 +303,7 @@ RT @threatintel: Breaking news on our SolarWinds investigation. We've found a pr
  
 ## User Top tweeted words 
  
-**CISSP** 13 , **NEW** 12 , **SECURITY** 10 , **WHATSAPP** 9 , **CYBERSECURITY** 8 , **MOST** 7 , **AFTER** 7 , **@Z3R0TRUST:** 6 , **CERTIFICATION** 6 , **DATA** 6 , **SOLARWINDS** 6 , **HACKERS** 6 , **PRIVACY** 6 , **!** 5 , **YEAR** 5 , **@THECYBERSECHUB:** 5 , **JOB** 5 , **POLICY** 5 , **TOP** 4 , **WORLD** 4 , 
+**CISSP** 13 , **NEW** 12 , **SECURITY** 10 , **CYBERSECURITY** 9 , **WHATSAPP** 9 , **SOLARWINDS** 7 , **MOST** 7 , **AFTER** 7 , **WORLD** 6 , **@Z3R0TRUST:** 6 , **CERTIFICATION** 6 , **DATA** 6 , **HACKERS** 6 , **PRIVACY** 6 , **INTELLIGENCE** 5 , **!** 5 , **YEAR** 5 , **@THECYBERSECHUB:** 5 , **JOB** 5 , **POLICY** 5 , 
  
 ## What this user tweeted
  
@@ -322,7 +322,7 @@ RT @threatintel: Breaking news on our SolarWinds investigation. We've found a pr
  
 `User Description?:` Cobra Commander G 
  
-`Followers?: `34 
+`Followers?: `38 
  
 `Following?:` 408 
  
@@ -330,7 +330,7 @@ RT @threatintel: Breaking news on our SolarWinds investigation. We've found a pr
  
 `Location:` EnThroned  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 198 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1350315630768091137/9iZWx_Gf_normal.jpg 
  
