@@ -29,9 +29,9 @@ The most popular user is: **qualys**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @qualys: The Qualys Research Team has discovered a critical vulnerability in #Sudo, which allows an unprivileged user to gain root privi… |
-| This looks like a fun one! Sudo vulns are the best #priveschttps://t.co/5BwVRlAR8a |
-| RT @ProtectingSport: What are the vulnerabilities that can make you a target for exploitation? Do you know? Complete our Keep Sport Honest… |
+| RT @TheHackersNews: iPhone users, BEWARE!Hackers have been found actively exploiting 3 zero-day security vulnerabilities—affecting #iOS,… |
+| RT @RachelTobac: Update your iPhone/iPad software ASAP — there are currently 3 security vulnerabilities being exploited in the wild by atta… |
+| RT @naukarshah: Do join for a discussion on theoretical principles of electronic voting, evolution of EVM-VVPAT and vulnerabilities in the… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -54,18 +54,18 @@ The most popular user is: **qualys**
 | second  | **SUDO**  |
 | third  | **VULNERABILITY** |
 | fourth  | **DISCOVERED**  |
-| fifth  | **ROOT**  |
+| fifth  | **ZERO-DAY**  |
 
 
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|"Smart money is on Putin hanging on, perhaps even easily. But the obstacles to his dominance are increasing. The we… https://t.co/PHUI9d52dS |
+|RT @qualys: The Qualys Research Team has discovered a critical vulnerability in #Sudo, which allows an unprivileged user to gain root privi… |
 
 ### MOST RETWEETED 
 
@@ -141,7 +141,7 @@ Call me the King of Kumerica 🔥
  
 `Profile image:` http://pbs.twimg.com/profile_images/1354182416131366913/uuPGumlW_normal.jpg 
  
-`Number of tweets excluding replies:` 285 
+`Number of tweets excluding replies:` 291 
  
 
  
@@ -149,7 +149,7 @@ Call me the King of Kumerica 🔥
  
 ## User Top tweeted words 
  
-**@KOBBYKATALYST1** 19 , **@GYAIGYYIMII** 17 , **@GHANAYESU** 16 , **FOLLOW** 13 , **@MRBELGIUM1** 13 , **@OPRESII__** 11 , **U** 10 , **@POST_NOBILL** 10 , **@KUMASI_MAYOR** 9 , **@NEBASARK** 9 , **@QUAME_AGE** 8 , **@GHANAYESU:** 8 , **@BENOPAONYX1** 8 , **😂😂RT** 8 , **NA** 6 , **LET'S** 6 , **DROP** 5 , **US** 5 , **@BROKEN_HEART490** 5 , **IFBRT** 5 , 
+**@KOBBYKATALYST1** 19 , **@GYAIGYYIMII** 17 , **@GHANAYESU** 16 , **FOLLOW** 13 , **@MRBELGIUM1** 13 , **@OPRESII__** 11 , **U** 10 , **@POST_NOBILL** 10 , **@KUMASI_MAYOR** 9 , **@NEBASARK** 9 , **US** 8 , **@QUAME_AGE** 8 , **@GHANAYESU:** 8 , **😂😂RT** 8 , **NA** 6 , **LET'S** 6 , **@OPRESII__:** 5 , **DROP** 5 , **@BROKEN_HEART490** 5 , **DAY** 4 , 
  
 ## What this user tweeted
  
@@ -414,7 +414,7 @@ RT @RitahAnindo: @MoyoteKenya @awdf01 @NACC_Kenya @MOHmentalhealth @UNAIDS_Kenya
  
 `Location:`  
  
-`Number of tweets extracted`  : 196 
+`Number of tweets extracted`  : 195 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1353976070060576769/SQKjAGmS_normal.jpg 
  
