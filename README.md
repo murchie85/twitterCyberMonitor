@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **blackxagustd**  
+The most popular user is: **threatintel**  
  
 
-## 🐱: We didn't really think of it that way, that showing our vulnerabilities were important. But we did start from th… https://t.co/6fZ82VTjgT 
+## Breaking news on our SolarWinds investigation. We've found a previously undocumented piece of malware called Raindr… https://t.co/LWbOo1LQXd 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **blackxagustd**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #VKSTumor21 Awesome talk by Dr. Haigis! Take a look at this @HaigisLab and #ArleneSharpe @CIR_AACR study on a scree… https://t.co/2dBcDTtHkL |
-| RT @rubinavholic099: I’m not sure if there’s any true joy associated with consistent perfection, and I hope I never find out.I can't even f… |
-| RT @qualys: The Qualys Research Team has discovered a critical vulnerability in #Sudo, which allows an unprivileged user to gain root privi… |
+| CISO priorities for 2021 via @BetaNews #CyberSecurity #CybersecurityNews #CISO #EDR #ThreatIntel… https://t.co/doyBXrskGV |
+| RT @threatintel: Our fourth blog analyzing the C&amp;C process used in the SolarWinds attacks looks at how Sunburst sends data back to the atta… |
+| RT @thugcrowd: @banesec What do you call a turtle that surfs the dark web?A TORtoise#infosec #threatintel #cyber #cybersecurity #100day… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **qualys** |
-| #2 Most tweeted to  | **TheHackersNews** |
-| #3 Most tweeted to  | **Jogenfors** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 1.58%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **bad_packets** |
+| #2 Most tweeted to  | **threatintel** |
+| #3 Most tweeted to  | **rickhholland** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 2.32%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,364 +50,47 @@ The most popular user is: **blackxagustd**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **SUDO**  |
-| third  | **IOS** |
-| fourth  | **ZERO-DAY**  |
-| fifth  | **DISCOVERED**  |
+| first  | **THREATINTEL**  |
+| second  | **INFOSEC**  |
+| third  | **MALWARE** |
+| fourth  | **INTELLIGENCE**  |
+| fifth  | **THREAT**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (71.43%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @olesovhcom: A new vulnerability affecting "sudo" has just been released. It has been referenced under CVE-2021-3156.It could allow a l… |
+|Our fourth blog analyzing the C&amp;C process used in the SolarWinds attacks looks at how Sunburst sends data back to t… https://t.co/DZT8EhxgFw |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **blackxagustd**  |
+| The most retweeted user is: **threatintel**  |
 | ------------- |
-| 🐱: We didn't really think of it that way, that showing our vulnerabilities were important. But we did start from th… https://t.co/6fZ82VTjgT |
+| Breaking news on our SolarWinds investigation. We've found a previously undocumented piece of malware called Raindr… https://t.co/LWbOo1LQXd |
 
 # Potential Fake Accounts
  
-# AuthprotocolUSER INFO
-![image](http://pbs.twimg.com/profile_images/1354555636898385922/Os5vicDU_normal.jpg)
+# isaak_benUSER INFO
+![image](http://pbs.twimg.com/profile_images/1353158764279566336/Dq8cDDN8_normal.jpg)
  
-`User ScreenName:` Authprotocol 
+`User ScreenName:` isaak_ben 
  
-`User chosen Name:` Auth Protocol 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 27 11:44:09 +0000 2021 
- 
-`User Description?:` Decentralized Financial Products to a Smart Economy #DeFi Protocol exclusively on #BinanceSmartChain 
-$AUTH
-https://t.co/jd3R5xbFBw 
- 
-`Followers?: `4 
- 
-`Following?:` 23 
- 
-`User URL?:` https://t.co/NLnAjqMnpz 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1354555636898385922/Os5vicDU_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**USD** 3 , **PROTOCOL** 2 , **@COINTELEGRAPH:** 2 , **@BINANCECHAIN:** 2 , **TOKENS** 2 , **MARKET** 2 , **AUTH** 1 , **DECENTRALIZED** 1 , **FINANCIAL** 1 , **PRODUCTS** 1 , **SMART** 1 , **ECONOMY** 1 , **DEFI** 1 , **EXCLUSIVELY** 1 , **BINANCESMARTCHAIN…** 1 , **HTTPS://TCO/MYVNIVNYWJRT** 1 , **@JUSTINSUNTRON:** 1 , **HAPPY** 1 , **BIRTHDAY** 1 , **@BITHUMBOFFICIAL** 1 , 
- 
-## What this user tweeted
- 
-RT @Cointelegraph: WARNING: Apple has discovered a security weakness that could compromise cryptocurrency wallets. iOS users should update…
- 
-# LetsChangeBTCpzUSER INFO
-![image](http://pbs.twimg.com/profile_images/1352299164990898176/PCK7wVI5_normal.jpg)
- 
-`User ScreenName:` LetsChangeBTCpz 
- 
-`User chosen Name:` letschangebitcoinprice 
+`User chosen Name:` Isaak Eli Ben David 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 21 16:36:24 +0000 2021 
+`User signup date?:` Sun Jan 24 01:51:27 +0000 2021 
  
-`User Description?:`  
+`User Description?:` proud Israeli Jew!right to self defence!conservative Zionist!profreespech!stop terror!military! 
  
-`Followers?: `9 
+`Followers?: `87 
  
-`Following?:` 82 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 45 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1352299164990898176/PCK7wVI5_normal.jpg 
- 
-`Number of tweets excluding replies:` 45 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LIMIT** 13 , **SELL** 9 , **BTC** 9 , **PRICE** 6 , **500000€** 6 , **EXPERIMENT** 5 , **INTRODUCE** 5 , **ORDER** 5 , **(OR** 5 , **DE** 4 , **MARKET** 4 , **LATER** 3 , **BITCOIN** 3 , **EQUIVALENT** 3 , **@COINTELEGRAPH:** 2 , **IPAD** 2 , **CRYPTO** 2 , **GLOBAL** 2 , **@DIARIOBITCOIN:** 2 , **LA** 2 , 
- 
-## What this user tweeted
- 
-RT @Cointelegraph: Apple’s security updates are available for iPhone 6s and later, iPad Air 2 and later, iPad Mini 4 and later and the seve…
- 
-# __knightedUSER INFO
-![image](http://pbs.twimg.com/profile_images/1353809832223117313/4v2l_ddy_normal.jpg)
- 
-`User ScreenName:` __knighted 
- 
-`User chosen Name:` Willie 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 25 20:59:27 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `8 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 77 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1353809832223117313/4v2l_ddy_normal.jpg 
- 
-`Number of tweets excluding replies:` 77 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**U** 7 , **TIME** 5 , **LOVE** 5 , **MAN** 4 , **KIDS** 4 , **Y'ALL** 3 , **LOT** 3 , **GIVE** 3 , **PUT** 3 , **FEEL** 3 , **I'M** 3 , **GO** 3 , **NEVER** 3 , **SHIT** 3 , **DON'T** 2 , **POINT** 2 , **GOTTA** 2 , **NECESSARY** 2 , **THEN** 2 , **XBOX** 2 , 
- 
-## What this user tweeted
- 
-Be honest about your vulnerabilities and how you overcome them
- 
-# weirdoo_ghanaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1351606799007363080/kLAenNhG_normal.jpg)
- 
-`User ScreenName:` weirdoo_ghana 
- 
-`User chosen Name:` thecelebrityteacher🦅🇬🇭 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 19 19:05:09 +0000 2021 
- 
-`User Description?:` EBENEZER NK QUARTEY!🇬🇭🦅 •CREATIVE DIRECTOR •MC & STYLIST 
- 
-`Followers?: `435 
- 
-`Following?:` 364 
- 
-`User URL?:` https://t.co/RHotPe0KDo 
- 
-`Location:` Accra, Ghana 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1351606799007363080/kLAenNhG_normal.jpg 
- 
-`Number of tweets excluding replies:` 3257 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FOLLOW** 43 , **FOLLOWING** 17 , **I'M** 13 , **APPLE** 13 , **WHOEVER** 12 , **DROP** 12 , **HANDLES** 11 , **PEOPLE** 10 , **@THEOVAMEDIA:** 9 , **NEW** 9 , **US** 8 , **FIRST** 7 , **NOW🙏🙏** 7 , **CHEATING❤❤💯💯❤❤RT** 7 , **@MACRUMORS:** 7 , **YEAR** 6 , **GAIN** 6 , **RETWEET** 6 , **OTHER** 5 , **FOLLOWERS** 5 , 
- 
-## What this user tweeted
- 
-RT @appleinsider: Apple patches three zero-day vulnerabilities in iOS 14.4, other updates  https://t.co/E4u9zQAkiG
- 
-# rlis191USER INFO
-![image](http://pbs.twimg.com/profile_images/1352802533425741825/NGf4FfOa_normal.jpg)
- 
-`User ScreenName:` rlis191 
- 
-`User chosen Name:` Rlis191 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 23 01:10:21 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `11 
- 
-`Following?:` 325 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 97 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1352802533425741825/NGf4FfOa_normal.jpg 
- 
-`Number of tweets excluding replies:` 99 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 6 , **JOE** 6 , **WAIT** 5 , **TRUMP** 5 , **@KELLIWARDAZ** 4 , **I’M** 4 , **COULD** 4 , **BIDEN’S** 4 , **PRESIDENT** 4 , **NEED** 4 , **PEOPLE** 4 , **US** 4 , **VOTE** 4 , **@AZGOP** 3 , **ASKING** 3 , **DEMOCRATS** 3 , **WORK** 3 , **MONEY** 3 , **FORMER** 3 , **GOVERNMENT** 3 , 
- 
-## What this user tweeted
- 
-@paul_schramm @Atothendrew @AZGOP @kelliwardaz In a Dec2019 letter to Dominion Voting Systems by Sen. Elizabeth War… https://t.co/xkbgu4fC88
- 
-# SeekerTtruthUSER INFO
-![image](http://pbs.twimg.com/profile_images/1353505862401347586/-xF3PM8f_normal.jpg)
- 
-`User ScreenName:` SeekerTtruth 
- 
-`User chosen Name:` TTruth Seeker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 25 00:48:58 +0000 2021 
- 
-`User Description?:` Truther 
- 
-`Followers?: `5 
- 
-`Following?:` 70 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 53 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1353505862401347586/-xF3PM8f_normal.jpg 
- 
-`Number of tweets excluding replies:` 53 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LAURENBOEBERT** 14 , **@SCOTTADAMSSAYS** 7 , **@MATTHEWROZSA** 6 , **@LARRYCHARLESISM** 6 , **@AOC** 6 , **DEMOCRATS** 5 , **@DAVIDMWEISSMAN** 5 , **DON’T** 4 , **MOST** 4 , **@PARISHKL** 4 , **DIVERSITY** 4 , **SOLO** 3 , **MASK** 3 , **DEMOCRAT** 3 , **JAN** 3 , **TRUMP** 3 , **@NYPDTIPS** 3 , **LOOK** 3 , **@ATRUPAR** 3 , **@CERNOVICH** 2 , 
- 
-## What this user tweeted
- 
-@ScottAdamsSays different ethnicities have different vulnerabilities to Cv19?  
-
-Or is this due to cultural differe… https://t.co/18R3EuHdJs
- 
-# AnsariRafi2023USER INFO
-![image](http://pbs.twimg.com/profile_images/1352260313765199877/wBhU02hu_normal.jpg)
- 
-`User ScreenName:` AnsariRafi2023 
- 
-`User chosen Name:` Rafi Ansari 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 21 14:21:34 +0000 2021 
- 
-`User Description?:` لا اله إلا الله محمد رسول الله 
- 
-`Followers?: `18 
- 
-`Following?:` 339 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 62 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1352260313765199877/wBhU02hu_normal.jpg 
- 
-`Number of tweets excluding replies:` 62 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**और** 11 , **के** 10 , **पर** 9 , **को** 8 , **HINDUTVA** 8 , **में** 7 , **की** 7 , **से** 6 , **का** 6 , **کی** 5 , **है** 5 , **RSS** 5 , **WORLD** 5 , **INDIAN** 5 , **वाला** 4 , **REGIME** 4 , **🇮🇳** 4 , **ORDER** 4 , **देश** 3 , **کے** 3 , 
- 
-## What this user tweeted
- 
-Which Country's Home Minister Is Mastermind of Terrorist Organisation and Rapist Gangs ??
-His Past's Terror Vulnera… https://t.co/oyyIZzcLW6
- 
-# lraym001USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` lraym001 
- 
-`User chosen Name:` Lraym001 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 21 17:33:47 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**3** 1 , **NEW** 1 , **IOS** 1 , **VULNERABILITIES** 1 , **VERY** 1 , **DAMAGING** 1 , **CS595S21** 1 , **HTTPS://TCO/CR9EMSM2HX** 1 , 
- 
-## What this user tweeted
- 
-3 new IOS vulnerabilities that can be very damaging. #cs595s21 https://t.co/Cr9eMsm2hX
- 
-# BuzzPolisciUSER INFO
-![image](http://pbs.twimg.com/profile_images/1352485644082139138/IC9ypxIo_normal.jpg)
- 
-`User ScreenName:` BuzzPolisci 
- 
-`User chosen Name:` Polisci.buzz 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 21 02:33:09 +0000 2021 
- 
-`User Description?:` #Polisci.buzz - The Policy and Political Buzz behind the S&T™. Non-partisan.  #SciPOL #Science, #Tech, #Policy ,#Innovation, #Cyber , #Defense. 
- 
-`Followers?: `37 
- 
-`Following?:` 1119 
+`Following?:` 421 
  
 `User URL?:` None 
  
@@ -415,48 +98,9 @@ His Past's Terror Vulnera… https://t.co/oyyIZzcLW6
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1352485644082139138/IC9ypxIo_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1353158764279566336/Dq8cDDN8_normal.jpg 
  
-`Number of tweets excluding replies:` 367 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**POLICY** 27 , **US** 23 , **NEW** 21 , **SCIENCE** 19 , **JOIN** 19 , **2021** 13 , **TECHNOLOGY** 10 , **CYBER** 10 , **SECRETARY** 9 , **NATIONAL** 9 , **BIDEN** 9 , **SPACE** 8 , **AI** 8 , **ADMINISTRATION** 8 , **EXCITED** 8 , **NEXT** 8 , **FIRST** 8 , **PM** 8 , **CLIMATE** 7 , **WEEK** 7 , 
- 
-## What this user tweeted
- 
-RT @Chemnipot: The first National Intelligence Estimate on climate change, ratification for Kigali, a Defense Department assessment of vuln…
- 
-# Nichole04771061USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Nichole04771061 
- 
-`User chosen Name:` Nichole 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 27 12:43:15 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 1286 
  
 
  
@@ -464,39 +108,38 @@ RT @Chemnipot: The first National Intelligence Estimate on climate change, ratif
  
 ## User Top tweeted words 
  
-**OWNING** 1 , **STORY** 1 , **HARD** 1 , **NEARLY** 1 , **DIFFICULT** 1 , **SPENDING** 1 , **LIVES** 1 , **RUNNING** 1 , **EMBRACING** 1 , **VULNE…** 1 , **HTTPS://TCO/J1QRTZ2TR0** 1 , 
+**ISRAEL** 6 , **על** 6 , **של** 5 , **RETWEET** 4 , **MUCH** 4 , **HOLOCAUST** 4 , **@STANDWITHUS:** 4 , **@JAMES_ANDERSSEN** 4 , **@ISRAEL:** 4 , **POST** 4 , **NEVERFORGET** 3 , **DEAR** 3 , **FRIENDS** 3 , **SORRY** 3 , **STILL** 3 , **WORLD** 3 , **CHILDREN** 3 , **MURDERED** 3 , **את** 3 , **YAD** 3 , 
  
 ## What this user tweeted
  
-Owning our story can be hard but not nearly as difficult as spending our lives running from it. Embracing our vulne… https://t.co/J1qRTZ2tR0
+RT @fr0gger_: Binary diffing is a great way to visualize differences and similarities in malware samples. I just posted a blog post explain…
  
-# wasinw_devUSER INFO
-![image](http://pbs.twimg.com/profile_images/1352577515638853634/9J14AyVK_normal.jpg)
+# threatintel2077USER INFO
+![image](http://pbs.twimg.com/profile_images/1352279865878261760/8H6eiU08_normal.jpg)
  
-`User ScreenName:` wasinw_dev 
+`User ScreenName:` threatintel2077 
  
-`User chosen Name:` wasinw_dev 
+`User chosen Name:` James 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 22 08:23:12 +0000 2021 
+`User signup date?:` Thu Jan 21 15:38:37 +0000 2021 
  
-`User Description?:` Developer Advocate at Refinitiv.
-Views are my own. 
+`User Description?:` Infosec, OSINT and CTI professional. Gamer, meme king, fan of the outdoors. 
  
 `Followers?: `15 
  
-`Following?:` 25 
+`Following?:` 65 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 46 
+`Number of tweets extracted`  : 35 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1352577515638853634/9J14AyVK_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1352279865878261760/8H6eiU08_normal.jpg 
  
-`Number of tweets excluding replies:` 46 
+`Number of tweets excluding replies:` 35 
  
 
  
@@ -504,39 +147,38 @@ Views are my own.
  
 ## User Top tweeted words 
  
-**@JAVASCRIPTDAILY:** 5 , **@DEALINTEL:** 4 , **VS** 3 , **2020** 3 , **COMPARED** 3 , **2019** 3 , **FOLLOW** 3 , **NEW** 3 , **SESSION** 3 , **FIND** 3 , **LEARN** 3 , **VERY** 3 , **CODE** 2 , **STRONGEST** 2 , **SHOWCASE** 2 , **ACCESS** 2 , **TRYING** 2 , **GIT** 2 , **DAY** 2 , **COMPLIANCE** 2 , 
+**CTISUMMIT** 13 , **CTI** 8 , **US** 5 , **@SANSFORENSICS:** 4 , **EXPLAIN** 4 , **AWESOME** 3 , **@LINCOLNKBERGER** 3 , **@SANSFORENSICS** 3 , **@ASFAKIAN** 3 , **TOPICS** 3 , **FUN** 2 , **@BLEEPINCOMPUTER:** 2 , **THREAT** 2 , **MISSED** 2 , **@RICKHHOLLAND:** 2 , **@C_C_KREBS** 2 , **@BITSOFBINARY** 2 , **SUPER** 2 , **@LIKETHECOINS:** 2 , **@BENGOERZ:** 2 , 
  
 ## What this user tweeted
  
-Apple Warns of 3 iOS Zero-Day Security Vulnerabilities Exploited in the Wild https://t.co/E9hgSGF2Jr via @TheHackersNews
+RT @rickhholland: Thanks to our #CTISummit speakers @C_C_Krebs @BrianPKime @chriscochrcyber @LincolnKberger @ChicagoCyber @BitsOfBinary @ge…RT @rickhholland: I missed .@LincolnKberger ’s #CTISummit talk this am, but this graphic recording of it is awesome. "Asleep at the wheel?…
  
-# kumasi_mayorUSER INFO
-![image](http://pbs.twimg.com/profile_images/1354182416131366913/uuPGumlW_normal.jpg)
+# CourseBeliUSER INFO
+![image](http://pbs.twimg.com/profile_images/1352002018739691520/IYLUDoYi_normal.jpg)
  
-`User ScreenName:` kumasi_mayor 
+`User ScreenName:` CourseBeli 
  
-`User chosen Name:` The Whole Kumasi 
+`User chosen Name:` Beli_S 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jan 26 21:39:21 +0000 2021 
+`User signup date?:` Wed Jan 20 21:15:03 +0000 2021 
  
-`User Description?:` Entertainment and more
-Call me the King of Kumerica 🔥 
+`User Description?:`  
  
-`Followers?: `37 
+`Followers?: `0 
  
-`Following?:` 303 
+`Following?:` 5 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1354182416131366913/uuPGumlW_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1352002018739691520/IYLUDoYi_normal.jpg 
  
-`Number of tweets excluding replies:` 360 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -544,40 +186,38 @@ Call me the King of Kumerica 🔥
  
 ## User Top tweeted words 
  
-**@GYAIGYYIMII** 17 , **@OPRESII__** 11 , **US** 10 , **@POST_NOBILL** 10 , **@NEBASARK** 9 , **U** 8 , **EIN** 7 , **GOOD** 7 , **DAY** 7 , **COME** 7 , **FOLLOW** 7 , **GO** 6 , **X** 6 , **@Y1025FM** 6 , **DEY** 6 , **NA** 6 , **@QUAME_AGE** 6 , **MAKE** 5 , **LET'S** 5 , **SHOUTSONYRT** 5 , 
+**TOOL** 2 , **@CDRMASON** 1 , **WELL** 1 , **DONESN4JS** 1 , **HTTPS://TCO/1LCDDRFL0G@APORTER58** 1 , **NICE** 1 , **POST!RT** 1 , **@ATTCYBER:** 1 , **RECENTLY** 1 , **THREAT** 1 , **ACTORS** 1 , **UTILIZING** 1 , **GOLANG** 1 , **AVOID** 1 , **ANTIVIRUS** 1 , **DETECTION** 1 , **ACT** 1 , **MALWARE** 1 , **LOADER** 1 , **ATT…RT** 1 , 
  
 ## What this user tweeted
  
-RT @SecuriTeam_SSD: The PHP vulnerabilities reported to us last year, were some of the most engaging research we published in 2020. 
-
-Read…
+RT @attcyber: Recently, threat actors have been utilizing a Golang tool to avoid antivirus detection and act as a #malware loader. Our #ATT…
  
-# iamjouviiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1353846695671590912/Di3E7q9U_normal.jpg)
+# _Yazeed_TUSER INFO
+![image](http://pbs.twimg.com/profile_images/1351400317712261122/bUJ5lo4t_normal.jpg)
  
-`User ScreenName:` iamjouvii 
+`User ScreenName:` _Yazeed_T 
  
-`User chosen Name:` JPluto 🚀🌑 
+`User chosen Name:` Yazeed 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 25 22:51:47 +0000 2021 
+`User signup date?:` Mon Jan 18 19:45:20 +0000 2021 
  
-`User Description?:` 🇯🇲 Techie ~ || •Digital Forensics | Cybersecurity • || •Average Gamer ~ Low-Key ~Forever Humble• | #libragang ♎️ •| 
+`User Description?:` CyberSecurity is somthing we hear about but we can't see 
  
-`Followers?: `16 
+`Followers?: `1 
  
-`Following?:` 56 
+`Following?:` 36 
  
 `User URL?:` None 
  
-`Location:` Jamaica 
+`Location:`  
  
-`Number of tweets extracted`  : 25 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1353846695671590912/Di3E7q9U_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1351400317712261122/bUJ5lo4t_normal.jpg 
  
-`Number of tweets excluding replies:` 25 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -585,51 +225,11 @@ Read…
  
 ## User Top tweeted words 
  
-**BEFORE** 2 , **@DAYNIABAENIA** 1 , **😂😂@DAYNIABAENIA** 1 , **NOTHING** 1 , **WRONG** 1 , **EATING** 1 , **RICEONLY** 1 , **INTAKE** 1 , **SMALL** 1 , **PORTIONS☺️@MEEZSHANNY** 1 , **👀@S7HMIDT** 1 , **CLASSIC** 1 , **😂@CHINEEEY_K** 1 , **NEED** 1 , **PREE** 1 , **🤔@CHINEEEY_K** 1 , **AUDACITY🤣🤣🤣@NARUTOVIBE** 1 , **HTTPS://TCO/XDWJFQARFM@FTWDFANS** 1 , **SIP** 1 , **GLEN** 1 , 
+**RT** 1 , **@THREATINTEL:** 1 , **BREAKING** 1 , **NEWS** 1 , **SOLARWINDS** 1 , **INVESTIGATION** 1 , **WE'VE** 1 , **FOUND** 1 , **PREVIOUSLY** 1 , **UNDOCUMENTED** 1 , **PIECE** 1 , **MALWARE** 1 , **CALLED** 1 , **RAINDROP** 1 , **WHIC…STRANGE** 1 , **!** 1 , **HTTPS://TCO/NC8EFDY9KPRT** 1 , **@MALWRHUNTERTEAM:** 1 , **ANOTHER** 1 , **VERIFIED** 1 , 
  
 ## What this user tweeted
  
-RT @RachelTobac: Update your iPhone/iPad software ASAP — there are currently 3 security vulnerabilities being exploited in the wild by atta…
- 
-# avner11222USER INFO
-![image](http://pbs.twimg.com/profile_images/1354253768938958850/HsT2fu8d_normal.jpg)
- 
-`User ScreenName:` avner11222 
- 
-`User chosen Name:` avner1122 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 26 19:31:02 +0000 2021 
- 
-`User Description?:` Software engineer in NYC, interest in blockchain and DeFi 
- 
-`Followers?: `7 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:` NYC 
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1354253768938958850/HsT2fu8d_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TYPHOONCASH** 3 , **@TORNADOCASH** 2 , **@RSTORMSF** 1 , **THANKS** 1 , **REFERRING** 1 , **RESEARCH** 1 , **PAPER** 1 , **[REFERENCE** 1 , **1]** 1 , **DISCUSSES** 1 , **HEUR…** 1 , **HTTPS://TCO/W4BZ7M5QBNTHE** 1 , **ARTICLE** 1 , **POINTS** 1 , **WAYS** 1 , **EXPLOIT** 1 , **IMPLEMENTATION** 1 , **CONDUCT** 1 , **FRONT-RUNNING** 1 , **INTEGER** 1 , 
- 
-## What this user tweeted
- 
-I just published TyphoonCash Vulnerabilities https://t.co/ofDAgIYukz
-@TyphoonCash @TornadoCash $PHOON
+RT @threatintel: Breaking news on our SolarWinds investigation. We've found a previously undocumented piece of malware called Raindrop whic…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
