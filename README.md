@@ -795,77 +795,48 @@ RT @thehill: Rep. @AOC: "What was happening here with Robinhood and with these t
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1352621795057278976/OUF7bznR_normal.jpg ction Attack.
+`Profile image:` http://pbs.twimg.com/profile_images/1352621795057278976/OUF7bznR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 744 
+ 
 
-#webhacking #bugbountytips #bugbounty #HHI #bugc…
  
-# HakthonTUSER INFO
-![image](http://pbs.twimg.com/profile_images/1355577476139917312/-Giq6tD0_normal.jpg)
+
  
-`User ScreenName:` HakthonT 
+## User Top tweeted words 
  
-`User chosen Name:` Hakthon Technologies 
+**@LILKIM** 90 , **@NICKIMINAJ** 58 , **@FEMALERAPROOM** 56 , **@ARIANAGRANDE** 55 , **@DOJACAT** 54 , **@BEYONCE** 54 , **@FERGIE** 52 , **@LADYGAGA…** 45 , **@JUST_MANLEY** 37 , **@POPCRAVE** 28 , **@FENDIBAWBIE** 17 , **QUEEN** 6 , **FEMALE** 6 , **@LADYGAGA** 6 , **DIDN’T** 5 , **VIDEO** 5 , **MARJORIE** 5 , **GREENE** 5 , **@JUST_MANLEY:** 5 , **SAY** 4 , 
+ 
+## What this user tweeted
+ 
+RT @thehill: Rep. @AOC: "What was happening here with Robinhood and with these trades were that everyday people were starting to be able to…
+ 
+# AndrewG_YOLOUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354831815836504068/lGz_ATdR_normal.jpg)
+ 
+`User ScreenName:` AndrewG_YOLO 
+ 
+`User chosen Name:` Andrew🏳️‍🌈 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 30 18:01:47 +0000 2021 
+`User signup date?:` Thu Jan 28 16:39:42 +0000 2021 
  
-`User Description?:` Hakthon is a ISO 27001-2013 certified Global Consultation and Information Security Firm. 
+`User Description?:` YOLO 
  
-`Followers?: `0 
+`Followers?: `6 
  
-`Following?:` 0 
+`Following?:` 104 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 37 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1355577476139917312/-Giq6tD0_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1354831815836504068/lGz_ATdR_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HAKTHON** 1 , **27001-2013** 1 , **CERTIFIED** 1 , **GLOBAL** 1 , **CONSULTATION** 1 , **IMPLEMENTATION** 1 , **FIRM** 1 , **BELIEVE** 1 , **PRECISION** 1 , **QUALITY…** 1 , **HTTPS://TCO/QAP8Y0PFCV** 1 , 
- 
-## What this user tweeted
- 
-Hakthon is a 27001-2013 certified Global Consultation and Implementation firm, We believe in precision and quality… https://t.co/qAp8y0PfcV
- 
-# MaltWizzyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1354157539336847365/4mKergbb_normal.jpg)
- 
-`User ScreenName:` MaltWizzy 
- 
-`User chosen Name:` S1ngleMaltWizzy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 23 10:31:05 +0000 2021 
- 
-`User Description?:` HODL $VET $VTHO $HAI (referral code: DJPFRB) 
-Gems $WOO $TEL $SNTVT $HAKKA
-Interests #cryptoart #NFTs @immutable @illuviumio 
- 
-`Followers?: `19 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:` Germany 
- 
-`Number of tweets extracted`  : 114 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1354157539336847365/4mKergbb_normal.jpg 
- 
-`Number of tweets excluding replies:` 114 
+`Number of tweets excluding replies:` 37 
  
 
  
@@ -873,117 +844,28 @@ Interests #cryptoart #NFTs @immutable @illuviumio
  
 ## User Top tweeted words 
  
-**TELCOIN** 12 , **$TEL** 11 , **$VTHO** 9 , **$VET** 9 , **BIG** 8 , **$HAI** 7 , **BOUGHT** 7 , **$DOGE** 7 , **WHICH** 6 , **GOOD** 6 , **VTHO** 6 , **PUMP** 6 , **VEFAM** 6 , **VECHAIN** 6 , **REALLY** 6 , **@HACKENCLUB** 5 , **AWESOME** 5 , **LITTLE** 5 , **$WOO** 5 , **VET** 5 , 
+**CAPITOL** 6 , **REPUBLICAN** 5 , **@MSNBC:** 4 , **PIPE** 4 , **TRYING** 4 , **@NYTIMES:** 4 , **WALL** 4 , **GREENE** 4 , **@THEHILL:** 4 , **BIDEN** 3 , **BOMBS** 3 , **AGAINST** 3 , **STREET** 3 , **REP** 3 , **MARJORIE** 3 , **TAYLOR** 3 , **@REUTERS:** 3 , **JAN** 3 , **REDDIT** 3 , **GAMESTOP** 3 , 
  
 ## What this user tweeted
  
-RT @MaltWizzy: My referral: #Hacken 
-
-1) 📲 @hackenclub App
-
-2) 💳 $HAI (e.g. @OceanexOfficial)
-
-3) Code ✔️DJPFRB ➡️buying membership
-
-4) Get…
+RT @thehill: Rep. @AOC: "What was happening here with Robinhood and with these trades were that everyday people were starting to be able to…
  
-# moujdi5060USER INFO
+# InfosecPolymathUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` moujdi5060 
+`User ScreenName:` InfosecPolymath 
  
-`User chosen Name:` @moujdi5060 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 24 12:17:49 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@MUSTAPHA_ADIB** 5 , **على** 5 , **سرعة** 4 , **الى** 3 , **من** 3 , **12MB** 3 , **و** 3 , **يقوم** 2 , **CERT** 2 , **MCSE** 2 , **STARTED** 2 , **سير** 2 , **شراكة** 2 , **مع** 2 , **الاغلبية** 2 , **الساحقة** 2 , **كتشكا** 2 , **مابين** 2 , **راه** 2 , **فيديو** 2 , 
- 
-## What this user tweeted
- 
-do you want started #CyberSecurity to you #roadmap.
-first: #Comptia_A+ and Comptia Linux+ or #Cert LPI and Dev Lang… https://t.co/WGDpQv7XYA
- 
-# hwhodieUSER INFO
-![image](http://pbs.twimg.com/profile_images/1353120138921443328/sijv99Vl_normal.jpg)
- 
-`User ScreenName:` hwhodie 
- 
-`User chosen Name:` Cushitic 
+`User chosen Name:` InfoSec_Polymath 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 23 19:36:58 +0000 2021 
+`User signup date?:` Fri Jan 29 15:50:59 +0000 2021 
  
-`User Description?:` Shit went bad when we found out the stars are not gods✌🏾 
+`User Description?:` System/Network Admin | Trying to break into InfoSec 
  
-`Followers?: `7 
+`Followers?: `3 
  
-`Following?:` 164 
- 
-`User URL?:` None 
- 
-`Location:` Delaware, USA 
- 
-`Number of tweets extracted`  : 31 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1353120138921443328/sijv99Vl_normal.jpg 
- 
-`Number of tweets excluding replies:` 32 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WAITBUTWHY** 3 , **COOKIES** 3 , **CYBERSECURITY** 2 , **@CYBERSECMEG** 2 , **SEEMS** 2 , **AREN'T** 2 , **@THINGSWORK:** 2 , **WONDER** 2 , **SMART** 2 , **PEOPLE** 2 , **VS** 2 , **RT** 1 , **@THREE_CUBE:** 1 , **OSINT:** 1 , **TRACKING** 1 , **FLIGHT** 1 , **AIRCRAFT** 1 , **DATA** 1 , **OPEN** 1 , **SOURCE** 1 , 
- 
-## What this user tweeted
- 
-RT @three_cube: OSINT: Tracking Flight and Aircraft Data with Open Source Tools #osint #radarbox #cybersecurity #cyberwarrior 
-
-https://t.c…
- 
-# info_ciberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1354121862570258432/F_SGuBTW_normal.jpg)
- 
-`User ScreenName:` info_ciber 
- 
-`User chosen Name:` CiberInfoChile 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jan 22 15:36:59 +0000 2021 
- 
-`User Description?:` Organizaciones y personas están expuestas a riesgos de seguridad de información. Es necesario conocerlos para estar preparados. 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
+`Following?:` 148 
  
 `User URL?:` None 
  
@@ -991,7 +873,7 @@ https://t.c…
  
 `Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1354121862570258432/F_SGuBTW_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
 `Number of tweets excluding replies:` 6 
  
@@ -1001,78 +883,38 @@ https://t.c…
  
 ## User Top tweeted words 
  
-**DE** 4 , **LA** 3 , **SBIF** 2 , **EN** 2 , **LAS** 2 , **VIA** 2 , **NIST** 1 , **CYBERSECURITY** 1 , **FRAMEWORK** 1 , **(CSF)** 1 , **HTTPS://TCO/TEAH5ESNUT** 1 , **HTTPS://TCO/V3SSYEBISVCERTIFICADO** 1 , **DIGITAL** 1 , **HTTPS://TCO/IKML02SBG3@ENELCLIENTESCL** 1 , **@VECINOCRISTIAN** 1 , **@ENELCLIENTESCL** 1 , **¿DÓNDE** 1 , **MENCIONA** 1 , **LO** 1 , **QUE** 1 , 
+**RT** 1 , **@MARKRUFFALO:** 1 , **I’M** 1 , **WORKING** 1 , **CANADA** 1 , **WHERE** 1 , **FASCISTS** 1 , **GROUP** 1 , **RIGHTFULLY** 1 , **LABELED** 1 , **“TERRORIST** 1 , **ENTITY”** 1 , **WHICH** 1 , **EXACTLY** 1 , **THE…RT** 1 , **@DNVOLZ:** 1 , **NEW:** 1 , **THIRTY** 1 , **PERCENT** 1 , **VICTIMS** 1 , 
  
 ## What this user tweeted
  
-NIST Cybersecurity Framework (CSF) https://t.co/TeAh5eSNUt https://t.co/v3ssyEBiSV
+RT @dnvolz: NEW: Thirty percent of victims of Russia’s massive cyber espionage campaign had not installed SolarWinds software, investigator…
  
-# dallas_writerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1354531933200539650/iDQeyKEY_normal.jpg)
+# PierreGutierr20USER INFO
+![image](http://pbs.twimg.com/profile_images/1355190509380268033/1U72RGH0_normal.jpg)
  
-`User ScreenName:` dallas_writer 
+`User ScreenName:` PierreGutierr20 
  
-`User chosen Name:` J. Dallas Brooks 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 27 20:48:45 +0000 2021 
- 
-`User Description?:` Writer. USAF Veteran. Adjunct Professor. Hilarious. 
-#SciFi #Cybersecurity 
- 
-`Followers?: `10 
- 
-`Following?:` 72 
- 
-`User URL?:` https://t.co/wcfXuHRxT1 
- 
-`Location:` Colorado 
- 
-`Number of tweets extracted`  : 33 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1354531933200539650/iDQeyKEY_normal.jpg 
- 
-`Number of tweets excluding replies:` 33 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**READ** 4 , **SOMEONE** 3 , **LITTLE** 3 , **CHECK** 3 , **CYBERSECURITY** 3 , **SCIFI** 3 , **THANKS** 2 , **PROBLEMS** 2 , **WANTS** 2 , **SAW** 2 , **AN…** 2 , **2021** 2 , **MEANT** 2 , **5** 2 , **FUNCTIONS** 2 , **WROTE** 2 , **FAST-PACED** 2 , **YA** 2 , **DYSTOPIAN** 2 , **NOVEL** 2 , 
- 
-## What this user tweeted
- 
-Please tell older family members that if someone wants to be paid in gift cards, hang up the phone. Recently saw an… https://t.co/iKNpG2FLrm
- 
-# soyarelyahreUSER INFO
-![image](http://pbs.twimg.com/profile_images/1355359441370025984/YC_sLnRT_normal.jpg)
- 
-`User ScreenName:` soyarelyahre 
- 
-`User chosen Name:` Arely 🐚 
+`User chosen Name:` Pierre Gutierrez 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 30 03:34:35 +0000 2021 
+`User signup date?:` Fri Jan 29 16:25:13 +0000 2021 
  
-`User Description?:` por pendeja estoy aquí:) 
+`User Description?:`  
  
-`Followers?: `58 
+`Followers?: `3 
  
-`Following?:` 64 
+`Following?:` 49 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 144 
+`Number of tweets extracted`  : 84 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1355359441370025984/YC_sLnRT_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1355190509380268033/1U72RGH0_normal.jpg 
  
-`Number of tweets excluding replies:` 144 
+`Number of tweets excluding replies:` 84 
  
 
  
@@ -1080,27 +922,187 @@ Please tell older family members that if someone wants to be paid in gift cards,
  
 ## User Top tweeted words 
  
-**QUE** 22 , **HTTPS://TCO/P8JFDLWURV@OLIMPIADASCACHE** 18 , **@OLIMPIADASCACHE** 17 , **ES** 13 , **VADIA** 12 , **Y** 12 , **YA** 11 , **ERES** 10 , **SI** 9 , **DE** 9 , **LAS** 8 , **AHRE** 7 , **PENDEJA** 7 , **LO** 7 , **YO** 7 , **SE** 7 , **TE** 6 , **NAO** 6 , **MACACO** 6 , **RECIFE** 6 , 
+**💋** 4 , **@MEETCHLOECHANEL:** 4 , **MAKE** 3 , **DE** 3 , **CHÂTEAU** 3 , **1** 3 , **IL** 3 , **DI** 3 , **GOOD** 3 , **@RAYREBEKKA:** 3 , **LAST** 3 , **·** 3 , **NEW** 3 , **@SEPHRAGRACE:** 2 , **LES** 2 , **CHEVAL** 2 , **BLANC** 2 , **LE** 2 , **@LONDYNLAUREN:** 2 , **ELEGANCE** 2 , 
  
 ## What this user tweeted
  
-RT PLEASE
-#SugarBabyTwitter #enfermeras #anawsaunulılımna #LalslaDeLasTentaciones3 #SuggarMommy #daddyboy… https://t.co/YCJhwqPbLp
+RT @MeetSophieRose: 💋🐯🖤Sophie Rose🖤🐯💋
+
+"Women and tigers are alike. They have the same temperament, emotions, and vulnerabilities."
+
+⛰Sccot…
  
-# MoranEdilmaUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# concharraigeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1353831761571098624/5KkjfVAm_normal.jpg)
  
-`User ScreenName:` MoranEdilma 
+`User ScreenName:` concharraige 
  
-`User chosen Name:` Edilma Moran 
+`User chosen Name:` Seán Mac Concharraige 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 29 22:59:22 +0000 2021 
+`User signup date?:` Mon Jan 25 22:06:05 +0000 2021 
  
-`User Description?:` Dios es amor 
+`User Description?:` Robotic welding husband and father. Disgusted by our current lack of humanity among the human race. I wish accountability actually meant something... 
  
-`Followers?: `1 
+`Followers?: `3 
+ 
+`Following?:` 69 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1353831761571098624/5KkjfVAm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 339 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**REPUBLICANS** 14 , **REPUBLICAN** 11 , **TRUMP** 10 , **@SENTEDCRUZ** 10 , **REALLY** 9 , **US** 9 , **I'M** 8 , **MARJORIE** 8 , **TIME** 7 , **THAN** 7 , **DON'T** 7 , **AGAINST** 7 , **TAYLOR** 7 , **GREENE** 7 , **FUCKING** 6 , **SENATE** 6 , **AFTER** 6 , **STILL** 6 , **THEN** 6 , **FUCK** 6 , 
+ 
+## What this user tweeted
+ 
+RT @CNBC: Wall Street Bets shows all of the vulnerabilities and how the financial system is rigged, @tyler and @cameron tell @seemacnbc. Th…
+ 
+# Adam1MenardUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355257886042071041/YFiIIb97_normal.jpg)
+ 
+`User ScreenName:` Adam1Menard 
+ 
+`User chosen Name:` Adam Menard 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 29 20:30:59 +0000 2021 
+ 
+`User Description?:` Driven and motivated information technology and data security professional with demonstrated experience coordinating large system upgrades and troubleshooting 
+ 
+`Followers?: `4 
+ 
+`Following?:` 92 
+ 
+`User URL?:` https://t.co/XuX3vkla2p 
+ 
+`Location:` Phoenix, AZ 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355257886042071041/YFiIIb97_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@DNVOLZ:** 1 , **NEW:** 1 , **THIRTY** 1 , **PERCENT** 1 , **VICTIMS** 1 , **RUSSIA’S** 1 , **MASSIVE** 1 , **CYBER** 1 , **ESPIONAGE** 1 , **CAMPAIGN** 1 , **INSTALLED** 1 , **SOLARWINDS** 1 , **SOFTWARE** 1 , **INVESTIGATOR…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @dnvolz: NEW: Thirty percent of victims of Russia’s massive cyber espionage campaign had not installed SolarWinds software, investigator…
+ 
+# APT0x90USER INFO
+![image](http://pbs.twimg.com/profile_images/1354175117484564487/mH2YSP70_normal.png)
+ 
+`User ScreenName:` APT0x90 
+ 
+`User chosen Name:` APT-95 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 22 19:05:46 +0000 2021 
+ 
+`User Description?:` Network Services & IOT Security Researcher
+Partner In Crime: @rai0x90 
+ 
+`Followers?: `24 
+ 
+`Following?:` 62 
+ 
+`User URL?:` https://t.co/TLKr0cyEZj 
+ 
+`Location:` 0x400607 
+ 
+`Number of tweets extracted`  : 82 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354175117484564487/mH2YSP70_normal.png 
+ 
+`Number of tweets excluding replies:` 82 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$BTC** 5 , **GIVE** 4 , **DETAILS** 4 , **@THEHACKERSNEWS:** 3 , **TOOK** 3 , **GOT** 3 , **CAN’T** 3 , **DONE** 3 , **@VXUNDERGROUND:** 3 , **"JAMES** 3 , **@THEREALCHEFG:** 2 , **PEOPLE** 2 , **DOGECOIN** 2 , **MOST** 2 , **AUTHORITIES** 2 , **EMOTET** 2 , **WORKING** 2 , **REALLY** 2 , **BITCOIN** 2 , **DISCORD** 2 , 
+ 
+## What this user tweeted
+ 
+sudo &amp; GPG vulnerabilities? discord &amp; redditors VS hedge funs? dodgecoin VS bitcoin? What's next 2021? https://t.co/5KOjBsG367
+ 
+# Thereare2gende2USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Thereare2gende2 
+ 
+`User chosen Name:` Thereare2genders 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 27 00:53:05 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 69 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HEDGE** 2 , **CANCER** 2 , **MAP** 2 , **RT** 1 , **@RAOULGMI:** 1 , **HONEST** 1 , **QUESTION** 1 , **SEARCH** 1 , **KNOWLEDGEABLE** 1 , **ANSWERS?** 1 , **UNDERSTAND** 1 , **ROBIN** 1 , **HOOD** 1 , **NEEDED** 1 , **URGENT** 1 , **CASH** 1 , **T+2** 1 , **SETTLEMENT** 1 , **BECAME** 1 , **IMME…RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @nature: A Nature Comment article outlines the Cancer Dependency Map project, which would systematically map cancer vulnerabilities by p…
+ 
+# 3pDtX3nIjzc6uUfUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355125723133059073/xlHE2gEO_normal.jpg)
+ 
+`User ScreenName:` 3pDtX3nIjzc6uUf 
+ 
+`User chosen Name:` الحج متولي 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 29 12:08:20 +0000 2021 
+ 
+`User Description?:` PhD student in coastal science 
+ 
+`Followers?: `0 
  
 `Following?:` 0 
  
@@ -1108,11 +1110,11 @@ RT PLEASE
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 22 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1355125723133059073/xlHE2gEO_normal.jpg 
  
-`Number of tweets excluding replies:` 1189 
+`Number of tweets excluding replies:` 22 
  
 
  
@@ -1120,28 +1122,223 @@ RT PLEASE
  
 ## User Top tweeted words 
  
-**28ENE** 164 , **DEL** 136 , **LA** 110 , **DIÁLOGOESPAZ** 109 , **DE** 96 , **🇻🇪** 91 , **⏩** 84 , **DÍA!** 83 , **¡ETIQUETA** 67 , **EN** 66 , **Y** 65 , **EL** 62 , **PAZ** 36 , **NACIONAL** 27 , **VENEZUELA** 26 , **POR** 26 , **AL** 20 , **SE** 20 , **CON** 20 , **@ANADELBETANCOUR:** 20 , 
+**@ESSAMHEGGY:** 7 , **@OULAAMROUNI:** 6 , **في** 6 , **@HZAMIABDERRAOUF:** 6 , **COASTAL** 6 , **LA** 5 , **SANDY** 5 , **BEACHES** 5 , **DE** 4 , **NEW** 4 , **STUDY** 4 , **SHOWS** 4 , **NORTH** 4 , **DU** 3 , **NATURE** 3 , **SCIENTIFIC** 3 , **من** 3 , **مصر** 3 , **ALARMING** 3 , **السواحل** 3 , 
  
 ## What this user tweeted
  
-RT @shortycache: krow #SugarBabyTwitter #enfermeras #anawsaunulılımna #LalslaDeLasTentaciones3 #SuggarMommy #daddyboy #SupermanAndLois #100…
+RT @HzamiAbderraouf: A new study in Nature Scientific Reports shows how the widespread overdevelopment in coastal areas North Africa is cau…
  
-# Nilda19993881USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# BelgacemHzamiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355123826871382019/epGG4MBO_normal.jpg)
  
-`User ScreenName:` Nilda19993881 
+`User ScreenName:` BelgacemHzami 
  
-`User chosen Name:` Nilda 
+`User chosen Name:` Belgacem Hzami 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 28 15:30:39 +0000 2021 
+`User signup date?:` Fri Jan 29 12:00:28 +0000 2021 
  
-`User Description?:`  
+`User Description?:` PhD student 
  
-`Followers?: `7 
+`Followers?: `1 
  
-`Following?:` 12 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355123826871382019/epGG4MBO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**في** 12 , **@HZAMIABDERRAOUF:** 9 , **من** 9 , **@ESSAMHEGGY:** 9 , **COASTAL** 9 , **@OULAAMROUNI:** 8 , **و** 6 , **SANDY** 6 , **BEACHES** 6 , **افريقيا** 5 , **بسبب** 5 , **الشواطئ** 5 , **LA** 5 , **شمال** 4 , **الى** 4 , **عدد** 4 , **أن** 4 , **السواحل** 4 , **(** 4 , **VULNERABILITY** 4 , 
+ 
+## What this user tweeted
+ 
+RT @HzamiAbderraouf: A new study in Nature Scientific Reports shows how the widespread overdevelopment in coastal areas North Africa is cau…
+ 
+# wallstreetsbet1USER INFO
+![image](http://pbs.twimg.com/profile_images/1355105990748872705/GmMaEail_normal.jpg)
+ 
+`User ScreenName:` wallstreetsbet1 
+ 
+`User chosen Name:` wallstreetsbets 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 29 10:50:11 +0000 2021 
+ 
+`User Description?:` Wallstreetbets coordinator 
+ 
+`Followers?: `921 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355105990748872705/GmMaEail_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$BTC** 2 , **DOGECOIN** 2 , **REDDIT** 2 , **STARTED** 2 , **GOING** 1 , **BABY!** 1 , **BTC** 1 , **BITCOIN** 1 , **HTTPS://TCO/HIMBO4C7NKAMERICANS** 1 , **WAKING** 1 , **PRICE** 1 , **GO** 1 , **SOON** 1 , **BUY** 1 , **BEFORE** 1 , **TWEET** 1 , **HITS** 1 , **TH…** 1 , **HTTPS://TCO/HDEUF7HWZXRT** 1 , **@CNBC:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CNBC: Wall Street Bets shows all of the vulnerabilities and how the financial system is rigged, @tyler and @cameron tell @seemacnbc. Th…
+ 
+# Geologue6USER INFO
+![image](http://pbs.twimg.com/profile_images/1355084481380671489/jW2TTRXQ_normal.jpg)
+ 
+`User ScreenName:` Geologue6 
+ 
+`User chosen Name:` Geologue 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 29 09:24:12 +0000 2021 
+ 
+`User Description?:` PhD student 
+ 
+`Followers?: `1 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 30 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355084481380671489/jW2TTRXQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 30 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**في** 12 , **من** 9 , **@HZAMIABDERRAOUF:** 9 , **COASTAL** 9 , **@ESSAMHEGGY:** 8 , **@OULAAMROUNI:** 7 , **افريقيا** 6 , **و** 6 , **SANDY** 6 , **BEACHES** 6 , **شمال** 5 , **بسبب** 5 , **عدد** 4 , **أن** 4 , **الى** 4 , **الشواطئ** 4 , **ALARMING** 4 , **VULNERABILITY** 4 , **(** 4 , **NEW** 4 , 
+ 
+## What this user tweeted
+ 
+RT @HzamiAbderraouf: A new study in Nature Scientific Reports shows how the widespread overdevelopment in coastal areas North Africa is cau…
+ 
+# CFCRogueUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354006117282500608/KqGfk6Xu_normal.jpg)
+ 
+`User ScreenName:` CFCRogue 
+ 
+`User chosen Name:` CFCRogue 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 26 09:06:22 +0000 2021 
+ 
+`User Description?:` @chelseafc || Once A Blue, Always A Blue 💙 || (following back Chelsea fans) (sometimes shameless) 
+ 
+`Followers?: `6 
+ 
+`Following?:` 106 
+ 
+`User URL?:` None 
+ 
+`Location:` Los Angeles, CA 
+ 
+`Number of tweets extracted`  : 64 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354006117282500608/KqGfk6Xu_normal.jpg 
+ 
+`Number of tweets excluding replies:` 65 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TUCHEL** 7 , **CHELSEA** 6 , **UNITED** 5 , **FANS** 4 , **HE’S** 4 , **THAN** 4 , **@CFCDUBOIS:** 4 , **DON’T** 4 , **TEAM** 4 , **THOMAS** 4 , **THIAGO** 3 , **OFF** 3 , **GAME** 3 , **MOST** 3 , **WE’RE** 3 , **BETTER** 3 , **TIME** 3 , **GAMES** 3 , **@CFC_RAF:** 2 , **PULISIC** 2 , 
+ 
+## What this user tweeted
+ 
+Tottenham showed some vulnerabilities today. We must capitalize next week! #CFC
+ 
+# WSBswingtraderUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354473519770443777/asqWWP0D_normal.jpg)
+ 
+`User ScreenName:` WSBswingtrader 
+ 
+`User chosen Name:` Professional WSB Swing Trader 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 27 16:37:24 +0000 2021 
+ 
+`User Description?:` buy the fucking dip and HOLD THE LINE🚀 
+ 
+`Followers?: `3 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 39 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354473519770443777/asqWWP0D_normal.jpg 
+ 
+`Number of tweets excluding replies:` 39 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ROBINHOOD** 5 , **BUY** 4 , **GAMESTOP** 4 , **AMC** 3 , **GO** 3 , **FUCK** 3 , **CANCELROBINHOOD** 2 , **@THESTINKMARKET:** 2 , **MARKET** 2 , **COULD** 2 , **WALL** 2 , **STREET** 2 , **LINE** 2 , **CANCELROBINHOODRT** 2 , **EVEN** 2 , **CITRON** 2 , **RESEARCH** 2 , **SHORT** 2 , **YEARS** 2 , **GOING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @CNBC: Wall Street Bets shows all of the vulnerabilities and how the financial system is rigged, @tyler and @cameron tell @seemacnbc. Th…
+ 
+# bets_rickyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354586633308418053/-LWO-fe5_normal.jpg)
+ 
+`User ScreenName:` bets_ricky 
+ 
+`User chosen Name:` Ricky Bobby Bets 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 00:25:05 +0000 2021 
+ 
+`User Description?:` #1 Stock Car driver 🚘 "Here's the deal I'm the best there is. Plain and simple. I wake up in the morning and I piss excellence” Team WallStreetBets 🚀🚀 
+ 
+`Followers?: `8 
+ 
+`Following?:` 56 
  
 `User URL?:` None 
  
@@ -1149,9 +1346,9 @@ RT @shortycache: krow #SugarBabyTwitter #enfermeras #anawsaunulılımna #LalslaD
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1354586633308418053/-LWO-fe5_normal.jpg 
  
-`Number of tweets excluding replies:` 1900 
+`Number of tweets excluding replies:` 280 
  
 
  
@@ -1159,30 +1356,106 @@ RT @shortycache: krow #SugarBabyTwitter #enfermeras #anawsaunulılımna #LalslaD
  
 ## User Top tweeted words 
  
-**ANTRABAJACONELPUEBLO** 140 , **DE** 54 , **DEL** 50 , **LA** 40 , **@MIPPCIVZLA** 38 , **🇻🇪📢** 33 , **ETIQUETA** 31 , **CON** 30 , **@NICOLASMADURO** 29 , **Y** 28 , **DÍA!** 20 , **EL** 19 , **⏩** 18 , **¡𝐓𝐨𝐦𝐚** 17 , **🌟** 17 , **¡LA** 16 , **@AMABDEL511:** 16 , **30ENE|🗣️** 16 , **𝐍𝐨𝐭𝐚!** 16 , **30ENE🇻🇪📢** 15 , 
+**@ROBINHOODAPP** 35 , **WALLSTREETBETS** 34 , **ROBINHOOD** 30 , **@STOOLPRESIDENTE:** 23 , **$GME** 22 , **$AMC** 18 , **@STOOLPRESIDENTE** 16 , **WSB** 15 , **DOWN** 13 , **@REDDITINVESTORS:** 13 , **TRADING** 13 , **PEOPLE** 11 , **MARKET** 11 , **SUITS** 11 , **HEDGE** 10 , **FREE** 9 , **WALL** 9 , **STREET** 9 , **!!** 9 , **SELL** 9 , 
  
 ## What this user tweeted
  
-RT @betweenvalee: RT PLEASE
-#SugarBabyTwitter #enfermeras #anawsaunulılımna #LalslaDeLasTentaciones3 #SuggarMommy #daddyboy #SupermanAndLoi…RT @broketvalee: RT PLEASE
-#SugarBabyTwitter #enfermeras #anawsaunulılımna #LalslaDeLasTentaciones3 #SuggarMommy #daddyboy #SupermanAndLois…
+RT @CNBC: Wall Street Bets shows all of the vulnerabilities and how the financial system is rigged, @tyler and @cameron tell @seemacnbc. Th…
  
-# jonth3donUSER INFO
-![image](http://pbs.twimg.com/profile_images/1354985336984621058/T405IOIS_normal.jpg)
+# JohnTinaPlus2USER INFO
+![image](http://pbs.twimg.com/profile_images/1354893654024884224/HQkW2PQt_normal.jpg)
  
-`User ScreenName:` jonth3don 
+`User ScreenName:` JohnTinaPlus2 
  
-`User chosen Name:` Jonathan Jones 
+`User chosen Name:` Christina 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 29 02:50:15 +0000 2021 
+`User signup date?:` Thu Jan 28 19:50:11 +0000 2021 
  
-`User Description?:` Aspiring Cyber Security/IT Professional 
+`User Description?:`  
  
-`Followers?: `2 
+`Followers?: `6 
  
-`Following?:` 43 
+`Following?:` 128 
+ 
+`User URL?:` None 
+ 
+`Location:` Sacramento, CA 
+ 
+`Number of tweets extracted`  : 66 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354893654024884224/HQkW2PQt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 66 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$AMC** 11 , **@ROBINHOODAPP** 10 , **@ELONMUSK** 9 , **BUY** 8 , **HOLD** 6 , **ROBINHOOD** 6 , **MARKET** 6 , **REDDITTRADERS** 5 , **HEDGE** 5 , **TRADERS** 5 , **SELL** 4 , **$GME** 4 , **GME** 4 , **SHORT** 4 , **PEOPLE** 4 , **MANIPULATION** 4 , **PUMP** 3 , **SOME** 3 , **FUCKING** 3 , **WALLSTREETBETS** 3 , 
+ 
+## What this user tweeted
+ 
+RT @CNBC: Wall Street Bets shows all of the vulnerabilities and how the financial system is rigged, @tyler and @cameron tell @seemacnbc. Th…
+ 
+# gelly_patrickUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` gelly_patrick 
+ 
+`User chosen Name:` Patrick Gelly 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 13:31:00 +0000 2021 
+ 
+`User Description?:` AI researcher/China's AI & Tech watcher 
+ 
+`Followers?: `3 
+ 
+`Following?:` 130 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 78 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 78 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHINA** 12 , **@GLOBALTIMESNEWS** 11 , **US** 8 , **CHINESE** 6 , **CHINA'S** 5 , **NEXT** 4 , **SOUTH** 4 , **PEOPLE** 4 , **@LETSBLAMECHINA:** 4 , **INTERESTING** 4 , **@DANCOHEN3000:** 4 , **@CGTNOFFICIAL:** 4 , **@HUXIJIN_GT** 4 , **SYRIA** 3 , **@XHNEWS:** 3 , **@GEORGEGALLOWAY:** 3 , **SOME** 3 , **DOES** 3 , **EVER** 3 , **NEW** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Huawei: Q9: The pandemic has exacerbated some already serious inequities and vulnerabilities in our society. The Great Reset is all abo…
+ 
+# BrookeJ63763959USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` BrookeJ63763959 
+ 
+`User chosen Name:` Brooke James 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 21 17:16:52 +0000 2021 
+ 
+`User Description?:` Social Work Student 
+ 
+`Followers?: `12 
+ 
+`Following?:` 28 
  
 `User URL?:` None 
  
@@ -1190,7 +1463,7 @@ RT @betweenvalee: RT PLEASE
  
 `Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1354985336984621058/T405IOIS_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
 `Number of tweets excluding replies:` 2 
  
@@ -1200,11 +1473,247 @@ RT @betweenvalee: RT PLEASE
  
 ## User Top tweeted words 
  
-**@DAVIDGOKHSHTEIN** 1 , **5** 1 , **YEAR** 1 , **SUPPLY** 1 , **ALMOND** 1 , **SNICKERS** 1 , **BARS** 1 , **EVEN** 1 , **QUESTION??I** 1 , **FULLY** 1 , **IMMERSED** 1 , **MYSELF** 1 , **INTO** 1 , **TRYHACKME** 1 , **CURRICULUM** 1 , **NEW** 1 , **CYBER** 1 , **DEFENCE** 1 , **PATH** 1 , **CURRENTLY** 1 , 
+**TRAFFICKING** 2 , **MONTH** 2 , **RT** 1 , **@CALLAHANWALSH:** 1 , **RECOGNITION** 1 , **NATIONAL** 1 , **SLAVERY** 1 , **HUMAN** 1 , **PREVENTION** 1 , **@MISSINGKIDS** 1 , **LAUNCHING** 1 , **FREE** 1 , **ONLINE** 1 , **TRAIN…JANUARY** 1 , **SEX** 1 , **VICTIM’S** 1 , **STORY** 1 , **EDUCATE** 1 , **BRING** 1 , **AWARENESS** 1 , 
  
 ## What this user tweeted
  
-I have fully immersed myself into the #tryhackme curriculum for the new Cyber Defence path. Currently learning abou… https://t.co/ehghKaNdxE
+RT @CallahanWalsh: In recognition of National Slavery and Human Trafficking Prevention Month, @MissingKids is launching a free online train…
+ 
+# RahulYa54188758USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` RahulYa54188758 
+ 
+`User chosen Name:` Rahul Yadav 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 06:06:46 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 94 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 39 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 39 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BYPASS** 7 , **BUGBOUNTY** 6 , **BUGBOUNTYTIPS** 5 , **FIND** 4 , **FFUF** 4 , **@REMONSEC** 3 , **GOT** 3 , **XSS** 3 , **BURP** 3 , **NEW** 3 , **USING** 3 , **RECON** 3 , **ENUM** 3 , **SED** 3 , **FILE** 3 , **TRY** 3 , **@PRY0CC** 3 , **THANKS** 2 , **@ADITYASHENDE17** 2 , **@ADITYASHENDE17:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @securestep9: @nullenc0de Use Google dorks to find PDF files with penetration test reports of a company. Pentest reports list discovered…
+ 
+# BorderReiverRebUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354228310604206083/P9QwHpov_normal.jpg)
+ 
+`User ScreenName:` BorderReiverReb 
+ 
+`User chosen Name:` Border Reiver 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 27 00:41:00 +0000 2021 
+ 
+`User Description?:` “Where the Spirit of the Lord is, there is Liberty.” ~ 2nd Cor 3:17 
+ 
+`Followers?: `30 
+ 
+`Following?:` 75 
+ 
+`User URL?:` None 
+ 
+`Location:` Kansas, USA 
+ 
+`Number of tweets extracted`  : 56 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354228310604206083/P9QwHpov_normal.jpg 
+ 
+`Number of tweets excluding replies:` 56 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THAT’S** 6 , **PEOPLE** 5 , **@HOLYWOODHATESUS:** 4 , **TWITTER** 3 , **;)@HOLYWOODHATESUS** 3 , **TOO** 3 , **RICH** 3 , **HIGGINS** 3 , **NEVER** 3 , **@ROYSTONPOTTER** 3 , **THESE** 2 , **“WE** 2 , **RT** 2 , **ALWAYS** 2 , **OFF** 2 , **YET?** 2 , **GREAT** 2 , **FRIEND** 2 , **FULL** 2 , **@ERINVIENE** 2 , 
+ 
+## What this user tweeted
+ 
+@HolywoodHatesUS So true. If you give people no outlet, no means for redress, or even expression of grievances, the… https://t.co/E04wMogA3l
+ 
+# StonkCrashUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354842768238063620/fLGBQzhD_normal.jpg)
+ 
+`User ScreenName:` StonkCrash 
+ 
+`User chosen Name:` StonkCrash 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 16:29:28 +0000 2021 
+ 
+`User Description?:` Join the #classaction now and show the "big boys" how we play.
+
+#wallstreetbets #Robinhood #TDAmeritrade #charlesschwab $GME $AMC $BB $BBBY $KOSS  $NOK 
+ 
+`Followers?: `43 
+ 
+`Following?:` 140 
+ 
+`User URL?:` None 
+ 
+`Location:` New York, NY 
+ 
+`Number of tweets extracted`  : 147 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354842768238063620/fLGBQzhD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 147 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ROBINHOODAPP** 48 , **TRADING** 27 , **AFFECTED** 24 , **ADVERSELY** 23 , **28TH** 20 , **ROBINHOOD** 19 , **👇** 18 , **JAN** 17 , **CLASS** 17 , **RESTRICTIONS** 15 , **ACTION** 14 , **LAWSUIT** 13 , **WE'RE** 12 , **SPREAD** 12 , **COMPLETE** 11 , **FORM** 11 , **BELOW** 10 , **EMAIL** 10 , **PLEASE** 10 , **FIGHT** 10 , 
+ 
+## What this user tweeted
+ 
+RT @CNBC: Wall Street Bets shows all of the vulnerabilities and how the financial system is rigged, @tyler and @cameron tell @seemacnbc. Th…
+ 
+# Pinhead662USER INFO
+![image](http://pbs.twimg.com/profile_images/1353461370281357312/SSECQ8D3_normal.jpg)
+ 
+`User ScreenName:` Pinhead662 
+ 
+`User chosen Name:` Pinhead66 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 24 21:49:49 +0000 2021 
+ 
+`User Description?:` Critical thinker. Independent. Things are not always what they seem to be...expect the unexpected. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 207 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1353461370281357312/SSECQ8D3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DUSTINPOIRIER** 3 , **PEOPLE** 3 , **@SPORTSNATION** 2 , **FIRST** 2 , **CITADEL** 2 , **GOT** 2 , **@MCUBAN:** 2 , **WALLSTREETBETS** 2 , **SAY** 2 , **LOVE** 2 , **GOING** 2 , **@CHAELSONNEN:** 2 , **@BRADCOMER1:** 2 , **@LIZBIANESS** 2 , **HE’S** 2 , **GREAT** 2 , **LOST** 2 , **FIGHT** 2 , **AGAINST** 2 , **ACROSS** 2 , 
+ 
+## What this user tweeted
+ 
+@ESPNAshley @espnmma @SportsNation @DustinPoirier Dustin: When did you first notice that one of CM’s vulnerabilitie… https://t.co/88GOyPMmKb
+ 
+# providetsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1353025495483506688/zcyqQ4QU_normal.jpg)
+ 
+`User ScreenName:` providets 
+ 
+`User chosen Name:` Salomé 🥀 @ hp recovery 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 23 16:59:38 +0000 2021 
+ 
+`User Description?:` the artist formerly known as ▓ ▓ ▓ » en/fr » adult space, minors DNI! maps and antis will be blocked on sight 
+ 
+`Followers?: `17 
+ 
+`Following?:` 170 
+ 
+`User URL?:` None 
+ 
+`Location:` she/her/they/them 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1353025495483506688/zcyqQ4QU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 347 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**QUE** 21 , **DE** 14 , **SOME** 11 , **É** 9 , **COM** 8 , **YES** 7 , **NÃO** 7 , **PEOPLE** 7 , **@JOAOMSBARBOSA:** 7 , **WRITING** 6 , **MUCH** 6 , **U** 6 , **DON’T** 6 , **O** 6 , **SE** 6 , **@PROVIDETS** 6 , **SHIT** 5 , **PARA** 5 , **OH** 5 , **SAME** 5 , 
+ 
+## What this user tweeted
+ 
+nice to know wh*tculture horror’s “badasses turned into wimps” video is just rampant with mysogyny and dunking on c… https://t.co/wWtpZZpuzj
+ 
+# valemaraaUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` valemaraa 
+ 
+`User chosen Name:` valehelsh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 26 21:51:30 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 194 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 194 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$AMC** 68 , **@REDDITTRADING** 38 , **@REDDITTRADING:** 26 , **HOLD** 18 , **SELL** 14 , **@ROBINHOODAPP** 14 , **SAVEAMC** 12 , **LET** 12 , **SAVEAMCRT** 11 , **@STOOLPRESIDENTE** 10 , **@CNBC** 9 , **$GME** 9 , **NEED** 8 , **$AMCRT** 8 , **PEOPLE** 8 , **@STOOLPRESIDENTE:** 8 , **BUY** 8 , **SHARES** 7 , **$AMC@REDDITTRADING** 7 , **DON’T** 7 , 
+ 
+## What this user tweeted
+ 
+RT @CNBC: Wall Street Bets shows all of the vulnerabilities and how the financial system is rigged, @tyler and @cameron tell @seemacnbc. Th…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
