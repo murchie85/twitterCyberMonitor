@@ -1097,3 +1097,119 @@ RT PLEASE
 `Is the User Verified?:` False 
  
 `User signup date?:` Fri Jan 29 22:59:22 +0000 2021 
+ 
+`User Description?:` Dios es amor 
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1189 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**28ENE** 164 , **DEL** 136 , **LA** 110 , **DIÁLOGOESPAZ** 109 , **DE** 96 , **🇻🇪** 91 , **⏩** 84 , **DÍA!** 83 , **¡ETIQUETA** 67 , **EN** 66 , **Y** 65 , **EL** 62 , **PAZ** 36 , **NACIONAL** 27 , **VENEZUELA** 26 , **POR** 26 , **AL** 20 , **SE** 20 , **CON** 20 , **@ANADELBETANCOUR:** 20 , 
+ 
+## What this user tweeted
+ 
+RT @shortycache: krow #SugarBabyTwitter #enfermeras #anawsaunulılımna #LalslaDeLasTentaciones3 #SuggarMommy #daddyboy #SupermanAndLois #100…
+ 
+# Nilda19993881USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Nilda19993881 
+ 
+`User chosen Name:` Nilda 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 15:30:39 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1900 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ANTRABAJACONELPUEBLO** 140 , **DE** 54 , **DEL** 50 , **LA** 40 , **@MIPPCIVZLA** 38 , **🇻🇪📢** 33 , **ETIQUETA** 31 , **CON** 30 , **@NICOLASMADURO** 29 , **Y** 28 , **DÍA!** 20 , **EL** 19 , **⏩** 18 , **¡𝐓𝐨𝐦𝐚** 17 , **🌟** 17 , **¡LA** 16 , **@AMABDEL511:** 16 , **30ENE|🗣️** 16 , **𝐍𝐨𝐭𝐚!** 16 , **30ENE🇻🇪📢** 15 , 
+ 
+## What this user tweeted
+ 
+RT @betweenvalee: RT PLEASE
+#SugarBabyTwitter #enfermeras #anawsaunulılımna #LalslaDeLasTentaciones3 #SuggarMommy #daddyboy #SupermanAndLoi…RT @broketvalee: RT PLEASE
+#SugarBabyTwitter #enfermeras #anawsaunulılımna #LalslaDeLasTentaciones3 #SuggarMommy #daddyboy #SupermanAndLois…
+ 
+# jonth3donUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354985336984621058/T405IOIS_normal.jpg)
+ 
+`User ScreenName:` jonth3don 
+ 
+`User chosen Name:` Jonathan Jones 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 29 02:50:15 +0000 2021 
+ 
+`User Description?:` Aspiring Cyber Security/IT Professional 
+ 
+`Followers?: `2 
+ 
+`Following?:` 43 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354985336984621058/T405IOIS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DAVIDGOKHSHTEIN** 1 , **5** 1 , **YEAR** 1 , **SUPPLY** 1 , **ALMOND** 1 , **SNICKERS** 1 , **BARS** 1 , **EVEN** 1 , **QUESTION??I** 1 , **FULLY** 1 , **IMMERSED** 1 , **MYSELF** 1 , **INTO** 1 , **TRYHACKME** 1 , **CURRICULUM** 1 , **NEW** 1 , **CYBER** 1 , **DEFENCE** 1 , **PATH** 1 , **CURRENTLY** 1 , 
+ 
+## What this user tweeted
+ 
+I have fully immersed myself into the #tryhackme curriculum for the new Cyber Defence path. Currently learning abou… https://t.co/ehghKaNdxE
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
