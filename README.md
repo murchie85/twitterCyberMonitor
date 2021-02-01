@@ -554,9 +554,42 @@ RT @SecurityTube: Container Security bootcamp: learn to use tools and techniques
  
 `Number of tweets extracted`  : 73 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:`**JAVASCRIPT** 35 , **100DAYSOFCODE** 26 , **MACHINELEARNING** 19 , **DATASCIENCE** 18 , **TOP** 17 , **PROGRAMMING** 16 , **DAY** 15 , **PAY** 14 , **ESSAYPAY** 14 , **DATA** 14 , **LEARNING** 13 , **IOT** 13 , **ANALYTICS** 13 , **CODE** 13 , **ONLINECLASS** 12 , **…RT** 12 , **5** 12 , **HERE** 12 , 
  
-`Number of tweets excluding replies:` 78 
+## What this user tweeted
+ 
+RT @rvp: I @rvp endorse this content
+
+@IoTCommunity rated me 2nd in #IoT #InternetOfThings
+
+@kcore_analytics rated me 12 in #QuantumComputi…
+ 
+# DoomWolf66USER INFO
+![image](http://pbs.twimg.com/profile_images/1353461269102276609/utFTqz5r_normal.jpg)
+ 
+`User ScreenName:` DoomWolf66 
+ 
+`User chosen Name:` Corey Shaw 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 24 21:52:07 +0000 2021 
+ 
+`User Description?:` Computer nerd / History nerd / Marvel nerd / Nerd 
+ 
+`Followers?: `6 
+ 
+`Following?:` 74 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 39 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1353461269102276609/utFTqz5r_normal.jpg 
+ 
+`Number of tweets excluding replies:` 39 
  
 
  
@@ -564,11 +597,250 @@ RT @SecurityTube: Container Security bootcamp: learn to use tools and techniques
  
 ## User Top tweeted words 
  
-**@PROJECTLINCOLN** 12 , **@MTGREENEE** 11 , **RT** 8 , **BIDEN** 7 , **@XIANRESISTANCE** 6 , **GOING** 5 , **TWITTER** 5 , **LINCOLN** 4 , **@NOTBARRON1946:** 4 , **PEOPLE** 4 , **I’M** 3 , **PROJECT** 3 , **DE** 3 , **@MTGREENEE:** 3 , **@AMERICANPATS_:** 3 , **BIG** 3 , **PRESIDENT** 3 , **DAY** 3 , **GOT** 3 , **@REAIPATRIOT:** 3 , 
+**I’M** 5 , **PEOPLE** 4 , **GOING** 4 , **SOMEONE** 2 , **NEW** 2 , **THEY’RE** 2 , **BETTER** 2 , **A…** 2 , **I’LL** 2 , **TALK** 2 , **WATCH** 2 , **EPISODE** 2 , **FEEL** 2 , **ANYTHING** 2 , **SEEMS** 2 , **NICE** 2 , **BOUGHT** 2 , **$2** 2 , **DOWN** 2 , **CAREER** 2 , 
  
 ## What this user tweeted
  
-RT @akolsuoicauqol: Don’t fuck with people in the InfoSec industry. We will expose you 👏🏼
+Question for #infosec Twitter: What YouTube channels would you recommend to someone brand new to IT with aspiration… https://t.co/8ODQs3UiG5
+ 
+# Vcodebot1USER INFO
+![image](http://pbs.twimg.com/profile_images/1352849455788113921/SEyRRZP8_normal.jpg)
+ 
+`User ScreenName:` Vcodebot1 
+ 
+`User chosen Name:` V_code_bot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 23 05:08:59 +0000 2021 
+ 
+`User Description?:` Hi, I am a bot that retweets #100daysofcode posts . Created by @varuncodes . 
+ 
+`Followers?: `22 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1352849455788113921/SEyRRZP8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 983 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**100DAYSOFCODE** 57 , **PYTHON** 47 , **AI** 36 , **JAVASCRIPT** 34 , **BIGDATA** 32 , **ANALYTICS** 30 , **DATASCIENCE** 29 , **DAY** 27 , **MACHINELEARNING** 23 , **LEARNING** 19 , **IOT** 17 , **IIOT** 13 , **…RT** 13 , **COURSES** 13 , **@BYLILYV:** 12 , **FEATURED** 12 , **LEARN** 12 , **RT** 11 , **RSTATS** 11 , **MACHINE** 11 , 
+ 
+## What this user tweeted
+ 
+RT @cloudpreacher: Infographic depicting an overview of @tableau, Power-BI and @qlik View for #BusinessIntelligence!
+
+#Bigdata #100DaysOfCo…RT @HarbRimah: A Rising Tide, High Times For Low-Code https://t.co/9CH7hQQYaY 
+
+#AI #5G #MachineLearning #DataScience #Python #100DaysOfCod…
+ 
+# John40055484USER INFO
+![image](http://pbs.twimg.com/profile_images/1355196069798416384/vARoYEGn_normal.jpg)
+ 
+`User ScreenName:` John40055484 
+ 
+`User chosen Name:` John 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 29 16:47:21 +0000 2021 
+ 
+`User Description?:` 100% Disabled Veteran 
+ 
+`Followers?: `8 
+ 
+`Following?:` 305 
+ 
+`User URL?:` None 
+ 
+`Location:` Florida, USA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355196069798416384/vARoYEGn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 235 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 13 , **GOOD** 12 , **PRESIDENT** 9 , **BIDEN** 9 , **NEW** 8 , **CAPITOL** 8 , **MARJORIE** 8 , **TAYLOR** 8 , **HOUSE** 7 , **PEOPLE** 7 , **FIRST** 6 , **CONGRESS** 6 , **GOP** 6 , **NEED** 6 , **THING** 6 , **ECONOMIC** 6 , **RELIEF** 6 , **GREENE** 6 , **MILITARY** 5 , **DEMOCRATIC** 5 , 
+ 
+## What this user tweeted
+ 
+RT @TheDemocrats: In response to the recent cybersecurity breaches of federal government data systems, the @WhiteHouse is launching the mos…
+ 
+# hackenboyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355587658576224256/QfqyNTyQ_normal.jpg)
+ 
+`User ScreenName:` hackenboy 
+ 
+`User chosen Name:` $HAI IS UNDERVALUED 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 30 18:40:23 +0000 2021 
+ 
+`User Description?:` Hacken is probably the best investment in crypto (not financial advise) a page all about $HAI. Bonus Referral code in my pinned tweet! 💎certified gem💎 DYOR 
+ 
+`Followers?: `7 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355587658576224256/QfqyNTyQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$HAI** 9 , **NEED** 5 , **REFERRAL** 5 , **!** 4 , **LET** 4 , **50/50** 4 , **MOON** 4 , **HACKEN** 3 , **CODE** 3 , **CYBERSECURITY** 2 , **@HACKENCLUB** 2 , **WELL** 2 , **SPLIT** 2 , **@BINANCEUS** 1 , **DEPOSITS** 1 , **TRADING** 1 , **WITHDRAWALS** 1 , **RESUME** 1 , **?👀** 1 , **LEADER** 1 , 
+ 
+## What this user tweeted
+ 
+@BinanceUS When will the $HAI deposits , trading and withdrawals resume ?👀 leader in blockchain Cybersecurity ! Eve… https://t.co/Ju8KYUmwp9RT @MHoffV1: @bitpanda #Hacken $HAI #Cybersecurity. Because behind all the hype and frontrunning in ICO, DeFi and NFTs, there is major work…
+ 
+# ZbkPopluUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355835707097542661/a_msI3KA_normal.jpg)
+ 
+`User ScreenName:` ZbkPoplu 
+ 
+`User chosen Name:` Poplu__zbk 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 31 01:33:59 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `66 
+ 
+`Following?:` 388 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 73 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355835707097542661/a_msI3KA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 73 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MISS_AYSHATOU** 9 , **DA** 4 , **FOLLOW** 4 , **I'M** 4 , **@REECEJAMES_24** 4 , **@INSTAGRAM** 4 , **@TWITTER** 4 , **@FACEBOOK** 4 , **NA** 3 , **KAYAN** 3 , **20** 3 , **@GOVBORNO:** 3 , **@PROFZULUM** 3 , **MAKE** 3 , **@SADIYA_FAROUQ:** 3 , **NEED** 3 , **FELLOW** 3 , **@UMMUKULLTHUMM:** 3 , **STILL** 3 , **US** 3 , 
+ 
+## What this user tweeted
+ 
+RT @dotLA: Santa Monica-based @MarchCPs announced it closed its third fund, a $450 million vehicle to double down on the firm's focus on en…
+ 
+# jonth3donUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354985336984621058/T405IOIS_normal.jpg)
+ 
+`User ScreenName:` jonth3don 
+ 
+`User chosen Name:` Jonathan Jones 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 29 02:50:15 +0000 2021 
+ 
+`User Description?:` Aspiring Cyber Security/IT Professional 
+ 
+`Followers?: `4 
+ 
+`Following?:` 46 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354985336984621058/T405IOIS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRYHACKME** 2 , **LIFE** 1 , **ADAPTATION** 1 , **PROGRESSION** 1 , **EVERYDAY** 1 , **COUNTS!** 1 , **MINDSET** 1 , **PERSPECTIVE** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **NETWORKING** 1 , **HTTPS://TCO/CNWC5AUFCL@JARRODR87** 1 , **@REALTRYHACKME** 1 , **THAT’S** 1 , **AWESOME!** 1 , **NEXT** 1 , **👊🏾NETWORK** 1 , **SERVICES** 1 , **COMPLETED** 1 , **ROOM!** 1 , 
+ 
+## What this user tweeted
+ 
+Life is about adaptation and progression. Everyday counts! #mindset #perspective #infosec #cybersecurity #networking https://t.co/CnWC5AufCL
+ 
+# dallas_writerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354531933200539650/iDQeyKEY_normal.jpg)
+ 
+`User ScreenName:` dallas_writer 
+ 
+`User chosen Name:` J. Dallas Brooks 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 27 20:48:45 +0000 2021 
+ 
+`User Description?:` Writer. USAF Veteran. Adjunct Professor. Hilarious. 
+#SciFi #Cybersecurity 
+ 
+`Followers?: `15 
+ 
+`Following?:` 77 
+ 
+`User URL?:` https://t.co/wcfXuHRxT1 
+ 
+`Location:` Colorado 
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354531933200539650/iDQeyKEY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 4 , **READ** 4 , **SOMEONE** 3 , **LITTLE** 3 , **CHECK** 3 , **SCIFI** 3 , **WRITING** 2 , **REQUIRE** 2 , **WELL** 2 , **ANY** 2 , **MAY** 2 , **TIME** 2 , **AROUND** 2 , **CARDS** 2 , **DON'T** 2 , **REALLY** 2 , **TWITTER** 2 , **TEAM** 2 , **THANKS** 2 , **PROBLEMS** 2 , 
+ 
+## What this user tweeted
+ 
+You think your #cybersecurity plan doesn't require management's buy-in? Well, try this experiment if you have kids.… https://t.co/JEQlzPILgw
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
