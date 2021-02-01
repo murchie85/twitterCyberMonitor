@@ -554,3 +554,481 @@ Unique gem 💎 $HAI #hacken 🚀
 `User chosen Name:` CyberSecurityGrit 
  
 `Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 31 15:26:27 +0000 2021 
+ 
+`User Description?:` Cyber Security Grit is about having the passion and perseverance to achieve long-term cyber security goals. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355903355009310725/ACBq_02i_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@POPCORNSECURITY:** 1 , **WE'RE** 1 , **LOOKING** 1 , **INNOVATIVE** 1 , **SOLUTIONS** 1 , **HELP** 1 , **SOUTH** 1 , **AFRICA** 1 , **BOOST** 1 , **CYBERSECURITY** 1 , **FIGHT** 1 , **ONLINE** 1 , **GENDER-BASED** 1 , **VIOL…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PopcornSecurity: We're looking for innovative solutions to help South Africa boost our cybersecurity and fight online gender-based viol…
+ 
+# WeWillWinINUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354338468814458880/wTzWx9i4_normal.jpg)
+ 
+`User ScreenName:` WeWillWinIN 
+ 
+`User chosen Name:` India Fights Back 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 27 07:57:44 +0000 2021 
+ 
+`User Description?:` Fighting against Digital Fraud. 
+ 
+`Followers?: `3 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354338468814458880/wTzWx9i4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@RAZORPAYCARE** 5 , **@RAZORPAY** 5 , **@RBI** 4 , **COMPANY** 4 , **@PRAVINKKS** 3 , **NAME** 3 , **@DIR_ED** 3 , **@CYBERDOMEKERALA** 3 , **@JANTAKI_AAWAZ** 3 , **@GODADDY** 3 , **THESE** 3 , **@AGAINSTLOANAPPS** 3 , **@BANEGAAB** 3 , **@CPCYBD** 3 , **@REPUBLIC** 3 , **@TIMESNOW** 3 , **@GODADDYHELP** 3 , **USED** 3 , **ACTION** 2 , **MULTIPLE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @SaveThemIndia: The Wait Is Over.
+Our Case In Supreme Court Is Confirmed.
+@Pravinkks @Sandeepkr_1 @naik_ashish @pratik_phulari @mkvbalu…
+ 
+# fundmeoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1352680759488864259/SC0j314U_normal.jpg)
+ 
+`User ScreenName:` fundmeo 
+ 
+`User chosen Name:` Fundmeo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 22 17:59:56 +0000 2021 
+ 
+`User Description?:` The Modern Way To Find #SmallBusiness Loans and #Financing. #Entrepreneur, #EntrepreneurLife, #StartUp, #B2B, #BusinessLoans, #FinTech, #BusinessOwner @MikeYuhn 
+ 
+`Followers?: `44 
+ 
+`Following?:` 231 
+ 
+`User URL?:` https://t.co/w0X7mfPHsf 
+ 
+`Location:` Tampa, Florida 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1352680759488864259/SC0j314U_normal.jpg 
+ 
+`Number of tweets excluding replies:` 234 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FINTECH** 33 , **LATEST** 28 , **DAILY!** 28 , **THANKS** 28 , **AI** 23 , **VIA** 21 , **TECHNOLOGY** 19 , **DATA** 19 , **FINANCIAL** 18 , **@FUNDMEO:** 16 , **NEW** 12 , **WAREHOUSE** 11 , **MACHINELEARNING** 11 , **HTTPS://TCO/LEZHEMV7Y7** 10 , **@INGLIGUORI** 10 , **BIGDATA** 10 , **@INGLIGUORI:** 9 , **ANALYTICS** 8 , **@NICOCHAN33:** 7 , **LEARNING** 6 , 
+ 
+## What this user tweeted
+ 
+RT @ingliguori: #5G Road Map to Communication Revolution
+Via @ingliguori #DigitalTransformation #Cloud #MachineLearning #BigData #Artificia…
+ 
+# stonksdonkeyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354847505859502080/2JN6Xy6z_normal.jpg)
+ 
+`User ScreenName:` stonksdonkey 
+ 
+`User chosen Name:` STONKSDONKEY 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 17:42:03 +0000 2021 
+ 
+`User Description?:` NOKIA TO THE MOON. PLEASE FOLLOW ME FOR SOME STOCK PUMP/SWING/LT HOLD! CURRENT LT HOLD: $TSLA $ARKK $ARKG $CLOV $NOK $PSTH CURRENT SWING: $NOK $SNDL $NAKD 
+ 
+`Followers?: `25 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 92 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354847505859502080/2JN6Xy6z_normal.jpg 
+ 
+`Number of tweets excluding replies:` 95 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$NOK** 44 , **NOKIA** 17 , **BUY** 13 , **@ELONMUSK** 11 , **$AMC** 10 , **NEED** 9 , **$NAKD** 8 , **SAVENOKIA** 8 , **$GME** 8 , **RETWEET** 6 , **@WSBSMOD:** 6 , **STOCK** 5 , **NOK** 5 , **SELL** 5 , **$SNDL** 5 , **JOIN** 4 , **@STONKSDONKEY** 4 , **LOVE** 4 , **PRICE** 4 , **PHONE** 4 , 
+ 
+## What this user tweeted
+ 
+5. Will receive MULTI BILLION dollar settlements from ongoing litigations with Mercedes Benz and Lenovo           … https://t.co/W2W0k6G6ib
+ 
+# AllThingsDeep1USER INFO
+![image](http://pbs.twimg.com/profile_images/1354632094039777280/2csTY0i__normal.jpg)
+ 
+`User ScreenName:` AllThingsDeep1 
+ 
+`User chosen Name:` All Things Deep 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 03:14:32 +0000 2021 
+ 
+`User Description?:` The Buzz behind All Things Deep™. Deep Learning Machine Learning #DL, #ML, #AI, #IA, #GANS #CNN, #NLP #NN, #RNN...you get the idea. Website OTW. 
+ 
+`Followers?: `26 
+ 
+`Following?:` 388 
+ 
+`User URL?:` None 
+ 
+`Location:` 3rd Rock from the Sun 
+ 
+`Number of tweets extracted`  : 175 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354632094039777280/2csTY0i__normal.jpg 
+ 
+`Number of tweets excluding replies:` 175 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LEARNING** 55 , **MACHINE** 33 , **AI** 27 , **MACHINELEARNING** 18 , **DEEP** 16 , **DEEPLEARNING** 15 , **DATASCIENCE** 15 , **NEURAL** 15 , **PYTHON** 13 , **ML** 13 , **DETECTION** 13 , **NEW** 12 , **DATA** 11 , **NETWORKS** 11 , **OBJECT** 11 , **FREE** 9 , **BIGDATA** 9 , **VIA** 8 , **@DEEP_IN_DEPTH:** 8 , **RECURRENT** 8 , 
+ 
+## What this user tweeted
+ 
+RT @CatherineAdenle: Delve in deeper: Data Science and Machine Learning : Machine Learning Overview. See
+https://t.co/q1tNGjywJn .
+
+#Machin…
+ 
+# Saksham07691105USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Saksham07691105 
+ 
+`User chosen Name:` Saksham 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 31 15:27:56 +0000 2021 
+ 
+`User Description?:` Hacker,Tester,CTF fan / Playground=Vulnhub 
+ 
+`Followers?: `0 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FRIGGIN** 1 , **CLASS** 1 , **10** 1 , **EXAMINATION** 1 , **RUINING** 1 , **HACKING** 1 , **SKILLS** 1 , **PAIN** 1 , **CYBERSECURITY** 1 , **FUCKEXAMS** 1 , 
+ 
+## What this user tweeted
+ 
+The friggin class 10 examination is ruining my hacking skills #pain #cybersecurity #fuckexams
+ 
+# A1r33sUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355856632241152002/bsFMCDr7_normal.jpg)
+ 
+`User ScreenName:` A1r33s 
+ 
+`User chosen Name:` Ravindu Kavishwara 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 31 12:26:50 +0000 2021 
+ 
+`User Description?:` Developer | CTF Player | Designer | Data analyst
+HackTheBox :~$ ./Guru 
+ 
+`Followers?: `0 
+ 
+`Following?:` 8 
+ 
+`User URL?:` https://t.co/jBThHFsAV1 
+ 
+`Location:` Sri Lanka 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355856632241152002/bsFMCDr7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PWNED** 1 , **SINK** 1 , **HACK** 1 , **BOX!** 1 , **HTTPS://TCO/YEU131DGBS** 1 , **HACKTHEBOX** 1 , **HTB** 1 , **CYBERSECURITY** 1 , 
+ 
+## What this user tweeted
+ 
+I just pwned Sink in Hack The Box! https://t.co/YeU131dGbS #hackthebox #htb #cybersecurity
+ 
+# ChumkiPyneUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` ChumkiPyne 
+ 
+`User chosen Name:` Chumki Pyne 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 27 07:49:05 +0000 2021 
+ 
+`User Description?:` NPC Kanpur 
+ 
+`Followers?: `1 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 305 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NPC_INDIA_GOV** 55 , **WEBINAR** 47 , **PRODUCTIVITY** 45 , **NPCINDIA** 41 , **JOIN** 39 , **KYP** 27 , **REGISTER** 25 , **NPCCERTIFICATE** 23 , **NPC_INDIA_GOV** 23 , **@RAJEEVG45843409:** 20 , **@SWARUPANDAS:** 19 , **RT** 18 , **@MKVERMA_NPC:** 18 , **MANAGEMENT** 17 , **ONLINELEARNING** 16 , **NPC** 15 , **@SUBHRA310:** 15 , **LEARN** 15 , **HIGHER** 15 , **SELFIMPROVEMENT** 15 , 
+ 
+## What this user tweeted
+ 
+RT @mkverma_npc: #Cybersecurity jobs are in high demand. The Bureau of Labor Statistics reports just how quickly the information security f…
+ 
+# centocodeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355900234665082883/ZRHWmUqN_normal.jpg)
+ 
+`User ScreenName:` centocode 
+ 
+`User chosen Name:` CentoCode.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 26 23:37:15 +0000 2021 
+ 
+`User Description?:` CentoCode technology blog posting site. Owner: @sunanda3599 
+ 
+`Followers?: `43 
+ 
+`Following?:` 2 
+ 
+`User URL?:` https://t.co/mkQMbIFrc9 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355900234665082883/ZRHWmUqN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1691 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 51 , **JAVASCRIPT** 36 , **PYTHON** 33 , **100DAYSOFCODE** 23 , **DATASCIENCE** 21 , **TOP** 18 , **MACHINELEARNING** 18 , **CODE** 18 , **PROGRAMMING** 17 , **DATA** 15 , **IOT** 13 , **…RT** 13 , **5** 13 , **BIGDATA** 12 , **ANALYTICS** 12 , **DAY** 12 , **HERE** 12 , **PAY** 11 , **ESSAYPAY** 11 , **ECONOMICS** 11 , 
+ 
+## What this user tweeted
+ 
+RT @DaveHatter: Thanks to @700wlw and Rachel Elliot for having me on again to bring you helpful #technology and #cybersecurity news and tip…RT @CatherineAdenle: Infographic: #DataScience vs #DataAnalytics vs #BigData. Yup, it's all about Big Data ruling the world. 
+
+#ML #Python…
+ 
+# przxv2USER INFO
+![image](http://pbs.twimg.com/profile_images/1355974995076407302/LzkifU7L_normal.jpg)
+ 
+`User ScreenName:` przxv2 
+ 
+`User chosen Name:` przx 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 29 09:56:08 +0000 2021 
+ 
+`User Description?:` #WebHacking | Telegram: @pr1sox | Miembro de: @JFFZONE | Lider: #Sin1peCrew Ops: https://t.co/lrJODFP9t9 
+ 
+`Followers?: `6 
+ 
+`Following?:` 24 
+ 
+`User URL?:` https://t.co/VA4l32QAUS 
+ 
+`Location:` /50076/ 
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355974995076407302/LzkifU7L_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 5 , **SIN1PECREW** 5 , **&LT;3** 3 , **UNA** 2 , **EN** 2 , **DOMINIO** 1 , **MILITAR** 1 , **PERÚ** 1 , **HACKEADO** 1 , **POR** 1 , **[!]** 1 , **MIRROR:** 1 , **HTTPS://TCO/SO0PV1VIRERT** 1 , **@H4CKZU5:** 1 , **VULN** 1 , **COMO** 1 , **OBTENER** 1 , **IP** 1 , **MEDIANTE** 1 , **LLAMADA** 1 , 
+ 
+## What this user tweeted
+ 
+RT @three_cube: Web App Hacking, Part 9: Cross Site Scripting (XSS) #xss #webapphacking #cybersecurity #cyberwarrior
+
+https://t.co/B4yAjbRw…
+ 
+# Raluca12499511USER INFO
+![image](http://pbs.twimg.com/profile_images/1355477514550980612/9I93ztpI_normal.jpg)
+ 
+`User ScreenName:` Raluca12499511 
+ 
+`User chosen Name:` Raluca 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 30 11:25:55 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355477514550980612/9I93ztpI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ACRONIS:** 2 , **RT** 1 , **JOIN** 1 , **US** 1 , **MAR** 1 , **4** 1 , **FREE** 1 , **VIRTUAL** 1 , **CONFERENCE** 1 , **ACRONIS'** 1 , **@MYLAOCOON** 1 , **SHARES** 1 , **NEW** 1 , **PLAYBOOK** 1 , **SMBS** 1 , **LOOKING** 1 , **PROTECT** 1 , **THEI…HTTPS://TCO/ZXP4FJI6BHRT** 1 , **📲** 1 , **WHATSAPP'S** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Acronis: Join us on Mar 4 for a free virtual conference as Acronis' @mylaocoon shares the new playbook for SMBs looking to protect thei…
+ 
+# intel_brokerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355870467534581761/RQ9FHZyJ_normal.jpg)
+ 
+`User ScreenName:` intel_broker 
+ 
+`User chosen Name:` The Intel Broker 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 31 06:55:55 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355870467534581761/RQ9FHZyJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 6 , **POLICE** 6 , **@MEDIAZZZONA:** 4 , **@WORLDONALERT:** 4 , **PROTESTS** 4 , **@DISCLOSETV:** 3 , **RUSSIA** 3 , **AGAINST** 3 , **ВИДЕО** 2 , **НА** 2 , **ЭЛЕКТРОШОКЕРОМ** 2 , **INTERESTED** 2 , **MILITARY** 2 , **AFTER** 2 , **BILLBOARD** 2 , **DOWN** 2 , **УЛИЦЕ** 2 , **«МЕДИАЗОНЫ»** 2 , **INTELLIGENCE** 2 , **AUTHORITIES** 2 , 
+ 
+## What this user tweeted
+ 
+RT @threatshub: ThreatsHub Cybersecurity News | A network of Twitter bots has attacked the Belgian government's Huawei 5G ban - https://t.c…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
