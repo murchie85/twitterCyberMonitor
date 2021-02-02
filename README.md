@@ -1082,3 +1082,470 @@ RT @HzamiAbderraouf: A new study in Nature Scientific Reports shows how the wi
 `User URL?:` None 
  
 `Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**XSS** 4 , **@WCBOWLING:** 4 , **BUG** 3 , **SCRIPT** 3 , **CHALLENGE** 3 , **HACKERONE** 3 , **BOUNTY** 3 , **FIRST** 3 , **PROTOTYPE** 2 , **WRITEUP** 2 , **INJECTION** 2 , **WROTE** 2 , **EXPLOIT** 2 , **HERE** 2 , **$20000** 2 , **FUN** 2 , **WRITE-UP** 2 , **GITHUB** 2 , **VIA** 2 , **BURP** 2 , 
+ 
+## What this user tweeted
+ 
+RT @vickieli7: Learn about XXE Vulnerabilities in my new AppSec Simplified series! https://t.co/1dNeEzanGl
+ 
+# NinnaSkyDCUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354630347758080002/AhMSXE2v_normal.jpg)
+ 
+`User ScreenName:` NinnaSkyDC 
+ 
+`User chosen Name:` Ninna Sky 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 03:15:11 +0000 2021 
+ 
+`User Description?:` Model/muse. Join my journey it will be fun I promise!! P327508 Check my website : https://t.co/LzZyAOSjtZ 
+IG: https://t.co/TZNZobbcel
+https://t.co/7NI9t89Rki 
+ 
+`Followers?: `223 
+ 
+`Following?:` 74 
+ 
+`User URL?:` https://t.co/RofNQM5ESN 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354630347758080002/AhMSXE2v_normal.jpg 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**JAN** 7 , **FEB** 4 , **DINNER** 2 , **💘** 2 , **🥰** 2 , **HT…RT** 2 , **❤️** 2 , **BEAUTY** 2 , **26-30** 2 , **30-FEB** 2 , **SCHEDULE** 2 , **6** 2 , **RT** 1 , **@THEOFASSISTANT:** 1 , **SUBSCRIBE** 1 , **NINNA** 1 , **SKY** 1 , **🔥** 1 , **HTTPS://TCO/PU69BMMXHURT** 1 , **@SOPHIASOMAVIP:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @MeetSophieRose: 💋🐯🖤Sophie Rose🖤🐯💋
+
+"Women and tigers are alike. They have the same temperament, emotions, and vulnerabilities."
+
+⛰Sccot…
+ 
+# VRotatyyUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` VRotatyy 
+ 
+`User chosen Name:` Vlad Rotatyy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 30 16:57:43 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BTCU** 2 , **RT** 1 , **@BTCU_IO:** 1 , **🚀** 1 , **DELIGHTED** 1 , **INFORM** 1 , **COMMUNITY** 1 , **PUBLIC** 1 , **LAUNCH** 1 , **TESTNET** 1 , **(TEST** 1 , **NETWORK)** 1 , **21ST** 1 , **JANUAR…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @btcu_io: 🚀 We are delighted to inform the BTCU community and the public about the launch of BTCU Testnet (Test Network), on 21st Januar…
+ 
+# CyberTitilopeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1352995413905780736/4EZt-0bb_normal.jpg)
+ 
+`User ScreenName:` CyberTitilope 
+ 
+`User chosen Name:` Cybersecurity Babe 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 23 15:02:28 +0000 2021 
+ 
+`User Description?:` 21st century babe in the cybersecurity space. Passionate and interested in raising cybersecurity awareness among teen girls. 
+ 
+`Followers?: `7 
+ 
+`Following?:` 19 
+ 
+`User URL?:` https://t.co/61GCPiOlxC 
+ 
+`Location:` Lagos, Nigeria 
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1352995413905780736/4EZt-0bb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WOMEN** 3 , **CYBERSECURITY** 3 , **SECURITY** 2 , **RT** 1 , **@CYBER:** 1 , **BEST** 1 , **WAY** 1 , **PREVENT** 1 , **RANSOMWARE** 1 , **ATTACK** 1 , **FIX** 1 , **VULNERABILITIES** 1 , **PATCH** 1 , **SYSTEM** 1 , **REGULARLY** 1 , **LEARN** 1 , **MORE:…RT** 1 , **@CYBERSECINT:** 1 , **~** 1 , **FIVE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @cyber: The best way to prevent a #ransomware attack is to fix security vulnerabilities and patch your IT system regularly.  Learn more:…
+ 
+# DetSuptBurnsideUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355206619462848515/Go1yuBkx_normal.jpg)
+ 
+`User ScreenName:` DetSuptBurnside 
+ 
+`User chosen Name:` Ben 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 29 17:02:06 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `8 
+ 
+`Following?:` 233 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355206619462848515/Go1yuBkx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 457 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 18 , **❤️RT** 13 , **@ERICGARLAND:** 8 , **FIRST** 7 , **@DEVISRIDHAR:** 7 , **VACCINE** 7 , **@JOBELLERINA:** 7 , **TIME** 6 , **BEING** 6 , **@AFNEIL:** 6 , **SOME** 6 , **MUCH** 6 , **@LOUISEMENSCH:** 5 , **NEW** 5 , **WELL** 5 , **BAD** 5 , **LIE** 5 , **YESTERDAY** 4 , **I’M** 4 , **CALLED** 4 , 
+ 
+## What this user tweeted
+ 
+RT @cyber: The best way to prevent a #ransomware attack is to fix security vulnerabilities and patch your IT system regularly.  Learn more:…
+ 
+# Glen_EmrgMgmntUSER INFO
+![image](http://pbs.twimg.com/profile_images/1355522741244452864/HdwANSmo_normal.jpg)
+ 
+`User ScreenName:` Glen_EmrgMgmnt 
+ 
+`User chosen Name:` Glen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 30 14:24:49 +0000 2021 
+ 
+`User Description?:` Monitoring for news and policy updates related to my job
+Not political........RTs =/= Endorsements 
+ 
+`Followers?: `2 
+ 
+`Following?:` 117 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 27 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355522741244452864/HdwANSmo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 27 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CARRYBEYOND** 12 , **@TB_TIMES** 12 , **PANDEMIC** 5 , **VACCINE** 3 , **AFTER** 3 , **NEW** 3 , **HERE** 3 , **FLORIDA** 3 , **STATE** 3 , **MAKE** 2 , **ONCE** 2 , **COUNTY** 2 , **PEOPLE** 2 , **REMEMBER** 2 , **THERE'S** 2 , **ITS** 2 , **WORK** 2 , **COULD** 2 , **COVID-19** 2 , **@PETERDREW** 1 , 
+ 
+## What this user tweeted
+ 
+@ohiostreetjoe @carrybeyond @TB_Times Remember, the phases follow the populations with the greatest vulnerabilities… https://t.co/B5A5abO6o8
+ 
+# CaresEastonUSER INFO
+![image](http://pbs.twimg.com/profile_images/1353743244870488064/5lP1IhAL_normal.jpg)
+ 
+`User ScreenName:` CaresEaston 
+ 
+`User chosen Name:` EastonCares 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 25 16:31:24 +0000 2021 
+ 
+`User Description?:` Referral and assistant services for libertine individuals; Discreet Matchmaker 
+eastoncares@safeoffice.com 
+ 
+`Followers?: `12 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:` Washington DC 
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1353743244870488064/5lP1IhAL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOOD** 2 , **@SUMMERSEGALXO:** 2 , **HERE** 2 , **TIME** 2 , **AGAIN** 2 , **AVAILABLE** 2 , **@WHORESOFYORE:** 2 , **A…RT** 2 , **RT** 1 , **@MEETSOPHIEROSE:** 1 , **💋🐯🖤SOPHIE** 1 , **ROSE🖤🐯💋** 1 , **"WOMEN** 1 , **TIGERS** 1 , **ALIKE** 1 , **SAME** 1 , **TEMPERAMENT** 1 , **EMOTIONS** 1 , **VULNERABILITIES"** 1 , **⛰SCCOT…VERY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @MeetSophieRose: 💋🐯🖤Sophie Rose🖤🐯💋
+
+"Women and tigers are alike. They have the same temperament, emotions, and vulnerabilities."
+
+⛰Sccot…
+ 
+# the_slogsweeperUSER INFO
+![image](http://pbs.twimg.com/profile_images/1354820645431832578/Ow-u1aOG_normal.jpg)
+ 
+`User ScreenName:` the_slogsweeper 
+ 
+`User chosen Name:` The Slog Sweeper 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 15:46:11 +0000 2021 
+ 
+`User Description?:` Cricket Chat, Stats and Bantz. 🏏💡🍻 Part time 9-5 working guy. Full-time Cricket badger and Barmy Army supporter 🎺 
+ 
+`Followers?: `36 
+ 
+`Following?:` 283 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 76 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354820645431832578/Ow-u1aOG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 76 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BEST** 8 , **CRICKET** 7 , **ENGLAND** 7 , **INDIA** 6 , **VIRAT** 6 , **BACK** 5 , **OFF** 5 , **BETTER** 5 , **DRIVE** 5 , **COVER** 5 , **@DANIEL86CRICKET** 5 , **WORLD** 4 , **FOOT** 4 , **BIG** 4 , **LOOK** 3 , **PLAYER** 3 , **SLOG** 3 , **SWEEP** 3 , **GREAT** 3 , **BEING** 3 , 
+ 
+## What this user tweeted
+ 
+@itsShubham0018 It’s a bit biased if you take into account all the voters bro 😂. Yes watched the whole video. I’ve… https://t.co/6PiyXe6HCt
+ 
+# bestghorlUSER INFO
+![image](http://pbs.twimg.com/profile_images/1353182639759396864/uGDlsmc8_normal.jpg)
+ 
+`User ScreenName:` bestghorl 
+ 
+`User chosen Name:` ellabyu 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 23 17:03:44 +0000 2021 
+ 
+`User Description?:` ella 4 life 
+ 
+`Followers?: `86 
+ 
+`Following?:` 165 
+ 
+`User URL?:` None 
+ 
+`Location:` Quezon, Calabarzon 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1353182639759396864/uGDlsmc8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 759 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NA** 94 , **ELLA** 79 , **SA** 67 , **BBS** 48 , **MGA** 40 , **NG** 36 , **KO** 32 , **PA** 32 , **TEAM** 31 , **ANG** 27 , **BBE** 22 , **YUNG** 20 , **NI** 19 , **PO** 19 , **SI** 18 , **NATIN** 17 , **TAYO** 17 , **KAYO** 17 , **FEB1** 16 , **MAY** 16 , 
+ 
+## What this user tweeted
+ 
+RT @ralphellains: i have so much admiration and respect for Ella 💛 she doesn’t let her vulnerabilities get the best of her, matatag at mata…
+ 
+# zel86813226USER INFO
+![image](http://pbs.twimg.com/profile_images/1355117495753924610/91Y2rg--_normal.jpg)
+ 
+`User ScreenName:` zel86813226 
+ 
+`User chosen Name:` I STAN ELLA/frm HAWAII & ILOCOS fan. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 28 11:47:55 +0000 2021 
+ 
+`User Description?:` I STAN ELLA ❤️ Laban hanggang dulo! SUPPORT KITA #TEAM ELLA ❤️from HAWAII and FROM ILOCOS PH.🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏 
+ 
+`Followers?: `55 
+ 
+`Following?:` 137 
+ 
+`User URL?:` None 
+ 
+`Location:` Honolulu, HI 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1355117495753924610/91Y2rg--_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1686 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ELLA** 86 , **SA** 51 , **FEB1** 50 , **NA** 46 , **ANG** 46 , **NG** 29 , **ELLART** 29 , **TEAM** 22 , **MGA** 21 , **NI** 19 , **SI** 19 , **@THEJESUSMESSAGE:** 17 , **KO** 15 , **BIG** 14 , **AKO** 13 , **GOD** 12 , **AIZYL** 12 , **YUNG** 12 , **KA** 12 , **TALAGA** 11 , 
+ 
+## What this user tweeted
+ 
+RT @ralphellains: i have so much admiration and respect for Ella 💛 she doesn’t let her vulnerabilities get the best of her, matatag at mata…
+ 
+# parthislove_11USER INFO
+![image](http://pbs.twimg.com/profile_images/1354298762513018886/43o99L3d_normal.jpg)
+ 
+`User ScreenName:` parthislove_11 
+ 
+`User chosen Name:` Parth 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 25 16:27:23 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1354298762513018886/43o99L3d_normal.jpg 
+ 
+`Number of tweets excluding replies:` 675 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PARTHSAMTHAAN** 114 , **@LAGHATEPARTH** 62 , **PEHLEPYAARKAPEHLAGHAM** 38 , **KEEP** 31 , **STREAMING** 26 , **PARTH** 18 , **LOVE** 16 , **VIEWS** 14 , **N** 12 , **SAMTHAAN** 12 , **30M** 10 , **@TISHA34447:** 9 , **@KHUSHALIKUMAR** 9 , **@PARTHS_SQUAD_FC:** 9 , **ITS** 9 , **@_CHITRA_DHAR:** 8 , **@AARAVKIDUNIYA:** 8 , **:** 8 , **U** 8 , **GOOD** 8 , 
+ 
+## What this user tweeted
+ 
+RT @SphatikaMenon: No human at the age of 29 (or any age) should be "used to" vilification &amp; slander. The heart feels heavy picturing this…
+ 
+# PleaseBourbonUSER INFO
+![image](http://pbs.twimg.com/profile_images/1352970048743350273/jFSzOrJC_normal.jpg)
+ 
+`User ScreenName:` PleaseBourbon 
+ 
+`User chosen Name:` AnotherBourbonPlease 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 23 13:21:00 +0000 2021 
+ 
+`User Description?:` On one bourbon and eager for another 
+ 
+`Followers?: `2 
+ 
+`Following?:` 30 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1352970048743350273/jFSzOrJC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 261 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THEHILL** 68 , **PEOPLE** 21 , **@MEGHANMCCAIN** 16 , **@JTSONLINE** 14 , **@THEHILLOPINION** 13 , **THESE** 10 , **@TEDCRUZ** 10 , **THAT’S** 9 , **YEAH** 9 , **LEFT** 8 , **THAN** 8 , **DIDN’T** 8 , **@ASKULLWITHEYES** 8 , **TRUMP** 7 , **YES** 7 , **CAN’T** 7 , **@THE_MOVIEBOB** 7 , **SOMEONE** 7 , **AGAINST** 7 , **@SETHROGEN** 7 , 
+ 
+## What this user tweeted
+ 
+@thehill These aren’t just Redditors. This speaks to a wider flaw with significant vulnerabilities. Hedge Funds man… https://t.co/gNbtipgDQy
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
