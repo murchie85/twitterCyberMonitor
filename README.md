@@ -29,9 +29,9 @@ The most popular user is: **threatintel**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| "Within that larger reality, cyber threat intelligence “is one of the newest and least understood” domains, writes… https://t.co/PkiLGVZThU |
-| RT @xorlogics: Threat Intelligence: Combatting Cyber Crime with Artificial Intelligence #CLOUD #IOT #AI #ARTIFICIALINTELLIGENCE #DIGITAL, #… |
-| RT @hostinfonet: Starting a bump session! [Thursday, January 28th, 09:32:39] Use hashtags #infosec, #osint, #phishing, #threatintel, #malwa… |
+| If you have been looking for useful resources for cyber #threathunting, we’ve got you covered with these videos fro… https://t.co/wS5R5lPuyR |
+| RT @bad_packets: Mass scanning activity detected from 79.124.62.250 (🇧🇬) targeting Fortinet VPN servers vulnerable to unauthenticated arbit… |
+| RT @Totocellux: #ThreatIntel: #OSAMiner, The #Apple #Cryptojacker That Hid For Five Years - https://t.co/ZQhoJsDfvS@TopherTebow @Acronis𝞝… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -39,8 +39,8 @@ The most popular user is: **threatintel**
 | #1 Most tweeted to  | **bad_packets** |
 | #2 Most tweeted to  | **FarsightSecInc** |
 | #3 Most tweeted to  | **Totocellux** |
-| NewProfiles (less than 10 days) | 0.11%  |
-| Tweeters with < 10 followers  | 0.56%|
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 1.06%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,21 +51,21 @@ The most popular user is: **threatintel**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **THREATINTEL**  |
-| second  | **TARGETING**  |
-| third  | **ACTIVITY** |
-| fourth  | **DETECTED**  |
-| fifth  | **SCANNING**  |
+| second  | **DETECTED**  |
+| third  | **TARGETING** |
+| fourth  | **SCANNING**  |
+| fifth  | **ACTIVITY**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (25.0%) & **NEGATIVELY-SUBJECTIVE** (8.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Mass scanning activity detected from 69.162.99.38 (🇺🇸) targeting Palo Alto GlobalProtect VPN servers. #threatintel |
+|For the people who feel statistical today ^^ I just published a course notes about #R, how to install and how to st… https://t.co/x3jvFkIbYc |
 
 ### MOST RETWEETED 
 
@@ -96,11 +96,11 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 `Location:` Leeds 
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 5 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1357010715350032384/iEU3Dm_9_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -108,7 +108,7 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 ## User Top tweeted words 
  
-**@SY4SECURITY:** 2 , **RT** 1 , **“USERS** 1 , **VMWARE** 1 , **ESXI** 1 , **PRIORITIZE** 1 , **IMPLEMENTING** 1 , **PATCHES** 1 , **BOTH** 1 , **CVE-2019-5544** 1 , **CVE-2020-3992** 1 , **DISABLE** 1 , **SLP** 1 , **SUPPO…RT** 1 , **MIX** 1 , **BUSINESS** 1 , **PERSONAL** 1 , **SOCIAL** 1 , **MEDIA** 1 , **ACCOUNTS?** 1 , 
+**@SY4SECURITY:** 2 , **HTTPS://TCO/UXBC0NYWQJHTTPS://TCO/AQUBCYTIXRRT** 1 , **“USERS** 1 , **VMWARE** 1 , **ESXI** 1 , **PRIORITIZE** 1 , **IMPLEMENTING** 1 , **PATCHES** 1 , **BOTH** 1 , **CVE-2019-5544** 1 , **CVE-2020-3992** 1 , **DISABLE** 1 , **SLP** 1 , **SUPPO…RT** 1 , **MIX** 1 , **BUSINESS** 1 , **PERSONAL** 1 , **SOCIAL** 1 , **MEDIA** 1 , **ACCOUNTS?** 1 , 
  
 ## What this user tweeted
  
