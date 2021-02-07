@@ -29,9 +29,9 @@ The most popular user is: **threatintel**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Proteus_Cyber: Keep up with the latest threat intelligence by tracking common vulnerability exposureshttps://t.co/i6spvrOOwL#DataBrea… |
-| RT @FarsightSecInc: WEBINAR: Join SIE Europe co-founders for "SIE Europe: Combating Cybercrime by Sharing Internet Telemetry" on Thurs. Feb… |
-| Top malware families analyzed last week:1️⃣ #Emotet2️⃣ #AgentTesla3️⃣ #LokiBot4️⃣ #NanoCore5️⃣ #Remcos6️⃣… https://t.co/02VYbJmHLx |
+| We completed the security checklist. We're good.c&amp;c @MalwareJake #DFIR #secops #infosec #CyberSecurity… https://t.co/yGC8oxG1Rx |
+| RT @hostinfonet: 🔍WP Honeypot #1 | IP: 13.53.208.18    🗒️Abuse Report:     https://t.co/M9y75arQSL    #hacking #attempts #report #hone… |
+| RT @maldatabase: Top malware families analyzed last week:1️⃣ #Emotet2️⃣ #AgentTesla3️⃣ #LokiBot4️⃣ #NanoCore5️⃣ #Remcos6️⃣ #FormBook… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **threatintel**
 | #2 Most tweeted to  | **FarsightSecInc** |
 | #3 Most tweeted to  | **Totocellux** |
 | NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 0.85%|
+| Tweeters with < 10 followers  | 0.84%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -60,12 +60,12 @@ The most popular user is: **threatintel**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheHackersNews: Sigma Threat Detection Rules to Live Your Best SOC LifeDetails: https://t.co/rOa1pBkA0k#infosec #cybersecurity #thr… |
+|RT @cyb0rgsecur1ty: If you have been looking for useful resources for cyber #threathunting, we’ve got you covered with these videos from Cy… |
 
 ### MOST RETWEETED 
 
