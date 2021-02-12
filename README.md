@@ -991,3 +991,734 @@ RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how 
 ## What this user tweeted
  
 RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# QuratulAin0007USER INFO
+![image](http://pbs.twimg.com/profile_images/1357221601897504768/0WJ9ybi1_normal.jpg)
+ 
+`User ScreenName:` QuratulAin0007 
+ 
+`User chosen Name:` Scholar Qurat_Ul_Ain 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 06:55:08 +0000 2021 
+ 
+`User Description?:` P.hD continue
+
+M.phil Beacon House National University.
+
+Associated professor of Research Methodology at P.U
+
+Founder of #رونق_شاعری 
+ 
+`Followers?: `477 
+ 
+`Following?:` 76 
+ 
+`User URL?:` https://t.co/JiWpPc4erc 
+ 
+`Location:` Lahore , Pakistan 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357221601897504768/0WJ9ybi1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5826 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کی** 58 , **ہے** 52 , **کے** 52 , **اور** 43 , **میں** 39 , **سے** 35 , **کا** 31 , **کو** 27 , **@SADAFSHERIFF35** 26 , **ہو** 26 , **پر** 23 , **@QURATULAIN0007:** 22 , **بھی** 22 , **آپ** 20 , **@SADAFSHERIFF35:** 19 , **یہ** 18 , **اس** 17 , **کہ** 16 , **اللہ** 15 , **نہ** 14 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# ch_1528USER INFO
+![image](http://pbs.twimg.com/profile_images/1359786832007991297/OFul6L-N_normal.jpg)
+ 
+`User ScreenName:` ch_1528 
+ 
+`User chosen Name:` ،Ch UمEر 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 17:21:28 +0000 2021 
+ 
+`User Description?:` ( JAaN BaAz ) President TeaM SaReAam Haripur kpk!
+#VvP Pk )
+میرے  معیار  کا تقاضا  ہے                                          
+
+میرا دشمن  بھی خاندانی  ھو
+
+ 🔥 
+ 
+`Followers?: `602 
+ 
+`Following?:` 677 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 196 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359786832007991297/OFul6L-N_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1855 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**سے** 49 , **ہے** 40 , **کی** 40 , **کے** 39 , **@LRBHUN** 37 , **میں** 36 , **کو** 34 , **کا** 32 , **@_1RAJA** 31 , **اور** 28 , **تو** 26 , **نے** 22 , **ہیں** 22 , **اللہ** 21 , **@ENDSOON_9** 19 , **@ITSNA1222** 18 , **ہم** 18 , **پر** 18 , **فالو** 17 , **@SATTI_01** 17 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# wasimmughal_USER INFO
+![image](http://pbs.twimg.com/profile_images/1359197269854158849/3CnTQyml_normal.jpg)
+ 
+`User ScreenName:` wasimmughal_ 
+ 
+`User chosen Name:` WASEEM MUGHAL 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 03 09:58:24 +0000 2021 
+ 
+`User Description?:` My identity #Pakistan My Leader @ImranKhanPTI #Allhumdulillah First Love #Pak_Army is my Proud @peaceforchange 👉saspend @wasimtariq_ & @wasimtariq0786 
+ 
+`Followers?: `462 
+ 
+`Following?:` 501 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359197269854158849/3CnTQyml_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4375 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کے** 52 , **کی** 46 , **ہے** 46 , **میں** 43 , **سے** 42 , **کو** 34 , **کا** 31 , **اور** 28 , **نہیں** 22 , **تو** 22 , **پر** 17 , **نے** 17 , **@_1RAJA** 16 , **یہ** 16 , **بھی** 16 , **@ENDSOON_9** 15 , **کر** 15 , **ہم** 14 , **@LRBHUN** 13 , **کہ** 13 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# btmz_80USER INFO
+![image](http://pbs.twimg.com/profile_images/1357411811084099589/pYpPmf_m_normal.jpg)
+ 
+`User ScreenName:` btmz_80 
+ 
+`User chosen Name:` Cute Bacha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 14:37:22 +0000 2021 
+ 
+`User Description?:` لبیک لبیک لبیک یا رسول اللہ صلی اللہ علیہ وسلم 
+ 
+`Followers?: `144 
+ 
+`Following?:` 157 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357411811084099589/pYpPmf_m_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1542 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AMANEXERCISE2021** 51 , **کے** 33 , **ہے** 31 , **کی** 29 , **میں** 28 , **سے** 24 , **EXERCISE** 24 , **اور** 18 , **کو** 17 , **@GILLANI_ALISHBA** 17 , **کا** 17 , **@U__ME** 17 , **نہیں** 16 , **@HAJRAAWAN07** 16 , **AMAN** 16 , **@PEACEHOPEGROW** 15 , **@ECONOMIST_ALII** 15 , **@GREAT_ISI** 15 , **تو** 15 , **@SOON_ABID** 14 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# its_roshni_USER INFO
+![image](http://pbs.twimg.com/profile_images/1359908511229108226/-HfEy1KB_normal.jpg)
+ 
+`User ScreenName:` its_roshni_ 
+ 
+`User chosen Name:` 💕Roshni Sayed💕 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 08 06:30:30 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `96 
+ 
+`Following?:` 85 
+ 
+`User URL?:` None 
+ 
+`Location:` New Delhi, India 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359908511229108226/-HfEy1KB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 334 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کی** 67 , **سے** 58 , **ہے** 53 , **کے** 48 , **کو** 46 , **میں** 46 , **اور** 35 , **کا** 35 , **ہیں** 29 , **نے** 26 , **پر** 21 , **کہ** 20 , **نہیں** 20 , **وہ** 19 , **تو** 19 , **یہ** 19 , **اس** 17 , **بھی** 16 , **سب** 16 , **اللہ** 16 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# vDarknessFalls8USER INFO
+![image](http://pbs.twimg.com/profile_images/1359596656405204994/9P0-QO3S_normal.jpg)
+ 
+`User ScreenName:` vDarknessFalls8 
+ 
+`User chosen Name:` LightAlwaysRises 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 10 20:13:52 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `56 
+ 
+`Following?:` 134 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 60 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359596656405204994/9P0-QO3S_normal.jpg 
+ 
+`Number of tweets excluding replies:` 61 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SHELUVSTGA:** 7 , **@VDARKNESSFALLS8:** 6 , **DON'T** 6 , **SYMBOL** 5 , **UNITED** 5 , **STATES** 5 , **@THEHILL:** 4 , **"PROJECT** 4 , **NEED** 4 , **PROTECTION** 4 , **TRUMP** 4 , **GIVE** 4 , **@MEXEVBG369:** 4 , **POWER"** 4 , **ENERGY** 4 , **&GT;** 4 , **CARE** 3 , **AMERICAN** 3 , **MOVIE** 3 , **SYMBOLISM** 3 , 
+ 
+## What this user tweeted
+ 
+Greg Gutfeld compares Florida water supply hack to the Hawaii Missile launch &amp; "Anthony Weiner", that Fake News lab… https://t.co/JHZIg1ZiyP
+ 
+# Satti_01USER INFO
+![image](http://pbs.twimg.com/profile_images/1357612411436548097/J6sqBems_normal.jpg)
+ 
+`User ScreenName:` Satti_01 
+ 
+`User chosen Name:` ℝ𝕒𝕤𝕙𝕚𝕕 𝕊𝕒𝕥𝕥𝕚 ℙ𝕋𝕀 (𝕊) 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 06:22:37 +0000 2021 
+ 
+`User Description?:` Suspended Accounts
+@I_M_333
+@I_M_444
+@I_M_555
+@I_M_999 
+ 
+`Followers?: `970 
+ 
+`Following?:` 966 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 196 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357612411436548097/J6sqBems_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6102 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BUBL_Y** 58 , **@9S786** 48 , **@SH_KH98** 47 , **@_1RAJA** 44 , **TBZ** 44 , **@BSZRIH** 44 , **@US_NA1** 44 , **@IQ_RAR_** 44 , **@S_Z2O** 44 , **@MY7590** 44 , **@RAHEELZ** 44 , **@MLK_G1** 44 , **@K_A768** 44 , **@MLK_G2** 44 , **@MTR_HSN** 44 , **@LRBHUN** 41 , **سے** 35 , **💯🔁TEAM** 33 , **@H_FB_9** 31 , **@ENDSOON_9** 29 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# _Crazy_Boy___USER INFO
+![image](http://pbs.twimg.com/profile_images/1357629673149247488/5Mv-Vuii_normal.jpg)
+ 
+`User ScreenName:` _Crazy_Boy___ 
+ 
+`User chosen Name:` Crazy boy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 02 13:19:11 +0000 2021 
+ 
+`User Description?:` Future mein admission lu ga school mein.. aur kuch???? I am a big enemy of Qadiyanis.. 
+ 
+`Followers?: `327 
+ 
+`Following?:` 541 
+ 
+`User URL?:` None 
+ 
+`Location:` Pakistan 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357629673149247488/5Mv-Vuii_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2162 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ہے** 33 , **کی** 30 , **سے** 29 , **کے** 29 , **میں** 25 , **کو** 23 , **@_CRAZY_BOY___:** 23 , **PRIDEOFPAKISTANALISADPARA** 22 , **اور** 21 , **کا** 18 , **@TEAMPAKISTANS** 17 , **نہیں** 16 , **تو** 16 , **کہ** 15 , **کر** 15 , **MAY** 15 , **پر** 13 , **نے** 12 , **ہم** 12 , **@AHK_47:** 12 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# NooriJerryUSER INFO
+![image](http://pbs.twimg.com/profile_images/1359207131073945610/oaHbBXeY_normal.jpg)
+ 
+`User ScreenName:` NooriJerry 
+ 
+`User chosen Name:` Jerry Noori 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 05 00:15:33 +0000 2021 
+ 
+`User Description?:` We Are Best Friends. Always Remember That If You Fall I Will Pick You Up After I Finish Laughing.❤❤ 
+ 
+`Followers?: `38 
+ 
+`Following?:` 39 
+ 
+`User URL?:` None 
+ 
+`Location:` pakistan 
+ 
+`Number of tweets extracted`  : 197 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359207131073945610/oaHbBXeY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 400 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کی** 66 , **سے** 58 , **کے** 55 , **ہے** 51 , **میں** 46 , **کو** 43 , **اور** 34 , **پر** 29 , **نے** 27 , **نہیں** 25 , **کا** 25 , **کسی** 21 , **تو** 20 , **ہیں** 19 , **کر** 19 , **اس** 18 , **وہ** 18 , **نہ** 18 , **اللہ** 17 , **آپ** 17 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# CrownlitStarUSER INFO
+![image](http://pbs.twimg.com/profile_images/1359642429767360512/pQ3nz5vR_normal.jpg)
+ 
+`User ScreenName:` CrownlitStar 
+ 
+`User chosen Name:` StarlitCrown 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 03 18:17:08 +0000 2021 
+ 
+`User Description?:` 💒Blessedly engaged to💍@jbderek87.
+My Armor of God/🍇Fruits of the Spirit make a StarlitCrown! 👑
+Formerly @joyshiningstar 
+ 
+`Followers?: `103 
+ 
+`Following?:` 221 
+ 
+`User URL?:` None 
+ 
+`Location:` SoCal Patriot 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359642429767360512/pQ3nz5vR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 493 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TOOBIGFORYOU12** 9 , **TOO** 8 , **MANY** 7 , **NEW** 7 , **PEOPLE** 7 , **OLD** 6 , **GO** 6 , **NEED** 6 , **GETTING** 6 , **SOME** 6 , **SOCAL** 6 , **GOD** 6 , **LOT** 6 , **MASKS** 6 , **WHICH** 5 , **SYSTEM** 5 , **WEDDING** 5 , **ESPECIALLY** 5 , **WORLD** 5 , **ANOTHER** 5 , 
+ 
+## What this user tweeted
+ 
+Clearly the West Midlands Police Force Priorities and Vulnerabilities Team do not see the cost society pays when al… https://t.co/obOXK5AyrP
+ 
+# RakhshiNehalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1358127681053876224/OMCLQBN9_normal.jpg)
+ 
+`User ScreenName:` RakhshiNehal 
+ 
+`User chosen Name:` رخشی 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 18:14:55 +0000 2021 
+ 
+`User Description?:` ‏‏آگہی کا در کھولو آگہی ضروری ہے 
+ 
+`Followers?: `322 
+ 
+`Following?:` 284 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358127681053876224/OMCLQBN9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1797 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ہے** 69 , **کی** 67 , **کے** 59 , **سے** 55 , **کو** 48 , **میں** 47 , **اور** 36 , **نہیں** 35 , **کا** 33 , **ہیں** 30 , **کہ** 23 , **یہ** 23 , **اس** 22 , **پر** 22 , **نے** 20 , **بھی** 18 , **@DARAKHSHANR786:** 17 , **ایک** 17 , **ہو** 16 , **تو** 16 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# ft_ifbUSER INFO
+![image](http://pbs.twimg.com/profile_images/1357364817816862726/uAoygB68_normal.jpg)
+ 
+`User ScreenName:` ft_ifb 
+ 
+`User chosen Name:` 𝔃𝓪𝓶𝓪𝓷 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 15:57:09 +0000 2021 
+ 
+`User Description?:` |||||•|||•||||•••|||||||||••|||||
+|•|||| #z_b1 |||||||•|||||•||||
+|||||||•||•|||||•||||•|||||•|||•||
+𝒌𝒆𝒔𝒂 𝒅𝒊𝒂 𝒑𝒉𝒊𝒓 😎 
+ 
+`Followers?: `243 
+ 
+`Following?:` 251 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357364817816862726/uAoygB68_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1910 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کی** 51 , **ہے** 50 , **کے** 49 , **سے** 46 , **میں** 42 , **کو** 41 , **اور** 34 , **کا** 31 , **نہیں** 25 , **کر** 24 , **کہ** 22 , **ہیں** 20 , **پر** 19 , **نے** 18 , **نہ** 17 , **بھی** 16 , **کسی** 16 , **ایک** 16 , **وہ** 15 , **تو** 15 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# jwlbraceUSER INFO
+![image](http://pbs.twimg.com/profile_images/1357040759992700935/Bk3t8urZ_normal.jpg)
+ 
+`User ScreenName:` jwlbrace 
+ 
+`User chosen Name:` James Brace 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 03 15:23:13 +0000 2021 
+ 
+`User Description?:` NEW ACCOUNT Food Development, Food Industry, Business and Tech. Gravel rides, mountain bikes and snowboards. Lib Dem member 🔶 
+ 
+`Followers?: `94 
+ 
+`Following?:` 235 
+ 
+`User URL?:` None 
+ 
+`Location:` Valencia 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357040759992700935/Bk3t8urZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 261 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 10 , **THAN** 9 , **@BERNIESPOFFORTH** 9 , **REALLY** 8 , **BEING** 8 , **LOCKDOWN** 7 , **SOMEONE** 7 , **VACCINE** 6 , **STILL** 6 , **DON’T** 6 , **/** 5 , **SOME** 5 , **TIME** 5 , **HERE** 5 , **@JAMESMELVILLE:** 5 , **AREN’T** 5 , **@THATTIMWALKER** 5 , **@THENEWEUROPEAN** 5 , **@LAYLAMORAN** 5 , **OPEN** 5 , 
+ 
+## What this user tweeted
+ 
+@LPerrins I thought I understood the rationale for lockdowns last Spring: they bought time for Govs to analyse and… https://t.co/W8rUrBHdH2
+ 
+# Hirakha33USER INFO
+![image](http://pbs.twimg.com/profile_images/1358710123888320513/MHpwjBv1_normal.jpg)
+ 
+`User ScreenName:` Hirakha33 
+ 
+`User chosen Name:` 💎_HIRA KHAN_💎 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 08 09:07:17 +0000 2021 
+ 
+`User Description?:` #Muslim🕋#pakistani🇵🇰 #student📚#PAKArmy❤@ImranKhanPTI❤ I'm blessed and I thank God for every day for Everything that happens for me ❣ 
+ 
+`Followers?: `175 
+ 
+`Following?:` 138 
+ 
+`User URL?:` https://t.co/5o3oEwZxCO 
+ 
+`Location:` Mandi Bahauddin,  Pakistan  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358710123888320513/MHpwjBv1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 240 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کریں** 48 , **اور** 39 , **کو** 38 , **کا** 37 , **میں** 33 , **@SHAHKK14:** 31 , **NATIONPRAYSFORSADPARA** 31 , **@HIRAKHA33:** 24 , **PRIDEOFPAKISTANALISADPARA** 24 , **کے** 23 , **SADPARA** 23 , **فالو** 21 , **ہے** 20 , **مینشن** 18 , **ہیں** 17 , **ALI** 17 , **فالورز** 17 , **@ONCE_SAYS:** 15 , **سے** 15 , **ہو** 14 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# Christi41843050USER INFO
+![image](http://pbs.twimg.com/profile_images/1357022650472701952/bNScPOw__normal.jpg)
+ 
+`User ScreenName:` Christi41843050 
+ 
+`User chosen Name:` Christina 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 03 17:45:00 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `48 
+ 
+`Following?:` 197 
+ 
+`User URL?:` None 
+ 
+`Location:` Switzerland 
+ 
+`Number of tweets extracted`  : 194 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357022650472701952/bNScPOw__normal.jpg 
+ 
+`Number of tweets excluding replies:` 196 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MYANMAR** 32 , **MILITARY** 22 , **FIGHT** 22 , **COUP** 19 , **VOICE** 15 , **WHATISHAPPENINGINMYANMAR** 14 , **HEARTHEVOICEOFMYANMAR** 14 , **NEED** 12 , **FUTURE** 12 , **POLICE** 11 , **@YOURANONCENTRAL:** 11 , **HEAR** 11 , **HELP** 10 , **AGAINST** 10 , **RESPECTOURVOTES** 9 , **WHATSHAPPENINGINMYANMAR** 9 , **US** 9 , **SAVEMYANMAR** 9 , **AUNG** 8 , **PEOPLE** 8 , 
+ 
+## What this user tweeted
+ 
+RT @cyber: From counterfeit parts to legal risks, there are hundreds of #ICT supplier-related threats. @CISAgov’s latest report provides ov…
+ 
+# ent_apps_orgUSER INFO
+![image](http://pbs.twimg.com/profile_images/1356558070860689413/onneW0XP_normal.jpg)
+ 
+`User ScreenName:` ent_apps_org 
+ 
+`User chosen Name:` EnterpriseApplications.org - the Bot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 02 10:39:59 +0000 2021 
+ 
+`User Description?:` Beep boop... I'm a bot! 
+ 
+`Followers?: `93 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1356558070860689413/onneW0XP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13748 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**JOB** 74 , **LINK** 45 , **CLICK** 32 , **BIO** 32 , **BUSINESS** 29 , **RETAIL** 28 , **STORE** 22 , **LATEST** 21 , **JOBS** 19 , **DOLLAR** 17 , **WORK** 16 , **US** 16 , **HIRING** 15 , **SALES** 15 , **LOOKING** 14 , **OPENINGS** 13 , **INCLUDING** 13 , **VIA** 13 , **YOU'RE** 13 , **FOLLOW** 13 , 
+ 
+## What this user tweeted
+ 
+RT @michalmas: Studying #Security and #Hacking domains can be very amusing - read about #dirtycow and #stagefright vulnerabilities for mobi…
+ 
+# Lucia97790927USER INFO
+![image](http://pbs.twimg.com/profile_images/1358596861028945923/98a4y3kC_normal.jpg)
+ 
+`User ScreenName:` Lucia97790927 
+ 
+`User chosen Name:` Lucia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 08 02:01:12 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358596861028945923/98a4y3kC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@_TEALSWAN:** 5 , **OTHER** 3 , **EMOTIONAL** 2 , **SELVES** 2 , **NEVER** 2 , **FIND** 2 , **PEOPLE** 2 , **LOVE** 2 , **MOVIE** 2 , **EACH** 2 , **RT** 1 , **ADULTS** 1 , **STILL** 1 , **INNER** 1 , **CHILD** 1 , **GROW** 1 , **ALWAYS** 1 , **CHILDREN** 1 , **L…RT** 1 , **CONFUSE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @_tealswan: When people are in defense mode, put your attention on caretaking their unsafety.  Really understanding their personal life…
+ 
+# BriceEbod1USER INFO
+![image](http://pbs.twimg.com/profile_images/1359563824509169665/tnB1th0x_normal.png)
+ 
+`User ScreenName:` BriceEbod1 
+ 
+`User chosen Name:` Brice Ebodé 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 10 18:03:52 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359563824509169665/tnB1th0x_normal.png 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GIL_MAHE:** 5 , **VULNERABILITY** 5 , **COASTAL** 5 , **@HZAMIABDERRAOUF:** 4 , **و** 4 , **شمال** 3 , **في** 3 , **مصر** 3 , **تونس** 3 , **ALARMING** 3 , **NATURE** 3 , **SANDY** 3 , **BEACHES** 3 , **النمو** 2 , **العمراني** 2 , **السريع** 2 , **والسدود** 2 , **وراء** 2 , **تآكل** 2 , **شواطئ** 2 , 
+ 
+## What this user tweeted
+ 
+RT @nresearchnews: The extent of coastal vulnerabilities in the sandy beaches of North Africa is causing significant deterioration in coast…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
