@@ -602,3 +602,331 @@ RT @karenwomenorg: The vulnerabilities of children and the elderly are increased
 ## What this user tweeted
  
 RT @karenwomenorg: The vulnerabilities of children and the elderly are increased in conflict. Young people are deprived of their education.…
+ 
+# zinwai_USER INFO
+![image](http://pbs.twimg.com/profile_images/1357257222074425356/0wdpSqwU_normal.jpg)
+ 
+`User ScreenName:` zinwai_ 
+ 
+`User chosen Name:` Zin Wai 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 09:13:25 +0000 2021 
+ 
+`User Description?:` Burmese🇲🇲| Grad Student #WhatsHappeningInMyanmar #SayNoToDictatorship #RejectMilitary 
+ 
+`Followers?: `44 
+ 
+`Following?:` 134 
+ 
+`User URL?:` None 
+ 
+`Location:` Tokyo-to, Japan 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357257222074425356/0wdpSqwU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 701 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MYANMAR** 66 , **MILITARY** 55 , **COUP** 30 , **PEOPLE** 27 , **AGAINST** 23 , **POLICE** 21 , **YANGON** 19 , **@TOSTEVINM:** 17 , **PROTESTERS** 15 , **UN** 14 , **NIGHT** 12 , **JUNTA** 12 , **PROTESTING** 12 , **@KENROTH:** 11 , **RIGHTS** 10 , **PROTEST** 10 , **@MRATTKTHU:** 9 , **@POEMAMHETHAR:** 9 , **SECURITY** 9 , **US** 9 , 
+ 
+## What this user tweeted
+ 
+RT @karenwomenorg: The vulnerabilities of children and the elderly are increased in conflict. Young people are deprived of their education.…
+ 
+# NantThazinHmwe2USER INFO
+![image](http://pbs.twimg.com/profile_images/1359066868854652928/fyvAOTCG_normal.jpg)
+ 
+`User ScreenName:` NantThazinHmwe2 
+ 
+`User chosen Name:` Nant Thazin Hmwe 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 09 09:08:32 +0000 2021 
+ 
+`User Description?:` #StopMilitaryCoup
+#FreeDawAungSanSuuKyi
+#FreeOurLeader
+#RespectOurVotes
+#CivilDisobedienceMovement 
+ 
+`Followers?: `6 
+ 
+`Following?:` 91 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359066868854652928/fyvAOTCG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1126 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MILITARY** 65 , **NIGHT** 46 , **MYANMAR** 42 , **STOP** 32 , **WHATSHAPPENINGINMYANMAR** 31 , **ARRESTS** 30 , **PEOPLE** 26 , **FEB13COUP** 24 , **PRISONERS** 17 , **COUP** 15 , **JUNTA** 13 , **SAFE** 13 , **CITIZENS** 13 , **NIGHTS** 12 , **HUMAN** 12 , **FIRE** 12 , **@KEREN_KHIN:** 12 , **POLICE** 12 , **RELEASED** 11 , **CIVILIANS** 11 , 
+ 
+## What this user tweeted
+ 
+RT @karenwomenorg: The vulnerabilities of children and the elderly are increased in conflict. Young people are deprived of their education.…
+ 
+# HeinWinThu15USER INFO
+![image](http://pbs.twimg.com/profile_images/1357331274353025027/5VzRVI5q_normal.jpg)
+ 
+`User ScreenName:` HeinWinThu15 
+ 
+`User chosen Name:` HeinWinThu 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 14:12:26 +0000 2021 
+ 
+`User Description?:` Justice for Myanmar 
+ 
+`Followers?: `20 
+ 
+`Following?:` 169 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357331274353025027/5VzRVI5q_normal.jpg 
+ 
+`Number of tweets excluding replies:` 469 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MYANMAR** 46 , **MILITARY** 29 , **WHATSHAPPENINGINMYANMAR** 23 , **UN** 13 , **COUP** 13 , **POLICE** 13 , **@KEREN_KHIN:** 12 , **COUNCIL** 12 , **PEOPLE** 12 , **RESPECTOURVOTES** 11 , **CHINA** 10 , **SECURITY** 10 , **JUNTA** 9 , **PROTESTING** 9 , **PEACEFULLY** 9 , **AUNG** 9 , **LEADERS** 8 , **PROTESTERS** 8 , **MEMBERS** 8 , **FREEDAWAUNGSANSUUKYI** 7 , 
+ 
+## What this user tweeted
+ 
+RT @karenwomenorg: The vulnerabilities of children and the elderly are increased in conflict. Young people are deprived of their education.…
+ 
+# must_phyoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1357316415057846275/ldeLsjCd_normal.jpg)
+ 
+`User ScreenName:` must_phyo 
+ 
+`User chosen Name:` Htet Must Phyo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 11:38:22 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 39 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357316415057846275/ldeLsjCd_normal.jpg 
+ 
+`Number of tweets excluding replies:` 441 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MYANMAR** 61 , **MILITARY** 35 , **COUP** 21 , **@MAYWONGCNA:** 20 , **PEOPLE** 17 , **@RFABURMESE:** 17 , **POLICE** 14 , **@MAYTOEKHINE:** 14 , **@YOURANONCENTRAL:** 14 , **HUMAN** 14 , **UN** 14 , **RIGHTS** 13 , **PROTESTERS** 12 , **AGAINST** 12 , **COUNCIL** 12 , **JUNTA** 11 , **@HNINYADANAZAW:** 11 , **SESSION** 10 , **US** 9 , **SPECIAL** 9 , 
+ 
+## What this user tweeted
+ 
+RT @karenwomenorg: The vulnerabilities of children and the elderly are increased in conflict. Young people are deprived of their education.…
+ 
+# whitelaw_floraUSER INFO
+![image](http://pbs.twimg.com/profile_images/1358910263991410694/b1B3oq4N_normal.jpg)
+ 
+`User ScreenName:` whitelaw_flora 
+ 
+`User chosen Name:` Flora Whitelaw 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 08 22:46:10 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 82 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 116 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358910263991410694/b1B3oq4N_normal.jpg 
+ 
+`Number of tweets excluding replies:` 116 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 40 , **IMPEACHMENT** 12 , **DONALD** 9 , **SENATE** 9 , **PRESIDENT** 9 , **CAPITOL** 8 , **REPUBLICANS** 7 , **TRUMP'S** 7 , **TRUMP’S** 7 , **@BESCHLOSSDC:** 7 , **AFTER** 6 , **REPUBLICAN** 6 , **OATH** 6 , **HOUSE** 5 , **LAW** 5 , **DEFENSE** 5 , **TRIAL** 5 , **SENATORS** 5 , **LAWYERS** 5 , **MOB** 5 , 
+ 
+## What this user tweeted
+ 
+RT @BeschlossDC: Donald Trump and his entourage have illuminated crucial vulnerabilities in our political system that will probably be expl…
+ 
+# MyKlanceUSER INFO
+![image](http://pbs.twimg.com/profile_images/1358093064385028097/QUr3j3B__normal.jpg)
+ 
+`User ScreenName:` MyKlance 
+ 
+`User chosen Name:` Klance My Heart Away 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 06 16:38:53 +0000 2021 
+ 
+`User Description?:` I Get Knocked Down, But I Get Up Again!
+She/Her. Demi. Bi. Tired. Mom. 💖💙💜✊🏾✊🏽✊🏿✊🏻🇵🇹
+ pfp and banner: @ikimaruart 
+ 
+`Followers?: `6 
+ 
+`Following?:` 125 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358093064385028097/QUr3j3B__normal.jpg 
+ 
+`Number of tweets excluding replies:` 205 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KOGANEMCCLAIN24:** 38 , **TRUMP** 22 , **@IKIMARUART:** 14 , **@MMPADELLAN:** 13 , **REPUBLICANS** 9 , **CAPITOL** 8 , **@AMY_SISKIND:** 8 , **TRIAL** 8 , **VIOLENCE** 7 , **@MMPADELLAN** 7 , **SOMETHING** 7 , **IMPEACHMENT** 7 , **BEING** 7 , **LANCE** 7 , **US** 6 , **AGAIN** 6 , **PART** 6 , **DAY** 6 , **SENATORS** 6 , **@PROJECTLINCOLN:** 6 , 
+ 
+## What this user tweeted
+ 
+RT @BeschlossDC: Donald Trump and his entourage have illuminated crucial vulnerabilities in our political system that will probably be expl…
+ 
+# TrustEyeSecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1360181443515670535/rgqDQtfE_normal.jpg)
+ 
+`User ScreenName:` TrustEyeSec 
+ 
+`User chosen Name:` Trust Eye Security 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 12 10:51:18 +0000 2021 
+ 
+`User Description?:` We help developers building secure applications 
+ 
+`Followers?: `0 
+ 
+`Following?:` 38 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360181443515670535/rgqDQtfE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TWO** 3 , **@THEHACKERSNEWS:** 2 , **FOUND** 2 , **TELEGRAM** 2 , **RT** 1 , **NEW** 1 , **ANDROID** 1 , **SPYING** 1 , **MALWARE** 1 , **FAMILIES** 1 , **TARGETING** 1 , **MILITARY** 1 , **NUCLEAR** 1 , **ELECTION** 1 , **ENTITIES** 1 , **PAKISTA…RT** 1 , **@PTSWARM:** 1 , **🔥NEW** 1 , **ARTICLE:** 1 , **"SWARM** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ptswarm: 🔥New article: "Swarm of Palo Alto PAN-OS vulnerabilities".
+
+Two RCEs and other bugs found by our researchers Mikhail Klyuchnik…
+ 
+# BrianAndrewMbo1USER INFO
+![image](http://pbs.twimg.com/profile_images/1359612998487310341/i1kSDj3J_normal.jpg)
+ 
+`User ScreenName:` BrianAndrewMbo1 
+ 
+`User chosen Name:` Brian Andrew Mboya 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 10 21:02:41 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `10 
+ 
+`Following?:` 166 
+ 
+`User URL?:` None 
+ 
+`Location:` Nairobi, Kenya 
+ 
+`Number of tweets extracted`  : 99 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359612998487310341/i1kSDj3J_normal.jpg 
+ 
+`Number of tweets excluding replies:` 100 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NAKURUFORGM5TH** 24 , **NAKURU** 21 , **BBI** 20 , **NAKURUFORGM5THRT** 17 , **GIDEON** 17 , **MOI** 15 , **@KANUPARTY_KE** 15 , **@MOSOTIBRIAN_:** 12 , **KANU** 10 , **@MOIGIDEON** 10 , **COUNTY** 9 , **@KINOTIHFRIDAY:** 9 , **PEOPLE** 8 , **@KOTVIEWSTV:** 8 , **RESOURCES** 8 , **@KANUPARTY_KE:** 7 , **ENSURE** 7 , **CHAIRMAN** 7 , **BUILD** 6 , **@IFARMAJO:** 6 , 
+ 
+## What this user tweeted
+ 
+RT @kipro_hon: Build bridges, not walls. It's not the passion that unites, rather its the vulnerabilities that bind Us!” #NakuruForGM5th
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
