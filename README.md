@@ -517,31 +517,38 @@ The shoppers app CEO Kumar Nathan looted…RT @Sanjeev41534972: @dmmathura7512 #
  
 ## User Top tweeted words 
  
-**DRONE** 65 , **DRONES** 35 , **FPV** 18 , **DJI** 15 , **NEW** 15 , **MAY** 11 , **@DRONENEWSFEED:** 9 ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+**DRONE** 65 , **DRONES** 35 , **FPV** 18 , **DJI** 15 , **NEW** 15 , **MAY** 11 , **@DRONENEWSFEED:** 9 , **@ASYLUMDRONE:** 9 , **FLYING** 8 , **SOME** 8 , **DRONEFUTURE** 7 , **DRONEDINOSAUR** 7 , **MIGHT** 7 , **@DJIGLOBAL:** 6 , **@FAANEWS** 6 , **FIRST** 5 , **VIEW** 5 , **@FPVDRONERACING_:** 5 , **MANY** 5 , **NEXT** 5 , 
  
-`User ScreenName:` CalefybTech 
+## What this user tweeted
  
-`User chosen Name:` Calefyb 
+RT @USCERT_gov: Microsoft’s #PatchTuesday update included Phase 2 mitigation of CVE-2020-1472, enabling Domain Controller enforcement mode…
+ 
+# HlaingWaiPhyo3USER INFO
+![image](http://pbs.twimg.com/profile_images/1361051462659407874/ec6Fa8uQ_normal.jpg)
+ 
+`User ScreenName:` HlaingWaiPhyo3 
+ 
+`User chosen Name:` Hlaing Wai Phyo 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 10 13:50:03 +0000 2021 
+`User signup date?:` Sun Feb 14 20:34:10 +0000 2021 
  
-`User Description?:` One solution for all the software developer. 
+`User Description?:` female 
  
-`Followers?: `72 
+`Followers?: `4 
  
-`Following?:` 6 
+`Following?:` 225 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 142 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1359858437165785089/WmqwnzK__normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1361051462659407874/ec6Fa8uQ_normal.jpg 
  
-`Number of tweets excluding replies:` 9533 
+`Number of tweets excluding replies:` 142 
  
 
  
@@ -549,159 +556,38 @@ The shoppers app CEO Kumar Nathan looted…RT @Sanjeev41534972: @dmmathura7512 #
  
 ## User Top tweeted words 
  
-**PAY** 46 , **100DAYSOFCODE** 45 , **DAY** 43 , **HELP** 39 , **PYTHON** 33 , **ESSAYPAY** 28 , **PHYSICS** 27 , **SOMEONE** 25 , **ENGLISH** 25 , **ESSAYHELP** 24 , **JAVASCRIPT** 23 , **NEED** 15 , **ESSAYDUE** 14 , **MATHS** 13 , **ESSAY** 13 , **EXAM** 12 , **ASSIGNMENT?** 12 , **REACH** 12 , **GLAD** 12 , **HIRE** 11 , 
+**MYANMAR** 48 , **MILITARY** 32 , **@YEHTUTO39392203:** 26 , **PEOPLE** 22 , **US** 14 , **POLICE** 13 , **@JULYMOE93437297:** 12 , **WHATSHAPPENINGINMYANMAR** 11 , **@YOURANONCENTRAL:** 9 , **COUP** 9 , **@PENCILO4:** 9 , **JUNTA** 8 , **GOVERNMENT** 8 , **PLEASE** 8 , **WITHOUT** 7 , **FIRE** 7 , **AUNG** 7 , **PROTESTERS** 7 , **AGAINST** 6 , **VIOLENCE** 6 , 
  
 ## What this user tweeted
  
-RT @scanta_io: Only 14% of small businesses rate their ability to mitigate cyber risks, vulnerabilities and attacks as highly effective!
-
-#…RT @Analytics_699: AI can Influence your Decision by Combo (RNN+Deep RL) ▶️
-#Analytics #MachineLearning #AI #Python #Rstats #Reactjs #IoT #…
+RT @YourAnonCentral: #Myanmar’s Computer Federation, invited to comment on the Junta's cybersecurity bill, released a statement strongly op…
  
-# mimszxc1USER INFO
-![image](http://pbs.twimg.com/profile_images/1360763413337579525/l54N_JLF_normal.jpg)
+# LarisaSteigUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` mimszxc1 
+`User ScreenName:` LarisaSteig 
  
-`User chosen Name:` AngelaAteniGelo 
+`User chosen Name:` Larisa Steig 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Feb 11 15:31:08 +0000 2021 
+`User signup date?:` Sat Feb 13 22:07:24 +0000 2021 
  
-`User Description?:` Capt.Rivera 
- 
-`Followers?: `8 
- 
-`Following?:` 27 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 54 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1360763413337579525/l54N_JLF_normal.jpg 
- 
-`Number of tweets excluding replies:` 53 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BGYO** 10 , **@BGYO_PH** 9 , **@OFCBGYO_MEMBERS** 6 , **DATE** 6 , **BGYOVALENTINESGAMENIGHT** 6 , **NA** 6 , **🖤🌀** 6 , **NIYO** 5 , **FEB** 5 , **KAYO** 5 , **KO** 4 , **AKI** 3 , **MIKKI** 3 , **LOVE** 3 , **SA** 3 , **LANG** 2 , **@GELOSTHETIX:** 2 , **NATIN** 2 , **GELO** 2 , **HAHAHAHA** 2 , 
- 
-## What this user tweeted
- 
-RT @berettniakira: 1. aki doing homeworks before performance needs a raise
-2. them processing the whole thing making them professionals in…
- 
-# TheTechShala1USER INFO
-![image](http://pbs.twimg.com/profile_images/1358357938654437378/dHWgGzKC_normal.jpg)
- 
-`User ScreenName:` TheTechShala1 
- 
-`User chosen Name:` TheTechShala 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 07 10:11:47 +0000 2021 
- 
-`User Description?:` Get the tech dose !! 
+`User Description?:`  
  
 `Followers?: `0 
  
 `Following?:` 0 
  
-`User URL?:` https://t.co/6x55LhsDWH 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1358357938654437378/dHWgGzKC_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**!!** 3 , **APPLE** 2 , **USE** 2 , **:** 2 , **ANDROID** 2 , **WATCH** 1 , **SERIES** 1 , **7** 1 , **MAY** 1 , **BRING** 1 , **BLOOD** 1 , **GLUCOSE** 1 , **MONITOR** 1 , **APPLEWATCH** 1 , **APPLEWATCH7** 1 , **HTTPS://TCO/6JWJ7EUIGEAI** 1 , **IDENTIFY** 1 , **HUMANS'** 1 , **VULNERABILITIES** 1 , **INFLUENCE** 1 , 
- 
-## What this user tweeted
- 
-AI can now identify humans' vulnerabilities and use them to influence their decision-making.… https://t.co/MdkbHBQEzi
- 
-# katanapilot101USER INFO
-![image](http://pbs.twimg.com/profile_images/1358211745047842819/CqgbUYCI_normal.jpg)
- 
-`User ScreenName:` katanapilot101 
- 
-`User chosen Name:` katanapilot 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 07 00:22:10 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 63 
- 
-`User URL?:` None 
- 
-`Location:` England, United Kingdom 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1358211745047842819/CqgbUYCI_normal.jpg 
- 
-`Number of tweets excluding replies:` 283 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@GOVUK** 102 , **@BACKHOUSE_DEREK** 94 , **@JULIAHB1** 24 , **@LEAVEEUOFFICIAL** 21 , **THAT’S** 15 , **DON’T** 14 , **YOU’RE** 12 , **BEING** 11 , **WELL** 11 , **I’M** 10 , **@KESHDIL** 9 , **COURSE** 9 , **PEOPLE** 8 , **POINT** 8 , **EVERYONE** 7 , **ANY** 7 , **YOU’VE** 7 , **RISK** 7 , **CAN’T** 6 , **STILL** 6 , 
- 
-## What this user tweeted
- 
-@OriginalBartman @Adam60280727 @Edp91493516 @backhouse_derek @GOVUK I can see everyone else’s point. And I can see… https://t.co/hexGkOpWWO
- 
-# NangMyatPanEi1USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` NangMyatPanEi1 
- 
-`User chosen Name:` Nang Myat Pan Ei 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 10 19:22:33 +0000 2021 
- 
-`User Description?:` 🤍 
- 
-`Followers?: `5 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:` Myanmar 
- 
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 58 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 708 
+`Number of tweets excluding replies:` 58 
  
 
  
@@ -709,32 +595,177 @@ AI can now identify humans' vulnerabilities and use them to influence their deci
  
 ## User Top tweeted words 
  
-**MILITARY** 55 , **MYANMAR** 48 , **NIGHT** 27 , **PEOPLE** 24 , **WHATSHAPPENINGINMYANMAR** 24 , **JUNTA** 19 , **INTERNET** 19 , **FEB13COUP** 19 , **US** 18 , **STOP** 18 , **ARRESTS** 14 , **YANGON** 12 , **COUP** 12 , **CUT** 12 , **STARTS** 10 , **PLEASE** 10 , **POLICE** 10 , **HELP** 10 , **PRISONERS** 9 , **VIOLENCE** 9 , 
+**POWER** 43 , **AUTOMATE** 35 , **@LARISASTEIG:** 7 , **USING** 6 , **MICROSOFT** 6 , **POWERAUTOMATE** 5 , **SHAREPOINT** 5 , **AUTOMATERT** 5 , **USE** 5 , **NEW** 4 , **POST** 4 , **@BOILYIT:** 4 , **VIA** 4 , **APP** 4 , **AZURE** 4 , **KEY** 4 , **VAULT** 4 , **SECURE** 4 , **GRAPH** 4 , **API** 4 , 
  
 ## What this user tweeted
  
-RT @pradeo: Almost one-third of #mobileapps contain an #OWASP vulnerability, leading to data leakage, network attacks... Read our study ▶ h…
+RT @hasdid: #DarkReadingD #CyberSecurity #Automated | Hidden Dangers of Microsoft 365's Power Automate and eDiscovery Tools https://t.co/8X…RT @hasdid: #DarkReadingD #CyberSecurity #Automated | Hidden Dangers of Microsoft 365's Power Automate and eDiscovery Tools https://t.co/8X…
  
-# Ista42949720USER INFO
-![image](http://pbs.twimg.com/profile_images/1359896562990678020/PoEmiNnI_normal.jpg)
+# WickedCyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1359108135210860545/wx3xZyw7_normal.png)
  
-`User ScreenName:` Ista42949720 
+`User ScreenName:` WickedCyber 
  
-`User chosen Name:` Ista 💀🗝🍂 
+`User chosen Name:` WickedCyber 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Feb 11 16:02:55 +0000 2021 
+`User signup date?:` Tue Feb 09 11:52:58 +0000 2021 
  
-`User Description?:` REALiTY CHECK: At least 80 million Americans did not vote for either candidate. 🚬 
+`User Description?:` Wicked: 4 University of Warwick Cyber Security students competing in various competitions across England
+@sophielowpowell @jenny_2401_ @edwinjprice @joshspunner 
  
-`Followers?: `1 
+`Followers?: `31 
  
-`Following?:` 33 
+`Following?:` 119 
  
-`User URL?:` https://t.co/nFzmwt962F 
+`User URL?:` None 
  
-`Location:` Onion Creek, WA 
+`Location:`  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359108135210860545/wx3xZyw7_normal.png 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TEAM** 4 , **CYBER912** 3 , **@CYBER912_UK** 3 , **BRINGING** 3 , **WICKED** 2 , **@ATLANTICCOUNCIL** 2 , **CYBER** 2 , **EXPERIENCE** 2 , **TUNED** 1 , **INTO** 1 , **"BEHIND** 1 , **SCENES** 1 , **CYBERSECURITY"** 1 , **WEBINAR** 1 , **LOADS** 1 , **INTERESTING** 1 , **CAREERS** 1 , **BEYOND** 1 , **TRADITIONAL** 1 , **ROLES!!** 1 , 
+ 
+## What this user tweeted
+ 
+Tuned into "Behind the scenes of cybersecurity" webinar. Loads of interesting careers beyond traditional roles!! Re… https://t.co/mCP018SuTp
+ 
+# Blessin25571747USER INFO
+![image](http://pbs.twimg.com/profile_images/1361054161173889025/0P0SfPVp_normal.jpg)
+ 
+`User ScreenName:` Blessin25571747 
+ 
+`User chosen Name:` Blessings 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 14 20:43:28 +0000 2021 
+ 
+`User Description?:` tiktok lover ❤️ 
+ 
+`Followers?: `0 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:` Mayagüez, Puerto Rico 
+ 
+`Number of tweets extracted`  : 48 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361054161173889025/0P0SfPVp_normal.jpg 
+ 
+`Number of tweets excluding replies:` 48 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ACCOUNT** 46 , **GOT** 46 , **TRIED** 46 , **REACHING** 46 , **SUPPORT** 46 , **IGNORED** 38 , **CONTACT** 37 , **LOCKED** 24 , **HACKED** 19 , **CYBERSECURITY_RECOVERY…** 5 , **CYBERSEC…** 3 , **CYBERSECURITY_RECO…** 3 , **CYBERSECU…** 3 , **@INSTAGRAM** 3 , **CYBERSECURITY_RECOV…** 2 , **CYB…** 2 , **CYBERSECURITY…** 2 , **@NQOBILE_MAHUNGU** 2 , **INSTAGRAM** 2 , **CYBERSECURI…** 2 , 
+ 
+## What this user tweeted
+ 
+@Mommie_003 @Twitter @TwitterSupport @TwitterSafety My account also got blocked i tried reaching out to support but… https://t.co/E5tfWZxJFZ@VoxPopula1 @mrscorie @ThomB01 @RealKHiveQueenB My account also got block i tried reaching out to support but was i… https://t.co/FF2yzMqa6i@mehdibanter My account also got locked i tried reaching out to support but was ignored contact cybersecurity_recov… https://t.co/NjWLjP8kW4@GoldDutchie @MrBeastYT My account also got locked i tried reaching out to support but was ignored contact cybersec… https://t.co/iJpuonuHKL@txmxxm @Apple @AppleSupport My account also got locked i tried reaching out to support but was ignored contact cyb… https://t.co/cqccD1lJU0@imkimberlydani My account also got unhealthy i tried reaching out to support but was ignored contact cybersecurity… https://t.co/LF4F4OrFqj@Ashleigh_23_ My account also got locked i tried reaching out to support but was ignored contact cybersecurity_reco… https://t.co/vdG1RoMvlS@KevinkhoZA_ @logacrimz @nqobile_mahungu Contact him on instagram cybersecurity_recovery@franwhsh Contact him on instagram cybersecurity_recovery@Towserthemouser @binance @BinanceUS My account also got locked i tried reaching out to support but was ignored con… https://t.co/s0FoOntgjj@lokiwriting My account also got locked i tried reaching out to support but was ignored contact cybersecurity_recov… https://t.co/8awuYDCsbz@goddessraexx @QueenChandrelle My account also got locked i tried reaching out to support but was ignored contact c… https://t.co/ZnCVeVRG0F@Engmell1 @VyperFN My account also got locked i tried reaching out to support but was ignored contact cybersecurity… https://t.co/vdFhBrAXL7@araykita @bakumomos My account also got locked i tried reaching out to support but was ignored contact cybersecuri… https://t.co/uRdyucb5aS@logacrimz @KevinkhoZA_ @nqobile_mahungu My account also got locked i tried reaching out to support but was ignored… https://t.co/BrEvZw7XrK@felixscatgf @JKST8R My account also got locked i tried reaching out to support but was ignored contact cybersecuri… https://t.co/lafTHnQdyN@Wemzy_wemzy @myaccessbank My account also got locked i tried reaching out to support but was ignored contact cyber… https://t.co/RokGQWcBKj@dayor04 @AskPayPal My account also got hacked i tried reaching out to support but was ignored contact cybersecurit… https://t.co/qA4VAUriSo@katrienia @Snapchat @snapchatsupport My account also got locked i tried reaching out to support but was ignored co… https://t.co/pEXRItvaIt@HackedEra My account also got hacked i tried reaching out to support but was ignored contact cybersecurity_recover… https://t.co/0TvMgqVuWI@Flamingviper2 @PlayStation My account also got hacked i tried reaching out to support but was ignored contact cybe… https://t.co/cMD6hFfz9H@ebryzha My account also got hacked i tried reaching out to support but was ignored contact cybersecurity_recovery… https://t.co/uCf0ZZAIk1@gavin33080077 @snapchatsupport @Snapchat My account also got locked i tried reaching out to support but was ignore… https://t.co/zQLfeYxwsF@LXMBERINGBRXTE My account also got hacked i tried reaching out to support but was ignored contact cybersecurity_re… https://t.co/HwMb4hN8pr@hiram_mesa @DADDYSHIG My account also got hacked i tried reaching out to support but was ignored contact cybersecu… https://t.co/HtXpmeGEIG@marchodges @Microsoft My account also got locked i tried reaching out to support but was ignored contact cybersecu… https://t.co/Q8Aqyu64Pu@HijungsChoker My account also got locked i tried reaching out to support but was ignored contact cybersecurity_rec… https://t.co/OKda0RfzCY@DallasFNIntel @Gh0st1Knight @TaborTimeYT My account also got hacked i tried reaching out to support but was ignore… https://t.co/BzslKL1GWf@AinaEmm00528429 @WellnessUncoded My account also got hacked i tried reaching out to support but was ignored contac… https://t.co/j4NBwMNSG2@franwhsh My account also got hacked i tried reaching out to support but was ignored contact cybersecurity_recovery… https://t.co/4ixMWch3Ym@kaidi_poobus My account also got locked i tried reaching out to support but was ignored contact cybersecurity_reco… https://t.co/5Iqe1nDThL@NavyBoy2007 @awscloud My account also got locked  i tried reaching out to support but was ignored contact cybersec… https://t.co/7JaTLEbJc7@great_ced My account also got locked i tried reaching out to support but was ignored contact cybersecurity_recover… https://t.co/U6PLhWJM0D@ConnerCoasta @YuboSupport My account also got locked i tried reaching out to support but was ignored contact cyber… https://t.co/vv5PL62x02@AquaLilLee @brytay1982 My account also got hacked i tried reaching out to support but was ignored contact cybersec… https://t.co/LZK2zDR6SQ@detahjae My account also got hacked i tried reaching out to support but was ignored contact cybersecurity_recovery… https://t.co/nvKkNkRBXH@MattHowserMD My account also got hacked i tried reaching out to support but was ignored contact cybersecurity_reco… https://t.co/lZgbKKA9bI@ari1460 @Morly_pog @lofiWav My account also got hacked i tried reaching out to support but was ignored contact cyb… https://t.co/f9MLEVlXd2@nottrali My account also got hacked i tried reaching out to support but was ignored contact cybersecurity_recovery… https://t.co/dl1Jr5rOv2@NJD107_ @FDSportsbook @FanDuel_Support My account also got hacked i tried reaching out to support but was ignored… https://t.co/yKJ7bJv3FG@RjSanchari @Facebook My account also got hacked i tried reaching out to support but was ignored contact cybersecur… https://t.co/9dvsEXMOAi@DainaBessant_ @instagram My account also got hacked i tried reaching out to support but was ignored contact cybers… https://t.co/8LeBmm36ee@RjSanchari @instagram My account also got hacked i tried reaching out to support but was ignored contact cybersecu… https://t.co/8ypT9KkhCW@radi0activwoman @instagram My account also got hacked i tried reaching out to support but was ignored contact cybe… https://t.co/iIabCsFihK@lovessmallsong My account also got locked i tried reaching out to support but was ignored contact cybersecurity_re… https://t.co/9ZMdPzMjnd@hilfrry My account also got locked i tried reaching out to support but was ignored contact cybersecurity_recovery… https://t.co/tWkYpWfTkT@TweetTriumphant @Mage_like_Dan @Uber_Support My account also got locked i tried reaching out to support but was ig… https://t.co/KlMtpAdFRJ@giffinshieldsg1 @RobinhoodApp @AskRobinhood My account also got locked i tried reaching out to support but was ign… https://t.co/uYYLpO9WMb
+ 
+# Zaw13949502USER INFO
+![image](http://pbs.twimg.com/profile_images/1359327404108492805/aOefGDJo_normal.jpg)
+ 
+`User ScreenName:` Zaw13949502 
+ 
+`User chosen Name:` Zaw 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 09 04:04:02 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `81 
+ 
+`Following?:` 234 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359327404108492805/aOefGDJo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 258 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MYANMAR** 91 , **WHATSHAPPENINGINMYANMAR** 42 , **MILITARY** 39 , **JUNTA** 22 , **HAPPEN** 22 , **COUP** 22 , **VIOLENCE** 21 , **DEMOCRACY** 18 , **@YOURANONCENTRAL:** 17 , **CHINA** 17 , **HUMAN** 16 , **PLEASE** 15 , **STARTS** 15 , **PEOPLE** 13 , **RIGHTS** 13 , **@NILARAU51844515:** 13 , **AUNG** 13 , **UN** 12 , **HELP** 10 , **MIN** 10 , 
+ 
+## What this user tweeted
+ 
+RT @YourAnonCentral: #Myanmar’s Computer Federation, invited to comment on the Junta's cybersecurity bill, released a statement strongly op…
+ 
+# Ishfaq28077329USER INFO
+![image](http://pbs.twimg.com/profile_images/1358834155140775937/rnZghRuL_normal.jpg)
+ 
+`User ScreenName:` Ishfaq28077329 
+ 
+`User chosen Name:` Ishfaq 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 08 17:43:47 +0000 2021 
+ 
+`User Description?:` being human 
+ 
+`Followers?: `6 
+ 
+`Following?:` 40 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358834155140775937/rnZghRuL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 508 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SCAM** 92 , **PLEASE** 88 , **HELP** 50 , **MONEY** 46 , **BIG** 46 , **@PMOINDIA** 45 , **US** 43 , **PEOPLE** 43 , **@KIFAYAT38469950:** 43 , **VICTIM** 41 , **…RT** 40 , **SAVE** 40 , **THOUSANDS** 39 , **BECOMES** 39 , **CYBERSECURITY** 27 , **APP** 27 , **THESHOPPERSSCAM** 21 , **BIGSCAM** 19 , **@CYBERPOLICEKMR** 17 , **@TAHIR_A** 16 , 
+ 
+## What this user tweeted
+ 
+RT @NishantTiwari61: #theshoppersscam
+#bigscam #theshoppersscam #playstorescam #payu #rozarpay #cybersecurity #cybercrime TheShoppers name…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>ek, WA 
  
 `Number of tweets extracted`  : 188 
  
