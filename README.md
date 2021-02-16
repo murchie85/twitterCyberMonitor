@@ -1577,3 +1577,253 @@ Penyuka GA :))
 
  
 ## User Top tweeted words 
+ 
+**RT** 55 , **MUTUALAN** 31 , **FOLLOW** 31 , **ATAU** 28 , **GIVEAWAY** 27 , **AJA** 25 , **1** 25 , **PING!** 21 , **AKU** 18 , **FAST** 17 , **BISA** 15 , **TWEET** 14 , **SALDO** 14 , **CUKUP** 14 , **UNTUK** 13 , **DAN** 13 , **DIGANTI** 13 , **+** 13 , **@MUTUALANDFESS5:** 13 , **@NAUNABACK:** 12 , 
+ 
+## What this user tweeted
+ 
+RT @i_am_hapi_one: Unforeseen events are likely to lead to a disaster and #DeFi is no exception. There are multiple security risks, which m…
+ 
+# GaganP93859066USER INFO
+![image](http://pbs.twimg.com/profile_images/1360829014458458112/DWiEct2v_normal.jpg)
+ 
+`User ScreenName:` GaganP93859066 
+ 
+`User chosen Name:` Gagan P 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 14 05:49:29 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `20 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360829014458458112/DWiEct2v_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3182 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FARMERSPROTEST** 39 , **FARMERSPROTESTS** 34 , **FARMERS** 25 , **IAMAGAINSTMODIGOVT** 19 , **INDIABEINGSILENCED** 19 , **INDIA** 18 , **PETROL** 14 , **SUPPORT** 14 , **PROTEST** 13 , **MODIFUELSCAM** 12 , **AGAINST** 12 , **THANK** 10 , **ARRESTED** 10 , **PRICE** 9 , **PEOPLE** 9 , **HUMAN** 8 , **GOVERNMENT** 8 , **ACTIVIST** 8 , **INDIAN** 7 , **THAN** 7 , 
+ 
+## What this user tweeted
+ 
+RT @hrw: Myanmar’s military junta has put forward a draconian bill that would give it sweeping powers to access user data, block websites,…
+ 
+# kerrya_pearsonUSER INFO
+![image](http://pbs.twimg.com/profile_images/1360989506783084556/erTKBBCH_normal.jpg)
+ 
+`User ScreenName:` kerrya_pearson 
+ 
+`User chosen Name:` Kerry Pearson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 14 16:25:40 +0000 2021 
+ 
+`User Description?:` Uni of Leeds and Yorkshire Bylines 
+ 
+`Followers?: `16 
+ 
+`Following?:` 64 
+ 
+`User URL?:` https://t.co/QipS42zK6x 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360989506783084556/erTKBBCH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PUT** 2 , **RT** 1 , **@HRW:** 1 , **MYANMAR’S** 1 , **MILITARY** 1 , **JUNTA** 1 , **FORWARD** 1 , **DRACONIAN** 1 , **BILL** 1 , **GIVE** 1 , **SWEEPING** 1 , **POWERS** 1 , **ACCESS** 1 , **USER** 1 , **DATA** 1 , **BLOCK** 1 , **WEBSITES…RT** 1 , **@YORKSBYLINES:** 1 , **BIDEN’S** 1 , **COMMITMENT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hrw: Myanmar’s military junta has put forward a draconian bill that would give it sweeping powers to access user data, block websites,…
+ 
+# Pradeep68775594USER INFO
+![image](http://pbs.twimg.com/profile_images/1360476405646192644/8xjvaDKb_normal.jpg)
+ 
+`User ScreenName:` Pradeep68775594 
+ 
+`User chosen Name:` Pradeep 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 13 06:29:10 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `39 
+ 
+`Following?:` 37 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360476405646192644/8xjvaDKb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4800 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FARMERSPROTEST** 41 , **FARMERS** 30 , **FARMERSPROTESTS** 28 , **IAMAGAINSTMODIGOVT** 20 , **INDIABEINGSILENCED** 19 , **PROTEST** 17 , **MODIFUELSCAM** 12 , **INDIA** 12 , **SUPPORT** 11 , **PEOPLE** 11 , **GOVERNMENT** 10 , **PETROL** 9 , **ACTIVIST** 9 , **AGAINST** 8 , **CLIMATE** 8 , **ARRESTED** 8 , **OTHER** 7 , **RAVI** 7 , **MODI** 7 , **THAN** 7 , 
+ 
+## What this user tweeted
+ 
+RT @hrw: Myanmar’s military junta has put forward a draconian bill that would give it sweeping powers to access user data, block websites,…
+ 
+# PreetD13USER INFO
+![image](http://pbs.twimg.com/profile_images/1361177095318208512/s6EqxvOD_normal.jpg)
+ 
+`User ScreenName:` PreetD13 
+ 
+`User chosen Name:` Preet D 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 15 04:53:16 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `11 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361177095318208512/s6EqxvOD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1528 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FARMERSPROTEST** 46 , **FARMERS** 37 , **INDIABEINGSILENCED** 24 , **FARMERSPROTESTS** 19 , **PEOPLE** 15 , **IAMAGAINSTMODIGOVT** 14 , **SUPPORT** 12 , **PROTEST** 12 , **PETROL** 12 , **ACTIVIST** 11 , **ARRESTED** 11 , **AGAINST** 11 , **PRICE** 11 , **INDIA** 10 , **CLIMATE** 9 , **INDIAN** 9 , **HUMAN** 7 , **MODIFUELSCAM** 7 , **GOVERNMENT** 7 , **SINGH** 7 , 
+ 
+## What this user tweeted
+ 
+RT @hrw: Myanmar’s military junta has put forward a draconian bill that would give it sweeping powers to access user data, block websites,…
+ 
+# CoofKarenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1360527781881204737/IRae4Rgv_normal.jpg)
+ 
+`User ScreenName:` CoofKaren 
+ 
+`User chosen Name:` KarenCoof 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 13 09:53:14 +0000 2021 
+ 
+`User Description?:` Tweet your heart out 
+ 
+`Followers?: `12 
+ 
+`Following?:` 317 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360527781881204737/IRae4Rgv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 595 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STAR** 27 , **ESPECIALLY** 25 , **WARS** 24 , **AGAIN** 24 , **PICKING** 23 , **STEAM** 23 , **LUKE** 23 , **FINALE** 23 , **LOOKING** 23 , **PEOPLE** 13 , **@KIRANOPAL_** 13 , **@RODERICDAY** 12 , **FORWARD** 11 , **@AJVGRIFF1987** 11 , **@JOHNSWANYT** 9 , **@KITTYNOUVEAU** 9 , **@NEIL_DRUCKMANN** 8 , **FIRST** 7 , **FORWARD…** 7 , **@LESSTHANBENJI** 7 , 
+ 
+## What this user tweeted
+ 
+RT @ZuluMediaCell: If a private company can deny its services to conservatives, what is stopping a grocery store from banning them?
+
+Cybers…
+ 
+# waihninaye_whaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1358729028778119169/ojZGPDvO_normal.jpg)
+ 
+`User ScreenName:` waihninaye_wha 
+ 
+`User chosen Name:` Wai Hnin Aye 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 08 10:46:04 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 74 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358729028778119169/ojZGPDvO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 446 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MYANMAR** 63 , **MILITARY** 26 , **WHATSHAPPENINGINMYANMAR** 26 , **INTERNET** 23 , **REJECTMYANMARMILITARYCOUP** 23 , **POLICE** 18 , **PROTESTERS** 15 , **MANDALAY** 15 , **PEOPLE** 15 , **YANGON** 15 , **COUP** 15 , **SAFE** 14 , **NIGHT** 13 , **@FREYA_COLE** 12 , **@NETBLOCKS** 12 , **SHOOTING** 11 , **AGAINST** 11 , **SOLDIERS** 9 , **STATEMENT** 9 , **VIOLENCE** 9 , 
+ 
+## What this user tweeted
+ 
+RT @freya_cole: If you want to find out more about these continued internet shutdowns @BBCMaryam spoke to the Director of @netblocks - a Lo…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
