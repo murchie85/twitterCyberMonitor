@@ -619,4 +619,490 @@ Emily Steimel-Handy and Christina Chavez - YWCA Center for Safety and Empowermen
  
 ## User Top tweeted words 
  
-**BEING** 2 , **THROUGHOUT** 2 , **MYANMAR** 2 , **RT** 1 , **@YOURANONCENTRAL:** 1 , **"TANKS"** 1 , 
+**BEING** 2 , **THROUGHOUT** 2 , **MYANMAR** 2 , **RT** 1 , **@YOURANONCENTRAL:** 1 , **"TANKS"** 1 , **DRIVEN** 1 , **YANGON** 1 , **CREATING** 1 , **FEAR** 1 , **PSYCHOLOGICAL** 1 , **INTIMIDATION** 1 , **COUP** 1 , **GOVERNMENT…CHILDREN** 1 , **DRUGGED** 1 , **COMMIT** 1 , **ARSON** 1 , **DISTRICTSLAWS** 1 , **PROTECT** 1 , **HUMAN** 1 , 
+ 
+## What this user tweeted
+ 
+This photo speaks of how much the Myanmar Military is taking advantage of our vulnerabilities and weaknesses. Power… https://t.co/P5Mwl7j5JT
+ 
+# edna_curazaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1359446575668465665/nE9MdsSB_normal.jpg)
+ 
+`User ScreenName:` edna_curaza 
+ 
+`User chosen Name:` Edna Curaza 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 10 10:01:24 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `8 
+ 
+`Following?:` 87 
+ 
+`User URL?:` None 
+ 
+`Location:` Phillipines  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359446575668465665/nE9MdsSB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1028 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BGYO** 47 , **NA** 42 , **HAPPY** 33 , **SA** 27 , **@BINI_PH** 26 , **BINI** 25 , **ANG** 24 , **NG** 21 , **@BGYO_PH** 21 , **DAY** 18 , **@BINI_MEMBERS** 15 , **VALENTINES** 15 , **LOVE** 13 , **BGYOVALENTINESGAMENIGHT** 13 , **BLOOM** 11 , **BINIPH** 10 , **PA** 9 , **@OFCBGYO_MEMBERS** 9 , **YES** 9 , **LANG** 8 , 
+ 
+## What this user tweeted
+ 
+RT @berettniakira: here's the thing about our dear idols showing their vulnerabilities- it's keeping us closer than ever. makes us feel tha…
+ 
+# OfficialDexMexUSER INFO
+![image](http://pbs.twimg.com/profile_images/1358543157999378440/xhRstNt6_normal.jpg)
+ 
+`User ScreenName:` OfficialDexMex 
+ 
+`User chosen Name:` DexMex 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 06 13:01:59 +0000 2021 
+ 
+`User Description?:` The first decentralized exchange based on uniswap to offer peer to peer leverage trading on any erc-20 token.                     https://t.co/Igahe0GBzU 
+ 
+`Followers?: `831 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/hn39UmhITZ 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 46 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358543157999378440/xhRstNt6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 46 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PRESALE** 15 , **:** 12 , **@OFFICIALDEXMEX:** 11 , **$DEXM** 11 , **US** 8 , **FEBRUARY** 8 , **TELEGRAM** 7 , **13TH** 6 , **JOIN** 5 , **EVERYBODY** 5 , **STARTS** 5 , **!** 5 , **CHECK** 4 , **PEER** 4 , **17:00** 4 , **UTC** 4 , **TOKENS** 4 , **HTTPS://TCO/MNU7JYFUAA** 3 , **2M** 3 , **JOINS** 3 , 
+ 
+## What this user tweeted
+ 
+RT @tbcauditor: Finished auditing @OfficialDexMex's #ERC20 token last night and I didn't find any security vulnerabilities or issues in the…
+ 
+# gelolangsapatnaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1360339403067908098/YOAajaJE_normal.jpg)
+ 
+`User ScreenName:` gelolangsapatna 
+ 
+`User chosen Name:` isha buoy natoy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 09 15:41:39 +0000 2021 
+ 
+`User Description?:` 18💓 she/her👒 no thoughts, just gelo. 
+ 
+`Followers?: `96 
+ 
+`Following?:` 127 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360339403067908098/YOAajaJE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 298 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BGYO** 102 , **@BGYO_PH** 44 , **LIGHT** 41 , **ITUNES** 39 , **TOP** 37 , **NA** 34 , **SA** 29 , **NG** 25 , **@BGYO_PHRT** 20 , **KO** 17 , **AKO** 16 , **LANG** 16 , **PO** 14 , **ANG** 13 , **DIN** 13 , **NEW** 12 , **STAN** 12 , **YUNG** 11 , **GROUP** 10 , **MGA** 10 , 
+ 
+## What this user tweeted
+ 
+RT @berettniakira: here's the thing about our dear idols showing their vulnerabilities- it's keeping us closer than ever. makes us feel tha…
+ 
+# rvrgeloUSER INFO
+![image](http://pbs.twimg.com/profile_images/1361450893598597127/joTvK2Og_normal.jpg)
+ 
+`User ScreenName:` rvrgelo 
+ 
+`User chosen Name:` jan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 06 12:36:34 +0000 2021 
+ 
+`User Description?:` @ofcbgyo_gelo + @bgyo_ph 💙 
+ 
+`Followers?: `120 
+ 
+`Following?:` 144 
+ 
+`User URL?:` None 
+ 
+`Location:` she/her 
+ 
+`Number of tweets extracted`  : 153 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361450893598597127/joTvK2Og_normal.jpg 
+ 
+`Number of tweets excluding replies:` 153 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NA** 36 , **BGYO** 29 , **@BGYO_PH** 25 , **MIKKI** 16 , **KO** 14 , **19** 12 , **MIKKIGOH19HER** 12 , **LANG** 10 , **SA** 9 , **NIYO** 9 , **@OFCBGYO_MIKKI** 9 , **ANG** 8 , **@BGYO_PH:** 7 , **YUNG** 7 , **🥺** 7 , **THANK** 7 , **NEVER** 6 , **SANA** 6 , **BEST** 6 , **SUPPORT** 5 , 
+ 
+## What this user tweeted
+ 
+RT @berettniakira: 1. aki doing homeworks before performance needs a raise
+2. them processing the whole thing making them professionals in…
+ 
+# Himansh08023369USER INFO
+![image](http://pbs.twimg.com/profile_images/1358506803592634380/TWsjHERb_normal.jpg)
+ 
+`User ScreenName:` Himansh08023369 
+ 
+`User chosen Name:` भारत भाग्य विधाता 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 06 18:42:50 +0000 2021 
+ 
+`User Description?:` भारतीय। 
+ 
+`Followers?: `5 
+ 
+`Following?:` 90 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358506803592634380/TWsjHERb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 386 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 26 , **की** 21 , **है** 20 , **को** 17 , **RINKU** 15 , **में** 14 , **FAMILY** 12 , **SHARMA** 10 , **का** 9 , **@COOLFUNNYTSHIRT:** 9 , **21** 8 , **@IFAZILABALOCH:** 8 , **से** 8 , **पर** 7 , **YEAR** 7 , **तो** 7 , **CONGRESS** 7 , **AGE** 7 , **@INDIANTWEETER:** 7 , **PEOPLE** 7 , 
+ 
+## What this user tweeted
+ 
+RT @UnSubtleDesi: Instead of fixing security issues on their website, Congress threatens legal action for pointing out the vulnerabilities…
+ 
+# anGELOsius_USER INFO
+![image](http://pbs.twimg.com/profile_images/1359684664416301057/McgsYegE_normal.jpg)
+ 
+`User ScreenName:` anGELOsius_ 
+ 
+`User chosen Name:` ♪ᵗʰᵉ ˡⁱᵍʰᵗ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 07 15:18:21 +0000 2021 
+ 
+`User Description?:` •2x• 𝚂𝚝𝚛𝚎𝚊𝚖 ♫︎ 𝒯𝒽ℯ ℒ𝒾ℊ𝒽𝓉 • 𝑖𝑛𝑡𝑜 ✈︎ @ofcbgyo_Gelo 💚 Idk but I'm here 🖤 cuz @BGYO_PH 🥺 uwu followback na sizt!! 
+ 
+`Followers?: `181 
+ 
+`Following?:` 206 
+ 
+`User URL?:` https://t.co/61VurgWTbx 
+ 
+`Location:` ᵍᵉˡᵒ.ᵇᵉᵉ💚 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359684664416301057/McgsYegE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 820 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BGYO** 79 , **@BGYO_PH** 37 , **NA** 30 , **SA** 25 , **MIKKI** 21 , **LIGHT** 20 , **NG** 19 , **@BGYO_PH:** 18 , **ANG** 17 , **HAPPY** 17 , **BIRTHDAY** 17 , **@OFCBGYO_MEMBERS:** 16 , **LANG** 15 , **MIKKIGOH19HER** 13 , **KO** 11 , **PO** 11 , **@MIKKINGIY:** 11 , **GOOD** 10 , **REQUEST** 10 , **@MTV** 10 , 
+ 
+## What this user tweeted
+ 
+RT @berettniakira: 1. aki doing homeworks before performance needs a raise
+2. them processing the whole thing making them professionals in…
+ 
+# mimszxc1USER INFO
+![image](http://pbs.twimg.com/profile_images/1360763413337579525/l54N_JLF_normal.jpg)
+ 
+`User ScreenName:` mimszxc1 
+ 
+`User chosen Name:` bastaakoto 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 11 15:31:08 +0000 2021 
+ 
+`User Description?:` Nananananananananabuang kay Gelo 
+ 
+`Followers?: `11 
+ 
+`Following?:` 35 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 74 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360763413337579525/l54N_JLF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 74 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NA** 12 , **BGYO** 11 , **@BGYO_PH** 11 , **KO** 8 , **🖤🌀** 7 , **NIYO** 6 , **@OFCBGYO_MEMBERS** 6 , **DATE** 6 , **BGYOVALENTINESGAMENIGHT** 6 , **LOVE** 5 , **FEB** 5 , **KAYO** 5 , **AKO** 4 , **SA** 4 , **YUNG** 3 , **NATIN** 3 , **MO** 3 , **PO** 3 , **BHI3** 3 , **AKI** 3 , 
+ 
+## What this user tweeted
+ 
+RT @berettniakira: 1. aki doing homeworks before performance needs a raise
+2. them processing the whole thing making them professionals in…
+ 
+# TheTechShala1USER INFO
+![image](http://pbs.twimg.com/profile_images/1358357938654437378/dHWgGzKC_normal.jpg)
+ 
+`User ScreenName:` TheTechShala1 
+ 
+`User chosen Name:` TheTechShala 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 07 10:11:47 +0000 2021 
+ 
+`User Description?:` Get the tech dose !! 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/6x55LhsDWH 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358357938654437378/dHWgGzKC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**!!** 3 , **APPLE** 2 , **USE** 2 , **:** 2 , **ANDROID** 2 , **WATCH** 1 , **SERIES** 1 , **7** 1 , **MAY** 1 , **BRING** 1 , **BLOOD** 1 , **GLUCOSE** 1 , **MONITOR** 1 , **APPLEWATCH** 1 , **APPLEWATCH7** 1 , **HTTPS://TCO/6JWJ7EUIGEAI** 1 , **IDENTIFY** 1 , **HUMANS'** 1 , **VULNERABILITIES** 1 , **INFLUENCE** 1 , 
+ 
+## What this user tweeted
+ 
+AI can now identify humans' vulnerabilities and use them to influence their decision-making.… https://t.co/MdkbHBQEzi
+ 
+# katanapilot101USER INFO
+![image](http://pbs.twimg.com/profile_images/1358211745047842819/CqgbUYCI_normal.jpg)
+ 
+`User ScreenName:` katanapilot101 
+ 
+`User chosen Name:` katanapilot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 07 00:22:10 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 64 
+ 
+`User URL?:` None 
+ 
+`Location:` England, United Kingdom 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358211745047842819/CqgbUYCI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 292 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GOVUK** 102 , **@BACKHOUSE_DEREK** 94 , **@JULIAHB1** 23 , **@LEAVEEUOFFICIAL** 22 , **THAT’S** 15 , **DON’T** 14 , **BEING** 12 , **YOU’RE** 12 , **WELL** 11 , **PEOPLE** 10 , **I’M** 9 , **@KESHDIL** 9 , **GOOD** 8 , **COURSE** 8 , **POINT** 8 , **STILL** 7 , **EVERYONE** 7 , **ANY** 7 , **RISK** 7 , **MEANS** 6 , 
+ 
+## What this user tweeted
+ 
+@OriginalBartman @Adam60280727 @Edp91493516 @backhouse_derek @GOVUK I can see everyone else’s point. And I can see… https://t.co/hexGkOpWWO
+ 
+# NangMyatPanEi1USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` NangMyatPanEi1 
+ 
+`User chosen Name:` Nang Myat Pan Ei 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 10 19:22:33 +0000 2021 
+ 
+`User Description?:` 🤍 
+ 
+`Followers?: `5 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:` Myanmar 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 754 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MYANMAR** 57 , **MILITARY** 53 , **PEOPLE** 25 , **SAFE** 23 , **WHATSHAPPENINGLNMYANMAR** 21 , **FEB15COUP** 21 , **WHATSHAPPENINGINMYANMAR** 20 , **JUNTA** 19 , **US** 19 , **INTERNET** 18 , **NIGHT** 17 , **PLEASE** 15 , **COUP** 14 , **POLICE** 14 , **VIOLENCE** 13 , **HELP** 13 , **FEB13COUP** 13 , **STARTS** 12 , **YANGON** 11 , **CUT** 11 , 
+ 
+## What this user tweeted
+ 
+RT @pradeo: Almost one-third of #mobileapps contain an #OWASP vulnerability, leading to data leakage, network attacks... Read our study ▶ h…
+ 
+# Ista42949720USER INFO
+![image](http://pbs.twimg.com/profile_images/1361432543300521984/yoP2PcWm_normal.jpg)
+ 
+`User ScreenName:` Ista42949720 
+ 
+`User chosen Name:` Ista 💀🗝🍂 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 11 16:02:55 +0000 2021 
+ 
+`User Description?:` REALiTY CHECK: At least 80 million Americans did not vote for either candidate. 🚬 
+ 
+`Followers?: `1 
+ 
+`Following?:` 43 
+ 
+`User URL?:` https://t.co/nFzmwt962F 
+ 
+`Location:` Onion Creek, WA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361432543300521984/yoP2PcWm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 255 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 14 , **@NATGEO:** 10 , **@ANOPENSECRET:** 9 , **WHICH** 8 , **AROUND** 8 , **NEW** 7 , **@SKYNEWS:** 7 , **@ISTA42949720:** 6 , **EITHER** 6 , **SOME** 6 , **--** 6 , **DIDN'T** 6 , **WAY** 6 , **@JERUSALEM_POST:** 6 , **THAT'S** 6 , **SAY** 6 , **@ELIZABLEU:** 6 , **@PENNYRIMBAUD1:** 5 , **MEDIA** 5 , **LAST** 5 , 
+ 
+## What this user tweeted
+ 
+RT @haaretzcom: How China is exploiting the vulnerabilities of the free press, to seduce readers in the Middle East @ShainaOppenheim
+https:…
+ 
+# treloveosUSER INFO
+![image](http://pbs.twimg.com/profile_images/1360644861611761664/S7ROTMvI_normal.jpg)
+ 
+`User ScreenName:` treloveos 
+ 
+`User chosen Name:` Khai-Rey Treloveos 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 07 14:45:57 +0000 2021 
+ 
+`User Description?:` Human with a think tank, just like you. Nomoji. Opposed to Hell ascending. Editor-in-chief. 
+ 
+`Followers?: `36 
+ 
+`Following?:` 129 
+ 
+`User URL?:` None 
+ 
+`Location:` WI, USA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360644861611761664/S7ROTMvI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 638 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**US** 16 , **DON'T** 9 , **SHIT** 9 , **HOPE** 8 , **I'M** 7 , **PEOPLE** 7 , **TIME** 7 , **SURE** 6 , **WORKERS** 6 , **WHERE** 6 , **ANY** 5 , **@QUANTUMASHES** 5 , **CAPITOL** 5 , **PAYING** 5 , **TRUMP** 5 , **SOME** 5 , **THAT'S** 5 , **MOST** 5 , **GOP** 4 , **BEING** 4 , 
+ 
+## What this user tweeted
+ 
+A decent human once said: "You may not be interested in strategy, but strategy is interested in you".
+
+Today's "str… https://t.co/SsNqHeWJ1x
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
