@@ -437,119 +437,73 @@ RT @RadiumCS: ✨CSGO M4A4 Cybersecurity FT Giveaway!✨
  
 ## What this user tweeted
  
-RT @RadiumCS: ✨CSGO M4A4 Cybersecurity FT Giveaway!✨
-
-⭕️ Follow Me 
-⭕️ RT This Tweet
-⭕️ Tag 3 Friends
-
-⏰Ends in 7 Days!
-#CSGO #csgoskins #c…
+RT @RadiumCS: ✨CSGO M
  
-# Mmmnj15USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# Siennaruiz_USER INFO
+![image](http://pbs.twimg.com/profile_images/1358992816198746116/12DQMOLt_normal.jpg)
  
-`User ScreenName:` Mmmnj15 
+`User ScreenName:` Siennaruiz_ 
  
-`User chosen Name:` Mmmnj 
+`User chosen Name:` Sienna Ruiz 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 17 22:08:39 +0000 2021 
+`User signup date?:` Tue Feb 09 04:14:14 +0000 2021 
+ 
+`User Description?:` ULV 2021 
+ 
+`Followers?: `1 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358992816198746116/12DQMOLt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BURTON** 2 , **MASK** 2 , **RT** 1 , **@NETFLIX:** 1 , **TIM** 1 , **BRINGING** 1 , **WEDNESDAY** 1 , **ADDAMS** 1 , **NETFLIX** 1 , **LIVE-ACTION** 1 , **COMING-OF-AGE** 1 , **SERIES!** 1 , **MAKE** 1 , **TV** 1 , **DIRECT…RT** 1 , **@AOC:** 1 , **GREAT** 1 , **DAY** 1 , **CALL** 1 , **REPRESENTATIVE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @climate: The polar vortex hitting the U.S. froze natural gas pipelines, sent electricity prices skyrocketing and forced Texas’s grid op…
+ 
+# kawansiberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1361539377441083395/V_XcoShs_normal.jpg)
+ 
+`User ScreenName:` kawansiber 
+ 
+`User chosen Name:` kawansiber.id 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 16 04:15:46 +0000 2021 
  
 `User Description?:`  
  
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 34 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 34 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FREE** 4 , **CHECK** 3 , **PEOPLE** 3 , **APEX** 2 , **LEGENDS** 2 , **VEM** 2 , **:** 2 , **@EISHIRO143:** 2 , **ESSENTIAL** 2 , **KETO** 2 , **COOKBOOK** 2 , **DE** 2 , **STEP** 2 , **INSTAGRAM** 2 , **MAKING** 2 , **@FREDAPSYCHIC:** 2 , **OTHER** 2 , **$100** 2 , **OFFICIAL** 2 , **VIDEO** 2 , 
- 
-## What this user tweeted
- 
-RT @NoBeardEcho6: How the Kremlin and Russia use the media to manipulate public opinion and attack democracy. #Russia #DefendDemocracy #inf…
- 
-# infounderradarUSER INFO
-![image](http://pbs.twimg.com/profile_images/1362160409021739008/5fMGfoI4_normal.jpg)
- 
-`User ScreenName:` infounderradar 
- 
-`User chosen Name:` Info Under the Radar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 17 21:53:59 +0000 2021 
- 
-`User Description?:` Simplifying complex concepts into simple words 
- 
 `Followers?: `2 
  
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:` Munich, Bavaria 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1362160409021739008/5fMGfoI4_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@VISHWAJEETS3:** 1 , **HELLO** 1 , **FAM!** 1 , **DEAR** 1 , **FRIEND** 1 , **@INDEVOUT** 1 , **RECENTLY** 1 , **STARTED** 1 , **POD** 1 , **CALLED** 1 , **"INFO** 1 , **UNDER** 1 , **RADAR"** 1 , **TRIVIALIZE** 1 , **COMPL…** 1 , 
- 
-## What this user tweeted
- 
-RT @vishwajeets3: Hello fam! Me and my dear friend @InDevOut have recently started a pod called "Info Under the Radar"  to trivialize compl…
- 
-# Lauren_omsteadUSER INFO
-![image](http://pbs.twimg.com/profile_images/1362092721201152001/Xyj3XJab_normal.jpg)
- 
-`User ScreenName:` Lauren_omstead 
- 
-`User chosen Name:` Lauren Omstead 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 17 17:31:43 +0000 2021 
- 
-`User Description?:` Just a girl trying to make it in the tech/marketing world!  I’m also incredibly funny..... no, seriously.... laugh! #womenintech #socialmediaintern 
- 
-`Followers?: `20 
- 
-`Following?:` 116 
+`Following?:` 4 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 36 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1362092721201152001/Xyj3XJab_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1361539377441083395/V_XcoShs_normal.jpg 
  
-`Number of tweets excluding replies:` 37 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -557,41 +511,118 @@ RT @vishwajeets3: Hello fam! Me and my dear friend @InDevOut have recently start
  
 ## User Top tweeted words 
  
-**RUSH** 6 , **LIMBAUGH** 5 , **DON’T** 4 , **WAY** 3 , **SLUTS** 3 , **LIVE** 3 , **LIFE** 3 , **TIME** 3 , **DIED** 3 , **@FORBES** 3 , **@SHERIADIDTHAT:** 2 , **I’M** 2 , **CALL** 2 , **WHORES** 2 , **BEING** 2 , **WOMEN** 2 , **REPUBLICANS** 2 , **TRYING** 2 , **5** 2 , **SAYING** 2 , 
+**@THEHACKERSNEWS:** 3 , **MALICIOUS** 2 , **APP** 2 , **COULD** 2 , **ADA** 2 , **INI** 2 , **RT** 1 , **MALVERTISERS** 1 , **EXPLOITED** 1 , **ZERO-DAY** 1 , **VULNERABILITY** 1 , **WEBKIT-BASED** 1 , **BROWSERS** 1 , **INJECT** 1 , **PAYLOADS** 1 , **REDIRECTED…RT** 1 , **STICKER** 1 , **SENT** 1 , **TELEGRAM** 1 , **MESSAGING** 1 , 
  
 ## What this user tweeted
  
-RT @cybersecmeg: roses are red
-violets are blue 
-i’m a bad ass minority 
-i belong in cybersecurity, too
+RT @TheHackersNews: Researchers disclose multiple unpatched vulnerabilities affecting popular SHAREit app for #Android that could be abused…
  
-# ab19205USER INFO
-![image](http://pbs.twimg.com/profile_images/1360209948286865408/v-i-AnI4_normal.jpg)
+# KyereBright9USER INFO
+![image](http://pbs.twimg.com/profile_images/1358789659275505665/eYVTOjCu_normal.jpg)
  
-`User ScreenName:` ab19205 
+`User ScreenName:` KyereBright9 
  
-`User chosen Name:` ab1920 
+`User chosen Name:` Kyere Bright 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 12 00:14:12 +0000 2021 
+`User signup date?:` Mon Feb 08 14:46:47 +0000 2021 
  
-`User Description?:` perdi a outra conta @ab19204 
+`User Description?:` Be humble and just love 
+ 
+`Followers?: `51 
+ 
+`Following?:` 102 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358789659275505665/eYVTOjCu_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1697 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEW** 13 , **MAKE** 11 , **PEOPLE** 9 , **MUSIC** 9 , **U** 9 , **LIFT** 9 , **FOLLOW** 7 , **STILL** 7 , **SONG** 7 , **ALBUM** 7 , **GOD** 7 , **RT** 6 , **ALWAYS** 6 , **GO** 6 , **WIZKID** 6 , **!** 6 , **CAN’T** 5 , **I’M** 5 , **@UNAIDS:** 5 , **@STRONGMANBURNER:** 5 , 
+ 
+## What this user tweeted
+ 
+RT @UNAIDS: In sub-Saharan Africa, HIV continues to disproportionately impact adolescent girls.
+
+We need to deliver proven, multisectoral,…
+ 
+# DerJon3USER INFO
+![image](http://pbs.twimg.com/profile_images/1360750241264336898/cxqlPvNE_normal.jpg)
+ 
+`User ScreenName:` DerJon3 
+ 
+`User chosen Name:` DerJon 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 14 00:38:19 +0000 2021 
+ 
+`User Description?:` Unapologetically Anti-Partisan 
+ 
+`Followers?: `1 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 102 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360750241264336898/cxqlPvNE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 102 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AP** 17 , **@BLINACHKA** 15 , **@NUKZ96680262** 15 , **@FOGCITYMIDGE** 15 , **@DONALDJTRUMPJR** 15 , **@KRISALL58007675** 15 , **DON’T** 10 , **DIDN’T** 8 , **HE’S** 7 , **DEMS** 7 , **YOU’RE** 7 , **PEOPLE** 6 , **NEVER** 6 , **THAT’S** 6 , **TRUMP** 6 , **REAL** 4 , **BEING** 4 , **WHAT’S** 4 , **MEANS** 4 , **WAY** 4 , 
+ 
+## What this user tweeted
+ 
+@chrissyash88 @blinachka @NukZ96680262 @FogCityMidge @DonaldJTrumpJr I didn’t know it was for non-COVID patients. M… https://t.co/AK31XIVrSc
+ 
+# rotarycaahtUSER INFO
+![image](http://pbs.twimg.com/profile_images/1360596815071084549/mzPnigCN_normal.jpg)
+ 
+`User ScreenName:` rotarycaaht 
+ 
+`User chosen Name:` Rotary Club of CAAHT @rotarycaaht 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 13 14:26:20 +0000 2021 
+ 
+`User Description?:` Rotary Club of Community Action Against Human Trafficking (CAAHT) Fight to end human trafficking in all forms. E-Club Meetings-1st and 3rd Tuesdays, 12:00 CT 
  
 `Followers?: `5 
  
-`Following?:` 342 
+`Following?:` 28 
  
-`User URL?:` None 
+`User URL?:` https://t.co/k5YTqXIohJ 
  
 `Location:`  
  
-`Number of tweets extracted`  : 164 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1360209948286865408/v-i-AnI4_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1360596815071084549/mzPnigCN_normal.jpg 
  
-`Number of tweets excluding replies:` 166 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -599,18 +630,129 @@ i belong in cybersecurity, too
  
 ## User Top tweeted words 
  
-**✅** 22 , **+** 22 , **ENTER:** 21 , **FOLLOW** 20 , **RT** 20 , **@GABIRUCKERT** 19 , **@GABIRUCKERTRT** 19 , **2** 14 , **PARA** 14 , **FT** 12 , **TAG** 12 , **SORTEIO** 12 , **DE** 12 , **KNIFE** 12 , **🦌** 12 , **AK-47** 11 , **RETWEET** 11 , **M4A4** 10 , **CSGOGIVEAWAY** 10 , **SEGUIR** 9 , 
+**EMILY** 3 , **CHRISTINA** 3 , **CHAVEZ** 3 , **STEIMEL** 2 , **@YWCANEKS** 2 , **IMPACTFUL** 2 , **PRESENTATION** 2 , **@ROTARYCAAHT** 2 , **VICTIMS** 2 , **TRAFFICKERS** 2 , **RT** 1 , **@TRAFFICINPEOPLE:** 1 , **HUMAN** 1 , **SEXTRAFFICKING** 1 , **CASES** 1 , **TRIPLED** 1 , **DURING** 1 , **PANDEMIC** 1 , **SURVIVOR** 1 , **SPEAKS** 1 , 
  
 ## What this user tweeted
  
-RT @RadiumCS: ✨CSGO M4A4 Cybersecurity FT Giveaway!✨
+RT @rotarycaaht: Thank you Emily Steimel and Christina Chavez from @ywcaneks for an impactful presentation to @rotarycaaht this afternoon o…Thank you Emily Steimel and Christina Chavez from @ywcaneks for an impactful presentation to @rotarycaaht this afte… https://t.co/NA6noavAtW
+ 
+# wemoro2272USER INFO
+![image](http://pbs.twimg.com/profile_images/1360779278560944130/GKwLvRf0_normal.jpg)
+ 
+`User ScreenName:` wemoro2272 
+ 
+`User chosen Name:` wemoro2272 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 14 02:31:37 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 131 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 146 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1360779278560944130/GKwLvRf0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 146 
+ 
 
-⭕️ Follow Me 
-⭕️ RT This Tweet
-⭕️ Tag 3 Friends
+ 
 
-⏰Ends in 7 Days!
-#CSGO #csgoskins #c…
+ 
+## User Top tweeted words 
+ 
+**PAKISTAN** 8 , **@JOSHSABARRA:** 7 , **BITCOIN** 7 , **SERVICES** 7 , **ALWAYS** 6 , **YEARS** 6 , **كود** 6 , **DUBLIN** 6 , **BEST** 6 , **⁣** 6 , **HELP** 6 , **@AMANDEEPTAKKAR:** 5 , **THE…RT** 5 , **OFFER** 5 , **NEED** 5 , **خصم** 5 , **JOSHSABARRA** 5 , **@BISANPREETS:** 5 , **PASHTUNS** 5 , **DAY** 4 , 
+ 
+## What this user tweeted
+ 
+RT @KhalidA86010716: #Chinese are introducing vulnerabilities into technology, they are trying to get more technology that spies on people…
+ 
+# Ishfaq28077329USER INFO
+![image](http://pbs.twimg.com/profile_images/1358834155140775937/rnZghRuL_normal.jpg)
+ 
+`User ScreenName:` Ishfaq28077329 
+ 
+`User chosen Name:` Ishfaq 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 08 17:43:47 +0000 2021 
+ 
+`User Description?:` being human 
+ 
+`Followers?: `5 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358834155140775937/rnZghRuL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 535 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SCAM** 44 , **PLEASE** 41 , **CYBERSECURITY** 37 , **APP** 27 , **HELP** 26 , **THESHOPPERSSCAM** 22 , **MONEY** 22 , **BIG** 22 , **BIGSCAM** 21 , **@PMOINDIA** 21 , **US** 20 , **PEOPLE** 20 , **@KIFAYAT38469950:** 18 , **…RT** 17 , **VICTIM** 17 , **@CYBERPOLICEKMR** 17 , **CYBERCRIME** 16 , **SAVE** 16 , **@TAHIR_A** 16 , **THOUSANDS** 15 , 
+ 
+## What this user tweeted
+ 
+RT @cybermaterial_: ALERT 🚨 Intel Patches Vulnerabilities in Software, Hardware Products - https://t.co/HZYHEHEAc6 - 
+#cybersecurity  #info…
+ 
+# codegeekrvUSER INFO
+![image](http://pbs.twimg.com/profile_images/1361713030833332228/CQIG35Dc_normal.jpg)
+ 
+`User ScreenName:` codegeekrv 
+ 
+`User chosen Name:` Codegeekrv 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 16 16:23:40 +0000 2021 
+ 
+`User Description?:` #geek #nerd #socialmediaproducer 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361713030833332228/CQIG35Dc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GEEK** 2 , **SETUP** 2 , **SCIENCE** 1 , **NERD** 1 , **FUNNY** 1 , **GIFS** 1 , **COMPUTERS** 1 , **PEOPLE** 1 , **HELP** 1 , **DEVELOP** 1 , **NEW** 1 , **REACH** 1 , **LINE** 1 , **FREE** 1 , **K…** 1 , **HTTPS://TCO/GRJZOQI6CUCYBERSECURITY** 1 , **EVEN** 1 , **BEST** 1 , **OS** 1 , **ALWAYS** 1 , 
+ 
+## What this user tweeted
+ 
+#CyberSecurity even at the best #setup and #OS there always the #human factor that allows #CyberAttack #vulnerabilities
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
