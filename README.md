@@ -852,4 +852,250 @@ RT @Mhaame_afrah: You know why everyone is acting gangster both in reality/on so
  
 ## User Top tweeted words 
  
-**TRUMP** 20 , **TEXAS** 14 , **PEOPLE** 11 , **PRESIDENT** 10 , **GOP** 10 , 
+**TRUMP** 20 , **TEXAS** 14 , **PEOPLE** 11 , **PRESIDENT** 10 , **GOP** 10 , **US** 9 , **AFTER** 8 , **REPUBLICAN** 8 , **FORMER** 8 , **IMPEACHMENT** 8 , **BIDEN** 7 , **POWER** 7 , **BEING** 7 , **HOUSE** 6 , **LAST** 6 , **TRUTH** 6 , **STATE** 6 , **MANY** 6 , **EVEN** 6 , **REPUBLICANS** 6 , 
+ 
+## What this user tweeted
+ 
+RT @cohan_ds: So many of the misleading narratives about the #TexasBlackout are missing a fundamental understanding of our electric power s…
+ 
+# DocLT2USER INFO
+![image](http://pbs.twimg.com/profile_images/1362108722005254145/kAox3rUJ_normal.jpg)
+ 
+`User ScreenName:` DocLT2 
+ 
+`User chosen Name:` DocLT 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 17 18:15:31 +0000 2021 
+ 
+`User Description?:` Retired doc since 2001. Likes: science and engineering, critters, gardening. 
+ 
+`Followers?: `10 
+ 
+`Following?:` 292 
+ 
+`User URL?:` None 
+ 
+`Location:` Santa Clara County, CA 
+ 
+`Number of tweets extracted`  : 100 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1362108722005254145/kAox3rUJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 100 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GOP** 7 , **@CHARLESPPIERCE** 7 , **WAY** 6 , **@DRERICDING** 6 , **THAT'S** 5 , **TEXAS** 5 , **WATER** 5 , **@VANZETTI83** 5 , **THAN** 4 , **FOUND** 4 , **DOESN'T** 4 , **DON'T** 4 , **SEEMS** 4 , **BETTER** 3 , **ISN'T** 3 , **2** 3 , **CRUZ** 3 , **CAN'T** 3 , **DOES** 3 , **INTO** 3 , 
+ 
+## What this user tweeted
+ 
+@chrislhayes I am worried that we may have similar vulnerabilities here in CA, less with power production and more… https://t.co/MaYf84MgUS
+ 
+# 3434MapleUSER INFO
+![image](http://pbs.twimg.com/profile_images/1362239597640441863/Gx6SYpv8_normal.jpg)
+ 
+`User ScreenName:` 3434Maple 
+ 
+`User chosen Name:` Robert 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 15 17:33:10 +0000 2021 
+ 
+`User Description?:` Retired Air Force. Maple from Canada 🍁. Go Leafs-Raptors-Blue Jays Go. President Biden - Vice President Harris has a great ring to it. 
+ 
+`Followers?: `172 
+ 
+`Following?:` 196 
+ 
+`User URL?:` None 
+ 
+`Location:` Kamloops, British Columbia 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1362239597640441863/Gx6SYpv8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1201 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DANISCOTCHIRISH** 31 , **@THEVALUESVOTER** 30 , **@REGAN0002112** 25 , **@MARILYNCAPPS** 24 , **@GATORAM15** 23 , **@ALCINNAMONGIRL** 23 , **@WALTERLAPP** 17 , **@SABAT** 17 , **@PULPOLOVER** 16 , **@GIVENOFUXMICHY** 13 , **@ALCINNAMONGIRL…** 12 , **TED** 12 , **LOL** 12 , **@SWEETLYFEIRCE…** 12 , **@NINIGIRL84** 10 , **@SWEETLYFEIRCE** 8 , **@CACHOBWEENEY** 7 , **GO** 7 , **@TEXHELLCAT** 7 , **DON’T** 6 , 
+ 
+## What this user tweeted
+ 
+RT @TK_Freedom_: This is the best objective article I’ve read on why all of Texas’ energy sources failed. (Power grid vulnerabilities aside…
+ 
+# franckestmortUSER INFO
+![image](http://pbs.twimg.com/profile_images/1361353521329750016/080q8pgk_normal.jpg)
+ 
+`User ScreenName:` franckestmort 
+ 
+`User chosen Name:` sarah 🇹🇳 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 14 12:09:12 +0000 2021 
+ 
+`User Description?:` j’ai soT la femme du pdg de twitter 
+ 
+`Followers?: `151 
+ 
+`Following?:` 179 
+ 
+`User URL?:` None 
+ 
+`Location:` dans le q de mai 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361353521329750016/080q8pgk_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2387 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**JE** 25 , **DE** 20 , **PAS** 18 , **UN** 16 , **QUE** 15 , **LA** 15 , **LE** 14 , **ELLE** 14 , **C** 13 , **EST** 12 , **C’EST** 11 , **MOI** 10 , **IL** 10 , **TU** 10 , **UNE** 10 , **ET** 9 , **MAIS** 9 , **MON** 9 , **POUR** 9 , **@DAIHIURA** 9 , 
+ 
+## What this user tweeted
+ 
+RT @INTERPOL_CBRNE: Experts discussed #emergingtech for #chemicalsecurity practitioners to advance #chemical countermeasures programmes and…
+ 
+# AlfredEssaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1359517123442331648/9meOEf74_normal.jpg)
+ 
+`User ScreenName:` AlfredEssa 
+ 
+`User chosen Name:` Alfred Essa 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 10 14:55:20 +0000 2021 
+ 
+`User Description?:` AI, Data Science, Machine Learning, Learning Research, Snow Leopards, Chess 
+ 
+`Followers?: `2 
+ 
+`Following?:` 204 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 37 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359517123442331648/9meOEf74_normal.jpg 
+ 
+`Number of tweets excluding replies:` 37 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THANK** 4 , **NEW** 3 , **@NASAJPL** 3 , **THREAD** 3 , **@NASA** 3 , **GREAT** 3 , **MEDIA** 2 , **MUCH** 2 , **PAPER** 2 , **POWER** 2 , **I'M** 2 , **SUCCESSFUL** 2 , **MARS** 2 , **POSTED** 2 , **SOME** 2 , **SOMETHING** 2 , **@NASAPERSEVERE:** 2 , **PERSEVERANCE** 2 , **FOREVER** 2 , **AVAILABLE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @cohan_ds: So many of the misleading narratives about the #TexasBlackout are missing a fundamental understanding of our electric power s…
+ 
+# OmevMUSER INFO
+![image](http://pbs.twimg.com/profile_images/1361648237879427072/wkIfS7uQ_normal.jpg)
+ 
+`User ScreenName:` OmevM 
+ 
+`User chosen Name:` OMEV MA 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 16 12:06:07 +0000 2021 
+ 
+`User Description?:` المرصد المغربي لدراسة التطرف والعنف هو إطار علمي-ثقافي يعنى بدراسة ظاهرة التطرف والعنف السياسي في العالم، تم تأسيسه من طرف مجموعة من الباحثين والجامعيين المغارب 
+ 
+`Followers?: `8 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361648237879427072/wkIfS7uQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@POLICYCENTERNS:** 9 , **LE** 7 , **«** 7 , **DE** 6 , **@UN_CTED** 6 , **CONFERENCE** 6 , **TERRORISME** 4 , **INTERNATIONAL** 4 , **@OMEVM** 4 , **TERRORISM** 3 , **NEW** 3 , **LUTTE** 3 , **CONTRE** 3 , **DOIT** 3 , **ÊTRE** 3 , **POUR** 3 , **FACE** 3 , **LA** 3 , **EN** 3 , **@POLICYCENTERNS** 3 , 
+ 
+## What this user tweeted
+ 
+"Extremism is not a disease itself, it is a symptom. Vulnerabilities are very important to address" @CabaFlavius Pr… https://t.co/wdopC9f5ef
+ 
+# LJMU_LCAPSUSER INFO
+![image](http://pbs.twimg.com/profile_images/1359890219038892035/_JnyigwS_normal.jpg)
+ 
+`User ScreenName:` LJMU_LCAPS 
+ 
+`User chosen Name:` LCAPS Policing at LJMU 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 11 15:28:57 +0000 2021 
+ 
+`User Description?:` Liverpool Centre for Advanced Policing Studies (LCAPS) Supporting aspiring & current law enforcement professionals. https://t.co/Dn6tK3oN3N Instagram: lcaps_ljmu 
+ 
+`Followers?: `96 
+ 
+`Following?:` 206 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359890219038892035/_JnyigwS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**POLICE** 11 , **CRIME** 8 , **RESEARCH** 6 , **OFFICERS** 4 , **NEW** 4 , **@UNODC:** 3 , **PLEASE** 3 , **UK** 3 , **WOMEN** 3 , **HELP** 3 , **ANALYSIS** 3 , **HIRING** 3 , **PAPER** 3 , **ONLINE** 3 , **VIOLENCE** 3 , **2021** 3 , **PEOPLE** 3 , **LIVERPOOL** 3 , **PERSONS** 2 , **TAKING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @UNODC: Terrorists are increasingly taking advantage of globalization, rapidly evolving technologies and social, political and economic…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
