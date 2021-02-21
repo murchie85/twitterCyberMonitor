@@ -34,9 +34,9 @@ https://t.co/oAmJFd86TO
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @maldatabase: #Remcos malware indicators.#Malware #ThreatIntelligence #threatintel #IOChttps://t.co/Likjc8dILy |
-| RT @MISPProject: MISP 2.4.139, the latest release for MISP squashes a set of pretty annoying bugs, whilst also adding some shiny new featur… |
-| RT @Raj_Samani: Practical threat intelligence - a helpful #cheatsheet courtesy of @fr0gger_ #cybersecurity #infosec #ThreatIntel https://t.… |
+| RT @javier_carriazo: North Korea Allegedly Targets Pfizer to Steal #COVID19 Vaccine Data  #CyberSec #infosec #Security #cybercrime #ThreatI… |
+| Starting a bump session! [Wednesday, February 17th, 10:46:41] Use hashtags #infosec, #osint, #phishing,… https://t.co/ot5ZnNH4CV |
+| Stay current in InfoSec without living on Twitter or subscribing to 100 inefficient RSS feeds!… https://t.co/tvkx3NYljn |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -45,7 +45,7 @@ https://t.co/oAmJFd86TO
 | #2 Most tweeted to  | **bad_packets** |
 | #3 Most tweeted to  | **fr0gger_** |
 | NewProfiles (less than 10 days) | 0.17%  |
-| Tweeters with < 10 followers  | 0.5%|
+| Tweeters with < 10 followers  | 0.43%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -65,12 +65,12 @@ https://t.co/oAmJFd86TO
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (28.57%) **OBJECTIVE** (57.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @bad_packets: Mass scanning activity detected from 185.252.146.112 (🇷🇺) targeting Palo Alto GlobalProtect VPN servers. #threatintel |
+|RT @maldatabase: #Zegost malware indicators.#Malware #ThreatIntelligence #threatintel #IOChttps://t.co/4vDc1SvNRK |
 
 ### MOST RETWEETED 
 
