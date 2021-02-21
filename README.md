@@ -830,3 +830,386 @@ RT @UNFPAKen: Enhancing the SRHR of women and girls post-covid-19 requires an in
 `User URL?:` None 
  
 `Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361994889312038912/RbO-MWYu_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NWSBIRMINGHAM:** 4 , **WE'LL** 2 , **@NWSTALLAHASSEE:** 2 , **WEATHER** 2 , **AWARENESS** 2 , **WEEK** 2 , **TORNADO** 2 , **COLD** 2 , **DAY** 2 , **RT** 1 , **@RICHTHOMASWX:** 1 , **MAJOR** 1 , **WARMING** 1 , **TREND** 1 , **AHEAD** 1 , **HTTPS://TCO/EIM5RGYALSRT** 1 , **☀️THE** 1 , **WARM-UP** 1 , **BEGINS** 1 , **TOP** 1 , 
+ 
+## What this user tweeted
+ 
+RT @NWSTallahassee: Feb. 21-26 is Severe Weather Awareness Week in AL. Note the statewide tornado drill on the 24th. There is also a sales…
+ 
+# Mohammedghade15USER INFO
+![image](http://pbs.twimg.com/profile_images/1362072429015752718/oBqwZG33_normal.jpg)
+ 
+`User ScreenName:` Mohammedghade15 
+ 
+`User chosen Name:` Mohammedghader 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 17 16:11:56 +0000 2021 
+ 
+`User Description?:` Mohammedghader 
+ 
+`Followers?: `158 
+ 
+`Following?:` 333 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1362072429015752718/oBqwZG33_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2865 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**من** 34 , **في** 32 , **@THISISLEBNEWS** 23 , **ما** 21 , **😂** 21 , **على** 17 , **و** 16 , **@SAADHARIRI:** 16 , **@SOBHIA_CHEBBO** 15 , **LEBANON** 13 , **،** 12 , **يا** 12 , **الله** 12 , **@BEAUTYOFLEBANON:** 12 , **@AOUNLODY** 12 , **كل** 11 , **عن** 11 , **@SOBHIA_CHEBBO:** 11 , **@JOYARA60** 11 , **منافق** 10 , 
+ 
+## What this user tweeted
+ 
+RT @UN: #COVID19 has exposed deep global vulnerabilities that go beyond public health; from the climate crises to inequality to the struggl…
+ 
+# HusainaMusa2USER INFO
+![image](http://pbs.twimg.com/profile_images/1362847268236320772/poPxscga_normal.jpg)
+ 
+`User ScreenName:` HusainaMusa2 
+ 
+`User chosen Name:` Husaina Musa 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 19 19:12:14 +0000 2021 
+ 
+`User Description?:` ALHAMDULILLAH 
+ 
+`Followers?: `1 
+ 
+`Following?:` 28 
+ 
+`User URL?:` None 
+ 
+`Location:` Ringim,Jigawa State 🇳🇬 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1362847268236320772/poPxscga_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ROUND** 2 , **NDLEA** 1 , **BOSS** 1 , **MARWA** 1 , **PEG** 1 , **HOLE** 1 , **GROUP** 1 , **HTTPS://TCO/VKZWHINHWRBA** 1 , **BARNA** 1 , **BANE** 1 , **HTTPS://TCO/O5AXHIOQF3ALHAMDULILLAH** 1 , **HTTPS://TCO/NJ3JL9KRRQRT** 1 , **@SURVIVALFUND_NG:** 1 , **@NIGERIAGOV** 1 , **PUT** 1 , **SMILES** 1 , **FACES** 1 , **NIGERIANS** 1 , **BUSINESSES** 1 , **ACROSS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SurvivalFund_ng: The @NigeriaGov has put smiles on the faces of Nigerians. 
+
+Businesses across the country have been provided an adequa…
+ 
+# chojayyyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1361170394112090113/ReqccjCP_normal.jpg)
+ 
+`User ScreenName:` chojayyy 
+ 
+`User chosen Name:` Jay C. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 14 08:20:34 +0000 2021 
+ 
+`User Description?:` An interim attempt of democratizing asymmetric information on 🇺🇸 stonks market for 🇰🇷📈🐜. Do your own due diligence. Not a financial advice (duh). 
+ 
+`Followers?: `70 
+ 
+`Following?:` 422 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361170394112090113/ReqccjCP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 388 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BITCOIN** 26 , **@DEITAONE:** 15 , **MARKET** 14 , **@BUSINESS:** 12 , **SPAC** 12 , **TRILLION** 12 , **@FXHEDGERS:** 11 , **@ZEROHEDGE:** 11 , **US** 11 , **•** 11 , **ITS** 10 , **@FIRSTSQUAWK:** 10 , **THAN** 8 , **HIGH** 8 , **@CNBC:** 8 , **NEW** 8 , **VACCINE** 7 , **COVID** 7 , **@PARIKPATELCFA:** 7 , **BILL** 7 , 
+ 
+## What this user tweeted
+ 
+RT @DeItaone: *FED: HEDGE-FUND LEVERAGE VULNERABILITIES REMAIN ELEVATED
+ 
+# mazzarati59USER INFO
+![image](http://pbs.twimg.com/profile_images/1361714911936708611/GqHA6XOv_normal.jpg)
+ 
+`User ScreenName:` mazzarati59 
+ 
+`User chosen Name:` mazzarati59 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 16 16:31:08 +0000 2021 
+ 
+`User Description?:` Coorse Tink Highland Brute Par Excellence. Self determinist adopted Weegie. Trying to be reasonable with the right wing numptygensia but it’s a hard shift. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:` Peoples Republic of Cathcart 
+ 
+`Number of tweets extracted`  : 78 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1361714911936708611/GqHA6XOv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 79 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MS** 8 , **GOOD** 6 , **SCOTLAND** 6 , **HE’S** 5 , **WING** 5 , **QANON** 4 , **BEING** 4 , **ANTI** 4 , **THEN** 4 , **J?** 4 , **UNIONIST** 3 , **“** 3 , **TRUMP** 3 , **BBC** 3 , **DUE** 3 , **I…** 3 , **USED** 3 , **BACK** 3 , **AGREED** 3 , **TOTALLY** 3 , 
+ 
+## What this user tweeted
+ 
+@darrengrimes_ Darren
+Sorry to hear that you are struggling. 
+I don’t think that “ the left” monopolise cruelty onl… https://t.co/plBJZU9zB2
+ 
+# StrangestAvngrUSER INFO
+![image](http://pbs.twimg.com/profile_images/1362129764098732033/pEaIDdXL_normal.jpg)
+ 
+`User ScreenName:` StrangestAvngr 
+ 
+`User chosen Name:` Strangest Avenger 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 17 19:44:32 +0000 2021 
+ 
+`User Description?:` Just here to follow the stonks. OTC trader. Current: $WDLF $SFOR $TSNP $ISPI $GCGX $ENZC $IPOF 
+ 
+`Followers?: `0 
+ 
+`Following?:` 37 
+ 
+`User URL?:` None 
+ 
+`Location:` 177a Bleecker Street 
+ 
+`Number of tweets extracted`  : 16 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1362129764098732033/pEaIDdXL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 16 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I'M** 4 , **LOOK** 3 , **GOOD** 2 , **@TMTTEAMMONEY** 2 , **TWITTER** 2 , **LOVE** 1 , **BEING** 1 , **INVESTED** 1 , **PUBLIC** 1 , **LET'S** 1 , **GO** 1 , **$ENZC** 1 , **🚀** 1 , **HTTPS://TCO/NGUT90LTZP@STOCKS2WEALTH** 1 , **TALKING** 1 , **SHIT** 1 , **ASKING** 1 , **PROOF** 1 , **COULDN'T** 1 , **FIND** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SafeVchat: [ICYMI] Yesterday we announced the launch of PrivacyLok, an endpoint protection solution designed to protect users against c…
+ 
+# ArunMis37508434USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` ArunMis37508434 
+ 
+`User chosen Name:` Arun Mishra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 19 11:53:57 +0000 2021 
+ 
+`User Description?:` Corporate Trainer 
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ARUNMIS81237319:** 15 , **@ECHITRAGUPT** 15 , **@ECHITRAGUPT:** 13 , **CORRUPTION** 5 , **@RAGHAV_BAHL** 5 , **MANAGEMENT** 5 , **GROWTH** 5 , **CASES** 4 , **MOST** 4 , **ISSUES** 4 , **TEAM** 4 , **REGULATORY** 4 , **@SUNDARPICHAI** 3 , **FRAUD** 3 , **GREAT** 3 , **EXPERTS** 3 , **DAILY** 3 , **GREETINGS** 2 , **INSPITE** 2 , **MANY** 2 , 
+ 
+## What this user tweeted
+ 
+RT @EChitragupt: AI can now identify humans' vulnerabilities and use them to influence their decision-making. EChitragupt is an Indian, AI-…
+ 
+# MrLombarskiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1362378486946664448/lysWCELA_normal.jpg)
+ 
+`User ScreenName:` MrLombarski 
+ 
+`User chosen Name:` Mr. Lombarski 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 18 12:14:32 +0000 2021 
+ 
+`User Description?:` System & Cloud Architect / Software Developer - Professor Information Technology - Interested in Economics 
+ 
+`Followers?: `3 
+ 
+`Following?:` 67 
+ 
+`User URL?:` None 
+ 
+`Location:` San de Fuca, WA 
+ 
+`Number of tweets extracted`  : 43 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1362378486946664448/lysWCELA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 43 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BITCOIN** 11 , **PYRAMID** 10 , **@ELONMUSK** 9 , **@DANHELD** 7 , **@MTLAVO** 6 , **@PETERSCHIFF** 5 , **HE’S** 5 , **TIME** 3 , **APPLICATION** 3 , **KNOWS** 3 , **SCHEME** 3 , **@CNBC:** 2 , **SCHEME”** 2 , **MICHAEL** 2 , **ALMOST** 2 , **BS** 2 , **FIAT** 2 , **AGREE** 2 , **BIG** 2 , **PROFESSOR** 2 , 
+ 
+## What this user tweeted
+ 
+@KarmosKoen @mtlavo @danheld @elonmusk 4/ The internet which is considered the largest unsecured network on the pla… https://t.co/IHPatJOL2W@KarmosKoen @mtlavo @danheld @elonmusk 1/ To understand #Bitcoin vulnerabilities/risks you need to understand one t… https://t.co/Q3Yiae486W
+ 
+# cryptohead16USER INFO
+![image](http://pbs.twimg.com/profile_images/1363630831483379721/dGCHrxbH_normal.jpg)
+ 
+`User ScreenName:` cryptohead16 
+ 
+`User chosen Name:` cryptohead 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 14 18:54:25 +0000 2021 
+ 
+`User Description?:` $eth $zcn $utu 
+ 
+`Followers?: `8 
+ 
+`Following?:` 169 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1363630831483379721/dGCHrxbH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 33 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IDO** 7 , **WHITELIST** 5 , **LAUNCH** 4 , **ETH** 4 , **@3BDULLAHXY** 4 , **$UDO** 3 , **POLKASTARTER** 3 , **$POLS** 3 , **LAUNCHING** 2 , **USE** 2 , **I’M** 2 , **TWEET** 2 , **@UNIDOEP:** 2 , **-FOLLOW** 2 , **@UNIDOEP** 2 , **@POLKASTARTER** 2 , **-LIKE** 2 , **RT** 2 , **FEES** 2 , **$POLK** 2 , 
+ 
+## What this user tweeted
+ 
+RT @UnistakeFinance: Unistake just collaborated with https://t.co/TfM3DR1jGp to help us secure our launch
+
+We chose this type of launch for…
+ 
+# Tungee6USER INFO
+![image](http://pbs.twimg.com/profile_images/1363049164938956802/Y3g-cX9D_normal.jpg)
+ 
+`User ScreenName:` Tungee6 
+ 
+`User chosen Name:` Tungee 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 14 10:25:45 +0000 2021 
+ 
+`User Description?:` Follow Gusuy. 
+ 
+`Followers?: `10 
+ 
+`Following?:` 120 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1363049164938956802/Y3g-cX9D_normal.jpg 
+ 
+`Number of tweets excluding replies:` 209 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AMA** 53 , **UTC** 31 , **FEBRUARY** 29 , **PM** 27 , **CRYPTO** 22 , **GIVE** 18 , **@SHEKWOYEMII** 17 , **2021** 17 , **HOST** 17 , **MANY** 15 , **@THIHUYEN93** 14 , **1** 14 , **REGARDING** 14 , **SECURITY** 14 , **:** 13 , **TIME:** 13 , **VENUE:** 13 , **@SHUTTLE_ONE** 13 , **PLATFORM** 13 , **FEB** 12 , 
+ 
+## What this user tweeted
+ 
+@BOSS_CRYPTO101 Regarding security Is your system safe enough from hackers? And does your project have a program th… https://t.co/hsZFaOawdh
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
