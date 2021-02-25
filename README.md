@@ -11,15 +11,10 @@
  
 ![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **dwisiswant0**  
+The most popular user is: **likethecoins**  
  
 
-## Made public now &amp; beta version released!
-
-teler: Real-time HTTP #Intrusion Detection
-https://t.co/oAmJFd86TO
-
-#go… https://t.co/2zYQeHvP0Q 
+## New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O 
 
   
 
@@ -34,9 +29,9 @@ https://t.co/oAmJFd86TO
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MISPProject: MISP free online trainings will take place 2-3 March 2021 (Introduction for analysts and Administration/Building sharing c… |
-| RT @JinibaBD: New Hack Lets Attackers Bypass MasterCard PIN by Using Them As Visa Card #CyberSec #infosec #Security #cybercrime #ThreatInte… |
-| RT @maldatabase: #DarkComet malware indicators.#Malware #ThreatIntelligence #threatintel #IOChttps://t.co/I2E1rqr7Th |
+| #TuesdayTips: Want to learn more about threat intelligence and it's potential benefits? Check out our latest tip an… https://t.co/N0eLGP2c8K |
+| RT @JinibaBD: #WTF! 😱😱😡Change your WhatsApp settings immediately otherwise your account may be hacked! #CyberSec #infosec #Security #cyberc… |
+| RT @bad_packets: Mass scanning activity detected from 45.155.205.177 (🇷🇺) targeting F5 BIG-IP servers vulnerable to CVE-2020-5902 (https://… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -45,7 +40,7 @@ https://t.co/oAmJFd86TO
 | #2 Most tweeted to  | **bad_packets** |
 | #3 Most tweeted to  | **javier_carriazo** |
 | NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 0.32%|
+| Tweeters with < 10 followers  | 0.64%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -65,18 +60,18 @@ https://t.co/oAmJFd86TO
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Atos_Security: 🏥 #Contiransomware gang tied to latest #attacks on hospitals in #Florida and #TexasTo read more visit ⤵https://t.co/HU… |
+|RT @JinibaBD: 👍🏻 We use ⁦@Kymatioglobal to ⁩ address it! What behavioral experts can teach us about improving security  #CyberSec #infosec… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **dwisiswant0**  |
+| The most retweeted user is: **likethecoins**  |
 | ------------- |
-| Made public now &amp; beta version released!teler: Real-time HTTP #Intrusion Detectionhttps://t.co/oAmJFd86TO#go… https://t.co/2zYQeHvP0Q |
+| New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O |
 
 # Potential Fake Accounts
  
