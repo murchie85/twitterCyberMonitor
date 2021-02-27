@@ -29,9 +29,9 @@ The most popular user is: **likethecoins**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @teamcymru_S2: Nice findings! We were able to associate 12 further IP addresses with this activity:138.124.180.16141.255.166.153204.… |
-| Hackers Exploit Accellion Zero-Days in Recent Data Theft and Extortion Attacks #CyberSec #infosec #Security… https://t.co/0SdqDMM97Y |
-| Cryptopia Exchange, Currently in Liquidation, Gets Hacked Again: Report #CyberSec #infosec #Security #cybercrime… https://t.co/VKMjRlt9Et |
+| Only? Has to be more! 🤔🤔 One in four people use work passwords for consumer websites #CyberSec #infosec #Security… https://t.co/huRCT8vIXI |
+| RT @Netenrich: Are you fully optimizing your #ThreatIntel &amp; #SIEM tools? See how to stay on top in March 3 @ISSAINTL #webinar moderated by… |
+| RT @JinibaBD: Happy birthday 🎉🎂🍰, #Python, you're 30 years old today: Easy to learn  #CyberSec #infosec #Security #cybercrime #ThreatIntel… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **likethecoins**
 | #2 Most tweeted to  | **bad_packets** |
 | #3 Most tweeted to  | **javier_carriazo** |
 | NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 0.84%|
+| Tweeters with < 10 followers  | 0.87%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -60,12 +60,12 @@ The most popular user is: **likethecoins**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (64.29%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: #ETF! Another #databreach! 😱😡😱 NetGalley - 1,436,435 breached accounts #CyberSec #infosec #Security #cybercrime #ThreatIntel… |
+|Finnish IT services giant TietoEVRY discloses ransomware attack #CyberSec #infosec #Security #cybercrime… https://t.co/5EpcwiQcR4 |
 
 ### MOST RETWEETED 
 
