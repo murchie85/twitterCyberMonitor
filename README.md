@@ -892,3 +892,382 @@ Broad generalisations will never completely capture the complex reality of heter
 
  
 ## User Top tweeted words 
+ 
+**SWIFTRETORTDAY** 93 , **PAKISTAN** 53 , **AIR** 44 , **FORCE** 30 , **INDIAN** 29 , **@TEAMPAKISTANS** 21 , **TEA** 18 , **DAY** 18 , **کی** 16 , **PAF** 16 , **FEBRUARY** 16 , **ہے** 14 , **INDIA** 14 , **FORCES** 14 , **27TH** 14 , **کے** 13 , **@ISP__OFFICIAL** 13 , **میں** 13 , **SURPRISE** 13 , **ARMED** 13 , 
+ 
+## What this user tweeted
+ 
+RT @soldierspeaks: 26 Feb 2019 was #CrowMurderDay when #BalakotFarzicalStrike by Indian Air Force led into exposing the vulnerabilities of…RT @SaithIrfan4: 26 Feb 2019 was #CrowMurderDay when Balakot Strike by Indian Air Force led into exposing the vulnerabilities of Indian Arm…
+ 
+# _MA_143USER INFO
+![image](http://pbs.twimg.com/profile_images/1363568830350516225/qMejmn78_normal.jpg)
+ 
+`User ScreenName:` _MA_143 
+ 
+`User chosen Name:` M Ahsanghafoor143 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 19 15:56:33 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `90 
+ 
+`Following?:` 89 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1363568830350516225/qMejmn78_normal.jpg 
+ 
+`Number of tweets excluding replies:` 330 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**خاتم_النبیین_محمدﷺ** 141 , **کے** 68 , **کی** 61 , **میں** 53 , **اور** 51 , **اللہ** 50 , **کا** 45 , **پر** 43 , **🌹** 41 , **@MAHSAN1430:** 38 , **سے** 38 , **خلاصہ_قرآن** 33 , **کو** 33 , **درود** 32 , **و** 31 , **سلام** 28 , **نے** 26 , **@_IN_VISBLE:** 26 , **بھی** 25 , **سیرت_النبیﷺ** 24 , 
+ 
+## What this user tweeted
+ 
+RT @soldierspeaks: 26 Feb 2019 was #CrowMurderDay when #BalakotFarzicalStrike by Indian Air Force led into exposing the vulnerabilities of…
+ 
+# Modijobdo13USER INFO
+![image](http://pbs.twimg.com/profile_images/1364763339822276608/yl1ayQdR_normal.jpg)
+ 
+`User ScreenName:` Modijobdo13 
+ 
+`User chosen Name:` #Modi_job_do 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 25 02:24:28 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `35 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 178 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364763339822276608/yl1ayQdR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 178 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MODI_JOB_DO** 126 , **TIMELY** 28 , **MODI_ROGAR_DO** 25 , **EXAM** 22 , **MODI** 19 , **STUDENTS** 17 , **YOUTH** 16 , **BHARATBANDH** 15 , **TWEETS** 15 , **DAYS** 15 , **JOBS** 13 , **1** 13 , **2** 12 , **DEMANDS** 12 , **GOVT** 12 , **2018** 12 , **INDIAN** 11 , **POWER** 11 , **RESULTS** 11 , **STUDENT** 10 , 
+ 
+## What this user tweeted
+ 
+RT @soldierspeaks: 26 Feb 2019 was #CrowMurderDay when #BalakotFarzicalStrike by Indian Air Force led into exposing the vulnerabilities of…
+ 
+# xolotl73USER INFO
+![image](http://pbs.twimg.com/profile_images/1365082740501082114/K0iF5vpk_normal.jpg)
+ 
+`User ScreenName:` xolotl73 
+ 
+`User chosen Name:` Xolotl73 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 25 23:21:56 +0000 2021 
+ 
+`User Description?:` Cybersecurity. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 21 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1365082740501082114/K0iF5vpk_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KONSTRUCTIVIZM:** 3 , **JSON** 2 , **CATURDAY** 1 , **HTTPS://TCO/KTZIYUTIRINEED** 1 , **BACK** 1 , **SOLVING** 1 , **HTB** 1 , **MACHINESRT** 1 , **@HAKLUKE:** 1 , **DON'T** 1 , **CONFUSE** 1 , **BUSY** 1 , **PRODUCTIVERT** 1 , **@WHOISBINIT:** 1 , **AUTOMATE** 1 , **GITHUB** 1 , **PAGES** 1 , **SUB-DOMAIN** 1 , **TAKEOVER** 1 , **GH-TAKEOVER!** 1 , 
+ 
+## What this user tweeted
+ 
+RT @theBumbleSec: Just when you thought JSON was the one thing you could trust. My latest research on JSON interoperability vulnerabilities…
+ 
+# MH__JAANUSER INFO
+![image](http://pbs.twimg.com/profile_images/1363449679044747264/nqP0Jb3q_normal.jpg)
+ 
+`User ScreenName:` MH__JAAN 
+ 
+`User chosen Name:` Malik jaan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 19 14:00:07 +0000 2021 
+ 
+`User Description?:` ‏Malik  jaan
+
+suspended ‎@malikHanzla 
+
+suspended ‎@MHJAANPTI
+
+‏انسان ہر جگہ ہیں!
+مگر
+انسانيت کہاں ڈھونڈوں؟
+😔 
+ 
+`Followers?: `306 
+ 
+`Following?:` 666 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1363449679044747264/nqP0Jb3q_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1062 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CROWMURDERDAY** 57 , **@IAF_MCC** 45 , **@AZAANTANOLI786:** 39 , **@SPOKESPERSONMOD** 27 , **@PROSHILLONG** 26 , **@DEFENCEPRO_GUJ** 26 , **PAKISTAN** 24 , **@PRODEFNGP** 23 , **AIR** 22 , **@PRODEFENCEJAMMU** 18 , **INDIA** 17 , **@PRODEFKOLKATA…** 17 , **FORCE** 15 , **INDIAN** 14 , **TEA** 14 , **ہے** 12 , **WORLDSBIGGESTTEAPARTY** 11 , **کو** 10 , **آئی** 10 , **میں** 9 , 
+ 
+## What this user tweeted
+ 
+RT @soldierspeaks: 26 Feb 2019 was #CrowMurderDay when #BalakotFarzicalStrike by Indian Air Force led into exposing the vulnerabilities of…RT @SaithIrfan4: 26 Feb 2019 was #CrowMurderDay when Balakot Strike by Indian Air Force led into exposing the vulnerabilities of Indian Arm…
+ 
+# peaceforpak1947USER INFO
+![image](http://pbs.twimg.com/profile_images/1364992061116731399/MuDh2bdK_normal.jpg)
+ 
+`User ScreenName:` peaceforpak1947 
+ 
+`User chosen Name:` Tea Lover 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 25 17:33:14 +0000 2021 
+ 
+`User Description?:` 27 Feb is coming...
+are you ready for A cup of Fantastic Tea????? 
+ 
+`Followers?: `137 
+ 
+`Following?:` 242 
+ 
+`User URL?:` None 
+ 
+`Location:` Pakistan 
+ 
+`Number of tweets extracted`  : 110 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364992061116731399/MuDh2bdK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 110 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کی** 25 , **میں** 23 , **کے** 23 , **سے** 16 , **کو** 15 , **کا** 14 , **ہیں** 10 , **بھی** 10 , **ہے** 9 , **پاکستان** 9 , **PAKISTAN** 9 , **کر** 8 , **نے** 8 , **اور** 7 , **ABHINANDAN** 7 , **FEB** 6 , **یہ** 6 , **نہیں** 6 , **ھے** 6 , **نہ** 5 , 
+ 
+## What this user tweeted
+ 
+#CrowMurderDay
+26 Feb 2019 was #CrowMurderDay when #BalakotFarzicalStrike by Indian Air Force led into exposing the… https://t.co/ZdcC6H1XTX
+ 
+# xxmthasureUSER INFO
+![image](http://pbs.twimg.com/profile_images/1364619243782737920/LPlLsyTa_normal.jpg)
+ 
+`User ScreenName:` xxmthasure 
+ 
+`User chosen Name:` samantha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 24 06:51:12 +0000 2021 
+ 
+`User Description?:` mom 
+ 
+`Followers?: `13 
+ 
+`Following?:` 22 
+ 
+`User URL?:` https://t.co/CfsKUpd48f 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364619243782737920/LPlLsyTa_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I’M** 3 , **SLEEP** 3 , **30** 2 , **FEEL** 2 , **BABY** 2 , **NEED** 2 , **SOME** 2 , **BETTER** 2 , **GOOD** 2 , **WAY** 1 , **GONNA** 1 , **TURN** 1 , **YEAR** 1 , **&LT;&LT;** 1 , **HALP** 1 , **PLSRT** 1 , **@TWILIGHTREBORN:** 1 , **HTTPS://TCO/AHCWN1MVVPRT** 1 , **@THE_CINEMABLISS:** 1 , **SHIT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @EkaliMusic: Can’t stress enough how careful you need to be with your inner circle and who you allow close to you. Some people only see…
+ 
+# RatnaSangeetaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1363735544732131328/hAQz_Cdo_normal.jpg)
+ 
+`User ScreenName:` RatnaSangeeta 
+ 
+`User chosen Name:` Sangeeta Ratna 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 22 06:15:36 +0000 2021 
+ 
+`User Description?:` #Spiritual, #ProudMom of 3, & an accredited #Homeopathy #doctor by profession!
+The mantra I believe - Take time to do what makes your soul happy! 
+ 
+`Followers?: `2 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1363735544732131328/hAQz_Cdo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AKANKSHATWEETS_:** 15 , **@PRAVIN_STERLITE:** 7 , **NEED** 6 , **CHILDREN** 4 , **ENERGY** 4 , **@HOMEOPATHYPLUS:** 3 , **DON’T** 3 , **FORGET** 3 , **BELIEVE** 3 , **POWER** 2 , **ADHD** 2 , **MUST** 2 , **TREES** 2 , **LE…RT** 2 , **US** 2 , **STRONG** 2 , **GOOD** 2 , **CRISIS** 2 , **HOMEOPATHY** 2 , **LET’S** 2 , 
+ 
+## What this user tweeted
+ 
+RT @anandmahindra: This is the power of Art: it can vividly capture—and facilitate the healing of—our vulnerabilities as humans... https://…
+ 
+# r3pwnxUSER INFO
+![image](http://pbs.twimg.com/profile_images/1362269343325720582/m5YMqZOH_normal.jpg)
+ 
+`User ScreenName:` r3pwnx 
+ 
+`User chosen Name:` r3pwnx 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 18 04:08:00 +0000 2021 
+ 
+`User Description?:` iOS/macOS security||AI security||repwn everything 
+ 
+`Followers?: `4 
+ 
+`Following?:` 214 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1362269343325720582/m5YMqZOH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@ALBINOWAX:** 1 , **JSON** 1 , **INTEROPERABILITY** 1 , **VULNERABILITIES** 1 , **SOUND** 1 , **SOME** 1 , **SERIOUS** 1 , **BUG-BOUNTY** 1 , **POTENTIAL** 1 , **NICE** 1 , **WORK** 1 , **ONCE** 1 , **AGAIN** 1 , **@THEBU…RT** 1 , **@BUGSCHROMIUM:** 1 , **TFC** 1 , **CHROME** 1 , **FULL** 1 , **CHAIN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @albinowax: JSON Interoperability vulnerabilities sound like they have some serious bug-bounty potential. Nice work once again by @theBu…
+ 
+# GauriSh19466606USER INFO
+![image](http://pbs.twimg.com/profile_images/1364864724345655298/VjeN_FSW_normal.jpg)
+ 
+`User ScreenName:` GauriSh19466606 
+ 
+`User chosen Name:` G dawg 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 25 05:50:58 +0000 2021 
+ 
+`User Description?:` Absurdist journalism.
+Ever confused and a disappointed perfectionist.
+I talk in metaphors js. 
+ 
+`Followers?: `22 
+ 
+`Following?:` 192 
+ 
+`User URL?:` https://t.co/gnPH7OOixp 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 191 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364864724345655298/VjeN_FSW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 191 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MENTOOSAVE** 28 , **@GAURISHARMAAAA:** 21 , **@KIMKARDASHIAN** 17 , **@GAURISHARMA2121** 17 , **WOMEN** 13 , **MEN** 9 , **NEED** 9 , **GOOD** 7 , **YES** 7 , **DON'T** 6 , **DOWN** 6 , **@GAURISHARMAAAA** 6 , **LAWS** 5 , **POWER** 5 , **LET** 5 , **WORK** 5 , **THAN** 5 , **BETWEEN** 4 , **WEAR** 4 , **THAT'S** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Mocana: AI already has been deployed to defend against #cyberattack. Security experts worry it is only a matter of time before #AI is c…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
