@@ -474,36 +474,34 @@ https:/…
  
 ## What this user tweeted
  
-@nanny_ash So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast a… https://t.co/QmT2DrYehX@octopusjesse @askdepop So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they w… https://t.co/ddVOePaA53@NoelDefined So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast… https://t.co/wRaOHBJvJ0@milfhunter1703 @ahIuche So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they… https://t.co/8BTpuqDOoF@Tekko29 @BlinkaXx @Xbox @TwitterGaming @XboxGamePass So I got locked out too.... I got referred to cybersecurity_r… https://t.co/SOF63erdEw@NoTime4Fake1s_ Cybersecurity_recovery on instagram his fast https://t.co/FURziq5pSO@MikeWTweets @RevolutApp @munirawilson So I got locked out too.... I got referred to cybersecurity_recovery on inst… https://t.co/kRqnbB4owV@NoTime4Fake1s_ So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so f… https://t.co/23GfOCDX7b@scolloyd @MojangSupport So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they… https://t.co/X1vqNhcpFN@tinkerbeckss So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fas… https://t.co/WGTNacDArE@JtCrimwolf So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast… https://t.co/eyIo59V4L0@dir_duh So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast and… https://t.co/KxZEGunaaz@afterthottm So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast… https://t.co/U6Swmg3jdE@hornyjesusfreak So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so… https://t.co/xlW75y2vVc@ihm_88 @snapchatsupport So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they… https://t.co/lN3jTz4Awm@joshe @tiktok_uk @tiktok_us So I got locked out too.... I got referred to cybersecurity_recovery on instagram....t… https://t.co/7XRyRQp5qX@KananGuy @tommietomm So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they wer… https://t.co/HVQXdCCG5b@LaughingObiAlt @TwitterSupport So I got locked out too.... I got referred to cybersecurity_recovery on instagram..… https://t.co/K9RWJun3Fx@13thBlonde @Square @Twitter So I got locked out too.... I got referred to cybersecurity_recovery on instagram....t… https://t.co/sJqrXyaWLA@laurenkennedy03 So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so… https://t.co/fJuhf2BYS5@ImMissAdorable @brianurhumble So I got locked out too.... I got referred to cybersecurity_recovery on instagram...… https://t.co/G22nC3BFLU@skillit789 @AskRobinhood @RobinhoodApp So I got locked out too.... I got referred to cybersecurity_recovery on ins… https://t.co/7aNQuGSKGg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+@nanny_ash So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast a… https://t.co/QmT2DrYehX@octopusjesse @askdepop So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they w… https://t.co/ddVOePaA53@NoelDefined So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast… https://t.co/wRaOHBJvJ0@milfhunter1703 @ahIuche So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they… https://t.co/8BTpuqDOoF@Tekko29 @BlinkaXx @Xbox @TwitterGaming @XboxGamePass So I got locked out too.... I got referred to cybersecurity_r… https://t.co/SOF63erdEw@NoTime4Fake1s_ Cybersecurity_recovery on instagram his fast https://t.co/FURziq5pSO@MikeWTweets @RevolutApp @munirawilson So I got locked out too.... I got referred to cybersecurity_recovery on inst… https://t.co/kRqnbB4owV@NoTime4Fake1s_ So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so f… https://t.co/23GfOCDX7b@scolloyd @MojangSupport So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they… https://t.co/X1vqNhcpFN@tinkerbeckss So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fas… https://t.co/WGTNacDArE@JtCrimwolf So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast… https://t.co/eyIo59V4L0@dir_duh So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast and… https://t.co/KxZEGunaaz@afterthottm So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast… https://t.co/U6Swmg3jdE@hornyjesusfreak So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so… https://t.co/xlW75y2vVc@ihm_88 @snapchatsupport So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they… https://t.co/lN3jTz4Awm@joshe @tiktok_uk @tiktok_us So I got locked out too.... I got referred to cybersecurity_recovery on instagram....t… https://t.co/7XRyRQp5qX@KananGuy @tommietomm So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they wer… https://t.co/HVQXdCCG5b@LaughingObiAlt @TwitterSupport So I got locked out too.... I got referred to cybersecurity_recovery on instagram..… https://t.co/K9RWJun3Fx@13thBlonde @Square @Twitter So I got locked out too.... I got referred to cybersecurity_recovery on instagram....t… https://t.co/sJqrXyaWLA@laurenkennedy03 So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so… https://t.co/fJuhf2BYS5@ImMissAdorable @brianurhumble So I got locked out too.... I got referred to cybersecurity_recovery on instagram...… https://t.co/G22nC3BFLU@skillit789 @AskRobinhood @RobinhoodApp So I got locked out too.... I got referred to cybersecurity_recovery on ins… https://t.co/7aNQuGSKGg@SunxGames So I got locked out too.... I got referred to cybersecurity_recovery on instagram....they were so fast a… https://t.co/INoVn4A39E
  
-RT @msftsecurity: Security updates released by the Microsoft Security team for Microsoft Exchange Server to address vulnerabilities under l…
+# _FeraSY1USER INFO
+![image](http://pbs.twimg.com/profile_images/1367606070743621634/60neb-QU_normal.jpg)
  
-# TaljaArchielynUSER INFO
-![image](http://pbs.twimg.com/profile_images/1367270438921904128/VMuDk-UB_normal.jpg)
+`User ScreenName:` _FeraSY1 
  
-`User ScreenName:` TaljaArchielyn 
- 
-`User chosen Name:` archielyn talja 
+`User chosen Name:` Feras_Y 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 04 00:26:50 +0000 2021 
+`User signup date?:` Tue Feb 23 13:16:41 +0000 2021 
  
-`User Description?:` aldub 
+`User Description?:` Senior Engineer who switched from 9-5 Job to Full Time Trader (PROUD!) +9Years Trading Experience Learn & Trade #Crypto Markets with me: https://t.co/XVBMOEbQ8m 
  
-`Followers?: `2 
+`Followers?: `18 
  
-`Following?:` 92 
+`Following?:` 130 
  
-`User URL?:` None 
+`User URL?:` https://t.co/HbNdAQEHti 
  
-`Location:`  
+`Location:`  TradingABCD...   
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1367270438921904128/VMuDk-UB_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1367606070743621634/60neb-QU_normal.jpg 
  
-`Number of tweets excluding replies:` 480 
+`Number of tweets excluding replies:` 258 
  
 
  
@@ -511,7 +509,273 @@ RT @msftsecurity: Security updates released by the Microsoft Security team for M
  
 ## User Top tweeted words 
  
-**TBADNBOYCOTTDGXEBXCS4RT** 85 , **NA** 53 , **SA** 48 , **ANG** 39 , **NG** 33 , **ALDUB294THWEEKSARY** 23 , **@BEYBIRUTH_1** 20 , **TBADNBOYCOTTDGXEBXCS4** 18 , **NI** 16 , **@LERIBAY:** 15 , **ALDUB** 14 , **PA** 12 , **SI** 12 , **MAY** 11 , **KO** 10 , **YAN** 10 , **KUNG** 10 , **MAINE** 10 , **LANG** 10 , **@MARIBELMANANGA1:** 10 , 
+**@FERASY1:** 200 , **BITCOIN** 33 , **MARKET** 18 , **ALTCOINS** 15 , **GOOD** 14 , **DIP** 14 , **HERE** 13 , **$LINK** 12 , **CHAINLINK** 12 , **CRYPTO** 12 , **$BTC** 11 , **BULL** 11 , **+** 11 , **BOUGHT** 10 , **U** 10 , **BUY** 10 , **R** 10 , **LAST** 9 , **UPDATE** 9 , **STILL** 9 , 
+ 
+## What this user tweeted
+ 
+RT @FeraSY1: 🚨Very important 🚨
+Below Some Key basic free security measures to protect your #Crypto &amp; #Bitcoin 
+
+Please Read carefully &amp; Mak…
+ 
+# bryton_jensenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1367335964725538816/8KFGs9Sv_normal.jpg)
+ 
+`User ScreenName:` bryton_jensen 
+ 
+`User chosen Name:` Bryton Jensen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 04 04:46:58 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1367335964725538816/8KFGs9Sv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBER912** 11 , **@CYBERSTATECRAFT** 7 , **@ATLANTICCOUNCIL** 6 , **@UVU_CNSS:** 6 , **WOLV3R1NES** 6 , **UVU** 5 , **MEME** 5 , **TEAM** 2 , **@UVU_CNSS** 1 , **LEETTSSS** 1 , **GO** 1 , **WOLV3R1NES!!** 1 , **😈😤RT** 1 , **GREAT** 1 , **PERFORMANCE** 1 , **COMPETITION** 1 , **ADVANCING** 1 , **SEMI-FINALS!** 1 , **KEEP** 1 , **GOOD** 1 , 
+ 
+## What this user tweeted
+ 
+RT @uvu_president: Wishing the best of luck to our @UVU Cyber 9/12 cybersecurity team today! #GoWolverines #Cyber912 @CyberStatecraft @Atla…
+ 
+# GoodBad4hireUSER INFO
+![image](http://pbs.twimg.com/profile_images/1365988594419195905/_ONntAJw_normal.jpg)
+ 
+`User ScreenName:` GoodBad4hire 
+ 
+`User chosen Name:` Always sus 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 28 11:00:42 +0000 2021 
+ 
+`User Description?:` me good at being bad
+H4x0r / Pentest / AppSec / NetSec
+Will tickle your tumblers too 
+Learning everyday 
+#RedTeamRehab #RedTeamFit 
+ 
+`Followers?: `20 
+ 
+`Following?:` 75 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 82 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1365988594419195905/_ONntAJw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 82 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**⬡** 7 , **REALLY** 6 , **DON'T** 6 , **KEEP** 5 , **TOO** 4 , **@BLENSTER** 4 , **WHILE** 3 , **YOU'RE** 3 , **DOWN** 3 , **@C3RKAH** 3 , **@LEGO_GNOME** 3 , **@HACKINGDAVE** 3 , **@PERCENT_X** 3 , **@CARNAL0WNAGE** 3 , **@CHRIZZLE23…** 3 , **THAT'S** 3 , **TOOK** 3 , **I…** 3 , **CALORIES** 3 , **PERSON** 3 , 
+ 
+## What this user tweeted
+ 
+RT @marcusjcarey: 03/03/2021 Cybersecurity Job Thread:
+
+If you are hiring Cybersecurity professionals please drop a link to the position he…
+ 
+# hackthebox_nlUSER INFO
+![image](http://pbs.twimg.com/profile_images/1367423142231216130/bC12IRdy_normal.jpg)
+ 
+`User ScreenName:` hackthebox_nl 
+ 
+`User chosen Name:` HackTheBox_NL 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 04 10:27:23 +0000 2021 
+ 
+`User Description?:` Twitter account of the Hack The Box meetup in the Netherlands. Follow @HackTheBox_eu for official Hack The Box news! 
+ 
+`Followers?: `3 
+ 
+`Following?:` 5 
+ 
+`User URL?:` https://t.co/fC6oSeuDYw 
+ 
+`Location:` Netherlands 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1367423142231216130/bC12IRdy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**READY** 1 , **SOME** 1 , **HACKING?** 1 , **FEEL** 1 , **FREE** 1 , **JOIN** 1 , **NEXT** 1 , **MEETUP** 1 , **17TH** 1 , **MARCH:** 1 , **HTTPS://TCO/SAOMVMRJHN** 1 , **O…** 1 , **HTTPS://TCO/LK92U2OIAJ** 1 , 
+ 
+## What this user tweeted
+ 
+Ready for some hacking?
+
+Feel free to join our next meetup on the 17th of march: https://t.co/saomvmrjhN
+
+See you o… https://t.co/lK92U2OIaJ
+ 
+# pentestHERZUSER INFO
+![image](http://pbs.twimg.com/profile_images/1365050096363085824/PNNhJ-X4_normal.jpg)
+ 
+`User ScreenName:` pentestHERZ 
+ 
+`User chosen Name:` pentestHERZ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 24 18:15:29 +0000 2021 
+ 
+`User Description?:` Female hacking group studying for the OSCP 
+ 
+`Followers?: `6 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1365050096363085824/PNNhJ-X4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THROUGH** 2 , **INFORMATION** 2 , **LIVE** 1 , **TWITCH** 1 , **WALKING** 1 , **MR** 1 , **ROBOT** 1 , **BOX** 1 , **DISCUSSING** 1 , **CONCEPTS!!** 1 , **CYBERSECURITY** 1 , **HACKING…** 1 , **HTTPS://TCO/JTWRHSHHBV"WE'RE** 1 , **FLOODING** 1 , **PEOPLE** 1 , **NEED** 1 , **FEED** 1 , **PROCESSOR** 1 , **HUMAN** 1 , **MUST** 1 , 
+ 
+## What this user tweeted
+ 
+We are live on twitch walking through the Mr Robot box and discussing the concepts!! #cybersecurity #hacking… https://t.co/JTwrHshhbV
+ 
+# flutterbyameyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1364132856952459267/sXOEPlE-_normal.jpg)
+ 
+`User ScreenName:` flutterbyamey 
+ 
+`User chosen Name:` Flutter RT Bot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 23 08:31:43 +0000 2021 
+ 
+`User Description?:` Beep boop. I am a bot 🤖 created by @AmeySunu to retweet #Flutter and #FlutterDev. 
+ 
+`Followers?: `50 
+ 
+`Following?:` 23 
+ 
+`User URL?:` https://t.co/RVhkXr38K6 
+ 
+`Location:` Terminal 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364132856952459267/sXOEPlE-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2758 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FLUTTER** 111 , **AI** 56 , **MACHINELEARNING** 39 , **FLUTTERENGAGE** 35 , **@HARBRIMAH:** 25 , **PYTHON** 24 , **DATASCIENCE** 21 , **SUCCESS** 16 , **WEB** 14 , **…RT** 13 , **100DAYSOFCODE** 12 , **IOT** 10 , **2** 10 , **SCIENCE** 9 , **ANALYTICS** 9 , **MOBILE** 9 , **FLUTTERENGAGERT** 9 , **VE** 9 , **IÇIN** 9 , **@FLUTTERDEV** 9 , 
+ 
+## What this user tweeted
+ 
+RT @HarbRimah: How TytoCare uses AI to improve diagnostic care https://t.co/dHpFwKFIav 
+
+#DataScience #MachineLearning #Python #AI #100Days…RT @HarbRimah: The race to teach sign language to computers
+https://t.co/ygS2UVgkGI #DataScience #MachineLearning #Python #AI #100DaysOfCod…
+ 
+# SecurityRnhUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` SecurityRnh 
+ 
+`User chosen Name:` RnH Security 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 04 19:13:27 +0000 2021 
+ 
+`User Description?:` RnH Security. Experts in Security. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 23 
+ 
+`User URL?:` https://t.co/DRyzopCXxw 
+ 
+`Location:` Lucknow India 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@THEHACKERSNEWS:** 1 , **CYBERSECURITY** 1 , **FIRM** 1 , **QUALYS** 1 , **GOT** 1 , **COMPROMISED** 1 , **COMPANY** 1 , **ADMITTED** 1 , **READ:** 1 , **HTTPS://TCO/CBY87NFHBM** 1 , **PROLIFIC** 1 , **EXTORTION** 1 , **G…RT** 1 , **@80VUL:** 1 , **EXCHANGE** 1 , **CVE-2021-27065** 1 , **HTTPS://TCO/CXFKBEEAYSRT** 1 , **@CAMPUSCODI:** 1 , **HACKER** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: Cybersecurity firm Qualys got compromised, the company admitted.
+
+Read: https://t.co/CbY87NFHBm
+
+A prolific extortion g…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>85 , **NA** 53 , **SA** 48 , **ANG** 39 , **NG** 33 , **ALDUB294THWEEKSARY** 23 , **@BEYBIRUTH_1** 20 , **TBADNBOYCOTTDGXEBXCS4** 18 , **NI** 16 , **@LERIBAY:** 15 , **ALDUB** 14 , **PA** 12 , **SI** 12 , **MAY** 11 , **KO** 10 , **YAN** 10 , **KUNG** 10 , **MAINE** 10 , **LANG** 10 , **@MARIBELMANANGA1:** 10 , 
  
 ## What this user tweeted
  
