@@ -29,18 +29,18 @@ The most popular user is: **Volexity**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| 48% of Security Pros Prohibited From Intelligence-Sharing https://t.co/KV7lEyInuH #cybersecurity #ITsecurity #threatintel |
-| RT @javier_carriazo: How to prepare for an effective #phishing attack simulation  #CyberSec #infosec #Security #cybercrime #ThreatIntel #da… |
-| RT @Volexity: Volexity has identified multiple 0-day exploits in Microsoft Exchange resulting in authentication bypass and RCE. Actively ex… |
+| Microsoft Issues Security Patches For 89 Flaws — 5 Under Active Attacks #CyberSec #infosec #Security #cybercrime… https://t.co/sOSUCvLj8n |
+| Our Cyber Threats 2020 report highlights the most prolific #ThreatIntel trends we saw last year and explores their… https://t.co/8RVKI43Fln |
+| It feels great to see Microsoft collaborating with Fireeye/Mandiant to unveil and fight bad guys. Blog posts and fr… https://t.co/xdALrEIqYA |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Volexity** |
-| #2 Most tweeted to  | **JinibaBD** |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **Volexity** |
 | #3 Most tweeted to  | **RedPacketSec** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 1.24%|
+| NewProfiles (less than 10 days) | 0.19%  |
+| Tweeters with < 10 followers  | 0.95%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -52,20 +52,20 @@ The most popular user is: **Volexity**
 | ------------- | ------------- |
 | first  | **THREATINTEL**  |
 | second  | **INFOSEC**  |
-| third  | **MICROSOFT** |
-| fourth  | **CYBERSEC**  |
-| fifth  | **EXCHANGE**  |
+| third  | **CYBERSEC** |
+| fourth  | **CYBERCRIME**  |
+| fifth  | **MICROSOFT**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RedPacketSec: China’s RedEcho accused of  targeting India’s power grids - https://t.co/vA92QN9DFY#OSINT #Security #Threatintel #cybers… |
+|[VUL] #Multiple #Cisco products exposed to #DoS #attack due to a Snort issueTo read more visit:… https://t.co/G0RH68nIMY |
 
 ### MOST RETWEETED 
 
@@ -88,19 +88,19 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJE
  
 `User Description?:`  
  
-`Followers?: `5 
+`Followers?: `6 
  
-`Following?:` 279 
+`Following?:` 282 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 9 
+`Number of tweets extracted`  : 14 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1368582323533352963/Xzt3Ia0l_normal.jpg 
  
-`Number of tweets excluding replies:` 9 
+`Number of tweets excluding replies:` 14 
  
 
  
@@ -108,7 +108,7 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJE
  
 ## User Top tweeted words 
  
-**JIRA** 3 , **&LT;** 2 , **XSS** 2 , **RT** 1 , **@JAS502N:** 1 , **USE** 1 , **CVE-2021-26855** 1 , **SSRF** 1 , **DUMP** 1 , **EMAIL** 1 , **CONTENT** 1 , **PS:** 1 , **X-BACKENDCOOKIE** 1 , **COOKIE** 1 , **FIND** 1 , **SID** 1 , **HTTPS://TCO/MEOJL5K2D…RT** 1 , **@CYCATZ2:** 1 , **ATLASSIAN** 1 , **UNAUTHENTICATED** 1 , 
+**JIRA** 3 , **INFOSEC** 2 , **RCE** 2 , **&LT;** 2 , **XSS** 2 , **RT** 1 , **@EHRISHIRAJ:** 1 , **@PDNUCLEI** 1 , **V23** 1 , **HERE** 1 , **TCP** 1 , **SUPPORT** 1 , **HTTPS://TCO/2V5GBXYAXB** 1 , **HTTPS://TCO/V1L2GUQXAORT** 1 , **@DANICONNORWILD:** 1 , **MELTS** 1 , **HEART** 1 , **🥺😭❤️** 1 , **HTTPS://TCO/2P3FQHA2TERT** 1 , **@WUGEEJ:** 1 , 
  
 ## What this user tweeted
  
