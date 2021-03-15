@@ -896,3 +896,726 @@ RT @FBI: Recent charges against three North Korean hackers show that cybercrimin
 `Followers?: `1 
  
 `Following?:` 59 
+ 
+`User URL?:` None 
+ 
+`Location:` Kano, Nigeria 
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371097264840642563/t_nqxOmA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOVE** 5 , **@CAPT_ALIYU:** 4 , **NA** 3 , **DESERVE** 3 , **INACIN** 2 , **DAN** 2 , **I'M** 2 , **GOOD** 2 , **@__MARYAMAA___:** 2 , **DATING** 2 , **ENGINEERING** 2 , **@PENGPAPPI_XO:** 2 , **AFTER** 2 , **DEY** 2 , **ALLAH** 2 , **!** 2 , **AKWAI** 2 , **PEOPLE** 2 , **SECURITY** 2 , **MICROSOFT** 2 , 
+ 
+## What this user tweeted
+ 
+RT @msftsecurity: Security updates released by the Microsoft Security team for Microsoft Exchange Server to address vulnerabilities under l…
+ 
+# LiquetBotUSER INFO
+![image](http://pbs.twimg.com/profile_images/1369535642431000576/Okzu_Wgf_normal.jpg)
+ 
+`User ScreenName:` LiquetBot 
+ 
+`User chosen Name:` Liquet Bot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 06 05:03:42 +0000 2021 
+ 
+`User Description?:` Retweet bot made by @EternalLiquet, watching #100DaysOfCode #30DaysOfCode
+My git repo: https://t.co/wHZZiccH7E
+Consider following me + my dev! 
+ 
+`Followers?: `121 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/UxbS2osoxv 
+ 
+`Location:` Hopefully In Your Heart 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369535642431000576/Okzu_Wgf_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11910 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**100DAYSOFCODE** 62 , **@CLOUDCREM:** 45 , **NODE** 44 , **SALESFORCECERTIFIED** 44 , **NODEJS** 42 , **CODING** 38 , **JS** 34 , **JAVASCRIPT** 27 , **DAY** 27 , **ANGULARJS** 25 , **PYTHON** 19 , **VUEJS** 17 , **APP** 16 , **LEARNING** 15 , **REACTJS…RT** 15 , **SWIFT** 13 , **AI** 12 , **PROGRAMMING** 11 , **SALESFORCE** 11 , **LEARN** 10 , 
+ 
+## What this user tweeted
+ 
+RT @cobadisec: #BreakingNews
+#PoC released for @Microsoft Exchange #ProxyLogon #vulnerabilities
+
+#hacked
+#OVH
+#hospitality #cyber #cyberatt…RT @cheryll_andrew: Application security company F5 networks have implemented a security warning on four vulnerabilities on multiple factor…RT @cobadisec: #BreakingNews
+Microsoft's #GitHub under fire after disappearing #POC #exploit for #critical @Microsoft Exchange #vulnerabili…
+ 
+# CbRsrs100USER INFO
+![image](http://pbs.twimg.com/profile_images/1369525483805634560/8__dI19I_normal.jpg)
+ 
+`User ScreenName:` CbRsrs100 
+ 
+`User chosen Name:` CBRsrs100 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 10 05:41:55 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 63 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369525483805634560/8__dI19I_normal.jpg 
+ 
+`Number of tweets excluding replies:` 240 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CATARRINEAS** 60 , **@MOONHIHIHI** 43 , **AMA** 36 , **@KEYBOT140302** 36 , **@LEXUS570SRS** 34 , **@TOKOTIKISXS** 26 , **CRYPTO** 25 , **MARCH** 24 , **UTC** 21 , **COULD** 20 , **@DATAMATRIXTOKEN** 19 , **PM** 18 , **PROJECT** 17 , **@BENZYMAXS** 16 , **NEXT** 13 , **COMMUNITY** 13 , **PLANS** 12 , **PLATFORM** 12 , **SOME** 12 , **TIME:** 11 , 
+ 
+## What this user tweeted
+ 
+@cryptowid @RageFanSocial I’m a developer, and I’m interested in contributing to your project  alongsides earning,… https://t.co/yrk2qGK3CT
+ 
+# MMoonhihihi14USER INFO
+![image](http://pbs.twimg.com/profile_images/1369187541652447242/Y_dimg9H_normal.jpg)
+ 
+`User ScreenName:` MMoonhihihi14 
+ 
+`User chosen Name:` moonhihihi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 09 03:32:13 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 74 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369187541652447242/Y_dimg9H_normal.jpg 
+ 
+`Number of tweets excluding replies:` 284 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TOKOTIKISXS** 46 , **@CBRSRS100** 43 , **AMA** 39 , **@BENZYMAXS** 34 , **@CATARRINEAS** 26 , **MARCH** 24 , **CRYPTO** 24 , **UTC** 21 , **PROJECT** 20 , **PM** 17 , **PROJECTS** 16 , **NEXT** 15 , **@DATAMATRIXTOKEN** 15 , **@KEYBOT140302** 15 , **COULD** 14 , **FEATURES** 13 , **MAKE** 13 , **PLANS** 12 , **COMMUNITY** 12 , **PLATFORM** 11 , 
+ 
+## What this user tweeted
+ 
+@GemChaserz @ArtxTrading I’m a developer, and I’m interested in contributing to your project  alongsides earning, D… https://t.co/Q1yr1XiPyu@HiBlockTalks @workquest_co @CBRsrs100
+@catarrineas
+@lexus570srs
+I’m a developer, and I’m interested in contributin… https://t.co/1sGxTAYMdU
+ 
+# atakanhamUSER INFO
+![image](http://pbs.twimg.com/profile_images/1371131204423012355/Hyam3Iw2_normal.jpg)
+ 
+`User ScreenName:` atakanham 
+ 
+`User chosen Name:` Atakanham 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 14 16:07:36 +0000 2021 
+ 
+`User Description?:` I play drums 
+ 
+`Followers?: `4 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371131204423012355/Hyam3Iw2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**!** 3 , **@CANTURKORHAN** 2 , **@ONURI_I** 2 , **FAST** 2 , **SECURE** 2 , **DEX** 2 , **$CONV** 1 , **@KORHANC95648973** 1 , **HTTPS://TCO/PXSPOZLQDDTIDAL** 1 , **FIXES** 1 , **SECURITY** 1 , **VULNERABILITIES** 1 , **AIMS** 1 , **MINIMIZE** 1 , **HTTPS://TCO/QBGBJMGCBEI** 1 , **EXCITED** 1 , **GUYS** 1 , **HOP** 1 , **TRAIN** 1 , **BEFORE** 1 , 
+ 
+## What this user tweeted
+ 
+Tidal is the fast and secure dex. It fixes the security vulnerabilities and aims to minimize them. https://t.co/qBgBjMGCBE
+ 
+# Darrell38210631USER INFO
+![image](http://pbs.twimg.com/profile_images/1370366755319730176/qqc7rOXd_normal.jpg)
+ 
+`User ScreenName:` Darrell38210631 
+ 
+`User chosen Name:` Darrell 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 11 16:44:13 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `9 
+ 
+`Following?:` 121 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1370366755319730176/qqc7rOXd_normal.jpg 
+ 
+`Number of tweets excluding replies:` 655 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MILLION** 49 , **@OLIVEGARDEN:** 49 , **@REDLOBSTER:** 48 , **LOBSTER** 28 , **PAY** 26 , **AYE** 22 , **JOE** 18 , **BIDEN** 18 , **DAY** 18 , **COVID19** 18 , **BILLION** 17 , **@CDCGOV:** 17 , **2** 13 , **@PGATOUR:** 13 , **RED** 12 , **BUY** 11 , **ORDER** 11 , **GONE** 9 , **VACCINE** 9 , **SOME** 9 , 
+ 
+## What this user tweeted
+ 
+RT @CNNBusiness: The Biden administration has warned that organizations face enormous risks from the recently disclosed Microsoft Exchange…
+ 
+# AlfonsosSotirisUSER INFO
+![image](http://pbs.twimg.com/profile_images/1371133452020502528/yctnu2AT_normal.jpg)
+ 
+`User ScreenName:` AlfonsosSotiris 
+ 
+`User chosen Name:` Sotiris Alfonsos 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 14 10:35:01 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:` Amsterdam, Nederland 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371133452020502528/yctnu2AT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@HACKINGDAVE:** 1 , **WOW** 1 , **COMPLETELY** 1 , **SPEECHLESS** 1 , **HERE** 1 , **MICROSOFT** 1 , **REALLY** 1 , **REMOVE** 1 , **POC** 1 , **CODE** 1 , **GITHUB** 1 , **HUGE** 1 , **REMOVING** 1 , **S…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @HackingDave: Wow, I am completely speechless here. 
+
+Microsoft really did remove the PoC code from Github.
+
+ This is huge, removing a s…
+ 
+# PinkiRa46417403USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` PinkiRa46417403 
+ 
+`User chosen Name:` Pinki Rani 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 14 12:22:12 +0000 2021 
+ 
+`User Description?:` Kabir is supreme God 
+ 
+`Followers?: `5 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 359 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FAKETHEORYINISLAMONREBIRTH** 95 , **जी** 67 , **की** 65 , **है** 52 , **का** 49 , **ने** 40 , **मगहर** 38 , **कबीर** 35 , **करते** 35 , **हुए** 35 , **REBIRTH** 35 , **QURAN** 35 , **दास** 34 , **परमात्मा** 34 , **वर्णन** 34 , **गरीब** 33 , **GREATESTGURU_INTHEWORLD** 32 , **आदरणीय** 32 , **साहेब** 32 , **लीला** 32 , 
+ 
+## What this user tweeted
+ 
+RT @msftsecurity: Security updates released by the Microsoft Security team for Microsoft Exchange Server to address vulnerabilities under l…
+ 
+# DIPCHANDRADAS4USER INFO
+![image](http://pbs.twimg.com/profile_images/1371118001957695489/Mm4IYron_normal.jpg)
+ 
+`User ScreenName:` DIPCHANDRADAS4 
+ 
+`User chosen Name:` DIP CHANDRA DAS 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 14 15:12:00 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `23 
+ 
+`Following?:` 56 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371118001957695489/Mm4IYron_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BENGAL** 3 , **@SUKESHKUMARMA11:** 3 , **की** 3 , **চলবে** 2 , **না** 2 , **SUNDAY** 2 , **@TAPASDA72421609:** 2 , **में** 2 , **WANTS** 2 , **DAY** 2 , **कार्यकर्ता** 2 , **ही** 2 , **@SUDIPSI63045945:** 2 , **RT** 1 , **@BOSE_BIRAJ:** 1 , **আর** 1 , **পিসির** 1 , **অন্যায়** 1 , **কোন** 1 , **ফন্দি।** 1 , 
+ 
+## What this user tweeted
+ 
+RT @EHackerNews: A Trio of Vulnerabilities in the Linux Kernel Can Give Attackers Root Privileges https://t.co/TE51olXEnw https://t.co/DD5Q…
+ 
+# blueudp_USER INFO
+![image](http://pbs.twimg.com/profile_images/1371115221415297028/zjBQ9ytc_normal.jpg)
+ 
+`User ScreenName:` blueudp_ 
+ 
+`User chosen Name:` Eduardo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 14 15:02:54 +0000 2021 
+ 
+`User Description?:` 'Eduardo Pérez-Malumbres Cervera'
+18 años
+Pentester at @telefonica
+Apasionado de la informática, hacking y filósofo en mis ratos libres 
+ 
+`Followers?: `0 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 30 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371115221415297028/zjBQ9ytc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 30 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 18 , **EN** 9 , **LA** 9 , **PARA** 8 , **LOS** 6 , **Y** 6 , **QUE** 6 , **CON** 6 , **UN** 6 , **EL** 5 , **GOOGLE** 5 , **POR** 4 , **DORKME** 4 , **SE** 3 , **MI** 3 , **LAS** 3 , **GRACIAS** 3 , **TOOL** 3 , **AL** 3 , **UNA** 3 , 
+ 
+## What this user tweeted
+ 
+RT @KitPloit: #DorkMe - #Tool Designed With The Purpose Of Making Easier The Searching Of Vulnerabilities With #Google #Dorks https://t.co/…
+ 
+# SubhraRoyChowd6USER INFO
+![image](http://pbs.twimg.com/profile_images/1369664150457094152/KVnjnrW__normal.jpg)
+ 
+`User ScreenName:` SubhraRoyChowd6 
+ 
+`User chosen Name:` Subhra RoyChowdhury 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 10 14:56:14 +0000 2021 
+ 
+`User Description?:` WhitE DeviL 
+ 
+`Followers?: `29 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369664150457094152/KVnjnrW__normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**~** 4 , **MOST** 4 , **@EHACKERNEWS:** 3 , **CSK** 3 , **:** 3 , **DEVIL** 2 , **RT** 1 , **@OTVNEWS:** 1 , **AYODHYA** 1 , **RAM** 1 , **MANDIR:** 1 , **RS** 1 , **42** 1 , **CRORE** 1 , **RAISED** 1 , **ODISHA** 1 , **HISTORIC** 1 , **PROJECT** 1 , **HTTPS://TCO/3LVMISIOQORT** 1 , **TRIO** 1 , 
+ 
+## What this user tweeted
+ 
+RT @EHackerNews: A Trio of Vulnerabilities in the Linux Kernel Can Give Attackers Root Privileges https://t.co/TE51olXEnw https://t.co/DD5Q…
+ 
+# httpsonlinepri1USER INFO
+![image](http://pbs.twimg.com/profile_images/1369951200309878785/y7TtWemU_normal.jpg)
+ 
+`User ScreenName:` httpsonlinepri1 
+ 
+`User chosen Name:` onlineprivacysecurity.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 11 09:59:07 +0000 2021 
+ 
+`User Description?:` Blog that provides advice on online privacy and security visit https://t.co/Cmvdxnxyrh 
+ 
+`Followers?: `500 
+ 
+`Following?:` 84 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 62 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369951200309878785/y7TtWemU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 62 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VPN** 17 , **VPN推荐** 7 , **PIRATEBAY** 6 , **EMAIL** 5 , **ANNIVERSARY** 5 , **CYBERSECURITY** 5 , **COMPUTER** 4 , **TOP** 4 , **SERVERS** 4 , **CHINA** 4 , **USING** 4 , **HACKER** 3 , **SECURITY** 3 , **DATA** 3 , **AFTER** 3 , **ACCESS** 3 , **BEST** 3 , **MOST** 3 , **TORRENTING** 3 , **VPN?** 3 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: Windows Exploit Suggester (WES-NG) This tool analyses the output of Windows 'systeminfo' utility and suggest exploits f…
+ 
+# Ti7gerE25eUSER INFO
+![image](http://pbs.twimg.com/profile_images/1371172229015306243/GTrR8VpJ_normal.jpg)
+ 
+`User ScreenName:` Ti7gerE25e 
+ 
+`User chosen Name:` Wedd 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 13 16:36:34 +0000 2021 
+ 
+`User Description?:` CyberSec Analyst | Red Team | Nerd | NFL | NBA| Blues | Jazz| Special Ops | Coder | Creativity | 404 Error | Game Over | Break My Code| Limited Edition | 
+ 
+`Followers?: `7 
+ 
+`Following?:` 101 
+ 
+`User URL?:` None 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371172229015306243/GTrR8VpJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGER** 3 , **CYBER** 3 , **SECURITY** 3 , **AWARENESS** 3 , **CORE** 2 , **CONCEPT** 2 , **WISDOM** 2 , **COURAGE** 2 , **PROTECTIONRESILIENCE** 2 , **AGENCY** 2 , **IMPLEMENTING** 2 , **CYBERSEC** 2 , **PROGRAMS** 2 , **PART** 2 , **S…** 2 , **DEVICE** 2 , **DANGER** 2 , **PERSONAL** 2 , **IMPORTANT** 2 , **RT** 1 , 
+ 
+## What this user tweeted
+ 
+As we are in the industry!! In fact we now the danger of vulnerabilities points, but what about the public!! There… https://t.co/I3AqIsjIly
+ 
+# BhalgamaVedantUSER INFO
+![image](http://pbs.twimg.com/profile_images/1369857574846095366/mg1Y4cPa_normal.jpg)
+ 
+`User ScreenName:` BhalgamaVedant 
+ 
+`User chosen Name:` Vedant 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 11 03:47:01 +0000 2021 
+ 
+`User Description?:` Ethical Hacker, Penetration Tester and Content Creator!
+
+YouTube Channel : https://t.co/bt51vA89Gm 
+ 
+`Followers?: `9 
+ 
+`Following?:` 30 
+ 
+`User URL?:` None 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369857574846095366/mg1Y4cPa_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SECURITY** 3 , **@INFOPERCEPTC:** 2 , **ASSESSMENT** 2 , **SERVICE** 2 , **MONDAY** 2 , **3** 2 , **@_ZSECURITY_:** 2 , **WINDOWS** 2 , **LEARN** 2 , **LLMNR** 2 , **POISONING** 2 , **RT** 1 , **INFOPERCEPT'S** 1 , **SERVICES** 1 , **DELIVERS** 1 , **BEST** 1 , **POSSIBLE** 1 , **USING** 1 , **COMBINATION** 1 , **STANDARDIZED** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: Windows Exploit Suggester (WES-NG) This tool analyses the output of Windows 'systeminfo' utility and suggest exploits f…
+ 
+# climate_amUSER INFO
+![image](http://pbs.twimg.com/profile_images/1370125606814416910/P5ARACvX_normal.jpg)
+ 
+`User ScreenName:` climate_am 
+ 
+`User chosen Name:` I AM CLIMATE CHANGE 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 11 21:31:58 +0000 2021 
+ 
+`User Description?:` I am just like love, I am all around you and getting stronger by the day. 
+Love: the sound of an engine, burnt dinosaurs
+Hate: Youth activists,scientists
+Satire 
+ 
+`Followers?: `58 
+ 
+`Following?:` 1183 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 106 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1370125606814416910/P5ARACvX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 106 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CLIMATE** 15 , **CHANGE** 12 , **HUMANS** 11 , **LOVE** 10 , **DON'T** 10 , **CLIMATECHANGE** 6 , **WAY** 6 , **FOLLOW** 6 , **CLIMATECRISIS** 6 , **FEEL** 6 , **MORNING** 5 , **CAN'T** 5 , **CLIMATEEMERGENCY** 5 , **CLIMATEACTION** 5 , **YES** 5 , **STOP** 4 , **KEEP** 4 , **NEW** 4 , **GOING** 3 , **MOST** 3 , 
+ 
+## What this user tweeted
+ 
+👋Good morning humans.
+I have a soft spot for less developed nations, women,girls and people with disabilities.🌀
+Som… https://t.co/Xj2Oc0pxqm
+ 
+# ATechTedUSER INFO
+![image](http://pbs.twimg.com/profile_images/1370979023174635521/Kv9Rvutj_normal.jpg)
+ 
+`User ScreenName:` ATechTed 
+ 
+`User chosen Name:` Ted 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 12 19:42:02 +0000 2021 
+ 
+`User Description?:` Human. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1370979023174635521/Kv9Rvutj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@USCERT_GOV:** 1 , **@CISAGOV** 1 , **UPDATED** 1 , **ITS** 1 , **ALERT** 1 , **MICROSOFT** 1 , **EXCHANGE** 1 , **SERVER** 1 , **VULNERABILITIES** 1 , **NEWLY** 1 , **IDENTIFIED** 1 , **MALWARE** 1 , **ACTIVITY** 1 , **PLUS** 1 , **HELPF…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @USCERT_gov: .@CISAgov updated its Alert on Microsoft Exchange Server vulnerabilities with newly identified #malware activity plus helpf…
+ 
+# KlarisseKayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1370342104350662664/qvetZC83_normal.jpg)
+ 
+`User ScreenName:` KlarisseKay 
+ 
+`User chosen Name:` Para Kay KLARISSE 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 12 11:52:34 +0000 2021 
+ 
+`User Description?:` solid KLARISSENATICS 
+ 
+`Followers?: `22 
+ 
+`Following?:` 76 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 128 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1370342104350662664/qvetZC83_normal.jpg 
+ 
+`Number of tweets excluding replies:` 128 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**KLARISSE** 68 , **KA** 40 , **MAHAL** 35 , **NAMIN** 35 , **LIFE** 16 , **NA** 14 , **KO** 14 , **FIGHTING** 12 , **I'M** 10 , **YEAH** 10 , **GO** 8 , **FIGHT** 8 , **SA** 7 , **GOD** 7 , **ALWAYS** 7 , **TIME** 7 , **ANG** 6 , **LOVE** 6 , **LET** 6 , **BRITNEYSPEARSRT** 6 , 
+ 
+## What this user tweeted
+ 
+There was no such thing as a fair fight. All vulnerabilities must be exploited. 
+
+MAHAL KA NAMIN KLARISSE
+ 
+# Francis01824566USER INFO
+![image](http://pbs.twimg.com/profile_images/1369672686792802304/f6H-7b6L_normal.jpg)
+ 
+`User ScreenName:` Francis01824566 
+ 
+`User chosen Name:` Francisco Jose 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 10 15:32:38 +0000 2021 
+ 
+`User Description?:` Instituto Pérez Galdos 
+Facultad de derecho de Las Palmas de Gran Canaria //
+Administrativo en registro de la propiedad  
+// Opositor a secretario judicial 
+ 
+`Followers?: `22 
+ 
+`Following?:` 228 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369672686792802304/f6H-7b6L_normal.jpg 
+ 
+`Number of tweets excluding replies:` 317 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 121 , **QUE** 72 , **LA** 71 , **EN** 47 , **EL** 45 , **Y** 25 , **POR** 20 , **LOS** 18 , **UNA** 17 , **LAS** 17 , **ES** 16 , **SE** 15 , **UN** 15 , **PARA** 13 , **:** 11 , **DEL** 11 , **IU** 11 , **SI** 10 , **VERY** 10 , **CON** 9 , 
+ 
+## What this user tweeted
+ 
+RT @FBI: Recent charges against three North Korean hackers show that cybercriminals are increasingly targeting virtual currency markets for…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
