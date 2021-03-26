@@ -1323,3 +1323,55 @@ RT @AajeevikaBureau: So many narratives talk about the lockdown as a shock &amp;
 Mole - A Framework For Identifying &amp; Exploiting Out-Of-Band Application Vulnerabilities
 
 #100DaysOfCode… https://t.co/yDvxqLGeL6
+ 
+# 3vil_8unnyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1374278254970953728/53ZzR_Du_normal.png)
+ 
+`User ScreenName:` 3vil_8unny 
+ 
+`User chosen Name:` 3vil_8unny 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 23 08:33:25 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 16 
+ 
+`User URL?:` https://t.co/OpDgRNcE7G 
+ 
+`Location:` Новосибирск 
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1374278254970953728/53ZzR_Du_normal.png 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 12 , **EXPLOIT** 8 , **DATA** 7 , **INFOSEC** 7 , **PHISHING** 6 , **@PTRACESECURITY:** 5 , **74** 5 , **77** 5 , **RCE** 5 , **HACKING** 5 , **RANSOMWARE** 5 , **MALWARE** 4 , **GITHUB** 3 , **EXPLOITING** 3 , **2F** 3 , **@HACKENEWS:** 3 , **XSS** 3 , **F5** 3 , **HACKERS** 3 , **VULNERABILITY** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Cybernews24h: #BreakingNews
+What do your #devices know about
+you?
+
+#GitHub  #POC #exploit #critical #Microsoft  #vulnerabilities
+#cyber…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
