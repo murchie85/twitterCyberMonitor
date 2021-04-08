@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **joshrogin**  
+The most popular user is: **animetv_jp**  
  
 
-## Today I got a call that showed up on my phone as coming from my wife, but the person on the other line was from act… https://t.co/jsVSuZYMT7 
+## After 11 years, Attack on Titan manga is officially now OVER!
+
+#ThankYouHajimeIsayama for giving us an incredible s… https://t.co/bgsRDLmfYB 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **joshrogin**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @itworldca: The #pandemic has put #DigitalTransformation at the centre of #business, and NOW is the time to get in the cloud game!Join… |
-| RT @LanceSchukies: Update on PHP source code compromise: User database leak suspected#news #technology #cybersecurity #infosec #hacker #c… |
-| As a Cybersecurity professional, I am committed, dedicated and determined to see that known and even unknown threat… https://t.co/SmeiWgr2zJ |
+| RT @CISAgov: 🚨 🦉 Introducing Aviary! It's a Splunk-based dashboard to help network defenders analyze outputs from the Sparrow tool. Use Avi… |
+| that wasn't my takeaway. problem was their insider threat and CySec staff weren't robust enough....Neumann was the… https://t.co/9YDmUBNH2E |
+| RT @iotcybersec24: 👉 $2.99 👈Linux Beginners An Introduction Linux Operating System Command Line @iotcybersec24 #Linux #Beginners #An #In… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **42Sz40** |
-| #2 Most tweeted to  | **javascriptflx** |
-| #3 Most tweeted to  | **PhishFindR** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 1.56%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **TheHackersNews** |
+| #2 Most tweeted to  | **iotcybersec24** |
+| #3 Most tweeted to  | **AlyssaM_InfoSec** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 1.24%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,58 +52,57 @@ The most popular user is: **joshrogin**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PYTHON**  |
-| second  | **JAVASCRIPT**  |
-| third  | **AI** |
-| fourth  | **DATA**  |
-| fifth  | **INFOSEC**  |
+| first  | **INFOSEC**  |
+| second  | **MALWARE**  |
+| third  | **DATA** |
+| fourth  | **HACKERS**  |
+| fifth  | **NEWS**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|There are a lot of misconceptions about #CollectiveDefense and #datasharing in #cybersecurity. From giving away a c… https://t.co/6W7xCHe6D9 |
+|#cybersecurity #infosec    VIA @idtheftcenter    Number of US breach victims jumps 5️⃣6️⃣4️⃣% in Q1 2021👇… https://t.co/h3nQ5JD047 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joshrogin**  |
+| The most retweeted user is: **animetv_jp**  |
 | ------------- |
-| Today I got a call that showed up on my phone as coming from my wife, but the person on the other line was from act… https://t.co/jsVSuZYMT7 |
+| After 11 years, Attack on Titan manga is officially now OVER!#ThankYouHajimeIsayama for giving us an incredible s… https://t.co/bgsRDLmfYB |
 
 # Potential Fake Accounts
  
-# edward_stilsonUSER INFO
-![image](http://pbs.twimg.com/profile_images/1377765313840824324/KyQRV6j8_normal.jpg)
+# pacosha1USER INFO
+![image](http://pbs.twimg.com/profile_images/1379453659122180099/yfUQdATp_normal.jpg)
  
-`User ScreenName:` edward_stilson 
+`User ScreenName:` pacosha1 
  
-`User chosen Name:` Edward Stilson 
+`User chosen Name:` pacosha 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 01 23:15:16 +0000 2021 
+`User signup date?:` Tue Apr 06 15:18:23 +0000 2021 
  
-`User Description?:` Cherokee-Seneca
-US Army Veteran 
+`User Description?:` Just a normal guy trying to learn EH and programming :) 
  
-`Followers?: `32 
+`Followers?: `7 
  
-`Following?:` 516 
+`Following?:` 74 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` ~ 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 13 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1377765313840824324/KyQRV6j8_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1379453659122180099/yfUQdATp_normal.jpg 
  
-`Number of tweets excluding replies:` 1567 
+`Number of tweets excluding replies:` 13 
  
 
  
@@ -109,89 +110,12 @@ US Army Veteran
  
 ## User Top tweeted words 
  
-**NEW** 15 , **BIDEN** 13 , **VIOLENCE** 13 , **PRESIDENT** 12 , **@THEDAILYBEAST:** 12 , **@WASHINGTONPOST:** 11 , **AFTER** 11 , **@NBCNEWS:** 11 , **LAW** 11 , **GUN** 11 , **FEDERAL** 10 , **PEOPLE** 9 , **@MSNBC:** 9 , **SAY** 8 , **OPINION** 8 , **US** 8 , **GEORGE** 8 , **@THEDEMCOALITION:** 8 , **FORMER** 7 , **@ABC:** 7 , 
+**NEW** 3 , **LEARNED** 2 , **ALOT** 2 , **METASPLOIT** 2 , **SERVICES** 2 , **VIRUS** 2 , **LEARN** 2 , **CODE** 2 , **FREE** 2 , **LEARNING** 2 , **PROGRAMMING** 2 , **FUNDAMENTALS** 2 , **PART** 2 , **COMPLETED** 2 , **ROOM!** 2 , **CHECK** 2 , **OUT:** 2 , **HI** 1 , **GUYS** 1 , **KNOWLEDGE** 1 , 
  
 ## What this user tweeted
  
-RT @politico: The Government Accountability Office is conducting a wide-ranging probe into the State Department's cybersecurity practices f…
- 
-# branella_frankUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` branella_frank 
- 
-`User chosen Name:` frank d branella 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 07 12:14:09 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `11 
- 
-`Following?:` 412 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 119 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 119 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 9 , **GOP** 7 , **@THEHILL:** 7 , **REPUBLICANS** 7 , **@MSNBC:** 6 , **INFRASTRUCTURE** 6 , **HEALTH** 6 , **SAY** 6 , **@GUARDIANNEWS:** 5 , **PLAN** 5 , **TAX** 5 , **NEW** 5 , **TRUMP** 5 , **@BILLBROWDER:** 5 , **VOTERS** 5 , **NAVALNY** 5 , **GUN** 4 , **JOIN** 4 , **@POLITICO:** 4 , **@BULWARKONLINE** 4 , 
- 
-## What this user tweeted
- 
-RT @politico: The Government Accountability Office is conducting a wide-ranging probe into the State Department's cybersecurity practices f…
- 
-# CryptosurgeonMDUSER INFO
-![image](http://pbs.twimg.com/profile_images/1380143894369689606/6g4ZRZa5_normal.jpg)
- 
-`User ScreenName:` CryptosurgeonMD 
- 
-`User chosen Name:` Dr. BTC 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 08 00:56:32 +0000 2021 
- 
-`User Description?:` Surgeon, MBA, and bitcoiner interested in the future of surgery, healthcare, crypto, and investing. If you don’t get hazard pay, get #bitcoin 
- 
-`Followers?: `30 
- 
-`Following?:` 303 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 28 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1380143894369689606/6g4ZRZa5_normal.jpg 
- 
-`Number of tweets excluding replies:` 28 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**USE** 3 , **BTC** 3 , **EVERYTHING** 2 , **MONEY** 2 , **FED** 2 , **GAME** 2 , **THESE** 2 , **EVERYONE** 2 , **BLUE** 2 , **CRYPTO** 2 , **DIGITAL** 2 , **NFT** 2 , **NEXT** 2 , **DOCS** 2 , **COMPLICATED** 1 , **CHINA** 1 , **USES** 1 , **IP** 1 , **CYBERSECURITY** 1 , **INFRASTRUCTURE** 1 , 
- 
-## What this user tweeted
- 
-Not complicated. China uses everything from IP to cybersecurity to infrastructure in manufacturing to gain competit… https://t.co/iTUya61SfZ
+Hi guys,
+today I learned alot. My knowledge about Metasploit and Network Services like FTP/MYSQL/SMTP/TELNET and SS… https://t.co/IZViIJ6mCa
  
 # gaston_tursiUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
@@ -236,33 +160,32 @@ https://t.co/dB1obbw3DW #CyberSecurity #InfoSec #Intervi…RT @JosephSteinberg: 
 
 https://t.co/ZUe1AUnqUB #Business #CyberSecurity #Ransomware #InfoSec #InfoSe…
  
-# zersetzungskindUSER INFO
-![image](http://pbs.twimg.com/profile_images/1379727479464689664/Wa4ZRyYx_normal.jpg)
+# someKindOfCaryUSER INFO
+![image](http://pbs.twimg.com/profile_images/1379223639522955265/kdYEIl9g_normal.jpg)
  
-`User ScreenName:` zersetzungskind 
+`User ScreenName:` someKindOfCary 
  
-`User chosen Name:` Zersetzungskind 
+`User chosen Name:` Carolyn#1825 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Apr 02 03:10:38 +0000 2021 
+`User signup date?:` Mon Apr 05 10:59:02 +0000 2021 
  
-`User Description?:` new account. currently in hiding.
-stalked by abusive ex and his minions. 
+`User Description?:` domestic subservient who got denied by her master 
  
-`Followers?: `60 
+`Followers?: `6 
  
-`Following?:` 280 
+`Following?:` 168 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 53 
+`Number of tweets extracted`  : 30 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1379727479464689664/Wa4ZRyYx_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1379223639522955265/kdYEIl9g_normal.jpg 
  
-`Number of tweets excluding replies:` 52 
+`Number of tweets excluding replies:` 30 
  
 
  
@@ -270,89 +193,39 @@ stalked by abusive ex and his minions.
  
 ## User Top tweeted words 
  
-**VERY** 5 , **SOME** 5 , **LADY** 5 , **I'VE** 4 , **HOST** 4 , **THESE** 3 , **TINNITUS** 3 , **LEAVE** 3 , **KIM** 3 , **@JUSTICETARGETED** 3 , **HOPE** 2 , **YOU'RE** 2 , **😟** 2 , **HEADPHONES** 2 , **INTO** 2 , **TOO** 2 , **GOOD** 2 , **ANYONE** 2 , **GO** 2 , **SOMETHING** 2 , 
+**I'M** 3 , **INFOSEC** 2 , **SHH** 1 , **TRYING** 1 , **LISTEN** 1 , **GHOSTS** 1 , **HTTPS://TCO/YFVIRWLP0C4CHAN** 1 , **SUICIDE** 1 , **ANONYMOUS** 1 , **HTTPS://TCO/FBMGRA9EO5DON'T** 1 , **FUCK** 1 , **BROKEN** 1 , **HEARTS** 1 , **HTTPS://TCO/FUNX394VKGTRAP** 1 , **HENTAI** 1 , **LEWD** 1 , **YURI** 1 , **NOTHING** 1 , **REAL** 1 , **~** 1 , 
  
 ## What this user tweeted
  
-RT @ecs_cyber: Hackers can turn headphones into ‘acoustic weapons,’ cybersecurity expert warns 
-#ecscyber #headphones #acousticweapons 
-htt…
+#infosec
+shh I'm trying to listen for ghosts https://t.co/yFvIRWlp0c
  
-# cyber18monkeyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1377735291281281024/dQx-2XU__normal.jpg)
+# MiracleSecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1380177283198111751/2nxc5C0E_normal.jpg)
  
-`User ScreenName:` cyber18monkey 
+`User ScreenName:` MiracleSec 
  
-`User chosen Name:` Cybermonkey 
+`User chosen Name:` MiracleSec 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 01 20:52:19 +0000 2021 
+`User signup date?:` Thu Apr 08 14:42:00 +0000 2021 
  
-`User Description?:` Monkey Man Obsessed with the technology
-Helping to be safe in this virtual world
-
-
-
-
-
-
-'Processing to become Human with the help of technology' 
+`User Description?:` Hopefully a #pentester one day. Give me all the #infosec content you have. No '0 shit done' days is the way. 
  
-`Followers?: `0 
+`Followers?: `10 
  
-`Following?:` 1 
+`Following?:` 124 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1377735291281281024/dQx-2XU__normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1380177283198111751/2nxc5C0E_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ISSUES** 2 , **"LEGAL** 1 , **INVOLVED** 1 , **E-COMMERCE"** 1 , **DISCUSSED** 1 , **SOME** 1 , **FACE** 1 , **CYBERSPACE** 1 , **LINK:-…** 1 , **HTTPS://TCO/8BXHVESUDNONCE** 1 , **WISE** 1 , **MAN** 1 , **"TYPING** 1 , **MOST** 1 , **BEAUTIFUL** 1 , **ADDICTION** 1 , **START** 1 , **CONSUMING** 1 , **IT"** 1 , **LET'S** 1 , 
- 
-## What this user tweeted
- 
-"Legal Issues Involved In E-commerce"
-So we have discussed some of the issues we all can face in cyberspace 
-Link:-… https://t.co/8BxHVeSudN
- 
-# KChodatonUSER INFO
-![image](http://pbs.twimg.com/profile_images/1379964702139244548/foWuNT6y_normal.jpg)
- 
-`User ScreenName:` KChodaton 
- 
-`User chosen Name:` Kadmiel CHODATON 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 08 01:08:03 +0000 2021 
- 
-`User Description?:` sympa 
- 
-`Followers?: `0 
- 
-`Following?:` 62 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1379964702139244548/foWuNT6y_normal.jpg 
- 
-`Number of tweets excluding replies:` 26 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -360,79 +233,38 @@ Link:-… https://t.co/8BxHVeSudN
  
 ## User Top tweeted words 
  
-**@CALLISTOSUPPORT:** 10 , **CALLISTO** 4 , **ANNOUNCE** 4 , **LUCKY** 4 , **WINNERS** 4 , **(DAY** 4 , **NEW** 3 , **@DEXARAN:** 3 , **NETWORK** 3 , **SECURITY** 3 , **1** 3 , **2** 3 , **EACH** 3 , **TRADING** 2 , **DURING** 2 , **CONGRATULATIONS** 2 , **LAST** 2 , **WEEK!** 2 , **1)** 2 , **2)** 2 , 
+**GENERAL** 2 , **INDUSTRY** 2 , **WORKED** 2 , **@GEECHEETHREAT** 1 , **VIDEO** 1 , **GAMES** 1 , **COMPLETELY** 1 , **DIFFERENT** 1 , **ANGLE** 1 , **DEPENDING** 1 , **A…** 1 , **HTTPS://TCO/TF8HAMTTXO@GEECHEETHREAT** 1 , **I'VE** 1 , **POKER** 1 , **FEW** 1 , **YEARS** 1 , **BUNCH** 1 , **GAMING** 1 , **NON-TECH** 1 , **ROLES…** 1 , 
  
 ## What this user tweeted
  
-RT @CallistoSupport: By auditing #McAfeeDEX #CallistoNetwork joins @officialmcafee effort to make #Cryptospace safer!
-
-When two of the worl…
+When you start getting into #infosec and look at all the stuff you need/should/want to know, it's so overwhelming.… https://t.co/83TCu5Uvz9
  
-# otto_javascriptUSER INFO
-![image](http://pbs.twimg.com/profile_images/1377611189732179971/jsSZ5Rru_normal.jpg)
- 
-`User ScreenName:` otto_javascript 
- 
-`User chosen Name:` otto_javascript 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 01 13:17:24 +0000 2021 
- 
-`User Description?:` Automating JavaScript security for all. Follow us for tips on how to keep your site secure and get more customers. 
- 
-`Followers?: `21 
- 
-`Following?:` 187 
- 
-`User URL?:` https://t.co/MKvh6RW1uy 
- 
-`Location:` United States 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1377611189732179971/jsSZ5Rru_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DATASECURITY** 3 , **SMALL** 2 , **BUSINESSES** 2 , **DATAPROTECTION** 2 , **DATAPRIVACY** 2 , **HUMAN** 2 , **CYBERCRIME** 2 , **FACT:** 1 , **60%** 1 , **CLOSE** 1 , **WITHIN** 1 , **6** 1 , **MONTHS** 1 , **DATA** 1 , **BREACH** 1 , **HTTPS://TCO/DSNH614QVV** 1 , **SMALLBUSINESS…** 1 , **HTTPS://TCO/UOHFQSUXTHCYBERSECURITY** 1 , **ARTIFICIALINTELLIGENCE** 1 , **DATABREACH"SOPHISTICATED** 1 , 
- 
-## What this user tweeted
- 
-"Sophisticated attacks will be generated without human intervention" predicts Ernesto Broersma, Partner Technical S… https://t.co/xnSIjN7FB5
- 
-# JakajJakkiUSER INFO
+# Ronniep82845045USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` JakajJakki 
+`User ScreenName:` Ronniep82845045 
  
-`User chosen Name:` Jakki Jakaj 
+`User chosen Name:` Ronnie peters 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 06 13:53:45 +0000 2021 
+`User signup date?:` Wed Apr 07 21:46:26 +0000 2021 
  
-`User Description?:`  
+`User Description?:` Hacker coordinator 
  
 `Followers?: `1 
  
-`Following?:` 2 
+`Following?:` 4 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 7 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -440,13 +272,11 @@ When two of the worl…
  
 ## User Top tweeted words 
  
-**@GLOBALKNOWLEDGE:** 3 , **CYBERSECURITY** 3 , **➡️** 2 , **RT** 1 , **LEARN** 1 , **FUTURE** 1 , **TRENDS** 1 , **THREATS** 1 , **HTTPS://TCO/GCFHPTBU6S** 1 , **CYBERATTACK** 1 , **CYBERTHREA…RT** 1 , **EXPLORE** 1 , **TEN** 1 , **STEPS** 1 , **IMPROVE** 1 , **JOB** 1 , **POSITION** 1 , **PROFESSIONAL** 1 , **HTTPS://TCO/PR95QQDH…RT** 1 , **MINIMUM** 1 , 
+**SCAM** 3 , **INBOX** 3 , **STEPHEN** 3 , **HELP** 3 , **HELPED** 3 , **HACKING** 3 , **DON'T** 2 , **ACTIVITIES** 2 , **INSTAGRAM** 2 , **PEOPLE** 2 , **RT** 1 , **@THEHACKERSNEWS:** 1 , **HACKERS** 1 , **ACTIVELY** 1 , **EXPLOITING** 1 , **CRITICAL** 1 , **VPNS** 1 , **VULNERABILITIES** 1 , **UNPATCHED** 1 , **INDUSTRIAL** 1 , 
  
 ## What this user tweeted
  
-RT @GlobalKnowledge: Learn the future trends and threats in Cybersecurity. https://t.co/GcFHptbu6S
-
-#Cybersecurity #CyberAttack #CyberThrea…
+RT @TheHackersNews: Hackers are actively exploiting critical VPNs vulnerabilities on unpatched industrial systems to deploy Cring #ransomwa…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
