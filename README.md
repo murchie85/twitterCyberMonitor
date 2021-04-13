@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **bad_packets**  
+The most popular user is: **zellieimani**  
  
 
-## We've detected mass scanning activity targeting vulnerable VMware vCenter servers (https://t.co/t3Gv2ZgTdt).
-
-Query… https://t.co/s8L2UV84EW 
+## Pretty much https://t.co/IWfKCVxiA8 
 
   
 
@@ -25,24 +23,24 @@ Query… https://t.co/s8L2UV84EW
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @varutra: Our expert researchers are working around the clock to gather the latest #intelligence on #cyber #threats worldwide to equips… |
-| Kicks off with some Sherman Kent -  “Intelligence does not claim infallibility for its prophecies. Intelligence mer… https://t.co/66EtyjbqWE |
-| RT @lgomezperu: @DarkReadingCrime Service Gives Firms Another Reason to Purge Macros  by @roblemos #threatintel #TrickBot #macros #cybercr… |
+| RT @RachelTobac: To reach the ~youth~ we're going to have to make infosec sea shanties, aren't we? Guess so!Behold the tale of kid who reu… |
+| RT @USCERT_gov: 🔒 @CISAgov invites you to a behind-the-scenes look at a #ransomware attack. Join us tomorrow at 9am ET for our latest webin… |
+| RT @AlecSocial: RT @CrossRealms: GOOD MORNING‼️😅#cybersecurity #hacking #security #network #cyberattack #malware #risk #phishing #cyber #… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **RedPacketSec** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 2.23%|
+| #1 Most tweeted to  | **CISAgov** |
+| #2 Most tweeted to  | **USCERT_gov** |
+| #3 Most tweeted to  | **iotcybersec24** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 1.82%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -52,57 +50,57 @@ Query… https://t.co/s8L2UV84EW
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
-| second  | **DARKWEB**  |
-| third  | **CYBERSEC** |
-| fourth  | **INFOSEC**  |
-| fifth  | **THREATINTEL**  |
+| first  | **INFOSEC**  |
+| second  | **MALWARE**  |
+| third  | **@USCERT_GOV:** |
+| fourth  | **DATA**  |
+| fifth  | **RANSOMWARE**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BinSecSweeper: Need to analyze a malware sample? Need to asses security/privacy of a mobile app? Need to understand security of a IOT b… |
+|RT @InfoSecPhoenix: Finished @thecybermentor's practical ethical hacking course! Finally! Haha. Definitely took me more than 25 hours, but… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bad_packets**  |
+| The most retweeted user is: **zellieimani**  |
 | ------------- |
-| We've detected mass scanning activity targeting vulnerable VMware vCenter servers (https://t.co/t3Gv2ZgTdt).Query… https://t.co/s8L2UV84EW |
+| Pretty much https://t.co/IWfKCVxiA8 |
 
 # Potential Fake Accounts
  
-# caliuiga999USER INFO
-![image](http://pbs.twimg.com/profile_images/1381854214914199553/fWgccInV_normal.jpg)
+# henrydomingosecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1380315330346635264/v5BNWrGB_normal.jpg)
  
-`User ScreenName:` caliuiga999 
+`User ScreenName:` henrydomingosec 
  
-`User chosen Name:` Caliuiga999 
+`User chosen Name:` Henry Domingo 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 13 06:17:45 +0000 2021 
+`User signup date?:` Thu Apr 08 23:05:14 +0000 2021 
  
-`User Description?:` #LovelyChick #KeepCalm #BlowShitUp #Anonymous #RememberGeorgiaSenator #GhostSecMafia #OpIsis #WhatIsHappeningInMyanmar #Fucktyranny #Myanmarcoup #FreePalestine 
+`User Description?:` Security nut. VA Tech Alum. DC Sports. 
  
-`Followers?: `6 
+`Followers?: `7 
  
-`Following?:` 15 
+`Following?:` 239 
  
-`User URL?:` None 
+`User URL?:` https://t.co/5r19MV90iP 
  
 `Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 31 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1381854214914199553/fWgccInV_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1380315330346635264/v5BNWrGB_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 31 
  
 
  
@@ -110,40 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**@B100D5H07_SEC:** 4 , **RT** 1 , **UPDATE** 1 , **HTTPS://TCO/U9F2B3N9TXRT** 1 , **HTTPS://TCO/TMMUKMUNYVRT** 1 , **ANONYMOUS** 1 , **GLOBAL** 1 , **COLLECTIVE** 1 , **MESSAGE** 1 , **ROMANIANS** 1 , **HUMANS** 1 , **WORLD** 1 , **B100D5H07_SEC** 1 , **HTTPS://TCO/9XH8H8NQJU** 1 , **@ANONBARBBY…RT** 1 , **@ANONARGMMM2020:** 1 , **🔴🦋🍀HERE** 1 , **TWEET-SOURCES** 1 , **USE** 1 , **OPFEEDYEMEN** 1 , 
+**SECURITY** 4 , **MALWARE** 4 , **HELP** 3 , **CYBERSECURITY** 3 , **EXCHANGE** 3 , **@GOSSITHEDOG:** 3 , **NEW** 3 , **DATA** 3 , **AROUND** 2 , **EMAIL** 2 , **INTO** 2 , **SUMMIT** 2 , **@SANSINSTITUTE:** 2 , **MICROSOFT** 2 , **PATCH** 2 , **WHICH** 2 , **MS** 2 , **USERS** 2 , **APPLY** 2 , **@MANICODE:** 2 , 
  
 ## What this user tweeted
  
-RT @B100d5h07_Sec: Canadian IoT Solutions Provider, Sierra Wireless Hit by a Ransomware Attack - https://t.co/qCRSpg8uq9
-#OSINT #Security #…
+RT @VeteranSec: What can we do to help get more veterans in Cyber? If your org is interested in doing more to help, please reach out. #info…
  
-# sultanc58659908USER INFO
+# Antony03735456USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` sultanc58659908 
+`User ScreenName:` Antony03735456 
  
-`User chosen Name:` sultan chaudhary 
+`User chosen Name:` Antony 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 12 15:08:18 +0000 2021 
+`User signup date?:` Mon Apr 05 06:04:14 +0000 2021 
  
-`User Description?:` Life is too short to waste...
-TIme is too less to enjoy 
+`User Description?:` Sometimes you have to be cruel in order to be kind#humanlife 
  
-`Followers?: `0 
+`Followers?: `3 
  
-`Following?:` 31 
+`Following?:` 70 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 22 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 22 
  
 
  
@@ -151,42 +147,42 @@ TIme is too less to enjoy
  
 ## User Top tweeted words 
  
-**NORWAY** 1 , **RAISES** 1 , **ALARM** 1 , **EXPLOITATION** 1 , **DUAL-USE** 1 , **NUCLEAR** 1 , **TECHNOLOGY** 1 , **PAKISTAN** 1 , **SAVELIVES** 1 , **THREATINTEL** 1 , **FRO…** 1 , **HTTPS://TCO/XTKVX5HRGV** 1 , 
+**@ELONMUSK:** 5 , **GOOD** 3 , **LOVE** 3 , **GOING** 2 , **@MIKESONKO:** 2 , **TRAGEDY** 2 , **DIFFICULT** 2 , **JOHNSON** 2 , **PEOPLE** 2 , **SAMIDOH** 2 , **PRICE** 2 , **POLICE** 2 , **RT** 1 , **@RACHELTOBAC:** 1 , **REACH** 1 , **~YOUTH~** 1 , **WE'RE** 1 , **MAKE** 1 , **INFOSEC** 1 , **SEA** 1 , 
  
 ## What this user tweeted
  
-#Norway  raises #alarm over #exploitation
-of dual-use #nuclear technology by #Pakistan 
-#SaveLives #threatintel fro… https://t.co/XtKVx5hrGV
+RT @RachelTobac: To reach the ~youth~ we're going to have to make infosec sea shanties, aren't we? Guess so!
+Behold the tale of kid who reu…
  
-# todoeltiempo99USER INFO
-![image](http://pbs.twimg.com/profile_images/1381517895474221064/76uvugmz_normal.jpg)
+# RobOttoBotsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1381744739876175878/g88W9wp-_normal.jpg)
  
-`User ScreenName:` todoeltiempo99 
+`User ScreenName:` RobOttoBots 
  
-`User chosen Name:` Todoeltiempo 
+`User chosen Name:` Rob Otto Bot 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 12 07:45:50 +0000 2021 
+`User signup date?:` Mon Apr 12 23:02:48 +0000 2021 
  
-`User Description?:` Buenos para nada 
-
- situación tensa en Londres durante la movilización contra la nueva ley FASCISTA que da más impunidad y mayor pode 
+`User Description?:` I'm a bot built with #JavaScript!
+| I tweet a lot |
+| Drop a follow and watch me Evolve! |
+| Check out my site for a free Discord bot, being built now! | 
  
-`Followers?: `16 
+`Followers?: `39 
  
-`Following?:` 64 
+`Following?:` 1 
  
-`User URL?:` None 
+`User URL?:` https://t.co/FaJ0ibToQj 
  
-`Location:`  
+`Location:` The Internets 
  
-`Number of tweets extracted`  : 117 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1381517895474221064/76uvugmz_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1381744739876175878/g88W9wp-_normal.jpg 
  
-`Number of tweets excluding replies:` 118 
+`Number of tweets excluding replies:` 2660 
  
 
  
@@ -194,12 +190,57 @@ of dual-use #nuclear technology by #Pakistan
  
 ## User Top tweeted words 
  
-**@COMRADECAMERA:** 10 , **UGANDA** 9 , **ANONYMOUS** 8 , **@YOURANONONLINE** 8 , **DATA** 6 , **DAYS** 6 , **@B100D5H07_SEC:** 5 , **DE** 5 , **POLICE** 5 , **WORLD** 5 , **@ANONYMOUSUGAND1:** 5 , **INTERNET** 5 , **@EHACKERNEWS:** 5 , **TIME** 4 , **HACKERS** 4 , **ATTACK** 4 , **NEVER** 4 , **OFFICERS** 4 , **SECURITY** 4 , **MYANMAR** 4 , 
+**JAVASCRIPT** 103 , **PYTHON** 47 , **PAY** 42 , **ESSAY** 32 , **DUE** 26 , **PROGRAMMING** 24 , **NODEJS** 24 , **JAVA** 22 , **PAPER** 20 , **ONLINE** 19 , **ESSAYPAY** 18 , **HOMEWORK** 18 , **WRITE** 17 , **DOMICILE** 16 , **CITATION** 16 , **SAINTDENIS** 16 , **CODING** 16 , **100DAYSOFCODE** 15 , **CODE** 14 , **PROGRAMMER** 14 , 
  
 ## What this user tweeted
  
-RT @B100d5h07_Sec: Canadian IoT Solutions Provider, Sierra Wireless Hit by a Ransomware Attack - https://t.co/qCRSpg8uq9
-#OSINT #Security #…
+RT @WPA_1: There are too many uncivilized people here in #twitter, and the "People you follow can reply" option is Amazing! 😉
+https://t.co/…RT @EmamulIslam11: Do you need an urgent logo? 
+Order here
+https://t.co/HEUmqbyvIn
+
+#programming #Developer #code #coding #coder #tutorials…RT @Hacware1: Developing with our API is a "No Brainer"!  Apply for early access at https://t.co/nhlWfhLqJF
+
+#securityawareness #software #…
+ 
+# kitty14956590USER INFO
+![image](http://pbs.twimg.com/profile_images/1381696479765663745/glye42vv_normal.jpg)
+ 
+`User ScreenName:` kitty14956590 
+ 
+`User chosen Name:` kitty 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 12 19:48:11 +0000 2021 
+ 
+`User Description?:` Femboy who may or may not be trans 
+ 
+`Followers?: `3 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:` /bin/bash 
+ 
+`Number of tweets extracted`  : 45 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1381696479765663745/glye42vv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 45 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DON'T** 3 , **BOTH** 2 , **I'M** 2 , **FEMBOY** 2 , **@FEMBOYR6S** 1 , **SH** 1 , **ARE@FEMBOYR6S** 1 , **AREYOU** 1 , **GOOD?** 1 , **HTTPS://TCO/KU0QNR3FIU@FEMBOYR6S** 1 , **BOTHRT** 1 , **@XXBYTE:** 1 , **UAC** 1 , **BYPASS** 1 , **2** 1 , **LINES:** 1 , **```** 1 , **NEW-ITEM** 1 , **-PATH** 1 , **HKCU:\SOFTWARE\CLASSES\MS-SETTINGS\SHELL\OPEN\COMMAND** 1 , 
+ 
+## What this user tweeted
+ 
+RT @fr0gger_: Windows privileges determine the type of operation a user account can perform on the OS and are sometimes abused by attackers…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
