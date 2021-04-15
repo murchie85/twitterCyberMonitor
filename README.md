@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **TheDailyShow**  
+The most popular user is: **_Pammy_DS_**  
  
 
-## “We’re not dealing with bad apples, we’re dealing with a rotten tree.”
-
-Trevor addresses Daunte Wright, Caron Nazar… https://t.co/mh6PmlITXT 
+## You deserve a lover who's aware &amp; knows exactly who they are. Someone who's deeply present, in tune with their emot… https://t.co/yf0U8B1QlU 
 
   
 
@@ -25,25 +23,25 @@ Trevor addresses Daunte Wright, Caron Nazar… https://t.co/mh6PmlITXT
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @x0rz: "It was the Russians" is the infosec version of "it was DNS" |
-| RT @Snowden: With the FBI breaking into US systems to delete malware from Microsoft exchange servers and now this, the government is engage… |
-| New DNS vulnerabilities have the potential to impact millions of devices - Help Net Security#Vulnerability #DNS… https://t.co/A1UrA70ZMk |
+| RT @USCERT_gov: .@CISAgov is aware of a set of nine DNS-related vulnerabilities, referred to as NAME:WRECK, affecting millions of IoT, OT,… |
+| RT @tsecrime: RT @NCSC: RT @NSACyber: Russian Foreign Intelligence Service (SVR) cyber actors are exploiting five publicly known vulnerabil… |
+| RT @prachatai_en: [Songkran repost]A look at the recycling industry in Thailand from top to bottom. Despite its important role in recycli… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Snowden** |
-| #2 Most tweeted to  | **iotcybersec24** |
-| #3 Most tweeted to  | **AlyssaM_InfoSec** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 1.26%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **NSACyber** |
+| #2 Most tweeted to  | **FBI** |
+| #3 Most tweeted to  | **CISAgov** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 2.82%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -52,175 +50,57 @@ Trevor addresses Daunte Wright, Caron Nazar… https://t.co/mh6PmlITXT
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **MALWARE**  |
+| first  | **VULNERABILITIES**  |
+| second  | **RUSSIAN**  |
 | third  | **US** |
-| fourth  | **EXCHANGE**  |
-| fifth  | **FBI**  |
+| fourth  | **EXPLOITING**  |
+| fifth  | **INTELLIGENCE**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Snowden: With the FBI breaking into US systems to delete malware from Microsoft exchange servers and now this, the government is engage… |
+|RT @FBI: Russian Foreign Intelligence Service cyber actors are exploiting five publicly known vulnerabilities to target U.S. and allied net… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TheDailyShow**  |
+| The most retweeted user is: **_Pammy_DS_**  |
 | ------------- |
-| “We’re not dealing with bad apples, we’re dealing with a rotten tree.”Trevor addresses Daunte Wright, Caron Nazar… https://t.co/mh6PmlITXT |
+| You deserve a lover who's aware &amp; knows exactly who they are. Someone who's deeply present, in tune with their emot… https://t.co/yf0U8B1QlU |
 
 # Potential Fake Accounts
  
-# ChrisBrick14USER INFO
-![image](http://pbs.twimg.com/profile_images/1381652853199003651/j626kZNA_normal.jpg)
- 
-`User ScreenName:` ChrisBrick14 
- 
-`User chosen Name:` Chris Brick - hack/chill/wear a mask - GET THE VAX 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 12 16:55:51 +0000 2021 
- 
-`User Description?:` Dad, infosec, sysadmin, hacker, unix whisperer, brewer, artist, meat smoker, ally, biker. Change your passwords. he/him Words are mine 
-@hacknotcrime 
- 
-`Followers?: `113 
- 
-`Following?:` 633 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1381652853199003651/j626kZNA_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ACCOUNT** 3 , **FAILED** 2 , **THANKS** 2 , **FOLLOW** 2 , **@CBRICK** 2 , **MANY** 2 , **TWITTER** 2 , **@ALYSSAM_INFOSEC** 1 , **@VARCHARR** 1 , **COURSE!** 1 , **I'M** 1 , **STILL** 1 , **THANKFUL** 1 , **GOT** 1 , **OLD** 1 , **STUCK** 1 , **VERIFICATION** 1 , **LIMBO** 1 , **200@PRY0CC** 1 , **SOMEHOW** 1 , 
- 
-## What this user tweeted
- 
-@AlyssaM_InfoSec @varcharr Of course! I'm still thankful for when you got my old, stuck in verification limbo account to over 200.
- 
-# 911_cyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1382791699378888709/Tnx8uULy_normal.jpg)
- 
-`User ScreenName:` 911_cyber 
- 
-`User chosen Name:` 911Cyber 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 15 20:20:52 +0000 2021 
- 
-`User Description?:` We are the first responders for any Cyber Incident 
- 
-`Followers?: `6 
- 
-`Following?:` 13 
- 
-`User URL?:` https://t.co/1Pn18vU4jk 
- 
-`Location:` New York 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1382791699378888709/Tnx8uULy_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AI** 3 , **CYBERSECURITY** 2 , **RT** 1 , **@CYBERMATERIAL_:** 1 , **CYBERDECODED:** 1 , **VS** 1 , **DECODING** 1 , **THREAT** 1 , **SECURITY** 1 , **HTTPS://TCO/7T7YNTNDML** 1 , **AR…** 1 , 
- 
-## What this user tweeted
- 
-RT @cybermaterial_: CyberDecoded: AI vs Cybersecurity - Decoding the AI Threat to Security - https://t.co/7T7YNTnDML #cybersecurity #AI #ar…
- 
-# scarlet62418090USER INFO
-![image](http://pbs.twimg.com/profile_images/1381153788543836166/DWWRwqvM_normal.jpg)
- 
-`User ScreenName:` scarlet62418090 
- 
-`User chosen Name:` scarlett williams 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 11 05:35:22 +0000 2021 
- 
-`User Description?:` Im blessed🙏 
- 
-`Followers?: `2 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:` Tx 
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1381153788543836166/DWWRwqvM_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WOMAN** 3 , **NEEDS** 2 , **MAN** 2 , **RT** 1 , **@APRILWRIGHT:** 1 , **INFOSEC** 1 , **JOB** 1 , **DESCRIPTIONS** 1 , **NUTSHELL** 1 , **HTTPS://TCO/FLYHSVEX6BDONT** 1 , **WORTH** 1 , **FIGHTING** 1 , **M…** 1 , **HTTPS://TCO/EZAZPFLG0PRT** 1 , **@FLOTUS:** 1 , **RAMADAN** 1 , **MUBARAK** 1 , **MUSLIM** 1 , **COMMUNITIES** 1 , **UNITED** 1 , 
- 
-## What this user tweeted
- 
-RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
- 
-# Marge25464927USER INFO
+# Yogita38380202USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` Marge25464927 
+`User ScreenName:` Yogita38380202 
  
-`User chosen Name:` Marge 
+`User chosen Name:` Yogita 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 15 17:40:02 +0000 2021 
+`User signup date?:` Sun Apr 11 12:59:40 +0000 2021 
  
 `User Description?:`  
  
-`Followers?: `2 
+`Followers?: `0 
  
-`Following?:` 137 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 32 
+`Number of tweets extracted`  : 6 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 32 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -228,38 +108,79 @@ RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
  
 ## User Top tweeted words 
  
-**TWITTER** 6 , **CNN** 5 , **HOUSE** 4 , **JAMES** 3 , **O’KEEFE** 3 , **AFTER** 3 , **ARRESTED** 3 , **FAUCI** 3 , **DEMOCRAT** 3 , **SUSPENDED** 3 , **DEMOCRATS** 3 , **@JIM_JORDAN:** 3 , **-BIG** 3 , **@JACKPOSOBIEC:** 2 , **PERFECT** 2 , **ABSOLUTELY** 2 , **SUSPENDS** 2 , **STORY** 2 , **MAYOR** 2 , **ADVOCATED** 2 , 
+**!** 3 , **CAUSE** 3 , **MAKE** 2 , **LOOK** 2 , **@AKANCHAS** 1 , **WROTE** 1 , **STUFF** 1 , **DELETED** 1 , **ITS** 1 , **TOO** 1 , **LATE** 1 , **USELESS** 1 , **!@AKANCHAS** 1 , **FACEBOOK** 1 , **HACKED** 1 , **RELEASED** 1 , **CONNECTED** 1 , **3** 1 , **MAIL** 1 , **IDS** 1 , 
  
 ## What this user tweeted
  
-RT @Snowden: With the FBI breaking into US systems to delete malware from Microsoft exchange servers and now this, the government is engage…
+@AkanchaS They together(hacker and occultists) will torture you and when you cry they will make you look bad! That… https://t.co/g675w0fFh3
  
-# maikerlis9USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# NumberedSaintUSER INFO
+![image](http://pbs.twimg.com/profile_images/1379816772656717827/L42pQQk__normal.jpg)
  
-`User ScreenName:` maikerlis9 
+`User ScreenName:` NumberedSaint 
  
-`User chosen Name:` maikerlis 
+`User chosen Name:` Saint 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 08 21:40:10 +0000 2021 
+`User signup date?:` Wed Apr 07 13:33:31 +0000 2021 
  
 `User Description?:`  
  
-`Followers?: `11 
+`Followers?: `3 
  
-`Following?:` 54 
+`Following?:` 231 
  
 `User URL?:` None 
  
 `Location:`  
+ 
+`Number of tweets extracted`  : 90 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1379816772656717827/L42pQQk__normal.jpg 
+ 
+`Number of tweets excluding replies:` 90 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 12 , **@POTUS:** 11 , **@THEHILL:** 10 , **PRESIDENT** 9 , **US** 7 , **POLICE** 7 , **@FOXNEWS:** 6 , **@VP:** 5 , **AFGHANISTAN** 5 , **CHANGE** 4 , **AMERICAN** 4 , **HAPPY** 4 , **@GUARDIAN:** 4 , **@NASA:** 4 , **COUNTRY** 4 , **GUN** 4 , **UNITED** 3 , **STATES** 3 , **AFTER** 3 , **CONGRESS** 3 , 
+ 
+## What this user tweeted
+ 
+RT @NSACyber: Russian Foreign Intelligence Service (SVR) cyber actors are exploiting five publicly known vulnerabilities to target U.S. and…
+ 
+# itlovesmeswiftUSER INFO
+![image](http://pbs.twimg.com/profile_images/1381339356883869699/mTUYP6Gs_normal.jpg)
+ 
+`User ScreenName:` itlovesmeswift 
+ 
+`User chosen Name:` Sofia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 10 15:31:18 +0000 2021 
+ 
+`User Description?:` Don't you say you've missed me if you don't want me again 
+    kat graham x 2(twt n ig)
+soulmates aren't always lovers 
+ 
+`Followers?: `14 
+ 
+`Following?:` 43 
+ 
+`User URL?:` None 
+ 
+`Location:` Hogwarts 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1381339356883869699/mTUYP6Gs_normal.jpg 
  
-`Number of tweets excluding replies:` 4804 
+`Number of tweets excluding replies:` 217 
  
 
  
@@ -267,38 +188,38 @@ RT @Snowden: With the FBI breaking into US systems to delete malware from Micros
  
 ## User Top tweeted words 
  
-**DE** 230 , **LA** 129 , **EL** 99 , **EN** 85 , **Y** 67 , **DEL** 53 , **QUE** 50 , **POR** 37 , **ALEXNAINSAAB** 37 , **LOS** 35 , **CON** 32 , **LAS** 30 , **UN** 29 , **SE** 28 , **VERDE** 25 , **AL** 24 , **PARA** 23 , **VENEZUELA** 22 , **CABO** 22 , **UNA** 18 , 
+**@TAYLORSWIFT13** 24 , **ALBUM** 14 , **KLAROLINE** 12 , **@CHARTDATA** 12 , **LOVE** 11 , **1** 11 , **PEOPLE** 9 , **TAYLOR** 9 , **@CHARTDATA:** 8 , **ALBUMS** 8 , **CAROLINE** 7 , **TOP** 6 , **TRUE** 6 , **US** 6 , **SWIFT** 6 , **200** 6 , **@HITSDD** 6 , **@LIAMPAYNE** 5 , **IM** 5 , **2** 5 , 
  
 ## What this user tweeted
  
-RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
+it was all for his own gain, try to convince me otherwise, i mean why would he want a therapist in the first place… https://t.co/ZucPG1JJZr
  
-# betterappsecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1382727046011441158/lRU7r1Ly_normal.jpg)
+# BlaiseP59407586USER INFO
+![image](http://pbs.twimg.com/profile_images/1382709602547023879/LJZjakBq_normal.jpg)
  
-`User ScreenName:` betterappsec 
+`User ScreenName:` BlaiseP59407586 
  
-`User chosen Name:` better appsec 
+`User chosen Name:` /Ę•Ł•M•Ə•Ř\ Ŧűđđ (:•..•:) øøø BlaisePascal 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 15 14:31:02 +0000 2021 
+`User signup date?:` Thu Apr 15 12:22:50 +0000 2021 
  
-`User Description?:` Application & Product Security driven content and expertise for your pursuit of better. 
+`User Description?:` "Justice without force is powerless; force without justice is tyrannical." Blaise Pascal 
  
-`Followers?: `7 
+`Followers?: `100 
  
-`Following?:` 42 
+`Following?:` 83 
  
-`User URL?:` https://t.co/V8KwrcPfdv 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 50 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1382727046011441158/lRU7r1Ly_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1382709602547023879/LJZjakBq_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 50 
  
 
  
@@ -306,11 +227,245 @@ RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
  
 ## User Top tweeted words 
  
-***** 4 , **NEVER** 2 , **OBLIGATORY** 1 , **TAGGING** 1 , **APPSEC** 1 , **CYBERSECURITY** 1 , **INFOSEC** 1 , **SOFTWAREENGINEERING** 1 , **SDLC** 1 , **DEVSECOPSRT** 1 , **@CLINTGIBLER:** 1 , **📚** 1 , **TL;DR** 1 , **SEC** 1 , **77** 1 , **@ARTSPLOIT** 1 , **NEW** 1 , **OAUTH** 1 , **ATTACKS** 1 , **@TOMNOMNOM** 1 , 
+**ITS** 3 , **TRUMP** 2 , **NEVER** 2 , **THEN** 2 , **WAY** 2 , **DARKNESS** 2 , **COURT** 2 , **@BOLDWARRIOR777:** 2 , **TWITTER** 2 , **BIDEN** 2 , **@ARCHILLECT:** 2 , **US** 2 , **CYBER** 2 , **@BOLDWARRIOR777** 2 , **LOVE** 2 , **RT** 1 , **@BILLMON27:** 1 , **MISS** 1 , **PRESIDENT** 1 , **MELANIA?** 1 , 
  
 ## What this user tweeted
  
-Obligatory tagging #appsec #cybersecurity #infosec #SoftwareEngineering #sdlc #devsecops
+RT @US_CYBERCOM: U.S. Cyber Command teams hunted for malware &amp; related files used by SVR Russian cyber actors to exploit vulnerabilities in…
+ 
+# Foxy3434USER INFO
+![image](http://pbs.twimg.com/profile_images/1381647873436176388/9wy2WcXs_normal.jpg)
+ 
+`User ScreenName:` Foxy3434 
+ 
+`User chosen Name:` Foxy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 12 16:15:05 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 40 
+ 
+`User URL?:` None 
+ 
+`Location:` Boston, MA 
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1381647873436176388/9wy2WcXs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DAYS** 2 , **POTHOLES** 2 , **LYNNFIELD** 2 , **1** 2 , **NORTH** 2 , **BEFORE** 2 , **TUNNEL** 2 , **FRONT** 2 , **KELLY** 2 , **JEEP** 2 , **LEFT** 2 , **THANK** 2 , **EXIT** 2 , **RT** 1 , **@FBI:** 1 , **RUSSIAN** 1 , **FOREIGN** 1 , **INTELLIGENCE** 1 , **SERVICE** 1 , **CYBER** 1 , 
+ 
+## What this user tweeted
+ 
+RT @FBI: Russian Foreign Intelligence Service cyber actors are exploiting five publicly known vulnerabilities to target U.S. and allied net…
+ 
+# CatLadyPoliticUSER INFO
+![image](http://pbs.twimg.com/profile_images/1380912574007496704/PHSsoa8D_normal.jpg)
+ 
+`User ScreenName:` CatLadyPolitic 
+ 
+`User chosen Name:` Cat Lady Politics 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 10 15:22:07 +0000 2021 
+ 
+`User Description?:` I love cats 
+ 
+`Followers?: `2 
+ 
+`Following?:` 122 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 27 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1380912574007496704/PHSsoa8D_normal.jpg 
+ 
+`Number of tweets excluding replies:` 27 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@VP** 3 , **NEW** 2 , **DETAILS** 2 , **RUSSIAN** 2 , **@RANDYRAINBOW** 2 , **AMERICAN** 2 , **@FBI:** 2 , **US** 2 , **BASE** 2 , **MILITARY** 2 , **@BRIANKEMPGA** 2 , **RT** 1 , **@BPOLITICS:** 1 , **BIDEN** 1 , **ADMINISTRATION** 1 , **REVEALED** 1 , **INTELLIGENCE’S** 1 , **VAST** 1 , **DISINFORMATION** 1 , **CYBER-OPERATIONS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @FBI: Russian Foreign Intelligence Service cyber actors are exploiting five publicly known vulnerabilities to target U.S. and allied net…
+ 
+# phankhn54091184USER INFO
+![image](http://pbs.twimg.com/profile_images/1381931524350562304/89bNSBuU_normal.jpg)
+ 
+`User ScreenName:` phankhn54091184 
+ 
+`User chosen Name:` phan khánh linh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 13 11:25:04 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `22 
+ 
+`Following?:` 35 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1381931524350562304/89bNSBuU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SHIELDFINANCE:** 2 , **VULNERABILITIES** 2 , **@SHIELDFINANCE** 1 , **@YOUTUBE** 1 , **@ELJABOOM** 1 , **@CRYPTOWENDYO** 1 , **@THEMOONCARL** 1 , **@BENPHILLIPSUK** 1 , **@CAPTAINJACKAPERT** 1 , **SHIELD** 1 , **FINANCE** 1 , **EXPLAINED** 1 , **HTTPS://TCO/XRSDFIO5BW** 1 , **VIA** 1 , **@YOUTUBERT** 1 , **WHILE** 1 , **BEST** 1 , **PRACTICES** 1 , **DETECT** 1 , **DETECTED** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ShieldFinance: While there are best practices to detect vulnerabilities, not all vulnerabilities can be detected at all times. As marke…
+ 
+# SomeGuyExeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1382077420732309504/yH3mddLK_normal.jpg)
+ 
+`User ScreenName:` SomeGuyExe 
+ 
+`User chosen Name:` SomeGuy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 11 12:59:36 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 188 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 116 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1382077420732309504/yH3mddLK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 116 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DONWINSLOW:** 9 , **POLICE** 9 , **NEW** 8 , **PEOPLE** 7 , **I’M** 7 , **PRESIDENT** 6 , **@MMPADELLAN:** 6 , **13** 5 , **OLD** 5 , **@KYLEGRIFFIN1:** 5 , **@REPMATTGAETZ** 5 , **SAY** 4 , **BEING** 4 , **HANDS** 4 , **@WATCHOUTSHORTS:** 4 , **@MEIDASTOUCH:** 4 , **CASE** 4 , **SOME** 4 , **WHITE** 4 , **US** 4 , 
+ 
+## What this user tweeted
+ 
+RT @CISAgov: We released a joint Cybersecurity Advisory with @NSAgov &amp; @FBI about the Russian Foreign Intelligence Service exploiting five…RT @NSACyber: Russian Foreign Intelligence Service (SVR) cyber actors are exploiting five publicly known vulnerabilities to target U.S. and…
+ 
+# sys_silentUSER INFO
+![image](http://pbs.twimg.com/profile_images/1381993394315030528/RxrBw61N_normal.jpg)
+ 
+`User ScreenName:` sys_silent 
+ 
+`User chosen Name:` Silent Sys 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 13 15:18:58 +0000 2021 
+ 
+`User Description?:` #Cybersecurity 
+ 
+`Followers?: `1 
+ 
+`Following?:` 35 
+ 
+`User URL?:` None 
+ 
+`Location:` Your System 
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1381993394315030528/RxrBw61N_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VULNERABILITIES** 2 , **SPIKE** 2 , **FBI** 2 , **EXCHANGE** 2 , **RT** 1 , **@THECYBERSECHUB:** 1 , **NSA:** 1 , **TOP** 1 , **5** 1 , **ACTIVELY** 1 , **ABUSED** 1 , **RUSSIAN** 1 , **GOVT** 1 , **HACKERS** 1 , **HTTPS://TCO/GBYCNBA3PLRT** 1 , **@THREE_CUBE:** 1 , **EXPLOIT** 1 , **DEVELOPMENT** 1 , **PART** 1 , **3:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @three_cube: Exploit Development, Part 3: Finding Security Vulnerabilities Using the Spike Fuzzer #fuzz #exploitdevelopment #spike #cybe…
+ 
+# hellendougsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1381208409421193218/P3oEKRk5_normal.jpg)
+ 
+`User ScreenName:` hellendougs 
+ 
+`User chosen Name:` Hellendougs 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 11 11:31:12 +0000 2021 
+ 
+`User Description?:` I want us to be able to count on each other without any doubt. That’s, i want us to keep it real with each other’s as I’m seeking for what will work for me. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:` Boulder City, NV 
+ 
+`Number of tweets extracted`  : 24 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1381208409421193218/P3oEKRk5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 24 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CNN:** 7 , **POLICE** 4 , **TRAFFIC** 4 , **STOP** 4 , **BLACK** 4 , **RT** 3 , **US** 3 , **OFFICER** 3 , **@FBI:** 3 , **HELP** 3 , **STUDENTS** 3 , **@CNNI:** 3 , **MAN** 3 , **FOLLOWING** 3 , **VIRGINIA** 2 , **WHICH** 2 , **OFFICERS** 2 , **KNOWN** 2 , **@UAGRADSCHOOL:** 2 , **SCHOOL** 2 , 
+ 
+## What this user tweeted
+ 
+RT @FBI: Russian Foreign Intelligence Service cyber actors are exploiting five publicly known vulnerabilities to target U.S. and allied net…
  
 # HendrikLierUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1382618159199481861/JyhHDD1-_normal.jpg)
@@ -350,73 +505,34 @@ Machine Learning Stanford University
  
 ## What this user tweeted
  
-RT @packet_storm: Botan C++ Crypto Algorithms Library 2.18.0 https://t.co/u4rSZY7Jn7 #infosec
+RT @SecurityWeek: NSA: Russian Hackers Exploiting VPN Vulnerabilities - Patch Immediately: https://t.co/VyQZrIrEMc
  
-# cleopatra__scatUSER INFO
-![image](http://pbs.twimg.com/profile_images/1380788381416886278/No3cAnDn_normal.jpg)
+# Intellisync_srlUSER INFO
+![image](http://pbs.twimg.com/profile_images/1381558713945886722/Uynil_L9_normal.jpg)
  
-`User ScreenName:` cleopatra__scat 
+`User ScreenName:` Intellisync_srl 
  
-`User chosen Name:` アンネ・フランクはアナル痴女です 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 09 11:19:34 +0000 2021 
- 
-`User Description?:` I’m not hating, I’m just telling you!🏛☝🏻🦪🍣🍱 
- 
-`Followers?: `24 
- 
-`Following?:` 207 
- 
-`User URL?:` None 
- 
-`Location:` She/ They 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1380788381416886278/No3cAnDn_normal.jpg 
- 
-`Number of tweets excluding replies:` 691 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MARVEL** 11 , **•** 10 , **CAPTAIN** 9 , **LOVE** 7 , **BRIE** 6 , **GAY** 6 , **LARSON** 5 , **HUNTER** 5 , **AMORA** 5 , **@TILLYLYONNE** 5 , **VALCAROL** 5 , **GONNA** 4 , **SAY** 4 , **@CAROIVRS:** 4 , **REALLY** 4 , **EUPHORIA** 4 , **&LT;3** 4 , **SCHAFER** 4 , **ZENDAYA** 4 , **TOO** 4 , 
- 
-## What this user tweeted
- 
-RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
- 
-# Rajnish73277304USER INFO
-![image](http://pbs.twimg.com/profile_images/1382064930787000322/BZ21P-Vk_normal.jpg)
- 
-`User ScreenName:` Rajnish73277304 
- 
-`User chosen Name:` Rajnish 
+`User chosen Name:` Intellisync 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 13 20:15:01 +0000 2021 
+`User signup date?:` Mon Apr 12 08:38:59 +0000 2021 
  
-`User Description?:`  
+`User Description?:` Intellisync is specialized in custom software development providing end-to-end services to different business domains on hardware and software platforms 
  
-`Followers?: `0 
+`Followers?: `2 
  
-`Following?:` 1 
+`Following?:` 45 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1382064930787000322/BZ21P-Vk_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1381558713945886722/Uynil_L9_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -424,11 +540,89 @@ RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
  
 ## User Top tweeted words 
  
-**RT** 1 , **@APRILWRIGHT:** 1 , **INFOSEC** 1 , **JOB** 1 , **DESCRIPTIONS** 1 , **NUTSHELL** 1 , **HTTPS://TCO/FLYHSVEX6B@SONUSOOD** 1 , **HELLO** 1 , **SIR🙏🙏🙏** 1 , 
+**PATCHES** 1 , **101** 1 , **VULNERABILITIES** 1 , **RELEASED** 1 , **MICROSOFT** 1 , **INCLUDING** 1 , **NUMBER** 1 , **CRITICAL** 1 , **ONES** 1 , **RECOMMEND…** 1 , **HTTPS://TCO/P0ZCP0I8PXÈ** 1 , **STATA** 1 , **INDIVIDUATA** 1 , **UNA** 1 , **CAMPAGNA** 1 , **DI** 1 , **PHISHING** 1 , **MIRATA** 1 , **AGLI** 1 , **UTENTI** 1 , 
  
 ## What this user tweeted
  
-RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
+Patches for 101 #vulnerabilities were released by #Microsoft, including a number of critical ones that we recommend… https://t.co/P0ZCP0i8Px
+ 
+# ProHacktivesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1382236931413659650/CujB0kA6_normal.jpg)
+ 
+`User ScreenName:` ProHacktives 
+ 
+`User chosen Name:` ProHacktives 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 14 07:28:41 +0000 2021 
+ 
+`User Description?:` ProHacktives Cybersecurity 
+ 
+`Followers?: `24 
+ 
+`Following?:` 51 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1382236931413659650/CujB0kA6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MULTIPLE** 1 , **VULNERABILITIES** 1 , **GOOGLE** 1 , **CHROME** 1 , **HTTPS://TCO/QPNQGIXFSNUNDER** 1 , **HOOD:** 1 , **INSIDE** 1 , **(ISC)²** 1 , **EXAM** 1 , **DEVELOPMENT** 1 , **CYCLE** 1 , **HTTPS://TCO/NZR2W5V47YEMPOWERING** 1 , **BUSINESSES** 1 , **THRIVE** 1 , **CYBER** 1 , **SECURE** 1 , **WORLD** 1 , **HTTPS://TCO/8RZKKUHQAHNUEVAFOTODEPERFIL** 1 , **HTTPS://TCO/QEFSRTZHCV** 1 , 
+ 
+## What this user tweeted
+ 
+Multiple vulnerabilities in Google Chrome https://t.co/QPNQGiXFsn
+ 
+# henrydomingosecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1380315330346635264/v5BNWrGB_normal.jpg)
+ 
+`User ScreenName:` henrydomingosec 
+ 
+`User chosen Name:` Henry Domingo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 08 23:05:14 +0000 2021 
+ 
+`User Description?:` Security nut. VA Tech Alum. #CTI DC Sports. #infosec #malware #cyber 
+ 
+`Followers?: `10 
+ 
+`Following?:` 351 
+ 
+`User URL?:` https://t.co/5r19MV90iP 
+ 
+`Location:` District of Columbia, USA 
+ 
+`Number of tweets extracted`  : 53 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1380315330346635264/v5BNWrGB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 53 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SECURITY** 8 , **WINDOWS** 5 , **WHICH** 4 , **NEW** 4 , **EXCHANGE** 4 , **CYBERSECURITY** 4 , **@GOSSITHEDOG:** 4 , **MALWARE** 4 , **GOOD** 3 , **PASSWORD** 3 , **MICROSOFT** 3 , **TWO** 3 , **ANALYSIS** 3 , **DEFENDER** 3 , **PATCH** 3 , **@MSFTSECURITY:** 3 , **HELP** 3 , **DATA** 3 , **OPERATIONS** 2 , **FAMILY** 2 , 
+ 
+## What this user tweeted
+ 
+RT @FBI: Justice Department Announces Court-Authorized Effort to Disrupt Exploitation of Microsoft Exchange Server Vulnerabilities #Cyberse…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
