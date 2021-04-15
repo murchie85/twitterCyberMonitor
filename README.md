@@ -1,22 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **bad_packets**  
+The most popular user is: **TheDailyShow**  
  
 
-## We've detected mass scanning activity targeting vulnerable VMware vCenter servers (https://t.co/t3Gv2ZgTdt).
+## “We’re not dealing with bad apples, we’re dealing with a rotten tree.”
 
-Query… https://t.co/s8L2UV84EW 
+Trevor addresses Daunte Wright, Caron Nazar… https://t.co/mh6PmlITXT 
 
   
 
@@ -25,25 +25,25 @@ Query… https://t.co/s8L2UV84EW
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| NCSC Warns of Exploited VPN Servers: Here are the Safety Tips to Fix Your VPN - https://t.co/VOsCg03PPQ#OSINT… https://t.co/m9a5FL9wAi |
-| RT @InfoSec_Pom: Blogs, social media, Reddit, and more! https://t.co/q1yOWjgK9G https://t.co/xnZwBi30Zd LinkedIn Spear-Phishing Campaign T… |
-| RT @CyberSecDN: CISA Issues Advisory on TrickBot Campaigns https://t.co/mvqLEZUwhE #CISA #TrickBot #threatintel #malware via @DarkReading |
+| Baselines https://t.co/0kop16vRGa #cybersecurity #infosec #malware #cybermaterial #ransomware https://t.co/xD2t3jrRMo |
+| RT @rinkisethi: Was advised to never pursue a security operations job, because “it isn’t good for a woman who wants a family &amp; kids to be o… |
+| RT @BThurstonCPTECH: SentinelOne : 😈  #Ransomware is not going away. Learn how you can outpace attackers in this post. https://t.co/ALXuN… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **RedPacketSec** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 1.95%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Snowden** |
+| #2 Most tweeted to  | **iotcybersec24** |
+| #3 Most tweeted to  | **AlyssaM_InfoSec** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 1.24%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -52,57 +52,57 @@ Query… https://t.co/s8L2UV84EW
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
-| second  | **DARKWEB**  |
-| third  | **CYBERSEC** |
-| fourth  | **INFOSEC**  |
-| fifth  | **@JINIBABD:**  |
+| first  | **INFOSEC**  |
+| second  | **MALWARE**  |
+| third  | **US** |
+| fourth  | **FBI**  |
+| fifth  | **EXCHANGE**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: Mobile-based banking now threatened by sophisticated malware #DarkWeb #OSINT #CyberSec #infosec #Security #cybercrime #Threat… |
+|RT @Snowden: With the FBI breaking into US systems to delete malware from Microsoft exchange servers and now this, the government is engage… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bad_packets**  |
+| The most retweeted user is: **TheDailyShow**  |
 | ------------- |
-| We've detected mass scanning activity targeting vulnerable VMware vCenter servers (https://t.co/t3Gv2ZgTdt).Query… https://t.co/s8L2UV84EW |
+| “We’re not dealing with bad apples, we’re dealing with a rotten tree.”Trevor addresses Daunte Wright, Caron Nazar… https://t.co/mh6PmlITXT |
 
 # Potential Fake Accounts
  
-# caliuiga999USER INFO
-![image](http://pbs.twimg.com/profile_images/1381854214914199553/fWgccInV_normal.jpg)
+# henrydomingosecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1380315330346635264/v5BNWrGB_normal.jpg)
  
-`User ScreenName:` caliuiga999 
+`User ScreenName:` henrydomingosec 
  
-`User chosen Name:` Caliuiga999 
+`User chosen Name:` Henry Domingo 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 13 06:17:45 +0000 2021 
+`User signup date?:` Thu Apr 08 23:05:14 +0000 2021 
  
-`User Description?:` #LovelyChick #KeepCalm #BlowShitUp #Anonymous #RememberGeorgiaSenator #GhostSecMafia #OpIsis #WhatIsHappeningInMyanmar #Fucktyranny #Myanmarcoup #FreePalestine 
+`User Description?:` Security nut. VA Tech Alum. #CTI DC Sports. #infosec #malware #cyber 
  
-`Followers?: `12 
+`Followers?: `10 
  
-`Following?:` 42 
+`Following?:` 351 
  
-`User URL?:` None 
+`User URL?:` https://t.co/5r19MV90iP 
  
-`Location:`  
+`Location:` District of Columbia, USA 
  
-`Number of tweets extracted`  : 50 
+`Number of tweets extracted`  : 53 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1381854214914199553/fWgccInV_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1380315330346635264/v5BNWrGB_normal.jpg 
  
-`Number of tweets excluding replies:` 50 
+`Number of tweets excluding replies:` 53 
  
 
  
@@ -110,40 +110,156 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 ## User Top tweeted words 
  
-**@ATTORNEYCRUMP** 10 , **@ATTORNEYCRUMP:** 7 , **POLICE** 6 , **US** 5 , **DAUNTE** 5 , **WRIGHT** 4 , **SHIT** 4 , **@B100D5H07_SEC:** 4 , **LIFE** 3 , **I'VE** 3 , **THESE** 3 , **LOOK** 3 , **@VOLINXX:** 3 , **COULD** 2 , **KIM** 2 , **SHOOT** 2 , **FEEL** 2 , **KEEP** 2 , **BEING** 2 , **@GHOSTESIERRA:** 2 , 
+**SECURITY** 8 , **WINDOWS** 5 , **WHICH** 4 , **NEW** 4 , **EXCHANGE** 4 , **CYBERSECURITY** 4 , **@GOSSITHEDOG:** 4 , **MALWARE** 4 , **GOOD** 3 , **PASSWORD** 3 , **MICROSOFT** 3 , **TWO** 3 , **ANALYSIS** 3 , **DEFENDER** 3 , **PATCH** 3 , **@MSFTSECURITY:** 3 , **HELP** 3 , **DATA** 3 , **OPERATIONS** 2 , **FAMILY** 2 , 
  
 ## What this user tweeted
  
-RT @B100d5h07_Sec: Canadian IoT Solutions Provider, Sierra Wireless Hit by a Ransomware Attack - https://t.co/qCRSpg8uq9
-#OSINT #Security #…
+RT @rinkisethi: Was advised to never pursue a security operations job, because “it isn’t good for a woman who wants a family &amp; kids to be o…
  
-# sultanc58659908USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# ChrisBrick14USER INFO
+![image](http://pbs.twimg.com/profile_images/1381652853199003651/j626kZNA_normal.jpg)
  
-`User ScreenName:` sultanc58659908 
+`User ScreenName:` ChrisBrick14 
  
-`User chosen Name:` sultan chaudhary 
+`User chosen Name:` Chris Brick - hack/chill/wear a mask - GET THE VAX 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 12 15:08:18 +0000 2021 
+`User signup date?:` Mon Apr 12 16:55:51 +0000 2021 
  
-`User Description?:` Life is too short to waste...
-TIme is too less to enjoy 
+`User Description?:` Dad, infosec, sysadmin, hacker, unix whisperer, brewer, artist, meat smoker, ally, biker. Change your passwords. he/him Words are mine 
+@hacknotcrime 
  
-`Followers?: `0 
+`Followers?: `112 
  
-`Following?:` 61 
+`Following?:` 634 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1381652853199003651/j626kZNA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ACCOUNT** 3 , **FAILED** 2 , **THANKS** 2 , **FOLLOW** 2 , **@CBRICK** 2 , **MANY** 2 , **TWITTER** 2 , **@ALYSSAM_INFOSEC** 1 , **@VARCHARR** 1 , **COURSE!** 1 , **I'M** 1 , **STILL** 1 , **THANKFUL** 1 , **GOT** 1 , **OLD** 1 , **STUCK** 1 , **VERIFICATION** 1 , **LIMBO** 1 , **200@PRY0CC** 1 , **SOMEHOW** 1 , 
+ 
+## What this user tweeted
+ 
+@AlyssaM_InfoSec @varcharr Of course! I'm still thankful for when you got my old, stuck in verification limbo account to over 200.
+ 
+# 911_cyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1382791699378888709/Tnx8uULy_normal.jpg)
+ 
+`User ScreenName:` 911_cyber 
+ 
+`User chosen Name:` 911Cyber 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 15 20:20:52 +0000 2021 
+ 
+`User Description?:` We are the first responders for any Cyber Incident 
+ 
+`Followers?: `6 
+ 
+`Following?:` 13 
+ 
+`User URL?:` https://t.co/1Pn18vU4jk 
+ 
+`Location:` New York 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1382791699378888709/Tnx8uULy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 3 , **CYBERSECURITY** 2 , **RT** 1 , **@CYBERMATERIAL_:** 1 , **CYBERDECODED:** 1 , **VS** 1 , **DECODING** 1 , **THREAT** 1 , **SECURITY** 1 , **HTTPS://TCO/7T7YNTNDML** 1 , **AR…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @cybermaterial_: CyberDecoded: AI vs Cybersecurity - Decoding the AI Threat to Security - https://t.co/7T7YNTnDML #cybersecurity #AI #ar…
+ 
+# scarlet62418090USER INFO
+![image](http://pbs.twimg.com/profile_images/1381153788543836166/DWWRwqvM_normal.jpg)
+ 
+`User ScreenName:` scarlet62418090 
+ 
+`User chosen Name:` scarlett williams 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 11 05:35:22 +0000 2021 
+ 
+`User Description?:` Im blessed🙏 
+ 
+`Followers?: `2 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:` Tx 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1381153788543836166/DWWRwqvM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WOMAN** 3 , **NEEDS** 2 , **MAN** 2 , **RT** 1 , **@APRILWRIGHT:** 1 , **INFOSEC** 1 , **JOB** 1 , **DESCRIPTIONS** 1 , **NUTSHELL** 1 , **HTTPS://TCO/FLYHSVEX6BDONT** 1 , **WORTH** 1 , **FIGHTING** 1 , **M…** 1 , **HTTPS://TCO/EZAZPFLG0PRT** 1 , **@FLOTUS:** 1 , **RAMADAN** 1 , **MUBARAK** 1 , **MUSLIM** 1 , **COMMUNITIES** 1 , **UNITED** 1 , 
+ 
+## What this user tweeted
+ 
+RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
+ 
+# Marge25464927USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Marge25464927 
+ 
+`User chosen Name:` Marge 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 15 17:40:02 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 137 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 31 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 32 
  
 
  
@@ -151,42 +267,38 @@ TIme is too less to enjoy
  
 ## User Top tweeted words 
  
-**PAKISTAN** 3 , **PAK** 2 , **CITIES** 2 , **GOVERNMENT** 1 , **DECIDED** 1 , **IMPOSE** 1 , **BAN** 1 , **TEHREEKELABAIK** 1 , **UNDER** 1 , **ANTI** 1 , **TERRORISM** 1 , **LAW** 1 , **DIPLOMACY** 1 , **IN…** 1 , **HTTPS://TCO/HFYAMECOGRUSA** 1 , **BRITAIN** 1 , **ALLIES** 1 , **CONDEMNED** 1 , **CHINA** 1 , **TIGHTENING** 1 , 
+**TWITTER** 6 , **CNN** 5 , **HOUSE** 4 , **JAMES** 3 , **O’KEEFE** 3 , **AFTER** 3 , **ARRESTED** 3 , **FAUCI** 3 , **DEMOCRAT** 3 , **SUSPENDED** 3 , **DEMOCRATS** 3 , **@JIM_JORDAN:** 3 , **-BIG** 3 , **@JACKPOSOBIEC:** 2 , **PERFECT** 2 , **ABSOLUTELY** 2 , **SUSPENDS** 2 , **STORY** 2 , **MAYOR** 2 , **ADVOCATED** 2 , 
  
 ## What this user tweeted
  
-#Norway  raises #alarm over #exploitation
-of dual-use #nuclear technology by #Pakistan 
-#SaveLives #threatintel fro… https://t.co/XtKVx5hrGV
+RT @Snowden: With the FBI breaking into US systems to delete malware from Microsoft exchange servers and now this, the government is engage…
  
-# todoeltiempo99USER INFO
-![image](http://pbs.twimg.com/profile_images/1381517895474221064/76uvugmz_normal.jpg)
+# maikerlis9USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` todoeltiempo99 
+`User ScreenName:` maikerlis9 
  
-`User chosen Name:` Todoeltiempo 
+`User chosen Name:` maikerlis 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 12 07:45:50 +0000 2021 
+`User signup date?:` Thu Apr 08 21:40:10 +0000 2021 
  
-`User Description?:` Buenos para nada 
-
- situación tensa en Londres durante la movilización contra la nueva ley FASCISTA que da más impunidad y mayor pode 
+`User Description?:`  
  
-`Followers?: `22 
+`Followers?: `11 
  
-`Following?:` 74 
+`Following?:` 54 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 158 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1381517895474221064/76uvugmz_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 158 
+`Number of tweets excluding replies:` 4804 
  
 
  
@@ -194,12 +306,129 @@ of dual-use #nuclear technology by #Pakistan
  
 ## User Top tweeted words 
  
-**MYANMAR** 11 , **ANONYMOUS** 10 , **@COMRADECAMERA:** 10 , **UGANDA** 9 , **@YOURANONONLINE** 8 , **US** 7 , **POLICE** 7 , **DATA** 6 , **DAYS** 6 , **AGAINST** 5 , **JUNTA** 5 , **@GHOSTESIERRA:** 5 , **@B100D5H07_SEC:** 5 , **DE** 5 , **WORLD** 5 , **@ANONYMOUSUGAND1:** 5 , **INTERNET** 5 , **@EHACKERNEWS:** 5 , **HEARD** 4 , **COULD** 4 , 
+**DE** 230 , **LA** 129 , **EL** 99 , **EN** 85 , **Y** 67 , **DEL** 53 , **QUE** 50 , **POR** 37 , **ALEXNAINSAAB** 37 , **LOS** 35 , **CON** 32 , **LAS** 30 , **UN** 29 , **SE** 28 , **VERDE** 25 , **AL** 24 , **PARA** 23 , **VENEZUELA** 22 , **CABO** 22 , **UNA** 18 , 
  
 ## What this user tweeted
  
-RT @B100d5h07_Sec: Canadian IoT Solutions Provider, Sierra Wireless Hit by a Ransomware Attack - https://t.co/qCRSpg8uq9
-#OSINT #Security #…
+RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
+ 
+# betterappsecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1382727046011441158/lRU7r1Ly_normal.jpg)
+ 
+`User ScreenName:` betterappsec 
+ 
+`User chosen Name:` better appsec 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 15 14:31:02 +0000 2021 
+ 
+`User Description?:` Application & Product Security driven content and expertise for your pursuit of better. 
+ 
+`Followers?: `7 
+ 
+`Following?:` 42 
+ 
+`User URL?:` https://t.co/V8KwrcPfdv 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1382727046011441158/lRU7r1Ly_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+***** 4 , **NEVER** 2 , **OBLIGATORY** 1 , **TAGGING** 1 , **APPSEC** 1 , **CYBERSECURITY** 1 , **INFOSEC** 1 , **SOFTWAREENGINEERING** 1 , **SDLC** 1 , **DEVSECOPSRT** 1 , **@CLINTGIBLER:** 1 , **📚** 1 , **TL;DR** 1 , **SEC** 1 , **77** 1 , **@ARTSPLOIT** 1 , **NEW** 1 , **OAUTH** 1 , **ATTACKS** 1 , **@TOMNOMNOM** 1 , 
+ 
+## What this user tweeted
+ 
+Obligatory tagging #appsec #cybersecurity #infosec #SoftwareEngineering #sdlc #devsecops
+ 
+# HendrikLierUSER INFO
+![image](http://pbs.twimg.com/profile_images/1382618159199481861/JyhHDD1-_normal.jpg)
+ 
+`User ScreenName:` HendrikLier 
+ 
+`User chosen Name:` Hendrik Van Lier 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 15 08:34:50 +0000 2021 
+ 
+`User Description?:` Codebreaker
+Machine Learning Stanford University 
+ 
+`Followers?: `6 
+ 
+`Following?:` 298 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1382618159199481861/JyhHDD1-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PACKET_STORM:** 9 , **SECURITY** 5 , **ADVISORY** 5 , **RED** 4 , **HAT** 4 , **ADVISORYRT** 4 , **KEEP** 3 , **ULTRA** 2 , **EXPLOITRT** 2 , **CROSSFIT** 1 , **HTTPS://TCO/XN0RJWMA15RT** 1 , **@INOV_8:** 1 , **DEFY** 1 , **LIMITS** 1 , **LONG** 1 , **RUN** 1 , **GO** 1 , **CAUGHT** 1 , **BRITISH-BASED** 1 , **MALAYSIAN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @packet_storm: Botan C++ Crypto Algorithms Library 2.18.0 https://t.co/u4rSZY7Jn7 #infosec
+ 
+# cleopatra__scatUSER INFO
+![image](http://pbs.twimg.com/profile_images/1380788381416886278/No3cAnDn_normal.jpg)
+ 
+`User ScreenName:` cleopatra__scat 
+ 
+`User chosen Name:` アンネ・フランクはアナル痴女です 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 09 11:19:34 +0000 2021 
+ 
+`User Description?:` I’m not hating, I’m just telling you!🏛☝🏻🦪🍣🍱 
+ 
+`Followers?: `25 
+ 
+`Following?:` 207 
+ 
+`User URL?:` None 
+ 
+`Location:` She/ They 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1380788381416886278/No3cAnDn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 691 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MARVEL** 11 , **•** 10 , **CAPTAIN** 9 , **LOVE** 7 , **BRIE** 6 , **GAY** 6 , **LARSON** 5 , **HUNTER** 5 , **AMORA** 5 , **@TILLYLYONNE** 5 , **VALCAROL** 5 , **GONNA** 4 , **SAY** 4 , **@CAROIVRS:** 4 , **REALLY** 4 , **EUPHORIA** 4 , **&LT;3** 4 , **SCHAFER** 4 , **ZENDAYA** 4 , **TOO** 4 , 
+ 
+## What this user tweeted
+ 
+RT @aprilwright: InfoSec job descriptions in a nutshell https://t.co/FlYHsVEX6B
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
