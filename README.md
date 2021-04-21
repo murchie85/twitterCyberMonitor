@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **Samanta_Helou**  
+The most popular user is: **NSACyber**  
  
 
-## Remember: While this trial was happening, U.S. law enforcement killed 64 people, including a 13 year old. 
+## Russian Foreign Intelligence Service (SVR) cyber actors are exploiting five publicly known vulnerabilities to targe… https://t.co/UrSp9A34YD 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **Samanta_Helou**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FiveStarReview7: My Site usaxoomWorldwide Best Service Provider#BuyTripadvisorReviews #pokemon #usaxoom #blacktechtwitter #Cybersecur… |
-| RT @rneelmani: Hundreds of networks reportedly #hacked in ⁦@codecov⁩ #supplychain attack, reports ⁦@Reuters⁩ ⁦@dynamicCISO⁩ #girlswhocode #… |
-| RT @DavidOn32456910: My Site usaxoomWorldwide Best Service Provider#pokemon #usaxoom #blacktechtwitter #Cybersecurity #infosec #100DaysOf… |
+| RT @trevortimm: Possibly the most satisfying blog post I've ever read. https://t.co/OiWl3e5FgP |
+| RT @matthew_d_green: Lol. Signal came up with an exploit against Cellebrite’s hardware instead of the other way around. Like Ensign Jones b… |
+| @moxie on how he got a Cellebrite device🤣🤣"By a truly unbelievable coincidence, I was recently out for a walk whe… https://t.co/5ZQo5ODipp |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **iotcybersec24** |
-| #2 Most tweeted to  | **USCERT_gov** |
-| #3 Most tweeted to  | **CISAgov** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 1.38%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **moxie** |
+| #2 Most tweeted to  | **signalapp** |
+| #3 Most tweeted to  | **rakyll** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 1.3%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **Samanta_Helou**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **🚨**  |
-| third  | **ALERT** |
-| fourth  | **SECURE**  |
-| fifth  | **USAXOOM**  |
+| first  | **VULNERABILITIES**  |
+| second  | **CELLEBRITE**  |
+| third  | **SIGNAL** |
+| fourth  | **TOOLS**  |
+| fifth  | **DATA**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|hey friends at stripe, two of those orders are for me, and im sure that many other orders are for other infosec peo… https://t.co/Xhw1QpV0IT |
+|RT @lorenzofb: NEW: Signal's CEO hacks a Cellebrite iPhone hacking device used by cops and details serious vulnerabilities in it.https://… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Samanta_Helou**  |
+| The most retweeted user is: **NSACyber**  |
 | ------------- |
-| Remember: While this trial was happening, U.S. law enforcement killed 64 people, including a 13 year old. |
+| Russian Foreign Intelligence Service (SVR) cyber actors are exploiting five publicly known vulnerabilities to targe… https://t.co/UrSp9A34YD |
 
 # Potential Fake Accounts
  
-# Mahi_Sharma0920USER INFO
-![image](http://pbs.twimg.com/profile_images/1382924643439288321/Pi-eL-Lk_normal.jpg)
+# SecuitNEWSUSER INFO
+![image](http://pbs.twimg.com/profile_images/1384949177789030408/BzcsLDoo_normal.jpg)
  
-`User ScreenName:` Mahi_Sharma0920 
+`User ScreenName:` SecuitNEWS 
  
-`User chosen Name:` Mahi Sharma 
+`User chosen Name:` SecuitNEWS 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Apr 16 04:25:14 +0000 2021 
+`User signup date?:` Wed Apr 21 19:10:34 +0000 2021 
  
-`User Description?:` Drama queen 🥳🥳 
+`User Description?:` SecuitNEWS is a news aggregating site. We aggregate news from publicly available RSS feeds. 
  
-`Followers?: `9 
+`Followers?: `0 
  
-`Following?:` 14 
+`Following?:` 0 
  
-`User URL?:` None 
+`User URL?:` https://t.co/7G8qZNM3yA 
  
-`Location:`  
+`Location:` Pune, India 
  
-`Number of tweets extracted`  : 142 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1382924643439288321/Pi-eL-Lk_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1384949177789030408/BzcsLDoo_normal.jpg 
  
-`Number of tweets excluding replies:` 142 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -108,250 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**WHISTLEPODU** 11 , **PYTHON** 9 , **AI** 9 , **MASTER** 9 , **LEARN** 8 , **YELLOVE** 7 , **@ACTORVIJAY** 7 , **100DAYSOFCODE** 7 , **DAY** 7 , **NEW** 6 , **@MSDFANSOFFICIAL:** 6 , **🔹** 6 , **👣** 6 , **LEARNING** 5 , **BIGDATA** 5 , **JAVASCRIPT** 5 , **NEED** 5 , **DATASCIENCE** 5 , **IIOT** 5 , **CSK** 5 , 
+**RELATED** 3 , **INFOSEC** 3 , **CYBERSECURITY** 3 , **MALWARE** 3 , **VULNERABILITIES** 3 , **PRIVACY** 3 , **CLOUDSECURITY** 2 , **IOTSECURITY** 2 , **M…** 2 , **SECUITNEWS** 1 , **NEWS** 1 , **CLOUD** 1 , **SECURITY** 1 , **IOT** 1 , **SECURITY…** 1 , **HTTPS://TCO/8YYBDJULNXSECUITNEWS** 1 , **HTTPS://TCO/UOHY9P4GLQNEWS** 1 , **HTTPS://TCO/R6EOCDBTEHNEWS** 1 , **HTTPS://TCO/7KACRCR8YA** 1 , 
  
 ## What this user tweeted
  
-RT @SkyNetTools: (CloudFail - Information Gathering to Discover Identity of the Server Behind Cloudflare) - https://t.co/2zIIJ8OYDJ #infose…
+SecuitNEWS News related to infosec, cybersecurity, malware, vulnerabilities, cloud security, privacy, IoT security,… https://t.co/8yYBdjULnXNews related to #infosec, #cybersecurity, #malware, #vulnerabilities, #cloudsecurity, #privacy, #IoTsecurity, and m… https://t.co/R6EOCDbTEhNews related to #infosec, #cybersecurity, #malware, #vulnerabilities, #cloudsecurity, #privacy, #IoTsecurity, and m… https://t.co/7kAcrcr8YA
  
-# IvyPhil50786794USER INFO
-![image](http://pbs.twimg.com/profile_images/1384195576971988994/SKwqymKN_normal.jpg)
+# SYN____ACKUSER INFO
+![image](http://pbs.twimg.com/profile_images/1384935217140486148/5aObMkQR_normal.jpg)
  
-`User ScreenName:` IvyPhil50786794 
+`User ScreenName:` SYN____ACK 
  
-`User chosen Name:` Ivy Phillips 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 19 17:20:52 +0000 2021 
- 
-`User Description?:` SEO expert 
- 
-`Followers?: `9 
- 
-`Following?:` 16 
- 
-`User URL?:` https://t.co/PTzcuMA5L2 
- 
-`Location:` USA 
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1384195576971988994/SKwqymKN_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**USAXOOM** 9 , **100DAYSOFCODE** 5 , **ACCOUNTS** 5 , **SIXTONESANN** 4 , **301DAYSOFCODE** 4 , **PYTHON** 3 , **REVIEWS** 2 , **JS** 2 , **FACEBOOK** 2 , **POKEMON** 2 , **BLACKTECHTWITTER** 2 , **CYBERSECURITY** 2 , **INFOSEC** 2 , **BEST** 2 , **ANALYTICS** 2 , **AI** 2 , **REACTJS** 2 , **MACHINELEARNING** 2 , **VERIFIED** 2 , **SAFELY** 2 , 
- 
-## What this user tweeted
- 
-Buy #TrustPilot Reviews
-
-#100DaysOfCode #SixTONESANN #301DaysOfCode #Python #js #womenwhocode #CodeNewbie… https://t.co/iCoslQz4woBuy #USA Facebook Accounts 
-
-#pokemon #usaxoom #blacktechtwitter #Cybersecurity #infosec #100DaysOfCode #node… https://t.co/loFWjCGSJTRT @DavidOn32456910: My Site usaxoom
-Worldwide Best Service Provider
-#pokemon #usaxoom #blacktechtwitter #Cybersecurity #infosec #100DaysOf…
- 
-# MonoChroWoWUSER INFO
-![image](http://pbs.twimg.com/profile_images/1382879970792333314/2hY00vPT_normal.jpg)
- 
-`User ScreenName:` MonoChroWoW 
- 
-`User chosen Name:` MonoChro 
+`User chosen Name:` Euan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Apr 16 01:36:26 +0000 2021 
+`User signup date?:` Mon Apr 19 22:29:24 +0000 2021 
  
-`User Description?:` World of Warcraft Classic Atiesh Alliance Guild Monochrome Chronicle ではTBCに向けてギルドメンバー募集中。10/25 RAIDを緩く開催していく予定です。
-日本人 wow wowjp ギルド 
+`User Description?:` Handshake failed: not permitted in 2021. 
  
-`Followers?: `13 
- 
-`Following?:` 101 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 39 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1382879970792333314/2hY00vPT_normal.jpg 
- 
-`Number of tweets excluding replies:` 39 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CLASSIC** 9 , **WOWCLASSIC** 7 , **ATIESH** 6 , **ALLIANCE** 6 , **WOWJP** 5 , **WOW** 5 , **WORLD** 4 , **WARCRAFT** 4 , **の** 3 , **TBC** 3 , **ギルド** 3 , **MONOCHROME** 3 , **CHRONICLE** 3 , **ではTBCに向けてギルドメンバー募集中。10/25** 3 , **🚨** 2 , **ALERT** 2 , **NEW** 2 , **DISPLACER** 2 , **@YOU1293:** 2 , **@ICYVEINS:** 2 , 
- 
-## What this user tweeted
- 
-RT @USCERT_gov: 🚨 ACTIVITY ALERT 🚨
-Review @CISAgov's new Alert on active exploitation of Pulse Connect Secure vulnerabilities. This activit…
- 
-# nothingiswhati4USER INFO
-![image](http://pbs.twimg.com/profile_images/1384173898841747457/PxqPNlL1_normal.jpg)
- 
-`User ScreenName:` nothingiswhati4 
- 
-`User chosen Name:` nothing is what it seems 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 19 15:51:36 +0000 2021 
- 
-`User Description?:` Todo es un engaño 👽
-El Sistema es Corrompido💩 
-Libre Albedrío🤓
-Nada Está Seguro Solo La muerte ☠️ 
- 
-`Followers?: `9 
- 
-`Following?:` 85 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 25 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1384173898841747457/PxqPNlL1_normal.jpg 
- 
-`Number of tweets excluding replies:` 25 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 16 , **LA** 12 , **EN** 6 , **@HOMEZSHELL:** 5 , **EL** 4 , **LOS** 4 , **QUE** 4 , **SE** 4 , **UN** 4 , **Y** 4 , **VALENCIA** 4 , **UNA** 3 , **CON** 3 , **YO** 3 , **POR** 2 , **RANSOMWARE** 2 , **HISTORIA** 2 , **VENEZUELA** 2 , **TODOS** 2 , **CIBERATAQUE** 2 , 
- 
-## What this user tweeted
- 
-RT @SkyNetTools: (CloudFail - Information Gathering to Discover Identity of the Server Behind Cloudflare) - https://t.co/2zIIJ8OYDJ #infose…
- 
-# DavidOn32456910USER INFO
-![image](http://pbs.twimg.com/profile_images/1383093428863397888/OQr2Kl6G_normal.jpg)
- 
-`User ScreenName:` DavidOn32456910 
- 
-`User chosen Name:` David Oneil 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 16 16:22:06 +0000 2021 
- 
-`User Description?:` Buy Trustpilot Reviews We provide best quality and verified trustpilot reviews service and all review services and other best quality service with loyalty and s 
- 
-`Followers?: `6 
- 
-`Following?:` 13 
- 
-`User URL?:` https://t.co/i6hGAXIpVd 
- 
-`Location:` Los Angeles 
- 
-`Number of tweets extracted`  : 59 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1383093428863397888/OQr2Kl6G_normal.jpg 
- 
-`Number of tweets excluding replies:` 69 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**USAXOOM** 88 , **BEST** 40 , **SITE** 38 , **BLACKTECHTWITTER** 38 , **SERVICE** 37 , **PROVIDER** 36 , **POKEMON** 36 , **WORLDWIDE** 35 , **CYBERSECURITY** 32 , **INFOSEC** 20 , **100DAYSOFCODE** 18 , **@USAXOOM:** 16 , **BUY** 15 , **INFOSEC…** 10 , **@LUCIAGI88528706:** 10 , **@FIVESTARREVIEW7:** 10 , **REVIEWS** 8 , **AI** 7 , **@IVYPHIL50786794:** 6 , **CODING** 6 , 
- 
-## What this user tweeted
- 
-My Site usaxoom
-Worldwide Best Service Provider
-#pokemon #usaxoom #blacktechtwitter #Cybersecurity #infosec… https://t.co/eyf7dC5kH6My Site usaxoom
-Worldwide Best Service Provider
-#pokemon #usaxoom #blacktechtwitter #Cybersecurity #infosec… https://t.co/2TN1vbSgqqRT @FiveStarReview7: My Site usaxoom
-Worldwide Best Service Provider
-#pokemon #usaxoom #blacktechtwitter #Cybersecurity #infosec #100DaysOf…
- 
-# NMR85929562USER INFO
-![image](http://pbs.twimg.com/profile_images/1382838745846706177/foT9flPV_normal.jpg)
- 
-`User ScreenName:` NMR85929562 
- 
-`User chosen Name:` WRS 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 15 23:09:05 +0000 2021 
- 
-`User Description?:` Lic. Criminología y victimología-Ing. sistemas computacionales-musico 
- 
-`Followers?: `6 
- 
-`Following?:` 98 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 76 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1382838745846706177/foT9flPV_normal.jpg 
- 
-`Number of tweets excluding replies:` 76 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 39 , **LA** 19 , **EN** 18 , **EL** 18 , **Y** 16 , **VIA** 13 , **PARA** 12 , **DEL** 11 , **POR** 9 , **QUE** 8 , **CON** 7 , **YUAN** 7 , **UN** 6 , **DIGITAL** 6 , **CONTRA** 5 , **SU** 5 , **SE** 4 , **LOS** 4 , **PROJECT** 4 , **SOBRE** 4 , 
- 
-## What this user tweeted
- 
-RT @ADanielHill: According to the main page of the #Cert of #Uruguay, #Uruguay is the leader in Latin America and Caribean in #CYBERSECURIT…
- 
-# adeskthathacksUSER INFO
-![image](http://pbs.twimg.com/profile_images/1384616991542202377/0Aj03bTM_normal.png)
- 
-`User ScreenName:` adeskthathacks 
- 
-`User chosen Name:` IM A DESK 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 20 21:00:39 +0000 2021 
- 
-`User Description?:` Just a desk trying to find its place in the world 
- 
-`Followers?: `2 
+`Followers?: `0 
  
 `Following?:` 12 
  
 `User URL?:` None 
  
-`Location:` A hacking DESK?!?!?! WHAAAATT? 
+`Location:` United Kingdom 
  
-`Number of tweets extracted`  : 39 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1384616991542202377/0Aj03bTM_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1384935217140486148/5aObMkQR_normal.jpg 
  
-`Number of tweets excluding replies:` 41 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -359,38 +147,38 @@ RT @ADanielHill: According to the main page of the #Cert of #Uruguay, #Uruguay i
  
 ## User Top tweeted words 
  
-**@8JEWS:** 20 , **@ADESKTHATHACKS** 13 , **@MRELBAXODNU** 12 , **I'M** 12 , **@INJECTING_** 11 , **@XONOVAXO** 10 , **@ANTICHRLST** 10 , **@120FPS** 10 , **@DESIFY** 10 , **@LOOLHAHAHAHA** 9 , **EVEN** 8 , **HAHAHAHA** 8 , **@UCHIHALS** 7 , **@RUSER1906** 6 , **@ALTCTRLFLEX** 6 , **MAD** 6 , **@8JEWS** 5 , **HARMLESS** 5 , **U** 5 , **@EXXPLOITING** 4 , 
+**RT** 1 , **@USCERT_GOV:** 1 , **⚠️** 1 , **@CISAGOV** 1 , **ISSUED** 1 , **EMERGENCY** 1 , **DIRECTIVE** 1 , **21-03** 1 , **RESPONSE** 1 , **PULSE** 1 , **CONNECT** 1 , **SECURE** 1 , **VULNERABILITIES** 1 , **WHICH** 1 , **REQUIRES** 1 , **FEDERAL…THOUGHT** 1 , **I'D** 1 , **CREATE** 1 , **NEW** 1 , **ACCOUNT** 1 , 
  
 ## What this user tweeted
  
-RT @8jews: I'm a big fat phony. All I know how to do is role play as well known players in the infosec scene. I tryhard to become a legend…
+RT @USCERT_gov: ⚠️ @CISAgov issued Emergency Directive 21-03 in response to Pulse Connect Secure vulnerabilities which requires all federal…
  
-# ExohoodAppUSER INFO
-![image](http://pbs.twimg.com/profile_images/1384614039964299266/pk-ZAlFR_normal.jpg)
+# 23m5secUSER INFO
+![image](http://pbs.twimg.com/profile_images/1384956711094607874/VWBg4ode_normal.jpg)
  
-`User ScreenName:` ExohoodApp 
+`User ScreenName:` 23m5sec 
  
-`User chosen Name:` Exohood 
+`User chosen Name:` Aem5sec 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 15 18:45:35 +0000 2021 
+`User signup date?:` Mon Apr 19 18:21:57 +0000 2021 
  
-`User Description?:` Decentralized and Democratizing finances for all. We believe the financial system should be built to work for everyone. #BSC Telegram: https://t.co/sSFfD093B7 
+`User Description?:` #CYBER #OSINT #HATHAT 
  
-`Followers?: `321 
+`Followers?: `4 
  
-`Following?:` 18 
+`Following?:` 131 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 119 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1384614039964299266/pk-ZAlFR_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1384956711094607874/VWBg4ode_normal.jpg 
  
-`Number of tweets excluding replies:` 119 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -398,40 +186,40 @@ RT @8jews: I'm a big fat phony. All I know how to do is role play as well known 
  
 ## User Top tweeted words 
  
-**@COINTELEGRAPH:** 40 , **@HACKERNOON:** 25 , **CRYPTO** 15 , **BITCOIN** 14 , **DOGECOIN** 9 , **@COINMARKETCAP:** 8 , **NEW** 8 , **@COINTELEGRAPHMT:** 8 , **DOGE** 8 , **PRICE** 7 , **MARKET** 7 , **LAUNCH** 6 , **BTC** 6 , **MOST** 6 , **ITS** 6 , **INTO** 6 , **COULD** 6 , **O** 6 , **TIME** 5 , **NFT** 5 , 
+**WHATSAPP** 4 , **SIGNAL** 2 , **@EVACIDE:** 2 , **MO'** 2 , **@LORENZOFB** 1 , **MAKES** 1 , **LOVE** 1 , **EVEN** 1 , **MORERT** 1 , **@LORENZOFB:** 1 , **NEW:** 1 , **SIGNAL'S** 1 , **CEO** 1 , **HACKS** 1 , **CELLEBRITE** 1 , **IPHONE** 1 , **HACKING** 1 , **DEVICE** 1 , **USED** 1 , **COPS** 1 , 
  
 ## What this user tweeted
  
-RT @TheHackersNews: Nearly 120 compromised ad servers are running a malvertising campaign that targets millions of users.
+RT @lorenzofb: NEW: Signal's CEO hacks a Cellebrite iPhone hacking device used by cops and details serious vulnerabilities in it.
 
-Read: https://t.…
+https://…
  
-# savagelove20201USER INFO
-![image](http://pbs.twimg.com/profile_images/1384563912243298311/CYPbWhId_normal.jpg)
+# CyberGalaxiesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1384227209443831808/FPjhkRR9_normal.jpg)
  
-`User ScreenName:` savagelove20201 
+`User ScreenName:` CyberGalaxies 
  
-`User chosen Name:` savagelove20201 
+`User chosen Name:` Princeton Brooke 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 20 17:44:51 +0000 2021 
+`User signup date?:` Sat Apr 17 20:48:28 +0000 2021 
  
-`User Description?:` Don't judge each day by the harvest you reap but by the seeds that you plant. 
+`User Description?:` Dedicated to Cybersecurity, federal regulatory compliance, cryptography, supporting infrastructure and national security. 
  
-`Followers?: `4 
+`Followers?: `6 
  
-`Following?:` 150 
+`Following?:` 56 
  
-`User URL?:` https://t.co/QpsREZKZBf 
+`User URL?:` https://t.co/UP6YBQiCU9 
  
-`Location:`  
+`Location:` Cleveland, OH 
  
-`Number of tweets extracted`  : 27 
+`Number of tweets extracted`  : 72 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1384563912243298311/CYPbWhId_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1384227209443831808/FPjhkRR9_normal.jpg 
  
-`Number of tweets excluding replies:` 27 
+`Number of tweets excluding replies:` 72 
  
 
  
@@ -439,38 +227,38 @@ Read: https://t.…
  
 ## User Top tweeted words 
  
-**THESE** 21 , **OTHER** 19 , **COMPANIES** 16 , **SECURITY** 12 , **TECHNOLOGY** 11 , **COULD** 10 , **DETECTION** 9 , **DETECT** 5 , **METALLIC** 5 , **TECH** 5 , **THREAT** 5 , **NON-METALLIC** 4 , **POTENTIALLY** 4 , **COMPANIES’** 3 , **DEFENSE** 3 , **COMMUNITIES** 3 , **THROUGH** 3 , **SEASONED** 3 , **PRIVACY** 3 , **INNOVATIVE** 2 , 
+**CYBERSECURITY** 9 , **📚** 7 , **LOVE** 5 , **TIME** 4 , **CAN'T** 4 , **SOME** 3 , **HOPE** 3 , **SANS** 3 , **ETHICS** 3 , **SECURITY** 3 , **W…** 3 , **MUCH** 3 , **DEVELOP** 3 , **DEVELOPED** 3 , **MEDIA** 3 , **2** 3 , **BACK** 3 , **I'M** 3 , **THOUGHT** 3 , **YEAR** 3 , 
  
 ## What this user tweeted
  
-RT @EnyaHead: #infosec It has been said that most companies store #financialresults for years ahead, trade secrets, and #sensitivedata. Cou…
+RT @cyber: 🚨 New --&gt; Last night @CISAgov issued Emergency Directive 21-03 in response to vulnerabilities with Pulse Connect Secure being ex…
  
-# goodgirlsexist2USER INFO
-![image](http://pbs.twimg.com/profile_images/1384561640650194948/r_VexWiZ_normal.jpg)
+# Gilmar94684333USER INFO
+![image](http://pbs.twimg.com/profile_images/1383035255125381122/UgNdwUQE_normal.jpg)
  
-`User ScreenName:` goodgirlsexist2 
+`User ScreenName:` Gilmar94684333 
  
-`User chosen Name:` goodgirlsexist2020 
+`User chosen Name:` Gilmar 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 20 17:35:16 +0000 2021 
+`User signup date?:` Fri Apr 16 03:24:48 +0000 2021 
  
-`User Description?:` Always remember that you are absolutely unique. Just like everyone else. 
+`User Description?:` I.T 
  
-`Followers?: `25 
+`Followers?: `15 
  
-`Following?:` 143 
+`Following?:` 556 
  
-`User URL?:` https://t.co/MkHEcO6WRQ 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 31 
+`Number of tweets extracted`  : 43 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1384561640650194948/r_VexWiZ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1383035255125381122/UgNdwUQE_normal.jpg 
  
-`Number of tweets excluding replies:` 31 
+`Number of tweets excluding replies:` 43 
  
 
  
@@ -478,38 +266,40 @@ RT @EnyaHead: #infosec It has been said that most companies store #financialresu
  
 ## User Top tweeted words 
  
-**THESE** 23 , **OTHER** 23 , **COMPANIES** 18 , **SECURITY** 13 , **DETECTION** 11 , **COULD** 10 , **TECHNOLOGY** 10 , **THREAT** 7 , **TECH** 5 , **COMMUNITIES** 5 , **THROUGH** 5 , **POTENTIALLY** 4 , **MISSION** 4 , **PROTECT** 4 , **PEACE** 4 , **MIND** 4 , **SEASONED** 4 , **COMPANIES’** 3 , **SEAMLESS** 3 , **SCREENING** 3 , 
+**DE** 11 , **POR** 6 , **É** 5 , **@PACKET_STORM:** 4 , **@THREE_CUBE:** 4 , **EM** 4 , **E** 4 , **LINUX** 3 , **BRASIL** 3 , **O** 3 , **UMA** 3 , **RT** 2 , **UPDATE** 2 , **RECON** 2 , **NMAP** 2 , **1** 2 , **CYBERWARRIOR** 2 , **PUBLISHED** 2 , **HMI** 2 , **@BBCBRASIL:** 2 , 
  
 ## What this user tweeted
  
-RT @EnyaHead: #infosec It has been said that most companies store #financialresults for years ahead, trade secrets, and #sensitivedata. Cou…
+RT @signalapp: Our latest blog post explores vulnerabilities and possible Apple copyright violations in Cellebrite's software:
+
+"Exploiting…
  
-# supalonely20200USER INFO
-![image](http://pbs.twimg.com/profile_images/1384568022996750338/lzPw4q96_normal.jpg)
+# BlackDefaultSpyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1383841220074479626/OC2ufT6J_normal.jpg)
  
-`User ScreenName:` supalonely20200 
+`User ScreenName:` BlackDefaultSpy 
  
-`User chosen Name:` supalonely20200 
+`User chosen Name:` Black Default 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 20 18:00:59 +0000 2021 
+`User signup date?:` Sun Apr 18 17:53:08 +0000 2021 
  
-`User Description?:` Spread love everywhere you go. Let no one ever come to you without leaving happier. 
+`User Description?:` Incognito 
  
-`Followers?: `3 
+`Followers?: `2 
  
-`Following?:` 76 
+`Following?:` 8 
  
-`User URL?:` https://t.co/XtJCilN45o 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 23 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1384568022996750338/lzPw4q96_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1383841220074479626/OC2ufT6J_normal.jpg 
  
-`Number of tweets excluding replies:` 23 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -517,11 +307,56 @@ RT @EnyaHead: #infosec It has been said that most companies store #financialresu
  
 ## User Top tweeted words 
  
-**THESE** 17 , **OTHER** 16 , **COMPANIES** 13 , **TECHNOLOGY** 10 , **DETECTION** 9 , **SECURITY** 9 , **COULD** 8 , **THREAT** 5 , **TECH** 4 , **COMMUNITIES** 4 , **THROUGH** 4 , **COMPANIES’** 3 , **POTENTIALLY** 3 , **MISSION** 3 , **PROTECT** 3 , **SUPERIOR** 3 , **PEACE** 3 , **MIND** 3 , **DETECT** 3 , **METALLIC** 3 , 
+**Z** 8 , **3|3** 2 , **5|5** 2 , **RT** 1 , **@SIGNALAPP:** 1 , **LATEST** 1 , **BLOG** 1 , **POST** 1 , **EXPLORES** 1 , **VULNERABILITIES** 1 , **POSSIBLE** 1 , **APPLE** 1 , **COPYRIGHT** 1 , **VIOLATIONS** 1 , **CELLEBRITE'S** 1 , **SOFTWARE:** 1 , **"EXPLOITING…3|3** 1 , **3|1** 1 , **1|1** 1 , **3|4** 1 , 
  
 ## What this user tweeted
  
-RT @EnyaHead: #infosec It has been said that most companies store #financialresults for years ahead, trade secrets, and #sensitivedata. Cou…
+RT @signalapp: Our latest blog post explores vulnerabilities and possible Apple copyright violations in Cellebrite's software:
+
+"Exploiting…
+ 
+# scobiformdotcomUSER INFO
+![image](http://pbs.twimg.com/profile_images/1384863107760148483/Vfbrrk7W_normal.jpg)
+ 
+`User ScreenName:` scobiformdotcom 
+ 
+`User chosen Name:` scobiform 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 13 12:10:47 +0000 2021 
+ 
+`User Description?:` I am not working in IT - IT works for me. 
+C# / Java / Python
+LINK: 0xc02320D64e9bB96655F382B780A31E26BB670266 
+ 
+`Followers?: `11 
+ 
+`Following?:` 169 
+ 
+`User URL?:` https://t.co/w5R4RTJyYr 
+ 
+`Location:` Berlin 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1384863107760148483/Vfbrrk7W_normal.jpg 
+ 
+`Number of tweets excluding replies:` 233 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTO** 11 , **BNB** 11 , **🔥** 11 , **CHAINLINK** 10 , **MAKE** 10 , **PEOPLE** 9 , **STILL** 9 , **GOOD** 8 , **BITCOIN** 8 , **BACK** 8 , **BINANCE** 7 , **INTO** 7 , **GOING** 6 , **MONEY** 6 , **NEED** 6 , **XRP** 6 , **FIRST** 5 , **$LINK** 5 , **MOST** 5 , **MAY** 5 , 
+ 
+## What this user tweeted
+ 
+RT @signalapp: Our latest blog post explores vulnerabilities and possible Apple copyright violations in Cellebrite's software:
+
+"Exploiting…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
