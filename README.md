@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **ktumulty**  
+The most popular user is: **moxie**  
  
 
-## .@tuckercarlson is in full cry tonight about Biden's comments today, asking: "When was the last time a sitting pres… https://t.co/7kuZlpcIll 
+## A few months ago Cellebrite announced that they would begin parsing data from Signal in their extraction tools. It… https://t.co/andzC9a5nW 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **ktumulty**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DaveG_Tripwire: Lilie Matia has 6 cybersecurity tips to help keep your home workspace secure. They apply to your home environment whe… |
-| RT @DrJDrooghaag: 🔵 Why the Cloud-Agnostic Security Platform Is Today's  Most Effective Multicloud Strategy#Cloud #CloudSecurity #CyberSe… |
-| RT @TheHackersNews: REvil #ransomware gang has compromised #Apple supplier Quanta, and hackers are now threatening to leak stolen blueprint… |
+| RT @moxie: A few months ago Cellebrite announced that they would begin parsing data from Signal in their extraction tools. It seems they're… |
+| RT @signalapp: Our latest blog post explores vulnerabilities and possible Apple copyright violations in Cellebrite's software:"Exploiting… |
+| RT @signalapp: Our latest blog post explores vulnerabilities and possible Apple copyright violations in Cellebrite's software:"Exploiting… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **iotcybersec24** |
-| #2 Most tweeted to  | **TheHackersNews** |
-| #3 Most tweeted to  | **AlyssaM_InfoSec** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 0.96%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **moxie** |
+| #2 Most tweeted to  | **signalapp** |
+| #3 Most tweeted to  | **rakyll** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 1.22%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -50,137 +50,57 @@ The most popular user is: **ktumulty**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **RANSOMWARE**  |
-| third  | **MALWARE** |
-| fourth  | **HACKERS**  |
-| fifth  | **PRIVACY**  |
+| first  | **VULNERABILITIES**  |
+| second  | **CELLEBRITE**  |
+| third  | **SIGNAL** |
+| fourth  | **TOOLS**  |
+| fifth  | **DATA**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @markthoms: Foreign Spies Target British Nationals With Fake Social Media Profiles #datasecurity #cybersecurity #informationsecurity #co… |
+|RT @moxie: A few months ago Cellebrite announced that they would begin parsing data from Signal in their extraction tools. It seems they're… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ktumulty**  |
+| The most retweeted user is: **moxie**  |
 | ------------- |
-| .@tuckercarlson is in full cry tonight about Biden's comments today, asking: "When was the last time a sitting pres… https://t.co/7kuZlpcIll |
+| A few months ago Cellebrite announced that they would begin parsing data from Signal in their extraction tools. It… https://t.co/andzC9a5nW |
 
 # Potential Fake Accounts
  
-# N3UR0T0XINUSER INFO
-![image](http://pbs.twimg.com/profile_images/1384995503377575938/K6p_tAtM_normal.jpg)
+# mrashby99USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` N3UR0T0XIN 
+`User ScreenName:` mrashby99 
  
-`User chosen Name:` 6100m 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 21 22:19:42 +0000 2021 
- 
-`User Description?:` Absolute madman-like hacker who likes to think he works with everything and anything. 
- 
-`Followers?: `5 
- 
-`Following?:` 10 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1384995503377575938/K6p_tAtM_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FUN** 2 , **STUFF** 2 , **RT** 1 , **@SNOWDEN:** 1 , **FBI** 1 , **BREAKING** 1 , **INTO** 1 , **US** 1 , **SYSTEMS** 1 , **DELETE** 1 , **MALWARE** 1 , **MICROSOFT** 1 , **EXCHANGE** 1 , **SERVERS** 1 , **GOVERNMENT** 1 , **ENGAGE…@TH3DIAMONDK** 1 , **AY** 1 , **TWEET** 1 , **BIT** 1 , **HACKING** 1 , 
- 
-## What this user tweeted
- 
-RT @Snowden: With the FBI breaking into US systems to delete malware from Microsoft exchange servers and now this, the government is engage…
- 
-# IvyPhil50786794USER INFO
-![image](http://pbs.twimg.com/profile_images/1384195576971988994/SKwqymKN_normal.jpg)
- 
-`User ScreenName:` IvyPhil50786794 
- 
-`User chosen Name:` Ivy Phillips 
+`User chosen Name:` Mrashby99 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 19 17:20:52 +0000 2021 
+`User signup date?:` Tue Apr 13 17:01:58 +0000 2021 
  
-`User Description?:` SEO expert 
- 
-`Followers?: `9 
- 
-`Following?:` 16 
- 
-`User URL?:` https://t.co/PTzcuMA5L2 
- 
-`Location:` USA 
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1384195576971988994/SKwqymKN_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**USAXOOM** 11 , **ACCOUNTS** 8 , **100DAYSOFCODE** 7 , **SIXTONESANN** 6 , **301DAYSOFCODE** 5 , **POKEMON** 4 , **CYBERSECURITY** 4 , **VERIFIED** 3 , **SAFELY** 3 , **BLACKTECHTWITTER** 3 , **FACEBOOK** 3 , **CODING** 3 , **JS…** 3 , **INFOSEC** 3 , **PYTHON** 3 , **ADS** 2 , **REVIEWS** 2 , **JS** 2 , **BEST** 2 , **ANALYTICS** 2 , 
- 
-## What this user tweeted
- 
-Buy #Verified Skrill Accounts from #usaxoom safely
-
-#pokemon #blacktechtwitter #Cybersecurity #infosec… https://t.co/wV5RrPHun4
- 
-# NathanJ11391603USER INFO
-![image](http://pbs.twimg.com/profile_images/1384991954342133761/KHZT30Mr_normal.jpg)
- 
-`User ScreenName:` NathanJ11391603 
- 
-`User chosen Name:` ExploringNerd 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 21 22:01:56 +0000 2021 
- 
-`User Description?:` I just want to do cool things with cool people. 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 85 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1384991954342133761/KHZT30Mr_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 291 
  
 
  
@@ -188,52 +108,11 @@ Buy #Verified Skrill Accounts from #usaxoom safely
  
 ## User Top tweeted words 
  
-**@ART3MISFIT** 1 , **I'D** 1 , **ADD** 1 , **ISN'T** 1 , **PREVENTATIVE** 1 , **MEASURES** 1 , **CAREFUL** 1 , **TRYING** 1 , **CLEAN** 1 , **MALWARE** 1 , **D…** 1 , **HTTPS://TCO/HGVRW8SJFA@ART3MISFIT** 1 , **I'VE** 1 , **WORKED** 1 , **INCIDENT** 1 , **RESPONSE** 1 , **/** 1 , **INFOSEC** 1 , **SECTOR** 1 , **LAST** 1 , 
+**@RBREICH** 37 , **PEOPLE** 17 , **@RBREICH:** 16 , **NEW** 13 , **POLICE** 13 , **TIME** 10 , **AMERICAN** 10 , **US** 10 , **@BREENEWSOME** 9 , **JOBS** 9 , **STOP** 8 , **MAKE** 8 , **DAY** 8 , **INFRASTRUCTURE** 7 , **LOOK** 7 , **BIDEN** 7 , **THAN** 7 , **MUST** 6 , **GOOD** 6 , **PRESIDENT** 6 , 
  
 ## What this user tweeted
  
-@Art3misfit I've worked in incident response / Infosec sector for the last few years..You honestly can't go wrong w… https://t.co/0EVWgobyet
- 
-# porkchopsecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1382762990907183106/KqST4jz1_normal.jpg)
- 
-`User ScreenName:` porkchopsec 
- 
-`User chosen Name:` Porkchopsec 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 14 22:50:55 +0000 2021 
- 
-`User Description?:` Hamfisting my way into infosec
-Current project:Security+ cert, TryHackMe
-Next sprint: Digital forensics 
- 
-`Followers?: `7 
- 
-`Following?:` 83 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1382762990907183106/KqST4jz1_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEVER** 2 , **PRETTY** 2 , **I'VE** 2 , **FUNDAMENTALS** 2 , **PART** 2 , **COMPLETED** 2 , **ROOM!** 2 , **CHECK** 2 , **OUT:** 2 , **TRYHACKME…** 2 , **CAT** 2 , **MUCH** 2 , **GOOD** 2 , **KEEP** 2 , **@INFOSEC_TAYLOR** 1 , **PITY** 1 , **FOOLS** 1 , **WHO'LL** 1 , **JOY** 1 , **PLAYING** 1 , 
- 
-## What this user tweeted
- 
-@Infosec_Taylor I pity the fools who'll never know the joy of playing POGs.
+RT @thehill: Hackers breached multiple government agencies and other critical organizations by exploiting vulnerabilities in products from…
  
 # SecuitNEWSUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1384949177789030408/BzcsLDoo_normal.jpg)
@@ -274,32 +153,71 @@ Next sprint: Digital forensics
  
 SecuitNEWS News related to infosec, cybersecurity, malware, vulnerabilities, cloud security, privacy, IoT security,… https://t.co/8yYBdjULnXNews related to #infosec, #cybersecurity, #malware, #vulnerabilities, #cloudsecurity, #privacy, #IoTsecurity, and m… https://t.co/R6EOCDbTEhNews related to #infosec, #cybersecurity, #malware, #vulnerabilities, #cloudsecurity, #privacy, #IoTsecurity, and m… https://t.co/7kAcrcr8YA
  
-# Hope54386903USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# SYN____ACKUSER INFO
+![image](http://pbs.twimg.com/profile_images/1384935217140486148/5aObMkQR_normal.jpg)
  
-`User ScreenName:` Hope54386903 
+`User ScreenName:` SYN____ACK 
  
-`User chosen Name:` Hope 
+`User chosen Name:` Euan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 21 18:44:34 +0000 2021 
+`User signup date?:` Mon Apr 19 22:29:24 +0000 2021 
  
-`User Description?:`  
+`User Description?:` Handshake failed: not permitted in 2021. 
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 4 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:` United Kingdom 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1384935217140486148/5aObMkQR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@USCERT_GOV:** 1 , **⚠️** 1 , **@CISAGOV** 1 , **ISSUED** 1 , **EMERGENCY** 1 , **DIRECTIVE** 1 , **21-03** 1 , **RESPONSE** 1 , **PULSE** 1 , **CONNECT** 1 , **SECURE** 1 , **VULNERABILITIES** 1 , **WHICH** 1 , **REQUIRES** 1 , **FEDERAL…THOUGHT** 1 , **I'D** 1 , **CREATE** 1 , **NEW** 1 , **ACCOUNT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @USCERT_gov: ⚠️ @CISAgov issued Emergency Directive 21-03 in response to Pulse Connect Secure vulnerabilities which requires all federal…
+ 
+# 23m5secUSER INFO
+![image](http://pbs.twimg.com/profile_images/1384956711094607874/VWBg4ode_normal.jpg)
+ 
+`User ScreenName:` 23m5sec 
+ 
+`User chosen Name:` Aem5sec 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 19 18:21:57 +0000 2021 
+ 
+`User Description?:` #CYBER #OSINT #HATHAT 
+ 
+`Followers?: `4 
+ 
+`Following?:` 131 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 22 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1384956711094607874/VWBg4ode_normal.jpg 
  
-`Number of tweets excluding replies:` 22 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -307,77 +225,79 @@ SecuitNEWS News related to infosec, cybersecurity, malware, vulnerabilities, clo
  
 ## User Top tweeted words 
  
-**OXYGEN** 8 , **COVID** 5 , **HOSPITAL** 4 , **PEOPLE** 4 , **@NDTVFEED:** 4 , **DYING** 3 , **DELHI** 3 , **DIE** 2 , **DUE** 2 , **SUPPLY** 2 , **NEEDS** 2 , **BEG** 2 , **HIGH** 2 , **MODI** 2 , **GOVT** 2 , **DOING** 2 , **INDIA** 2 , **STATE** 2 , **को** 2 , **CAME** 1 , 
+**WHATSAPP** 4 , **SIGNAL** 2 , **@EVACIDE:** 2 , **MO'** 2 , **@LORENZOFB** 1 , **MAKES** 1 , **LOVE** 1 , **EVEN** 1 , **MORERT** 1 , **@LORENZOFB:** 1 , **NEW:** 1 , **SIGNAL'S** 1 , **CEO** 1 , **HACKS** 1 , **CELLEBRITE** 1 , **IPHONE** 1 , **HACKING** 1 , **DEVICE** 1 , **USED** 1 , **COPS** 1 , 
  
 ## What this user tweeted
  
-RT @rajaharia: Again!! 11 Crore Indian Cardholder's Cards Data Including personal details &amp; KYC soft copy(PAN, Aadhar etc) allegedly leaked…
+RT @lorenzofb: NEW: Signal's CEO hacks a Cellebrite iPhone hacking device used by cops and details serious vulnerabilities in it.
+
+https://…
  
-# HendrikLierUSER INFO
-![image](http://pbs.twimg.com/profile_images/1382618159199481861/JyhHDD1-_normal.jpg)
+# CyberGalaxiesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1384227209443831808/FPjhkRR9_normal.jpg)
  
-`User ScreenName:` HendrikLier 
+`User ScreenName:` CyberGalaxies 
  
-`User chosen Name:` Hendrik Van Lier 
+`User chosen Name:` Princeton Brooke 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 15 08:34:50 +0000 2021 
+`User signup date?:` Sat Apr 17 20:48:28 +0000 2021 
  
-`User Description?:` Ethical Hacker  (TAO Specialist) International Secirity Management Code Breaker Chess Go Boxing CrossFit MTB. Zigative (Postive with a game plan) 
+`User Description?:` Dedicated to Cybersecurity, federal regulatory compliance, cryptography, supporting infrastructure and national security. 
  
-`Followers?: `26 
+`Followers?: `6 
  
-`Following?:` 546 
+`Following?:` 56 
+ 
+`User URL?:` https://t.co/UP6YBQiCU9 
+ 
+`Location:` Cleveland, OH 
+ 
+`Number of tweets extracted`  : 72 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1384227209443831808/FPjhkRR9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 72 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 9 , **📚** 7 , **LOVE** 5 , **TIME** 4 , **CAN'T** 4 , **SOME** 3 , **HOPE** 3 , **SANS** 3 , **ETHICS** 3 , **SECURITY** 3 , **W…** 3 , **MUCH** 3 , **DEVELOP** 3 , **DEVELOPED** 3 , **MEDIA** 3 , **2** 3 , **BACK** 3 , **I'M** 3 , **THOUGHT** 3 , **YEAR** 3 , 
+ 
+## What this user tweeted
+ 
+RT @cyber: 🚨 New --&gt; Last night @CISAgov issued Emergency Directive 21-03 in response to vulnerabilities with Pulse Connect Secure being ex…
+ 
+# Gilmar94684333USER INFO
+![image](http://pbs.twimg.com/profile_images/1383035255125381122/UgNdwUQE_normal.jpg)
+ 
+`User ScreenName:` Gilmar94684333 
+ 
+`User chosen Name:` Gilmar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 16 03:24:48 +0000 2021 
+ 
+`User Description?:` I.T 
+ 
+`Followers?: `15 
+ 
+`Following?:` 556 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 126 
+`Number of tweets extracted`  : 43 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1382618159199481861/JyhHDD1-_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1383035255125381122/UgNdwUQE_normal.jpg 
  
-`Number of tweets excluding replies:` 126 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TEAMDREIER:** 15 , **PHISHING** 14 , **CYBERSECURITY** 12 , **DETECTED** 12 , **NEW** 10 , **DE** 10 , **@PACKET_STORM:** 10 , **SECURITY** 9 , **KABUL** 8 , **INFOSEC** 7 , **EXPLOSION** 7 , **EEN** 7 , **DAT** 7 , **@DEEPFRIEDCYBER:** 7 , **NEWS** 7 , **ZOOM** 7 , **MALWARE** 6 , **JE** 6 , **VAN** 6 , **FRAUD** 5 , 
- 
-## What this user tweeted
- 
-RT @PhishStats: https://t.co/MAuIXRvYiq detected 21 new websites hosting #phishing | new today: 252 | #infosec #cybersecurity #malware http…
- 
-# kitty14956590USER INFO
-![image](http://pbs.twimg.com/profile_images/1381696479765663745/glye42vv_normal.jpg)
- 
-`User ScreenName:` kitty14956590 
- 
-`User chosen Name:` kitty 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 12 19:48:11 +0000 2021 
- 
-`User Description?:` Femboy 
- 
-`Followers?: `18 
- 
-`Following?:` 122 
- 
-`User URL?:` None 
- 
-`Location:` /bin/bash 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1381696479765663745/glye42vv_normal.jpg 
- 
-`Number of tweets excluding replies:` 450 
+`Number of tweets excluding replies:` 43 
  
 
  
@@ -385,57 +305,13 @@ RT @PhishStats: https://t.co/MAuIXRvYiq detected 21 new websites hosting #phishi
  
 ## User Top tweeted words 
  
-**MEOW** 17 , **IM** 10 , **DONT** 5 , **@CAT_PETTING** 5 , **PLEASE** 5 , **PET** 4 , **TOO** 4 , **OH** 4 , **STOP** 4 , **OK** 4 , **GONNA** 4 , **MALWARE** 3 , **CAT** 3 , **@FEMBOYR6S** 3 , **PEOPLE** 3 , **WELL** 3 , **NYAAA** 2 , **ITS** 2 , **FACT** 2 , **IVE** 2 , 
+**DE** 11 , **POR** 6 , **É** 5 , **@PACKET_STORM:** 4 , **@THREE_CUBE:** 4 , **EM** 4 , **E** 4 , **LINUX** 3 , **BRASIL** 3 , **O** 3 , **UMA** 3 , **RT** 2 , **UPDATE** 2 , **RECON** 2 , **NMAP** 2 , **1** 2 , **CYBERWARRIOR** 2 , **PUBLISHED** 2 , **HMI** 2 , **@BBCBRASIL:** 2 , 
  
 ## What this user tweeted
  
-RT @reecdeep: #Gozi #ISFB #Malware targets #italy 🇮🇹
+RT @signalapp: Our latest blog post explores vulnerabilities and possible Apple copyright violations in Cellebrite's software:
 
-DLL:https://t.co/poM9FIQzIz
-
-👉p://involve-logistics-2000.com/...
-🔥 c2:
-horulenuke[.us…
- 
-# HurenkoAndriyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1381915648557735938/xVbnBaLY_normal.jpg)
- 
-`User ScreenName:` HurenkoAndriy 
- 
-`User chosen Name:` Andríý Hurenķø 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 13 10:21:59 +0000 2021 
- 
-`User Description?:` 🙊🙉🙈 You may have nothing to hide, but You still something to fear 🤫 
- 
-`Followers?: `39 
- 
-`Following?:` 656 
- 
-`User URL?:` None 
- 
-`Location:` Ireland 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1381915648557735938/xVbnBaLY_normal.jpg 
- 
-`Number of tweets excluding replies:` 1315 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@HURENKOANDRIY:** 33 , **VIA** 13 , **HOME** 13 , **5** 11 , **REVIEW** 11 , **@ZIN_HOME:** 10 , **⭐⭐⭐⭐⭐** 10 , **STAR** 10 , **HTTPS://TCO/BHEZJWJAXC** 10 , **ZIN** 10 , **@YOUTUBERT** 9 , **В** 8 , **И** 7 , **FIRST** 7 , **@TERRORISMPOLICE:** 7 , **@KYLIEMINOGUE:** 6 , **SHOW** 6 , **PEOPLE** 5 , **KROES** 5 , **@NEWSMAX:** 5 , 
- 
-## What this user tweeted
- 
-RT @USCERT_gov: 🚨 ACTIVITY ALERT 🚨
-Review @CISAgov's new Alert on active exploitation of Pulse Connect Secure vulnerabilities. This activit…
+"Exploiting…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
