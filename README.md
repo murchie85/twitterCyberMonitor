@@ -856,38 +856,40 @@ RT @ItsAPerfectLife: get naked off your guilt, mistakes, vulnerabilities, darkne
  
 ## User Top tweeted words 
  
-**DE** 88 , **25ABR** 85 , **DEL** 84 , **CUIDÉMONOSDELACOVID** 75 , **Y** 57 , **LA** 49 , **CON** 44 , **DÍA!** 44 , **LOS** 43 , **▶️** 38 , **COVID19** 35 , **🇻🇪📢** 35 , *STRONGER…** 1 , **HTTPS://TCO/3QBJN85MMIWHAT'S** 1 , **KEEPING** 1 , **STARTING** 1 , **NEW** 1 , 
+**DE** 88 , **25ABR** 85 , **DEL** 84 , **CUIDÉMONOSDELACOVID** 75 , **Y** 57 , **LA** 49 , **CON** 44 , **DÍA!** 44 , **LOS** 43 , **▶️** 38 , **COVID19** 35 , **🇻🇪📢** 35 , **EL** 32 , **¡ETIQUETA** 31 , **PREVENIRESCLAVE** 25 , **EN** 24 , **25ABR|🗣️** 24 , **¡𝐓𝐨𝐦𝐚** 24 , **𝐍𝐨𝐭𝐚!** 24 , **SE** 18 , 
  
 ## What this user tweeted
  
-What's keeping you from starting a new career in #CyberSecurity?
+RT @parabellyx: The #COVID-19 pandemic has accelerated technological adoption, yet exposed #cyber vulnerabilities and unpreparedness.
+
+http…
  
-# felipe88798111USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# ThatPer74635122USER INFO
+![image](http://pbs.twimg.com/profile_images/1385002870341345284/qb2yvytO_normal.jpg)
  
-`User ScreenName:` felipe88798111 
+`User ScreenName:` ThatPer74635122 
  
-`User chosen Name:` felipe 
+`User chosen Name:` ThatPerson 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Apr 25 15:22:09 +0000 2021 
+`User signup date?:` Wed Apr 21 22:49:06 +0000 2021 
  
-`User Description?:` being able to do everything 
+`User Description?:` I'm that person 
  
 `Followers?: `0 
  
-`Following?:` 36 
+`Following?:` 28 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 10 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1385002870341345284/qb2yvytO_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 10 
  
 
  
@@ -895,38 +897,41 @@ What's keeping you from starting a new career in #CyberSecurity?
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 3 , **INFOSEC** 2 , **CAREER** 2 , **MEASURE** 1 , **ORGANIZATION'S** 1 , **SECURITY** 1 , **CULTURE?** 1 , **YES!** 1 , **HTTPS://TCO/65NKJU8NW0** 1 , **HTTPS://TCO/ME373ZGRVALOOKING** 1 , **START** 1 , **CAREER?** 1 , **EPISODE** 1 , **CYBER** 1 , **WORK** 1 , **LIVE** 1 , **COULD** 1 , **YOU'RE** 1 , **LOOKING** 1 , **FOR!** 1 , 
+**@SNOWDEN** 6 , **VIP** 4 , **DAY** 4 , **REALLY** 3 , **SELLING** 2 , **U** 2 , **EXP** 2 , **$47** 2 , **✅AS** 2 , **RECEIVE** 2 , **FOLLOWING:** 2 , **TWO** 2 , **ACCESS** 2 , **✅LIVE** 2 , **STREAM** 2 , **WELL** 1 , **I'M** 1 , **HONEST** 1 , **CITIZEN** 1 , **CALLING** 1 , 
  
 ## What this user tweeted
  
-Can you measure your organization's security culture? Infosec says yes! https://t.co/65NkJU8Nw0 https://t.co/mE373zgrvaLooking to start your cybersecurity career? This episode of Cyber Work Live could be what you're looking for! https://t.co/wzFYIOKGa1Launch and advance your cybersecurity career with an Infosec Accelerate scholarship! https://t.co/qK9gjn6Jh1Download Infosec’s 2021 Cybersecurity Role &amp; Career Path Clarity Study to learn more about NICE Framework adoption!… https://t.co/EbmY3bcJMi
+@TheWealthyCop Scam!
+https://t.co/YMtJdsLd1k
+
+Taking advantage of people's vulnerabilities by selling crap! Shame on you!
  
-# CyberGalaxiesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1386199478349205504/UeOz9sAZ_normal.jpg)
+# selvam8862USER INFO
+![image](http://pbs.twimg.com/profile_images/1384092480254054405/wLvIqH0C_normal.jpg)
  
-`User ScreenName:` CyberGalaxies 
+`User ScreenName:` selvam8862 
  
-`User chosen Name:` Princeton Brooke 
+`User chosen Name:` Selvaraj 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 17 20:48:28 +0000 2021 
+`User signup date?:` Mon Apr 19 10:30:39 +0000 2021 
  
-`User Description?:` Dedicated to Cybersecurity, federal regulatory compliance, cryptography, supporting infrastructure and national security. 
+`User Description?:` Nature lover, Music, Trader 
  
-`Followers?: `8 
+`Followers?: `2 
  
-`Following?:` 65 
+`Following?:` 31 
  
-`User URL?:` https://t.co/UP6YBQiCU9 
+`User URL?:` None 
  
-`Location:` Cleveland, OH 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 35 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1386199478349205504/UeOz9sAZ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1384092480254054405/wLvIqH0C_normal.jpg 
  
-`Number of tweets excluding replies:` 316 
+`Number of tweets excluding replies:` 35 
  
 
  
@@ -934,13 +939,415 @@ Can you measure your organization's security culture? Infosec says yes! https://
  
 ## User Top tweeted words 
  
-**OHIO** 11 , **THROUGH** 9 , **THEN** 9 , **INTO** 8 , **BACK** 8 , **SOME** 8 , **BARK** 7 , **ANALYSIS** 7 , **MOST** 7 , **ITS** 6 , **@NASA:** 6 , **BUSINESSES** 6 , **FIRST** 6 , **@NASA** 6 , **NEED** 6 , **TALK** 5 , **US** 5 , **CLIMATE** 5 , **START** 5 , **HELP** 5 , 
+**AIRDROP** 9 , **PARTICIPATE** 5 , **@DERIVEFINANCE:** 3 , **FINANCE** 3 , **NEW** 3 , **DEFI** 3 , **•** 3 , **@COINMARKETCAP:** 3 , **MEME** 3 , **TOKENS** 3 , **WORTH** 3 , **DRV** 2 , **FIRST** 2 , **FOLLOW** 2 , **20000** 2 , **FREE** 2 , **BLOFI** 2 , **REFERRAL** 2 , **LQF** 2 , **BOT:** 2 , 
  
 ## What this user tweeted
  
-In private we are all responsible for Cybersecurity, and in public, we are all responsible for national security. W… https://t.co/XyhumXfRGdGood morning, let's continue our conversation about risk and loss management, and reverse-risk analysis.
+RT @DeriveFinance: Audit report is now available for download at https://t.co/DaVvVpdwI7 🔍👀0 critical vulnerabilities found. Current APR 11…
+ 
+# NathallieHUSER INFO
+![image](http://pbs.twimg.com/profile_images/1386034550778699777/bXmduaw2_normal.jpg)
+ 
+`User ScreenName:` NathallieH 
+ 
+`User chosen Name:` Nathallie Hughes 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 23 00:49:29 +0000 2021 
+ 
+`User Description?:` Psychic Medium. Astrologer. Life Coach. Currently open to receiving compliments.18+ probably 
+ 
+`Followers?: `22 
+ 
+`Following?:` 16 
+ 
+`User URL?:` https://t.co/JiZXdeTC1c 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1386034550778699777/bXmduaw2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 213 
+ 
 
-#RMF #DOD… https://t.co/LZBG8inaRt
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I’M** 30 , **SCORPIO** 15 , **LOVE** 14 , **MEN** 14 , **REALLY** 12 , **SHIT** 11 , **DON’T** 11 , **RELATIONSHIPS** 11 , **MARS** 10 , **MOON** 9 , **THAT’S** 9 , **SEX** 9 , **DOESN’T** 8 , **THEN** 8 , **MAN** 7 , **FUCK** 7 , **VENUS** 7 , **CAN’T** 7 , **MYSELF** 7 , **LIFE** 7 , 
+ 
+## What this user tweeted
+ 
+At it’s most wounded, Scorpio is vicious and will try to use your insecurities/vulnerabilities/wounds against you.… https://t.co/UFSxK1YuOi
+ 
+# Tainguy68249108USER INFO
+![image](http://pbs.twimg.com/profile_images/1384365893963051009/1_VwQ7W4_normal.jpg)
+ 
+`User ScreenName:` Tainguy68249108 
+ 
+`User chosen Name:` Tainguyen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 20 04:38:14 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 23 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1384365893963051009/1_VwQ7W4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 23 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REWARDIQA:** 10 , **SFM** 7 , **@SFMONEY_SFM:** 5 , **JOIN** 5 , **NFTS** 5 , **COMING** 5 , **AIRDROP** 4 , **HOTBIT** 4 , **HAPPY** 4 , **REWARDIQA** 4 , **BSC** 4 , **LISTED** 3 , **EARN** 3 , **@GOLDMONEY_GDM:** 3 , **NFTCOLLECTOR** 3 , **NFTDROP** 3 , **GUYS** 3 , **$REW** 3 , **KUCOIN** 3 , **10** 2 , 
+ 
+## What this user tweeted
+ 
+RT @SecuriTeam_SSD: New advisory is now out!
+
+NetMotion Mobility is a secure platform for remote workers in mobile environments.
+
+Find out…
+ 
+# NaimHosan5USER INFO
+![image](http://pbs.twimg.com/profile_images/1385524819874045953/7r3cD2YL_normal.jpg)
+ 
+`User ScreenName:` NaimHosan5 
+ 
+`User chosen Name:` Retweeted 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 23 08:15:01 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 127 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1385524819874045953/7r3cD2YL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 311 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 45 , **VALUE** 28 , **MARKET** 28 , **PLAN** 28 , **ATTRACT** 27 , **TOKEN** 27 , **CRYPTO** 19 , **@BUSINESS_TOKEN** 16 , **AMA** 16 , **PLANS** 16 , **SUPPORT** 16 , **🐔Q)** 15 , **WORK** 15 , **NFT'S?** 15 , **PRICING** 15 , **REFERENCE** 15 , **@KYLIN_NETWORK** 15 , **3** 15 , **COMMUNITY** 15 , **ANY** 15 , 
+ 
+## What this user tweeted
+ 
+@BebobeL_CL @catjamtoken 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongsides ea… https://t.co/q2jq6dGCz4@freecoins24 @RealVoxFinance 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongside… https://t.co/fNjEeUstuf@CryptoNesiaReal @ethbox_official 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alon… https://t.co/WlmNaldRNY@CryptonationN @Cryptopuzzles_ 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongsi… https://t.co/9dzhzC92xl@CryptonationN @bullsdrop 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongsides e… https://t.co/QmzOAHUyOl@Crypt_MoonLight @safebluemoon 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongsi… https://t.co/v5tkYE898B@Crypt_MoonLight @CaKe_Tools 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongside… https://t.co/N4ZPifUvMN@Cryptotech_Ann @business_token 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongs… https://t.co/MgaG0Pz4sx@CryptolandOffi1 @MatrixAINetwork 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alon… https://t.co/P9PwrirnVU@EPID_Community @DOGIRATOKEN 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongside… https://t.co/F7JYwDsVgL@Infinity_AMA @gramswap 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongsides ear… https://t.co/YJUD6l8Dh7@gameofbitcoin @polkastarter @standarddefi 🔼🔼  Q.I am a developer, and I am interested in contributing to your proj… https://t.co/PRx7rqNOna@TradeCoinCom @croxswap 🔼🔼  Q.I am a developer, and I am interested in contributing to your project  alongsides ear… https://t.co/z4exleO1cF@vbc_ventures @KianiteFinance 🔼  Q.I am a developer, and I am interested in contributing to your project  alongside… https://t.co/DNWBad8iKx@CryptonationN @SoviFinance 🔼  Q.I am a developer, and I am interested in contributing to your project  alongsides… https://t.co/SMQBFe84ci@RmrkApp @IllusionistGRP 🔼  Q.I am a developer, and I am interested in contributing to your project  alongsides ear… https://t.co/kRChKiiNFt@EPID_Community @GenShards 🔼  Q.I am a developer, and I am interested in contributing to your project  alongsides e… https://t.co/CxhpRJElYD@CryptoTitans1 @SafeSpaceCrypto 🔼  Q.I am a developer, and I am interested in contributing to your project  alongsi… https://t.co/2vERyPEW4kRT @NaimHosan5: @CryptoTitans1 @PlatON_Network 🔼  Q.I am a developer, and I am interested in contributing to your project  alongsides earni…
+ 
+# iamDigitalFireUSER INFO
+![image](http://pbs.twimg.com/profile_images/1383048170276540423/0u1dD8MC_normal.jpg)
+ 
+`User ScreenName:` iamDigitalFire 
+ 
+`User chosen Name:` iamDigitalFire 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 16 13:22:10 +0000 2021 
+ 
+`User Description?:` Fuck Your Feelings
+Mind your business
+#Goldcorp Pronouns: 556/762/308 
+ 
+`Followers?: `2 
+ 
+`Following?:` 77 
+ 
+`User URL?:` None 
+ 
+`Location:` Miami, FL 
+ 
+`Number of tweets extracted`  : 78 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1383048170276540423/0u1dD8MC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 79 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 5 , **@KATYRASMITH** 5 , **@RSA1ASR** 5 , **@ITSASIIIAAA_** 5 , **MAYBE** 5 , **POLICE** 4 , **FUCK** 4 , **ANOTHER** 3 , **2A** 3 , **ITS** 3 , **OFF** 3 , **GO** 3 , **BLOCKING** 3 , **STATE** 3 , **DON'T** 3 , **@GUNPOLICY:** 3 , **@WSVN** 3 , **YES** 3 , **GOOD** 3 , **COPS** 3 , 
+ 
+## What this user tweeted
+ 
+RT @signalapp: Our latest blog post explores vulnerabilities and possible Apple copyright violations in Cellebrite's software:
+
+"Exploiting…
+ 
+# Neel42979920USER INFO
+![image](http://pbs.twimg.com/profile_images/1385237373307408389/h0VvFgbZ_normal.jpg)
+ 
+`User ScreenName:` Neel42979920 
+ 
+`User chosen Name:` Neel 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 22 14:18:50 +0000 2021 
+ 
+`User Description?:` Pragmatic Soul 
+ 
+`Followers?: `0 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:` Planet Earth  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1385237373307408389/h0VvFgbZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NARENDRAMODI** 1 , **EXPOSES** 1 , **VULNERABILITIES** 1 , **PLANING** 1 , **EXECUTION** 1 , **DECISIONS** 1 , **INSTANCE** 1 , **SHOWS** 1 , **LACK** 1 , **PRIOR…** 1 , **HTTPS://TCO/ZEYV9KRTS8** 1 , 
+ 
+## What this user tweeted
+ 
+@narendramodi Exposes vulnerabilities in our planing and execution of decisions. This instance shows lack of prior… https://t.co/zEYv9KrTs8
+ 
+# scafe_shemarUSER INFO
+![image](http://pbs.twimg.com/profile_images/1385750798945107970/OY1Eo16B_normal.jpg)
+ 
+`User ScreenName:` scafe_shemar 
+ 
+`User chosen Name:` Shemar Scafe 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 24 00:21:38 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1385750798945107970/OY1Eo16B_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TELEVISIONJAM** 1 , **YES!!!** 1 , **CONTINUIOUS** 1 , **RISING** 1 , **TEMPERATURES** 1 , **INTENSE** 1 , **RAINFALL** 1 , **EVENTS** 1 , **INCREASE** 1 , **INCIDENCE** 1 , **VECTOR-…** 1 , **HTTPS://TCO/YL5NXJ5PXF** 1 , 
+ 
+## What this user tweeted
+ 
+@televisionjam Yes!!! The continuious rising temperatures and intense rainfall events increase incidence of vector-… https://t.co/Yl5Nxj5pXF
+ 
+# pandobloxUSER INFO
+![image](http://pbs.twimg.com/profile_images/1385692200944631812/Lq0EY0rI_normal.jpg)
+ 
+`User ScreenName:` pandoblox 
+ 
+`User chosen Name:` Pandoblox 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 23 20:28:07 +0000 2021 
+ 
+`User Description?:` We provide the experience & skill sets to help you achieve operational excellence. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1385692200944631812/Lq0EY0rI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LARGE** 1 , **CORPORATIONS** 1 , **BREACHED** 1 , **MALICIOUS** 1 , **EXPLOITS** 1 , **IMPACT** 1 , **CASCADE** 1 , **ACROSS** 1 , **DOZENS** 1 , **INDUSTRIES** 1 , **LEA…** 1 , **HTTPS://TCO/VKGNO2O5ZF** 1 , 
+ 
+## What this user tweeted
+ 
+When large corporations are breached by malicious exploits, the impact can cascade across dozens of industries. Lea… https://t.co/VKgnO2O5Zf
+ 
+# cybertoolUSER INFO
+![image](http://pbs.twimg.com/profile_images/1385640897426206724/XjUmEHD8_normal.jpg)
+ 
+`User ScreenName:` cybertool 
+ 
+`User chosen Name:` CyberTool 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 23 16:33:50 +0000 2021 
+ 
+`User Description?:` Account no related to 🇨🇭 Victorinox Cyber Tool but you should purchase one (link bellow). Check also all books and videos with Life Hacks from Felix Immler. 
+ 
+`Followers?: `7 
+ 
+`Following?:` 469 
+ 
+`User URL?:` https://t.co/B2rRZlUxNx 
+ 
+`Location:` Switzerland 
+ 
+`Number of tweets extracted`  : 138 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1385640897426206724/XjUmEHD8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 138 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LINUX** 13 , **APPLE** 12 , **FIRST** 6 , **REALLY** 6 , **POWER** 6 , **NEW** 5 , **A…RT** 5 , **CM4** 5 , **SOME** 5 , **WHICH** 5 , **M1** 5 , **AROUND** 4 , **CODE** 4 , **NEXT** 4 , **BLOG** 4 , **BOARD** 4 , **THANKS** 4 , **@STONEDEDGEMODS:** 4 , **COMPLETELY** 4 , **OPEN** 4 , 
+ 
+## What this user tweeted
+ 
+RT @signalapp: Our latest blog post explores vulnerabilities and possible Apple copyright violations in Cellebrite's software:
+
+"Exploiting…
+ 
+# fulhumtumUSER INFO
+![image](http://pbs.twimg.com/profile_images/1384322909900967936/Cb45mX4N_normal.jpg)
+ 
+`User ScreenName:` fulhumtum 
+ 
+`User chosen Name:` H&T 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 18 11:34:04 +0000 2021 
+ 
+`User Description?:` Are you perfect to expect perfect.
+                                  ||Blurred thoughts|| 
+ 
+`Followers?: `2 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 91 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1384322909900967936/Cb45mX4N_normal.jpg 
+ 
+`Number of tweets excluding replies:` 100 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HAI** 9 , **BHI** 8 , **SE** 5 , **@FULHUMTUM:** 5 , **EVEN** 5 , **OTHER** 5 , **KO** 4 , **WORLD** 4 , **@WITTY_SIM** 4 , **LONG** 4 , **PEOPLE** 4 , **ITS** 4 , **MATTER** 4 , **FEEL** 3 , **DOESN'T** 3 , **NEVER** 3 , **LIFE** 3 , **LOVE** 3 , **MAKE** 3 , **VERY** 3 , 
+ 
+## What this user tweeted
+ 
+RT @fulhumtum: Why do people even bother to bluff.
+Most of us can see right through each other.
+Basic scrutiny tends to be inexact
+But it a…
+ 
+# IBRAHIM62447685USER INFO
+![image](http://pbs.twimg.com/profile_images/1385341483826368514/EHiTvP5o_normal.jpg)
+ 
+`User ScreenName:` IBRAHIM62447685 
+ 
+`User chosen Name:` IBRAHIM BATHISHA 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 22 21:14:27 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1385341483826368514/EHiTvP5o_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOOK** 2 , **@ICC** 1 , **@CRICKETWORLDCUP** 1 , **@SACHIN_RT** 1 , **HAPPY** 1 , **BIRTHDAYRT** 1 , **@THEREALSAMSAM:** 1 , **“PANDEMICS** 1 , **GUIDED** 1 , **MISSILES** 1 , **IMPACT** 1 , **PEOPLE** 1 , **EXPERIENCE** 1 , **VULNERABILITIES** 1 , **BACK** 1 , **WE’LL** 1 , **AT…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @therealsamsam: “Pandemics are like guided missiles that impact people who experience vulnerabilities. When we look back, we’ll look at…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
