@@ -780,3 +780,371 @@ RT @davidfrawleyved: A pandemic no country has been able to subjugate after more
 `User signup date?:` Wed Apr 28 14:43:21 +0000 2021 
  
 `User Description?:` post-drama depression due to vincenzo; patiently waiting for hosp playlist s2 
+ 
+`Followers?: `2 
+ 
+`Following?:` 43 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1387792957974011906/mf1k4Mv5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 841 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VINCENZO** 90 , **VINCENZOEP20** 43 , **HONG** 24 , **CHAYOUNG** 21 , **LOVE** 18 , **BEST** 18 , **@S0NGJIAN:** 15 , **전여빈** 15 , **JEONYEOBEEN** 14 , **MISS** 12 , **😭** 11 , **@VINCENZOTVN:** 11 , **SONGJOONGKI** 10 , **@KDRAMADAISY:** 10 , **CHA** 10 , **SEO** 10 , **@YEOBEENFILES:** 10 , **@CHAYOUNGCHO:** 9 , **WAY** 9 , **CHARACTER** 9 , 
+ 
+## What this user tweeted
+ 
+RT @layzuhsome: Hong Cha Young was definitely the most well-written female lead character in the kdrama history who never entirely dependen…
+ 
+# ainakdramasUSER INFO
+![image](http://pbs.twimg.com/profile_images/1386512364095246336/oJ6NED5r_normal.jpg)
+ 
+`User ScreenName:` ainakdramas 
+ 
+`User chosen Name:` aina 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 26 02:41:36 +0000 2021 
+ 
+`User Description?:` Los Kdramas me dan vida 🌼.                                             
+Jeon Yeo Been | Song Joong Ki | JeonKi✨ 
+ 
+`Followers?: `106 
+ 
+`Following?:` 211 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1386512364095246336/oJ6NED5r_normal.jpg 
+ 
+`Number of tweets excluding replies:` 243 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 66 , **QUE** 59 , **VINCENZO** 56 , **EL** 48 , **Y** 41 , **LA** 30 , **ES** 26 , **EN** 24 , **SE** 24 , **LO** 20 , **POR** 18 , **CHA** 16 , **VINCENZOEP20** 15 , **SONGJOONGKI** 15 , **FINAL** 15 , **YOUNG** 15 , **CON** 14 , **CHAYOUNG** 14 , **UN** 13 , **PERO** 13 , 
+ 
+## What this user tweeted
+ 
+RT @layzuhsome: Hong Cha Young was definitely the most well-written female lead character in the kdrama history who never entirely dependen…
+ 
+# sec_hawkUSER INFO
+![image](http://pbs.twimg.com/profile_images/1388909103766933505/chfWDLOO_normal.jpg)
+ 
+`User ScreenName:` sec_hawk 
+ 
+`User chosen Name:` SecHawk 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 28 05:20:49 +0000 2021 
+ 
+`User Description?:` Learner | InfoSec | Just got started in Bug Hunting 
+ 
+`Followers?: `14 
+ 
+`Following?:` 373 
+ 
+`User URL?:` https://t.co/lRHEIjCOsH 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 118 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1388909103766933505/chfWDLOO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 118 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BUG** 14 , **BOUNTY** 14 , **SOME** 12 , **@HACKER0X01** 12 , **SHARE** 11 , **NEW** 10 , **BUGBOUNTY** 10 , **@BUGCROWD** 8 , **FIND** 7 , **THANK** 7 , **CONGRATULATIONS!** 7 , **KINDLY** 7 , **GOT** 7 , **:** 6 , **?** 6 , **LEARN** 6 , **HACKING** 5 , **BUGBOUNTYTIPS** 5 , **@BUGVSECURITY** 5 , **HACKERS** 4 , 
+ 
+## What this user tweeted
+ 
+@naglinagli @Bugcrowd @sh_timmy Congratulation! How do you find so many vulnerabilities in such a short period of time ? Kindly Reply 🙏RT @naglinagli: In May, I submitted 124 vulnerabilities to 1 program on 
+@Bugcrowd
+ 
+Sorry @sh_timmy, appreciated!
+
+#BugBounty https://t.co…
+ 
+# tieubinh2003USER INFO
+![image](http://pbs.twimg.com/profile_images/1388685602862764036/bx9A6nlj_normal.jpg)
+ 
+`User ScreenName:` tieubinh2003 
+ 
+`User chosen Name:` Đinh Tiểu Bình 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 02 01:41:21 +0000 2021 
+ 
+`User Description?:` #JackJ97 #J97 #LayLaLay #Followback Team đóm ĐỒNG THÁP 
+ 
+`Followers?: `16 
+ 
+`Following?:` 108 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 67 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1388685602862764036/bx9A6nlj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 67 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AMA** 16 , **MAY** 15 , **PM** 15 , **UTC** 14 , **:** 8 , **NFT** 7 , **@TOMMYBINH1** 7 , **HOLD** 6 , **2021** 6 , **MARKET** 6 , **L** 6 , **USE** 6 , **2** 6 , **@KLIST_** 6 , **US** 5 , **HOST** 5 , **CRYPTO** 5 , **PROJECT** 5 , **COMMUNITY** 5 , **TEAM** 5 , 
+ 
+## What this user tweeted
+ 
+@IM_Communityitw @keon_protocol As a investor mainly i faced 3 problem for DEFI investment.
+1)Technical &amp; Complex A… https://t.co/McUdDfs4AR
+ 
+# Apollo_CommunisUSER INFO
+![image](http://pbs.twimg.com/profile_images/1389299384706285568/jHyZgWcS_normal.jpg)
+ 
+`User ScreenName:` Apollo_Communis 
+ 
+`User chosen Name:` Apollo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 27 18:47:50 +0000 2021 
+ 
+`User Description?:` Apollo Collective.
+Advocates for a democratic, anarchic internet & expanding education.
+
+Group is non-biased on information it shares unless explicitly stated. 
+ 
+`Followers?: `3 
+ 
+`Following?:` 32 
+ 
+`User URL?:` https://t.co/utYLe6Zqgi 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1389299384706285568/jHyZgWcS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 5 , **HELP** 3 , **WHERE** 3 , **INFORMATION** 3 , **US** 3 , **PRIVACY** 2 , **HAVING** 2 , **ABLE** 2 , **DIGITAL** 2 , **YEARS** 2 , **BEST** 2 , **MUST** 2 , **WAY** 2 , **AGAINST** 2 , **SERVICES** 2 , **NAME** 2 , **RESPECT** 2 , **PRIVATE** 2 , **EVERYBODY** 2 , **NEED** 2 , 
+ 
+## What this user tweeted
+ 
+RT @torproject: Privacy isn't about having something to hide.
+
+Privacy is about protecting who we are as human beings: our fears, our relat…
+ 
+# MiineaCarmenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1387846960628043780/HM0_onjM_normal.jpg)
+ 
+`User ScreenName:` MiineaCarmen 
+ 
+`User chosen Name:` Carmen Miinea 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 29 19:06:57 +0000 2021 
+ 
+`User Description?:` Healthy Longevity Lifestyle - A healthy mind in a healthy body 
+ 
+`Followers?: `31 
+ 
+`Following?:` 168 
+ 
+`User URL?:` None 
+ 
+`Location:` Schaffhausen, Switzerland 
+ 
+`Number of tweets extracted`  : 66 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1387846960628043780/HM0_onjM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 66 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PAULOMAHONY** 30 , **DAY** 29 , **RETHINK** 20 , **WORKSHOP** 19 , **RETHINKANDGROWRICH** 10 , **THURSDAYMOTIVATION** 10 , **INCREDIBLE** 9 , **AMAZING** 9 , **@MIINEACARMEN:** 8 , **FINISHED** 8 , **1** 8 , **LEARNING** 6 , **SOCIAL** 6 , **MEDIA** 6 , **3** 6 , **TALK** 6 , **FINISHING** 6 , **@REBECCAH2030:** 5 , **GREAT** 5 , **START** 5 , 
+ 
+## What this user tweeted
+ 
+RT @torproject: Privacy isn't about having something to hide.
+
+Privacy is about protecting who we are as human beings: our fears, our relat…
+ 
+# Serhat66149967USER INFO
+![image](http://pbs.twimg.com/profile_images/1388786929081229316/6sXJ5i-U_normal.jpg)
+ 
+`User ScreenName:` Serhat66149967 
+ 
+`User chosen Name:` Serhat 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 01 22:08:37 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 74 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1388786929081229316/6sXJ5i-U_normal.jpg 
+ 
+`Number of tweets excluding replies:` 74 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AAXEXCHANGE:** 69 , **AAX** 34 , **CRYPTO** 27 , **MARKET** 12 , **BITCOIN** 11 , **JOIN** 10 , **TRADE** 8 , **APRIL** 7 , **1** 7 , **WIN** 7 , **WEEKLY** 6 , **RED** 6 , **TRADING** 5 , **USDT** 5 , **ASK** 5 , **THOR** 5 , **$DOT** 5 , **CONVERSATION** 5 , **CLUBHOUSE** 5 , **USING** 5 , 
+ 
+## What this user tweeted
+ 
+RT @AAXExchange: Introducing the @kusamanetwork the canary network of @Polkadot now available to trade on #AAX
+
+This post explores Kusama (…
+ 
+# Bobw1o2USER INFO
+![image](http://pbs.twimg.com/profile_images/1386400141414912010/gEWYQ82i_normal.jpg)
+ 
+`User ScreenName:` Bobw1o2 
+ 
+`User chosen Name:` Bobw1o.2 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 25 19:20:58 +0000 2021 
+ 
+`User Description?:` Vet. No politics No hate No pants
+Pro weed Pro Love
+My place to relax
+
+https://t.co/1cs9GIINu9 
+ 
+`Followers?: `53 
+ 
+`Following?:` 71 
+ 
+`User URL?:` None 
+ 
+`Location:` U.S.A. 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1386400141414912010/gEWYQ82i_normal.jpg 
+ 
+`Number of tweets excluding replies:` 272 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOVE** 17 , **PEOPLE** 15 , **GOOD** 13 , **LOOK** 13 , **I’M** 10 , **DON’T** 9 , **TIME** 8 , **KEEP** 7 , **DAY** 7 , **I'M** 7 , **MAKE** 7 , **ALWAYS** 6 , **BEING** 6 , **THAN** 6 , **DON'T** 6 , **YOU'RE** 6 , **@WINE_HONEY1:** 6 , **@SASSYSOUTHRNESS:** 6 , **STILL** 5 , **THING** 5 , 
+ 
+## What this user tweeted
+ 
+RT @nicolep79mia: Intimacy is when you are comfortable enough to let your vulnerabilities show.
+ 
+# ArunRamanatha17USER INFO
+![image](http://pbs.twimg.com/profile_images/1388182633557811201/gLjmSRe1_normal.jpg)
+ 
+`User ScreenName:` ArunRamanatha17 
+ 
+`User chosen Name:` Arun Ramanathan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 30 17:24:09 +0000 2021 
+ 
+`User Description?:` Lifelong fan of Arsenal FC, Chennai Super Kings and Chennaiyin FC. A daydreamer who one day want to help the world in solving problems 
+ 
+`Followers?: `1 
+ 
+`Following?:` 62 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 65 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1388182633557811201/gLjmSRe1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 65 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VERY** 7 , **COULD** 6 , **@FREECODECAMP:** 5 , **DAY** 5 , **BEST** 4 , **PEOPLE** 4 , **MAN** 4 , **GOOD** 4 , **ARTETA** 4 , **CHECK** 3 , **FEEL** 3 , **TIME** 3 , **GREAT** 3 , **DEFINITELY** 3 , **USE** 3 , **THESE** 3 , **STARTED** 3 , **CSK** 3 , **SENNA** 3 , **WORKERS** 3 , 
+ 
+## What this user tweeted
+ 
+RT @torproject: Privacy isn't about having something to hide.
+
+Privacy is about protecting who we are as human beings: our fears, our relat…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
