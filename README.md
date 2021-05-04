@@ -1,22 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **SergiuSechel**  
+The most popular user is: **TinkerSec**  
  
 
-## Cobalt Strike network based detection at scale
-https://t.co/cx44jf3Aik
-#incidentresponse #dfir #ThreatIntel #ThreatHunting #CyberSecurity 
+## So I finally sorted out what happened to my brain.
+
+I, quite literally, hacked so much, for so long, and without en… https://t.co/awNsYc1AeT 
 
   
 
@@ -25,25 +25,25 @@ https://t.co/cx44jf3Aik
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @cnoanalysis: In 1949 Sherman Kent warned the CIA's lack of diversity harmed its ability to secure the nation. Diversity is no joke and… |
-| RT @Dhananjaya_N: #GitHub has a ton of #opensource options for #security professionals, with new entries every day. Add these tools to your… |
-| 🔍#wordpress #honeypot Hit: 217.138.206.84US - M247 Ltd🗒️Abuse Report: https://t.co/NAsZiutzya#infosec #bots… https://t.co/NazyJBoW2g |
+| RT @ChiNetworks: Current and usefulNew Ransomware Trends Causing Fear in 2021 https://t.co/cAu6LqF0vo via @eWEEK #cybersecurity #Infosec… |
+| free infosec advice: stay away from people with 'hacknotcrime advocate' in their bios, these people think that ille… https://t.co/FqzgX7CCiW |
+| Twitter acquires distraction-free reading service Scroll to beef up its subscription product:… https://t.co/mCN6PZs6g3 |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **RedPacketSec** |
-| #3 Most tweeted to  | **DSCI_TiR** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 1.51%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **iotcybersec24** |
+| #2 Most tweeted to  | **TheHackersNews** |
+| #3 Most tweeted to  | **hacks4pancakes** |
+| NewProfiles (less than 10 days) | 0.08%  |
+| Tweeters with < 10 followers  | 1.32%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -53,56 +53,56 @@ https://t.co/cx44jf3Aik
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **DARKWEB**  |
-| third  | **CYBERSEC** |
-| fourth  | **THREATINTEL**  |
-| fifth  | **CYBERCRIME**  |
+| second  | **MALWARE**  |
+| third  | **👈** |
+| fourth  | **@IOTCYBERSEC24**  |
+| fifth  | **RANSOMWARE**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
+![image](assets/infosec/sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @rickhholland: I'm very excited for this, we just released our 200th special edition episode of @digitalshadows #ShadowTalk. I remember… |
+|RT @jonesit_sf: #Microsoft Warns of 25 Critical Vulnerabilities in #IoT, Industrial Deviceshttps://t.co/JMu7MKtE7p#infosec #security #c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SergiuSechel**  |
+| The most retweeted user is: **TinkerSec**  |
 | ------------- |
-| Cobalt Strike network based detection at scalehttps://t.co/cx44jf3Aik#incidentresponse #dfir #ThreatIntel #ThreatHunting #CyberSecurity |
+| So I finally sorted out what happened to my brain.I, quite literally, hacked so much, for so long, and without en… https://t.co/awNsYc1AeT |
 
 # Potential Fake Accounts
  
-# Anonymo46673602USER INFO
-![image](http://pbs.twimg.com/profile_images/1389704537548763138/2fEOQfpv_normal.jpg)
+# C1ph3r16USER INFO
+![image](http://pbs.twimg.com/profile_images/1386516407882506240/z85DJO9q_normal.jpg)
  
-`User ScreenName:` Anonymo46673602 
+`User ScreenName:` C1ph3r16 
  
-`User chosen Name:` Anonymous Girl🎭 
+`User chosen Name:` C1ph3r 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 28 15:16:59 +0000 2021 
+`User signup date?:` Mon Apr 26 02:58:52 +0000 2021 
  
-`User Description?:` #FreeJulianAssage☘️🎗️🎗️🎗️🎗️🍀 #Weareallassange🎗️🎗️🎗️#Freespeach #Antifascist #Antiracist #Justice #Stophate #Opchildsafety #BlackLivesMatter #HelpMyanmar 
+`User Description?:` just a simple guy with a complicated dreams. 
  
-`Followers?: `26 
+`Followers?: `0 
  
-`Following?:` 106 
+`Following?:` 20 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 61 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1389704537548763138/2fEOQfpv_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1386516407882506240/z85DJO9q_normal.jpg 
  
-`Number of tweets excluding replies:` 61 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -110,40 +110,78 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJE
  
 ## User Top tweeted words 
  
-**@YOURANONCENTRAL:** 16 , **JULIAN** 10 , **ASSANGE** 9 , **ANONYMOUS** 9 , **US** 7 , **WORLD** 6 , **@OPJUSTICE_:** 6 , **DAY** 5 , **MYANMAR** 5 , **PEOPLE** 4 , **JOIN** 4 , **MAY** 4 , **FIGHT** 3 , **GOVERNMENT** 3 , **@TRUMANHUMAN2020:** 3 , **DURING** 3 , **POLICE** 3 , **AGAINST** 3 , **JUNTA** 3 , **DETECTED** 3 , 
+**@DARKTRACER_INT** 2 , **RT** 1 , **@RUSTLANG:** 1 , **“WE** 1 , **FEEL** 1 , **RUST** 1 , **READY** 1 , **JOIN** 1 , **C** 1 , **PRACTICAL** 1 , **LANGUAGE** 1 , **IMPLEMENTING** 1 , **KERNEL”** 1 , **HTTPS://TCO/ADYKVHNTLZRT** 1 , **@PTRACESECURITY:** 1 , **WINDOWS** 1 , **ACTIVE** 1 , **DIRECTORY** 1 , **EXPLOITATION** 1 , **CHEAT** 1 , 
  
 ## What this user tweeted
  
-RT @opjustice_: Top 10 Countries – April 29, 2021
-New unique DDoS malware hosts detected by country:
-🇨🇳 China: 322
-🇮🇳 India: 177
-🇻🇳 Vietnam…RT @opjustice_: Mass scanning activity detected from 45.155.205.165 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbit…
+RT @ptracesecurity: Windows &amp; Active Directory Exploitation Cheat Sheet and Command Reference  https://t.co/fnH1VAWQYA  #ActiveDirectory #W…
  
-# hello_eveyone_USER INFO
-![image](http://pbs.twimg.com/profile_images/1387315526599417856/1nKvs0LI_normal.jpg)
+# HeltRobUSER INFO
+![image](http://pbs.twimg.com/profile_images/1389569725244624896/ei_y8RfP_normal.jpg)
  
-`User ScreenName:` hello_eveyone_ 
+`User ScreenName:` HeltRob 
  
-`User chosen Name:` dark kenneki 
+`User chosen Name:` Rob Helt 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 28 07:56:43 +0000 2021 
+`User signup date?:` Tue May 04 13:15:56 +0000 2021 
  
-`User Description?:`  
+`User Description?:` YAHUA RULES.   SOVEREIGN.  THE ULTIMAYE SACRIFICE 
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 19 
+`Following?:` 45 
  
 `User URL?:` None 
  
-`Location:` no one knows and know will 
+`Location:`  
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1389569725244624896/ei_y8RfP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DONALDJTRUMPJR:** 5 , **@DONALDJTRUMPJR** 4 , **PART** 3 , **MEDIA** 3 , **THAN** 3 , **APPEAL** 2 , **HOME** 2 , **WHERE’S** 2 , **@ANIMALLEAGUE:** 2 , **LOOKING** 2 , **LOVE** 2 , **@TRENDMICROHOME:** 2 , **⚠️** 2 , **JOIN** 2 , **SILENT** 2 , **COUNTY** 2 , **DIY** 2 , **RETAILER** 2 , **LOWE’S** 2 , **PLANS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @TrendMicroHome: ⚠️ @hermesparcels Scam Alert ⚠️
+
+It's a #phishing website designed to steal your personal and #financial details. 
+✅Che…
+ 
+# papakap99356652USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` papakap99356652 
+ 
+`User chosen Name:` papakapara 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue May 04 15:51:26 +0000 2021 
+ 
+`User Description?:` Cute 
+ 
+`Followers?: `2 
+ 
+`Following?:` 31 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 24 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1387315526599417856/1nKvs0LI_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
 `Number of tweets excluding replies:` 24 
  
@@ -153,11 +191,52 @@ New unique DDoS malware hosts detected by country:
  
 ## User Top tweeted words 
  
-**@YOURANONCENTRAL:** 6 , **ANONYMOUS** 6 , **EXIF** 4 , **DATA** 4 , **OPMYANMAR** 3 , **WHICH** 3 , **DURING** 3 , **MYANMAR** 3 , **NEW** 3 , **KILLED** 3 , **RT** 2 , **@ETERSEC:** 2 , **OPCOLOMBIA** 2 , **SET** 2 , **THAT’S** 2 , **ATTACHED** 2 , **IMAGE** 2 , **ADDS** 2 , **LOCATION** 2 , **PICTURES** 2 , 
+**CEO** 34 , **@LEVELFOCUSC:** 24 , **TECHNOLOGY** 24 , **MAGAZINE** 24 , **BEST** 22 , **INDUSTRYERA** 12 , **CLEVELFOCUS** 12 , **2017YEAR** 10 , **TECHNEWS** 7 , **FOUNDER** 6 , **TECHNOLOGYNEWS** 5 , **2020YEAR** 5 , **2020** 4 , **CMO** 4 , **CFO** 4 , **SOLUTIONS** 3 , **PRESIDENT** 3 , **SUCCESSFUL** 3 , **COO** 3 , **GOWILD** 2 , 
  
 ## What this user tweeted
  
-RT @pmenonkp: RT US Urges Organizations to Implement MFA, Other Controls to Defend Against Russian Attacks https://t.co/9240IBKU7V by @jaiv…
+RT @LevelfocusC: Michael Bruck #CEO @BAI_Security 
+#Best #Security #Solution #Providers of #2020
+#Industryera #technology #magazine #securi…
+ 
+# JaysonMak3USER INFO
+![image](http://pbs.twimg.com/profile_images/1389580844277194753/lymxTQ9H_normal.jpg)
+ 
+`User ScreenName:` JaysonMak3 
+ 
+`User chosen Name:` Jayson Mak 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue May 04 13:16:59 +0000 2021 
+ 
+`User Description?:` my village 
+ 
+`Followers?: `2 
+ 
+`Following?:` 83 
+ 
+`User URL?:` None 
+ 
+`Location:` Papua New Guinea 
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1389580844277194753/lymxTQ9H_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MALWARE** 2 , **:** 2 , **RT** 1 , **@KELSEYMPH:** 1 , **TIME** 1 , **HELLO** 1 , **INTRODUCED** 1 , **MYSELF** 1 , **INTUBATED** 1 , **UNCONSCIOUS** 1 , **PATIENT** 1 , **ICU** 1 , **SOMEONE** 1 , **ELSE** 1 , **SCOFFED/GIGGLED** 1 , **I…RT** 1 , **@SHANAZ8201:** 1 , **JEFF** 1 , **BEZOS** 1 , **BILL** 1 , 
+ 
+## What this user tweeted
+ 
+RT @three_cube: Reverse Engineering Malware, Part 1: Getting Started #reversing #reverseengineering #malware #dfir #infosec  #cybersecurity…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
