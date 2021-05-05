@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **NSACyber**  
+The most popular user is: **SergiuSechel**  
  
 
-## Russian Foreign Intelligence Service (SVR) cyber actors are exploiting five publicly known vulnerabilities to targe… https://t.co/UrSp9A34YD 
+## Cobalt Strike network based detection at scale
+https://t.co/cx44jf3Aik
+#incidentresponse #dfir #ThreatIntel #ThreatHunting #CyberSecurity 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **NSACyber**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AJBlackston: Americans turn to VPNs to prevent online fraud and hacking https://t.co/qYSgbq3IOc #WhiteCollarCrime #News #Crime #Ponzi #… |
-| RT @Tanguy_lrx: Do You Know How Your Customer Journeys are Doing?#hclswlobp #nocode #lowcode #javascript #github #nodejs #cybersecurity #… |
-| RT @CyberSecOb: Major Cyber Security Threats for Financial ServicesInfographic available in Press Quality for download:https://t.co/luHjm… |
+| RT @MaltegoHQ: +++Transform Update+++Thrilled to release the updated @Intel471Inc Transforms &amp; data bundles in #Maltego! #Cybercrime inves… |
+| Five #US federal agencies potentially breached in #PulseConnect Secure #hack.#Hackers with suspected ties to… https://t.co/N7A3EqNuYd |
+| No login required! https://t.co/q1yOWjgK9G https://t.co/TN4CvavKLN 274. Genii 50mm Padlock easily picked open - Gr… https://t.co/6UkZQSRAs2 |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **iotcybersec24** |
-| #2 Most tweeted to  | **Eli_Krumova** |
-| #3 Most tweeted to  | **Paula_Piccard** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 1.48%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **RedPacketSec** |
+| #3 Most tweeted to  | **DSCI_TiR** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 1.18%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,96 +52,57 @@ The most popular user is: **NSACyber**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AI**  |
-| second  | **DATA**  |
-| third  | **MACHINELEARNING** |
-| fourth  | **PYTHON**  |
-| fifth  | **DATASCIENCE**  |
+| first  | **INFOSEC**  |
+| second  | **THREATINTEL**  |
+| third  | **DARKWEB** |
+| fourth  | **CYBERSEC**  |
+| fifth  | **CYBERCRIME**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @brfreed: NEWS: @RepYvetteClarke, chairwoman of cybersecurity subcommittee says that she’ll reintroduce the State and Local Cybersecurit… |
+|New #infosec list is up. Have a great weekend!#DFIR #ThreatIntelhttps://t.co/gSwGKont5Q |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NSACyber**  |
+| The most retweeted user is: **SergiuSechel**  |
 | ------------- |
-| Russian Foreign Intelligence Service (SVR) cyber actors are exploiting five publicly known vulnerabilities to targe… https://t.co/UrSp9A34YD |
+| Cobalt Strike network based detection at scalehttps://t.co/cx44jf3Aik#incidentresponse #dfir #ThreatIntel #ThreatHunting #CyberSecurity |
 
 # Potential Fake Accounts
  
-# sjAq0Qi7L4XW9BKUSER INFO
-![image](http://pbs.twimg.com/profile_images/1388296253491105795/ToHh9k66_normal.jpg)
+# Anonymo46673602USER INFO
+![image](http://pbs.twimg.com/profile_images/1389704537548763138/2fEOQfpv_normal.jpg)
  
-`User ScreenName:` sjAq0Qi7L4XW9BK 
+`User ScreenName:` Anonymo46673602 
  
-`User chosen Name:` ホセ 
+`User chosen Name:` Anonymous Girl🎭 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 26 13:01:50 +0000 2021 
+`User signup date?:` Wed Apr 28 15:16:59 +0000 2021 
  
-`User Description?:` 整形外科医 
+`User Description?:` #FreeJulianAssage☘️🎗️🎗️🎗️🎗️🍀 #Weareallassange🎗️🎗️🎗️#Freespeach #Antifascist #Antiracist #Justice #Stophate #Opchildsafety #BlackLivesMatter #HelpMyanmar 
  
-`Followers?: `16 
+`Followers?: `30 
  
-`Following?:` 18 
+`Following?:` 119 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 62 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1388296253491105795/ToHh9k66_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1389704537548763138/2fEOQfpv_normal.jpg 
  
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@VOTH_ADANIYA:** 1 , **今自分の中にある想いや考え等全てを一度手放してみる** 1 , **からっぽになったらなりたい自分を想像して必要なモノ､コトを新たに取り込んでいく** 1 , **｢自分が変わる｣** 1 , **そのために手放す** 1 , **カサンドラ** 1 , **カサンドラ症候群** 1 , **カサンドラから抜け出す** 1 , **HTTP…RT** 1 , **@IINGWEN:** 1 , **PLEASURE** 1 , **MEETING** 1 , **WINNERS** 1 , **TAIWAN'S** 1 , **FIRST** 1 , **ANNUAL** 1 , **GIRLS** 1 , **CYBERSECURITY** 1 , **COMPETITION** 1 , 
- 
-## What this user tweeted
- 
-RT @iingwen: I had the pleasure of meeting the winners of #Taiwan's first annual Girls in #CyberSecurity competition. These outstanding #Wo…
- 
-# farm_secUSER INFO
-![image](http://pbs.twimg.com/profile_images/1390053833968136192/up6jzPjv_normal.jpg)
- 
-`User ScreenName:` farm_sec 
- 
-`User chosen Name:` Farming Security 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 05 21:13:40 +0000 2021 
- 
-`User Description?:` white hat pentester with an interest in agriculture and farming 
- 
-`Followers?: `21 
- 
-`Following?:` 166 
- 
-`User URL?:` None 
- 
-`Location:` Countryside 
- 
-`Number of tweets extracted`  : 37 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1390053833968136192/up6jzPjv_normal.jpg 
- 
-`Number of tweets excluding replies:` 37 
+`Number of tweets excluding replies:` 63 
  
 
  
@@ -147,40 +110,42 @@ RT @iingwen: I had the pleasure of meeting the winners of #Taiwan's first annual
  
 ## User Top tweeted words 
  
-**FARMING** 20 , **SECURITY** 8 , **@FARM_SEC_US:** 7 , **IMPORTANT** 6 , **CYBERSECURITY** 5 , **SPACE** 3 , **BASED** 3 , **@DONK_ENBY** 3 , **THATS** 3 , **@TWITTER** 2 , **CROP** 2 , **ADVANCEMENTS** 2 , **U** 2 , **INTERESTED** 2 , **GREAT** 2 , **FARMS** 2 , **NEED** 2 , **INVEST** 2 , **CONSIDER** 2 , **WHERE** 2 , 
+**@YOURANONCENTRAL:** 16 , **JULIAN** 10 , **ASSANGE** 9 , **ANONYMOUS** 9 , **US** 7 , **WORLD** 6 , **@OPJUSTICE_:** 6 , **PEOPLE** 5 , **DAY** 5 , **MYANMAR** 5 , **JOIN** 4 , **MAY** 4 , **HUMAN** 3 , **RIGHTS** 3 , **FIGHT** 3 , **GOVERNMENT** 3 , **@TRUMANHUMAN2020:** 3 , **DURING** 3 , **POLICE** 3 , **AGAINST** 3 , 
  
 ## What this user tweeted
  
-curious to see how much of that money is used for #cybersecurity advancements in the #agtech space https://t.co/r7Bv6fox1Z#trollFarms, just like "real" #farms need good #cybersecurity https://t.co/G4ktPRNQLslet's not forget about the #cybersecurity teams making sure those #farmers are #secured https://t.co/yEN2tJHTYQthanks for your work daniel! i hope you have a great #cybersecurity team with a focus on #farming https://t.co/0WywlwyHTEvery important piece for anyone interested in the #farming security space
-
-#cybersecurity https://t.co/ZpcH47Zvjb
+RT @opjustice_: Top 10 Countries – April 29, 2021
+New unique DDoS malware hosts detected by country:
+🇨🇳 China: 322
+🇮🇳 India: 177
+🇻🇳 Vietnam…RT @opjustice_: Mass scanning activity detected from 45.155.205.165 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbit…
  
-# RubenOlivier10USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# hello_eveyone_USER INFO
+![image](http://pbs.twimg.com/profile_images/1387315526599417856/1nKvs0LI_normal.jpg)
  
-`User ScreenName:` RubenOlivier10 
+`User ScreenName:` hello_eveyone_ 
  
-`User chosen Name:` Ruben Olivier 
+`User chosen Name:` dark kenneki 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 27 21:51:35 +0000 2021 
+`User signup date?:` Wed Apr 28 07:56:43 +0000 2021 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 13 
+`Following?:` 19 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` no one knows and know will 
  
-`Number of tweets extracted`  : 55 
+`Number of tweets extracted`  : 24 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1387315526599417856/1nKvs0LI_normal.jpg 
  
-`Number of tweets excluding replies:` 55 
+`Number of tweets excluding replies:` 24 
  
 
  
@@ -188,175 +153,11 @@ curious to see how much of that money is used for #cybersecurity advancements in
  
 ## User Top tweeted words 
  
-**@CALLISTOSUPPORT:** 17 , **TOKENS** 12 , **CALLISTO** 11 , **EASY** 10 , **NETWORK** 10 , **FREE** 9 , **VERY** 9 , **SECURITY** 8 , **TECHNOLOGY** 7 , **GIVEAWAY** 7 , **LATOKEN** 7 , **GREAT** 6 , **DEPARTMENT** 6 , **CONDUCTED** 6 , **STAND** 5 , **CHANCE** 5 , **WIN** 5 , **$CLO** 5 , **ANNOUNCE** 5 , **FUNDS** 5 , 
+**@YOURANONCENTRAL:** 6 , **ANONYMOUS** 6 , **EXIF** 4 , **DATA** 4 , **OPMYANMAR** 3 , **WHICH** 3 , **DURING** 3 , **MYANMAR** 3 , **NEW** 3 , **KILLED** 3 , **RT** 2 , **@ETERSEC:** 2 , **OPCOLOMBIA** 2 , **SET** 2 , **THAT’S** 2 , **ATTACHED** 2 , **IMAGE** 2 , **ADDS** 2 , **LOCATION** 2 , **PICTURES** 2 , 
  
 ## What this user tweeted
  
-RT @CLOEnterprise: We are thrilled to announce that the most renowned #CyberSecurity expert in his field, @Dexaran, has joined our team!
-
-D…
- 
-# AOps55555USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` AOps55555 
- 
-`User chosen Name:` Anon_ops55555 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 05 02:05:52 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 22 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 196 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 196 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 72 , **EN** 49 , **COLOMBIA** 46 , **ANONYMOUS** 36 , **LA** 32 , **Y** 31 , **EL** 23 , **@ANONYMOUSOPCOL:** 23 , **OPCOLOMBIA** 21 , **DEL** 18 , **QUE** 18 , **@ANONNEWS_COL:** 17 , **COLOMBIAN** 16 , **GOVERNMENT** 15 , **@YOURANONRIOTS:** 14 , **SOSCOLOMBIANOSESTANMATANDO** 12 , **AL** 11 , **@ANONYMOUSOPCOL** 11 , **POR** 11 , **@ANONYSUDAMERICA:** 11 , 
- 
-## What this user tweeted
- 
-RT @YourAnonRiots: We stand in the fight for the truth, we are for peace and freedom #CyberSecurity &amp; #AnonNews #HackThePlanet #AnonOps He…
- 
-# AppIncognitoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1389194551924035589/NK2k8IL6_normal.png)
- 
-`User ScreenName:` AppIncognito 
- 
-`User chosen Name:` The Incognito App 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 03 12:25:50 +0000 2021 
- 
-`User Description?:` https://t.co/0gDPSNXpfT 
- 
-`Followers?: `1 
- 
-`Following?:` 31 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 31 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1389194551924035589/NK2k8IL6_normal.png 
- 
-`Number of tweets excluding replies:` 31 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**EXPERT** 4 , **SECURITY** 3 , **INFORMATION** 3 , **HTTPS://TCO/KWRQDAEH5NRT** 2 , **WE'RE** 2 , **CYBERSECURITY** 2 , **@INFO_SEC_BUZZ:** 2 , **PROVIDES** 2 , **COMMENTARY** 2 , **''DOT** 2 , **COMMENTS''** 2 , **HTTPS://TCO/KWRQDAEH5N@DOGECOIN_RISE** 2 , **HTTPS://TCO/KWRQDAEH5N@CRYPTOCOM** 2 , **@RANALTBOO** 1 , **HTTPS://TCO/KWRQDAEH5N@TOMMYALTINNIT** 1 , **HTTPS://TCO/KWRQDAEH5N@DOGECOINRICH** 1 , **@SECURITY_HQ:** 1 , **HONORED** 1 , **PLEASED** 1 , **ANNOUNCE** 1 , 
- 
-## What this user tweeted
- 
-RT @UCSBInfoSec: Expanding the role of the National Guard for effective cybersecurity
-
-#cybersecurity #infosec #ITsecurity
-
-https://t.co/Ww…
- 
-# SeanRyanHenry1USER INFO
-![image](http://pbs.twimg.com/profile_images/1389559491096625157/4vHzhDjy_normal.jpg)
- 
-`User ScreenName:` SeanRyanHenry1 
- 
-`User chosen Name:` LCC Cybersecurity Staffing 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue May 04 12:35:07 +0000 2021 
- 
-`User Description?:` 15 years working within the cyber security industry. I focus on cyber security staffing. Donate % of fee to charities focused on fatherhood abandonment. 
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:` Melrose, MA 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1389559491096625157/4vHzhDjy_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ENGINEERS** 3 , **PLUS** 3 , **BONUS** 3 , **SECURITY** 2 , **SOME** 2 , **LOOKING** 1 , **CLOUD** 1 , **175K** 1 , **LEAD** 1 , **195K** 1 , **SOC** 1 , **150-16…** 1 , **HTTPS://TCO/8U9G6WCFQ0RT** 1 , **@THECYBERSECHUB:** 1 , **21** 1 , **VULNERABILITIES** 1 , **FOUND** 1 , **EXIM** 1 , **UPDATE** 1 , **INSTANCES** 1 , 
- 
-## What this user tweeted
- 
-Looking for cloud security engineers 175K plus bonus, Lead security engineers 195K plus bonus, SOC engineers 150-16… https://t.co/8U9G6wCFq0
- 
-# Pege19424358USER INFO
-![image](http://pbs.twimg.com/profile_images/1389995016173637634/_l8ho4PE_normal.jpg)
- 
-`User ScreenName:` Pege19424358 
- 
-`User chosen Name:` PEGE 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 05 16:09:58 +0000 2021 
- 
-`User Description?:` ...and I feel fine 
- 
-`Followers?: `12 
- 
-`Following?:` 174 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 107 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1389995016173637634/_l8ho4PE_normal.jpg 
- 
-`Number of tweets excluding replies:` 107 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 5 , **LIZ** 5 , **WAR** 4 , **REPUBLICAN** 4 , **DON'T** 4 , **CHENEY** 4 , **PARTY** 4 , **PEOPLE** 4 , **I'M** 4 , **GOING** 3 , **TRUMP** 3 , **MAKE** 3 , **LOL** 3 , **SOME** 3 , **NEVER** 3 , **@THEDEMOCRATS** 3 , **ALONG** 3 , **REAL** 3 , **BILL** 3 , **CRITICAL** 3 , 
- 
-## What this user tweeted
- 
-RT @EpochTimes: #Texas is moving ahead with legislation aimed at keeping hostile countries out of the state’s critical #Infrastructure.
-
-Th…
+RT @pmenonkp: RT US Urges Organizations to Implement MFA, Other Controls to Defend Against Russian Attacks https://t.co/9240IBKU7V by @jaiv…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
