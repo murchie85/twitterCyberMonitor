@@ -1,20 +1,21 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **mikepompeo**  
+The most popular user is: **sehnaoui**  
  
 
-## The Colonial Pipeline outage demonstrates how susceptible our cybersecurity and infrastructure systems can be, if l… https://t.co/k0687dWKgp 
+## This is why you need an RFID shielded wallet. Be careful !!
+#InfoSec #Security https://t.co/GHqUWKeTx3 
 
   
 
@@ -23,25 +24,25 @@ The most popular user is: **mikepompeo**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @washingtonpost: Opinion: The Colonial Pipeline attack shows the need for a more modern approach to cybersecurity https://t.co/e7d4yPwje3 |
-| @iamarmedwithkn4 @GOP @GOPChairwoman Exactly.... https://t.co/aW6Ukoq2FE |
-| RT @Gate_15_Analyst: FB-ISAO Newsletter, v3, Issue 5 by @faithbasedisao  https://t.co/DaQsQmex9k #faith #faithbased #cybersecurity #securit… |
+| RT @WWHackinFest: Want to learn about some free tools for webapp hacking? @BBhacKing has you got covered. Check out his presentation from t… |
+| RT @vishne0: Hackers found America’s energy weak spothttps://t.co/3HdrwSvLAD#cybersecurity #infosec #security |
+| RT @InfoSecSherpa: InfoSecSherpa Newsletter for Wednesday, May 12, 2021. #Cybersecurity #InformationSecurity #InfoSec #Privacy #Security… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **washingtonpost** |
-| #2 Most tweeted to  | **ireteeh** |
-| #3 Most tweeted to  | **ingliguori** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 2.38%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **iotcybersec24** |
+| #2 Most tweeted to  | **mathew_dev** |
+| #3 Most tweeted to  | **AlyssaM_InfoSec** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 1.02%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,96 +51,57 @@ The most popular user is: **mikepompeo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PIPELINE**  |
-| second  | **COLONIAL**  |
-| third  | **US** |
-| fourth  | **RANSOMWARE**  |
-| fifth  | **ATTACK**  |
+| first  | **INFOSEC**  |
+| second  | **INFOSEC:**  |
+| third  | **RANSOMWARE** |
+| fourth  | **DATA**  |
+| fifth  | **MALWARE**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Storm_of_Fists Why didn't your orange shitdonkey fix these things?Didn't he know infrastructure was crumbling, an… https://t.co/Uh9mq3hql7 |
+|RT @Strata_Sec: Cyber #Security: "For every one new solution, remove two #legacy solutions" &gt;&gt; @GregDaySecurity from @PaloAltoNtwks on how… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mikepompeo**  |
+| The most retweeted user is: **sehnaoui**  |
 | ------------- |
-| The Colonial Pipeline outage demonstrates how susceptible our cybersecurity and infrastructure systems can be, if l… https://t.co/k0687dWKgp |
+| This is why you need an RFID shielded wallet. Be careful !!#InfoSec #Security https://t.co/GHqUWKeTx3 |
 
 # Potential Fake Accounts
  
-# SandraStones14USER INFO
-![image](http://pbs.twimg.com/profile_images/1392587164605616131/SzHYVRNy_normal.jpg)
+# Cyberi_8USER INFO
+![image](http://pbs.twimg.com/profile_images/1390832588881805313/JVFLjThv_normal.jpg)
  
-`User ScreenName:` SandraStones14 
+`User ScreenName:` Cyberi_8 
  
-`User chosen Name:` Sandra Stones 
+`User chosen Name:` Cyberi ♿🏳️‍🌈 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon May 10 07:36:45 +0000 2021 
+`User signup date?:` Thu May 06 21:21:03 +0000 2021 
  
-`User Description?:` Am fun to be with 
+`User Description?:` Lawyer learning #Cybersecurity | #Infosec | #WomeninTech | She/her 
  
-`Followers?: `2 
+`Followers?: `10 
  
-`Following?:` 48 
+`Following?:` 79 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 27 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1392587164605616131/SzHYVRNy_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1390832588881805313/JVFLjThv_normal.jpg 
  
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**❤️** 2 , **GO** 2 , **📍** 2 , **RT** 1 , **@REPTIMMONS:** 1 , **MORNING** 1 , **78%** 1 , **STATIONS** 1 , **GASOLINE** 1 , **GREENVILLE** 1 , **SPARTANBURG** 1 , **CONGRESS** 1 , **IGNORED** 1 , **CYBERSECURITY** 1 , **T…RT** 1 , **@PROJECTLINCOLN:** 1 , **DEARDONALD** 1 , **PLEASE** 1 , **ATTACHED** 1 , **HTTPS://TCO/FUVDLEDW7SRT** 1 , 
- 
-## What this user tweeted
- 
-RT @RepTimmons: As of this morning, 78% of stations had no gasoline in Greenville and Spartanburg. Congress has ignored cybersecurity for t…
- 
-# DanielaJancsikUSER INFO
-![image](http://pbs.twimg.com/profile_images/1389008127450812419/Qwaa4QBI_normal.jpg)
- 
-`User ScreenName:` DanielaJancsik 
- 
-`User chosen Name:` Daniela Jancsik 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 03 00:04:10 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `25 
- 
-`Following?:` 161 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 83 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1389008127450812419/Qwaa4QBI_normal.jpg 
- 
-`Number of tweets excluding replies:` 86 
+`Number of tweets excluding replies:` 27 
  
 
  
@@ -147,50 +109,13 @@ RT @RepTimmons: As of this morning, 78% of stations had no gasoline in Greenvill
  
 ## User Top tweeted words 
  
-**@ELONMUSK** 7 , **@KRISTENNETTEN:** 6 , **ROCKET** 5 , **TESLA** 5 , **@CNN:** 5 , **AFTER** 5 , **@SPACEFLIGHTINFO:** 5 , **LAUNCH** 5 , **ITS** 4 , **MAKE** 4 , **FIRST** 4 , **@AERONAUTICSAND:** 4 , **MAY** 4 , **@TYLERG1998:** 4 , **PERSON** 3 , **NEW** 3 , **T…RT** 3 , **@AUSTINTESLACLUB:** 3 , **SATELLITES** 3 , **PLACE** 3 , 
+**@HACKER0X01** 3 , **I'M** 3 , **😂😂😂@THEXSSRAT** 3 , **COMPLETE** 3 , **JOURNEY** 2 , **DAY** 2 , **🎉🎉** 2 , **HOPE** 2 , **@REALTRYHACKME** 2 , **GREAT!** 2 , **FRIEND** 2 , **CYBERSECURITY** 2 , **BEGINNER** 2 , **@ALYSSAM_INFOSEC** 1 , **TOTALLY** 1 , **AGREE** 1 , **YOU!** 1 , **DON'T** 1 , **UNDERSTAND** 1 , **TALKING** 1 , 
  
 ## What this user tweeted
  
-RT @Kristennetten: “new facility will test systems for multi-vendor interoperability, cybersecurity &amp; advanced functionality, such as AI &amp;…
- 
-# iamdotcomdotcomUSER INFO
-![image](http://pbs.twimg.com/profile_images/1389425905068503041/25PueB43_normal.jpg)
- 
-`User ScreenName:` iamdotcomdotcom 
- 
-`User chosen Name:` Been Pope 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue May 04 03:41:08 +0000 2021 
- 
-`User Description?:` I Am Dot Com Dot Com. Who You Are? 
- 
-`Followers?: `14 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:` Just Now 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1389425905068503041/25PueB43_normal.jpg 
- 
-`Number of tweets excluding replies:` 7621 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEHILL:** 90 , **CHENEY** 34 , **@MSNBC:** 31 , **PRESIDENT** 22 , **REP** 22 , **@MITCHELLREPORTS:** 21 , **AFTER** 17 , **GOP** 15 , **BIDEN** 14 , **HOUSE** 14 , **TRUMP** 13 , **IN:** 12 , **@THEHILLEVENTS:** 12 , **FORMER** 12 , **LEADER** 10 , **"I** 10 , **WATCH:** 10 , **REPUBLICANS** 9 , **LIZ** 9 , **PARTY** 9 , 
- 
-## What this user tweeted
- 
-RT @thehill: House lawmakers roll out bill to invest $500 million in state and local cybersecurity https://t.co/IdoqNXxymG https://t.co/EfO…RT @thehill: “It is extremely concerning that after Zoom was cleared for government use by the General Services Administration in April 201…
+@AlyssaM_InfoSec Totally agree with you! I don't understand why talking science is consider boring or annoying 🤔 it… https://t.co/8S1IJcRgBuDay 1 of my #100DaysofHacking I'm so excited to start this journey, I wish I could learn faster though 😅
+Day 1:
+Sta… https://t.co/m8KPvJs93L
  
 # Alvaro_GuiberUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1392584460412104704/KUE3ipfw_normal.jpg)
@@ -234,6 +159,45 @@ RT @HackENews: WAF bypass during exploitation of file upload 🔥
 /?file=rce.php.jpg &lt;-- Blocked
 /?file=rce.php…
  
+# lespy0x01USER INFO
+![image](http://pbs.twimg.com/profile_images/1392021517974884352/JfBb3tqr_normal.jpg)
+ 
+`User ScreenName:` lespy0x01 
+ 
+`User chosen Name:` Alp 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 05 12:15:32 +0000 2021 
+ 
+`User Description?:` 18 y/o security researcher. 
+ 
+`Followers?: `94 
+ 
+`Following?:` 27 
+ 
+`User URL?:` https://t.co/KTUI9fIB6t 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 48 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392021517974884352/JfBb3tqr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 48 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HACKER0X01** 33 , **THANKS** 4 , **AUTH** 4 , **♥** 4 , **BRO** 4 , **REPORT** 3 , **MEHMET** 2 , **XSS** 2 , **AUTHORIZATION** 2 , **BYPASS** 2 , **TYSM** 2 , **NEW** 2 , **TOO** 2 , **THX** 2 , **BOUNTY** 2 , **FIRST** 2 , **🥰** 2 , **FOUND** 2 , **@HUNTER0X7:** 2 , **CHECKLIST** 2 , 
+ 
+## What this user tweeted
+ 
+@Infosec_Taylor @Hacker0x01 Thank you so much. &lt;3
+ 
 # RemoteTeamGuideUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1392229387827924999/nfAXS6Q8_normal.jpg)
  
@@ -247,7 +211,7 @@ RT @HackENews: WAF bypass during exploitation of file upload 🔥
  
 `User Description?:` #remotework #remoteworking #remoteworkforce #remoteworker #HR #Humanresources #remoteteams #remoteteamguide 
  
-`Followers?: `55 
+`Followers?: `56 
  
 `Following?:` 279 
  
@@ -278,7 +242,57 @@ https://t.co/pIABduQUhe?
 Coincidentally
 Currently available
 
-🔎Priva…
+🔎Priva…RT @JJdomains: To Be #Tracked or Not? #Apple Is Now Giving Us the Choice.
+
+ https://t.co/OV7A5ZAO4P
+
+Coincidentally
+Currently available
+
+🚀…
+ 
+# blackninja233USER INFO
+![image](http://pbs.twimg.com/profile_images/1389173350505779205/ZQynmBO-_normal.jpg)
+ 
+`User ScreenName:` blackninja233 
+ 
+`User chosen Name:` blackninja23 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 03 10:40:52 +0000 2021 
+ 
+`User Description?:` Cyber Geek #cybersecurity #ethicalhacking #infosec #tech 
+ 
+`Followers?: `14 
+ 
+`Following?:` 59 
+ 
+`User URL?:` https://t.co/P9SlU3rsKv 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 19 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1389173350505779205/ZQynmBO-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 19 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NAYELLYLOYA_UN** 4 , **@UN__CYBER** 4 , **@UNODC** 4 , **@NEILWALSH_UN** 4 , **LEARN365** 3 , **@ALRA3EES:** 3 , **@KAMALUNODC** 3 , **@UNODC_WCAFRICA** 3 , **@DOCFAUSTINE** 3 , **WEEK** 3 , **@HARSHBOTHRA_:** 2 , **BURP** 2 , **SUITE** 2 , **@MALWAREPETER:** 2 , **FINISHED** 2 , **ANALYSIS** 2 , **@CARMENCORBIN_UN** 2 , **BEST** 2 , **LEARN** 2 , **DNS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @harshbothra_: #Learn365 Day-129: Automating Recon with Axiom 
+
+Talk: https://t.co/pLSbNxpLK3 
+
+#appsec #infosec #webappsec
  
 # MischaHanselUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1389165877820592129/07pRWz7q_normal.jpg)
@@ -319,302 +333,6 @@ Currently available
  
 RT @japi999: A few arguments why the FBI’s hack-to-patch approach is a harmful practice, https://t.co/ihmoVRB7ZQ #security #cybersecurity #…
  
-# KlprRanjithUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` KlprRanjith 
- 
-`User chosen Name:` Ranjith Klpr 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 12 16:16:58 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**POWERBANKSCAM** 16 , **POWERBANK** 15 , **SCAM** 13 , **LOOTED** 6 , **MONEY** 6 , **APP** 5 , **POWERBANKAPP** 5 , **POWER** 5 , **BANK** 5 , **CRORES** 5 , **PEOPLE** 4 , **2021** 4 , **NEED** 4 , **BIGGEST** 3 , **SERIOUS** 3 , **PANDEMIC** 3 , **(COVID-19)!** 3 , **ACTION** 3 , **INDIA** 2 , **BIG** 2 , 
- 
-## What this user tweeted
- 
-RT @satyesh009: POWER BANK APPLICATION BIGGEST SCAM OF 100 CRORE
-#powerbankscam 
-#powerbankapp 
-#powerbank 
-#powerbankscam 
-#powerbankscam…RT @SachinT61136421: POWER BANK APPLICATION BIGGEST SCAM OF 100 CRORE
-#powerbankscam 
-#powerbankapp 
-#powerbank 
-#powerbankscam 
-#powerbank…RT @OMSHADY8: Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic (Covid-19)! Need To Take Action On The Frauds…RT @itsssharath: Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic (Covid-19)! Need To Take Action On The Fra…RT @VishalM09112258: Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic (Covid-19)! Need To Take Action On The…
- 
-# DevopsCollegeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1390419924653379584/w87QimPo_normal.jpg)
- 
-`User ScreenName:` DevopsCollege 
- 
-`User chosen Name:` DevOps College 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 06 19:38:21 +0000 2021 
- 
-`User Description?:` #devops #devopstools #devopstraining #coding #softwareEngineering #devops100 #technology #DigitalTransformation #SiliconValley 
- 
-`Followers?: `73 
- 
-`Following?:` 352 
- 
-`User URL?:` https://t.co/TM4kPpu3Kc 
- 
-`Location:` At College In The Cloud 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1390419924653379584/w87QimPo_normal.jpg 
- 
-`Number of tweets excluding replies:` 278 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COINCIDENTALLY** 120 , **@JJDOMAINS:** 106 , **CURRENTLY** 93 , **AVAILABLE** 66 , **VIA** 45 , **PAY** 35 , **12** 34 , **SALE** 29 , **INTEREST** 29 , **NAME** 28 , **DOMAIN** 27 , **FREE** 25 , **INSTALLMENTS** 22 , **BLOCKCHAIN** 21 , **@REMOTEWORKTEAMS:** 19 , **NFTS** 16 , **@BANKINGMOBILITY:** 16 , **REMOTEWORK** 10 , **📡** 9 , **@DEVOPSCOLLEGE:** 9 , 
- 
-## What this user tweeted
- 
-RT @JJdomains: #SolarWinds #CEO gives #CSO authority &amp; air cover to make #software #security a priority
- https://t.co/yTKKZND5uM
-
-Coinciden…RT @JJdomains: #Blockchain Analysis Company @chainalysis Raises $100M at $2B Valuation
- https://t.co/LC3SlYT9DN
-
-Coincidentally
-Currently a…
- 
-# RemoterTheUSER INFO
-![image](http://pbs.twimg.com/profile_images/1391736514288173057/IkKwFP1b_normal.jpg)
- 
-`User ScreenName:` RemoterThe 
- 
-`User chosen Name:` The-Remoter 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 10 12:45:35 +0000 2021 
- 
-`User Description?:` Remote Worker |  Community | Advocacy | Lifestyle Guidance 
- 
-`Followers?: `0 
- 
-`Following?:` 10 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1391736514288173057/IkKwFP1b_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WORKERS** 3 , **REMOTE** 3 , **COMPANIES** 2 , **RT** 1 , **@ALLIANCEVIRTUAL:** 1 , **REMOTEWORK** 1 , **GOING** 1 , **ANYWHERE** 1 , **YEAR** 1 , **PERCENTAGE** 1 , **REMOTEWORKERS** 1 , **DOUBLE** 1 , **ST…RT** 1 , **@ELITE_IT:** 1 , **“HACKERS** 1 , **TAKEN** 1 , **ADVANTAGE** 1 , **BUSINESSES** 1 , **WEREN'T** 1 , **ABLE** 1 , 
- 
-## What this user tweeted
- 
-RT @elite_IT: “Hackers have taken advantage of businesses that weren't able to provide laptops for their workers or offer them tools to sec…
- 
-# sabaterj2USER INFO
-![image](http://pbs.twimg.com/profile_images/1392570511947812867/VkF6uCbI_normal.jpg)
- 
-`User ScreenName:` sabaterj2 
- 
-`User chosen Name:` sabaterj 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 12 19:57:04 +0000 2021 
- 
-`User Description?:` Father. Husband. SRE. Frequently stubborn, but nice about it. 
- 
-`Followers?: `4 
- 
-`Following?:` 185 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392570511947812867/VkF6uCbI_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FEDERAL** 2 , **•** 2 , **RT** 1 , **@DHSGOV:** 1 , **DURING** 1 , **@SENATEAPPROPS** 1 , **HEARING** 1 , **@SECMAYORKAS** 1 , **ADDRESSES** 1 , **EFFORTS** 1 , **RELATED** 1 , **COLONIAL** 1 , **PIPELINE** 1 , **HTTPS://TCO/XNYMQ181A7RT** 1 , **@WARZONENEWZ:** 1 , **🚨STORE** 1 , **BUNDLE** 1 , **GIVEAWAY🚨** 1 , **WE’RE** 1 , **GIVING** 1 , 
- 
-## What this user tweeted
- 
-@NcsVentures How much does the Federal Government spend on Cybersecurity annually? None of that goes towards securi… https://t.co/bJsrDuvZOl
- 
-# GWCloseTheGapUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392584185395679242/1VWEDx3f_normal.jpg)
- 
-`User ScreenName:` GWCloseTheGap 
- 
-`User chosen Name:` ClosingTheGap 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 12 20:54:48 +0000 2021 
- 
-`User Description?:` The Closing the Gap Initiative: A DOD-sponsored Conference on Re-entry for Women Veterans into Cybersecurity Careers
-
-See website for info and registration 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/zhqUfYEEPb 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392584185395679242/1VWEDx3f_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DAY** 1 , **VIRTUAL** 1 , **CONFERENCE:** 1 , **CLOSING** 1 , **GAP** 1 , **INITIATIVE** 1 , **WOMEN** 1 , **VETERANS** 1 , **CYBERSECURITY** 1 , **CAREERS** 1 , **MAY** 1 , **25TH** 1 , **2021** 1 , **|…** 1 , **HTTPS://TCO/QEJJYK4AXL** 1 , 
- 
-## What this user tweeted
- 
-One Day Virtual Conference: Closing the Gap Initiative | Women Veterans &amp; Cybersecurity Careers | May 25th, 2021 |… https://t.co/qeJjyK4AxL
- 
-# BrownClinton11USER INFO
-![image](http://pbs.twimg.com/profile_images/1392069334994980864/VFkWGxWj_normal.jpg)
- 
-`User ScreenName:` BrownClinton11 
- 
-`User chosen Name:` Brown Clinton 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue May 11 10:47:42 +0000 2021 
- 
-`User Description?:` Certified Production Foreman Johan Sverdrup Oil & Gas Coy
-Former Occidental Gas platform Ballestman 
-Proud Father Of Jayden 
-Catholic
-Engineering@itsbest. 
- 
-`Followers?: `2 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:` Tübingen stuttgart,Germany 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392069334994980864/VFkWGxWj_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 4 , **@THEHILL:** 3 , **@POLITICO:** 3 , **PIPELINE** 2 , **@USATODAY:** 2 , **KEVIN** 2 , **US** 2 , **RT** 1 , **JUDGE** 1 , **REJECTS** 1 , **GOP** 1 , **EFFORT** 1 , **BLOCK** 1 , **TAX** 1 , **PROVISION** 1 , **STIMULUS** 1 , **BILL** 1 , **HTTPS://TCO/QBPPUMZWLP** 1 , **HTTPS://TCO/H7ZMVVFBDGRT** 1 , **HERE'S** 1 , 
- 
-## What this user tweeted
- 
-RT @USATODAY: The company that owns the pipeline has no plans to pay the ransom and is instead working with a cybersecurity firm to restore…
- 
-# sweeper807USER INFO
-![image](http://pbs.twimg.com/profile_images/1392547402121453573/F4Ipho0V_normal.jpg)
- 
-`User ScreenName:` sweeper807 
- 
-`User chosen Name:` Sweeper807 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat May 08 11:12:13 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 94 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392547402121453573/F4Ipho0V_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COLLEGES** 2 , **@FARAHNMORGAN** 1 , **GOVERNMENT** 1 , **"WE** 1 , **INCREASING** 1 , **FUNDING** 1 , **CYBERSECURITY** 1 , **EDUCATION** 1 , **CHILDREN** 1 , **FUTURE"@ZUBYMUSIC** 1 , **OPPOSITE** 1 , **LIE** 1 , **EVERYONE** 1 , **REFUSE** 1 , **KIND@MOCARBE** 1 , **@ALLAHPUNDIT** 1 , **EXACTLY** 1 , **WAIT** 1 , **SEMESTER** 1 , **HATE** 1 , 
- 
-## What this user tweeted
- 
-@FarahnMorgan Government "we are increasing funding for cybersecurity education so are children have a future"
- 
 # SmartHealth360USER INFO
 ![image](http://pbs.twimg.com/profile_images/1392546122573524992/b8j2GXxN_normal.jpg)
  
@@ -652,218 +370,43 @@ RT @USATODAY: The company that owns the pipeline has no plans to pay the ransom 
  
 ## What this user tweeted
  
-RT @SelfiePayments: SelfiePayments*com
-Red Hot #biometric #technology
-Domain Name For Sale
-Pay 12 interest free installments
-
-#payment #pay…RT @JJdomains: A #smartring that opens #doors
-
- https://t.co/N04QPvrCGE via @innoorigins
-
-Coincidentally
-Currently available
-
-💍IDrings*com💍…RT @HybridWiFi: How to #CoverYourTracks Every Time You Go #Online
+RT @HybridWiFi: How to #CoverYourTracks Every Time You Go #Online
 
 https://t.co/IpmSooZz84 via @wired
 
 Coincidentally
-Currently available…RT @eSmartWallet: ⛓️OnchainSecurity*com
-Domain name for Sale
-Pay 12 interest free installments
+Currently available…RT @JJdomains: #iOS145: A Guide to #Apple’s New #AppTracking Controls
 
-#cybersecurity #cybersec #onchain #blockcha…
+https://t.co/pIABduQUhe?
+
+Coincidentally
+Currently available
+
+🔎Priva…RT @JJdomains: To Be #Tracked or Not? #Apple Is Now Giving Us the Choice.
+
+ https://t.co/OV7A5ZAO4P
+
+Coincidentally
+Currently available
+
+🚀…
  
-# RahulRa13589507USER INFO
-![image](http://pbs.twimg.com/profile_images/1392579980798742529/Zy8kGu1v_normal.jpg)
+# tom_infosecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1390455321810784260/hAlSZEQ1_normal.jpg)
  
-`User ScreenName:` RahulRa13589507 
+`User ScreenName:` tom_infosec 
  
-`User chosen Name:` Rahul Rao 
+`User chosen Name:` Tom_InfoSec 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed May 12 20:29:05 +0000 2021 
+`User signup date?:` Thu May 06 23:55:33 +0000 2021 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:` Mumbai, India 
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392579980798742529/Zy8kGu1v_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**POWERBANKSCAM** 2 , **CYBERSECURITY** 2 , **PMOINDIA** 2 , **GUYS** 2 , **NEW** 2 , **APPLICATION** 2 , **POWER** 2 , **RT** 1 , **@RAHULRA13589507:** 1 , **POWERBANKSCAM2021** 1 , **BANK** 1 , **TO…POWERBANKSCAM2021** 1 , **BANK…** 1 , **HTTPS://TCO/X5EIQS8KSU** 1 , 
- 
-## What this user tweeted
- 
-RT @RahulRa13589507: #powerbankscam2021 
-#powerbankscam 
-#cybersecurity
-#PMOIndia
-
-So guys this is the new application of the power bank to…#powerbankscam2021 
-#powerbankscam 
-#cybersecurity
-#PMOIndia
-
-So guys this is the new application of the power bank… https://t.co/x5EiQS8KSU
- 
-# DalberaDevUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` DalberaDev 
- 
-`User chosen Name:` Dev Dalbera 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 12 16:07:42 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 24 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 585 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**POWERBANKSCAM** 117 , **POWERBANKSCAMRT** 52 , **SCAM** 21 , **@DALBERADEV:** 21 , **MONEY** 18 , **APP** 16 , **POWER** 15 , **@AANSHUKHAN2:** 15 , **BANK** 12 , **BIG** 12 , **FRAUD** 10 , **PEOPLE** 9 , **POWERBANK** 9 , **VIDEOS** 8 , **@ANANDBAJAJ186:** 8 , **POWERBANKAPP** 8 , **ACTION** 7 , **@REALAMANGUPTA01:** 7 , **PRANJALDAHIYA** 7 , **HARYANVI** 7 , 
- 
-## What this user tweeted
- 
-RT @VishalM09112258: Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic (Covid-19)! Need To Take Action On The…RT @itsssharath: Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic (Covid-19)! Need To Take Action On The Fra…RT @OMSHADY8: Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic (Covid-19)! Need To Take Action On The Frauds…RT @Gagansharma13: #powerbankscam power bank totally fraud and run out with all invested money, invested by all over Indian. Please help th…RT @PremPrasun: Powerbank stolen money with sensitive data .Please review on play store  it as 1 rating with comments .Also raise a cyber c…RT @Piiiisays: Power bank= fraud. 
-People have lost lots and lots of hard earned money. Be aware &amp; don't get caught in honey trap of such f…RT @satyammjha: Me to my friend who invested money in #powerbank app
-
-#powerbankscam 
-#powerbank 
-#cybersecurity 
-#cybercrimeawareness 
-#fr…
- 
-# BubbaTrump10USER INFO
-![image](http://pbs.twimg.com/profile_images/1389400213849362437/NwtD51PZ_normal.jpg)
- 
-`User ScreenName:` BubbaTrump10 
- 
-`User chosen Name:` Bubba Trump 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue May 04 02:02:00 +0000 2021 
- 
-`User Description?:` conservative republican love my country respect the constitution respect law enforcement and stands behind our military proud father of a Marine 
- 
-`Followers?: `118 
- 
-`Following?:` 175 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1389400213849362437/NwtD51PZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 976 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GAS** 13 , **CHENEY** 13 , **PRESIDENT** 12 , **LIZ** 12 , **TRUMP** 11 , **PEOPLE** 10 , **BORDER** 10 , **BIDEN** 8 , **NEVER** 7 , **NEW** 6 , **WHERE** 6 , **THESE** 6 , **DEMOCRATS** 5 , **CRISIS** 5 , **SHORTAGES** 5 , **CAN'T** 5 , **HOUSE** 5 , **ISRAEL** 5 , **@JAMESHA77433215:** 5 , **WATCH** 5 , 
- 
-## What this user tweeted
- 
-RT @mikepompeo: The Colonial Pipeline outage demonstrates how susceptible our cybersecurity and infrastructure systems can be, if left unse…
- 
-# VishalM09112258USER INFO
-![image](http://pbs.twimg.com/profile_images/1392570048628199426/Mgjn0meG_normal.jpg)
- 
-`User ScreenName:` VishalM09112258 
- 
-`User chosen Name:` Vishal Mali 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 12 19:58:39 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392570048628199426/Mgjn0meG_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SCAM** 2 , **2021** 2 , **POWERBANKSCAM** 2 , **LOOTED** 2 , **CRORES** 2 , **PEOPLE** 2 , **MONEY** 2 , **SERIOUS** 2 , **PANDEMIC** 2 , **(COVID-19)!** 2 , **NEED** 2 , **ACTION** 2 , **ON…** 1 , **HTTPS://TCO/Z4VIVAKFAORT** 1 , **@OMSHADY8:** 1 , **FRAUDS…** 1 , 
- 
-## What this user tweeted
- 
-Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic (Covid-19)! Need To Take Action On… https://t.co/z4VIVakfaORT @OMSHADY8: Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic (Covid-19)! Need To Take Action On The Frauds…
- 
-# AshishK77562076USER INFO
-![image](http://pbs.twimg.com/profile_images/1392562397462732800/o42x_a48_normal.jpg)
- 
-`User ScreenName:` AshishK77562076 
- 
-`User chosen Name:` Ashish Kumar Meena 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 12 19:25:08 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
+`Following?:` 4 
  
 `User URL?:` None 
  
@@ -871,7 +414,7 @@ Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic 
  
 `Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1392562397462732800/o42x_a48_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1390455321810784260/hAlSZEQ1_normal.jpg 
  
 `Number of tweets excluding replies:` 4 
  
@@ -881,38 +424,38 @@ Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic 
  
 ## User Top tweeted words 
  
-**SCAM** 3 , **POWER** 3 , **BANK** 2 , **APP** 2 , **POWERBANKSCAM** 2 , **NEED** 2 , **ACTION** 2 , **PEOPLE** 2 , **MONEY** 2 , **RT** 1 , **@NAMANSI26636122:** 1 , **POWERBANKSCAMBIG** 1 , **6000** 1 , **RUPEE** 1 , **FOUNDER** 1 , **DON'T** 1 , **HOW…RT** 1 , **@MOHAMME30924348:** 1 , **REACH** 1 , **AGAINST** 1 , 
+**MAKE** 2 , **@THECYBERMENTOR** 1 , **SOMEBODY** 1 , **ART** 1 , **SKILLS** 1 , **THING** 1 , **IMMEDIATELY@THECYBERMENTOR** 1 , **LOOKS** 1 , **YOU'VE** 1 , **GOT** 1 , **IDEA** 1 , **NEXT** 1 , **BIG** 1 , **COURSE** 1 , **PRACTICAL** 1 , **ACTUAL** 1 , **HACKING@THECYBERMENTOR** 1 , **ALWAYS** 1 , **KNEW** 1 , **YOU'D** 1 , 
  
 ## What this user tweeted
  
-RT @OMSHADY8: Scam 2021 #powerbankscam Looted Crores Of People Money in this serious pandemic (Covid-19)! Need To Take Action On The Frauds…
+@thecybermentor Somebody with art skills, make this a thing immediately
  
-# LanceRobertanieUSER INFO
-![image](http://pbs.twimg.com/profile_images/1389773105891999748/Ml9c3EsO_normal.jpg)
+# JuxtaPwnsitionUSER INFO
+![image](http://pbs.twimg.com/profile_images/1390520443464032258/DXnkXh4z_normal.jpg)
  
-`User ScreenName:` LanceRobertanie 
+`User ScreenName:` JuxtaPwnsition 
  
-`User chosen Name:` Robertanie Lance 
+`User chosen Name:` JP 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed May 05 02:40:49 +0000 2021 
+`User signup date?:` Wed May 05 23:33:16 +0000 2021 
  
-`User Description?:` The most wasted of all days is one without laughter. 
+`User Description?:` Twitter fingers for cyber/infosec/biohacker, long time corpo making the jump back into school, chaotic good, 100wpm, he/him, TBI survivor, Titanium infused 
  
-`Followers?: `3 
+`Followers?: `1 
  
-`Following?:` 5 
+`Following?:` 66 
  
-`User URL?:` https://t.co/E0T1ltJTOy 
+`User URL?:` None 
  
-`Location:` Houston, US 
+`Location:` Toronto, Ontario 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 40 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1389773105891999748/Ml9c3EsO_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1390520443464032258/DXnkXh4z_normal.jpg 
  
-`Number of tweets excluding replies:` 765 
+`Number of tweets excluding replies:` 40 
  
 
  
@@ -920,11 +463,189 @@ RT @OMSHADY8: Scam 2021 #powerbankscam Looted Crores Of People Money in this ser
  
 ## User Top tweeted words 
  
-**BOOKS** 171 , **GUESTS** 117 , **VERY** 69 , **PLEASURE** 55 , **RESPECTFUL** 54 , **CLEAN** 50 , **HIGHLY** 41 , **WELCOME** 41 , **GREAT** 38 , **GOOD** 38 , **DURING** 38 , **STAY** 38 , **FREE** 38 , **LOVELY** 34 , **FRIENDLY** 29 , **EASY** 27 , **COMMUNICATE** 27 , **--** 26 , **APARTMENT** 26 , **BACK** 25 , 
+**WAY** 4 , **WELL** 3 , **PART** 3 , **PASSWORD** 3 , **SURE** 2 , **THAN** 2 , **BAGS** 2 , **CEH** 2 , **OH** 2 , **SPECIAL** 2 , **HOURS** 2 , **5** 2 , **KEEP** 2 , **CHARACTERS** 2 , **HA** 2 , **WORLD** 2 , **PASSWORDS** 2 , **@KAWHIMEARIVER6** 1 , **PRETTY** 1 , **ISRAEL** 1 , 
  
 ## What this user tweeted
  
-FREE BOOKS took great care of my property. Thank you FREE BOOKS. You can come back anytime. How to Measure Anything… https://t.co/lFqk5Vhv7w
+RT @edu4rdshl: Do you want to find subdomains, scan all open ports fastly (with address deduplication and parallel scans), and take screens…
+ 
+# manomal44125344USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` manomal44125344 
+ 
+`User chosen Name:` mano malik 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 08 20:20:57 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 69 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 34 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 34 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**اور** 4 , **US** 4 , **PAKISTAN** 3 , **کے** 3 , **پر** 3 , **MAY** 3 , **@INDIANNAVY:** 3 , **VEHICLE** 2 , **LE** 2 , **FIRST** 2 , **NEW** 2 , **فلسطین** 2 , **اپنی** 2 , **امن** 2 , **فوج** 2 , **تیار** 2 , **تو** 2 , **یہ** 2 , **@ZINDAGIMEGZARA:** 2 , **اللہ** 2 , 
+ 
+## What this user tweeted
+ 
+RT @IriusRisk: Press release: Read about the first bold steps of our new brand initiative to bring #threatmodeling to the masses!
+https://t…
+ 
+# RemoteWorkTeamsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1390756855690010624/DrjCN6vs_normal.jpg)
+ 
+`User ScreenName:` RemoteWorkTeams 
+ 
+`User chosen Name:` RemoteWorkTeams.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri May 07 17:05:46 +0000 2021 
+ 
+`User Description?:` #RemoteWork #RemoteWorking #RemoteWorkforce #HR #HumanResources #Remoteteams #Remoteteambuilding #recruitment #recruiting #recruiter #remoteoffice #TechNews 
+ 
+`Followers?: `79 
+ 
+`Following?:` 535 
+ 
+`User URL?:` https://t.co/2AsIzqJAWb 
+ 
+`Location:` Remote 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1390756855690010624/DrjCN6vs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 281 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COINCIDENTALLY** 116 , **CURRENTLY** 84 , **AVAILABLE** 60 , **@JJDOMAINS:** 59 , **VIA** 36 , **12** 32 , **PAY** 31 , **DOMAIN** 30 , **NAME** 30 , **SALE** 29 , **INTEREST** 28 , **FREE** 25 , **INSTALLMENTS** 22 , **@REMOTEWORKTEAMS:** 22 , **@BANKINGMOBILITY:** 21 , **REMOTEWORK** 17 , **@HYBRIDWIFI:** 15 , **📡** 15 , **@REMOTETEAMGUIDE:** 11 , **NEW** 9 , 
+ 
+## What this user tweeted
+ 
+RT @JJdomains: To Be #Tracked or Not? #Apple Is Now Giving Us the Choice.
+
+ https://t.co/OV7A5ZAO4P
+
+Coincidentally
+Currently available
+
+🚀…
+ 
+# BankingMobilityUSER INFO
+![image](http://pbs.twimg.com/profile_images/1390985251921567748/qwHfq6wQ_normal.jpg)
+ 
+`User ScreenName:` BankingMobility 
+ 
+`User chosen Name:` BankingMobility.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 08 10:49:47 +0000 2021 
+ 
+`User Description?:` #bank #banks #banking #finance #fintech #crypto #bitcoin #cryptocurrency #ethereum #fintechnews #bankingmobility #banking 
+ 
+`Followers?: `56 
+ 
+`Following?:` 562 
+ 
+`User URL?:` https://t.co/bQgq1Va0lZ 
+ 
+`Location:` Banks, England 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1390985251921567748/qwHfq6wQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 240 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COINCIDENTALLY** 116 , **@JJDOMAINS:** 91 , **CURRENTLY** 83 , **AVAILABLE** 53 , **VIA** 43 , **DOMAIN** 33 , **NAME** 32 , **SALE** 31 , **PAY** 31 , **12** 31 , **INTEREST** 29 , **BLOCKCHAIN** 29 , **FREE** 26 , **INSTALLMENTS** 24 , **@BANKINGMOBILITY:** 18 , **@REMOTEWORKTEAMS:** 16 , **BANKS** 12 , **BANKING** 10 , **@HYBRIDWIFI:** 10 , **NFTS** 10 , 
+ 
+## What this user tweeted
+ 
+RT @JJdomains: To Be #Tracked or Not? #Apple Is Now Giving Us the Choice.
+
+ https://t.co/OV7A5ZAO4P
+
+Coincidentally
+Currently available
+
+🚀…
+ 
+# SelfiePaymentsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1391474846585049090/m4B8-lKj_normal.jpg)
+ 
+`User ScreenName:` SelfiePayments 
+ 
+`User chosen Name:` SelfiePayments.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 09 18:54:26 +0000 2021 
+ 
+`User Description?:` #payment #payments #paytech #fintech #biometrics #identityverification #paymentsindustry #SiliconValley #IoT #DigitalTransformation #bitcoin #business #tech 
+ 
+`Followers?: `64 
+ 
+`Following?:` 556 
+ 
+`User URL?:` https://t.co/gn23nmY8gy 
+ 
+`Location:` At the Checkout  
+ 
+`Number of tweets extracted`  : 137 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1391474846585049090/m4B8-lKj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 137 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COINCIDENTALLY** 60 , **CURRENTLY** 42 , **@JJDOMAINS:** 34 , **VIA** 28 , **AVAILABLE** 27 , **DOMAIN** 27 , **NAME** 27 , **SALE** 26 , **PAY** 26 , **12** 26 , **FREE** 24 , **INTEREST** 24 , **INSTALLMENTS** 20 , **@REMOTEWORKTEAMS:** 18 , **@BANKINGMOBILITY:** 17 , **PAYMENTS** 15 , **BLOCKCHAIN** 13 , **SELFIE** 12 , **FINTECH** 10 , **BITCOIN** 9 , 
+ 
+## What this user tweeted
+ 
+RT @JJdomains: To Be #Tracked or Not? #Apple Is Now Giving Us the Choice.
+
+ https://t.co/OV7A5ZAO4P
+
+Coincidentally
+Currently available
+
+🚀…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
