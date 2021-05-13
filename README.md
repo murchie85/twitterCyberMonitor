@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **TheOnion**  
+The most popular user is: **mikepompeo**  
  
 
-## Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL8VgQ 
+## The Colonial Pipeline outage demonstrates how susceptible our cybersecurity and infrastructure systems can be, if l… https://t.co/k0687dWKgp 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **TheOnion**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @mitchellreports: On vulnerability of US infrastructure, Anne Neuberger: "The incident with Colonial and prior ones we have faced, have… |
-| RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL… |
-| RT @MCoetus: @MAJTOURE As a hacker myself, the first RED FLAG is when Dominion Inc refused to provide their machines to the DEFCON 'Voting… |
+| RT @itsJeffTiedrich: your reminder that not only did Trump throw Obama's pandemic playbook into the garbage, he also fired the cybersecurit… |
+| RT @TechnoTats: Love @marigalloway at @WomenCyberjutsu ❤️❤️. That is all. #CyberSecurity |
+| RT @DataShadow: Biden: Russian Government Not Behind Colonial Pipeline Attack https://t.co/2o8sAwXpFn #DataPrivacy #DataProtection #CyberSe… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheOnion** |
-| #2 Most tweeted to  | **TheHackersNews** |
-| #3 Most tweeted to  | **elonmusk** |
-| NewProfiles (less than 10 days) | 0.7%  |
-| Tweeters with < 10 followers  | 3.48%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **itsJeffTiedrich** |
+| #2 Most tweeted to  | **iotcybersec24** |
+| #3 Most tweeted to  | **POTUS** |
+| NewProfiles (less than 10 days) | 0.8%  |
+| Tweeters with < 10 followers  | 2.22%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **TheOnion**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **MONEY**  |
-| third  | **REVEALS** |
-| fourth  | **INTERNET**  |
-| fifth  | **POSSIBLE**  |
+| first  | **REMINDER**  |
+| second  | **TRUMP**  |
+| third  | **PANDEMIC** |
+| fourth  | **PLAYBOOK**  |
+| fifth  | **FIRED**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL… |
+|RT @itsJeffTiedrich: your reminder that not only did Trump throw Obama's pandemic playbook into the garbage, he also fired the cybersecurit… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TheOnion**  |
+| The most retweeted user is: **mikepompeo**  |
 | ------------- |
-| Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL8VgQ |
+| The Colonial Pipeline outage demonstrates how susceptible our cybersecurity and infrastructure systems can be, if l… https://t.co/k0687dWKgp |
 
 # Potential Fake Accounts
  
-# iamdotcomdotcomUSER INFO
-![image](http://pbs.twimg.com/profile_images/1389425905068503041/25PueB43_normal.jpg)
+# 5GforGamingUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392597423697051651/WfgWhL0L_normal.jpg)
  
-`User ScreenName:` iamdotcomdotcom 
+`User ScreenName:` 5GforGaming 
  
-`User chosen Name:` Been Pope 
+`User chosen Name:` 5GforGaming.com 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue May 04 03:41:08 +0000 2021 
+`User signup date?:` Wed May 12 21:46:52 +0000 2021 
  
-`User Description?:` I Am Dot Com Dot Com. Who You Are? 
+`User Description?:` #5G #5GisHere #5GSwitch #5GbuiltForGamers #5GbuiltRight #Telecoms #IoT #InternetOfThings #WiFi #WiFi6 #broadband #internet #wireless #SiliconValley #technology 
  
-`Followers?: `15 
+`Followers?: `55 
  
-`Following?:` 11 
+`Following?:` 416 
  
-`User URL?:` None 
+`User URL?:` https://t.co/faarznikVn 
  
-`Location:` Just Now 
+`Location:` Gaming, Österreich 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1389425905068503041/25PueB43_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1392597423697051651/WfgWhL0L_normal.jpg 
  
-`Number of tweets excluding replies:` 8986 
+`Number of tweets excluding replies:` 395 
  
 
  
@@ -108,28 +108,206 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJE
  
 ## User Top tweeted words 
  
-**@WASHINGTONPOST:** 35 , **@THEHILL:** 29 , **VACCINATED** 22 , **@MSNBC:** 22 , **BIDEN** 21 , **PRESIDENT** 18 , **FULLY** 17 , **CDC** 17 , **@CNNPOLITICS:** 17 , **MASKS** 16 , **NEW** 14 , **@NYTIMES:** 14 , **WEAR** 13 , **PEOPLE** 13 , **AMERICANS** 12 , **FORMER** 11 , **REP** 11 , **US** 11 , **BACK** 11 , **AFTER** 10 , 
+**COINCIDENTALLY** 109 , **@JJDOMAINS:** 104 , **CURRENTLY** 82 , **AVAILABLE** 56 , **VIA** 47 , **DOMAIN** 31 , **NAME** 27 , **SALE** 27 , **12** 27 , **PAY** 25 , **INTEREST** 23 , **FREE** 22 , **INSTALLMENTS** 21 , **5G** 18 , **@HYBRIDWIFI:** 14 , **NEW** 14 , **BLOCKCHAIN** 12 , **@GLOBALCLOUDDATA:** 12 , **@5GFORGAMING:** 11 , **AVAILABLE…RT** 10 , 
  
 ## What this user tweeted
  
-RT @firstmove: #ColonialPipeline: "A wake-up call not just for the #energy infrastructure, but for every company CEO who has some vulnerabi…RT @politico: Colonial Pipeline restarted operations yesterday evening, but it'll still be days before things to return to normal. In the m…RT @politico: President Biden has ordered a sweeping overhaul of the federal government’s approach to cybersecurity as his administration c…
+RT @JordanBazinsky: As the deployment of advanced tech in #healthcare delivery grows, so too does the specter of cyberattacks. https://t.co…RT @Virtualintranet: Virtualintranet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…RT @VirtualEthernet: VirtualEthernet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…
  
-# GaugefpbzuUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392936500883595267/XUJBBZAS_normal.jpg)
+# Adelia12768675USER INFO
+![image](http://pbs.twimg.com/profile_images/1392960779062812674/-REzHozy_normal.jpg)
  
-`User ScreenName:` Gaugefpbzu 
+`User ScreenName:` Adelia12768675 
  
-`User chosen Name:` Gauge Lilith 
+`User chosen Name:` Adelia 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu May 13 19:29:21 +0000 2021 
+`User signup date?:` Thu May 13 21:49:41 +0000 2021 
  
-`User Description?:` Life is too short. Don’t waste it reading my instagram bio… 
+`User Description?:` France 
+ 
+`Followers?: `5 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 16 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392960779062812674/-REzHozy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 16 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@VENOMDAO:** 1 , **🦎** 1 , **REPTILES** 1 , **STRONK** 1 , **TOGETHER!** 1 , **🐍** 1 , **WE'RE** 1 , **SUPER** 1 , **EXCITED** 1 , **ANNOUNCE** 1 , **BOTH** 1 , **$VIPER** 1 , **TOKEN** 1 , **WELL** 1 , **VIPERSWAP** 1 , **DEX** 1 , **B…RT** 1 , **@THEJEFFREYMARSH:** 1 , **HELLO** 1 , 
+ 
+## What this user tweeted
+ 
+RT @edokeefe: JUST IN: @POTUS Biden signs long-awaited executive order on cybersecurity designed to protect federal networks, improve infor…
+ 
+# eniolaodun2020USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` eniolaodun2020 
+ 
+`User chosen Name:` eniolaodun2020@gmail.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 13 21:21:33 +0000 2021 
+ 
+`User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 33 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SOCIAL** 1 , **MEDIA** 1 , **ACCOUNTS** 1 , **HACKED** 1 , **HACKERS** 1 , **PREVENT** 1 , **TODAY!** 1 , **HTTPS://TCO/KE0YBVGHID** 1 , **HIVE…** 1 , **HTTPS://TCO/VWMUPRPDWH** 1 , 
+ 
+## What this user tweeted
+ 
+How social media accounts get hacked by hackers and how to prevent it  , TODAY!
+
+https://t.co/kE0ybvgHID
+
+#hive… https://t.co/VWmupRpDwH
+ 
+# beuh_luisUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392937315186716677/sc4yJe2P_normal.jpg)
+ 
+`User ScreenName:` beuh_luis 
+ 
+`User chosen Name:` Luis Beuh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 13 20:17:28 +0000 2021 
+ 
+`User Description?:` Beuh coke shit pill disponible 24/24 partout en France et Belgique 
+Snap:https://t.co/wKRf8FuqZ5 
+ 
+`Followers?: `3 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392937315186716677/sc4yJe2P_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HTTPS://TCO/PST1MY5KFQ** 8 , **PSG** 8 , **DISPONIBLE** 7 , **TOUTE** 7 , **LA** 7 , **JOURNÉE** 7 , **POUR** 7 , **DES** 7 , **LIVRAISONS** 7 , **🚚MP** 7 , **SNAP👻:** 7 , **WEED** 7 , **BILLETS** 6 , **COKE** 6 , **SHIT** 6 , **PV** 6 , **:** 6 , **🚬🚬** 5 , **🇫🇷🇫🇷🇫🇷** 5 , **NANTES…** 5 , 
+ 
+## What this user tweeted
+ 
+faux billets  weed coke shit  pv : snap:https://t.co/pst1my5KFQ
+
+#BuyTrustPilotReviews
+#pokemon #usaxoom… https://t.co/Us5QWM5kzjfaux billets  weed coke shit  pv : snap:https://t.co/pst1my5KFQ
+
+#BuyTrustPilotReviews
+#pokemon #usaxoom… https://t.co/8PjWIcnSMsfaux billets  weed coke shit  pv : snap:https://t.co/pst1my5KFQ
+
+#BuyTrustPilotReviews
+#pokemon #usaxoom… https://t.co/9tRJXurAYU
+ 
+# Elizabe38477467USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Elizabe38477467 
+ 
+`User chosen Name:` Elizabeth Lynn 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 13 10:26:58 +0000 2021 
+ 
+`User Description?:` i am grandma ANTIFA..RN..older than dirt..Democracy is necessary to continue this civilization ..born during WWII 
+ 
+`Followers?: `1 
+ 
+`Following?:` 43 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REPSWALWELL:** 3 , **FANONE** 3 , **RT** 2 , **OFFICER** 2 , **THESE** 2 , **YOU’RE** 2 , **STILL** 2 , **@THEDEMCOALITION** 2 , **@ITSJEFFTIEDRICH:** 1 , **REMINDER** 1 , **TRUMP** 1 , **THROW** 1 , **OBAMA'S** 1 , **PANDEMIC** 1 , **PLAYBOOK** 1 , **INTO** 1 , **GARBAGE** 1 , **FIRED** 1 , **CYBERSECURIT…RT** 1 , **105** 1 , 
+ 
+## What this user tweeted
+ 
+RT @itsJeffTiedrich: your reminder that not only did Trump throw Obama's pandemic playbook into the garbage, he also fired the cybersecurit…
+ 
+# EverettxtetwUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392958476817559553/OauOrGm4_normal.jpg)
+ 
+`User ScreenName:` Everettxtetw 
+ 
+`User chosen Name:` Everett Yareli 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 13 20:59:09 +0000 2021 
+ 
+`User Description?:` Obsessed with tacos 
+ 
+`Followers?: `0 
+ 
+`Following?:` 34 
  
 `User URL?:` None 
  
@@ -137,7 +315,7 @@ RT @firstmove: #ColonialPipeline: "A wake-up call not just for the #energy infra
  
 `Number of tweets extracted`  : 46 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1392936500883595267/XUJBBZAS_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1392958476817559553/OauOrGm4_normal.jpg 
  
 `Number of tweets excluding replies:` 46 
  
@@ -147,239 +325,39 @@ RT @firstmove: #ColonialPipeline: "A wake-up call not just for the #energy infra
  
 ## User Top tweeted words 
  
-**@THEONION:** 6 , **@CNN:** 5 , **@TEXASMONTHLY:** 4 , **@SPORTSCENTER:** 4 , **US** 3 , **@STATESMAN:** 3 , **SOME** 3 , **GAS** 3 , **@POTUS:** 3 , **WEAR** 3 , **GOT** 2 , **MAN** 2 , **H…RT** 2 , **LIVE** 2 , **STATE** 2 , **COUNTRY** 2 , **KIDS** 2 , **COVID-19** 2 , **VACCINE** 2 , **TOOK** 2 , 
+**@LFC:** 8 , **@MANUTD:** 8 , **MUFC** 8 , **🔴** 7 , **️⃣** 7 , **MUNLIVRT** 5 , **MUNLIV** 4 , **BTS** 4 , **@BIGHIT_MUSIC:** 3 , **방탄소년단** 3 , **BTS_BUTTER** 3 , **TEASER** 3 , **PHOTO** 3 , **1** 3 , **LIVERPOOL** 3 , **JUNGKOOK** 3 , **NEW** 3 , **REDS** 2 , **OLD** 2 , **TRAFFORD** 2 , 
  
 ## What this user tweeted
  
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
+RT @IronNet: BREAKING: We are launching a new joint initiative with @DragosInc designed to help ensure the security of the nation’s critica…
  
-# Delilahgk4sUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392926357789675527/OKf6yadr_normal.jpg)
+# hola_an_dresUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392303605575737344/mYrDKpX9_normal.jpg)
  
-`User ScreenName:` Delilahgk4s 
+`User ScreenName:` hola_an_dres 
  
-`User chosen Name:` Delilah Rebekah 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 18:49:53 +0000 2021 
- 
-`User Description?:` If you choose between two girls, always pick the second one; if you really loved the first one, you would have never thought of the second one 
- 
-`Followers?: `0 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 57 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392926357789675527/OKf6yadr_normal.jpg 
- 
-`Number of tweets excluding replies:` 57 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REUTERS:** 4 , **INVESTIGATION** 3 , **@THEONION:** 3 , **NSW** 3 , **NEW** 3 , **US** 3 , **REPUBLICAN** 2 , **FORMER** 2 , **@WSJ:** 2 , **CALLING** 2 , **INCLUDING** 2 , **NEWS** 2 , **MISSING** 2 , **WORK** 2 , **SET** 2 , **AFTERLIFE3** 2 , **THAN** 2 , **HYDROGEN** 2 , **INDUSTRY** 2 , **COULD** 2 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# TeotiaTokyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392023490396495872/kxb5GTWy_normal.jpg)
- 
-`User ScreenName:` TeotiaToky 
- 
-`User chosen Name:` Toky Teotia 
+`User chosen Name:` andres 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue May 11 07:43:55 +0000 2021 
+`User signup date?:` Wed May 12 02:19:25 +0000 2021 
  
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 147 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392023490396495872/kxb5GTWy_normal.jpg 
- 
-`Number of tweets excluding replies:` 147 
- 
+`User Description?:` Hola, soy astronauta (de verdad)
+i'm a telecommunications engineer and run 2 incredible magazines about technology
 
+check them out!! 
  
-
+`Followers?: `1 
  
-## User Top tweeted words 
+`Following?:` 8 
  
-**PROJECT** 33 , **@PRIVIPROTOCOL** 33 , **PROJECTS** 27 , **CRYPTO** 22 , **VERY** 22 , **MANY** 20 , **@XOLOFINANCE** 18 , **@BTC_PROXY** 18 , **IMPORTANT** 16 , **AMA** 14 , **PM** 14 , **UTC** 14 , **ANY** 12 , **@LLAMASWAP** 12 , **COMMUNITY** 10 , **NFT** 10 , **TOKEN** 9 , **MAY** 9 , **VENUE:** 9 , **USDT** 9 , 
+`User URL?:` https://t.co/ZVh1xCHH4J 
  
-## What this user tweeted
- 
-@CryptoFamilyVN @priviprotocol I’m a developer, and I’m interested in contributing to your project  alongsides earn… https://t.co/pWAun3lJyi
- 
-# DevopsCollegeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1390419924653379584/w87QimPo_normal.jpg)
- 
-`User ScreenName:` DevopsCollege 
- 
-`User chosen Name:` DevOps College 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 06 19:38:21 +0000 2021 
- 
-`User Description?:` #devops #devopstools #devopstraining #coding #softwareEngineering #devops100 #technology #DigitalTransformation #SiliconValley 
- 
-`Followers?: `86 
- 
-`Following?:` 489 
- 
-`User URL?:` https://t.co/TM4kPpu3Kc 
- 
-`Location:` At College In The Cloud 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1390419924653379584/w87QimPo_normal.jpg 
- 
-`Number of tweets excluding replies:` 392 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COINCIDENTALLY** 115 , **CURRENTLY** 81 , **@JJDOMAINS:** 73 , **AVAILABLE** 48 , **VIA** 45 , **12** 26 , **PAY** 24 , **DOMAIN** 23 , **INTEREST** 22 , **SALE** 21 , **NAME** 21 , **FREE** 20 , **5G** 19 , **INSTALLMENTS** 17 , **@5GFORGAMING:** 17 , **@REMOTEWORKTEAMS:** 17 , **NEW** 13 , **@GLOBALCLOUDDATA:** 12 , **@BANKINGMOBILITY:** 12 , **GAMING** 10 , 
- 
-## What this user tweeted
- 
-RT @JJdomains: #RemoteCode execution vulnerabilities uncovered in smart #airfryer
-
- https://t.co/fodkvRALPy
-
-Coincidentally
-Currently avail…
- 
-# oh_okay_alrightUSER INFO
-![image](http://pbs.twimg.com/profile_images/1391756144142524418/UNwGqaK7_normal.jpg)
- 
-`User ScreenName:` oh_okay_alright 
- 
-`User chosen Name:` Mayuresh Deshmukh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat May 08 19:50:55 +0000 2021 
- 
-`User Description?:` ..and now we're on the same page, aren't we?😋 
- 
-`Followers?: `22 
- 
-`Following?:` 122 
- 
-`User URL?:` None 
- 
-`Location:` भारत 
- 
-`Number of tweets extracted`  : 41 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1391756144142524418/UNwGqaK7_normal.jpg 
- 
-`Number of tweets excluding replies:` 41 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 5 , **हो** 4 , **MINARI** 4 , **में** 3 , **ना** 3 , **से** 3 , **@KDMCOFFICIAL** 3 , **ANY** 3 , **CITY** 3 , **तोह** 2 , **BACK** 2 , **MAY** 2 , **WONDERFUL** 2 , **HE'S** 2 , **3-4-3** 2 , **OKAY** 2 , **GOOD** 2 , **उठा** 2 , **बना** 2 , **THESE** 2 , 
- 
-## What this user tweeted
- 
-@SprySindrella @ESPNUK He's an asset in this current 3-4-3.
-He's obedient, leads the mid, gets covered-up with an a… https://t.co/mT7cFGfkjJ
- 
-# Vlahos4444USER INFO
-![image](http://pbs.twimg.com/profile_images/1390018636128014337/vPSElnN6_normal.jpg)
- 
-`User ScreenName:` Vlahos4444 
- 
-`User chosen Name:` Mordred Rights Advocate is a White MAGA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 05 18:57:48 +0000 2021 
- 
-`User Description?:` You can't handle the truth, the whole truth and nothing but the truth.
-
-#Merlin #BLM #SuicidePrevention #Ableism #StopBullying #LGBTQSupport #LGBTQIA+ 
- 
-`Followers?: `6 
- 
-`Following?:` 99 
- 
-`User URL?:` None 
- 
-`Location:` Safe Place 
- 
-`Number of tweets extracted`  : 35 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1390018636128014337/vPSElnN6_normal.jpg 
- 
-`Number of tweets excluding replies:` 35 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@VLAHOS4444:** 11 , **ACCOUNT** 10 , **MERLIN** 9 , **3** 8 , **OTHER** 7 , **(@LESBIANMORGANA)** 7 , **COME** 6 , **WHITE** 6 , **INFORMATION** 5 , **WHICH** 5 , **HERE** 5 , **SOMEONE** 5 , **MORDRED** 5 , **ABLEISM** 4 , **BULLYING** 4 , **PLEASE** 4 , **ACCOUNTS** 4 , **LUNA** 4 , **PERSON** 4 , **(@EMRYSGUINEVERE)** 4 , 
- 
-## What this user tweeted
- 
-…those with actual mental health conditions, disabilities, &amp; other vulnerabilities such as grief over a dead or dyi… https://t.co/EaEoocEHJ5
- 
-# CanidVaccinesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392887761837993993/PFseoxUB_normal.jpg)
- 
-`User ScreenName:` CanidVaccines 
- 
-`User chosen Name:` Canid 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 16:58:08 +0000 2021 
- 
-`User Description?:` Vaccine management system for private pediatric practices. Currently working on COVID-19 vaccination in Pediatrics in New York. 
- 
-`Followers?: `6 
- 
-`Following?:` 3 
- 
-`User URL?:` https://t.co/QJojzxNxS0 
- 
-`Location:` New York, NY 
+`Location:` Valdivia, CL 
  
 `Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1392887761837993993/PFseoxUB_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1392303605575737344/mYrDKpX9_normal.jpg 
  
 `Number of tweets excluding replies:` 2 
  
@@ -389,38 +367,86 @@ He's obedient, leads the mid, gets covered-up with an a… https://t.co/mT7cFGfk
  
 ## User Top tweeted words 
  
-**HEALTH** 2 , **CANID** 1 , **GOAL** 1 , **MAKE** 1 , **EASY** 1 , **PRIVATE** 1 , **PEDIATRIC** 1 , **PRACTICES** 1 , **OFFER** 1 , **COVID-19** 1 , **VACCINE** 1 , **ABLE** 1 , **TO…** 1 , **HTTPS://TCO/ANRGPLNJK1WE** 1 , **FEATURED** 1 , **@FORBES** 1 , **ARTICLE** 1 , **"COVID-19** 1 , **EXPOSES** 1 , **SYSTEM** 1 , 
+**HELLO** 1 , **EVERYONE** 1 , **GO** 1 , **CHANNEL** 1 , **JOIN** 1 , **APPROACH** 1 , **IPV6** 1 , **SECURITY** 1 , **CYBERSECURITY** 1 , **@TWITTER** 1 , **01** 1 , **INTRODUCTIO…** 1 , **HTTPS://TCO/COUZZOEC1OHI** 1 , **NEW** 1 , **MAGAZINE** 1 , **GOLD** 1 , **CROWN** 1 , **TECHNOLOGY** 1 , **READY** 1 , **GIVE** 1 , 
  
 ## What this user tweeted
  
-We were featured in @Forbes article "Covid-19 Exposes Health System Vulnerabilities, Role Of Digital Health Platfor… https://t.co/8Nm7qHhe6M
+hello everyone, go to my channel to join my approach to IPv6 Security
+
+#CyberSecurity 
+
+@Twitter 
+
+01 - introductio… https://t.co/COUZzOEC1o
  
-# RacismGlossaryUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392778394216058883/Rciwr8ey_normal.jpg)
+# CyberSaad1USER INFO
+![image](http://pbs.twimg.com/profile_images/1392589628738359302/ReEuYo3s_normal.jpg)
  
-`User ScreenName:` RacismGlossary 
+`User ScreenName:` CyberSaad1 
  
-`User chosen Name:` GLOSSARY 
+`User chosen Name:` Saad Gul 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu May 13 09:41:43 +0000 2021 
+`User signup date?:` Wed May 12 21:13:40 +0000 2021 
+ 
+`User Description?:` Doting Dad. Cyber, Regulatory & Appellate law. #Wodehouse #AppellateTwitter. Not your lawyer. Std disclaimers inc. by ref. Backup for @NC_Cyberlaw 
+ 
+`Followers?: `165 
+ 
+`Following?:` 391 
+ 
+`User URL?:` None 
+ 
+`Location:` McLean, Virginia and NC 
+ 
+`Number of tweets extracted`  : 39 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392589628738359302/ReEuYo3s_normal.jpg 
+ 
+`Number of tweets excluding replies:` 39 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NC_CYBERLAW:** 32 , **APPELLATEDAD** 22 , **AD:** 6 , **GIRLS** 5 , **@NC_CYBERLAW** 3 , **CHRONICLES** 3 , **BAD** 3 , **DADDY** 3 , **INTO** 3 , **THEN** 3 , **OLD** 3 , **ATTORNEY** 3 , **YES** 3 , **5YO:** 3 , **@NYSAPPEALS:** 2 , **@SMMAROTTA** 2 , **SAAD** 2 , **PLAY** 2 , **(R)** 2 , **MAY** 2 , 
+ 
+## What this user tweeted
+ 
+RT @NC_CyberLaw: When you’re a #privacy and #Cybersecurity attorney, and your 11 year old locks you out of your own computer.
+
+To send a me…RT @NC_CyberLaw: Yes well, I’m a #privacy/#cybersecurity attorney and 10YO showed me my place by locking me out of my official computer.
+So…
+ 
+# Christo92634012USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Christo92634012 
+ 
+`User chosen Name:` Christopher Bourbaki 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri May 07 22:01:52 +0000 2021 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `71 
  
-`Following?:` 0 
+`Following?:` 461 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1392778394216058883/Rciwr8ey_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 2116 
  
 
  
@@ -428,59 +454,11 @@ We were featured in @Forbes article "Covid-19 Exposes Health System Vulnerabilit
  
 ## User Top tweeted words 
  
-**SOCIAL** 4 , **GROUP** 4 , **PEOPLE** 3 , **GENDER** 2 , **CLASS** 2 , **RACE** 2 , **RACISM** 2 , **VARIOUS** 2 , **GROUPS** 2 , **NEGATIVE** 2 , **RACISM:** 2 , **REFERS** 2 , **DISCRIMINATION** 2 , **SYSTEMATIC** 2 , **ALLY:** 1 , **SOMEONE** 1 , **MAKES** 1 , **COMMITMENT** 1 , **EFFORT** 1 , **RECOGNIZE** 1 , 
+**PEOPLE** 15 , **COVID** 14 , **VACCINE** 12 , **@JORDANSCHACHTEL** 8 , **CANADA** 7 , **@MAXIMEBERNIER** 7 , **FAUCI** 6 , **AGAINST** 6 , **LOCKDOWN** 5 , **HEALTH** 5 , **MASK** 5 , **DOES** 5 , **NEVER** 5 , **@CHRISSACCOCCIA1:** 5 , **DOWN** 5 , **FREE** 5 , **DR** 5 , **@ERINOTOOLE** 5 , **YES** 4 , **LONG** 4 , 
  
 ## What this user tweeted
  
-Intersectionality:
-A way to recognise how various forms of discrimination and disempowerment interact and effective… https://t.co/UbNkd0h00q
- 
-# Withered5USER INFO
-![image](http://pbs.twimg.com/profile_images/1392874490372050946/Zbu4F5nX_normal.jpg)
- 
-`User ScreenName:` Withered5 
- 
-`User chosen Name:` Withered....... 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 16:07:48 +0000 2021 
- 
-`User Description?:` withered blossom 
- 
-`Followers?: `10 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 33 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392874490372050946/Zbu4F5nX_normal.jpg 
- 
-`Number of tweets excluding replies:` 33 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LOVE** 6 , **WAY** 3 , **LOST** 3 , **WISH** 3 , **@UPASIKA1:** 3 , **@MISS_SHAH__:** 3 , **DAY** 2 , **SAVE** 2 , **I'M** 2 , **LOOKING** 2 , **MANY** 2 , **@STRANGER_PAL:** 2 , **BEING** 2 , **WALKED** 2 , **INTO** 2 , **SOUL** 2 , **LIVE** 2 , **UNDER** 2 , **HAND** 2 , **HEAR** 2 , 
- 
-## What this user tweeted
- 
-RT @ksjdreams: * 
-
-Beyond 
-All Vulnerabilities 
-And Insanities 
-
-It's Incredible 
-The Pulchritudinous 
-Complement Of Life
+RT @conspiracyguy8: Anti-science empire that has become so lethal - we built infrastructure to combat global terrorism, cyberattacks, cyber…
  
 # VirtualEthernetUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1392862512828256259/r0vh-Ee8_normal.jpg)
@@ -520,39 +498,46 @@ Complement Of Life
  
 ## What this user tweeted
  
-RT @JJdomains: #RemoteCode execution vulnerabilities uncovered in smart #airfryer
+RT @VirtualEthernet: VirtualEthernet*com
+Domain name For Sale
+Pay 12 interest free installments
 
- https://t.co/fodkvRALPy
+#ethernet #intranet #network #networksecur…VirtualEthernet*com
+Domain name For Sale
+Pay 12 interest free installments
 
-Coincidentally
-Currently avail…
+#ethernet #intranet #network… https://t.co/lYHaVqkpvfRT @Virtualintranet: Virtualintranet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…RT @JordanBazinsky: As the deployment of advanced tech in #healthcare delivery grows, so too does the specter of cyberattacks. https://t.co…RT @PMProuk: https://t.co/ovVbZtyveC - Domain Name For Sale #Fintech #cybersecurity #security  https://t.co/uwMIFbO9GI
  
-# EgbruPUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392824827057168387/wqTGM2CK_normal.jpg)
+# RemoteTeamGuideUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392229387827924999/nfAXS6Q8_normal.jpg)
  
-`User ScreenName:` EgbruP 
+`User ScreenName:` RemoteTeamGuide 
  
-`User chosen Name:` Egbru akpako p 
+`User chosen Name:` RemoteTeamGuide.com 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu May 13 12:45:42 +0000 2021 
+`User signup date?:` Tue May 11 21:22:19 +0000 2021 
  
-`User Description?:`  
+`User Description?:` #remotework #remoteworking #remoteworkforce #remoteworker #HR #Humanresources #remoteteams #remoteteamguide 
  
-`Followers?: `0 
+`Followers?: `79 
  
-`Following?:` 0 
+`Following?:` 386 
  
-`User URL?:` None 
+`User URL?:` https://t.co/aH0UxJK7WF 
  
-`Location:`  
+`Location:` Remote 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 190 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1392824827057168387/wqTGM2CK_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1392229387827924999/nfAXS6Q8_normal.jpg 
  
-`Number of tweets excluding replies:` 383 
+`Number of tweets excluding replies:` 190 
  
 
  
@@ -560,236 +545,47 @@ Currently avail…
  
 ## User Top tweeted words 
  
-**@ANTONY_BTC:** 92 , **CRYPTO** 15 , **NEW** 15 , **US** 14 , **BITCOIN** 10 , **MONEY** 10 , **BANK** 8 , **BLOCK** 7 , **"THE** 7 , **THAN** 7 , **WHICH** 6 , **THOUGHT** 6 , **FIRST** 6 , **MUCH** 6 , **BASICS** 6 , **DIGITAL** 6 , **MADE** 6 , **LAUNCH** 6 , **DEFI** 6 , **TIME** 5 , 
+**COINCIDENTALLY** 94 , **CURRENTLY** 68 , **@JJDOMAINS:** 47 , **AVAILABLE** 46 , **VIA** 43 , **DOMAIN** 37 , **SALE** 37 , **NAME** 37 , **12** 34 , **PAY** 32 , **INTEREST** 30 , **FREE** 29 , **INSTALLMENTS** 26 , **@REMOTEWORKTEAMS:** 16 , **@5GFORGAMING:** 13 , **5G** 12 , **NEW** 11 , **@REMOTETEAMGUIDE:** 11 , **GUIDE** 10 , **📡** 9 , 
  
 ## What this user tweeted
  
-RT @mspecter: Today, myself and co-authors @jimmykoppel and @djweitzner released a paper discussing a slew of vulnerabilities we found in @…
+RT @VirtualEthernet: VirtualEthernet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…RT @Virtualintranet: Virtualintranet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…
  
-# wong19471USER INFO
-![image](http://pbs.twimg.com/profile_images/1390670055159992320/H710HxV1_normal.jpg)
+# VirtualintranetUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392929452686987270/R1fWwtc0_normal.jpg)
  
-`User ScreenName:` wong19471 
+`User ScreenName:` Virtualintranet 
  
-`User chosen Name:` 小賢2號 
+`User chosen Name:` Virtualintranet.com 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri May 07 11:18:40 +0000 2021 
+`User signup date?:` Thu May 13 19:38:52 +0000 2021 
  
-`User Description?:` 此生忠於新中國联邦 
- 
-`Followers?: `73 
- 
-`Following?:` 227 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1390670055159992320/H710HxV1_normal.jpg 
- 
-`Number of tweets excluding replies:` 3021 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**來自** 22 , **@GNEWS202064RT** 14 , **CHINA** 13 , **CHINESE** 12 , **US** 11 , **RESEARCH** 11 , **COVID19** 10 , **@SYDNEYHIMALAYA:** 10 , **@GORDONGCHANG:** 10 , **CCP** 9 , **DR** 9 , **@WONG19471:** 9 , **MAY** 8 , **COVID-19** 8 , **WORLD** 7 , **@INDIATODAY:** 7 , **@LAWRENCESELLIN:** 6 , **DETECTIVE** 6 , **@DEZYING:** 5 , **INSTITUTE** 5 , 
- 
-## What this user tweeted
- 
-RT @IndiaTodayTech: A collection of 12 vulnerabilities has been found that might allow a threat actor to attack a WiFi connected device or…
- 
-# SaveThatNewsUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` SaveThatNews 
- 
-`User chosen Name:` Save That News 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue May 11 14:22:21 +0000 2021 
- 
-`User Description?:` Built by @TweetAttakk 
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NDTV** 5 , **INDIA** 5 , **NEWS** 4 , **MONEYCONTROL** 2 , **VACCINE** 2 , **CENTRE** 2 , **FULL** 2 , **STORY:…** 2 , **LIVE** 2 , **TIMES** 2 , **CRICBUZZ** 2 , **COVID** 1 , **SHORTAGE** 1 , **NASSCOM** 1 , **URGES** 1 , **GOVERNMENT** 1 , **PROVIDE** 1 , **EMERGENCY** 1 , **USE** 1 , **AUTHORISATION** 1 , 
- 
-## What this user tweeted
- 
-From NDTV News
- 
-FragAttacks: Wi-Fi Vulnerabilities Impacting Almost All Connected Devices Discovered, Windows Gets… https://t.co/dWxz6oMqIQ
- 
-# GnollThunderUSER INFO
-![image](http://pbs.twimg.com/profile_images/1390119019995336709/snSqkl4o_normal.jpg)
- 
-`User ScreenName:` GnollThunder 
- 
-`User chosen Name:` ThunderGnoll 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 06 01:38:19 +0000 2021 
- 
-`User Description?:` @Cloverlioness best GF💜 BLM
-🔞trans gnoll here for reasons unknown. 
- 
-`Followers?: `47 
- 
-`Following?:` 315 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1390119019995336709/snSqkl4o_normal.jpg 
- 
-`Number of tweets excluding replies:` 1219 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 8 , **TIME** 7 , **FUCK** 6 , **@GOATDEMONBITCH:** 6 , **@AUSTRALIA_PIX** 6 , **AUSTRALIA** 6 , **DON'T** 5 , **SOME** 4 , **CHARACTER** 4 , **GO** 4 , **BACK** 4 , **THESE** 4 , **TRANS** 4 , **US** 4 , **LOVE** 4 , **ISRAELI** 4 , **GOOD** 4 , **THAT'S** 4 , **@AUSTRALIA** 4 , **ART** 4 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# tonkovsferrariUSER INFO
-![image](http://pbs.twimg.com/profile_images/1390229640904597504/yaI6eA2z_normal.jpg)
- 
-`User ScreenName:` tonkovsferrari 
- 
-`User chosen Name:` Tonkovsferrari 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 06 08:56:39 +0000 2021 
- 
-`User Description?:` Creakyknees Cycling Alt. 
- 
-`Followers?: `17 
- 
-`Following?:` 285 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1390229640904597504/yaI6eA2z_normal.jpg 
- 
-`Number of tweets excluding replies:` 231 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@GIRODITALIA** 10 , **DON'T** 8 , **COULD** 7 , **GO** 7 , **@CYCLING_PODCAST** 7 , **I'M** 7 , **THEN** 6 , **THAN** 6 , **@FRIEBOS** 6 , **THAT'S** 6 , **I'VE** 5 , **GOT** 4 , **WAY** 4 , **DOING** 4 , **OH** 4 , **TIME** 4 , **NEED** 4 , **BEFORE** 4 , **YOU'RE** 4 , **YES** 4 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# IPanthenalUSER INFO
-![image](http://pbs.twimg.com/profile_images/1391826006734884866/YK6ZOJLr_normal.jpg)
- 
-`User ScreenName:` IPanthenal 
- 
-`User chosen Name:` Isabella Panthenal 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 10 18:40:20 +0000 2021 
- 
-`User Description?:` Bandicoot, sewer rat at best. 
+`User Description?:` Also available @VirtualEthernet
+#ethernet #intranet #network #networksecurity #SDWAN #VPN #DataCenter #datacenters #telecoms #cloudstorage #hybridcloud #cloud 
  
 `Followers?: `19 
  
-`Following?:` 193 
+`Following?:` 117 
  
-`User URL?:` None 
+`User URL?:` https://t.co/wlTrZ31YvV 
  
-`Location:`  
+`Location:` Intranet 
  
-`Number of tweets extracted`  : 34 
+`Number of tweets extracted`  : 21 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1391826006734884866/YK6ZOJLr_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1392929452686987270/R1fWwtc0_normal.jpg 
  
-`Number of tweets excluding replies:` 34 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MEDIOCRITY** 2 , **COUNTRY** 2 , **@MANUJOSEPHSAN:** 2 , **TRAPS** 2 , **HOPE** 2 , **DYING** 2 , **TIME** 2 , **YEAR** 2 , **LEAST** 2 , **DEAD** 2 , **WHILE** 2 , **@EASWARRAGHUL:** 2 , **TOXIC** 2 , **NATIONALISM** 2 , **INDIA** 2 , **FACE** 2 , **HOUSEPLANTS** 2 , **DON'T** 2 , **STUCK** 1 , **NEED** 1 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# LucasWa96706583USER INFO
-![image](http://pbs.twimg.com/profile_images/1391439296498790402/xw-CHIMw_normal.jpg)
- 
-`User ScreenName:` LucasWa96706583 
- 
-`User chosen Name:` Lucas Walker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun May 09 17:04:02 +0000 2021 
- 
-`User Description?:` Dog🐶Dad When the world is silent,one voice becomes powerful Life’s most persistent and urgent questions is what are you doing for others? 
- 
-`Followers?: `2 
- 
-`Following?:` 96 
- 
-`User URL?:` None 
- 
-`Location:` Tampa, FL 
- 
-`Number of tweets extracted`  : 98 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1391439296498790402/xw-CHIMw_normal.jpg 
- 
-`Number of tweets excluding replies:` 99 
+`Number of tweets excluding replies:` 21 
  
 
  
@@ -797,38 +593,145 @@ RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary
  
 ## User Top tweeted words 
  
-**@NBCNEWS:** 11 , **@SKYNEWS:** 11 , **@ABC:** 9 , **LIZ** 8 , **CHENEY** 8 , **@CNN:** 7 , **@NYTIMES:** 7 , **@WASHINGTONPOST:** 7 , **REP** 7 , **AROUND** 6 , **ISRAEL** 6 , **NEW** 6 , **MOST** 5 , **@INDEPENDENT:** 5 , **AFTER** 5 , **HOUSE** 5 , **GOP** 5 , **@CBSNEWS:** 5 , **GAS** 4 , **ITS** 4 , 
+**12** 10 , **DOMAIN** 9 , **NAME** 9 , **SALE** 9 , **PAY** 9 , **INTEREST** 9 , **FREE** 9 , **INSTALLMENTS** 9 , **@VIRTUALETHERNET:** 6 , **COINCIDENTALLY** 5 , **CURRENTLY** 5 , **VIA** 5 , **ETHERNET** 4 , **5G** 3 , **INTRANET** 3 , **NETWORK** 3 , **AVAILABLE…RT** 2 , **@SALLYEAVES:** 2 , **VIRTUALETHERNET*COM** 2 , **AVAILABLE** 2 , 
  
 ## What this user tweeted
  
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
+RT @VirtualEthernet: VirtualEthernet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…RT @Virtualintranet: Virtualintranet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…Virtualintranet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network… https://t.co/QwV21dVC9dRT @JordanBazinsky: As the deployment of advanced tech in #healthcare delivery grows, so too does the specter of cyberattacks. https://t.co…RT @SelfiePayments: SelfiePayments*com
+Red Hot #biometric #technology
+Domain Name For Sale
+Pay 12 interest free installments
+
+#payment #pay…
  
-# MrHwang53020279USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# RemoteWorkTeamsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1390756855690010624/DrjCN6vs_normal.jpg)
  
-`User ScreenName:` MrHwang53020279 
+`User ScreenName:` RemoteWorkTeams 
  
-`User chosen Name:` MrHwang 
+`User chosen Name:` RemoteWorkTeams.com 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat May 08 05:15:32 +0000 2021 
+`User signup date?:` Fri May 07 17:05:46 +0000 2021 
  
-`User Description?:`  
+`User Description?:` #RemoteWork #RemoteWorking #RemoteWorkforce #HR #HumanResources #Remoteteams #Remoteteambuilding #recruitment #recruiting #recruiter #remoteoffice #TechNews 
+ 
+`Followers?: `83 
+ 
+`Following?:` 687 
+ 
+`User URL?:` https://t.co/2AsIzqJAWb 
+ 
+`Location:` Remote 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1390756855690010624/DrjCN6vs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 365 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COINCIDENTALLY** 101 , **CURRENTLY** 75 , **@JJDOMAINS:** 56 , **AVAILABLE** 47 , **VIA** 41 , **DOMAIN** 23 , **NAME** 22 , **SALE** 22 , **12** 21 , **PAY** 19 , **INTEREST** 18 , **FREE** 18 , **@5GFORGAMING:** 17 , **@REMOTEWORKTEAMS:** 16 , **5G** 16 , **INSTALLMENTS** 15 , **📡** 13 , **NEW** 12 , **REMOTEWORK** 12 , **@GLOBALCLOUDDATA:** 11 , 
+ 
+## What this user tweeted
+ 
+RT @VirtualEthernet: VirtualEthernet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…RT @Virtualintranet: Virtualintranet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…
+ 
+# DevopsCollegeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1390419924653379584/w87QimPo_normal.jpg)
+ 
+`User ScreenName:` DevopsCollege 
+ 
+`User chosen Name:` DevOps College 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 06 19:38:21 +0000 2021 
+ 
+`User Description?:` #devops #devopstools #devopstraining #coding #softwareEngineering #devops100 #technology #DigitalTransformation #SiliconValley 
+ 
+`Followers?: `86 
+ 
+`Following?:` 489 
+ 
+`User URL?:` https://t.co/TM4kPpu3Kc 
+ 
+`Location:` At College In The Cloud 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1390419924653379584/w87QimPo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 392 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COINCIDENTALLY** 115 , **CURRENTLY** 81 , **@JJDOMAINS:** 73 , **AVAILABLE** 48 , **VIA** 45 , **12** 26 , **PAY** 24 , **DOMAIN** 23 , **INTEREST** 22 , **SALE** 21 , **NAME** 21 , **FREE** 20 , **5G** 19 , **INSTALLMENTS** 17 , **@5GFORGAMING:** 17 , **@REMOTEWORKTEAMS:** 17 , **NEW** 13 , **@GLOBALCLOUDDATA:** 12 , **@BANKINGMOBILITY:** 12 , **GAMING** 10 , 
+ 
+## What this user tweeted
+ 
+RT @JordanBazinsky: As the deployment of advanced tech in #healthcare delivery grows, so too does the specter of cyberattacks. https://t.co…RT @Virtualintranet: Virtualintranet*com
+Domain name For Sale
+Pay 12 interest free installments
+
+#ethernet #intranet #network #networksecur…
+ 
+# TheDojoYoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392485953722269696/ztedV5W-_normal.jpg)
+ 
+`User ScreenName:` TheDojoYo 
+ 
+`User chosen Name:` DojoBiden 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 12 14:22:54 +0000 2021 
+ 
+`User Description?:` It’s all a joke…. 
  
 `Followers?: `1 
  
-`Following?:` 5 
+`Following?:` 230 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 62 
+`Number of tweets extracted`  : 125 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1392485953722269696/ztedV5W-_normal.jpg 
  
-`Number of tweets excluding replies:` 62 
+`Number of tweets excluding replies:` 125 
  
 
  
@@ -836,38 +739,38 @@ RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary
  
 ## User Top tweeted words 
  
-**BITCOIN** 15 , **ELON** 14 , **DOGECOIN** 11 , **DOGE** 11 , **@ELONMUSK** 9 , **TESLA** 9 , **@ELONMUSK:** 8 , **SPACEX** 8 , **MUSK** 7 , **PEOPLE** 5 , **AFTER** 5 , **GOING** 5 , **@FORBES:** 5 , **ACCEPTING** 5 , **NEXT** 4 , **CAR** 4 , **ENERGY** 4 , **@APOMPLIANO** 4 , **@SQUAWKCNBC** 4 , **ACCEPT** 4 , 
+**CHENEY** 19 , **MATT** 16 , **GAETZ** 15 , **GOP** 13 , **LIZ** 13 , **TRUMP** 13 , **PARTY** 11 , **REPUBLICANS** 10 , **GREENBERG** 8 , **JOEL** 7 , **PRESIDENT** 6 , **PEOPLE** 6 , **HOUSE** 6 , **LEADERSHIP** 6 , **STILL** 5 , **@CHRISTOPHERHAHN:** 5 , **TIME** 5 , **NEVER** 5 , **FORMER** 5 , **REPUBLICAN** 5 , 
  
 ## What this user tweeted
  
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
+RT @itsJeffTiedrich: your reminder that not only did Trump throw Obama's pandemic playbook into the garbage, he also fired the cybersecurit…
  
-# blogalchemyltdUSER INFO
-![image](http://pbs.twimg.com/profile_images/1391686476459565056/KYXWD5GU_normal.jpg)
+# Katyael62566398USER INFO
+![image](http://pbs.twimg.com/profile_images/1392928146698211334/_g6iv6-W_normal.jpg)
  
-`User ScreenName:` blogalchemyltd 
+`User ScreenName:` Katyael62566398 
  
-`User chosen Name:` Blog Alchemy 
+`User chosen Name:` Katyaelisehenry 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon May 10 09:27:36 +0000 2021 
+`User signup date?:` Thu May 13 19:33:45 +0000 2021 
  
-`User Description?:` The ai-assisted marketplace. Learn more here ➡️ https://t.co/rCqFHqETYm 
+`User Description?:` 💞🌷 
  
-`Followers?: `12 
+`Followers?: `1 
  
-`Following?:` 82 
+`Following?:` 32 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 17 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1391686476459565056/KYXWD5GU_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1392928146698211334/_g6iv6-W_normal.jpg 
  
-`Number of tweets excluding replies:` 17 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -875,37 +778,77 @@ RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary
  
 ## User Top tweeted words 
  
-**BLOG** 4 , **ANY** 4 , **AFFILIATE** 4 , **SITE** 3 , **AI-ASSISTED** 3 , **ALWAYS** 2 , **UPDATE** 2 , **PLUGIN** 2 , **MAKE** 2 , **SURE** 2 , **SSL** 2 , **NAME** 2 , **LOGIN** 2 , **CHANGING** 2 , **URL** 2 , **WORDPRESS** 2 , **TRAFFIC** 2 , **COMES** 2 , **BLOGGING** 2 , **SEO** 2 , 
+**@WHITEHOUSE** 2 , **YEAH** 2 , **GOT** 2 , **POINT** 2 , **RT** 1 , **@WHITEHOUSE:** 1 , **COLONIAL** 1 , **PIPELINE** 1 , **INCIDENT** 1 , **SOBERING** 1 , **REMINDER** 1 , **NATION** 1 , **FACES** 1 , **SOPHISTICATED** 1 , **CYBER** 1 , **THREATS** 1 , **PRESIDENT…@RAYMONDHUTCHE12** 1 , **BABY@DOCHERTYPHILLIP** 1 , **@MANUELOHI** 1 , **BABY** 1 , 
  
 ## What this user tweeted
  
-1. Install Wordfence: This plugin works as a firewall and blocks any malicious traffic. It keeps track of any hacke… https://t.co/3drAK6UqlV
+RT @WhiteHouse: The Colonial Pipeline incident is a sobering reminder that our nation faces sophisticated cyber threats.
  
-# AnchoredNarrat1USER INFO
-![image](http://pbs.twimg.com/profile_images/1392409612163424256/C-j0-au8_normal.jpg)
+Today, President…
  
-`User ScreenName:` AnchoredNarrat1 
+# hunjun888USER INFO
+![image](http://pbs.twimg.com/profile_images/1392624738808250377/FdXpD8ml_normal.jpg)
  
-`User chosen Name:` Anchored Narratives 
+`User ScreenName:` hunjun888 
+ 
+`User chosen Name:` hunjun 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed May 12 09:08:49 +0000 2021 
+`User signup date?:` Wed May 12 23:35:52 +0000 2021 
  
-`User Description?:` Relevant geopolitical (cyber) threats, forensics and crime stories generated by intelligence requirements.
-Sign up now so you don’t miss the first issue. 
+`User Description?:`  
+ 
+`Followers?: `23 
+ 
+`Following?:` 396 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392624738808250377/FdXpD8ml_normal.jpg 
+ 
+`Number of tweets excluding replies:` 418 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**XU** 157 , **WANCHAO** 157 , **VILLAGE** 155 , **TYRANT** 144 , **BEIJING** 119 , **CHINESE** 117 , **GOVERNMENT** 117 , **CHINA** 115 , **DEVIL** 78 , **PLUNDERS** 78 , **PEOPLE** 78 , **LI** 67 , **SHILIUZHUANG** 49 , **PRIVATE** 41 , **ADMITTED** 40 , **XUWANCHAO** 40 , **SET** 40 , **PRISON** 40 , **DETAIN** 40 , **ABUSE** 40 , 
+ 
+## What this user tweeted
+ 
+RT @USATODAY: Currently, there are no federal regulations on cybersecurity measures for most private companies —even those that provide vit…
+ 
+# MacyHills2USER INFO
+![image](http://pbs.twimg.com/profile_images/1392925930075664389/LUqK8FHt_normal.jpg)
+ 
+`User ScreenName:` MacyHills2 
+ 
+`User chosen Name:` Macy Hills 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 13 19:32:09 +0000 2021 
+ 
+`User Description?:` music lover... fun to be with...... extrovert....single... 
  
 `Followers?: `0 
  
-`Following?:` 29 
+`Following?:` 42 
  
-`User URL?:` https://t.co/l3Qilf3iHF 
+`User URL?:` None 
  
-`Location:` The Future 
+`Location:`  
  
 `Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1392409612163424256/C-j0-au8_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1392925930075664389/LUqK8FHt_normal.jpg 
  
 `Number of tweets excluding replies:` 2 
  
@@ -915,27 +858,65 @@ Sign up now so you don’t miss the first issue.
  
 ## User Top tweeted words 
  
-**DAILY** 2 , **WORD** 2 , **CLOUD** 2 , **TWITTER** 2 , **FEED** 2 , **12-05-2021** 2 , **CYBERSECURITY** 1 , **OSINT** 1 , **VULNERABILITIES** 1 , **CVE-** 1 , **CYBERCRIME…** 1 , **HTTPS://TCO/DMBHETZNRQTHE** 1 , **THREAT** 1 , **ACTOR** 1 , **THREATHUNTING** 1 , **THREATMANAGEMENT** 1 , **OSINT…** 1 , **HTTPS://TCO/VCCXIBOIDP** 1 , 
+**RT** 1 , **@HOUSECOMMERCE:** 1 , **READ** 1 , **@CATHYMCMORRIS** 1 , **@FRANKPALLONE** 1 , **@REPFREDUPTON** 1 , **@REPBOBBYRUSH** 1 , **URGE** 1 , **ACTION** 1 , **@HOUSECOMMERCE’S** 1 , **BIPARTISAN** 1 , **ENERGY** 1 , **INF…SMILES** 1 , **HAPPINESS** 1 , **HTTPS://TCO/37TYPKOQXF** 1 , 
  
 ## What this user tweeted
  
-The daily word cloud on the cybersecurity Twitter feed 12-05-2021.
-#OSINT #vulnerabilities #cve- #cybercrime… https://t.co/DmBhetZnrq
+RT @HouseCommerce: Read @cathymcmorris, @FrankPallone, @RepFredUpton, &amp; @RepBobbyRush urge action on @HouseCommerce’s bipartisan energy inf…
  
-# VechainGriffinUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# iamdotcomdotcomUSER INFO
+![image](http://pbs.twimg.com/profile_images/1389425905068503041/25PueB43_normal.jpg)
  
-`User ScreenName:` VechainGriffin 
+`User ScreenName:` iamdotcomdotcom 
  
-`User chosen Name:` The Griffin 
+`User chosen Name:` Been Pope 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed May 05 19:09:48 +0000 2021 
+`User signup date?:` Tue May 04 03:41:08 +0000 2021 
  
-`User Description?:`  
+`User Description?:` I Am Dot Com Dot Com. Who You Are? 
  
-`Followers?: `17 
+`Followers?: `15 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:` Just Now 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1389425905068503041/25PueB43_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8986 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@WASHINGTONPOST:** 35 , **@THEHILL:** 29 , **VACCINATED** 22 , **@MSNBC:** 22 , **BIDEN** 21 , **PRESIDENT** 18 , **FULLY** 17 , **CDC** 17 , **@CNNPOLITICS:** 17 , **MASKS** 16 , **NEW** 14 , **@NYTIMES:** 14 , **WEAR** 13 , **PEOPLE** 13 , **AMERICANS** 12 , **FORMER** 11 , **REP** 11 , **US** 11 , **BACK** 11 , **AFTER** 10 , 
+ 
+## What this user tweeted
+ 
+RT @thehill: .@PressSec Psaki: “One of the lessons that other companies should take away from this hack is that it’s important to harden yo…RT @thehill: .@POTUS: "We do not believe the Russian government was involved in this attack, but we do have strong reason to believe that t…RT @thehill: JUST IN: Biden says Colonial Pipeline hackers based in Russia, but not Putin-backed https://t.co/NDvmZcaG9W https://t.co/6l0Zt…RT @thehill: .@POTUS: "This morning, Colonial reported that fuel is beginning to flow to a majority of the markets that they service... but…
+ 
+# Corbanln9USER INFO
+![image](http://pbs.twimg.com/profile_images/1392927565354995715/peJgpMVS_normal.jpg)
+ 
+`User ScreenName:` Corbanln9 
+ 
+`User chosen Name:` Corban Bailee 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 13 18:58:30 +0000 2021 
+ 
+`User Description?:` Personal Trainer 💪 Dancer 💃 Meditator 
+ 
+`Followers?: `0 
  
 `Following?:` 40 
  
@@ -943,11 +924,11 @@ The daily word cloud on the cybersecurity Twitter feed 12-05-2021.
  
 `Location:`  
  
-`Number of tweets extracted`  : 96 
+`Number of tweets extracted`  : 47 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1392927565354995715/peJgpMVS_normal.jpg 
  
-`Number of tweets excluding replies:` 96 
+`Number of tweets excluding replies:` 47 
  
 
  
@@ -955,77 +936,40 @@ The daily word cloud on the cybersecurity Twitter feed 12-05-2021.
  
 ## User Top tweeted words 
  
-**VECHAIN** 55 , **@EISENREICH:** 20 , **X** 17 , **VEFAM** 8 , **DNV** 8 , **@VECHAINOFFICIAL** 8 , **$VET** 8 , **GOOD** 7 , **DEFINITELY** 6 , **SOME** 6 , **2021** 5 , **VET** 5 , **@ELONMUSK** 5 , **BLOCKCHAIN** 5 , **DE** 5 , **COMMUNITY** 4 , **WORK** 4 , **FIND** 4 , **HELP** 4 , **CRYPTO** 4 , 
+**NEW** 5 , **FULLY** 5 , **LIVE** 4 , **@NPRPOLITICS:** 3 , **CDC** 3 , **VACCINATED** 3 , **PEOPLE** 3 , **MASKS** 3 , **STAFF** 3 , **FREE** 3 , **@CRYPTOCOM:** 2 , **JOIN** 2 , **$DOGE** 2 , **5** 2 , **EXCLUSIVE** 2 , **IMAGE** 2 , **REPORT** 2 , **TIGRAY** 2 , **@NYTIMES:** 2 , **GRANGER** 2 , 
  
 ## What this user tweeted
  
-RT @sands_waylan: @mira_hurley @elonmusk $NANO vulnerabilities will be solved. Nano is the crypto currency of the future. Zero fees, instan…
+RT @nprpolitics: President Biden signed an executive order to boost America's cyber defenses. 
+
+It requires companies to report breaches, u…
  
-# STEMNews4UUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392510673075146752/Sk9bRfxB_normal.jpg)
+# OnchainCasinoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392170353900900357/knlLCbst_normal.jpg)
  
-`User ScreenName:` STEMNews4U 
+`User ScreenName:` OnchainCasino 
  
-`User chosen Name:` AGACPs STEM Updates 
+`User chosen Name:` OnchainCasino.com 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed May 12 16:02:45 +0000 2021 
+`User signup date?:` Tue May 11 17:26:06 +0000 2021 
  
-`User Description?:` I am a College Planning Consulting working mainly with families to help save time, STRESS, and MONEY by education and up to date useful information. 
+`User Description?:` #Casino #Casinos #cryptocurrency #dogearmy #Dogecoins #bitcoin #crypto #fintech #blockchain #NFT #NFTs #DLT #distributedledger #NFTart #NFTartist #NFTmarket 
  
-`Followers?: `0 
+`Followers?: `18 
  
-`Following?:` 0 
+`Following?:` 211 
  
-`User URL?:` None 
+`User URL?:` https://t.co/uS5ZHdMkKn 
  
-`Location:`  
+`Location:` Chaintreaux, France 
  
-`Number of tweets extracted`  : 17 
+`Number of tweets extracted`  : 74 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1392510673075146752/Sk9bRfxB_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1392170353900900357/knlLCbst_normal.jpg 
  
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@AGACOLLEGEPREP** 8 , **SCIENCE** 6 , **TECHNOLOGY** 6 , **[VIDEO]** 6 , **STEMED** 5 , **MIT** 5 , **STEMEDUCATION** 5 , **STEM** 4 , **GEORGIA** 3 , **2021** 3 , **GEORGIATECH** 3 , **TECH** 2 , **PHYSICS** 2 , **INSTITUTE** 2 , **CALTECH** 2 , **ENGINEERING** 2 , **@AGAC…** 2 , **HEALTH** 2 , **1** 2 , **INTERSTELLAR** 2 , 
- 
-## What this user tweeted
- 
-Colonial Pipeline attack reminds us of our critical infrastructure’s vulnerabilities #Engineering #STEM #@AGAColleg… https://t.co/NMmWZ5vpFu
- 
-# Delaneyn9iUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392686560529850368/vH1i4UNk_normal.jpg)
- 
-`User ScreenName:` Delaneyn9i 
- 
-`User chosen Name:` Delaney Derek 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 03:21:27 +0000 2021 
- 
-`User Description?:` If I was a writer I’d have a better Instagram bio quot 
- 
-`Followers?: `1 
- 
-`Following?:` 28 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392686560529850368/vH1i4UNk_normal.jpg 
- 
-`Number of tweets excluding replies:` 21 
+`Number of tweets excluding replies:` 74 
  
 
  
@@ -1033,362 +977,15 @@ Colonial Pipeline attack reminds us of our critical infrastructure’s vulnerabi
  
 ## User Top tweeted words 
  
-**PEOPLE** 3 , **🔴** 3 , **15+** 2 , **LAST** 2 , **GAMES** 2 , **A…RT** 2 , **ENOUGH** 2 , **THING** 2 , **WEEK** 2 , **👉** 2 , **@TEXASMONTHLY** 2 , **PTS** 2 , **REB** 2 , **AST** 2 , **RT** 1 , **@NBAHISTORY:** 1 , **RUSSELL** 1 , **WESTBROOK** 1 , **RECORDED** 1 , **ASSISTS** 1 , 
+**COINCIDENTALLY** 35 , **@JJDOMAINS:** 30 , **CURRENTLY** 27 , **DOMAIN** 23 , **NAME** 21 , **SALE** 20 , **VIA** 18 , **PAY** 17 , **12** 16 , **AVAILABLE** 16 , **INTEREST** 15 , **FREE** 15 , **BLOCKCHAIN** 12 , **INSTALLMENTS** 11 , **@TOKENBOOTCAMP:** 6 , **CASINO** 5 , **@VIRTUALETHERNET:** 5 , **CRYPTO** 5 , **BITCOIN** 5 , **NFTS** 5 , 
  
 ## What this user tweeted
  
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# Isaiahzv4lUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Isaiahzv4l 
- 
-`User chosen Name:` Isaiah Sabrina 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 02:27:16 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 21 
- 
+RT @JJdomains: #IoT is critical to #enterprise #DigitalTransformation, #Omdia says
 
- 
+ https://t.co/sCpeJE8biI via @VentureBeat
 
- 
-## User Top tweeted words 
- 
-**GAMES** 3 , **🔴** 3 , **PTS** 3 , **REB** 3 , **RT** 2 , **@RAPSHEET:** 2 , **BEST** 2 , **@SPORTSCENTER:** 2 , **AST** 2 , **BITCOIN** 2 , **CRAZY** 2 , **AFTER** 2 , **KNICKS** 2 , **FIRST** 2 , **(VIA** 2 , **PEOPLE** 2 , **GOING** 2 , **@BARSTOOLSPORTS:** 2 , **TIME** 2 , **LIVE** 2 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# JP26520693USER INFO
-![image](http://pbs.twimg.com/profile_images/1392669611573850116/2D4Jqt2p_normal.jpg)
- 
-`User ScreenName:` JP26520693 
- 
-`User chosen Name:` JP 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 02:32:15 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392669611573850116/2D4Jqt2p_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NANO** 6 , **@ELONMUSK** 5 , **$NANO** 4 , **@MIRA_HURLEY:** 3 , **ELON** 2 , **@NANO:** 2 , **CURRENCY** 2 , **WORLD** 2 , **@MIRA_HURLEY** 2 , **RT** 1 , **@HODGETWINS:** 1 , **DESERVES** 1 , **ATTENTION** 1 , **@NANO** 1 , **ECOFRIENDLY** 1 , **FAST** 1 , **FEELESS!@LUWIREP** 1 , **@DOMSCHIENER** 1 , **@CZ_BINANCE** 1 , **NANO!RT** 1 , 
- 
-## What this user tweeted
- 
-RT @sands_waylan: @mira_hurley @elonmusk $NANO vulnerabilities will be solved. Nano is the crypto currency of the future. Zero fees, instan…
- 
-# DesireefdsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392661224865812480/r1gTXU7__normal.jpg)
- 
-`User ScreenName:` Desireefds 
- 
-`User chosen Name:` Desiree Adonis 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 01:38:28 +0000 2021 
- 
-`User Description?:` Love without limits 
- 
-`Followers?: `2 
- 
-`Following?:` 30 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392661224865812480/r1gTXU7__normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LIVE** 4 , **@THEONION:** 3 , **@TIKTOK_US:** 2 , **@NBA:** 2 , **WEST** 2 , **CREDIT** 2 , **VACCINE** 2 , **🏀** 2 , **RT** 1 , **FUN** 1 , **KITCHEN** 1 , **TASTY** 1 , **RECIPES** 1 , **FLAVORFUL** 1 , **TIPS** 1 , **TIKTOK** 1 , **DOWNLOAD** 1 , **NOW!** 1 , **😋RT** 1 , **HABITS** 1 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# PinchevskyToddUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` PinchevskyTodd 
- 
-`User chosen Name:` Todd Pinchevsky 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri May 07 01:38:36 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 57 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TESLAOWNERSEBAY** 1 , **@ELONMUSK** 1 , **@AUSTINTESLACLUB** 1 , **@TESLACHILLMODE** 1 , **@CODINGMARK** 1 , **@BOTOFDOGECOIN** 1 , **@DOGECOINRISE** 1 , **@DOGECOIN…** 1 , **HTTPS://TCO/IWDTXTQZCT@THEONION** 1 , **MUCH** 1 , **PAY** 1 , **DOLLAR?RT** 1 , **@THEONION:** 1 , **BITCOIN** 1 , **PLUNGE** 1 , **REVEALS** 1 , **POSSIBLE** 1 , **VULNERABILITIES** 1 , **CRAZY** 1 , **IMAGINARY** 1 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# Ellisonsh9rbUSER INFO
-![image](http://pbs.twimg.com/profile_images/1392654026873917441/c0WqKQs9_normal.jpg)
- 
-`User ScreenName:` Ellisonsh9rb 
- 
-`User chosen Name:` Ellison Ernesto 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 01:10:16 +0000 2021 
- 
-`User Description?:` I’m cool but summer made me hot 
- 
-`Followers?: `0 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 25 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392654026873917441/c0WqKQs9_normal.jpg 
- 
-`Number of tweets excluding replies:` 25 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ADAMSCHEFTER:** 3 , **GOT** 3 , **PER** 2 , **FINALLY** 2 , **@SPORTSCENTER:** 2 , **12** 2 , **2021** 2 , **CREDIT** 2 , **🚨** 2 , **2** 2 , **@POTUS:** 2 , **VACCINE** 2 , **BEYOND** 2 , **NEW** 2 , **APP** 2 , **@NBA:** 2 , **@THEONION:** 2 , **RT** 1 , **@SACRAMENTOKINGS:** 1 , **KINGS** 1 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# Aniyahu9orUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Aniyahu9or 
- 
-`User chosen Name:` Aniyah Anabel 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 01:09:34 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 30 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 21 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ALCOHOL** 5 , **TO-GO** 4 , **TEXAS** 4 , **AUSTIN** 3 , **DAY** 2 , **@KVUE:** 2 , **@ESPN:** 2 , **WEEK** 2 , **🍿** 2 , **@SPORTSCENTER:** 2 , **OFFICIALLY** 2 , **@THEONION:** 2 , **RT** 1 , **@MIKELAHOUD:** 1 , **NOTHING** 1 , **LITTLE** 1 , **@AUSTINFC** 1 , **TRAINING** 1 , **START** 1 , **SHOUT** 1 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# Rayanyw84USER INFO
-![image](http://pbs.twimg.com/profile_images/1392652606321827841/We1AQU7o_normal.jpg)
- 
-`User ScreenName:` Rayanyw84 
- 
-`User chosen Name:` Rayan Xzavier 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 01:04:40 +0000 2021 
- 
-`User Description?:` I’m not the jealous type, but whats mine is MINE 
- 
-`Followers?: `0 
- 
-`Following?:` 30 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392652606321827841/We1AQU7o_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AFTER** 3 , **SCHOOL** 2 , **@NEWYORKER:** 2 , **10** 2 , **3** 2 , **@CNN:** 2 , **US** 2 , **WORK** 2 , **GO** 2 , **@NBA:** 2 , **في** 2 , **🚨** 2 , **NIGHT** 2 , **INTERNET** 2 , **TRUEBILL** 2 , **CORGI** 2 , **RT** 1 , **@HIREPATHS:** 1 , **HEARD** 1 , **ACRONYM** 1 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# Alonsoy453USER INFO
-![image](http://pbs.twimg.com/profile_images/1392650409240678401/QPrx7GWl_normal.jpg)
- 
-`User ScreenName:` Alonsoy453 
- 
-`User chosen Name:` Alonso Shayla 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 13 00:52:52 +0000 2021 
- 
-`User Description?:` Why don’t some couples go to the gym? Because some relationships don’t work out 
- 
-`Followers?: `0 
- 
-`Following?:` 21 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 30 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1392650409240678401/QPrx7GWl_normal.jpg 
- 
-`Number of tweets excluding replies:` 30 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEONION:** 4 , **@THEECONOMIST:** 3 , **🧊** 3 , **2021** 3 , **@BLEACHERREPORT:** 3 , **WEEK** 3 , **@BRGRIDIRON** 3 , **YEAR** 2 , **SIGNED** 2 , **COMEDY** 2 , **HT…RT** 2 , **MAKE** 2 , **SCHEDULE** 2 , **📺:** 2 , **PM** 2 , **@ADAMSCHEFTER:** 2 , **ALCOHOL** 2 , **GO** 2 , **LAW** 2 , **TEXAS** 2 , 
- 
-## What this user tweeted
- 
-RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
- 
-# boundlessmiseryUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` boundlessmisery 
- 
-`User chosen Name:` Boundlessmisery 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 12 22:37:54 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK** 2 , **$NANO** 2 , **NANO** 2 , **RT** 1 , **@SANDS_WAYLAN:** 1 , **@MIRA_HURLEY** 1 , **VULNERABILITIES** 1 , **SOLVED** 1 , **CRYPTO** 1 , **CURRENCY** 1 , **FUTURE** 1 , **ZERO** 1 , **FEES** 1 , **INSTAN…RT** 1 , **@MIRA_HURLEY:** 1 , **ELON** 1 , **PLEASE** 1 , **LOOK** 1 , **USES** 1 , **LITERALLY** 1 , 
- 
-## What this user tweeted
- 
-RT @sands_waylan: @mira_hurley @elonmusk $NANO vulnerabilities will be solved. Nano is the crypto currency of the future. Zero fees, instan…
+Coincidental…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
