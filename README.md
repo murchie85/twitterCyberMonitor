@@ -548,7 +548,247 @@ SCADA Hacking: Creating a Denial of Service (DoS) to a SCADA Modbus site #scada 
  
 ## User Top tweeted words 
  
-**WEED** 56 , **SHIT** 49 , **BILLETS** 48 , **SNAP:** 47 , **COKE** 46 , **PV** 42 , **:** 42 , **HTTPS://TCO/2DSTZ7PVRZ** 32 , **HTTPS://TCO/NP96NQEEER** 24 , **FAUX** 21 , **POKEMON** 15 , **USAXOOM…** 14 , **TELEGRAM** 12 , **:@BRAYANSCOOT20** 12 , **DIJON** 12 , **CITATION…** 11 , **BUYTRUSTPILOTREVIEWS** 9 ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  **MANY** 1 , **THINGS** 1 , **NEED** 1 , **WATCH** 1 , **SMART** 1 , **CONTRACTS** 1 , **LITTLE** 1 , **SCARY** 1 , **FIND** 1 , 
+**WEED** 56 , **SHIT** 49 , **BILLETS** 48 , **SNAP:** 47 , **COKE** 46 , **PV** 42 , **:** 42 , **HTTPS://TCO/2DSTZ7PVRZ** 32 , **HTTPS://TCO/NP96NQEEER** 24 , **FAUX** 21 , **POKEMON** 15 , **USAXOOM…** 14 , **TELEGRAM** 12 , **:@BRAYANSCOOT20** 12 , **DIJON** 12 , **CITATION…** 11 , **BUYTRUSTPILOTREVIEWS** 9 , **OXIDRONE74** 8 , **URBEX** 8 , **RAPIDE** 8 , 
+ 
+## What this user tweeted
+ 
+faux billets  weed coke shit  pv : snap: https://t.co/2dstz7PVRz.  
+#BuyTrustwilotReviews
+#pokemon #usaxoom… https://t.co/CVnhSvQZz7faux billets  weed coke shit  pv : snap: https://t.co/2dstz7PVRz.  
+#BuyTrustwilotReviews
+#pokemon #usaxoom… https://t.co/V8DHtWP7erfaux billets  weed coke shit  pv : snap: https://t.co/2dstz7PVRz.  
+#BuyTrustwilotReviews
+#pokemon #usaxoom… https://t.co/6ADg99cFnYfaux billets  weed coke shit  pv : snap: https://t.co/2dstz7PVRz.  
+#BuyTrustwilotReviews
+#pokemon #usaxoom… https://t.co/VF8crjDZVU
+ 
+# Damonlw2USER INFO
+![image](http://pbs.twimg.com/profile_images/1393710437594710026/jyTSdMw0_normal.jpg)
+ 
+`User ScreenName:` Damonlw2 
+ 
+`User chosen Name:` Damon Faith 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 15 22:48:58 +0000 2021 
+ 
+`User Description?:` A meaningful silence is always better than a meaningless word 
+ 
+`Followers?: `4 
+ 
+`Following?:` 37 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 95 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1393710437594710026/jyTSdMw0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 95 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 16 , **DIE** 15 , **LE** 11 , **LES** 11 , **JE** 10 , **LA** 10 , **UN** 9 , **EN** 8 , **À** 8 , **SUR** 8 , **DER** 8 , **POUR** 7 , **DES** 7 , **@NYTIMES:** 6 , **@CRYPTOCOM:** 6 , **@WELT:** 6 , **IST** 6 , **EINE** 5 , **NEW** 5 , **UND** 5 , 
+ 
+## What this user tweeted
+ 
+RT @Swisscom_B2B: Cybersecurity is changing: responding to new attack methods, attack areas and compliance requirements. #cybersecurity #tr…
+ 
+# antoine_brahamUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394271281671987202/YcDvIcAa_normal.jpg)
+ 
+`User ScreenName:` antoine_braham 
+ 
+`User chosen Name:` Antoine Braham 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 17 12:38:24 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 48 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394271281671987202/YcDvIcAa_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@JAIMETWI_:** 1 , **HTTPS://TCO/FPSWYVJ81BRT** 1 , **@THEHACKERSNEWS:** 1 , **RESEARCHERS** 1 , **DEMONSTRATED** 1 , **ATTACKERS** 1 , **COULD** 1 , **UPLOAD** 1 , **DATA** 1 , **NON-INTERNET-CONNECTED** 1 , **DEVICES** 1 , **TAKING** 1 , **ADVANTAGE** 1 , **THE…«** 1 , **MOON** 1 , **»✅** 1 , **DOGECOIN** 1 , **CRYPTO** 1 , **💸💸** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: Researchers demonstrated how attackers could upload data from non-internet-connected devices by taking advantage of the…
+ 
+# FoladWilsonUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394078580406210562/T8fEm7HH_normal.jpg)
+ 
+`User ScreenName:` FoladWilson 
+ 
+`User chosen Name:` Wilson Folad 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 16 23:52:41 +0000 2021 
+ 
+`User Description?:` #Twitter philanthropy# 
+ 
+`Followers?: `8 
+ 
+`Following?:` 141 
+ 
+`User URL?:` None 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 95 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394078580406210562/T8fEm7HH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 95 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@WHITEHOUSE:** 81 , **PRESIDENT** 21 , **AMERICAN** 21 , **PLAN** 18 , **JOBS** 17 , **SECRETARY** 13 , **BIDEN** 12 , **TUNE** 11 , **AMERICANS** 10 , **COVID-19** 9 , **BRIEFING** 9 , **PRESS** 9 , **JEN** 9 , **PSAKI** 9 , **VACCINATED** 8 , **@POTUS:** 8 , **REMARKS** 8 , **HEALTH** 7 , **WE’RE** 7 , **FAMILIES** 7 , 
+ 
+## What this user tweeted
+ 
+RT @WhiteHouse: The Colonial Pipeline incident is a sobering reminder that our nation faces sophisticated cyber threats.
+ 
+Today, President…
+ 
+# abhishekbarai51USER INFO
+![image](http://pbs.twimg.com/profile_images/1394340091900829696/ivirW2lV_normal.png)
+ 
+`User ScreenName:` abhishekbarai51 
+ 
+`User chosen Name:` Python Bot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 15 16:54:21 +0000 2021 
+ 
+`User Description?:` I am a Bot developed by @abhishekbarai01, to retweet #100DaysofCode or #Python or #ArtificialIntelligence and like profile.
+
+GitHub: https://t.co/vBZJfS6rcF… 
+ 
+`Followers?: `6 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394340091900829696/ivirW2lV_normal.png 
+ 
+`Number of tweets excluding replies:` 320 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ARTIFICIAL** 125 , **INTELLIGENCE** 117 , **READ** 101 , **HERE:** 84 , **@IAINLJBROWN:** 78 , **@BENJAMINP3TERS:** 62 , **AI** 32 , **100DAYSOFCODE** 20 , **NEWS** 13 , **ANALYTICS** 13 , **MARKET** 11 , **NEW** 10 , **LEARNING** 9 , **INSIGHT** 9 , **MACHINE** 8 , **ARTIFICIALINTELLIGENCE** 8 , **PYTHON** 8 , **USING** 8 , **GLOBAL** 8 , **HUMAN** 8 , 
+ 
+## What this user tweeted
+ 
+RT @Analytics_699: IoT #Cybersecurity Law to enforce Edge device security ▶️
+#Analytics #MachineLearning #AI #Rstats #Python #Linux #Flutte…RT @hoganhostng: what you need?? 
+
+shared hosting or vps/dedicated server
+
+#hostingprovider #WordPressDevelopment #hoganhost #Python #rstat…RT @ingliguori: Difference Between Strong and Weak #AI https://t.co/Z9k11XMkjj via @ingliguori #ArtificialIntelligence #Machinelearning #10…RT @oumglobal: 5 stages of #cybersecurity framework
+
+via @MikeQuindazzi @ravikikan @pwc
+
+#IoT #AI #CyberAttack #Malware #Ransomware #BigDat…RT @tahrimakhatun1: Check out my #Gig on Fiverr
+https://t.co/CMSxeQd0zU
+#hclswlobp #nocode #lowcode #javascript #github #nodejs #cybersecur…RT @Eli_Krumova: What is #ComputerVision ❓
+
+Intro lecture series from @Columbia 👇🏽
+https://t.co/1N75C2uSIo
+v/ @SourabhSKatoch
+
+#BigData #An…RT @Eli_Krumova: Top 10 #Python #DataScience Libraries
+👉🏽https://t.co/DVPCSlSsbM
+By @KDnuggets
+
+#BigData #Analytics #MachineLearning #ML #A…
+ 
+# MacPan9USER INFO
+![image](http://pbs.twimg.com/profile_images/1392123766730366976/HQVC4gez_normal.jpg)
+ 
+`User ScreenName:` MacPan9 
+ 
+`User chosen Name:` MacPan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue May 11 14:23:36 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `14 
+ 
+`Following?:` 141 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392123766730366976/HQVC4gez_normal.jpg 
+ 
+`Number of tweets excluding replies:` 315 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NFT** 45 , **@VALISHANAIDOO** 31 , **@JACKSTICKCANDLE** 26 , **5JFDUWAMRT** 25 , **FOLLOW** 24 , **@PIEZO45** 24 , **RETWEET** 24 , **1** 22 , **GIVEAWAY** 21 , **FREE** 18 , **@GARINMORGAN** 17 , **RT** 15 , **AWAY** 14 , **WIN** 13 , **3** 13 , **WAX** 12 , **CHECK** 12 , **DROP** 12 , **@PIEZO45RT** 11 , **TAG** 10 , 
+ 
+## What this user tweeted
+ 
+@CyberCrocz @JackStickCandle Cybercrocz for cybersecurity. I tried 🤣
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                **MANY** 1 , **THINGS** 1 , **NEED** 1 , **WATCH** 1 , **SMART** 1 , **CONTRACTS** 1 , **LITTLE** 1 , **SCARY** 1 , **FIND** 1 , 
  
 ## What this user tweeted
  
