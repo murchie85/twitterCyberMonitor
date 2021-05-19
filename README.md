@@ -823,3 +823,465 @@ Telegram Community: h…
 `Number of tweets extracted`  : 38 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1392527392699084803/q_8ShTiy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 38 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTO** 10 , **1** 9 , **@ZBG_EXCHANGE:** 9 , **@OKEXCHAIN** 8 , **ORANGE** 8 , **PROJECTRT** 7 , **DAILY** 7 , **NEWS** 7 , **ZBG** 6 , **EXCHANGE** 6 , **@ORGNFT:** 5 , **NETWORK** 5 , **ORG** 5 , **MARKET** 5 , **@ANDY__ZBG** 5 , **@ANGRY01BIRDS:** 4 , **TEST** 4 , **OFFICIALLY** 4 , **NEW** 4 , **@ZBG_EXCHANGE** 4 , 
+ 
+## What this user tweeted
+ 
+RT @ORGNFT: #ORG
+
+Orange Smart Contract Audit Report
+
+Good Status
+
+No Vulnerabilities, No Security Risk
+
+Orange #ORG
+
+Telegram Community: h…
+ 
+# Jameson90484139USER INFO
+![image](http://pbs.twimg.com/profile_images/1392527656692764678/uzQ-yndw_normal.jpg)
+ 
+`User ScreenName:` Jameson90484139 
+ 
+`User chosen Name:` Jameson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 10 16:35:05 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392527656692764678/uzQ-yndw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTO** 9 , **ORANGE** 7 , **1** 7 , **@ZBG_EXCHANGE:** 7 , **@OKEXCHAIN** 6 , **DAILY** 6 , **NEWS** 6 , **EXCHANGE** 5 , **ZBG** 5 , **MAY** 5 , **@ORGNFT:** 4 , **NETWORK** 4 , **ORG** 4 , **@ZBG_EXCHANGE** 4 , **MARKET** 4 , **WRAP:** 4 , **@ANDY__ZBG** 4 , **TEST** 3 , **OFFICIALLY** 3 , **@ANGRY01BIRDS:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @ORGNFT: #ORG
+
+Orange Smart Contract Audit Report
+
+Good Status
+
+No Vulnerabilities, No Security Risk
+
+Orange #ORG
+
+Telegram Community: h…
+ 
+# Danish08190752USER INFO
+![image](http://pbs.twimg.com/profile_images/1392527937874718725/YAbizIYr_normal.jpg)
+ 
+`User ScreenName:` Danish08190752 
+ 
+`User chosen Name:` Danish 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 10 13:53:41 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 42 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392527937874718725/YAbizIYr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 42 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTO** 10 , **1** 9 , **@ZBG_EXCHANGE:** 9 , **@OKEXCHAIN** 8 , **ORANGE** 8 , **PROJECTRT** 7 , **DAILY** 7 , **NEWS** 7 , **ZBG** 6 , **@ORGNFT:** 5 , **NETWORK** 5 , **ORG** 5 , **GREAT** 5 , **@ZBG_EXCHANGE** 5 , **MARKET** 5 , **@ANDY__ZBG** 5 , **EXCHANGE** 5 , **NICERT** 4 , **TEST** 4 , **OFFICIALLY** 4 , 
+ 
+## What this user tweeted
+ 
+RT @ORGNFT: #ORG
+
+Orange Smart Contract Audit Report
+
+Good Status
+
+No Vulnerabilities, No Security Risk
+
+Orange #ORG
+
+Telegram Community: h…
+ 
+# Michel73806240USER INFO
+![image](http://pbs.twimg.com/profile_images/1392482068773302278/FJLBUQKU_normal.jpg)
+ 
+`User ScreenName:` Michel73806240 
+ 
+`User chosen Name:` Michel 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 10 13:38:35 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392482068773302278/FJLBUQKU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTO** 10 , **1** 9 , **@ZBG_EXCHANGE:** 9 , **ORANGE** 7 , **DAILY** 7 , **NEWS** 7 , **@OKEXCHAIN** 6 , **ZBG** 6 , **MARKET** 5 , **PROJECTRT** 5 , **EXCHANGE** 5 , **@ORGNFT:** 4 , **ORG** 4 , **NEW** 4 , **@ZBG_EXCHANGE** 4 , **WRAP:** 4 , **@ANDY__ZBG** 4 , **TEST** 3 , **NETWORK** 3 , **OFFICIALLY** 3 , 
+ 
+## What this user tweeted
+ 
+RT @ORGNFT: #ORG
+
+Orange Smart Contract Audit Report
+
+Good Status
+
+No Vulnerabilities, No Security Risk
+
+Orange #ORG
+
+Telegram Community: h…
+ 
+# Jackson97791662USER INFO
+![image](http://pbs.twimg.com/profile_images/1392526889500037124/k8S8RHYI_normal.jpg)
+ 
+`User ScreenName:` Jackson97791662 
+ 
+`User chosen Name:` Jackson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 10 09:13:16 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 39 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392526889500037124/k8S8RHYI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 39 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTO** 10 , **1** 9 , **@ZBG_EXCHANGE:** 9 , **@OKEXCHAIN** 8 , **PROJECTRT** 8 , **ORANGE** 8 , **DAILY** 7 , **NEWS** 7 , **ZBG** 7 , **@ORGNFT:** 5 , **NETWORK** 5 , **ORG** 5 , **@ZBG_EXCHANGE** 5 , **MARKET** 5 , **EXCHANGE** 5 , **TEST** 4 , **OFFICIALLY** 4 , **NEW** 4 , **WRAP:** 4 , **@ANDY__ZBG** 4 , 
+ 
+## What this user tweeted
+ 
+RT @ORGNFT: #ORG
+
+Orange Smart Contract Audit Report
+
+Good Status
+
+No Vulnerabilities, No Security Risk
+
+Orange #ORG
+
+Telegram Community: h…
+ 
+# Ethanwih4cUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392962031146385409/yiX8oXNO_normal.jpg)
+ 
+`User ScreenName:` Ethanwih4c 
+ 
+`User chosen Name:` Ethan Landon 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 13 21:12:03 +0000 2021 
+ 
+`User Description?:` Reality is wrong. The dream is real 
+ 
+`Followers?: `3 
+ 
+`Following?:` 38 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 101 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392962031146385409/yiX8oXNO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 101 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SPORTSCENTER:** 14 , **@POTUS:** 7 , **US** 6 , **@CNN:** 5 , **LAW** 5 , **VACCINATED** 5 , **STATE** 4 , **TEXAS** 4 , **@KXAN_NEWS:** 4 , **👏** 4 , **FULLY** 4 , **INTO** 3 , **COUNTRY** 3 , **GAME** 3 , **MOST** 3 , **THING** 3 , **COULD** 3 , **THANKS** 3 , **@KATYPERRY:** 3 , **OTHER** 3 , 
+ 
+## What this user tweeted
+ 
+RT @TheOnion: Bitcoin Plunge Reveals Possible Vulnerabilities In Crazy Imaginary Internet Money https://t.co/Nrz4jFO0op https://t.co/0oDDbL…
+ 
+# LeisureLexiconUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394390495158226951/JJezd5XU_normal.jpg)
+ 
+`User ScreenName:` LeisureLexicon 
+ 
+`User chosen Name:` Leisure Lexicon 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 17 20:31:23 +0000 2021 
+ 
+`User Description?:` Developing the language required for a new ethic of leisure. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 52 
+ 
+`User URL?:` https://t.co/2t9yr0gxbs 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 80 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394390495158226951/JJezd5XU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 80 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BEING** 6 , **THEN** 6 , **DON'T** 5 , **INTO** 5 , **LEISURE** 5 , **DOES** 4 , **MATTERS** 4 , **THING** 4 , **ANXIETY** 4 , **GOOD** 4 , **T…** 4 , **GOAL** 4 , **YOURSELF** 4 , **MORAL** 4 , **LIFE** 4 , **DIFFERENCE** 3 , **BETWEEN** 3 , **MUCH** 3 , **BOTH** 3 , **@CONCEPTUALJAMES** 3 , 
+ 
+## What this user tweeted
+ 
+Perhaps the most insufferable character flaw, both vile and pathetic, is the desire to insulate oneself from warran… https://t.co/7K6BSjzMnB
+ 
+# TangoWango4USER INFO
+![image](http://pbs.twimg.com/profile_images/1395127987163574283/PgqgUKOn_normal.jpg)
+ 
+`User ScreenName:` TangoWango4 
+ 
+`User chosen Name:` TangoWango 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 16 20:09:32 +0000 2021 
+ 
+`User Description?:` All about the crypto, baby. #BTFD 
+ 
+`Followers?: `2 
+ 
+`Following?:` 78 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 141 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1395127987163574283/PgqgUKOn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 141 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ELON** 9 , **BITCOIN** 8 , **ANY** 7 , **NEED** 5 , **THANK** 5 , **@ELONMUSK** 5 , **TIME** 4 , **AROUND** 4 , **SHAKEPAY** 4 , **THEN** 4 , **DOGS** 4 , **GOING** 4 , **BUY** 4 , **CAN'T** 4 , **STILL** 4 , **PEOPLE** 4 , **NEVER** 4 , **DOGECOIN** 4 , **US** 4 , **@PETERMCCORMACK:** 4 , 
+ 
+## What this user tweeted
+ 
+@cryptostweet @PeterMcCormack It makes bitcoin scripts more scalable, secure and private. In other words, it addres… https://t.co/fxwZaNIOx4
+ 
+# NanoNerd99USER INFO
+![image](http://pbs.twimg.com/profile_images/1393605037574795266/4Mk_ECBF_normal.jpg)
+ 
+`User ScreenName:` NanoNerd99 
+ 
+`User chosen Name:` NanoNerd99 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 15 16:30:00 +0000 2021 
+ 
+`User Description?:` Just your typical $Nano Maximalist ⋰·⋰ https://t.co/ZoEwZpQJuC https://t.co/B37BiVenP9 
+ 
+`Followers?: `2 
+ 
+`Following?:` 37 
+ 
+`User URL?:` https://t.co/yMv3JUL5tG 
+ 
+`Location:` Earth, Milky Way 
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1393605037574795266/4Mk_ECBF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$NANO** 8 , **NANO** 4 , **+** 4 , **REAL** 2 , **$BTC** 2 , **FUTURE** 2 , **@ELONMUSK** 2 , **FEES** 2 , **THANK** 2 , **ARTICLE** 2 , **PM** 1 , **PLEASE?** 1 , **:** 1 , **)@HIDDENCASH** 1 , **MIND** 1 , **ASK** 1 , **SOME** 1 , **QUESTIONS** 1 , **HIDDEN** 1 , **CASH?** 1 , 
+ 
+## What this user tweeted
+ 
+RT @sands_waylan: @mira_hurley @elonmusk $NANO vulnerabilities will be solved. Nano is the crypto currency of the future. Zero fees, instan…
+ 
+# upuannijeanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1392265036756783104/bzZIkwMT_normal.jpg)
+ 
+`User ScreenName:` upuannijean 
+ 
+`User chosen Name:` Jean’s chair 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue May 11 23:44:58 +0000 2021 
+ 
+`User Description?:` brain dump acc 
+ 
+`Followers?: `10 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 125 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1392265036756783104/bzZIkwMT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 125 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NA** 21 , **KO** 19 , **SA** 13 , **AKO** 10 , **KYLO** 10 , **JEAN** 9 , **@KYLOVILLARAZA:** 8 , **I’M** 7 , **YUNG** 7 , **MO** 6 , **REALLY** 6 , **@HIROYUU101** 6 , **PERO** 5 , **MAY** 5 , **TIME** 5 , **SI** 5 , **CHAPTER** 5 , **PA** 5 , **LANG** 4 , **😭** 4 , 
+ 
+## What this user tweeted
+ 
+RT @yourbestbly: We saw how deep the love they have for each other that they are willing to sacrifice everything. We saw their vulnerabilit…
+ 
+# RogrioGarciaRi1USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` RogrioGarciaRi1 
+ 
+`User chosen Name:` Rogério Garcia Ribeiro 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 17 14:56:33 +0000 2021 
+ 
+`User Description?:` Conectado no novo mundo. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ENSURE** 2 , **BUILDING** 1 , **MUCH** 1 , **THAN** 1 , **WORKPLACE** 1 , **SCHNEIDERELECTRIC** 1 , **MISSION** 1 , **O…** 1 , **HTTPS://TCO/KBXF0J8FSDHOW** 1 , **CITIES** 1 , **REMAIN** 1 , **SUSTAINABLE** 1 , **RESILIENT** 1 , **PEOPLE-CENTRIC?** 1 , **@PHILIPPEHK01** 1 , **@WEF'S** 1 , **JEFF** 1 , **MERRITT** 1 , **E…** 1 , **HTTPS://TCO/AEILJIN1Z1KEVIN** 1 , 
+ 
+## What this user tweeted
+ 
+Kevin Brown, points out several alarming vulnerabilities of customer networks, especially at the #Edge. However, al… https://t.co/oo5cjobLWy
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
