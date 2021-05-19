@@ -31,18 +31,18 @@ I, quite literally, hacked so much, for so long, and without en… https://t.co/
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @alexstamos: @geoffbelknap This is probably the worst opinion piece on InfoSec I have ever read in a legit publication, and that’s again… |
-| Extracting Data from Tracking Deviceshttps://t.co/5TSjaaBIQx#InfoSec #CyberSecurity #Tracking |
-| RT @0dayCTF: Spraykatz is able to retrieve credentials on Windows machines &amp; Active Directory.-Repo: https://t.co/GGDMsrDKdX-Credit: @a… |
+| RT @Bitvpn1: 👇The top common questions about #VPN tracing will be discussed in this articlehttps://t.co/dQJybReWWY#netspeed #vpnapp #cyb… |
+| This image was automatically downloaded from https://t.co/T8yNhYPD8D, if this image contains sensitive information… https://t.co/nWgyKs5YM1 |
+| RT @ptracesecurity: Exploit to SYSTEM for CVE-2021-21551  https://t.co/QID3gQeZXF  #Pentesting #Exploit #CVE #CyberSecurity #Infosec https:… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **iotcybersec24** |
 | #2 Most tweeted to  | **AlyssaM_InfoSec** |
-| #3 Most tweeted to  | **TheHackersNews** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 1.42%|
+| #3 Most tweeted to  | **faizalabroni** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 1.8%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -55,19 +55,19 @@ I, quite literally, hacked so much, for so long, and without en… https://t.co/
 | first  | **INFOSEC**  |
 | second  | **DATA**  |
 | third  | **RANSOMWARE** |
-| fourth  | **GLOBAL**  |
+| fourth  | **–**  |
 | fifth  | **MALWARE**  |
 
 
 ## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (66.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @prevailion: Researchers create covert channel over Apple AirTag network: "In certain situations it could be used to exfiltrate data fro… |
+|RT @Paula_Piccard: Ransomware attacks are only getting worse, #DarkSide group "quits," but that may just be a strategy https://t.co/xw2LW… |
 
 ### MOST RETWEETED 
 
@@ -76,6 +76,254 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
 | So I finally sorted out what happened to my brain.I, quite literally, hacked so much, for so long, and without en… https://t.co/awNsYc1AeT |
 
 # Potential Fake Accounts
+ 
+# grzl3yUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394719088082132998/n6lPM03t_normal.jpg)
+ 
+`User ScreenName:` grzl3y 
+ 
+`User chosen Name:` GRZL3Y_B3@R 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 17 21:32:03 +0000 2021 
+ 
+`User Description?:` Cyber Security - InfoSec - Ethical Hacking Enthusiast 
+ 
+`Followers?: `3 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394719088082132998/n6lPM03t_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INFOSEC** 2 , **NEW** 2 , **VIA** 2 , **RT** 1 , **@TDELALAMA:** 1 , **FBI** 1 , **BREAKING** 1 , **INTO** 1 , **CORPORATE** 1 , **COMPUTERS** 1 , **REMOVE** 1 , **MALICIOUS** 1 , **CODE** 1 , **REPORT** 1 , **@SALON:** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO…PAKISTAN-LINKED** 1 , **HACKERS** 1 , **ADDED** 1 , **WINDOWS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @tdelalama: The FBI is breaking into corporate computers to remove malicious code, report @Salon: | #cybersecurity #InfoSec https://t.co…RT @cdchris12: I just received an email from a company with a photo of another person's ID and credit card attached. I don't even know what…RT @InfoSecComm: New Write-up on InfoSec Write-ups publication : "2FA Bypass via Forced Browsing" #bugbounty #bugbountywriteup #bugbountyti…
+ 
+# InfosecOldUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394810066767732738/OmhbZWnv_normal.jpg)
+ 
+`User ScreenName:` InfosecOld 
+ 
+`User chosen Name:` OldManYellsatInfosec 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 19 00:14:43 +0000 2021 
+ 
+`User Description?:` Old white man information security practicioner. Sock puppet account for the lolz. Back in the day we were cool. Opinions are stolen from others and not mine. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 136 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394810066767732738/OmhbZWnv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BLOW** 2 , **USED** 2 , **LOVE** 1 , **DUDE** 1 , **WROTE** 1 , **TRIVIALLY** 1 , **BYPASSABLE** 1 , **HOST** 1 , **BASED** 1 , **IDS** 1 , **THINKS** 1 , **HACKER** 1 , **TWITTER** 1 , **BRAND…** 1 , **HTTPS://TCO/SRCAKMDR2ZTHAT** 1 , **BEST** 1 , **PRACTICES** 1 , **ARTICLE** 1 , **FUCKING** 1 , **STUPID** 1 , 
+ 
+## What this user tweeted
+ 
+Young people in Infosec today are soft. You aren’t allowed to yell at them anymore and none of them will ever know… https://t.co/m8pjXf6RD8
+ 
+# AttacktheSocUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394856834452926465/zVyW9yRx_normal.jpg)
+ 
+`User ScreenName:` AttacktheSoc 
+ 
+`User chosen Name:` Attack the SOC 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 19 03:25:38 +0000 2021 
+ 
+`User Description?:` An infosec show detailing how an intruder may attack your environment and what you can do to stop it. 
+!pre-prod phase! Episodes to come (Scenarios/Guests/etc) 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/EJtIdHZ1NF 
+ 
+`Location:` stuck in a vBB 
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394856834452926465/zVyW9yRx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I'M** 2 , **HOPING** 2 , **TEAM** 2 , ***ATTENTIVE** 1 , **ENGAGING** 1 , **LISTENERS** 1 , **PROBABLY** 1 , **MOST** 1 , **IMPORTANT** 1 , **PART** 1 , **WHOLE** 1 , **THING** 1 , **LISTENING** 1 , **YOUBASICALLY** 1 , **SHOW** 1 , **GOES** 1 , **LITTLE** 1 , **SOMETHING** 1 , **""A** 1 , **RED** 1 , 
+ 
+## What this user tweeted
+ 
+Excited to get this project off the ground! I ain't no infosec expert/pro/senior so i'm hoping to get some amazing… https://t.co/33mi5iB3Ca
+ 
+# PlatinumLoyaltyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394846281936289793/HLUK6mWo_normal.jpg)
+ 
+`User ScreenName:` PlatinumLoyalty 
+ 
+`User chosen Name:` PlatinumLoyalty.com 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 19 02:40:09 +0000 2021 
+ 
+`User Description?:` #bitcoin #cryptoexchange #platinum #loyaltyprogram #loyaltyprograms #loyaltymarketing #crypto #NFT #NFTs #SiliconValley #nftart #NFTartist #travel #tourism #IoT 
+ 
+`Followers?: `16 
+ 
+`Following?:` 116 
+ 
+`User URL?:` https://t.co/G2cGQm3mWe 
+ 
+`Location:` Travel, Crypto, Fintech 
+ 
+`Number of tweets extracted`  : 50 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394846281936289793/HLUK6mWo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 50 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COINCIDENTALLY** 24 , **CURRENTLY** 19 , **PAY** 19 , **12** 19 , **DOMAIN** 18 , **NAME** 18 , **SALE** 18 , **INTEREST** 18 , **FREE** 18 , **INSTALLMENTS** 17 , **AVAILABLE** 15 , **@JJDOMAINS:** 13 , **VIA** 6 , **@BANKINGMOBILITY:** 5 , **@SHOPPINGSURVEYS:** 4 , **@SELFIEPAYMENTS:** 4 , **2021** 3 , **@DIGITALDUTYFREE:** 3 , **DUTYFREE** 3 , **AVIATION** 3 , 
+ 
+## What this user tweeted
+ 
+RT @JJdomains: ✅Redelete*com✅
+Domain name for Sale
+Pay 12 interest free installments
+
+#email #emails #cybersecurity #cybersec #infosec #dat…
+ 
+# hakctehplanetUSER INFO
+![image](http://pbs.twimg.com/profile_images/1393614623371239426/J2290x6O_normal.jpg)
+ 
+`User ScreenName:` hakctehplanet 
+ 
+`User chosen Name:` robert paulson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 15 17:03:16 +0000 2021 
+ 
+`User Description?:` Eat. 
+Hack. 
+Sleep. 
+Hack. 
+Drink. 
+Hack.
+Drink. 
+Hack. 
+Smoke. 
+Hack. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 27 
+ 
+`User URL?:` None 
+ 
+`Location:` 169.254.0.0/16 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1393614623371239426/J2290x6O_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**-&GT;** 2 , **BEING** 2 , **RT** 1 , **@MALWARETECHBLOG:** 1 , **@LIKETHECOINS** 1 , **@ALLENGWINN** 1 , **HIRE** 1 , **CISO** 1 , **DON'T** 1 , **LISTEN** 1 , **CISO'S** 1 , **ADVICE** 1 , **YEET** 1 , **INTO** 1 , **SEA** 1 , **SOON** 1 , **BREACH** 1 , **OCCUR…@FOONE** 1 , **THAT'S** 1 , **LOT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @MalwareTechBlog: @likethecoins @allengwinn Hire CISO -&gt; Don't listen to CISO's advice -&gt; yeet them into the sea as soon as breach occur…
+ 
+# SwiftHcker1USER INFO
+![image](http://pbs.twimg.com/profile_images/1394812550659944450/JApNAVM8_normal.jpg)
+ 
+`User ScreenName:` SwiftHcker1 
+ 
+`User chosen Name:` James_matt 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 19 00:29:27 +0000 2021 
+ 
+`User Description?:` You just got hacked👽.... 
+ 
+`Followers?: `0 
+ 
+`Following?:` 110 
+ 
+`User URL?:` None 
+ 
+`Location:` London, England 
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394812550659944450/JApNAVM8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RECOVER** 7 , **@INSTAGRAM** 5 , **@JESSIAMUSIC** 5 , **HELLO** 5 , **HIGHLY** 5 , **RECOMMEND** 5 , **@CLOUDLYTEHACK** 5 , **HELP** 5 , **ACCOUNT** 2 , **HELPED** 2 , **@TWITTERSUPPORT** 2 , **HTTPS://TCO/2CEYBUDSCW** 2 , **INSTAGRAM** 2 , **@THEHACKERSNEWS:** 2 , **@RAYSSALINES** 1 , **ACCOUNT…** 1 , **HTTPS://TCO/1SLMUUL3V6@SEMENTESTELAR** 1 , **ACCOU…** 1 , **HTTPS://TCO/D0LEIWAJW3@SOPHIEEWE7** 1 , **@FACEBOOK** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: Magecart cybercriminals are now hiding malicious PHP shell backdoors in the website's favicon to maintain remote access…RT @TheHackersNews: DarkSide, the cybercriminal group behind the recent #ransomware attack on a US pipeline company, has gone underground a…
  
 # PenroseAIUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1391770569012621314/xm5BjDOG_normal.jpg)
@@ -323,90 +571,6 @@ RT @ingliguori: Framework for user preference-aware #fakenews detection
  
 RT @johnjhacking: Accidentally called out half of the hackers out there, or more.
 #infosec https://t.co/slXykK4W14
- 
-# grzl3yUSER INFO
-![image](http://pbs.twimg.com/profile_images/1394719088082132998/n6lPM03t_normal.jpg)
- 
-`User ScreenName:` grzl3y 
- 
-`User chosen Name:` GRZL3Y_B3@R 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 17 21:32:03 +0000 2021 
- 
-`User Description?:` Cyber Security - InfoSec - Ethical Hacking Enthusiast 
- 
-`Followers?: `3 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1394719088082132998/n6lPM03t_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**INFOSEC** 2 , **NEW** 2 , **VIA** 2 , **RT** 1 , **@TDELALAMA:** 1 , **FBI** 1 , **BREAKING** 1 , **INTO** 1 , **CORPORATE** 1 , **COMPUTERS** 1 , **REMOVE** 1 , **MALICIOUS** 1 , **CODE** 1 , **REPORT** 1 , **@SALON:** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO…PAKISTAN-LINKED** 1 , **HACKERS** 1 , **ADDED** 1 , **WINDOWS** 1 , 
- 
-## What this user tweeted
- 
-RT @cdchris12: I just received an email from a company with a photo of another person's ID and credit card attached. I don't even know what…RT @InfoSecComm: New Write-up on InfoSec Write-ups publication : "2FA Bypass via Forced Browsing" #bugbounty #bugbountywriteup #bugbountyti…
- 
-# eax_gwenhaelUSER INFO
-![image](http://pbs.twimg.com/profile_images/1394682423019982849/SpgZeRLG_normal.jpg)
- 
-`User ScreenName:` eax_gwenhael 
- 
-`User chosen Name:` Gwenhael 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue May 18 15:52:35 +0000 2021 
- 
-`User Description?:` 👨‍💼 CyberFate CEO 
-🐶 Doggo dad
-🏋️‍♂️ Vegetarian sportman 
- 
-`Followers?: `4 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:` Fontenay-en-parisis 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1394682423019982849/SpgZeRLG_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@0DAYCTF:** 1 , **SPRAYKATZ** 1 , **ABLE** 1 , **RETRIEVE** 1 , **CREDENTIALS** 1 , **WINDOWS** 1 , **MACHINES** 1 , **ACTIVE** 1 , **DIRECTORY** 1 , **REPO:** 1 , **HTTPS://TCO/GGDMSRDKDX** 1 , **CREDIT:** 1 , **@A…** 1 , 
- 
-## What this user tweeted
- 
-RT @0dayCTF: Spraykatz is able to retrieve credentials on Windows machines &amp; Active Directory.
--
-Repo: https://t.co/GGDMsrDKdX
--
-Credit: @a…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
