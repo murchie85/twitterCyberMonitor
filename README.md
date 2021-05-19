@@ -278,4 +278,140 @@ RT @ingliguori: Framework for user preference-aware #fakenews detection
  
 ## User Top tweeted words 
  
-**HAMAS** 3 , **BUG** 2 , **TOO** 2 , **WING** 2 , **AGAINST** 2 , **ROCKET** 2 , **@ALYSSAM_INFOSEC** 1 , **UNLIKE** 1 , **APPLE** 1 , **WHICH** 1 , ***MIGHT*** 1 , **PAY** 1 , **NICE@ALYSSAM_INFOSEC** 1 , **UNCOOPERATIVE** 1 , **ORGS** 1 , **PAID** 1 , **QUALIFIES** 1 , 
+**HAMAS** 3 , **BUG** 2 , **TOO** 2 , **WING** 2 , **AGAINST** 2 , **ROCKET** 2 , **@ALYSSAM_INFOSEC** 1 , **UNLIKE** 1 , **APPLE** 1 , **WHICH** 1 , ***MIGHT*** 1 , **PAY** 1 , **NICE@ALYSSAM_INFOSEC** 1 , **UNCOOPERATIVE** 1 , **ORGS** 1 , **PAID** 1 , **QUALIFIES** 1 , **PERIODAT** 1 , **LEAST** 1 , **POWER** 1 , 
+ 
+## What this user tweeted
+ 
+@AlyssaM_InfoSec Unlike Apple which *might* pay for a bug if they want to be nice.@AlyssaM_InfoSec Uncooperative orgs - I should be paid for my bug if it qualifies. Period.
+ 
+# JiyuXOUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394693141379309572/1nmGm_fm_normal.jpg)
+ 
+`User ScreenName:` JiyuXO 
+ 
+`User chosen Name:` JiyuXO 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue May 18 16:08:35 +0000 2021 
+ 
+`User Description?:` Cyber security engineer 
+ 
+`Followers?: `2 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394693141379309572/1nmGm_fm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SAME** 3 , **CAN’T** 2 , **AFFORD** 2 , **@JEREMIAHG:** 2 , **I’M** 2 , **PERSON** 2 , **PEOPLE** 2 , **RT** 1 , **@SIGI714:** 1 , **@J_OPDENAKKER** 1 , **HTTPS://TCO/UHEJ3NRWOFRT** 1 , **@JOHNJHACKING:** 1 , **ACCIDENTALLY** 1 , **CALLED** 1 , **HALF** 1 , **HACKERS** 1 , **INFOSEC** 1 , **HTTPS://TCO/SLXYKK4W14@GCLULEY** 1 , **HOPE** 1 , **IPAD** 1 , 
+ 
+## What this user tweeted
+ 
+RT @johnjhacking: Accidentally called out half of the hackers out there, or more.
+#infosec https://t.co/slXykK4W14
+ 
+# grzl3yUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394719088082132998/n6lPM03t_normal.jpg)
+ 
+`User ScreenName:` grzl3y 
+ 
+`User chosen Name:` GRZL3Y_B3@R 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 17 21:32:03 +0000 2021 
+ 
+`User Description?:` Cyber Security - InfoSec - Ethical Hacking Enthusiast 
+ 
+`Followers?: `3 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394719088082132998/n6lPM03t_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INFOSEC** 2 , **NEW** 2 , **VIA** 2 , **RT** 1 , **@TDELALAMA:** 1 , **FBI** 1 , **BREAKING** 1 , **INTO** 1 , **CORPORATE** 1 , **COMPUTERS** 1 , **REMOVE** 1 , **MALICIOUS** 1 , **CODE** 1 , **REPORT** 1 , **@SALON:** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO…PAKISTAN-LINKED** 1 , **HACKERS** 1 , **ADDED** 1 , **WINDOWS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @cdchris12: I just received an email from a company with a photo of another person's ID and credit card attached. I don't even know what…RT @InfoSecComm: New Write-up on InfoSec Write-ups publication : "2FA Bypass via Forced Browsing" #bugbounty #bugbountywriteup #bugbountyti…
+ 
+# eax_gwenhaelUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394682423019982849/SpgZeRLG_normal.jpg)
+ 
+`User ScreenName:` eax_gwenhael 
+ 
+`User chosen Name:` Gwenhael 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue May 18 15:52:35 +0000 2021 
+ 
+`User Description?:` 👨‍💼 CyberFate CEO 
+🐶 Doggo dad
+🏋️‍♂️ Vegetarian sportman 
+ 
+`Followers?: `4 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:` Fontenay-en-parisis 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394682423019982849/SpgZeRLG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@0DAYCTF:** 1 , **SPRAYKATZ** 1 , **ABLE** 1 , **RETRIEVE** 1 , **CREDENTIALS** 1 , **WINDOWS** 1 , **MACHINES** 1 , **ACTIVE** 1 , **DIRECTORY** 1 , **REPO:** 1 , **HTTPS://TCO/GGDMSRDKDX** 1 , **CREDIT:** 1 , **@A…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @0dayCTF: Spraykatz is able to retrieve credentials on Windows machines &amp; Active Directory.
+-
+Repo: https://t.co/GGDMsrDKdX
+-
+Credit: @a…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
