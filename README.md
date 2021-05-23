@@ -567,92 +567,23 @@ RT @gopalsamy_ru: helpful way to find vulnerabilities from a wordpress target wh
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` 
  
-`Number of tweets extracted`  : 200 
+`User Description?:` Blockchain entrepreneur. Economic Fractal 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Followers?: `13 
  
-`Number of tweets excluding replies:` 202 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DRRPNISHANK** 105 , **CANCELBOARDEXAMS** 65 , **STUDENTS** 41 , **CANCEL** 38 , **EXAMS** 37 , **EXAM** 34 , **BOARD** 33 , **SIR** 32 , **PLEASE** 28 , **@THEANURAGTYAGI:** 27 , **CANCELEXAMSSAVESTUDENTS** 23 , **CBSE** 20 , **LIFE** 11 , **@DRRPNISHANK:** 10 , **CLASS** 10 , **MODIJI_CANCEL12THBOARDS** 10 , **SITUATION** 10 , **STUDENT** 10 , **12TH** 10 , **@ADVMAMTASHARMA** 10 , 
- 
-## What this user tweeted
- 
-RT @DrRPNishank: .@IITRpr and @MonashUni, Australia researchers have developed a unique detector to identify imposters attending a virtual…
- 
-# KrunalP21072396USER INFO
-![image](http://pbs.twimg.com/profile_images/1396510418156150791/4miGVIhN_normal.jpg)
- 
-`User ScreenName:` KrunalP21072396 
- 
-`User chosen Name:` Krunal Parmar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat May 22 09:02:36 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 7 
+`Following?:` 131 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 102 
+`Number of tweets extracted`  : 64 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1396510418156150791/4miGVIhN_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1394792873296633862/GXB2oeUQ_normal.jpg 
  
-`Number of tweets excluding replies:` 102 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEANURAGTYAGI:** 40 , **EXAM** 18 , **EXAMHUATOVOTENAHI** 18 , **@DRRPNISHANK** 16 , **CANCELBOARDEXAMS** 15 , **EXAMS** 14 , **CANCELEXAMSSAVESTUDENTS** 14 , **@NARENDRAMODI** 12 , **CANCEL12THBOARDEXAM2021** 12 , **CANCEL** 11 , **STUDENTS** 10 , **EXAMHUATOVOTENAHIRT** 10 , **PLEASE** 9 , **CLASS** 9 , **BOARD** 8 , **CBSE** 8 , **CANCELALLBOARDEXAMS** 7 , **MEETINGS** 7 , **SIR** 6 , **@DRRPNISHANK:** 6 , 
- 
-## What this user tweeted
- 
-RT @DrRPNishank: .@IITRpr and @MonashUni, Australia researchers have developed a unique detector to identify imposters attending a virtual…
- 
-# BenHuntOReilly1USER INFO
-![image](http://pbs.twimg.com/profile_images/1396202710907621379/frLH7sMK_normal.jpg)
- 
-`User ScreenName:` BenHuntOReilly1 
- 
-`User chosen Name:` Ben Hunt O Reilly 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat May 22 19:10:27 +0000 2021 
- 
-`User Description?:` Recent Graduate of Bachelor of Science Hons in Computing in Digital Forensics and Cyber Security
-Technological University Dublin 
- 
-`Followers?: `0 
- 
-`Following?:` 399 
- 
-`User URL?:` https://t.co/iSrpsdS4wt 
- 
-`Location:` Meath, Ireland 
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1396202710907621379/frLH7sMK_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 64 
  
 
  
@@ -660,38 +591,117 @@ Technological University Dublin
  
 ## User Top tweeted words 
  
-**EXIFTOOL** 2 , **RT** 1 , **@PTRACESECURITY:** 1 , **CVE-2021-22204** 1 , **ARBITRARY** 1 , **CODE** 1 , **EXECUTION** 1 , **HTTPS://TCO/STYKOUSNIS** 1 , **CVE** 1 , **CYBERSECURITY** 1 , **INFOSEC** 1 , **HTTP…HTTPS://TCO/LJ3UPBZFGI** 1 , 
+**BITCOIN** 13 , **@CRYPTOWHALE:** 6 , **@KURTWUCKERTJR:** 5 , **@ALGORAND** 5 , **BTC** 4 , **CRYPTO** 4 , **SMALL** 4 , **MONEY** 4 , **THAN** 3 , **ELON** 3 , **@REALCOINGEEK:** 3 , **PEOPLE** 3 , **GO** 3 , **BUY** 3 , **CAN'T** 3 , **📉** 3 , **SELLING** 3 , **HISTORY** 3 , **CURIOUS** 2 , **THAT'S** 2 , 
  
 ## What this user tweeted
  
-RT @ptracesecurity: ExifTool CVE-2021-22204 - Arbitrary Code Execution https://t.co/stykouSnIS  #ExifTool #CVE #CyberSecurity #Infosec http…
+@adam3us If anything, it exposes the vulnerabilities of the mining of PoW chains. It’s a blind spot for Bitcoin.  M… https://t.co/ManwzepxRT
  
-# Karanpr54881425USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# RomanceRowanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1394421626490470400/KyhkpY3y_normal.jpg)
  
-`User ScreenName:` Karanpr54881425 
+`User ScreenName:` RomanceRowan 
  
-`User chosen Name:` Karanpreet Singh 
+`User chosen Name:` Rowan Writes Romance 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat May 22 17:15:47 +0000 2021 
+`User signup date?:` Mon May 17 21:48:22 +0000 2021 
  
-`User Description?:`  
+`User Description?:` Romance makes the world go round ❤️ 
  
-`Followers?: `0 
+`Followers?: `7 
  
-`Following?:` 0 
+`Following?:` 76 
+ 
+`User URL?:` None 
+ 
+`Location:` England, United Kingdom 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394421626490470400/KyhkpY3y_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUE** 3 , **LGBTQLOVESTORIES** 2 , **@MILLSANDBOON** 1 , **2/2** 1 , **PASSION** 1 , **ANYA** 1 , **AFRAID** 1 , **COMMIT** 1 , **SELF** 1 , **CAN’T** 1 , **SHOW** 1 , **OTH…** 1 , **HTTPS://TCO/5OYV7VDBLZ@MILLSANDBOON** 1 , **KITTY** 1 , **WAITING** 1 , **LOVE** 1 , **SOULMATE** 1 , **WHATEVER** 1 , **GENDER** 1 , **MEETS** 1 , 
+ 
+## What this user tweeted
+ 
+@MillsandBoon #LGBTQLoveStories 2/2 true passion. Anya is afraid to commit, to be her true self. She can’t show oth… https://t.co/5oyv7vDBLz
+ 
+# fgloversecurityUSER INFO
+![image](http://pbs.twimg.com/profile_images/1393525252928507905/dSOv1ORw_normal.jpg)
+ 
+`User ScreenName:` fgloversecurity 
+ 
+`User chosen Name:` fiveguyslover 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 15 11:06:59 +0000 2021 
+ 
+`User Description?:` 17 yo
+Security Researcher 
+ 
+`Followers?: `1 
+ 
+`Following?:` 3 
+ 
+`User URL?:` https://t.co/fbXKTe4aDN 
+ 
+`Location:` France 
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1393525252928507905/dSOv1ORw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BUG** 3 , **@DEPTOFDEFENSE** 3 , **SUBMITTED** 3 , **@DC3VDP:** 2 , **APRIL** 2 , **VDP** 2 , **FIVEGUYSLOVER** 2 , **US** 2 , **DEPT** 2 , **DEFENSE** 2 , **DISCLOSED** 2 , **FIVEGUYSLOVER:** 2 , **HACKERONE** 2 , **BUGBOUNTY** 2 , **WELL** 1 , **FOUND** 1 , **XXE/SSRF** 1 , **OLD** 1 , **VERSION** 1 , **ORACLE** 1 , 
+ 
+## What this user tweeted
+ 
+@DC3VDP you should make bug bounty more accessible and educational for those who only watch, interview your hackers… https://t.co/7uuRTNEtWO
+ 
+# _lykapalimaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1395604305063800835/YPEankx9_normal.jpg)
+ 
+`User ScreenName:` _lykapalima 
+ 
+`User chosen Name:` Lyka Palima Capitin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri May 21 04:55:38 +0000 2021 
+ 
+`User Description?:` Grow 
+ 
+`Followers?: `4 
+ 
+`Following?:` 128 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1395604305063800835/YPEankx9_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -699,11 +709,176 @@ RT @ptracesecurity: ExifTool CVE-2021-22204 - Arbitrary Code Execution https://t
  
 ## User Top tweeted words 
  
-**@DRRPNISHANK:** 2 , **MINISTERS** 2 , **EDUCATION** 2 , **RT** 1 , **@IITRPR** 1 , **@MONASHUNI** 1 , **AUSTRALIA** 1 , **RESEARCHERS** 1 , **DEVELOPED** 1 , **UNIQUE** 1 , **DETECTOR** 1 , **IDENTIFY** 1 , **IMPOSTERS** 1 , **ATTENDING** 1 , **VIRTUAL…RT** 1 , **THANK** 1 , **HON'BLE** 1 , **CHIEF** 1 , **OFFICERS** 1 , **ASSOCIATED** 1 , 
+**@MENTALHEALTHPH:** 5 , **@RDAHILDAHIL** 3 , **@JINGGERCRUZ** 3 , **@QRSTUVMOJICA** 3 , **@IAMSUZREOMALES** 3 , **@SILAKBOPH** 3 , **@ERICAMION** 3 , **@CATRIONAELISA** 2 , **GREAT** 2 , **USAPTAYO** 2 , **@MARKKISTROEM** 2 , **@RDAHILDAHIL_** 2 , **BREATHE** 1 , **BRAVE** 1 , **NEVER** 1 , **UNDERESTIMATE** 1 , **POWER** 1 , **EXHALE** 1 , **MENTALHEALTHPH@CATRIONAELISA** 1 , **@MENTALHEALTHPH** 1 , 
  
 ## What this user tweeted
  
-RT @DrRPNishank: .@IITRpr and @MonashUni, Australia researchers have developed a unique detector to identify imposters attending a virtual…
+RT @mentalhealthph: @RDahildahil @jinggercruz @qRStuvMojica @iamsuzreomales @SilakboPH @EricAmion @Markkistroem @rdahildahil_ "Embrace your…
+ 
+# AliceOvildaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1395016333088247809/xrLmj9PI_normal.jpg)
+ 
+`User ScreenName:` AliceOvilda 
+ 
+`User chosen Name:` Alice Ovilda 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 19 13:58:32 +0000 2021 
+ 
+`User Description?:` Student. Interested in human rights, politics, middle east and feminism. 
+ 
+`Followers?: `7 
+ 
+`Following?:` 36 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1395016333088247809/xrLmj9PI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 5 , **À** 4 , **@ADHRB:** 3 , **ET** 3 , **LA** 3 , **LES** 2 , **@SALWADAEI:** 2 , **@ECDHRBXL:** 2 , **BAHRAINI** 2 , **RT** 1 , **L'ÉQUIPE** 1 , **PARISIENNE** 1 , **@ADHRB** 1 , **PARTICIPÉ** 1 , **UN** 1 , **SÉMINAIRE** 1 , **SUR** 1 , **PRISONNIERS** 1 , **CONSCIENCE** 1 , **BAHREIN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ECDHRbxl: In #SaudiArabia #sponsorship laws under the #KafalaSystem increases #Workers' vulnerabilities, especially foreign ones who ar…
+ 
+# AakanshaMahorUSER INFO
+![image](http://pbs.twimg.com/profile_images/1395375424650190851/Men20pWM_normal.jpg)
+ 
+`User ScreenName:` AakanshaMahor 
+ 
+`User chosen Name:` Aakansha Mahor 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 20 13:45:03 +0000 2021 
+ 
+`User Description?:` I am affiliate marketer, digital marketer, and a content creator.
+Helping youth to become financially independent. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 12 
+ 
+`User URL?:` https://t.co/TkM4U1GL0l 
+ 
+`Location:` नई दिल्ली, भारत 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1395375424650190851/Men20pWM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INVEST** 2 , **RT** 1 , **@MONEY_THEORY:** 1 , **TYPICAL** 1 , **INDIAN** 1 , **CONFIDENT** 1 , **SINGLE** 1 , **PROPERTY** 1 , **AFRAID** 1 , **PORTFOLIO** 1 , **TOP** 1 , **50** 1 , **BUSINESSES@BEERBICEPSGUY** 1 , **INFORMATIVE** 1 , **👍RT** 1 , **@BEERBICEPSGUY:** 1 , **SPOT** 1 , **SOMEONE’S** 1 , **INSECURITIES** 1 , **:-** 1 , 
+ 
+## What this user tweeted
+ 
+RT @BeerBicepsGuy: How to spot someone’s insecurities :-
+
+Notice the sentences that are followed by a filler :
+- Umm
+- Uhh
+- Anyway...
+- Ye…
+ 
+# Dave63897054USER INFO
+![image](http://pbs.twimg.com/profile_images/1396557598157991936/QR3yceXq_normal.jpg)
+ 
+`User ScreenName:` Dave63897054 
+ 
+`User chosen Name:` Dave 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 19 22:30:24 +0000 2021 
+ 
+`User Description?:` Slayer of communist ideology. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 135 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 60 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1396557598157991936/QR3yceXq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 60 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 7 , **@FANNKFANN** 7 , **@SECRETARYHOBBS** 7 , **DON'T** 5 , **@LUKEWEARECHANGE:** 5 , **@ADRIAN_FONTES** 5 , **@TADEUSZGICZAN** 4 , **GONNA** 4 , **TAX** 4 , **PAY** 4 , **@NORGEEUROPE** 3 , **@DANIELJTERRY1** 3 , **@KAITLANCOLLINS** 3 , **THAT'S** 3 , **CAN'T** 3 , **HAPPEN** 3 , **OTHER** 3 , **@LEO4AZHOUSE** 3 , **DON’T** 3 , **HERE'S** 3 , 
+ 
+## What this user tweeted
+ 
+@TMoneyPhoenix @Adrian_Fontes @FannKfann @SecretaryHobbs Clearly you haven't been following along... 
+
+https://t.co/WmMXexCSKW
+ 
+# elle4love2USER INFO
+![image](http://pbs.twimg.com/profile_images/1394195886863896576/VtUBj6bC_normal.jpg)
+ 
+`User ScreenName:` elle4love2 
+ 
+`User chosen Name:` elle4love 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 17 07:38:53 +0000 2021 
+ 
+`User Description?:` For when I’ve been naughty. I’m mad, sad & so disappointed that every once in awhile I get put in Twitter jail. @Elle4Life_Love 💜 
+ 
+`Followers?: `29 
+ 
+`Following?:` 61 
+ 
+`User URL?:` None 
+ 
+`Location:` Earth 
+ 
+`Number of tweets extracted`  : 112 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1394195886863896576/VtUBj6bC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 112 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KRISTASUNSHINE1** 10 , **PEOPLE** 9 , **@RIGHTWINGWATCH** 7 , **@UNBROKENSPIRIT2** 6 , **REAL** 6 , **MAY** 5 , **@AARONPARNAS** 5 , **GOP** 5 , **GOT** 5 , **ANY** 5 , **THESE** 5 , **I’M** 5 , **@60MINUTES** 5 , **NEW** 4 , **DOES** 4 , **@CZECHUTAH** 4 , **@ANDERSONCOOPER** 4 , **THAT’S** 4 , **@RAVENJAE5** 4 , **REALLY** 4 , 
+ 
+## What this user tweeted
+ 
+RT @sharkyrae: Cracking up at the Q shaman’s whacko lawyer on CNN right now! “They had vulnerabilities” get the fuck out of here! Just call…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
