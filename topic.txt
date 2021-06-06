@@ -1,1 +1,1 @@
-vulnerabilities
+infosec
