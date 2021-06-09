@@ -1180,4 +1180,413 @@ Of all those dependents of the US nuclear umbrella security, Australia has learn
  
 ## User Top tweeted words 
  
-**@INDIAJYOT:** 10 , **@NARENDRAMODI** 3 , **@PMOINDIA** 3 , **AGAINST** 3 , **ACID** 2 , **TEST** 2 , **US** 2 , **@JAINMEDIA** 2 , **@RASHTRAPATIBHVN** 2 , 
+**@INDIAJYOT:** 10 , **@NARENDRAMODI** 3 , **@PMOINDIA** 3 , **AGAINST** 3 , **ACID** 2 , **TEST** 2 , **US** 2 , **@JAINMEDIA** 2 , **@RASHTRAPATIBHVN** 2 , **@ASHOKGEHLOT51** 2 , **SUCH** 2 , **JAIN** 2 , **MAHARAJ** 2 , **@FOREIGNAFFAIRS** 1 , **@JOSHRUDES** 1 , **HTTPS://TCO/DRJKBCJPIQ@POTUS** 1 , **HTTPS://TCO/DRJKBCJPIQRT** 1 , **TAKEN** 1 , **STRATEGIC** 1 , **STEP** 1 , 
+ 
+## What this user tweeted
+ 
+RT @IndiaJyot: AUSTRALIAN ACID TEST 
+
+Of all those dependents of the US nuclear umbrella security, Australia has learnt a hard lesson from…
+ 
+# OgwalLeonardUSER INFO
+![image](http://pbs.twimg.com/profile_images/1399430334270300162/bS73-_jD_normal.jpg)
+ 
+`User ScreenName:` OgwalLeonard 
+ 
+`User chosen Name:` Leonard Ogwal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 31 18:04:17 +0000 2021 
+ 
+`User Description?:` Christ-follower | Enterprise Risk Management | Stock Markets | Elite Sports 
+ 
+`Followers?: `110 
+ 
+`Following?:` 698 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 45 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1399430334270300162/bS73-_jD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 45 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**🤣** 34 , **TOO** 3 , **@EVELYN_NAKAYI** 2 , **LET** 2 , **CHECK** 2 , **CONGRATULATIONS** 2 , **OLE** 2 , **OFF** 2 , **YOUNG** 2 , **SAY** 2 , **WHERE?** 2 , **@RECHOWINY** 1 , **LEGS** 1 , **DAYS@THE_JAKE_TIZER** 1 , **@UNITEDSTANDMUFC** 1 , **COULD** 1 , **ANY** 1 , **BETTER@HENDRIX_CLAMP** 1 , **@CARLOS_ONGOM** 1 , **@BABS_SOLUTION** 1 , 
+ 
+## What this user tweeted
+ 
+@DrOtileUg I am not too proud to admit my vulnerabilities. Ticked off 3 from the list
+ 
+# gogo18612204USER INFO
+![image](http://pbs.twimg.com/profile_images/1402222573513965574/W9MJkCx4_normal.jpg)
+ 
+`User ScreenName:` gogo18612204 
+ 
+`User chosen Name:` Ugh! 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 08 10:07:50 +0000 2021 
+ 
+`User Description?:` rationalising emotion since 2002 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1402222573513965574/W9MJkCx4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOOD** 3 , **LISTENER** 2 , **LET** 2 , **BEING** 1 , **IMPORTANT** 1 , **ENCHANTING** 1 , **LIFE** 1 , **SKILL** 1 , **ANYONE** 1 , **CIVILISATION** 1 , **COME** 1 , **WITH…** 1 , **HTTPS://TCO/W4FZY0TI4L4** 1 , **SEPARATE** 1 , **DISAGREEMENT** 1 , **CRITICISM** 1 , **MAKES** 1 , **CLEAR** 1 , **W…** 1 , **HTTPS://TCO/XGWWEDPHPY3** 1 , 
+ 
+## What this user tweeted
+ 
+3. Don’t moralise. Sympathise with their vulnerabilities. Give an impression that you recognise and accept their fo… https://t.co/1yYPLyDDf0
+ 
+# Testing21602042USER INFO
+![image](http://pbs.twimg.com/profile_images/1399288920102277120/GWBFCQvQ_normal.jpg)
+ 
+`User ScreenName:` Testing21602042 
+ 
+`User chosen Name:` Testing 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 31 08:51:46 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:` Bucureşti, România 
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1399288920102277120/GWBFCQvQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MALWRHUNTERTEAM:** 5 , **@MALWRHUNTERTEAM** 3 , **MIC*** 3 , **WEEK** 2 , **GUIDE** 2 , **"ALLA** 2 , **ULTIMELE** 2 , **@CERT_RO:** 2 , **DE** 2 , **DIN** 2 , **ÎN** 2 , **@JAMESWT_MHT** 2 , **MALWARE** 2 , **@SPAM404** 2 , **TIP** 2 , **WINDOWS** 2 , ***MUTES** 2 , **RT** 1 , **@NCSC:** 1 , **HALF** 1 , 
+ 
+## What this user tweeted
+ 
+RT @NCSC: Over half of all UK colleges and universities have now signed up to our free Web Check service. It helps them to identify and fix…
+ 
+# SHOHAN59333631USER INFO
+![image](http://pbs.twimg.com/profile_images/1401766106461736960/6ewCyaht_normal.jpg)
+ 
+`User ScreenName:` SHOHAN59333631 
+ 
+`User chosen Name:` SHOHAN 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 07 05:00:01 +0000 2021 
+ 
+`User Description?:` Always believe on myself 
+ 
+`Followers?: `1 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 75 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1401766106461736960/6ewCyaht_normal.jpg 
+ 
+`Number of tweets excluding replies:` 75 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 25 , **OTHER** 12 , **@BOLT_GLOBAL** 11 , **INVESTORS** 10 , **@ORCHIDPROTOCOL** 10 , **MAIN** 10 , **BURN** 10 , **AMA** 9 , **MAKES** 9 , **@MANAIO5** 8 , **USERS** 8 , **ANY** 8 , **Q** 8 , **EXPLAIN** 8 , **TOKENS** 8 , **JUNE** 8 , **UTC** 8 , **I’M** 8 , **@PROJECTSEEDGAME** 8 , **@POLKAPLAY** 8 , 
+ 
+## What this user tweeted
+ 
+@wolfonaire @OrchidProtocol I’m a developer and I’m interested in contributing to your project alongsides earning D… https://t.co/A8AVCCGBAT@BebobeL_CL @ProjectSeedGame I’m a developer and I’m interested in contributing to your project alongsides earning… https://t.co/3AEPXyfISp@CryptonationN @polkaplay I’m a developer and I’m interested in contributing to your project alongsides earning Do,… https://t.co/V3IcHgOqCp@BebobeL_CL @shinchancoin I’m a developer and I’m interested in contributing to your project alongsides earning Do,… https://t.co/iApeWJkJul
+ 
+# itrulyknownchi1USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` itrulyknownchi1 
+ 
+`User chosen Name:` itrulyknownchina 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 07 11:32:29 +0000 2021 
+ 
+`User Description?:` China Twitter: if you remember me from some time ago, you should follow me.
+My reputation precedes me. 
+ 
+`Followers?: `1064 
+ 
+`Following?:` 136 
+ 
+`User URL?:` https://t.co/drIaJ6ejWW 
+ 
+`Location:` better not be known 
+ 
+`Number of tweets extracted`  : 79 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 79 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHINESE** 17 , **MOFA** 11 , **CHINA** 11 , **MEDIA** 9 , **NATIONALISTS** 9 , **JEWS** 7 , **PROPAGANDA** 6 , **THESE** 6 , **APPARATUS** 5 , **ANY** 5 , **FOREIGN** 5 , **STATE** 5 , **ACCOUNT** 5 , **TWITTER** 5 , **SOCIAL** 5 , **LU** 5 , **HESSLER** 5 , **MOST** 4 , **HITLER** 4 , **PETER** 4 , 
+ 
+## What this user tweeted
+ 
+of being traitors.
+
+These ulterior nationalists are leveraging these participants' perceived vulnerabilities and th… https://t.co/c0vmRTzeGt
+ 
+# AntoniosljnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1399325433246539779/G5H5LUE5_normal.jpg)
+ 
+`User ScreenName:` Antoniosljn 
+ 
+`User chosen Name:` Antonio Winston 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 31 10:43:16 +0000 2021 
+ 
+`User Description?:` You know what I like about people? Their dogs 
+ 
+`Followers?: `2 
+ 
+`Following?:` 78 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 64 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1399325433246539779/G5H5LUE5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 65 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**🏆** 8 , **LEAGUE** 7 , **@VANGUARDNGRNEWS:** 5 , **AFTER** 5 , **🔸** 4 , **@SKYSPORTSPL:** 4 , **PLAYERS** 3 , **CHELSEA** 3 , **MAN** 3 , **@BBCSPORT:** 3 , **PREMIER** 3 , **WHICH** 3 , **BACK** 3 , **@VERYPALEHIPSTER:** 3 , **GOD** 3 , **@CHELSEAFC:** 3 , **CHELSEACHAMPIONS** 3 , **NEW** 3 , **JUNE** 2 , **VANGUARDNEWS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @TimesSport: Gareth Southgate has admitted that he has concerns about England’s defensive vulnerabilities and has warned that they will…
+ 
+# alfi90293986USER INFO
+![image](http://pbs.twimg.com/profile_images/1400563618362634250/5hjrQXuf_normal.jpg)
+ 
+`User ScreenName:` alfi90293986 
+ 
+`User chosen Name:` alfi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 03 21:21:26 +0000 2021 
+ 
+`User Description?:` Crypto Investor 
+ 
+`Followers?: `6 
+ 
+`Following?:` 84 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 24 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1400563618362634250/5hjrQXuf_normal.jpg 
+ 
+`Number of tweets excluding replies:` 24 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@COREMULTICHAIN:** 13 , **CORE** 11 , **BLOCKCHAIN** 10 , **CMCX** 7 , **و** 6 , **COREMULTICHAIN** 5 , **ALLOWS** 3 , **که** 3 , **PUBLIC** 3 , **SOLUTION** 2 , **CREATING** 2 , **ADVANCED** 2 , **ITS** 2 , **BLOCKCHAINS** 2 , **INTO** 2 , **CROSS-CHAIN** 2 , **COMMUNICATION** 2 , **من** 2 , **از** 2 , **معاون** 2 , 
+ 
+## What this user tweeted
+ 
+RT @COREMultichain: #Security 
+Although #blockchain is regarded as most secure because of its #decentralized nature. However, some #blockch…
+ 
+# CyberneshUSER INFO
+![image](http://pbs.twimg.com/profile_images/1399612813790769159/bojDAPO2_normal.jpg)
+ 
+`User ScreenName:` Cybernesh 
+ 
+`User chosen Name:` Cybernesh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 01 06:22:49 +0000 2021 
+ 
+`User Description?:` Daily Dosage of Cyber Security - Check out the top and recent news about cybersecurity, malware attacks, data breaches, and more at https://t.co/6lcYZtSV5Q 
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/ujR63g3I5a 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 15 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1399612813790769159/bojDAPO2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 15 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CLICK** 13 , **LINK** 11 , **👇** 5 , **RANSOMWARE** 4 , **@ROYRAHUL2307:** 4 , **CYBERNESH:** 3 , **CYBERSECURITY** 3 , **👇👇👇** 3 , **GLOBALLY** 2 , **DEMAND** 2 , **ACTIVE** 2 , **ATTACKS** 2 , **CYBERNESH** 2 , **CYBERSECURITYNEWS** 2 , **DOWN** 2 , **LINK…** 2 , **👇👇👇…** 2 , **RECENT** 1 , **BREACHES** 1 , **HTTPS://TCO/BYALBAANMY** 1 , 
+ 
+## What this user tweeted
+ 
+Cybernesh: GitHub Updates Policy to Remove Exploit Code When Used in Active Attacks
+https://t.co/kFPV2UMibe… https://t.co/Gbq8n7tiAg
+ 
+# CryptoFo1USER INFO
+![image](http://pbs.twimg.com/profile_images/1401802663579197440/u85pnv0F_normal.jpg)
+ 
+`User ScreenName:` CryptoFo1 
+ 
+`User chosen Name:` CryptoFo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 07 07:25:34 +0000 2021 
+ 
+`User Description?:` Single Happy 
+ 
+`Followers?: `0 
+ 
+`Following?:` 38 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 59 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1401802663579197440/u85pnv0F_normal.jpg 
+ 
+`Number of tweets excluding replies:` 59 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SOFO_TECH:** 53 , **SHARD** 16 , **LEARN_SOFO** 9 , **CHAIN** 9 , **BEACON** 8 , **PHASE** 8 , **BLOCK** 7 , **WHICH** 6 , **TRANSACTIONS** 6 , **NETWORK** 6 , **VALIDATORS** 5 , **?** 5 , **CHAINS** 5 , **$SOFO@SOFO_TECH** 5 , **SHARDS** 5 , **BLOCKS** 5 , **STAKE** 5 , **YIELD** 5 , **FARMING** 5 , **$SOFORT** 4 , 
+ 
+## What this user tweeted
+ 
+RT @SOFO_TECH: Even in the case of bigger protocols that are audited by reputable auditing firms, vulnerabilities and bugs are discovered a…
+ 
+# chihienhoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1399643826365485057/qW9YK5Vf_normal.jpg)
+ 
+`User ScreenName:` chihienho 
+ 
+`User chosen Name:` hien ho 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 01 08:27:14 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 62 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1399643826365485057/qW9YK5Vf_normal.jpg 
+ 
+`Number of tweets excluding replies:` 62 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IMPORTANT** 20 , **DOES** 12 , **SHARE** 11 , **PROJECT'S** 11 , **RECENT** 11 , **DEVELOPMENT** 11 , **PROGRESS** 11 , **2020** 11 , **COIN** 10 , **UTILITY** 10 , **ECOSYSTEM?** 10 , **WHERE** 10 , **USED** 10 , **GIVE** 10 , **SOME** 10 , **REASONS** 10 , **NEED** 10 , **BUY** 10 , **TOKENS** 10 , **FACT** 10 , 
+ 
+## What this user tweeted
+ 
+@CryptoSpiritVN @jonhkelly111 @puglife_token Your is a really interesting platform. How do you ensure that your per… https://t.co/NlsCfLOWdu
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
