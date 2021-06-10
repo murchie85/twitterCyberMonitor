@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **Sebdraven**  
+The most popular user is: **TinkerSec**  
  
 
-## I found a new backdoor in .NET targetting Mongolia. The TTPs are very similar to another chinese APT like Tonto Tea… https://t.co/1A6h8YZiZt 
+## So I finally sorted out what happened to my brain.
+
+I, quite literally, hacked so much, for so long, and without en… https://t.co/awNsYc1AeT 
 
   
 
@@ -23,23 +25,23 @@ The most popular user is: **Sebdraven**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @OASISopen: We'd like to thank @resecurity_com for your sponsorship of #BorderlessCyber 2021. It's going to be an excellent event featur… |
-| Interesting open source project -&gt; Aurora malware similarity platformhttps://t.co/X4m141FhgD #malware #dfir… https://t.co/aRjB5C5KjB |
-| RT @GrowTechFast: Quantum computing: How should cybersecurity teams prepare for it? https://t.co/YP1qy9iD6E #cubersecurity #quantumcomp… |
+| RT @kcaindec: Meat giant JBS pays out $11M ransom https://t.co/78SweNlYBc With 1k orgs facing cyberattacks per week, companies need to beef… |
+| RT @judahorion: *Eats popcorn* #CyberSecurity #cybersafety #infosec #infosecurity #redteam #blueteam https://t.co/A9fgEoqKN2 |
+| RT @USCERT_gov: #WednesdayWisdomThe Internet of Things is becoming an increasingly important part of our everyday life. Be aware of the as… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **RedPacketSec** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.18%  |
+| #1 Most tweeted to  | **iotcybersec24** |
+| #2 Most tweeted to  | **CyberWarship** |
+| #3 Most tweeted to  | **MAYASSIGNMENT1** |
+| NewProfiles (less than 10 days) | 0.52%  |
 | Tweeters with < 10 followers  | 1.26%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
@@ -50,96 +52,57 @@ The most popular user is: **Sebdraven**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CYBERSEC**  |
-| second  | **DARKWEB**  |
-| third  | **INFOSEC** |
-| fourth  | **THREATINTEL**  |
-| fifth  | **@JINIBABD:**  |
+| first  | **INFOSEC**  |
+| second  | **ATTACK**  |
+| third  | **RANSOMWARE** |
+| fourth  | **DATA**  |
+| fifth  | **MALWARE**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @teamcymru: The 33rd Annual #FIRST Conference: Crossing Uncertain Times, starts today and runs through June 9. It's not to late to regis… |
+|RT @rajaharia: [Alert] #CowinPortal Not Hacked!! Some Fake #DarkwebLeakMarket are claiming to sell data of 150 Million COVID19 Vaccinated P… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Sebdraven**  |
+| The most retweeted user is: **TinkerSec**  |
 | ------------- |
-| I found a new backdoor in .NET targetting Mongolia. The TTPs are very similar to another chinese APT like Tonto Tea… https://t.co/1A6h8YZiZt |
+| So I finally sorted out what happened to my brain.I, quite literally, hacked so much, for so long, and without en… https://t.co/awNsYc1AeT |
 
 # Potential Fake Accounts
  
-# RynCyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1402873711703822337/k_R-YmAZ_normal.jpg)
+# cisspinUSER INFO
+![image](http://pbs.twimg.com/profile_images/1403070174782177287/u44Z3EFp_normal.jpg)
  
-`User ScreenName:` RynCyber 
+`User ScreenName:` cisspin 
  
-`User chosen Name:` RyN_cyber 
+`User chosen Name:` CISSPin Glover 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jun 10 06:00:34 +0000 2021 
+`User signup date?:` Thu Jun 10 19:22:34 +0000 2021 
  
-`User Description?:` I'm mostly cover #natsec, #surveillance, #hackingtools, & #technews. Support both human & animal rights. #InfoOp #AIOps 
+`User Description?:` Security • Snarking •• Sarcasm ••• Infosec 
  
-`Followers?: `7 
+`Followers?: `0 
  
-`Following?:` 15 
+`Following?:` 33 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 26 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1402873711703822337/k_R-YmAZ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1403070174782177287/u44Z3EFp_normal.jpg 
  
-`Number of tweets excluding replies:` 26 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TOOL** 4 , **@USARMY** 2 , **CAMPAIGN** 2 , **MALWARE** 2 , **@TIP:** 2 , **UNITED** 2 , **STATES** 2 , **MILITARY** 2 , **FIGHTS** 2 , **🌎** 2 , **WORLD** 2 , **DOMINATION** 2 , **FREEDOM** 2 , **GOES** 2 , **YEARS** 2 , **PASSWORDS** 2 , **HELP** 2 , **ATTACK** 2 , **EXPLOITS** 2 , **US** 2 , 
- 
-## What this user tweeted
- 
-The #ThreatIntel team with @greathorn made the discovery &amp; explained the emails popping up on people’s screens at w… https://t.co/xsnPNTGFTt
- 
-# j0e_BinaryUSER INFO
-![image](http://pbs.twimg.com/profile_images/1402276345942577153/zOY9SyqM_normal.jpg)
- 
-`User ScreenName:` j0e_Binary 
- 
-`User chosen Name:` Yousef B. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jun 08 13:09:07 +0000 2021 
- 
-`User Description?:` Cybersecurity student at @UOFjeddah 👨🏻‍💻 || part of @CYCLUB_UJ || interested in blue teaming💙, Malware Analysis 🤖 and incident response. 
- 
-`Followers?: `20 
- 
-`Following?:` 105 
- 
-`User URL?:` None 
- 
-`Location:` ~/KSA/JED 
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1402276345942577153/zOY9SyqM_normal.jpg 
- 
-`Number of tweets excluding replies:` 17 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -147,40 +110,40 @@ The #ThreatIntel team with @greathorn made the discovery &amp; explained the ema
  
 ## User Top tweeted words 
  
-**في** 4 , **يبارك** 4 , **فيك** 4 , **الله** 3 , **مقعد** 3 , **مجاني** 3 , **لـ** 3 , **على** 2 , **من** 2 , **حبيبي** 2 , **تخصص** 2 , **الامن** 2 , **RT** 1 , **@RALGHANMI:** 1 , **مهم** 1 , **تطلع** 1 , **وتفهم** 1 , **-وتستفسر** 1 , **ان** 1 , **لزم** 1 , 
+**APPLE** 4 , **THAT’S** 2 , **PR** 2 , **PRIVATE** 2 , **RELAY** 2 , **“SEE** 1 , **SPOT** 1 , **5G** 1 , **CHIPS** 1 , **BORIS** 1 , **RELAX** 1 , **ARM** 1 , **WE’LL** 1 , **UPGRADED** 1 , **JIFFY** 1 , **KEVIN…** 1 , **HTTPS://TCO/QCWCP16WSBAND** 1 , **CARE** 1 , **FIXING** 1 , **SECURITY** 1 , 
  
 ## What this user tweeted
  
-RT @CyborgSecInc: Let's face it, we've all been feeling this way....
+Ever notice how #Apple deliberately avoids the s-word during big events like WWDC?
 
-#memes #threathunting #cybersecurity #threatdetection #threatintel #i…
+Presenters do refer to security… https://t.co/IuA2B0PN63
  
-# vuotnhUSER INFO
-![image](http://pbs.twimg.com/profile_images/1400711505067212806/UHRaGMBO_normal.jpg)
+# The_Dark_SpaceUSER INFO
+![image](http://pbs.twimg.com/profile_images/1402867815170904065/m1h1hYJQ_normal.jpg)
  
-`User ScreenName:` vuotnh 
+`User ScreenName:` The_Dark_Space 
  
-`User chosen Name:` __vuotnh 
+`User chosen Name:` Dark 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jun 04 04:30:04 +0000 2021 
+`User signup date?:` Thu Jun 10 05:58:08 +0000 2021 
  
-`User Description?:` The man with the taste of the Ocean 
+`User Description?:`  
  
-`Followers?: `2 
+`Followers?: `0 
  
-`Following?:` 111 
+`Following?:` 12 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 13 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1400711505067212806/UHRaGMBO_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1402867815170904065/m1h1hYJQ_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 13 
  
 
  
@@ -188,11 +151,347 @@ RT @CyborgSecInc: Let's face it, we've all been feeling this way....
  
 ## User Top tweeted words 
  
-**RT** 1 , **@_R_NETSEC:** 1 , **WINDOWS** 1 , **KERNEL** 1 , **DEBUGGING** 1 , **EXPLOITATION** 1 , **PART** 1 , **2** 1 , **STACK** 1 , **OVERFLOW** 1 , **HTTPS://TCO/AP1ZVXZLFNRT** 1 , **@VERSPRITE:** 1 , **RESEARCH** 1 , **TEAM** 1 , **FOUND** 1 , **HIGH-RISK** 1 , **VULNERABILITY** 1 , **NETGEAR** 1 , **NIGHTHAWK** 1 , **ROUTERS** 1 , 
+**في** 3 , **تكلموا** 3 , **عن** 3 , **هي** 2 , **RT** 1 , **@SABQORG:** 1 , **اليوم** 1 , **العالمي** 1 , **للأرشيف** 1 , **إليكم** 1 , **أبرز** 1 , **الأدوات** 1 , **والمواقع** 1 , **التي** 1 , **تستطيع** 1 , **بواسطتها** 1 , **إيجاد** 1 , **الصفحات** 1 , **المفقودة** 1 , **على** 1 , 
  
 ## What this user tweeted
  
-RT @VerSprite: Our Research Team found a High-Risk vulnerability in NETGEAR Nighthawk routers models RAX35, RAX38, RAX40 that leaves users…
+RT @rootsecdev: Current cybersecurity landscape #infosec https://t.co/kLuTaFYhNH
+ 
+# ayoub77541037USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` ayoub77541037 
+ 
+`User chosen Name:` ayoub 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 10 19:59:59 +0000 2021 
+ 
+`User Description?:` im thenologe 
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HTTPS://TCO/V872E7CHQ6** 1 , **VPN** 1 , **FREE** 1 , **6** 1 , **MONTHS** 1 , **ACCESS** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/WUTZWMK3DW** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/MJICN2LERW** 1 , 
+ 
+## What this user tweeted
+ 
+https://t.co/V872e7CHQ6 VPN Free For 6 Months Access – Discount 100% OFF https://t.co/wUtZWMk3DW #infosec #bugcrowd… https://t.co/MjIcN2LERw
+ 
+# ASSIGNMENTSHE17USER INFO
+![image](http://pbs.twimg.com/profile_images/1400855242196066306/YIGNYMJk_normal.jpg)
+ 
+`User ScreenName:` ASSIGNMENTSHE17 
+ 
+`User chosen Name:` JM ASSIGNMENTS HELP 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jun 04 06:02:37 +0000 2021 
+ 
+`User Description?:` 📝DM 24/7 FOR GUARANTEED 100% ASSIGNMENT HELP
+#ONLNECLASSES
+#ASSIGNMENTS
+#HOMEWORKHELP
+#ESSAYHELP
+#FINALEXAM 
+#PAY .PAYPAL ACCEPTED
+EMAIL jmassignment@gmail.com 
+ 
+`Followers?: `351 
+ 
+`Following?:` 809 
+ 
+`User URL?:` None 
+ 
+`Location:` New York, USA 
+ 
+`Number of tweets extracted`  : 186 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1400855242196066306/YIGNYMJk_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2282 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FOLLOW** 72 , **ESSAYS** 52 , **@ASSIGNMENTSHE17:** 47 , **DM** 41 , **✅** 40 , **ONLINE** 39 , **@ASSIGNMENTSHE17** 35 , **CLASSES** 31 , **PHYSIOLOGY** 29 , **PHARMACOLOGY** 28 , **HELP** 27 , **LIKES** 25 , **BIOLOGY** 25 , **LETTERS** 25 , **DROP** 24 , **RETWEET** 23 , **RETWEETS** 22 , **HOMEWORK** 22 , **ENGLISH** 21 , **CHEMISTRY** 18 , 
+ 
+## What this user tweeted
+ 
+RT @ASSIGNMENTSHE17: Are you tired with unending homework??
+We assist in:
+Math
+English
+Anatomy
+Neuroscience
+Pharmacology
+History
+Genetics…Are you tired with unending homework??
+We assist in:
+Math
+English
+Anatomy
+Neuroscience
+Pharmacology
+History
+Genetic… https://t.co/5ws2lPDCF5RT @MAYASSIGNMENT1: To get homework help flow @MAYASSIGNMENT1  we follow back immediately ❤️😍
+Retweet to help friends too🔁 #100Daysofcode #…RT @ASSIGNMENTSHE17: To get homework help flow @ASSIGNMENTSHE17  we follow back immediately ❤️😍
+Retweet to help friends too🔁 #100Daysofcode…To get homework help flow @ASSIGNMENTSHE17  we follow back immediately ❤️😍
+Retweet to help friends too🔁… https://t.co/0SN8FTyxaORT @ASSIGNMENTSHE17: Our rates are very affordable✅
+Help with
+Homework ✅
+Assignments ✅
+Essays ✅
+Online classes ✅
+Online quizes
+Summer class…Our rates are very affordable✅
+Help with
+Homework ✅
+Assignments ✅
+Essays ✅
+Online classes ✅
+Online quizes
+Summer cl… https://t.co/4TGKTaAW10RT @ASSIGNMENTSHE17: Follow @ASSIGNMENTSHE17 for assigments help guys❤️ we follow back immediately 🍍🍓
+Retweet to help those who need help🔁🔁…RT @ASSIGNMENTSHE17: Hello 👋
+We offer assignements help❤️😊
+Biology
+Math
+English
+Pharmacology
+Physiology
+Physics
+Essays
+Lab reports
+Chemistr…RT @ASSIGNMENTSHE17: Genetics
+Medical microbiology
+Pharmacology
+Physiology
+Biochemistry
+Anatomy
+Neuroscience
+Parasitology
+Immunology Dm  @M…
+ 
+# TheInfosecTeesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1400080406825685002/5tTk4iXW_normal.png)
+ 
+`User ScreenName:` TheInfosecTees 
+ 
+`User chosen Name:` The InfoSec Tees 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jun 02 13:17:42 +0000 2021 
+ 
+`User Description?:` Founded by @savxiety |  Instagram - @theinfosectees | The Best Hacking, Cybersecurity, and InfoSec themed tees in town! Visit The Store Website below⬇️⬇️ 
+ 
+`Followers?: `194 
+ 
+`Following?:` 136 
+ 
+`User URL?:` https://t.co/9XZgBNDyzE 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 19 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1400080406825685002/5tTk4iXW_normal.png 
+ 
+`Number of tweets excluding replies:` 19 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DESIGN** 13 , **LINK** 12 , **HACKER** 8 , **NOW🔥** 5 , **IN-STORE** 5 , **SHIRT** 5 , **BUY** 5 , **HACKING…** 4 , **NOW‼** 3 , **✅** 3 , **HACK** 3 , **WARDROBE** 3 , **NOW!** 3 , **HACKING** 3 , **NEW** 2 , **SECURITY** 2 , **'SNIFF** 2 , **CYBERSECURITY…** 2 , **WIFI** 2 , **SOME** 2 , 
+ 
+## What this user tweeted
+ 
+NEW DESIGN 'WAF Bypasser' OUT NOW🔥
+In-Store Link - https://t.co/ZKdtBSPkzl
+ #security #technology #bugbounty… https://t.co/2OfrZ17B72
+ 
+# MAYASSIGNMENT1USER INFO
+![image](http://pbs.twimg.com/profile_images/1403022352137469954/27w113WL_normal.jpg)
+ 
+`User ScreenName:` MAYASSIGNMENT1 
+ 
+`User chosen Name:` BEST ASSIGNMENTS AND ESSAY HELP 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 10 15:41:46 +0000 2021 
+ 
+`User Description?:` 24/7 ASSIGNEMENTS HELP 📝
+#ESSAYS #ONLINECLASSES
+#HOMEWORK #SUMMERCLASSES
+#EASYPAY
+#PAYPAL PAY
+EMAIL mayaaasignments@gmail.com 
+ 
+`Followers?: `25 
+ 
+`Following?:` 190 
+ 
+`User URL?:` None 
+ 
+`Location:` Los Angeles, CA 
+ 
+`Number of tweets extracted`  : 114 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1403022352137469954/27w113WL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 114 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FOLLOW** 46 , **LIKES** 15 , **DROP** 13 , **✅** 12 , **ESSAYS** 11 , **RETWEETS** 11 , **EVERYONE** 11 , **👣** 11 , **ONLINE** 10 , **RETWEET** 10 , **LET'S** 10 , **HANDLES** 10 , **CLASSES** 9 , **@MAYASSIGNMENT1RT** 9 , **ASSIGNMENTS** 8 , **BACK** 8 , **@MAYASSIGNMENT1:** 8 , **HOMEWORK** 8 , **HELP** 8 , **ASSIST** 7 , 
+ 
+## What this user tweeted
+ 
+RT @MAYASSIGNMENT1: Hello 👋
+We offer assignements help😊
+Biology
+Math
+English
+Pharmacology
+Physiology
+Physics
+Essays
+Lab reports
+Chemistry
+B…Hello 👋
+We offer assignements help😊
+Biology
+Math
+English
+Pharmacology
+Physiology
+Physics
+Essays
+Lab reports
+Chemist… https://t.co/kgJa7DX5dZRT @MAYASSIGNMENT1: Hello 👋
+We offer assignements help😊
+Biology
+Math
+English
+Pharmacology
+Physiology
+Physics
+Essays
+Lab reports
+Chemistry
+B…Hello 👋
+We offer assignements help😊
+Biology
+Math
+English
+Pharmacology
+Physiology
+Physics
+Essays
+Lab reports
+Chemist… https://t.co/OrLd9OcV0BRT @ASSIGNMENTSHE17: Are you tired with unending homework??
+We assist in:
+Math
+English
+Anatomy
+Neuroscience
+Pharmacology
+History
+Genetics…RT @MAYASSIGNMENT1: Our rates are very affordable✅
+Help with
+Homework ✅
+Assignments ✅
+Essays ✅
+Online classes ✅
+Online quizes
+Summer classe…Are you tired with unending homework??
+We assist in:
+Math
+English
+Anatomy
+Neuroscience
+Pharmacology
+History
+Genetic… https://t.co/JPz5zEKhCGOur rates are very affordable✅
+Help with
+Homework ✅
+Assignments ✅
+Essays ✅
+Online classes ✅
+Online quizes
+Summer cl… https://t.co/D1xzggxIRdTo get homework help flow @MAYASSIGNMENT1  we follow back immediately ❤️😍
+Retweet to help friends too🔁… https://t.co/43Os055bvhRT @MAYASSIGNMENT1: To get homework help flow @MAYASSIGNMENT1  we follow back immediately ❤️😍
+Retweet to help friends too🔁 #100Daysofcode #…To get homework help flow @MAYASSIGNMENT1  we follow back immediately ❤️😍
+Retweet to help friends too🔁… https://t.co/5flcewR9HL
+ 
+# mayamay86222324USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` mayamay86222324 
+ 
+`User chosen Name:` maya maya 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 10 14:29:56 +0000 2021 
+ 
+`User Description?:` youww 
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AUTLAND** 1 , **SUITE** 1 , **MICROSOCIAL** 1 , **FIX** 1 , **TOOL** 1 , **SOLVE** 1 , **STOP** 1 , **BLOCK** 1 , **PROBLEM** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/CV8TWZWAVF…** 1 , **HTTPS://TCO/7DGAJK8K2AG-EXTRACTOR** 1 , **V70** 1 , **CRACKED** 1 , **EXTRACT** 1 , **DATA** 1 , **GOOGLE** 1 , 
+ 
+## What this user tweeted
+ 
+AutLand Suite Microsocial Fix Tool - Solve Stop And Block Problem – Discount 100% OFF https://t.co/cv8TwZwAVf… https://t.co/7dGajk8K2a
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
