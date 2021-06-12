@@ -687,3 +687,321 @@ RT @GreatApeCrypto: You may have seen the recent audit of #Safemoon by HashEx, w
 `Is the User Verified?:` False 
  
 `User signup date?:` Sun Jun 06 07:37:25 +0000 2021 
+ 
+`User Description?:` कहते हैं ख़ुदा ने इस जहाँ में सभी के लिए किसी ना किसी को है बनाया हर किसी के लिए तेरा मिलना है उस रब का इशारा मानो मुझको बनाया तेरे जैसे ही किसी के लिए !! 
+ 
+`Followers?: `17 
+ 
+`Following?:` 16 
+ 
+`User URL?:` https://t.co/dNF5LlCg1T 
+ 
+`Location:` New Delhi, India 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1403185538627031041/q0Qp-ajE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 429 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PANDYASTORE** 36 , **SHIVI** 36 , **SHIVA** 27 , **RAAVI** 23 , **@NUPUR_KASHYAPP:** 21 , **@PRAJAKTASHARMA8** 17 , **@SAFFARNAAMA** 16 , **H** 16 , **@SAFFARNAAMA:** 15 , **@KANWARDHILLON_** 14 , **@BARSAYGASAAVAN:** 12 , **@NUPUR_KASHYAPP** 12 , **HO** 12 , **@_SHIVARAAVI_** 11 , **ALICEKAUSHIK** 11 , **M** 10 , **KD** 10 , **KI** 9 , **R** 9 , **THN** 8 , 
+ 
+## What this user tweeted
+ 
+RT @nupur_kashyapp: Shiva 'a pov 
+Shiva on the other hand was feeling so mad. What had happened to him? Within few days of his marriage and…
+ 
+# TangerineYumzUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` TangerineYumz 
+ 
+`User chosen Name:` tangerine yumz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 10 07:01:46 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AISPERA:** 4 , **@AISPERA_JP:** 2 , **AISPERA** 2 , **の** 2 , **BIGDATA** 2 , **BUSINESS** 2 , **AISPERA'S** 2 , **PLATFORM** 2 , **INTRODUCING** 2 , **RT** 1 , **CRIMINALIP** 1 , **を紹介します。CRIMINAL** 1 , **IPは世界中のIP** 1 , **に基づいた脅威情報を提供して** 1 , **を守ります。API連動で他のプラットホームとシステムに簡単かつ迅速に適用できます…RT** 1 , **PITECTION** 1 , **を紹介します。サイバーから著作物の無断複製や侵害を検知する** 1 , **CTI** 1 , **サービスです。ウェブプラットホーム(SAAS)を使用することで簡単にリスク管理が可能です。BUSINESS** 1 , **に…RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @AISpera: Is your IT asset safe?
+#RMR provides automated #port &amp; #domain monitoring, and report of vulnerabilities. Start a comprehensiv…
+ 
+# Ranachan21USER INFO
+![image](http://pbs.twimg.com/profile_images/1402107116077281282/jYWBDsQr_normal.jpg)
+ 
+`User ScreenName:` Ranachan21 
+ 
+`User chosen Name:` Ranachan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 08 03:27:01 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 151 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1402107116077281282/jYWBDsQr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 151 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 21 , **PROJECTS** 21 , **UTC** 18 , **AMA** 17 , **PM** 15 , **INVESTORS** 13 , **TOKEN** 13 , **JUNE** 13 , **@STEVENCURTIS011** 13 , **@DAVIDGA6969** 13 , **@WATSONS001@CRYPTONATIONN** 13 , **100$** 12 , **@POLKAPLAY** 12 , **CRYPTO** 11 , **USDT** 11 , **MANY** 11 , **@FEGTOKEN** 11 , **@MOONFARMFINANCE** 11 , **COMMUNITY** 10 , **VERY** 10 , 
+ 
+## What this user tweeted
+ 
+@blockelite @MerlinLab_ The security of assets is the first thing that comes to me and other Investors when choosin… https://t.co/9r6kgojGH0
+ 
+# MakeSmartTradesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1402850733125476354/qT6iaMee_normal.jpg)
+ 
+`User ScreenName:` MakeSmartTrades 
+ 
+`User chosen Name:` Profit 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 07 20:14:39 +0000 2021 
+ 
+`User Description?:` HODL long means to continuously reevaluate the company’s objectives . any of the original technologies or foundations change , then reevaluate.SP is irrelevant 
+ 
+`Followers?: `19 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 89 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1402850733125476354/qT6iaMee_normal.jpg 
+ 
+`Number of tweets excluding replies:` 88 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$HMBL** 19 , **@HUMBLCEO** 16 , **@SWINGTRADER25** 14 , **@THELUNAROB** 14 , **ADAM** 13 , **WOLFE** 13 , **BLOCKCHAIN** 11 , **SAVE** 11 , **US** 11 , **@MAKESMARTTRADES:** 9 , **I’M** 8 , **PLEASE** 8 , **GREAT** 6 , **HEAD** 6 , **DEVELOPMENT** 6 , **PATENT** 5 , **TECHNOLOGY** 5 , **?** 5 , **IM** 5 , **BRIAN** 5 , 
+ 
+## What this user tweeted
+ 
+@StockYodeler @humblceo Due diligence is neither but neutral. This is a pink sheet stock , I love the tech , I love… https://t.co/zW33pUsWf2
+ 
+# 7h3w4kl3rUSER INFO
+![image](http://pbs.twimg.com/profile_images/1402827167575183367/-wicIJPG_normal.jpg)
+ 
+`User ScreenName:` 7h3w4kl3r 
+ 
+`User chosen Name:` 7h3w4kl3r 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 10 02:58:30 +0000 2021 
+ 
+`User Description?:` Hacking 4fun/ @org_destiny
+TDA 
+ 
+`Followers?: `0 
+ 
+`Following?:` 25 
+ 
+`User URL?:` None 
+ 
+`Location:` Califórnia, USA 
+ 
+`Number of tweets extracted`  : 15 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1402827167575183367/-wicIJPG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 15 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KITPLOIT:** 4 , **@HFUHS:** 3 , **CAPTURE** 3 , **EM** 2 , **MAXIMIZE** 2 , **TOOL** 2 , **@ACOOEDI:** 2 , **BBSCOPE** 2 , **GATHERING** 2 , **BUGCROWD** 2 , **HASHES** 2 , **@TAK3Z00** 1 , **@AMAZONAWS1** 1 , **PFRT** 1 , **@TAK3Z00:** 1 , **BREVE** 1 , **SEREMOS** 1 , **RESPONSÁVEIS** 1 , **PELA** 1 , **INVASÃO** 1 , 
+ 
+## What this user tweeted
+ 
+RT @KitPloit: magicRecon - A Powerful Shell Script To Maximize The Recon And Data Collection Process Of An Objective And Finding Common Vul…
+ 
+# YzcEkinUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` YzcEkin 
+ 
+`User chosen Name:` EkinYzc 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 08 12:06:51 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 40 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HEM** 2 , **GÜZEL** 2 , **RT** 1 , **@MURATMIRGUN:** 1 , **BUGÜN** 1 , **RESMI** 1 , **OLARAK** 1 , **YAZILIM** 1 , **GELIŞTIRME** 1 , **DURMUŞTUR** 1 , **SON** 1 , **KALE** 1 , **STACKOVERFLOW** 1 , **DÜŞTÜ** 1 , **HTTPS://TCO/MVPFSCYL6ERT** 1 , **@_WPSCAN_:** 1 , **WE'VE** 1 , **RELEASED** 1 , **NEW** 1 , **EBOOK** 1 , 
+ 
+## What this user tweeted
+ 
+RT @_WPScan_: We've just released our new eBook for free! 🥳
+
+How to: Find WordPress Plugin Vulnerabilities
+
+Download =&gt; 
+
+https://t.co/pbED…
+ 
+# hackersteaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1400827161255182338/-aSUwcp8_normal.jpg)
+ 
+`User ScreenName:` hackerstea 
+ 
+`User chosen Name:` vikas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jun 04 14:49:44 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `21 
+ 
+`Following?:` 75 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1400827161255182338/-aSUwcp8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRYHACKME** 15 , **COMPLETED** 10 , **ROOM!** 10 , **CHECK** 10 , **OUT:** 10 , **EARNED** 3 , **BADGE** 3 , **REGULAR** 2 , **SECURITY…** 2 , **OWASP** 2 , **VIA** 2 , **SERVICES** 2 , **EXPRESSIONS** 1 , **HTTPS://TCO/UMIIH4BTKF** 1 , **E…** 1 , **HTTPS://TCO/AYGPSAUSNIHASHING** 1 , **CRYPTO** 1 , **101** 1 , **HTTPS://TCO/N8E4ODYJ70** 1 , **HTTPS://TCO/V7EPZK0OPOPICKLE** 1 , 
+ 
+## What this user tweeted
+ 
+Upload Vulnerabilities - I have just completed this room! Check it out:  https://t.co/kUGasM01Rb #tryhackme #file-u… https://t.co/Zm1kI5QQ04
+ 
+# BlazenkaDucicUSER INFO
+![image](http://pbs.twimg.com/profile_images/1401616853454114818/x8FOP_br_normal.jpg)
+ 
+`User ScreenName:` BlazenkaDucic 
+ 
+`User chosen Name:` Blaženka Dučić 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jun 06 19:07:38 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 48 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1401616853454114818/x8FOP_br_normal.jpg 
+ 
+`Number of tweets excluding replies:` 48 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FINANCERABBIT** 10 , **PROJECT** 8 , **PM** 7 , **PROJECTS** 6 , **IMPORTANT** 6 , **RULES:** 5 , **@BODATOKEN** 5 , **MOST** 5 , **@BABYSWAP_BSC** 5 , **ANY** 5 , **@MERLINLAB_** 5 , **@HODOOICOM** 5 , **@LIQUIDIFYIO** 5 , **US** 4 , **TOKENS** 4 , **@BLOCKELITE:** 4 , **BLOCKELITE** 4 , **X** 4 , **JUNE** 4 , **UTC** 4 , 
+ 
+## What this user tweeted
+ 
+@blockelite @MerlinLab_ I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do… https://t.co/ZWzypdemp2
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
