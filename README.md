@@ -30,17 +30,17 @@ The most popular user is: **BushidoToken**
 |                **Sample-Tweets**        |
 | :-------------: |
 | RT @javier_carriazo: NordLocker Details 1.2TB Database of Information Stolen via Custom Malware  #DataBreaches #DarkWeb #CyberSec #infosec… |
-| RT @Cyjax_Ltd: Our CISO Ian Thornton-Trump (@phat_hobbit) joins @ThreatQuotient to show how our combined solution will provide #strategic i… |
-| RT @RedPacketSec: Serious Flaws Identified in CODESYS Industrial Automation Software - https://t.co/pbn43eyOBX#OSINT #Security #Threatinte… |
+| RT @RedPacketSec: JBS paid $11 million to REvil ransomware out of $22.5M requested - https://t.co/bgcLdK4atV#Hacking #OSINT #Security #Thr… |
+| RT @JinibaBD: 😱 Billions of Compromised Records and Counting: Why the Application Layer is Still the Front Door for #DataBreaches #DarkWeb… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **JinibaBD** |
 | #2 Most tweeted to  | **RedPacketSec** |
-| #3 Most tweeted to  | **javier_carriazo** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 2.11%|
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 0.25%  |
+| Tweeters with < 10 followers  | 2.17%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -53,19 +53,19 @@ The most popular user is: **BushidoToken**
 | first  | **DARKWEB**  |
 | second  | **CYBERSEC**  |
 | third  | **INFOSEC** |
-| fourth  | **THREATINTEL**  |
-| fifth  | **@JINIBABD:**  |
+| fourth  | **DATABREACHES**  |
+| fifth  | **THREATINTEL**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (6.67%)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: Windows 10 targeted by PuzzleMaker hackers using Chrome zero-days #DataBreaches #DarkWeb #CyberSec #infosec #Security #cyberc… |
+|RT @Certego_Intel: #Covid19 #Spam #SuspiciousDomain: 63[.81[.95[.6VirusTotal: https://t.co/Uq7HTYpK0x#CyberSecurity #ThreatIntel (bot ge… |
 
 ### MOST RETWEETED 
 
@@ -74,6 +74,45 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJE
 | The other day I was asked if I had a #CTI dictionary of terms for someone new looking to get into #threatintel. I d… https://t.co/GPjaKucjB2 |
 
 # Potential Fake Accounts
+ 
+# WhitePacketUSER INFO
+![image](http://pbs.twimg.com/profile_images/1401086550012620803/eF9H0Mbl_normal.jpg)
+ 
+`User ScreenName:` WhitePacket 
+ 
+`User chosen Name:` WhitePacket 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 05 07:54:25 +0000 2021 
+ 
+`User Description?:` Security consultant and pentester. Proud Canadian. I provide intelligence to the United States government. 
+ 
+`Followers?: `15 
+ 
+`Following?:` 49 
+ 
+`User URL?:` https://t.co/mIBOyaDRSP 
+ 
+`Location:` Washington DC 
+ 
+`Number of tweets extracted`  : 85 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1401086550012620803/eF9H0Mbl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 85 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@120FPS:** 9 , **@WHITEPACKET** 5 , **GOT** 3 , **CARE** 3 , **U** 3 , **DON'T** 3 , **@GOVCANHEALTH** 3 , **@PROTONMAIL** 3 , **THESE** 3 , **@POMPOMPUR_IN:** 3 , **VINNY** 3 , **BACK** 3 , **@120FPS** 2 , **CRIMINAL** 2 , **@POGOWASRIGHT:** 2 , **YEAH** 2 , **BETTER** 2 , **GOOD** 2 , **OK** 2 , **MIGHT** 2 , 
+ 
+## What this user tweeted
+ 
+Releasing my report soon about an internet-based criminal organization located in Missouri #threatintel #threatactor
  
 # CybercellCidUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1403294609749413888/BFC7L2Em_normal.jpg)
