@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **BushidoToken**  
+The most popular user is: **ZukisanNdwendwe**  
  
 
-## The other day I was asked if I had a #CTI dictionary of terms for someone new looking to get into #threatintel. I d… https://t.co/GPjaKucjB2 
+## Stop using your current Company laptop/PC and internet when applying for a new job.
+
+We can see it at IT Department… https://t.co/NgjSvThGxe 
 
   
 
@@ -23,24 +25,24 @@ The most popular user is: **BushidoToken**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DSCI_TiR: "Alert: Multiple #vulnerabilities have been identified in the multiple #QNAP products which could lead to #security bypass an… |
-| Join us LIVE tomorrow for Synapse 101! Learn how the #Synapse UI can help your team ditch the spreadsheets --&gt; spen… https://t.co/LoOmmYHW6C |
-| RT @FlareSystems_: The evolution of malicious actors over the decades has shown that greed is responsible for most of the #cybersecurity in… |
+| RT @MaryEti22941131: usaxoomWorldwide best SMM And SEO service providerhttps://t.co/pktiTAnqwk#BuyGoogle5StarReviews#pokemon #usaxoom #… |
+| RT @ICSCERT: ☁️ @CISAgov issued public advisory ICSA-21-168-03 Advantech WebAccess SCADA to the ICS webpage: https://t.co/V9bRSiAIga #ICS… |
+| I just want to say that sending a fake ransomware email with internal information to a team is a huge waste of peop… https://t.co/hengCSinyj |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **RedPacketSec** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 1.1%|
+| #1 Most tweeted to  | **iotcybersec24** |
+| #2 Most tweeted to  | **TheHackersNews** |
+| #3 Most tweeted to  | **CyberWarship** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 1.4%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,57 +52,139 @@ The most popular user is: **BushidoToken**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DATABREACHES**  |
-| second  | **DARKWEB**  |
-| third  | **CYBERSEC** |
-| fourth  | **THREATINTEL**  |
-| fifth  | **INFOSEC**  |
+| first  | **INFOSEC**  |
+| second  | **USAXOOM**  |
+| third  | **RANSOMWARE** |
+| fourth  | **SERVICE**  |
+| fifth  | **BEST**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @sec_soup: Back with another collection of #infosec links after an exhausting string of weekends being AFK. Lots of great stuff here as… |
+|An odd vigilante campaign is preventing victims from accessing pirate content online. #PrevailionKnowsRead:… https://t.co/sFligmnSVc |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BushidoToken**  |
+| The most retweeted user is: **ZukisanNdwendwe**  |
 | ------------- |
-| The other day I was asked if I had a #CTI dictionary of terms for someone new looking to get into #threatintel. I d… https://t.co/GPjaKucjB2 |
+| Stop using your current Company laptop/PC and internet when applying for a new job.We can see it at IT Department… https://t.co/NgjSvThGxe |
 
 # Potential Fake Accounts
  
-# JamesWi65923697USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# MaryEti22941131USER INFO
+![image](http://pbs.twimg.com/profile_images/1403223114905915392/jqBm1ojq_normal.jpg)
  
-`User ScreenName:` JamesWi65923697 
+`User ScreenName:` MaryEti22941131 
  
-`User chosen Name:` James Williams 
+`User chosen Name:` Mary Etienne 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jun 08 09:10:08 +0000 2021 
+`User signup date?:` Fri Jun 11 05:29:20 +0000 2021 
  
-`User Description?:`  
+`User Description?:` This age is now very important for business and entertainment in online. With this in mind we provide best SMM and SEO services worldwide. Usaxoom 
+ 
+`Followers?: `13 
+ 
+`Following?:` 19 
+ 
+`User URL?:` https://t.co/FT01L19qsp 
+ 
+`Location:` Los Angeles 
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1403223114905915392/jqBm1ojq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**USAXOOM** 64 , **POKEMON** 40 , **WORLDWIDE** 24 , **BEST** 24 , **SMM** 24 , **SEO** 24 , **SERVICE** 24 , **PROVIDER** 24 , **BUY** 20 , **REVIEWS** 19 , **BUYGOOGLE5STARREVIEWS** 18 , **BLACKTECHTWITTER** 11 , **SITE** 11 , **GOOGLE** 11 , **5** 11 , **STAR** 11 , **@USAXOOM:** 10 , **@FIVESTARREVIEW7:** 10 , **@DAVIDON32456910:** 9 , **BUYELITEYELPREVIEWS** 7 , 
+ 
+## What this user tweeted
+ 
+usaxoom
+Worldwide best SMM And SEO service provider
+https://t.co/pktiTAnqwk
+#BuyGoogle5StarReviews
+#pokemon… https://t.co/B978Pcqtg7
+ 
+# CraigWatkins865USER INFO
+![image](http://pbs.twimg.com/profile_images/1405556118789689348/ihcq_ung_normal.jpg)
+ 
+`User ScreenName:` CraigWatkins865 
+ 
+`User chosen Name:` CraigWatkins 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 17 16:00:55 +0000 2021 
+ 
+`User Description?:` Cyber Security Analyst 
  
 `Followers?: `0 
  
-`Following?:` 15 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:` Wales, UK 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1405556118789689348/ihcq_ung_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@THEHACKERSNEWS:** 1 , **APT** 1 , **HACKER** 1 , **GROUP** 1 , **"TA402/MOLERATS"** 1 , **RESURFACED** 1 , **AFTER** 1 , **TWO-MONTH** 1 , **HIATUS** 1 , **TARGET** 1 , **GOVERNMENT** 1 , **INSTITUTIONS** 1 , **MIDD…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: APT hacker group "TA402/Molerats" has resurfaced after a two-month hiatus to target government institutions in the Midd…
+ 
+# BasmaHu23344165USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` BasmaHu23344165 
+ 
+`User chosen Name:` Basma Hussein 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 17 16:42:54 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 3 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -108,38 +192,78 @@ VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 ## User Top tweeted words 
  
-**@XBOX:** 2 , **SIX** 2 , **RT** 1 , **DOING?** 1 , **HTTPS://TCO/B8X11OED9ART** 1 , **@RECORDEDFUTURE:** 1 , **PRIORITIZE** 1 , **MATTERS** 1 , **RECORDED** 1 , **FUTURE** 1 , **EXPRESS** 1 , **CHROME** 1 , **FIREFOX** 1 , **COMPATIBLE** 1 , **ANY** 1 , **WEB-BASED** 1 , **SIEM** 1 , **DOWNLOA…RT** 1 , **NEW** 1 , **WORLDS** 1 , 
+**–** 4 , **PRO** 3 , **FULL** 3 , **ACTIVATED** 3 , **DISCOUNT** 3 , **100%** 3 , **AUTO** 2 , **V3173** 2 , **2019** 2 , **LIFETIME** 2 , **OFF** 2 , **INFOSEC…** 2 , **TELEGRAM** 1 , **HTTPS://TCO/LLNXVJDCVO** 1 , **HTTPS://TCO/EZUEQFWACXDRFARFAR** 1 , **DATA** 1 , **GATHERED** 1 , **SUPER** 1 , **FILTER** 1 , **V40** 1 , 
  
 ## What this user tweeted
  
-RT @RecordedFuture: Prioritize what matters with Recorded Future Express for Chrome or Firefox. Compatible with any web-based SIEM. Downloa…
+TeleGram Auto Pro v3.17.3 2019 Full Activated LifeTime – Discount 100% OFF https://t.co/LLnXVJDcVo #infosec… https://t.co/eZUeQfWacXDr.FarFar Data Gathered Super Filter Pro v4.0 Full Activated (ViP) – Social Media Marketing – Discount 100% OFF… https://t.co/NUoSciAwSiTeleGram Auto Pro v3.17.3 2019 Full Activated LifeTime – Discount 100% OFF https://t.co/LLnXVJUOjY #infosec… https://t.co/ICvNgIXzO4
  
-# CybercellCidUSER INFO
-![image](http://pbs.twimg.com/profile_images/1403294609749413888/BFC7L2Em_normal.jpg)
+# YounesStoreUSER INFO
+![image](http://pbs.twimg.com/profile_images/1402775680765546496/etxpGTQe_normal.jpg)
  
-`User ScreenName:` CybercellCid 
+`User ScreenName:` YounesStore 
  
-`User chosen Name:` Cyber Cell-A&N Police 
+`User chosen Name:` Younes Store 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jun 10 11:08:26 +0000 2021 
+`User signup date?:` Wed Jun 09 23:10:59 +0000 2021 
  
-`User Description?:` Cybercell-A&N Police official. Donot report crime here. Report cybercrime at https://t.co/fhkALxw5oH. Toll Free helpline no. 155260 for assistance 
+`User Description?:` Business online 
  
-`Followers?: `13 
+`Followers?: `10 
  
-`Following?:` 9 
+`Following?:` 4 
  
-`User URL?:` https://t.co/VG6ZyZD2qd 
+`User URL?:` None 
  
-`Location:` Port Blair 
+`Location:`  
+ 
+`Number of tweets extracted`  : 127 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1402775680765546496/etxpGTQe_normal.jpg 
+ 
+`Number of tweets excluding replies:` 127 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@YOUNESSTORE:** 57 , **MEN** 37 , **BRAND** 33 , **LUXURY** 33 , **WATCHES** 28 , **TOP** 28 , **TEETH** 24 , **CLEANING** 24 , **BLUE** 23 , **BLUETOOTH** 21 , **SPORT** 21 , **CASUAL** 21 , **WOMEN** 19 , **SPORTS** 17 , **LEATHER** 16 , **VINTAGE** 16 , **TUNIC** 16 , **CURREN** 14 , **WIRELESS** 13 , **HEADPHONES** 13 , 
+ 
+## What this user tweeted
+ 
+https://t.co/kHCAm1rg2i
+Luxury Handbags Women Bags Designer Large Capacity Tote Bag Famous Brand Leather Shoulder C… https://t.co/PePSirAs7S
+ 
+# sa_womenintechUSER INFO
+![image](http://pbs.twimg.com/profile_images/1405564594442092555/DrD8E8cy_normal.jpg)
+ 
+`User ScreenName:` sa_womenintech 
+ 
+`User chosen Name:` womenintechSA 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 14 00:39:20 +0000 2021 
+ 
+`User Description?:` A friendly bot that advocates for all young girls in technology 🇿🇦 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 20 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1403294609749413888/BFC7L2Em_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1405564594442092555/DrD8E8cy_normal.jpg 
  
-`Number of tweets excluding replies:` 20 
+`Number of tweets excluding replies:` 21 
  
 
  
@@ -147,38 +271,38 @@ RT @RecordedFuture: Prioritize what matters with Recorded Future Express for Chr
  
 ## User Top tweeted words 
  
-**@CYBERDOST:** 9 , **BEWARE** 6 , **SAFE** 4 , **ANY** 4 , **:** 3 , **के** 3 , **RANSOMWARE** 3 , **CAUTIOUSBE** 3 , **रहें** 2 , **में** 2 , **@PIBFACTCHECK:** 2 , **PREVENT** 2 , **MALWARE** 2 , **DATA** 2 , **JOB** 2 , **PRIZE** 2 , **@DCP_CCC_DELHI:** 2 , **📌NEVER** 2 , **SUCH** 2 , **LINKS** 2 , 
+**DAY** 4 , **JAVASCRIPT** 4 , **CYBERSECURITY** 4 , **WOMENINTECH** 4 , **LA** 4 , **USING** 3 , **2021** 3 , **TECH** 3 , **NODEJS** 3 , **HCLSWLOBP** 3 , **NOCODE** 3 , **JQUERY** 2 , **100DAYSOFCODE** 2 , **CAMERA** 2 , **FREE** 2 , **BLACK** 2 , **LEARN** 2 , **UNITY** 2 , **WOMEN** 2 , **CASESTUDY:** 2 , 
  
 ## What this user tweeted
  
-RT @DSCI_TiR: "Alert: End is #ransomware that encrypts files makes them inaccessible and demands a ransom. It has been discovered recently.…
+RT @ewfusa: The 2021 EWF Virtual 2021 EWF #Cybersecurity Women on Capitol Hill Public/Private Symposium has started! Join the Zoom meeting…
  
-# RynCyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1402873711703822337/k_R-YmAZ_normal.jpg)
+# LCS_InfosecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1404669402713399296/bUuWzwde_normal.jpg)
  
-`User ScreenName:` RynCyber 
+`User ScreenName:` LCS_Infosec 
  
-`User chosen Name:` RyN_cyber 
+`User chosen Name:` LCS_InfoSec 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jun 10 06:00:34 +0000 2021 
+`User signup date?:` Tue Jun 15 05:08:20 +0000 2021 
  
-`User Description?:` I mostly cover #natsec, #surveillance, #hackingtools & #technews. Interest includes social media #influenceops..& other aspects of #digitalconflict, #cyberwar. 
+`User Description?:`  
  
-`Followers?: `9 
+`Followers?: `0 
  
-`Following?:` 43 
+`Following?:` 9 
  
 `User URL?:` None 
  
-`Location:` Internet 
+`Location:` ~/ 
  
-`Number of tweets extracted`  : 122 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1402873711703822337/k_R-YmAZ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1404669402713399296/bUuWzwde_normal.jpg 
  
-`Number of tweets excluding replies:` 122 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -186,38 +310,40 @@ RT @DSCI_TiR: "Alert: End is #ransomware that encrypts files makes them inaccess
  
 ## User Top tweeted words 
  
-**100DAYSOFCODE** 20 , **WOMENWHOCODE** 18 , **TOOL** 12 , **US** 8 , **NARRATIVE** 5 , **WAR** 5 , **DATASCIENCE** 5 , **NEW** 5 , **DATA** 5 , **DON'T** 4 , **TESTING** 4 , **AMERICAN** 4 , **USING** 4 , **CHINA** 4 , **KILLED** 4 , **100DAYSOFCODE…** 4 , **ENGINEERING** 4 , **LINUX** 4 , **ITS** 4 , **OPENSOURCE** 4 , 
+**@ITS__ABD** 1 , **@STOKFREDRIK** 1 , **@THEXSSRAT** 1 , **@INSIDERPHD** 1 , **@NAHAMSEC** 1 , **CONGRATS** 1 , **JOURNEY** 1 , **THOUSAND** 1 , **MILES** 1 , **BEGINS** 1 , **SING…** 1 , **HTTPS://TCO/R1XJB44OMYSHOWERTHOUGHT** 1 , **PARKING** 1 , **LOTS** 1 , **HUGE** 1 , **OVERLOOKED** 1 , **ATTACK** 1 , **VECTOR** 1 , **BATTERY** 1 , **POWERED** 1 , 
  
 ## What this user tweeted
  
-The #ThreatIntel team with @greathorn made the discovery &amp; explained the emails popping up on people’s screens at w… https://t.co/xsnPNTGFTt
+@its__abd @stokfredrik @theXSSrat @InsiderPhD @NahamSec Congrats.
+
+A journey of a thousand miles begins with a sing… https://t.co/R1xjB44OmY#showerthought Parking lots are a huge overlooked attack vector. A battery powered Raspberry Pi in a weatherproof c… https://t.co/ND3FJXcGAd
  
-# j0e_BinaryUSER INFO
-![image](http://pbs.twimg.com/profile_images/1402276345942577153/zOY9SyqM_normal.jpg)
+# ApeDopedUSER INFO
+![image](http://pbs.twimg.com/profile_images/1405219752801312768/iQDCMQnW_normal.jpg)
  
-`User ScreenName:` j0e_Binary 
+`User ScreenName:` ApeDoped 
  
-`User chosen Name:` Yousef B. 
+`User chosen Name:` Doped Ape 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jun 08 13:09:07 +0000 2021 
+`User signup date?:` Wed Jun 16 17:00:33 +0000 2021 
  
-`User Description?:` Cybersecurity student at @UOFjeddah 👨🏻‍💻 || part of @CYCLUB_UJ || interested in blue teaming💙, Malware Analysis 🤖 and incident response. 
+`User Description?:` Fiction | Facts | Tech | Stories 
  
-`Followers?: `21 
+`Followers?: `2 
  
-`Following?:` 109 
+`Following?:` 0 
  
 `User URL?:` None 
  
-`Location:` ~/KSA/JED 
+`Location:`  
  
-`Number of tweets extracted`  : 19 
+`Number of tweets extracted`  : 63 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1402276345942577153/zOY9SyqM_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1405219752801312768/iQDCMQnW_normal.jpg 
  
-`Number of tweets excluding replies:` 19 
+`Number of tweets excluding replies:` 63 
  
 
  
@@ -225,13 +351,15 @@ The #ThreatIntel team with @greathorn made the discovery &amp; explained the ema
  
 ## User Top tweeted words 
  
-**في** 7 , **يبارك** 4 , **فيك** 4 , **من** 3 , **الله** 3 , **مقعد** 3 , **مجاني** 3 , **لـ** 3 , **الامن_السيبراني** 2 , **،** 2 , **على** 2 , **حبيبي** 2 , **تخصص** 2 , **الامن** 2 , **بعض** 1 , **الادوات** 1 , **المفيدة** 1 , **جدا** 1 , **عملية** 1 , **الOSINT** 1 , 
+**JAVASCRIPT** 16 , **AI** 15 , **PYTHON** 11 , **100DAYSOFCODE** 9 , **MACHINELEARNING** 8 , **DATASCIENCE** 8 , **PAY** 7 , **…RT** 7 , **BIGDATA** 6 , **CODE** 5 , **ANALYTICS** 5 , **PROGRAMMING** 5 , **CODING** 5 , **ARTIFICIAL** 5 , **ESSAY** 4 , **US** 4 , **DAY** 4 , **VIA** 4 , **INTELLIGENCE** 4 , **BEST** 4 , 
  
 ## What this user tweeted
  
-RT @CyborgSecInc: Let's face it, we've all been feeling this way....
-
-#memes #threathunting #cybersecurity #threatdetection #threatintel #i…
+RT @usaxoom: usaxoom
+Worldwide best SMM And SEO service provider
+https://t.co/guDYWZTOFl
+#BuyGoogle5StarReviews
+#pokemon #usaxoom #blacktec…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
