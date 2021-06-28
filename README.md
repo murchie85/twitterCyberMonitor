@@ -31,9 +31,9 @@ Las Vegas, Seattle, San Diego, Orlando and countless commun… https://t.co/8k4z
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @graysquirrel7 @IanColdwater So you're are in DC then. Huh. 🤭😋 |
-| RT @SecurityTube: Last week to get 10% off selected bootcamps! Until 30 June, subscribe to an annual plans to claim your discount!  https:/… |
-| RT @aditi_singghh: Got $30k bounty from MicrosoftBug type: RCE#bugbounty #msrc #Microsoft #cybersecurity #infosec https://t.co/lzp1cjwSLT |
+| RT @MicroFocusSec: If you missed our Humans and Machines Podcast episode, “Decoding Security #AI Startups and Investments,” featuring @Dino… |
+| RT @teslatech_one: Noobs are still Checking 😂😆 If the #Windows11 is compatible      With there system or not 🚫            😂❌⭕❌⭕🏳️🏁… |
+| RT @Iamdataqueen: #FreePress #FreeSpeech #FreeElections #FreeWilly😐#HumanRights #science#laicism #TFSM #LGBTQ#Infosec #cybersecurity #c… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -41,8 +41,8 @@ Las Vegas, Seattle, San Diego, Orlando and countless commun… https://t.co/8k4z
 | #1 Most tweeted to  | **aditi_singghh** |
 | #2 Most tweeted to  | **iotcybersec24** |
 | #3 Most tweeted to  | **oneleggoalie** |
-| NewProfiles (less than 10 days) | 0.62%  |
-| Tweeters with < 10 followers  | 1.98%|
+| NewProfiles (less than 10 days) | 0.72%  |
+| Tweeters with < 10 followers  | 2.06%|
 | Tweeters with > 1000000 followers  | 0.02%  |
 
 
@@ -62,12 +62,12 @@ Las Vegas, Seattle, San Diego, Orlando and countless commun… https://t.co/8k4z
 ## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @liontarakos: #CyberSecurity #infosec #7com1068 #microsoft #malware #rootkitTrends:#chainsawman #Origin #brendan #StateOfOrigin #Stray… |
+|RT @DeepFriedCyber: Ethical Hacker Shares Insight On My Egg Bank Ransomware Attack https://t.co/uavROvggkj #news #cybersecurity #infosec ht… |
 
 ### MOST RETWEETED 
 
@@ -76,45 +76,6 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJE
 | Louis DeJoy's USPS slowdown plan will delay the mail. Las Vegas, Seattle, San Diego, Orlando and countless commun… https://t.co/8k4z2OmN8d |
 
 # Potential Fake Accounts
- 
-# royael_eternityUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` royael_eternity 
- 
-`User chosen Name:` Eternity Royael 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jun 26 12:37:26 +0000 2021 
- 
-`User Description?:` if I feel ya vibe off you will be blocked 
- 
-`Followers?: `5 
- 
-`Following?:` 464 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 23 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 23 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CALLED** 3 , **@CYBERSECDN:** 2 , **BEGINNERS** 2 , **C** 2 , **PHONES** 2 , **@RISING_SERPENT** 2 , **USE** 2 , **BRAIN** 2 , **INSTEAD** 2 , **EVERYONE’S** 2 , **ELSE** 2 , **CAN’T** 2 , **SIGNED** 2 , **TURNS** 2 , **JUSTICE** 2 , **HELP** 2 , **LAST** 2 , **BIPARTISAN** 2 , **CONGRESS** 2 , **NEED** 2 , 
- 
-## What this user tweeted
- 
-RT @CyberSecDN: Computer Programming: 4 Books in 1: SQL for Beginners, C# for Beginners, C# for intermediate, #Hacking with Kali Linux. Eve…RT @CyberSecDN: Microsoft signed driver called Netfilter, turns out it contained malware - https://t.co/FtGG4B4VtF #cybersecurity #infosec…
  
 # lifesaverangel2USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
@@ -129,19 +90,19 @@ RT @CyberSecDN: Computer Programming: 4 Books in 1: SQL for Beginners, C# for Be
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 85 
+`Following?:` 277 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 7 
+`Number of tweets extracted`  : 40 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 7 
+`Number of tweets excluding replies:` 40 
  
 
  
@@ -149,11 +110,51 @@ RT @CyberSecDN: Computer Programming: 4 Books in 1: SQL for Beginners, C# for Be
  
 ## User Top tweeted words 
  
-**•** 4 , **😶** 3 , **بانتی** 2 , **HACKING** 2 , **METASPLOIT** 2 , **PROGRAMMING** 2 , **RT** 1 , **@OSINTTECHNIQUES:** 1 , **FOUR** 1 , **ADDITIONS** 1 , **TERRORIST** 1 , **ENTITIES** 1 , **CANADA:** 1 , **THREE** 1 , **PERCENTERS** 1 , **ARYAN** 1 , **STRIKEFORCE** 1 , **JAMES** 1 , **MASON** 1 , **ISLAMIC** 1 , 
+**CYBERSECURITY** 5 , **MALTEGO** 4 , **•** 4 , **US** 3 , **ANDROID** 3 , **RANSOMWARE** 3 , **@HACKER0X01:** 3 , **METASPLOIT** 3 , **@VILABINDIA:** 3 , **SECURITY** 3 , **😶** 3 , **@NEELUTRIPATHY:** 2 , **THANKS** 2 , **DEVOPS** 2 , **WEB** 2 , **AVAILABLE** 2 , **@BLEEPINCOMPUTER:** 2 , **JUNE** 2 , **2021** 2 , **TOOLS** 2 , 
  
 ## What this user tweeted
  
-RT @0xTib3rius: Thanks David! My PrivEsc courses are both available for $14.99 each with the coupon code JUNE2021. Perfect for students tak…
+RT @hackthebox_eu: Marshmallow, Nougat, or Lollipop? 🍬 Explorer FIRST #Android #Easy Machine created by bertolis will go live 26 June 2021…RT @VILabIndia: Security Automation: Automate A Step Ahead In Challenging Times#security #technology#ai #ar #datainsights #dataprivacy #dat…RT @kanishkgaur: I write for the @FT @WhatsApp new #privacy  and it's #implications for #businesses  #consumers #India.
+https://t.co/ZKG8Zi…RT @VILabIndia: #Security Test Plan: Assembling And Testing The Effectiveness Of Your Controls#security #technology#datainsights #datapriva…RT @VILabIndia: SecDevOps Need Is Evident, Your Cybersecurity Perspective Doesn't Matter#security #technology#blogging #datainsights #datap…RT @HassijaVinita: 3 Days to go for India's largest #cybersecurity summit, #ETCISODecrypt 2021  #informationtechnology  #infrastructure #Cl…RT @0xTib3rius: Thanks David! My PrivEsc courses are both available for $14.99 each with the coupon code JUNE2021. Perfect for students tak…
+ 
+# royael_eternityUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` royael_eternity 
+ 
+`User chosen Name:` Eternity Royael 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 26 12:37:26 +0000 2021 
+ 
+`User Description?:` if I feel ya vibe off you will be blocked 
+ 
+`Followers?: `6 
+ 
+`Following?:` 476 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CYBERSECDN:** 2 , **BEGINNERS** 2 , **C** 2 , **SIGNED** 2 , **TURNS** 2 , **JUSTICE** 2 , **HELP** 2 , **LAST** 2 , **BIPARTISAN** 2 , **CONGRESS** 2 , **NEED** 2 , **WORKS** 2 , **WHICH** 2 , **RT** 1 , **@BLKGOSPELRADIO:** 1 , **"ANYHOW"** 1 , **@TYETRIBBETT'S** 1 , **SECOND** 1 , **CONSECUTIVE** 1 , **BILLBOARD** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CyberSecDN: Computer Programming: 4 Books in 1: SQL for Beginners, C# for Beginners, C# for intermediate, #Hacking with Kali Linux. Eve…RT @CyberSecDN: Microsoft signed driver called Netfilter, turns out it contained malware - https://t.co/FtGG4B4VtF #cybersecurity #infosec…
  
 # jake_infosecUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1407034616104374272/ycgVZS4H_normal.jpg)
@@ -367,7 +368,7 @@ Bug type: RCE
  
 `User Description?:` Windows 11 Twitter bot, it will retweet all the tweet posted with #Windows11 Created by @arsh_sisodiya 
  
-`Followers?: `15 
+`Followers?: `16 
  
 `Following?:` 9 
  
@@ -379,7 +380,7 @@ Bug type: RCE
  
 `Profile image:` http://pbs.twimg.com/profile_images/1408409095082700800/VPO5OB1u_normal.jpg 
  
-`Number of tweets excluding replies:` 4751 
+`Number of tweets excluding replies:` 4777 
  
 
  
@@ -387,7 +388,7 @@ Bug type: RCE
  
 ## User Top tweeted words 
  
-**WINDOWS11** 136 , **WINDOWS** 80 , **11** 44 , **MICROSOFT** 33 , **PC** 18 , **TPM** 18 , **QUE** 15 , **ANDROID** 14 , **WINDOWS11RT** 14 , **DE** 12 , **APPS** 10 , **CHECK** 9 , **@MICROSOFT** 9 , **10** 9 , **CON** 9 , **NEW** 9 , **@WINDOWS** 8 , **RUN** 8 , **LOS** 8 , **LA** 8 , 
+**WINDOWS11** 133 , **WINDOWS** 76 , **11** 46 , **MICROSOFT** 35 , **PC** 17 , **DE** 15 , **QUE** 15 , **ANDROID** 14 , **TPM** 14 , **WINDOWS11RT** 12 , **NEW** 10 , **APPS** 10 , **RUN** 9 , **PARA** 9 , **LOS** 8 , **10** 8 , **LA** 8 , **NEED** 7 , **APP** 7 , **O** 7 , 
  
 ## What this user tweeted
  
@@ -478,7 +479,7 @@ https://t.co…RT @AvinzanoFelipe: Ransomware: Now gangs are using virtual machi
  
 `Followers?: `2 
  
-`Following?:` 116 
+`Following?:` 117 
  
 `User URL?:` None 
  
@@ -515,7 +516,7 @@ Window's Event Logging, God's gift to investigators. #DFIr #Windows #infosecYou 
  
 `User Description?:` I retweet python tweets created by all you guys and  add to the grandeur of the python community👨‍💻👩‍💻... 
  
-`Followers?: `9 
+`Followers?: `10 
  
 `Following?:` 31 
  
@@ -556,7 +557,7 @@ RT @wmktech: How I Created A private window #Python
 `User Description?:` Founded by @KabirSuda & @savxiety | The Best Hacking, Bug Bounty Hunting and InfoSec Tutorials | Beginner Friendly Videos | 
 Making the world of Infosec Easier 
  
-`Followers?: `124 
+`Followers?: `126 
  
 `Following?:` 21 
  
@@ -764,19 +765,19 @@ RT @cyber: Learn how to reduce your risk of ransomware --&gt; @CISAgov joins @In
  
 `User Description?:` Pulmonary, Critical Care, Hospice and Palliative Medicine. Passionate about affordable health care for all.    🌊 @Indivisible_SP  🌊#VetsResistSquad 🌊 #Resist 
  
-`Followers?: `700 
+`Followers?: `712 
  
-`Following?:` 1143 
+`Following?:` 1159 
  
 `User URL?:` https://t.co/hxDclR2j7o 
  
 `Location:` San Pedro, CA 
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 200 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1408552685377179648/UVMBjK1J_normal.jpg 
  
-`Number of tweets excluding replies:` 383 
+`Number of tweets excluding replies:` 387 
  
 
  
@@ -784,50 +785,11 @@ RT @cyber: Learn how to reduce your risk of ransomware --&gt; @CISAgov joins @In
  
 ## User Top tweeted words 
  
-**@TOMTHUNKITSMIND:** 16 , **TRUMP** 11 , **REPUBLICANS** 9 , **PEOPLE** 9 , **AGAINST** 9 , **US** 8 , **AFTER** 8 , **TAX** 7 , **GOP** 7 , **I’M** 7 , **VOTE** 6 , **DON'T** 6 , **FANONE** 6 , **DEMOCRACY** 6 , **TRUMPRALLY** 6 , **@VIPPUSAO:** 6 , **SOME** 6 , **FORTHEPEOPLEACT** 6 , **MUST** 5 , **@PALMERREPORT:** 5 , 
+**@TOMTHUNKITSMIND:** 16 , **TRUMP** 12 , **PEOPLE** 10 , **AGAINST** 9 , **I’M** 8 , **REPUBLICANS** 8 , **US** 8 , **AFTER** 8 , **GOP** 7 , **TAX** 7 , **DEMOCRACY** 6 , **NEW** 6 , **DON'T** 6 , **FANONE** 6 , **TRUMPRALLY** 6 , **@VIPPUSAO:** 6 , **SOME** 6 , **REPUBLICAN** 5 , **ACT** 5 , **MUST** 5 , 
  
 ## What this user tweeted
  
 RT @VegasVisions: "Nonetheless, use of the technology has also proven fraught. Bad facial recognition matches have been implicated in at le…
- 
-# BitcoinUniv3RS3USER INFO
-![image](http://pbs.twimg.com/profile_images/1408832081304694790/7roTpYbT_normal.jpg)
- 
-`User ScreenName:` BitcoinUniv3RS3 
- 
-`User chosen Name:` ₿¡τc🍏¡Ω💹🌌🏴‍☠️👻🏆😎🚀 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jun 19 17:04:36 +0000 2021 
- 
-`User Description?:` ΑΩ₿#BTC+Crypto UnivΣΓ$ε🌌🇺🇸⚡️🏁#₿President🇸🇻 @nayibbukele 🌎 🌏🗺📡🛰 🪐🌍🦘😎#Frontiers @blockstream💻🏴‍☠️🏆🚀1FzhES2tbRsSuuwinFz2j9fyT1VVc8Fkbt🍕😎 
- 
-`Followers?: `58 
- 
-`Following?:` 458 
- 
-`User URL?:` None 
- 
-`Location:` BitcoinUniverse 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1408832081304694790/7roTpYbT_normal.jpg 
- 
-`Number of tweets excluding replies:` 435 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BITCOIN** 35 , **PEOPLE** 11 , **🚀** 11 , **@DAVIDBR813:** 7 , **@DAVIDGOKHSHTEIN:** 7 , **NEW** 6 , **@APOMPLIANO:** 5 , **BACK** 5 , **@REALSATOSHIN:** 5 , **–** 5 , **US** 5 , **في** 5 , **AFTER** 4 , **MAKE** 4 , **I'M** 4 , **@ADAM3US:** 4 , **COME** 4 , **VOTE!** 4 , **@MICHAEL_SAYLOR:** 4 , **AMC** 4 , 
- 
-## What this user tweeted
- 
-RT @Rgoestotheshows: Neat new attack against #LTE by @pily112 @ruhrunibochum exploiting a poor implementation of AES in #VoLTE reusing the…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
