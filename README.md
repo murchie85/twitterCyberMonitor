@@ -29,9 +29,9 @@ The most popular user is: **BushidoToken**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @javier_carriazo: How cybercriminals are targeting gamers and making millions in cryptocurrency #DataBreaches #DarkWeb #CyberSec #infose… |
-| RT @Certego_Intel: #Malware #Trickbot #BlocklistDomain: downloadm[.xyzVirusTotal: https://t.co/oz9wZPGIwA#CyberSecurity #ThreatIntel (bo… |
-| RT @JinibaBD: A Hacker’s Guide to Protecting Yourself Online  #DataBreaches #DarkWeb #CyberSec #infosec #Security #cybercrime #ThreatIntel… |
+| 😱 Hackers Trick #Microsoft Into Signing Netfilter Driver With #Rootkit Malware #DataBreaches #DarkWeb #CyberSec… https://t.co/5dklSCtKCL |
+| Join us on Telegram!Best Cybersecurity NEWs 24h #ThreatHunting #ThreatIntel #CyberSecurity #technology… https://t.co/Kd1bMsm4J2 |
+| RT @Sebdraven: We've just released Yeti 1.7.0 !https://t.co/xyWOv1JrivWe add ThreatFox of @abuse_ch in feeds, tls for db connections, w… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -39,8 +39,8 @@ The most popular user is: **BushidoToken**
 | #1 Most tweeted to  | **JinibaBD** |
 | #2 Most tweeted to  | **javier_carriazo** |
 | #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 2.04%|
+| NewProfiles (less than 10 days) | 0.27%  |
+| Tweeters with < 10 followers  | 1.99%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -60,12 +60,12 @@ The most popular user is: **BushidoToken**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: #WTF! 😡😱 Hacker reveals #smartmeters are spilling secrets about #Texas snowstorm #DataBreaches #DarkWeb #CyberSec #infosec #S… |
+|RT @javier_carriazo: Microsoft issues warning about a malware campaign involving a call center #DataBreaches #DarkWeb #CyberSec #infosec #S… |
 
 ### MOST RETWEETED 
 
@@ -169,7 +169,7 @@ RT @idclickthat: @Consumer_gripes Network of UK investment sites.
 `User Description?:` Bi-PolarUndergroud💻 Fetichista Bio exorcista💀 algunas veces ingeniera En sistemas- software & cyber security #𝖘𝖔𝖒𝖔𝖘𝖑𝖊𝖌𝖎𝖔𝖓
 Seek and destroy . 
  
-`Followers?: `3 
+`Followers?: `2 
  
 `Following?:` 45 
  
