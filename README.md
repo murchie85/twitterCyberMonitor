@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **mikepompeo**  
+The most popular user is: **Alsa_dat**  
  
 
-## The Colonial Pipeline outage demonstrates how susceptible our cybersecurity and infrastructure systems can be, if l… https://t.co/k0687dWKgp 
+## apt-get install windows11
+
+#Windows11 #infosec https://t.co/35W2UBUhPV 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **mikepompeo**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JaneParrish: #News: @NetAbstraction Launches #Cybersecurity Advisory Board with former Google exec Mike Aiello and ex-Fortune 500 CISO… |
-| RT @Grepnetics: #ArtificialIntelligence sent into battle against fake newsby @ellehardy @create_digital_Read more https://t.co/XLnlBX4j8… |
-| RT @Wajdialkayal1: Botnet Attacks On Apis. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #Tenso… |
+| RT @oneleggoalie: They have you perfectly dividedand both parties are conservative #racistswho refuse to relinquish control😐#laicism #… |
+| @atrupar Hey Dan. Here's a link to backup you lack of understanding of the historic #CivilRights protests at the… https://t.co/RFzB5Awbde |
+| RT @TheHackersNews: In a suspected #software supply-chain attack, hackers tricked #Microsoft into digitally signing a malicious "Netfilter"… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MeghUpdates** |
-| #2 Most tweeted to  | **oneleggoalie** |
-| #3 Most tweeted to  | **iotcybersec24** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 2.34%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **oneleggoalie** |
+| #2 Most tweeted to  | **iotcybersec24** |
+| #3 Most tweeted to  | **swagitda_** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 1.56%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,60 +52,59 @@ The most popular user is: **mikepompeo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INDIA**  |
-| second  | **GLOBAL**  |
-| third  | **10TH** |
-| fourth  | **JUMPS**  |
-| fifth  | **RANK**  |
+| first  | **INFOSEC**  |
+| second  | **LAICISM**  |
+| third  | **@ONELEGGOALIE:** |
+| fourth  | **SCIENCE**  |
+| fifth  | **TFSM**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|👉 $42.37 👈Modern Java Action Lambdas streams functional reactive programming @iotcybersec24 #Modern #Java… https://t.co/Hj197r9uzU |
+|RT @wehackpurple: Entering our #InfoSec has a high barrier to entry, and the exact steps to take are unclear. At WHP, we want to make thing… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mikepompeo**  |
+| The most retweeted user is: **Alsa_dat**  |
 | ------------- |
-| The Colonial Pipeline outage demonstrates how susceptible our cybersecurity and infrastructure systems can be, if l… https://t.co/k0687dWKgp |
+| apt-get install windows11#Windows11 #infosec https://t.co/35W2UBUhPV |
 
 # Potential Fake Accounts
  
-# yfYq5gjrlTC5H5sUSER INFO
-![image](http://pbs.twimg.com/profile_images/1409338174476718086/6ACwW-0M_normal.jpg)
+# ZSecurityHQUSER INFO
+![image](http://pbs.twimg.com/profile_images/1409387710649815051/wxJGZEmh_normal.jpg)
  
-`User ScreenName:` yfYq5gjrlTC5H5s 
+`User ScreenName:` ZSecurityHQ 
  
-`User chosen Name:` फॉलो बैक हिंदू #६ह 
+`User chosen Name:` Z+ Security Team 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jun 28 02:17:07 +0000 2021 
+`User signup date?:` Mon Jun 28 04:04:52 +0000 2021 
  
-`User Description?:` हिन्दू राष्ट्रभक्त, 
-जय हिन्द जय भारत,
- वंदेमातरम
-#हर_कण_हिन्दू 
+`User Description?:` Elite Cyber Security | Consultation | Pentesting ⚓
+Our Purpose of Existence : #InfomationSecurity
+📨 zsecHQ@gmail.com 
  
-`Followers?: `33 
+`Followers?: `4 
  
-`Following?:` 70 
+`Following?:` 7 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Mumbai, India 
  
-`Number of tweets extracted`  : 183 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1409338174476718086/6ACwW-0M_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1409387710649815051/wxJGZEmh_normal.jpg 
  
-`Number of tweets excluding replies:` 183 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -111,11 +112,13 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
  
 ## User Top tweeted words 
  
-**हर** 36 , **में** 34 , **है** 33 , **के** 33 , **को** 27 , **@DABURINDIA** 26 , **से** 26 , **और** 25 , **की** 22 , **@EASEMYTRIP** 22 , **@REALJUICES** 22 , **श्री** 18 , **भी** 17 , **जय** 17 , **का** 16 , **नहीं** 16 , **महादेव** 16 , **@NISHANTPITTI** 15 , **तो** 15 , **@VARUNPURI1984** 14 , 
+**WE'RE** 1 , **SENDING** 1 , **FIRST** 1 , **SET** 1 , **BUG** 1 , **REPORTS** 1 , **INDIAN** 1 , **BRANDS** 1 , **🇮🇳** 1 , **INFOSEC** 1 , **CYBERSECURITYHELLOWORLD** 1 , 
  
 ## What this user tweeted
  
-RT @MeghUpdates: India Jumps to 10th Rank in Global CyberSecurity Ranking from 47th in 2018
+We're sending out our first set of bug reports to Indian Brands today 🇮🇳
+
+#InfoSec #CyberSecurity
  
 # haxxxorshopUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1407775358636593155/9AH7vTvp_normal.jpg)
@@ -156,126 +159,6 @@ RT @MeghUpdates: India Jumps to 10th Rank in Global CyberSecurity Ranking from 4
  
 We just released a new design on https://t.co/7X1E2SN7QA that really captures the essence of the late #JohnMcAfee.… https://t.co/Dw7fpAK8PG
  
-# dpro_9797USER INFO
-![image](http://pbs.twimg.com/profile_images/1409386639701409794/f5veoCL4_normal.jpg)
- 
-`User ScreenName:` dpro_9797 
- 
-`User chosen Name:` Richardson 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 28 05:27:43 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 67 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 86 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1409386639701409794/f5veoCL4_normal.jpg 
- 
-`Number of tweets excluding replies:` 86 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 11 , **INDIA** 10 , **D** 10 , **में** 9 , **की** 9 , **@JSAIDEEPAK:** 9 , **GOVT** 7 , **को** 6 , **@MARINEBHARAT:** 5 , **@ANDCOLORPOCKET:** 5 , **?** 5 , **INDIAN** 5 , **@AKHILESHSHARMA1:** 5 , **से** 5 , **@SWARAJYAMAG:** 5 , **@ADITYARAJKAUL:** 5 , **SHRI** 5 , **@ARANGANATHAN72:** 4 , **ही** 4 , **TERRORISTS** 4 , 
- 
-## What this user tweeted
- 
-RT @MeghUpdates: India Jumps to 10th Rank in Global CyberSecurity Ranking from 47th in 2018
- 
-# CheanJaveUSER INFO
-![image](http://pbs.twimg.com/profile_images/1406816013077794824/nH377Awc_normal.jpg)
- 
-`User ScreenName:` CheanJave 
- 
-`User chosen Name:` Chean Jave Rubio 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 21 03:25:16 +0000 2021 
- 
-`User Description?:` Why do we desire what we can't acquire?
-
--Try and try until you success...
-   Engene lover... 
- 
-`Followers?: `23 
- 
-`Following?:` 184 
- 
-`User URL?:` None 
- 
-`Location:` Dipolog City Philippines  
- 
-`Number of tweets extracted`  : 58 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1406816013077794824/nH377Awc_normal.jpg 
- 
-`Number of tweets excluding replies:` 58 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JAKE** 17 , **@ENHYPEN_JAKESIM:** 11 , **ENHYPEN** 9 , **@ENHYPEN_MEMBERS** 9 , **@ENHYPEN** 7 , **제이크** 5 , **엔하이픈_제이크** 5 , **ENHYPEN_JAKE** 5 , **@JAKEUPDATETEAM:** 4 , **@BELIFTLAB** 3 , **X** 3 , **@SUNGJAKE02:** 3 , **HE'S** 3 , **@ENHYPENBRAND:** 3 , **RETWEET** 3 , **'S** 3 , **BRAND** 3 , **REPUTATION** 3 , **🦮⚽** 3 , **URGING** 2 , 
- 
-## What this user tweeted
- 
-RT @BrandonJonesCIO: Follow me for industry insights on digital transformation, cybersecurity, and the future of IT
- 
-# KKaaRRii51USER INFO
-![image](http://pbs.twimg.com/profile_images/1407006958175981573/o-tupMUm_normal.jpg)
- 
-`User ScreenName:` KKaaRRii51 
- 
-`User chosen Name:` KK_aa_RR_ii_5 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 21 15:44:34 +0000 2021 
- 
-`User Description?:` M^A^G^A  T!R!U!M!P! P!A!T!R!I!O!T! The TRUTH will set you FREE God is in control. Seek HIM in all that you do! It's always been about the children 
- 
-`Followers?: `32 
- 
-`Following?:` 180 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1407006958175981573/o-tupMUm_normal.jpg 
- 
-`Number of tweets excluding replies:` 709 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELIZABLEU:** 11 , **US** 11 , **@4ALLSOULKIND:** 9 , **BIDEN** 8 , **ELECTION** 7 , **AGAINST** 7 , **CHINA** 7 , **NEW** 6 , **PEOPLE** 6 , **TUCKER** 6 , **@RSBNETWORK:** 6 , **DEMOCRAT** 5 , **LAW** 5 , **TRUMP** 5 , **MANY** 5 , **SPYING** 5 , **TWITTER** 4 , **CHILD** 4 , **COULD** 4 , **NEWS** 4 , 
- 
-## What this user tweeted
- 
-Pentagon official who oversees cybersecurity initiative placed on leave, suspected of disclosing classified informa… https://t.co/3mmCJkist4
- 
 # ryn_cyberUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1409198362277072899/28WZjNzf_normal.jpg)
  
@@ -314,35 +197,83 @@ Pentagon official who oversees cybersecurity initiative placed on leave, suspect
  
 ## What this user tweeted
  
-RT @cybersecmeg: ASK ME ANYTHING (almost)! i was the global IR manager for a F100, and now i work on IBM’s X-Force team (for perspective of…RT @yasiransari115: Hey hackers morning
-#xss #bugbounty #hacking #cybersecurity #ethicalhacking #hacker #pentesting #kalilinux #infosec #in…
+RT @divinetechygirl: So basically this is how InfoSec twitter works if 👧🏽 
+
+Woman tweets something correct. 
+Makes “haxxer” boys mad grrrr…RT @yasiransari115: Hey hackers morning
+#xss #bugbounty #hacking #cybersecurity #ethicalhacking #hacker #pentesting #kalilinux #infosec #in…RT @lu3ky13: I submitted XSS and access admin panel to Apple on 10/2020 
+no bounty 
+no response 
+it's fixed
+
+#TogetherWeHitHarder #bugbount…RT @HusseiN98D: I'm looking for a remote job in the #hacking / #infosec field (mainly part time - might reconsider) - I'm mostly good at br…
  
-# PuneetT77460002USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# therealtalkclubUSER INFO
+![image](http://pbs.twimg.com/profile_images/1407503809903882241/_NyY8nl__normal.jpg)
  
-`User ScreenName:` PuneetT77460002 
+`User ScreenName:` therealtalkclub 
  
-`User chosen Name:` Puneet Tomar 
+`User chosen Name:` THE REAL TALK 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jun 29 02:52:18 +0000 2021 
+`User signup date?:` Wed Jun 23 00:59:45 +0000 2021 
  
-`User Description?:`  
+`User Description?:` THE REALTALK is a clubhouse talk show, emphasising on topics that matter, We host talks with prominent figures who help out & inspire. #news #clubhouse 
  
-`Followers?: `0 
+`Followers?: `8 
  
-`Following?:` 17 
+`Following?:` 32 
+ 
+`User URL?:` https://t.co/D7Pj90DbdW 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1407503809903882241/_NyY8nl__normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DAY** 5 , **CANADA** 4 , **TAKES** 4 , **US** 4 , **JUNE** 4 , **@CLUBHOUSE** 3 , **PRIDE** 3 , **22** 3 , **WHILE** 2 , **SOME** 2 , **LIFE** 2 , **GRAVES** 2 , **RESIDENTIAL** 2 , **TWITTER** 2 , **HUMANRIGHTS** 2 , **TALK** 2 , **WOMEN** 2 , **!** 2 , **POLICE** 2 , **PARADE** 2 , 
+ 
+## What this user tweeted
+ 
+Blocking of accounts: Indian Parliamentary panel asks Twitter to explain in 2 days.
+#Twitter #infosec
+ 
+# TheVsecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1407981347294134273/K2SrurwE_normal.jpg)
+ 
+`User ScreenName:` TheVsec 
+ 
+`User chosen Name:` theVsec 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 21 21:51:56 +0000 2021 
+ 
+`User Description?:` An InfoSec professional for now, planning to start an InfoSec company. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 29 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 21 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1407981347294134273/K2SrurwE_normal.jpg 
  
-`Number of tweets excluding replies:` 21 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -350,38 +281,79 @@ RT @cybersecmeg: ASK ME ANYTHING (almost)! i was the global IR manager for a F10
  
 ## User Top tweeted words 
  
-**@MEGHUPDATES:** 16 , **INDIA** 6 , **TWITTER** 5 , **COURT** 4 , **AGAINST** 3 , **NHRC** 3 , **SUPREME** 3 , **BREAKING:** 2 , **DELHI** 2 , **CYBER** 2 , **CELL** 2 , **FIR** 2 , **DIRECTED** 2 , **CHAIRMAN** 2 , **505** 2 , **VOLENCE** 2 , **SECTION** 2 , **VACCINE** 2 , **TEAM** 2 , **WESTBENGAL** 2 , 
+**TAKING** 1 , **NOTES** 1 , **GOING** 1 , **BACKWARDS** 1 , **SEVERAL** 1 , **TIMES** 1 , **LEARNING** 1 , **NEW** 1 , **OFFENSIVE/DEFENSIVE** 1 , **TECHNIQUES** 1 , **MUCH** 1 , **MORE…** 1 , **HTTPS://TCO/OPGGAWEAR4"NO** 1 , **HAVEN'T** 1 , **MADE** 1 , **ANY** 1 , **INTERNAL** 1 , **INVESTIGATION** 1 , **LEAK** 1 , **EVIDENCE** 1 , 
  
 ## What this user tweeted
  
-RT @MeghUpdates: India Jumps to 10th Rank in Global CyberSecurity Ranking from 47th in 2018
+Taking notes, going backwards several times, learning new offensive/defensive techniques and so much more...… https://t.co/OPGgaWeaR4
  
-# reactjs_botUSER INFO
-![image](http://pbs.twimg.com/profile_images/1408357472952332288/l_pTz3S3_normal.jpg)
+# FedorSallyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1409947665572372483/W4WJD2ic_normal.jpg)
  
-`User ScreenName:` reactjs_bot 
+`User ScreenName:` FedorSally 
  
-`User chosen Name:` ✨ReactJS Bot✨ 
+`User chosen Name:` Sally M. Fedor 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jun 25 09:31:44 +0000 2021 
+`User signup date?:` Tue Jun 29 18:50:47 +0000 2021 
  
-`User Description?:` Hi, I'm a bot that loves React related conversations. I retweet #react, #reactjs, #reactnative & #100daysofreact tweets. 
+`User Description?:` I am in a digital market 
  
-`Followers?: `13 
+`Followers?: `1 
  
-`Following?:` 0 
+`Following?:` 4 
+ 
+`User URL?:` https://t.co/JHeWjAXWD1 
+ 
+`Location:` USA 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1409947665572372483/W4WJD2ic_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VERIFIED** 4 , **POKEMON** 4 , **ACCOUNTS** 3 , **BLACKTECHTWITTER** 3 , **PAYPAL** 2 , **USAREALSERVICE** 2 , **USAXOOM** 2 , **CYBERSECURITY…** 2 , **BUY** 1 , **😍😍😍😍** 1 , **CYBERSECURITY** 1 , **INFOSEC…** 1 , **HTTPS://TCO/CGCPIARWWA@BTS_TWT** 1 , **@TOMYBABYBTS** 1 , **HTTPS://TCO/NUVZH6QA2QBUY** 1 , **SKRILL** 1 , **😊😊😊** 1 , **HTTPS://TCO/NUVZH6QA2Q** 1 , **HTTPS://TCO/W0IH0QPCJEWE** 1 , **PROVIDE** 1 , 
+ 
+## What this user tweeted
+ 
+Buy Verified PayPal Accounts
+https://t.co/YUk6FRBx6t
+#pokemon #usarealservice #blacktechtwitter #Cybersecurity… https://t.co/gJgQ5BICpX
+ 
+# Kamalji32759346USER INFO
+![image](http://pbs.twimg.com/profile_images/1408807869932261381/-AZA1619_normal.jpg)
+ 
+`User ScreenName:` Kamalji32759346 
+ 
+`User chosen Name:` Kamaljit Singh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 26 09:59:11 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `69 
+ 
+`Following?:` 623 
  
 `User URL?:` None 
  
-`Location:` Reactverse ⚛ 
+`Location:`  
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1408357472952332288/l_pTz3S3_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1408807869932261381/-AZA1619_normal.jpg 
  
-`Number of tweets excluding replies:` 868 
+`Number of tweets excluding replies:` 389 
  
 
  
@@ -389,41 +361,42 @@ RT @MeghUpdates: India Jumps to 10th Rank in Global CyberSecurity Ranking from 4
  
 ## User Top tweeted words 
  
-**REACT** 90 , **REACTJS** 51 , **JAVASCRIPT** 37 , **REACTNATIVE** 28 , **NATIVE** 24 , **100DAYSOFCODE** 21 , **APP** 17 , **PYTHON** 16 , **FIRST** 16 , **FRONTEND** 14 , **DAY** 13 , **JOIN** 13 , **TOP** 13 , **USING** 12 , **DEVELOPER** 12 , **ANALYTICS** 11 , **AI** 11 , **I'M** 11 , **BIGDATA** 10 , **BUILD** 10 , 
+**है** 51 , **में** 49 , **के** 48 , **की** 44 , **से** 42 , **का** 38 , **को** 36 , **भी** 26 , **तो** 26 , **देश** 23 , **और** 21 , **चौर** 21 , **कर** 16 , **पर** 15 , **हैं** 14 , **ने** 13 , **नहीं** 12 , **एक** 12 , **ये** 11 , **नही** 11 , 
  
 ## What this user tweeted
  
-RT @WajdiAlkayal: Understanding $NextTick InVue.Js
-#WomenWhoCode
-#programming
-#100DaysOfCode #webdevelopment #javascript #PHP #Angular #boo…
+RT @TrendMicroHome: ⚠️@amazon Scam Alert⚠️
+😈: Unusual Sign-in attempt near #Finland was blocked.
+📢 It's SCAM!
+
+✅Check if links are safe usi…
  
-# Logan_AccentureUSER INFO
-![image](http://pbs.twimg.com/profile_images/1409266995531550720/ldVKyGyl_normal.jpg)
+# RedOtter17USER INFO
+![image](http://pbs.twimg.com/profile_images/1409937160879345670/dV4fLuHO_normal.jpg)
  
-`User ScreenName:` Logan_Accenture 
+`User ScreenName:` RedOtter17 
  
-`User chosen Name:` Logan Johnson 
+`User chosen Name:` RedOtter 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jun 27 21:45:38 +0000 2021 
+`User signup date?:` Tue Jun 29 17:57:26 +0000 2021 
  
-`User Description?:` Technology Recruiter at Accenture #Hiring for #Java #Developers and #Microservices #Engineers 
+`User Description?:` Just a sneaky otter. 
  
 `Followers?: `0 
  
-`Following?:` 10 
+`Following?:` 31 
  
-`User URL?:` https://t.co/3osJkNzrwI 
+`User URL?:` None 
  
-`Location:` St Petersburg, FL 
+`Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 11 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1409266995531550720/ldVKyGyl_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1409937160879345670/dV4fLuHO_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 11 
  
 
  
@@ -431,11 +404,50 @@ RT @WajdiAlkayal: Understanding $NextTick InVue.Js
  
 ## User Top tweeted words 
  
-**ACCENTURE** 2 , **GLOBAL** 2 , **LEADER** 2 , **CONSULTING** 2 , **SERVICES** 2 , **SENTOR** 1 , **PART** 1 , **STRENGTHENING** 1 , **CAPABILITIES** 1 , **WITHIN** 1 , **CYBERSECURITY** 1 , **RISK** 1 , **MANAGEMENT** 1 , **MANAGED** 1 , **S…** 1 , **HTTPS://TCO/ADGWAILF0URT** 1 , **@KARTHIKSNARAIN:** 1 , **MIGRATING** 1 , **CLOUD** 1 , **COMPLEX** 1 , 
+**I'M** 3 , **WONDER** 3 , **FAMILY** 2 , **@VISS** 2 , **SAVE** 2 , **@INFOSECJEM** 1 , **@COLEENS_IS** 1 , **SAME** 1 , **BOATRT** 1 , **@KHALIL_SPENCER:** 1 , **@SENMARKEY** 1 , **@SENATORMENENDEZ** 1 , **@REPTEDDEUTCH** 1 , **GONNA** 1 , **BURN** 1 , **BOOKS** 1 , **TOO?** 1 , **HTTPS://TCO/OT3XPRTU35RT** 1 , **@EMCEEHOTDOG:** 1 , **HEAT** 1 , 
  
 ## What this user tweeted
  
-Sentor is now part of Accenture, strengthening our capabilities within cybersecurity, risk management and managed s… https://t.co/AdgWAIlF0u
+@Viss So I'm curious. Learning about infosec and digital security overall, and I'm fairly new to the subject. What… https://t.co/nPAlf45R87
+ 
+# jake_infosecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1407034616104374272/ycgVZS4H_normal.jpg)
+ 
+`User ScreenName:` jake_infosec 
+ 
+`User chosen Name:` Jake 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jun 21 17:11:41 +0000 2021 
+ 
+`User Description?:` Cyber Security Analyst | Rock Climber | 🏳️‍🌈 He/Him 
+ 
+`Followers?: `48 
+ 
+`Following?:` 851 
+ 
+`User URL?:` None 
+ 
+`Location:` 127.0.0.1 
+ 
+`Number of tweets extracted`  : 15 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1407034616104374272/ycgVZS4H_normal.jpg 
+ 
+`Number of tweets excluding replies:` 15 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TRACELABS** 4 , **TIME** 3 , **USERS** 2 , **SOME** 2 , **FUN** 2 , **JOIN** 2 , **US** 2 , **LIVE** 2 , **FIRST** 2 , **JUDGE** 2 , **OSINTSEARCHPARTY** 2 , **CTF** 2 , **WORKSHOPS** 2 , **OPENING** 2 , **REGISTRATION** 2 , **RT** 1 , **@INFOSECSHERPA:** 1 , **“SECOND** 1 , **MASSIVE** 1 , **LINKEDIN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @InfoSecSherpa: “Second massive LinkedIn breach reportedly exposes data of 700M users, which is more than 92% of the total 756M users. T…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
