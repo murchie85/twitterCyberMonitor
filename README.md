@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **NSACyber**  
+The most popular user is: **CLOEnterprise**  
  
 
-## Russian Foreign Intelligence Service (SVR) cyber actors are exploiting five publicly known vulnerabilities to targe… https://t.co/UrSp9A34YD 
+## We are thrilled to announce that the most renowned #CyberSecurity expert in his field, @Dexaran, has joined our tea… https://t.co/DVvhmkzAOf 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **NSACyber**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @IndiaFutureFou2: Know these common attack vectorsSoftware Vulnerabilities - Common defects in software, Compromised Credentials, Misco… |
-| RT @SCMagazine: July represents a dramatic shift from the relatively light releases security researchers have seen over previous months. #P… |
-| Scanning and exploiting vulnerabilities were the most successful entry points into victims’ networks across all sec… https://t.co/lkAa28c4f3 |
+| RT @AlkayalWajdi: Detecting And Monitoring Hate Speech In #Twitter#socialmedia #facebook #linkedin #instagram #DigitalMarketing#marketing… |
+| RT @AnaData: Ana-Data Staff Augmentation services save you from heavy investments &amp; hassles of screening, hiring, training, deployment of c… |
+| RT @ITManagerUK: 'Voice cloning of growing interest to actors and cybercriminals'https://t.co/qprhh7zTn1 | BBC News - Technology #Cyber… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheHackersNews** |
-| #2 Most tweeted to  | **carolecadwalla** |
-| #3 Most tweeted to  | **gvicks** |
-| NewProfiles (less than 10 days) | 1.04%  |
-| Tweeters with < 10 followers  | 2.5%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **Paula_Piccard** |
+| #2 Most tweeted to  | **iotcybersec24** |
+| #3 Most tweeted to  | **CiscoIoT** |
+| NewProfiles (less than 10 days) | 2.14%  |
+| Tweeters with < 10 followers  | 5.52%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -50,217 +50,57 @@ The most popular user is: **NSACyber**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **PATCH**  |
-| third  | **MICROSOFT** |
-| fourth  | **JULY**  |
-| fifth  | **2021**  |
+| first  | **ESSAYS**  |
+| second  | **DUE**  |
+| third  | **ASSIGNMENTS** |
+| fourth  | **DELIVER**  |
+| fifth  | **MATHS**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @VickyPJWard: Jeffrey Epstein’s genius was getting people to trust him and then buying their silence. He was brilliant at figuring out e… |
+|RT @akbarth3great: #cats #cryptocurrency #crypto #community #cybersecurity Contract Upgrade, Security and The Crossing https://t.co/LjAMgbf… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NSACyber**  |
+| The most retweeted user is: **CLOEnterprise**  |
 | ------------- |
-| Russian Foreign Intelligence Service (SVR) cyber actors are exploiting five publicly known vulnerabilities to targe… https://t.co/UrSp9A34YD |
+| We are thrilled to announce that the most renowned #CyberSecurity expert in his field, @Dexaran, has joined our tea… https://t.co/DVvhmkzAOf |
 
 # Potential Fake Accounts
  
-# _OperationZeroUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# LuckyDad20USER INFO
+![image](http://pbs.twimg.com/profile_images/1415415575111737348/ftmD8YpN_normal.jpg)
  
-`User ScreenName:` _OperationZero 
+`User ScreenName:` LuckyDad20 
  
-`User chosen Name:` Operation Zero 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 14 19:46:18 +0000 2021 
- 
-`User Description?:` We buy 0day exploits anonymously. DM or Tox: 1CA6E2C0A70E4AE241437E2D811552179A72970055F7572BB21A1342D1ED4D38CF17C002C2D0 
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**US** 2 , **0DAY** 2 , **INTERESTED** 2 , **@CAMPUSCODI** 1 , **GAME** 1 , **CHANGER** 1 , **SOME** 1 , **EXTENT** 1 , **WAY** 1 , **PREVENT** 1 , **RESEARCHERS** 1 , **SELLING** 1 , **VULNERABILITIES** 1 , **T…** 1 , **HTTPS://TCO/EB30IKCGSNDON'T** 1 , **HESITATE** 1 , **CONTACT** 1 , **ASK** 1 , **ACQUIRE** 1 , **RESEARCHSCOPE** 1 , 
- 
-## What this user tweeted
- 
-@campuscodi A game changer in some extent. But no way this will prevent researchers from selling vulnerabilities, t… https://t.co/Eb30IkcGSn
- 
-# GilensonRUSER INFO
-![image](http://pbs.twimg.com/profile_images/1414931685888741376/qKDwVAeQ_normal.jpg)
- 
-`User ScreenName:` GilensonR 
- 
-`User chosen Name:` Marc R. Gilenson 
+`User chosen Name:` Lucky Dad 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jul 12 15:09:32 +0000 2021 
- 
-`User Description?:` A Thought Leadership facilitator focusing on leadership, process improvement, change management, innovation and cyber security 
- 
-`Followers?: `5 
- 
-`Following?:` 30 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1414931685888741376/qKDwVAeQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**THREAT** 2 , **SERVICE** 2 , **@WEARENUARI:** 2 , **SECURITY** 2 , **RT** 1 , **@CISAGOV:** 1 , **CYBER** 1 , **ACTORS** 1 , **INCREASINGLY** 1 , **TARGETING** 1 , **MANAGED** 1 , **PROVIDERS** 1 , **EXPLOIT** 1 , **VULNERABILITIES** 1 , **RANSOMWARE** 1 , **CYB…INTERNET** 1 , **THINGS:** 1 , **STAYING** 1 , **SECURE** 1 , **WE'RE** 1 , 
- 
-## What this user tweeted
- 
-RT @CISAgov: Cyber threat actors are increasingly targeting managed service providers to exploit vulnerabilities with ransomware or for cyb…
- 
-# Nathan70169676USER INFO
-![image](http://pbs.twimg.com/profile_images/1414306037260111877/O69ArB4M_normal.jpg)
- 
-`User ScreenName:` Nathan70169676 
- 
-`User chosen Name:` Nathan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jul 11 19:29:39 +0000 2021 
- 
-`User Description?:` Never Mine 
- 
-`Followers?: `1 
- 
-`Following?:` 82 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 106 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1414306037260111877/O69ArB4M_normal.jpg 
- 
-`Number of tweets excluding replies:` 106 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PROJECT** 75 , **GOOD** 31 , **AIRDROP** 30 , **HOPE** 30 , **DEVELOPS** 19 , **OTHER** 19 , **@PRAAANNNN1** 18 , **@PRAAANNNN2** 16 , **@COINMARKETCAP** 13 , **FOLLOW** 11 , **@JENNISAGITAA** 9 , **@MARKES_SILABAN** 9 , **JOIN** 9 , **GROWS** 8 , **@JAMESQE26** 7 , **@NEARPROTOCOL:** 7 , **@PRAAANNNN3** 7 , **COMMUNITY** 6 , **+** 6 , **3** 5 , 
- 
-## What this user tweeted
- 
-RT @solana_daily: 🔥Announcing @port_finance Bug Bounty Program!
-
-❗ Prizes upto $100,000 USD
-
-Test product, break the limits, find vulnerabi…
- 
-# stevnctsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1413908895538589701/E-olSdTk_normal.jpg)
- 
-`User ScreenName:` stevncts 
- 
-`User chosen Name:` hannah saw black widow 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 10 17:11:52 +0000 2021 
- 
-`User Description?:` . . . she they ⧗ we’re both upside down.  clint stans dni 
- 
-`Followers?: `16 
- 
-`Following?:` 57 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 181 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1413908895538589701/E-olSdTk_normal.jpg 
- 
-`Number of tweets excluding replies:` 182 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LOKI** 36 , **U** 21 , **MOBIUS** 16 , **@COSMONAUTMARCUS** 15 , **YELENA** 14 , **SPOILERS** 13 , **@DROWNINGINMAYO** 13 , **SAM** 9 , **LOVE** 9 , **BLACKWIDOW** 9 , **@LOKIUSCOMFORT:** 8 , **NAT** 8 , **BUCKY** 8 , **I’M** 8 , **GENDERFLUID** 7 , **MCU** 7 , **STEVE** 6 , **OK** 6 , **WAY** 6 , **LOKIUS** 6 , 
- 
-## What this user tweeted
- 
-RT @LokiSnakes: @bucksspidey The difference is that siblings treat each other like shit all the time and they choose to forgive each other…
- 
-# nakisorita221USER INFO
-![image](http://pbs.twimg.com/profile_images/1414606176432525313/-C014x91_normal.jpg)
- 
-`User ScreenName:` nakisorita221 
- 
-`User chosen Name:` nakisorita221 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jul 12 14:26:25 +0000 2021 
+`User signup date?:` Wed Jul 14 20:42:34 +0000 2021 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 32 
+`Following?:` 21 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Long Beach, CA 
  
-`Number of tweets extracted`  : 148 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1414606176432525313/-C014x91_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1415415575111737348/ftmD8YpN_normal.jpg 
  
-`Number of tweets excluding replies:` 148 
+`Number of tweets excluding replies:` 212 
  
 
  
@@ -268,40 +108,38 @@ RT @LokiSnakes: @bucksspidey The difference is that siblings treat each other li
  
 ## User Top tweeted words 
  
-**PROJECT** 32 , **AMA** 23 , **PLANS** 18 , **CRYPTO** 17 , **JULY** 17 , **PM** 16 , **UTC** 14 , **PROJECTS** 14 , **MAKE** 14 , **COULD** 13 , **MOST** 12 , **ANY** 12 , **@DOGETERRA** 12 , **DOES** 11 , **NEXT** 11 , **TOKEN** 11 , **CONTRACT** 11 , **@OCTANS_OCTA** 11 , **NEW** 10 , **FEATURES** 10 , 
+**@CNN:** 93 , **@FOXNEWS:** 53 , **US** 15 , **NEW** 14 , **AFTER** 11 , **THAN** 10 , **TEXAS** 9 , **YEARS** 9 , **SENATE** 9 , **@SKYSPORTSPL** 9 , **INTO** 8 , **HOUSE** 8 , **@FOXNEWS** 8 , **NEARLY** 7 , **DEMOCRATS** 7 , **BIDEN** 7 , **SOME** 7 , **FIRST** 7 , **2020** 7 , **PEOPLE** 7 , 
  
 ## What this user tweeted
  
-@Cryptoscape1 @Oculusvision_io I’m a developer, and I’m interested in contributing to your project  alongsides earn… https://t.co/2DJWQ8ucwg@CryptoRoyals @MarhabaDeFi I’m a developer, and I’m interested in contributing to your project  alongsides earning,… https://t.co/Wc8RXOUM1q
+RT @CNN: US Secretary of State Antony Blinken spoke of the importance of diplomacy in dealing with cybersecurity and technology matters, no…
  
-# BCSAPOAUSER INFO
-![image](http://pbs.twimg.com/profile_images/1414437748174327809/af-UgUC0_normal.jpg)
+# maths_writersUSER INFO
+![image](http://pbs.twimg.com/profile_images/1413404594584104960/8suhPl_f_normal.jpg)
  
-`User ScreenName:` BCSAPOA 
+`User ScreenName:` maths_writers 
  
-`User chosen Name:` BC South Asian Police Officers Association 
+`User chosen Name:` MATHS,ESSAYS & ASSIGNMENTS WRITERS +1(435)677-1654 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jul 10 02:03:16 +0000 2021 
+`User signup date?:` Fri Jul 09 07:40:13 +0000 2021 
  
-`User Description?:` A group that inspires, educates and elevates the well being and self worth of future generations.
-
-inquiries: southasianpoa@gmail.com 
+`User Description?:` we offer services to all academic work,maths assignment,assays and more kindly Dm or Whatsapp +1(435)677-1654 available 24/7 
  
-`Followers?: `122 
+`Followers?: `7 
  
-`Following?:` 168 
+`Following?:` 6 
  
 `User URL?:` None 
  
-`Location:` British Columbia, Canada 
+`Location:` United States 
  
-`Number of tweets extracted`  : 7 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1414437748174327809/af-UgUC0_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1413404594584104960/8suhPl_f_normal.jpg 
  
-`Number of tweets excluding replies:` 7 
+`Number of tweets excluding replies:` 1227 
  
 
  
@@ -309,119 +147,939 @@ inquiries: southasianpoa@gmail.com
  
 ## User Top tweeted words 
  
-**YOUTH** 4 , **SUPPORT** 3 , **THANK** 3 , **GANG** 2 , **RECRUITMENT** 2 , **RT** 1 , **@SURREYRCMP:** 1 , **PUTTING** 1 , **FAMILIES** 1 , **“FYRST”** 1 , **–** 1 , **FAMILY** 1 , **RESOURCE** 1 , **TEAM** 1 , **(FYRST)** 1 , **PAIRS** 1 , **COUNSELLOR** 1 , **OF…IN** 1 , **ORDER** 1 , **STOP** 1 , 
+**ESSAYS** 176 , **BIOLOGY** 176 , **DELIVER** 100 , **QUALITY** 100 , **ASSURED** 100 , **RESULTS** 100 , **IN;** 100 , **SUMMER** 100 , **CLASSES** 100 , **HW** 100 , **ASSIGNMENTS** 100 , **MATHS** 100 , **STATS** 100 , **POWERPOINT** 100 , **DUE** 99 , **US** 76 , **YOUR;** 76 , **PSYCHOLOGY** 76 , **SOCIOLOGY** 76 , **ENGLISH** 76 , 
  
 ## What this user tweeted
  
-In order to stop the cycle of gang violence &amp; gang recruitment, we need to identify the vulnerabilities &amp; understan… https://t.co/kbWm46D3v6
+We Deliver Quality Assured Results in;
+Summer classes.,
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/DiOzBcgkvxWe Deliver Quality Assured Results in;
+Summer classes
+Hw.,
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/kaU7a5Yr4HWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments.,
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/V9qBD8nIjSWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due.,
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/rtb5mKCIkMWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due.z
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/LKqMJ0rrMIWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths.,
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/oiyUSyc6V0We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats.,
+PowerPoint
+Biology
+Ph… https://t.co/awD9E7niEyWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+,
+PowerPoint
+Biology
+Ph… https://t.co/CfX7SeLhL2We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint.,
+Biology
+Ph… https://t.co/fQ8kzE7RPBWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology.,
+Ph… https://t.co/YeClA85Xs7We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/eJc7hXbEABWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/wk6LAtfxsSWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/QWoOxQgCvTWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/yi9kz91XjuWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/llEiI09uhIWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/ZYvntBiueWWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/vKvPlqRED7We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/qVmO1tSG7vWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/dHyBLCmKs8We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/9OgImBWJagWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/DvFU7wt5elWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/XxYv8bTPA8We Deliver Quality Assured Results in;
+Summer classes..
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/TJ25qpbLilWe Deliver Quality Assured Results in;
+Summer classes
+Hw..
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/8iZMKoS2XlWe Deliver Quality Assured Results in;
+Summer classes
+Hw..
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/2JGo9hDb0QWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments..
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/pxNkCcyXK9We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due..
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/fjXiMqafZEWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths..
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/FHzLrOeHAtWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats..
+PowerPoint
+Biology
+Ph… https://t.co/KjXueQVnz5We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint..
+Biology
+Ph… https://t.co/0Dugf9KDqBWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology..
+Ph… https://t.co/7RZS9NIsJWWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/Kllo3yS4qMWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/n5207p9yIzWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/XinSJdTcKfWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/FBljkDEfAIWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/K3ffHzdPN2We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/f3ZPiMplNwWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/msfh89LwmHWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/QkD25U0z3GWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/7IB7wx2gWVWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/mUGSTN4ml0We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/sc3VCvz7VKWe Deliver Quality Assured Results in;
+Summer classes.
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/FT9y1JLzSMWe Deliver Quality Assured Results in;
+Summer classes
+Hw.
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/upAfTr6x3FWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments.
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/SlM8x7TqINWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due.
+Maths
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/D3rGdCFMdUWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths.
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/8PTlbE6D0MWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats.
+PowerPoint
+Biology
+Phi… https://t.co/PRpgyeswUQWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint.
+Biology
+Phi… https://t.co/EgVA9kAJkEWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology.
+Phi… https://t.co/1tlNGse85hWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/h2sv2kBTHtWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/XpoNuyY9enWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/Nfia3ejQtrWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/Axl7EFyHV0We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/1oijgmB8ZcWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/7GWd1sdiE0We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/Z4mQWc7JrpWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/GzzNuyW7AaWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/xLn94PFVwwWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/Y7D6SQhjrcWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/W4AhVIkHKOWe Deliver Quality Assured Results in;
+Summer classes,,
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/9BEH6P70TBWe Deliver Quality Assured Results in;
+Summer classes
+Hw,,
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/4AqooDuadsWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments,,
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/H2HRVljiQSWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due,,
+Maths
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/MlhNxrrNfEWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths,,
+Stats
+PowerPoint
+Biology
+Ph… https://t.co/L526AYvRXGWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats,,
+PowerPoint
+Biology
+Ph… https://t.co/Ta7taciKliWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint,,
+Biology
+Ph… https://t.co/WC18AorSK2We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology,,
+Ph… https://t.co/NYp0nxcNEbWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/26tVym9eBCWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/n5b4mFEL8CWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/c2RZ6XRfT3We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/R8ik9r7dtSWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/cE8k2ePn9xWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/Idnnm6KDAHWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/v4Ga1dDg9JWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/mUnqEg8wOHWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/b2Jgk1hMdNWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/QS2O3wZAtiWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/QbgjtIolH6We Deliver Quality Assured Results in;
+Summer classes
+Hw,
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/WPy57mzWgrWe Deliver Quality Assured Results in;
+Summer classes,
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/cls2JODJlAWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments,
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/kuB3hkds8EWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due,
+Maths
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/XsZYAG3W9VWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths,
+Stats
+PowerPoint
+Biology
+Phi… https://t.co/mfu7Zh2gf3We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats,
+PowerPoint
+Biology
+Phi… https://t.co/BHNA4pSEh9We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint,
+Biology
+Phi… https://t.co/AcdXs3aUQHWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology,
+Phi… https://t.co/LbK21872ApWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/yrXJOU90CfWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/UByGqptffFWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/ciUEJo7XRcWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/0XU1uUAOOcWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/UdRNQa6bRIWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/bKlwDk23qUWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/EtH7uq6GZ2We Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/m5G9RAm4LJWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/Isx60yuj7EWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/yJcPcnXWyCWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/kzUuEPV7AuWe Deliver Quality Assured Results in;
+Summer classes
+Hw
+Assignments
+Essays due
+Maths
+Stats
+PowerPoint
+Biology
+Phil… https://t.co/SZCTHrl5qV
  
-# ChemaMa25707733USER INFO
-![image](http://pbs.twimg.com/profile_images/1415314681099653129/Mlqi5sqM_normal.jpg)
+# flyxedUSER INFO
+![image](http://pbs.twimg.com/profile_images/1414924065777803265/LEdyLB-t_normal.png)
  
-`User ScreenName:` ChemaMa25707733 
+`User ScreenName:` flyxed 
  
-`User chosen Name:` Chema Martinez 
+`User chosen Name:` ً 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 14 14:17:50 +0000 2021 
+`User signup date?:` Tue Jul 13 11:18:42 +0000 2021 
  
-`User Description?:` Granada (Spain)
-Wazuh, Inc. 
- 
-`Followers?: `0 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1415314681099653129/Mlqi5sqM_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@KAMPRIANISM** 2 , **@WAZUH** 1 , **HI** 1 , **"RELEASED"** 1 , **VULNERABILITIES** 1 , **REPORTED** 1 , **WAZUH** 1 , **MEAN** 1 , **INSTALLED** 1 , **V…** 1 , **HTTPS://TCO/QYJUQS5IRP** 1 , 
- 
-## What this user tweeted
- 
-@KamprianisM @wazuh Hi @KamprianisM,
-
-"Released" vulnerabilities reported by Wazuh should mean that the installed v… https://t.co/QyJuqS5IrP
- 
-# oingwrUSER INFO
-![image](http://pbs.twimg.com/profile_images/1413499439289753604/6rcSvV14_normal.jpg)
- 
-`User ScreenName:` oingwr 
- 
-`User chosen Name:` G-oingwr 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 09 14:04:52 +0000 2021 
- 
-`User Description?:` hello 
- 
-`Followers?: `31 
- 
-`Following?:` 83 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 39 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1413499439289753604/6rcSvV14_normal.jpg 
- 
-`Number of tweets excluding replies:` 39 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PROJECT** 8 , **CRYPTO** 5 , **"BITCOIN** 4 , **SỤP** 4 , **ĐỔ** 4 , **VỀ** 4 , **LET'S** 4 , **BITCOIN** 4 , **@GATE_IO:** 3 , **🔥** 3 , **NFT** 3 , **@KUCOINCOM:** 3 , **LAST** 3 , **@DRIFE_OFFICIAL:** 3 , **@BAKERY_SWAP:** 3 , **WEEK** 3 , **✅** 3 , **TOP** 3 , **@BAILEYGRAY5577:** 3 , **TEAM** 3 , 
- 
-## What this user tweeted
- 
-RT @Drife_official: As we are heading towards having a global audience for the ride-hailing industry within the tokenized mobility space, w…
- 
-# CanServersUSER INFO
-![image](http://pbs.twimg.com/profile_images/1415032986240696325/SKxmDAzB_normal.png)
- 
-`User ScreenName:` CanServers 
- 
-`User chosen Name:` Canada-Servers.Com 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 13 19:25:27 +0000 2021 
- 
-`User Description?:` Web hosting · Dedicated hosting · VPS hosting · Reseller hosting · SHOUTCast hosting · Domain registrations · Remote support services  · Tech News  · 
+`User Description?:` Cyber Security and Forensic Computing student & enthusiast from the UK. Video editing and web design hobbyist. I like frogs. Following/RT =/= Endorsement 
  
 `Followers?: `2 
  
-`Following?:` 36 
+`Following?:` 52 
  
-`User URL?:` https://t.co/QxfX3gh15B 
+`User URL?:` https://t.co/eNfyxejNUn 
  
-`Location:` Canada 
+`Location:` he/him 
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 14 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1415032986240696325/SKxmDAzB_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1414924065777803265/LEdyLB-t_normal.png 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 14 
  
 
  
@@ -429,514 +1087,38 @@ RT @Drife_official: As we are heading towards having a global audience for the r
  
 ## User Top tweeted words 
  
-**@THEHACKERSNEWS:** 7 , **PATCH** 4 , **SECURITY** 4 , **JULY** 3 , **GOOGLE** 3 , **CRITICAL** 3 , **VULNERABILITIES** 3 , **RELEASED** 3 , **@CAMPUSCODI:** 2 , **MICROSOFT** 2 , **2021** 2 , **THREE** 2 , **2** 2 , **ANY** 2 , **USER** 2 , **AROUND** 2 , **LATEST** 2 , **UPDATES** 2 , **NEW** 2 , **ADOBE** 2 , 
+**SOME** 2 , **INCREASED** 2 , **RANSOMWARE** 2 , **@BLEEPINCOMPUTER** 2 , **OFFER** 2 , **AROUND** 2 , **TRYHACKME** 2 , **REVIL** 2 , **SITES** 2 , **DOWN** 2 , **@CUBICLEAPRIL** 1 , **CURIOSITY** 1 , **PASSWORD** 1 , **MANAGER** 1 , **USE/RECOMMEND?** 1 , **USUALLY** 1 , **MEMORISE** 1 , **DIFFERENT** 1 , **PA…** 1 , **HTTPS://TCO/3EVJRXIZV4JUST** 1 , 
  
 ## What this user tweeted
  
-RT @TheHackersNews: Etherpad—a popular self-hosted open-source alternative to #Google Docs—has been found to have critical security vulnera…RT @TheHackersNews: ⚡ July 2021 #PatchTuesday
-
-1 — Microsoft rolls out the latest security updates to patch 117 new vulnerabilities, 9 of w…RT @TheHackersNews: 3 — #Google has also released the latest security bulletin that details 44 vulnerabilities affecting #Android devices,…RT @TheHackersNews: 5 — VMware has released a security update to address authentication and denial of service vulnerabilities (CVE-2021-219…
+RT @helpnetsecurity: A more dynamic approach is needed to tackle today's evolving cybersecurity threats - https://t.co/fir4OB23tG - @hackth…
  
-# ArnabCh47712046USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# ZdarzyWUSER INFO
+![image](http://pbs.twimg.com/profile_images/1413168091845038086/MiNVKR4X_normal.jpg)
  
-`User ScreenName:` ArnabCh47712046 
+`User ScreenName:` ZdarzyW 
  
-`User chosen Name:` Arnab Chakraborty 
+`User chosen Name:` Zdarzył się wypadek 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 14 07:36:15 +0000 2021 
+`User signup date?:` Thu Jul 08 16:06:38 +0000 2021 
  
 `User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 9 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PUBLICATION** 2 , **KHELA_NOY_CHAKRI_CHAI** 1 , **WEST** 1 , **BENGAL** 1 , **GOVERNMENT** 1 , **PLEASE** 1 , **OPEN** 1 , **EYELIDS** 1 , **DIMINISH** 1 , **SOCIAL** 1 , **MENTAL** 1 , **FIN…** 1 , **HTTPS://TCO/Z7MVKMQISAKHELA_NOY_CHAKRI_CHAI** 1 , **852** 1 , **872** 1 , **DAYS** 1 , **PASSED** 1 , **AFTER** 1 , **CLERKSHIP** 1 , **ICDS** 1 , 
- 
-## What this user tweeted
- 
-#khela_noy_chakri_chai
-The West Bengal Government, please open your eyelids and diminish our social, mental and fin… https://t.co/z7mvkMQISa
- 
-# GalaxyFight_NFTUSER INFO
-![image](http://pbs.twimg.com/profile_images/1413085578111852548/4TyGpXS6_normal.jpg)
- 
-`User ScreenName:` GalaxyFight_NFT 
- 
-`User chosen Name:` Galaxy Fight Club ⚔️ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jul 05 06:02:24 +0000 2021 
- 
-`User Description?:` Discord: https://t.co/TpqW0lDM2o
-
-The first NFT collection with a dedicated tournament-based PvP game 🎮 
-9,994 Galaxy Fighters at 0.08/each 
- 
-`Followers?: `1813 
- 
-`Following?:` 43 
- 
-`User URL?:` https://t.co/oPq7xA4jyP 
- 
-`Location:` The Colosseum 
- 
-`Number of tweets extracted`  : 46 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1413085578111852548/4TyGpXS6_normal.jpg 
- 
-`Number of tweets excluding replies:` 46 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GAME** 11 , **GALAXY** 7 , **INTRODUCTION** 6 , **SERIES** 6 , **BATTLE** 6 , **NFT** 6 , **PVP** 5 , **US** 5 , **HUMANS** 4 , **FIGHT** 4 , **WON** 4 , **PM** 4 , **DISCORD** 4 , **RACE** 4 , **MOST** 4 , **FIRST** 4 , **FIGHTER** 4 , **SYSTEM** 4 , **HUMAN** 3 , **SMASH** 3 , 
- 
-## What this user tweeted
- 
-“There was no such thing as a fair fight. All vulnerabilities must be exploited.” – Cary Caffrey
- 
-# NusratJui7USER INFO
-![image](http://pbs.twimg.com/profile_images/1415174744429629445/q88bdsAy_normal.jpg)
- 
-`User ScreenName:` NusratJui7 
- 
-`User chosen Name:` Nusrat Jui 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 08 02:13:47 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 78 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1415174744429629445/q88bdsAy_normal.jpg 
- 
-`Number of tweets excluding replies:` 361 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@OSMAN4060** 45 , **@ARVINCHY1** 44 , **JULY** 29 , **:** 25 , **UTC** 25 , **PM** 24 , **2021** 21 , **SURE** 20 , **AMA** 19 , **MANY** 17 , **@OTITUMIR@AQ_COMMUNITY** 14 , **CRYPTO** 14 , **@B_O_N_D_E_X** 13 , **2** 13 , **SERIES** 12 , **6%** 12 , **PROJECTS** 11 , **@OTITUMIR@CRYPTOTITANS1** 11 , **USDT** 11 , **PROJECT** 10 , 
- 
-## What this user tweeted
- 
-@CryptoSpiritVN @tuktukfinance Tuktuk is a really interesting platform. How do you ensure that your performance far… https://t.co/cvMv37YI0s
- 
-# MRatu13USER INFO
-![image](http://pbs.twimg.com/profile_images/1412238025724096526/Wm39wQOT_normal.jpg)
- 
-`User ScreenName:` MRatu13 
- 
-`User chosen Name:` MRatu 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 06 02:31:34 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 40 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 19 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1412238025724096526/Wm39wQOT_normal.jpg 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@FIJITIMES:** 4 , **FIJI** 3 , **LEAVE** 2 , **@FIJIANGOVT:** 2 , **CONTACT** 2 , **COVID-19** 2 , **PRIMARY** 2 , **REF** 2 , **GOT** 2 , **LOL** 2 , **RUGBY** 2 , **GOOD** 2 , **GAME** 2 , **MINISTRY** 2 , **PEOPLE** 2 , **REPUBLIC** 2 , **RT** 1 , **@JOELOSTEEN:** 1 , **WILLING** 1 , **SOME** 1 , 
- 
-## What this user tweeted
- 
-RT @sprasadfj: Fiji’s 🇫🇯 Minister @MereseiniRakui1 and Conmonwealth’’s @PScotlandCSG in urgent plea to respect enhanced vulnerabilities of…
- 
-# jaki733640938USER INFO
-![image](http://pbs.twimg.com/profile_images/1413191447948402688/nvGhLWEG_normal.jpg)
- 
-`User ScreenName:` jaki733640938 
- 
-`User chosen Name:` jaki 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jul 05 05:49:21 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `16 
- 
-`Following?:` 219 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1413191447948402688/nvGhLWEG_normal.jpg 
- 
-`Number of tweets excluding replies:` 891 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PROJECT** 74 , **TELL** 56 , **IMPORTANT** 51 , **AMA** 36 , **JULY** 35 , **EACH** 32 , **INTERESTING** 32 , **STORIES** 32 , **BEFORE** 32 , **CREATED** 32 , **UTC** 31 , **COMMUNITY** 29 , **MARKETING** 28 , **CENTRAL** 28 , **ELEMENT** 28 , **EVERYONE** 28 , **KNOWS** 28 , **PEOPLE** 28 , **PM** 28 , **SECURITY** 27 , 
- 
-## What this user tweeted
- 
-@CryptoNesiaReal @Spores_Network I’m a developer, and I’m interested in contributing to your project  alongsides ea… https://t.co/0EGL5wMj3t@blockelite @RevolveGamesio I’m a developer, and I’m interested in contributing to your project  alongsides earning… https://t.co/RhSUUF6VNC@CryptoNesiaReal @DCS_crypto I’m a developer, and I’m interested in contributing to your project  alongsides earnin… https://t.co/aGNEWPbFUn@ButterLemonTeam @ZeroDog_Token I’m a developer, and I’m interested in contributing to your project  alongsides ear… https://t.co/yrlCuA6HmU@StalkersCrypto @CFLO_Official I’m a developer, and I’m interested in contributing to your project  alongsides earn… https://t.co/iyfhvKSzPY@wolfonaire @HuobiUK I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do yo… https://t.co/JMUQ9ieUM7@cryptoforumv @tuktukfinance I’m a developer, and I’m interested in contributing to your project  alongsides earnin… https://t.co/P92CvqfZfO@AQ_Community @Solclout I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do… https://t.co/yBVtBoMdPm@CryptoNesiaReal @realfevr I’m a developer, and I’m interested in contributing to your project  alongsides earning,… https://t.co/tFSVC70jmA@Infinity_AMA @SafeFamilyshark I’m a developer, and I’m interested in contributing to your project  alongsides earn… https://t.co/71vKoBVtYd@polkaplay @sugpatel @dzenkbe @Oiggroup I’m a developer, and I’m interested in contributing to your project  alongs… https://t.co/1NJ2s8lmIt@Carpe_Diem_info @naftyofficial I’m a developer, and I’m interested in contributing to your project  alongsides ear… https://t.co/XxO00E1gWs@CryptoFamilyVN @FarmHeroIO I’m a developer, and I’m interested in contributing to your project  alongsides earning… https://t.co/qNhTKm7W7K@Cryptoscreen_en @radixdlt I’m a developer, and I’m interested in contributing to your project  alongsides earning,… https://t.co/THpOQUTarW@CryptoTitans1 @securafinance_ I’m a developer, and I’m interested in contributing to your project  alongsides earn… https://t.co/bp8uslQFKc@Cryptoclub666 @USAPresDoge I’m a developer, and I’m interested in contributing to your project  alongsides earning… https://t.co/N6DsF6Mt6B@wizards_crypto @libraecosystem I’m a developer, and I’m interested in contributing to your project  alongsides ear… https://t.co/bq9fN6ItFd@ONTOWallet @Piggy_Fi I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do y… https://t.co/GLpFLT1X1b@MoonShinchan @EpikPrime I’m a developer, and I’m interested in contributing to your project  alongsides earning, D… https://t.co/tXsj89fa4R@StalkersCrypto @Five7_io57 I’m a developer, and I’m interested in contributing to your project  alongsides earning… https://t.co/Az5n0epHL5@Cryptotech_Ann @0Zerogoki I’m a developer, and I’m interested in contributing to your project  alongsides earning,… https://t.co/WIGqRTcUCC@HiBlockTalks @polkacipher I’m a developer, and I’m interested in contributing to your project  alongsides earning,… https://t.co/2i964qLuZu@KrystalDefi @MANTRADAO @JP_Mullin009 I’m a developer, and I’m interested in contributing to your project  alongsid… https://t.co/mdtZb4KUhX@wealthytalkz @AnubisToken I’m a developer, and I’m interested in contributing to your project  alongsides earning,… https://t.co/ADgBeMY2sH@CSquadx @cfl365_finance I’m a developer, and I’m interested in contributing to your project  alongsides earning, D… https://t.co/DUWM1V2yWs@CryptonationN @sekuritance I’m a developer, and I’m interested in contributing to your project  alongsides earning… https://t.co/V35J0v8DTy@CryptonationN @Footballking_io I’m a developer, and I’m interested in contributing to your project  alongsides ear… https://t.co/ZLY75H7dRf
- 
-# MsKrayziUSER INFO
-![image](http://pbs.twimg.com/profile_images/1414792196210012162/1uZsMBuv_normal.jpg)
- 
-`User ScreenName:` MsKrayzi 
- 
-`User chosen Name:` 🇺🇸Galen Pax🦋🎼🦋Practice What You Preach🇺🇸 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 10 23:09:06 +0000 2021 
- 
-`User Description?:` 👠💋🇺🇸 Patriot ⚔️🤍⚔️Back the Blue 💙⚔️💙Military ⚔️🤍⚔️ Vets ⚔️🤍⚔️God⚔️🤍⚔️Family⚔️🤍⚔️Where is the Love Y’all🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🖤 
- 
-`Followers?: `706 
- 
-`Following?:` 590 
- 
-`User URL?:` https://t.co/K173Se7c4b 
- 
-`Location:` None of your business! 
- 
-`Number of tweets extracted`  : 41 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1414792196210012162/1uZsMBuv_normal.jpg 
- 
-`Number of tweets excluding replies:` 41 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TWK4USA** 7 , **@KIMBETHESTYLIST** 7 , **@MSKRAYZI** 6 , **@LAURA_7771** 4 , **@LUZMYBIKE** 4 , **@JUDYTGOLF** 4 , **@JUZJAZ2** 3 , **@DOOT2471** 3 , **@JEFFROCKS60** 3 , **@JT8Z8** 3 , **@MARILYNLAVALA** 3 , **@IM__KEN** 3 , **@CCINTHEMIDDLE** 3 , **@CKEWTIE** 3 , **THANK** 2 , **SOON** 2 , **@MIKECOMPTON** 2 , **@BEARSPROTECT** 2 , **@FINSTERFAM** 2 , **@IANSTAUNTON3** 2 , 
- 
-## What this user tweeted
- 
-RT A raft of critical-rated vulnerabilities being fixed in Microsoft’s midsummer Patch Tuesday, including at least… https://t.co/D3dXFI7xuL
- 
-# AmanMadhok4USER INFO
-![image](http://pbs.twimg.com/profile_images/1415035116766711808/SmFnzqG2_normal.jpg)
- 
-`User ScreenName:` AmanMadhok4 
- 
-`User chosen Name:` AmanMadhok 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 13 19:47:04 +0000 2021 
- 
-`User Description?:` Aman Madhok 
- 
-`Followers?: `1 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1415035116766711808/SmFnzqG2_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@RADWARE:** 11 , **CLOUD** 4 , **SECURITY** 4 , **KUBERNETES** 4 , **WAF** 3 , **APPLICATION** 3 , **WHICH** 3 , **RUNNING** 3 , **BUSINESSES** 3 , **RADWARE** 2 , **ENVIRONMENTS** 2 , **NATIVE** 2 , **PROTECTOR** 2 , **APPLICATIONS** 2 , **RADWARE'S** 2 , **SERVICE** 2 , **DATA** 2 , **ADOPTING** 2 , **CONTAINERS** 2 , **MICROSERVICES** 2 , 
- 
-## What this user tweeted
- 
-RT @radware: Radware's Cloud Native Protector catches potential vulnerabilities through direct integration with cloud-based environments, c…
- 
-# DefenseLeadUSER INFO
-![image](http://pbs.twimg.com/profile_images/1413167257782415360/Ds2dfMOH_normal.jpg)
- 
-`User ScreenName:` DefenseLead 
- 
-`User chosen Name:` DefenseLead 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 07 16:16:14 +0000 2021 
- 
-`User Description?:` A Cyber Security solutions company 
- 
-`Followers?: `1 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/6VVV9xzlfl 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1413167257782415360/Ds2dfMOH_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**READ** 3 , **CYBERSECURITY** 2 , **MORE-…** 2 , **IDENTITY** 1 , **GIVEN** 1 , **VULNERABILITIES?** 1 , **MORE-** 1 , **HTTPS://TCO/UHTBSITUCK** 1 , **CVE…** 1 , **HTTPS://TCO/BLXYPM7ZTMSOLARWINDS** 1 , **HACK** 1 , **RECENT** 1 , **GLOBAL** 1 , **SECURITY** 1 , **BREACH** 1 , **TARGETED** 1 , **US** 1 , **GOVERNMENT** 1 , **ORGANIZATIONS** 1 , **HTTPS://TCO/25XPMD9GGMHOW** 1 , 
- 
-## What this user tweeted
- 
-How the identity given to the cybersecurity vulnerabilities?
-Read more- https://t.co/uHTBSItuCK
-#CVE… https://t.co/bLXypM7ztM
- 
-# WebWallSecurityUSER INFO
-![image](http://pbs.twimg.com/profile_images/1414792397364502542/-EPwMNxu_normal.png)
- 
-`User ScreenName:` WebWallSecurity 
- 
-`User chosen Name:` WebWall 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 13 03:42:24 +0000 2021 
- 
-`User Description?:` WebWall is a Google Chrome browser extension that stops anyone from snooping on your browsing habits, tracking your purchasing history, or hacking your accounts 
- 
-`Followers?: `4 
- 
-`Following?:` 19 
- 
-`User URL?:` https://t.co/QTgVsRuxO7 
- 
-`Location:` Seattle, WA 
- 
-`Number of tweets extracted`  : 19 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1414792397364502542/-EPwMNxu_normal.png 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DATA** 7 , **@THECYBERSECHUB:** 4 , **ATTACKS** 4 , **THREATS** 3 , **SECURITY** 3 , **MANY** 3 , **RANSOMWARE** 3 , **THIRD** 3 , **SOCIAL** 3 , **SAFE** 2 , **BUILT** 2 , **WEBWALL** 2 , **WEB** 2 , **BROWSING** 2 , **MICROSOFT** 2 , **PERSONAL** 2 , **PROTECTION** 2 , **OUTDATED** 2 , **CYBER** 2 , **SOFTWARE** 2 , 
- 
-## What this user tweeted
- 
-4. Cloud Vulnerabilities - The more we rely on the cloud for data storage, the higher the risk of a major breach. C… https://t.co/ymWvjrdcBf
- 
-# Omrita_NUSER INFO
-![image](http://pbs.twimg.com/profile_images/1413050243550044160/1wu18aCb_normal.jpg)
- 
-`User ScreenName:` Omrita_N 
- 
-`User chosen Name:` Omrita_N 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 08 08:14:16 +0000 2021 
- 
-`User Description?:`  
- 
-`Followers?: `18 
- 
-`Following?:` 130 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1413050243550044160/1wu18aCb_normal.jpg 
- 
-`Number of tweets excluding replies:` 463 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PROJECT** 40 , **2021** 34 , **STAKING** 34 , **AMA** 32 , **USERS** 28 , **JULY** 26 , **MANY** 25 , **WONDERING** 24 , **GAMING** 24 , **SIDE** 24 , **LOT** 24 , **GAMES** 24 , **PM** 22 , **EXIT** 21 , **PLAN** 20 , **ATTRACT** 20 , **INCENTIVIZE** 20 , **EARLY** 20 , **STAGES** 20 , **PROJECTS** 18 , 
- 
-## What this user tweeted
- 
-@CZ_Community @FanCirclelive I’m a developer, and I’m interested in contributing to your project  alongsides earnin… https://t.co/9aIDFzNs1H
- 
-# h4ck3rcyrptoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1415178341326499840/R5lL5iEE_normal.jpg)
- 
-`User ScreenName:` h4ck3rcyrpto 
- 
-`User chosen Name:` crypto 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 13 13:57:21 +0000 2021 
- 
-`User Description?:` Hacker| security researcher 
- 
-`Followers?: `1 
- 
-`Following?:` 39 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1415178341326499840/R5lL5iEE_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SECURITY** 3 , **AMAZING** 3 , **VULNERABILITY** 3 , **LEARN** 2 , **LOT** 2 , **@HACKTHEBOX_EU:** 2 , **TEAM** 2 , **COMPANY** 2 , **ATTACKERS** 2 , **DISCOVERED** 2 , **@NAHAMSEC** 1 , **THINGS** 1 , **YOUAND** 1 , **INSPIRE** 1 , **APPLICATION** 1 , **ANALYST** 1 , **W…** 1 , **HTTPS://TCO/8TBQJCKFFOAIM** 1 , **IMPOSSIBLERT** 1 , **📌** 1 , 
- 
-## What this user tweeted
- 
-A team of engineers at computer security company Eclypsium, Inc. has found four vulnerabilities in Dell BIOSConnect… https://t.co/1dBupW2Ocq
- 
-# climatepsyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1414844611122532368/rDGA54yt_normal.jpg)
- 
-`User ScreenName:` climatepsy 
- 
-`User chosen Name:` Michelle 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 13 04:46:49 +0000 2021 
- 
-`User Description?:` #climateaction #climatecrisis #environment #climatechange #climatejustice #climatepsychology #ecoemotions 
- 
-`Followers?: `13 
- 
-`Following?:` 97 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1414844611122532368/rDGA54yt_normal.jpg 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CLIMATE** 5 , **@CPSYCHOLOGISTS:** 3 , **NEW** 3 , **GRIEF** 2 , **PEOPLE** 2 , **WAR** 2 , **DENIAL** 2 , **"NOTHING** 1 , **TAX** 1 , **RICH** 1 , **SPACE** 1 , **RACE** 1 , **BETWEEN** 1 , **BILLIONAIRES"** 1 , **QUIPPED** 1 , **FORMER** 1 , **US** 1 , **LABOR** 1 , **SECRETARY** 1 , **ROBERT** 1 , 
- 
-## What this user tweeted
- 
-RT @imperiale_j: As we wrote, https://t.co/LHZse8jEAu  States often: deny the existence of risk;reassure the population; ignore vulnerabili…
- 
-# SamDealey66USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` SamDealey66 
- 
-`User chosen Name:` SamDealey66 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 07 23:15:19 +0000 2021 
- 
-`User Description?:` Nah, Sam Dealey. А может быть. 
  
 `Followers?: `3 
  
-`Following?:` 274 
+`Following?:` 337 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 166 
+`Number of tweets extracted`  : 141 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1413168091845038086/MiNVKR4X_normal.jpg 
  
-`Number of tweets excluding replies:` 166 
+`Number of tweets excluding replies:` 141 
  
 
  
@@ -944,11 +1126,169 @@ RT @imperiale_j: As we wrote, https://t.co/LHZse8jEAu  States often: deny the ex
  
 ## User Top tweeted words 
  
-**DE** 15 , **@MLMCNAMARATD:** 12 , **PEOPLE** 10 , **EL** 10 , **COVID** 8 , **WHICH** 7 , **LA** 7 , **QUE** 7 , **NEW** 6 , **BIG** 6 , **AGAINST** 6 , **@JAMESMELVILLE:** 6 , **GOVERNMENT** 6 , **@JULIANMACIAST:** 6 , **DR** 6 , **@GRAHAM__HANCOCK:** 6 , **BEING** 5 , **YOUTUBE** 5 , **DOES** 5 , **@GGREENWALD:** 5 , 
+**W** 47 , **Z** 38 , **NA** 37 , **NIE** 25 , **O** 16 , **ŻE** 15 , **SIĘ** 13 , **ZA** 13 , **OD** 10 , **PIS** 10 , **PO** 9 , **🙃RT** 8 , **JAK** 8 , **DLA** 7 , **ALE** 7 , **@JZPINSKI:** 7 , **POLSKA** 6 , **TYM** 6 , **MOŻE** 6 , **TYLKO** 6 , 
  
 ## What this user tweeted
  
-@JuliaHB1 A Pressure on Beds is not accurately gauged by this one "Hospitalisations" Tally.  Can You say That any o… https://t.co/E1qTSNwOEr
+RT @USCERT_gov: 👩‍💻 #Cybersecurity pros, if you are looking to advance your career, then make sure to review @CISAgov's Cyber Career Pathwa…
+ 
+# gh0stxpltUSER INFO
+![image](http://pbs.twimg.com/profile_images/1413530583532199936/qXTCmj3H_normal.jpg)
+ 
+`User ScreenName:` gh0stxplt 
+ 
+`User chosen Name:` Ghost Exploits 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 07 21:34:59 +0000 2021 
+ 
+`User Description?:` .placeholder 
+ 
+`Followers?: `0 
+ 
+`Following?:` 113 
+ 
+`User URL?:` https://t.co/nBq5FAj2e9 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 29 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1413530583532199936/qXTCmj3H_normal.jpg 
+ 
+`Number of tweets excluding replies:` 29 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INFOSEC** 4 , **@HACKTHEBOX_EU** 3 , **HTB** 3 , **HACKTHEBOX** 3 , **FUN** 3 , **@MALWARETECHBLOG:** 3 , **TWEET** 3 , **MAKE** 3 , **CYBERSECURITY** 2 , **PENTESTING** 2 , **HACKING** 2 , **MALICIOUS** 2 , **TOMCAT** 2 , **RELEASED** 2 , **RANSOMWARE** 2 , **LOT** 2 , **MICROSOFT** 2 , **DOES** 2 , **@HACKERSPLOIT:** 2 , **PATCH** 2 , 
+ 
+## What this user tweeted
+ 
+Another one bites the dust👍 @hackthebox_eu 
+
+#HTB #HackTheBox #CyberSecurity #infosec #Pentesting https://t.co/h2SinAaD6K
+ 
+# Krishne27990077USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Krishne27990077 
+ 
+`User chosen Name:` Krishnendu Biswas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 14 08:34:09 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ONLINE** 6 , **में** 4 , **है** 3 , **JOB** 3 , **COURSES** 3 , **के** 3 , **2021** 3 , **होता** 2 , **HOME** 2 , **CYBER** 2 , **SECURITY** 2 , **USA** 2 , **लोन** 2 , **अधिक** 2 , **लिए** 2 , **कोर्सेज** 2 , **सम्पूर्ण** 2 , **जानकारी** 2 , **DEGREE** 2 , **:** 2 , 
+ 
+## What this user tweeted
+ 
+Top 15 Online Cybersecurity Degree Programs of 2021, https://t.co/4NR78SWd2U
+ 
+# StephenNeelyUSFUSER INFO
+![image](http://pbs.twimg.com/profile_images/1415076675801468929/fHWBOpkt_normal.jpg)
+ 
+`User ScreenName:` StephenNeelyUSF 
+ 
+`User chosen Name:` Stephen Neely 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 13 22:32:07 +0000 2021 
+ 
+`User Description?:` Professor of Public Affairs at the University of South Florida.  Survey researcher specializing in public policy and politics.  Watch for regular data releases. 
+ 
+`Followers?: `13 
+ 
+`Following?:` 64 
+ 
+`User URL?:` None 
+ 
+`Location:` Tampa, FL 
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1415076675801468929/fHWBOpkt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SURVEY** 2 , **RECENTLY** 2 , **RT** 1 , **@FLORIDAEDC:** 1 , **VIA** 1 , **@FLORIDATREND:** 1 , **TAKING** 1 , **FLORIDA** 1 , **CYBERSECURITY** 1 , **NEXT** 1 , **LEVEL** 1 , **HTTPS://TCO/MZBRKIIMPC** 1 , **CYBERFLORIDA** 1 , **@CYBERSECURITYFL…@KAITLANCOLLINS** 1 , **@KEVINLIPTAKCNN** 1 , **@JEFFZELENY** 1 , **URGENT** 1 , **PROBLEM** 1 , **INDEED!** 1 , **RECENT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @FloridaEDC: Via @FloridaTrend: Taking Florida #Cybersecurity to the Next Level. https://t.co/MzbrKIimPc #CyberFlorida @CyberSecurityFL…
+ 
+# HackenAIappUSER INFO
+![image](http://pbs.twimg.com/profile_images/1415304117942202371/KEo8pRzO_normal.jpg)
+ 
+`User ScreenName:` HackenAIapp 
+ 
+`User chosen Name:` HackenAI app 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 14 13:27:50 +0000 2021 
+ 
+`User Description?:` Your personal cyberguard. Wallet, Password Manager, VPN, Darknet Monitoring, Tokens Farming, Incoming Antivirus. $HAI #HackenAI #Hacken #CyberSecurity #Crypto 
+ 
+`Followers?: `14 
+ 
+`Following?:` 6 
+ 
+`User URL?:` https://t.co/ABia54z6Ja 
+ 
+`Location:` Future 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1415304117942202371/KEo8pRzO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HACKENCLUB** 4 , **HACKENFOUNDATION** 2 , **@TOXIC_LIST** 1 , **PROJECT** 1 , **COMING** 1 , **GOOOOOD@DATAMYNT** 1 , **GOOD** 1 , **CHOICE** 1 , **CYBERSECURITY** 1 , **BLOCKCHAIN** 1 , **COOPERATION** 1 , **😎@HACKENCLUB** 1 , **@PUREFI_PROTOCOL** 1 , **$HAI** 1 , **KING** 1 , **🔥** 1 , **HACKEN** 1 , **HTTPS://TCO/CXGATI5VQ0IT'S** 1 , **UNOFFICIAL** 1 , **PROFILE** 1 , 
+ 
+## What this user tweeted
+ 
+@DataMynt @hackenclub @hackenclub is good choice for #cybersecurity &amp; #blockchain cooperation. 😎
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
