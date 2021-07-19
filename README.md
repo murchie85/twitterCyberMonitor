@@ -29,9 +29,9 @@ The most popular user is: **Malwar3Ninja**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @skeletorskelton @anthomsec @__winn @cnoanalysis I keep a “#ThreatIntel reading list” on a public spreadsheet, with… https://t.co/0ceghBf8Rp |
-| RT @GroupSenseCyber: Bryce (@BrycexWJ) on responding to a #ransomware attack said "we [also want to be] providing context so that this [...… |
-| RT @JinibaBD: 👏👏 #Kaseya #ransomware attack updates: Your questions answered #DataBreaches #DarkWeb #CyberSec #infosec #Security #cybercrim… |
+| RT @FlareSystems_: Flare is proud to announce the @microsoftcanada Azure Sentinel integration with our Firework platform!Learn more about… |
+| #TIP can help you run efficient threat assessments and provide insights about where to prioritize security efforts… https://t.co/xq5i5H41gr |
+| RT @DSCI_TiR: "Alert: Multiple #vulnerabilities have been reported in the multiple #Apache products which could lead to #information disclo… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **Malwar3Ninja**
 | #2 Most tweeted to  | **javier_carriazo** |
 | #3 Most tweeted to  | **bad_packets** |
 | NewProfiles (less than 10 days) | 0.05%  |
-| Tweeters with < 10 followers  | 0.69%|
+| Tweeters with < 10 followers  | 0.71%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -60,12 +60,12 @@ The most popular user is: **Malwar3Ninja**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (18.18%) & **NEGATIVELY-SUBJECTIVE** (36.36%) **OBJECTIVE** (45.45%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RedPacketSec: Four Critical  Flaws Identified in Sage X3 ERP Software - https://t.co/VjfKvbIAml#OSINT #Security #Threatintel #cybersec… |
+|RT @silv0123: #ThreatintelNew #APT34 #OilRig RDAT Sample fe73a32f00c77fdb6b1f9b61e933b76b |
 
 ### MOST RETWEETED 
 
@@ -80,28 +80,27 @@ VIEWS WERE : **SUBJECTIVE**  (18.18%) & **NEGATIVELY-SUBJECTIVE** (36.36%) **OBJ
  
 `User ScreenName:` Taiwan19520428 
  
-`User chosen Name:` 從2021到2023 
+`User chosen Name:` Taiwanese 台灣人 
  
 `Is the User Verified?:` False 
  
 `User signup date?:` Wed Jul 14 05:01:42 +0000 2021 
  
-`User Description?:` 2015年9月21日
-台灣居民來往大陸通行證，俗稱台胞證，正式停止簽發本式台胞證並全面啟用卡式台胞證。 
+`User Description?:`  
  
 `Followers?: `3 
  
-`Following?:` 133 
+`Following?:` 137 
  
-`User URL?:` https://t.co/7faprDfHe8 
+`User URL?:` None 
  
-`Location:` 🇺🇲 
+`Location:` Taiwan 
  
 `Number of tweets extracted`  : 200 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1416800418923913217/cqHVrlJn_normal.jpg 
  
-`Number of tweets excluding replies:` 793 
+`Number of tweets excluding replies:` 795 
  
 
  
