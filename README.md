@@ -556,39 +556,21 @@ Do share max our content
  
 ## User Top tweeted words 
  
-**@DHANUSHKRAJA** 8 , **HAPPY** 5 , **MUST** 4 , **@ACTORVIJAY** 4 , **KARNAN** 4 , **10M** 4 , **FOLLOWERS** 4 , **FIRST** 4 , **MASS** 3 , **GOOGLE** 3 , **GOLDEN** 3 , **ERA** 3 , **COMES** 3 , **PONNIYINSELVAN** 3 , **PS1** 3 , **@MADRASTALKIES_** 3 , **@LYCAPRODUCTIONS** 3 , **YOUTUBE** 3 , **தளபதி** 3 , **தான்** 3 , 
+**@DHANUSHKRAJA** 8 , **HAPPY** 5 , **MUST** 4 , **@ACTORVIJAY** 4 , **KARNAN** 4 , **10M** 4 , **FOLLOWERS** 4 , **FIRST** 4 , **MASS** 3 , **GOOGLE** 3 , **GOLDEN** 3 , **ERA** 3 , **COMES** 3 , **PONNIYINSELVAN** 3 , **PS1**
  
-## What this user tweeted
+`Followers?: `39 
  
-RT @NYFLNerds: OOPS! Did you just delete an entire week’s work by accident? 
-Nothing to worry about, we will help you retrieve anything tha…
- 
-# yrhozaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1416793412322402307/SqVbHYyx_normal.jpg)
- 
-`User ScreenName:` yrhoza 
- 
-`User chosen Name:` Abderahman 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 15 21:47:10 +0000 2021 
- 
-`User Description?:` Retweet ≠ Endorsement 
- 
-`Followers?: `2 
- 
-`Following?:` 8 
+`Following?:` 0 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` پاکستان 
  
-`Number of tweets extracted`  : 28 
+`Number of tweets extracted`  : 17 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1416793412322402307/SqVbHYyx_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1416867060257333251/Tqx829oR_normal.jpg 
  
-`Number of tweets excluding replies:` 28 
+`Number of tweets excluding replies:` 17 
  
 
  
@@ -596,30 +578,28 @@ Nothing to worry about, we will help you retrieve anything tha…
  
 ## User Top tweeted words 
  
-**DES** 11 , **DE** 11 , **VIA** 10 , **LE** 8 , **:** 6 , **NSO** 4 , **SPYWARE** 4 , **PEGASUSPROJECT** 4 , **LA** 4 , **MAROC** 4 , **CONSEIL** 4 , **MOROCCO** 4 , **PAR** 3 , **ISRAEL** 3 , **UN** 3 , **ISRAELI** 3 , **PEGASUS** 3 , **ET** 2 , **LES** 2 , **COMME** 2 , 
+**TALIBAN** 8 , **PAKISTAN'S** 4 , **PAKISTAN** 3 , **PASHTUN** 3 , **AFGHANISTAN** 3 , **TAKEOVER** 2 , **ESTABLISHMENT** 2 , **MUCH** 2 , **INFLUENCE** 2 , **CONTROL** 2 , **GEOGRAPHY** 2 , **INTERESTS** 2 , **GREATER** 2 , **AFGHAN** 2 , **GROUPS** 2 , **ENJOYED** 1 , **THREAD** 1 , **"AFGHAN** 1 , **MINDSET"** 1 , **SEEN** 1 , 
  
 ## What this user tweeted
  
-Thread with a couple of interesting bits from @billmarczak @CitizenLab on NSO Group's spyware #Pegasus… https://t.co/HJyEDqPxRy
+Pakistanis are also wrong to view mere hate &amp; Pashtun nationalism as the only drivers of Afghan machinations. This… https://t.co/44zDSZpsQV
  
-# cyberstulewUSER INFO
-![image](http://pbs.twimg.com/profile_images/1417201333740851211/R0DmXZtt_normal.jpg)
+# advokinUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` cyberstulew 
+`User ScreenName:` advokin 
  
-`User chosen Name:` Lew the Cyber Newb 
+`User chosen Name:` Advokin 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jul 19 19:13:11 +0000 2021 
+`User signup date?:` Sun Jul 18 17:10:41 +0000 2021 
  
-`User Description?:` Security+ | MS #Cybersecurity student | hopeful #cybersec analyst. 
-
-Dogs, tacos and #infosec are my life. 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 17 
+`Following?:` 6 
  
 `User URL?:` None 
  
@@ -627,7 +607,7 @@ Dogs, tacos and #infosec are my life.
  
 `Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1417201333740851211/R0DmXZtt_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
 `Number of tweets excluding replies:` 2 
  
@@ -637,11 +617,289 @@ Dogs, tacos and #infosec are my life.
  
 ## User Top tweeted words 
  
-**SAVING** 1 , **LATER** 1 , **HTTPS://TCO/MF4ABMEGJ1AZURE** 1 , **FUNDAMENTALS** 1 , **TEST** 1 , **😬** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CLOUDSECURITY** 1 , 
+**RT** 1 , **@ASTR0KIN:** 1 , **@BITRUEOFFICIAL** 1 , **@SOLANA** 1 , **$KIN** 1 , **ELSE** 1 , **LOL** 1 , **HTTPS://TCO/WK9WKVNRSZRT** 1 , **@KIN_ECOSYSTEM:** 1 , **IMPROVE** 1 , **KRE'S** 1 , **RESILIENCY** 1 , **LARGE** 1 , **PARKED** 1 , **ACCOUNTS** 1 , **APPEAR** 1 , **OUTLIERS** 1 , **PROPOSE** 1 , **MINOR** 1 , **UPDATE** 1 , 
  
 ## What this user tweeted
  
-#azure fundamentals test today 😬 #infosec #cybersecurity #cloudsecurity
+RT @Kin_Ecosystem: To improve the KRE's resiliency to large parked accounts that appear to be outliers, we propose a minor update that prot…
+ 
+# gayblackpillUSER INFO
+![image](http://pbs.twimg.com/profile_images/1415405113817063426/1b7Obkix_normal.jpg)
+ 
+`User ScreenName:` gayblackpill 
+ 
+`User chosen Name:` gayblackpill 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 14 20:13:28 +0000 2021 
+ 
+`User Description?:` Influences: Camille Paglia, Adolph Reed, George Orwell, George Schuyler, Carl Jung. Committed contrarian. Free thinking black man. Provocateur. Shape shifter. 
+ 
+`Followers?: `5 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 79 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1415405113817063426/1b7Obkix_normal.jpg 
+ 
+`Number of tweets excluding replies:` 79 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BLACK** 28 , **MEN** 16 , **WHITE** 15 , **PEOPLE** 8 , **CAN'T** 5 , **EVEN** 5 , **SOME** 4 , **NEED** 4 , **GAYS** 4 , **BECOME** 4 , **@RENYTURE:** 4 , **THEN** 4 , **LOVE** 4 , **@BREAKINGBROWN:** 4 , **RICH** 3 , **OBAMA** 3 , **DOING** 3 , **READING** 3 , **BOYS** 3 , **SAY** 3 , 
+ 
+## What this user tweeted
+ 
+RT @RenyTure: When Black males reveal their vulnerabilities, instead of being taken seriously, they are taken as an affront: It is often se…
+ 
+# loverivaileUSER INFO
+![image](http://pbs.twimg.com/profile_images/1414724804100325383/luRP11v4_normal.jpg)
+ 
+`User ScreenName:` loverivaile 
+ 
+`User chosen Name:` yez 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 10 15:14:42 +0000 2021 
+ 
+`User Description?:` akun baca au fanart random jorok nsfw dll dah pokoknya 
+ 
+`Followers?: `1 
+ 
+`Following?:` 153 
+ 
+`User URL?:` None 
+ 
+`Location:` she/her 19 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1414724804100325383/luRP11v4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 373 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AU** 24 , **•** 15 , **@HAIKYUUFESS:** 12 , **HAIKYUU** 12 , **YANG** 11 , **:** 11 , **INI** 11 , **SHORT** 10 , ***HQ** 9 , **@LOVERIVAILERT** 9 , **SM** 8 , **HINATA** 8 , **ATSUMU** 8 , **KLO** 7 , **YUUJI** 7 , **SAKUATSU** 7 , **TAG** 7 , **HAREM** 7 , **ハイキュー** 6 , **AJA** 6 , 
+ 
+## What this user tweeted
+ 
+RT @sukunasganbarre: Buku, Pesta, dan Cinta - a Haikyuu x BBF au
+
+When someone has seen your vulnerabilities and still stayed, don't let th…
+ 
+# Jeff65696238USER INFO
+![image](http://pbs.twimg.com/profile_images/1416219020957728776/5YjlrIuO_normal.jpg)
+ 
+`User ScreenName:` Jeff65696238 
+ 
+`User chosen Name:` To the East my Brotha To the East ! 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 17 01:59:43 +0000 2021 
+ 
+`User Description?:` My burner 
+ 
+`Followers?: `95 
+ 
+`Following?:` 226 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1416219020957728776/5YjlrIuO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 303 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BLACK** 20 , **SHIT** 11 , **US** 10 , **WOMEN** 10 , **PEOPLE** 9 , **DON’T** 8 , **BEING** 7 , **FIRST** 7 , **@RYNSRISE:** 7 , **TIME** 6 , **@BREENEWSOME:** 6 , **MAN** 6 , **OFF** 5 , **BACK** 5 , **THROUGH** 5 , **MAKE** 5 , **Y’ALL** 5 , **@OWLSASYLUM:** 5 , **GAVE** 5 , **REALLY** 5 , 
+ 
+## What this user tweeted
+ 
+RT @RenyTure: When Black males reveal their vulnerabilities, instead of being taken seriously, they are taken as an affront: It is often se…
+ 
+# Darth__MarUSER INFO
+![image](http://pbs.twimg.com/profile_images/1416547892756717570/9rYEUQS5_normal.jpg)
+ 
+`User ScreenName:` Darth__Mar 
+ 
+`User chosen Name:` Dark Sith Lord 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 17 23:55:47 +0000 2021 
+ 
+`User Description?:` Streamer, Brother, and Scholar
+I don't argue with children 
+ 
+`Followers?: `40 
+ 
+`Following?:` 97 
+ 
+`User URL?:` None 
+ 
+`Location:` Atlanta, GA 
+ 
+`Number of tweets extracted`  : 91 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1416547892756717570/9rYEUQS5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 91 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@RENYTURE:** 13 , **BLACK** 10 , **PEOPLE** 9 , **Y’ALL** 9 , **MEN** 6 , **SAY** 6 , **LMAO** 5 , **OTHER** 5 , **BEING** 5 , **SHIT** 4 , **REALLY** 4 , **HERE** 4 , **GOOD** 4 , **TOXIC** 4 , **TWITTER** 4 , **DAY** 4 , **MAKING** 4 , **ACTUALLY** 4 , **MASCULINITY** 4 , **GENDER** 4 , 
+ 
+## What this user tweeted
+ 
+RT @RenyTure: When Black males reveal their vulnerabilities, instead of being taken seriously, they are taken as an affront: It is often se…
+ 
+# GirlcodeBUSER INFO
+![image](http://pbs.twimg.com/profile_images/1416896940441325568/fZjs648A_normal.jpg)
+ 
+`User ScreenName:` GirlcodeB 
+ 
+`User chosen Name:` HealthyFoodies 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 16 13:19:13 +0000 2021 
+ 
+`User Description?:` Its clear there's no such thing as perfect diet, I am healthyfoodies bot, and my job is to keep you updated with diet plans, recipes and exercises... 
+ 
+`Followers?: `5 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 179 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1416896940441325568/fZjs648A_normal.jpg 
+ 
+`Number of tweets excluding replies:` 179 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WOMENINTECH** 34 , **JAVASCRIPT** 32 , **NODEJS** 27 , **NOCODE** 26 , **LOWCODE** 26 , **GITHUB** 26 , **CYBERSECURITY** 26 , **HCLSWLOBP** 20 , **@DIANAINITIATIVE:** 20 , **TDI2021** 20 , **DEVOPS** 19 , **SPEAKING** 19 , **MISS** 18 , **“** 16 , **TECH** 15 , **WOMEN** 14 , **100DAYSOFCODE** 14 , **DAY** 13 , **WOMENWHOCODE** 12 , **@NUHAKHALEDCT:** 12 , 
+ 
+## What this user tweeted
+ 
+RT @DianaInitiative: Do not miss Cassandra Brunetto  @akolsuoicauqol speaking at #TDI2021 about “ Vulnerabilities from Venus, Management fr…
+ 
+# Mako01911450USER INFO
+![image](http://pbs.twimg.com/profile_images/1416427069983150082/7P-5EjIP_normal.jpg)
+ 
+`User ScreenName:` Mako01911450 
+ 
+`User chosen Name:` Mako 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 17 15:23:59 +0000 2021 
+ 
+`User Description?:` Crypto Punk 
+ 
+`Followers?: `1 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1416427069983150082/7P-5EjIP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MASKS** 3 , **THEN** 3 , **BIOWEAPON** 2 , **RT** 1 , **@SAASWIZ:** 1 , **FIRST** 1 , **2** 1 , **OK** 1 , **MAYBE** 1 , **VACCINES** 1 , **MAKE** 1 , **IMMUNE…RT** 1 , **@PFWD:** 1 , **SPRINT** 1 , **READY** 1 , **REFINED** 1 , **SPIKE** 1 , **DEFINITION** 1 , **DONE** 1 , **HTTPS://TCO/LJBZOGIJNRRT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: China has issued new regulations requiring #cybersecurity researchers to mandatorily share details of critical zero-day…
+ 
+# danttordungiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1416846548961484807/bcuCg4Wr_normal.jpg)
+ 
+`User ScreenName:` danttordungi 
+ 
+`User chosen Name:` • M • 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 11 06:02:43 +0000 2021 
+ 
+`User Description?:` I am nice sometimes!
+CMH'21 🦷
+AFB 
+ 
+`Followers?: `76 
+ 
+`Following?:` 59 
+ 
+`User URL?:` None 
+ 
+`Location:` Lahore, Pakistan 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1416846548961484807/bcuCg4Wr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 246 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HAI** 15 , **BHI** 10 , **PEOPLE** 9 , **DAUGHTER** 9 , **😂** 9 , **ALLAH** 8 , **THAN** 8 , **K** 8 , **SOMEONE** 8 , **DAY** 7 , **DON'T** 7 , **LOVE** 7 , **KA** 7 , **@WEEZAY_1720** 7 , **YEAR** 6 , **SAY** 6 , **@ITSMEAQSAA:** 6 , **KI** 6 , **@WAKEUPAIYNAA** 6 , **EVEN** 5 , 
+ 
+## What this user tweeted
+ 
+RT @noturdrwatson: People who suggest you books, make your playlists, listen to you without judging, assure you without you asking for it.…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
