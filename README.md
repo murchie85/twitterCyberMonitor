@@ -1,23 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **amzy0_**  
+The most popular user is: **Malwar3Ninja**  
  
 
-## Join me on https://t.co/faXskYsENu
-.
-.
-#github #python #coding #javascript #programming #developer #code #c #cpp… https://t.co/cK6jj3Ie1W 
+## 🔥⚡Today we carried out a proactive Internet Wide #Threathunt to identify #CobaltStrike Servers. So far we have iden… https://t.co/mAgLuHjOYX 
 
   
 
@@ -26,25 +23,25 @@ The most popular user is: **amzy0_**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JimDon84: With attacks still on the rise, the risk posed to businesses that are not prepared is significant. Can you identify which poi… |
-| RT @Paula_Piccard: Face Detection Explained: State-of-the-Art Methods and Best Toolshttps://t.co/lDBZ5LwvsA @DataScienceCtrl #MachineLe… |
-| RT @hacks4pancakes: As my experience grows, it seems like *every* niche of cybersecurity has a few famous and genuinely technically talente… |
+| RT @javier_carriazo: Apple Safari Leaks Cookies, so ‘Russia-Backed’ Hackers Attack Targets #DataBreaches #DarkWeb #CyberSec #infosec #Secur… |
+| RT @BinSecSweeper: Some malware comes as a fake AV app! Our advanced file threat analysis platform collects and examine in depth so you can… |
+| RT @cybertotz: @executemalware He who laughs last, infected you with hancitor #cybersecurity #malware. #threatintel #OSINT |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Paula_Piccard** |
-| #2 Most tweeted to  | **iotcybersec24** |
-| #3 Most tweeted to  | **42Sz40** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 1.38%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **RedPacketSec** |
+| NewProfiles (less than 10 days) | 0.05%  |
+| Tweeters with < 10 followers  | 1.1%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -53,96 +50,57 @@ The most popular user is: **amzy0_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **100DAYSOFCODE**  |
-| second  | **AI**  |
-| third  | **MACHINELEARNING** |
-| fourth  | **@PAULA_PICCARD:**  |
-| fifth  | **JAVASCRIPT**  |
+| first  | **DARKWEB**  |
+| second  | **DATABREACHES**  |
+| third  | **CYBERSEC** |
+| fourth  | **INFOSEC**  |
+| fifth  | **THREATINTEL**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Our friends at @nozominetworks recently announced their ADVantage Partner Program – raising the bar on incentives a… https://t.co/y6mKtLVtFc |
+|RT @ArchinalLee: #CyberSecurity researchers at Malware Hunter Team have discovered a #Linux version of #HelloKitty #Ransomware that targets… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **amzy0_**  |
+| The most retweeted user is: **Malwar3Ninja**  |
 | ------------- |
-| Join me on https://t.co/faXskYsENu..#github #python #coding #javascript #programming #developer #code #c #cpp… https://t.co/cK6jj3Ie1W |
+| 🔥⚡Today we carried out a proactive Internet Wide #Threathunt to identify #CobaltStrike Servers. So far we have iden… https://t.co/mAgLuHjOYX |
 
 # Potential Fake Accounts
  
-# pugpolitics1USER INFO
-![image](http://pbs.twimg.com/profile_images/1415165135421911041/v0s9hD5R_normal.jpg)
+# Taiwan19520428USER INFO
+![image](http://pbs.twimg.com/profile_images/1417489574956253195/J2sbIJDg_normal.jpg)
  
-`User ScreenName:` pugpolitics1 
+`User ScreenName:` Taiwan19520428 
  
-`User chosen Name:` pugpolitics 
+`User chosen Name:` Taiwanese 台灣人 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 14 04:22:50 +0000 2021 
+`User signup date?:` Wed Jul 14 05:01:42 +0000 2021 
  
-`User Description?:` Putting my paw in the ring of political debates! 
+`User Description?:` 把中國給玩死 
  
-`Followers?: `16 
+`Followers?: `4 
  
-`Following?:` 159 
+`Following?:` 152 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Taipei, Taiwan  
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1415165135421911041/v0s9hD5R_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1417489574956253195/J2sbIJDg_normal.jpg 
  
-`Number of tweets excluding replies:` 710 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEHILL:** 19 , **@MACFARLANENEWS:** 13 , **US** 13 , **@ANARCODE** 13 , **@WASHINGTONPOST** 13 , **NEW** 12 , **PEOPLE** 11 , **COVID-19** 10 , **AFTER** 10 , **@ABC:** 9 , **THAN** 9 , **@RANDYTUCKER_** 9 , **TEXAS** 7 , **TRUMP** 7 , **@WASHINGTONPOST:** 7 , **WOMAN** 7 , **BIDEN** 7 , **STATE** 7 , **REPUBLICANS** 6 , **INTO** 6 , 
- 
-## What this user tweeted
- 
-RT @thehill: JUST IN: House committee approves eight bipartisan bills to improve telecom security https://t.co/FpDY7fxxWR https://t.co/xi39…
- 
-# edjorasUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` edjoras 
- 
-`User chosen Name:` edjoras 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 14 21:11:21 +0000 2021 
- 
-`User Description?:` Apple Business Development for CDW. Gearhead. Soccer ref. Proud s2000 owner. 
- 
-`Followers?: `1 
- 
-`Following?:` 37 
- 
-`User URL?:` None 
- 
-`Location:` Grayslake, IL 
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 21 
+`Number of tweets excluding replies:` 1098 
  
 
  
@@ -150,96 +108,15 @@ RT @thehill: JUST IN: House committee approves eight bipartisan bills to improve
  
 ## User Top tweeted words 
  
-**CLOUD** 5 , **NEW** 5 , **HELP** 4 , **SOLUTIONS** 3 , **✅** 3 , **SECURITY** 2 , **SERVICES** 2 , **F…** 2 , **AUTOMATION** 2 , **JOURNEY** 2 , **PLATFORM** 2 , **PROVIDE** 2 , **MODERN** 2 , **DATA** 2 , **STORAGE** 2 , **TECHNOLOGY** 2 , **TEAM** 2 , **CONSIDER** 2 , **MANAGEMENT** 2 , **TIME** 2 , 
+**￼** 11 , **TAIWAN** 8 , **@TAIWAN19520428:** 5 , **TAIWAN’S** 4 , **@SECAZAR:** 4 , **@USASIAPACIFIC** 4 , **YEARS** 3 , **@SUGAWITTER:** 3 , **CHINA** 3 , **SIGNED** 3 , **US** 3 , **@POTUS** 2 , **3** 2 , **5** 2 , **GOOD** 2 , **@IINGWEN:** 2 , **STRATEGIC** 2 , **WORLD** 2 , **VISIT** 2 , **GENDER** 2 , 
  
 ## What this user tweeted
  
-#Cloud #security takes a multilayered approach – and @CDWCorp professional services help you get the most out of… https://t.co/HYDkOOXLrH#Highered institutions have been under such heavy fire from #cyberattacks that federal law enforcement issued a… https://t.co/v4hqKqI7QH
- 
-# MorganDemboskiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1417684524964753409/gsqdA-Sx_normal.jpg)
- 
-`User ScreenName:` MorganDemboski 
- 
-`User chosen Name:` Morgan Demboski 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 21 03:11:25 +0000 2021 
- 
-`User Description?:` Cyber Threat Intel Analyst 🏹 | IronNet Cybersecurity
-Intel & Security Grad Student | The Citadel 
-Co-Director of Communications | The Prosecution Project 
- 
-`Followers?: `10 
- 
-`Following?:` 166 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1417684524964753409/gsqdA-Sx_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FUTURE** 2 , **CRYPTO** 1 , **BECOME** 1 , **FOUNDATION** 1 , **RANSOMWARE** 1 , **BUSINESS** 1 , **MODEL** 1 , **MAY** 1 , **EVENTUALLY** 1 , **CHANGE** 1 , **LEARN** 1 , **R…** 1 , **HTTPS://TCO/0IWPXNWVJLRT** 1 , **@DARKREADING:** 1 , **FBI'S** 1 , **RECOVERY** 1 , **COLONIAL** 1 , **PIPELINE** 1 , **RANSOM** 1 , **SIGNALS** 1 , 
- 
-## What this user tweeted
- 
-RT @DarkReading: Why the FBI's Recovery of Colonial Pipeline Ransom Signals Hope for the Future https://t.co/0tyye2LrIo by Morgan Demboski…
- 
-# MariaWangenheimUSER INFO
-![image](http://pbs.twimg.com/profile_images/1415998201614589963/kXbhr0l5_normal.jpg)
- 
-`User ScreenName:` MariaWangenheim 
- 
-`User chosen Name:` Maria Isabel Cubillo Wangenheim 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 15 03:19:57 +0000 2021 
- 
-`User Description?:` Wife, Mom, Daughter, Sister
-@CSULBJPR ‘19 grad
-#Marketing & #PR, #translating & #transcribing freelancer plus #bilingüe
-That's my drawing in the header 😎 
- 
-`Followers?: `13 
- 
-`Following?:` 139 
- 
-`User URL?:` https://t.co/0LgGa2ftyk 
- 
-`Location:` Kern county, CA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1415998201614589963/kXbhr0l5_normal.jpg 
- 
-`Number of tweets excluding replies:` 319 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REALCANDACEO** 18 , **GOD** 12 , **PEOPLE** 10 , **VACCINE** 10 , **@LIFENEWSHQ:** 7 , **COVID** 7 , **WELL** 7 , **ABORTION** 6 , **@DEBBER66:** 6 , **NOR** 6 , **POINT** 5 , **GOT** 5 , **YEARS** 5 , **@FRFRANKPAVONE:** 5 , **BIDEN** 5 , **@KASSYDILLON** 5 , **INFLATION** 5 , **REAL** 5 , **DON’T** 4 , **YOU’RE** 4 , 
- 
-## What this user tweeted
- 
-RT @DHSgov: Are you a K-12 educator getting ready for the new school year?  
-
-You can incorporate #cybersecurity principles into your lesso…
+RT @bad_packets: Top 10 Countries – July 15, 2021
+New unique DDoS malware hosts detected by country:
+🇨🇳 China: 312
+🇮🇳 India: 143
+🇰🇿 Kazakhs…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
