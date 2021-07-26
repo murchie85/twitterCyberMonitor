@@ -33,18 +33,18 @@ The most popular user is: **MaltegoHQ**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @OASISopen: Long-Awaited STIX, TAXII Cyberthreat Sharing Standards Approved https://t.co/4T4341LTO7  #STIX #TAXII #threatintel #cyberse… |
-| RT @JinibaBD: Steve Caimi Explains That Cybersecurity Supply Chain Risk Is Not a Zero-Day Threat #DataBreaches #DarkWeb #CyberSec #infosec… |
-| RT @javier_carriazo: Cybersecurity salaries: What 8 top security jobs pay #DataBreaches #DarkWeb #CyberSec #infosec #Security #cybercrime… |
+| RT @javier_carriazo: Nasty macOS Malware XCSSET Now Targets Google Chrome, Telegram Software #DataBreaches #DarkWeb #CyberSec #infosec #Sec… |
+| RT @KevinBenacci: Starting a new professional chapter at @CrowdStrike leading the global public affairs team! In a world where #cyberattack… |
+| RT @BinSecSweeper: Assess your files with our advanced File Threat Intelligence Platform: vulnerabilities, malware indicators, YARA, simila… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **RedPacketSec** |
+| #2 Most tweeted to  | **RedPacketSec** |
+| #3 Most tweeted to  | **javier_carriazo** |
 | NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 0.92%|
+| Tweeters with < 10 followers  | 0.91%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -64,12 +64,12 @@ The most popular user is: **MaltegoHQ**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Rapid7 Acquires Threat Intel Company IntSights for $335M https://t.co/x46TB6eUSV #Rapid7 #acquisition #threatintel |
+|US, EU, UK, NATO blame china for “reckless” Exchange attacks - https://t.co/mrmR4ijRtJ#OSINT #Security #Threatintel #cybersecurity |
 
 ### MOST RETWEETED 
 
