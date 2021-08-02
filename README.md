@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **itsJeffTiedrich**  
+The most popular user is: **bad_packets**  
  
 
-## Rudy Giuliani could have quietly lived in the shadows and continued to rake in millions with his bogus cybersecurit… https://t.co/Vf61tHHq4P 
+## Mass scanning activity detected from 82.102.16.220 (🇩🇪) checking for Citrix NetScaler Gateway endpoints vulnerable… https://t.co/scWTr4TcYb 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **itsJeffTiedrich**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @infosec_jobsCOM: HIRING: Security Engineer / Remote - https://t.co/wncZEgpmUr #InfoSec #infosecjobs #CyberSecurity #cybersec #CyberCare… |
-| #cybersecurity Ouch - this hurts. A #cyberattack that crippled the computer systems of a hospital network affecting… https://t.co/wc4PARHIRP |
-| RT @Wajdialkayal1: 5 Ux Tips To Become A Better #Frontend #developer#cybersecurity#ArtificialIntelligence #AI #DataScience #MachineLearni… |
+| RT @javier_carriazo: The True Impact of Ransomware Attacks #DataBreaches #DarkWeb #CyberSec #infosec #Security #cybercrime #ThreatIntel #ha… |
+| RT @DSCI_TiR: "Alert: Vulnerabilities have been reported in the Nagios Log Server which could allow an unprivileged attacker to execute an… |
+| RT @bad_packets: Mass scanning activity detected from 217.12.210.51 (🇺🇦) targeting the following vulnerabilities:CVE-2020-14005SolarWind… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **itsJeffTiedrich** |
-| #2 Most tweeted to  | **ingliguori** |
-| #3 Most tweeted to  | **iotcybersec24** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 1.66%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **CyberIQs_** |
+| NewProfiles (less than 10 days) | 0.07%  |
+| Tweeters with < 10 followers  | 0.5%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,96 +50,59 @@ The most popular user is: **itsJeffTiedrich**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COULD**  |
-| second  | **CONTINUED**  |
-| third  | **RUDY** |
-| fourth  | **@ITSJEFFTIEDRICH:**  |
-| fifth  | **GIULIANI**  |
+| first  | **DARKWEB**  |
+| second  | **DATABREACHES**  |
+| third  | **CYBERSEC** |
+| fourth  | **INFOSEC**  |
+| fifth  | **@JINIBABD:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.15%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.85%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Hopper – The Security Tool That Protects Enterprises From Lateral Network Movement https://t.co/0BZsN2zd1Y #News… https://t.co/VNeWnnYw8N |
+|RT @JinibaBD: 😱😨😮 Dark web ads offering corporate #network access increase seven-fold #DataBreaches #DarkWeb #CyberSec #infosec #Security #… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **itsJeffTiedrich**  |
+| The most retweeted user is: **bad_packets**  |
 | ------------- |
-| Rudy Giuliani could have quietly lived in the shadows and continued to rake in millions with his bogus cybersecurit… https://t.co/Vf61tHHq4P |
+| Mass scanning activity detected from 82.102.16.220 (🇩🇪) checking for Citrix NetScaler Gateway endpoints vulnerable… https://t.co/scWTr4TcYb |
 
 # Potential Fake Accounts
  
-# PetriHooliUSER INFO
-![image](http://pbs.twimg.com/profile_images/1421809075046731776/jD0fZMoO_normal.jpg)
+# AmirFedidaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1420372501285294088/LiCSQ34O_normal.jpg)
  
-`User ScreenName:` PetriHooli 
+`User ScreenName:` AmirFedida 
  
-`User chosen Name:` Petri Hooli 
+`User chosen Name:` Amir Fedida 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jul 31 12:12:27 +0000 2021 
+`User signup date?:` Wed Jul 28 13:15:28 +0000 2021 
  
-`User Description?:` Based in an institution in Karunki, Finland. 
+`User Description?:` Python developer, Ethical hacker.
+Security researcher at @infinipointsec
+My tweets are my own and should never be taken seriously (: 
  
-`Followers?: `4 
+`Followers?: `435 
  
-`Following?:` 74 
+`Following?:` 136 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Israel 
  
-`Number of tweets extracted`  : 20 
+`Number of tweets extracted`  : 11 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1421809075046731776/jD0fZMoO_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1420372501285294088/LiCSQ34O_normal.jpg 
  
-`Number of tweets excluding replies:` 20 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FINNISH** 7 , **FINLAND** 7 , **PATIENTS** 6 , **MENTALHEALTH** 6 , **HOOLI** 4 , **PETRI** 4 , **KEEP** 3 , **SPYWARE** 3 , **OK** 2 , **MENTAL** 2 , **HEALTH** 2 , **RACIST** 2 , **ONLINE** 2 , **POLICE** 2 , **GIVE** 2 , **MONEY** 2 , **TROUBLE** 2 , **DIDN’T** 2 , **MALWARE** 2 , **…** 2 , 
- 
-## What this user tweeted
- 
-The Finnish community must be ok exposing their own privacy to hackers within their own mental health institutions… https://t.co/e38PXCc5Bp
- 
-# ScottTheARGuyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1420922404218445825/XI0Cd28X_normal.jpg)
- 
-`User ScreenName:` ScottTheARGuy 
- 
-`User chosen Name:` Scott Smith - Dataiku AR 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 29 16:52:04 +0000 2021 
- 
-`User Description?:` I am the head of global Analyst Relations @Dataiku - this is my business account. #AI #MachineLearning / #ML #DataScience #BigData 
- 
-`Followers?: `19 
- 
-`Following?:` 53 
- 
-`User URL?:` https://t.co/nIfSSao0Rq 
- 
-`Location:` Roseville, CA 
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1420922404218445825/XI0Cd28X_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 11 
  
 
  
@@ -147,77 +110,42 @@ The Finnish community must be ok exposing their own privacy to hackers within th
  
 ## User Top tweeted words 
  
-**AI** 2 , **DATAIKU** 2 , **TIME** 2 , **FORMER** 1 , **CYBERSECURITY** 1 , **AR** 1 , **GUY** 1 , **ARGUE** 1 , **EMPLOYEES** 1 , **EVEN** 1 , **BIGGER** 1 , **THREAT** 1 , **COMPANY'S…** 1 , **HTTPS://TCO/N8TDNGSERSRT** 1 , **@KIRKDBORNE:** 1 , **EXCITED** 1 , **BOOK** 1 , **COMING** 1 , **SOON** 1 , **PUBLICATION** 1 , 
+**@BAD_PACKETS:** 2 , **NEW** 2 , **@INFINIPOINTSEC:** 2 , **SECURITY** 2 , **ZEROTRUST** 2 , **RT** 1 , **MONTHLY** 1 , **TOP** 1 , **8** 1 , **COUNTRIES** 1 , **–** 1 , **JULY** 1 , **2021** 1 , **UNIQUE** 1 , **DDOS** 1 , **MALWARE** 1 , **HOSTS** 1 , **DETECTED** 1 , **COUNTRY:** 1 , **🇨🇳** 1 , 
  
 ## What this user tweeted
  
-As a former cybersecurity AR guy, I would argue that employees are an even bigger threat to a company's… https://t.co/N8tdnGseRS
+RT @bad_packets: Monthly Top 8 Countries – July 2021 
+New unique DDoS malware hosts detected by country:
+🇨🇳 China: 9,960
+🇮🇳 India: 3,775
+🇻🇳…
  
-# Ciscokid132USER INFO
-![image](http://pbs.twimg.com/profile_images/1421416065108561922/LZSI65KI_normal.jpg)
- 
-`User ScreenName:` Ciscokid132 
- 
-`User chosen Name:` Ciscokid13 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 31 10:20:40 +0000 2021 
- 
-`User Description?:` Starting over. Proud Democrat and resister. Keep Love and laughter in your heart. Also Trump and family for prison. 
- 
-`Followers?: `293 
- 
-`Following?:` 805 
- 
-`User URL?:` None 
- 
-`Location:` Lake Tahoe Ca. 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1421416065108561922/LZSI65KI_normal.jpg 
- 
-`Number of tweets excluding replies:` 557 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 20 , **MCCARTHY** 17 , **KEVIN** 13 , **PEOPLE** 10 , **@TOMTHUNKITSMIND:** 9 , **AFTER** 8 , **COVID** 8 , **FLORIDA** 7 , **@JAKELOBIN:** 7 , **HOUSE** 7 , **THAN** 6 , **HITTING** 6 , **REPUBLICANS** 6 , **FUCK** 6 , **SPEAKER** 6 , **CALL** 6 , **RESIGN** 5 , **JOKE** 5 , **@IMSPEAKING13:** 5 , **GOP** 5 , 
- 
-## What this user tweeted
- 
-RT @itsJeffTiedrich: Rudy Giuliani could have quietly lived in the shadows and continued to rake in millions with his bogus cybersecurity b…
- 
-# dorariv19207238USER INFO
+# kiraranzxUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` dorariv19207238 
+`User ScreenName:` kiraranzx 
  
-`User chosen Name:` dora rivera 
+`User chosen Name:` Kirara Ng 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jul 29 05:15:30 +0000 2021 
+`User signup date?:` Fri Jul 30 09:35:06 +0000 2021 
  
-`User Description?:`  
+`User Description?:` Hi 
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 93 
+`Following?:` 17 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Singapore 
  
-`Number of tweets extracted`  : 110 
+`Number of tweets extracted`  : 3 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 111 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -225,90 +153,11 @@ RT @itsJeffTiedrich: Rudy Giuliani could have quietly lived in the shadows and c
  
 ## User Top tweeted words 
  
-**TRUMP** 13 , **@DEARAUNTCRABBY:** 12 , **@THERICKYDAVILA:** 12 , **PEOPLE** 7 , **@DEARAUNTCRABBY** 7 , **@THERICKYDAVILA** 6 , **KEVIN** 6 , **THAN** 5 , **BEING** 5 , **CALLED** 5 , **MCCARTHY** 5 , **MARJORIE** 5 , **TAYLOR** 5 , **GREENE** 5 , **@LINDYLI:** 5 , **2** 4 , **EVEN** 4 , **YEARS** 4 , **RUDY** 4 , **GIULIANI** 4 , 
+**RT** 1 , **@CYBERSECDN:** 1 , **ZIMBRA** 1 , **SERVER** 1 , **BUGS** 1 , **COULD** 1 , **USED** 1 , **HIJACK** 1 , **ENTERPRISE** 1 , **EMAIL** 1 , **ACCOUNTS** 1 , **HTTPS://TCO/YMV7DMCDH2** 1 , **THREATINTELRT** 1 , **@THEHACKERSNEWS:** 1 , **RECENT** 1 , **CYBERATTACK** 1 , **DISRUPTED** 1 , **IRAN'S** 1 , **RAILWAY** 1 , **SYSTEM** 1 , 
  
 ## What this user tweeted
  
-RT @itsJeffTiedrich: Rudy Giuliani could have quietly lived in the shadows and continued to rake in millions with his bogus cybersecurity b…
- 
-# Michael13348260USER INFO
-![image](http://pbs.twimg.com/profile_images/1419293747460902915/GFzoTlj8_normal.jpg)
- 
-`User ScreenName:` Michael13348260 
- 
-`User chosen Name:` Michael Palmer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jul 25 13:41:40 +0000 2021 
- 
-`User Description?:` Bostonian unabashed liberal
-Vaxed. 
- 
-`Followers?: `16 
- 
-`Following?:` 72 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1419293747460902915/GFzoTlj8_normal.jpg 
- 
-`Number of tweets excluding replies:` 650 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 20 , **PEOPLE** 17 , **HAHAHA** 13 , **@ROSESGUM:** 12 , **ARRESTTRUMPNOW** 11 , **COVID** 10 , **@STEVESCHMIDTSES:** 8 , **@MICHAEL13348260:** 8 , **ELECTION** 8 , **NEVER** 7 , **REPUBLICAN** 7 , **VACCINATED** 7 , **@MERRILLRENO** 7 , **@THERECOUNT** 7 , **THESE** 6 , **BIDEN** 6 , **ISN'T** 6 , **DON'T** 6 , **GOOD** 6 , **JUSTICE** 6 , 
- 
-## What this user tweeted
- 
-RT @itsJeffTiedrich: Rudy Giuliani could have quietly lived in the shadows and continued to rake in millions with his bogus cybersecurity b…
- 
-# JeyarajRajanth3USER INFO
-![image](http://pbs.twimg.com/profile_images/1422235558626009106/q27kZHWg_normal.jpg)
- 
-`User ScreenName:` JeyarajRajanth3 
- 
-`User chosen Name:` Jeyaraj Rajanthiran 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Aug 02 16:38:46 +0000 2021 
- 
-`User Description?:` Nothing is last forever 
- 
-`Followers?: `2 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422235558626009106/q27kZHWg_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ETHICAL** 2 , **WHATSAPP** 2 , **LEARN** 1 , **BASICS** 1 , **BEING** 1 , **HACKER** 1 , **CYBERSECURITY** 1 , **SYSTEMS** 1 , **NETWORKS** 1 , **HACK…** 1 , **HTTPS://TCO/LDBMBOT3R6HTTPS://TCO/1WJGPF5RVTPLEASE** 1 , **HELP** 1 , **HACKED** 1 , **MESSAGEI** 1 , **HACK** 1 , **WIFE** 1 , **MESSAGE** 1 , **HTTPS://TCO/1WJGPF5RVT** 1 , 
- 
-## What this user tweeted
- 
-Learn the basics of being an ethical hacker, and cybersecurity for systems and networks with this ethical hack… https://t.co/LdbmbOT3R6
+RT @CyberSecDN: Zimbra server bugs could be used to hijack enterprise email accounts https://t.co/YMV7DMcdh2 #threatintel
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
