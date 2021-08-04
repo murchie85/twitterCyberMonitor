@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **LauraEdelson2**  
+The most popular user is: **bad_packets**  
  
 
-## This evening, Facebook suspended my Facebook account and the accounts of several people associated with Cybersecuri… https://t.co/V19wZcLskf 
+## Mass scanning activity detected from 82.102.16.220 (🇩🇪) checking for Citrix NetScaler Gateway endpoints vulnerable… https://t.co/scWTr4TcYb 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **LauraEdelson2**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Bob had a bad night: IoT mischief takes neighbourly revenge to the next level in a capsule hotel… https://t.co/B24xDrOPHS |
-| RT @InfoSec_Pom: Blogs, social media, Reddit, and more! https://t.co/q1yOWjgK9G https://t.co/F1QWAFVt79  SAML is insecure by design | http… |
-| RT @IIASOUTHAFRICA: What is internal audit's role in "Reining in Cyber Risk"? #IaMagIIA #cybersecurity https://t.co/httuNGoduj#IIASA #Inte… |
+| RT @JinibaBD: New #Ransomware Gangs — Haron and BlackMatter — Emerge on #Cybercrime Forums  #DataBreaches #DarkWeb #CyberSec #infosec #Secu… |
+| Threat actors leaked data stolen from EA, including FIFA code#EA #FIFA #hackers #haching #DataLeak #cybercrime… https://t.co/buRYgf5JzE |
+| RT @JinibaBD: 😳New #Ransomware Gangs — Haron and BlackMatter — Emerge on Cybercrime Forums #DataBreaches #DarkWeb #CyberSec #infosec #Secur… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LauraEdelson2** |
-| #2 Most tweeted to  | **NikseamC** |
-| #3 Most tweeted to  | **Paula_Piccard** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 1.44%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 0.81%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,57 +50,59 @@ The most popular user is: **LauraEdelson2**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FACEBOOK**  |
-| second  | **ACCOUNTS**  |
-| third  | **SEVERAL** |
-| fourth  | **PEOPLE**  |
-| fifth  | **ACCOUNT**  |
+| first  | **DARKWEB**  |
+| second  | **DATABREACHES**  |
+| third  | **CYBERSEC** |
+| fourth  | **INFOSEC**  |
+| fifth  | **@JINIBABD:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @StateTech: How can water utilities enhance their approach to #cybersecurity, and how can the federal government help? #CriticalInfrastr… |
+|RT @infosecshenoy: Amazon gets $888 million GDPR fine for behavioral advertising https://t.co/ep5d16SkoP #cybersecurity #threatIntel |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LauraEdelson2**  |
+| The most retweeted user is: **bad_packets**  |
 | ------------- |
-| This evening, Facebook suspended my Facebook account and the accounts of several people associated with Cybersecuri… https://t.co/V19wZcLskf |
+| Mass scanning activity detected from 82.102.16.220 (🇩🇪) checking for Citrix NetScaler Gateway endpoints vulnerable… https://t.co/scWTr4TcYb |
 
 # Potential Fake Accounts
  
-# SnakeEy22062070USER INFO
-![image](http://pbs.twimg.com/profile_images/1423024385552703493/_aOQThr6_normal.jpg)
+# AmirFedidaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1422864276268716038/TLBUJE6A_normal.jpg)
  
-`User ScreenName:` SnakeEy22062070 
+`User ScreenName:` AmirFedida 
  
-`User chosen Name:` Snake Eyes 
+`User chosen Name:` Amir Fedida 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Aug 02 20:32:56 +0000 2021 
+`User signup date?:` Wed Jul 28 13:15:28 +0000 2021 
  
-`User Description?:` Member of Legion and Anonymous 
+`User Description?:` Python developer, Ethical hacker.
+Security researcher at @infinipointsec
+My tweets are my own and should never be taken seriously (: 
  
-`Followers?: `2 
+`Followers?: `541 
  
-`Following?:` 117 
+`Following?:` 138 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Israel 
  
-`Number of tweets extracted`  : 61 
+`Number of tweets extracted`  : 12 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1423024385552703493/_aOQThr6_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1422864276268716038/TLBUJE6A_normal.jpg 
  
-`Number of tweets excluding replies:` 61 
+`Number of tweets excluding replies:` 12 
  
 
  
@@ -108,122 +110,42 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 ## User Top tweeted words 
  
-**@SECRETSERVICE:** 9 , **@VP:** 8 , **PENTAGON** 7 , **INFRASTRUCTURE** 6 , **@POTUS:** 6 , **@WHITEHOUSE:** 5 , **DEAL** 5 , **PEOPLE** 5 , **CYBERSECURITY** 4 , **@THREE_CUBE:** 4 , **BIPARTISAN** 4 , **@MAN_WOOH:** 4 , **MILITARY** 4 , **WOOHCOMEDY** 4 , **EVICTION** 3 , **BASICS** 3 , **PART** 3 , **LOOKING** 3 , **VACCINATED** 3 , **AGAINST** 3 , 
+**@BAD_PACKETS:** 2 , **NEW** 2 , **@INFINIPOINTSEC:** 2 , **SECURITY** 2 , **ZEROTRUST** 2 , **RT** 1 , **@C0DEHARD:** 1 , **WOW** 1 , **PRETTY** 1 , **COOL** 1 , **IDK** 1 , **NEEDS** 1 , **I'M** 1 , **SHARING** 1 , **SITE** 1 , **HERE** 1 , **CASE** 1 , **✌️** 1 , **HTTPS://TCO/CIOITFIGJD** 1 , **HTTPS://TCO/OHQGJF…RT** 1 , 
  
 ## What this user tweeted
  
-RT @WhiteHouse: 10. Cybersecurity — The infrastructure deal includes almost $2B to modernize and secure federal, state, and local IT and ne…RT @three_cube: asploit Basics for Hackers, Part 16: SCADA/ICS Hacking with Metasploit #metasploit #metasploit4hackers #cybersecurity #info…RT @three_cube: Reverse Engineering Malware: Getting Started with Ghidra, Part 1 #reversing #reverseengineering #ghidra #cybersecurity #cyb…RT @three_cube: Looking to make the leap to the exciting field of cybersecurity/infosec? Then this training bundle is for you!
-
-From OTW. E…RT @three_cube: Linux Basics for Hackers, Part 5: BASH Scripting Basics #linux #bash #scripting #cybersecurity #cyberwarrior
-
-https://t.co/…
+RT @bad_packets: Monthly Top 8 Countries – July 2021 
+New unique DDoS malware hosts detected by country:
+🇨🇳 China: 9,960
+🇮🇳 India: 3,775
+🇻🇳…
  
-# bomsjakkallaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1421889517729067011/SvNm1xQm_normal.jpg)
+# kiraranzxUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` bomsjakkalla 
+`User ScreenName:` kiraranzx 
  
-`User chosen Name:` bomsjakkalla 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Aug 01 17:42:57 +0000 2021 
- 
-`User Description?:` dnb  &  technical crypto debates 
- 
-`Followers?: `14 
- 
-`Following?:` 97 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 49 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1421889517729067011/SvNm1xQm_normal.jpg 
- 
-`Number of tweets excluding replies:` 49 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**IOTA** 18 , **@IOTA:** 6 , **@HUS_QY** 5 , **@DOMSCHIENER** 4 , **IDENTITY** 4 , **DECENTRALIZED** 4 , **NETWORK** 4 , **1** 4 , **@IOTAXTEAMS** 3 , **VERSION** 3 , **NEW** 3 , **COMMUNITY** 3 , **USING** 3 , **ENERGY** 3 , **ALREADY** 2 , **LISTED** 2 , **W3C** 2 , **REGISTRY** 2 , **SMART** 2 , **EXPERIENCE** 2 , 
- 
-## What this user tweeted
- 
-RT @iota: How does IOTA Identity provide safe and empowering solutions for government, finance &amp; more?
-
-@IOTAXTeams breaks it down in this…
- 
-# Helen31816336USER INFO
-![image](http://pbs.twimg.com/profile_images/1421737222559211522/CzsZI-no_normal.jpg)
- 
-`User ScreenName:` Helen31816336 
- 
-`User chosen Name:` Mesay 
+`User chosen Name:` Kirara Ng 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 28 19:40:30 +0000 2021 
+`User signup date?:` Fri Jul 30 09:35:06 +0000 2021 
  
-`User Description?:` A wife and a proud Ethiopian who will not rest before sending TPLF to hell, where they belong!!! 
- 
-`Followers?: `12 
- 
-`Following?:` 27 
- 
-`User URL?:` None 
- 
-`Location:` Sweden 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1421737222559211522/CzsZI-no_normal.jpg 
- 
-`Number of tweets excluding replies:` 298 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@POWERUSAID** 36 , **TPLF** 23 , **ETHIOPIA** 18 , **@USAID** 17 , **@STATEDEPT** 17 , **PEOPLE** 14 , **@STATEDEPTSPOX** 14 , **TIGRAY** 13 , **@NATNAELMEKONNE7:** 13 , **USA** 11 , **TPLFISATERRORISTGROUP** 10 , **TERRORIST** 10 , **ANY** 9 , **@MAYA_DIKO:** 9 , **FAKE** 9 , **TPLFTERRORISTGROUP** 8 , **AMHARA** 8 , **@MSF** 8 , **ETHIOPIANS** 8 , **CONFLICT** 7 , 
- 
-## What this user tweeted
- 
-RT @LauraEdelson2: This evening, Facebook suspended my Facebook account and the accounts of several people associated with Cybersecurity fo…
- 
-# Glimpse_NewsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422641036946382848/8--8pK_e_normal.jpg)
- 
-`User ScreenName:` Glimpse_News 
- 
-`User chosen Name:` GlimpseFutureNews 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 03 19:28:47 +0000 2021 
- 
-`User Description?:` Glimpse of the Future client tracker account 
+`User Description?:` Hi 
  
 `Followers?: `1 
  
-`Following?:` 42 
+`Following?:` 17 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Singapore 
  
-`Number of tweets extracted`  : 54 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1422641036946382848/8--8pK_e_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 54 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -231,46 +153,39 @@ RT @LauraEdelson2: This evening, Facebook suspended my Facebook account and the 
  
 ## User Top tweeted words 
  
-**US** 7 , **@THENBS:** 6 , **CONSTRUCTION** 5 , **WATCH** 5 , **CHECK** 5 , **LATEST** 5 , **HELP** 5 , **@VIEWPOINTCS:** 5 , **INDUSTRY** 4 , **SURE** 4 , **PROJECT** 4 , **NEW** 4 , **SAY** 4 , **FIND** 4 , **JOIN** 4 , **TECHNOLOGY** 3 , **LOOKING** 3 , **@RPCUK:** 3 , **DELIVER** 3 , **@PRIMANED:** 3 , 
+**@CYBERSECDN** 1 , **“SUSPICIOUS** 1 , **SITE** 1 , **REPORTER”** 1 , **FEATURE** 1 , **ADD** 1 , **HTTP** 1 , **HTTPS** 1 , **BACK** 1 , **OMNIBAR** 1 , **IMPORTANT** 1 , **TO…** 1 , **HTTPS://TCO/FGRHZXRV74RT** 1 , **@CYBERSECDN:** 1 , **ZIMBRA** 1 , **SERVER** 1 , **BUGS** 1 , **COULD** 1 , **USED** 1 , **HIJACK** 1 , 
  
 ## What this user tweeted
  
-RT @mirko_ross: 🗯️  #CyberSecurity Expert Talk #5
-
-New Concepts for #DigitalIdentities
-
-Watch the Disussion with the fantastic Experts:
-Jef…RT @Layer8ltd: So what were peoples perceptions of the term ‘#hybridworking’?
-Find out right here -https://t.co/agVRvPLf95 
-#cybersecurity…RT @Layer8ltd: New #WeTransfer #phishing attack spoofs file-sharing
-#cybersecurity #hacking #security #technology #hacker #infosec #tech #m…RT @viewpointcs: 8/24: Join our special guest, Bryce Austin, #cybersecurity expert and Viewpoint’s Eric Vasbinder, Sr. Product Manager for…
+RT @CyberSecDN: Zimbra server bugs could be used to hijack enterprise email accounts https://t.co/YMV7DMcdh2 #threatintel
  
-# CyberFacxtsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1420196575171723268/K0VtIa4s_normal.jpg)
+# j2ksecurityUSER INFO
+![image](http://pbs.twimg.com/profile_images/1419667733483081731/6Jdt-bUU_normal.jpg)
  
-`User ScreenName:` CyberFacxts 
+`User ScreenName:` j2ksecurity 
  
-`User chosen Name:` CyberFacxts 
+`User chosen Name:` J2k Security Group 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 28 01:30:07 +0000 2021 
+`User signup date?:` Mon Jul 26 14:16:17 +0000 2021 
  
-`User Description?:` Increasing your Security Awareness through daily Information Technology updates, news, tips, & tricks! 
+`User Description?:` “La Protección de su Información, Nuestra Pasión”
+#cybersecurity #offensivesecurity #infosec #soc #ciberseguridad #devsecops 
  
-`Followers?: `203 
+`Followers?: `6 
  
-`Following?:` 1023 
+`Following?:` 224 
  
-`User URL?:` None 
+`User URL?:` https://t.co/caOPNvuj12 
  
-`Location:`  
+`Location:` Colombia 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 178 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1420196575171723268/K0VtIa4s_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1419667733483081731/6Jdt-bUU_normal.jpg 
  
-`Number of tweets excluding replies:` 251 
+`Number of tweets excluding replies:` 178 
  
 
  
@@ -278,13 +193,11 @@ Find out right here -https://t.co/agVRvPLf95
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 28 , **@JAMESVGINGERICH:** 21 , **INFOSEC** 20 , **NEW** 19 , **AI** 16 , **DATA** 13 , **MALWARE** 12 , **IOT** 12 , **VIA** 11 , **PRIVACY** 10 , **HACKING** 9 , **@THREE_CUBE:** 9 , **RANSOMWARE** 9 , **NEED** 8 , **USING** 8 , **LINUX** 7 , **HACKERS** 7 , **CLOUD** 7 , **MICROSOFT** 7 , **TECHNOLOGY** 7 , 
+**DE** 83 , **EN** 31 , **RANSOMWARE** 25 , **MALWARE** 18 , **Y** 17 , **PHISHING** 14 , **EL** 14 , **PARA** 13 , **UNA** 13 , **QUE** 13 , **@MALWAREPATROL:** 11 , **LOS** 11 , **UN** 11 , **NEW** 10 , **ACTIVE** 10 , **LA** 10 , **@JAMESWT_MHT:** 9 , **TARGETING** 8 , **SEGURIDAD** 8 , **WINDOWS** 7 , 
  
 ## What this user tweeted
  
-RT @three_cube: Linux Basics for Hackers, Part 5: BASH Scripting Basics #linux #bash #scripting #cybersecurity #cyberwarrior
-
-https://t.co/…
+RT @DSCI_TiR: "Alert: Vulnerabilities have been reported in the Nagios Log Server which could allow an unprivileged attacker to execute an…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
