@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **sugatalus**  
+The most popular user is: **LauraEdelson2**  
  
 
-## bruh bts have the healthiest relationship dynamics where each consider the others’ needs, vulnerabilities, constant… https://t.co/ttsnQhyIVf 
+## This evening, Facebook suspended my Facebook account and the accounts of several people associated with Cybersecuri… https://t.co/V19wZcLskf 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **sugatalus**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| If you have proficiency in uncovering or combatting new vulnerabilities, cyber-weapons, exploitation techniques or… https://t.co/ECFXJ0cfJR |
-| @RyanSAdams Concerning that roughly 70% of nodes are ready? I don’t anticipate many hiccups but ~800 nodes not ready has vulnerabilities |
-| @JKoutsogiannis I don't personally dislike the back 3 there are situations where it works as proven last season and… https://t.co/ymupfksi1v |
+| RT @DeepFriedCyber: Auditors: Feds’ Cybersecurity Gets the Dunce Cap https://t.co/BBk7fDyFV2 #news #cybersecurity #infosec https://t.co/QJv… |
+| RT @throttlefix: How to Install LEMP On Centos 8 – Nginx – MariaDB – PHP 7.4https://t.co/lANFA0TUKG#MachineLearning #5G #DataScience #100… |
+| RT @HackersReview_: Australian court allows AI to obtain patents  https://t.co/NiasdEuqzr#Malware #cybersecurity  #hacker #infosec #cybera… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **dogecoin** |
-| #2 Most tweeted to  | **TheHackersNews** |
-| #3 Most tweeted to  | **LanceSchukies** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.72%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **Paula_Piccard** |
+| #2 Most tweeted to  | **EllySpaceSongs** |
+| #3 Most tweeted to  | **jennycohn1** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 2.1%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -50,30 +50,965 @@ The most popular user is: **sugatalus**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **GOING**  |
-| third  | **AROUND** |
-| fourth  | **MESSAGES**  |
-| fifth  | **"THERES"**  |
+| first  | **AI**  |
+| second  | **MACHINELEARNING**  |
+| third  | **DATASCIENCE** |
+| fourth  | **100DAYSOFCODE**  |
+| fifth  | **JAVASCRIPT**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Infrastructure vulnerabilities complicate Biden’s cyber strategy, the adviser acknowledges https://t.co/9nbLoCVTXw |
+|RT @watchdogdev: Digital Shadows' Q2 ransomware report highlighted that the number of victims posted to data leak sites increased by 47% co… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sugatalus**  |
+| The most retweeted user is: **LauraEdelson2**  |
 | ------------- |
-| bruh bts have the healthiest relationship dynamics where each consider the others’ needs, vulnerabilities, constant… https://t.co/ttsnQhyIVf |
+| This evening, Facebook suspended my Facebook account and the accounts of several people associated with Cybersecuri… https://t.co/V19wZcLskf |
 
 # Potential Fake Accounts
+ 
+# hania_zafar4USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` hania_zafar4 
+ 
+`User chosen Name:` Hania Zafar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 14:26:56 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 791 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 65 , **NED_TAKE_ONLINE_EXAMSRT** 47 , **COURSE** 35 , **EXAMS** 35 , **CLASSES** 34 , **ONLINE** 30 , **STUDENTS** 28 , **@FATIMA4303371:** 28 , **COVID** 26 , **SEMESTER** 23 , **PHYSICAL** 23 , **EXTRA** 21 , **@SETHOJAOYAAR:** 20 , **WHOLE** 19 , **COVERED** 19 , **UNIVERSITY** 17 , **MISMANAGED** 17 , **UNEXPECTED** 17 , **50%** 17 , **13** 17 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# Pa7sevenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1420196221084372993/UFdkwdF7_normal.png)
+ 
+`User ScreenName:` Pa7seven 
+ 
+`User chosen Name:` Pedro Almeida 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 28 01:35:39 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1420196221084372993/UFdkwdF7_normal.png 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ORGANIZATIONS** 6 , **NEW** 6 , **FORTINET** 6 , **ANNOUNCED** 5 , **FORTIGATE** 5 , **CYBERSECURITY** 5 , **ITS** 4 , **DIGITAL** 3 , **SECURITY** 3 , **7121F** 3 , **FORTIEXTENDER** 3 , **511F-5G!** 3 , **SECURI…** 3 , **PROTECT** 3 , **@FORTINET** 3 , **NIRAV** 3 , **SHAH** 3 , **ACCELERATE** 2 , **INNOVATION** 2 , **INITIATIVES** 2 , 
+ 
+## What this user tweeted
+ 
+As organizations accelerate their digital innovation initiatives, it is essential that their security infrastructur… https://t.co/opGMr3zXCx
+ 
+# eightofixpmUSER INFO
+![image](http://pbs.twimg.com/profile_images/1422720723236364290/DQCzQ0h6_normal.jpg)
+ 
+`User ScreenName:` eightofixpm 
+ 
+`User chosen Name:` Swiney_T #EightOfIXpm, Grizzly Borg of Murdoch, MT 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Aug 04 00:46:13 +0000 2021 
+ 
+`User Description?:` #Resistance is NOT Futile. Unplugging all data streaming to the "Collective" drones, of Fox News, Host only, Tucker Carlson
+#BSafe #BSane #BBestU4All #ParodyPAC 
+ 
+`Followers?: `10 
+ 
+`Following?:` 62 
+ 
+`User URL?:` None 
+ 
+`Location:` Fleet St. Barber, Murdoch MT 
+ 
+`Number of tweets extracted`  : 190 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1422720723236364290/DQCzQ0h6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 189 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**JANUARY** 16 , **@FOXNEWS** 15 , **AMERICA** 14 , **/** 14 , **@TUCKERCARLSON** 14 , **6** 12 , **@WENDYROGERSAZ** 9 , **IRONY** 8 , **@GOVRONDESANTIS** 8 , **ASK** 8 , **THAT'S** 7 , **6TH** 7 , **TRUMP** 7 , **2021** 6 , **MINORITY** 6 , **ACROSS** 6 , **WELL** 6 , **ACTUAL** 6 , **REALLY** 6 , **@GOP** 6 , 
+ 
+## What this user tweeted
+ 
+RT @thehill: NEW: Senators introduce bipartisan bill to sanction nations involved in ransomware attacks https://t.co/XzQYdP3oUW https://t.c…
+ 
+# Rodion010USER INFO
+![image](http://pbs.twimg.com/profile_images/1423360045996199939/XPD3eIBr_normal.jpg)
+ 
+`User ScreenName:` Rodion010 
+ 
+`User chosen Name:` Rodion0 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 18:40:23 +0000 2021 
+ 
+`User Description?:` Aspirant Cybersecurity Researcher with a love for malware analysis and tradecraft development
+
+Personal account: @jtham0 
+ 
+`Followers?: `3 
+ 
+`Following?:` 82 
+ 
+`User URL?:` https://t.co/8WYSPk6Ib2 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423360045996199939/XPD3eIBr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 2 , **TECH** 2 , **RELATED** 2 , **ACCOUNT** 2 , **RT** 1 , **@JTHAM0:** 1 , **I'M** 1 , **GONNA** 1 , **MOVING** 1 , **TWEETS** 1 , **NEW** 1 , **@RODION010** 1 , **STILL** 1 , **USE** 1 , **PERS…HELLO** 1 , **WORLD!** 1 , **PRIMARY** 1 , **EVERYTHING** 1 , **ANY** 1 , **INTERE…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @jtham0: I'm gonna be moving all my cybersecurity and tech related tweets to my new account @Rodion010. I will still use this as my pers…
+ 
+# PetriHooliUSER INFO
+![image](http://pbs.twimg.com/profile_images/1421809075046731776/jD0fZMoO_normal.jpg)
+ 
+`User ScreenName:` PetriHooli 
+ 
+`User chosen Name:` Petri Hooli 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 31 12:12:27 +0000 2021 
+ 
+`User Description?:` Based in an institution in Karunki, Finland. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 77 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 24 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1421809075046731776/jD0fZMoO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 24 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FINLAND** 8 , **FINNISH** 7 , **PETRI** 6 , **PATIENTS** 6 , **MENTALHEALTH** 6 , **HOOLI** 5 , **RACIST** 3 , **DIDN’T** 3 , **MONEY** 3 , **KEEP** 3 , **SPYWARE** 3 , **PETRIHOOLI** 2 , **HOOLI…** 2 , **COUNTRY** 2 , **OK** 2 , **MENTAL** 2 , **HEALTH** 2 , **ONLINE** 2 , **POLICE** 2 , **GIVE** 2 , 
+ 
+## What this user tweeted
+ 
+Isn’t it amazing how some people heads are the perfect shape of a potato
+
+#petrihooli #petri #hooli #racist #pedo… https://t.co/6LI4ZBMHoE
+ 
+# FoladJudgeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1423051188883410947/Ey5vcd29_normal.jpg)
+ 
+`User ScreenName:` FoladJudge 
+ 
+`User chosen Name:` Folad Judge 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Aug 04 22:39:52 +0000 2021 
+ 
+`User Description?:` #Twitter philanthropist# 
+ 
+`Followers?: `3 
+ 
+`Following?:` 94 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 120 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423051188883410947/Ey5vcd29_normal.jpg 
+ 
+`Number of tweets excluding replies:` 120 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@WHITEHOUSE:** 114 , **INFRASTRUCTURE** 56 , **BIPARTISAN** 41 , **DEAL** 34 , **PRESIDENT** 32 , **BIDEN** 15 , **INVESTMENT** 14 , **AMERICAN** 11 , **NEW** 10 , **SECRETARY** 9 , **US** 8 , **MAKES** 8 , **HISTORIC** 8 , **INVESTMENTS** 8 , **TUNE** 8 , **BRIEFING** 8 , **PRESS** 8 , **COUNTRY** 8 , **LARGEST** 8 , **AMERICANS** 8 , 
+ 
+## What this user tweeted
+ 
+RT @WhiteHouse: 10. Cybersecurity — The infrastructure deal includes almost $2B to modernize and secure federal, state, and local IT and ne…
+ 
+# PikaUp3USER INFO
+![image](http://pbs.twimg.com/profile_images/1422361248734220296/j9Up_Ihv_normal.jpg)
+ 
+`User ScreenName:` PikaUp3 
+ 
+`User chosen Name:` Pika_Up 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 03 00:58:33 +0000 2021 
+ 
+`User Description?:` While @Ubering_Cacti is away, I will retweet tweets with #100DaysOfCode. I was made for keeping the motivation up. Nothing else. 
+ 
+`Followers?: `8 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:` Twitter 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1422361248734220296/j9Up_Ihv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 201 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DAY** 186 , **100DAYSOFCODE** 116 , **SOME** 21 , **CSS** 19 , **JAVASCRIPT** 17 , **LEARNED** 17 , **CODING** 15 , **STARTED** 15 , **COMPLETED** 13 , **3** 13 , **2** 12 , **100DAYSOFCODERT** 12 , **PYTHON** 12 , **FINISHED** 12 , **REACT** 12 , **6** 11 , **1** 11 , **WORKING** 11 , **LEARNING** 10 , **USING** 10 , 
+ 
+## What this user tweeted
+ 
+RT @SEOMalkamDior: Day 30 : Ethereum Mining 💎
+
+(follow @SEOMalkamDior)
+
+Read the blog https://t.co/wWYeR8UN5r #NFTs #NFTcollection #CryptoN…
+ 
+# ItsrealkaranUSER INFO
+![image](http://pbs.twimg.com/profile_images/1420386335928381440/kB6gDMIH_normal.jpg)
+ 
+`User ScreenName:` Itsrealkaran 
+ 
+`User chosen Name:` Karan Singh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 28 12:55:09 +0000 2021 
+ 
+`User Description?:` Founder and CEO of Apectory Inc.(@apectoryinc)
+|| Indian || Teen Entrepreneur || Programmer || Speaker ||
+10k+ instagram family 
+ 
+`Followers?: `76 
+ 
+`Following?:` 486 
+ 
+`User URL?:` https://t.co/DFGQQJmMC0 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1420386335928381440/kB6gDMIH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 637 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 53 , **PYTHON** 42 , **DATASCIENCE** 38 , **100DAYSOFCODE** 35 , **ANALYTICS** 35 , **BIGDATA** 31 , **MACHINELEARNING** 24 , **WEB** 22 , **JAVASCRIPT** 21 , **PROGRAMMING** 19 , **RSTATS** 18 , **IOT** 18 , **NODEJS** 17 , **…RT** 17 , **IIOT** 17 , **DEVELOPMENT** 16 , **JAVA** 15 , **GITHUB** 14 , **CODING** 14 , **CYBERSECURITY** 14 , 
+ 
+## What this user tweeted
+ 
+RT @throttlefix: Telegram's Roll-Your-Own Crypto Is Vulnerable
+https://t.co/1uC7BoEfRy
+
+#MachineLearning #5G #DataScience #100DaysOfCode
+#P…RT @EasternStyle1: 3D printing is more a supplement to existing manufacturing technologies than a replacement.#Programming #IoT #AI #100Day…RT @Paula_Piccard: Quantum computing's next challenge? Finding quantum developers, and fast https://t.co/qUgNftVfW5
+
+#MachineLearning  #Dat…RT @legit_writers10: for quality assignment help dm @legit_writers10
+Essays
+Exams
+Home/w
+Biology
+Chemistry
+Math
+English
+Full classes
+Ecolog…RT @Paula_Piccard: The Difference Between Artificial Intelligence and Machine Learning
+
+https://t.co/VbKnTmLBxK
+
+#MachineLearning  #DataSci…RT @WajdiAlkayal: GitHub - Laravel/Forge-Cli
+#AppSec #cybersecurity  #datascience #javascript #DEVCommunity #100DaysOfCode #nodejs  #devops…RT @EllySpaceSongs: Full video: https://t.co/utq7jMayC8 👍👍👍
+#womenintech #commissionsopen #javascript #Nodejs #100DaysofCode #hclswlobp #no…RT @AI_Miami: #CyberSecurity: How to Fix the Big Problems With Multifactor Authentication #5G #100DaysOfCode #AI #Analytics #ArtificialInte…RT @Wajdialkayal1: Will #ArtificialIntelligence Be The End Of Web Design  
+https://t.co/WYq9PnBcWD
+#DigitalMarketing
+#cybersecurity
+ #AI #D…
+ 
+# TaFiqAziz1USER INFO
+![image](http://pbs.twimg.com/profile_images/1423397954308612096/N9qjJqTw_normal.jpg)
+ 
+`User ScreenName:` TaFiqAziz1 
+ 
+`User chosen Name:` TaFiqAziz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Aug 04 21:15:42 +0000 2021 
+ 
+`User Description?:` If the way does not end, the other way from there. Likewise the story ends where the new epic starts from there. 
+ 
+`Followers?: `7 
+ 
+`Following?:` 147 
+ 
+`User URL?:` None 
+ 
+`Location:` Dhaka, Bangladesh 
+ 
+`Number of tweets extracted`  : 24 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423397954308612096/N9qjJqTw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 24 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THEHILL:** 7 , **PEOPLE** 3 , **FINGERS** 2 , **MUCH** 2 , **@CORINNAKOPF:** 2 , **FEDERAL** 2 , **US** 2 , **GOING** 2 , **MAY** 2 , **@DANHELD** 2 , **REAL** 2 , **TRILLION** 2 , **BITCOIN:** 2 , **$07** 2 , **TRILLIONRT** 2 , **@DANHELD:** 2 , **BITCOIN** 2 , **AWARDS** 2 , **ALTHOUGH** 1 , **BRICK** 1 , 
+ 
+## What this user tweeted
+ 
+RT @thehill: Federal cyber agency kicks off collaborative to defend the U.S. against cyberattacks https://t.co/0oPKBYXwJ1 https://t.co/DtZ3…
+ 
+# Abababa41844966USER INFO
+![image](http://pbs.twimg.com/profile_images/1423388487806558217/t_PUvVL-_normal.jpg)
+ 
+`User ScreenName:` Abababa41844966 
+ 
+`User chosen Name:` brakhna jan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 20:06:56 +0000 2021 
+ 
+`User Description?:` want life 
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423388487806558217/t_PUvVL-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 295 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 99 , **EXAMS** 41 , **NEDIANS_ARE_COVID_POSITIVE** 40 , **NED_TAKE_ONLINE_EXAMSRT** 39 , **STUDENTS** 37 , **NED_TAKE_ONLINE_EXAM** 31 , **ONLINE** 30 , **@HAMZA40400:** 28 , **NED** 24 , **COVID** 21 , **PHYSICAL** 21 , **CLASSES** 14 , **POSITIVE** 14 , **BEING** 13 , **TEACHERS** 11 , **NEDIANS_ARE_COVID_POSITIVERT** 11 , **NEDIANS** 10 , **UNIVERSITY** 10 , **@SARDARSHAH1** 10 , **@FAHADKH80615371:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# ShahidShahid30USER INFO
+![image](http://pbs.twimg.com/profile_images/1423324174811009024/0TslN8ck_normal.jpg)
+ 
+`User ScreenName:` ShahidShahid30 
+ 
+`User chosen Name:` Suhaib Shahid 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 15:04:38 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423324174811009024/0TslN8ck_normal.jpg 
+ 
+`Number of tweets excluding replies:` 515 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 88 , **EXAMS** 54 , **STUDENTS** 45 , **ONLINE** 41 , **NED** 31 , **NEDIANS_ARE_COVID_POSITIVE** 31 , **NED_TAKE_ONLINE_EXAMSRT** 29 , **PHYSICAL** 27 , **COVID** 21 , **NED_TAKE_ONLINE_EXAM** 19 , **@HAMZA40400:** 18 , **POSITIVE** 17 , **BEING** 17 , **NEDIANS** 16 , **CLASSES** 16 , **TAKING** 16 , **UNIVERSITY** 15 , **TEACHERS** 14 , **UNIVERSITIES** 14 , **ALMOST** 13 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# AbidKhanAkbar4USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` AbidKhanAkbar4 
+ 
+`User chosen Name:` Abid Khan Akbar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 15:17:52 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 974 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 74 , **NED_TAKE_ONLINE_EXAMSRT** 40 , **CLASSES** 35 , **STUDENTS** 29 , **COURSE** 29 , **EXAMS** 26 , **ONLINE** 25 , **PHYSICAL** 23 , **@SETHOJAOYAAR:** 22 , **COVID** 20 , **NED** 18 , **SEMESTER** 18 , **WHOLE** 17 , **EXTRA** 17 , **COVERED** 16 , **15** 16 , **DAYS** 15 , **40%** 15 , **TEACHERS** 14 , **MISMANAGED** 14 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# SohaibUlHasan3USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` SohaibUlHasan3 
+ 
+`User chosen Name:` Sohaib Ul Hasan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 18:26:13 +0000 2021 
+ 
+`User Description?:` Student 
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 375 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 85 , **EXAMS** 49 , **ONLINE** 49 , **NEDIANS_ARE_COVID_POSITIVE** 44 , **NED_TAKE_ONLINE_EXAMSRT** 36 , **STUDENTS** 33 , **NED_TAKE_ONLINE_EXAM** 29 , **@HAMZA40400:** 28 , **PHYSICAL** 27 , **COVID** 24 , **NED** 23 , **TEACHERS** 16 , **POSITIVE** 16 , **UNIVERSITY** 16 , **NEDIANS** 15 , **BEING** 15 , **TAKING** 15 , **UNIVERSITIES** 14 , **SSUET** 13 , **@SAEEDGHANI1** 13 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# NusratK08105521USER INFO
+![image](http://pbs.twimg.com/profile_images/1423322366663331844/Z9r5cXTl_normal.png)
+ 
+`User ScreenName:` NusratK08105521 
+ 
+`User chosen Name:` Nusrat Khan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 16:37:50 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423322366663331844/Z9r5cXTl_normal.png 
+ 
+`Number of tweets excluding replies:` 663 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 63 , **NED_TAKE_ONLINE_EXAMSRT** 51 , **ONLINE** 45 , **CLASSES** 37 , **EXAMS** 32 , **STUDENTS** 29 , **PHYSICAL** 29 , **COVID** 22 , **@SHAIKHA40343793:** 22 , **TAKING** 20 , **NED** 20 , **COURSE** 18 , **WHOLE** 15 , **UNIVERSITIES** 14 , **SEMESTER** 14 , **UNIVERSITY** 13 , **POSITIVE** 11 , **50%** 11 , **COVERED** 11 , **@USAMA_NASIR_:** 11 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# Fahadkh80615371USER INFO
+![image](http://pbs.twimg.com/profile_images/1423369325751177221/7Nd-Ea9y_normal.jpg)
+ 
+`User ScreenName:` Fahadkh80615371 
+ 
+`User chosen Name:` Fahad khan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 14:49:07 +0000 2021 
+ 
+`User Description?:` Student 
+ 
+`Followers?: `7 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423369325751177221/7Nd-Ea9y_normal.jpg 
+ 
+`Number of tweets excluding replies:` 797 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 82 , **ONLINE** 49 , **EXAMS** 47 , **@FATIMA4303371:** 39 , **STUDENTS** 34 , **CLASSES** 30 , **NED_TAKE_ONLINE_EXAMSRT** 27 , **PHYSICAL** 27 , **COVID** 23 , **BEING** 17 , **NED** 16 , **ASSIGNMENTS** 15 , **@SHAIKHA40343793:** 14 , **COURSE** 13 , **UNIVERSITY** 13 , **UNIVERSITIES** 12 , **TAKING** 12 , **@MUHAMMA20787546:** 12 , **LIVES** 11 , **@IDANIYALSHEIKH** 11 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# rahim_zafar_28USER INFO
+![image](http://pbs.twimg.com/profile_images/1423378171811057671/WXFWRL-4_normal.jpg)
+ 
+`User ScreenName:` rahim_zafar_28 
+ 
+`User chosen Name:` Rahim Zafar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 16:02:46 +0000 2021 
+ 
+`User Description?:` Wanderlust
+
+NEDIAN 
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:` Karachi, Pakistan 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423378171811057671/WXFWRL-4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 724 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 83 , **ONLINE** 42 , **STUDENTS** 37 , **EXAMS** 37 , **@FATIMA4303371:** 32 , **NEDIANS_ARE_COVID_POSITIVE** 30 , **CLASSES** 29 , **COVID** 27 , **@NEVER___MIN__D:** 27 , **NED_TAKE_ONLINE_EXAM** 26 , **@HAMZA40400:** 25 , **NED** 23 , **NED_TAKE_ONLINE_EXAMSRT** 22 , **PHYSICAL** 21 , **UNIVERSITY** 18 , **BEING** 14 , **POSITIVE** 13 , **TAKING** 13 , **@SARDARSHAH1** 12 , **ASSIGNMENTS** 12 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# saqibayaz20USER INFO
+![image](http://pbs.twimg.com/profile_images/1423324814345912335/D9vWPbIz_normal.png)
+ 
+`User ScreenName:` saqibayaz20 
+ 
+`User chosen Name:` saqib ayaz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 16:47:34 +0000 2021 
+ 
+`User Description?:` Lets have fune 
+ 
+`Followers?: `3 
+ 
+`Following?:` 22 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423324814345912335/D9vWPbIz_normal.png 
+ 
+`Number of tweets excluding replies:` 886 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 71 , **NED_TAKE_ONLINE_EXAMSRT** 50 , **ONLINE** 39 , **STUDENTS** 36 , **EXAMS** 36 , **PHYSICAL** 26 , **NEDIANS_ARE_COVID_POSITIVE** 22 , **CLASSES** 21 , **NED** 18 , **COVID** 15 , **NED_TAKE_ONLINE_EXAM** 13 , **POSITIVE** 11 , **TAKING** 11 , **NEDIANS** 10 , **NEDIANS_ARE_COVID_POSITIVERT** 10 , **@HAMZA40400:** 10 , **@ASHARSHAKEEL3:** 10 , **@SAEEDGHANI1** 9 , **@MURADALISHAHPPP** 9 , **@USAMA_NASIR_:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# AbdulRa96051669USER INFO
+![image](http://pbs.twimg.com/profile_images/1423354011407822855/ElRUNP4a_normal.jpg)
+ 
+`User ScreenName:` AbdulRa96051669 
+ 
+`User chosen Name:` Abdul Rafay 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 18:39:16 +0000 2021 
+ 
+`User Description?:` NEDIAN. Engineer to be... Inshallah 
+ 
+`Followers?: `3 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423354011407822855/ElRUNP4a_normal.jpg 
+ 
+`Number of tweets excluding replies:` 297 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 81 , **ONLINE** 53 , **EXAMS** 50 , **STUDENTS** 50 , **NED** 42 , **PHYSICAL** 32 , **COVID** 27 , **CLASSES** 23 , **NED_TAKE_ONLINE_EXAMSRT** 21 , **UNIVERSITY** 21 , **POSITIVE** 19 , **TAKING** 18 , **NEDIANS** 16 , **BEING** 16 , **@AMNAWAH26185374:** 16 , **TEACHERS** 15 , **KI** 15 , **@ABDULRA96051669:** 14 , **NEDIANS_ARE_COVID_POSITIVE** 14 , **UNIVERSITIES** 13 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# sabahat728USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` sabahat728 
+ 
+`User chosen Name:` Sabahat728 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 14:17:49 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 697 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ONLINE** 75 , **NED_TAKE_ONLINE_EXAMS** 73 , **EXAMS** 73 , **STUDENTS** 62 , **PHYSICAL** 45 , **NED** 35 , **CLASSES** 34 , **POSITIVE** 29 , **COVID** 27 , **BEING** 25 , **TAKING** 24 , **TEACHERS** 24 , **UNIVERSITIES** 22 , **UNIVERSITY** 22 , **NEDIANS** 21 , **SSUET** 20 , **KARACHI(IQRA** 19 , **DAWOOD** 17 , **INDUS** 17 , **ETC)** 17 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# Hassaan19427952USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Hassaan19427952 
+ 
+`User chosen Name:` Hassaan Ahmed 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 19:05:58 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 116 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 116 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 54 , **NEDIANS_ARE_COVID_POSITIVE** 33 , **EXAMS** 30 , **NED_TAKE_ONLINE_EXAM** 29 , **@HAMZA40400:** 28 , **STUDENTS** 25 , **ONLINE** 24 , **PHYSICAL** 22 , **NED** 16 , **COVID** 14 , **CLASSES** 12 , **BEING** 10 , **TAKING** 10 , **@SAEEDGHANI1** 10 , **@SYEDARE07870068:** 10 , **TEACHERS** 9 , **RESPONDING** 9 , **NED_TAKE_ONLINE_EXAMSRT** 9 , **POSITIVE** 8 , **SSUET** 8 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# taher_malyekUSER INFO
+![image](http://pbs.twimg.com/profile_images/1423239077713924096/n3XeJftT_normal.jpg)
+ 
+`User ScreenName:` taher_malyek 
+ 
+`User chosen Name:` Taher Malyek 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 11:05:52 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 27 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423239077713924096/n3XeJftT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 671 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 117 , **STUDENTS** 42 , **EXAMS** 39 , **ONLINE** 35 , **NED_TAKE_ONLINE_EXAMSRT** 30 , **NEDIANS_ARE_COVID_POSITIVE** 28 , **NED** 23 , **PHYSICAL** 21 , **@HAMZA40400:** 19 , **NED_TAKE_ONLINE_EXAM** 18 , **CLASSES** 17 , **BEING** 15 , **COVID** 13 , **NEDIANS** 13 , **@AMNAWAH26185374:** 13 , **@TAHER_MALYEK:** 12 , **@SAEEDGHANI1** 11 , **NEDIANS_ARE_COVID_POSITIVERT** 11 , **KI** 10 , **ASSIGNMENTS** 10 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# MuneebU21914944USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` MuneebU21914944 
+ 
+`User chosen Name:` Muneeb Ur Rehman 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 14:26:48 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 529 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 74 , **EXAMS** 65 , **ONLINE** 56 , **NED_TAKE_ONLINE_EXAMSRT** 44 , **PHYSICAL** 41 , **STUDENTS** 32 , **UNIVERSITY** 27 , **NED** 26 , **COVID** 25 , **POSITIVE** 20 , **TEACHERS** 19 , **NEDIANS_ARE_COVID_POSITIVE** 17 , **NEDIANS** 17 , **@SAEEDGHANI1** 16 , **FORCING** 16 , **UNIVERSITIES** 14 , **NEDIANS_ARE_COVID_POSITIVERT** 14 , **CLASSES** 14 , **TAKING** 14 , **BEING** 12 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# Muhamma48017349USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Muhamma48017349 
+ 
+`User chosen Name:` Muhammad Ali Waris Khan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 14:19:17 +0000 2021 
+ 
+`User Description?:` To Be Civil Engineer - NEDian 
+ 
+`Followers?: `4 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 469 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 106 , **ONLINE** 81 , **EXAMS** 79 , **STUDENTS** 56 , **PHYSICAL** 41 , **BEING** 31 , **CLASSES** 28 , **NED** 27 , **COVID** 23 , **TAKING** 22 , **UNIVERSITIES** 21 , **KARACHI(IQRA** 21 , **DAWOOD** 21 , **HAMDARD** 21 , **SSUET** 21 , **INDUS** 21 , **ETC)** 21 , **NED_TAKE_ONLINE_EXAMSRT** 20 , **MANAGEMENT** 20 , **SYLLABUS** 18 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
  
 # WtgJumanjiUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1422985223252287489/Fy5xJbyG_normal.jpg)
@@ -88,7 +1023,7 @@ VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 `User Description?:` If you don't succeed at first, hide all evidence that you tried 
  
-`Followers?: `70 
+`Followers?: `69 
  
 `Following?:` 197 
  
@@ -114,275 +1049,32 @@ VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 RT @TheHackersNews: Follow @TheHackersNews on Telegram messenger to stay up-to-date with the latest &amp; most important #cybersecurity news, c…
  
-# hackuu_USER INFO
-![image](http://pbs.twimg.com/profile_images/1423196674671976449/_a24wqWU_normal.jpg)
+# Fahad60006087USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` hackuu_ 
+`User ScreenName:` Fahad60006087 
  
-`User chosen Name:` Hackuu 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Aug 04 13:00:14 +0000 2021 
- 
-`User Description?:` I am Hackuu, your friendly #WordPress security bot! 🤖 
-Join the WordPress security community at #WPBUGHUNT 
- 
-`Followers?: `43 
- 
-`Following?:` 56 
- 
-`User URL?:` https://t.co/oZX19AsOns 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1423196674671976449/_a24wqWU_normal.jpg 
- 
-`Number of tweets excluding replies:` 21 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SITE** 12 , **SCRIPTING** 12 , **(XSS)** 12 , **FILE** 4 , **MANAGER** 4 , **WOOCOMMERCE** 4 , **FRONTEND** 2 , **INJECTION** 2 , **VULNERABILITY** 2 , **DOWNLOAD** 2 , **I?** 1 , **EXIST?** 1 , **ANY** 1 , **OTHER** 1 , **EXISTENTIAL** 1 , **QUESTIONS?** 1 , **EVERYTHING** 1 , **EXPLAINED** 1 , **HERE** 1 , **👇** 1 , 
- 
-## What this user tweeted
- 
-Cross Site Scripting (XSS) in Frontend File Manager https://t.co/TctWtzPfml
- 
-# mikewebocuppierUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422863413932445699/K5eUFH_I_normal.jpg)
- 
-`User ScreenName:` mikewebocuppier 
- 
-`User chosen Name:` mikewebocuppier 
+`User chosen Name:` Fahad 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Aug 04 10:11:51 +0000 2021 
+`User signup date?:` Thu Aug 05 16:53:35 +0000 2021 
  
-`User Description?:` learning linux 
- 
-`Followers?: `1 
- 
-`Following?:` 38 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 48 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422863413932445699/K5eUFH_I_normal.jpg 
- 
-`Number of tweets excluding replies:` 48 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FIRST** 5 , **HACKERS** 4 , **@MARVELSTUDIOS:** 4 , **NEW** 4 , **GONNA** 4 , **BOUNTY** 4 , **@HACKER0X01** 4 , **KINDA** 4 , **WOW** 3 , **MARVEL** 3 , **STREAMING** 3 , **@STOKFREDRIK** 3 , **BUG** 3 , **VULNERABILITIES** 3 , **YAY** 3 , **AWARDED** 3 , **@HACKER0X01!** 3 , **MEAN** 3 , **THEN** 3 , **SIR** 3 , 
- 
-## What this user tweeted
- 
-RT @sheikhrishad0: In July, I submitted 237 vulnerabilities to 34 programs on @Hacker0x01. #TogetherWeHitHarder https://t.co/p7UkvSUer7 htt…@BugBountyHunt3r so you mean we can register there and then found vulnerabilities there right sirRT @Snowden: Bitter lesson:
-When any government conceals knowledge of vulnerabilities in common software, those vulns will be found and use…RT @DefenceHQ: 26 ethical hackers took part in a 30-day challenge to strengthen Defence’s #CyberSecurity.
-
-Working with @Hacker0x01, the in…
- 
-# wintersremedyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1423178446977396743/brl89ZC8_normal.jpg)
- 
-`User ScreenName:` wintersremedy 
- 
-`User chosen Name:` voidsuko 🇲🇽 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Aug 01 10:59:09 +0000 2021 
- 
-`User Description?:` sex gamer 😎😎 ‣ center-left on the autism spectrum xd ‣ ur favourite sex haver 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 38 
- 
-`User URL?:` None 
- 
-`Location:` donde sea 🇲🇽 
- 
-`Number of tweets extracted`  : 101 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1423178446977396743/brl89ZC8_normal.jpg 
- 
-`Number of tweets excluding replies:` 101 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEFUNNY_MP4** 55 , **@PRDRNINTENDO** 5 , **@256GBMEMES** 5 , **@MICHELLADART** 4 , **DE** 3 , **@LMFAOWITH** 3 , **@COCKSON_BOY:** 3 , **@MATTHEW94873666:** 3 , **@FURRYWITH2SIDES:** 2 , **@VINTY_BOY** 2 , **@POLITICSFORALI** 2 , **AMERICANS** 2 , **YOU'RE** 2 , **WAY** 2 , **PUTTING** 2 , **AHEAD** 2 , **PRETTY** 2 , **@OUTOFCONTEXTMEX** 2 , **MINORS** 2 , **CAT** 2 , 
- 
-## What this user tweeted
- 
-@OliverPilkingt1 @MichelladArt @PrDrNintendo @TheFunny_mp4 that's the root of the problem. but the way i see it is… https://t.co/Hm2HQLtpQK
- 
-# Jdjoe22USER INFO
-![image](http://pbs.twimg.com/profile_images/1422593552463323139/6eiUIKiS_normal.jpg)
- 
-`User ScreenName:` Jdjoe22 
- 
-`User chosen Name:` Joseph Dawson 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 03 16:21:17 +0000 2021 
- 
-`User Description?:` 100% disabled vet. single dad of three.   adhd and asd.  mental health awareness 
- 
-`Followers?: `24 
- 
-`Following?:` 102 
- 
-`User URL?:` None 
- 
-`Location:` Marshall, MI 
- 
-`Number of tweets extracted`  : 78 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422593552463323139/6eiUIKiS_normal.jpg 
- 
-`Number of tweets excluding replies:` 78 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ASKADHD** 12 , **I'M** 9 , **HEAR** 7 , **REALLY** 6 , **PEOPLE** 6 , **I'VE** 5 , **LOL** 5 , **ALWAYS** 4 , **ANYONE** 4 , **MANY** 4 , **WELL** 4 , **SOMEONE** 4 , **WAIT** 4 , **HATE** 4 , **SORRY** 4 , **LIFE** 4 , **-I** 4 , **DEFINITELY** 3 , **CAN'T** 3 , **FEEL** 3 , 
- 
-## What this user tweeted
- 
-RT @MaxieMoosie: When you explain to someone how they hurt you, you’re very vulnerable. You’re opening your emotions to someone and putting…
- 
-# bframephotoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422253404403949571/jqUs3lqW_normal.jpg)
- 
-`User ScreenName:` bframephoto 
- 
-`User chosen Name:` ⓑFrame📸 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 31 23:45:06 +0000 2021 
- 
-`User Description?:` Sony Alpha | Nature &Landscape Photography | Collectibles Enthusiast | Tech Nerd
-Owner of Dizzy Dragon #923 
- 
-`Followers?: `96 
- 
-`Following?:` 299 
- 
-`User URL?:` None 
- 
-`Location:` The Metaverse 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422253404403949571/jqUs3lqW_normal.jpg 
- 
-`Number of tweets excluding replies:` 343 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LOVE** 14 , **NFT** 14 , **SOME** 12 , **DIZZY** 11 , **@DIZZYDRAGONSNFT** 11 , **THESE** 10 , **PEOPLE** 9 , **PHOTOGRAPHY** 9 , **I’M** 9 , **PROJECT** 8 , **CHECK** 7 , **TIME** 7 , **I'M** 7 , **FEW** 6 , **NEVER** 6 , **TWITTER** 6 , **AMAZING** 6 , **HERE** 6 , **ETH** 6 , **LOOKING** 6 , 
- 
-## What this user tweeted
- 
-RT @whereisweatherb: These Twitter spaces have been my church. Hearing people share about their struggles and vulnerabilities is so humblin…
- 
-# pereandmariaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1421283833006198785/_-bHECdr_normal.jpg)
- 
-`User ScreenName:` pereandmaria 
- 
-`User chosen Name:` Pere and Maria #BBNaija 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 31 01:36:02 +0000 2021 
- 
-`User Description?:` Supporting Pere and Maria for #BBNaija with my full chest!
-#BBNaijaShineYourEye Highlights 
- 
-`Followers?: `100 
- 
-`Following?:` 28 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 198 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1421283833006198785/_-bHECdr_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 831 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PERE** 82 , **MARIA** 56 , **BBNAIJA** 29 , **BBNAIJART** 24 , **ALWAYS** 12 , **BACK** 11 , **KAYODE** 10 , **I'M** 9 , **TELLING** 9 , **PEOPLE** 9 , **OTHER** 9 , **THESE** 9 , **DEY** 8 , **SHE'S** 8 , **HE'S** 8 , **CONTENT** 8 , **@PEREEGBI:** 8 , **BOMA** 8 , **EACH** 8 , **LIQUOROSE** 7 , 
- 
-## What this user tweeted
- 
-RT @PereEgbi: Our Vulnerabilities will become our Strength...our Bond and our Growth!!!
-
-Thank you 100k Patriots 👑!!! 
-Keep following Pere…
- 
-# BeingNimoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422599412929515525/eT9sgJ9q_normal.jpg)
- 
-`User ScreenName:` BeingNimo 
- 
-`User chosen Name:` Nimo - Pere's Baby👑 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 03 16:41:30 +0000 2021 
- 
-`User Description?:` Amebo! 
- 
-`Followers?: `35 
- 
-`Following?:` 47 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422599412929515525/eT9sgJ9q_normal.jpg 
- 
-`Number of tweets excluding replies:` 259 
+`Number of tweets excluding replies:` 296 
  
 
  
@@ -390,39 +1082,36 @@ Keep following Pere…
  
 ## User Top tweeted words 
  
-**PERE** 108 , **BBNAIJA** 66 , **BBNAIJIA** 14 , **MARIA** 14 , **@PEREEGBI:** 10 , **WELCOME** 9 , **BOY** 9 , **BBNAIJART** 8 , **HERE** 8 , **YES** 8 , **CONTENT** 7 , **SCREEN** 7 , **EVERYWHERE** 7 , **BBNAIJASHINEYAEYES** 7 , **SHOW** 7 , **PATRIOTS** 6 , **US** 6 , **@PEREEGBI** 6 , **SCATTERRR** 6 , **Y'ALL** 6 , 
+**ONLINE** 94 , **EXAMS** 89 , **STUDENTS** 72 , **NED_TAKE_ONLINE_EXAMS** 51 , **PHYSICAL** 48 , **COVID** 44 , **NED** 41 , **CLASSES** 38 , **BEING** 38 , **TAKING** 30 , **POSITIVE** 29 , **UNIVERSITIES** 26 , **TEACHERS** 26 , **SSUET** 23 , **NEDIANS** 23 , **UNIVERSITY** 22 , **TIME** 22 , **KARACHI(IQRA** 20 , **DAWOOD** 20 , **HAMDARD** 20 , 
  
 ## What this user tweeted
  
-RT @PereEgbi: Our Vulnerabilities will become our Strength...our Bond and our Growth!!!
-
-Thank you 100k Patriots 👑!!! 
-Keep following Pere…
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
  
-# OnsystemLogicUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422587408390918147/fzPbUGJ0_normal.png)
+# RedwoodCyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1423358177924591623/sbgpvWqP_normal.png)
  
-`User ScreenName:` OnsystemLogic 
+`User ScreenName:` RedwoodCyber 
  
-`User chosen Name:` OnSystem Logic 
+`User chosen Name:` Redwood Cyber Services 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Aug 03 15:53:06 +0000 2021 
+`User signup date?:` Thu Aug 05 18:58:59 +0000 2021 
  
-`User Description?:` Application Security Designed to be Non-bypassable. Your Enterprise's Best #Defense Against Application Vulnerabilities. 
+`User Description?:` Redwood Cyber Services offers cybersecurity assessments, DFARS/NIST SP 800-171 assessments, CMMC education, and executive education around compliance. 
  
 `Followers?: `1 
  
-`Following?:` 136 
+`Following?:` 8 
  
-`User URL?:` https://t.co/lM0r57J0Nu 
+`User URL?:` None 
  
-`Location:` Catonsville, Maryland 
+`Location:`  
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1422587408390918147/fzPbUGJ0_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1423358177924591623/sbgpvWqP_normal.png 
  
 `Number of tweets excluding replies:` 1 
  
@@ -432,238 +1121,31 @@ Keep following Pere…
  
 ## User Top tweeted words 
  
-**THAT'S** 1 , **100%** 1 , **RECENT** 1 , **SUCCESSFUL** 1 , **MALWAREATTACKS** 1 , **AFFECT** 1 , **SPECIFIC** 1 , **VULNERABILITIES** 1 , **PROTECT** 1 , **ONSYSTEM** 1 , **DE…** 1 , **HTTPS://TCO/5WWQGOTHX1** 1 , 
+**UNSURE** 1 , **CYBERSECURITY** 1 , **COMPLIANCE** 1 , **REQUIREMENTS** 1 , **PERTINENT** 1 , **BUSINESS?** 1 , **SCHEDULE** 1 , **FREE** 1 , **VIRTUAL** 1 , **EDUCATION** 1 , **B…** 1 , **HTTPS://TCO/FNE4OV1JXW** 1 , 
  
 ## What this user tweeted
  
-That's right, 100% of recent successful #malwareattacks affect the specific vulnerabilities we protect. OnSystem De… https://t.co/5WwqGOThX1
+Unsure of the cybersecurity compliance requirements pertinent to your business? Schedule a free virtual education b… https://t.co/FnE4OV1jXW
  
-# Huobi_DEUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422112737996509186/ZCXhy8eg_normal.png)
+# Faraj3889AliUSER INFO
+![image](http://pbs.twimg.com/profile_images/1423335902055735297/jmRwlSUe_normal.jpg)
  
-`User ScreenName:` Huobi_DE 
+`User ScreenName:` Faraj3889Ali 
  
-`User chosen Name:` Huobi Deutschland 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Aug 02 08:31:01 +0000 2021 
- 
-`User Description?:` Die Beste Kryptowährungsbörse! jetzt in Deutschland.
-#HuobiDeutschland
-
-Registrieren Sie sich und folgen Sie den Aufgaben um ein Willkommensbonus zu haben. 
- 
-`Followers?: `11 
- 
-`Following?:` 54 
- 
-`User URL?:` https://t.co/LboXIqEDH5 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422112737996509186/ZCXhy8eg_normal.png 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SIE** 7 , **$NFTS** 3 , **UND** 3 , **HUOBI** 3 , **REGISTRIEREN** 2 , **FOLGEN** 2 , **ZU** 2 , **DIE** 2 , **FÜR** 2 , **MEHR** 2 , **RT** 1 , **@APENFTORG:** 1 , **🔥20** 1 , **BILLION** 1 , **REFERRAL** 1 , **PROMOTION** 1 , **@HUOBIGLOBAL** 1 , **🔥** 1 , **REFER** 1 , **WIN** 1 , 
- 
-## What this user tweeted
- 
-RT @HuobiGlobal: ❗️Important❗️
-Huobi reassures that there are no safety issues regarding BSV vulnerabilities.
-
-We are proud to be the only…
- 
-# Subhan57503652USER INFO
-![image](http://pbs.twimg.com/profile_images/1421669001026064389/m14aOABe_normal.jpg)
- 
-`User ScreenName:` Subhan57503652 
- 
-`User chosen Name:` Subhan 
+`User chosen Name:` faraj ali 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Aug 01 03:06:13 +0000 2021 
+`User signup date?:` Thu Aug 05 17:31:03 +0000 2021 
  
-`User Description?:`  
+`User Description?:` INTELLECTUAL 
+NEDIAN 
+MUSLIM 
+PAKISTANI 
  
-`Followers?: `0 
+`Followers?: `5 
  
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1421669001026064389/m14aOABe_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@USELESSCRYPTO** 7 , **PROJECT** 6 , **@PADDFINANCE** 6 , **@CRYPTOPROJECT05** 5 , **@CRYPTOPROJECT05:** 4 , **PLEASED** 4 , **ANNOUNCE** 4 , **NEXT** 4 , **AMA** 4 , **AUGUST** 4 , **UTC** 4 , **X** 4 , **@BUSTA_GAMEFI** 4 , **@DOGECLEAN** 3 , **2021** 3 , **I’M** 2 , **BINANCE** 2 , **SMART** 2 , **CHAIN** 2 , **WHERE** 2 , 
- 
-## What this user tweeted
- 
-@Cryptoproject05 @DogeClean I’m a developer, and I’m interested in contributing to your project along sides earning… https://t.co/zzM5AasGFs@Cryptoproject05 @DogeClean Why did the @Doge_Clean decide that Binance Smart Chain is the best infrastructure to b… https://t.co/0a7ZwZXOJ6
- 
-# Huobi_ItalyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1420011771973275651/dYWwCi3V_normal.jpg)
- 
-`User ScreenName:` Huobi_Italy 
- 
-`User chosen Name:` Huobi Italy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 27 13:16:40 +0000 2021 
- 
-`User Description?:` Huobi il leader mondiale tra i #CryptoExchange ora in Italia 🇮🇹   
-Telegram: https://t.co/jFUwp59T2b… 
- 
-`Followers?: `7 
- 
-`Following?:` 8 
- 
-`User URL?:` https://t.co/KIYUhEyR9w 
- 
-`Location:` Italy 
- 
-`Number of tweets extracted`  : 30 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1420011771973275651/dYWwCi3V_normal.jpg 
- 
-`Number of tweets excluding replies:` 30 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@HUOBIGLOBAL:** 15 , **DI** 13 , **PER** 10 , **HUOBI** 8 , **LONG** 8 , **HUOBIITALIA** 6 , **CON** 5 , **E** 4 , **FINO** 4 , **AGOSTO** 4 , **💰** 4 , **IL** 4 , **HUOBIGLOBAL** 4 , **📣** 3 , **AL** 3 , **DFA** 3 , **ETHEREUM** 3 , **TOP** 3 , **$BTC** 3 , **$ETH** 3 , 
- 
-## What this user tweeted
- 
-RT @HuobiGlobal: ❗️Important❗️
-Huobi reassures that there are no safety issues regarding BSV vulnerabilities.
-
-We are proud to be the only…
- 
-# FCN29114682USER INFO
-![image](http://pbs.twimg.com/profile_images/1422250669252153353/NGXuSsj8_normal.jpg)
- 
-`User ScreenName:` FCN29114682 
- 
-`User chosen Name:` FCN 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Aug 01 11:09:50 +0000 2021 
- 
-`User Description?:` Community self-control No project party Heco Fortune Bull（Feichang Niu， FCN）is going for the gold！Are you still waiting？ FCN contract address: 0x914B633038f36D0 
- 
-`Followers?: `8 
- 
-`Following?:` 84 
- 
-`User URL?:` https://t.co/iMxmbTOrQ3 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 156 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422250669252153353/NGXuSsj8_normal.jpg 
- 
-`Number of tweets excluding replies:` 156 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HUOBI** 112 , **CHAIN** 101 , **HECO** 98 , **SERIOUSLY** 85 , **UNDERVALUED** 84 , **COIN** 84 , **RECENTLY** 83 , **FCN** 56 , **HOLDERS** 36 , **890000+** 35 , **IS?** 33 , **PRESENTTHE** 27 , **SELF-CONTROL** 13 , **PROJECT** 13 , **PARTY** 13 , **FORTUNE** 12 , **BULL（FEICHANG** 12 , **NIU，** 12 , **FCN）IS** 12 , **GOING** 12 , 
- 
-## What this user tweeted
- 
-RT @HuobiGlobal: ❗️Important❗️
-Huobi reassures that there are no safety issues regarding BSV vulnerabilities.
-
-We are proud to be the only…
- 
-# matiya_bogaleUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422647610645569537/UAevsbE2_normal.jpg)
- 
-`User ScreenName:` matiya_bogale 
- 
-`User chosen Name:` matiya bogale 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 03 19:55:47 +0000 2021 
- 
-`User Description?:` ART 
- 
-`Followers?: `18 
- 
-`Following?:` 134 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422647610645569537/UAevsbE2_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ነገር** 2 , **@VISITETHIOPIAYE:** 2 , **GOOD** 2 , **MORNING** 2 , **AFRICA** 2 , **GREAT** 2 , **CITY** 2 , **ADDIS** 2 , **ABABA** 2 , **ETHIOPIA** 2 , **🇪🇹❤️💚😍** 2 , **ETHIOPIANS** 2 , **ለመወደድ_ራስህን_ባሪያ_አታድርግ!!** 1 , **"ለስኬት** 1 , **የሚዳርጉ** 1 , **መንገዶችን** 1 , **ሁሉ** 1 , **ባላውቅም** 1 , **ለውድቀት** 1 , **የሚዳርግ** 1 , 
- 
-## What this user tweeted
- 
-RT @Refugees: “Long waiting times, especially for people with vulnerabilities, may affect their potential for integration."
-
-The road to fu…
- 
-# pereegbi0USER INFO
-![image](http://pbs.twimg.com/profile_images/1421526441049604099/SUOdjMtA_normal.jpg)
- 
-`User ScreenName:` pereegbi0 
- 
-`User chosen Name:` PERE’S LITTLE SIS👑👑👑👑 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 31 17:40:01 +0000 2021 
- 
-`User Description?:` I’m a fan, Follow his account @pereegbi #pere #patriots #perevibes #bbnaija #bbnaijashineyoureye #perebbnaija it’s all ❤️ 
- 
-`Followers?: `30 
- 
-`Following?:` 4 
+`Following?:` 7 
  
 `User URL?:` None 
  
@@ -671,51 +1153,9 @@ The road to fu…
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1421526441049604099/SUOdjMtA_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1423335902055735297/jmRwlSUe_normal.jpg 
  
-`Number of tweets excluding replies:` 585 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PERE** 110 , **MARIA** 44 , **BBNAIJA** 35 , **@PEREEGBI** 34 , **LOVE** 20 , **BBNAIJIA** 16 , **PLEASE** 12 , **GO** 11 , **NA** 11 , **DON’T** 10 , **CONTENT** 10 , **DEY** 10 , **BBNAIJART** 9 , **SHOW** 8 , **@PEREEGBI:** 8 , **:** 7 , **PATRIOTS** 7 , **HERE** 7 , **COME** 7 , **SPOON** 7 , 
- 
-## What this user tweeted
- 
-RT @PereEgbi: Our Vulnerabilities will become our Strength...our Bond and our Growth!!!
-
-Thank you 100k Patriots 👑!!! 
-Keep following Pere…
- 
-# CyberFo89746811USER INFO
-![image](http://pbs.twimg.com/profile_images/1421291774023176193/egT5QSTJ_normal.jpg)
- 
-`User ScreenName:` CyberFo89746811 
- 
-`User chosen Name:` Cyber Force 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 31 01:26:40 +0000 2021 
- 
-`User Description?:` Managed Cybersecurity Services Provider 
- 
-`Followers?: `0 
- 
-`Following?:` 18 
- 
-`User URL?:` https://t.co/vDMb1nLBYr 
- 
-`Location:` 27 El Moltaka El Araby, Nozha 
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1421291774023176193/egT5QSTJ_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 576 
  
 
  
@@ -723,199 +1163,38 @@ Keep following Pere…
  
 ## User Top tweeted words 
  
-**ZERO-DAY** 3 , **APPLE** 2 , **IOS** 2 , **MACOS** 2 , **MCAFEE** 1 , **ANNOUNCED** 1 , **SOME** 1 , **CVES** 1 , **POLICY** 1 , **AUDITOR** 1 , **UPDATE** 1 , **FIXES** 1 , **MULTIPLE** 1 , **VULNERABILITIES** 1 , **THIRD-PARTY** 1 , **LIBRARIES…** 1 , **HTTPS://TCO/NNRLIUVQANREGARDING** 1 , **VULNERABILITY** 1 , **FOLLOW** 1 , **BELOW** 1 , 
+**NED_TAKE_ONLINE_EXAMS** 82 , **ONLINE** 40 , **EXAMS** 36 , **COVID** 34 , **CLASSES** 33 , **STUDENTS** 33 , **PHYSICAL** 31 , **NED_TAKE_ONLINE_EXAMSRT** 21 , **NED** 21 , **@SHAIKHA40343793:** 21 , **POSITIVE** 18 , **@FATIMA4303371:** 15 , **TEACHERS** 14 , **WHOLE** 12 , **US** 12 , **WEEK** 12 , **TAKING** 12 , **BEING** 12 , **@SARDARSHAH1** 12 , **@SETHOJAOYAAR:** 11 , 
  
 ## What this user tweeted
  
-McAfee just announced some CVEs for Policy Auditor update fixes multiple vulnerabilities in third-party libraries… https://t.co/NNRLIuvqAN
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
  
-# shattaveraUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422195951800889349/AmkQR9qQ_normal.jpg)
- 
-`User ScreenName:` shattavera 
- 
-`User chosen Name:` Shattavera 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 29 13:16:07 +0000 2021 
- 
-`User Description?:` God fearing 
- 
-`Followers?: `63 
- 
-`Following?:` 793 
- 
-`User URL?:` None 
- 
-`Location:` Accra, Ghana 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422195951800889349/AmkQR9qQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 483 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PERE** 130 , **BBNAIJA** 52 , **MARIA** 44 , **BBNAIJART** 33 , **BBNAIJIA** 18 , **BEATRICE** 15 , **CONTENT** 13 , **LOVE** 11 , **PEOPLE** 10 , **SHIP** 10 , **LIKES** 9 , **PERIA** 9 , **@WORDS_ROSE_:** 9 , **@PEREEGBI:** 8 , **MUST** 8 , **HOUSE** 8 , **SHOW** 7 , **DEY** 7 , **BBNAIJIART** 7 , **LIQUOROSE** 6 , 
- 
-## What this user tweeted
- 
-RT @PereEgbi: Our Vulnerabilities will become our Strength...our Bond and our Growth!!!
-
-Thank you 100k Patriots 👑!!! 
-Keep following Pere…
- 
-# kingshillhankUSER INFO
-![image](http://pbs.twimg.com/profile_images/1421905663437856771/sgT6VKww_normal.jpg)
- 
-`User ScreenName:` kingshillhank 
- 
-`User chosen Name:` kingoftheshill 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Aug 01 14:09:29 +0000 2021 
- 
-`User Description?:` I like crypto.  I do my best to avoid rugs and honeypots.  I shill genuine projects.  NFA $ DYOR.  Follow me for regular updates.  De-Fi is the future.  #defi 
- 
-`Followers?: `30 
- 
-`Following?:` 275 
- 
-`User URL?:` None 
- 
-`Location:` Australia 
- 
-`Number of tweets extracted`  : 117 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1421905663437856771/sgT6VKww_normal.jpg 
- 
-`Number of tweets excluding replies:` 117 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RENOUNCED** 10 , **PROJECTS** 8 , **@HOKKAIDUINU** 7 , **SOME** 7 , **DE-FI** 6 , **CRYPTO** 6 , **@LFGRICHIE** 5 , **FAVOURITE** 5 , **REALLY** 5 , **DEFI** 5 , **SUPPLY** 4 , **NEW** 4 , **CONTRACT** 4 , **FEG** 4 , **DEVS** 4 , **THESE** 4 , **@FEGTOKEN** 3 , **@TRDGTOKEN** 3 , **@FEG_EXCHANGE** 3 , **@GOLDFARMIO** 3 , 
- 
-## What this user tweeted
- 
-RT @certik_io: We believe a security audit is not the end of the security journey, but the beginning.
-
-After code is deployed, it interacts…
- 
-# 04_filesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1420765120204996625/tzxLMbxq_normal.jpg)
- 
-`User ScreenName:` 04_files 
- 
-`User chosen Name:` lei ´꒳` 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 29 14:40:38 +0000 2021 
- 
-`User Description?:` ☁️ . . . ⇢ ˗ˏˋ constantly evolving ࿐ྂ • she/her ! | #studytwt 
- 
-`Followers?: `88 
- 
-`Following?:` 89 
- 
-`User URL?:` None 
- 
-`Location:` 🖇 ‘04 , svt. 
- 
-`Number of tweets extracted`  : 81 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1420765120204996625/tzxLMbxq_normal.jpg 
- 
-`Number of tweets excluding replies:` 81 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**!!** 25 , **THANK** 15 , **STUDYTWT** 14 , **!** 13 , **U** 12 , **NEW** 12 , **HI** 10 , **SHE/HER** 10 , **I'M** 8 , **GOOD** 8 , **ATE** 8 , **I’M** 8 , **DAY** 7 , **MORNING** 7 , **:** 7 , **CALL** 6 , **GM** 6 , **✷** 5 , **HERE** 5 , **HOPE** 5 , 
- 
-## What this user tweeted
- 
-RT @sebastianworks_: I think it's time we show more of our vulnerabilities and failures on studytwt instead of making things look perfect.…
- 
-# M1NDS3TRUT4USER INFO
-![image](http://pbs.twimg.com/profile_images/1420838240039231489/hlizW2t8_normal.jpg)
- 
-`User ScreenName:` M1NDS3TRUT4 
- 
-`User chosen Name:` MindSet 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 29 19:59:04 +0000 2021 
- 
-`User Description?:` MindSet Reset | Focus on what matters. My Love, My Family, Myself! 
- 
-`Followers?: `2 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 54 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1420838240039231489/hlizW2t8_normal.jpg 
- 
-`Number of tweets excluding replies:` 54 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LOVE** 13 , **@LIVEPOSITIVITY** 7 , **LIFE** 5 , **EASY** 5 , **@LIVEPOSITIVITY:** 4 , **I…** 4 , **MIND** 4 , **ITS** 4 , **SAY** 3 , **DEVOR** 3 , **WHERE** 3 , **WHICH** 3 , **SOME** 3 , **FEEL** 3 , **•** 3 , **HERE** 3 , **UNDERSTAND** 3 , **TRY** 3 , **DOES** 3 , **READY** 3 , 
- 
-## What this user tweeted
- 
-I sit here with angry tears, seeping from the WALLS that I have cracked in order to allow entry into my mind, my he… https://t.co/25uTjaV45c
- 
-# foxpwn1USER INFO
+# ABDULLA43229397USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` foxpwn1 
+`User ScreenName:` ABDULLA43229397 
  
-`User chosen Name:` xor 
+`User chosen Name:` ABDULLAH KHAN 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Aug 03 15:30:57 +0000 2021 
+`User signup date?:` Thu Aug 05 14:38:51 +0000 2021 
  
 `User Description?:`  
  
-`Followers?: `2 
+`Followers?: `3 
  
-`Following?:` 126 
+`Following?:` 5 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 7 
+`Number of tweets extracted`  : 200 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 7 
+`Number of tweets excluding replies:` 414 
  
 
  
@@ -923,12 +1202,128 @@ I sit here with angry tears, seeping from the WALLS that I have cracked in order
  
 ## User Top tweeted words 
  
-**@_NWODTUHS:** 2 , **@CFALTA:** 2 , **PLAN** 2 , **OTHER** 2 , **RT** 1 , **🎉THE** 1 , **TIME** 1 , **COME** 1 , **GIVE** 1 , **ACCESS** 1 , **𝗧𝗵𝗲** 1 , **𝗛𝗮𝗰𝗸𝗲𝗿** 1 , **𝗥𝗲𝗰𝗶𝗽𝗲𝘀** 1 , **🥳** 1 , **PROJECT** 1 , **AIMED** 1 , **PROVIDING** 1 , **GUIDES** 1 , **VARIOUS** 1 , **HACKI…RT** 1 , 
+**ONLINE** 67 , **NED_TAKE_ONLINE_EXAMS** 67 , **EXAMS** 57 , **STUDENTS** 54 , **NED** 37 , **COVID** 28 , **PHYSICAL** 26 , **CLASSES** 21 , **BEING** 21 , **TAKING** 20 , **NED_TAKE_ONLINE_EXAMSRT** 19 , **@AMNAWAH26185374:** 19 , **POSITIVE** 18 , **TEACHERS** 17 , **UNIVERSITY** 16 , **UNIVERSITIES** 15 , **NEDIANS** 15 , **NEDIANS_ARE_COVID_POSITIVE** 14 , **US** 13 , **ASSIGNMENTS** 13 , 
  
 ## What this user tweeted
  
-RT @cfalta: Since I kind of lost track of the vulnerabilities this month, I made a list ^^
-https://t.co/E0NWwdTKOs
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# mutahir_abbas9USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` mutahir_abbas9 
+ 
+`User chosen Name:` Mutahir Abbas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 16:00:42 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 666 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 64 , **CLASSES** 42 , **NED_TAKE_ONLINE_EXAMSRT** 36 , **EXAMS** 35 , **ONLINE** 33 , **COURSE** 31 , **STUDENTS** 29 , **PHYSICAL** 25 , **@NEVER___MIN__D:** 24 , **SEMESTER** 23 , **COVID** 22 , **@FATIMA4303371:** 21 , **EXTRA** 21 , **@SETHOJAOYAAR:** 19 , **WHOLE** 18 , **COVERED** 18 , **NED** 17 , **15** 17 , **MISMANAGED** 16 , **UNEXPECTED** 16 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# AhadAli360USER INFO
+![image](http://pbs.twimg.com/profile_images/1423315836673019904/4R7w7zv4_normal.jpg)
+ 
+`User ScreenName:` AhadAli360 
+ 
+`User chosen Name:` Ahad Ali 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 14:42:43 +0000 2021 
+ 
+`User Description?:` I'm the shadow and the smoke in your eyes I'm the ghost that hides in the night ، 
+ 
+`Followers?: `3 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:` Karachi, Pakistan 
+ 
+`Number of tweets extracted`  : 189 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423315836673019904/4R7w7zv4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 695 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 64 , **EXAMS** 57 , **ONLINE** 48 , **PHYSICAL** 42 , **NED_TAKE_ONLINE_EXAMSRT** 41 , **STUDENTS** 38 , **NED** 27 , **COVID** 24 , **UNIVERSITY** 20 , **POSITIVE** 19 , **@SAEEDGHANI1** 18 , **CLASSES** 18 , **TEACHERS** 16 , **NEDIANS** 15 , **NEDIANS_ARE_COVID_POSITIVE** 15 , **FORCING** 15 , **BEING** 14 , **UNIVERSITIES** 14 , **TAKING** 13 , **NEDIANS_ARE_COVID_POSITIVERT** 12 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
+ 
+# AbdulHa67067018USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` AbdulHa67067018 
+ 
+`User chosen Name:` Abdul Hanan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Aug 02 18:00:56 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 324 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NED_TAKE_ONLINE_EXAMS** 60 , **EXAMS** 59 , **NED_TAKE_ONLINE_EXAMSRT** 46 , **ONLINE** 45 , **PHYSICAL** 41 , **STUDENTS** 41 , **NED** 32 , **UNIVERSITY** 23 , **COVID** 21 , **POSITIVE** 20 , **CLASSES** 20 , **@SAEEDGHANI1** 18 , **NEDIANS_ARE_COVID_POSITIVE** 17 , **NEDIANS** 16 , **FORCING** 15 , **TEACHERS** 14 , **KARACHI** 14 , **@AMNAWAH26185374:** 13 , **UNIVERSITIES** 13 , **MANAGEMENT** 12 , 
+ 
+## What this user tweeted
+ 
+RT @EmanSheikh6: You want to do course in python, graphic designing, cybersecurity, web development without spending money &amp; get certificat…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
