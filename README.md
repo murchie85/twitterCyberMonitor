@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **officialmcafee**  
+The most popular user is: **fr0gger_**  
  
 
-## The "Presidential alerts": they are capable of accessing the E911 chip in your phones - giving them full access to… https://t.co/S16RgvdJjt 
+## On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **officialmcafee**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| A new ransomware gang is in town...https://t.co/yycM5YRpUa#databreach #datasecurity #cybersecurity #ransomware |
-| RT @debeshchoudhury: Can Quantum Computing Be a Threat to Cybersecurity? https://t.co/YHDBk9bM7b #quantum #computing #cybersecurity #techno… |
-| RT @ErmeticSec: We are excited to share that Ermetic was named a finalist in the #BlackUnicornAwards for 2021! We were up against many of t… |
+| Read the interview with our keen Threat Bounty developer Onur Atali telling about his experience in #cybersecurity… https://t.co/dlb2lo6zMN |
+| RT @javier_carriazo: The Latest: Hackers attack Rome region vaccine sign-up site  #DataBreaches #DarkWeb #CyberSec #infosec #Security #cybe… |
+| RT @BlackMatter23: Great #ThreatIntel report!Hunt for executable files creation (using extensions &amp; VERSION_INFO) by processes named like… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TodayDarkweb** |
-| #2 Most tweeted to  | **jackiemorelli** |
-| #3 Most tweeted to  | **rexzane1** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 1.58%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **CyberIQs_** |
+| NewProfiles (less than 10 days) | 0.04%  |
+| Tweeters with < 10 followers  | 0.8%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,239 +50,57 @@ The most popular user is: **officialmcafee**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AI**  |
-| second  | **100DAYSOFCODE**  |
-| third  | **DATASCIENCE** |
-| fourth  | **JAVASCRIPT**  |
-| fifth  | **DEVOPS**  |
+| first  | **DARKWEB**  |
+| second  | **DATABREACHES**  |
+| third  | **CYBERSEC** |
+| fourth  | **INFOSEC**  |
+| fifth  | **@JINIBABD:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ISSAINTL: Networking with other industry professionals is still one of the best ways to find your next cybersecurity position especiall… |
+|RT @CyberIQs_: #WhatsApp won't use #Apple's child abuse image scanner, citing vague privacy fears #cybersecurity #privacy #cyber #hacking #… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **officialmcafee**  |
+| The most retweeted user is: **fr0gger_**  |
 | ------------- |
-| The "Presidential alerts": they are capable of accessing the E911 chip in your phones - giving them full access to… https://t.co/S16RgvdJjt |
+| On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD |
 
 # Potential Fake Accounts
  
-# niloykhan12cUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425170053205397507/6MlQykwm_normal.png)
- 
-`User ScreenName:` niloykhan12c 
- 
-`User chosen Name:` niloy khan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 10 18:59:53 +0000 2021 
- 
-`User Description?:` Hi all 
- 
-`Followers?: `1 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1425170053205397507/6MlQykwm_normal.png 
- 
-`Number of tweets excluding replies:` 245 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**1** 10 , **SOUPSWAP** 9 , **NEW** 8 , **CHECK** 8 , **DE** 8 , **萬華蚊子** 7 , **C2M蚊蚊** 7 , **MAKE** 7 , **@ZOOSHICOIN:** 7 , **GIVEAWAY** 7 , **BINANCESMARTCHAIN** 7 , **@SOUPSSWAP:** 7 , **ITS** 6 , **@BABYSHIBALNUS:** 6 , **DOGE** 6 , **US** 6 , **CRYPTO** 6 , **FIRST** 6 , **PARTNERSHIP** 5 , **LAUNCH** 5 , 
- 
-## What this user tweeted
- 
-RT @JoaquinInfosec: ¡#follow @lowvoltnation  &amp; @blakeurmos!.
-
-And start building your career on #lowvoltage and #tech!!!.
-
-#lowvoltagenatio…
- 
-# BunkhouseCastUSER INFO
-![image](http://pbs.twimg.com/profile_images/1424841078558109705/UjbrGW9N_normal.jpg)
- 
-`User ScreenName:` BunkhouseCast 
- 
-`User chosen Name:` The Bunkhouse 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Aug 09 20:58:31 +0000 2021 
- 
-`User Description?:` A show for where veterans tell their journey in IT/Cybersecurity. 
- 
-`Followers?: `9 
- 
-`Following?:` 32 
- 
-`User URL?:` https://t.co/Xk1xQsfp7T 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1424841078558109705/UjbrGW9N_normal.jpg 
- 
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AVAILABLE** 5 , **SHOW** 4 , **MICROSOFT** 3 , **WINDOWS** 3 , **@THEHACKERSNEWS:** 3 , **CYBERSECURITY** 2 , **@BLEEPINCOMPUTER:** 2 , **@LAWRENCEABRAMS** 2 , **SECURITY** 2 , **APPLE** 2 , **VULNERABILITIES** 2 , **AUGUST** 2 , **RT** 1 , **@SANSINSTITUTE:** 1 , **LOOKING** 1 , **BOOST** 1 , **CAREER?** 1 , **PRACTICAL** 1 , **TRAINING** 1 , **EXPERT** 1 , 
- 
-## What this user tweeted
- 
-RT @SANSInstitute: Looking to boost your #cybersecurity career? Get practical training with expert instruction and hands-on labs through se…
- 
-# nYywydD8C1pg6ocUSER INFO
-![image](http://pbs.twimg.com/profile_images/1423816169274757122/MQrZ3dZN_normal.jpg)
- 
-`User ScreenName:` nYywydD8C1pg6oc 
- 
-`User chosen Name:` God bless Trump 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Aug 07 01:04:39 +0000 2021 
- 
-`User Description?:` What is communism and socialism? In fact, communism and socialism are a form of slavery in disguise. It controls everything about you.    Free Hong Kong 
- 
-`Followers?: `60 
- 
-`Following?:` 141 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 142 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1423816169274757122/MQrZ3dZN_normal.jpg 
- 
-`Number of tweets excluding replies:` 143 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CHINESE** 19 , **CHINA** 11 , **PARTY** 11 , **COMMUNIST** 11 , **CCP** 10 , **@01IOTA** 10 , **@ROBERT_SPALDING:** 9 , **REGIME** 8 , **US** 8 , **@KEITH0STA** 8 , **THAN** 6 , **PEOPLE** 6 , **BIDEN** 6 , **RT** 5 , **YEARS** 5 , **@GORDONGCHANG:** 5 , **VIRUS** 5 , **@GFAWKERS** 5 , **@TJ2020LANDSLIDE** 5 , **YAN** 5 , 
- 
-## What this user tweeted
- 
-RT @GordonGChang: The #BidenAdministration called out #China’s regime for #ransomware attacks but then decided to not impose any costs for…
- 
-# Stefanie_Baker_USER INFO
-![image](http://pbs.twimg.com/profile_images/1425085084978327557/MgZsSSC7_normal.jpg)
- 
-`User ScreenName:` Stefanie_Baker_ 
- 
-`User chosen Name:` Stefanie 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 10 12:59:57 +0000 2021 
- 
-`User Description?:` Thought balloon Dreaming of that huge house and motorhome! #foodie #socialmediamanager #blogger #makeupjunkie LipstickKiss mark #keto #articlewriter 
- 
-`Followers?: `33 
- 
-`Following?:` 105 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 62 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1425085084978327557/MgZsSSC7_normal.jpg 
- 
-`Number of tweets excluding replies:` 62 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ASPEN_WRITERS1:** 23 , **@ROXYELOISE_** 18 , **PAY** 10 , **ESSAY** 10 , **@SAFFWRITES** 10 , **MATH** 9 , **HOMEWORK** 8 , **CHECK** 7 , **ESSAYPAY** 7 , **ECONOMETRICS** 7 , **ENGLISH** 6 , **PAPER** 6 , **DUE** 6 , **ACADEMIC** 6 , **@JULIETDJONES1** 5 , **EXAMS** 5 , **SOMEONE** 5 , **ESSAYS** 5 , **HELP** 5 , **CHEMISTRY** 5 , 
- 
-## What this user tweeted
- 
-RT @ASPEN_WRITERS1: DM or email aspenwriters1@gmail.com for assistance in essay, homework, online classes, assignment , dissertation and ac…RT @ASPEN_WRITERS1: We offer quality help with 
-Biochemistry
-Physiology
-Microbiology
-Anatomy
-Physics
-Nursing
-Math
-Biology
-Chemistry
-Essay
-E…RT @ASPEN_WRITERS1: We offer quality help with
-Biochemistry
-Physiology
-Microbiology
-Anatomy
-Physics
-Nursing
-Math
-Biology
-Chemistry
-Essay
-Ex…
- 
-# Dipti09102376USER INFO
+# rule_changesUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` Dipti09102376 
+`User ScreenName:` rule_changes 
  
-`User chosen Name:` Dipti 
+`User chosen Name:` Rule_changes 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Aug 11 17:56:53 +0000 2021 
+`User signup date?:` Sun Aug 08 17:15:57 +0000 2021 
  
-`User Description?:`  
+`User Description?:` Mark Duggan, a 29-year-old British man, was shot and killed by police in Tottenham, North London on 4 August 2011. The Metropolitan Police stated that officers 
  
 `Followers?: `0 
  
-`Following?:` 38 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 87 
+`Number of tweets extracted`  : 33 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 87 
+`Number of tweets excluding replies:` 33 
  
 
  
@@ -290,213 +108,15 @@ Ex…
  
 ## User Top tweeted words 
  
-**@ELONMUSK** 7 , **MAKE** 7 , **@ZOOSHICOIN:** 6 , **CHECK** 5 , **SOUPSWAP** 5 , **JOIN** 4 , **US** 4 , **GETTING** 4 , **1** 4 , **FAMILY** 3 , **LOVE** 3 , **AFTER** 3 , **من** 3 , **BABYDOGE** 3 , **LES** 3 , **PROJECT** 3 , **GIVEAWAY** 3 , **FOLLOW** 3 , **RETWEET** 3 , **WORKING** 3 , 
+**@ALANIS:** 5 , **LONDON** 4 , **NORTH** 4 , **YOURSELF** 3 , **TELEVISION** 3 , **EDITOR** 3 , **DUGGAN** 3 , **29-YEAR-OLD** 3 , **BRITISH** 3 , **MAN** 3 , **SHOT** 3 , **KILLED** 3 , **POLICE** 3 , **VINTAGE** 2 , **THEE** 2 , **WED?** 2 , **NOT?** 2 , **BIRMINGHAM** 2 , **UKMEDIA** 2 , **UKPOLITICS** 2 , 
  
 ## What this user tweeted
  
-RT @JoaquinInfosec: ¡#follow @lowvoltnation  &amp; @blakeurmos!.
+@Shelter Joe says I #tweets for #years.
+but 
+I usually watch #television with #support #workers 
 
-And start building your career on #lowvoltage and #tech!!!.
-
-#lowvoltagenatio…
- 
-# newsaccount85USER INFO
-![image](http://pbs.twimg.com/profile_images/1423725319870193664/ZYgh-ODH_normal.jpg)
- 
-`User ScreenName:` newsaccount85 
- 
-`User chosen Name:` newsaccount85 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Aug 06 19:18:29 +0000 2021 
- 
-`User Description?:` News 
- 
-`Followers?: `0 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 94 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1423725319870193664/ZYgh-ODH_normal.jpg 
- 
-`Number of tweets excluding replies:` 94 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEHILL:** 16 , **US** 12 , **VIA** 10 , **@DISCLOSETV:** 7 , **@REUTERS:** 7 , **AFTER** 7 , **NEW** 6 , **@YOUTUBERT** 6 , **@NKNEWSORG:** 5 , **DEBT** 4 , **ITS** 4 , **NORTH** 4 , **VACCINATED** 4 , **HD** 4 , **PHOENIX** 4 , **SUNS** 4 , **ELFRID** 4 , **PAYTON** 4 , **DEAL** 4 , **CASES** 4 , 
- 
-## What this user tweeted
- 
-RT @thehill: Lawmakers raise concerns over federal division of cybersecurity responsibilities https://t.co/4mYul0KJ6h https://t.co/58gXTENy…
- 
-# CyberSecStanleyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425099321792507909/mh0wIZnN_normal.jpg)
- 
-`User ScreenName:` CyberSecStanley 
- 
-`User chosen Name:` C. Stanley, M.Sc 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 10 14:12:43 +0000 2021 
- 
-`User Description?:` #CyberSec Professional | #NetOps Admin 👨🏾‍💻 
-#IIoT #ICS #SCADA #InfoSec
-Following, RTs, links, and likes ≠ endorsement. 
- 
-`Followers?: `4 
- 
-`Following?:` 43 
- 
-`User URL?:` https://t.co/PQ7ZxE2m1x 
- 
-`Location:` Deep, Deep in the Ether. 
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1425099321792507909/mh0wIZnN_normal.jpg 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 2 , **YEARS** 2 , **RT** 1 , **@FAHEEMYOUNUS:** 1 , **COVID** 1 , **HOME** 1 , **TREATMENT** 1 , **KIT:** 1 , **THERMOMETER** 1 , **PULSE** 1 , **OXIMETER** 1 , **PARACETAMOL** 1 , **IBUPROFEN** 1 , **OXYMETAZOLINE** 1 , **NASAL** 1 , **SPRAY** 1 , **ANTIBIOTIC…RT** 1 , **@REALCISO:** 1 , **MOBILE** 1 , **FRIENDLY** 1 , 
- 
-## What this user tweeted
- 
-RT @RealCISO: Mobile friendly and risk assessment in the palm of your hand.  #cybersecurity https://t.co/yBq2bo7sVNRT @DeepFriedCyber: Hackers take $600m in 'biggest' cryptocurrency theft https://t.co/qDg2Pkg2CE #news #cybersecurity #infosec https://t.co…
- 
-# nullprismUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422397139112669189/7MionQq__normal.jpg)
- 
-`User ScreenName:` nullprism 
- 
-`User chosen Name:` nullprism 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Aug 02 13:24:58 +0000 2021 
- 
-`User Description?:` I like reading about cybersecurity, CTFs, and security research. Plus good memes. 
- 
-`Followers?: `1 
- 
-`Following?:` 33 
- 
-`User URL?:` https://t.co/SpJLk5npCW 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422397139112669189/7MionQq__normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEW** 2 , **🚨** 2 , **PROXYSHELL** 2 , **@GOSSITHEDOG:** 2 , **RT** 1 , **@HACKTHEBOX_EU:** 1 , **HTBACADEMY** 1 , **MODULE** 1 , **ALERT** 1 , **WINDOWS** 1 , **PRIVILEGE** 1 , **ESCALATION** 1 , **LEARN** 1 , **ENUMERATE** 1 , **IDENTIFY** 1 , **POSSIBLE** 1 , **WAYS** 1 , **TE…RT** 1 , **@SHODANHQ:** 1 , **THAN** 1 , 
- 
-## What this user tweeted
- 
-RT @hackthebox_eu: New #HTBAcademy Module Alert 🚨 #WINDOWS PRIVILEGE ESCALATION 🚨
-Learn how to enumerate, identify all possible ways and te…
- 
-# OrbiSkySystemsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1422817118018486274/Xlu-rTLt_normal.jpg)
- 
-`User ScreenName:` OrbiSkySystems 
- 
-`User chosen Name:` OrbiSky Systems 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Aug 04 07:09:21 +0000 2021 
- 
-`User Description?:` NewSpace Secure Intelligence & Automation - for orbital machines 
- 
-`Followers?: `9 
- 
-`Following?:` 61 
- 
-`User URL?:` https://t.co/HANudpfgzB 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1422817118018486274/Xlu-rTLt_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SPACE** 6 , **CYBER** 4 , **ASSETS** 4 , **DATA** 4 , **US** 3 , **TECHNOLOGIES** 3 , **NEED** 2 , **THREATS** 2 , **SMALLSATS** 2 , **CUBESATS** 2 , **SATELLITES** 1 , **ONGOING** 1 , **REFINEMENT** 1 , **DATAPROCESSING** 1 , **ABILITIES** 1 , **ADVANCE** 1 , **FASTER** 1 , **THAN** 1 , **INTRICACY** 1 , **AT…** 1 , 
- 
-## What this user tweeted
- 
-"The U.S. Space Force is seeking #funding for deep space ops, and cislunar #technologies demand advanced… https://t.co/MPFZjmxuFr
- 
-# B4NEtheG4MBl3RUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425313513464078339/hUCPbGV6_normal.jpg)
- 
-`User ScreenName:` B4NEtheG4MBl3R 
- 
-`User chosen Name:` B4N3 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Aug 11 04:17:22 +0000 2021 
- 
-`User Description?:` Just your everyday asspiring Blue Teamer.... with a Red Teamer name? I guess I'm not sure, I'm just now getting my feet wet so lets see where it goes 
- 
-`Followers?: `4 
- 
-`Following?:` 45 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1425313513464078339/hUCPbGV6_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@INFOSECURITYMAG:** 2 , **RT** 1 , **5** 1 , **KEY** 1 , **STRATEGIES** 1 , **STOP** 1 , **RANSOMWARE** 1 , **ITS** 1 , **TRACKS** 1 , **&GT;&GT;** 1 , **HTTPS://TCO/TF6GL2CZNT** 1 , **CYBERSECURITY** 1 , **SECURITYCRAZY** 1 , **EVERYTHING** 1 , **HAPPENED** 1 , **CRYPTO** 1 , **YEAR** 1 , **HTTPS://TCO/QCME1N4QOFHTTPS://TCO/L6ZLKLYXEWRT** 1 , **RANSOMWARE:** 1 , **'TO** 1 , 
- 
-## What this user tweeted
- 
-RT @InfosecurityMag: 5 key strategies to stop #ransomware in its tracks &gt;&gt; https://t.co/TF6Gl2CZNT #cybersecurity #security
+#blackguy… https://t.co/b4i8gLPzwz
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
