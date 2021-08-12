@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **fr0gger_**  
+The most popular user is: **itsJeffTiedrich**  
  
 
-## On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD 
+## Rudy Giuliani could have quietly lived in the shadows and continued to rake in millions with his bogus cybersecurit… https://t.co/Vf61tHHq4P 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **fr0gger_**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DarkReading: Incident Responders Explore Microsoft 365 Attacks in the Wild https://t.co/ys7wSsKFxI by @kellymsheridan #Microsoft #Micro… |
-| Several major US federal agencies still lack basic cyber security https://t.co/v6fu3MuXib #threatintel |
-| Blogs, social media, Reddit, and more! https://t.co/q1yOWjgK9G https://t.co/TaMXq9shJ0 Trojan-Dropper.Win32.Small.… https://t.co/Pzw5WARdiA |
+| RT @WhiteOakSec: Read the beginning of a mobile security framework, or MobSF, overview blog series that gets you started, teaching you the… |
+| RT @Paula_Piccard: Crowdstrike's Best Practices for Cybersecurity With Ransomware Attacks on the Rise. [#VIDEO]https://t.co/5RwqCUjBMi… |
+| DAY 6#100DaysOfHackingI just pwned Pathfinder in Hack The Box! https://t.co/FJkI5ctyCr - LDAP &amp; AD exploitation… https://t.co/fYurYdlkaR |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 0.89%|
+| #1 Most tweeted to  | **Paula_Piccard** |
+| #2 Most tweeted to  | **TeamPatriot007** |
+| #3 Most tweeted to  | **Prashanth_NS** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 1.86%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,127 +50,43 @@ The most popular user is: **fr0gger_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DARKWEB**  |
-| second  | **DATABREACHES**  |
-| third  | **CYBERSEC** |
-| fourth  | **INFOSEC**  |
-| fifth  | **RANSOMWARE**  |
+| first  | **AI**  |
+| second  | **INFOSEC**  |
+| third  | **DATA** |
+| fourth  | **DATASCIENCE**  |
+| fifth  | **JAVASCRIPT**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: Cybercriminals are manipulating reality to reshape the modern threat landscape #DataBreaches #DarkWeb #CyberSec #infosec #Sec… |
+|Ever wanted a list of things to do and not do with your laptop, phone, tablet, etc. while traveling to keep them se… https://t.co/vAJOqoWMW2 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fr0gger_**  |
+| The most retweeted user is: **itsJeffTiedrich**  |
 | ------------- |
-| On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD |
+| Rudy Giuliani could have quietly lived in the shadows and continued to rake in millions with his bogus cybersecurit… https://t.co/Vf61tHHq4P |
 
 # Potential Fake Accounts
  
-# BastionPodUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg)
- 
-`User ScreenName:` BastionPod 
- 
-`User chosen Name:` BastionPod 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Aug 11 15:53:08 +0000 2021 
- 
-`User Description?:` BastionPod is a cloud access platform enabling secure access to regulated applications, systems, and networks. 
- 
-`Followers?: `0 
- 
-`Following?:` 9 
- 
-`User URL?:` https://t.co/KMpuYjspa6 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**THROUGH** 3 , **ACCEPT** 2 , **CARD** 2 , **PAYMENTS** 2 , **ORDERS?** 2 , **BUSINESS** 2 , **C…** 2 , **MAIL/TELEPHONE** 1 , **BASTIONPOD** 1 , **HELPS** 1 , **PROTECT** 1 , **CARDHOLDER** 1 , **DATA** 1 , **CUS…** 1 , **HTTPS://TCO/QQ5EBBNHYNRT** 1 , **@GIGASHEET:** 1 , **ENRICH** 1 , **2M** 1 , **ROW** 1 , **ZEEK** 1 , 
- 
-## What this user tweeted
- 
-RT @gigasheet: How to enrich 2m row #Zeek log w/ .@GreyNoiseIO #threatintel:
-1. Upload conn.log to https://t.co/OFstKPMf3d (or zip first)
-2…
- 
-# hypothe31012046USER INFO
-![image](http://pbs.twimg.com/profile_images/1423977835950133261/G4D_h4A5_normal.jpg)
- 
-`User ScreenName:` hypothe31012046 
- 
-`User chosen Name:` Professor_Zero 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Aug 07 01:24:10 +0000 2021 
- 
-`User Description?:` Bastard of tomorrow. Second order cybernetician, global macro investor, maker of tools. Busy creating crop circles and executing think-tank projects for the ⬠. 
- 
-`Followers?: `14 
- 
-`Following?:` 2192 
- 
-`User URL?:` None 
- 
-`Location:` unknown 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1423977835950133261/G4D_h4A5_normal.jpg 
- 
-`Number of tweets excluding replies:` 499 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REUTERS:** 18 , **NEW** 17 , **US** 16 , **CHINA** 13 , **CORONAVIRUS** 11 , **PEOPLE** 9 , **@DEFENSEONE:** 9 , **VACCINE** 9 , **@FINANCIALJUICE:** 8 , **UK** 8 , **COVID** 8 , **@FIRSTSQUAWK:** 8 , **RECORD** 8 , **INFLATION** 7 , **ITS** 7 , **COVID-19** 7 , **OIL** 7 , **@AFP:** 6 , **CASES** 6 , **SUPPLY** 5 , 
- 
-## What this user tweeted
- 
-RT @bad_packets: Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to #ProxyShell (C…RT @bad_packets: Active DDoS malware payload detected:
-http://72.130.90.223:48785/Mozi.m
-(https://t.co/08bDZ7r3Fb)
-
-Exploit attempt source…
- 
-# rule_changesUSER INFO
+# EmilyKe52602781USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` rule_changes 
+`User ScreenName:` EmilyKe52602781 
  
-`User chosen Name:` Rule_changes 
+`User chosen Name:` Emily Kendrick 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Aug 08 17:15:57 +0000 2021 
+`User signup date?:` Thu Aug 12 22:21:44 +0000 2021 
  
-`User Description?:` Mark Duggan, a 29-year-old British man, was shot and killed by police in Tottenham, North London on 4 August 2011. The Metropolitan Police stated that officers 
+`User Description?:`  
  
 `Followers?: `0 
  
@@ -180,11 +96,11 @@ Exploit attempt source…
  
 `Location:`  
  
-`Number of tweets extracted`  : 33 
+`Number of tweets extracted`  : 1 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 33 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -192,15 +108,209 @@ Exploit attempt source…
  
 ## User Top tweeted words 
  
-**@ALANIS:** 5 , **LONDON** 4 , **NORTH** 4 , **YOURSELF** 3 , **TELEVISION** 3 , **EDITOR** 3 , **DUGGAN** 3 , **29-YEAR-OLD** 3 , **BRITISH** 3 , **MAN** 3 , **SHOT** 3 , **KILLED** 3 , **POLICE** 3 , **VINTAGE** 2 , **THEE** 2 , **WED?** 2 , **NOT?** 2 , **BIRMINGHAM** 2 , **UKMEDIA** 2 , **UKPOLITICS** 2 , 
+**CONSUMERS** 2 , **RT** 1 , **@PROGRESSCHAMBER:** 1 , **SECURITY** 1 , **TOP** 1 , **CONCERN** 1 , **ONLINE** 1 , **INSTEAD** 1 , **ADDRESSING** 1 , **TODAY'S** 1 , **SENATE** 1 , **BILL** 1 , **WAD…** 1 , 
  
 ## What this user tweeted
  
-@Shelter Joe says I #tweets for #years.
-but 
-I usually watch #television with #support #workers 
+RT @ProgressChamber: Security is a top concern for consumers online. But instead of addressing what consumers want, today's Senate bill wad…
+ 
+# EmilyKe90602249USER INFO
+![image](http://pbs.twimg.com/profile_images/1425945065692798978/LLr2z93U_normal.png)
+ 
+`User ScreenName:` EmilyKe90602249 
+ 
+`User chosen Name:` Emily Kendrick 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 12 22:19:30 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425945065692798978/LLr2z93U_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
 
-#blackguy… https://t.co/b4i8gLPzwz
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CONSUMERS** 2 , **RT** 1 , **@PROGRESSCHAMBER:** 1 , **SECURITY** 1 , **TOP** 1 , **CONCERN** 1 , **ONLINE** 1 , **INSTEAD** 1 , **ADDRESSING** 1 , **TODAY'S** 1 , **SENATE** 1 , **BILL** 1 , **WAD…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ProgressChamber: Security is a top concern for consumers online. But instead of addressing what consumers want, today's Senate bill wad…
+ 
+# davkr0USER INFO
+![image](http://pbs.twimg.com/profile_images/1424737974076383245/e1CGGDtn_normal.jpg)
+ 
+`User ScreenName:` davkr0 
+ 
+`User chosen Name:` davkr0 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Aug 09 14:22:18 +0000 2021 
+ 
+`User Description?:` It's always DNS 
+ 
+`Followers?: `0 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1424737974076383245/e1CGGDtn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@VIDEOARTGAME:** 2 , **ARTIST:** 2 , **RT** 1 , **@_JOHNHAMMOND:** 1 , **VERY** 1 , **FLATTERED** 1 , **INCLUDED** 1 , **--** 1 , **LOOKING** 1 , **FORWARD** 1 , **FULL** 1 , **RELEASE** 1 , **AUGUST** 1 , **18TH!** 1 , **THANK** 1 , **MUCH** 1 , **LETTIN…RT** 1 , **FAN** 1 , **ART** 1 , **DISHONORED** 1 , 
+ 
+## What this user tweeted
+ 
+RT @_johnhammond: Very flattered to be included in this -- looking forward to the full release on August 18th! Thank you so much for lettin…
+ 
+# MITREATTCKPOSTRUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425916134214279171/6ciuP1DL_normal.jpg)
+ 
+`User ScreenName:` MITREATTCKPOSTR 
+ 
+`User chosen Name:` MITRE ATT&CK® Poster 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 12 20:16:26 +0000 2021 
+ 
+`User Description?:` Get the latest MITRE ATT&CK® Enterprise v9 MITRE ATT&CK poster for your office or home office ! 
+ 
+`Followers?: `1 
+ 
+`Following?:` 14 
+ 
+`User URL?:` https://t.co/NWXy33vPmA 
+ 
+`Location:` Worldwide shipping 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425916134214279171/6ciuP1DL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROMOTE** 1 , **CYBERSECURITY** 1 , **CULTURE** 1 , **COMPANY!🤓** 1 , **MITRE** 1 , **ATT&AMP;CK®** 1 , **POSTER** 1 , **DRESS** 1 , **OFFICE** 1 , **WALLS** 1 , **MOS…** 1 , **HTTPS://TCO/KA4WJSCEII** 1 , 
+ 
+## What this user tweeted
+ 
+Promote cybersecurity culture in your company!🤓
+
+Our MITRE ATT&amp;CK® poster will dress your office walls with the mos… https://t.co/ka4WJSCeII
+ 
+# CryptoTips99USER INFO
+![image](http://pbs.twimg.com/profile_images/1424422191232438272/k3B5-g9F_normal.jpg)
+ 
+`User ScreenName:` CryptoTips99 
+ 
+`User chosen Name:` CryptoTips 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Aug 08 17:27:47 +0000 2021 
+ 
+`User Description?:` Blockchain dev and advisor 
+ 
+`Followers?: `29 
+ 
+`Following?:` 266 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1424422191232438272/k3B5-g9F_normal.jpg 
+ 
+`Number of tweets excluding replies:` 465 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 65 , **LE** 41 , **LA** 39 , **BITCOIN** 34 , **UN** 31 , **À** 30 , **DU** 28 , **ET** 26 , **LES** 25 , **CRYPTO** 24 , **DES** 20 , **EN** 19 , **POUR** 19 , **ETH** 19 , **PAR** 17 , **NOUS** 17 , **NE** 16 , **SUR** 15 , **BTC** 15 , **MAINTENANT** 15 , 
+ 
+## What this user tweeted
+ 
+@GrazyTGT Any comment ?  #BREST #PROEDUTECH #FRANCE #CYBERSECURITY #AI #TECHNOLOGY #AMAZON #POLAND #FINTECH… https://t.co/oK3UlZTt2R
+ 
+# DevBox__AppUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425738342424059909/cI2Vp22-_normal.jpg)
+ 
+`User ScreenName:` DevBox__App 
+ 
+`User chosen Name:` DevBox 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 12 08:36:43 +0000 2021 
+ 
+`User Description?:` Everyday utilities for the everyday developer. A small useful collection of software in a desktop application - https://t.co/RIRmjwfJeS 
+ 
+`Followers?: `17 
+ 
+`Following?:` 70 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 76 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425738342424059909/cI2Vp22-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 76 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THEPRACTICALDEV:** 16 , **@DEVANDGEAR:** 10 , **PYTHON** 9 , **MAGIC** 8 , **CODE** 8 , **100DAYSOFCODE** 7 , **JAVASCRIPT** 7 , **ESSAYPAY** 6 , **ENGLISH** 5 , **:** 5 , **AI** 5 , **{** 5 , **@ESSAYWRITERS0:** 5 , **SOME** 4 , **PAPER** 4 , **PAY** 4 , **ECONOMETRICS** 4 , **WRITE** 4 , **APPLE** 4 , **KEYBOARD** 4 , 
+ 
+## What this user tweeted
+ 
+RT @DatafoxTax: Has your #Business invested in R&amp;D to develop innovative #Cybersecurity solutions?
+Don't miss out on the opportunity to rec…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
