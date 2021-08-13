@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **fr0gger_**  
+The most popular user is: **ashtonpittman**  
  
 
-## On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD 
+## BREAKING: After one week, Pearl River Central High School has quarantined 40% of its entire student body.
+
+When cla… https://t.co/LU13Gl8Kpb 
 
   
 
@@ -23,24 +25,24 @@ The most popular user is: **fr0gger_**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bad_packets: Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to #ProxyShell (C… |
-| RT @RedPacketSec: City of Joplin paid a 320K ransom after a ransomware Attack - https://t.co/6UafQ7WPU0#Hacking #OSINT #Security #Threatin… |
-| RT @CyberIQs_: Detect #Pegasus #malware on #iOS for free using admin app iMazing | #macos | #macsecurity | #cybersecurity | #infosecurity |… |
+| @FilipiPires @santosomar @PhillipWylie @jorgeorchilles @jb4ckstr33t @NahamSec @hacknotcrime @dcg5511… https://t.co/01s9iEbwAu |
+| RT @johnjhacking: I mean...#infosec https://t.co/KyxHfoexWF |
+| RT @grenade32: Great post about a few ways to avoid #SOC analyst burnout amongst the great need for skilled #infosec teams @redcanary http… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 0.91%|
+| #1 Most tweeted to  | **AlyssaM_InfoSec** |
+| #2 Most tweeted to  | **TeamPatriot007** |
+| #3 Most tweeted to  | **TheHackersNews** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 1.7%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,55 +52,133 @@ The most popular user is: **fr0gger_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DARKWEB**  |
-| second  | **DATABREACHES**  |
-| third  | **CYBERSEC** |
-| fourth  | **INFOSEC**  |
-| fifth  | **RANSOMWARE**  |
+| first  | **INFOSEC**  |
+| second  | **RANSOMWARE**  |
+| third  | **PHISHING** |
+| fourth  | **MICROSOFT**  |
+| fifth  | **VOID**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (71.43%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MISPProject: MISP 2.4.148 released including bugs fixed, some improvements and two security fixes CVE-2021-37742 and CVE-2021-37743. We… |
+|Ransomware recovery: 8 steps to successfully restore from backup https://t.co/FsIlQrbIo6 # infosec via @CSOonline |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fr0gger_**  |
+| The most retweeted user is: **ashtonpittman**  |
 | ------------- |
-| On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD |
+| BREAKING: After one week, Pearl River Central High School has quarantined 40% of its entire student body.When cla… https://t.co/LU13Gl8Kpb |
 
 # Potential Fake Accounts
  
-# BastionPodUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg)
+# __4n6USER INFO
+![image](http://pbs.twimg.com/profile_images/1426206318860308480/KMbbKZ-Q_normal.jpg)
  
-`User ScreenName:` BastionPod 
+`User ScreenName:` __4n6 
  
-`User chosen Name:` BastionPod 
+`User chosen Name:` \4n6 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Aug 11 15:53:08 +0000 2021 
+`User signup date?:` Fri Aug 13 15:37:33 +0000 2021 
  
-`User Description?:` BastionPod is a cloud access platform enabling secure access to regulated applications, systems, and networks. 
+`User Description?:` Digital forensics (learn FOR532 certification) 
  
-`Followers?: `0 
+`Followers?: `6 
  
-`Following?:` 9 
+`Following?:` 234 
  
-`User URL?:` https://t.co/KMpuYjspa6 
+`User URL?:` None 
  
 `Location:`  
  
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1426206318860308480/KMbbKZ-Q_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IL** 2 , **GOGOLPLEX** 2 , **QUE** 2 , **TIME** 2 , **NEW** 2 , **RT** 1 , **@DIANAVIEIRA78:** 1 , **🤣🤣** 1 , **HTTPS://TCO/RYUPRX2UO5RT** 1 , **@ANECDOTESMATHS:** 1 , **EST** 1 , **IMPOSSIBLE** 1 , **D'ÉCRIRE** 1 , **LES** 1 , **10¹⁰⁰** 1 , **CHIFFRES** 1 , **D'UN** 1 , **CAR** 1 , **Y** 1 , **PLUS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @pxmme1337: #bugbounty #twitter #infosec DMs be like https://t.co/7zO6ZIjReR
+ 
+# hekateonwheelsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1424924028494655510/bQOBvASR_normal.jpg)
+ 
+`User ScreenName:` hekateonwheels 
+ 
+`User chosen Name:` ✨hekate✨♿️ ⚠️UNDER CONSTRUCTION⚠️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 10 02:41:13 +0000 2021 
+ 
+`User Description?:` ✨hekate✨ a white plural autistic bendy-straw nb mid20s trans girl & fulltime wheelchair user ♿️ wanted some place to shout into the void 🌟 
+ 
+`Followers?: `0 
+ 
+`Following?:` 22 
+ 
+`User URL?:` None 
+ 
+`Location:` Glasgow, Scotland 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1424924028494655510/bQOBvASR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 225 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I’M** 17 , **THAT’S** 12 , **TIME** 11 , **EVEN** 10 , **PPL** 10 , **STUFF** 9 , **MAKE** 9 , **SOME** 9 , **PEOPLE** 9 , **LOT** 8 , **BACK** 8 , **MEAN** 8 , **USING** 8 , **OTHER** 8 , **READ** 7 , **THOUGHT** 7 , **THERE’S** 7 , **MANY** 7 , **GOOD** 7 , **VERY** 7 , 
+ 
+## What this user tweeted
+ 
+@meatgirI but i mean on the plus side it taught me about infosec and opsec by the time i was 16!! &gt;.&gt;
+ 
+# lfdbyzUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425794919961178117/n8MakHEy_normal.jpg)
+ 
+`User ScreenName:` lfdbyz 
+ 
+`User chosen Name:` Little Flower Designs by Zahra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 12 12:21:10 +0000 2021 
+ 
+`User Description?:` Hand crafted goods for Bellydance and every day life.  Visit our website at https://t.co/e8wXVzANrG 
+ 
+`Followers?: `4 
+ 
+`Following?:` 12 
+ 
+`User URL?:` https://t.co/e8wXVzANrG 
+ 
+`Location:` Milwaukee, WI 
+ 
 `Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1425794919961178117/n8MakHEy_normal.jpg 
  
 `Number of tweets excluding replies:` 5 
  
@@ -108,13 +188,253 @@ VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJ
  
 ## User Top tweeted words 
  
-**THROUGH** 3 , **ACCEPT** 2 , **CARD** 2 , **PAYMENTS** 2 , **ORDERS?** 2 , **BUSINESS** 2 , **C…** 2 , **MAIL/TELEPHONE** 1 , **BASTIONPOD** 1 , **HELPS** 1 , **PROTECT** 1 , **CARDHOLDER** 1 , **DATA** 1 , **CUS…** 1 , **HTTPS://TCO/QQ5EBBNHYNRT** 1 , **@GIGASHEET:** 1 , **ENRICH** 1 , **2M** 1 , **ROW** 1 , **ZEEK** 1 , 
+**@WH1T3RABBIT** 2 , **@ALYSSAM_INFOSEC** 2 , **SORRY** 1 , **THAT!** 1 , **NEW** 1 , **WHOLE** 1 , **TWITTER** 1 , **THING** 1 , **😬** 1 , **THEY’RE** 1 , **OPEN** 1 , **😉@WH1T3RABBIT** 1 , **SURE** 1 , **THING!** 1 , **:)@ALYSSAM_INFOSEC** 1 , **QUOTE** 1 , **INTO** 1 , **WOODS** 1 , **“WE’RE** 1 , **HAPPY** 1 , 
  
 ## What this user tweeted
  
-RT @gigasheet: How to enrich 2m row #Zeek log w/ .@GreyNoiseIO #threatintel:
-1. Upload conn.log to https://t.co/OFstKPMf3d (or zip first)
-2…
+@Wh1t3Rabbit @AlyssaM_InfoSec Sorry about that!  New to the whole Twitter thing. 😬  They’re open now 😉@Wh1t3Rabbit @AlyssaM_InfoSec Sure thing! :)
+ 
+# Guns_VelezUSER INFO
+![image](http://pbs.twimg.com/profile_images/1426239540717568008/Ky-uJZJy_normal.jpg)
+ 
+`User ScreenName:` Guns_Velez 
+ 
+`User chosen Name:` Guns Velez 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Aug 13 17:24:55 +0000 2021 
+ 
+`User Description?:` #Lawyer #HispanicAmerican🇺🇸 #AnimalLover #GoNavy #America1st #WeThePeople #MAGA #2A #Constitutionalist #Republican #Trump2020 #FuckAroundAndFindOut #Philly 
+ 
+`Followers?: `45 
+ 
+`Following?:` 159 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 36 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1426239540717568008/Ky-uJZJy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 36 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THEDAILYSHOW** 10 , **MAJOR** 3 , **CONSIDERING** 2 , **YES** 2 , **YEA** 2 , **I’M** 2 , **STATE** 2 , **CITIES@INFOSEC_JCP** 2 , **BELIEVE** 2 , **PROBLEM** 2 , **SURE** 2 , **US** 2 , **THANKS** 2 , **PEOPLE** 2 , **NEITHER** 2 , **DOES** 2 , **MANDATE** 2 , **EXPERIMENTAL** 2 , **@SENJEFFMERKLEY** 2 , **PASS** 2 , 
+ 
+## What this user tweeted
+ 
+@infosec_jcp @TheDailyShow I answered you.@infosec_jcp @TheDailyShow Uniform crime Reporting - FBI. You can look up state by state and narrow it down to the major big cities.@infosec_jcp @TheDailyShow It’s is. Considering that blacks are 13% of the population, YES it is all major cities.@infosec_jcp @TheDailyShow It was a joke and a good one I might add. I laughed, out loud if you can believe it. But… https://t.co/0cFR5v9p44@infosec_jcp @TheDailyShow No it’s not a false dichotomy if it’s literally all cities. The problem is that you’ve n… https://t.co/3xo5nAIHfU@infosec_jcp @TheDailyShow According to your tweet it’s the white conservatives that are the problem, but if you di… https://t.co/9lppq7Bdcw@infosec_jcp @TheDailyShow It’s not just Philadelphia, it’s every major city in the US, and it ain’t whites. Stop b… https://t.co/BQRbmowvjc@infosec_jcp @TheDailyShow Uh yea, I have, it seems as though you haven’t.... I’m in Philly and it sure as hell ain… https://t.co/NspsQR8Y3f@infosec_jcp @TheDailyShow So are black people still killing each other at the highest rate in the US or naw???
+ 
+# Universalia88USER INFO
+![image](http://pbs.twimg.com/profile_images/1423773347620474889/oY2mql_Q_normal.jpg)
+ 
+`User ScreenName:` Universalia88 
+ 
+`User chosen Name:` Unitaria 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Aug 06 22:24:13 +0000 2021 
+ 
+`User Description?:` Excited for an @OntarioNDP government in 2022! 
+ 
+`Followers?: `11 
+ 
+`Following?:` 48 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423773347620474889/oY2mql_Q_normal.jpg 
+ 
+`Number of tweets excluding replies:` 809 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VOTE** 29 , **@ONTARIONDP** 27 , **@CPC_HQ** 26 , **@NDP** 24 , **LIBERALS** 18 , **@ANDREAHORWATH** 16 , **@STACEYANN1977** 16 , **NDP** 16 , **LIBERAL** 15 , **ELECTION** 13 , **@STEVENDELDUCA** 13 , **TRUDEAU** 12 , **@THEJAGMEETSINGH** 11 , **VOTING** 11 , **NEED** 10 , **REALLY** 10 , **@PRETTYSPAZZ** 9 , **THAN** 8 , **MAJORITY** 8 , **EVERYONE** 8 , 
+ 
+## What this user tweeted
+ 
+@crispy_infosec @TheJuanEstevez @westmm4028 @jdouglaslittle @nationalpost Why are you voting Liberal instead of… https://t.co/jQpU6tM1Bk
+ 
+# CybersecNoelUSER INFO
+![image](http://pbs.twimg.com/profile_images/1426009665112993794/MQz_5gfu_normal.jpg)
+ 
+`User ScreenName:` CybersecNoel 
+ 
+`User chosen Name:` Noel Varghese 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 05 05:45:51 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1426009665112993794/MQz_5gfu_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THECYBERMENTOR** 4 , **BLUE** 2 , **GREAT** 2 , **4444** 2 , **FIRST** 1 , **EVER** 1 , **FF** 1 , **!** 1 , **@ALYSSAM_INFOSEC** 1 , **@PHILLIPWYLIE** 1 , **@JOSHUA17SC** 1 , **@JOEHELLE…** 1 , **HTTPS://TCO/RICOKG9LIX@CYBER_COX** 1 , **THAT'S** 1 , **DEEPWHO** 1 , **PURPOSE** 1 , **LIFE?@THECYBERMENTOR** 1 , **CONGRATS** 1 , **HEATHTHIS** 1 , **GREAT@CYBERCHEMX** 1 , 
+ 
+## What this user tweeted
+ 
+My first ever #FF !
+@AlyssaM_InfoSec 
+@thecybermentor
+@PhillipWylie
+@thecybermentor
+@joshua17sc 
+@joehelle… https://t.co/rIcoKG9Lix
+ 
+# youngcyberpunkUSER INFO
+![image](http://pbs.twimg.com/profile_images/1426177335435399174/c6Trq_-f_normal.jpg)
+ 
+`User ScreenName:` youngcyberpunk 
+ 
+`User chosen Name:` travis 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Aug 13 12:00:09 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `11 
+ 
+`Following?:` 205 
+ 
+`User URL?:` None 
+ 
+`Location:` New York, NY 
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1426177335435399174/c6Trq_-f_normal.jpg 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SCHNEIERBLOG:** 3 , **DEATH** 2 , **HERE** 2 , **TIME** 2 , **@HACKTHEBOX_EU:** 2 , **😎** 2 , **UNIVERSE** 2 , **NEW** 2 , **RT** 1 , **@THEBOYSTV:** 1 , **HE'S** 1 , **WRONG@GRIMEZSZ** 1 , **OKRT** 1 , **@ELONMUSK:** 1 , **@GRIMEZSZ** 1 , **WELCOME** 1 , **COMESRT** 1 , **@GRIMEZSZ:** 1 , **CHOICE** 1 , **NEVER** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackthebox_eu: #HackTheBox proudly presents #HTBAcademy 🎓
+It's time to #HackYourBrain! 😎  
+#CyberSecurity courses for everybody, from #…
+ 
+# skewedbrewsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1422935706570305542/MGqMU-xr_normal.jpg)
+ 
+`User ScreenName:` skewedbrews 
+ 
+`User chosen Name:` skewedbrews 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Aug 04 14:50:28 +0000 2021 
+ 
+`User Description?:` InfoSec and beer and pizza 
+ 
+`Followers?: `0 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1422935706570305542/MGqMU-xr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@LMKALG** 1 , **REALLY** 1 , **ENJOYED** 1 , **@_1GGY'S** 1 , **BH** 1 , **PRESENTATION** 1 , **ANY** 1 , **ADVICE** 1 , **INFOSEC** 1 , **PROFESSIONALS** 1 , **ARE…** 1 , **HTTPS://TCO/3YEQEIMRTF** 1 , 
+ 
+## What this user tweeted
+ 
+@lmkalg Really enjoyed your and @_1ggy's BH presentation. Do you have any advice for infosec professionals who are… https://t.co/3YEqeimrtf
+ 
+# ZenCyberSecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425403331627864068/0B_YRLaL_normal.jpg)
+ 
+`User ScreenName:` ZenCyberSec 
+ 
+`User chosen Name:` Zen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 10 12:12:06 +0000 2021 
+ 
+`User Description?:` 17 y/o | Student | Self taught ethical hacker | I aim to break into the #cybersec community on a limited budget, and show others the way. Art credit:@Yuumei_art 
+ 
+`Followers?: `3 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425403331627864068/0B_YRLaL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WIRESHARK** 3 , **DON'T** 2 , **13TH** 2 , **PLEASE** 2 , **MAY** 1 , **LOT** 1 , **SWAY** 1 , **YET** 1 , **HERE'S** 1 , **CONTRIBUTION** 1 , **CAUSE** 1 , **MIND** 1 , **TAGS** 1 , **MAKING** 1 , **SURE…** 1 , **HTTPS://TCO/ISVEOX8VSV@LILMZMUFFINCUP** 1 , **GODS** 1 , **APPEASED** 1 , **🙏@LILMZMUFFINCUP** 1 , **HAPPY** 1 , 
+ 
+## What this user tweeted
+ 
+@RegGBlinker @RealTryHackMe Thank you! This right here is a testament to just how generous the community is! Now if… https://t.co/y3IJBNDoIw
  
 # hypothe31012046USER INFO
 ![image](http://pbs.twimg.com/profile_images/1423977835950133261/G4D_h4A5_normal.jpg)
@@ -153,38 +473,36 @@ RT @gigasheet: How to enrich 2m row #Zeek log w/ .@GreyNoiseIO #threatintel:
  
 ## What this user tweeted
  
-RT @bad_packets: Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to #ProxyShell (C…RT @bad_packets: Active DDoS malware payload detected:
-http://72.130.90.223:48785/Mozi.m
-(https://t.co/08bDZ7r3Fb)
+RT @Transform_Sec: Mitigating Threats to #Encryption From #Quantum and Bad Random &gt; https://t.co/Z7I6MmPkUG on @SecurityWeek
 
-Exploit attempt source…
+#tech #cybers…
  
-# rule_changesUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# WhatchutalkinboUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425449014791659528/usqm9A65_normal.jpg)
  
-`User ScreenName:` rule_changes 
+`User ScreenName:` Whatchutalkinbo 
  
-`User chosen Name:` Rule_changes 
+`User chosen Name:` Whatchutalkinbout 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Aug 08 17:15:57 +0000 2021 
+`User signup date?:` Wed Aug 11 13:27:40 +0000 2021 
  
-`User Description?:` Mark Duggan, a 29-year-old British man, was shot and killed by police in Tottenham, North London on 4 August 2011. The Metropolitan Police stated that officers 
+`User Description?:` I'm just here for the free food 
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 40 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 33 
+`Number of tweets extracted`  : 81 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1425449014791659528/usqm9A65_normal.jpg 
  
-`Number of tweets excluding replies:` 33 
+`Number of tweets excluding replies:` 81 
  
 
  
@@ -192,15 +510,89 @@ Exploit attempt source…
  
 ## User Top tweeted words 
  
-**@ALANIS:** 5 , **LONDON** 4 , **NORTH** 4 , **YOURSELF** 3 , **TELEVISION** 3 , **EDITOR** 3 , **DUGGAN** 3 , **29-YEAR-OLD** 3 , **BRITISH** 3 , **MAN** 3 , **SHOT** 3 , **KILLED** 3 , **POLICE** 3 , **VINTAGE** 2 , **THEE** 2 , **WED?** 2 , **NOT?** 2 , **BIRMINGHAM** 2 , **UKMEDIA** 2 , **UKPOLITICS** 2 , 
+**@CNN** 18 , **@FOXNEWS** 12 , **@RUDYAMAYA1** 9 , **@JMINNGA** 6 , **SURE** 5 , **BIDEN** 4 , **FOLKS** 4 , **SHIT** 4 , **DON'T** 4 , **NEED** 4 , **@BROOKLYNSOWN1_** 4 , **WHITE** 3 , **PEOPLE** 3 , **KILLING** 3 , **PRETTY** 3 , **100%** 3 , **STUPID** 3 , **DUMB** 3 , **LOL** 3 , **@LIZ_WHEELER** 3 , 
  
 ## What this user tweeted
  
-@Shelter Joe says I #tweets for #years.
-but 
-I usually watch #television with #support #workers 
+@infosec_jcp @TheDailyShow white people every say "who cares"
+ 
+# abdok33227593USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` abdok33227593 
+ 
+`User chosen Name:` abdok 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 12 13:29:46 +0000 2021 
+ 
+`User Description?:` good 
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
 
-#blackguy… https://t.co/b4i8gLPzwz
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AUDIENS** 2 , **PRO** 2 , **DISCOUNT** 2 , **OFF** 2 , **~** 2 , **FACEBOOK** 1 , **EXTRACTOR** 1 , **PIXLEADS** 1 , **SIMPLE** 1 , **SPECIAL** 1 , **EDITION** 1 , **–** 1 , **30%** 1 , **DRFARFAR…** 1 , **HTTPS://TCO/XFZ1VZOTYWSOCINATOR** 1 , **DOMINATOR** 1 , **ENTERPRISE** 1 , **V100114** 1 , **FULL** 1 , **ACTIVATED** 1 , 
+ 
+## What this user tweeted
+ 
+Facebook Audiens Extractor Pro - PixLeads Pro - Simple Audiens Special Edition – Discount 30% OFF ~ Dr.FarFar… https://t.co/XFz1vZOtYwSocinator Dominator Enterprise v1.0.0.114 Full Activated - Discount 100% OFF ~ Dr.FarFar https://t.co/dmOOvQcUoJ… https://t.co/fNjLMvYpiz
+ 
+# wattsecurity1USER INFO
+![image](http://pbs.twimg.com/profile_images/1425390918081843205/0YtYoiJM_normal.jpg)
+ 
+`User ScreenName:` wattsecurity1 
+ 
+`User chosen Name:` wattsecurity 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Aug 11 08:54:30 +0000 2021 
+ 
+`User Description?:` CNI CSO/CISO. 
+ 
+`Followers?: `8 
+ 
+`Following?:` 123 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425390918081843205/0YtYoiJM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SHANSELMAN** 3 , **@MORONI_PHIL** 3 , **LAST** 2 , **PLEASE** 2 , **VISIBILITY** 2 , **RISK** 2 , **SON** 2 , **FRIEND** 2 , **I'LL** 2 , **HERE** 2 , **TOO** 2 , **REVERSE** 2 , **ANY** 2 , **@MATTTHEPLANET** 1 , **@BENGOERZ** 1 , **TIME** 1 , **INTERVIEWED** 1 , **SECURITY** 1 , **ARCHITECT** 1 , **WANTED** 1 , 
+ 
+## What this user tweeted
+ 
+@CisoDisabled Agreed. I'll add, risk translation. There seems to be a strong disconnect between the ability to unde… https://t.co/hquboxTrJM
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
