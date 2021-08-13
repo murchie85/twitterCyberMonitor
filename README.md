@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **itsJeffTiedrich**  
+The most popular user is: **fr0gger_**  
  
 
-## Rudy Giuliani could have quietly lived in the shadows and continued to rake in millions with his bogus cybersecurit… https://t.co/Vf61tHHq4P 
+## On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **itsJeffTiedrich**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @rvp: #RaviVisvesvarayaSharadaPrasad RT    cybersec_feeds  https://t.co/qGRdBL4llU  RT @MiriamAsensi: Explore a catalog of ready-to-use… |
-| RT @CDWGWAGov: Google expands Android Auto's beta testing program #privacy #redteam #google #video #amazon #100daysofcode #infosec #cyberse… |
-| RT @WajdiAlkayal: MACHINE LEARNING / COMPUTER VISION SENIOR ENGINEER#vacancy 🇱🇧#jobs#cybersecurity#ArtificialIntelligence #AI #DataScie… |
+| RT @bad_packets: Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to #ProxyShell (C… |
+| RT @RedPacketSec: City of Joplin paid a 320K ransom after a ransomware Attack - https://t.co/6UafQ7WPU0#Hacking #OSINT #Security #Threatin… |
+| RT @CyberIQs_: Detect #Pegasus #malware on #iOS for free using admin app iMazing | #macos | #macsecurity | #cybersecurity | #infosecurity |… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **throttlefix** |
-| #2 Most tweeted to  | **ingliguori** |
-| #3 Most tweeted to  | **42Sz40** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 1.72%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 0.91%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,139 +50,57 @@ The most popular user is: **itsJeffTiedrich**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AI**  |
-| second  | **@THROTTLEFIX:**  |
-| third  | **DATASCIENCE** |
-| fourth  | **MACHINELEARNING**  |
-| fifth  | **INFOSEC**  |
+| first  | **DARKWEB**  |
+| second  | **DATABREACHES**  |
+| third  | **CYBERSEC** |
+| fourth  | **INFOSEC**  |
+| fifth  | **RANSOMWARE**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (25.0%) & **NEGATIVELY-SUBJECTIVE** (8.33%) **OBJECTIVE** (66.67%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (71.43%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @throttlefix: Strong Botnet ? #DDOS #DOShttps://t.co/eyp0eSbT6Q#bigdata #ViVAtech2021#DEVCommunity #teChnOlOgy #Programming #AI #ii… |
+|RT @MISPProject: MISP 2.4.148 released including bugs fixed, some improvements and two security fixes CVE-2021-37742 and CVE-2021-37743. We… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **itsJeffTiedrich**  |
+| The most retweeted user is: **fr0gger_**  |
 | ------------- |
-| Rudy Giuliani could have quietly lived in the shadows and continued to rake in millions with his bogus cybersecurit… https://t.co/Vf61tHHq4P |
+| On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD |
 
 # Potential Fake Accounts
  
-# kriptomudraUSER INFO
-![image](http://pbs.twimg.com/profile_images/1424181558525796360/FT0-g4v2_normal.jpg)
+# BastionPodUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg)
  
-`User ScreenName:` kriptomudra 
+`User ScreenName:` BastionPod 
  
-`User chosen Name:` क्रिप्टो मुद्रा ⚡ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Aug 08 01:30:58 +0000 2021 
- 
-`User Description?:` Investor, trader & engineer
-crypto's agent
-crypto news in hinglish (mix of hindi & english)
-#HODL 
- 
-`Followers?: `1 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:` Universe 
- 
-`Number of tweets extracted`  : 27 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1424181558525796360/FT0-g4v2_normal.jpg 
- 
-`Number of tweets excluding replies:` 27 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BITCOIN** 14 , **CRYPTOCURRENCY** 4 , **CRYPTO** 4 , **CRYPTOCURRENCYNEWS** 4 , **?** 3 , **POLY** 3 , **CRYPTOCURRECY** 3 , **HACKER** 3 , **WALLET** 2 , **HACK** 2 , **PROOF** 2 , **NETWORK** 2 , **WHITE** 2 , **HAT** 2 , **ETHEREUM** 2 , **ORDER** 2 , **BELIEVE** 2 , **HODL** 2 , **BINANCE** 2 , **STOLEN** 2 , 
- 
-## What this user tweeted
- 
-Chinese cybersecurity firm, SlowMist, claimed that “the mailbox, IP and device fingerprint of the Poly Network atta… https://t.co/6mWYOFety1
- 
-# ArbitraryMnstrUSER INFO
-![image](http://pbs.twimg.com/profile_images/1424838593114107920/vXyoIjoq_normal.jpg)
- 
-`User ScreenName:` ArbitraryMnstr 
- 
-`User chosen Name:` ArbitraryMonster 
+`User chosen Name:` BastionPod 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Aug 08 20:16:38 +0000 2021 
+`User signup date?:` Wed Aug 11 15:53:08 +0000 2021 
  
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1424838593114107920/vXyoIjoq_normal.jpg 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LESS** 2 , **START** 1 , **YOUNG** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO/U9T6IU668S@CYBER_COX** 1 , **NEEDED** 1 , **READ** 1 , **TOOI** 1 , **NEVER** 1 , **DRUNK** 1 , **REFLECTING** 1 , **EXCESSIVE** 1 , **WHISKEY** 1 , **DEFCON** 1 , **MAKING** 1 , **INHIBITED** 1 , **SETTING** 1 , **PER…** 1 , **HTTPS://TCO/RHEO7GQRPR@TINKERFAIRY_NET** 1 , **@ITISJUSTJON@COLEENS_IS** 1 , 
- 
-## What this user tweeted
- 
-Start them young.
-#cybersecurity https://t.co/u9T6iU668S
- 
-# thecloud2030USER INFO
-![image](http://pbs.twimg.com/profile_images/1423684047532961800/acoJp1fd_normal.jpg)
- 
-`User ScreenName:` thecloud2030 
- 
-`User chosen Name:` Cloud2030 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Aug 06 16:19:56 +0000 2021 
- 
-`User Description?:` Talking the Future of Tech 
+`User Description?:` BastionPod is a cloud access platform enabling secure access to regulated applications, systems, and networks. 
  
 `Followers?: `0 
  
-`Following?:` 27 
+`Following?:` 9 
  
-`User URL?:` https://t.co/rAIcNjRVS0 
+`User URL?:` https://t.co/KMpuYjspa6 
  
 `Location:`  
  
-`Number of tweets extracted`  : 37 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1423684047532961800/acoJp1fd_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg 
  
-`Number of tweets excluding replies:` 37 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -190,40 +108,83 @@ Start them young.
  
 ## User Top tweeted words 
  
-**CLOUD2030** 22 , **@ZEHICLE** 12 , **CLOUD** 10 , **PODCAST** 7 , **@ZEHICLE:** 4 , **@MTHIELE10** 4 , **DISCUSSION** 4 , **JOIN** 4 , **INFRASTRUCTURE** 3 , **FUTURE** 3 , **LATEST** 3 , **EDGE** 3 , **@GROBERROCKY:** 3 , **FOLKS** 3 , **TALK** 3 , **EPISODE** 3 , **CTO** 3 , **AI** 3 , **@RACKNGO:** 3 , **US** 3 , 
+**THROUGH** 3 , **ACCEPT** 2 , **CARD** 2 , **PAYMENTS** 2 , **ORDERS?** 2 , **BUSINESS** 2 , **C…** 2 , **MAIL/TELEPHONE** 1 , **BASTIONPOD** 1 , **HELPS** 1 , **PROTECT** 1 , **CARDHOLDER** 1 , **DATA** 1 , **CUS…** 1 , **HTTPS://TCO/QQ5EBBNHYNRT** 1 , **@GIGASHEET:** 1 , **ENRICH** 1 , **2M** 1 , **ROW** 1 , **ZEEK** 1 , 
  
 ## What this user tweeted
  
-RT @tcrawford: @zehicle @mthiele10 @rhm2k @the_spinmd @parkercloud This creates a series of problems which we’ve already seen play out:
-
-1.…
+RT @gigasheet: How to enrich 2m row #Zeek log w/ .@GreyNoiseIO #threatintel:
+1. Upload conn.log to https://t.co/OFstKPMf3d (or zip first)
+2…
  
-# WWW_Bojacks_netUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425211274334441487/MDWeOrft_normal.jpg)
+# hypothe31012046USER INFO
+![image](http://pbs.twimg.com/profile_images/1423977835950133261/G4D_h4A5_normal.jpg)
  
-`User ScreenName:` WWW_Bojacks_net 
+`User ScreenName:` hypothe31012046 
  
-`User chosen Name:` Joshua 
+`User chosen Name:` Professor_Zero 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Aug 10 15:27:45 +0000 2021 
+`User signup date?:` Sat Aug 07 01:24:10 +0000 2021 
  
-`User Description?:` I am a webjunkie interestesd in coding, I also enjoy music and the holy things of Jehova, the Lord God. 
+`User Description?:` Bastard of tomorrow. Second order cybernetician, global macro investor, maker of tools. Busy creating crop circles and executing think-tank projects for the ⬠. 
+ 
+`Followers?: `26 
+ 
+`Following?:` 2595 
+ 
+`User URL?:` None 
+ 
+`Location:` unknown 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423977835950133261/G4D_h4A5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 773 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**US** 17 , **CHINA** 12 , **COVID-19** 11 , **NEW** 11 , **@AFP:** 10 , **@THENATLINTEREST:** 8 , **@REUTERSSCIENCE:** 8 , **CHINA'S** 7 , **NEXT** 7 , **PEOPLE** 7 , **@DEITAONE:** 7 , **AFTER** 7 , **FRIDAY** 7 , **TALIBAN** 7 , **ITS** 7 , **UNDER** 6 , **INTO** 6 , **AFGHANISTAN** 6 , **HEALTH** 6 , **THESE** 5 , 
+ 
+## What this user tweeted
+ 
+RT @bad_packets: Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to #ProxyShell (C…RT @bad_packets: Active DDoS malware payload detected:
+http://72.130.90.223:48785/Mozi.m
+(https://t.co/08bDZ7r3Fb)
+
+Exploit attempt source…
+ 
+# rule_changesUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` rule_changes 
+ 
+`User chosen Name:` Rule_changes 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Aug 08 17:15:57 +0000 2021 
+ 
+`User Description?:` Mark Duggan, a 29-year-old British man, was shot and killed by police in Tottenham, North London on 4 August 2011. The Metropolitan Police stated that officers 
  
 `Followers?: `0 
  
-`Following?:` 3 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 33 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1425211274334441487/MDWeOrft_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 33 
  
 
  
@@ -231,15 +192,15 @@ RT @tcrawford: @zehicle @mthiele10 @rhm2k @the_spinmd @parkercloud This creates 
  
 ## User Top tweeted words 
  
-**RT** 1 , **@WESABIO:** 1 , **WHICH** 1 , **PROGRAMMING** 1 , **LANGUAGE** 1 , **BEST** 1 , **LEARN?** 1 , **PHYTON** 1 , **JAVASCRIPT** 1 , **🤔** 1 , **?** 1 , **HTTPS://TCO/VKEYVQIGHO** 1 , **100DAYSOFCODE** 1 , **CODENEWBI…RT** 1 , **@KATERINAFERRARA:** 1 , **CODE** 1 , **TRUST** 1 , **⛓⛓⛓💻🖱** 1 , **THANKS** 1 , **BLOCKCHAINDEVELOPERS** 1 , 
+**@ALANIS:** 5 , **LONDON** 4 , **NORTH** 4 , **YOURSELF** 3 , **TELEVISION** 3 , **EDITOR** 3 , **DUGGAN** 3 , **29-YEAR-OLD** 3 , **BRITISH** 3 , **MAN** 3 , **SHOT** 3 , **KILLED** 3 , **POLICE** 3 , **VINTAGE** 2 , **THEE** 2 , **WED?** 2 , **NOT?** 2 , **BIRMINGHAM** 2 , **UKMEDIA** 2 , **UKPOLITICS** 2 , 
  
 ## What this user tweeted
  
-RT @KaterinaFerrara: In Code we Trust. ⛓⛓⛓💻🖱
-Thanks #blockchaindevelopers all around the world.
-#Bitcoinpower 
-#blockchainpower
-#btc #bitco…
+@Shelter Joe says I #tweets for #years.
+but 
+I usually watch #television with #support #workers 
+
+#blackguy… https://t.co/b4i8gLPzwz
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
