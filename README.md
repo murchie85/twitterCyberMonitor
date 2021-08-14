@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **reach2ratan**  
+The most popular user is: **fr0gger_**  
  
 
-## HONORED TO BE RANKED #5 in the @rightrelevance under #influencer:TOP Connector in #Cybersecurity… https://t.co/WM0NAvV99N 
+## On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **reach2ratan**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TechyGeeks1: 5 Warning Signs Only Enhanced IT Support Can Resolve |                     Table of Contents1. Loss Of Productivity2. Fre… |
-| RT @PrimeClasses_: Explore Our 100% Job Guarantee Programs by Prime Classes @ https://t.co/HLk8d1SsptCyber Security Glossary- Assurance e… |
-| The 4 Cybersecurity Practices To Seek in Insights Providers | Maru Group via @themarugroup https://t.co/EE4l4Kuj46 |
+| RT @javier_carriazo: How Companies Can Protect Themselves from Password Spraying Attacks #DataBreaches #DarkWeb #CyberSec #infosec #Securit… |
+| RT @CyberIQs_: #Mandiant tracks #Chinese espionage group #UNC215’s activity in #Israel #APT #threatdetection #threatintel #threatintelligen… |
+| RT @javier_carriazo: Credit-card-stealing, backdoored packages found in Python's PyPI library hub  #DataBreaches #DarkWeb #CyberSec #infose… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **throttlefix** |
-| #2 Most tweeted to  | **curveslive** |
-| #3 Most tweeted to  | **solidvpnproxy** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 0.94%|
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **javier_carriazo** |
+| #3 Most tweeted to  | **bad_packets** |
+| NewProfiles (less than 10 days) | 0.17%  |
+| Tweeters with < 10 followers  | 0.92%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,147 +50,57 @@ The most popular user is: **reach2ratan**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **/**  |
-| second  | **@THROTTLEFIX:**  |
-| third  | **BOT** |
-| fourth  | **JAVASCRIPT**  |
-| fifth  | **AI**  |
+| first  | **DARKWEB**  |
+| second  | **DATABREACHES**  |
+| third  | **CYBERSEC** |
+| fourth  | **INFOSEC**  |
+| fifth  | **@JINIBABD:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MannerofMan: The New Retail Order: #Reductivism #Transformation #Innovation #Matrix #Biometrics #Synchronicity #Privacy.#Refusal #Exper… |
+|Excited to meet this week's #aspireCreators during the weekly #AspireWalkthroughs starting at 7pm hosted on… https://t.co/bmQe1Duzn5 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **reach2ratan**  |
+| The most retweeted user is: **fr0gger_**  |
 | ------------- |
-| HONORED TO BE RANKED #5 in the @rightrelevance under #influencer:TOP Connector in #Cybersecurity… https://t.co/WM0NAvV99N |
+| On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD |
 
 # Potential Fake Accounts
  
-# devops_botUSER INFO
-![image](http://pbs.twimg.com/profile_images/1426628888776507393/GoXTMwa9_normal.jpg)
+# BastionPodUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg)
  
-`User ScreenName:` devops_bot 
+`User ScreenName:` BastionPod 
  
-`User chosen Name:` DevOps Bot 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Aug 12 10:23:38 +0000 2021 
- 
-`User Description?:` Bot | Admin @hrittikhere (hiring tech writers) 
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1426628888776507393/GoXTMwa9_normal.jpg 
- 
-`Number of tweets excluding replies:` 309 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KUBERNETES** 85 , **DEVOPS** 25 , **CONTAINER** 20 , **CLOUD** 16 , **ENGINEER** 16 , **NEW** 15 , **USING** 13 , **PROMETHEUS** 12 , **LEARN** 11 , **CHECK** 11 , **INFRASTRUCTURE** 11 , **CONTAINERS** 10 , **COMMUNITY** 9 , **DOCKER** 9 , **NODE** 8 , **BUILDING** 8 , **REMOTE** 8 , **DATASCIENCE** 7 , **AI** 7 , **ENGINE** 7 , 
- 
-## What this user tweeted
- 
-RT @Prashanth_NS: Check this out - How to Install Openshift Origin 3.11 OKD on #linux machine step by step available.
-
-https://t.co/ua6qMV2…RT @Prashanth_NS: Watch #video on how to use rook ceph storage on #Kubernetes
-
-https://t.co/fY2X1uR414
- 
-#Crypto #DevOps #DEVCommunity #Art…
- 
-# legalogyIndiaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1424023477271498764/4GxrncY4_normal.jpg)
- 
-`User ScreenName:` legalogyIndia 
- 
-`User chosen Name:` legalogyIndia 
+`User chosen Name:` BastionPod 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Aug 07 15:03:18 +0000 2021 
+`User signup date?:` Wed Aug 11 15:53:08 +0000 2021 
  
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1424023477271498764/4GxrncY4_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STAY** 1 , **PROVISION** 1 , **9(1)** 1 , **9(2)** 1 , **INFORMATION** 1 , **TECHNOLOGY** 1 , **(GUIDELINES** 1 , **INTERMEDIARIES** 1 , **DIGITAL** 1 , **MEDIA** 1 , **ETHICS** 1 , **C…** 1 , **HTTPS://TCO/XRECI9MU4SRT** 1 , **@GROSKILLS:** 1 , **VICTIM** 1 , **:** 1 , **JOKE** 1 , **YOU?** 1 , **😂😂** 1 , **CRYPTOCURRENCY** 1 , 
- 
-## What this user tweeted
- 
-RT @groskills: Victim be like : Am I a joke to you? 😂😂
-.
-.
-.
-.
-.
-#cryptocurrency #bitcoins #etherum #dogecoin #elonmusk #hacking #china #vi…
- 
-# Saif__alzhraniUSER INFO
-![image](http://pbs.twimg.com/profile_images/1426095043987877888/Qqo9h3R8_normal.jpg)
- 
-`User ScreenName:` Saif__alzhrani 
- 
-`User chosen Name:` S 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Aug 13 07:43:01 +0000 2021 
- 
-`User Description?:` !PREVIOUS ACCOUNT HAS BEEN LOCKED موطني عشت فخر المسلمين، عاش المليك للعلم والوطن 🇸🇦♥️ 
+`User Description?:` BastionPod is a cloud access platform enabling secure access to regulated applications, systems, and networks. 
  
 `Followers?: `0 
  
-`Following?:` 122 
+`Following?:` 9 
  
-`User URL?:` None 
+`User URL?:` https://t.co/KMpuYjspa6 
  
-`Location:` Jeddah 
+`Location:`  
  
-`Number of tweets extracted`  : 20 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1426095043987877888/Qqo9h3R8_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg 
  
-`Number of tweets excluding replies:` 20 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -198,11 +108,99 @@ RT @groskills: Victim be like : Am I a joke to you? 😂😂
  
 ## User Top tweeted words 
  
-**من** 4 , **في** 3 , **@HEJLESFACEBOOK:** 2 , **حياة** 2 , **اللهم** 2 , **مت** 2 , **و** 2 , **صورة** 2 , **@EHSANSA:** 2 , **اهدنا** 2 , **RT** 1 , **@ISA_INTERCHANGE:** 1 , **ISA** 1 , **GLOBAL** 1 , **CYBERSECURITY** 1 , **ALLIANCE** 1 , **RECENTLY** 1 , **RELEASED** 1 , **PUBLIC** 1 , **POSITION** 1 , 
+**THROUGH** 3 , **ACCEPT** 2 , **CARD** 2 , **PAYMENTS** 2 , **ORDERS?** 2 , **BUSINESS** 2 , **C…** 2 , **MAIL/TELEPHONE** 1 , **BASTIONPOD** 1 , **HELPS** 1 , **PROTECT** 1 , **CARDHOLDER** 1 , **DATA** 1 , **CUS…** 1 , **HTTPS://TCO/QQ5EBBNHYNRT** 1 , **@GIGASHEET:** 1 , **ENRICH** 1 , **2M** 1 , **ROW** 1 , **ZEEK** 1 , 
  
 ## What this user tweeted
  
-RT @ISA_Interchange: The ISA Global Cybersecurity Alliance recently released a public position paper that describes the policies and associ…
+RT @gigasheet: How to enrich 2m row #Zeek log w/ .@GreyNoiseIO #threatintel:
+1. Upload conn.log to https://t.co/OFstKPMf3d (or zip first)
+2…
+ 
+# hypothe31012046USER INFO
+![image](http://pbs.twimg.com/profile_images/1423977835950133261/G4D_h4A5_normal.jpg)
+ 
+`User ScreenName:` hypothe31012046 
+ 
+`User chosen Name:` Professor_Zero 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Aug 07 01:24:10 +0000 2021 
+ 
+`User Description?:` Bastard of tomorrow. Second order cybernetician, global macro investor, maker of tools. Busy creating crop circles and executing think-tank projects for the ⬠. 
+ 
+`Followers?: `29 
+ 
+`Following?:` 2949 
+ 
+`User URL?:` None 
+ 
+`Location:` unknown 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1423977835950133261/G4D_h4A5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 841 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**US** 19 , **NEW** 14 , **TALIBAN** 10 , **COVID-19** 10 , **AFTER** 9 , **AFGHANISTAN** 8 , **COULD** 7 , **UNDER** 6 , **THAN** 6 , **A…RT** 6 , **VACCINE** 6 , **FRIDAY** 6 , **HEALTH** 6 , **NEXT** 6 , **TROOPS** 5 , **@REUTERS:** 5 , **KABUL** 5 , **MOST** 5 , **ITS** 5 , **DATA** 5 , 
+ 
+## What this user tweeted
+ 
+RT @bad_packets: Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to #ProxyShell (C…RT @bad_packets: Active DDoS malware payload detected:
+http://72.130.90.223:48785/Mozi.m
+(https://t.co/08bDZ7r3Fb)
+
+Exploit attempt source…
+ 
+# rule_changesUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` rule_changes 
+ 
+`User chosen Name:` Rule_changes 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Aug 08 17:15:57 +0000 2021 
+ 
+`User Description?:` Mark Duggan, a 29-year-old British man, was shot and killed by police in Tottenham, North London on 4 August 2011. The Metropolitan Police stated that officers 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 33 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 33 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ALANIS:** 5 , **LONDON** 4 , **NORTH** 4 , **YOURSELF** 3 , **TELEVISION** 3 , **EDITOR** 3 , **DUGGAN** 3 , **29-YEAR-OLD** 3 , **BRITISH** 3 , **MAN** 3 , **SHOT** 3 , **KILLED** 3 , **POLICE** 3 , **VINTAGE** 2 , **THEE** 2 , **WED?** 2 , **NOT?** 2 , **BIRMINGHAM** 2 , **UKMEDIA** 2 , **UKPOLITICS** 2 , 
+ 
+## What this user tweeted
+ 
+@Shelter Joe says I #tweets for #years.
+but 
+I usually watch #television with #support #workers 
+
+#blackguy… https://t.co/b4i8gLPzwz
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
