@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **fr0gger_**  
+The most popular user is: **briantylercohen**  
  
 
-## On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD 
+## Zero - ZERO - pediatric ICU beds left in Texas. Guess being “pro-life” is easier in platitudes than practice. 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **fr0gger_**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @javier_carriazo: How Companies Can Protect Themselves from Password Spraying Attacks #DataBreaches #DarkWeb #CyberSec #infosec #Securit… |
-| RT @CyberIQs_: #Mandiant tracks #Chinese espionage group #UNC215’s activity in #Israel #APT #threatdetection #threatintel #threatintelligen… |
-| RT @javier_carriazo: Credit-card-stealing, backdoored packages found in Python's PyPI library hub  #DataBreaches #DarkWeb #CyberSec #infose… |
+| @chrismessina @sreekotay @MacRumors Tbh I don't have the expertise to judge, I onlya read from more authoritative p… https://t.co/PbcTmXmMu2 |
+| @AlyssaM_InfoSec @0DDJ0BB Ya beat me to it! Was thinking the same thing🤣🤣 |
+| RT @TheHackersNews: Why Is There A Surge In Ransomware Attacks?Read: https://t.co/MWV4myDdse#infosec |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.17%  |
-| Tweeters with < 10 followers  | 0.92%|
+| #1 Most tweeted to  | **TeamPatriot007** |
+| #2 Most tweeted to  | **AlyssaM_InfoSec** |
+| #3 Most tweeted to  | **programmerjoke9** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 1.92%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,98 +50,57 @@ The most popular user is: **fr0gger_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DARKWEB**  |
-| second  | **DATABREACHES**  |
-| third  | **CYBERSEC** |
-| fourth  | **INFOSEC**  |
-| fifth  | **@JINIBABD:**  |
+| first  | **INFOSEC**  |
+| second  | **HACKING**  |
+| third  | **100DAYSOFCODE** |
+| fourth  | **PROGRAMMING**  |
+| fifth  | **BUGBOUNTY**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Excited to meet this week's #aspireCreators during the weekly #AspireWalkthroughs starting at 7pm hosted on… https://t.co/bmQe1Duzn5 |
+|@AlyssaM_InfoSec .....what if you needed that to pay bills......wtf |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fr0gger_**  |
+| The most retweeted user is: **briantylercohen**  |
 | ------------- |
-| On @VirusTotal there is an interesting feature to look for malware similarities: "main_dhash_icon". I have coded a… https://t.co/ttol6rNzrD |
+| Zero - ZERO - pediatric ICU beds left in Texas. Guess being “pro-life” is easier in platitudes than practice. |
 
 # Potential Fake Accounts
  
-# BastionPodUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg)
+# wattsecurity1USER INFO
+![image](http://pbs.twimg.com/profile_images/1425390918081843205/0YtYoiJM_normal.jpg)
  
-`User ScreenName:` BastionPod 
+`User ScreenName:` wattsecurity1 
  
-`User chosen Name:` BastionPod 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Aug 11 15:53:08 +0000 2021 
- 
-`User Description?:` BastionPod is a cloud access platform enabling secure access to regulated applications, systems, and networks. 
- 
-`Followers?: `0 
- 
-`Following?:` 9 
- 
-`User URL?:` https://t.co/KMpuYjspa6 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**THROUGH** 3 , **ACCEPT** 2 , **CARD** 2 , **PAYMENTS** 2 , **ORDERS?** 2 , **BUSINESS** 2 , **C…** 2 , **MAIL/TELEPHONE** 1 , **BASTIONPOD** 1 , **HELPS** 1 , **PROTECT** 1 , **CARDHOLDER** 1 , **DATA** 1 , **CUS…** 1 , **HTTPS://TCO/QQ5EBBNHYNRT** 1 , **@GIGASHEET:** 1 , **ENRICH** 1 , **2M** 1 , **ROW** 1 , **ZEEK** 1 , 
- 
-## What this user tweeted
- 
-RT @gigasheet: How to enrich 2m row #Zeek log w/ .@GreyNoiseIO #threatintel:
-1. Upload conn.log to https://t.co/OFstKPMf3d (or zip first)
-2…
- 
-# hypothe31012046USER INFO
-![image](http://pbs.twimg.com/profile_images/1423977835950133261/G4D_h4A5_normal.jpg)
- 
-`User ScreenName:` hypothe31012046 
- 
-`User chosen Name:` Professor_Zero 
+`User chosen Name:` wattsecurity 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Aug 07 01:24:10 +0000 2021 
+`User signup date?:` Wed Aug 11 08:54:30 +0000 2021 
  
-`User Description?:` Bastard of tomorrow. Second order cybernetician, global macro investor, maker of tools. Busy creating crop circles and executing think-tank projects for the ⬠. 
+`User Description?:` CNI CSO/CISO. 
  
-`Followers?: `29 
+`Followers?: `9 
  
-`Following?:` 2949 
+`Following?:` 133 
  
 `User URL?:` None 
  
-`Location:` unknown 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 39 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1423977835950133261/G4D_h4A5_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1425390918081843205/0YtYoiJM_normal.jpg 
  
-`Number of tweets excluding replies:` 841 
+`Number of tweets excluding replies:` 39 
  
 
  
@@ -149,28 +108,267 @@ RT @gigasheet: How to enrich 2m row #Zeek log w/ .@GreyNoiseIO #threatintel:
  
 ## User Top tweeted words 
  
-**US** 19 , **NEW** 14 , **TALIBAN** 10 , **COVID-19** 10 , **AFTER** 9 , **AFGHANISTAN** 8 , **COULD** 7 , **UNDER** 6 , **THAN** 6 , **A…RT** 6 , **VACCINE** 6 , **FRIDAY** 6 , **HEALTH** 6 , **NEXT** 6 , **TROOPS** 5 , **@REUTERS:** 5 , **KABUL** 5 , **MOST** 5 , **ITS** 5 , **DATA** 5 , 
+**I'LL** 4 , **RISK** 3 , **AWARENESS** 3 , **WORK** 3 , **@SHANSELMAN** 3 , **@MORONI_PHIL** 3 , **GOOD** 2 , **MAKE** 2 , **BUSINESS** 2 , **1** 2 , **LARGE** 2 , **FORCES** 2 , **TIME** 2 , **DIFFERENT** 2 , **MONEY** 2 , **SECURITY** 2 , **MINE** 2 , **DIDN'T** 2 , **THERE'S** 2 , **COVID** 2 , 
  
 ## What this user tweeted
  
-RT @bad_packets: Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to #ProxyShell (C…RT @bad_packets: Active DDoS malware payload detected:
-http://72.130.90.223:48785/Mozi.m
-(https://t.co/08bDZ7r3Fb)
-
-Exploit attempt source…
+You will experience resistance because the business takes priority. Treat infosec awareness like H&amp;S awareness, it… https://t.co/gQOiEME9P6
  
-# rule_changesUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# jennifer13447USER INFO
+![image](http://pbs.twimg.com/profile_images/1424571057722195972/rUurTAxS_normal.jpg)
  
-`User ScreenName:` rule_changes 
+`User ScreenName:` jennifer13447 
  
-`User chosen Name:` Rule_changes 
+`User chosen Name:` jenniferamerica 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Aug 08 17:15:57 +0000 2021 
+`User signup date?:` Mon Aug 09 03:19:29 +0000 2021 
  
-`User Description?:` Mark Duggan, a 29-year-old British man, was shot and killed by police in Tottenham, North London on 4 August 2011. The Metropolitan Police stated that officers 
+`User Description?:` horse lover, barrel racer. only here for the GOAT, President Trump💯❤👍🇺🇲 #MAGA #PresidentTrumpWillAlwaysBeMyPresident #WomenForTrump 
+NO DM'S 
+ 
+`Followers?: `238 
+ 
+`Following?:` 2016 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1424571057722195972/rUurTAxS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4138 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JACKPOSOBIEC** 25 , **@JENNIFER13447:** 19 , **BIDEN** 18 , **PEOPLE** 12 , **AFGHANISTAN** 9 , **PRESIDENT** 9 , **US** 8 , **TIME** 8 , **TRUMP** 7 , **SAY** 7 , **TALIBAN** 7 , **@JOEBIDEN** 6 , **ELECTION** 6 , **GOT** 5 , **GOVERNMENT** 5 , **ANY** 5 , **DON'T** 5 , **@CHUCKCALLESTO** 5 , **SAYING** 5 , **OBAMA** 5 , 
+ 
+## What this user tweeted
+ 
+RT @WilhelmDerErste: I hate the antichrist but isn't broadcasting military troop deployments on a public platform just dumb? This just seem…
+ 
+# devops_botUSER INFO
+![image](http://pbs.twimg.com/profile_images/1426628888776507393/GoXTMwa9_normal.jpg)
+ 
+`User ScreenName:` devops_bot 
+ 
+`User chosen Name:` DevOps Bot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 12 10:23:38 +0000 2021 
+ 
+`User Description?:` Bot | Admin @hrittikhere (hiring tech writers) 
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1426628888776507393/GoXTMwa9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 309 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**KUBERNETES** 85 , **DEVOPS** 25 , **CONTAINER** 20 , **CLOUD** 16 , **ENGINEER** 16 , **NEW** 15 , **USING** 13 , **PROMETHEUS** 12 , **LEARN** 11 , **CHECK** 11 , **INFRASTRUCTURE** 11 , **CONTAINERS** 10 , **COMMUNITY** 9 , **DOCKER** 9 , **NODE** 8 , **BUILDING** 8 , **REMOTE** 8 , **DATASCIENCE** 7 , **AI** 7 , **ENGINE** 7 , 
+ 
+## What this user tweeted
+ 
+RT @solublecloud: iacbot automates tests and policy control in CI/CD so incorrect or out-of-policy infrastructure as code (#IaC - #Terrafor…RT @solubleai: If you're using infrastructure as code (#iac #terraform #cloudformation #kubernetes), iacbot finds security issues and gives…RT @Prashanth_NS: Watch #video on how to use rook ceph storage on #Kubernetes
+
+https://t.co/fY2X1uR414
+ 
+#Crypto #DevOps #DEVCommunity #Art…
+ 
+# EF3X0SUSER INFO
+![image](http://pbs.twimg.com/profile_images/1424082058649894915/jkfKe--A_normal.jpg)
+ 
+`User ScreenName:` EF3X0S 
+ 
+`User chosen Name:` arandomguy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Aug 06 13:40:45 +0000 2021 
+ 
+`User Description?:` Just a random nerd | 
+Geek  |
+move all your problems to /dev/null |  
+🇮🇳 
+ 
+`Followers?: `5 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1424082058649894915/jkfKe--A_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**:)** 2 , **INFOSEC** 2 , **STARTED** 2 , **@MOJO1094** 1 , **@NAGASAINIKHIL** 1 , **:)WHAT** 1 , **LATEST** 1 , **TECHNIQUES** 1 , **EVADE** 1 , **AVS** 1 , **?** 1 , **HACKING** 1 , **EVASION@RBHICHHER** 1 , **CAN'T** 1 , **RELATE** 1 , **ANYMORE** 1 , **:)@BL4CKNOTE** 1 , **BOOT2ROOT** 1 , **:)@NAGASAINIKHIL** 1 , **CANNOT** 1 , 
+ 
+## What this user tweeted
+ 
+What are the latest techniques to evade AVs ? :)
+#infosec #hacking #evasion
+ 
+# AidRequestUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425152991745789954/I4zkJ-I8_normal.jpg)
+ 
+`User ScreenName:` AidRequest 
+ 
+`User chosen Name:` M.A.R 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 10 17:28:30 +0000 2021 
+ 
+`User Description?:` Attempting to survive. God/Freedom 
+ 
+`Followers?: `19 
+ 
+`Following?:` 193 
+ 
+`User URL?:` https://t.co/8fLB0lQSzd 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425152991745789954/I4zkJ-I8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 228 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PLEASE** 42 , **HELP** 35 , **NEED** 31 , **@ESCA9E66:** 20 , **@QUEER_SURVIVOR:** 20 , **CAR** 14 , **➡️** 14 , **I'M** 13 , **PLS** 13 , **SUPPORT** 13 , **FUNDS** 13 , **GOAL** 12 , **THANK** 12 , **STILL** 12 , **MONEY** 11 , **FOOD** 11 , **ANYONE** 10 , **DONATE** 10 , **WEEK** 10 , **SEND** 9 , 
+ 
+## What this user tweeted
+ 
+RT @afrolesbo: ppl who do the challenges with posting their baby pictures on twt make me so nervous bc y'all have no concept of infosec why…
+ 
+# Robot_AssistUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425864362737209347/G-mkZR_5_normal.jpg)
+ 
+`User ScreenName:` Robot_Assist 
+ 
+`User chosen Name:` Robot Assistant 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 12 16:45:28 +0000 2021 
+ 
+`User Description?:` Do you make the same report on a regular basis? Buy a robot to do it for you! 
+ 
+`Followers?: `2 
+ 
+`Following?:` 24 
+ 
+`User URL?:` https://t.co/FRl6FZQaEN 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425864362737209347/G-mkZR_5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ROBOT** 3 , **LOOKING** 2 , **ASSISTANT!** 2 , **MAKE** 2 , **RT** 1 , **@PROGRAMMERJOKE9:** 1 , **GUYS** 1 , **HELP** 1 , **CAN’T** 1 , **FIGURE** 1 , **LEAVE** 1 , **RESTAURANT** 1 , **HTTPS://TCO/HMMM6SFJYJ** 1 , **100DAYSOFCODE** 1 , **JAVASCRIPT** 1 , **PROGRAM…STILL** 1 , **TESTERS** 1 , **SAME** 1 , **SPREADSHEET** 1 , **ROUTINE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @programmerjoke9: Guys help, I can’t figure out how to leave this restaurant https://t.co/hmMm6Sfjyj #100Daysofcode #javascript #program…
+ 
+# AmbGerardUNSGCUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425402147714314241/_SK59P4z_normal.png)
+ 
+`User ScreenName:` AmbGerardUNSGC 
+ 
+`User chosen Name:` GERARD NSENGIYUMVA 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Aug 08 05:56:02 +0000 2021 
+ 
+`User Description?:` The Best @UN' Secretary-General Candidate After @antonioguterres (Dec. 2026). @GNsengiyumva...High Professional. Specialist In: 2. United Nations, 1. Marketing. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 87 
+ 
+`User URL?:` https://t.co/qXBayPYed6 
+ 
+`Location:` The Republic of Rwanda. Space. 
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425402147714314241/_SK59P4z_normal.png 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GNSENGIYUMVA:** 3 , **@ANTONIOGUTERRES** 2 , **OHCHR** 2 , **TOOL** 2 , **ITCILO** 2 , **HUMAN** 2 , **2021** 2 , **PANDEMIC** 2 , **@VBIRUTA** 2 , **8** 2 , **TRAINING!-KUVA** 1 , **NAVA** 1 , **MU** 1 , **BUTARIYANI!-IT** 1 , **LOOKS** 1 , **HANDOVER** 1 , **EXERCISE** 1 , **BETWEEN** 1 , **I!** 1 , **THANKS…** 1 , 
+ 
+## What this user tweeted
+ 
+What A #Training!-Kuva nava mu Butariyani!-It Looks Like A Handover Exercise Between @antonioguterres and I! Thanks… https://t.co/k38LID8eRx
+ 
+# AchrafRadi13USER INFO
+![image](http://pbs.twimg.com/profile_images/1426132936793919491/j8Gdk9cU_normal.png)
+ 
+`User ScreenName:` AchrafRadi13 
+ 
+`User chosen Name:` Achraf Radi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Aug 13 10:46:02 +0000 2021 
+ 
+`User Description?:`  
  
 `Followers?: `0 
  
@@ -180,11 +378,11 @@ Exploit attempt source…
  
 `Location:`  
  
-`Number of tweets extracted`  : 33 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1426132936793919491/j8Gdk9cU_normal.png 
  
-`Number of tweets excluding replies:` 33 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -192,15 +390,11 @@ Exploit attempt source…
  
 ## User Top tweeted words 
  
-**@ALANIS:** 5 , **LONDON** 4 , **NORTH** 4 , **YOURSELF** 3 , **TELEVISION** 3 , **EDITOR** 3 , **DUGGAN** 3 , **29-YEAR-OLD** 3 , **BRITISH** 3 , **MAN** 3 , **SHOT** 3 , **KILLED** 3 , **POLICE** 3 , **VINTAGE** 2 , **THEE** 2 , **WED?** 2 , **NOT?** 2 , **BIRMINGHAM** 2 , **UKMEDIA** 2 , **UKPOLITICS** 2 , 
+**FULL** 3 , **ACTIVATED** 3 , **DISCOUNT** 3 , **100%** 3 , **~** 3 , **OFF** 2 , **NINJATOK** 1 , **V1312** 1 , **UNLIMITED** 1 , **TIKTOK** 1 , **ACCOUNTS** 1 , **PAGE** 1 , **2** 1 , **24** 1 , **DRFARFAR…** 1 , **HTTPS://TCO/QRW7QEFVLSAUTLAND** 1 , **SUITE** 1 , **MICROSOCIAL** 1 , **V2130** 1 , **SOCIAL** 1 , 
  
 ## What this user tweeted
  
-@Shelter Joe says I #tweets for #years.
-but 
-I usually watch #television with #support #workers 
-
-#blackguy… https://t.co/b4i8gLPzwz
+NinjaTok v1.3.1.2 Full Activated - Unlimited TikTok Accounts - Discount 100% OFF ~ Page 2 of 24 ~ Dr.FarFar… https://t.co/qrw7qeFvLs
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
