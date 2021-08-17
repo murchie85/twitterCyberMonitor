@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **bad_packets**  
+The most popular user is: **LauraEdelson2**  
  
 
-## Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to… https://t.co/m1tKuL4aya 
+## This evening, Facebook suspended my Facebook account and the accounts of several people associated with Cybersecuri… https://t.co/V19wZcLskf 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **bad_packets**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bad_packets: Top 10 Countries – August 15, 2021Active unique DDoS malware hosts detected:🇨🇳 China: 520🇺🇸 United States: 319🇹🇼 Taiwa… |
-| RT @JinibaBD: #wtf 😮😮 Hackers Spotted Using Morse Code in Phishing Attacks to Evade Detection  #DataBreaches #DarkWeb #CyberSec #infosec #S… |
-| RT @JinibaBD: 👏👏Risky business: Steps for building an effective GRC program #DataBreaches #DarkWeb #CyberSec #infosec #Security #cybercrime… |
+| RT @buypvaaccount12: 👉Buy Tinder PVA Accounts Buy Now:-https://t.co/dV3DYhoIuX#buypva  #tinder #tinderaccount #node #nodejs #coding #js… |
+| “Bring who you are to what you do.”That's the advice Microsoft security lead Ann Johnson has to offer women in cybe… https://t.co/nCAD4zxtlU |
+| Amid Space Race, Cybersecurity And Resiliency Remain Concerns: Experts - tens of thousands of new assets launched w… https://t.co/21hQoxsl2R |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 0.91%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **throttlefix** |
+| #2 Most tweeted to  | **TeamPatriot007** |
+| #3 Most tweeted to  | **WajdiAlkayal** |
+| NewProfiles (less than 10 days) | 0.14%  |
+| Tweeters with < 10 followers  | 1.46%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -50,58 +50,57 @@ The most popular user is: **bad_packets**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DARKWEB**  |
-| second  | **INFOSEC**  |
-| third  | **DATABREACHES** |
-| fourth  | **CYBERSEC**  |
-| fifth  | **@JINIBABD:**  |
+| first  | **AI**  |
+| second  | **MACHINELEARNING**  |
+| third  | **DATASCIENCE** |
+| fourth  | **DATA**  |
+| fifth  | **GITHUB**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JinibaBD: Microsoft Warns Of Reinvigorated BazarLoader #Ransomware Campaign Via #Email #DataBreaches #DarkWeb #CyberSec #infosec #Secur… |
+|RT @Wajdialkayal1: Node.js Event Emitter#ArtificialIntelligence #DigitalMarketing#cybersecurity#AI #DataScience #MachineLearning #BigDa… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bad_packets**  |
+| The most retweeted user is: **LauraEdelson2**  |
 | ------------- |
-| Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to… https://t.co/m1tKuL4aya |
+| This evening, Facebook suspended my Facebook account and the accounts of several people associated with Cybersecuri… https://t.co/V19wZcLskf |
 
 # Potential Fake Accounts
  
-# ThreatInterviewUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425191020548005889/TeRqfpVM_normal.jpg)
+# S_KnightCryptoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1427575996362891269/Pv3eMXdZ_normal.jpg)
  
-`User ScreenName:` ThreatInterview 
+`User ScreenName:` S_KnightCrypto 
  
-`User chosen Name:` Ransomware Interviews 
+`User chosen Name:` Suge Knight Crypto ⚔️ 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Aug 10 14:07:05 +0000 2021 
+`User signup date?:` Tue Aug 17 10:05:49 +0000 2021 
  
-`User Description?:` Hello! Here you will find news about my recent project: the "Ransomware Interviews".
-I will try to interview as many APT, Ransomware Groups and similar as I can 
+`User Description?:` #BTC #Crypto #Altcoins #NFT 
  
-`Followers?: `36 
+`Followers?: `20 
  
-`Following?:` 0 
+`Following?:` 84 
  
-`User URL?:` https://t.co/5T4J6IokJc 
+`User URL?:` None 
  
-`Location:` In the middle of 127.0.0.1 
+`Location:`  
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 14 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1425191020548005889/TeRqfpVM_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1427575996362891269/Pv3eMXdZ_normal.jpg 
  
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 14 
  
 
  
@@ -109,38 +108,118 @@ I will try to interview as many APT, Ransomware Groups and similar as I can
  
 ## User Top tweeted words 
  
-**LOCKBIT** 4 , **RANSOMWARE** 3 , **SHARED** 3 , **ONION** 3 , **ACCENTURE** 3 , **NEW** 2 , **BLOG** 2 , **SCREEN** 2 , **ITS** 2 , **COUNTDOWN** 2 , **NIGHT** 2 , **PYSA** 1 , **GROUPS** 1 , **STRIKES** 1 , **BACK** 1 , **AFTER** 1 , **FEW** 1 , **MONTHS** 1 , **INACTIVITY** 1 , **VICTIM** 1 , 
+**@FUSIONPROTOCOL** 4 , **$FSN** 4 , **@FINANCECHAINGE** 4 , **@FUSIONFSN:** 3 , **APP** 3 , **$CHNG** 3 , **👀** 2 , **🚨** 2 , **$FSNRT** 2 , **@FSN_GUERRILLA:** 2 , **@COINBUREAU** 2 , **🕵CHECK** 2 , **GOING** 2 , **CHAINGEFINANCE** 2 , **TRUELY** 2 , **REVOLUTIONARY** 2 , **FIAT** 2 , **@DIGIDIVER1:** 2 , **TECHNOLOGY** 2 , **BANKING** 2 , 
  
 ## What this user tweeted
  
-#Pysa #ransomware groups strikes back after a few months of inactivity with a new victim and a "coming soon".
-A new… https://t.co/uNapwIoaOKA possible threat actor is looking for "peoples to join partner program" and domain admin access.
-This is possibly… https://t.co/Xo4OBtMGbh
+RT @Digidiver1: https://t.co/qOBozRS3Be
+
+$FSN #FSN #FUSIONProtocol  $CHNG #fintech #finserv #technology #banking #cybersecurity #finance #b…
  
-# BastionPodUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg)
+# franci2_mayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1426902070611697665/JoK_9kgO_normal.jpg)
  
-`User ScreenName:` BastionPod 
+`User ScreenName:` franci2_may 
  
-`User chosen Name:` BastionPod 
+`User chosen Name:` miming😘 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Aug 11 15:53:08 +0000 2021 
+`User signup date?:` Sun Aug 15 13:39:46 +0000 2021 
  
-`User Description?:` BastionPod is a cloud access platform enabling secure access to regulated applications, systems, and networks. 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 140 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1426902070611697665/JoK_9kgO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 267 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**+** 80 , **FOLLOW** 58 , **RT** 47 , **IDR** 39 , **||** 36 , **RETWEET** 34 , **HOURS** 27 , **GIVEAWAY** 22 , **@KIMIPROMOTES:** 19 , **$100** 19 , **✅** 19 , **📌** 17 , **@SEREINGIVES:** 17 , **24** 16 , **-RT** 15 , **@GIVEAWAYHOST:** 12 , **📌RT** 11 , **ENDS** 11 , **-RETWEET** 10 , **6** 10 , 
+ 
+## What this user tweeted
+ 
+RT @EthJasper: 🎖️Got some insane news for you guys!
+👉 After 6 months of waiting @beyondprotocol1 announced their launch date!
+🚀 #BeyondProt…
+ 
+# TradetipStocksUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` TradetipStocks 
+ 
+`User chosen Name:` Paul Mihail Cosma 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 10 14:08:51 +0000 2021 
+ 
+`User Description?:` TradetipCharts its a small EOD charting application for stocks that uses text files. If you have stock data in text files you can use TradetipCharts, its free. 
+ 
+`Followers?: `9 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 108 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 108 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROGRAM** 17 , **ITS** 11 , **STOCK** 10 , **USE** 10 , **CHARTS** 10 , **WELL** 9 , **GOT** 8 , **CHART** 8 , **FREE** 8 , **VIA** 8 , **BITCOIN** 7 , **TRADETIPCHARTS** 7 , **SIMPLE** 6 , **SOME** 6 , **STOCKS** 6 , **FILES** 5 , **THAN** 5 , **DRAW** 5 , **WORKSHEET** 5 , **MARKET** 5 , 
+ 
+## What this user tweeted
+ 
+RT @Reuters: Apple files appeal notice in copyright lawsuit against cybersecurity firm https://t.co/FZaZLsjExJ https://t.co/RidRqElX8H
+ 
+# MaryCa_CUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` MaryCa_C 
+ 
+`User chosen Name:` Mary 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 17 14:24:38 +0000 2021 
+ 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 9 
+`Following?:` 1 
  
-`User URL?:` https://t.co/KMpuYjspa6 
+`User URL?:` None 
  
 `Location:`  
  
 `Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
 `Number of tweets excluding replies:` 5 
  
@@ -150,13 +229,128 @@ This is possibly… https://t.co/Xo4OBtMGbh
  
 ## User Top tweeted words 
  
-**THROUGH** 3 , **ACCEPT** 2 , **CARD** 2 , **PAYMENTS** 2 , **ORDERS?** 2 , **BUSINESS** 2 , **C…** 2 , **MAIL/TELEPHONE** 1 , **BASTIONPOD** 1 , **HELPS** 1 , **PROTECT** 1 , **CARDHOLDER** 1 , **DATA** 1 , **CUS…** 1 , **HTTPS://TCO/QQ5EBBNHYNRT** 1 , **@GIGASHEET:** 1 , **ENRICH** 1 , **2M** 1 , **ROW** 1 , **ZEEK** 1 , 
+**@AIRBNB** 2 , **FLAT** 2 , **HACKED** 2 , **@SABDULMUHIZ** 1 , **@VANILLACORAL** 1 , **THANKS** 1 , **!** 1 , **OTHER** 1 , **SCALE:** 1 , **ACCESSED** 1 , **TH…** 1 , **HTTPS://TCO/B53NDRHPIL@AIRBNBHOSTHELP** 1 , **@AIRBNBHELLTHANKS** 1 , **PROVIDING** 1 , **£25** 1 , **VOUCHER** 1 , **COMPENSATE** 1 , **BEING** 1 , **BOOKED** 1 , **ACCOUNT&AMP;** 1 , 
  
 ## What this user tweeted
  
-RT @gigasheet: How to enrich 2m row #Zeek log w/ .@GreyNoiseIO #threatintel:
-1. Upload conn.log to https://t.co/OFstKPMf3d (or zip first)
-2…
+Thanks @Airbnb for providing a £25 voucher to compensate for my flat being booked from a hacked account&amp; having to… https://t.co/QFYWEnhfbe
+ 
+# TheDeepStickUSER INFO
+![image](http://pbs.twimg.com/profile_images/1427162475326234625/3AYxri4o_normal.jpg)
+ 
+`User ScreenName:` TheDeepStick 
+ 
+`User chosen Name:` The Deep Stick 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Aug 16 06:56:40 +0000 2021 
+ 
+`User Description?:` We are Deeper than the State... #TheDeepStick 
+ 
+`Followers?: `0 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:` Ankara, Türkiye 
+ 
+`Number of tweets extracted`  : 15 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1427162475326234625/3AYxri4o_normal.jpg 
+ 
+`Number of tweets excluding replies:` 15 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LAWYERS** 3 , **CYBER** 3 , **MALWARE** 3 , **CYBERSECURITY** 3 , **PEGASUS** 3 , **16** 2 , **ALLOWED** 2 , **OPEN** 2 , **COURT** 2 , **EXPERTS** 2 , **ACCOUNTS** 2 , **ATTACKS** 2 , **HACK** 2 , **NEW** 2 , **PRESIDENT** 2 , **RT** 1 , **@NTVKENYA:** 1 , **BBI** 1 , **APPEAL** 1 , **RULING:** 1 , 
+ 
+## What this user tweeted
+ 
+The US-RUSSIA cold war definitely didn't end. It justed morphed into the most brutal and sophisticated #cyber warfa… https://t.co/a1a0R6PmjP
+ 
+# love4kammyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1427716831129882628/bZHlbsNH_normal.jpg)
+ 
+`User ScreenName:` love4kammy 
+ 
+`User chosen Name:` love4kammy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 17 19:18:41 +0000 2021 
+ 
+`User Description?:` Fanpage | supporting @VP Kamala Devi Harris.             #KHive| “Dream with ambition, lead with conviction.” 
+ 
+`Followers?: `8 
+ 
+`Following?:` 29 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1427716831129882628/bZHlbsNH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PRESIDENT** 4 , **@VP** 3 , **BATTLE** 2 , **RT** 1 , **@KAMALAHARRIS:** 1 , **SOUL** 1 , **NATION** 1 , **TOGETHER** 1 , **WIN** 1 , **@JOEBIDEN—I'M** 1 , **READY** 1 , **WO…RT** 1 , **@KAMALAHARRISUS1:** 1 , **SHE’S** 1 , **SPEAKINGRT** 1 , **@HERBIEZISKEND46:** 1 , **"UNDERSTANDS** 1 , **IMPORTANCE** 1 , **TIES** 1 , **ESPECIALLY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @VivianBala: Look forward to welcoming US @VP Kamala Harris to Singapore next week, and exploring new areas of cooperation between Singa…
+ 
+# shahani_gkUSER INFO
+![image](http://pbs.twimg.com/profile_images/1426942115314012175/kOzs4jRW_normal.jpg)
+ 
+`User ScreenName:` shahani_gk 
+ 
+`User chosen Name:` GK Shahani 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Aug 15 16:20:21 +0000 2021 
+ 
+`User Description?:` Tech Consultant 24/7! 
+ 
+`Followers?: `6 
+ 
+`Following?:` 197 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 141 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1426942115314012175/kOzs4jRW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 141 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DUBAI** 24 , **@FACT:** 14 , **@UAE_FORSAN:** 12 , **EXPO2020** 9 , **ITS** 8 , **2021** 8 , **UAE** 8 , **NEW** 8 , **PEOPLE** 7 , **THROUGH** 6 , **FUTURE** 6 , **على** 6 , **BEING** 6 , **GITEX** 6 , **2020** 6 , **FIND** 5 , **في** 5 , **GLOBAL** 5 , **GOOD** 5 , **WORLD** 5 , 
+ 
+## What this user tweeted
+ 
+RT @kaspersky: Learn how to properly bundle &amp; price your #cybersec offerings to meet your desired profit margins &amp; simplify the sales proce…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
