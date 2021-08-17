@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **bad_packets**  
+The most popular user is: **Yumi_Sec**  
  
 
-## Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to… https://t.co/m1tKuL4aya 
+## If a web application allow you to upload a .zip file, zip:// is an interesting PHP wrapper to turn a LFI into a RCE… https://t.co/oMl4hJXQlU 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **bad_packets**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JinibaBD: The Top 13 Ethical Hacking Courses : Ranked by Experts (2021) #DataBreaches #DarkWeb #CyberSec #infosec #Security #cybercrime… |
-| #wtf 😮😮 Hackers Spotted Using Morse Code in Phishing Attacks to Evade Detection  #DataBreaches #DarkWeb #CyberSec… https://t.co/1ysPViknQE |
-| RT @JinibaBD: Lessons Learned My First Year Working as a Social Engineer #DataBreaches #DarkWeb #CyberSec #infosec #Security #cybercrime #T… |
+| RT @USCERT_gov: 📣 NOW LIVE! 📣 Check out the NEW interactive #cybersecurity jobs map and improved mobile usability on @CISAgov’s NICCS webs… |
+| RT @ptracesecurity: Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.… |
+| RT @Grepnetics: Subscribe Today - DevOps Engineeringhttps://t.co/x4staB6mpf#Azure #DevOps #DEVCommunity  #100DaysOfCode #DataScience  #… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 0.87%|
+| #1 Most tweeted to  | **iotcybersec24** |
+| #2 Most tweeted to  | **AlyssaM_InfoSec** |
+| #3 Most tweeted to  | **TeamPatriot007** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 2.1%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,99 +50,57 @@ The most popular user is: **bad_packets**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DARKWEB**  |
-| second  | **INFOSEC**  |
-| third  | **DATABREACHES** |
-| fourth  | **CYBERSEC**  |
-| fifth  | **@JINIBABD:**  |
+| first  | **INFOSEC**  |
+| second  | **MALWARE**  |
+| third  | **100DAYSOFCODE** |
+| fourth  | **DATA**  |
+| fifth  | **AI**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|IT threat evolution in Q2 2021. Mobile statistics - https://t.co/3NNCWji2Oz#OSINT #Security #Threatintel #cybersecurity |
+|RT @wunderwuzzi23: Learning by doing: Building and breaking a #MachineLearning system.Uploaded Husky AI code, #threatmodel, notebooks, mo… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bad_packets**  |
+| The most retweeted user is: **Yumi_Sec**  |
 | ------------- |
-| Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to… https://t.co/m1tKuL4aya |
+| If a web application allow you to upload a .zip file, zip:// is an interesting PHP wrapper to turn a LFI into a RCE… https://t.co/oMl4hJXQlU |
 
 # Potential Fake Accounts
  
-# ThreatInterviewUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425191020548005889/TeRqfpVM_normal.jpg)
+# ZeroFXtoGiveUSER INFO
+![image](http://pbs.twimg.com/profile_images/1427643536397291524/nuzdyYFs_normal.jpg)
  
-`User ScreenName:` ThreatInterview 
+`User ScreenName:` ZeroFXtoGive 
  
-`User chosen Name:` Ransomware Interviews 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 10 14:07:05 +0000 2021 
- 
-`User Description?:` Hello! Here you will find news about my recent project: the "Ransomware Interviews".
-I will try to interview as many APT, Ransomware Groups and similar as I can 
- 
-`Followers?: `36 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/5T4J6IokJc 
- 
-`Location:` In the middle of 127.0.0.1 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1425191020548005889/TeRqfpVM_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LOCKBIT** 4 , **RANSOMWARE** 3 , **SHARED** 3 , **ONION** 3 , **ACCENTURE** 3 , **NEW** 2 , **BLOG** 2 , **SCREEN** 2 , **ITS** 2 , **COUNTDOWN** 2 , **NIGHT** 2 , **PYSA** 1 , **GROUPS** 1 , **STRIKES** 1 , **BACK** 1 , **AFTER** 1 , **FEW** 1 , **MONTHS** 1 , **INACTIVITY** 1 , **VICTIM** 1 , 
- 
-## What this user tweeted
- 
-#Pysa #ransomware groups strikes back after a few months of inactivity with a new victim and a "coming soon".
-A new… https://t.co/uNapwIoaOKA possible threat actor is looking for "peoples to join partner program" and domain admin access.
-This is possibly… https://t.co/Xo4OBtMGbh
- 
-# BastionPodUSER INFO
-![image](http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg)
- 
-`User ScreenName:` BastionPod 
- 
-`User chosen Name:` BastionPod 
+`User chosen Name:` ZeroFX 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Aug 11 15:53:08 +0000 2021 
+`User signup date?:` Tue Aug 17 09:41:30 +0000 2021 
  
-`User Description?:` BastionPod is a cloud access platform enabling secure access to regulated applications, systems, and networks. 
+`User Description?:` Infosec tribe. Magazine. Podcast. We give zero fucks. 
  
-`Followers?: `0 
+`Followers?: `66 
  
-`Following?:` 9 
+`Following?:` 78 
  
-`User URL?:` https://t.co/KMpuYjspa6 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1425485510714273793/VvmAjYtm_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1427643536397291524/nuzdyYFs_normal.jpg 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -150,13 +108,461 @@ This is possibly… https://t.co/Xo4OBtMGbh
  
 ## User Top tweeted words 
  
-**THROUGH** 3 , **ACCEPT** 2 , **CARD** 2 , **PAYMENTS** 2 , **ORDERS?** 2 , **BUSINESS** 2 , **C…** 2 , **MAIL/TELEPHONE** 1 , **BASTIONPOD** 1 , **HELPS** 1 , **PROTECT** 1 , **CARDHOLDER** 1 , **DATA** 1 , **CUS…** 1 , **HTTPS://TCO/QQ5EBBNHYNRT** 1 , **@GIGASHEET:** 1 , **ENRICH** 1 , **2M** 1 , **ROW** 1 , **ZEEK** 1 , 
+**INFOSEC** 2 , **WANNA** 2 , **INVOLVED** 2 , **GREAT** 2 , **COMMUNITY** 2 , **👇🏼✌🏼** 2 , **RT** 1 , **@ZEROFXTOGIVE:** 1 , **HI** 1 , **HTTPS://TCO/X1SCDEUSCRMOTORING** 1 , **AHEAD** 1 , **PODCAST** 1 , **PLANS** 1 , **SUPER** 1 , **EXCITED** 1 , **SHARE** 1 , **LINE** 1 , **LOVELY** 1 , **PEOPLE** 1 , **SERIES** 1 , 
  
 ## What this user tweeted
  
-RT @gigasheet: How to enrich 2m row #Zeek log w/ .@GreyNoiseIO #threatintel:
-1. Upload conn.log to https://t.co/OFstKPMf3d (or zip first)
-2…
+RT @ZeroFXtoGive: Hi #infosec ... if you wanna get involved with a great community... you know what to do 👇🏼✌🏼
+
+https://t.co/X1sCdEUSCR
+ 
+# Tusharrr29USER INFO
+![image](http://pbs.twimg.com/profile_images/1426834998795988992/vnWeVO_P_normal.jpg)
+ 
+`User ScreenName:` Tusharrr29 
+ 
+`User chosen Name:` Tushar Patil 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Aug 15 09:06:38 +0000 2021 
+ 
+`User Description?:` 20|
+Cybersecurity and Coding
+For Anime :- @Tusharr297 
+ 
+`Followers?: `5 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1426834998795988992/vnWeVO_P_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INFOSEC** 2 , **-&GT;** 2 , **RT** 1 , **@J0HNNYXM4S:** 1 , **HEY** 1 , **LEAST** 1 , **QUICKBOOKS** 1 , **HTTPS://TCO/5ARDKTUJEHRT** 1 , **@D4RCKH:** 1 , **FUTURE** 1 , **PROOF** 1 , **CAREERTRUE!** 1 , **HTTPS://TCO/HMDUNQ5J5V😂😂** 1 , **HTTPS://TCO/LJSXLYIETKRT** 1 , **@NOTSHENETWORKS:** 1 , **INSTALL** 1 , **UPDATE** 1 , **TROUBLESHOOT** 1 , **CIRCLE** 1 , **LINUX** 1 , 
+ 
+## What this user tweeted
+ 
+RT @d4rckh: How to future proof your #infosec career
+ 
+# az38294635USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` az38294635 
+ 
+`User chosen Name:` az 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 17 07:33:40 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FULL** 2 , **ACTIVATED** 2 , **–** 2 , **DISCOUNT** 2 , **100%** 2 , **OFF** 2 , **LETSEXTRACT** 1 , **EMAIL** 1 , **STUDIO** 1 , **BUSINESS** 1 , **V55339192** 1 , **~** 1 , **DRFARFAR…** 1 , **HTTPS://TCO/KQIOM2ERR0DIABOLIC** 1 , **TRAFFIC** 1 , **BOT** 1 , **EDITION** 1 , **V707** 1 , **LIFETIME** 1 , **HTTPS://TCO/NR95AI4WKV** 1 , 
+ 
+## What this user tweeted
+ 
+LetsExtract Email Studio Business v5.5.3.39192 Full Activated – Discount 100% OFF ~ Dr.FarFar… https://t.co/KqiOm2ERr0
+ 
+# ZenCyberSecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425403331627864068/0B_YRLaL_normal.jpg)
+ 
+`User ScreenName:` ZenCyberSec 
+ 
+`User chosen Name:` Zen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 10 12:12:06 +0000 2021 
+ 
+`User Description?:` 17 y/o | Student | Newbie ethical hacker | I aim to break into the #cybersec community on a limited budget, and show others the way. Art credit:@Yuumei_art 
+ 
+`Followers?: `4 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 23 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425403331627864068/0B_YRLaL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 23 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WIRESHARK** 3 , **MAKING** 2 , **MUCH** 2 , **PLANNING** 2 , **@YOUTUBE** 2 , **COURSES** 2 , **DAVID** 2 , **@REALTRYHACKME** 2 , **PATH** 2 , **USE** 2 , **DON'T** 2 , **13TH** 2 , **PLEASE** 2 , **@BINARYBISS** 1 , **SAME** 1 , **SOMETHING** 1 , **WIX** 1 , **WORDPRESS** 1 , **SIGNIFICANT** 1 , **TIME** 1 , 
+ 
+## What this user tweeted
+ 
+Damn! It's an awesome day today. Finally subbed to @RealTryHackMe and finished their Pre Security path shortly afte… https://t.co/cu4FvNuvJF
+ 
+# tljcyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1427666133860196365/-1gCYFXX_normal.jpg)
+ 
+`User ScreenName:` tljcyber 
+ 
+`User chosen Name:` tljcyber 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Aug 14 23:40:16 +0000 2021 
+ 
+`User Description?:` All things Cybersecurity 
+ 
+`Followers?: `7 
+ 
+`Following?:` 96 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1427666133860196365/-1gCYFXX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INFOSEC** 3 , **TRYHACKME** 3 , **BANK** 2 , **RANSOMWARE** 2 , **COMPLETED** 2 , **ROOM!** 2 , **CHECK** 2 , **OUT:** 2 , **RT** 1 , **@TECHCABAL:** 1 , **IN:** 1 , **CENTRAL** 1 , **NIGERIA** 1 , **FROZEN** 1 , **ACCOUNTS** 1 , **NIGERIAN** 1 , **FINTECH** 1 , **PLATFORMS** 1 , **RISEVEST** 1 , **BAMBOO** 1 , 
+ 
+## What this user tweeted
+ 
+RT @LearnedAtheist: Hope everything is ok over at Information Security Magazine:
+
+#infosec https://t.co/hFgbk1TGIH
+ 
+# canta_recepUSER INFO
+![image](http://pbs.twimg.com/profile_images/1427668489385414667/85McKbEt_normal.jpg)
+ 
+`User ScreenName:` canta_recep 
+ 
+`User chosen Name:` recep çanta 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 17 16:27:47 +0000 2021 
+ 
+`User Description?:` recep çanta 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1427668489385414667/85McKbEt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FULL** 2 , **ACTIVATED** 2 , **–** 2 , **DISCOUNT** 2 , **100%** 2 , **OFF** 2 , **DIABOLIC** 1 , **TRAFFIC** 1 , **BOT** 1 , **EDITION** 1 , **V707** 1 , **LIFETIME** 1 , **HTTPS://TCO/IDMJH6JYCR** 1 , **INFOSEC…** 1 , **HTTPS://TCO/2IZIVJYOO1SIMPLE** 1 , **SOCIAL** 1 , **PRO** 1 , **V840** 1 , **HTTPS://TCO/CNFUCKLTHC** 1 , **INFOSEC** 1 , 
+ 
+## What this user tweeted
+ 
+Diabolic Traffic Bot Full Edition v7.07 Lifetime Activated – Discount 100% OFF https://t.co/iDmjH6JYCR #infosec… https://t.co/2IziVjyoo1Simple Social Pro v8.4.0 Full Activated – Discount 100% OFF https://t.co/cnFUCKLTHc #infosec #bugcrowd… https://t.co/GQkGXFMSQA
+ 
+# austin_castelUSER INFO
+![image](http://pbs.twimg.com/profile_images/1426628888776507393/GoXTMwa9_normal.jpg)
+ 
+`User ScreenName:` austin_castel 
+ 
+`User chosen Name:` Austin Castel 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 12 10:23:38 +0000 2021 
+ 
+`User Description?:` Retweeting Interesting stuff. Sponsored with ❤️ by @hrittikhere (hiring tech writers) 
+ 
+`Followers?: `19 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1426628888776507393/GoXTMwa9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 470 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**KUBERNETES** 74 , **DOCKER** 49 , **LEARN** 15 , **CLOUD** 15 , **FIRST** 13 , **USING** 11 , **USE** 11 , **TIME** 9 , **NEW** 9 , **CONTAINER** 9 , **JOIN** 9 , **CONTAINERS** 8 , **NEED** 8 , **DEPLOY** 8 , **MIN** 8 , **IMAGE** 7 , **OPEN** 7 , **LIVE** 7 , **SERVICE** 7 , **2** 7 , 
+ 
+## What this user tweeted
+ 
+RT @SecurityTube: Understand how to attack and protect different parts of the Docker ecosystem to takeover the Docker Host machine. Subscri…RT @NullAhm: 📢 @NullAhm August Meetup 📢
+August 21, 2021 11:45 AM IST
+
+Session #2
+
+Building network #security boundaries in #Kubernetes by @…
+ 
+# WearisticSUSER INFO
+![image](http://pbs.twimg.com/profile_images/1427663131925483520/sMXYJ47s_normal.png)
+ 
+`User ScreenName:` WearisticS 
+ 
+`User chosen Name:` wearistic Sports 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 17 16:06:29 +0000 2021 
+ 
+`User Description?:` cccccccccccccc 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1427663131925483520/sMXYJ47s_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INSTAGRAM** 1 , **DATA** 1 , **EXTRACTOR** 1 , **PRO** 1 , **V30** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/QDDCVI9KO1** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/E8PTWYJR8P** 1 , 
+ 
+## What this user tweeted
+ 
+Instagram Data Extractor Pro v3.0 Full Activated – Discount 100% OFF https://t.co/QDDcvI9ko1 #infosec #bugcrowd… https://t.co/e8PtWYjR8p
+ 
+# DjofulinnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1425831692451803146/UgnY7wY8_normal.jpg)
+ 
+`User ScreenName:` Djofulinn 
+ 
+`User chosen Name:` Jeffrey 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 12 14:47:50 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `13 
+ 
+`Following?:` 468 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1425831692451803146/UgnY7wY8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 230 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@STRAPPEDHH** 82 , **@_RIOTZ** 60 , **@SDDS_ARK_** 59 , **@BLAFHEAD** 50 , **@SIDEMEN** 41 , **@MELANMOK** 40 , **@KSI** 23 , **@TOBJIZZLE** 23 , **@ZERKAAHD** 23 , **@MINIMINTER** 22 , **@BEHZINGA** 22 , **@WROETOSHAW** 22 , **@SAMFULLOFSIN** 21 , **@VIKKSTAR123** 16 , **@ALIENBO60331577** 15 , **@ONEFORGHOSTFACE** 13 , **@THIRTEENTHDOWN** 12 , **YES** 11 , **OSINT** 10 , **GOOD** 10 , 
+ 
+## What this user tweeted
+ 
+RT @hackermaderas: #OSINT 
+
+Cheatsheets/Graphics:
+
+InfoSec/DFIR OSINT
+https://t.co/tRZnNbtO3e
+
+Dork Resumes, alumni pages, etc
+https://t.co…
+ 
+# kosherM3USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` kosherM3 
+ 
+`User chosen Name:` kosher M 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 17 13:04:14 +0000 2021 
+ 
+`User Description?:` a new bee to look around the horizon 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MALTEGO** 1 , **XL** 1 , **V4218** 1 , **FULL** 1 , **ACTIVATED** 1 , **CYBERSECURITY** 1 , **TOOLS** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/WIWGMTG1MM** 1 , **INFOSEC…** 1 , **HTTPS://TCO/7FWNJ101WD** 1 , 
+ 
+## What this user tweeted
+ 
+Maltego XL v4.2.18 Full Activated - CyberSecurity Tools – Discount 100% OFF https://t.co/wiWgmtg1mm #infosec… https://t.co/7FWnj101WD
+ 
+# sivanjineyulu1USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` sivanjineyulu1 
+ 
+`User chosen Name:` sivanjineyulu 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 17 04:17:51 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 205 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BEST** 176 , **TECHNOLOGY** 174 , **MAGAZINE** 168 , **INDUSTRYERA** 160 , **@INDUSTRYERA:** 153 , **CEO** 149 , **TECHNEWS** 74 , **2020YEAR** 68 , **2021YEAR** 56 , **2021** 55 , **@LEVELFOCUSC:** 47 , **COO** 39 , **TECHNOLOGYNEWS** 39 , **CEOS** 37 , **CFO** 35 , **CLEVELFOCUS** 35 , **FOUNDER** 30 , **LEADERS** 25 , **SUCCESSFUL** 24 , **SOLUTION** 24 , 
+ 
+## What this user tweeted
+ 
+RT @IndustryEra: Bret England #President &amp; #CEO of @calltower#Best #Technology #Solution #Providers of #2021year#Industryera #technology…RT @LevelfocusC: Michael Bruck #CEO @BAI_Security 
+#Best #Security #Solution #Providers of #2020
+#Industryera #technology #magazine #securi…
+ 
+# njorogeituikaUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` njorogeituika 
+ 
+`User chosen Name:` Njorogeituika 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Aug 17 12:48:39 +0000 2021 
+ 
+`User Description?:` passionate 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MASS** 1 , **VIDEO** 1 , **BLASTER** 1 , **PRO** 1 , **V263** 1 , **FULL** 1 , **ACTIVATED** 1 , **YOUTUBE** 1 , **MARKETING** 1 , **TOOL** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/RLNBTKBUHD…** 1 , **HTTPS://TCO/PM0S5JNWY5** 1 , 
+ 
+## What this user tweeted
+ 
+Mass Video Blaster Pro v2.63 Full Activated - Youtube Marketing Tool – Discount 100% OFF https://t.co/RLNbTKbuHd… https://t.co/PM0S5JNwy5
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
