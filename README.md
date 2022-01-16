@@ -1,20 +1,21 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **t0nit0ne**  
+The most popular user is: **OwensForGeorgia**  
  
 
-## One tactic used by emotional manipulators is getting very deep very quickly. They may share ‘deep secrets / vulnera… https://t.co/1UkKYwn3HR 
+## I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expe… https://t.co/LVY3bNqd3Y 
 
   
 
@@ -23,25 +24,25 @@ The most popular user is: **t0nit0ne**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @NFTshills safeguard your #NFTs against the vulnerabilities buy an insurance policy from @CoverCompared this platfo… https://t.co/7pwKjJNpjE |
-| Log4j vulnerabilities, malware strains multiply; major attack disclosed https://t.co/1NMx1AjbHQ |
-| RT @puppetize: UPDATE: We will continue to update this blog post with the latest news and releases related to the #Log4j vulnerabilities. P… |
+| RT @Strat_AI: Booz Allen -- named one of Glassdoor's Best Places to Work in 2022! || #5G #100DaysOfCode #AI #Analytics #ArtificialIntellige… |
+| RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.As a Marine Corps vet and cybersecurity expert,… |
+| RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.As a Marine Corps vet and cybersecurity expert,… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Forbes** |
-| #2 Most tweeted to  | **ruhikizi_** |
-| #3 Most tweeted to  | **MaajidNawaz** |
-| NewProfiles (less than 10 days) | 1.72%  |
-| Tweeters with < 10 followers  | 6.72%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **OwensForGeorgia** |
+| #2 Most tweeted to  | **JobPreference** |
+| #3 Most tweeted to  | **Paula_Piccard** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 3.54%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -50,135 +51,57 @@ The most popular user is: **t0nit0ne**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **MICROSOFT**  |
-| third  | **CONTRACTS** |
-| fourth  | **SYSTEMS**  |
-| fifth  | **KARAN**  |
+| first  | **STATE**  |
+| second  | **RUNNING**  |
+| third  | **I’M** |
+| fourth  | **SECRETARY**  |
+| fifth  | **GEORGIA**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ruhikizi_: Karan's vulnerabilities &lt;3KARAN IS AN EMOTION |
+|RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.As a Marine Corps vet and cybersecurity expert,… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **t0nit0ne**  |
+| The most retweeted user is: **OwensForGeorgia**  |
 | ------------- |
-| One tactic used by emotional manipulators is getting very deep very quickly. They may share ‘deep secrets / vulnera… https://t.co/1UkKYwn3HR |
+| I’m Michael Owens, Democrat running for Secretary of State in Georgia.As a Marine Corps vet and cybersecurity expe… https://t.co/LVY3bNqd3Y |
 
 # Potential Fake Accounts
  
-# Doug78431USER INFO
-![image](http://pbs.twimg.com/profile_images/1482512011867176963/a5QSLHUt_normal.jpg)
+# coder_opsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1480892634667405313/LKGYTCRF_normal.jpg)
  
-`User ScreenName:` Doug78431 
+`User ScreenName:` coder_ops 
  
-`User chosen Name:` Doug 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 15 22:34:04 +0000 2022 
- 
-`User Description?:` Oil/chemical tanker Engine department. let’s skip to the good part.                 #strongertogther  #librarian #JohnLewisVotingRightActs 
- 
-`Followers?: `22 
- 
-`Following?:` 99 
- 
-`User URL?:` None 
- 
-`Location:` Ukraine 
- 
-`Number of tweets extracted`  : 196 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1482512011867176963/a5QSLHUt_normal.jpg 
- 
-`Number of tweets excluding replies:` 203 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 15 , **COVID** 11 , **FOLLOW** 11 , **@JOYCEWHITEVANCE:** 11 , **@REXZANE1:** 10 , **VOTING** 10 , **@MOMSRESISTNOW:** 10 , **PEOPLE** 8 , **VOTE** 8 , **@KEVINSIXX13:** 8 , **DOESN’T** 8 , **US** 7 , **AMERICA** 7 , **FBI** 7 , **GOING** 7 , **GO** 7 , **BEING** 7 , **MAKE** 7 , **NEED** 7 , **DEMOCRACY** 7 , 
- 
-## What this user tweeted
- 
-RT @alfranken: This week on The Podcast – @JoyceWhiteVance discusses Trump’s various civil &amp; criminal vulnerabilities. Here, from a prosecu…
- 
-# Elfidan133USER INFO
-![image](http://pbs.twimg.com/profile_images/1482092796416864258/K7OJEC6h_normal.jpg)
- 
-`User ScreenName:` Elfidan133 
- 
-`User chosen Name:` ELFİDA 
+`User chosen Name:` CyberOpsCoder 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 14 20:30:51 +0000 2022 
+`User signup date?:` Tue Jan 11 13:13:36 +0000 2022 
  
-`User Description?:` #lovetwitter 
+`User Description?:` Increasing awareness of the critical need for cybersecurity resilience. 
  
-`Followers?: `1186 
+`Followers?: `0 
  
-`Following?:` 673 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1482092796416864258/K7OJEC6h_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1480892634667405313/LKGYTCRF_normal.jpg 
  
-`Number of tweets excluding replies:` 1169 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GT** 62 , **TAKIP** 49 , **TAKİP** 43 , **YAPIYORUM** 40 , **HERKESE** 37 , **EDEN** 36 , **VAKTİ** 28 , **TAKİPLEŞME** 23 , **VAR** 21 , **TAKIPLEŞELIM** 15 , **TAKIBE** 15 , **GERI** 10 , **TAKIPLERE** 9 , **DÖNÜYORUM** 9 , **KALICI** 9 , **TAKİPLERE** 6 , **HESAP** 6 , **@ELFIDAN133:** 6 , **DÖNÜŞ** 6 , **BEN** 5 , 
- 
-## What this user tweeted
- 
-RT @_xx_re_xx: We all are vulnerable to something, no matter how strong we appear to be. Love and Trust both come into existence only when…
- 
-# kimbudamllaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1480222364671647749/JfxjHBIs_normal.jpg)
- 
-`User ScreenName:` kimbudamlla 
- 
-`User chosen Name:` Damla Ama Damlamayan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 09 16:57:26 +0000 2022 
- 
-`User Description?:` Uzaydayım 
- 
-`Followers?: `838 
- 
-`Following?:` 414 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1480222364671647749/JfxjHBIs_normal.jpg 
- 
-`Number of tweets excluding replies:` 234 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -186,77 +109,39 @@ RT @_xx_re_xx: We all are vulnerable to something, no matter how strong we appea
  
 ## User Top tweeted words 
  
-**GT** 66 , **TAKIP** 47 , **YAPIYORUM** 41 , **EDEN** 37 , **HERKESE** 35 , **GTRT** 33 , **TAKİP** 32 , **TAKİPLEŞME** 28 , **VAKTİ** 28 , **VAR** 16 , **TAKIPLERE** 14 , **TAKIPLEŞELIM** 13 , **TAKIBE** 9 , **DÖNÜYORUM** 8 , **KALICI** 6 , **DM** 6 , **RT** 5 , **IÇIN** 5 , **@ELFIDAN133:** 5 , **TAKIPLEŞME** 5 , 
+**PYTHON** 6 , **TUTORIALS** 4 , **CYBERSECURITY** 3 , **INFOSEC** 2 , **CYBER** 2 , **INSTALL** 2 , **@THENEWBOSTON_OG** 2 , **ARGUMENTS** 2 , **INSTALLING** 2 , **STRINGS** 2 , **WIRESHARK** 1 , **(VERSION** 1 , **361)** 1 , **LOG** 1 , **WIFI** 1 , **80211** 1 , **HACKING** 1 , **BLUETEAM** 1 , **HTTPS://TCO/DTCYA1TVIJADMINISTRATOR** 1 , **WIN** 1 , 
  
 ## What this user tweeted
  
-RT @_xx_re_xx: We all are vulnerable to something, no matter how strong we appear to be. Love and Trust both come into existence only when…
+#Wireshark (version 3.6.1) log Wifi 802.11 #hacking #Cybersecurity #infosec #cyber #blueteam https://t.co/dtcYa1TviJAdministrator Win 10 ipconfig /a | more command line (edited) #Cybersecurity #infosec #cyber https://t.co/E4D7UEj6Ui
  
-# KevinRedDotUSER INFO
-![image](http://pbs.twimg.com/profile_images/1482732046779031553/AGp2D0dk_normal.jpg)
+# Dexentral_USER INFO
+![image](http://pbs.twimg.com/profile_images/1481068500818939905/xcb115pV_normal.jpg)
  
-`User ScreenName:` KevinRedDot 
+`User ScreenName:` Dexentral_ 
  
-`User chosen Name:` Kevin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 13 09:05:05 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1482732046779031553/AGp2D0dk_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LORDX64** 1 , **GIVEN** 1 , **WHOLE** 1 , **PURPOSE** 1 , **GOOGLE** 1 , **PROJECT** 1 , **ZERO** 1 , **SEEMS** 1 , **HYPING** 1 , **VULNERABILITIES** 1 , **MICROSOFT** 1 , **AN…** 1 , **HTTPS://TCO/NZMEXYBSPCHEY** 1 , **⁦@TWITTER⁩** 1 , **SURE** 1 , **AWARE** 1 , **“PARANORMAL”** 1 , **SCIENTIFIC** 1 , **HTTPS://TCO/KCH69DMBPF** 1 , 
- 
-## What this user tweeted
- 
-@lordx64 Given that the whole purpose of the Google Project Zero seems to be hyping vulnerabilities in Microsoft an… https://t.co/nzmeXyBSpC
- 
-# BitmundFreudUSER INFO
-![image](http://pbs.twimg.com/profile_images/1482315178054201345/MBoh0b6U_normal.jpg)
- 
-`User ScreenName:` BitmundFreud 
- 
-`User chosen Name:` Bitmund Freud 
+`User chosen Name:` Dexentral 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 13 20:37:45 +0000 2022 
+`User signup date?:` Wed Jan 12 00:54:15 +0000 2022 
  
-`User Description?:` Crypto millionaire wannabe & aspirant Clinical Psychologist (MSc) || Not financial (nor psychological) advice || stash more sats #btc 
+`User Description?:` #Blockchain #Security Solutions; With Focus on #Decentralization, & The #Web3 Future. 
+📲🌐 
  
-`Followers?: `4 
+`Followers?: `1 
  
 `Following?:` 18 
  
 `User URL?:` None 
  
-`Location:` Bitcoin City 
+`Location:`  
  
-`Number of tweets extracted`  : 38 
+`Number of tweets extracted`  : 11 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1482315178054201345/MBoh0b6U_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1481068500818939905/xcb115pV_normal.jpg 
  
-`Number of tweets excluding replies:` 38 
+`Number of tweets excluding replies:` 11 
  
 
  
@@ -264,38 +149,38 @@ RT @_xx_re_xx: We all are vulnerable to something, no matter how strong we appea
  
 ## User Top tweeted words 
  
-**BITCOIN** 4 , **@BTC_ARCHIVE** 4 , **BUY** 2 , **SATS** 2 , **FIAT** 2 , **@ALTCOINGORDON** 2 , **FOLLOW** 2 , **GO** 2 , **ENVY** 2 , **NEXT** 2 , **@CAMILACAMPTON** 1 , **DENIAL** 1 , **RATIONALISATION** 1 , **REPRESSION** 1 , **STASH** 1 , **SOME** 1 , **FREE** 1 , **YOURSELF@INSPIREANDOPP** 1 , **I'M** 1 , **BOT@PARKERALEWIS** 1 , 
+**@DXENTRAL_:** 5 , **BLOCKCHAIN** 5 , **SECURITY** 5 , **DXENTRAL** 3 , **DEFI** 3 , **WEB3** 2 , **🌐** 2 , **DECENTRALIZED** 2 , **RT** 1 , **🔒🌐** 1 , **CYBERSECURITY** 1 , **IMPORTANT** 1 , **THAN** 1 , **EVER** 1 , **FUTURE** 1 , **SMARTCONTRACTS** 1 , **MUST** 1 , **SECURE** 1 , **THESE…RT** 1 , **🔒➡️** 1 , 
  
 ## What this user tweeted
  
-Out of your vulnerabilities will come your strength - Freud on shitcoins &amp; #cryptocurrency
+RT @dxentral_: 🔒🌐 #Cybersecurity is more important than ever. The Future is #Blockchain, #Smartcontracts , and #Web3. We must secure these…
  
-# fitzro7USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# democrat_iowaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1481386571928686592/SkYxoYD__normal.jpg)
  
-`User ScreenName:` fitzro7 
+`User ScreenName:` democrat_iowa 
  
-`User chosen Name:` TobyFitzro7 
+`User chosen Name:` LivinginIowa 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 12 22:20:02 +0000 2022 
+`User signup date?:` Wed Jan 12 22:03:48 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Say freedom (but understand how taxes work first 😝) you can’t control how they spend it. #vote Is your POWER! 
  
 `Followers?: `3 
  
-`Following?:` 94 
+`Following?:` 11 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 169 
+`Number of tweets extracted`  : 60 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1481386571928686592/SkYxoYD__normal.jpg 
  
-`Number of tweets excluding replies:` 169 
+`Number of tweets excluding replies:` 59 
  
 
  
@@ -303,36 +188,1122 @@ Out of your vulnerabilities will come your strength - Freud on shitcoins &amp; #
  
 ## User Top tweeted words 
  
-**@PARASOLGROUP** 119 , **PARASOL** 44 , **GAVE** 40 , **VIA** 40 , **@TRUSTPILOT** 39 , **1** 37 , **STAR** 37 , **@FCSA_ORG** 30 , **@MARTINSLEWIS** 22 , **PAID** 19 , **@BBCLONDONNEWS** 19 , **PAY** 16 , **PEOPLE** 10 , **DOING** 10 , **@ICONEWS** 10 , **FRIDAYMORNING** 9 , **PUBLIC** 8 , **PAYING** 8 , **STAFF** 8 , **US** 8 , 
+**@POTUS** 8 , **DON’T** 8 , **PAY** 7 , **US** 6 , **FREE** 5 , **SOME** 5 , **PEOPLE** 5 , **IOWA** 5 , **I’M** 4 , **GO** 4 , **THESE** 4 , **OTHER** 4 , **THAN** 4 , **@AP** 4 , **DOESN’T** 4 , **@USHALLSEE** 4 , **GOVERNOR** 4 , **BETTER** 4 , **@IAGOVERNOR** 4 , **TRUMP** 3 , 
  
 ## What this user tweeted
  
-RT @NCSC: In this week's Threat Report: Multiple SonicWall vulnerabilities https://t.co/0BsRGyMGoS https://t.co/ih26HV6m2n
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
  
-# MillennialNXTUSER INFO
-![image](http://pbs.twimg.com/profile_images/1482766657563074560/eEgZIHt0_normal.jpg)
+# dxentral_USER INFO
+![image](http://pbs.twimg.com/profile_images/1480628097149911041/apab1Wn2_normal.jpg)
  
-`User ScreenName:` MillennialNXT 
+`User ScreenName:` dxentral_ 
  
-`User chosen Name:` Millennial Nxt 
+`User chosen Name:` Dxentral™ 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 15 20:17:11 +0000 2022 
+`User signup date?:` Sun Jan 09 05:55:40 +0000 2022 
  
-`User Description?:` Best things in the world all on one platform. #gaming #books #technology #business #news #cars #future #design #photography #travel #sales and so much more 
+`User Description?:` Blockchain Security Services & Innovations 🌐 
  
-`Followers?: `4 
+`Followers?: `9 
  
-`Following?:` 378 
+`Following?:` 105 
  
 `User URL?:` None 
  
-`Location:` Johannesburg, South Africa 
+`Location:`  
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1480628097149911041/apab1Wn2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BLOCKCHAIN** 9 , **SECURITY** 6 , **DECENTRALIZED** 6 , **CRYPTOCURRENCY** 6 , **WEB3** 5 , **DECENTRALIZATION** 5 , **FUTURE** 4 , **CRYPTO** 4 , **DXENTRAL** 4 , **DEFI** 4 , **🌐** 4 , **ETH** 3 , **MULTICHAIN** 2 , **PARACHAIN** 2 , **@WATCHERGURU:** 2 , **WEB3FUTURE** 2 , **US** 2 , **@DXENTRAL_** 2 , **INNOVATION** 2 , **SPACE** 2 , 
+ 
+## What this user tweeted
+ 
+🔒🌐 #Cybersecurity is more important than ever. The Future is #Blockchain, #Smartcontracts , and #Web3. We must secu… https://t.co/ZMr0SqZQmC
+ 
+# LinaBec84358929USER INFO
+![image](http://pbs.twimg.com/profile_images/1482708669624205312/gaEg-wPd_normal.jpg)
+ 
+`User ScreenName:` LinaBec84358929 
+ 
+`User chosen Name:` Lina Beck 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 16 13:36:48 +0000 2022 
+ 
+`User Description?:` God does great things 💯
+Live a life full of love ❤️ 
+ 
+`Followers?: `5 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 40 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482708669624205312/gaEg-wPd_normal.jpg 
+ 
+`Number of tweets excluding replies:` 40 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ASKS** 4 , **CONSPIRACY** 4 , **THE…RT** 3 , **NEED** 3 , **WHITE** 3 , **TELL** 3 , **REPUBLICANS** 2 , **DEAR** 2 , **GO** 2 , **CHURCHES** 2 , **MUCH** 2 , **GEORGIA** 2 , **@WALSHFREEDOM:** 2 , **BULLSHIT** 2 , **READ** 2 , **STORIES** 2 , **ISN’T** 2 , **LAW** 2 , **DR** 2 , **KING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# AmeliaB23214495USER INFO
+![image](http://pbs.twimg.com/profile_images/1482132126334083073/YHiPBag1_normal.jpg)
+ 
+`User ScreenName:` AmeliaB23214495 
+ 
+`User chosen Name:` Amelia Brown 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 14 23:26:02 +0000 2022 
+ 
+`User Description?:` Crypto trading is the key to success
+https://t.co/qQSWikmCUv 
+ 
+`Followers?: `19 
+ 
+`Following?:` 547 
+ 
+`User URL?:` https://t.co/qQSWikmCUv 
+ 
+`Location:` Miami, FL 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482132126334083073/YHiPBag1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 610 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PRESIDENT** 13 , **TRUMP** 13 , **BIDEN** 8 , **BABYDOGE** 8 , **MAN** 7 , **AMERICAN** 7 , **PEOPLE** 7 , **NEW** 6 , **HOSTAGES** 6 , **SYNAGOGUE** 6 , **NEWS** 6 , **GOING** 6 , **DEMOCRATS** 6 , **DONALD** 6 , **AMERICA** 6 , **@KURTSCHLICHTER:** 6 , **REPUBLICAN** 6 , **TEXAS** 5 , **MUSLIM** 5 , **@ACTBRIGITTE:** 5 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# StephanieNehls3USER INFO
+![image](http://pbs.twimg.com/profile_images/1479802257940041729/VFxqVS3K_normal.png)
+ 
+`User ScreenName:` StephanieNehls3 
+ 
+`User chosen Name:` Stephanie Nehls 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 08 13:08:46 +0000 2022 
+ 
+`User Description?:` Weight lifting grandma 
+ 
+`Followers?: `2 
+ 
+`Following?:` 70 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1479802257940041729/VFxqVS3K_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 2 , **CROWD** 2 , **RT** 1 , **@OWENSFORGEORGIA:** 1 , **I’M** 1 , **MICHAEL** 1 , **OWENS** 1 , **DEMOCRAT** 1 , **RUNNING** 1 , **SECRETARY** 1 , **STATE** 1 , **GEORGIA** 1 , **MARINE** 1 , **CORPS** 1 , **VET** 1 , **CYBERSECURITY** 1 , **EXPERT…RT** 1 , **@CALLTOACTIVISM:** 1 , **RAISE** 1 , **HAND** 1 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# IlhamYusuf02USER INFO
+![image](http://pbs.twimg.com/profile_images/1481281959389442049/s3flIpoY_normal.jpg)
+ 
+`User ScreenName:` IlhamYusuf02 
+ 
+`User chosen Name:` IlhamYusuf 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 12 15:07:51 +0000 2022 
+ 
+`User Description?:` Remixer Gorontalo
+#Dj #giveaway #NFCcomunity 
+ 
+`Followers?: `18 
+ 
+`Following?:` 376 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1481281959389442049/s3flIpoY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1355 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 79 , **FOLLOW** 56 , **+** 54 , **||** 42 , **DONERT** 39 , **•** 35 , **HOURS** 26 , **IDR** 21 , **~** 20 , **GIVEAWAY** 19 , **ENDS** 14 , **JOIN** 13 , **RETWEET** 12 , **JT** 11 , **$50** 11 , **WINNER** 10 , **$100** 10 , **NFT** 9 , **3** 9 , **$10** 9 , 
+ 
+## What this user tweeted
+ 
+RT @MacguyverTech01: Check out our latest article: "Cybersecurity as a Constant: Mac Talks Hacks and Attacks."
+
+https://t.co/OKvgW7Vr9x
+
+#c…
+ 
+# MyVirtualCISOUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482000277356097538/QFuUQhsG_normal.jpg)
+ 
+`User ScreenName:` MyVirtualCISO 
+ 
+`User chosen Name:` Chase. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 12 13:11:56 +0000 2022 
+ 
+`User Description?:` CEO @CyberTechA | Insight into Cybersecurity, Cybercrime, Crypto, NFTs, Startups & Investing Strategies. Founder of CyberTech Analytics & Florida Cybersecurity 
+ 
+`Followers?: `46 
+ 
+`Following?:` 518 
+ 
+`User URL?:` https://t.co/WLliY5triX 
+ 
+`Location:` “The Cloud” 
+ 
+`Number of tweets extracted`  : 151 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482000277356097538/QFuUQhsG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 151 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 18 , **CYBER** 18 , **MOST** 12 , **NEED** 11 , **SECURITY** 9 , **MUCH** 7 , **WORK** 7 , **GREAT** 7 , **BUSINESS** 7 , **INFOSEC** 6 , **INTO** 6 , **SOME** 6 , **MAKE** 5 , **SURE** 5 , **GOOD** 5 , **ATTACK** 5 , **COMES** 5 , **THINGS** 5 , **PEOPLE** 5 , **ALWAYS** 5 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Security Professionals Responsibilities Cheatsheet
+
+Credit  @rafeeq_rehman
+ 
+#infosec #cybersecurity #pentesting #oscp…RT @three_cube: Metasploit Basics for Hackers, Part 1: Getting Started with Metasploit #metasploit #metasploit4hackers #infosec #cybersecur…
+ 
+# BellaNicolas15USER INFO
+![image](http://pbs.twimg.com/profile_images/1482840292655091716/i4aN5d_q_normal.jpg)
+ 
+`User ScreenName:` BellaNicolas15 
+ 
+`User chosen Name:` Bella Nicolas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 14 06:48:53 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 134 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 69 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482840292655091716/i4aN5d_q_normal.jpg 
+ 
+`Number of tweets excluding replies:` 69 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HACK** 68 , **⬆️⬆️⬆️⬆️⬆️⬆️CONTACT** 65 , **TELEGRAM** 65 , **HACKING** 65 , **SERVICE** 65 , **WHATSAPP** 65 , **INSTAGRAM** 64 , **HAC…** 64 , **@ZEEDLORD_HACKER** 2 , **@OWEN_SMITHIAN:** 2 , **DON'T** 2 , **SCAMMED** 2 , **VISIT** 2 , **HTTPS://TCO/UGZ6U8PYLH** 2 , **VERIFIED** 2 , **ORGANIZATION** 2 , **HIRE** 2 , **ETHICAL** 2 , **HACKERS** 2 , **RECOVER** 2 , 
+ 
+## What this user tweeted
+ 
+RT @shaTIRED: to the dumbass trying to hack my HBO Max account, i get the emails with the code you need. please don’t apply for work in cyb…
+ 
+# BrianCassidy58USER INFO
+![image](http://pbs.twimg.com/profile_images/1481560248926326788/gEluhTuv_normal.jpg)
+ 
+`User ScreenName:` BrianCassidy58 
+ 
+`User chosen Name:` I Am 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 10 23:42:53 +0000 2022 
+ 
+`User Description?:` starting over again in a new dawn, a new day, a new life, a new attitude of gratitude, a new satisfaction and expectation of good things to come! It feels good! 
+ 
+`Followers?: `39 
+ 
+`Following?:` 137 
+ 
+`User URL?:` None 
+ 
+`Location:` world 
+ 
+`Number of tweets extracted`  : 91 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1481560248926326788/gEluhTuv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 91 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VIA** 18 , **@YOUTUBERT** 11 , **@HAVERKAMP_WIEBE:** 10 , **FEAT** 6 , **PLAYING** 6 , **GOOD** 5 , **MORNING** 4 , **BIG** 4 , **@MIRKOVASI2:** 4 , **CHANGE** 4 , **TRUMP** 3 , **ALWAYS** 3 , **--** 3 , **SUNDAY** 3 , **CAT** 3 , **BEST** 3 , **FRIENDS** 3 , **@WALDEK_K1:** 3 , **HAPPY** 3 , **SONG** 3 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# hackersfestivalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1481665147311697927/nvs-HB1v_normal.jpg)
+ 
+`User ScreenName:` hackersfestival 
+ 
+`User chosen Name:` Hacker's Fest (Cyber Camp) 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 13 14:34:38 +0000 2022 
+ 
+`User Description?:` CyberCamp is an initiative where a mentor is paired with a mentee for mentorship in cyber security. 
+ 
+`Followers?: `23 
+ 
+`Following?:` 74 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1481665147311697927/nvs-HB1v_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOT** 7 , **GIANT** 7 , **GUESS** 7 , **START** 7 , **LEARNING** 7 , **LOOKING** 7 , **FORWARD** 7 , **BUG** 5 , **JOIN** 5 , **NIGERIA** 4 , **CYBERCAMP** 4 , **BOUNTY** 4 , **@HARRIS0FT** 3 , **GIANTS** 3 , **SPACE** 3 , **DISCUSSING** 3 , **METHODOLOGY** 3 , **@XYMBIZ:** 2 , **CYBERSECURITY** 2 , **@JACOBSAMATHIAS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @Xymbiz: Check my drive for relevant cybersecurity resources.
+
+That's my quota to your career growth 😁😁
+
+You are welcome!!!!
+
+https://t.…Cyber Camp was built from the idea of improving the ecosystem of Cybersecurity in Nigeria and as grown to what it i… https://t.co/QvBWrtVaE8
+ 
+# TammySi61356297USER INFO
+![image](http://pbs.twimg.com/profile_images/1479485762466951174/jeo8KRPn_normal.jpg)
+ 
+`User ScreenName:` TammySi61356297 
+ 
+`User chosen Name:` Voodoo Doll 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 07 15:50:11 +0000 2022 
+ 
+`User Description?:` Dem Voter 24/7 because I understand the assignment. WE are stronger TOGETHER 💪🏼 #GetUp #LGBTQ #BLM #RESIST 
+ 
+`Followers?: `543 
+ 
+`Following?:` 740 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 139 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1479485762466951174/jeo8KRPn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 140 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JIM2U2:** 14 , **FOLLOW** 11 , **VET** 10 , **I’M** 9 , **CAN’T** 8 , **YOU’RE** 8 , **RAND** 8 , **TIME** 7 , **FAMILY** 7 , **FAKE** 6 , **KEEPERS** 5 , **LOVE** 5 , **NEVER** 5 , **HOME** 5 , **MANY** 5 , **@WHUGIRL64** 5 , **PAUL** 5 , **FAUCI** 5 , **RESISTER** 5 , **LISTERS** 5 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# 1magslvnUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` 1magslvn 
+ 
+`User chosen Name:` Magslvn 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 08 22:04:37 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 67 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 3 , **BREAKING:** 3 , **@CHIPFRANKLIN:** 3 , **STATE** 2 , **SENATOR** 2 , **60-VOTE** 2 , **THRESHOLD** 2 , **PASS** 2 , **AMERICANS** 2 , **SUPREME** 2 , **COURT** 2 , **T…RT** 2 , **LET** 2 , **DOWN** 2 , **DISTRICT** 2 , **DESTROYS** 2 , **@JONCOOPERTWEETS:** 2 , **THAN** 2 , **SOME** 2 , **@NATHALIEJACOBY1** 1 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# CarolynCNorris2USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` CarolynCNorris2 
+ 
+`User chosen Name:` Notgonnadothatnomore 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 13 16:13:09 +0000 2022 
+ 
+`User Description?:` Retired RN original account hacked, but this says it all Vote Blue in 22 
+ 
+`Followers?: `0 
+ 
+`Following?:` 52 
+ 
+`User URL?:` None 
+ 
+`Location:` Georgia, USA 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THANKS** 2 , **ACCOUNT** 2 , **RT** 1 , **@OWENSFORGEORGIA:** 1 , **I’M** 1 , **MICHAEL** 1 , **OWENS** 1 , **DEMOCRAT** 1 , **RUNNING** 1 , **SECRETARY** 1 , **STATE** 1 , **GEORGIA** 1 , **MARINE** 1 , **CORPS** 1 , **VET** 1 , **CYBERSECURITY** 1 , **EXPERT…@MARYWILLS001** 1 , **@STARRHACKS** 1 , **MARY@CHARLESLIAM13** 1 , **@JESSICAM6946** 1 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# ArazArashiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482414419158212610/6M8hbiGX_normal.jpg)
+ 
+`User ScreenName:` ArazArashi 
+ 
+`User chosen Name:` Araz Arashi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 15 18:08:26 +0000 2022 
+ 
+`User Description?:` Professional Trader 
+ 
+`Followers?: `1 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482414419158212610/6M8hbiGX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **INFLUENCERS** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , **S…RT** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , **OPPORTUNITY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# LuizJigarUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482405019580260357/BfpfeC1O_normal.jpg)
+ 
+`User ScreenName:` LuizJigar 
+ 
+`User chosen Name:` Luiz jigar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 15 17:30:43 +0000 2022 
+ 
+`User Description?:` Professional Trader 
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482405019580260357/BfpfeC1O_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **INFLUENCERS** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , **S…RT** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , **OPPORTUNITY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# JohnsonAwpUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482396484192673800/shzV0I8e_normal.jpg)
+ 
+`User ScreenName:` JohnsonAwp 
+ 
+`User chosen Name:` Johnson awp20 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 15 16:57:11 +0000 2022 
+ 
+`User Description?:` Professional Trader 
+ 
+`Followers?: `1 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482396484192673800/shzV0I8e_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , **S…RT** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , **OPPORTUNITY** 1 , **FLOAT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# shyffer_deniseUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` shyffer_denise 
+ 
+`User chosen Name:` denise shyffer 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 12 00:26:30 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 232 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 868 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 21 , **DOJ** 11 , **RALLY** 11 , **@MUELLERSHEWROTE:** 10 , **HOSTAGE** 10 , **US** 10 , **VOTING** 9 , **@SANDIBACHOM:** 9 , **TRUMP’S** 8 , **SITUATION** 8 , **FILIBUSTER** 8 , **RIGHTS** 7 , **ELECTION** 7 , **TEXAS** 7 , **DAY** 7 , **I’M** 6 , **VOTE** 6 , **DEMOCRACY** 6 , **STILL** 6 , **@BERNICEKING:** 6 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# LowellM02971709USER INFO
+![image](http://pbs.twimg.com/profile_images/1479636155951988739/9DsYnKRM_normal.png)
+ 
+`User ScreenName:` LowellM02971709 
+ 
+`User chosen Name:` Lowell Miller 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 08 02:08:44 +0000 2022 
+ 
+`User Description?:` Liberal.  Democrat 
+ 
+`Followers?: `32 
+ 
+`Following?:` 165 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1479636155951988739/9DsYnKRM_normal.png 
+ 
+`Number of tweets excluding replies:` 430 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@RONFILIPKOWSKI** 35 , **@JULES1327** 26 , **@ACOYNE** 20 , **@CELLIOTTABILITY** 15 , **@PROJECTLINCOLN** 15 , **TRUMP** 14 , **ALEX** 13 , **PEOPLE** 12 , **FOLLOW** 11 , **GOOD** 11 , **JONES** 11 , **@ADAMKINZINGER** 10 , **DEMOCRACY** 8 , **NEED** 8 , **BACK** 7 , **SOME** 7 , **DON'T** 6 , **KING** 6 , **DOWN** 5 , **FAMILY** 5 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# lionelkaveeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482395063435018250/8WjKfN6L_normal.jpg)
+ 
+`User ScreenName:` lionelkavee 
+ 
+`User chosen Name:` lionel kavee 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 15 16:51:31 +0000 2022 
+ 
+`User Description?:` Professional Trader 
+ 
+`Followers?: `1 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482395063435018250/8WjKfN6L_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , **S…RT** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , **OPPORTUNITY** 1 , **FLOAT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# bankapiva4USER INFO
+![image](http://pbs.twimg.com/profile_images/1482821152619872261/AZP9xfF2_normal.png)
+ 
+`User ScreenName:` bankapiva4 
+ 
+`User chosen Name:` banka piva 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 16 21:04:46 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482821152619872261/AZP9xfF2_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL** 2 , **@SOLID_GROUP_1** 2 , **EEERT** 2 , **@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **@METAMALL_IO** 2 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **!** 1 , **🎊** 1 , **S…@METAMALL_IO** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# JulianaMorawsk3USER INFO
+![image](http://pbs.twimg.com/profile_images/1479585825251811329/21RelUij_normal.jpg)
+ 
+`User ScreenName:` JulianaMorawsk3 
+ 
+`User chosen Name:` Jewels RN 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 07 22:41:33 +0000 2022 
+ 
+`User Description?:` Cranky old ER RN, worried citizen, basketball/science/GSD junkie FINALLY back on Twitter 
+ 
+`Followers?: `0 
+ 
+`Following?:` 39 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 30 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1479585825251811329/21RelUij_normal.jpg 
+ 
+`Number of tweets excluding replies:` 30 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MALCOLMNANCE** 4 , **WORKERS** 4 , **MAN** 3 , **HE’S** 3 , **HEALTH** 3 , **CARE** 3 , **REALITY** 2 , **I’M** 2 , **BIG** 2 , **@RONFILIPKOWSKI** 2 , **MIGHT** 2 , **TOO** 2 , **ENRAGED** 2 , **@RUBENGALLEGO** 2 , **HOSPITAL** 2 , **@MARSHABLACKBURN** 1 , **PLEASE** 1 , **DISCUSS** 1 , **ISSUES** 1 , **POLICY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
+ 
+# AdelenJahaniUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482393206138548224/XSSdy_pf_normal.jpg)
+ 
+`User ScreenName:` AdelenJahani 
+ 
+`User chosen Name:` Adelen jahani 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 15 16:43:50 +0000 2022 
+ 
+`User Description?:` Professional Trader 
+ 
+`Followers?: `0 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482393206138548224/XSSdy_pf_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **INFLUENCERS** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , **S…RT** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , **OPPORTUNITY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# NaviMarkeloofUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482391748424912897/77yG60jW_normal.jpg)
+ 
+`User ScreenName:` NaviMarkeloof 
+ 
+`User chosen Name:` navi markeloof 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 15 16:38:19 +0000 2022 
+ 
+`User Description?:` Professional Trader 
+ 
+`Followers?: `0 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482391748424912897/77yG60jW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , **S…RT** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , **OPPORTUNITY** 1 , **FLOAT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# VladKuchUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482817798481059848/4r5R1a8M_normal.jpg)
+ 
+`User ScreenName:` VladKuch 
+ 
+`User chosen Name:` Vlad Kuch 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 16 20:50:59 +0000 2022 
+ 
+`User Description?:` Football player 
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482817798481059848/4r5R1a8M_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**METAMALL** 3 , **🚀** 2 , **X** 2 , **WHITELIST** 2 , **COMPETITION** 2 , **GRAB** 2 , **LAND** 2 , **NFT** 2 , **🔥** 2 , **@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **JOIN** 1 , **GAMEFI** 1 , **CAPITAL** 1 , **CHANCE** 1 , **METAMALL'S** 1 , **PRE-SALE** 1 , **SLOT!** 1 , **HTTPS://TCO/G0SDVNFNYURT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# ErnestValverde3USER INFO
+![image](http://pbs.twimg.com/profile_images/1482379059111858180/kBLBLz2p_normal.jpg)
+ 
+`User ScreenName:` ErnestValverde3 
+ 
+`User chosen Name:` Ernest Valverde 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 15 15:47:14 +0000 2022 
+ 
+`User Description?:` Professional Trader 
+ 
+`Followers?: `0 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482379059111858180/kBLBLz2p_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , **S…RT** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , **OPPORTUNITY** 1 , **FLOAT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# StephanYare2USER INFO
+![image](http://pbs.twimg.com/profile_images/1482376570438307849/iDxpQBca_normal.jpg)
+ 
+`User ScreenName:` StephanYare2 
+ 
+`User chosen Name:` Stephan Yare 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 15 15:38:00 +0000 2022 
+ 
+`User Description?:` Professional Trader 
+ 
+`Followers?: `0 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482376570438307849/iDxpQBca_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , **S…RT** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , **OPPORTUNITY** 1 , **FLOAT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# AlexanderBSC66USER INFO
+![image](http://pbs.twimg.com/profile_images/1482368818273992714/xTriX7Dx_normal.jpg)
+ 
+`User ScreenName:` AlexanderBSC66 
+ 
+`User chosen Name:` alexander 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 15 15:06:11 +0000 2022 
+ 
+`User Description?:` Professional Trader 
+ 
+`Followers?: `1 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482368818273992714/xTriX7Dx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , **S…RT** 1 , **@METAMALL_IO:** 1 , **GRAB** 1 , **OPPORTUNITY** 1 , **FLOAT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
+ 
+# _wth_lw_frm_UAUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482121791464218628/YJwsapXf_normal.jpg)
+ 
+`User ScreenName:` _wth_lw_frm_UA 
+ 
+`User chosen Name:` З неньки України про криптовалюти 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 14 22:29:24 +0000 2022 
+ 
+`User Description?:` Розповідаю, викладаю інформацію про найкрутіші тренди в світі криптовалют. Контент унікальний. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 12 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1482766657563074560/eEgZIHt0_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1482121791464218628/YJwsapXf_normal.jpg 
  
 `Number of tweets excluding replies:` 12 
  
@@ -342,68 +1313,32 @@ RT @NCSC: In this week's Threat Report: Multiple SonicWall vulnerabilities https
  
 ## User Top tweeted words 
  
-**@BUSINESSINSIDER:** 3 , **LOOK** 2 , **@FORBES:** 2 , **MICROSOFT** 2 , **DISCOVERED** 2 , **SECURITY** 2 , **RT** 1 , **BRANDS** 1 , **MAKE** 1 , **FOOD** 1 , **COMMERCIALS** 1 , **DELICIOUS?** 1 , **TAKES** 1 , **GREAT** 1 , **AMOUNT** 1 , **ENGINEERING** 1 , **HTTPS://TCO/BTAEK7AT…RT** 1 , **@BUSINESSLIVESA:** 1 , **CONTINUING** 1 , **DELAYS** 1 , 
+**PUBLISHED** 3 , **@GAMEFICAPITAL:** 2 , **PARTNERSHIP** 2 , **📣** 2 , **METAMALL** 2 , **WHITELIST** 2 , **AXELAR** 2 , **ПРО** 2 , **НЕ** 2 , **RT** 1 , **🔥** 1 , **ANNOUNCEMENT!** 1 , **🚀** 1 , **GAMEFICAPITAL** 1 , **PROUD** 1 , **ANNOUNCE** 1 , **OFFICIAL** 1 , **@SOLID_GROUP_1** 1 , **!** 1 , **🎊** 1 , 
  
 ## What this user tweeted
  
-RT @Forbes: Microsoft revealed it has discovered  97 new security vulnerabilities in its operating systems, impacting all versions of Windo…
+RT @gameficapital: 🔥 Partnership Announcement! 📣
+
+🚀 #GameFiCapital is proud to announce our official partnership with @solid_group_1 ! 🎊
+
+S…
  
-# illegally_bekaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1480011426391465987/EMj7cY-h_normal.jpg)
+# skypilot19481USER INFO
+![image](http://pbs.twimg.com/profile_images/1482005285162078213/QxnymDj-_normal.jpg)
  
-`User ScreenName:` illegally_beka 
+`User ScreenName:` skypilot19481 
  
-`User chosen Name:` @beka_valentine was suspen ded this is new account 
+`User chosen Name:` Skypilot1948 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 09 02:54:39 +0000 2022 
+`User signup date?:` Thu Jan 13 19:38:16 +0000 2022 
  
-`User Description?:` trans dyke hacking on @QueeriousLabs and DDoSecrets; she/her (xey/xem or ey/em if you're bored with binaries); no child zone, 18+ only 
+`User Description?:` Mild mannered, till someone tries to screw over me. X USMC 0331 machine gunner with a BAD attitude, who hates liars,scammers and cheaters,and MOST Repukelicans. 
  
-`Followers?: `998 
+`Followers?: `4 
  
-`Following?:` 1652 
- 
-`User URL?:` https://t.co/IITiXg8bBj 
- 
-`Location:` SF, CA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1480011426391465987/EMj7cY-h_normal.jpg 
- 
-`Number of tweets excluding replies:` 1044 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WORKINGJUBILEE** 13 , **@NIREBRYCE** 13 , **WHERE** 11 , **SOME** 11 , **THINGS** 11 , **THING** 9 , **GAME** 9 , **THEN** 8 , **THESE** 8 , **WORLD** 8 , **REALLY** 8 , **US** 8 , **SURE** 8 , **GOOD** 7 , **IDEA** 7 , **DAY** 7 , **OTHER** 7 , **STUFF** 6 , **THAT'S** 6 , **SAY** 6 , 
- 
-## What this user tweeted
- 
-if you know about snappers or bump keys, you can use that knowledge. if you know about vulnerabilities of, say, Ame… https://t.co/EtXHwE4Ywvfor instance, it would be somewhat more interesting i think to have a variety of tools that can work on different k… https://t.co/aqR3iiw71hbut in the DX universe, cameras universally are functional, not deterrents, which means that having these features… https://t.co/AGCBl1OpQS
- 
-# SonalinDikshitUSER INFO
-![image](http://pbs.twimg.com/profile_images/1482376355975397380/wUjyF1P1_normal.jpg)
- 
-`User ScreenName:` SonalinDikshit 
- 
-`User chosen Name:` Sonalin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 11 13:37:53 +0000 2022 
- 
-`User Description?:` A civil Engineer
-A passionate blogger 
- 
-`Followers?: `10 
- 
-`Following?:` 4 
+`Following?:` 38 
  
 `User URL?:` None 
  
@@ -411,48 +1346,9 @@ A passionate blogger
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1482376355975397380/wUjyF1P1_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1482005285162078213/QxnymDj-_normal.jpg 
  
-`Number of tweets excluding replies:` 525 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CMO_ODISHA** 73 , **OPSC** 55 , **EXAM** 33 , **@NAVEEN_ODISHA** 31 , **POSTPONE_OPSC_MAINS** 29 , **@SATYAJITIPS88** 25 , **@AMAR4ODISHA** 22 , **PLEASE** 22 , **ASPIRANTS** 19 , **SIR** 19 , **MAINS** 16 , **COVID** 16 , **POSTPONE** 15 , **US** 14 , **@GAPG_DEPT** 14 , **@ATRIPATHY8:** 13 , **@SECYCHIEF** 13 , **OCS** 12 , **@DEVMOHANTY23:** 12 , **@IPR_ODISHA** 11 , 
- 
-## What this user tweeted
- 
-RT @Drmitsme: @satyajitips88 @RafaelNadal Sir,you are more sympathetic to @RafaelNadal 's covid +ve issue,also so-called mild.But don't car…
- 
-# ggmayfayUSER INFO
-![image](http://pbs.twimg.com/profile_images/1480249437238837249/lPWZRbeQ_normal.jpg)
- 
-`User ScreenName:` ggmayfay 
- 
-`User chosen Name:` GISELE MAYFAIR 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 09 18:13:54 +0000 2022 
- 
-`User Description?:` superficial & worthmore by default 
- 
-`Followers?: `0 
- 
-`Following?:` 3 
- 
-`User URL?:` https://t.co/4KgmsjGtL6 
- 
-`Location:` up innis peace 
- 
-`Number of tweets extracted`  : 83 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1480249437238837249/lPWZRbeQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 83 
+`Number of tweets excluding replies:` 353 
  
 
  
@@ -460,11 +1356,12 @@ RT @Drmitsme: @satyajitips88 @RafaelNadal Sir,you are more sympathetic to @Rafae
  
 ## User Top tweeted words 
  
-**FEEL** 12 , **NEVER** 9 , **MYSELF** 8 , **LET** 6 , **PERSON** 6 , **NEED** 6 , **I’M** 6 , **INTO** 5 , **LOVE** 5 , **PEOPLE** 5 , **BEING** 5 , **DON’T** 5 , **OTHERS** 5 , **SOMEONE** 5 , **SHOULD’VE** 5 , **THESE** 4 , **THINGS** 4 , **SORRY** 4 , **THAN** 4 , **EVER** 4 , 
+**TRUMP** 17 , **PRESIDENT** 10 , **COULD** 10 , **FAKE** 9 , **RIGHTS** 9 , **VERY** 7 , **REPUBLICANS** 7 , **DEMOCRACY** 7 , **LOOK** 7 , **EVEN** 7 , **DON'T** 7 , **GOOD** 6 , **RUNNING** 6 , **PEOPLE** 6 , **GOING** 6 , **LAW** 6 , **US** 6 , **6** 6 , **DAY** 6 , **VOTING** 6 , 
  
 ## What this user tweeted
  
-I truly sleep @ night knowing I was right, it just hurts to know ur being sabotaged &amp; gaslit on an emotional level.… https://t.co/h7lJk0FiF3…Just because they financially support you. While they lie to you, lie on your character and name to others. Use yo… https://t.co/Pfjrx7xJBT
+RT @OwensForGeorgia: I’m Michael Owens, Democrat running for Secretary of State in Georgia.
+As a Marine Corps vet and cybersecurity expert,…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
