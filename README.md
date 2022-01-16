@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **bad_packets**  
+The most popular user is: **petergyang**  
  
 
-## Mass scanning activity detected from multiple hosts checking for servers using Apache Log4j (Java logging library)… https://t.co/KSidsGeYwk 
+## Just had a call with someone on Forbes 30 under 30 list and came away really impressed.
+
+He shared with me how he m… https://t.co/YtRy52QO4U 
 
   
 
@@ -23,24 +25,24 @@ The most popular user is: **bad_packets**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| "Guidance for preventing, detecting, and hunting for exploitation of the Log4j 2 vulnerability"#loh4j #log4shell… https://t.co/P73qTPrFwY |
-| RT @BaoshengbinCumt: #APT #PALESTINE #Gaza #APT-C-23 #CTI #threatintel #threathunting #Espionage I research remote control commands of AP… |
-| RT @javier_carriazo: #FBI warns cybercriminals have tried to hack US firms by mailing malicious USB drives #OSIN #DataBreaches #DarkWeb #Cy… |
+| RT @beingsheerazali: AlphaGolang - IDApython Scripts for Analyzing Golang Binaries https://t.co/Nga7aGdb6p #infosec #cybersecurity #redte… |
+| @nousie @ttheveii0x @dntlookbehindu @Grifter801 @knarphie @zarchasmpgmr @AlyssaM_InfoSec @d4rkm4tter @LitMoose… https://t.co/W8uv2Wr8TC |
+| RT @vallumsoftware: How combining human expertise and #AI can stop #cyberattacks - https://t.co/wIVQJQsEWh #security #cybersecurity #ITsecu… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **threatintel** |
-| #3 Most tweeted to  | **javier_carriazo** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 0.76%|
+| #1 Most tweeted to  | **GalaxyKiiara** |
+| #2 Most tweeted to  | **AlyssaM_InfoSec** |
+| #3 Most tweeted to  | **bamitav** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 2.54%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,57 +52,57 @@ The most popular user is: **bad_packets**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DATABREACHES**  |
-| second  | **DARKWEB**  |
-| third  | **OSINT** |
-| fourth  | **INFOSEC**  |
-| fifth  | **CYBERSEC**  |
+| first  | **INFOSEC**  |
+| second  | **PYTHON**  |
+| third  | **PROGRAMMING** |
+| fourth  | **IOT**  |
+| fifth  | **JAVASCRIPT**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (64.29%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (35.71%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#Covid19 #Spam #SuspiciousDomain: tradmile[.workVirusTotal: https://t.co/6db5WxQTIq#CyberSecurity #ThreatIntel (bot generated) |
+|INFORMATION SECURITY !!! #INFOSEC #NFT #MEMEWARS https://t.co/scKRNa1ZtO |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bad_packets**  |
+| The most retweeted user is: **petergyang**  |
 | ------------- |
-| Mass scanning activity detected from multiple hosts checking for servers using Apache Log4j (Java logging library)… https://t.co/KSidsGeYwk |
+| Just had a call with someone on Forbes 30 under 30 list and came away really impressed.He shared with me how he m… https://t.co/YtRy52QO4U |
 
 # Potential Fake Accounts
  
-# DatagridSurfaceUSER INFO
-![image](http://pbs.twimg.com/profile_images/1481242543174074373/XzjjnuBi_normal.jpg)
+# ricardoTech9USER INFO
+![image](http://pbs.twimg.com/profile_images/1480459496824528896/vmI60jO__normal.jpg)
  
-`User ScreenName:` DatagridSurface 
+`User ScreenName:` ricardoTech9 
  
-`User chosen Name:` DataGrid Surface 
+`User chosen Name:` Ricardo Calderon 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 12 12:15:19 +0000 2022 
+`User signup date?:` Mon Jan 10 07:43:51 +0000 2022 
  
-`User Description?:` DataGrid Surface is a collection of vulnerable devices on the internet. Our mission is to ensure higher accuracy in vulnerabilities scans. 
+`User Description?:` Husband, Father of 2 princesses! | Civil Engineer⚙🔧| lover of pets 
  
 `Followers?: `1 
  
-`Following?:` 7 
+`Following?:` 8 
  
-`User URL?:` https://t.co/56sEARPcdf 
+`User URL?:` None 
  
-`Location:` Earth 
+`Location:` New York, USA 
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 107 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1481242543174074373/XzjjnuBi_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1480459496824528896/vmI60jO__normal.jpg 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 107 
  
 
  
@@ -108,11 +110,133 @@ VIEWS WERE : **SUBJECTIVE**  (64.29%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 2 , **DGS'S** 1 , **FOCUS** 1 , **QUANTITY** 1 , **QUALITY** 1 , **DAILY** 1 , **UPDATED** 1 , **FEEDS** 1 , **TREMENDOUS** 1 , **EFFECT** 1 , **INDUST…** 1 , **HTTPS://TCO/3AF3I0IWXQDGS** 1 , **RELEASING** 1 , **SOON** 1 , **COLLECTION** 1 , **LEAKED** 1 , **PASSWORDS** 1 , **PAST** 1 , **10ISH** 1 , **YEARS** 1 , 
+**SAME** 99 , **EXPERIENCE** 99 , **GOT** 98 , **BACK** 98 , **HELP** 97 , **@INSTAGRAM** 59 , **@SNAPCHATSUPPORT** 19 , **@MOSSERI** 12 , **@SAILORKHADS** 12 , **@MESSENGER** 7 , **@LOUIS_VIA_ROMA** 6 , **@META** 5 , **ACCOUNT** 4 , **@SNAPCHAT** 2 , **@FACEBOOKAPP** 2 , **@FBSECURITY** 2 , **@FACEBOOK** 2 , **@ISSAKSTEVENSON@THEWIZARDOZ1** 2 , **DOING** 2 , **I…** 2 , 
  
 ## What this user tweeted
  
-DGS's focus is not on quantity but quality. Daily updated feeds with tremendous effect on the #CyberSecurity indust… https://t.co/3af3i0IWxq
+RT @Rootsector: #WebAppHacking, Part 6: Injecting a #Backdoor with #weevely  #cybersecurity #cyberwarrior #infosec #rootsector 
+
+https://t.…
+ 
+# infosec_babyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1479297486535622656/c2_KOZm7_normal.jpg)
+ 
+`User ScreenName:` infosec_baby 
+ 
+`User chosen Name:` cybersecurity 👶🏻 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 07 03:29:46 +0000 2022 
+ 
+`User Description?:` baby cybersecurity student. i’m a beginner but i’m learning! 😇 first-gen 
+ 
+`Followers?: `8 
+ 
+`Following?:` 65 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 16 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1479297486535622656/c2_KOZm7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 16 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I’M** 7 , **CYBERSECURITY** 6 , **SEMESTER** 3 , **WOMEN** 2 , **NEED** 2 , **NEW** 2 , **STUDENT** 2 , **SWITCHED** 2 , **INTO** 2 , **MAJOR** 2 , **LAST** 2 , **FAR** 2 , **COMPLETE** 2 , **BEGINNER** 2 , **PATH** 2 , **EXCITED** 2 , **GOT** 2 , **STOP** 2 , **EVERYONE** 2 , **RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Shestheitgirll: Women need other women in their lives who think they are a BIG DEAL. NO competition, NO backhanded comments, NO jealous…
+ 
+# cartyalex82USER INFO
+![image](http://pbs.twimg.com/profile_images/1482403541423882242/K3iNROMY_normal.jpg)
+ 
+`User ScreenName:` cartyalex82 
+ 
+`User chosen Name:` Alex Cartwright 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 11 16:37:53 +0000 2022 
+ 
+`User Description?:` If you lie, you're a piece of shit. If you spread lies, you're a piece of shit. So basically if you aren't an honest human.. YOU'RE A PIECE OF SHIT 
+ 
+`Followers?: `74 
+ 
+`Following?:` 228 
+ 
+`User URL?:` None 
+ 
+`Location:` Sydney Australia 
+ 
+`Number of tweets extracted`  : 158 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482403541423882242/K3iNROMY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 159 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HERE** 9 , **THESE** 9 , **YEARS** 8 , **@JOEBIDEN** 7 , **PEOPLE** 7 , **AUSTRALIA** 6 , **DOES** 6 , **YEAR** 6 , **THAN** 5 , **NEVER** 5 , **@DJOKERNOLE** 5 , **NOVAK** 5 , **COVID** 5 , **2** 4 , **THING** 4 , **YOU'RE** 4 , **EVER** 4 , **HE'S** 4 , **OFF** 4 , **WATCH** 4 , 
+ 
+## What this user tweeted
+ 
+@schmucksidyboy @infosec_jcp @johncardillo Accept you.@infosec_jcp @johncardillo 😂😂😂😂😂😂 Yeah, Fauci's a genius!!!!!
+ 
+# 3000_hayatUSER INFO
+![image](http://pbs.twimg.com/profile_images/1482201159284805632/QyyBcZDI_normal.jpg)
+ 
+`User ScreenName:` 3000_hayat 
+ 
+`User chosen Name:` Muhammad Hayat 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 12 17:01:28 +0000 2022 
+ 
+`User Description?:` #Data_Science | #Machine_Learning | #Artificial_intelligence | #Engineer | #pakdataScience | I Love #Coding | 
+ 
+`Followers?: `13 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:` Pakistan 
+ 
+`Number of tweets extracted`  : 15 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1482201159284805632/QyyBcZDI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 15 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@IMRANKHANPTI** 8 , **@ZARTAJGULWAZIR** 7 , **@AAMMAR_TUFAIL** 7 , **DATA** 6 , **PAKISTAN** 6 , **PAKDATASCIENCE** 4 , **BANGLADESH** 3 , **VS** 2 , **SCIENCE** 2 , **FUTURE** 2 , **INDIA** 2 , **D…RT** 2 , **FOOD** 2 , **YIELD** 2 , **(FAO** 2 , **STATS)** 2 , **@EHTISHAMAHMAD99:** 2 , **@QURATULAINHABIB** 2 , **RT** 1 , **@ONLY_NENYE:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TechTalkHQ_: The Future of #ArtificialIntelligence
+
+#DigitalTransformation
+#metaverse #technology #tech #future #innovation #MachineLea…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
