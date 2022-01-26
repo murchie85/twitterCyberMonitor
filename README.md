@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **cnoanalysis**  
+The most popular user is: **PinataHub_Bot**  
  
 
-## EXCITING NEWS! We've launched the Journal of Threat Intelligence and Incident Response #JTIIR delivering peer-revie… https://t.co/szlz3ufZlI 
+## If you don't remember retweeting this, it means that you have leaked your Twitter Access Token in a public GitHub r… https://t.co/5paIgeQU0r 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **cnoanalysis**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CyberIQs_: How to use tokenization to improve data security and reduce audit #infosec #infosecurity #cybersecurity #threatintel #threat… |
-| RT @Malwar3Ninja: [https://t.co/otlIKKaN3I]🌀Our proactive hunter detected 10 #Qakbot c286.98.53.]113185.249.85.]20965.100.174.]11165.1… |
-| RT @javier_carriazo: Two-Fifths of Ransomware Victims Still Paying Up  #DataBreaches #DarkWeb #CyberSec #infosec #Security #cybercrime #Th… |
+| RT @n0x08: I can't wait for InfoSec interviews in a couple years."Tell me about some of your security research""Well, I own $10k in CVE… |
+| RT @programmerjoke9: There are speeling errors ik#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie #python… |
+| Microsoft warns about this phishing attack that wants to read your #infosec #infosecurity #cybersecurity… https://t.co/haslrVpMUv |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CyberIQs_** |
-| #2 Most tweeted to  | **cnoanalysis** |
-| #3 Most tweeted to  | **JinibaBD** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 0.85%|
+| #1 Most tweeted to  | **AlyssaM_InfoSec** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **programmerjoke9** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 2.48%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,56 +51,56 @@ The most popular user is: **cnoanalysis**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **INFOSECURITY**  |
-| third  | **THREATINTEL** |
-| fourth  | **@CYBERIQS_:**  |
-| fifth  | **THREAT**  |
+| second  | **PROGRAMMING**  |
+| third  | **PENTESTING** |
+| fourth  | **LINUX**  |
+| fifth  | **SOME**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|As LeakTheAnalyst counts down to the publication of their alleged @CyberArk breach, they have updated their site ca… https://t.co/ovRvmWS6ED |
+|“With #ArcSight SOAR, we have cut down the number of daily alerts to our #SOC,” says Odeabank’s #infoSec Senior Spe… https://t.co/x5ZHmk5GaN |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **cnoanalysis**  |
+| The most retweeted user is: **PinataHub_Bot**  |
 | ------------- |
-| EXCITING NEWS! We've launched the Journal of Threat Intelligence and Incident Response #JTIIR delivering peer-revie… https://t.co/szlz3ufZlI |
+| If you don't remember retweeting this, it means that you have leaked your Twitter Access Token in a public GitHub r… https://t.co/5paIgeQU0r |
 
 # Potential Fake Accounts
  
-# _JMC31337USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# AnnaCyberSecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1483710027751993344/_MTPFuJo_normal.jpg)
  
-`User ScreenName:` _JMC31337 
+`User ScreenName:` AnnaCyberSec 
  
-`User chosen Name:` JMC31337 
+`User chosen Name:` Anna Hogan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 24 20:38:45 +0000 2022 
+`User signup date?:` Wed Jan 19 07:36:30 +0000 2022 
  
-`User Description?:` HXR/VXR 
+`User Description?:` WGU '22 🦉 | Ball Aerospace 🛰 | CyberSec 💻 | Musician 🎼 
  
-`Followers?: `18 
+`Followers?: `15 
  
-`Following?:` 105 
+`Following?:` 57 
  
 `User URL?:` None 
  
-`Location:` DarkNet 
+`Location:` Alabama 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1483710027751993344/_MTPFuJo_normal.jpg 
  
-`Number of tweets excluding replies:` 541 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -108,43 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECT
  
 ## User Top tweeted words 
  
-**VIA** 78 , **(OFFICIAL** 10 , **REMIX)** 9 , **YA** 9 , **@_WHYZGUY_** 9 , **FT** 8 , **MUSIC** 8 , **@CITIZENOFTHEWO4** 8 , **@0DAYWIZARD** 8 , **EM** 7 , **VIDEO)** 7 , **DRE** 6 , **DATA** 6 , **→** 6 , **TOO** 5 , **@VXUNDERGROUND:** 5 , **RANSOMWARE** 5 , **THAT’S** 5 , **US** 5 , **SAY** 5 , 
+**@JOEHELLE** 2 , **MEETING** 2 , **@EDNAS** 2 , **@ALYSSAM_INFOSEC** 1 , **UPGRADED** 1 , **LAST** 1 , **WEEK** 1 , **EVERYTHING** 1 , **GREAT!** 1 , **NEW** 1 , **INTERFACE** 1 , **MESSAGES** 1 , **FACE…** 1 , **HTTPS://TCO/5Z3IR7NIB3@ELSAWAINBLUM** 1 , **TRYING** 1 , **CRACK** 1 , **1%!** 1 , **HTTPS://TCO/IL1ZO3JKREYESTERDAY** 1 , **AMAZING** 1 , **(AKA** 1 , 
  
 ## What this user tweeted
  
-RT @BranhamRoen: 2FA Bypassed in $34.6M https://t.co/r8YBGgDYRI Heist: #Crypto #Hacking | #CybersecurityNews
-WATCH FULL VIDEO &gt;&gt; https://t.…
+@AlyssaM_InfoSec I upgraded last week and everything has been great! I like the new interface for Messages and Face… https://t.co/5z3Ir7NiB3
  
-# SquattinBuffal0USER INFO
-![image](http://pbs.twimg.com/profile_images/1484575453235064834/LTlwf_Hj_normal.jpg)
+# log4jwUSER INFO
+![image](http://pbs.twimg.com/profile_images/1484240068525142020/-HRY-Yq7_normal.jpg)
  
-`User ScreenName:` SquattinBuffal0 
+`User ScreenName:` log4jw 
  
-`User chosen Name:` El Squatto Buffalafalo 
+`User chosen Name:` JW 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 20 19:08:28 +0000 2022 
+`User signup date?:` Thu Jan 20 09:08:58 +0000 2022 
  
-`User Description?:` 🧢Blue Team | Threat Hunting | DFIR 
-Metalhead |👹Horror Junkie 
-🏋️‍♂️Dirty Gym Rat 
-Seeker of adventure ᛋᚲᚨᛚ
-*Thoughts are that of my own cosmic flesh vessel* 
+`User Description?:` Stepped into the Cybersecurity world. So I thought I would pick a cool, relevant name 😎 
  
-`Followers?: `112 
+`Followers?: `8 
  
-`Following?:` 628 
+`Following?:` 323 
  
 `User URL?:` None 
  
-`Location:` America's Armpit 
+`Location:`  
  
-`Number of tweets extracted`  : 96 
+`Number of tweets extracted`  : 10 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1484575453235064834/LTlwf_Hj_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1484240068525142020/-HRY-Yq7_normal.jpg 
  
-`Number of tweets excluding replies:` 96 
+`Number of tweets excluding replies:` 10 
  
 
  
@@ -152,42 +147,86 @@ Seeker of adventure ᛋᚲᚨᛚ
  
 ## User Top tweeted words 
  
-**SOME** 10 , **THROUGH** 9 , **OH** 8 , **AWESOME** 6 , **FEW** 5 , **LOOKING** 5 , **REALLY** 5 , **INTO** 4 , **LOT** 4 , **READING** 4 , **YEAH** 4 , **ANY** 4 , **FIRST** 4 , **PEOPLE** 4 , **HELL** 4 , **WORK** 4 , **THANK** 4 , **THANKS** 4 , **GOT** 4 , **TOO** 3 , 
+**CYBERSECURITY** 3 , **NMAP** 2 , **GOT** 2 , **RECENT** 2 , **SBOM** 2 , **RANSOMWARE** 2 , **RT** 1 , **@THREATINTEL:** 1 , **UK** 1 , **GOVERNMENT** 1 , **RELEASING** 1 , **SCRIPTS** 1 , **FIND** 1 , **UNPATCHED** 1 , **VULNERABILITIES** 1 , **HTTPS://TCO/UC1IC6GNOD@CYBER_DRUM** 1 , **@SHEHACKSPURPLE** 1 , **RECENTLY** 1 , **FOOT** 1 , **MENTOR!** 1 , 
  
 ## What this user tweeted
  
-RT @klrgrz: Pinning this thread of #CTI tips and lessons learned. I'll add to it at random times. 
-
-#threatintel 
-
-https://t.co/c6snTsXscI
+@cyber_drum @shehackspurple I recently got my foot in with a mentor! Just keep studying and don’t give up, you got this! 🙏🏻 #infosec
  
-# IvanNastya1USER INFO
-![image](http://pbs.twimg.com/profile_images/1484830337205248001/JmuJYbBw_normal.jpg)
+# okbuddyhackerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1486338140281389058/rA-siFY6_normal.jpg)
  
-`User ScreenName:` IvanNastya1 
+`User ScreenName:` okbuddyhacker 
  
-`User chosen Name:` Ivan Nastya 
+`User chosen Name:` always learning 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 22 09:16:12 +0000 2022 
+`User signup date?:` Wed Jan 26 13:54:59 +0000 2022 
  
-`User Description?:` Big data, Analysis, Number theory 
+`User Description?:` Retired Unethical Hacker || Opinions expressed are solely my own and do not express the views or opinions of my employer. || In you’re computer !!! 
+ 
+`Followers?: `2 
+ 
+`Following?:` 154 
+ 
+`User URL?:` None 
+ 
+`Location:` 127.0.0.1 
+ 
+`Number of tweets extracted`  : 36 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1486338140281389058/rA-siFY6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 36 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**→** 6 , **-&GT;** 5 , **INFOSEC** 4 , **LINUX** 4 , **PENTESTING** 4 , **@THREE_CUBE:** 3 , **PYTHON** 3 , **CYBERSECURITY** 3 , **:-** 3 , **MEME** 2 , **MAKE** 2 , **!!!** 2 , **OPEN** 2 , **BASICS** 2 , **HACKERS** 2 , **PART** 2 , **STARTED** 2 , **DAY** 2 , **OSCP** 2 , **@BEGHACKER:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @johnjhacking: I still love this meme so much lmao. I always have my favorites that I make. #infosec https://t.co/9s0e9tlsIGRT @badsectorlabs: PrinterLogic RCEs (@TheParanoids), Java analysis (@infosec_au), DCSync from Linux (@n00py1), race conditions (@itscachem…RT @three_cube: Open Source Intelligence (OSINT): Facial Recognition Software #osint #pimeyes #facialrecognition #infosec #cyberwarrior
+
+ht…RT @three_cube: Python Basics for Hackers, Part 1: Getting Started with Python #python #python4hackers #infosec #cybersecurity #cyberwarrio…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #pentesting #oscp  #informationsecurity  #hacking #cissp #redteam   #CyberSec #…RT @three_cube: Linux Basics for Hackers, Part 11: Linux Firewalls (iptables) #iptables #linux #linux4hackers #cybersecurity #firewall #cyb…RT @TodayCyberNews: #SQL injection Bug Bounty Tips
+
+here are some tips that are used to easily find sql-Injection 100% 
+/?q=1
+/?q=1'
+/?q=1"…
+ 
+# EmamulK21USER INFO
+![image](http://pbs.twimg.com/profile_images/1486378691676753920/rLYjTSoq_normal.jpg)
+ 
+`User ScreenName:` EmamulK21 
+ 
+`User chosen Name:` Emamul Khan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 26 12:44:36 +0000 2022 
+ 
+`User Description?:` Student 
  
 `Followers?: `1 
  
-`Following?:` 31 
+`Following?:` 22 
  
 `User URL?:` None 
  
-`Location:` kiev 
+`Location:`  
  
-`Number of tweets extracted`  : 29 
+`Number of tweets extracted`  : 61 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1484830337205248001/JmuJYbBw_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1486378691676753920/rLYjTSoq_normal.jpg 
  
-`Number of tweets excluding replies:` 29 
+`Number of tweets excluding replies:` 61 
  
 
  
@@ -195,13 +234,91 @@ https://t.co/c6snTsXscI
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 6 , **F5** 6 , **DATA** 6 , **LDAP** 5 , **LEAKED** 5 , **@DEEPFRIEDCYBER:** 4 , **NEWS** 4 , **@CAMPUSCODI** 3 , **@BLEEPINCOMPUTER:** 2 , **GOVT** 2 , **USE** 2 , **SECURITY** 2 , **@SERGHEI** 2 , **REVERSE** 2 , **USERS** 2 , **THEN** 2 , **@REPORTERCOKER** 2 , **OPENED** 2 , **INFOSEC** 2 , **@CYBERKNOW20** 2 , 
+**@KINGDOMQUEST_IO:** 15 , **AIRDROP:** 12 , **PROJECT** 11 , **AIRDROP** 10 , **@CRYPTOTOWNEU:** 10 , **NEW** 8 , **💰** 7 , **🚀** 7 , **VALUE:** 6 , **👥** 6 , **REFERRAL:** 6 , **REWARD:** 6 , **TOKEN** 5 , **ANNOUNCE** 5 , **TOP** 5 , **❤** 5 , **@AIRDROPINSPECT:** 5 , **TOTAL** 5 , **RATE:** 5 , **WINNERS:** 5 , 
  
 ## What this user tweeted
  
-RT @Cyberknow20: A pretty accurate hot take. The #threatintel updates are handy and all. But it's the #MEMES that keeps em coming back.
+RT @kingdomquest_io: 🎉Security Advisor: Mr. Duc Trieu - Former General Manager of CMC InfoSec
 
-#c…
+🏆We are so grateful to introduce one of the…
+ 
+# GGsolomanUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` GGsoloman 
+ 
+`User chosen Name:` gsoloman 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 26 17:55:37 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BARBARIANSCIEN1** 1 , **@ALINAUTRATA** 1 , **EVEN** 1 , **APPLICABLE** 1 , **INFOSEC** 1 , 
+ 
+## What this user tweeted
+ 
+@BarbarianScien1 @AlinaUtrata even more applicable to #infosec
+ 
+# 0x_4eUSER INFO
+![image](http://pbs.twimg.com/profile_images/1485501299001262082/a0p6qXM__normal.jpg)
+ 
+`User ScreenName:` 0x_4e 
+ 
+`User chosen Name:` 0x4e 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 23 15:52:33 +0000 2022 
+ 
+`User Description?:` 𝐀𝐧𝐨𝐭𝐡𝐞𝐫 𝐜𝐲𝐛𝐞𝐫 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 | 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐖𝐨𝐫𝐦 
+ 
+`Followers?: `0 
+ 
+`Following?:` 37 
+ 
+`User URL?:` None 
+ 
+`Location:` ME-OW 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1485501299001262082/a0p6qXM__normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INFOSEC** 2 , **BEFORE** 2 , **RT** 1 , **@ALYSSAM_INFOSEC:** 1 , **STOP** 1 , **TELLING** 1 , **N00BS** 1 , **NEED** 1 , **WORK** 1 , **DEVELOPMENT** 1 , **NETWORKING** 1 , **WHATEVER** 1 , **HELL** 1 , **ELSE** 1 , **TH…RT** 1 , **@MARCUSCHACHULS1:** 1 , **DONT** 1 , **WANNA** 1 , **TALK** 1 , **WASTED** 1 , 
+ 
+## What this user tweeted
+ 
+RT @AlyssaM_InfoSec: STOP telling #infosec n00bs that they need to work in development, IT, Networking, or whatever the hell else before th…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
