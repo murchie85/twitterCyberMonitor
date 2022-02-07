@@ -891,3 +891,334 @@ RT @northstarr_ltd: IN CASE YOU MISSED IT: Researchers find serious vulnerabilit
 @JAYESH_UP65 @OfficialDGISPR Yes Pakistan is not Economically Superior than you but you got many vulnerabilities…wake up before its too late
  
 # ZebraSolZAUSER INFO
+![image](http://pbs.twimg.com/profile_images/1489833659557425155/Fnc0Spz-_normal.jpg)
+ 
+`User ScreenName:` ZebraSolZA 
+ 
+`User chosen Name:` SolanaZebra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 05 05:23:17 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `22 
+ 
+`Following?:` 344 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 30 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1489833659557425155/Fnc0Spz-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 30 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BITCOIN** 7 , **@WCLEMENTEIII:** 5 , **@INTOCRYPTOVERSE:** 4 , **SOLANA** 4 , **@BTC_ARCHIVE:** 3 , **$BTC** 3 , **4** 2 , **ADA** 2 , **BITCOINRT** 2 , **MINERS** 2 , **PRICE** 2 , **MOST** 2 , **MUCH** 2 , **GOOD** 2 , **RALLY** 2 , **SOME** 2 , **DIAGONAL** 2 , **STILL** 2 , **KEY** 2 , **SHORT** 2 , 
+ 
+## What this user tweeted
+ 
+RT @fintechfrank: Some takeaways from Anatoly’s AMA
+- This bug was an obvious "blind spot"
+- If Wormhole were using Soteria  - a security s…
+ 
+# Chris60767391USER INFO
+![image](http://pbs.twimg.com/profile_images/1488441179091963905/cjDXfuCM_normal.jpg)
+ 
+`User ScreenName:` Chris60767391 
+ 
+`User chosen Name:` Chris 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 01 09:16:17 +0000 2022 
+ 
+`User Description?:` I love Progress 
+ 
+`Followers?: `5 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 43 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1488441179091963905/cjDXfuCM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 43 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MOTIVATIONAL:** 14 , **@ELONMUSK:** 4 , **@PATRICKBETDAVID:** 4 , **@ELONMUSK** 3 , **PEOPLE** 3 , **OTHER** 3 , **"THE** 3 , **@ALVIN_INVESTOR:** 3 , **TESLA** 2 , **LEARN** 2 , **THINGS** 2 , **FALCON** 2 , **LAUNCH** 2 , **EACH** 2 , **I’M** 2 , **VACCINATION** 2 , **@LEXFRIDMAN:** 2 , **JOE** 2 , **ROGAN** 2 , **KEEP** 2 , 
+ 
+## What this user tweeted
+ 
+RT @Hakin9: Bluescan - A powerful Bluetooth scanner for scanning BR/LE devices, LMP, SDP, GATT and vulnerabilities! https://t.co/gUwnY3fAu6…
+ 
+# overcryptocalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1489011796576985094/KVBYfVRB_normal.jpg)
+ 
+`User ScreenName:` overcryptocal 
+ 
+`User chosen Name:` Overcryptocal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 02 16:29:31 +0000 2022 
+ 
+`User Description?:` Marketer | 2022 is the year of #DeFi insurance 🚀 | 📍🇪🇸 | 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇹 | @insurace_io $INSUR | More…🔜 
+ 
+`Followers?: `147 
+ 
+`Following?:` 38 
+ 
+`User URL?:` None 
+ 
+`Location:` Barcelona, Spain 
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1489011796576985094/KVBYfVRB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**🚀** 8 , **@DARKDORMN** 6 , **DAY** 5 , **DEFI** 5 , **@INSURACE_IO:** 4 , **BUY** 4 , **NFT** 4 , **@INSURACE_IO** 4 , **I’LL** 3 , **DAN** 3 , **I’M** 2 , **GUYS** 2 , **WE'RE** 2 , **FLOWERS** 2 , **ALWAYS** 2 , **REMEMBER** 2 , **@NEARPROTOCOL** 2 , **START** 2 , **0XF9300AD74D882244BBF01641BE634805BBB31185** 2 , **CMO** 2 , 
+ 
+## What this user tweeted
+ 
+Who protects their #DeFi assets against smart contract vulnerabilities? 
+
+If not, why not?
+ 
+# Cyber0wl_USER INFO
+![image](http://pbs.twimg.com/profile_images/1489798980443590656/nNKopAaZ_normal.jpg)
+ 
+`User ScreenName:` Cyber0wl_ 
+ 
+`User chosen Name:` CDev 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 05 02:43:51 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1489798980443590656/nNKopAaZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@_WALD0:** 3 , **WEBINAR** 3 , **@DARKREADING:** 3 , **SECURITY** 3 , **BLOODHOUND** 2 , **USED** 2 , **FEBRUARY** 2 , **ORGANIZATIONS** 2 , **USE** 2 , **@THREATPOST:** 2 , **LEARN** 2 , **CITY** 2 , **COLLECTION** 2 , **RESOURCES** 2 , **CYBERSECURITY** 2 , **RT** 1 , **FRIDAY** 1 , **WHICH** 1 , **MEANS** 1 , **BLOODHOUNDBASICS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @USCERT_gov: 📢 @CISAgov has updated its catalog of known exploited vulnerabilities that federal civilian executive branch agencies must…
+ 
+# RepoTrekUSER INFO
+![image](http://pbs.twimg.com/profile_images/1489792355242807299/VuIfJZtL_normal.jpg)
+ 
+`User ScreenName:` RepoTrek 
+ 
+`User chosen Name:` Repo Trek 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 05 00:42:18 +0000 2022 
+ 
+`User Description?:` How do you know if that code library is what you need? Is it maintained? We can help. 
+
+(We'll have a real logo once we can get our PM, Devs, and UX to agree) 
+ 
+`Followers?: `11 
+ 
+`Following?:` 174 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 61 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1489792355242807299/VuIfJZtL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 61 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LINUX** 9 , **OPENSOURCE** 8 , **PYTHON** 8 , **SOURCE** 7 , **OPEN** 6 , **SOFTWARE** 6 , **DON'T** 5 , **HERE** 4 , ***** 4 , **SUMMIT** 4 , **OPEN-SOURCE** 3 , **CLOUD** 3 , **TALK** 3 , **CODE** 3 , **I'M** 3 , **@FOSDEM:** 3 , **MEMBER** 3 , **FOSDEM** 3 , **TOOL** 3 , **CREATE** 3 , 
+ 
+## What this user tweeted
+ 
+RT @secur1ty1samyth: #BugBountyTips
+
+How can you find Open Redirect Vulnerabilities faster?
+
+echo "https://domainname/" | waybackurls | htt…
+ 
+# LoftonAdeleUSER INFO
+![image](http://pbs.twimg.com/profile_images/1489402066141331457/bdoYlMdW_normal.jpg)
+ 
+`User ScreenName:` LoftonAdele 
+ 
+`User chosen Name:` Adele Lofton 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 04 00:54:58 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 75 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1489402066141331457/bdoYlMdW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COMPLETED** 2 , **ROOM!** 2 , **CHECK** 2 , **OUT:** 2 , **TRYHACKME** 2 , **CYBERSECURITY** 2 , **PICKLE** 1 , **RICK** 1 , **HTTPS://TCO/OWWXCMV6HF** 1 , **CTF** 1 , **DIRBUSTER…** 1 , **HTTPS://TCO/SXY6LMNGUCUPLOAD** 1 , **VULNERABILITIES** 1 , **HTTPS://TCO/ZSXXFOAA8L** 1 , **FILE-U…** 1 , **HTTPS://TCO/KQ47BWSGPX&LT;IFRAME** 1 , **SRC="HTTPS://TCO/CE0HXJKN7H"** 1 , **HEIGHT="619"** 1 , **WIDTH="504"** 1 , **FRAMEBORDER="0"** 1 , 
+ 
+## What this user tweeted
+ 
+Upload Vulnerabilities - I have just completed this room! Check it out:  https://t.co/ZSxxfOaa8l #tryhackme #file-u… https://t.co/kQ47bWSGpX
+ 
+# ARCPKadunaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1489600216940564482/vRtV7msj_normal.jpg)
+ 
+`User ScreenName:` ARCPKaduna 
+ 
+`User chosen Name:` ARC-P Kaduna State 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 01 17:53:19 +0000 2022 
+ 
+`User Description?:` Creating partnerships and linkages that accelerate the inclusion of At-Risk Children and Young Adults in Kaduna State 
+ 
+`Followers?: `19 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:` Kaduna, Nigeria 
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1489600216940564482/vRtV7msj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VULNERABLE** 2 , **CHILDREN** 2 , **YOUNG** 2 , **STAKEHOLDERS** 1 , **THANKED** 1 , **@GOVKADUNA** 1 , **@ELRUFAI** 1 , **SUPPORT** 1 , **FUND** 1 , **EARMARKED** 1 , **SUCCESSFUL** 1 , **IMPLEMENTATION** 1 , **TH…** 1 , **HTTPS://TCO/NIMH81T5DPPARTICIPANTS** 1 , **DRAWN** 1 , **GOV'T** 1 , **DEVELOPMENT** 1 , **PARTNERS** 1 , **PRIVATE** 1 , **SECTOR** 1 , 
+ 
+## What this user tweeted
+ 
+ARC-P is designed to enhance the living conditions of vulnerable children and young persons; people who are less li… https://t.co/w2srQUJcoY
+ 
+# MiniBoredApeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1488887450869153799/WSIm2JaS_normal.jpg)
+ 
+`User ScreenName:` MiniBoredApe 
+ 
+`User chosen Name:` Mini Bored Ape Club 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 30 12:00:56 +0000 2022 
+ 
+`User Description?:` Mini Bored Ape Club 🐒🚀 |
+https://t.co/TBvVUXBivI I
+https://t.co/tIQl7ZheK7 |
+🛍️ https://t.co/P3GpETS2GA 
+ 
+`Followers?: `260 
+ 
+`Following?:` 214 
+ 
+`User URL?:` https://t.co/P3GpETS2GA 
+ 
+`Location:` Metaverse 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1488887450869153799/WSIm2JaS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 471 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NFT** 26 , **NFTCOMMUNITY** 11 , **BOREDAPE** 11 , **OPENSEA** 11 , **NICE** 10 , **BORED** 10 , **@BOREDAPEYC** 10 , **APE** 9 , **ETHEREUM** 9 , **COLLECTION** 8 , **NFTS** 8 , **APES** 7 , **MINI** 6 , **BEAUTIFUL** 5 , **SOME** 5 , **CHECK** 5 , **NEW** 5 , **GREAT** 5 , **DON'T** 4 , **WEB3** 4 , 
+ 
+## What this user tweeted
+ 
+@ap3father @0xFrame Vulnerabilities of frame are not known yet, I'd prefer #Metamask and co.
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
