@@ -1034,3 +1034,249 @@ So far, everything seem…
  
 ## What this user tweeted
  
+@CryptoWhalesDCC @Masuma46111280 @BombCryptoGame Can you assure us that this won't be one of those projects that co… https://t.co/1LYSZVt19W
+ 
+# TheChaser1919USER INFO
+![image](http://pbs.twimg.com/profile_images/1491357364133453824/8qZNySNb_normal.jpg)
+ 
+`User ScreenName:` TheChaser1919 
+ 
+`User chosen Name:` Rainbow Chaser 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 02 02:38:20 +0000 2022 
+ 
+`User Description?:` Genesis 9:14 "When I bring clouds over the earth and the bow is seen in the clouds". 
+ 
+`Followers?: `19 
+ 
+`Following?:` 217 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 158 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1491357364133453824/8qZNySNb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 158 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOOD** 16 , **OH** 8 , **WELL** 8 , **THAT'S** 7 , **?** 6 , **MORNING** 6 , **I'M** 6 , **TOO** 5 , **ALWAYS** 5 , **HAPPY** 5 , **TIME** 5 , **HERE** 4 , **WHAT'S** 4 , **YES** 4 , **OTHER** 4 , **SAME** 4 , **BRITISH** 4 , **STILL** 4 , **YEAH** 3 , **HOPE** 3 , 
+ 
+## What this user tweeted
+ 
+@Jennifer_Arcuri @hackerfantastic What do you think about this, then? 
+"The importance to response to WannaCry rans… https://t.co/qN64qQZev5
+ 
+# FixazCoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1490709060131377158/FC1A4MpJ_normal.jpg)
+ 
+`User ScreenName:` FixazCo 
+ 
+`User chosen Name:` Fixaz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 07 15:27:31 +0000 2022 
+ 
+`User Description?:` A Digital Security Solutions agency. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 53 
+ 
+`User URL?:` https://t.co/M9q4l9AFaH 
+ 
+`Location:` Uganda 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1490709060131377158/FC1A4MpJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ACCESS** 3 , **HARD** 2 , **TARGET** 2 , **HERE** 1 , **FEW** 1 , **QUICK** 1 , **TIPS** 1 , **STARTED:** 1 , **TURN** 1 , **AUTOMATIC** 1 , **SYSTEM** 1 , **UPDATES** 1 , **DEVICE** 1 , **MAKE** 1 , **SURE** 1 , **DE…** 1 , **HTTPS://TCO/LABFJKBC8VTHIS** 1 , **HELPS** 1 , **REMOVE** 1 , **CRITICAL** 1 , 
+ 
+## What this user tweeted
+ 
+This helps remove critical vulnerabilities that hackers use to access your devices.
+ 
+# OpenFabOrgUSER INFO
+![image](http://pbs.twimg.com/profile_images/1488511732138094594/13hinqSK_normal.jpg)
+ 
+`User ScreenName:` OpenFabOrg 
+ 
+`User chosen Name:` Open-Fab.org 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 01 12:13:54 +0000 2022 
+ 
+`User Description?:` https://t.co/L9UHFOUWjO provides #fresh news about #OpenSource technology, IT #security, #Linux, #coding, #selfhosting, #webdesign, #podcasting and music production, etc.. 
+ 
+`Followers?: `34 
+ 
+`Following?:` 349 
+ 
+`User URL?:` https://t.co/0Qqv1DdwEg 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 161 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1488511732138094594/13hinqSK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 161 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**4** 142 , **YOU:** 141 , **OPENSOURCE** 138 , **LINUX** 101 , **SHARE** 87 , **RTITBOT** 60 , **VIDEO** 53 , **TUTORIAL** 48 , **YAOI** 45 , **RETWEET** 43 , **SECURITY** 39 , **SHARE…** 34 , **ARTICLE** 33 , **'…** 31 , **RELEASE** 30 , **SELFHOSTING** 29 , **FRESH** 21 , **RETWEET…** 21 , **NEWS** 20 , **UPDATES** 19 , 
+ 
+## What this user tweeted
+ 
+#Fresh #Linux #OpenSource #selfhosting #article 4 you: Preventing software security vulnerabilities with automation… https://t.co/ZehBVdBPvJ
+ 
+# xs7311USER INFO
+![image](http://pbs.twimg.com/profile_images/1490991086999076864/8r09PCJH_normal.jpg)
+ 
+`User ScreenName:` xs7311 
+ 
+`User chosen Name:` Ssssss 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 08 04:49:04 +0000 2022 
+ 
+`User Description?:` Asik 
+ 
+`Followers?: `7 
+ 
+`Following?:` 65 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1490991086999076864/8r09PCJH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 650 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@XS_KHAN4** 135 , **@ASHIKUR44811186** 45 , **@IBULLSWAP** 41 , **@XS_KHAN3** 38 , **@XS_KHAN2** 36 , **@XSIKUR2** 26 , **@BIBOX365** 21 , **@RAIINMAKERAPP** 20 , **@XS_KHAN3@BLOCKCHAINFEDE1** 20 , **@CRYPTOLIBRARYS** 20 , **@ASHIKUR44811186@ENREX_CRYPTO** 19 , **PROJECTS** 16 , **PROJECT** 16 , **@GLOBALCRYPTO12** 16 , **@XSIKUR** 16 , **@HARMONYLAUNCHER** 16 , **@ASHIKUR44811186@CRYPTO_PYRAMIDS** 16 , **@METAWORLD_GAME** 16 , **@XSIKUR2@CRYPTOPLAYERSIN** 15 , **@VISIONGAME_** 12 , 
+ 
+## What this user tweeted
+ 
+@DubaiCryptoBuls @xs_khan4 @musifi_io Protecting users data, privacy &amp; funds has become a glaring problem that many… https://t.co/nD710cXvFl
+ 
+# Xsonamika015551USER INFO
+![image](http://pbs.twimg.com/profile_images/1489903282587766785/gf4rTdeI_normal.jpg)
+ 
+`User ScreenName:` Xsonamika015551 
+ 
+`User chosen Name:` Xsonamika0155555 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 05 10:06:09 +0000 2022 
+ 
+`User Description?:` Xxonamika0155555 
+ 
+`Followers?: `5 
+ 
+`Following?:` 64 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1489903282587766785/gf4rTdeI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1313 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ANGLESHOMAPTY** 71 , **@ANGLE0177777** 55 , **@SENTREPROTOCOL** 42 , **PROJECT** 31 , **@PLAYTAUNT** 31 , **@ROBBANIDADA@CRYPTOCCLUB01** 29 , **@NITROXRUN** 29 , **@JULLYMONKEY** 25 , **@NFTMALL** 22 , **MANY** 17 , **@METAMALLVR** 17 , **@PLEDGEDCAPITAL** 15 , **@ROBBANIDADA@DENS_CLUB** 14 , **NFT** 13 , **CRYPTO** 13 , **MOST** 12 , **IMPORTANT** 12 , **@MEGADOGEIO** 12 , **NFTS** 11 , **PROJECTS** 11 , 
+ 
+## What this user tweeted
+ 
+@Dubai_community @Filecashglobal Protecting users’ data, privacy &amp; funds has become a glaring problem that many com… https://t.co/74RXsBDqV2
+ 
+# Tom02616064USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Tom02616064 
+ 
+`User chosen Name:` Tom 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 01 08:29:17 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 102 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 102 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AFCJAYDEN15** 17 , **@AFCSAMMMM** 16 , **YOU'RE** 11 , **@FAMASSIMOO** 10 , **PEPE** 10 , **FAKE** 8 , **OBSESSED** 8 , **HE'S** 7 , **ARTETA** 7 , **DON'T** 6 , **SQUAD** 6 , **THAT'S** 5 , **DUMB** 5 , **NEWS** 5 , **@RIOFERDY5** 5 , **MUCH** 5 , **OH** 5 , **LEARN** 5 , **ENGLISH** 5 , **ARSENAL** 5 , 
+ 
+## What this user tweeted
+ 
+@GNev2 @_DeclanRice Gary
+
+How can you claim to be a labour member but then get sponsored by a company which openly… https://t.co/jWREd4wpfS
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
