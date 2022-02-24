@@ -1,25 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **dwisiswant0**  
+The most popular user is: **SawyerHackett**  
  
 
-## Made public now &amp; beta version released!
+## Holy shit. This is big. 
 
-teler: Real-time HTTP #Intrusion Detection
-https://t.co/oAmJFd86TO
-
-#go… https://t.co/2zYQeHvP0Q 
+The former chief of Texas’s power grid testified today that Greg Abbott *instructed* offi… https://t.co/Dl2vZmMPu8 
 
   
 
@@ -28,25 +25,25 @@ https://t.co/oAmJFd86TO
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JinibaBD: The new #phishing? 😱⛔️😱 Hackers Are Targeting #Microsoft #Teams Chats #DataBreaches #DarkWeb #CyberSec #infosec #Security #cy… |
-| RT @BinSecSweeper: We are working hard for our next release of The File Threat Intelligence Platform. So many cool things in the roadmap! A… |
-| RT @CyberIQs_: InfoSec News Nuggets 02/18/2022 #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #hacking #cybernews #… |
+| RT @Mobile_Morgue: @KIIARA  She Ensured Success By Blocking Me And Following 500 trolls #Python #IoT #PyTorch #CSS #C #JavaScript #ReactJ… |
+| RT @Paula_Piccard: Teenage cybercrime: How to stop kids from taking the wrong path▶️ https://t.co/8PMgVf9lI8#DataSecurity #Privacy #100… |
+| RT @hackthebox_eu: Not the @Guardians you were expecting! 😎 RouterSpace #Easy #Linux Machine created by h4rithd will go live 26 Feb 2022 a… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CyberIQs_** |
-| #2 Most tweeted to  | **threatintel** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 0.66%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **GalaxyKiiara** |
+| #2 Most tweeted to  | **Mobile_Morgue** |
+| #3 Most tweeted to  | **KIIARA** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 2.24%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -56,56 +53,56 @@ https://t.co/oAmJFd86TO
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **INFOSECURITY**  |
-| third  | **THREATINTEL** |
-| fourth  | **@CYBERIQS_:**  |
-| fifth  | **THREATINTELLIGENCE**  |
+| second  | **PYTHON**  |
+| third  | **IOT** |
+| fourth  | **JAVASCRIPT**  |
+| fifth  | **IIOT**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (57.14%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (35.71%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CyberIQs_: A Review of the 2021 CISA and MITRE Vulnerability Lists #infosec #infosecurity #cybersecurity #threatintel #threatintelligen… |
+|RT @three_cube: Open Source Intelligence (OSINT): Finding Email Passwords in Dumps with h8mail #osint #h8mail #infosec #cybersecurity #cybe… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **dwisiswant0**  |
+| The most retweeted user is: **SawyerHackett**  |
 | ------------- |
-| Made public now &amp; beta version released!teler: Real-time HTTP #Intrusion Detectionhttps://t.co/oAmJFd86TO#go… https://t.co/2zYQeHvP0Q |
+| Holy shit. This is big. The former chief of Texas’s power grid testified today that Greg Abbott *instructed* offi… https://t.co/Dl2vZmMPu8 |
 
 # Potential Fake Accounts
  
-# forth_resurgesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1495858189472083980/C0yybbX6_normal.jpg)
+# Amir_KutinaUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` forth_resurges 
+`User ScreenName:` Amir_Kutina 
  
-`User chosen Name:` collapse_os 
+`User chosen Name:` Amir 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Feb 21 20:15:21 +0000 2022 
+`User signup date?:` Wed Feb 16 20:51:27 +0000 2022 
  
-`User Description?:` InfoSec techie with anarchist leanings. Linux enthusiast. Bigots begone. Latest project: tinkering with collapseOS 
+`User Description?:`  
  
-`Followers?: `5 
+`Followers?: `7 
  
-`Following?:` 219 
+`Following?:` 124 
  
 `User URL?:` None 
  
-`Location:` London 
+`Location:`  
  
-`Number of tweets extracted`  : 147 
+`Number of tweets extracted`  : 37 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1495858189472083980/C0yybbX6_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 147 
+`Number of tweets excluding replies:` 37 
  
 
  
@@ -113,39 +110,42 @@ VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 ## User Top tweeted words 
  
-**RUSSIAN** 39 , **UKRAINE** 30 , **UKRAINIAN** 15 , **MILITARY** 11 , **RUSSIA** 11 , **PUTIN** 10 , **@INTELCRAB:** 9 , **REPORTS** 7 , **@SENTDEFENDER:** 7 , **VERY** 7 , **DONETSK** 6 , **STATE** 6 , **WAR** 6 , **TONIGHT** 6 , **US** 6 , **@MICHAELH992:** 6 , **BREAKING:** 6 , **CYBER** 5 , **NEW** 5 , **BORDER** 5 , 
+**@ALVOSEC:** 26 , **XPR** 15 , **⚛️** 8 , **PROTON** 7 , **@MARSHALLHAYNER** 7 , **@ALVOSEC** 6 , **@WILLXPR** 5 , **@THESYEDJAFRI** 5 , **US** 4 , **@METALPAYSYOU** 4 , **WEBAUTH** 4 , **VIDEO** 3 , **@PROTONXPR** 3 , **PROTONCHAIN** 3 , **⚠️** 3 , **STAY** 3 , **💪** 3 , **CREDIT** 2 , **STEAL** 2 , **CARD** 2 , 
  
 ## What this user tweeted
  
-RT @jeffstone500: Two cyber firms with heavy presence in Ukraine detect wiper malware: 
-- @ESETresearch finds malware on "hundreds of machi…
+RT @hackinarticles: Best of Nmap Command Cheat Sheet
+
+Credit https://t.co/K03lUvJVIE
+
+#infosec #cybersecurity #pentesting #oscp  #informati…
  
-# DecyberSecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1496598779788627970/OC07xtP8_normal.jpg)
+# Chris59558011USER INFO
+![image](http://pbs.twimg.com/profile_images/1496603131639209990/-iF12MuP_normal.png)
  
-`User ScreenName:` DecyberSec 
+`User ScreenName:` Chris59558011 
  
-`User chosen Name:` Moore Blanko 
+`User chosen Name:` Chris 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 23 11:48:17 +0000 2022 
+`User signup date?:` Wed Feb 23 21:49:26 +0000 2022 
  
-`User Description?:` A Cyber Security Expert 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 62 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 18 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1496598779788627970/OC07xtP8_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1496603131639209990/-iF12MuP_normal.png 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 18 
  
 
  
@@ -153,38 +153,44 @@ RT @jeffstone500: Two cyber firms with heavy presence in Ukraine detect wiper ma
  
 ## User Top tweeted words 
  
-**@CYBERSECDN:** 2 , **RT** 1 , **EXPLOIT** 1 , **CREATED** 1 , **CRITICAL** 1 , **MAGENTO** 1 , **BUG** 1 , **ADOBE** 1 , **UPDATES** 1 , **ADVISORY** 1 , **HTTPS://TCO/FWYBZKYJVX** 1 , **THREATINTELRT** 1 , **UKRAINE** 1 , **WARNS** 1 , **CYBERATTACKS** 1 , **BANKS** 1 , **STATE** 1 , **AGENCIES** 1 , **JERUSALEM** 1 , **POST** 1 , 
+**@SALLYEAVES:** 8 , **NEW** 5 , **AI** 3 , **@BLOCKSANDFILES:** 2 , **10** 2 , **SOLUTIONS** 2 , **NEXT** 2 , **CYBERSECURITY** 2 , **INNOVATION** 2 , **WHAT’S** 2 , **?** 2 , **MARKET** 2 , **3** 2 , **PILLARS** 2 , **TECH** 2 , **EDGE** 2 , **@TECHCRUNCH:** 2 , **RT** 1 , **STREAMING** 1 , **FAST:** 1 , 
  
 ## What this user tweeted
  
-RT @CyberSecDN: Exploit created for critical Magento bug, Adobe updates advisory https://t.co/FWybzKYJvX #threatintel
+RT @sallyeaves: Latest in #CyberSecurity 📰 threat #innovation 
+What’s the deal re #botnet nodes &amp; #DDoS ? 
+
+✅ https://t.co/QvC72kPvoH 
+New…RT @sallyeaves: What’s Next in #Cybersecurity ?
+📰https://t.co/bQD4y4B3g2 
+New #research On Our Must Do's: #Edge #Security &amp; #culture #domai…
  
-# WatchDogIntelUSER INFO
-![image](http://pbs.twimg.com/profile_images/1496297384346853381/4FLgPfZu_normal.jpg)
+# jacob_infosecUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` WatchDogIntel 
+`User ScreenName:` jacob_infosec 
  
-`User chosen Name:` WatchDog Intel 
+`User chosen Name:` jacob 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 23 01:16:20 +0000 2022 
+`User signup date?:` Mon Feb 21 20:18:45 +0000 2022 
  
-`User Description?:` #OSINT Military analyst ,currently focused on the hostilities in eastern Ukraine 
+`User Description?:` Retweeting News about #Natsec #infosec and other related tweets. Pretty new to this #osint 
  
-`Followers?: `54 
+`Followers?: `0 
  
-`Following?:` 34 
+`Following?:` 107 
  
 `User URL?:` None 
  
-`Location:` undisclosed 
+`Location:`  
  
-`Number of tweets extracted`  : 188 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1496297384346853381/4FLgPfZu_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 188 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -192,77 +198,161 @@ RT @CyberSecDN: Exploit created for critical Magento bug, Adobe updates advisory
  
 ## User Top tweeted words 
  
-**UKRAINE** 47 , **UKRAINERUSSIACRISIS** 39 , **RUSSIA** 38 , **RUSSIAN** 32 , **SEEN** 13 , **LIKELY** 12 , **INVASION** 12 , **NEAR** 11 , **ITS** 11 , **BORDER** 10 , **MOVE** 10 , **BELGOROD** 9 , **UPDATES** 9 , **OSINT** 9 , **AGAINST** 8 , **MILITARY** 8 , **DONESTK** 8 , **REPORTS** 7 , **CYBERATTACKS** 7 , **UKRAINIAN** 7 , 
+**OSINT** 2 , **@SPIDERFOOT** 1 , **SHOULDN'T** 1 , **WORK** 1 , **CLOUDFLARE** 1 , **EMAIL** 1 , **OBFUSCATION** 1 , **?RT** 1 , **@JAKECREPS:** 1 , **DORKSEARCH** 1 , **TOOL** 1 , **GIVES** 1 , **LIST** 1 , **PREBUILT** 1 , **TEMPLATES** 1 , **GOOGLE** 1 , **DORKS** 1 , **DIFFERENT** 1 , **USE** 1 , **CASES** 1 , 
  
 ## What this user tweeted
  
-#BREAKING : more updates on #russian #cyberattacks against #Ukraine https://t.co/YHlEzfwPvQ
+@spiderfoot this shouldn't work with cloudflare
+ email obfuscation right ?RT @jakecreps: DorkSearch is a tool that gives you a list of prebuilt templates for Google Dorks for different use cases.
+
+#OSINT #BugBount…
  
-# SNSovereignNewsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1496539384203649035/hEEKPgKn_normal.jpg)
+# nick_quarantaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1493399677756231688/HnpDciNC_normal.jpg)
  
-`User ScreenName:` SNSovereignNews 
+`User ScreenName:` nick_quaranta 
  
-`User chosen Name:` Sovereign News 
+`User chosen Name:` Nick Quaranta 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 23 17:31:08 +0000 2022 
+`User signup date?:` Tue Feb 15 01:38:50 +0000 2022 
  
-`User Description?:` Neither Republican or Democrat. Giving the latest news in the US, and around the Globe in an unbiased format. Email:SovereignNews@protonmail.com 
+`User Description?:` 𝙎𝙩𝙖𝙮 𝘾𝙪𝙧𝙞𝙤𝙪𝙨 Amateur investor studying MEcon @uchicago Podcaster Substacker Veteran Admissions Consulting Find it all right here ↴ 
+ 
+`Followers?: `8 
+ 
+`Following?:` 75 
+ 
+`User URL?:` https://t.co/5LbcYTieB1 
+ 
+`Location:` Chicago, IL 
+ 
+`Number of tweets extracted`  : 113 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1493399677756231688/HnpDciNC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 113 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOING** 9 , **CAN’T** 7 , **TIME** 6 , **MAKE** 6 , **SOME** 5 , **WORLD** 5 , **NEXT** 5 , **ITS** 5 , **PUTIN** 4 , **WHERE** 4 , **LOVE** 4 , **LITERALLY** 4 , **2** 4 , **BACK** 4 , **YEAR** 4 , **MARKET** 3 , **START** 3 , **NEED** 3 , **OPSEC** 3 , **CRYPTO** 3 , 
+ 
+## What this user tweeted
+ 
+We need the same protocols that we have in the military for INFOSEC and OPSEC in crypto. There are some companies p… https://t.co/uiFJhaNSaj
+ 
+# ambercakes75USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` ambercakes75 
+ 
+`User chosen Name:` ambercakes 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 14 15:19:07 +0000 2022 
+ 
+`User Description?:` Honest democrat tired of all the lying, cheating, stealing in govrnmnt. Fighting for democracy. NOT A BOT, new account bc had a stalker. 
+ 
+`Followers?: `8 
+ 
+`Following?:` 92 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 894 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PRESIDENT** 7 , **RUSSIA** 7 , **PUTIN** 7 , **AMERICAN** 7 , **GUY** 6 , **MANY** 6 , **ITS** 6 , **VOTE** 6 , **GOOD** 6 , **BIDEN** 5 , **REPUBLICANS** 5 , **AGAINST** 5 , **EVEN** 5 , **DON'T** 5 , **SUPPORT** 5 , **PEOPLE** 5 , **MUCH** 5 , **TRUTH** 5 , **NEED** 5 , **GOP** 5 , 
+ 
+## What this user tweeted
+ 
+RT @CIOonline: Join @juliettekayyem  for a live discussion on meeting the cybersecurity challenge and how to best prepare your organization…
+ 
+# BBT_retweetUSER INFO
+![image](http://pbs.twimg.com/profile_images/1496533396989747201/9KGB3TKK_normal.jpg)
+ 
+`User ScreenName:` BBT_retweet 
+ 
+`User chosen Name:` BugBountyTips Retweet 🔥 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 23 05:04:45 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 302 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1496533396989747201/9KGB3TKK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BYPASS** 6 , **BUGBOUNTYTIPS** 5 , **NEED** 4 , **1** 4 , **2** 4 , **WAF** 4 , **XSS** 3 , **API** 3 , **SOME** 3 , **JAVASCRIPT** 3 , **BUGBOUNTYTIP** 3 , **BUGBOUNTY** 3 , **@MEASHACKER_HNA:** 3 , **ABLE** 2 , **HTTP** 2 , **LEARN** 2 , **BUG** 2 , **REGEX** 2 , **BURP** 2 , **ACCESS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @0xDexter0us: Just release another quick, easy and useful tool (Burp Suite Extension) to extract JavaScript files from the @Burp_Suite p…RT @fardeenahmed411: Bug-Bounty tip
+Some interesting path to be in your findings after an RCE (if possible) :-
+-&gt; /var/log
+-&gt; /var/spool/cr…
+ 
+# Michael93273USER INFO
+![image](http://pbs.twimg.com/profile_images/1496104727096012805/xoAKyZhM_normal.jpg)
+ 
+`User ScreenName:` Michael93273 
+ 
+`User chosen Name:` Michael Gary 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 22 11:56:42 +0000 2022 
+ 
+`User Description?:` Just being honest 
  
 `Followers?: `5 
  
-`Following?:` 72 
- 
-`User URL?:` None 
- 
-`Location:` United States 
- 
-`Number of tweets extracted`  : 69 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1496539384203649035/hEEKPgKn_normal.jpg 
- 
-`Number of tweets excluding replies:` 69 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UKRAINE** 21 , **RUSSIA** 9 , **RUSSIAN** 8 , **PUTIN** 7 , **MILITARY** 7 , **BREAKING:** 5 , **DONETSK** 5 , **KYIV** 5 , **FORCES** 5 , **US** 5 , **UKRAINIAN** 4 , **EMERGENCY** 4 , **VEHICLES** 4 , **SECURITY** 3 , **TIME** 3 , **PRESIDENT** 3 , **AIRPORT** 3 , **TOWARDS** 3 , **STATE** 3 , **DEFENSE** 3 , 
- 
-## What this user tweeted
- 
-RT @IntelDoge: Symantec malware researchers picking up on the malware spreading through Ukraine currently.
- 
-# SPACEandSPACSUSER INFO
-![image](http://pbs.twimg.com/profile_images/1494697788801794056/ToVB87jD_normal.jpg)
- 
-`User ScreenName:` SPACEandSPACS 
- 
-`User chosen Name:` EVandSPACE 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 18 15:05:34 +0000 2022 
- 
-`User Description?:` No trading advice, only my opinions. 
- 
-`Followers?: `2 
- 
-`Following?:` 32 
+`Following?:` 24 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 23 
+`Number of tweets extracted`  : 64 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1494697788801794056/ToVB87jD_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1496104727096012805/xoAKyZhM_normal.jpg 
  
-`Number of tweets excluding replies:` 23 
+`Number of tweets excluding replies:` 64 
  
 
  
@@ -270,11 +360,11 @@ RT @IntelDoge: Symantec malware researchers picking up on the malware spreading 
  
 ## User Top tweeted words 
  
-**$IRNT** 3 , **CAN’T** 2 , **WAIT** 2 , **TIME** 2 , **GO** 2 , **$CRWD** 2 , **BUY** 2 , **LITERALLY** 2 , **RUSSIA** 2 , **UKRAINE** 2 , **CYBER** 2 , **@ERININTHEMORN** 1 , **@GREGABBOTT_TX** 1 , **THEN** 1 , **PEOPLE** 1 , **LOOK** 1 , **BACK** 1 , **COMPLETE** 1 , **SCUMBA…** 1 , **HTTPS://TCO/ITVPD6RUJL@JOECARLSONSHOW** 1 , 
+**@HYPER_TECH99** 39 , **GOOD** 31 , **MESSAGE** 23 , **FAST** 22 , **@ASKPLAYSTATION** 21 , **GO** 18 , **HYPER_TECH99** 18 , **HE’S** 17 , **INBOX** 16 , **ACCURATEHE** 15 , **SOLVING** 14 , **SUCH** 13 , **INSTAGRAM** 13 , **COMES** 13 , **RECOVERING** 12 , **HE'S** 11 , **HELP** 10 , **HARDLY** 9 , **RESPOND** 8 , **MESSAGES** 8 , 
  
 ## What this user tweeted
  
-RT @IronNet: As tensions continue between Russia and Ukraine, here's a #ThreatIntel report on Russian cyber attacks and campaigns including…
+@infosec_dril Go inbox @hyper_tech99 .he is fast and accurate,he is good at solving such problem..he got my work done within 10 minutes
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
