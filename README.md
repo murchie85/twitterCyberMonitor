@@ -1,21 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile0.jpg)     <img width=200/> | ![image](https://securityintelligence.com/wp-content/uploads/2019/01/government-cybersecurity-processes-must-change-drastically.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **OwensForGeorgia**  
+The most popular user is: **threatintel**  
  
 
-## I’m Michael Owens, Democrat running for Secretary of State in Georgia.
-As a Marine Corps vet and cybersecurity expe… https://t.co/JQM9fqKyyP 
+## NEW: This is Daxin, the most advanced Chinese espionage tool we've ever found. Used to spy on governments worldwide… https://t.co/44kXBEPGmB 
 
   
 
@@ -24,24 +23,24 @@ As a Marine Corps vet and cybersecurity expe… https://t.co/JQM9fqKyyP
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ChrisRobertsSec: With the rise of #cyberattacks on water utilities, Rick Peters, @Fortinet’s CISO for operational technology discusses… |
-| RT @Eli_Krumova: I gave +Kred to @IEEEorg on @Kred #influence #Digital #IIoT #IoT #IoTPL #AI #ArtificialIntelligence #ML #DeepLearning #Dat… |
-| RT @eighth_mile:  Take A Second#100DaysOfCode #CodeNewbie #WomenWhoCode #Programming #DataScience #AcademicTwitter #MachineLearning #Serv… |
+| RT @LuatixHQ: #OpenCTI 5.2.0 has been released 🥳! In a word: #fresh 😎. It's time to join us if you're not already part of this amazing comm… |
+| RT @CyberIQs_: Kubernetes Security Best Practices: Definitive Guide #infosec #infosecurity #cybersecurity #threatintel #threatintelligence… |
+| Windows File System | Windows Forensics Tutorial [FREE COURSE #infosec #infosecurity #cybersecurity #threatintel… https://t.co/ol75DRxQLk |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Kred** |
-| #2 Most tweeted to  | **Eli_Krumova** |
-| #3 Most tweeted to  | **Paula_Piccard** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 2.1%|
+| #1 Most tweeted to  | **CyberIQs_** |
+| #2 Most tweeted to  | **Cyberknow20** |
+| #3 Most tweeted to  | **JinibaBD** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 1.36%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,57 +50,57 @@ As a Marine Corps vet and cybersecurity expe… https://t.co/JQM9fqKyyP
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AI**  |
-| second  | **MACHINELEARNING**  |
-| third  | **DATASCIENCE** |
-| fourth  | **PYTHON**  |
-| fifth  | **100DAYSOFCODE**  |
+| first  | **INFOSEC**  |
+| second  | **INFOSECURITY**  |
+| third  | **THREATINTEL** |
+| fourth  | **@CYBERIQS_:**  |
+| fifth  | **THREATINTELLIGENCE**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @John_CUInsight: Financial leaders tapping MSPs amid rising cyber attack risks &amp; talent shortage :: https://t.co/lrZ1UGxQ0U @Dataprise #… |
+|MacGeneration - 101,004 breached accounts - https://t.co/9NIupCPO9W#Data_Breach #HaveIBeenPwnedLatestBreaches… https://t.co/zAvhRH7LMi |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **OwensForGeorgia**  |
+| The most retweeted user is: **threatintel**  |
 | ------------- |
-| I’m Michael Owens, Democrat running for Secretary of State in Georgia.As a Marine Corps vet and cybersecurity expe… https://t.co/JQM9fqKyyP |
+| NEW: This is Daxin, the most advanced Chinese espionage tool we've ever found. Used to spy on governments worldwide… https://t.co/44kXBEPGmB |
 
 # Potential Fake Accounts
  
-# Eastware22USER INFO
-![image](http://pbs.twimg.com/profile_images/1498384182606802945/Jy-_SoOP_normal.jpg)
+# este_arroyo_USER INFO
+![image](http://pbs.twimg.com/profile_images/1500323796162543619/IN9KZe1J_normal.jpg)
  
-`User ScreenName:` Eastware22 
+`User ScreenName:` este_arroyo_ 
  
-`User chosen Name:` Eastware Solutions International 
+`User chosen Name:` Esteban Arroyo 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 25 06:13:36 +0000 2022 
+`User signup date?:` Sun Mar 06 04:00:46 +0000 2022 
  
-`User Description?:` Simply Living Innovations 
+`User Description?:`  
  
-`Followers?: `1 
+`Followers?: `4 
  
-`Following?:` 15 
+`Following?:` 147 
  
-`User URL?:` https://t.co/6kE6xPwXCg 
+`User URL?:` None 
  
-`Location:` Uganda 
+`Location:` Oceanside, CA 
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1498384182606802945/Jy-_SoOP_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1500323796162543619/IN9KZe1J_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -109,39 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECT
  
 ## User Top tweeted words 
  
-**•** 6 , **SECURITY** 6 , **ADVISORY** 5 , **@EASTWARE22:** 2 , **MOBILE** 2 , **APPLICATIONS** 2 , **TESTING** 2 , **RISK** 2 , **MANAGEMENT** 2 , **ASSESSMENT** 2 , **GRC** 2 , **FRAMEWORK** 2 , **BEST** 2 , **CLASS** 2 , **SERVICES** 2 , **COVERING** 2 , **CYBERSECURITY** 2 , **ICS** 2 , **IOT** 2 , **INCLUDES** 2 , 
+**CYBERSECURITY** 3 , **INFOSEC** 3 , **PENTESTING** 2 , **OSCP** 2 , **INFORMATIONSECURITY** 2 , **CISSP** 2 , **REDTEAM** 2 , **ATTACKS** 2 , **TOYOTA** 2 , **DOWN** 2 , **PLANTS** 2 , **ITS** 2 , **RT** 1 , **@FISHER85M:** 1 , **SECURE** 1 , **SMARTHOME?** 1 , **[@AVAST_ANTIVIRUS]** 1 , **IOT** 1 , **SENSORS** 1 , **@FISHER85M** 1 , 
  
 ## What this user tweeted
  
-RT @Eastware22: Advisory
-Best in class advisory services covering cybersecurity, ICS security and IoT Security. Advisory includes but not l…
+RT @CyberSecDN: Cyber-insurance policies may be tested by Russian attacks https://t.co/iPiKY6kQrm #threatintel
  
-# whoisscanningmeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1499876680399491073/Ze6nTWFr_normal.jpg)
+# MegafuraxIUSER INFO
+![image](http://pbs.twimg.com/profile_images/1497737864590856193/JFITUm2V_normal.png)
  
-`User ScreenName:` whoisscanningme 
+`User ScreenName:` MegafuraxI 
  
-`User chosen Name:` @WhoIsScanningMe 
+`User chosen Name:` Megafurax II 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 03 05:10:31 +0000 2022 
+`User signup date?:` Sun Feb 27 00:58:27 +0000 2022 
  
-`User Description?:` Reporting unsolicited cyber scanning attempts and mapping them for all to see. 
+`User Description?:`  
  
-`Followers?: `7 
+`Followers?: `8 
  
-`Following?:` 0 
+`Following?:` 37 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 63 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1499876680399491073/Ze6nTWFr_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1497737864590856193/JFITUm2V_normal.png 
  
-`Number of tweets excluding replies:` 63 
+`Number of tweets excluding replies:` 787 
  
 
  
@@ -149,59 +147,42 @@ Best in class advisory services covering cybersecurity, ICS security and IoT Sec
  
 ## User Top tweeted words 
  
-**🔎** 151 , **SCANS** 62 , **MAPPED** 59 , **HOURLY** 59 , **PORT** 52 , **REALTIME** 51 , **TWEETED** 51 , **CYBERSECURITY** 49 , **HTTPS://TCO/85FSAUEHDV** 33 , **HTTPS://TCO/85FSAUM8PN** 24 , **VULNERABILITY** 10 , **AU** 8 , **UPDATED** 8 , **UNAUTHORIZED** 5 , **REFLECTION/AMPLIFICATION** 3 , **DDOS** 3 , **ATTACKS** 3 , **🔎…** 3 , **F50E** 3 , **REJECTIONS** 2 , 
+**STANDWITHUKRAINE️** 56 , **UKRAINE** 48 , **UKRAINIAN** 35 , **UKRAINERUSSIAWAR** 32 , **RUSSIAN** 30 , **RUSSIA** 24 , **PEOPLE** 20 , **PUTIN** 18 , **WAR** 13 , **🇺🇦** 10 , **@OLEX_SCHERBA:** 9 , **STOPPUTINNOW** 8 , **UKRAINE️** 8 , **RUSSIANS** 7 , **AGAINST** 7 , **SHOT** 7 , **DOWN** 7 , **UKRAINEUNDERATTAСK** 7 , **STANDWITHUKRAINE️RT** 6 , **US** 6 , 
  
 ## What this user tweeted
  
-🔎 Unauthorized port scans
-🔎 Reflection/Amplification DDoS Attacks
-🔎 Mapped in realtime
-🔎 Tweeted hourly
-🔎… https://t.co/HNy1RiAeMR🔎 Unauthorized port scans
-🔎 Reflection/Amplification DDoS Attacks
-🔎 Mapped in realtime
-🔎 Tweeted hourly
-🔎… https://t.co/QTHh328M5H🔎 Unauthorized port scans
-🔎 Reflection/Amplification DDoS Attacks
-🔎 Mapped in realtime
-🔎 Tweeted hourly
-🔎… https://t.co/A8CpPdxMZsUnauthorized port scans
-🔎 mapped in realtime
-🔎 tweeted hourly
-🔎 #cybersecurity
-https://t.co/85FSAuEhDV https://t.co/bpV6V509nDUnauthorized port scans
-🔎 mapped in realtime
-🔎 tweeted hourly
-🔎 #cybersecurity
-https://t.co/85FSAum8pN https://t.co/20RLE24AxU
+RT @Cyberknow20: Recently created page for #Kyiv 
+
+"The city of courage" very fitting tag line.
+
+#cybersecurity #threatintel #infosec #Ukra…
  
-# FreshEggsHQUSER INFO
-![image](http://pbs.twimg.com/profile_images/1499115652879208464/likJrwu__normal.jpg)
+# IPINLONDONUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` FreshEggsHQ 
+`User ScreenName:` IPINLONDON 
  
-`User chosen Name:` FreshEggs 
+`User chosen Name:` Ishaan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 02 18:31:43 +0000 2022 
+`User signup date?:` Mon Feb 28 18:08:41 +0000 2022 
  
-`User Description?:` Tracking our timeline as it's being rewritten. Economics, markets, finance, politics, infosec, web3 and etc. Unapologetic user of the royal "We." 
-Est. 03/2022. 
+`User Description?:`  
  
-`Followers?: `6 
+`Followers?: `2 
  
-`Following?:` 233 
+`Following?:` 78 
  
-`User URL?:` https://t.co/IVmfdC5bgR 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 28 
+`Number of tweets extracted`  : 38 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1499115652879208464/likJrwu__normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 28 
+`Number of tweets excluding replies:` 39 
  
 
  
@@ -209,11 +190,55 @@ Est. 03/2022.
  
 ## User Top tweeted words 
  
-**TWITTER** 5 , **IRAN** 3 , **EGGS** 2 , **INTO** 2 , **RUSSIA** 2 , **@DOOMBERGT** 2 , **UKRAINE** 2 , **ANOTHER** 2 , **WESTERN** 2 , **WAR** 2 , **RT** 1 , **@ICS_BLITZ:** 1 , **TIME** 1 , **HEAR** 1 , **CYBERSECURITY** 1 , **SPACE** 1 , **FORCE** 1 , **SCENE** 1 , **INDEPENDENCE** 1 , **DAY** 1 , 
+**NEW** 3 , **RUSSIAN** 3 , **WHERE** 3 , **@YOURANONNEWS:** 3 , **CONTI** 3 , **GO** 2 , **READ** 2 , **@TELEGRAPH** 2 , **US** 2 , **MAKE** 2 , **GROUPS** 2 , **HERMETICWIPER** 2 , **SOME** 2 , **NUCLEAR** 2 , **POWER** 2 , **REALLY** 2 , **CASE** 2 , **–** 2 , **@BBCWORLD** 2 , **RT** 1 , 
  
 ## What this user tweeted
  
-RT @ics_blitz: Every time I hear cybersecurity for Space Force I think of that scene from Independence Day where they uploaded a computer v…
+RT @Cyberknow20: 🚨🚨4 MAR updated #cybertracker - new groups added. Version 5.
+
+Groups in Orange are now inactive per their social accounts.…
+ 
+# _468TCM5VN7NUSER INFO
+![image](http://pbs.twimg.com/profile_images/1497944566804197386/iWHZ5LtQ_normal.png)
+ 
+`User ScreenName:` _468TCM5VN7N 
+ 
+`User chosen Name:` _468TCM5VN7N 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 27 14:39:49 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 61 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 88 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1497944566804197386/iWHZ5LtQ_normal.png 
+ 
+`Number of tweets excluding replies:` 88 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NA** 29 , **W** 24 , **Z** 18 , **NIE** 16 , **@MATEUSZCHROBOK:** 13 , **@SEKURAK:** 10 , **JEST** 9 , **O** 7 , **SIĘ** 6 , **JAK** 6 , **GOOGLE** 6 , **@NIEBEZPIECZNIK:** 5 , **⚠️** 5 , **ŻE** 5 , **CO** 4 , **@NIEBEZPIECZNIK** 4 , **@WERYFIKACJANASK:** 4 , **@UWTEAM:** 4 , **DLA** 4 , **UKRAINE** 4 , 
+ 
+## What this user tweeted
+ 
+RT @bad_packets: CVE-2018-13379 exploit activity detected from 185.7.214.223 (🇷🇺) and 185.7.214.224 (🇷🇺).
+
+Target:
+Fortinet VPN servers vul…RT @threatintel: #ThreatProtection #OutSteel and #SaintBot #malware used in targeted attacks against energy sector in #Ukraine, read more:…
  
 # Cyb0MancerUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1500538681333063680/QZNFTeve_normal.jpg)
@@ -252,512 +277,41 @@ RT @ics_blitz: Every time I hear cybersecurity for Space Force I think of that s
  
 ## What this user tweeted
  
-RT @Cyberknow20: Seems like #russia could be cutting its internet off from the world by 11 March - activating the RuNet.
+RT @bad_packets: CVE-2018-13379 exploit activity detected from 185.7.214.223 (🇷🇺) and 185.7.214.224 (🇷🇺).
 
-#cybersecurity #i…RT @three_cube: OSINT is playing a key role in saving Ukraine. Learn to use it here.
+Target:
+Fortinet VPN servers vul…RT @Cyberknow20: You wouldn't believe it... but #againstthewest is back again.  The inspiration of eminem is very fitting. 'Guess whose bac…RT @bad_packets: Active DDoS malware command-and-control (C2) server detected. 
 
-Hackers-Arise has One of the largest repositories of…RT @three_cube: The CyberWarrior Wisdom of Master OTW #wisdom #otwwisdom #cybersecurity #cyberwarrior
+IP address: 103.136.43.126 (🇷🇺)
 
-11. The battle does NOT always go th…
+C2 ports:
+5034/tcp
+59314/…
  
-# ng9486209USER INFO
-![image](http://pbs.twimg.com/profile_images/1500391649423286274/sTVsGEH__normal.jpg)
+# mc183696USER INFO
+![image](http://pbs.twimg.com/profile_images/1497783477017747459/xolEphpr_normal.jpg)
  
-`User ScreenName:` ng9486209 
+`User ScreenName:` mc183696 
  
-`User chosen Name:` nico gomez 
+`User chosen Name:` mc183696 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 06 04:23:02 +0000 2022 
+`User signup date?:` Sun Feb 27 03:09:51 +0000 2022 
  
-`User Description?:` fan del futbol 
+`User Description?:` Dad,Info-Sec Analyst,Gamer,and learner of things. Opinions are my own. 
  
-`Followers?: `1 
+`Followers?: `5 
  
-`Following?:` 162 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 91 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1500391649423286274/sTVsGEH__normal.jpg 
- 
-`Number of tweets excluding replies:` 92 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NFT** 11 , **NEW** 10 , **SOON** 7 , **GIVEAWAY** 7 , **COMING** 7 , **FOLLOW** 7 , **WL** 7 , **RETWEET** 6 , **VERY** 6 , **2** 6 , **TAG** 6 , **1** 6 , **3** 6 , **RT** 5 , **FRIENDS** 5 , **NFTS** 5 , **JOIN** 5 , **SPOTS** 5 , **✅** 5 , **🎁** 5 , 
- 
-## What this user tweeted
- 
-RT @Ackerworx: We develop free software and provide advice. We're not a social enterprise or data collector. 
-
-Very very very strange. Sele…
- 
-# InfoZimInvaderUSER INFO
-![image](http://pbs.twimg.com/profile_images/1499834743604527110/Fitpv9Fs_normal.jpg)
- 
-`User ScreenName:` InfoZimInvader 
- 
-`User chosen Name:` ZIM! 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 02 23:18:25 +0000 2022 
- 
-`User Description?:` ZIM 
- 
-`Followers?: `0 
- 
-`Following?:` 7 
+`Following?:` 115 
  
 `User URL?:` None 
  
-`Location:`  
- 
-`Number of tweets extracted`  : 144 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1499834743604527110/Fitpv9Fs_normal.jpg 
- 
-`Number of tweets excluding replies:` 144 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UKRAINE** 31 , **RUSSIAN** 30 , **UKRAINIAN** 12 , **PUTIN** 11 , **TANKS** 10 , **RUSSIA** 10 , **FORCES** 7 , **KYIV** 7 , **SOLDIERS** 7 , **BREAKING:** 6 , **BEING** 6 , **SOME** 5 , **VIDEO** 5 , **LEOPARD** 5 , **MILITARY** 4 , **5000** 4 , **CAPTURED** 4 , **ANTI-TANK** 4 , **🇺🇦** 4 , **TANK** 4 , 
- 
-## What this user tweeted
- 
-RT @Cyberknow20: Bit of a #meme. Wondering why no pre-war analysis factored in tractor warfare?
-
-#cybersecurity #infosec #UkraineRussiaCris…
- 
-# Rodney_K_WeaverUSER INFO
-![image](http://pbs.twimg.com/profile_images/1498874021437485060/vfAV1yBJ_normal.jpg)
- 
-`User ScreenName:` Rodney_K_Weaver 
- 
-`User chosen Name:` Rodney Weaver 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 02 04:06:36 +0000 2022 
- 
-`User Description?:` IoT/Security Subject Matter Expert 
- 
-`Followers?: `7 
- 
-`Following?:` 161 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1498874021437485060/vfAV1yBJ_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@KEYFACTOR:** 3 , **AVOID** 3 , **CERTIFICATE** 3 , **HACKERS** 2 , **HELP** 2 , **SECURITY** 2 , **@KEYFACTORCOMM:** 2 , **FIPS** 2 , **PKI** 2 , **RT** 1 , **@ALE_SP_BRAZIL:** 1 , **MALWARE** 1 , **SAMPLES** 1 , **SHARED** 1 , **@VXUNDERGROUND** 1 , **WHICH** 1 , **USING** 1 , **STOLEN** 1 , **NVIDIA** 1 , **LONG** 1 , 
- 
-## What this user tweeted
- 
-RT @AnkitCuriosity: I earned $1,500 for my submission on @bugcrowd https://t.co/adNqMtZ00S #ItTakesACrowd 
-
-Found an Open Redirect and esca…
- 
-# chr0n1c4llyS0ftUSER INFO
-![image](http://pbs.twimg.com/profile_images/1499876368456110082/VF0Qm6SB_normal.jpg)
- 
-`User ScreenName:` chr0n1c4llyS0ft 
- 
-`User chosen Name:` Softie 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 27 20:23:17 +0000 2022 
- 
-`User Description?:` ⚠️ PEDOS, ANTIS, ZOOS, MAPS, MINORS DNI ⚠️
-🌹 20 YR/O Agender Transmasc // They / them pronouns
-🌹 Respect my existance or expect my resistance. 
- 
-`Followers?: `0 
- 
-`Following?:` 21 
- 
-`User URL?:` None 
- 
-`Location:` 🇺🇦 SLAVA UKRAYINI 🇺🇦 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1499876368456110082/VF0Qm6SB_normal.jpg 
- 
-`Number of tweets excluding replies:` 253 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RUSSIAN** 43 , **@ANONOPSSE:** 31 , **UKRAINE** 29 , **RUSSIA** 24 , **@KYIVINDEPENDENT:** 23 , **@OPSAN0N:** 20 , **@THREE_CUBE:** 19 , **ANONYMOUS** 15 , **@YOURANONNEWS:** 12 , **PEOPLE** 11 , **POWER** 11 , **@IAPONOMARENKO:** 10 , **NUCLEAR** 10 , **WAR** 9 , **@LITEMODS:** 9 , **PLANT** 9 , **UKRAINIAN** 8 , **FORCES** 8 , **SOME** 7 , **RESIDENTS** 7 , 
- 
-## What this user tweeted
- 
-RT @three_cube: The CyberWarrior Wisdom of Master OTW #wisdom #otwwisdom #cybersecurity #cyberwarrior
-
-11. The battle does NOT always go th…
- 
-# BlooTriggerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1498197700797509635/jJx_9Atc_normal.jpg)
- 
-`User ScreenName:` BlooTrigger 
- 
-`User chosen Name:` Blue Trigger 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 28 07:25:18 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 43 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 48 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1498197700797509635/jJx_9Atc_normal.jpg 
- 
-`Number of tweets excluding replies:` 48 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**INFOSEC** 10 , **CYBERSECURITY** 9 , **PENTESTING** 8 , **OSCP** 8 , **•** 8 , **USING** 6 , **CSS** 6 , **INFORMATIONSECURITY** 5 , **CISSP** 5 , **@HACKINARTICLES:** 5 , **BEST** 5 , **CHEAT** 5 , **REDTEAM** 4 , **SHEET** 4 , **OPEN** 4 , **ESCALATION** 4 , **PROJECT** 3 , **HTML** 3 , **TOOLS** 3 , **CREDIT** 3 , 
- 
-## What this user tweeted
- 
-Is there a way/trick to know if a link (`a href`) is visited in HTML using CSS or Javascript?
-
-#CSS #HTML… https://t.co/mogmQygr8kRT @hackinarticles: Best of Security Testing Tools
-
-#infosec  #cybersecurity #pentesting #oscp  #informationsecurity #cissp #redteam #Cyber…
- 
-# ProfeXimoUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` ProfeXimo 
- 
-`User chosen Name:` Ximo Profe 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 28 05:30:09 +0000 2022 
- 
-`User Description?:` Profesor de informática. Lifelong learning.💻 
- 
-`Followers?: `0 
- 
-`Following?:` 34 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 21 , **QUE** 8 , **UN** 7 , **EL** 6 , **LA** 5 , **PARA** 5 , **CON** 4 , **LO** 4 , **@ALEXANYERNAS:** 3 , **UNA** 3 , **SI** 3 , **ES** 3 , **POCO** 3 , **EN** 3 , **CYBERSECURITY** 2 , **HACKING** 2 , **TE** 2 , **ADEMÁS** 2 , **MANERA** 2 , **Y** 2 , 
- 
-## What this user tweeted
- 
-RT @redhothacking: LINUX..Everything you need to know about Linux
-#CyberSecurity #cyberattacks #ciberseguridad #Hacking #ThreatHunting #Thr…
- 
-# DisciplecyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1500551735433117705/wmPRtv2j_normal.jpg)
- 
-`User ScreenName:` Disciplecyber 
- 
-`User chosen Name:` Disciple of Cyber 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 06 19:16:50 +0000 2022 
- 
-`User Description?:` A disciple of the cyber life. Evangelizing strong cybersecurity practices and beliefs 
- 
-`Followers?: `2 
- 
-`Following?:` 75 
- 
-`User URL?:` None 
- 
-`Location:` Little Elm, TX 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1500551735433117705/wmPRtv2j_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SECURITY** 4 , **IDENTITY** 2 , **PLATFORM** 2 , **DRIVES** 2 , **REAL** 2 , **BUSINESS** 2 , **VALUE** 2 , **THWARTING** 2 , **CYBER** 2 , **CLOUD** 2 , **@AVROHOMG:** 2 , **SPONSORED** 2 , **CYBERSECURITY** 2 , **@TYLERCOHENWOOD** 2 , **RT** 1 , **@KIRKDBORNE:** 1 , **THREATS:** 1 , **HTTPS://TCO/T9YOATHK65** 1 , **@MCLYND** 1 , **———** 1 , 
- 
-## What this user tweeted
- 
-RT @KirkDBorne: How An Identity Platform Drives Real Business Value in Thwarting Cyber Threats: https://t.co/T9YoAtHK65 by @mclynd 
-———
-#Cy…RT @mclynd: 👉 My latest article titled: "How An Identity Platform Drives Real Business Value in Thwarting Cyber Threats", focuses on how an…RT @digitalcloudgal: 📌 Q: What is cloud security posture management?
-
-A: Security technology that can discover, assess, and resolve cloud i…RT @avrohomg: Endpoint Security Checklist: The Experts Weigh in
-
-#Sponsored
-
-#CyberSecurity @TylerCohenWood @archonsec @BetaMoroney @Raguso…RT @avrohomg: #Cyberwarfare is Happening Today
-
-#CriticalInfrastructure is in the Crosshairs
-
-#Sponsored
-
-#CyberSecurity @TylerCohenWood @a…
- 
-# maya_cohennnUSER INFO
-![image](http://pbs.twimg.com/profile_images/1498001096010313729/ZXmXmjFF_normal.jpg)
- 
-`User ScreenName:` maya_cohennn 
- 
-`User chosen Name:` Maya Cohen 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 27 18:23:30 +0000 2022 
- 
-`User Description?:` Student - University of Delaware 
-Elementary Education major with a concentration in Special Education 
- 
-`Followers?: `0 
- 
-`Following?:` 25 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1498001096010313729/ZXmXmjFF_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CLOSURE** 2 , **EDUCATION** 2 , **DIGITAL** 1 , **CITIZENSHIP** 1 , **NEEDS** 1 , **EMPHASIZED** 1 , **CLASSROOM** 1 , **PROMOTE** 1 , **SAFE** 1 , **RESPONSIBLE** 1 , **RESPECTF…** 1 , **HTTPS://TCO/02W1T3VDYPRT** 1 , **@THEMIKEMOHAMMED:** 1 , **SKETCHNOTE** 1 , **DAY** 1 , **SS** 1 , **NEVER** 1 , **MADE** 1 , **AFRAID** 1 , **USING** 1 , 
- 
-## What this user tweeted
- 
-Digital citizenship needs to be emphasized in the classroom so that we can promote a safe, responsible and respectf… https://t.co/02w1T3Vdyp
- 
-# echodoestechUSER INFO
-![image](http://pbs.twimg.com/profile_images/1498040891537338371/ezAsf0Pa_normal.jpg)
- 
-`User ScreenName:` echodoestech 
- 
-`User chosen Name:` echo 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 27 20:52:46 +0000 2022 
- 
-`User Description?:` he/him 
-Aspiring Penetration Tester
-Enrolled in SCCTC (Senior)
-Bisexual Computer Nerd 
- 
-`Followers?: `1 
- 
-`Following?:` 39 
- 
-`User URL?:` None 
- 
-`Location:` Ohio 
- 
-`Number of tweets extracted`  : 46 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1498040891537338371/ezAsf0Pa_normal.jpg 
- 
-`Number of tweets excluding replies:` 46 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 11 , **INFOSEC** 10 , **LINUX** 9 , **PENTESTING** 9 , **OSCP** 9 , **INFORMATIONSECURITY** 9 , **CISSP** 7 , **CHEAT** 6 , **REDTEAM** 6 , **CYBERSEC** 6 , **COOL** 6 , **@HACKINARTICLES:** 5 , **SHEET** 5 , **@NANDANLOHITAKSH:** 5 , **LOVE** 5 , **BEST** 4 , **SECURITY** 4 , **HACKING** 3 , **FREE** 3 , **LEARN** 3 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Linux Path Cheat Sheet
-
-#infosec  #cybersecurity #pentesting #oscp  #informationsecurity #cissp #redteam #CyberSec #cyb…
- 
-# devsecops_tipsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1499490366130724868/dmhFnxz2_normal.png)
- 
-`User ScreenName:` devsecops_tips 
- 
-`User chosen Name:` Cloud Forensics 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 03 21:02:16 +0000 2022 
- 
-`User Description?:` Cloud and Container DevOps tips 
- 
-`Followers?: `3 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1499490366130724868/dmhFnxz2_normal.png 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BLOG** 2 , **KUBERNETES** 2 , **DOCKER** 2 , **CYBERSECURITY** 2 , **NEW** 1 , **POST** 1 , **"KUBERNETES** 1 , **INCIDENT** 1 , **RESPONSE"** 1 , **&GT;** 1 , **HTTPS://TCO/CLOY72DX8R** 1 , **CYBER** 1 , **CONTAINERSNEW** 1 , **"DOCKER** 1 , **FILE** 1 , **SECURITY** 1 , **BEST** 1 , **PRACTICES"** 1 , **@** 1 , **HTTPS://TCO/STRCFV3C3N** 1 , 
- 
-## What this user tweeted
- 
-New Blog "Docker File Security Best Practices" @ https://t.co/strcfv3c3N #docker #CyberSecurity #Kubernetes
- 
-# bay_qualityUSER INFO
-![image](http://pbs.twimg.com/profile_images/1499792932052021248/ndxqoVM9_normal.jpg)
- 
-`User ScreenName:` bay_quality 
- 
-`User chosen Name:` Writers Bay For Quality Services 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 04 16:59:50 +0000 2022 
- 
-`User Description?:` We provide legit services and give our clients top grades. We are available in all platforms 💯 
- 
-`Followers?: `27 
- 
-`Following?:` 48 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1499792932052021248/ndxqoVM9_normal.jpg 
- 
-`Number of tweets excluding replies:` 202 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PAY** 111 , **ESSAY** 71 , **HELP** 65 , **DUE** 38 , **SOMEONE** 37 , **DM** 37 , **PHYSICS** 34 , **ENGLISH** 31 , **CHEMISTRY** 31 , **BIOLOGY** 31 , **THESIS** 30 , **HOMEWORK** 26 , **WRITE** 24 , **ASSIGNMENT** 23 , **MATH** 22 , **US** 22 , **CALCULUS** 21 , **PAPER** 21 , **ASSIGNMENTS** 20 , **HISTORY** 19 , 
- 
-## What this user tweeted
- 
-GUARANTEED DISTINCTIONS
-biology
-English
-Chemistry
-Ecology
-Genetics
-Math
-Proofreading
-Psychology
-Anatomy
-Physiology… https://t.co/DnjGA3WvgX
- 
-# Gregor_legeinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1498908884970446849/OC30ZHN8_normal.jpg)
- 
-`User ScreenName:` Gregor_legein 
- 
-`User chosen Name:` Gregor Legein 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 02 06:31:40 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 51 
- 
-`User URL?:` None 
- 
-`Location:`  
+`Location:` Pennsylvania 
  
 `Number of tweets extracted`  : 40 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1498908884970446849/OC30ZHN8_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1497783477017747459/xolEphpr_normal.jpg 
  
 `Number of tweets excluding replies:` 40 
  
@@ -767,15 +321,626 @@ Physiology… https://t.co/DnjGA3WvgX
  
 ## User Top tweeted words 
  
-**RUSSIAN** 6 , **@ANONOPSSE:** 5 , **UKRAINE** 5 , **PEOPLE** 4 , **PUTIN** 4 , **ANONYMOUS** 3 , **UKRAINIAN** 3 , **RUSSIA** 3 , **SEVERAL** 3 , **MILITARY** 3 , **NATO** 3 , **WE?** 2 , **UKRAINEUNDERATTAСK** 2 , **INVASION** 2 , **@OPSAN0N:** 2 , **RANDOM** 2 , **GOING** 2 , **PHONE** 2 , **DIRECTORY** 2 , **PUBLIC** 2 , 
+**INFOSEC** 14 , **CYBERSECURITY** 13 , **PENTESTING** 10 , **CHEAT** 9 , **OSCP** 9 , **BEST** 7 , **SHEET** 7 , **REDTEAM** 7 , **INFORMATIONSECURITY** 6 , **SECURITY** 5 , **CISSP** 5 , **@HACKINARTICLES:** 5 , **COLLECTION** 4 , **@CYBERWARSHIP:** 4 , **→** 4 , **C…RT** 3 , **MALWARE** 3 , **WHICH** 3 , **CYBERSEC** 3 , **1** 3 , 
  
 ## What this user tweeted
  
-RT @hackinarticles: Linux Directory Structure Explained for Beginners
+RT @Cyberknow20: 🚨🚨4 MAR updated #cybertracker - new groups added. Version 5.
 
-https://t.co/LRoCC0G8o6
+Groups in Orange are now inactive per their social accounts.…
+ 
+# iammindspinUSER INFO
+![image](http://pbs.twimg.com/profile_images/1500102716647182337/pUSRWUIw_normal.jpg)
+ 
+`User ScreenName:` iammindspin 
+ 
+`User chosen Name:` RJ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 25 03:17:07 +0000 2022 
+ 
+`User Description?:` network and cloud security engineer. 
+ 
+`Followers?: `15 
+ 
+`Following?:` 198 
+ 
+`User URL?:` https://t.co/Lho04ws6Lt 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 188 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1500102716647182337/pUSRWUIw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 188 
+ 
 
-#infosec #cybersecurity #pentesting #oscp…
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 15 , **VIA** 13 , **SECURITY** 12 , **BIGDATA** 12 , **DATASCIENCE** 11 , **ANALYTICS** 11 , **KUBERNETES** 10 , **LINUX** 10 , **INFOSEC** 10 , **CHEAT** 10 , **SHEET** 10 , **PYTHON** 10 , **AI** 8 , **CLOUD** 7 , **DATA** 7 , **PROGRAMMING** 7 , **IIOT** 7 , **DATASCIENTIST** 7 , **REAL** 6 , **@SHERAJ99:** 6 , 
+ 
+## What this user tweeted
+ 
+RT @ang_giraldo01: Great article on @CNN that highlights how our @threatintel team continues to monitor and protect against the Trojan.Kill…
+ 
+# BirmaanHKUSER INFO
+![image](http://pbs.twimg.com/profile_images/1497951704221892608/8dcM4DnE_normal.jpg)
+ 
+`User ScreenName:` BirmaanHK 
+ 
+`User chosen Name:` BirmaanHK 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 26 03:44:35 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 105 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 80 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1497951704221892608/8dcM4DnE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 80 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 11 , **RANSOMWARE** 10 , **CONTI** 9 , **PEOPLE** 7 , **USE** 6 , **INFOSEC** 5 , **FREE** 5 , **SOME** 4 , **HELP** 4 , **BEST** 4 , **PENTESTING** 4 , **GUIDE** 4 , **TOOLS** 4 , **CYBER** 4 , **HACKING** 4 , **LINUX** 4 , **CASE** 4 , **SIEM** 4 , **WINDOWS** 4 , **UKRAINE** 4 , 
+ 
+## What this user tweeted
+ 
+RT @DomainTools: DomainTools is offering a new, free #threatintel feed of newly observed or registered Ukraine-related #domain names to hel…
+ 
+# AlufKhatoolUSER INFO
+![image](http://pbs.twimg.com/profile_images/1498256582462750721/BuCfjShi_normal.jpg)
+ 
+`User ScreenName:` AlufKhatool 
+ 
+`User chosen Name:` AlufKhatool 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 28 11:18:13 +0000 2022 
+ 
+`User Description?:` Cat General 🦁 🕎Jewish ✡ 
+Subject Matter Expertise #Cyber
+#TeamMeezer don't need followers but do need leaders 
+ 
+`Followers?: `27 
+ 
+`Following?:` 129 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1498256582462750721/BuCfjShi_normal.jpg 
+ 
+`Number of tweets excluding replies:` 511 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 22 , **RUSSIAN** 17 , **PEOPLE** 14 , **RUSSIA** 11 , **WAR** 10 , **LOVE** 8 , **UKRAINIAN** 7 , **GOOD** 7 , **NEED** 7 , **TWO** 6 , **NEW** 6 , **SUPPORT** 6 , **PUTIN** 6 , **AMERICAN** 5 , **ACTUALLY** 5 , **WOMEN** 5 , **PRESIDENT** 5 , **ANY** 5 , **FIRST** 4 , **JEWISH** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Cyberknow20: 🚨🚨4 MAR updated #cybertracker - new groups added. Version 5.
+
+Groups in Orange are now inactive per their social accounts.…
+ 
+# RatoncnquesoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1498321115978022912/NpIUV0VP_normal.jpg)
+ 
+`User ScreenName:` Ratoncnqueso 
+ 
+`User chosen Name:` Ratón con queso 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 28 15:26:13 +0000 2022 
+ 
+`User Description?:` Master desarrollo web. Diseño web. Amante nuevas tecnologías y de la naturaleza. Luchando contra la injusticia y aprendiendo de la vida 
+ 
+`Followers?: `24 
+ 
+`Following?:` 158 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1498321115978022912/NpIUV0VP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 581 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 130 , **LA** 85 , **EL** 52 , **QUE** 48 , **EN** 46 , **LOS** 29 , **UN** 27 , **Y** 27 , **SE** 24 , **ES** 23 , **DEL** 22 , **LAS** 19 , **@NATGEO:** 18 , **UNA** 18 , **POR** 18 , **PARA** 18 , **CON** 17 , **@NATURALEZAYMAS_:** 17 , **@NATGEOESPANA:** 12 , **MÁS** 11 , 
+ 
+## What this user tweeted
+ 
+RT @LuatixHQ: #OpenCTI 5.2.0 has been released 🥳! In a word: #fresh 😎. It's time to join us if you're not already part of this amazing comm…
+ 
+# choochichooUSER INFO
+![image](http://pbs.twimg.com/profile_images/1498782374867447809/YuWURYFG_normal.jpg)
+ 
+`User ScreenName:` choochichoo 
+ 
+`User chosen Name:` Choochi Choochi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 27 22:05:25 +0000 2022 
+ 
+`User Description?:` UKRAINIAN 🇺🇦✊🏻 
+ 
+`Followers?: `16 
+ 
+`Following?:` 36 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1498782374867447809/YuWURYFG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 370 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 34 , **RUSSIA** 27 , **RUSSIAN** 27 , **PUTIN** 17 , **✊🏻🇺🇦** 14 , **!** 12 , **WAKE** 12 , **СЛАВА** 11 , **FCKPUTIN** 11 , **FCKPTN** 10 , **@ANONOPSSE:** 9 , **WAR** 9 , **UP!** 9 , **В** 7 , **WORLD** 7 , **2022** 7 , **MARCH** 7 , **PEOPLE** 7 , **ANONYMOUS** 7 , **PUTLER** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Cyberknow20: 🚨🚨3 MAR updated #cybertracker - new groups added and some modifications to others. Version 4.
+
+Make sure to check the upda…
+ 
+# cybergollarUSER INFO
+![image](http://pbs.twimg.com/profile_images/1499325154266132482/LA0gDSiJ_normal.jpg)
+ 
+`User ScreenName:` cybergollar 
+ 
+`User chosen Name:` cybergollar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 26 17:06:56 +0000 2022 
+ 
+`User Description?:` A free man will never give up his freedom 
+ 
+`Followers?: `0 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:` World 
+ 
+`Number of tweets extracted`  : 23 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1499325154266132482/LA0gDSiJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 23 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 13 , **RUSSIA** 7 , **RUSSIAN** 5 , **НЕ** 3 , **ANONYMOUS** 3 , **РОССИЯ** 3 , **KHARKIV** 3 , **МЫ** 2 , **PEOPLE** 2 , **FCKPUTIN** 2 , **KYIV** 2 , **FOUGHT** 2 , **RT** 1 , **@DEFENCEU:** 1 , **🎥** 1 , **ПРЕЗИДЕНТ** 1 , **ВОЛОДИМИР** 1 , **ЗЕЛЕНСЬКИЙ** 1 , **ПІД** 1 , **ЧАС** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Cyberknow20: 🚨🚨3 MAR updated #cybertracker - new groups added and some modifications to others. Version 4.
+
+Make sure to check the upda…
+ 
+# micha_grymailUSER INFO
+![image](http://pbs.twimg.com/profile_images/1497928027258470401/cBq8z8cM_normal.png)
+ 
+`User ScreenName:` micha_grymail 
+ 
+`User chosen Name:` Michał Michalik 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 27 13:34:06 +0000 2022 
+ 
+`User Description?:` Dla nich 
+ 
+`Followers?: `4 
+ 
+`Following?:` 110 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 89 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1497928027258470401/cBq8z8cM_normal.png 
+ 
+`Number of tweets excluding replies:` 89 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 12 , **UKRAINE** 9 , **DE** 9 , **@YOURANONNEWS:** 8 , **LA** 6 , **@SENJU_HYUGA:** 6 , **@CAUCASUSWAR:** 6 , **UKRAINIAN** 5 , **Z** 5 , **NA** 5 , **MILITARY** 5 , **DOWN** 5 , **@YOURPOLANDANON:** 5 , **PUTIN** 5 , **ANONYMOUS** 5 , **RT** 4 , **W** 4 , **SOLDIERS** 4 , **NIE** 4 , **TANGO** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Cyberknow20: 🚨🚨3 MAR updated #cybertracker - new groups added and some modifications to others. Version 4.
+
+Make sure to check the upda…
+ 
+# SmigielskaMajaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1497457907541098496/rllKXQQ7_normal.png)
+ 
+`User ScreenName:` SmigielskaMaja 
+ 
+`User chosen Name:` maja śmigielska 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 26 06:26:00 +0000 2022 
+ 
+`User Description?:` Psycholog na godziny 
+ 
+`Followers?: `8 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1497457907541098496/rllKXQQ7_normal.png 
+ 
+`Number of tweets excluding replies:` 625 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ARMEDFORCESUKR:** 39 , **RUSSIAN** 22 , **НА** 20 , **@DEFENCEU:** 19 , **@YOURANONNEWS:** 18 , **З** 17 , **UKRAINE** 16 , **@ARMEDFORCESUKR** 16 , **@TSYBULSKALIUBOV:** 15 , **PEOPLE** 14 , **В** 13 , **RUSSIA** 11 , **STOPRUSSIA** 10 , **🇺🇦** 10 , **ТА** 10 , **ЗА** 10 , **🇷🇺** 10 , **І** 10 , **ВІД** 9 , **@SHTIRLITZ53:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @LuatixHQ: #OpenCTI 5.2.0 has been released 🥳! In a word: #fresh 😎. It's time to join us if you're not already part of this amazing comm…
+ 
+# Le52937476USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Le52937476 
+ 
+`User chosen Name:` Le 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 28 00:38:32 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 65 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1575 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 43 , **UKRAINE** 36 , **UKRAINIAN** 23 , **RUSSIA** 22 , **@ANONOPSSE:** 17 , **PEOPLE** 16 , **PUTIN** 15 , **WAR** 14 , **@OLEX_SCHERBA:** 11 , **@KYIVINDEPENDENT:** 11 , **!** 10 , **ANONYMOUS** 9 , **US** 8 , **VIDEO** 8 , **@ANONYMOUSUK2022:** 8 , **SENT** 7 , **@YOURANONNEWS:** 7 , **RUSSIANS** 7 , **WORLD** 7 , **AGAINST** 6 , 
+ 
+## What this user tweeted
+ 
+RT @Cyberknow20: 🚨🚨3 MAR updated #cybertracker - new groups added and some modifications to others. Version 4.
+
+Make sure to check the upda…
+ 
+# YourAnonWeebUSER INFO
+![image](http://pbs.twimg.com/profile_images/1498240035098869766/h-hAQl_y_normal.jpg)
+ 
+`User ScreenName:` YourAnonWeeb 
+ 
+`User chosen Name:` 🏴‍☠️𝘁𝗼𝗯𝗶𝘀𝗮𝗻🏴‍☠️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 28 10:08:49 +0000 2022 
+ 
+`User Description?:` do you know your human rights? Expect us. #Anonymous #fuckputin 
+ 
+`Followers?: `6 
+ 
+`Following?:` 40 
+ 
+`User URL?:` None 
+ 
+`Location:` everywhere 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1498240035098869766/h-hAQl_y_normal.jpg 
+ 
+`Number of tweets excluding replies:` 496 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ANONYMOUS** 34 , **@ANONOPSSE:** 32 , **UKRAINE** 26 , **RUSSIAN** 21 , **HACKERS** 18 , **@ANONALYTICS:** 14 , **🇺🇦** 14 , **@YOURANONNEWS:** 13 , **RUSSIANARMY** 13 , **@PUCKSRETURN:** 12 , **RUSSIA** 12 , **RUSSIAUKRAINEWAR** 11 , **RUSSIAUKRAINE** 11 , **UKRAINERUSSIAWAR** 11 , **GROUP** 10 , **OPRUSSIA** 10 , **UKRAINIAN** 9 , **PEOPLE** 8 , **UKRAINEINVASION** 8 , **PUTIN** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Cyberknow20: You wouldn't believe it... but #againstthewest is back again.  The inspiration of eminem is very fitting. 'Guess whose bac…RT @Cyberknow20: The #itarmyofukraine is ramping up their information campaigns.
+
+#cybersecurity #cyberattacks #infosec #threatintel #ukria…RT @OpCoEc: Another #cyber group #DigitalCobraGang has declared war on anyone targeting #Russia in cyberspace.
+
+Will add to tomorrows track…
+ 
+# SamiraPascual11USER INFO
+![image](http://pbs.twimg.com/profile_images/1499054288722661377/tgUo5EIC_normal.jpg)
+ 
+`User ScreenName:` SamiraPascual11 
+ 
+`User chosen Name:` Samira 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 02 16:09:03 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1499054288722661377/tgUo5EIC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 240 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@POLYSWARM:** 151 , **RANSOMWARE** 37 , **NEW** 27 , **THREAT** 22 , **SAMPLES** 19 , **@POLYSWARM** 17 , **MAINNET** 16 , **EMERGING** 14 , **POLYSWARM** 14 , **SEEN** 13 , **FIRST** 13 , **ADDED** 12 , **WEEK** 12 , **LAST** 12 , **JOIN** 12 , **THREATS** 12 , **INTO** 11 , **ENGINES** 9 , **US** 9 , **INCREASE** 9 , 
+ 
+## What this user tweeted
+ 
+RT @Anomali: Join @Anomali, @PolySwarm and @VerizonBusiness Threat Research Advisory Center at "Mid-Atlantic Threat Day". 
+Date: 9th June 2…RT @Anomali: Join @Anomali, @PolySwarm and @VerizonBusiness Threat Research Advisory Center at "Mid-Atlantic Threat Day". 
+Date: 9th June 2…RT @PolySwarm: Signup and join us in this upcoming webinar with @Anomali and @VerizonBusiness, where we will present and discuss how to bes…
+ 
+# PolandAnonNewsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1498764632395288588/FqZvLNQe_normal.jpg)
+ 
+`User ScreenName:` PolandAnonNews 
+ 
+`User chosen Name:` PolandAnonNews 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 01 20:48:22 +0000 2022 
+ 
+`User Description?:` TŁUMACZENIA GRUP ANONYMOUS ORAZ INNYCH HACKAKTYWISTÓW #anonymous #hackactivist #StopPutin #StopPutinNOW #FCKPTN #FreeUkraine #OpRussia #xxnb65 #ghostsec  #ATW 
+ 
+`Followers?: `135 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1498764632395288588/FqZvLNQe_normal.jpg 
+ 
+`Number of tweets excluding replies:` 384 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ANONYMOUS** 38 , **W** 25 , **RUSSIAN** 25 , **NIE** 20 , **NA** 19 , **Z** 18 , **RUSSIA** 15 , **SIĘ** 14 , **@YOURANONNEWS:** 14 , **@PUCKSRETURN:** 13 , **OPRUSSIA** 13 , **ATW** 13 , **!** 12 , **HACKED** 12 , **UKRAINE** 11 , **@ANONYMOUSUK2022:** 10 , **ROSJI** 10 , **O** 10 , **@_BARBBY:** 9 , **PRZEZ** 8 , 
+ 
+## What this user tweeted
+ 
+RT @cyberoverdrive: 55b075250dad5c15c6386bcdecbde1eb
+newly-submitted (from TW) sample of #ELF #PLEAD malware used by #BlackTech. Config fol…
+ 
+# AnonWeProtestUSER INFO
+![image](http://pbs.twimg.com/profile_images/1497925499045175297/0mNp6KUE_normal.jpg)
+ 
+`User ScreenName:` AnonWeProtest 
+ 
+`User chosen Name:` Anonymous 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 27 13:18:25 +0000 2022 
+ 
+`User Description?:` Knowledge is Free.
+We are Anonymous.
+We are Legion.
+We do not Forget.
+We do not Forgive.
+Expect us. 
+ 
+`Followers?: `49 
+ 
+`Following?:` 101 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1497925499045175297/0mNp6KUE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 423 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 41 , **UKRAINE** 37 , **ANONYMOUS** 34 , **RUSSIA** 34 , **WAR** 16 , **@ANONOPSSE:** 15 , **@PUCKSRETURN:** 14 , **PUTIN** 14 , **PEOPLE** 13 , **SOME** 12 , **@NAVALNY:** 12 , **US** 11 , **@YOURANONNEWS:** 10 , **DOWN** 8 , **UKRAINIANS** 8 , **HELP** 8 , **KYIV** 7 , **DATA** 7 , **NEED** 7 , **CALL** 7 , 
+ 
+## What this user tweeted
+ 
+RT @OpCoEc: Another #cyber group #DigitalCobraGang has declared war on anyone targeting #Russia in cyberspace.
+
+Will add to tomorrows track…
+ 
+# monia8854USER INFO
+![image](http://pbs.twimg.com/profile_images/1499208493529772038/ddTY7Tp0_normal.jpg)
+ 
+`User ScreenName:` monia8854 
+ 
+`User chosen Name:` 🇵🇱Monia🇵🇱 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 27 18:42:51 +0000 2022 
+ 
+`User Description?:` (34)🇵🇱 / base in 🇬🇧 
+ 
+`Followers?: `19 
+ 
+`Following?:` 66 
+ 
+`User URL?:` None 
+ 
+`Location:` England, United Kingdom 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1499208493529772038/ddTY7Tp0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 519 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**W** 29 , **@NEXTA_TV:** 24 , **RUSSIAN** 23 , **Z** 21 , **UKRAINE** 19 , **NA** 17 , **NIE** 14 , **@ANONOPSSE:** 13 , **KYIV** 13 , **SIĘ** 11 , **UKRAINIAN** 10 , **ŻE** 10 , **@TOMASZ994:** 9 , **@NEXTA_TV** 9 , **JEST** 8 , **CO** 8 , **PEOPLE** 8 , **ZE** 7 , **PUTIN** 7 , **O** 6 , 
+ 
+## What this user tweeted
+ 
+RT @OpCoEc: Another #cyber group #DigitalCobraGang has declared war on anyone targeting #Russia in cyberspace.
+
+Will add to tomorrows track…
+ 
+# slawek123123USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` slawek123123 
+ 
+`User chosen Name:` Sławek 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 27 13:52:40 +0000 2022 
+ 
+`User Description?:` Brak 
+ 
+`Followers?: `0 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 46 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 48 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 20 , **UKRAINE** 15 , **UKRAINIAN** 12 , **ANONYMOUS** 11 , **CYBERATTACKS** 5 , **PUTIN** 5 , **RUSSIA** 4 , **CIVILIANS** 4 , **IDINACHUJ** 4 , **ARMY** 4 , **CONVOY** 3 , **@CYBERKNOW20:** 3 , **HACKED** 3 , **SYSTEM** 3 , **TEAM** 3 , **!** 3 , **I’M** 3 , **SOLDIERS** 3 , **@VISEGRAD24:** 3 , **NEW** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Cyberknow20: It appears that #NB65 Network battalion 65 hit Fornovogas of #russia with #cyberattacks. Now #redbanditsRU have responded…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
