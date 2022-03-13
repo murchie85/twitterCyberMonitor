@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **Khulood_Almani**  
+The most popular user is: **RogerMiles**  
  
 
-## ⚡️5⃣ Artificial Intelligence🤖Technologies are Upgrading the Future of #AI👇
-
-https://t.co/ETBMb5C9xi… https://t.co/Q4FSydydGf 
+## The Russian Embassy in Lisbon. Two neighbouring houses are projecting the blue and yellow onto its facade. The amba… https://t.co/8WyqTgnZ2p 
 
   
 
@@ -25,25 +23,25 @@ https://t.co/ETBMb5C9xi… https://t.co/Q4FSydydGf
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @1DavidClarke: Insider Threat: Who is most at #Risk?#Cybersecurity #security #humanfactors #socialmedia #fintech #RegTech #Technology… |
-| RT @AmoneyResists: Since Biden just established a task force to target Russian oligarchs, it seems like a good time to remember that Trump’… |
-| RT @AmoneyResists: Since Biden just established a task force to target Russian oligarchs, it seems like a good time to remember that Trump’… |
+| @AlyssaM_InfoSec @dellcam He was a lance Corporal in WW1, his side did use it. |
+| RT @securityonion: Looking for a fun #Infosec project for the weekend? 😀Want to practice your #ThreatHunting 🔍 and #IncidentResponse skil… |
+| RT @UnlimitedCursor: @supimbianca  Butterfly 🦋 Effect News 📰#Python #IoT #IIoT #PyTorch #JavaScript #ReactJS #WordPress #Security #DeFi @… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AmoneyResists** |
-| #2 Most tweeted to  | **Paula_Piccard** |
+| #1 Most tweeted to  | **Infosec_Taylor** |
+| #2 Most tweeted to  | **AlyssaM_InfoSec** |
 | #3 Most tweeted to  | **hackinarticles** |
-| NewProfiles (less than 10 days) | 3.1%  |
-| Tweeters with < 10 followers  | 6.4%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 3.52%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -52,96 +50,57 @@ https://t.co/ETBMb5C9xi… https://t.co/Q4FSydydGf
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AI**  |
-| second  | **PYTHON**  |
-| third  | **INFOSEC** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **MACHINELEARNING**  |
+| first  | **INFOSEC**  |
+| second  | **PROGRAMMING**  |
+| third  | **JAVASCRIPT** |
+| fourth  | **PYTHON**  |
+| fifth  | **OSCP**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Forbes: Chinese hackers have joined the fray of those targeting the Ukraine conflict and the associated refugee crisis, according to re… |
+|RT @MichaelNHicks1: Buy Elite Yelp Reviews#100Daysofcode  #programming  #CodeNewbie #python #reactjs #bugbounty #DataScience #infosec #ga… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Khulood_Almani**  |
+| The most retweeted user is: **RogerMiles**  |
 | ------------- |
-| ⚡️5⃣ Artificial Intelligence🤖Technologies are Upgrading the Future of #AI👇https://t.co/ETBMb5C9xi… https://t.co/Q4FSydydGf |
+| The Russian Embassy in Lisbon. Two neighbouring houses are projecting the blue and yellow onto its facade. The amba… https://t.co/8WyqTgnZ2p |
 
 # Potential Fake Accounts
  
-# hadebef1USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# ITSP_SocietyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1499841364372049920/zUzME7FD_normal.jpg)
  
-`User ScreenName:` hadebef1 
+`User ScreenName:` ITSP_Society 
  
-`User chosen Name:` hadebef 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 13 00:09:32 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 39 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 39 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@RYOMAWARRIORS** 10 , **@CHINAPUMPWXC** 8 , **@POCHIINU_IO** 7 , **@TRYRIFT:** 4 , **INU** 4 , **🔥RT** 3 , **✅** 3 , **NEW** 3 , **@METASAVIORS** 2 , **MANY** 2 , **H…RT** 2 , **FRIENDS** 2 , **MONEY** 2 , **@MARSECOSYSTEM** 2 , **@CHINAPUMPWXC:** 2 , **POCHI** 2 , **@ERSANZ12** 2 , **@HANUYGAR2** 2 , **BUSINESS** 2 , **@BSC_NEWSPAPER** 2 , 
- 
-## What this user tweeted
- 
-RT @sudannew2017: https://t.co/lPmtxD1Ile Building Custom Software Solutions for Your Business #business #technology #cybersecurity #McKins…
- 
-# whoisscanningmeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1499876680399491073/Ze6nTWFr_normal.jpg)
- 
-`User ScreenName:` whoisscanningme 
- 
-`User chosen Name:` @WhoIsScanningMe 
+`User chosen Name:` Redefining Society Podcast | On ITSPmagazine 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 03 05:10:31 +0000 2022 
+`User signup date?:` Fri Mar 04 06:25:09 +0000 2022 
  
-`User Description?:` Reporting unsolicited cyber scanning attempts and mapping them for all to see. 
+`User Description?:` An @itspmagazine Podcast Hosted by @MarcoCiappelli | Let's face it: the future is now. We are living in a connected cyber society, and we just cannot ignore it. 
  
 `Followers?: `9 
  
-`Following?:` 1 
+`Following?:` 17 
  
-`User URL?:` None 
+`User URL?:` https://t.co/gWS3QHdZb7 
  
-`Location:`  
+`Location:` Los Angeles 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1499876680399491073/Ze6nTWFr_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1499841364372049920/zUzME7FD_normal.jpg 
  
-`Number of tweets excluding replies:` 207 
+`Number of tweets excluding replies:` 232 
  
 
  
@@ -149,101 +108,81 @@ RT @sudannew2017: https://t.co/lPmtxD1Ile Building Custom Software Solutions for
  
 ## User Top tweeted words 
  
-**🔎** 583 , **SCANS** 200 , **MAPPED** 200 , **HOURLY** 200 , **PORT** 196 , **REALTIME** 195 , **TWEETED** 195 , **UNAUTHORIZED** 147 , **DDOS** 147 , **REFLECTION/AMPLIFICATION** 98 , **ATTACKS** 98 , **🔎…** 98 , **⛔** 49 , **STUN** 49 , **FILTERED** 49 , **CYBERSECURITY…** 49 , **CYBERSECURITY** 49 , **HTTPS://TCO/85FSAUEHDV** 30 , **HTTPS://TCO/85FSAUM8PN** 23 , **AU** 5 , 
+**@ITSPMAGAZINE:** 118 , **@ITSPMAGAZINE** 94 , **PODCAST** 48 , **@MARCOCIAPPELLI:** 41 , **🎙✨** 39 , **EPISODE** 31 , **NEW** 29 , **HOST** 28 , **🎉** 24 , **TECHNOLOGY** 24 , **SECURITY** 24 , **HACKER** 22 , **SOCIETY** 22 , **👉** 20 , **🔸🎙✨** 19 , **REDEFINING** 19 , **CYBERSECURITY** 18 , **OTHER** 17 , **CITIES** 17 , **FACTORY** 17 , 
  
 ## What this user tweeted
  
-🔎 Unauthorized port scans
-⛔ STUN DDoS - filtered
-🔎 Mapped in realtime
-🔎 Tweeted hourly
-🔎 #cybersecurity… https://t.co/fZXPj5FYfd🔎 Unauthorized port scans
-⛔ STUN DDoS - filtered
-🔎 Mapped in realtime
-🔎 Tweeted hourly
-🔎 #cybersecurity… https://t.co/CWGTxbpptB🔎 Unauthorized port scans
-⛔ STUN DDoS - filtered
-🔎 Mapped in realtime
-🔎 Tweeted hourly
-🔎 #cybersecurity… https://t.co/3M5f9eJVgp🔎 Unauthorized port scans
-⛔ STUN DDoS - filtered
-🔎 Mapped in realtime
-🔎 Tweeted hourly
-🔎 #cybersecurity… https://t.co/vmeBJbz5Ob🔎 Unauthorized port scans
-⛔ STUN DDoS - filtered
-🔎 Mapped in realtime
-🔎 Tweeted hourly
-🔎 #cybersecurity… https://t.co/FnsO9RrEte🔎 Unauthorized port scans
-⛔ STUN DDoS - filtered
-🔎 Mapped in realtime
-🔎 Tweeted hourly
-🔎 #cybersecurity… https://t.co/yIQcQIVnCM
+RT @thinkers360: The Securing Bridges Podcast https://t.co/pRU0fRrRpa via @alyssam_infosec on @Thinkers360 #Cybersecurity #DevOps #Security…RT @thinkers360: The Securing Bridges Podcast https://t.co/pRU0fRrRpa via @alyssam_infosec on @Thinkers360 #Cybersecurity #DevOps #Security…RT @thinkers360: Episode 1 | Securing Bridges | A Live Stream Video Podcast | With Alyssa Miller https://t.co/f3YhQPPUvq via @alyssam_infos…RT @MarcoCiappelli: This was my first @RSAConference! 😬
+
+It’s ok if you didn’t remember me being there… @ITSPmagazine was merely an idea ba…
  
-# KatieDnvnUSER INFO
-![image](http://pbs.twimg.com/profile_images/1502787756040196104/799wQXtt_normal.jpg)
+# dailyjobrepostUSER INFO
+![image](http://pbs.twimg.com/profile_images/1502734240865087488/6rnP1uyo_normal.jpg)
  
-`User ScreenName:` KatieDnvn 
+`User ScreenName:` dailyjobrepost 
  
-`User chosen Name:` Katie Donovan 
+`User chosen Name:` Job Tips Repost Page - Updated Daily 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 12 23:19:02 +0000 2022 
+`User signup date?:` Sat Mar 12 19:49:27 +0000 2022 
  
-`User Description?:` Ukraine Correspondant for @TheIntercept 🇺🇦🫂 Intel, not Gossip 
+`User Description?:` Follow for daily job-related repost content. 
  
-`Followers?: `0 
+`Followers?: `3 
  
-`Following?:` 45 
+`Following?:` 33 
+ 
+`User URL?:` https://t.co/5bXMPeBjIh 
+ 
+`Location:` Vancouver, Canada 
+ 
+`Number of tweets extracted`  : 44 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502734240865087488/6rnP1uyo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 41 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**JOBS** 17 , **ENGINEER** 8 , **@BOXNIPUK:** 8 , **JOB** 6 , **HIRING** 6 , **RT** 5 , **STUDENT** 5 , **AFFAIRS** 5 , **FRESHERS** 5 , **@JAYJOBSCONNECT:** 4 , **🚩🚩🚩** 4 , **JOBPOST‼️‼️‼️‼️** 4 , **ROLE:** 4 , **OPPORTUNITIES** 4 , **AVAILABLE** 4 , **KINDLY** 4 , **NEW** 4 , **BLO…RT** 4 , **SR** 4 , **@JOBHAKR:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Corix_JC: Tool Overload &amp; Attack Surface Expansion Plague SOCs &gt;&gt; https://t.co/uRuWbzxcMM via @DarkReading @Strata_Sec
+
+#cybersecurity…
+ 
+# cyb0rdevildogUSER INFO
+![image](http://pbs.twimg.com/profile_images/1499806404785278976/gtff-MYp_normal.jpg)
+ 
+`User ScreenName:` cyb0rdevildog 
+ 
+`User chosen Name:` Andy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 04 17:57:32 +0000 2022 
+ 
+`User Description?:` USMC | Cyber enthusiast | Occasionally will do some programming | Tweets are my own | dxq7urae6afuvf3ebiub7ylvldlz67oevhp4opxk2cmcugpq3s7ztaqd./onion 
+ 
+`Followers?: `4 
+ 
+`Following?:` 26 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 101 
+`Number of tweets extracted`  : 14 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1502787756040196104/799wQXtt_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1499806404785278976/gtff-MYp_normal.jpg 
  
-`Number of tweets excluding replies:` 99 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LUKEILDIAVOLO:** 62 , **RUSSIAN** 35 , **RUSSIA** 24 , **UKRAINE** 24 , **US** 15 , **PRESIDENT** 15 , **@CNN:** 14 , **PUTIN** 12 , **UKRAINIAN** 10 , **SECURITY** 9 , **@NYTIMES:** 8 , **MILITARY** 8 , **INTELLIGENCE** 8 , **@NATASHABERTRAND:** 7 , **SANCTIONS** 7 , **SOME** 7 , **BIDEN** 7 , **ITS** 6 , **AFTER** 6 , **COUNTRY** 6 , 
- 
-## What this user tweeted
- 
-RT @lukeildiavolo: Cybersecurity issued an advisory with the FBI to help combat the WhisperGate and HermeticWiper malware, which are being…
- 
-# jessmelanienowUSER INFO
-![image](http://pbs.twimg.com/profile_images/1502783777285705734/a_bVZjYs_normal.jpg)
- 
-`User ScreenName:` jessmelanienow 
- 
-`User chosen Name:` Jess Melanie 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 12 22:45:39 +0000 2022 
- 
-`User Description?:` International Journalist 🇺🇦 @TheIntercept Kyev 
- 
-`Followers?: `0 
- 
-`Following?:` 35 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 100 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1502783777285705734/a_bVZjYs_normal.jpg 
- 
-`Number of tweets excluding replies:` 100 
+`Number of tweets excluding replies:` 14 
  
 
  
@@ -251,201 +190,42 @@ RT @lukeildiavolo: Cybersecurity issued an advisory with the FBI to help combat 
  
 ## User Top tweeted words 
  
-**@LUKEILDIAVOLO:** 62 , **RUSSIAN** 35 , **RUSSIA** 24 , **UKRAINE** 24 , **PRESIDENT** 15 , **@CNN:** 13 , **US** 13 , **PUTIN** 12 , **UKRAINIAN** 10 , **SECURITY** 9 , **@NYTIMES:** 8 , **MILITARY** 8 , **INTELLIGENCE** 8 , **@NATASHABERTRAND:** 7 , **SANCTIONS** 7 , **SOME** 7 , **BIDEN** 7 , **ITS** 6 , **AFTER** 6 , **COUNTRY** 6 , 
+**SOME** 4 , **I'M** 3 , **FOLLOW** 3 , **2** 2 , **BACK** 2 , **HACKING** 2 , **TRY** 2 , **HASH** 2 , **FOLKS** 2 , **PEOPLE** 2 , **NEW** 2 , **CYBER** 2 , **I'VE** 2 , **MOST** 2 , **TWITTER** 2 , **RT** 1 , **@HARSHBOTHRA_:** 1 , **SECURITYEXPLAINED** 1 , **S-71:** 1 , **VULNERABLE** 1 , 
  
 ## What this user tweeted
  
-RT @lukeildiavolo: Cybersecurity issued an advisory with the FBI to help combat the WhisperGate and HermeticWiper malware, which are being…
+RT @harshbothra_: #SecurityExplained S-71: Vulnerable Code - 50
+
+This is pretty straight forward, Can you spot the bug?
+
+The solution will…
  
-# keithfernandez0USER INFO
-![image](http://pbs.twimg.com/profile_images/1500398430887321600/YjwM4QpK_normal.jpg)
+# scryptscryptUSER INFO
+![image](http://pbs.twimg.com/profile_images/1502772063060201475/1NbxnXti_normal.jpg)
  
-`User ScreenName:` keithfernandez0 
+`User ScreenName:` scryptscrypt 
  
-`User chosen Name:` Keith Fernandez 
+`User chosen Name:` scrypt 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 06 09:10:06 +0000 2022 
+`User signup date?:` Sat Mar 12 22:21:25 +0000 2022 
  
-`User Description?:` Kean University Class of 2026. STEM student. Cybersecurity enthusiast and activist. Researcher. Refuse dystopia. 
+`User Description?:` DFIR 
  
-`Followers?: `9 
- 
-`Following?:` 174 
- 
-`User URL?:` None 
- 
-`Location:` New Jersey, USA 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1500398430887321600/YjwM4QpK_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CODE** 3 , **CYBERSECURITY** 2 , **MALWARE** 2 , **SOME** 2 , **RT** 1 , **@CYBERSNARK:** 1 , **ANYONE** 1 , **ANY** 1 , **ENTRY** 1 , **LEVEL** 1 , **ANALYST** 1 , **JOBS** 1 , **OPEN?** 1 , **COMMUNITY** 1 , **COLLEGE** 1 , **GRAD** 1 , **(HELL** 1 , **YEAH!)** 1 , **LOOKING** 1 , **T…RT** 1 , 
- 
-## What this user tweeted
- 
-RT @CyberSnark: Anyone know of any entry level cybersecurity analyst jobs open? Cybersecurity community college grad (hell yeah!) looking t…
- 
-# AnonymousNOAFDUSER INFO
-![image](http://pbs.twimg.com/profile_images/1500186747371769869/yKERRO_Q_normal.jpg)
- 
-`User ScreenName:` AnonymousNOAFD 
- 
-`User chosen Name:` ☠️🌈opFCKAFD LATER now opRUSSIA #FCKPTN🌈☠️ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 05 17:44:35 +0000 2022 
- 
-`User Description?:` ☠️🌈opFCKAFD LATER now opRUSSIA #FCKPTN🌈☠️
-
-🍞#FCKPTNsToaster🍞 
- 
-`Followers?: `70 
- 
-`Following?:` 283 
- 
-`User URL?:` https://t.co/1Xq7xBbB9E 
- 
-`Location:` Toaster 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1500186747371769869/yKERRO_Q_normal.jpg 
- 
-`Number of tweets excluding replies:` 997 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ANONYMOUS** 33 , **@PUCKSRETURN:** 27 , **RUSSIAN** 20 , **UKRAINE** 13 , **@B0T_HUNTER:** 12 , **@ANONYMOUSNOAFD:** 10 , **RUSSIA** 10 , **SOME** 9 , **@BEEHIVECYBERSEC:** 9 , **@ITARMYUA** 8 , **RUSSIANS** 7 , **@_BLUE_HORNET** 7 , **MIGHT** 7 , **THESE** 7 , **SEND** 7 , **BOTS** 7 , **@INANDHOPE:** 7 , **SURE** 6 , **PEOPLE** 6 , **AGAINST** 6 , 
- 
-## What this user tweeted
- 
-RT @PucksReturn: #Anonymous @WhatsApp is not encrypting end to end as their platform states and we the public want to know why! You’re in f…
- 
-# biswas_shibajeeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1501588413799366656/B_aQRThX_normal.jpg)
- 
-`User ScreenName:` biswas_shibajee 
- 
-`User chosen Name:` shibajee biswas 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 09 15:57:56 +0000 2022 
- 
-`User Description?:` Farmer 
- 
-`Followers?: `6 
+`Followers?: `1 
  
 `Following?:` 30 
  
 `User URL?:` None 
  
-`Location:` Dhaka, Bangladesh 
- 
-`Number of tweets extracted`  : 20 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1501588413799366656/B_aQRThX_normal.jpg 
- 
-`Number of tweets excluding replies:` 20 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DOO** 15 , **GREAT** 4 , **BABY** 4 , **EXCHANGE** 3 , **@CRYPTO_SBISWAS** 3 , **🔰** 3 , **🚀** 3 , **@PLAYWIZARDIA:** 3 , **:** 3 , **DOGE** 3 , **✅A** 2 , **TEAM** 2 , **@ANUPAMRAY15** 2 , **@PIKACHU_COIN_IO:** 2 , **🚀🚀** 2 , **BUY** 2 , **TRUST** 2 , **@CRYPTOTOWNEU:** 2 , **AIRDROP:** 2 , **💰** 2 , 
- 
-## What this user tweeted
- 
-RT @energi: What makes a highly secure #Blockchain:
-✅A great #cybersecurity team
-✅A great #dev team
-✅Users have great #security hygiene
-
-En…
- 
-# matt_gibbs11USER INFO
-![image](http://pbs.twimg.com/profile_images/1500826552019341312/B5JaiA5d_normal.jpg)
- 
-`User ScreenName:` matt_gibbs11 
- 
-`User chosen Name:` Matt Gibson 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 07 13:25:22 +0000 2022 
- 
-`User Description?:` Scorpio 💯 
- 
-`Followers?: `0 
- 
-`Following?:` 31 
- 
-`User URL?:` None 
- 
-`Location:` Oklahoma, USA 
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1500826552019341312/B5JaiA5d_normal.jpg 
- 
-`Number of tweets excluding replies:` 21 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PROFESSIONAL** 14 , **@MALCOLM_T1** 14 , **HELP** 14 , **TIME** 14 , **CONTACT** 13 , **@STATS_FEED:** 2 , **USE** 2 , **RT** 1 , **@ITJUNKIE:** 1 , **SOMETHING** 1 , **LOVE** 1 , **HACKING** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO/2MHM3DRVB1@MADDIELAUSTRA** 1 , **HTTPS://TCO/XKELYGZCTK@MOZIAH_WOLF** 1 , **HTTPS://TCO/GI5ITMGLCZ@ZEDRACV** 1 , **@METAMASKSUPPORT** 1 , **HTTPS://TCO/CDGK805HTP@BERTOGUAT34** 1 , **HTTPS://TCO/WTGBZWTVYV@ADBLROW** 1 , **HTTPS://TCO/WXGN2DGZWK@JADYNTHOMPSON** 1 , 
- 
-## What this user tweeted
- 
-RT @ITJunkie: Do something you love. #hacking #CyberSecurity https://t.co/2mHM3drVB1
- 
-# BebedorCapitanUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` BebedorCapitan 
- 
-`User chosen Name:` Capitan Bebedor 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 12 15:22:03 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1502772063060201475/1NbxnXti_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -453,16 +233,12 @@ RT @ITJunkie: Do something you love. #hacking #CyberSecurity https://t.co/2mHM3d
  
 ## User Top tweeted words 
  
-**ENERGI** 4 , **GREAT** 3 , **✅A** 2 , **TEAM** 2 , **@ENERGISTUDIOS:** 2 , **MINT** 2 , **JOIN** 2 , **DISCORD** 2 , **WHITELIST** 2 , **RT** 1 , **@ENERGI:** 1 , **MAKES** 1 , **HIGHLY** 1 , **SECURE** 1 , **BLOCKCHAIN:** 1 , **CYBERSECURITY** 1 , **DEV** 1 , **✅USERS** 1 , **SECURITY** 1 , **HYGIENE** 1 , 
+**"MORNING** 2 , **@PRIVACY_PADAWAN** 1 , **@INFOSEC_TAYLOR** 1 , **GOOGLE** 1 , **SEARCH** 1 , **NAME** 1 , **WOOD"** 1 , **GREAT** 1 , **CONTENT** 1 , **GOING** 1 , **WAY** 1 , **BACK** 1 , **2003@INFOSEC_TAYLOR** 1 , **HANDLE** 1 , **WOOD"@INFOSEC_TAYLOR** 1 , **INDIVIDUAL** 1 , **CORE** 1 , **MEMBER** 1 , **ILLMOB** 1 , **HTTPS://TCO/7QJO8BPCFF** 1 , 
  
 ## What this user tweeted
  
-RT @energi: What makes a highly secure #Blockchain:
-✅A great #cybersecurity team
-✅A great #dev team
-✅Users have great #security hygiene
-
-En…
+@privacy_padawan @Infosec_Taylor Do a Google search for his name and "morning wood". Great content going all the way back to 2003@Infosec_Taylor This individual is a core member of Illmob. 
+https://t.co/7qjO8BpCfF
  
 # AnantaK16USER INFO
 ![image](http://pbs.twimg.com/profile_images/1501446745406214144/k9Y4VmAW_normal.jpg)
@@ -489,7 +265,7 @@ En…
  
 `Profile image:` http://pbs.twimg.com/profile_images/1501446745406214144/k9Y4VmAW_normal.jpg 
  
-`Number of tweets excluding replies:` 427 
+`Number of tweets excluding replies:` 430 
  
 
  
@@ -497,298 +273,11 @@ En…
  
 ## User Top tweeted words 
  
-**VIA** 106 , **HTTPS://TCO/OCA6QXTVDQ** 84 , **STARTUP** 78 , **BLOCKCHAIN** 53 , **INNOVATION** 25 , **VIA…** 22 , **ARTIFICIALINTELLIGENCE** 17 , **AI** 16 , **MENTORING** 15 , **ASTRONOMY** 14 , **COACHING** 11 , **–** 10 , **MACHINELEARNING** 10 , **NEW** 10 , **HEALTH** 9 , **UI** 9 , **BIOTECHNOLOGY** 9 , **CLIMATECHANGE** 8 , **LEARNING** 8 , **NANOTECHNOLOGY** 8 , 
+**VIA** 106 , **HTTPS://TCO/OCA6QXTVDQ** 85 , **STARTUP** 78 , **BLOCKCHAIN** 53 , **INNOVATION** 27 , **VIA…** 22 , **AI** 17 , **ARTIFICIALINTELLIGENCE** 17 , **MENTORING** 15 , **ASTRONOMY** 14 , **COACHING** 13 , **MACHINELEARNING** 11 , **–** 10 , **HEALTH** 9 , **UI** 9 , **NEW** 9 , **CLIMATECHANGE** 8 , **LEARNING** 8 , **BIOTECHNOLOGY** 8 , **NANOTECHNOLOGY** 8 , 
  
 ## What this user tweeted
  
-Why are cybersecurity asset management startups so hot right now? – TechCrunch #Startup #cybersecurity #infosec… https://t.co/LskJ1nUYW5RT @NikseamC: CHECK WEB https://t.co/CqEGsIZKRq
-#FrontEndDeveloper #DEVCommunity
-#cybersecurity #ArtificialIntelligence #AI #DataScience #M…
- 
-# Rolls90RoyceUSER INFO
-![image](http://pbs.twimg.com/profile_images/1499938502208675841/jU69cDTz_normal.png)
- 
-`User ScreenName:` Rolls90Royce 
- 
-`User chosen Name:` Diana Khoo 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 05 02:43:00 +0000 2022 
- 
-`User Description?:` Looking for ways to laze around 
- 
-`Followers?: `1 
- 
-`Following?:` 9 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 36 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1499938502208675841/jU69cDTz_normal.png 
- 
-`Number of tweets excluding replies:` 36 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ENERGI:** 19 , **ENERGI** 17 , **DISCORD** 13 , **@ENERGI** 10 , **COMMUNITY** 10 , **CRYPTO** 10 , **JOIN** 9 , **SECURITY** 7 , **PART** 5 , **CREATIVITY** 5 , **@ENERGISTUDIOS:** 5 , **MAKES** 4 , **@QUEEN_NATASYHA** 4 , **MARCH** 4 , **MADNESS** 4 , **@CIKGUCHIN:** 4 , **FEES** 4 , **FRIENDS** 4 , **EARN** 4 , **NFT** 4 , 
- 
-## What this user tweeted
- 
-RT @energi: What makes a highly secure #Blockchain:
-✅A great #cybersecurity team
-✅A great #dev team
-✅Users have great #security hygiene
-
-En…
- 
-# HandelscandelUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Handelscandel 
- 
-`User chosen Name:` Handel Scandel 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 12 05:56:34 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 60 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 60 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CANYON_FREE** 54 , **@ERICR42** 53 , **@POOTDIBOU** 51 , **@NEALREY50128337** 46 , **@RUDYSBALLOTS** 40 , **@ANVNDARNAMN5** 38 , **@WIGUY45** 29 , **@ANGRYFLEAS…** 23 , **@COUTUREGEMS** 21 , **@WONDERWOMAN024** 9 , **@ANGRYFLEAS** 9 , **@ANVNDARNAMN5…** 9 , **@THEBRADBLOG** 8 , **@WIGUY45…** 8 , **@GUMBEAUXMIKE** 8 , **@YELLOWSTONERAN1…** 7 , **@RUDYSBALLOTS…** 6 , **@STANPENNINGTON8** 5 , **@TOM_NEVERWINTER** 2 , **@DAVID4677484957** 2 , 
- 
-## What this user tweeted
- 
-@TheBradBlog @couturegems @PootDibou @NealRey50128337 @canyon_free @EricR42 @rudysballots @Anvndarnamn5 @wiguy45… https://t.co/J2DCNmEMuB
- 
-# AceWriter__USER INFO
-![image](http://pbs.twimg.com/profile_images/1502062003829059607/bpCMggKC_normal.jpg)
- 
-`User ScreenName:` AceWriter__ 
- 
-`User chosen Name:` AceWriters 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 10 22:57:58 +0000 2022 
- 
-`User Description?:` Expert tutor in essays | Assignments | Projects | Research papers | Dissertations | Presentations | Online classes 
-Dm us or Email: aceacademicwriting@gmail.com 
- 
-`Followers?: `55 
- 
-`Following?:` 296 
- 
-`User URL?:` None 
- 
-`Location:` Boston, USA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1502062003829059607/bpCMggKC_normal.jpg 
- 
-`Number of tweets excluding replies:` 226 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ESSAY** 92 , **PAY** 88 , **HELP** 86 , **US** 72 , **ASSIGNMENT** 51 , **PAPER** 49 , **RESEARCH** 36 , **FINANCE** 33 , **DM** 32 , **BIOLOGY** 31 , **TIME** 31 , **WORK** 30 , **PROMPT** 27 , **STRUGGLING** 26 , **ESSAY?LET** 26 , **YOU:** 26 , **POWERPOINT…** 26 , **DELIVER** 26 , **ACCOUNTING** 25 , **GRADES** 25 , 
- 
-## What this user tweeted
- 
-Our writers are competent and reliable 
-#javascript
-#CSS
-#Java
-#CollegeFootball
-#Coursework
-#Science journals.… https://t.co/eJyMcSTWTA
- 
-# CamiloN66885421USER INFO
-![image](http://pbs.twimg.com/profile_images/1501536625825751043/UM97MnAo_normal.jpg)
- 
-`User ScreenName:` CamiloN66885421 
- 
-`User chosen Name:` Camilo Nieto 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 09 12:19:38 +0000 2022 
- 
-`User Description?:` Market analysis & recaps, scalping leverage calls, binance altcoin signals follow & search on Telegram to get our channel @tradeosiann 
- 
-`Followers?: `1 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:` New Brunswick, NJ 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1501536625825751043/UM97MnAo_normal.jpg 
- 
-`Number of tweets excluding replies:` 431 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**$NCT** 160 , **POLYSWARM** 90 , **TH…** 82 , **GEM** 78 , **EARLY** 70 , **PROJECT** 70 , **@POLYSWARM** 70 , **GAME** 70 , **CHANGER** 70 , **WATCHING** 70 , **FEW** 70 , **VIDEOS** 70 , **YOUTUBE** 70 , **ONCE** 70 , **TOKEN** 53 , **RECENTLY** 49 , **LISTED** 49 , **COINBASE** 49 , **TAKING** 41 , **SECURITY** 41 , 
- 
-## What this user tweeted
- 
-If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/tpSkQzS71gIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/1Do8tifxf5If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/He1cnHfgjJIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/ff5zQ1AO8zIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/ulRfn01bDYIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/kGgMec9AF5If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/cZtpKGucv7If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/zM1sqWK4sFIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/fbM3BjjomiIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/3xh9l3McUhIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/cIOfKzZDRhIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/0KF96aMjmLIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/pZUj2pPQiRIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/JR87MTAoTMIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/8HZ6G4DHehIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/bjkB3AEMgzIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/giOt7uXJlVIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/U6oW3H5kdOIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/WAkobJWV7IIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/CQMN1rqNmKIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/RQWh8emRDRIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/Na17WA38ECIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/e2imtmkOAiIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/1CFW7ibfyvIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/iC8SFDL4e0If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/WYFFxBrh1CIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/9XMO2maFMOIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/CjG0c7dnZXIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/hxm1EF2cK3If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/zu3ZZCYSPMIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/Q09nAychTnIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/tYHORK0XZpIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/tL2sp1H3qKIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/WjaEPOzF2mIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/imheEqNtzKIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/yU8oT8H2pXIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/2wWvyc0hPmIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/fKGhYZDDTjIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/1NHiykoIS0If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/LlmvVKguFYBuy $NCT #polyswarm which has recently listed on #coinbase a gem with lot of potential in future with a very strong… https://t.co/Xz67frX5mTIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/uXkofaZRLqIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/mX5Eo1rBj7If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/X4aLJnAyJSIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/Y0QTaUyAPrIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/Qib1GlHBvsIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/u6CC6qbjbPIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/DzcVBYjlOAIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/dX0IWTi0ktIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/7OswzkeyE3If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/nGcDyQiPtAIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/J9JE27jUW9If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/LMHzjgNjh9If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/aFNDkabVldIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/OkZqR6OP7oIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/hEAUHbJJ4wIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/GXsdLdULSnIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/7vxCYK8iXMIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/k8ZuHoCEWUIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/XsbND36JZfIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/9E1Qxe8ytjIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/vWmvhV8f60If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/tPKqUhbuHEIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/zZ7tQttDQaIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/3ma7isUwqOIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/yoEAcEwVCbIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/SfgOCYW7XhIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/HoNuGnzCPOIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/ri0zOMyUzuIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/hWLWgpbgvGIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/FKKtVFtYmSIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/bpgAYvIKJ4If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/m9DSSO96NfIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/uSd3kyXc2lIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/e9szgWgOnEIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/ae9PdpWWg6If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/Qlac0jOe7DIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/uiVJSC23gTIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/CUo1e523KjIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/fYIeqiKDckIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/deBbJOky4lIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/w96xb5hOEUIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/Dy784x8xFmIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/1g2RdMt6YdIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/73znYcwKxeIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/zNnRN6eWCHIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/aDxynYpQ3eIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/bLrEAy7y1pIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/FJR19JOqS6If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/iA67sLSFXAIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/GqafyBpVvHIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/LR4ZSEovXgIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/MTksZ9M5GKIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/EYq6o7uoTVIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/uDN0LQSQsJIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/zGKQ5fWfF4If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/Oa27P9EuyzIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/uu7XAugT2SIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/jUk6RfVSH7If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/ubcyG9opBPIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/AFgcK38eRKIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/KTUwjd2kcLIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/N09lIRGY92If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/I3tPdfhUqKIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/EgucEDZpYhIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/YMiZLqmTisIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/3GmcxZYR51If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/YY4ZSRiJXPIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/HDxQBoiyHBIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/BclOPX0Cp0If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/XOFca7DkTNIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/aSr2vbR5viIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/vt0vRz8nRdIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/O0n23s9SBwIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/7686fARNkXIf you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines w… https://t.co/OP4yhkU4ks
- 
-# defending_spaceUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` defending_space 
- 
-`User chosen Name:` Defending Space 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 12 18:25:10 +0000 2022 
- 
-`User Description?:` International Space Systems Cybersecurity Conference 
- 
-`Followers?: `3 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/JjYfVze0ov 
- 
-`Location:` Huntsville, AL 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SPACE** 2 , **DEFENDING** 1 , **NEW** 1 , **SYSTEMS** 1 , **CONFERENCE** 1 , **FOCUS** 1 , **CYBERSECURITY** 1 , **COMING** 1 , **HUNTSVILLE** 1 , **2022** 1 , **C…** 1 , **HTTPS://TCO/AUGKCWSSLZ** 1 , 
- 
-## What this user tweeted
- 
-Defending Space a new space systems conference with a focus on cybersecurity is coming to Huntsville in 2022. The c… https://t.co/AUgKcwSSlZ
- 
-# SecurityinteledUSER INFO
-![image](http://pbs.twimg.com/profile_images/1502744231827357703/J1XYZY9l_normal.jpg)
- 
-`User ScreenName:` Securityinteled 
- 
-`User chosen Name:` Security Intellect 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 12 20:31:36 +0000 2022 
- 
-`User Description?:` Great Place to learn about careers in the Cyber Security Field.  Gain info on training, exams and careers. 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/TddJtVlBR6 
- 
-`Location:` Online Education 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1502744231827357703/J1XYZY9l_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBER** 1 , **SECURITY** 1 , **GROWING** 1 , **LUCRATIVE** 1 , **SECTOR** 1 , **TECH** 1 , **WORLD** 1 , **HALF** 1 , **POPULATION** 1 , **OWNING** 1 , **SMARTPHONE…** 1 , **HTTPS://TCO/ONVY7TMQY9** 1 , 
- 
-## What this user tweeted
- 
-Cyber Security is a growing and lucrative sector in the tech world. With over half the population owning smartphone… https://t.co/ONVy7TMqy9
- 
-# CathyPringle58USER INFO
-![image](http://pbs.twimg.com/profile_images/1500286972941713413/scG72Ntl_normal.png)
- 
-`User ScreenName:` CathyPringle58 
- 
-`User chosen Name:` Cathy Pringle 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 06 01:47:42 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1500286972941713413/scG72Ntl_normal.png 
- 
-`Number of tweets excluding replies:` 588 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RUSSIAN** 57 , **UKRAINE** 30 , **RUSSIA** 28 , **ANONYMOUS** 27 , **@YOURANONNEWS:** 18 , **UKRAINIAN** 15 , **@ANONOPSSE:** 14 , **PALACE** 13 , **PUTIN** 12 , **BUCKINGHAM** 12 , **PEOPLE** 11 , **@UPDATES_UA:** 10 , **BREAKING:** 10 , **@YOURANONNEWS** 9 , **WAR** 9 , **KYIV** 9 , **ROOMS** 7 , **GOVERNMENT** 7 , **MILITARY** 6 , **@CALLTOACTIVISM:** 6 , 
- 
-## What this user tweeted
- 
-RT @jamesvgingerich: A group called #Anonymous has declared #CyberWar on Russia — but who (or what) are they? (Yahoo!) #Ukraine #War #Cyber…
+Why are cybersecurity asset management startups so hot right now? – TechCrunch #Startup #cybersecurity #infosec… https://t.co/LskJ1nUYW5
  
 # thesauc75537470USER INFO
 ![image](http://pbs.twimg.com/profile_images/1501672346822012928/amtoJVl7_normal.jpg)
@@ -827,7 +316,7 @@ RT @jamesvgingerich: A group called #Anonymous has declared #CyberWar on Russia 
  
 ## What this user tweeted
  
-RT @santosomar: Deep dive: Vulnerabilities in ZTE router could lead to complete attacker control of the device  #cybersecurity https://t.co…RT @hackinarticles: Best of OSCP CTF Writeup (Part 1) 
+RT @hackinarticles: Best of OSCP CTF Writeup (Part 1) 
 
 https://t.co/rsPHe7BFX4
 
@@ -840,81 +329,42 @@ Part 1: https://t.co/dseSsieUvA
 
 Part 2: https://t.co/WrzTJfB9DC
 
-#cybersecurity #Ethica…RT @santosomar: Codecat v0.56 - An Open-Source Tool To Help You Find/Track User Input Sinks And Security Bugs Using Static Code Analysis ht…RT @NandanLohitaksh: Finding Sensitive Files for Bug-Bounty hunting (Part - 1) :-
--&gt; /proc/self/cwd/index.php
--&gt; /proc/self/cwd/main.py
--&gt;…RT @cryptotiger007: If you look for #NFTs check the link on the #polyswarm network before clicking on it. Many #cybersecurity engines will…RT @USCERT_gov: 🛡️ ShieldsUp! Do you know what significantly impacts your #cybersecurity safety? Luckily, @CISAgov created a catalog of Bad…RT @hackinarticles: Best of OSCP Cheatsheet (Highly Recommended)
+#cybersecurity #Ethica…RT @hackinarticles: Best of OSCP Cheatsheet (Highly Recommended)
 
 https://t.co/dPUCe5CJ5v
 https://t.co/0q0lkakw7P
 https://t.co/zRIsTPNye2
-h…
- 
-# theazyadUSER INFO
-![image](http://pbs.twimg.com/profile_images/1501371678806269958/f-McX95r_normal.jpg)
- 
-`User ScreenName:` theazyad 
- 
-`User chosen Name:` ⛩ az.eth ⛩ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 05 09:04:50 +0000 2022 
- 
-`User Description?:` ⛩ Founder of AZ Capital 👑 I Cryptopreneur 🌟 | NFT Enthusiast 🖼 | Trader/Investor 📊 | HODL ⛩ 
- 
-`Followers?: `34 
- 
-`Following?:` 457 
- 
-`User URL?:` https://t.co/LBjphCVspe 
- 
-`Location:` AZVERSE 
- 
-`Number of tweets extracted`  : 109 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1501371678806269958/f-McX95r_normal.jpg 
- 
-`Number of tweets excluding replies:` 109 
- 
+h…RT @abigailmcalpine: You find this on the beach? 
+What do you do with it? 
 
+#infosec #cybersec https://t.co/W4W9U1fQpr
  
-
- 
-## User Top tweeted words 
- 
-**BITCOIN** 27 , **CRYPTO** 15 , **@WATCHERGURU:** 12 , **IN:** 11 , **@COINTELEGRAPH:** 8 , **ITS** 8 , **PEOPLE** 7 , **MAKE** 6 , **BANK** 6 , **@BUSINESS:** 6 , **ETHEREUM** 6 , **RUSSIAN** 6 , **@APOMPLIANO:** 5 , **MONEY** 5 , **NFT** 5 , **OIL** 5 , **CHECK** 5 , **NEW** 5 , **PRICE** 5 , **DIGITAL** 4 , 
- 
-## What this user tweeted
- 
-RT @Forbes: Chinese hackers have joined the fray of those targeting the Ukraine conflict and the associated refugee crisis, according to re…
- 
-# linjiarengUSER INFO
+# infosec_us_teamUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` linjiareng 
+`User ScreenName:` infosec_us_team 
  
-`User chosen Name:` Linjiareng 
+`User chosen Name:` infosec_us_team 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 07 02:50:47 +0000 2022 
+`User signup date?:` Sat Mar 05 21:27:48 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 111 
+`Following?:` 8 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 99 
+`Number of tweets extracted`  : 6 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 99 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -922,83 +372,40 @@ RT @Forbes: Chinese hackers have joined the fray of those targeting the Ukraine 
  
 ## User Top tweeted words 
  
-**RUSSIA** 11 , **UKRAINE** 8 , **CHINESE** 7 , **PUTIN** 5 , **UKRAINIAN** 5 , **@UNIONPAY_INTL** 4 , **CHINA** 4 , **RUSSIAN** 4 , **WAR** 4 , **US** 4 , **@KYIVINDEPENDENT** 4 , **@KYIVINDEPENDENT:** 3 , **KHARKIV** 3 , **@NEXTA_TV:** 3 , **THEN** 3 , **POLAND** 3 , **@TGTM_OFFICIAL:** 3 , **BEING** 3 , **BIDEN** 3 , **JETS** 3 , 
+**RCE** 3 , **USING** 2 , **ACCOUNT:** 2 , **@BXMBN** 2 , **THANK** 2 , **@PTSWARM:** 2 , **DOCKER** 2 , **RT** 1 , **@AHMAD_HALABI_:** 1 , **WALKTHROUGH** 1 , **LATEST** 1 , **PENETRATION** 1 , **TESTING** 1 , **PROJECT** 1 , **HACKING** 1 , **PENTESTING** 1 , **BUGBOUNTY** 1 , **BUGBOUNTYTIPS** 1 , **CYBERSE…RT** 1 , **@HACKERGAUTAM:** 1 , 
  
 ## What this user tweeted
  
-RT @Forbes: Chinese hackers have joined the fray of those targeting the Ukraine conflict and the associated refugee crisis, according to re…
+RT @Ahmad_Halabi_: RCE Walkthrough for my latest Penetration Testing Project.
+
+#hacking #pentesting #bugbounty #bugbountytips #RCE #cyberse…
  
-# KafayeCafeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1502794098666659840/Jt9JqTSb_normal.jpg)
+# solarcybUSER INFO
+![image](http://pbs.twimg.com/profile_images/1501902007099080712/VHpRk7fq_normal.jpg)
  
-`User ScreenName:` KafayeCafe 
+`User ScreenName:` solarcyb 
  
-`User chosen Name:` ☕Kafa 
+`User chosen Name:` i am eclipse 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 09 19:01:53 +0000 2022 
+`User signup date?:` Thu Mar 10 02:33:58 +0000 2022 
  
-`User Description?:` 30 | They/Them | Bi | Single | Fic writer (multifandom) | Likes any/all gender ships 
-
-Furry (Coyote & Lion) | Lewd 18+ 
-
-Znam malo srpski. 
+`User Description?:` cybersecurity student 📝 | exploring 🔎 | skydiver 🪂 
  
-`Followers?: `10 
+`Followers?: `1 
  
-`Following?:` 57 
+`Following?:` 23 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 95 
+`Number of tweets extracted`  : 13 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1502794098666659840/Jt9JqTSb_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1501902007099080712/VHpRk7fq_normal.jpg 
  
-`Number of tweets excluding replies:` 95 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**REALLY** 7 , **GOOD** 6 , **EVEN** 5 , **TEPPUU** 5 , **ALBUM** 4 , **SOME** 4 , **DOING** 4 , **BACK** 4 , **WRITE** 4 , **SONG** 3 , **PROBABLY** 3 , **GOING** 3 , **REF** 3 , **FORGOT** 3 , **U** 3 , **FURRY** 3 , **NOTHING** 3 , **KAFA** 3 , **FAYE** 3 , **THAN** 3 , 
- 
-## What this user tweeted
- 
-im planning on also still doing a cybersecurity degree this fall but i guess we'll just see 
-
-i also am probably go… https://t.co/wneMxtFnRV
- 
-# MDK_motionUSER INFO
-![image](http://pbs.twimg.com/profile_images/1502707205455364106/6nX3BgKf_normal.jpg)
- 
-`User ScreenName:` MDK_motion 
- 
-`User chosen Name:` MDK 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 12 17:56:07 +0000 2022 
- 
-`User Description?:` Thought Leader | Speaker | Revenue Growth Advisor | TechPassionate 
- 
-`Followers?: `2 
- 
-`Following?:` 86 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 40 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1502707205455364106/6nX3BgKf_normal.jpg 
- 
-`Number of tweets excluding replies:` 40 
+`Number of tweets excluding replies:` 13 
  
 
  
@@ -1006,55 +413,11 @@ i also am probably go… https://t.co/wneMxtFnRV
  
 ## User Top tweeted words 
  
-**FINTECH** 25 , **RETAIL** 25 , **BANKING** 15 , **PAYMENTS** 8 , **FINTECHS** 6 , **FUTURE** 5 , **TRENDS** 5 , **2022** 5 , **PAYMENT** 5 , **RETAILERS** 5 , **DIE** 5 , **INNOVATION** 4 , **DIGITAL** 4 , **DER** 4 , **BUY** 3 , **SYSTEM** 3 , **TECH** 3 , **[INFOGRAPHIC]** 3 , **TECHNOLOGY** 3 , **@ALBERTOGARUCCIO:** 3 , 
+**WELL** 2 , **ESTO** 2 , **DE** 2 , **NEW** 2 , **NEED** 2 , **I’VE** 2 , **@GABSMASHH** 1 , **IDK** 1 , **“OTHER** 1 , **WINDOWS”** 1 , **LOOKED** 1 , **THESE** 1 , **AMAZING!!@BLKWOMENREAD** 1 , **SOME** 1 , **RESEARCH** 1 , **AWS** 1 , **LAST** 1 , **WEEK** 1 , **DOCS** 1 , **WRITTEN** 1 , 
  
 ## What this user tweeted
  
-RT @FGraillot: Here are 6 tech trends to watch in retail banking this year
-
-🏦 https://t.co/QuO6R1Iz8M
-
-Including #API adoption enabling adj…
- 
-# Vasilij35598687USER INFO
-![image](http://pbs.twimg.com/profile_images/1501581444828708866/jk7YLzvb_normal.jpg)
- 
-`User ScreenName:` Vasilij35598687 
- 
-`User chosen Name:` Василий 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 09 15:31:15 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 22 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 39 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1501581444828708866/jk7YLzvb_normal.jpg 
- 
-`Number of tweets excluding replies:` 39 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NFT** 6 , **NFTS** 4 , **NEW** 4 , **@METALIZARDS:** 3 , **READY** 3 , **TIME** 3 , **VIDEO** 3 , **CELEBRATE** 3 , **GUYS** 2 , **HT…RT** 2 , **@CRYPTODIAGRAMZ:** 2 , **@ROBERTOULALOVE:** 2 , **REPTILIANS** 2 , **WAY** 2 , **!** 2 , **1** 2 , **TOKEN** 2 , **BLOCKCHAIN** 2 , **WEEK** 2 , **TOKENS** 2 , 
- 
-## What this user tweeted
- 
-RT @yaoecabrera: https://t.co/IjHLuZQbV0
-A utility token on the Ethereum blockchain, is used to power the PolySwarm Marketplace, a communit…
+@Infosec_Taylor Wait until he finds out that we are all life long learners in this field.@Infosec_Taylor This!!! &amp;&amp; the certs we have to get are not cheap at all and that alone does not guarantee you will get hired.
  
 # kamalhmad1USER INFO
 ![image](http://pbs.twimg.com/profile_images/1502722306895974405/fKpWDrYg_normal.png)
@@ -1136,32 +499,32 @@ RT @hackinarticles: Encryption vs Cryptography
 
 #infosec  #cybersecurity #pentesting #oscp  #informationsecurity #cissp #redteam #CyberSec…
  
-# saeedsy2050USER INFO
-![image](http://pbs.twimg.com/profile_images/1500542980792410123/F5Q_XqOe_normal.jpg)
+# Leghari9555888USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` saeedsy2050 
+`User ScreenName:` Leghari9555888 
  
-`User chosen Name:` saeed 
+`User chosen Name:` Manzar Ali Leghari 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 06 18:44:38 +0000 2022 
+`User signup date?:` Sat Mar 12 08:31:33 +0000 2022 
  
-`User Description?:` hi i am so 
+`User Description?:` Online emp 
  
-`Followers?: `2 
+`Followers?: `1 
  
-`Following?:` 411 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 19 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1500542980792410123/F5Q_XqOe_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 283 
+`Number of tweets excluding replies:` 19 
  
 
  
@@ -1169,11 +532,11 @@ RT @hackinarticles: Encryption vs Cryptography
  
 ## User Top tweeted words 
  
-**NFT** 20 , **FOLLOW** 16 , **✅** 15 , **NFTS** 12 , **RT** 10 , **2** 10 , **WL** 10 , **1** 9 , **3** 9 , **DISCORD** 8 , **GIVEAWAY** 8 , **+** 8 , **WHITELIST** 7 , **RETWEET** 7 , **HERE** 6 , **🚀** 6 , **COMMUNITY** 6 , **🎁** 6 , **CHECK** 6 , **US** 6 , 
+**@PHEMEX_OFFICIAL:** 13 , **CRYPTO** 9 , **PHEMEX** 8 , **MARKET** 4 , **TRADE** 3 , **?** 2 , **PROGRAMMING** 2 , **BTC** 2 , **VIDEO** 2 , **🔽** 2 , **TIME** 2 , **US** 2 , **⚠️** 2 , **API** 2 , **CONTRACT** 2 , **🤩** 2 , **FRIDAYFUN** 2 , **ANOTHER** 2 , **EVENT** 2 , **RT** 1 , 
  
 ## What this user tweeted
  
-RT @vmblog: Security Health Check Roundup: Hot Topics to Expect at #HIMSS2022. Hear from @VMware @attcyber @IGEL_Technology @Liquidware @ve…
+RT @programmerjoke9: 24/7#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie #python #reactjs #bugbounty #Da…
  
 # TheOSINTHackerUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1502703986469740544/9imqRNCg_normal.jpg)
@@ -1213,6 +576,246 @@ RT @vmblog: Security Health Check Roundup: Hot Topics to Expect at #HIMSS2022. H
 ## What this user tweeted
  
 Follow me for the latest news, tools and techniques in the #OSINT field #OpenSource101 #opensourceintelligence… https://t.co/TD8uYTJW1L
+ 
+# TiffineyPooleUSER INFO
+![image](http://pbs.twimg.com/profile_images/1502456611662700553/2x8G3hMO_normal.jpg)
+ 
+`User ScreenName:` TiffineyPoole 
+ 
+`User chosen Name:` Tiffiney Poole 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 12 01:28:15 +0000 2022 
+ 
+`User Description?:` It's never too late for a plot twist 
+Healthcare ➡️ Tech
+#blackwomenintech #salesengineer 
+ 
+`Followers?: `59 
+ 
+`Following?:` 52 
+ 
+`User URL?:` https://t.co/gLi04B5H2n 
+ 
+`Location:` Atlanta, GA 
+ 
+`Number of tweets extracted`  : 22 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502456611662700553/2x8G3hMO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 22 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BLAR51** 6 , **THANKS** 3 , **MUCH** 3 , **I'M** 3 , **APPRECIATE** 3 , **WARM** 3 , **ABSOLUTELY** 2 , **THERAPIST** 2 , **(OR** 2 , **THOUGHT** 2 , **WAY** 2 , **WITHOUT** 2 , **@ALEX_MARSH** 1 , **LOVE!@THERAPI22711391** 1 , **SAVES** 1 , **LIVES!PRETTY** 1 , **SAYING** 1 , **YOURSELF** 1 , **COMING** 1 , **TED** 1 , 
+ 
+## What this user tweeted
+ 
+@S6Vet_INFOSEC Appreciate the warm welcome!
+ 
+# tapio_oikarinenUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` tapio_oikarinen 
+ 
+`User chosen Name:` Tapio Oikarinen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 12 10:25:20 +0000 2022 
+ 
+`User Description?:` Security at @aiven_io 
+ 
+`Followers?: `0 
+ 
+`Following?:` 30 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AIVEN_IO:** 2 , **CODE** 2 , **RT** 1 , **@MYRCURIAL:** 1 , **PROBABLY** 1 , **TALK** 1 , **INFOSEC** 1 , **DREAM** 1 , **TEAM** 1 , **I’M** 1 , **ASSEMBLING** 1 , **@AIVEN_IO…** 1 , **DOING** 1 , **COOL** 1 , **THINGS** 1 , **MULTI-SU…RT** 1 , **BIG** 1 , **NEWS!** 1 , **WE'RE** 1 , **UNICORN!** 1 , 
+ 
+## What this user tweeted
+ 
+RT @myrcurial: I should probably talk about the InfoSec dream team I’m assembling at @aiven_io… if you like doing cool things with multi-su…
+ 
+# MMominlUSER INFO
+![image](http://pbs.twimg.com/profile_images/1501586674471813121/rF5cz9kj_normal.jpg)
+ 
+`User ScreenName:` MMominl 
+ 
+`User chosen Name:` md mominl 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 09 15:43:39 +0000 2022 
+ 
+`User Description?:` Best SEO And SMM Service Provider 
+ 
+`Followers?: `2 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 23 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1501586674471813121/rF5cz9kj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 23 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**JAVASCRIPT** 10 , **PYTHON** 8 , **TRUST** 7 , **SERVICESS** 7 , **PHP** 7 , **NODEJS** 7 , **CSS** 6 , **REACTJS** 5 , **HTML5** 5 , **WORDPRESS** 5 , **REACT** 5 , **ANGULAR** 5 , **VUEJS** 5 , **DJANGO** 5 , **REDUX…** 5 , **DESIGN** 4 , **BIGDATA** 4 , **ANALYTICS** 4 , **DATASCIENCE** 4 , **C** 4 , 
+ 
+## What this user tweeted
+ 
+#pokemon #blacktechtwitter #Cybersecurity #infosec #100DaysOfCode #node #nodejs #coding #js #angularjs #reactjs… https://t.co/qyqJf3lMKp
+ 
+# Youssef_oujofUSER INFO
+![image](http://pbs.twimg.com/profile_images/1502621941731053572/llRintXQ_normal.jpg)
+ 
+`User ScreenName:` Youssef_oujof 
+ 
+`User chosen Name:` youssef 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 12 11:22:13 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502621941731053572/llRintXQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COMEDY** 3 , **CANCER** 3 , **EBOOK** 2 , **@GUMROAD** 2 , **PEACE** 2 , **BUY** 1 , **DRAMA:** 1 , **MEMOIR** 1 , **(** 1 , **)** 1 , **HTTPS://TCO/NOGBWNMCFA** 1 , **BOOKTWITTER** 1 , **TRENDING…** 1 , **HTTPS://TCO/HV51EEQUYABUY** 1 , **HOOK** 1 , **LINE** 1 , **SINKER** 1 , **TESSA** 1 , **BAILEY** 1 , **HTTPS://TCO/ECNN7OMEYK** 1 , 
+ 
+## What this user tweeted
+ 
+who are cancer survivors and what does cancer survivorship mean? @CancerTerms 
+https://t.co/rpCS1HEdCR
+#Cancer… https://t.co/QV2hcgIUz0
+ 
+# FeyisayoFasuyiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1500225387862835200/Yp-uh6ID_normal.jpg)
+ 
+`User ScreenName:` FeyisayoFasuyi 
+ 
+`User chosen Name:` Fasuyi Feyisayo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 03 08:31:56 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1500225387862835200/Yp-uh6ID_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SAM14983287** 5 , **THAN** 3 , **FOLLOW** 3 , **DEY** 3 , **@HACKINARTICLES:** 2 , **PIC** 2 , **DAY** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **PENTESTING** 2 , **OSCP** 2 , **INFORMATIONSECURITY** 2 , **CISSP** 2 , **REDTEAM** 2 , **CYBERSEC** 2 , **BETTER** 2 , **TWEET** 2 , **LET'S** 2 , **@CHRISTO39594558** 2 , **PINS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec  #cybersecurity #pentesting #oscp  #informationsecurity #cissp #redteam #CyberSec https://t.co…
+ 
+# ALI9__1__USER INFO
+![image](http://pbs.twimg.com/profile_images/1500967704769056769/XVAfaRNG_normal.jpg)
+ 
+`User ScreenName:` ALI9__1__ 
+ 
+`User chosen Name:` _______nobody 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 07 22:42:35 +0000 2022 
+ 
+`User Description?:` Free speech 💬 
+ 
+`Followers?: `1 
+ 
+`Following?:` 72 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1500967704769056769/XVAfaRNG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOOD** 2 , **SHELL** 2 , **TOO** 2 , **WEEKS** 2 , **RT** 1 , **@0XTHREATINTEL:** 1 , **LAZARUS** 1 , **CARRYING** 1 , **MALICIOUS** 1 , **CAMPAIGN** 1 , **LURING** 1 , **VICTIMS** 1 , **DOWNLOAD** 1 , **"DIGITAL** 1 , **ASSET** 1 , **MANAGEMENT** 1 , **JOB** 1 , **OPPORTUNITIES[]Z…@JENMSFT** 1 , **FOOD** 1 , **(CAT)** 1 , 
+ 
+## What this user tweeted
+ 
+RT @re_and_more: RE tip of the day: Same as on Windows, big memory allocations can be tracked for ELF samples in order to catch the moment…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
