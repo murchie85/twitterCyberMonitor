@@ -1323,19 +1323,286 @@ RT @crypto: Crypto advocates see the Ukraine war as an opportunity to prove the 
  
 `Following?:` 21 
  
-`User`User Description?:` cybersecurity newbie • interested in #blueteam #incidentresponse #cryptography • gamer and artist 
+`User`User Description?:` cybersecuri`Number of tweets extracted`  : 200 
  
-`Followers?: `0 
+`Profile image:` http://pbs.twimg.com/profile_images/1502608480100044803/wU_2HnQE_normal.jpg 
  
-`Following?:` 15 
+`Number of tweets excluding replies:` 282 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 60 , **@ZEBEC_HQ** 35 , **@WOFM_IO** 35 , **MANY** 31 , **PROJECTS** 30 , **@GAMEPADCO** 29 , **MOST** 23 , **IMPORTANT** 21 , **ANY** 18 , **COMMUNITY** 17 , **CRYPTO** 16 , **TOKEN** 16 , **CURRENTLY** 14 , **VERY** 13 , **TELL** 13 , **US** 13 , **INVESTORS** 12 , **USERS** 12 , **NEW** 11 , **SECURITY** 11 , 
+ 
+## What this user tweeted
+ 
+@FruttiDino Protecting users data, privacy &amp; funds has become a glaring problem that many companies/projects must f… https://t.co/yN27swItUu@KrystalDefi @ashward_game Protecting users data, privacy &amp; funds has become a glaring problem that many companies/… https://t.co/AM7UWkOUkD
+ 
+# Mdsazidul1USER INFO
+![image](http://pbs.twimg.com/profile_images/1500073725471125512/iSTm4Ipl_normal.jpg)
+ 
+`User ScreenName:` Mdsazidul1 
+ 
+`User chosen Name:` Samsur 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 05 04:22:10 +0000 2022 
+ 
+`User Description?:` I am a student. 
+ 
+`Followers?: `7 
+ 
+`Following?:` 116 
  
 `User URL?:` None 
  
 `Location:`  
  
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1500073725471125512/iSTm4Ipl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1368 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ASHWARD_GAME** 75 , **PROJECT** 63 , **MANY** 31 , **PROJECTS** 28 , **ANY** 26 , **@ECHELONDAO** 25 , **TOKEN** 22 , **MOST** 20 , **@METAWEARTOKEN** 20 , **INVESTORS** 18 , **MARKET** 17 , **AUDIT** 17 , **COMMUNITY** 17 , **DOES** 14 , **PLANS** 14 , **IMPORTANT** 13 , **PROJECT?** 12 , **@UPDEFIUP** 12 , **BUY** 11 , **NFT** 11 , 
+ 
+## What this user tweeted
+ 
+@FruttiDino “Due to the security vulnerabilities and hacking events that we have heard frequently recently, people… https://t.co/CGbqiLnRCU@KrystalDefi @ashward_game Can you assure us that this won't be one of those projects that come out, do a lot of ma… https://t.co/GHTi1KaYA3@CRYPTOREALPOIN1 Can you assure us that this won't be one of those projects that come out, do a lot of marketing se… https://t.co/DPBkVXxjJ2@crown_community @PRMCoin Can you assure us that this won't be one of those projects that come out, do a lot of mar… https://t.co/v3MvanUxUD
+ 
+# Famelia001USER INFO
+![image](http://pbs.twimg.com/profile_images/1502814371042504707/t1w1YilD_normal.png)
+ 
+`User ScreenName:` Famelia001 
+ 
+`User chosen Name:` Famelia Jean 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 13 01:10:41 +0000 2022 
+ 
+`User Description?:` Investor in the cryptocurrency 
+ 
+`Followers?: `36 
+ 
+`Following?:` 421 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 137 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502814371042504707/t1w1YilD_normal.png 
+ 
+`Number of tweets excluding replies:` 137 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTO** 18 , **BITCOIN** 16 , **@COINGECKO** 14 , **@DOCUMENTINGBTC:** 13 , **NEW** 9 , **FIRST** 9 , **🟧** 8 , **🚀** 7 , **CRYPTOCURRENCY** 6 , **CHECK** 6 , **GOING** 6 , **$CELL** 6 , **START** 5 , **NEXT** 5 , **TOP** 5 , **SHIBADOGE** 5 , **🏆** 5 , **EXCHANGE** 5 , **@KEVINOLEARYTV** 5 , **@POTUS** 5 , 
+ 
+## What this user tweeted
+ 
+RT @cellframenet: We're launching the first phase of the bugs bounty, with prizes of up to $10'000 for finding critical vulnerabilities in…
+ 
+# MTigrwayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1502060278791516175/7-uMEx-m_normal.jpg)
+ 
+`User ScreenName:` MTigrway 
+ 
+`User chosen Name:` Mame tìgrway 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 06 12:31:18 +0000 2022 
+ 
+`User Description?:` Tigray adey nebreley💛❤ 
+ 
+`Followers?: `292 
+ 
+`Following?:` 474 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502060278791516175/7-uMEx-m_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1054 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGRAY** 120 , **MUST** 40 , **MEDICAL** 29 , **LACK** 28 , **WAR** 26 , **UKRAINE** 25 , **SUPPLIES** 25 , **HUMANITARIAN** 23 , **IC** 23 , **WHILE** 21 , **WORLD** 21 , **CRISIS** 20 , **2021** 19 , **FOOD** 19 , **WOMEN** 18 , **COMMUNITY** 16 , **TIGRAYANS** 16 , **RAPE** 16 , **USED** 16 , **SERVICES** 15 , 
+ 
+## What this user tweeted
+ 
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
+ 
+# NachtmaerchenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1499658829159665664/XCJ-8sOB_normal.jpg)
+ 
+`User ScreenName:` Nachtmaerchen 
+ 
+`User chosen Name:` Nachtmæhrchen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 04 07:30:26 +0000 2022 
+ 
+`User Description?:` ~Saint Mum ohne Heiligenschein
+~Broken Heart Syndrom 
+~Hashimoto
+~Beziehungsgestört
+~music was my first love~ 
+ 
+`Followers?: `26 
+ 
+`Following?:` 284 
+ 
+`User URL?:` None 
+ 
+`Location:` Holiday in Hades 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1499658829159665664/XCJ-8sOB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 811 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ICH** 35 , **UND** 25 , **DU** 18 , **ES** 16 , **IST** 16 , **DAS** 15 , **NICHT** 15 , **DIE** 15 , **DANN** 10 , **SIE** 10 , **MAN** 10 , **DER** 9 , **ZU** 8 , **VON** 8 , **MIR** 8 , **MIT** 8 , **GUTEN** 8 , **HAT** 7 , **WENN** 7 , **VIA** 7 , 
+ 
+## What this user tweeted
+ 
+RT @SigmundFrrreud: Out of your vulnerabilities will come your strength.
+ 
+# tigirawaiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1501117251885404160/6nI6CjA7_normal.jpg)
+ 
+`User ScreenName:` tigirawai 
+ 
+`User chosen Name:` ወዲ ሓመድ ሞኾኒ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 05 08:23:29 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `186 
+ 
+`Following?:` 255 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1501117251885404160/6nI6CjA7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4655 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGRAY** 106 , **MEDICAL** 52 , **CHILDREN** 49 , **HOSPITAL** 24 , **DEATH** 22 , **DIE** 21 , **FACING** 20 , **DUE** 20 , **LACK** 19 , **HUMANITARIAN** 18 , **“ACCORDING** 18 , **NOTES…HIS** 18 , **MOTHER’S** 18 , **MILK** 18 , **DRIED** 18 , **PARENTS…CANNOT** 18 , **AFFORD** 18 , **FORMULA”** 18 , **FAMILIES** 18 , **STARVATION** 17 , 
+ 
+## What this user tweeted
+ 
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
+ 
+# brhanlove3USER INFO
+![image](http://pbs.twimg.com/profile_images/1501669777366003715/8uYDV0CA_normal.jpg)
+ 
+`User ScreenName:` brhanlove3 
+ 
+`User chosen Name:` brhan Tigay❤💊💪🙏 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 09 20:54:43 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `120 
+ 
+`Following?:` 100 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1501669777366003715/8uYDV0CA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1188 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGRAY** 82 , **DIE** 50 , **TIGRAYGENOCIDE** 29 , **KRIEGSVERBRECHER** 18 , **SEIT** 18 , **ÜBER** 18 , **HUMANITARIAN** 18 , **WAR** 17 , **MUST** 17 , **ZUR** 17 , **WORLD** 16 , **RECHENSCHAFT** 16 , **NACH** 16 , **FOOD** 15 , **ZIEHEN!** 15 , **16** 15 , **WIR** 15 , **VON** 15 , **DER** 15 , **LACK** 14 , 
+ 
+## What this user tweeted
+ 
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
+ 
+# bhattttjiiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1502329399009374208/AT32nUM6_normal.jpg)
+ 
+`User ScreenName:` bhattttjii 
+ 
+`User chosen Name:` Himanshu Bhatt 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 11 16:43:53 +0000 2022 
+ 
+`User Description?:` A student 
+ 
+`Followers?: `1 
+ 
+`Following?:` 49 
+ 
+`User URL?:` None 
+ 
+`Location:` Dehradun 
+ 
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1499573473336778756/N52HQJog_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1502329399009374208/AT32nUM6_normal.jpg 
  
 `Number of tweets excluding replies:` 1 
  
@@ -1345,30 +1612,106 @@ RT @crypto: Crypto advocates see the Ukraine war as an opportunity to prove the 
  
 ## User Top tweeted words 
  
-**I’M** 2 , **HELLLO!** 1 , **FINISHING** 1 , **CYBERSECURITY** 1 , **PROGRAM** 1 , **LOOKING** 1 , **MAKE** 1 , **FRIENDS** 1 , **COMMUNITY!!** 1 , **THERE’S** 1 , **AN…** 1 , **HTTPS://TCO/BHCN8MZ2UB** 1 , 
+**SOLIDITY** 1 , **BEST** 1 , **PRACTICES** 1 , **THINGS** 1 , **AVOID** 1 , **VULNERABILITIES👇** 1 , **HTTPS://TCO/8DQ2JESZ7H** 1 , 
  
 ## What this user tweeted
  
-helllo! i’m finishing up my cybersecurity program and i’m looking to make friends in the community!!
-
-if there’s an… https://t.co/BhCN8mz2UB
+Solidity best practices and things to avoid vulnerabilities👇 https://t.co/8Dq2JesZ7h
  
-# Farzana_Syed13USER INFO
-![image](http://pbs.twimg.com/profile_images/1502376431166398469/fTmruuOk_normal.jpg)
+# werki_tdfUSER INFO
+![image](http://pbs.twimg.com/profile_images/1502772592893067268/x8z8YEem_normal.jpg)
  
-`User ScreenName:` Farzana_Syed13 
+`User ScreenName:` werki_tdf 
  
-`User chosen Name:` Farzana Syed 
+`User chosen Name:` TDF ወርቂ♥💛💊 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 11 20:08:29 +0000 2022 
+`User signup date?:` Fri Mar 11 19:19:58 +0000 2022 
  
-`User Description?:` I am an artist, I see beauty in everything around me :) 
+`User Description?:` ትግራይ ዓደይ ተዛርዮምልኪ♥💊 
  
-`Followers?: `67 
+`Followers?: `101 
  
-`Following?:` 113 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502772592893067268/x8z8YEem_normal.jpg 
+ 
+`Number of tweets excluding replies:` 937 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGRAY** 106 , **MEDICAL** 33 , **CHILDREN** 30 , **LACK** 28 , **DYING** 23 , **MUST** 23 , **HOSPITAL** 22 , **HUMANITARIAN** 22 , **SUPPLIES** 19 , **MALNUTRITION** 18 , **UKRAINE** 18 , **IC** 18 , **FORCES** 18 , **BUREAU** 18 , **@KBROMBE:** 18 , **WOMEN** 16 , **FUEL** 16 , **HEALTH** 15 , **DOCTOR** 15 , **FOOD** 15 , 
+ 
+## What this user tweeted
+ 
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
+ 
+# Yosef24402155USER INFO
+![image](http://pbs.twimg.com/profile_images/1502852854532427781/FtytnJVH_normal.jpg)
+ 
+`User ScreenName:` Yosef24402155 
+ 
+`User chosen Name:` Yosef ጅብሩኽ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 12 19:48:10 +0000 2022 
+ 
+`User Description?:` ሰላም ጥራይ ኩሉ ካሐልፍ አዩ ትግራይ 
+ 
+`Followers?: `121 
+ 
+`Following?:` 63 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502852854532427781/FtytnJVH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1554 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGRAY** 81 , **UKRAINE** 28 , **MEDICAL** 26 , **MUST** 22 , **SUPPLIES** 21 , **IC** 20 , **WORLD** 20 , **FORCES** 18 , **CHILDREN** 18 , **HUMANITARIAN** 18 , **HOSPITAL** 16 , **WHILE** 16 , **WOMEN** 15 , **LACK** 15 , **TIGRAYANS** 14 , **BUREAU** 14 , **WAR** 14 , **2021** 14 , **ENOUGH** 14 , **SECURITY** 13 , 
+ 
+## What this user tweeted
+ 
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
+ 
+# w_draganaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1502034182767357957/wEZvdhSY_normal.jpg)
+ 
+`User ScreenName:` w_dragana 
+ 
+`User chosen Name:` Dragana W 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 10 21:03:54 +0000 2022 
+ 
+`User Description?:` Counter-trafficking at @helenbamber. All views my own. 
+ 
+`Followers?: `21 
+ 
+`Following?:` 103 
  
 `User URL?:` None 
  
@@ -1376,7 +1719,7 @@ if there’s an… https://t.co/BhCN8mz2UB
  
 `Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1502376431166398469/fTmruuOk_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1502034182767357957/wEZvdhSY_normal.jpg 
  
 `Number of tweets excluding replies:` 6 
  
@@ -1386,40 +1729,38 @@ if there’s an… https://t.co/BhCN8mz2UB
  
 ## User Top tweeted words 
  
-**MACHINELEARNING** 4 , **DATASCIENCE** 3 , **PYTHON** 2 , **@UMAIR_ALI_11:** 2 , **MACHINE** 2 , **LEARNING** 2 , **STARTED** 2 , **@AAMMAR_TUFAIL:** 2 , **MACHINELEARNINGKACHILLA** 2 , **PAKDATASCI** 2 , **RT** 1 , **@MAYAISL11252219:** 1 , **10** 1 , **POPULAR** 1 , **ALGORITHMS** 1 , **EXPLAINED** 1 , **USING** 1 , **INFOGRAPHICS** 1 , **CODES** 1 , **TECHFORGOOD** 1 , 
+**PEOPLE** 2 , **UKRAINE** 2 , **DESPITE** 1 , **PERSONAL** 1 , **STRUGGLE** 1 , **AWESOME** 1 , **FRIEND** 1 , **MYKOLAIV** 1 , **CURRENTLY** 1 , **DELIVERING** 1 , **FOOD** 1 , **TOILETRIES** 1 , **MOS…** 1 , **HTTPS://TCO/NCBJNFORBIRT** 1 , **@OSCE_CTHB:** 1 , **FLEEING** 1 , **SEEKING** 1 , **REFUGE** 1 , **ARMED** 1 , **VIOLENCE** 1 , 
  
 ## What this user tweeted
  
-RT @umair_ali_11: Essential Machine Learning Algorithams
-
-#Python  #DataAnalytics #MachineLearning #ArtificialIntelligence #CyberSecurity #…
+RT @osce_cthb: People fleeing and seeking refuge from armed violence in #Ukraine face risks of #HumanTrafficking, during their journey or u…
  
-# UndeadPyDevUSER INFO
-![image](http://pbs.twimg.com/profile_images/1503029009478733824/FV24OV3b_normal.jpg)
+# elukapowerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1501125329091448837/sVRb_YeQ_normal.jpg)
  
-`User ScreenName:` UndeadPyDev 
+`User ScreenName:` elukapower 
  
-`User chosen Name:` Undead Dev 🧟‍♂️ #WeAreLegion 
+`User chosen Name:` Eluka 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 13 15:01:50 +0000 2022 
+`User signup date?:` Tue Mar 08 09:18:25 +0000 2022 
  
-`User Description?:` #WeAreLegion expect us! | #PythonDev | #Programmer | #IStandWithUkraine | #HackersAgainstPutin | #OpRussia | I have #ADHD #NASH and #PC 
+`User Description?:` #tigraygenocide 
  
-`Followers?: `32 
+`Followers?: `27 
  
-`Following?:` 152 
+`Following?:` 55 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 114 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1503029009478733824/FV24OV3b_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1501125329091448837/sVRb_YeQ_normal.jpg 
  
-`Number of tweets excluding replies:` 114 
+`Number of tweets excluding replies:` 3416 
  
 
  
@@ -1427,38 +1768,38 @@ RT @umair_ali_11: Essential Machine Learning Algorithams
  
 ## User Top tweeted words 
  
-**ANONYMOUS** 14 , **UKRAINE** 10 , **RUSSIAN** 10 , **OPRUSSIA** 9 , **RUSSIA** 7 , **LVIV** 7 , **PEOPLE** 7 , **@KYIVINDEPENDENT:** 6 , **SOURCE** 5 , **I'M** 5 , **MUCH** 4 , **GOOD** 4 , **PROGRAM** 4 , **YAVORIV** 4 , **BASE** 4 , **THAN** 4 , **KILLED** 4 , **@YOURANONNEWS:** 4 , **SOME** 4 , **@REVENGEISWHEAT:** 4 , 
+**TIGRAY** 73 , **FORCES** 37 , **TIGRAY|ANS** 35 , **CHILDREN** 34 , **SECURITY** 30 , **VIDEO** 28 , **BURNED** 28 , **MEDICAL** 26 , **AMHARA** 26 , **ALIVE** 21 , **DEATH** 19 , **ETHIOPIA|N** 18 , **ETHIOPIA** 17 , **IC** 17 , **LACK** 16 , **HOSPITAL** 16 , **ATROCITIES** 16 , **FOOD** 15 , **DUE** 15 , **MUST** 15 , 
  
 ## What this user tweeted
  
-RT @jamesvgingerich: Ukraine crisis: Russian cyberattacks could affect organisations around the world, so take action now. (ZDNet) #CyberSe…
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
  
-# steph_grath5USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# MsPenDragonessUSER INFO
+![image](http://pbs.twimg.com/profile_images/1500962257072701443/zLVj4v0__normal.jpg)
  
-`User ScreenName:` steph_grath5 
+`User ScreenName:` MsPenDragoness 
  
-`User chosen Name:` Steph McGrath 
+`User chosen Name:` MsPenDragoness 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 12 21:18:23 +0000 2022 
+`User signup date?:` Mon Mar 07 17:09:52 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 23 
+`Following?:` 30 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 198 
+`Number of tweets extracted`  : 68 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1500962257072701443/zLVj4v0__normal.jpg 
  
-`Number of tweets excluding replies:` 198 
+`Number of tweets excluding replies:` 68 
  
 
  
@@ -1466,11 +1807,694 @@ RT @jamesvgingerich: Ukraine crisis: Russian cyberattacks could affect organisat
  
 ## User Top tweeted words 
  
-**@BADDCOMPANI:** 52 , **@BADDCOMPANI** 17 , **UKRAINE** 12 , **PUTIN** 12 , **RUSSIAN** 10 , **US** 9 , **RUSSIA** 9 , **WORLD** 8 , **HERE** 7 , **COULD** 6 , **DAY** 6 , **PEOPLE** 6 , **WAR** 6 , **TIME** 5 , **THING** 5 , **YEARS** 5 , **PRESIDENT** 5 , **NATIONAL** 5 , **KATIE** 5 , **PORTER** 5 , 
+**UKRAINE** 9 , **RUSSIAN** 9 , **US** 6 , **@KYIVINDEPENDENT:** 6 , **ÄR** 6 , **PUTIN** 5 , **UKRAINIAN** 5 , **OCH** 5 , **FÖR** 5 , **INTE** 5 , **OIL** 4 , **@YOURANONNEWS:** 4 , **ZELENSKY** 4 , **YES** 4 , **ANY** 4 , **FORCES** 4 , **OM** 4 , **ATT** 4 , **@LITEMODS:** 4 , **MED** 4 , 
  
 ## What this user tweeted
  
-RT @malinablue: @saribethrose It’s a Putin-esque strategy - declaring political opponents or critics pedophiles so as to discredit them and…
+RT @DepaixPorteur: We're currently pentesting every single camera in combat zones in Ukraine. Any of them that we can access, we assume the…
+ 
+# gualngasiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1500869669330300935/_Dr3zj0Y_normal.jpg)
+ 
+`User ScreenName:` gualngasi 
+ 
+`User chosen Name:` ጓል ሽረ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 07 16:12:41 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `45 
+ 
+`Following?:` 45 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1500869669330300935/_Dr3zj0Y_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4185 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGRAY** 86 , **CHILDREN** 46 , **MEDICAL** 31 , **HOSPITAL** 25 , **FORCES** 22 , **LACK** 21 , **DYING** 19 , **HUMANITARIAN** 18 , **TIGRAY|ANS** 16 , **WORLD** 16 , **WHILE** 16 , **UKRAINE** 16 , **SOCIAL** 16 , **MUST** 15 , **@WHO** 15 , **BUREAU** 15 , **BURNED** 14 , **VIDEO** 14 , **2021** 14 , **SECURITY** 13 , 
+ 
+## What this user tweeted
+ 
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
+ 
+# samibini14USER INFO
+![image](http://pbs.twimg.com/profile_images/1503137860735709185/uhxo2fGo_normal.jpg)
+ 
+`User ScreenName:` samibini14 
+ 
+`User chosen Name:` Aman wedi ቐኛዝማች 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 05 20:27:03 +0000 2022 
+ 
+`User Description?:` #StopGenocideINTigray
+#StopTigrayFamine 
+ 
+`Followers?: `217 
+ 
+`Following?:` 399 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1503137860735709185/uhxo2fGo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1204 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGRAY** 73 , **FORCES** 32 , **MEDICAL** 26 , **TIGRAYANS** 25 , **BURNED** 23 , **LACK** 21 , **TIGRAY|ANS** 21 , **SECURITY** 20 , **SUPPLIES** 20 , **MUST** 19 , **ALIVE** 19 , **AMHARA** 19 , **IC** 18 , **ETHIOPIA** 18 , **DYING** 16 , **FUEL** 15 , **CHILDREN** 15 , **UKRAINE** 13 , **CRISIS** 13 , **BEING** 13 , 
+ 
+## What this user tweeted
+ 
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
+ 
+# SelSol23USER INFO
+![image](http://pbs.twimg.com/profile_images/1503137987474960385/wZsHQxhP_normal.jpg)
+ 
+`User ScreenName:` SelSol23 
+ 
+`User chosen Name:` ሰላም 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 04 11:43:19 +0000 2022 
+ 
+`User Description?:` Tigrawayti🕊 
+ 
+`Followers?: `32 
+ 
+`Following?:` 84 
+ 
+`User URL?:` None 
+ 
+`Location:` አዲስ_ሸበባ , Shitopia 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1503137987474960385/wZsHQxhP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1724 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGRAY** 55 , **ALIVE** 20 , **ETHIOPIA** 19 , **@MAKEINJERA:** 18 , **BURNING** 17 , **ETHIOPIAN** 12 , **WORLD** 12 , **TIGRAYAN** 11 , **HUMAN** 10 , **BUREAU** 10 , **HUMANITARIAN** 10 , **WAR** 10 , **UKRAINE** 10 , **WHILE** 10 , **IC** 10 , **DAY** 10 , **TIGRAYGENOCIDE** 10 , **FORCES** 10 , **MUST** 9 , **TIGRAYANS** 8 , 
+ 
+## What this user tweeted
+ 
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
+ 
+# jerryhabeshawi3USER INFO
+![image](http://pbs.twimg.com/profile_images/1503123554803625986/HJ1gmA6M_normal.jpg)
+ 
+`User ScreenName:` jerryhabeshawi3 
+ 
+`User chosen Name:` Tigray Tigray 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 11 00:07:52 +0000 2022 
+ 
+`User Description?:` tigray 
+ 
+`Followers?: `14 
+ 
+`Following?:` 25 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1503123554803625986/HJ1gmA6M_normal.jpg 
+ 
+`Number of tweets excluding replies:` 562 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TIGRAY** 65 , **FORCES** 29 , **BURNED** 25 , **ETHIOPIA** 23 , **ALIVE** 21 , **MEDICAL** 21 , **TIGRAY|ANS** 20 , **VIDEO** 19 , **SECURITY** 19 , **BEING** 19 , **LACK** 19 , **AMHARA** 18 , **CHILDREN** 18 , **WAR** 17 , **@REALHAULEGLUCK:** 17 , **MUST** 16 , **SUPPLIES** 16 , **@GUALMEDHINBERHE:** 15 , **WORLD** 14 , **BURNING** 14 , 
+ 
+## What this user tweeted
+ 
+RT @EdenBFKN: The survivors of rape are experiencing and will also continue to experience psychological vulnerabilities, physical injuries,…
+ 
+# Mayamon72193189USER INFO
+![image](http://pbs.twimg.com/profile_images/1500487203587522560/LMCOOTE7_normal.jpg)
+ 
+`User ScreenName:` Mayamon72193189 
+ 
+`User chosen Name:` Mayamoni 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 06 15:02:07 +0000 2022 
+ 
+`User Description?:` I am student 
+ 
+`Followers?: `6 
+ 
+`Following?:` 47 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1500487203587522560/LMCOOTE7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 746 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 56 , **@ECHELONDAO** 34 , **MANY** 31 , **PROJECTS** 31 , **ANY** 28 , **TOKEN** 17 , **MOST** 16 , **TELL** 15 , **BLOCKCHAIN** 15 , **US** 14 , **INVESTORS** 14 , **@GAMI_NFT** 13 , **IMPORTANT** 13 , **MARKET** 13 , **GAME** 13 , **PEOPLE** 13 , **COMMUNITY** 12 , **NFT** 11 , **PLANS** 11 , **WHERE** 11 , 
+ 
+## What this user tweeted
+ 
+@Vision__Capital @EchelonDAO Can you assure us that this won't be one of those projects that come out, do a lot of… https://t.co/RHwHT26sFG@NftPerks @metaweartoken Can you assure us that this won't be one of those projects that come out, do a lot of mark… https://t.co/DRfwkMS61U@CRYPTOREALPOIN1 Can you assure us that this won't be one of those projects that come out, do a lot of marketing se… https://t.co/E7CRrn9fPr@Ark_Rivals @topebox @KardiaChain @IronSailCrew “Due to the security vulnerabilities and hacking events that we hav… https://t.co/jZxs5BBicC
+ 
+# Bbxh57030380USER INFO
+![image](http://pbs.twimg.com/profile_images/1502606101816254464/Pg0UG1R4_normal.jpg)
+ 
+`User ScreenName:` Bbxh57030380 
+ 
+`User chosen Name:` THE AI ANDY FITZE 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 12 11:08:51 +0000 2022 
+ 
+`User Description?:` Global #AI Advisor | Thought Leader in Al | Co-Founder #SwissCognitive | #CIO #CDO | #Speaker | #AI | #DigitalTransformation | CIO of Year Award | #CIO2020 Arou 
+ 
+`Followers?: `26 
+ 
+`Following?:` 89 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502606101816254464/Pg0UG1R4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 203 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ANDY_FITZE:** 200 , **AI** 126 , **FEATURED** 27 , **➡️** 22 , **LATEST** 21 , **ARTICLE** 21 , **ARTIFICIALINTELLIGENCE** 14 , **HAPPY** 13 , **DATA** 12 , **@SWISSCOGNITIVE** 12 , **NEW** 11 , **MACHINELEARNING** 11 , **FIND** 11 , **SWISSCOGNITIVE** 11 , **😎** 11 , **@DALITHSTEIGER** 9 , **NEWS** 9 , **WORLD** 9 , **TECHNOLOGY** 9 , **📌** 9 , 
+ 
+## What this user tweeted
+ 
+RT @andy_fitze: Why are Autonomous Cars still not in the Mainstream?
+- Security Vulnerabilities
+- 360 Weather Test
+- Regulatory Environment…
+ 
+# PC70071USER INFO
+![image](http://pbs.twimg.com/profile_images/1502604853415194631/i-fVR24p_normal.jpg)
+ 
+`User ScreenName:` PC70071 
+ 
+`User chosen Name:` PC7007 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 12 11:17:27 +0000 2022 
+ 
+`User Description?:` xxx 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 96 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502604853415194631/i-fVR24p_normal.jpg 
+ 
+`Number of tweets excluding replies:` 96 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HESHMATALAVI:** 27 , **در** 22 , **IRAN** 21 , **و** 21 , **@PMOIRAN:** 16 , **ایران** 15 , **به** 14 , **از** 12 , **@SIMAYAZADITV:** 12 , **@ORGIAC:** 10 , **UKRAINE** 10 , **US** 8 , **IWD2022** 8 , **برای** 8 , **را** 7 , **که** 7 , **@PEYMANEH123:** 6 , **اوکراین** 6 , **روسیه** 6 , **است** 6 , 
+ 
+## What this user tweeted
+ 
+RT @OrgIAC: VIRTUAL BRIEFING: 
+
+Join us on March 16th as a group of bi-partisan U.S. Senators and prominent Officials discuss: 
+
+- The Iran…RT @peymaneh123: VIRTUAL BRIEFING: 
+
+Join us on March 16th as a group of bi-partisan U.S. Senators and prominent Officials discuss: 
+
+- The…RT @OrgIAC: On March 16, 11:30AM,a bipartisan group of U.S. Senators, prominent former officials will examine Iranian regime’s domestic vul…
+ 
+# Rubin_hira75USER INFO
+![image](http://pbs.twimg.com/profile_images/1499611975608791044/vqVAoOFV_normal.jpg)
+ 
+`User ScreenName:` Rubin_hira75 
+ 
+`User chosen Name:` Robin hira 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 04 04:55:25 +0000 2022 
+ 
+`User Description?:` hirs 
+ 
+`Followers?: `11 
+ 
+`Following?:` 105 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1499611975608791044/vqVAoOFV_normal.jpg 
+ 
+`Number of tweets excluding replies:` 760 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SEKH_HOSEN9350** 147 , **@SIRAJ_DOULA64** 51 , **@OSIMICITY** 33 , **PROJECT** 28 , **@METADAOGUILD** 28 , **@GEOJAMOFFICIAL** 28 , **MANY** 21 , **MOST** 18 , **INVESTORS** 17 , **@NASEEM_SHAH7737** 16 , **@UPDEFIUP** 15 , **0X2A3BAB5490EBDE6B76DB8BD5054F96A29C7E7BA6@ROYAL_BOOSTERS** 15 , **@NASEEM_SHAH7737@CLUBCONTENDERS** 14 , **@OOKEENGA** 14 , **@INTEGRI_T_E_E** 14 , **TOKEN** 13 , **AMA** 12 , **MARCH** 12 , **:** 12 , **PM** 11 , 
+ 
+## What this user tweeted
+ 
+@ClubContenders @Sekh_Hosen9350 @geojamofficial Protecting users data, privacy &amp; funds has become a glaring problem… https://t.co/GUBWJ9zVRG@CryptonationN @Sekh_Hosen9350 @UpDeFiUp Protecting users data, privacy &amp; funds has become a glaring problem that m… https://t.co/ZMi2wTXIFa@CryptoZyte_News @ookeenga Protecting users data, privacy &amp; funds has become a glaring problem that many companies/… https://t.co/a2M3DZmKle
+ 
+# badgirl_ukUSER INFO
+![image](http://pbs.twimg.com/profile_images/1501602765507805186/0Pgl6vzM_normal.jpg)
+ 
+`User ScreenName:` badgirl_uk 
+ 
+`User chosen Name:` BadGirl_UK 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 07 18:40:40 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 21 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 134 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1501602765507805186/0Pgl6vzM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 135 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 20 , **ANONYMOUS** 16 , **@SQUAD3O3:** 15 , **@YOURANONNEWS** 15 , **SEND** 14 , **@JOEBIDEN** 13 , **@SQUAD3O3** 11 , **@ACELUCEROTECH** 11 , **PUTIN** 10 , **PEOPLE** 9 , **TEXT** 9 , **@YOURANONNEWS:** 7 , **UKRAINE** 7 , **MESSAGES** 7 , **SOME** 6 , **SENT** 6 , **@NEXTA_TV** 5 , **@ANONYMOUS_LINK:** 5 , **RUSSIA** 5 , **MESSAGE** 5 , 
+ 
+## What this user tweeted
+ 
+RT @DepaixPorteur: We're currently pentesting every single camera in combat zones in Ukraine. Any of them that we can access, we assume the…
+ 
+# MRT98129638USER INFO
+![image](http://pbs.twimg.com/profile_images/1500000475907002370/upSp-oAD_normal.jpg)
+ 
+`User ScreenName:` MRT98129638 
+ 
+`User chosen Name:` MRT 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 05 06:48:21 +0000 2022 
+ 
+`User Description?:` Student 
+ 
+`Followers?: `4 
+ 
+`Following?:` 58 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1500000475907002370/upSp-oAD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1023 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 69 , **@ZEBEC_HQ** 58 , **ANY** 29 , **PROJECTS** 29 , **MANY** 29 , **IMPORTANT** 26 , **@GAMI_NFT** 25 , **MOST** 21 , **USERS** 21 , **@GAMEPADCO** 20 , **COMMUNITY** 19 , **TOKEN** 18 , **@WOFM_IO** 17 , **DOES** 16 , **VERY** 16 , **ZEBEC** 14 , **INVESTORS** 14 , **US** 13 , **SOME** 13 , **@ECHELONDAO** 13 , 
+ 
+## What this user tweeted
+ 
+@CRYPTOREALPOIN1 Protecting users data, privacy &amp; funds has become a glaring problem that many companies/projects m… https://t.co/10AAtsYGER@CRYPTOREALPOIN1 Protecting users data, privacy &amp; funds has become a glaring problem that many companies/projects m… https://t.co/06Q9q9t4mD@CryptoRResearch @Unique_NFTchain @NFTs_Hunt Protecting users data, privacy &amp; funds has become a glaring problem th… https://t.co/0eEWvwmp0P
+ 
+# Naseem6070USER INFO
+![image](http://pbs.twimg.com/profile_images/1503043512165859330/N5nHlWIZ_normal.jpg)
+ 
+`User ScreenName:` Naseem6070 
+ 
+`User chosen Name:` Nassem 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 07 06:48:42 +0000 2022 
+ 
+`User Description?:` Nasim 
+ 
+`Followers?: `14 
+ 
+`Following?:` 95 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1503043512165859330/N5nHlWIZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1012 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SEKH_HOSEN9350** 103 , **@METADAOGUILD** 60 , **@SIRAJ_DOULA64** 50 , **@GEOJAMOFFICIAL** 34 , **PROJECT** 27 , **INVESTORS** 20 , **TOKEN** 17 , **@NASEEM_SHAH7737@CLUBCONTENDERS** 17 , **@DMAILOFFICIAL** 16 , **@UPDEFIUP** 15 , **MOST** 14 , **@NASEEM_SHAH7737** 14 , **BLOCKCHAIN** 13 , **PRICE** 13 , **MANY** 13 , **0X2A3BAB5490EBDE6B76DB8BD5054F96A29C7E7BA6@CRYPTO_VAULT6** 13 , **AMA** 12 , **UTC** 12 , **COMMUNITY** 12 , **@GAMEYOOOFFICIAL** 12 , 
+ 
+## What this user tweeted
+ 
+@NftPerks @Sekh_Hosen9350 @mjackswap Protecting users data, privacy &amp; funds has become a glaring problem that many… https://t.co/AS6RNqcRFm@Cryptovenus__ @Sekh_Hosen9350 @MetaDAOGuild Protecting users data, privacy &amp; funds has become a glaring problem th… https://t.co/kmrwAisRQ6
+ 
+# peace_force1USER INFO
+![image](http://pbs.twimg.com/profile_images/1499686557057368064/8EFojBCW_normal.jpg)
+ 
+`User ScreenName:` peace_force1 
+ 
+`User chosen Name:` peacekeeping force 🇯🇵🤝🇺🇦 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 04 09:45:03 +0000 2022 
+ 
+`User Description?:` 🇯🇵🤝🇺🇦 
+ 
+`Followers?: `3 
+ 
+`Following?:` 36 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 192 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1499686557057368064/8EFojBCW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 192 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 30 , **RUSSIA** 30 , **ANONYMOUS** 30 , **UKRAINE** 18 , **@YOURANONNEWS:** 18 , **PEOPLE** 18 , **PUTIN** 13 , **RUSSIANS** 12 , **@NEXTA_TV:** 11 , **@ANONOPSSE:** 10 , **@IAPONOMARENKO:** 10 , **WAR** 9 , **DON'T** 8 , **HACKED** 8 , **THANK** 7 , **@SQUAD3O3:** 7 , **@PUCKSRETURN:** 7 , **PLEASE** 7 , **WORLD** 7 , **POLICE** 7 , 
+ 
+## What this user tweeted
+ 
+RT @DepaixPorteur: We're currently pentesting every single camera in combat zones in Ukraine. Any of them that we can access, we assume the…
+ 
+# pwnyduckUSER INFO
+![image](http://pbs.twimg.com/profile_images/1500198108088741890/C-onpXn9_normal.jpg)
+ 
+`User ScreenName:` pwnyduck 
+ 
+`User chosen Name:` pwnyboi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 05 19:51:47 +0000 2022 
+ 
+`User Description?:` Pseudonymous cybersecurity n00b. #EthicalHacker I usually retweet great resources for #BugBounty hunting. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 128 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1500198108088741890/C-onpXn9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 3 , **@HACKINARTICLES:** 2 , **HASH** 2 , **RT** 1 , **@THREE_CUBE:** 1 , **READY** 1 , **START** 1 , **CAREER** 1 , **CYBERSECURITY?** 1 , **PLACE** 1 , **START!** 1 , **GETTING** 1 , **STARTED** 1 , **BECOMING** 1 , **MASTER** 1 , **HACKER** 1 , **M…RT** 1 , **ACTIVE** 1 , **DIRECTORY** 1 , **PENETRATION** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Encryption vs Cryptography
+
+#infosec  #cybersecurity #pentesting #oscp  #informationsecurity #cissp #redteam #CyberSec…
+ 
+# MadzManipulatesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1500523034951790602/jyaWgFSs_normal.jpg)
+ 
+`User ScreenName:` MadzManipulates 
+ 
+`User chosen Name:` 𝘔𝘢𝘥𝘥𝘺 𝘵𝘩𝘦 𝘔𝘢𝘯𝘪𝘱𝘶𝘭𝘢𝘵𝘰𝘳 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 06 17:17:51 +0000 2022 
+ 
+`User Description?:` Deadly 𝕄𝕚𝕟𝕕 𝕀𝕟𝕧𝕒𝕕𝕖𝕣~ Professional 𝘔𝘢𝘯𝘪𝘱𝘶𝘭𝘢𝘵𝘰𝘳~ Catfish Goddess going to be your biggest Nightmare~ Dm for payment methods 
+ 
+`Followers?: `248 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 19 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1500523034951790602/jyaWgFSs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 19 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**𖦹** 6 , **LITTLE** 3 , **NEVER** 3 , **LONELY** 2 , **ACCOUNT** 2 , **MADDY** 2 , **DON’T** 2 , **YOU’RE** 2 , **LIFE** 2 , **🤭…** 2 , **CATFISH** 2 , **𝘦𝘮𝘱𝘵𝘺** 2 , **AREN’T** 2 , **SAY** 2 , **RT** 2 , **𝙙𝙪𝙢𝙗𝙚𝙧** 2 , **GET~** 2 , **PUTTING** 1 , **BABY** 1 , **TIMEOUT** 1 , 
+ 
+## What this user tweeted
+ 
+Don’t be scared of Maddy, I don’t bite~
+
+I just wanna get to know the inner workings of your brain and use your vul… https://t.co/mjoVzgqsL3
+ 
+# dullneatUSER INFO
+![image](http://pbs.twimg.com/profile_images/1499709500013654020/u5j5TGUn_normal.jpg)
+ 
+`User ScreenName:` dullneat 
+ 
+`User chosen Name:` PCDA Student 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 04 10:03:46 +0000 2022 
+ 
+`User Description?:` To PC or not to PC. Former SC. Thoughts are not my own. I have to Harvard reference somebody else as I’m not allowed an opinion. 
+ 
+`Followers?: `48 
+ 
+`Following?:` 71 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 24 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1499709500013654020/u5j5TGUn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UNI** 4 , **LONG** 3 , **LOOKING** 3 , **ANYTHING** 3 , **PCDA** 3 , **OFFICERS** 3 , **DOMESTIC** 2 , **VIOLENCE** 2 , **VICTIM** 2 , **CURRENT** 2 , **DEGREE** 2 , **UNNECESSARY** 2 , **USE** 2 , **OTHER** 2 , **–** 2 , **THAT’S** 2 , **I’M** 2 , **@SWALES_FEDCHAIR:** 2 , **@RICHARD_TWIGG** 1 , **ENOUGH** 1 , 
+ 
+## What this user tweeted
+ 
+1 - Attend domestic violence
+2 - Convince victim they are not to blame
+3 - Safeguard through cocoon watch, DA team,… https://t.co/CRbWdlrmhD
+ 
+# BRNewsRTUSER INFO
+![image](http://pbs.twimg.com/profile_images/1502595415270739969/lKL69OZE_normal.jpg)
+ 
+`User ScreenName:` BRNewsRT 
+ 
+`User chosen Name:` Breaking News 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 11 12:31:25 +0000 2022 
+ 
+`User Description?:` Breaking news 
+ 
+`Followers?: `1 
+ 
+`Following?:` 62 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 136 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502595415270739969/lKL69OZE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 136 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**من** 43 , **في** 38 , **@ALARABIYA_BRK:** 29 , **العربية_عاجل** 29 , **على** 26 , **HTTPS://TCO/A1VIGVFNOWRT** 24 , **عاجل** 24 , **@AJABREAKING:** 20 , **روسيا** 19 , **أوكرانيا** 19 , **عن** 15 , **إلى** 14 , **الروسية** 13 , **الروسي** 10 , **@BUSINESS:** 10 , **الخارجية** 10 , **الروسية:** 10 , **@CNNARABIC:** 10 , **@ALEQTISADIAH:** 9 , **@EURONEWSAR:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @business: Crypto advocates see the Ukraine war as an opportunity to prove the value of virtual currencies. Others see them as a potenti…
+ 
+# BNBChainBEP95USER INFO
+![image](http://pbs.twimg.com/profile_images/1502204775588319233/bxPW_7El_normal.jpg)
+ 
+`User ScreenName:` BNBChainBEP95 
+ 
+`User chosen Name:` Binance Evolution Proposal (BEP-95) 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 11 08:46:18 +0000 2022 
+ 
+`User Description?:` The world’s leading blockchain ecosystem and digital asset exchange. #Binance #BNB | Binance Fan Page 
+ 
+`Followers?: `14 
+ 
+`Following?:` 42 
+ 
+`User URL?:` https://t.co/Juq3VWPWxN 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1502204775588319233/bxPW_7El_normal.jpg 
+ 
+`Number of tweets excluding replies:` 245 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NEWS_OF_BSC:** 60 , **BSCNEWS** 25 , **BINANCE** 21 , **@BINANCE:** 21 , **@BINANCEES:** 17 , **NEW** 17 , **LA** 15 , **READ** 14 , **DE** 14 , **@BNBTIMESNEWS:** 13 , **@BNBCHAIN:** 13 , **BLOCKCHAIN** 12 , **@BINANCEAFRICA:** 12 , **CRYPTOCURRENCY** 11 , **QUE** 11 , **FIND** 11 , **BNBCHAIN** 11 , **@BSC_DAILY:** 11 , **CRYPTONEWS** 10 , **DEFI** 10 , 
+ 
+## What this user tweeted
+ 
+RT @BNBCHAIN: Welcome onboard the #MVBIV, @InsurAce_io 🥳
+
+https://t.co/4iEstE4HlN is a DeFi insurance protocol, with 20 #BNBChain projects…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
