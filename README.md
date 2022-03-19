@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **bad_packets**  
+The most popular user is: **lindyli**  
  
 
-## Mass scanning activity detected from multiple hosts checking for servers using Apache Log4j (Java logging library)… https://t.co/KSidsGeYwk 
+## New Hampshire House passed a bill that would allow cashiers to deny women birth control because of their own religi… https://t.co/FIdEjxu2V5 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **bad_packets**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Upcoming EU Sideloading Bill Would 'Cripple the Privacy and Security #infosec #infosecurity #cybersecurity… https://t.co/56Hb1mT2le |
-| RT @MySecureNetwork: With St. Patrick's Day coming up, @CybelAngel invites you to take a poll:  What do you depend on for cybersecurity?  h… |
-| RT @CyberIQs_: Suspected Ransomware Attack with Custom&amp;Made Tool #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #ha… |
+| RT @Hakin9: Gorsair - a tool that hacks its way into remote docker containers that expose their APIs https://t.co/LcGSKYe8vg #infosec #cy… |
+| RT @ptracesecurity: Mip22 - An Advanced Phishing Tool https://t.co/x0ls69uXdc  #Pentesting #Hacking #CyberSecurity #Infosec https://t.co/0b… |
+| RT @nagasainikhil: my meme #infosec #programming #hacking https://t.co/s0mQd6l944 |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CyberIQs_** |
-| #2 Most tweeted to  | **JinibaBD** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.27%  |
-| Tweeters with < 10 followers  | 1.33%|
+| #1 Most tweeted to  | **AlyssaM_InfoSec** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **AristaNetworks** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 4.62%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,42 +51,125 @@ The most popular user is: **bad_packets**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **INFOSECURITY**  |
-| third  | **THREATINTEL** |
-| fourth  | **@CYBERIQS_:**  |
-| fifth  | **THREATINTEL…**  |
+| second  | **PENTESTING**  |
+| third  | **SHEET** |
+| fourth  | **CHEAT**  |
+| fifth  | **@HACKINARTICLES:**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CyberIQs_: Prison service for England and Wales recorded more than 2,000 data #infosec #infosecurity #cybersecurity #threatintel #threa… |
+|Every newbie's dream when he/she enter in infosec- Atleast one #CVE should be added with his/her name!#infosec#cybersecurity #sudosuraz |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bad_packets**  |
+| The most retweeted user is: **lindyli**  |
 | ------------- |
-| Mass scanning activity detected from multiple hosts checking for servers using Apache Log4j (Java logging library)… https://t.co/KSidsGeYwk |
+| New Hampshire House passed a bill that would allow cashiers to deny women birth control because of their own religi… https://t.co/FIdEjxu2V5 |
 
 # Potential Fake Accounts
  
-# BotsPatrolUSER INFO
-![image](http://pbs.twimg.com/profile_images/1504058050566844421/K_FoE5Hs_normal.jpg)
+# Und3adDevUSER INFO
+![image](http://pbs.twimg.com/profile_images/1504338597343895555/JKoFW07v_normal.jpg)
  
-`User ScreenName:` BotsPatrol 
+`User ScreenName:` Und3adDev 
  
-`User chosen Name:` TICollector 
+`User chosen Name:` Und3adDev 🧟‍♂️ #WeAreLegion 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 16 11:31:16 +0000 2022 
+`User signup date?:` Sun Mar 13 15:01:50 +0000 2022 
  
-`User Description?:` In search of the meaning of life,universe,everything...And also credible cybersecurity threat intelligence feeds 
+`User Description?:` #WeAreLegion expect us | Fck MTG | #PythonDev | #FreeAssange | #IStandWithUkraine | #HackersAgainstPutin | #OpRussia | #OpIsrael | #ISayGay 
+ 
+`Followers?: `205 
+ 
+`Following?:` 401 
+ 
+`User URL?:` None 
+ 
+`Location:` the rabbit hole 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1504338597343895555/JKoFW07v_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1250 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 24 , **@BBCWILLVERNON** 21 , **UKRAINE** 20 , **ANONYMOUS** 19 , **RUSSIA** 18 , **RUSSIAN** 16 , **BOYCOTT** 15 , **WAR** 10 , **PUTIN** 8 , **US** 7 , **@PUCKSRETURN:** 7 , **MARIUPOL** 7 , **UKRAINIAN** 7 , **AGAINST** 7 , **@KYIVINDEPENDENT** 6 , **@BBCWILLVERNON:** 6 , **LOVE** 5 , **GOVERNMENT** 5 , **~** 5 , **DAY** 5 , 
+ 
+## What this user tweeted
+ 
+RT @johnjhacking: Sometimes it's the path of least resistance #infosec https://t.co/yEJzufIrGORT @three_cube: OSINT: Determining the Target's AV Application #osint #reconng #infosec #cybersecurity #av #cyberwarrior
+
+https://t.co/VKRM…RT @Cyb0Mancer: I know I keep retweeting this, but it is a good book! 
+
+#InfoSec #Hacking #Linux #CyberSecurity #InfoSecurity #Anonymous
+ 
+# KoritaSilverUSER INFO
+![image](http://pbs.twimg.com/profile_images/1505065814088728577/5RozcNBv_normal.jpg)
+ 
+`User ScreenName:` KoritaSilver 
+ 
+`User chosen Name:` Korita Silver 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 19 06:16:13 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1505065814088728577/5RozcNBv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SORRY** 19 , **MATE** 19 , **SAME** 19 , **ISSUE** 19 , **COINBASE** 19 , **WALLET** 19 , **UNTIL** 19 , **WROTE** 18 , **INSTANT** 13 , **SUPPO…** 3 , **SUPPORT…** 3 , **THEIR…** 3 , **SUPPORT** 2 , **@CISAJEN** 2 , **SU…** 2 , **SUPPOR…** 2 , **@MAGG_PY** 1 , **T…** 1 , **HTTPS://TCO/CNQQQDSJE6@AC1DGODDESS** 1 , **HTTPS://TCO/KV8MQVRVOV@YOLIVEAU** 1 , 
+ 
+## What this user tweeted
+ 
+@AlyssaM_InfoSec @CISAJen Sorry mate 
+This was the same issue i had with my coinbase wallet until I wrote to their… https://t.co/oRcGe3k69u
+ 
+# SIL3NC3_HQUSER INFO
+![image](http://pbs.twimg.com/profile_images/1504763095712862208/veE4eSy8_normal.jpg)
+ 
+`User ScreenName:` SIL3NC3_HQ 
+ 
+`User chosen Name:` SIL3NC3 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 15 08:43:16 +0000 2022 
+ 
+`User Description?:` I’m a Cyber Security Enthusiast, also a hactivist. Spreading information about the latest hacks/breaches/updates in the cyber world. 
  
 `Followers?: `1 
  
@@ -96,11 +179,11 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 `Location:`  
  
-`Number of tweets extracted`  : 16 
+`Number of tweets extracted`  : 20 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1504058050566844421/K_FoE5Hs_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1504763095712862208/veE4eSy8_normal.jpg 
  
-`Number of tweets excluding replies:` 16 
+`Number of tweets excluding replies:` 20 
  
 
  
@@ -108,55 +191,84 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 5 , **SERVERS** 4 , **⚠️** 4 , **(🇷🇺)** 4 , **ATTACK** 4 , **VULNERABLE** 3 , **@BAD_PACKETS:** 3 , **CVE-2018-13379** 3 , **DETECTED** 3 , **TARGET:** 3 , **FORTINET** 3 , **VPN** 3 , **NEW** 2 , **COMING** 2 , **@BRANHAMROEN:** 2 , **COBALTSTRIKE** 2 , **NEWS** 2 , **WATCH** 2 , **FULL** 2 , **EPISODE** 2 , 
+**CYBERSECURITY** 4 , **CHEAT** 4 , **SECURITY** 3 , **HACKING** 3 , **@NAVEEDHAMID:** 3 , **CYBERSECURITYRT** 3 , **@YOURANONNEWS:** 3 , **BEST** 2 , **SHEET** 2 , **INFOSEC** 2 , **@NANDANLOHITAKSH:** 2 , **APPLICATION** 2 , **VIDEO** 2 , **INTO** 2 , **BREACH** 2 , **ATTACKS** 2 , **ANONYMOUS** 2 , **RUSSIAN** 2 , **IOS** 2 , **DAY** 2 , 
  
 ## What this user tweeted
  
-RT @Cyberknow20: Another group/individual coming in eith big claims. Spot was a member of #AgainstTheWest unless this is a different spot.…RT @0xthreatintel: Lazarus is carrying out malicious campaign of luring victims to download "Digital Asset Management Job Opportunities[.]z…RT @BranhamRoen: Vulnerable #Microsoft #SQL Servers targeted with #CobaltStrike | #Cybersecurity News
-WATCH FULL EPISODE &gt;&gt; https://t.co/73…RT @BranhamRoen: Devious #Phishing Method Bypasses #MFA Using Remote Access Software | #Cybersecurity News
-WATCH FULL EPISODE &gt;&gt; https://t.…RT @bad_packets: ⚠️ CVE-2018-13379 event detected ⚠️
+RT @DeepFriedCyber: Franchises, partnerships emerge in Ransomware-as-a-Service operations https://t.co/e4GaZwz47u #news #cybersecurity #inf…RT @hackinarticles: Best of SSH Command Cheat Sheet
 
-Source IP:
-85.143.223.167 (🇷🇺)
+Credit https://t.co/LRykFLqVyb
 
-Target:
-Fortinet VPN servers vulnerable to unauthenti…RT @bad_packets: CVE-2018-13379 exploit activity detected from 185.7.214.223 (🇷🇺) and 185.7.214.224 (🇷🇺).
+#infosec #cybersecurity #cybersecuritytips  #pentestin…RT @NandanLohitaksh: Best of Networking Cheat Sheet
 
-Target:
-Fortinet VPN servers vul…RT @bad_packets: ⚠️ Multiple CVE-2018-13379 events detected ⚠️
-
-Source IP:
-185.7.214.223 (🇷🇺)
-
-Target:
-Fortinet VPN servers vulnerable to u…
+#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #cissp #redte…
  
-# mmd_fernandoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1504320229261791238/PItQEJIO_normal.jpg)
+# KleptoCaptureUSER INFO
+![image](http://pbs.twimg.com/profile_images/1504528161090023427/h6kT_Zzt_normal.jpg)
  
-`User ScreenName:` mmd_fernando 
+`User ScreenName:` KleptoCapture 
  
-`User chosen Name:` Deshan Fernando 
+`User chosen Name:` KleptoCapture 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 17 04:48:03 +0000 2022 
+`User signup date?:` Thu Mar 17 18:39:52 +0000 2022 
  
-`User Description?:` Skill and result-oriented person that contributes to improve while strengthening an organization's information & cyber security posture control over key account 
+`User Description?:` #KleptoCapture Merrick Garland DoJ Stan Parity Bits Account #TheITcrowd
+Цей обліковий запис у Twitter було вилучено під час рейду колишнього мера Нью-Йорка. 
  
-`Followers?: `1 
+`Followers?: `45 
  
-`Following?:` 33 
+`Following?:` 273 
+ 
+`User URL?:` https://t.co/UlAdiV6PYu 
+ 
+`Location:` TOP SECRET Borg Locution 
+ 
+`Number of tweets extracted`  : 73 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1504528161090023427/h6kT_Zzt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 73 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DEPARTMENT** 26 , **JUSTICE** 21 , **US** 7 , **PEOPLE** 5 , **GOOD** 5 , **KLEPTOCAPTURE** 5 , **NEVER** 4 , **AGAINST** 4 , **DAY** 4 , **HERE** 3 , **CON** 3 , **@THEREALQRYZTI** 3 , **@HOMEOFFREE61** 3 , **FUN** 3 , **@HIPPICHIK76** 3 , **FOLLOW** 3 , **NEW** 3 , **TWITTER** 3 , **SAINT** 3 , **PATRICK'S** 3 , 
+ 
+## What this user tweeted
+ 
+@Tobias_SDx @AlyssaM_InfoSec @AristaNetworks The Department of Just Us says https://t.co/NQcHWf5kzQ
+ 
+# Ns01452USER INFO
+![image](http://pbs.twimg.com/profile_images/1505123048592011264/AMvDzucp_normal.jpg)
+ 
+`User ScreenName:` Ns01452 
+ 
+`User chosen Name:` Ns01452 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 19 09:50:08 +0000 2022 
+ 
+`User Description?:` Threat intelligence - Hacktivist 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1504320229261791238/PItQEJIO_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1505123048592011264/AMvDzucp_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -164,39 +276,40 @@ Fortinet VPN servers vulnerable to u…
  
 ## User Top tweeted words 
  
-**MEME** 2 , **NEW** 2 , **RT** 1 , **@BUGCROWD:** 1 , **FINAL** 1 , **VOTES** 1 , **ROUND** 1 , **1!** 1 , **🚨** 1 , **WHICH** 1 , **ON?** 1 , **🤔** 1 , **1️⃣** 1 , **2️⃣** 1 , **?** 1 , **BELOW!** 1 , **⤵️** 1 , **MEMEMADNESS** 1 , **HTTPS://TCO/EZ3IQU2OUIRT** 1 , **@RSACONFERENCE:** 1 , 
+**RUSSIAN** 3 , **DOC** 2 , **ANONYMOUS** 2 , **EMBASSY** 1 , **FEDERATION** 1 , **FRANCE** 1 , **BIOLOGICAL** 1 , **WEAPONS** 1 , **UKRAINE** 1 , **USA…** 1 , **HTTPS://TCO/DWA300RVSAFOUND** 1 , **US** 1 , **DEPARTMENT** 1 , **COMMERCE** 1 , **CONCERNING** 1 , **SANCTIONS** 1 , **HOSTED** 1 , **NEWS…** 1 , **HTTPS://TCO/KGDAUWDDBOBLOCKFI** 1 , **BREACHED** 1 , 
  
 ## What this user tweeted
  
-RT @BranhamRoen: Vulnerable #Microsoft #SQL Servers targeted with #CobaltStrike | #Cybersecurity News
-WATCH FULL EPISODE &gt;&gt; https://t.co/73…
+Doc from the Embassy of the Russian Federation in France. About Biological weapons in Ukraine and Usa… https://t.co/DWA300RvsaFound this doc from the US department of commerce concerning Russian sanctions on a hosted Russian news.… https://t.co/kgdaUwddBoBlockFi was breached by hackers, they released a statement.
+
+#anonymous #infosec #cryptocurrency #CryptoNews
  
-# RomaMis10785160USER INFO
-![image](http://pbs.twimg.com/profile_images/1503679030767218690/G46748hq_normal.jpg)
+# istdabestUSER INFO
+![image](http://pbs.twimg.com/profile_images/1504404013881643012/edP1Fa-z_normal.jpg)
  
-`User ScreenName:` RomaMis10785160 
+`User ScreenName:` istdabest 
  
-`User chosen Name:` Roma Mishra 
+`User chosen Name:` Qaofficialz 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 15 09:07:40 +0000 2022 
+`User signup date?:` Thu Mar 17 10:25:52 +0000 2022 
  
-`User Description?:` happy go lucky 
+`User Description?:`  
  
-`Followers?: `5 
+`Followers?: `2 
  
-`Following?:` 22 
+`Following?:` 55 
  
 `User URL?:` None 
  
-`Location:` India 
+`Location:`  
  
-`Number of tweets extracted`  : 161 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1503679030767218690/G46748hq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1504404013881643012/edP1Fa-z_normal.jpg 
  
-`Number of tweets excluding replies:` 161 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -204,13 +317,54 @@ WATCH FULL EPISODE &gt;&gt; https://t.co/73…
  
 ## User Top tweeted words 
  
-**@CASTELLUMLABS:** 160 , **SECURITY** 21 , **APPSEC** 18 , **MODEL** 17 , **CASTELLUM** 16 , **CASTELLUMLABS** 15 , **DATA** 11 , **!!** 11 , **CYBERSECURITY** 10 , **ENGAGEMENT** 10 , **LABS** 9 , **APPLICATION** 9 , **MOST** 9 , **ORGANIZATIONS** 9 , **TIME** 9 , **PLATFORM** 8 , **RANSOMWARE** 8 , **WHICH** 7 , **NEW** 7 , **CISO** 7 , 
+**RT** 1 , **@GF_256:** 1 , **PICK** 1 , **POISON** 1 , **HTTPS://TCO/RGRY0KEYSXRT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **OSCP** 1 , **INFORMATIONSECURITY** 1 , **CISSP** 1 , **CYBERSEC** 1 , **H…** 1 , 
  
 ## What this user tweeted
  
-RT @CastellumLabs: Managed Detection and Response from Castellum Labs addresses all the areas that make MDR practically effective. Talk to…RT @CastellumLabs: Managed Detection and Response from #CastellumLabs addresses all the areas that make #MDR practically effective. Talk to…RT @CastellumLabs: Managed #Detection and #Response from #CastellumLabs addresses all the areas that make #MDR practically effective.
+RT @hackinarticles: Pic of the Day
 
-#man…RT @CastellumLabs: #CastellumLabs threatNiXD Solution Model #aggregates &amp; #scans new log entries and #dispatch those logs to tNiXD #cloud .…
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informationsecurity  #cissp #CyberSec h…
+ 
+# WHITEHORSERAJDRUSER INFO
+![image](http://pbs.twimg.com/profile_images/1504463135180136448/DQ_mk53o_normal.jpg)
+ 
+`User ScreenName:` WHITEHORSERAJDR 
+ 
+`User chosen Name:` AMUN STARS 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 13 04:53:49 +0000 2022 
+ 
+`User Description?:` Allah – there is no deity except Him. To Him bel  .  He is Allah, the Creator...**************************************************** 
+ 
+`Followers?: `2 
+ 
+`Following?:` 53 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1504463135180136448/DQ_mk53o_normal.jpg 
+ 
+`Number of tweets excluding replies:` 950 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BILLIEEILISH** 13 , **@SETHMEYERS** 13 , **@REDFMINDIA** 11 , **D** 10 , **SDA** 10 , **U** 9 , **@TSERIES** 9 , **5** 8 , **O** 8 , **!!!** 8 , **@TAYLORSWIFT13** 7 , **OS** 7 , **@SDAHYMNAL:** 7 , **HYMNAL** 7 , **@TSERIES:** 6 , **GO** 6 , **MOST** 6 , **@LATENIGHTSETH** 6 , **ADVENTIST** 6 , **ADVENTISTA** 6 , 
+ 
+## What this user tweeted
+ 
+RT @cybercdh: It’s Friday. You work in #infosec. What are you up to?
+
+Emoji-answers only.
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
