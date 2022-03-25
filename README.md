@@ -31,19 +31,19 @@ They allow you to be vulnerable and they don’t throw your vulnerabilities in y
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @wheelsee @tomwarren @reckless Security can exist even if its open platform, it just depends on how much companies… https://t.co/BhVAkiOfpV |
+| RT @NetworkAthena: https://t.co/0IhMuvRhFn does gender inequality affect how girls and young women experience climate change and increase t… |
 | RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg… |
-| @dontwannashar3 i understand it can be tough when people can see your hidden vulnerabilities that you’re trying to… https://t.co/2n8xbT8Qf5 |
+| RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **havenskz** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **IsabelOakeshott** |
+| #2 Most tweeted to  | **D_Melissa2** |
+| #3 Most tweeted to  | **MinswapDEX** |
 | NewProfiles (less than 10 days) | 1.04%  |
-| Tweeters with < 10 followers  | 6.64%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| Tweeters with < 10 followers  | 6.14%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -55,19 +55,19 @@ They allow you to be vulnerable and they don’t throw your vulnerabilities in y
 | first  | **VULNERABILITIES**  |
 | second  | **THROUGH**  |
 | third  | **TALK** |
-| fourth  | **REASON**  |
-| fifth  | **GO**  |
+| fourth  | **GO**  |
+| fifth  | **HARD**  |
 
 
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Rainbow6Game: Our work continues to eliminate cheats and game vulnerabilities. Here you can see what’s been addressed over the last 6… |
+|RT @hackinarticles: Best of Cryptography Cheat Sheet#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informationsecurity… |
 
 ### MOST RETWEETED 
 
@@ -76,6 +76,717 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJE
 | 4. Talking to them is easyThey allow you to be vulnerable and they don’t throw your vulnerabilities in your face… https://t.co/7glOSOalT2 |
 
 # Potential Fake Accounts
+ 
+# bloomi1lsueduUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` bloomi1lsuedu 
+ 
+`User chosen Name:` bloomi1lsuedu 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 19 15:20:12 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DRANDREWSCHWARZ** 1 , **"COMPANIES** 1 , **AREN’T** 1 , **DOING** 1 , **FUNDAMENTALS** 1 , **WELL** 1 , **56** 1 , **PERCENT** 1 , **ATTACKS** 1 , **EXPLOITING** 1 , **KNOWN** 1 , **VULNERA…** 1 , **HTTPS://TCO/9SRHSBLRUZ@DRANDREWSCHWARZ** 1 , **OPINION** 1 , **MOST** 1 , **SIGNIFICANT** 1 , **SECURITY** 1 , **CHALLENGE** 1 , **FACING** 1 , **ORGANIZATIONS** 1 , 
+ 
+## What this user tweeted
+ 
+@DrAndrewSchwarz "Companies aren’t doing the fundamentals well, with 56 percent of attacks exploiting known vulnera… https://t.co/9sRHsblRUZ
+ 
+# SamerAb78201466USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` SamerAb78201466 
+ 
+`User chosen Name:` Samer Abbas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 25 05:39:40 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@STAR_PROTOCOL** 23 , **PROJECT** 6 , **@LAIKAVERSENFTS** 6 , **IMPORTANT** 5 , **MOST** 4 , **NEXT** 4 , **TOKENOMICS** 3 , **MANY** 3 , **YES** 3 , **SHARE** 3 , **TOKEN** 3 , **DOES** 3 , **STAR** 3 , **PROTOCOL** 3 , **@CRYPTOTITANS1:** 3 , **🤍AMA** 3 , **SERIES** 3 , **🎁PRIZE:** 3 , **$100** 3 , **USDT** 3 , 
+ 
+## What this user tweeted
+ 
+@CryptoTitans1 @star_protocol many projects often encounter security vulnerabilities in smart contracts. So does St… https://t.co/uQdliuwBWo
+ 
+# SohaibH95065972USER INFO
+![image](http://pbs.twimg.com/profile_images/1507418618925318145/BGox3M74_normal.jpg)
+ 
+`User ScreenName:` SohaibH95065972 
+ 
+`User chosen Name:` Sohaib Hassan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 25 18:03:33 +0000 2022 
+ 
+`User Description?:` Mathematician 
+ 
+`Followers?: `0 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507418618925318145/BGox3M74_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@STAR_PROTOCOL** 5 , **MOST** 3 , **@SKYGARDGAME** 3 , **SECURITY** 2 , **STAR** 2 , **PROTOCOL** 2 , **NFTS** 2 , **COMMUNITY** 2 , **DOES** 2 , **STAKING** 2 , **L** 2 , **@CRYPTOTITANS1** 1 , **CORNERSTONE** 1 , **COMES** 1 , **DECENTRALIZED** 1 , **PLATFORMS** 1 , **QUESTION** 1 , **IS…** 1 , **HTTPS://TCO/BY0YVHPG45@CRYPTOTITANS1** 1 , **WORKS** 1 , 
+ 
+## What this user tweeted
+ 
+@CryptoTitans1 @star_protocol many projects often encounter security vulnerabilities in smart contracts. So does St… https://t.co/U2lwAB8YZt
+ 
+# Munam75082731USER INFO
+![image](http://pbs.twimg.com/profile_images/1507397544481071134/mCf-6YZI_normal.jpg)
+ 
+`User ScreenName:` Munam75082731 
+ 
+`User chosen Name:` Munam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 03:29:21 +0000 2022 
+ 
+`User Description?:` crypto is future. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 45 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507397544481071134/mCf-6YZI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 45 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SKYGARDGAME** 27 , **COMMUNITY** 8 , **@STAR_PROTOCOL** 6 , **@90SSOPHIE** 6 , **@AASIFALI2018** 6 , **@NAIJA_PR@CRYPTOTITANS1** 6 , **@PROMETHMETAGAME** 6 , **MOST** 5 , **PROJECT** 5 , **SKYGARD** 5 , **USERS** 4 , **SHARE** 4 , **MARCH** 4 , **UTC** 4 , **L** 4 , **NFTS** 4 , **METAVERSE** 4 , **US** 3 , **TOKENOMICS** 3 , **COULD** 3 , 
+ 
+## What this user tweeted
+ 
+@CryptoTitans1 @star_protocol many projects often encounter security vulnerabilities in smart contracts. So does St… https://t.co/i9LKa6IwHD@IM_Communityitw @SkygardGame Fund loss occurs due to security vulnerabilities in smart contracts, which is one of… https://t.co/jmes0NTLEm
+ 
+# babiesugieUSER INFO
+![image](http://pbs.twimg.com/profile_images/1506342417661939718/qYFlghj__normal.jpg)
+ 
+`User ScreenName:` babiesugie 
+ 
+`User chosen Name:` for kitten⁷☁️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 22 18:15:04 +0000 2022 
+ 
+`User Description?:` —"make me feel pretty, love me, cherish me." 
+ 
+`Followers?: `43 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:` she/cloud 
+ 
+`Number of tweets extracted`  : 42 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1506342417661939718/qYFlghj__normal.jpg 
+ 
+`Number of tweets excluding replies:` 42 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CAT** 7 , **YOONGI** 4 , **BC** 4 , **HE'S** 4 , **NOSE** 3 , **ALWAYS** 3 , **BOY** 3 , **MUCH** 3 , **HYUNG** 2 , **EARS** 2 , **LOVE** 2 , **LITTLE** 2 , **SUGA** 2 , **&LT;/3** 2 , **YOON** 2 , **@HOURIYNG:** 2 , **[PAT]** 2 , **@WHOLESOMEMEME:** 2 , **OH** 2 , **SKIRTS** 2 , 
+ 
+## What this user tweeted
+ 
+yoongi is so accepting and open about his vulnerabilities. he's just really compassionate and im so happy i can thi… https://t.co/7GRafFNIdN
+ 
+# omar_alzeinUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507045639980519425/11SsPkOx_normal.jpg)
+ 
+`User ScreenName:` omar_alzein 
+ 
+`User chosen Name:` Omar Alzein 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 23 20:56:26 +0000 2022 
+ 
+`User Description?:` MS4 @ AUC 🛫SYR | CHI | SXM | NYC🛬 Upcoming Happy Doc #psychiatry #match2023 #medtwitter #psychtwitter 
+ 
+`Followers?: `31 
+ 
+`Following?:` 163 
+ 
+`User URL?:` None 
+ 
+`Location:` New York, NY 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507045639980519425/11SsPkOx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@REGINEGALANTI:** 1 , **NICE** 1 , **OVERVIEW** 1 , **MENTALHEALTH** 1 , **CRISIS** 1 , **KIDS:** 1 , **RATES** 1 , **ANXIETY** 1 , **ETC** 1 , **RISING** 1 , **L** 1 , **PRE-COVID** 1 , **SYSTEMS** 1 , **AREN'T…RT** 1 , **@MRAHMEDNURALI:** 1 , **FUNNY** 1 , **PEOPLE** 1 , **ARGUE** 1 , **WEARING** 1 , 
+ 
+## What this user tweeted
+ 
+RT @reginegalanti: Nice overview of the #mentalhealth crisis in kids: 
+- Rates of anxiety, etc were rising l pre-COVID
+- our systems aren't…
+ 
+# Queencrypto16USER INFO
+![image](http://pbs.twimg.com/profile_images/1506414967406407681/Qh3v0XjY_normal.jpg)
+ 
+`User ScreenName:` Queencrypto16 
+ 
+`User chosen Name:` Airdrop KILLER 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 22 22:48:38 +0000 2022 
+ 
+`User Description?:` https://t.co/U8giRP1SC0 
+ 
+`Followers?: `8 
+ 
+`Following?:` 19 
+ 
+`User URL?:` https://t.co/U8giRP1SC0 
+ 
+`Location:` Fresno, CA 
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1506414967406407681/Qh3v0XjY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 8 , **VERY** 3 , **EXCITED** 3 , **MAKE** 2 , **HOPE** 2 , **PART** 2 , **WONDERFUL** 2 , **ROADMAP** 2 , **TEAM** 2 , **@BENKRISS1125** 2 , **FOLLOW** 2 , **@WOMBATDUNGEON** 2 , **GREAT** 2 , **RT** 1 , **@ETHDUBAICONF:** 1 , **CAN'T** 1 , **CONFERENCE?** 1 , **WORRIES** 1 , **😎** 1 , **YEAR** 1 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# tschillavanillaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507288634311024641/uAfGNw4b_normal.jpg)
+ 
+`User ScreenName:` tschillavanilla 
+ 
+`User chosen Name:` Jessica S 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 17:39:38 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 127 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507288634311024641/uAfGNw4b_normal.jpg 
+ 
+`Number of tweets excluding replies:` 127 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BROKKRFINANCE:** 118 , **BROKKR** 60 , **WHITELIST** 23 , **NFTS** 16 , **$BRO** 13 , **•** 13 , **IDO** 12 , **@THORCHAIN** 11 , **🟢** 10 , **@THORGUARDS** 9 , **GREAT** 9 , **SYNTHETICS** 9 , **DAYS** 8 , **FIRST** 8 , **PROTOCOL** 8 , **AMA** 8 , **JOIN** 7 , **@BROKKRFINANCE** 7 , **NFT** 7 , **DEFI** 7 , 
+ 
+## What this user tweeted
+ 
+RT @BrokkrFinance: Disclosure: THORGames is more for experienced devs that can find possible vulnerabilities in the system.
+
+To learn more…
+ 
+# HMRashed44USER INFO
+![image](http://pbs.twimg.com/profile_images/1505384011614781443/28aX1Oeq_normal.jpg)
+ 
+`User ScreenName:` HMRashed44 
+ 
+`User chosen Name:` H.M Rashed 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 20 03:21:07 +0000 2022 
+ 
+`User Description?:` 💯💯💯💯💯💯💯💯💯💯💯💯💯Follow 🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔜🔜🔜🔜🔜🔜🔜🔜🔜🔜🔙🔙💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯Follow 🔙🔙🔙🔙🔙🔙🔙🔙🔙🔜🔜🔜🔜🔜🔜🔜🔜 
+ 
+`Followers?: `11 
+ 
+`Following?:` 244 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1505384011614781443/28aX1Oeq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1020 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 126 , **SUCCESS** 124 , **THEN** 123 , **BECOMES** 123 , **BEST** 123 , **CRYPTOS** 122 , **ENTHUSIASTIC** 97 , **PARTICIPAT…** 63 , **HOPEFULLY** 60 , **AIRDROP** 30 , **FIRST** 9 , **A…** 8 , **ENTHUSIASTIC…** 8 , **ABOUT…** 7 , **BETA** 7 , **USDT** 7 , **CAMPAIGN** 6 , **AIRDROP:** 6 , **ABOU…** 6 , **3000** 6 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# ComtFescUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507030893441032193/FQCp7Xx1_normal.png)
+ 
+`User ScreenName:` ComtFesc 
+ 
+`User chosen Name:` comt fesc 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 16:25:38 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507030893441032193/FQCp7Xx1_normal.png 
+ 
+`Number of tweets excluding replies:` 377 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROCESSOR** 26 , **CPU** 21 , **GRAPHICS** 20 , **MOTHERBOARD** 18 , **GPU** 16 , **MARKET** 14 , **–** 14 , **CPUS** 13 , **CARD** 13 , **MEMORY** 13 , **NEW** 12 , **RAM** 11 , **MOTHERBOARDS** 10 , **PC** 9 , **INTEL** 9 , **LAKE** 9 , **2022** 9 , **RYZEN** 9 , **CARDS** 9 , **RTX** 8 , 
+ 
+## What this user tweeted
+ 
+Microsoft’s Pluton security processor tackles hardware, firmware vulnerabilities https://t.co/zvYTgyhVxs
+ 
+# mineralxliteUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507063741850206209/s66N5lWi_normal.jpg)
+ 
+`User ScreenName:` mineralxlite 
+ 
+`User chosen Name:` min.ty 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 18:35:01 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 54 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507063741850206209/s66N5lWi_normal.jpg 
+ 
+`Number of tweets excluding replies:` 328 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHAN** 21 , **HYUNJIN** 15 , **SKZ** 14 , **LEEKNOW** 13 , **HAN** 12 , **LEE** 10 , **@CTRLHWNG:** 10 , **SEUNGMIN** 10 , **STRAYKIDS** 9 , **STRAY** 9 , **KIDS** 9 , **JISUNG** 9 , **CAKE** 9 , **FELIX** 8 , **LIVE** 8 , **REALLY** 8 , **@SEUNGM1NE:** 8 , **😭** 8 , **@YSLCHEOL:** 7 , **@GOIFIEFLEUR:** 7 , 
+ 
+## What this user tweeted
+ 
+RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
+ 
+# 1InsabUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507277441600872449/0kcx0dKm_normal.jpg)
+ 
+`User ScreenName:` 1Insab 
+ 
+`User chosen Name:` Insab 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 25 08:41:19 +0000 2022 
+ 
+`User Description?:` Insab 
+ 
+`Followers?: `1 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507277441600872449/0kcx0dKm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 312 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NOFTEN_NFT** 103 , **@OLY_SPORT** 94 , **PROJECT** 44 , **MANY** 38 , **PROJECTS** 29 , **IMPORTANT** 20 , **MOST** 20 , **COMMUNITY** 18 , **ANY** 15 , **CURRENTLY** 14 , **PLANS** 14 , **DOES** 14 , **CRYPTO** 13 , **INVESTORS** 13 , **BLOCKCHAIN** 12 , **GAME** 12 , **COULD** 12 , **NFT** 10 , **WHICH** 10 , **LONG** 10 , 
+ 
+## What this user tweeted
+ 
+@BlockchainInfi2 @nOFTEN_NFT Fund loss occurs due to security vulnerabilities in smart contracts, which is one of t… https://t.co/1WtqaEAX6o@Cryptocityspot7 @oly_sport Fund loss occurs due to security vulnerabilities in smart contracts, which is one of th… https://t.co/rfnpBDTrPN@royal_boosters @MetakingdomGame Fund loss occurs due to security vulnerabilities in smart contracts, which is one… https://t.co/jMIpd1bIvO
+ 
+# Nayem903USER INFO
+![image](http://pbs.twimg.com/profile_images/1507064520824410128/4SQwgAFf_normal.jpg)
+ 
+`User ScreenName:` Nayem903 
+ 
+`User chosen Name:` Md Nayem 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 17 04:21:05 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `9 
+ 
+`Following?:` 88 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507064520824410128/4SQwgAFf_normal.jpg 
+ 
+`Number of tweets excluding replies:` 345 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BELIEVE** 127 , **FAITHFUL** 127 , **PROJECTTHE** 127 , **PROJECTOR** 126 , **LOT** 126 , **ATTRACTIONS** 126 , **HOPEFULLY** 119 , **PROJECT** 88 , **BETTER…** 63 , **AIRDROP** 28 , **PROJECT…** 12 , **WI…** 12 , **FIRST** 11 , **PROJEC…** 8 , **NFT** 8 , **TOKENS** 8 , **AWAY** 7 , **@ASTARNETWORK** 7 , **PARTICIPATE** 6 , **AIRDROP:** 5 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# Alamin81990USER INFO
+![image](http://pbs.twimg.com/profile_images/1505102978537074689/McIPIjOg_normal.jpg)
+ 
+`User ScreenName:` Alamin81990 
+ 
+`User chosen Name:` Alamin Hasan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 19 08:42:24 +0000 2022 
+ 
+`User Description?:` Hello Guys, This is Alamin Hasan 
+ 
+`Followers?: `3 
+ 
+`Following?:` 192 
+ 
+`User URL?:` None 
+ 
+`Location:` Sherpur 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1505102978537074689/McIPIjOg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 276 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AIRDROP** 69 , **AIRDROP:** 27 , **NFT** 18 , **WORTH** 18 , **LIVE** 15 , **REFERRAL:** 15 , **🚀** 15 , **REWARD:** 13 , **CAMPAIGN** 12 , **NEW** 12 , **TOKEN** 12 , **FIRST** 11 , **MARCH** 11 , **🔥** 11 , **TOTAL** 11 , **PROJECT** 10 , **PARTICIPATE** 9 , **EARN** 9 , **TASKS** 9 , **GAME** 9 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# HussaainnTUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507299138517491716/eSXJd1eM_normal.jpg)
+ 
+`User ScreenName:` HussaainnT 
+ 
+`User chosen Name:` TAHIR HUSSAIN 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 20:29:02 +0000 2022 
+ 
+`User Description?:` protagonist 
+ 
+`Followers?: `1 
+ 
+`Following?:` 49 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507299138517491716/eSXJd1eM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VULNERABILITIES** 2 , **PASSWORD** 2 , **RESET** 2 , **FUNCTIONALITY** 2 , **RT** 1 , **@0XASM0D3US:** 1 , **LIST** 1 , **TUTORIALS** 1 , **THINGS** 1 , **LOOK** 1 , **WHILE** 1 , **HUNTING** 1 , **🐛** 1 , **(-** 1 , **COMPILED** 1 , **@KATHANP19** 1 , **OTHER** 1 , **AWESOME** 1 , **C…RT** 1 , **@MAH3SEC_:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @0xAsm0d3us: List of tutorials and things to look for while hunting for vulnerabilities 🐛  (- compiled by @KathanP19 and other awesome c…RT @Mah3Sec_: Password Reset Functionality Bugs⬇️
+If i missed some vulnerabilities related to password reset functionality comment below👇
+#…
+ 
+# Rasel4014USER INFO
+![image](http://pbs.twimg.com/profile_images/1506574366540148739/13TCNLZ6_normal.jpg)
+ 
+`User ScreenName:` Rasel4014 
+ 
+`User chosen Name:` Md Rasel Islam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 23 07:41:43 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 144 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1506574366540148739/13TCNLZ6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 372 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 191 , **LAUNCH** 96 , **NICE** 95 , **GREAT** 95 , **OPINION** 94 , **PLATFROM** 93 , **LOT** 92 , **TOO** 88 , **ATTRACTIVE** 65 , **AIRDROP** 34 , **AND…** 16 , **NFT** 12 , **AIRDROP:** 12 , **FIRST** 11 , **TOKEN** 9 , **H…** 9 , **WORTH** 9 , **HOPEF…** 9 , **HO…** 9 , **🚀** 9 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# Amirul24680USER INFO
+![image](http://pbs.twimg.com/profile_images/1505186137606090755/daHa_kKe_normal.jpg)
+ 
+`User ScreenName:` Amirul24680 
+ 
+`User chosen Name:` MD Amirul Islam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 19 14:05:05 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `15 
+ 
+`Following?:` 216 
+ 
+`User URL?:` None 
+ 
+`Location:` Dhaka, Bangladesh 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1505186137606090755/daHa_kKe_normal.jpg 
+ 
+`Number of tweets excluding replies:` 583 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 132 , **TEAM** 42 , **CONGRATULATIONS** 38 , **EFFORTS** 35 , **DEDICATION** 33 , **NICE** 30 , **@ROBIVAI9** 28 , **GREAT** 27 , **GOOD** 27 , **HIGHLY** 25 , **AIRDROP** 24 , **POTENTIAL** 23 , **4LIFE** 21 , **@GALAXYBLITZGAME** 21 , **APPRECIATED** 16 , **AMAZING** 16 , **VISIONARY…** 15 , **EVER** 15 , **@SMARTLAUNCH_FI** 15 , **APOLLOTYRESSPORTSCONCLAVE** 15 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
  
 # Kamalsk89USER INFO
 ![image](http://pbs.twimg.com/profile_images/1505114969075228673/yQr3xDaK_normal.jpg)
@@ -90,9 +801,9 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJE
  
 `User Description?:`  
  
-`Followers?: `3 
+`Followers?: `4 
  
-`Following?:` 138 
+`Following?:` 153 
  
 `User URL?:` None 
  
@@ -102,7 +813,7 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJE
  
 `Profile image:` http://pbs.twimg.com/profile_images/1505114969075228673/yQr3xDaK_normal.jpg 
  
-`Number of tweets excluding replies:` 292 
+`Number of tweets excluding replies:` 331 
  
 
  
@@ -110,7 +821,7 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJE
  
 ## User Top tweeted words 
  
-**POROJECT** 90 , **AIRDROP** 52 , **GOOD** 46 , **NICE** 45 , **@SHAON015** 44 , **@MUSHFIQUR15** 44 , **@YUNUS_CENTRERT** 39 , **AIRDROP:** 22 , **NFT** 18 , **🚀** 14 , **1** 13 , **FIRST** 12 , **NEW** 12 , **ANNOUNCE** 12 , **MARCH** 11 , **💰** 11 , **REFERRAL:** 11 , **REWARD:** 11 , **MILLION** 10 , **DATE:** 10 , 
+**POROJECT** 82 , **AIRDROP** 52 , **NICE** 42 , **GOOD** 42 , **@SHAON015** 40 , **@MUSHFIQUR15** 40 , **@YUNUS_CENTRERT** 35 , **AIRDROP:** 21 , **NFT** 16 , **NEW** 15 , **REWARD:** 14 , **WORTH** 12 , **JOIN** 11 , **FIRST** 11 , **ANNOUNCE** 11 , **🚀** 10 , **TOTAL** 10 , **TIME** 10 , **MARCH** 9 , **CAMPAIGN** 8 , 
  
 ## What this user tweeted
  
@@ -136,7 +847,7 @@ The launch is not far o…
  
 `User Description?:` lee know knows i like lee know 
  
-`Followers?: `36 
+`Followers?: `37 
  
 `Following?:` 63 
  
@@ -162,48 +873,6 @@ The launch is not far o…
  
 RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
  
-# darkteam69USER INFO
-![image](http://pbs.twimg.com/profile_images/1507210708030742528/COXSDx5V_normal.jpg)
- 
-`User ScreenName:` darkteam69 
- 
-`User chosen Name:` Caleb 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 25 04:17:02 +0000 2022 
- 
-`User Description?:` A young soul with full passion of dark desires #nsfw 
- 
-`Followers?: `3 
- 
-`Following?:` 51 
- 
-`User URL?:` None 
- 
-`Location:` Massachusetts, USA 
- 
-`Number of tweets extracted`  : 184 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1507210708030742528/COXSDx5V_normal.jpg 
- 
-`Number of tweets excluding replies:` 184 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**YES!** 15 , **BEAUTIFUL** 10 , **@COMEFINDME01:** 10 , **SEX** 8 , **I’M** 8 , **LOOK** 6 , **MAKE** 6 , **SOME** 6 , **THIGHS** 5 , **DON’T** 5 , **GOOD** 5 , **FUCK** 5 , **PEOPLE** 5 , **HANDLE** 5 , **LOOKS** 5 , **WORDS** 5 , **SHOW** 5 , **LOVE** 5 , **GREAT** 4 , **@SHE114R:** 4 , 
- 
-## What this user tweeted
- 
-RT @MrRhetoricalA: taste her demons 
-and you’ll crave the 
-vulnerabilities she 
-chooses to share
- 
 # laveskizUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1506584233351184387/aR6-UvgD_normal.jpg)
  
@@ -217,7 +886,7 @@ chooses to share
  
 `User Description?:` ... 
  
-`Followers?: `88 
+`Followers?: `92 
  
 `Following?:` 68 
  
@@ -225,11 +894,11 @@ chooses to share
  
 `Location:` and more 
  
-`Number of tweets extracted`  : 84 
+`Number of tweets extracted`  : 86 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506584233351184387/aR6-UvgD_normal.jpg 
  
-`Number of tweets excluding replies:` 84 
+`Number of tweets excluding replies:` 86 
  
 
  
@@ -256,19 +925,19 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `User Description?:` This is https://t.co/hFRUDpyIgs religion islam. 
  
-`Followers?: `5 
+`Followers?: `6 
  
-`Following?:` 49 
+`Following?:` 71 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 107 
+`Number of tweets extracted`  : 200 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1504881833649278979/-sHvDtt3_normal.jpg 
  
-`Number of tweets excluding replies:` 107 
+`Number of tweets excluding replies:` 207 
  
 
  
@@ -276,7 +945,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**PROJECT** 26 , **AIRDROP** 23 , **@ARIFMIA49238101** 10 , **GOOD** 10 , **NEW** 7 , **WORTH** 7 , **➕** 7 , **@JUMPTRADENFT** 6 , **MARCH** 6 , **@BONFIDA** 6 , **TOKEN** 5 , **1000** 5 , **FIRST** 5 , **@METAVISA** 5 , **🏆** 5 , **💧** 5 , **TEAM** 4 , **MEMBERS** 4 , **AMA** 4 , **GREAT** 4 , 
+**PROJECT** 33 , **@ARIFMIA49238101** 26 , **AIRDROP** 23 , **@BLUEBIR17552294** 20 , **GOOD** 15 , **MARCH** 14 , **GAME** 12 , **@METAKINGDOMGAME** 12 , **TOKEN** 10 , **AMA** 10 , **@H2O_HOMES** 10 , **@DERIFYPROTOCOL** 10 , **UTC** 9 , **@THEPARKTOKEN** 9 , **$100** 8 , **DOES** 7 , **@JARRYTANIART** 7 , **ANNOUNCE** 7 , **@METAFIORG** 7 , **@AAPTITUDETOKEN** 7 , 
  
 ## What this user tweeted
  
@@ -297,19 +966,19 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
 
 #Stocks #Investing #Economics 
  
-`Followers?: `6 
+`Followers?: `7 
  
-`Following?:` 35 
+`Following?:` 41 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 44 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1507074841505157125/JHfc2HAK_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 44 
  
 
  
@@ -317,7 +986,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**$VSBY** 4 , **$VSBGF** 4 , **FOLLOW!** 3 , **THANKS** 2 , **!** 2 , **"CHINA** 1 , **FACES** 1 , **BIG** 1 , **DIFFICULTIES** 1 , **FOOD** 1 , **PRODUCTION** 1 , **UNUSUAL** 1 , **FLOODS** 1 , **LAST** 1 , **AUTUMN** 1 , **"** 1 , **@ZEROHEDGE…** 1 , **HTTPS://TCO/NREJZ8Q77V@VSBYINVESTORS** 1 , **RISE** 1 , **VULNERABILITIES** 1 , 
+**$VSBGF** 10 , **$VSBY** 9 , **VSBLTY** 7 , **@EXTREMESB** 5 , **FOLLOW!** 5 , **@VSBYINVESTORS** 4 , **@WALLSTREETRPRTR** 4 , **@NEXTLEVELSTOCKS** 3 , **@STOCKAVENGERS** 3 , **THANKS** 3 , **GREAT** 2 , **MINING** 2 , **–** 2 , **LAST** 2 , **@VSBYINVESTORS:** 2 , **GROWING** 2 , **MINE** 2 , **FOLLOWING** 2 , **TRACKER** 2 , **?** 2 , 
  
 ## What this user tweeted
  
@@ -360,7 +1029,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## What this user tweeted
  
-@BitwellGlobal @SeekTiger Audit is so important to find out vulnerabilities of smart contracts. Could you show us h… https://t.co/Kv289fUr06@PejuangCryptoID @SnowConeDAO Can you assure us that this won't be one of those projects that come out, do a lot of… https://t.co/4Tzj53czkE@KripTokenTurkey @OasisProtocol Can you assure us that this won't be one of those projects that come out, do a lot… https://t.co/K1X1LTc4GC
+@BitwellGlobal @SeekTiger Audit is so important to find out vulnerabilities of smart contracts. Could you show us h… https://t.co/Kv289fUr06
  
 # MUNPURA2USER INFO
 ![image](http://pbs.twimg.com/profile_images/1504370020444684289/RCz_aDsW_normal.jpg)
@@ -377,7 +1046,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Followers?: `2 
  
-`Following?:` 48 
+`Following?:` 50 
  
 `User URL?:` None 
  
@@ -387,7 +1056,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Profile image:` http://pbs.twimg.com/profile_images/1504370020444684289/RCz_aDsW_normal.jpg 
  
-`Number of tweets excluding replies:` 386 
+`Number of tweets excluding replies:` 406 
  
 
  
@@ -395,7 +1064,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**PROJECT** 49 , **@PROMETHMETAGAME** 31 , **@PANDAGEMHUNTER** 31 , **PROJECTS** 31 , **MANY** 30 , **@SKIPIIT** 24 , **@OGCLUBDAO** 24 , **ANY** 23 , **@HRISHIKESHIO** 23 , **@NOTSKANDABHAT** 23 , **@YUENWONGLABS** 22 , **TOKEN** 21 , **@UPDEFIUP** 21 , **IMPORTANT** 20 , **COMMUNITY** 19 , **@INTERLOCKWEB3** 16 , **@COINEXINDONESIA** 14 , **NEW** 13 , **INVESTORS** 13 , **DOES** 13 , 
+**PROJECT** 47 , **@YUENWONGLABS** 42 , **PROJECTS** 33 , **@PROMETHMETAGAME** 31 , **@PANDAGEMHUNTER** 31 , **MANY** 29 , **@SKIPIIT** 24 , **@OGCLUBDAO** 24 , **@HRISHIKESHIO** 23 , **@NOTSKANDABHAT** 23 , **ANY** 21 , **@UPDEFIUP** 21 , **@THEGEMSCEO** 20 , **@GEMSGG_OFFICIAL** 20 , **TOKEN** 20 , **COMMUNITY** 19 , **IMPORTANT** 19 , **@INTERLOCKWEB3** 16 , **MOST** 14 , **@COINEXINDONESIA** 14 , 
  
 ## What this user tweeted
  
@@ -414,9 +1083,9 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `User Description?:`  
  
-`Followers?: `4 
+`Followers?: `5 
  
-`Following?:` 81 
+`Following?:` 83 
  
 `User URL?:` None 
  
@@ -426,7 +1095,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Profile image:` http://pbs.twimg.com/profile_images/1504783236484169728/M1LuFeQD_normal.jpg 
  
-`Number of tweets excluding replies:` 1084 
+`Number of tweets excluding replies:` 1154 
  
 
  
@@ -434,7 +1103,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**KDLEX** 51 , **@ALEXAILACAD** 44 , **@KDESTRADA_** 41 , **NA** 39 , **ALEXAILACAD** 37 , **KDESTRADA** 37 , **SA** 29 , **ANG** 25 , **ALEXA** 24 , **KD** 22 , **BA** 20 , **NG** 16 , **NI** 14 , **WISYA** 14 , **STREAM** 13 , **SLAY** 13 , **@ERWANIABELLO:** 12 , **🤍** 12 , **YUNG** 11 , **SWEETHEARTS** 11 , 
+**@ALEXAILACAD** 44 , **KDLEX** 43 , **@KDESTRADA_** 42 , **ALEXAILACAD** 39 , **KDESTRADA** 39 , **NA** 34 , **SA** 30 , **ANG** 27 , **KD** 25 , **BA** 23 , **ALEXA** 21 , **NG** 17 , **🤍** 14 , **NI** 13 , **@ALLTHINGSKDLEX:** 13 , **REPORT** 11 , **LOVE** 11 , **PO** 10 , **MAHAL** 10 , **TOP** 10 , 
  
 ## What this user tweeted
  
@@ -455,17 +1124,17 @@ RT @dumpyhyacinth: Exposing someone's vulnerabilities and insecurities is not a 
  
 `Followers?: `0 
  
-`Following?:` 20 
+`Following?:` 23 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 124 
+`Number of tweets extracted`  : 141 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506285386657669120/GE6Pj1M2_normal.jpg 
  
-`Number of tweets excluding replies:` 124 
+`Number of tweets excluding replies:` 141 
  
 
  
@@ -473,7 +1142,7 @@ RT @dumpyhyacinth: Exposing someone's vulnerabilities and insecurities is not a 
  
 ## User Top tweeted words 
  
-**PROJECT** 39 , **@PROMETHMETAGAME** 27 , **@YUENWONGLABS** 25 , **@PANDAGEMHUNTER** 24 , **@METAMATE_NFT** 18 , **@REV3ALTECH** 18 , **MOST** 16 , **@OASISPROTOCOL** 16 , **IMPORTANT** 15 , **MANY** 14 , **COMMUNITY** 14 , **PROJECTS** 14 , **ANY** 12 , **VERY** 10 , **AMA** 9 , **GAMES** 8 , **PLATFORM** 8 , **@INUTODA** 8 , **IDEAS** 7 , **BLOCKCHAIN** 7 , 
+**PROJECT** 44 , **@PROMETHMETAGAME** 27 , **@PANDAGEMHUNTER** 24 , **@YUENWONGLABS** 24 , **@METISDAO** 23 , **@METAMATE_NFT** 18 , **@REV3ALTECH** 18 , **IMPORTANT** 17 , **MANY** 16 , **PROJECTS** 16 , **MOST** 16 , **@OASISPROTOCOL** 16 , **COMMUNITY** 14 , **ANY** 13 , **PLATFORM** 10 , **VERY** 10 , **GAMES** 9 , **AMA** 9 , **BLOCKCHAIN** 8 , **DOES** 8 , 
  
 ## What this user tweeted
  
@@ -494,17 +1163,17 @@ RT @dumpyhyacinth: Exposing someone's vulnerabilities and insecurities is not a 
  
 `Followers?: `2 
  
-`Following?:` 21 
+`Following?:` 22 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 58 
+`Number of tweets extracted`  : 81 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1504674276422533122/6ApPW7_q_normal.jpg 
  
-`Number of tweets excluding replies:` 58 
+`Number of tweets excluding replies:` 81 
  
 
  
@@ -512,7 +1181,7 @@ RT @dumpyhyacinth: Exposing someone's vulnerabilities and insecurities is not a 
  
 ## User Top tweeted words 
  
-**LEE** 9 , **WEI** 6 , **@SEUNGDDUK:** 5 , **CHAN** 5 , **@WEI__OFFICIAL:** 5 , **KIDS** 4 , **BANG** 4 , **(출처** 4 , **:** 4 , **네이버TV)** 4 , **STRAYKIDS** 4 , **TOO** 3 , **STRAY** 3 , **♡** 3 , **CHANGBIN** 3 , **위아이** 3 , **루아이** 3 , **SHOW** 3 , **😭** 3 , **I'M** 3 , 
+**LEE** 10 , **CHAN** 9 , **@SEUNGDDUK:** 8 , **WEI** 7 , **:** 7 , **@WEI__OFFICIAL:** 6 , **KIDS** 5 , **BANG** 5 , **위아이** 4 , **루아이** 4 , **WELL** 4 , **:))** 4 , **I'M** 4 , **😭** 4 , **SHOW** 4 , **(출처** 4 , **네이버TV)** 4 , **STRAYKIDS** 4 , **RUI** 3 , **HARD** 3 , 
  
 ## What this user tweeted
  
@@ -531,19 +1200,19 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `User Description?:` Stray Kids World Domination!!/ 2022 Is SKZ's year/ @/SKZstay884 moved account 
  
-`Followers?: `62 
+`Followers?: `64 
  
-`Following?:` 143 
+`Following?:` 144 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 196 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506870979611430913/W6tFmYbE_normal.jpg 
  
-`Number of tweets excluding replies:` 1197 
+`Number of tweets excluding replies:` 1325 
  
 
  
@@ -551,7 +1220,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**NEED** 33 , **STAYS** 33 , **STRAY** 23 , **STREAM** 21 , **WEEK** 20 , **KIDS** 19 , **PLEASE** 17 , **STRAYKIDS** 16 , **STREAMING** 16 , **MANIAC** 15 , **WIN** 15 , **@I_AM_KARI31:** 14 , **STAY** 13 , **US** 13 , **ODDINARY** 13 , **VIEWS** 13 , **VOTE** 12 , **MCOUNTDOWN** 12 , **TRACKING** 12 , **DAY** 12 , 
+**WIN** 30 , **VOTE** 24 , **SKZ** 23 , **STAYS** 23 , **STRAYKIDS** 23 , **MANIAC** 19 , **@STRAY_KIDS** 18 , **WEEK** 17 , **MCOUNTDOWN** 17 , **MWAVE** 15 , **MUSIC** 15 , **STRAY** 14 , **NEED** 14 , **0325** 14 , **STAY** 13 , **KIDS** 13 , **STREAM** 13 , **RT** 12 , **STREAMING** 12 , **US** 11 , 
  
 ## What this user tweeted
  
@@ -572,17 +1241,17 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Followers?: `0 
  
-`Following?:` 24 
+`Following?:` 32 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 19 
+`Number of tweets extracted`  : 45 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 19 
+`Number of tweets excluding replies:` 45 
  
 
  
@@ -590,7 +1259,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**@MARCUSLEMONIS:** 5 , **WIN** 2 , **NEW** 2 , **GAME** 2 , **…** 2 , **I’LL** 2 , **PICK** 2 , **MAKE** 2 , **LOOK** 2 , **@DRAHMADBAZZI** 2 , **2022년** 2 , **3월** 2 , **:** 2 , **RT** 1 , **⁦@CAMPINGWORLD⁩** 1 , **RV** 1 , **TWO** 1 , **TICKETS** 1 , **⁦@MLB⁩** 1 , **CHOICE…** 1 , 
+**@MARCUSLEMONIS:** 7 , **2022년** 4 , **3월** 4 , **:** 4 , **WIN** 3 , **@HANA032XXX:** 3 , **@BERRYSTORE4:** 3 , **BERRY(베리)가** 3 , **@ILEADS:** 3 , **FIRST** 2 , **NFT** 2 , **@AREVAMARTIN:** 2 , **MEET** 2 , **W…RT** 2 , **@COPY3456:** 2 , **萬華蚊子** 2 , **C2M蚊蚊** 2 , **@MAYASUKAWA:** 2 , **ITRT** 2 , **25일** 2 , 
  
 ## What this user tweeted
  
@@ -609,19 +1278,19 @@ RT @vmblog: Managing vulnerabilities is nothing new, but prioritizing them w/ cr
  
 `User Description?:` for buying pocas 🛒 & fan account mainly for skz 
  
-`Followers?: `10 
+`Followers?: `15 
  
-`Following?:` 13 
+`Following?:` 17 
  
 `User URL?:` None 
  
 `Location:` she/her •  2006 •📍PH 
  
-`Number of tweets extracted`  : 44 
+`Number of tweets extracted`  : 47 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1504269094211645444/U9cZjhrZ_normal.jpg 
  
-`Number of tweets excluding replies:` 44 
+`Number of tweets excluding replies:` 47 
  
 
  
@@ -629,7 +1298,7 @@ RT @vmblog: Managing vulnerabilities is nothing new, but prioritizing them w/ cr
  
 ## User Top tweeted words 
  
-**KO** 6 , **HYUNJIN** 5 , **SI** 4 , **!** 4 , **KAYA** 3 , **AKO** 3 , **RED** 3 , **RT** 3 , **NA** 3 , **STRAY** 3 , **SAYING** 3 , **╮** 3 , **JEYAMAILS** 3 , **LANG** 2 , **SA** 2 , **MAY** 2 , **ORDER** 2 , **FILO** 2 , **PHOTOCARD** 2 , **CELINE** 2 , 
+**!** 7 , **KO** 6 , **HYUNJIN** 5 , **BNS** 4 , **AKO** 4 , **SI** 4 , **FILO** 3 , **STAY** 3 , **SKZ** 3 , **&LT;33** 3 , **WTS** 3 , **LFB** 3 , **KAYA** 3 , **RED** 3 , **RT** 3 , **STRAY** 3 , **╮** 3 , **JEYAMAILS** 3 , **BNSTWT** 2 , **꒱** 2 , 
  
 ## What this user tweeted
  
@@ -646,21 +1315,21 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `User signup date?:` Wed Mar 23 13:35:53 +0000 2022 
  
-`User Description?:` step out 
+`User Description?:` 2min 🫶🏻 
  
-`Followers?: `160 
+`Followers?: `182 
  
-`Following?:` 178 
+`Following?:` 199 
  
-`User URL?:` None 
+`User URL?:` https://t.co/rJDB3TZYGh 
  
-`Location:` she, multi 
+`Location:` she, rcbyf 
  
 `Number of tweets extracted`  : 200 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506675703047426048/003Qq2Iy_normal.jpg 
  
-`Number of tweets excluding replies:` 283 
+`Number of tweets excluding replies:` 336 
  
 
  
@@ -668,7 +1337,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**KO** 18 , **AKO** 16 , **NA** 16 , **LETS** 14 , **KA** 11 , **SA** 10 , **NEW** 6 , **MOOTS** 6 , **HAHA** 5 , **BEH** 5 , **HELLO** 5 , **DITO** 4 , **MO** 4 , **WALA** 4 , **PAG** 4 , **MAG** 4 , **THANK** 4 , **MAY** 4 , **YAN** 4 , **스키즈와_발맞춰걷는_4번째길** 4 , 
+**NA** 26 , **KO** 25 , **AKO** 17 , **KA** 12 , **SA** 12 , **MO** 7 , **NEW** 7 , **MAG** 6 , **TWT** 6 , **BEH** 6 , **MOOTS** 6 , **LETS** 6 , **WALA** 5 , **DITO** 5 , **SILA** 5 , **YES** 5 , **GO** 4 , **HELLO** 4 , **PLS** 4 , **DI** 4 , 
  
 ## What this user tweeted
  
@@ -695,11 +1364,11 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Location:`  
  
-`Number of tweets extracted`  : 61 
+`Number of tweets extracted`  : 81 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1505779648164089859/vAuNY8fB_normal.jpg 
  
-`Number of tweets excluding replies:` 61 
+`Number of tweets excluding replies:` 81 
  
 
  
@@ -707,7 +1376,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**GUE** 33 , **YG** 19 , **BGT** 11 , **SM** 10 , **INI** 10 , **DI** 9 , **YA** 9 , **TP** 9 , **HRS** 8 , **SIH** 8 , **GA** 7 , **SKZ** 6 , **MAU** 6 , **KE** 5 , **DAN** 5 , **JG** 5 , **TUH** 5 , **TAU** 5 , **BIKIN** 4 , **SAMPE** 4 , 
+**GUE** 36 , **YG** 21 , **BGT** 13 , **YA** 12 , **INI** 12 , **GA** 10 , **SM** 10 , **DI** 9 , **TP** 9 , **HRS** 8 , **SIH** 8 , **DAN** 6 , **LO** 6 , **BISA** 6 , **SKZ** 6 , **MAU** 6 , **SEMUA** 5 , **KE** 5 , **JG** 5 , **TUH** 5 , 
  
 ## What this user tweeted
  
@@ -738,7 +1407,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 1753 
+`Number of tweets excluding replies:` 1806 
  
 
  
@@ -746,7 +1415,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**STRAY** 22 , **STRAYKIDS** 22 , **KIDS** 16 , **@STRAY_KIDS** 15 , **4TH** 14 , **ODDINARY** 13 , **HYUNJIN** 13 , **CHAN** 13 , **@SEUNGDDUK:** 13 , **SKZ** 11 , **WEEK** 11 , **스트레이키즈** 11 , **ANNIVERSARY** 11 , **스키즈와_발맞춰걷는_4번째길** 10 , **US** 10 , **CHANGBIN** 10 , **HAN** 10 , **DAY** 9 , **@STRAY_KIDS:** 9 , **@SEUNGM1NE:** 9 , 
+**STRAYKIDS** 26 , **CHAN** 26 , **STRAY** 25 , **SKZ** 21 , **@STRAY_KIDS** 19 , **WIN** 17 , **KIDS** 17 , **4TH** 17 , **@SEUNGDDUK:** 16 , **0325** 14 , **MANIAC** 12 , **MUSIC** 12 , **ANNIVERSARY** 12 , **스트레이키즈** 11 , **HAN** 11 , **ODDINARY** 11 , **HIGHEST** 10 , **HYUNJIN** 10 , **WEEK** 10 , **@STRAY_KIDS:** 10 , 
  
 ## What this user tweeted
  
@@ -757,7 +1426,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `User ScreenName:` queenbeenho 
  
-`User chosen Name:` minho's air fryer ☻︎ || skz 4th anniv !! 
+`User chosen Name:` minho's air fryer ☻︎ || happy xiumin day !! 
  
 `Is the User Verified?:` False 
  
@@ -773,11 +1442,11 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Location:` jypnationville. 
  
-`Number of tweets extracted`  : 73 
+`Number of tweets extracted`  : 98 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506558137645793280/Zbibq02k_normal.jpg 
  
-`Number of tweets excluding replies:` 73 
+`Number of tweets excluding replies:` 98 
  
 
  
@@ -785,7 +1454,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**@JEONGINISAUR:** 7 , **STRAY** 6 , **HAPPY** 5 , **U** 4 , **MINA** 4 , **BIRTHDAY** 4 , **KIDS** 3 , **@STRAY_KIDS:** 3 , **KIDS(스트레이** 3 , **키즈)** 3 , **STRAYKIDS** 3 , **스트레이키즈** 3 , **ODDINARY** 3 , **WEEK** 3 , **ALWAYS** 3 , **4TH** 3 , **@SEUNGM1NE:** 3 , **ITS** 3 , **KEP1ER** 3 , **BEING** 3 , 
+**STRAY** 10 , **SKZ** 9 , **WIN** 9 , **HAPPY** 8 , **@JEONGINISAUR:** 7 , **1ST** 6 , **KIDS** 6 , **0325** 6 , **4TH** 5 , **ANNIVERSARY** 5 , **@SEUNGM1NE:** 5 , **@STRAY_KIDS** 5 , **@STRAY_KIDS:** 4 , **KIDS(스트레이** 4 , **키즈)** 4 , **STRAYKIDS** 4 , **BEING** 4 , **MANIAC** 4 , **MANIAC1STWIN** 4 , **STRAYKIDS12THWIN** 4 , 
  
 ## What this user tweeted
  
@@ -804,9 +1473,9 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `User Description?:` feet ꜝꜞ ᳝ ࣪ 
  
-`Followers?: `175 
+`Followers?: `176 
  
-`Following?:` 176 
+`Following?:` 177 
  
 `User URL?:` None 
  
@@ -816,7 +1485,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506279001085653009/mGBgsdNa_normal.jpg 
  
-`Number of tweets excluding replies:` 2044 
+`Number of tweets excluding replies:` 2378 
  
 
  
@@ -824,7 +1493,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**STRAY** 12 , **U** 10 , **STRAYKIDS** 9 , **UR** 8 , **東卍FA** 8 , **YES** 7 , **@STRAY_KIDS:** 7 , **KIDS(스트레이** 7 , **키즈)** 7 , **@STRAY_KIDS** 6 , **SKZ** 6 , **I'M** 5 , **HYUNJIN** 5 , **REALLY** 5 , **&LT;ODDINARY&GT;** 5 , **TIME** 5 , **스트레이키즈** 5 , **STOP** 4 , **ALWAYS** 4 , **東リベ** 4 , 
+**UR** 14 , **U** 14 , **東卍FA** 10 , **I'M** 9 , **@HYUKASLUVRR** 9 , **CHAN** 8 , **OH** 7 , **SMASH** 7 , **WAY** 6 , **YES** 6 , **I'LL** 6 , **KIDS** 6 , **THAN** 5 , **JUICE** 5 , **STRAY** 5 , **SAME** 5 , **WELL** 5 , **PASS** 5 , **TOO** 4 , **IM** 4 , 
  
 ## What this user tweeted
  
@@ -845,17 +1514,17 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Followers?: `10 
  
-`Following?:` 39 
+`Following?:` 40 
  
 `User URL?:` None 
  
 `Location:` stayville 
  
-`Number of tweets extracted`  : 196 
+`Number of tweets extracted`  : 198 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1504586663624081408/N0hOTDzl_normal.jpg 
  
-`Number of tweets excluding replies:` 415 
+`Number of tweets excluding replies:` 429 
  
 
  
@@ -863,7 +1532,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**STRAYKIDS** 31 , **@STRAY_KIDS** 29 , **@SKZCHARTDATA:** 27 , **STRAY** 18 , **스트레이키즈** 16 , **ODDINARY** 13 , **KIDS** 13 , **4TH** 10 , **1** 10 , **SURPASSED** 10 , **MANIAC** 10 , **@SEUNGM1NE:** 9 , **US** 8 , **GROUP** 8 , **SKZ** 8 , **VIEWS** 8 , **😭** 8 , **TOP** 8 , **@STRAY_KIDS:** 7 , **STAYS** 7 , 
+**STRAYKIDS** 26 , **@STRAY_KIDS** 24 , **@SKZCHARTDATA:** 24 , **STRAY** 20 , **SKZ** 16 , **KIDS** 15 , **스트레이키즈** 15 , **4TH** 11 , **ODDINARY** 11 , **MUSIC** 9 , **1** 9 , **@SEUNGM1NE:** 9 , **TOP** 8 , **@STRAY_KIDS:** 8 , **KIDS(스트레이** 8 , **키즈)** 8 , **WIN** 8 , **STAYS** 8 , **GROUP** 8 , **😭** 8 , 
  
 ## What this user tweeted
  
@@ -884,17 +1553,17 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Followers?: `0 
  
-`Following?:` 27 
+`Following?:` 28 
  
 `User URL?:` None 
  
 `Location:` Malaysia 
  
-`Number of tweets extracted`  : 186 
+`Number of tweets extracted`  : 200 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1503967853677932545/XFihlZOr_normal.jpg 
  
-`Number of tweets excluding replies:` 187 
+`Number of tweets excluding replies:` 216 
  
 
  
@@ -902,18 +1571,18 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**LEE** 43 , **@STRAYNATIONS:** 20 , **@LINOSCENT:** 17 , **HYUNJIN** 14 , **LEEKNOW** 11 , **LOOKS** 7 , **NEVER** 6 , **@MLNHORIZON:** 6 , **WORLD** 6 , **CUTE** 5 , **LOVE** 5 , **@STRAY_KIDS** 5 , **IM** 5 , **CRYING** 5 , **BANG** 5 , **KNOW'S** 5 , **😭** 4 , **SKZ** 4 , **STRAYKIDS** 4 , **I'M** 4 , 
+**LEE** 38 , **@STRAYNATIONS:** 21 , **@LINOSCENT:** 15 , **HYUNJIN** 14 , **LEEKNOW** 12 , **CHAN** 11 , **KIDS** 8 , **CUTE** 8 , **NEVER** 7 , **STRAY** 7 , **WORLD** 7 , **LOOKS** 7 , **IM** 6 , **SKZ** 6 , **STRAYKIDS** 6 , **@MLNHORIZON:** 6 , **KNOW'S** 6 , **BANG** 6 , **DON'T** 5 , **@CTRLHWNG:** 5 , 
  
 ## What this user tweeted
  
 RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
  
 # minhvssyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1504805659027644420/RI7X_Naa_normal.jpg)
+![image](http://pbs.twimg.com/profile_images/1507387208281559044/l_CW8son_normal.jpg)
  
 `User ScreenName:` minhvssy 
  
-`User chosen Name:` donquavious 0325 
+`User chosen Name:` 📌 KPOP SOCIAL EXPERIMENT 
  
 `Is the User Verified?:` False 
  
@@ -921,19 +1590,19 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `User Description?:` skz over morals 🤷🏾‍♀️ 
  
-`Followers?: `174 
+`Followers?: `184 
  
-`Following?:` 185 
+`Following?:` 186 
  
-`User URL?:` https://t.co/sF9yVRjQC3 
+`User URL?:` https://t.co/h6e3hiBb18 
  
 `Location:` 리노 
  
 `Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1504805659027644420/RI7X_Naa_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1507387208281559044/l_CW8son_normal.jpg 
  
-`Number of tweets excluding replies:` 2207 
+`Number of tweets excluding replies:` 2449 
  
 
  
@@ -941,7 +1610,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**ANNIVERSARY** 18 , **STAY** 16 , **@SEUNGDDUK:** 14 , **STRAY** 12 , **STRAYKIDS** 12 , **4TH** 11 , **4** 11 , **LOVE** 10 , **SKZ** 10 , **스키즈와_발맞춰걷는_4번째길** 10 , **THANK** 10 , **@STRAY_KIDS** 9 , **US** 9 , **KIDS** 8 , **BLESSINGSWAIT4SKZ** 8 , **스트레이키즈** 8 , **HAPPY** 8 , **BEING** 7 , **@STRAY_KIDS:** 7 , **KIDS(스트레이** 7 , 
+**YES** 10 , **I'M** 7 , **😂** 6 , **OH** 6 , **ACTUALLY** 5 , **YOU'RE** 5 , **CHAN** 5 , **JONAS** 4 , **@L98NO** 4 , **DONE** 4 , **LEEKNOW** 4 , **CANT** 4 , **JISUNG** 4 , **FELIX** 4 , **THING** 4 , **STAYVILLE** 4 , **FUNNY** 4 , **BACK** 4 , **LOVE** 4 , **HAVING** 4 , 
  
 ## What this user tweeted
  
@@ -962,7 +1631,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Followers?: `6 
  
-`Following?:` 26 
+`Following?:` 30 
  
 `User URL?:` None 
  
@@ -972,7 +1641,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Profile image:` http://pbs.twimg.com/profile_images/1504840148265373700/zEHWqjiI_normal.jpg 
  
-`Number of tweets excluding replies:` 213 
+`Number of tweets excluding replies:` 261 
  
 
  
@@ -980,7 +1649,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**HAN** 17 , **JISUNG** 15 , **JAEHYUN** 13 , **STRAYKIDS** 11 , **SKZ** 11 , **NCT** 9 , **U** 8 , **NCTDREAM** 8 , **NA** 7 , **PO** 7 , **SA** 7 , **Y'ALL** 7 , **스트레이키즈** 6 , **DREAM** 6 , **NG** 6 , **BEING** 6 , **CM** 6 , **@NCTSMTOWN_DREAM:** 6 , **ALBUM** 6 , **EVEN** 5 , 
+**HAN** 23 , **JISUNG** 23 , **@SEUNGDDUK:** 12 , **JAEHYUN** 11 , **SKZ** 11 , **STRAYKIDS** 11 , **NA** 10 , **U** 8 , **PO** 7 , **@HJSLOOK:** 7 , **SA** 7 , **CHAN** 6 , **DREAM** 6 , **CM** 6 , **Y'ALL** 6 , **NCT** 6 , **NCTDREAM** 6 , **LEE** 5 , **HAPPY** 5 , **HYUNJIN** 5 , 
  
 ## What this user tweeted
  
@@ -1026,7 +1695,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
 RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
  
 # lixswiiiaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1506302476705800201/mGsSikNt_normal.jpg)
+![image](http://pbs.twimg.com/profile_images/1507423817211297795/RhKswjKk_normal.jpg)
  
 `User ScreenName:` lixswiiia 
  
@@ -1038,9 +1707,9 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `User Description?:` at avrat minho 
  
-`Followers?: `183 
+`Followers?: `185 
  
-`Following?:` 232 
+`Following?:` 234 
  
 `User URL?:` https://t.co/4NpUcyB6By 
  
@@ -1048,9 +1717,9 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1506302476705800201/mGsSikNt_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1507423817211297795/RhKswjKk_normal.jpg 
  
-`Number of tweets excluding replies:` 541 
+`Number of tweets excluding replies:` 627 
  
 
  
@@ -1058,7 +1727,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**@STRAY_KIDS** 43 , **스키즈와_발맞춰걷는_4번째길** 39 , **BLESSINGSWAIT4SKZ** 39 , **0325** 34 , **START** 33 , **LINE** 32 , **STRAY** 23 , **KIDS** 17 , **STRAYKIDSRT** 14 , **LEE** 9 , **HAN** 9 , **STRAYKIDS** 8 , **HYUNJIN** 8 , **SKZ** 8 , **•** 8 , **JISUNG** 8 , **CHANGBIN** 7 , **4** 7 , **VE** 6 , **BANG** 6 , 
+**@STRAY_KIDS** 39 , **0325** 38 , **스키즈와_발맞춰걷는_4번째길** 34 , **BLESSINGSWAIT4SKZ** 34 , **START** 32 , **LINE** 31 , **STRAY** 25 , **KIDS** 19 , **CHAN** 14 , **HAN** 12 , **SKZ** 12 , **@SEUNGDDUK:** 12 , **STRAYKIDSRT** 12 , **LEE** 11 , **SEUNGMIN** 9 , **HYUNJIN** 9 , **STRAYKIDS** 9 , **WIN** 9 , **•** 8 , **BANG** 7 , 
  
 ## What this user tweeted
  
@@ -1085,11 +1754,11 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Location:` Johore, Malaysia 
  
-`Number of tweets extracted`  : 9 
+`Number of tweets extracted`  : 12 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506606071154343941/cZMFSvuc_normal.jpg 
  
-`Number of tweets excluding replies:` 9 
+`Number of tweets excluding replies:` 12 
  
 
  
@@ -1097,7 +1766,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**4TH** 3 , **STRAY** 3 , **KIDS** 3 , **ANNIVERSARY** 2 , **YEARS** 2 , **REASON** 2 , **REALLY** 2 , **CHART** 2 , **COME** 2 , **RT** 1 , **@STAYVOTINGZONE:** 1 , **HAPPY** 1 , **@STRAY_KIDS!** 1 , **4** 1 , **NOTHING** 1 , **BLAST** 1 , **CHEERS** 1 , **8** 1 , **WONDERFUL…RT** 1 , **@HAVENSKZ:** 1 , 
+**STRAY** 4 , **KIDS** 4 , **4TH** 3 , **@HAVENSKZ:** 2 , **NOTHING** 2 , **SEEING** 2 , **HAPPY** 2 , **ANNIVERSARY** 2 , **YEARS** 2 , **REASON** 2 , **REALLY** 2 , **CHART** 2 , **COME** 2 , **RT** 1 , **@LINOMNOM:** 1 , **CHAN** 1 , **WROTE** 1 , **"SAVE** 1 , **ME"** 1 , **PAPER** 1 , 
  
 ## What this user tweeted
  
@@ -1124,11 +1793,11 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Location:`  
  
-`Number of tweets extracted`  : 17 
+`Number of tweets extracted`  : 18 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1504841183587192832/GAMbG1C3_normal.jpg 
  
-`Number of tweets excluding replies:` 17 
+`Number of tweets excluding replies:` 18 
  
 
  
@@ -1136,7 +1805,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**PORTFOLIO** 4 , **U** 3 , **LINUX** 3 , **🎉** 2 , **I’M** 2 , **TUTORIALS** 2 , **4** 2 , **THROUGH** 2 , **@THESTUDYOFWAR** 2 , **@CRITICALTHREATS** 2 , **RUSSIAN'S** 2 , **WTF** 2 , **WEB** 2 , **JOB** 2 , **HERE** 2 , **SITE** 2 , **COMMANDS** 2 , **RT** 1 , **@WEB_DEV_DAN:** 1 , **UPDATE** 1 , 
+**PORTFOLIO** 4 , **U** 3 , **LINUX** 3 , **🎉** 2 , **I’M** 2 , **TUTORIALS** 2 , **4** 2 , **THROUGH** 2 , **@THESTUDYOFWAR** 2 , **@CRITICALTHREATS** 2 , **RUSSIAN'S** 2 , **WTF** 2 , **WEB** 2 , **JOB** 2 , **HERE** 2 , **SITE** 2 , **COMMANDS** 2 , **@THATGUYINTECH** 1 , **GOTTA** 1 , **KIDDING😂😂😂😂😂** 1 , 
  
 ## What this user tweeted
  
@@ -1155,9 +1824,9 @@ RT @NandanLohitaksh: List of tutorials and things to look for while hunting for 
  
 `User Description?:` Fan account 
  
-`Followers?: `119 
+`Followers?: `123 
  
-`Following?:` 461 
+`Following?:` 470 
  
 `User URL?:` None 
  
@@ -1167,7 +1836,7 @@ RT @NandanLohitaksh: List of tutorials and things to look for while hunting for 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506392895133155328/8awPYi7X_normal.jpg 
  
-`Number of tweets excluding replies:` 1109 
+`Number of tweets excluding replies:` 1450 
  
 
  
@@ -1175,7 +1844,7 @@ RT @NandanLohitaksh: List of tutorials and things to look for while hunting for 
  
 ## User Top tweeted words 
  
-**@STRAY_KIDS** 33 , **스키즈와_발맞춰걷는_4번째길** 24 , **BLESSINGSWAIT4SKZ** 22 , **STRAYKIDS** 17 , **STRAY** 15 , **220325** 13 , **PLEASE** 12 , **MWAVE** 12 , **SKZ** 12 , **WEEK** 11 , **YEARS** 11 , **ODDINARY** 11 , **VOTE** 10 , **:** 10 , **ANNIVERSARY** 9 , **4** 9 , **RT** 8 , **STAY** 8 , **MCOUNTDOWN** 8 , **WHOSFAN** 8 , 
+**@SKZLIFES:** 37 , **🐿:** 25 , **@STRAY_KIDS** 19 , **STRAYKIDS** 19 , **CHAN** 18 , **TOP** 16 , **SPOTIFY** 16 , **MANIAC** 16 , **WEEKLY** 15 , **2** 14 , **🐺:** 14 , **1** 13 , **ALBUM** 12 , **💌** 12 , **@SKZCHARTDATA:** 10 , **SONGS** 10 , **🥟:** 10 , **4** 9 , **4TH** 9 , **@CHRISTOPHERTEXT:** 9 , 
  
 ## What this user tweeted
  
@@ -1196,17 +1865,17 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 `Followers?: `1 
  
-`Following?:` 16 
+`Following?:` 22 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 18 
+`Number of tweets extracted`  : 29 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506830575843557376/EPnRgWq6_normal.jpg 
  
-`Number of tweets excluding replies:` 18 
+`Number of tweets excluding replies:` 29 
  
 
  
@@ -1214,7 +1883,7 @@ RT @havenskz: the biggest reason i stayed is skz’s openness to talk about thei
  
 ## User Top tweeted words 
  
-**@ILEADS:** 3 , **@HANA032XXX:** 2 , **LOOK** 2 , **NEW** 2 , **SURVIVE** 2 , **RATE** 2 , **@ICEWINTERR:** 2 , **2022년** 2 , **3월** 2 , **:** 2 , **@CYBERCITYINC:** 2 , **CYBER** 2 , **CLANS** 2 , **RT** 1 , **👶の世話をしているとあっという間に1日が終わる** 1 , **配信時間に毎度合わせてくれるファンの皆さんがいるから、配信を全然しなくてもPTたまるし** 1 , **RTなんとかするからツイートきっちりしなくていいよって応援してくれる人がたくさんいるから楽できている😭…RT** 1 , **女性にオススメしたいボーンブロス** 1 , **疲れにくくなる** 1 , **肌がキレイになる** 1 , 
+**@ILEADS:** 5 , **2022년** 4 , **3월** 4 , **:** 4 , **RATE** 3 , **@CYBERCITYINC:** 3 , **@BERRYSTORE4:** 3 , **BERRY(베리)가** 3 , **ACCORDING** 2 , **FREDDIE** 2 , **MAC** 2 , **AVERAGE** 2 , **30-YEAR** 2 , **LOAN** 2 , **SITS** 2 , **356%** 2 , **FEDERAL** 2 , **RESERVE** 2 , **SIGNALING** 2 , **TIGHTER** 2 , 
  
 ## What this user tweeted
  
@@ -1233,19 +1902,19 @@ RT @vmblog: Managing vulnerabilities is nothing new, but prioritizing them w/ cr
  
 `User Description?:` Pharmacist 
  
-`Followers?: `11 
+`Followers?: `12 
  
-`Following?:` 100 
+`Following?:` 109 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 25 
+`Number of tweets extracted`  : 30 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1506644944433332243/WXltRD_h_normal.jpg 
  
-`Number of tweets excluding replies:` 25 
+`Number of tweets excluding replies:` 30 
  
 
  
@@ -1253,567 +1922,11 @@ RT @vmblog: Managing vulnerabilities is nothing new, but prioritizing them w/ cr
  
 ## User Top tweeted words 
  
-**NEW** 4 , **MAR** 4 , **AIRDROP** 3 , **@HANA032XXX:** 3 , **MISSBOUQUET** 3 , **BATTLE** 3 , **TOKEN** 2 , **@HOBBSNETWORK:** 2 , **$HOBBS** 2 , **CRONOS** 2 , **LAUNCH** 2 , **25** 2 , **DOES** 2 , **💰** 2 , **REWARD:** 2 , **METAWAR** 2 , **GRAND** 2 , **POOL:** 2 , **START** 2 , **13:00** 2 , 
+**MAR** 5 , **NEW** 5 , **AIRDROP** 4 , **BOT** 3 , **REWARD:** 3 , **START** 3 , **@HANA032XXX:** 3 , **MISSBOUQUET** 3 , **BATTLE** 3 , **TRADING** 2 , **@ENTERPRISEB2B:** 2 , **RPA** 2 , **@AUTOMATIONANYWH** 2 , **@AIRDROPDET:** 2 , **AIRDROP:** 2 , **💲** 2 , **DOB** 2 , **+** 2 , **REFERRAL** 2 , **POOL** 2 , 
  
 ## What this user tweeted
  
 RT @vmblog: Managing vulnerabilities is nothing new, but prioritizing them w/ critical context through risk evaluation is. What does #Cloud…
- 
-# nhscyberUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` nhscyber 
- 
-`User chosen Name:` NHSCYBER 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 24 10:44:05 +0000 2022 
- 
-`User Description?:` The latest news, comments and features from the world of Cyber Security in the NHS 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HP** 2 , **CC-4063** 1 , **RELEASES** 1 , **SECURITY** 1 , **UPDATES** 1 , **CRITICAL** 1 , **VULNERABILITIES** 1 , **PRINT** 1 , **DIGITAL** 1 , **SENDING** 1 , **PRODUCTS…** 1 , **HTTPS://TCO/OBI1LJZTU2** 1 , 
- 
-## What this user tweeted
- 
-CC-4063 - HP Releases Security Updates for Critical Vulnerabilities in HP Print and Digital Sending Products… https://t.co/obI1lJztU2
- 
-# dududuakiriaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1506510285515165697/T15X3XhC_normal.jpg)
- 
-`User ScreenName:` dududuakiria 
- 
-`User chosen Name:` DU DU DU 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 23 05:56:48 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 75 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506510285515165697/T15X3XhC_normal.jpg 
- 
-`Number of tweets excluding replies:` 75 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PROJECT** 16 , **@BLUESEIDON** 11 , **@PLATON_NETWORK** 11 , **@JUNGLEROADP2E** 10 , **PROJECTS** 9 , **@HANGOUTMETA** 9 , **AMA** 8 , **L** 8 , **CONTRACT** 7 , **@STADERLABS** 7 , **@NFTS_HUNT** 7 , **@UNIVERS_NETWORK** 7 , **@CRYPTO_ZEROFI** 7 , **@BETAMARS2025** 7 , **SMART** 6 , **INVESTORS** 6 , **NEW** 6 , **UTC** 6 , **PLATFORM** 6 , **MARKET** 6 , 
- 
-## What this user tweeted
- 
-@CryptonationN @JungleroadP2E I’m a developer, and I’m interested in contributing to your project  alongsides earni… https://t.co/P67ETFUkuT
- 
-# cogaidentuhqUSER INFO
-![image](http://pbs.twimg.com/profile_images/1506509754159362050/4DUUFROI_normal.jpg)
- 
-`User ScreenName:` cogaidentuhq 
- 
-`User chosen Name:` Co gai den tu hom qua 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 23 05:54:39 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 73 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506509754159362050/4DUUFROI_normal.jpg 
- 
-`Number of tweets excluding replies:` 73 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PROJECT** 11 , **AMA** 11 , **@BLUESEIDON** 11 , **@PLATON_NETWORK** 11 , **@JUNGLEROADP2E** 10 , **MOST** 9 , **L** 8 , **TOKEN** 7 , **@HANGOUTMETA** 7 , **COMMUNITY** 7 , **@STADERLABS** 7 , **@NFTS_HUNT** 7 , **@UNIVERS_NETWORK** 7 , **@CRYPTO_ZEROFI** 7 , **@BETAMARS2025** 7 , **CRYPTO** 6 , **IMPORTANT** 6 , **PROJECTS** 6 , **UTC** 6 , **SOME** 6 , 
- 
-## What this user tweeted
- 
-@CryptonationN @JungleroadP2E I’m a developer, and I’m interested in contributing to your project  alongsides earni… https://t.co/Z2JzOSQjPV
- 
-# minding_urmindUSER INFO
-![image](http://pbs.twimg.com/profile_images/1506502065983393794/-vPKFVa0_normal.jpg)
- 
-`User ScreenName:` minding_urmind 
- 
-`User chosen Name:` Mind Urmind 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 21 09:39:05 +0000 2022 
- 
-`User Description?:` Sharing Spiritual thoughts and quotes 
- 
-`Followers?: `4 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 35 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506502065983393794/-vPKFVa0_normal.jpg 
- 
-`Number of tweets excluding replies:` 36 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@MINDING_URMIND:** 7 , **ABUNDANT** 4 , **THING** 4 , **WHICH** 4 , **@MOREURSELF:** 4 , **LOVE** 4 , **DOES** 4 , **HUMAN** 4 , **BRAIN** 4 , **@THESECRET:** 3 , **OTHERS** 3 , **ATTRACTS** 3 , **ATTRACT** 3 , **GOOD** 3 , **MAKE** 3 , **YOURSELF** 3 , **MIND** 3 , **ACT** 3 , **ACCEPT** 2 , **DON’T** 2 , 
- 
-## What this user tweeted
- 
-RT @moreurself: 💗Owning our stories &amp; vulnerabilities even though they are not pleasant and perfect is an act of self-love.💗
- 
-# MCBBB8USER INFO
-![image](http://pbs.twimg.com/profile_images/1504070414351228932/3vNyx1L0_normal.jpg)
- 
-`User ScreenName:` MCBBB8 
- 
-`User chosen Name:` MCBBB 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 16 12:20:46 +0000 2022 
- 
-`User Description?:` Empro 
- 
-`Followers?: `4 
- 
-`Following?:` 56 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1504070414351228932/3vNyx1L0_normal.jpg 
- 
-`Number of tweets excluding replies:` 417 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PROJECT** 36 , **@PROMETHMETAGAME** 31 , **@PANDAGEMHUNTER** 29 , **@CHAIN_PORT** 29 , **@FARMXYZ** 28 , **PROJECTS** 23 , **@UPDEFIUP** 22 , **COMMUNITY** 19 , **@INTERLOCKWEB3** 18 , **SECURITY** 17 , **AMA** 16 , **IMPORTANT** 15 , **US** 14 , **PORTAL** 14 , **@PORTAL_FINANCE** 14 , **INVESTORS** 13 , **ANY** 13 , **WHICH** 12 , **MOST** 12 , **USERS** 11 , 
- 
-## What this user tweeted
- 
-@IM_Communityitw @SnowConeDAO Can you assure us that this won't be one of those projects that come out, do a lot of… https://t.co/wRTmiBYsgh
- 
-# moreurselfUSER INFO
-![image](http://pbs.twimg.com/profile_images/1506503678710398976/6zluOmQk_normal.jpg)
- 
-`User ScreenName:` moreurself 
- 
-`User chosen Name:` Become MoreUrself 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 21 09:33:07 +0000 2022 
- 
-`User Description?:` Ideas and quotes that help to develop yourself 
- 
-`Followers?: `5 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 41 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506503678710398976/6zluOmQk_normal.jpg 
- 
-`Number of tweets excluding replies:` 41 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@MOREURSELF:** 6 , **NEVER** 5 , **OTHERS** 5 , **PEOPLE** 5 , **OURSELVES** 5 , **PRIORITIZE** 4 , **TALK** 4 , **YOURSELF** 4 , **SOMEONE** 4 , **LOVE** 4 , **RELATIONSHIP** 4 , **LIFE** 4 , **PSYCHOLOGY** 4 , **@BOOK_NIBBLES:** 4 , **MOST** 3 , **POWERFUL** 3 , **START** 3 , **@SEFFSAID:** 3 , **DESIRES** 3 , **BEING** 3 , 
- 
-## What this user tweeted
- 
-RT @moreurself: 💗Owning our stories &amp; vulnerabilities even though they are not pleasant and perfect is an act of self-love.💗
- 
-# BULY31970721USER INFO
-![image](http://pbs.twimg.com/profile_images/1506282312975147013/gkeL0rt-_normal.jpg)
- 
-`User ScreenName:` BULY31970721 
- 
-`User chosen Name:` BULY 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 22 14:50:34 +0000 2022 
- 
-`User Description?:` Lover girls 
- 
-`Followers?: `1 
- 
-`Following?:` 17 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 108 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506282312975147013/gkeL0rt-_normal.jpg 
- 
-`Number of tweets excluding replies:` 108 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@YUENWONGLABS** 28 , **@PROMETHMETAGAME** 25 , **@PANDAGEMHUNTER** 24 , **PROJECT** 22 , **@METAMATE_NFT** 18 , **@REV3ALTECH** 18 , **PROJECTS** 13 , **MOST** 11 , **BLOCKCHAIN** 10 , **ANY** 10 , **IMPORTANT** 9 , **NFT** 8 , **MARKETING** 8 , **PLATFORM** 8 , **CRYPTO** 7 , **GAME** 7 , **DOES** 7 , **MANY** 7 , **AMA** 7 , **TOKEN** 7 , 
- 
-## What this user tweeted
- 
-@labsgroupio @Yuenwonglabs Recently, the majority of initiatives in the Cryptocurrency field have been plagued by s… https://t.co/hqAalsGXch
- 
-# MagikCookieBarUSER INFO
-![image](http://pbs.twimg.com/profile_images/1505678311174950912/4rH7kHSl_normal.jpg)
- 
-`User ScreenName:` MagikCookieBar 
- 
-`User chosen Name:` 7Layer.sol 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 19 22:46:45 +0000 2022 
- 
-`User Description?:` Parallelism maximalist. Be good to the core(s) 
- 
-`Followers?: `40 
- 
-`Following?:` 392 
- 
-`User URL?:` None 
- 
-`Location:` Chicago, IL 
- 
-`Number of tweets extracted`  : 65 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1505678311174950912/4rH7kHSl_normal.jpg 
- 
-`Number of tweets excluding replies:` 65 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COULD** 9 , **@ARMANIFERRANTE** 9 , **@AEYAKOVENKO** 8 , **SOLANA** 5 , **@SOLANA** 4 , **STAKE** 4 , **@PHANTOM** 4 , **@SOTERIA_BC** 4 , **NEED** 4 , **@LOLLAPALOOZA** 3 , **VALIDATOR** 3 , **@IMMATERIAL_INK** 3 , **GENERATE** 3 , **WELL** 3 , **PLS** 3 , **I'VE** 3 , **COOL** 3 , **THOUGHT** 3 , **REALLY** 3 , **@C_OGOO** 3 , 
- 
-## What this user tweeted
- 
-RT @immaterial_ink: @armaniferrante let's create a ✨Research DAO✨ who is funded to create ✨security tools✨ and ✨monitor the ecosystem✨ for…
- 
-# andrewburtonn19USER INFO
-![image](http://pbs.twimg.com/profile_images/1506452677881958404/oCxt2kdE_normal.jpg)
- 
-`User ScreenName:` andrewburtonn19 
- 
-`User chosen Name:` Andrew Burton 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 23 01:52:09 +0000 2022 
- 
-`User Description?:` UNCC '23 Operations and Supply Chain Management 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:` Charlotte, NC 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506452677881958404/oCxt2kdE_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TESLA** 2 , **STOCK** 2 , **RT** 1 , **@MISTERORTON:** 1 , **ELON** 1 , **MUSK** 1 , **DANCING** 1 , **OPENING** 1 , **NEW** 1 , **GIGAFACTORY** 1 , **OUTSIDE** 1 , **BERLIN** 1 , **WHERE** 1 , **HANDING** 1 , **FIRST** 1 , **MODEL** 1 , **Y…RT** 1 , **@WSJ:** 1 , **WATCH:** 1 , **WALL** 1 , 
- 
-## What this user tweeted
- 
-RT @WSJ: Watch: This Wall Street Journal documentary follows the monthslong, 14,000-mile journey of a typical consumer good from factory to…
- 
-# NftArroganceUSER INFO
-![image](http://pbs.twimg.com/profile_images/1506122850352177154/WWFLGSOL_normal.jpg)
- 
-`User ScreenName:` NftArrogance 
- 
-`User chosen Name:` NftArrogance.eth💎 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 22 04:06:11 +0000 2022 
- 
-`User Description?:` | Shaping the WEB3 world | ❤️‍🔥🔌💎Developer 🖥 
- 
-`Followers?: `4 
- 
-`Following?:` 62 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 40 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506122850352177154/WWFLGSOL_normal.jpg 
- 
-`Number of tweets excluding replies:` 40 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**🚨** 13 , **ETHEREUM** 7 , **ETH** 4 , **HE’S** 4 , **CALLED** 4 , **RT** 3 , **MERGE** 3 , **@CRYPTOGUCCI:** 3 , **STILL** 3 , **NFT** 3 , **@THENFTITSCLUB:** 3 , **@PARISHILTON** 3 , **VERY** 2 , **NEED** 2 , **@LILMOONLAMBO:** 2 , **WALLET** 2 , **$ETH** 2 , **DEFI** 2 , **BITCOIN** 2 , **AROUND** 2 , 
- 
-## What this user tweeted
- 
-RT @ycxc_6senseth: @Arthur_0x @Ledger @Trezor @MetaMask @ledgers @opensea @RTFKTstudios 20/20
-
-Not sure if this is comprehensive, so would…
- 
-# FFighter717USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` FFighter717 
- 
-`User chosen Name:` FreedomFighter717 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 17 23:35:37 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 26 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 72 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 72 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 12 , **POR** 9 , **UN** 8 , **EL** 7 , **ES** 6 , **Y** 6 , **QUE** 6 , **PUTIN** 6 , **EN** 6 , **@BOSTONGLOBETECH:** 6 , **LAS** 5 , **LA** 4 , **UKRAINE** 4 , **RUSSIAN** 4 , **OIL** 4 , **LOS** 4 , **CON** 3 , **DEL** 3 , **ESE** 3 , **AL** 3 , 
- 
-## What this user tweeted
- 
-RT @BostonGlobeTech: A Boston cybersecurity startup, Snyk, monitors thousands of open source code projects to uncover security vulnerabilit…
- 
-# C3pG9BGr92WJCmgUSER INFO
-![image](http://pbs.twimg.com/profile_images/1506146137992048641/1fpMjHKR_normal.jpg)
- 
-`User ScreenName:` C3pG9BGr92WJCmg 
- 
-`User chosen Name:` 10304050702007293754 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 20 20:33:07 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 63 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506146137992048641/1fpMjHKR_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LINUX** 3 , **@KILLAMJR:** 2 , **USING** 2 , **@HAKIN9:** 2 , **NETWORK** 2 , **CYBERSECURITY** 2 , **@THREE_CUBE:** 2 , **BASICS** 2 , **DNS** 2 , **@VXUNDERGROUND:** 2 , **RT** 1 , **ANYRUN** 1 , **INSTANCE** 1 , **REPLACES** 1 , **PROGRAMS** 1 , **BONZI** 1 , **BUDDY** 1 , **HTTPS://TCO/W4RSXOPNMG** 1 , **HTTPS://TCO/WEABXHC57XRT** 1 , **@DECALAGE2:** 1 , 
- 
-## What this user tweeted
- 
-RT @Hakin9: Learn about weak spots in drones and how to exploit them! Download a FREE preview and check the content!  https://t.co/29KCMwgf…RT @three_cube: Network Basics for Hackers, DNS and BIND: How it Works and How it Breaks #dns #bind #networkbasics #cybersecurity #infosec…
- 
-# AmaxxTaxUSER INFO
-![image](http://pbs.twimg.com/profile_images/1506282136000778250/165G9U8A_normal.jpg)
- 
-`User ScreenName:` AmaxxTax 
- 
-`User chosen Name:` AmaxxTax 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 22 14:30:32 +0000 2022 
- 
-`User Description?:` French Cybersecurity Student, member of the university RedTeam project 
- 
-`Followers?: `1 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:` France 
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506282136000778250/165G9U8A_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 7 , **INFOSEC** 5 , **PENTESTING** 5 , **OSCP** 5 , **@HACKINARTICLES:** 4 , **BEST** 4 , **LINUX** 4 , **COMMANDS** 4 , **CHEAT** 4 , **SHEET** 4 , **(PART** 4 , **CYBERSECURITYTIPS** 4 , **INFORMATIO…RT** 4 , **@NAHAMSEC** 2 , **NEED** 2 , **SUR** 2 , **IBM** 2 , **COURSEA** 2 , **DES** 2 , **@SAPHYRA_D** 1 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Best of Linux Commands Cheat Sheet (Part 1)
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informatio…RT @hackinarticles: Best of Linux Commands Cheat Sheet (Part 3)
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informatio…RT @hackinarticles: Best of Linux Commands Cheat Sheet (Part 2)
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informatio…RT @hackinarticles: Best of Linux Commands Cheat Sheet (Part 4)
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informatio…
- 
-# Jonsan16545500USER INFO
-![image](http://pbs.twimg.com/profile_images/1506315293966151681/lT3Y0pzU_normal.jpg)
- 
-`User ScreenName:` Jonsan16545500 
- 
-`User chosen Name:` Jonsan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 18 16:18:45 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 27 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 141 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1506315293966151681/lT3Y0pzU_normal.jpg 
- 
-`Number of tweets excluding replies:` 141 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@BUCCANEERFI** 17 , **@MARIO_INFINITY** 16 , **@JUNGLEROADP2E** 14 , **MARCH** 14 , **PROJECT** 13 , **AMA** 12 , **UTC** 12 , **@SNOWCONEDAO** 12 , **@WOFM_IO** 12 , **:** 11 , **COULD** 9 , **MANY** 9 , **NFT** 9 , **US** 9 , **MOST** 8 , **IMPORTANT** 8 , **COMMUNITY** 8 , **2022** 8 , **L** 8 , **PLATFORM** 8 , 
- 
-## What this user tweeted
- 
-@Titans_ventures @SnowConeDAO Can you assure us that this won't be one of those projects that come out, do a lot of… https://t.co/GPjY7toI8h
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
