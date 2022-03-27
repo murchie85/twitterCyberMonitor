@@ -879,3 +879,857 @@ yoongi is so accepting and open about his vulnerabilities. he's just really comp
  
 `Profile image:` http://pbs.twimg.com/profile_images/1507045639980519425/11SsPkOx_normal.jpg 
  
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PAIN** 2 , **THANK** 2 , **RT** 1 , **@MBEASLEYMD:** 1 , **SATURDAY** 1 , **SPORTS** 1 , **CLINIC** 1 , **CC:** 1 , **LOW** 1 , **BACK** 1 , **“OH** 1 , **WEIRD** 1 , **RIB** 1 , **SHOULDER** 1 , **RECENTLY** 1 , **ALMOST** 1 , **MAKES** 1 , **ME…@DR_SADIAUSMANI** 1 , **YOU!!RT** 1 , **@REGINEGALANTI:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @reginegalanti: Nice overview of the #mentalhealth crisis in kids: 
+- Rates of anxiety, etc were rising l pre-COVID
+- our systems aren't…
+ 
+# Queencrypto16USER INFO
+![image](http://pbs.twimg.com/profile_images/1506414967406407681/Qh3v0XjY_normal.jpg)
+ 
+`User ScreenName:` Queencrypto16 
+ 
+`User chosen Name:` Airdrop KILLER 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 22 22:48:38 +0000 2022 
+ 
+`User Description?:` https://t.co/U8giRP1SC0 
+ 
+`Followers?: `8 
+ 
+`Following?:` 19 
+ 
+`User URL?:` https://t.co/U8giRP1SC0 
+ 
+`Location:` Fresno, CA 
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1506414967406407681/Qh3v0XjY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 8 , **VERY** 3 , **EXCITED** 3 , **MAKE** 2 , **HOPE** 2 , **PART** 2 , **WONDERFUL** 2 , **ROADMAP** 2 , **TEAM** 2 , **@BENKRISS1125** 2 , **FOLLOW** 2 , **@WOMBATDUNGEON** 2 , **GREAT** 2 , **RT** 1 , **@ETHDUBAICONF:** 1 , **CAN'T** 1 , **CONFERENCE?** 1 , **WORRIES** 1 , **😎** 1 , **YEAR** 1 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# tschillavanillaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507288634311024641/uAfGNw4b_normal.jpg)
+ 
+`User ScreenName:` tschillavanilla 
+ 
+`User chosen Name:` Jessica S 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 17:39:38 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507288634311024641/uAfGNw4b_normal.jpg 
+ 
+`Number of tweets excluding replies:` 220 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BROKKRFINANCE:** 193 , **BROKKR** 66 , **•** 38 , **@THORCHAIN** 32 , **@THORGUARDS** 22 , **$BRO** 18 , **WHITELIST** 18 , **GREAT** 15 , **SYNTHETICS** 13 , **THORCHAIN** 12 , **DEFI** 11 , **🟨** 11 , **PRE-MINT** 11 , **S** 11 , **NFTS** 11 , **SYNTHS** 10 , **T** 10 , **🟢** 10 , **FIRST** 10 , **@USIGOETZ** 10 , 
+ 
+## What this user tweeted
+ 
+RT @BrokkrFinance: Disclosure: THORGames is more for experienced devs that can find possible vulnerabilities in the system.
+
+To learn more…
+ 
+# HMRashed44USER INFO
+![image](http://pbs.twimg.com/profile_images/1505384011614781443/28aX1Oeq_normal.jpg)
+ 
+`User ScreenName:` HMRashed44 
+ 
+`User chosen Name:` H.M Rashed 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 20 03:21:07 +0000 2022 
+ 
+`User Description?:` 💯💯💯💯💯💯💯💯💯💯💯💯💯Follow 🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔙🔜🔜🔜🔜🔜🔜🔜🔜🔜🔜🔙🔙💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯Follow 🔙🔙🔙🔙🔙🔙🔙🔙🔙🔜🔜🔜🔜🔜🔜🔜🔜 
+ 
+`Followers?: `11 
+ 
+`Following?:` 285 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1505384011614781443/28aX1Oeq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1191 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 128 , **SUCCESS** 124 , **THEN** 124 , **BECOMES** 124 , **BEST** 123 , **CRYPTOS** 122 , **ENTHUSIASTIC** 97 , **HOPEFULLY** 65 , **PARTICIPAT…** 63 , **AIRDROP** 22 , **ENTHUSIASTIC…** 15 , **🏆** 13 , **NFT** 11 , **AIRDROP:** 9 , **ABOUT…** 9 , **🚀** 8 , **RANDOM** 8 , **REFERRAL:** 8 , **✅** 7 , **💧** 7 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# ComtFescUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507030893441032193/FQCp7Xx1_normal.png)
+ 
+`User ScreenName:` ComtFesc 
+ 
+`User chosen Name:` comt fesc 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 16:25:38 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507030893441032193/FQCp7Xx1_normal.png 
+ 
+`Number of tweets excluding replies:` 425 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROCESSOR** 31 , **CPU** 30 , **NEW** 18 , **GRAPHICS** 14 , **MARKET** 14 , **MOTHERBOARD** 14 , **–** 13 , **GPU** 13 , **CARD** 12 , **RTX** 9 , **INTEL** 8 , **2022** 8 , **MOTHERBOARDS** 8 , **RYZEN** 8 , **CPUS** 8 , **RAM** 8 , **AI** 7 , **PC** 7 , **LAKE** 7 , **MEMORY** 7 , 
+ 
+## What this user tweeted
+ 
+Microsoft’s Pluton security processor tackles hardware, firmware vulnerabilities https://t.co/zvYTgyhVxs
+ 
+# mineralxliteUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507691392155648009/VUAO8ZzO_normal.jpg)
+ 
+`User ScreenName:` mineralxlite 
+ 
+`User chosen Name:` minty || SKZ recomeback kings 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 18:35:01 +0000 2022 
+ 
+`User Description?:` 21 • 🇲🇾 
+ 
+`Followers?: `2 
+ 
+`Following?:` 66 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507691392155648009/VUAO8ZzO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 593 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**🥟:** 52 , **@SKZLIFES:** 40 , **HYUNJIN** 19 , **HAN** 17 , **I'M** 16 , **LEE** 15 , **SKZ** 14 , **JISUNG** 14 , **STRAY** 10 , **MANIAC** 10 , **LONELY** 9 , **ST** 9 , **STRAYKIDS** 9 , **LEEKNOW** 8 , **@SEUNGDDUK:** 8 , **FELIX** 7 , **HE'S** 7 , **GOT** 7 , **YONGBOK** 7 , **CHAN** 6 , 
+ 
+## What this user tweeted
+ 
+RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
+ 
+# Alamin81990USER INFO
+![image](http://pbs.twimg.com/profile_images/1505102978537074689/McIPIjOg_normal.jpg)
+ 
+`User ScreenName:` Alamin81990 
+ 
+`User chosen Name:` Alamin Hasan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 19 08:42:24 +0000 2022 
+ 
+`User Description?:` Hello Guys, This is Alamin Hasan 
+ 
+`Followers?: `3 
+ 
+`Following?:` 211 
+ 
+`User URL?:` None 
+ 
+`Location:` Sherpur 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1505102978537074689/McIPIjOg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 308 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AIRDROP** 72 , **AIRDROP:** 26 , **WORTH** 19 , **REFERRAL:** 18 , **NFT** 18 , **🚀** 16 , **CAMPAIGN** 15 , **LIVE** 15 , **REWARD:** 14 , **100** 12 , **💰** 12 , **🏆** 12 , **NEW** 12 , **📅** 11 , **TASKS** 11 , **🎁** 10 , **VALUE:** 10 , **👥** 10 , **🔥** 10 , **NFTS** 10 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# HussaainnTUSER INFO
+![image](http://pbs.twimg.com/profile_images/1507299138517491716/eSXJd1eM_normal.jpg)
+ 
+`User ScreenName:` HussaainnT 
+ 
+`User chosen Name:` TAHIR HUSSAIN 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 20:29:02 +0000 2022 
+ 
+`User Description?:` protagonist 
+ 
+`Followers?: `2 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507299138517491716/eSXJd1eM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VULNERABILITIES** 2 , **PASSWORD** 2 , **RESET** 2 , **FUNCTIONALITY** 2 , **@BALOCHI5252** 1 , **@OFFICIALDGISPR** 1 , **FAZLU** 1 , **ZALEEL** 1 , **SAN** 1 , **HAY@SAIFULLAHAWAN40** 1 , **ARREARS** 1 , **APKAY** 1 , **WALID** 1 , **SAB** 1 , **DAIN** 1 , **GAY** 1 , **9000** 1 , **MEANS** 1 , **BAQAIYAJATRT** 1 , **@0XASM0D3US:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @0xAsm0d3us: List of tutorials and things to look for while hunting for vulnerabilities 🐛  (- compiled by @KathanP19 and other awesome c…RT @Mah3Sec_: Password Reset Functionality Bugs⬇️
+If i missed some vulnerabilities related to password reset functionality comment below👇
+#…
+ 
+# Rasel4014USER INFO
+![image](http://pbs.twimg.com/profile_images/1506574366540148739/13TCNLZ6_normal.jpg)
+ 
+`User ScreenName:` Rasel4014 
+ 
+`User chosen Name:` Md Rasel Islam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 23 07:41:43 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 181 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1506574366540148739/13TCNLZ6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 492 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 180 , **LAUNCH** 96 , **GREAT** 92 , **NICE** 90 , **OPINION** 90 , **PLATFROM** 89 , **LOT** 86 , **TOO** 81 , **ATTRACTIVE** 64 , **AIRDROP** 35 , **AND…** 16 , **NFT** 14 , **GIVEAWAY** 12 , **JOIN** 12 , **HO…** 10 , **🏆** 10 , **H…** 10 , **1000** 9 , **TOKEN** 9 , **AIRDROP:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# Amirul24680USER INFO
+![image](http://pbs.twimg.com/profile_images/1505186137606090755/daHa_kKe_normal.jpg)
+ 
+`User ScreenName:` Amirul24680 
+ 
+`User chosen Name:` MD Amirul Islam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 19 14:05:05 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `19 
+ 
+`Following?:` 261 
+ 
+`User URL?:` None 
+ 
+`Location:` Dhaka, Bangladesh 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1505186137606090755/daHa_kKe_normal.jpg 
+ 
+`Number of tweets excluding replies:` 742 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 126 , **TEAM** 93 , **CONGRATULATIONS** 88 , **EFFORTS** 85 , **DEDICATION** 82 , **HIGHLY** 78 , **APPRECIATED** 60 , **NICE** 49 , **VISIONARY…** 49 , **@MDISMAI24005583** 24 , **@ISMAILQQ22** 24 , **AIRDROP** 20 , **@AFTABSK7312** 14 , **AIRDROP:** 11 , **REWARD:** 11 , **FARMME** 11 , **WOMENINNFTS** 10 , **@ROBIVAI9** 10 , **4LIFE** 10 , **🏆** 9 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# Kamalsk89USER INFO
+![image](http://pbs.twimg.com/profile_images/1505114969075228673/yQr3xDaK_normal.jpg)
+ 
+`User ScreenName:` Kamalsk89 
+ 
+`User chosen Name:` Kamal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 19 09:31:16 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 195 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1505114969075228673/yQr3xDaK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 451 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**POROJECT** 99 , **GOOD** 52 , **NICE** 49 , **@SHAON015** 49 , **@MUSHFIQUR15** 49 , **@YUNUS_CENTRERT** 44 , **AIRDROP** 39 , **AIRDROP:** 17 , **NFT** 15 , **REWARD:** 13 , **NEW** 13 , **WORTH** 13 , **JOIN** 11 , **🚀** 10 , **APRIL** 9 , **COMING** 9 , **MARCH** 9 , **CAMPAIGN** 9 , **DATE:** 8 , **TOTAL** 8 , 
+ 
+## What this user tweeted
+ 
+RT @GtonCapital: ⚜️ 𝔾ℂ Bonding testing is over.
+
+Summary of vulnerabilities found:
+⚪️0 severe 
+🟡5 medium 
+🟢8 low 
+ 
+The launch is not far o…
+ 
+# ai_knowyuUSER INFO
+![image](http://pbs.twimg.com/profile_images/1506293764440174606/xVA25SKS_normal.jpg)
+ 
+`User ScreenName:` ai_knowyu 
+ 
+`User chosen Name:` 이노 || lagi cari temen stay & check my pin❣️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 22 14:44:08 +0000 2022 
+ 
+`User Description?:` lee know knows i like lee know 
+ 
+`Followers?: `48 
+ 
+`Following?:` 74 
+ 
+`User URL?:` None 
+ 
+`Location:` gimpo (she/her)  
+ 
+`Number of tweets extracted`  : 64 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1506293764440174606/xVA25SKS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 64 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**U** 15 , **GUE** 11 , **YG** 9 , **I'M** 8 , **INI** 8 , **UR** 6 , **SM** 6 , **ANW** 5 , **KAK** 5 , **ANNIV** 5 , **HUHU** 4 , **PNYA** 4 , **╥﹏╥** 4 , **SALAM** 4 , **KENAL** 4 , **BARU** 4 , **LINO** 4 , **NICE** 4 , **HERE** 4 , **STAY** 4 , 
+ 
+## What this user tweeted
+ 
+RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
+ 
+# darkteam69USER INFO
+![image](http://pbs.twimg.com/profile_images/1507210708030742528/COXSDx5V_normal.jpg)
+ 
+`User ScreenName:` darkteam69 
+ 
+`User chosen Name:` Caleb 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 25 04:17:02 +0000 2022 
+ 
+`User Description?:` A young soul with full passion of dark desires/ #nsfw / 28 
+ 
+`Followers?: `7 
+ 
+`Following?:` 97 
+ 
+`User URL?:` None 
+ 
+`Location:` Massachusetts, USA 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507210708030742528/COXSDx5V_normal.jpg 
+ 
+`Number of tweets excluding replies:` 377 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BEAUTIFUL** 11 , **LOVE** 8 , **و** 7 , **SEXY** 7 , **THEN** 6 , **HOT** 6 , **@OHMYNAMEISM:** 6 , **@HIMMELNORDPOL:** 5 , **SOME** 5 , **GOOD** 5 , **THAT’S** 5 , **YES** 5 , **@KISHOREJOY384** 5 , **@PAVITHRA_VARSHA** 5 , **MAKE** 4 , **KISS** 4 , **TIME** 4 , **NEED** 4 , **DEFINITELY** 4 , **@JHANU_406** 4 , 
+ 
+## What this user tweeted
+ 
+RT @MrRhetoricalA: taste her demons 
+and you’ll crave the 
+vulnerabilities she 
+chooses to share
+ 
+# laveskizUSER INFO
+![image](http://pbs.twimg.com/profile_images/1506584233351184387/aR6-UvgD_normal.jpg)
+ 
+`User ScreenName:` laveskiz 
+ 
+`User chosen Name:` laveign 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 23 10:50:15 +0000 2022 
+ 
+`User Description?:` ... 
+ 
+`Followers?: `89 
+ 
+`Following?:` 69 
+ 
+`User URL?:` None 
+ 
+`Location:` and more 
+ 
+`Number of tweets extracted`  : 86 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1506584233351184387/aR6-UvgD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 86 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STRAY** 15 , **KIDS** 15 , **스키즈와_발맞춰걷는_4번째길** 14 , **BLESSINGSWAIT4SKZ** 14 , **STRAYKIDS** 13 , **4TH** 12 , **ANNIVERSARY** 12 , **@STRAY_KIDS** 12 , **SKZ** 8 , **@SEUNGDDUK:** 7 , **4** 5 , **YEARS** 4 , **🤍** 4 , **HARD** 4 , **ALWAYS** 4 , **SHOWCASE** 4 , **LITERALLY** 4 , **KPOP** 4 , **YEAR** 3 , **@FLUFFSHYUNIE:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
+ 
+# MdRipon45600229USER INFO
+![image](http://pbs.twimg.com/profile_images/1504881833649278979/-sHvDtt3_normal.jpg)
+ 
+`User ScreenName:` MdRipon45600229 
+ 
+`User chosen Name:` Md.Ripon Khan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 18 18:04:53 +0000 2022 
+ 
+`User Description?:` This is https://t.co/hFRUDpyIgs religion islam. 
+ 
+`Followers?: `8 
+ 
+`Following?:` 95 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1504881833649278979/-sHvDtt3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 307 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BLUEBIR17552294** 34 , **@ARIFMIA49238101** 33 , **GAME** 20 , **UTC** 16 , **MARCH** 16 , **AMA** 14 , **TOKEN** 14 , **MANY** 13 , **MOST** 13 , **@JARRYTANIART** 12 , **@METAKINGDOMGAME** 12 , **GAMES** 11 , **@EVERSCALE_NET** 11 , **PROJECT** 11 , **CRYPTO** 10 , **@SUNRISEGAMING_D** 10 , **USERS** 10 , **@OSIMICITY** 10 , **@H2O_HOMES** 10 , **@DERIFYPROTOCOL** 10 , 
+ 
+## What this user tweeted
+ 
+@CryptoFamilyVN @bonfida Due to the security vulnerabilities and hacking events that we have heard frequently recen… https://t.co/ur0m4HwLb6
+ 
+# cropcirclemedi1USER INFO
+![image](http://pbs.twimg.com/profile_images/1507074841505157125/JHfc2HAK_normal.jpg)
+ 
+`User ScreenName:` cropcirclemedi1 
+ 
+`User chosen Name:` cropcirclemedia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 18:41:57 +0000 2022 
+ 
+`User Description?:` Discovering Investment Opportunities 
+
+#Stocks #Investing #Economics 
+ 
+`Followers?: `8 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 45 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1507074841505157125/JHfc2HAK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 45 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$VSBGF** 10 , **$VSBY** 9 , **VSBLTY** 7 , **@EXTREMESB** 5 , **FOLLOW!** 5 , **THANKS** 4 , **@VSBYINVESTORS** 4 , **@WALLSTREETRPRTR** 4 , **@NEXTLEVELSTOCKS** 3 , **@STOCKAVENGERS** 3 , **MINING** 2 , **–** 2 , **LAST** 2 , **@VSBYINVESTORS:** 2 , **GROWING** 2 , **MINE** 2 , **FOLLOWING** 2 , **TRACKER** 2 , **?** 2 , **ANALYSIS** 2 , 
+ 
+## What this user tweeted
+ 
+@VSBYInvestors Rise in vulnerabilities across the world, and strict regulatory standard &amp; data privacy compliances… https://t.co/7ojh3DGQ2w
+ 
+# angeline_sicenaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1504783236484169728/M1LuFeQD_normal.jpg)
+ 
+`User ScreenName:` angeline_sicena 
+ 
+`User chosen Name:` Angeline Sicena 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 18 10:49:26 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 83 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1504783236484169728/M1LuFeQD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1306 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**KDLEX** 71 , **@ALEXAILACAD** 69 , **@KDESTRADA_** 64 , **ALEXAILACAD** 55 , **KDESTRADA** 45 , **ALEXA** 30 , **NA** 24 , **ANG** 23 , **KD** 23 , **VLOG** 22 , **SA** 21 , **ASAP** 17 , **@ALLTHINGSKDLEX:** 16 , **HOTTER** 16 , **NG** 16 , **PAWRTY** 15 , **@KDLEXED:** 13 , **LOVE** 12 , **🤍** 10 , **RUNTOME** 10 , 
+ 
+## What this user tweeted
+ 
+RT @dumpyhyacinth: Exposing someone's vulnerabilities and insecurities is not a tea. Always be mindful.
+ 
+# moonylemon1USER INFO
+![image](http://pbs.twimg.com/profile_images/1504674276422533122/6ApPW7_q_normal.jpg)
+ 
+`User ScreenName:` moonylemon1 
+ 
+`User chosen Name:` Lemon 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 18 04:12:11 +0000 2022 
+ 
+`User Description?:` Fangirl 
+ 
+`Followers?: `2 
+ 
+`Following?:` 22 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 85 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1504674276422533122/6ApPW7_q_normal.jpg 
+ 
+`Number of tweets excluding replies:` 85 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LEE** 12 , **@SEUNGDDUK:** 9 , **CHAN** 9 , **WEI** 7 , **:** 7 , **BANG** 6 , **@WEI__OFFICIAL:** 6 , **😭** 5 , **KIDS** 5 , **💬:** 4 , **GIVE** 4 , **🥟:** 4 , **PLEASE** 4 , **위아이** 4 , **루아이** 4 , **WELL** 4 , **:))** 4 , **I'M** 4 , **SHOW** 4 , **(출처** 4 , 
+ 
+## What this user tweeted
+ 
+RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
+ 
+# skz_stay_325_USER INFO
+![image](http://pbs.twimg.com/profile_images/1506870979611430913/W6tFmYbE_normal.jpg)
+ 
+`User ScreenName:` skz_stay_325_ 
+ 
+`User chosen Name:` Em☻ODDINARY 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 18 01:15:40 +0000 2022 
+ 
+`User Description?:` Stray Kids World Domination!!/ 2022 Is SKZ's year/ @/SKZstay884 moved account 
+ 
+`Followers?: `71 
+ 
+`Following?:` 139 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1506870979611430913/W6tFmYbE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1475 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STREAM** 39 , **MANIAC** 35 , **STAYS** 33 , **NEED** 28 , **STRAYKIDS** 28 , **PLEASE** 24 , **WIN** 22 , **WEEK** 20 , **STREAMING** 20 , **NEXT** 16 , **SNS** 16 , **KEEP** 16 , **SHOW** 14 , **@STRAY_KIDS** 14 , **MUSIC** 13 , **STRAY** 13 , **VIEWS** 12 , **STAY** 12 , **FORGET** 12 , **RT** 11 , 
+ 
+## What this user tweeted
+ 
+RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
+ 
+# PiratePirate12USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` PiratePirate12 
+ 
+`User chosen Name:` Pirate Pirate 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 24 09:26:17 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 56 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 56 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 56 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MARCUSLEMONIS:** 7 , **@HANA032XXX:** 6 , **ITRT** 4 , **2022년** 4 , **3월** 4 , **:** 4 , **@DRAHMADBAZZI** 3 , **WIN** 3 , **@BERRYSTORE4:** 3 , **BERRY(베리)가** 3 , **@ILEADS:** 3 , **@MOBILEMIKE_:** 2 , **MOBILEMIKE** 2 , **INTERNATIONAL** 2 , **ANNUAL** 2 , **AWESOME** 2 , **HTTPS://T…RT** 2 , **BUSINESS** 2 , **WORK** 2 , **MISSBOUQUET** 2 , 
+ 
+## What this user tweeted
+ 
+RT @vmblog: Managing vulnerabilities is nothing new, but prioritizing them w/ critical context through risk evaluation is. What does #Cloud…
+ 
+# seungyiyiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1506675703047426048/003Qq2Iy_normal.jpg)
+ 
+`User ScreenName:` seungyiyi 
+ 
+`User chosen Name:` lee 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 23 13:35:53 +0000 2022 
+ 
+`User Description?:` 2min 🫶🏻 
+ 
+`Followers?: `192 
+ 
+`Following?:` 217 
+ 
+`User URL?:` https://t.co/rJDB3TZYGh 
+ 
+`Location:` she, rcbyf 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1506675703047426048/003Qq2Iy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 356 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**KO** 28 , **NA** 27 , **AKO** 21 , **SA** 12 , **NEW** 11 , **KA** 9 , **TWT** 8 , **MAG** 8 , **MO** 7 , **HELLO** 6 , **GO** 6 , **BEH** 6 , **DI** 5 , **STAN** 5 , **ACC** 5 , **LOOKING** 5 , **PA** 5 , **HAHA** 5 , **DITO** 5 , **SILA** 5 , 
+ 
+## What this user tweeted
+ 
+RT @havenskz: the biggest reason i stayed is skz’s openness to talk about their vulnerabilities, the hard times they go through, and strugg…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
