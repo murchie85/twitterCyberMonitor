@@ -549,39 +549,40 @@ I was using a Windows machine and the WiFi wasn't working. I spent an hour tinke
  
 ## User Top tweeted words 
  
-**NEW** 3 , **BELIEVE** 3 , **PYTHON** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **RISE** 2 , **JEWS** 2 , **MUCH** 2 , **PRETTY** 2 , **GOOD** 2 , **RUST** 2 , **MUSIC** 2 , **USED** 2 , **LINUX** 2 , **MAKE** 2 , **ELON** 2 , **MUSK** 2 , **TECH** 2 , **ENABLES** 2 , CARD** 2 , **WEEKEND** 2 , 
+**NEW** 3 , **BELIEVE** 3 , **PYTHON** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **RISE** 2 , **JEWS** 2 , **MUCH** 2 , **PRETTY** 2 , **GOOD** 2 , **RUST** 2 , **MUSIC** 2 , **USED** 2 , **LINUX** 2 , **MAKE** 2 , **ELON** 2 , **MUSK** 2 , **TECH** 2 , **ENABLES** 2 , **DATA** 2 , 
  
 ## What this user tweeted
  
-RT @PNCBank_Help: We have become aware of sophisticated scams involving fraudulent outreach via text, e-mail and phone calls that appear to…
+RT @Hakin9: AlphaGolang - IDApython Scripts for Analyzing Golang Binaries https://t.co/ENqXEFlMfq
+
+#infosec #cybersecurity #redteam #pentes…
  
-# BelfastJunkerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1510035176373510159/pmoXRa-e_normal.jpg)
+# yaxxochkaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1510775907589533699/_Jdki0vE_normal.jpg)
  
-`User ScreenName:` BelfastJunker 
+`User ScreenName:` yaxxochka 
  
-`User chosen Name:` Belfast Junker 
+`User chosen Name:` Janina Hyun R 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Apr 01 21:46:42 +0000 2022 
+`User signup date?:` Mon Apr 04 00:19:01 +0000 2022 
  
-`User Description?:` breakfast summary hype man 🇺🇸🇮  #bbqfather & Hike_Dad on #weekends
-love nature #air and all amazing wonderful features of nature. still trying to see more 
+`User Description?:` Certified AWS 2x Azure 1x // Learning web development with @LondonAppBrewer // US to GB later this year // en kr ru 
  
-`Followers?: `35 
+`Followers?: `17 
  
-`Following?:` 133 
+`Following?:` 135 
  
 `User URL?:` None 
  
-`Location:` Belfast, Northern Ireland 
+`Location:` Alabama, USA 
  
-`Number of tweets extracted`  : 88 
+`Number of tweets extracted`  : 19 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1510035176373510159/pmoXRa-e_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1510775907589533699/_Jdki0vE_normal.jpg 
  
-`Number of tweets excluding replies:` 88 
+`Number of tweets excluding replies:` 19 
  
 
  
@@ -589,165 +590,40 @@ love nature #air and all amazing wonderful features of nature. still trying to s
  
 ## User Top tweeted words 
  
-**TIME** 4 , **US** 4 , **LOL** 4 , **GOOD** 4 , **CAN'T** 3 , **EVER** 3 , **APRIL** 3 , **LOOKING** 3 , **PLACE** 3 , **HEART** 2 , **MUCH** 2 , **😂** 2 , **GOD** 2 , **HELP** 2 , **PLEASE** 2 , **FATHER** 2 , **WRITER** 2 , **LOVE** 2 , **LOOK** 2 , **NIGHT** 2 , 
+**CSS** 4 , **SOME** 3 , **LEARN** 3 , **JAVASCRIPT** 3 , **HTML** 3 , **@ASBUBAM:** 2 , **이** 2 , **정말** 2 , **대단하다** 2 , **작년에** 2 , **I'M** 2 , **VERY** 2 , **FIRST** 2 , **START** 2 , **→** 2 , **인식을** 2 , **CODING** 2 , **RT** 1 , **@_SN0WW:** 1 , **MOST** 1 , 
  
 ## What this user tweeted
  
-RT @bitstein: KYC/AML puts Americans deeply at risk for cybersecurity and physical attacks.
+RT @_sn0ww: What are some of the most cringey infosec marketing terms you've seen?
 
-Abolish KYC/AML.
+I'd think "hack-proof" and "military grade" would have…
  
-# Infurious_iccUSER INFO
-![image](http://pbs.twimg.com/profile_images/1511756160071659523/wxFU6_pE_normal.jpg)
+# FleecewoodMacUSER INFO
+![image](http://pbs.twimg.com/profile_images/1509737410682400772/3l-LPX8t_normal.jpg)
  
-`User ScreenName:` Infurious_icc 
+`User ScreenName:` FleecewoodMac 
  
-`User chosen Name:` INFURIOUS CYBER COMMUNITY 
+`User chosen Name:` Fleecewood Mac 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 05 12:01:06 +0000 2022 
+`User signup date?:` Fri Apr 01 03:37:52 +0000 2022 
  
-`User Description?:` Infurious ICC solemnly made for the purpose for helping beginners and creating cyber awareness.
-We are starting with one of most important skill,OSINT. 
- 
-`Followers?: `3 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1511756160071659523/wxFU6_pE_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**OSINT** 7 , **INFURIOUSICC** 2 , **?** 2 , **ROLE** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO/3EUJZBFJ7ZWHY** 1 , **NEED** 1 , **HTTPS://TCO/AAOPHG0JEUWHAT** 1 , **(OPEN** 1 , **SOURCE** 1 , **INTELLIGENCE)** 1 , **COLLECTING** 1 , **INFORMATION** 1 , **ANY** 1 , **INDIVIDUAL** 1 , **COMPANY** 1 , **INSTITUTE…** 1 , **HTTPS://TCO/UEO2P7JMMFHI** 1 , **GUYS** 1 , **GOOD** 1 , 
- 
-## What this user tweeted
- 
-Role of OSINT in Cybersecurity
-
-#osint #InfuriousICC https://t.co/3eUjZbfj7z
- 
-# ImRudyDeeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1511897902666420225/bvbbHvJD_normal.jpg)
- 
-`User ScreenName:` ImRudyDee 
- 
-`User chosen Name:` Rudy D. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 07 02:44:07 +0000 2022 
- 
-`User Description?:` Husband. Father. Supply Chain Professional. Tech-Cyber enthusiast currently working in Healthcare Supply Chain. Born and Raised Arizonan. #Rallythevalley 
+`User Description?:` APT 69 | Mandiant’s Most Wanted | Alt Coin Rug Pull Enthusiast | DM me your licks 
  
 `Followers?: `4 
  
-`Following?:` 126 
- 
-`User URL?:` None 
- 
-`Location:` Chicago, IL 
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1511897902666420225/bvbbHvJD_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BASICS** 4 , **@THREE_CUBE:** 3 , **HACKERS** 3 , **METASPLOIT** 3 , **LINUX** 2 , **PART** 2 , **PYTHON** 2 , **🔵** 2 , **INTO** 2 , **WORK** 2 , **SOME** 2 , **RT** 1 , **7:** 1 , **BASH** 1 , **LINUX4HACKERS** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERWARRIOR** 1 , **HTTPS://TCO/UU…RT** 1 , **BECOME** 1 , 
- 
-## What this user tweeted
- 
-RT @three_cube: Linux Basics for Hackers, Part 7: BASH Basics #linux #linux4hackers #infosec #cybersecurity #cyberwarrior 
-
-https://t.co/uu…RT @three_cube: Become a Metasploit Expert (CME)!              
-
-Metasploit Basics for Hackers, Parts 1 - 27!  
-#metasploit #metasploit4hac…RT @three_cube: Python Basics for Hackers, Part 4: Finding the Location of Any IP Address #python #python4hackers #scripting4hackers #cyber…Uplate starting with review of the first few chapters of OCG again. I have to get this CCNA!! Been at it too long.… https://t.co/dL5ukewQcM
- 
-# Anon_DrJUSER INFO
-![image](http://pbs.twimg.com/profile_images/1511818499617927171/myAlvgGP_normal.jpg)
- 
-`User ScreenName:` Anon_DrJ 
- 
-`User chosen Name:` Anon_Dr.J 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 06 21:27:36 +0000 2022 
- 
-`User Description?:` Slava Ukraine!!🇺🇦🇺🇦 #OpRussia #OpRipIsis #OpChildSafty #OpPedoHunt 
- 
-`Followers?: `24 
- 
-`Following?:` 95 
+`Following?:` 46 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 103 
+`Number of tweets extracted`  : 19 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1511818499617927171/myAlvgGP_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1509737410682400772/3l-LPX8t_normal.jpg 
  
-`Number of tweets excluding replies:` 103 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ANONYMOUS** 14 , **RUSSIAN** 13 , **@DEFCON_DISCUSS** 13 , **@AN0NAKN0WLEDGE** 9 , **@ANONOPSSE:** 9 , **TRUTH** 9 , **PEACE** 8 , **RUSSIA** 7 , **BROTHER** 7 , **@PUCKSRETURN** 7 , **@IAMMRGREY2** 6 , **MARIUPOL** 6 , **PUTIN** 6 , **ALWAYS** 5 , **SOME** 5 , **WORLD** 5 , **FIGHT** 5 , **PEOPLE** 4 , **WAR** 4 , **FORGET** 4 , 
- 
-## What this user tweeted
- 
-RT @Hakin9: Spray365 - a password spraying tool that identifies valid credentials for Microsoft accounts (Office 365 / Azure AD) https://t.…
- 
-# Critic2023USER INFO
-![image](http://pbs.twimg.com/profile_images/1511682247228801027/fkilBPUq_normal.jpg)
- 
-`User ScreenName:` Critic2023 
- 
-`User chosen Name:` Critic 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 01 11:47:54 +0000 2022 
- 
-`User Description?:` 🇷🇺 
- 
-`Followers?: `54 
- 
-`Following?:` 426 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1511682247228801027/fkilBPUq_normal.jpg 
- 
-`Number of tweets excluding replies:` 996 
+`Number of tweets excluding replies:` 19 
  
 
  
@@ -755,38 +631,38 @@ RT @Hakin9: Spray365 - a password spraying tool that identifies valid credential
  
 ## User Top tweeted words 
  
-**RUSSIA** 18 , **US** 17 , **RUSSIAN** 17 , **UKRAINE** 14 , **@ASBMILITARI:** 11 , **WAR** 10 , **CHINA** 9 , **UN** 8 , **NATO** 8 , **SANCTIONS** 8 , **@OLALAKL2:** 7 , **@FIRSTSQUAWK** 7 , **@FIRSTSQUAWK:** 7 , **@ANTIATLANTICISM:** 7 , **@TWITTERSUPPORT** 7 , **ZELENSKY** 6 , **WORLD** 6 , **@THEINSIDERPAPER:** 6 , **ITS** 6 , **GO** 6 , 
+**@_BLUE_HORNET:** 3 , **INFOSEC** 2 , **LITERALLY** 2 , **@AN0N_ZEUS** 2 , **@_BLUE_HORNET** 2 , **INTO** 2 , **WHICH** 2 , **DOCUMENTS** 2 , **TRYING** 2 , **CRACK** 2 , **THERE’S** 2 , **ATW** 2 , **/** 2 , **RT** 1 , **@H3KTLC:** 1 , **90%** 1 , **WORKING** 1 , **FIGURING** 1 , **STUFF** 1 , **OWNRT** 1 , 
  
 ## What this user tweeted
  
-RT @ASBMilitari: Moscow: US withdraws from cybersecurity dialogue.
+RT @H3KTlC: 90% of working in infosec is literally figuring out stuff on your own
  
-# CydexSecurityUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# josefarukabdalaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1509009252312137728/LzcJVpUK_normal.jpg)
  
-`User ScreenName:` CydexSecurity 
+`User ScreenName:` josefarukabdala 
  
-`User chosen Name:` Cydex 
+`User chosen Name:` José 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 04 20:25:10 +0000 2022 
+`User signup date?:` Tue Mar 29 16:03:20 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `33 
  
-`Following?:` 10 
+`Following?:` 73 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Barranquilla, Colombia 
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1509009252312137728/LzcJVpUK_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -794,24 +670,141 @@ RT @ASBMilitari: Moscow: US withdraws from cybersecurity dialogue.
  
 ## User Top tweeted words 
  
-**HELP** 2 , **SMALL** 2 , **COMPANIES** 2 , **AWARE** 2 , **CYBERSECURITY** 2 , **RISKS** 2 , **MAY** 2 , **FACING** 2 , **USING** 2 , **PUBLIC** 2 , **INFO** 2 , **RT** 1 , **@CYDEXSECURITY:** 1 , **(NO** 1 , **SCANS…WE** 1 , **(NO…** 1 , **HTTPS://TCO/R8BM9DHXG0** 1 , 
+**QUE** 2 , **TRUST** 1 , **PROCESSRT** 1 , **@H3KTLC:** 1 , **90%** 1 , **WORKING** 1 , **INFOSEC** 1 , **LITERALLY** 1 , **FIGURING** 1 , **STUFF** 1 , **OWNSI** 1 , **YO** 1 , **FUERA** 1 , **BENZEMA** 1 , **VIVIRÍA** 1 , **COMO** 1 , **ELEL** 1 , **TEO** 1 , **FRANCÉS@COLESANHA** 1 , **HONOR** 1 , 
  
 ## What this user tweeted
  
-RT @CydexSecurity: We want to help small companies be aware of the cybersecurity risks they may be facing. Only using public info (no scans…
+RT @H3KTlC: 90% of working in infosec is literally figuring out stuff on your own
  
-# PierreLaubach15USER INFO
-![image](http://pbs.twimg.com/profile_images/1511600764812148737/6c42sC3H_normal.jpg)
+# techbaerayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1511470158816157702/eaa02Zo__normal.jpg)
  
-`User ScreenName:` PierreLaubach15 
+`User ScreenName:` techbaeray 
  
-`User chosen Name:` Pierre Laubach 
+`User chosen Name:` Ray 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 06 07:01:50 +0000 2022 
+`User signup date?:` Tue Apr 05 22:23:44 +0000 2022 
  
-`User Description?:` 即使輸掉了一切也不要輸掉微笑。 
+`User Description?:` Tech Newbie, Sec+ Certified 
+ 
+`Followers?: `11 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:` Atlanta, GA 
+ 
+`Number of tweets extracted`  : 37 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1511470158816157702/eaa02Zo__normal.jpg 
+ 
+`Number of tweets excluding replies:` 37 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TECH** 5 , **@PREMESLIFE:** 5 , **@MYTECHBF** 5 , **I’M** 4 , **HAVING** 3 , **THANK** 3 , **INTO** 3 , **NEW** 3 , **JOB** 3 , **AMAZING** 2 , **HAPPY** 2 , **FINALLY** 2 , **DATA** 2 , **REMOTE** 2 , **DEFINITELY** 2 , **FOLLOW** 2 , **THAT’S** 2 , **AFTER** 2 , **DON’T** 2 , **YEAR** 2 , 
+ 
+## What this user tweeted
+ 
+RT @H3KTlC: 90% of working in infosec is literally figuring out stuff on your own
+ 
+# Kendric71989317USER INFO
+![image](http://pbs.twimg.com/profile_images/1510939174236475396/jhbE6emN_normal.jpg)
+ 
+`User ScreenName:` Kendric71989317 
+ 
+`User chosen Name:` Kendrick 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 01 08:52:51 +0000 2022 
+ 
+`User Description?:` Self made 
+ 
+`Followers?: `0 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1510939174236475396/jhbE6emN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WHATDROID** 1 , **PRO** 1 , **V227** 1 , **FULL** 1 , **ACTIVATED** 1 , **WHATSAPP** 1 , **MARKETING** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/LS2KTUE2TJ** 1 , **INFOSEC…** 1 , **HTTPS://TCO/2SMXVJFUQY** 1 , 
+ 
+## What this user tweeted
+ 
+WhatDROID Pro v2.27 Full Activated - WhatsApp Marketing - Discount 100% OFF https://t.co/lS2KtUE2tj #infosec… https://t.co/2sMxVjFuQy
+ 
+# truthenj0yerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1511843517869477894/UEQrIOKB_normal.jpg)
+ 
+`User ScreenName:` truthenj0yer 
+ 
+`User chosen Name:` Truth Enjoyer™️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 06 23:08:53 +0000 2022 
+ 
+`User Description?:` Trying to make sense of a senseless situation. Слава Украïна 🇺🇦. Let’s build better democracy. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 91 
+ 
+`User URL?:` None 
+ 
+`Location:` 127.0.0.1 
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1511843517869477894/UEQrIOKB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INFOSEC** 3 , **RESEARCH** 2 , **=** 2 , **SITTING** 2 , **FRONT** 2 , **@JOHNJHACKING:** 2 , **@CODEINEFRIDGE:** 2 , **JUDGE** 2 , **JACKSON** 2 , **SUPREME** 2 , **COURT** 2 , **RT** 1 , **@0XAMIT:** 1 , **MALWARE** 1 , **INFRONT** 1 , **COMPUTER** 1 , **HATING** 1 , **SOMEONE** 1 , **ELSE** 1 , **VULNERABILITY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @H3KTlC: 90% of working in infosec is literally figuring out stuff on your own
+ 
+# xgwzyhwzshUSER INFO
+![image](http://pbs.twimg.com/profile_images/1512133483220672516/9HU4PcS7_normal.png)
+ 
+`User ScreenName:` xgwzyhwzsh 
+ 
+`User chosen Name:` Marcus Msambati 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 07 18:21:30 +0000 2022 
+ 
+`User Description?:` fyghjfdtujij 
  
 `Followers?: `0 
  
@@ -821,17 +814,31 @@ RT @CydexSecurity: We want to help small companies be aware of the cybersecurity
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1511600764812148737/6c42sC3H_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1512133483220672516/9HU4PcS7_normal.png 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 1 
  
 
  
 
  
 ## User Top tweeted words 
+ 
+**NINJATOK** 1 , **V1340** 1 , **FULL** 1 , **ACTIVATED** 1 , **UNLIMITED** 1 , **TIKTOK** 1 , **ACCOUNTS** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/A7HTLP6SP9** 1 , **INFOSEC…** 1 , **HTTPS://TCO/NM7ICER5FZ** 1 , 
+ 
+## What this user tweeted
+ 
+NinjaTok v1.3.4.0 Full Activated - Unlimited TikTok Accounts - Discount 100% OFF https://t.co/a7hTlp6sp9 #infosec… https://t.co/Nm7iCER5fz
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>ser Top tweeted words 
  
 **UNITED** 2 , **DATA** 2 , **@JENNIFE33654511** 1 , **CYBERSECURITY** 1 , **VERY** 1 , **IMPORTANT** 1 , **CANNOT** 1 , **TAKEN** 1 , **ADVANTAGE** 1 , **STATES@QING202121** 1 , **STATES** 1 , **REAL** 1 , **"MATRIX"** 1 , **MONITORING** 1 , **OTHER** 1 , **COUNTRIES'** 1 , **NETWORK** 1 , **DAY** 1 , **LONG美国网络霸权** 1 , **面对美国的网络霸权，我们必须要有应对措施，不能让美国有机可乘。USANETWORKATTACK** 1 , 
  
