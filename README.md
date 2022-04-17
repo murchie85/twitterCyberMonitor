@@ -31,9 +31,9 @@ Read more 👉… https://t.co/tP4dm300uv
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CyberSecDN: #Cybersecurity and what it means to the food safety professional https://t.co/Bgp70tkjjV #Sec_Cyber |
-| RT @portusnetwork: Get started and please keep the Private key and Mnemonic safe! 🧑🏻‍💻#CyberSecurity #CryptoNews #100DaysOfCode #a11y #Pyth… |
-| Are you already a #𝗘𝘁𝗵𝗶𝗰𝗮𝗹𝗛𝗮𝗰𝗸𝗲𝗿? Bring your skills to the next level and build your own safe laboratory for analyz… https://t.co/TrLu9xWAId |
+| RT @Shubham_pen: Identifying Open ports with @nmap #infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #cissp #redte… |
+| RT @hackinarticles: OSINT Cheat SheetCredit https://t.co/cZSbTYcM4e#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #info… |
+| RT @JobPreference: #Hiring?Sign up now https://t.co/o7lVlsCHXvFREE. NO MIDDLEMEN#innoavtion #VR #AR #DigitalMarketing #AI #ArtificialInt… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -41,8 +41,8 @@ Read more 👉… https://t.co/tP4dm300uv
 | #1 Most tweeted to  | **JobPreference** |
 | #2 Most tweeted to  | **hackinarticles** |
 | #3 Most tweeted to  | **0dayCTF** |
-| NewProfiles (less than 10 days) | 1.6%  |
-| Tweeters with < 10 followers  | 4.56%|
+| NewProfiles (less than 10 days) | 1.7%  |
+| Tweeters with < 10 followers  | 4.74%|
 | Tweeters with > 1000000 followers  | 0.06%  |
 
 
@@ -62,12 +62,12 @@ Read more 👉… https://t.co/tP4dm300uv
 ## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheCyphere: Hashing uses mathematical algorithms called a hash function that calculates a fixed-size resulting string (called a hash) f… |
+|RT @portusnetwork: Portus is built with simplicity in mind! 🧑🏻‍💻#coding #programming #AI #100DaysOfCode #a11y #API #Azure #blockchain #BigD… |
 
 ### MOST RETWEETED 
 
@@ -76,6 +76,215 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
 | Learn how hackers steal $RUNE tokens on #THORChain and how to protect your assets. 🔒 Read more 👉… https://t.co/tP4dm300uv |
 
 # Potential Fake Accounts
+ 
+# alfaraj263524USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` alfaraj263524 
+ 
+`User chosen Name:` Al Faraj 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 16 07:09:05 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AIRDROP** 7 , **NEW** 4 , **USDT** 3 , **AIRDROP:** 3 , **@LOTT__OFFICIAL:** 3 , **@COINEXCOM:** 2 , **EASTER** 2 , **TOKENS** 2 , **👉** 2 , **GLEAM** 2 , **CAMPAIGN** 2 , **15** 2 , **EVENT** 2 , **MOVEY** 2 , **REWARD:** 2 , **50** 2 , **LOTT** 2 , **BOT** 2 , **TOTAL** 2 , **2000** 2 , 
+ 
+## What this user tweeted
+ 
+RT @coinexcom: Learn how hackers steal $RUNE tokens on #THORChain and how to protect your assets. 🔒 
+
+Read more 👉 https://t.co/vWlXILsmbG…
+ 
+# Hello83219313USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Hello83219313 
+ 
+`User chosen Name:` Hello .. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 16 12:29:45 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 42 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**में** 4 , **@AAJTAK:** 3 , **INDIAAGAINSTHATE** 2 , **PEOPLE** 2 , **लोगों** 2 , **का** 2 , **है** 2 , **@SALMANNIZAMI_:** 2 , **जाओ** 2 , **के** 2 , **RT** 1 , **@GBENGABIYI:** 1 , **290GB** 1 , **WORTH** 1 , **FREE** 1 , **COURSE** 1 , **MATERIALS** 1 , **CYBERSECURITY** 1 , **DATA** 1 , **SCIENCE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @gbengabiyi: 290GB worth of FREE COURSE MATERIALS
+
+Cybersecurity 
+Data Science 
+Network 
+Programming 
+JavaScript 
+Web development 
+And m…
+ 
+# y3sty1USER INFO
+![image](http://pbs.twimg.com/profile_images/1512488628303376387/P657Cc_M_normal.png)
+ 
+`User ScreenName:` y3sty1 
+ 
+`User chosen Name:` Mustafa Ateş 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 08 17:52:44 +0000 2022 
+ 
+`User Description?:` benim adım 
+ 
+`Followers?: `0 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 45 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1512488628303376387/P657Cc_M_normal.png 
+ 
+`Number of tweets excluding replies:` 45 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FREE** 5 , **DOWNLOAD** 5 , **@GVIRUS911:** 4 , **SCHEMATICS** 4 , **@OCTOGAMEX_COM** 3 , **FULL** 3 , **@SKILLGUILDS:** 3 , **SKILLGUILDS** 3 , **BOMB** 3 , **@MILFGIRLUSA:** 3 , **MUSIC** 3 , **@REDXHUNTER34:** 2 , **@BINANCELABS** 2 , **@AURORAISNEAR** 2 , **@BNBCHAIN** 2 , **@NEAR_INSIDER** 2 , **@NEARBLOG_** 2 , **@THEBINANCENFT** 2 , **MEME** 2 , **ESTOY** 2 , 
+ 
+## What this user tweeted
+ 
+RT @tsm3301: @GunnerJr3301 @PvtLeonard @nunyabizfuk4r @NoBeardEcho6 Did someone just say... Socks? Weapons-grade socks son. Careful.. would…
+ 
+# 0xCryptoDeFi9USER INFO
+![image](http://pbs.twimg.com/profile_images/1515246380259979267/lLuF8vGN_normal.png)
+ 
+`User ScreenName:` 0xCryptoDeFi9 
+ 
+`User chosen Name:` Crypto DeFi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 16 08:31:03 +0000 2022 
+ 
+`User Description?:` I like Crypto | I like DeFi | Retweeting only good content 
+ 
+`Followers?: `4 
+ 
+`Following?:` 101 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 22 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1515246380259979267/lLuF8vGN_normal.png 
+ 
+`Number of tweets excluding replies:` 23 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THEDEFIEDGE:** 9 , **•** 8 , **@0XETHERDEGEN:** 5 , **😍** 3 , **HERE'S** 3 , **PEOPLE** 3 , **SMART** 2 , **CONTRACTS** 2 , **CHECK** 2 , **GUY** 2 , **FULL** 2 , **JOB** 2 , **SHORT** 2 , **WINDOW** 2 , **THERE'S** 2 , **CYCLES** 2 , **ADVICE** 2 , **ALPHA** 2 , **WEALTH** 2 , **@THEDEFIEDGE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @0xetherdegen: GM 😍
+Here's How to HACK Ethereum Smart Contracts and Get Away With It 🦍
+
+Check it out on YouTube👉
+https://t.co/W4ptPHvKUS…
+ 
+# Young_M199USER INFO
+![image](http://pbs.twimg.com/profile_images/1513427416982687744/iR6nxzHV_normal.jpg)
+ 
+`User ScreenName:` Young_M199 
+ 
+`User chosen Name:` Chilaka Joshua 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 11 08:00:02 +0000 2022 
+ 
+`User Description?:` Anything that's brings money..is my favorite and Money must be made 
+ 
+`Followers?: `0 
+ 
+`Following?:` 28 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 49 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1513427416982687744/iR6nxzHV_normal.jpg 
+ 
+`Number of tweets excluding replies:` 49 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AIRDROP** 8 , **PROJECT** 5 , **FOLLOW** 5 , **@BEATN_APP** 5 , **RT** 4 , **@NFTREVOMON** 4 , **$REVO** 4 , **2022** 4 , **BEATN** 4 , **NICE** 3 , **@NFTREVOMON:** 3 , **BSC** 3 , **GOOD** 3 , **HOURS** 3 , **+** 3 , **EASTER** 3 , **🏆** 3 , **MOK** 3 , **DATE:** 3 , **MOVETOEARN** 3 , 
+ 
+## What this user tweeted
+ 
+RT @CrossStocks: A #blockchain expert explains how North #Korea's $625 million #crypto hack presents a new national security threat — and w…
  
 # PieSocketBotUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1515623248242700290/OjoUNvWH_normal.png)
@@ -100,11 +309,11 @@ Learn how to build a bot like me: https://t.co/g2nXXdz5U2
  
 `Location:`  
  
-`Number of tweets extracted`  : 92 
+`Number of tweets extracted`  : 107 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1515623248242700290/OjoUNvWH_normal.png 
  
-`Number of tweets excluding replies:` 92 
+`Number of tweets excluding replies:` 107 
  
 
  
@@ -112,7 +321,7 @@ Learn how to build a bot like me: https://t.co/g2nXXdz5U2
  
 ## User Top tweeted words 
  
-**PROGRAMMING** 22 , **PYTHON** 18 , **AI** 17 , **JAVASCRIPT** 15 , **MACHINELEARNING** 13 , **JAVA** 10 , **ANALYTICS** 9 , **@1129_ALI:** 9 , **BUDGET** 9 , **NAME:** 9 , **COUNTRY:** 9 , **:** 9 , **CODING** 9 , **DATASCIENCE** 8 , **CLIENT** 8 , **LEARN** 7 , **DATA** 7 , **FREE** 6 , **IOT** 6 , **100DAYSOFCODE** 6 , 
+**PROGRAMMING** 24 , **PYTHON** 21 , **AI** 18 , **JAVASCRIPT** 16 , **MACHINELEARNING** 14 , **CODING** 10 , **100DAYSOFCODE** 10 , **@1129_ALI:** 10 , **BUDGET** 10 , **NAME:** 10 , **COUNTRY:** 10 , **:** 10 , **ANALYTICS** 10 , **JAVA** 10 , **CLIENT** 9 , **DATASCIENCE** 9 , **DATA** 8 , **LEARN** 8 , **WEBSITE** 6 , **BIGDATA** 6 , 
  
 ## What this user tweeted
  
@@ -458,7 +667,7 @@ RT @USCERT_gov: ☑️ Are you subscribed to @CISAgov mailing lists? Go to https
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `2 
  
 `Following?:` 14 
  
@@ -542,7 +751,7 @@ RT @CatherineAdenle: Infographic: Career in Tech? How to.
  
 `User Description?:` The real metamask giveaway account. 
  
-`Followers?: `59 
+`Followers?: `60 
  
 `Following?:` 2 
  
@@ -663,7 +872,7 @@ I took the Cloud+ beta exam last weekend. Thoughts:
  
 `User Description?:` Founder & CEO @metadesignerz |Innovation Advisor @innovatorsgate 
  
-`Followers?: `7 
+`Followers?: `8 
  
 `Following?:` 97 
  
@@ -717,7 +926,7 @@ RT @MartaWaydel: Don’t miss BITS by InnovatorsGate next week
  
 `Profile image:` http://pbs.twimg.com/profile_images/1514147086710812673/_BmP_tEJ_normal.jpg 
  
-`Number of tweets excluding replies:` 290 
+`Number of tweets excluding replies:` 293 
  
 
  
@@ -725,7 +934,7 @@ RT @MartaWaydel: Don’t miss BITS by InnovatorsGate next week
  
 ## User Top tweeted words 
  
-**NEW** 14 , **TWITTER** 12 , **US** 10 , **AMERICAN** 10 , **@MSNBC:** 9 , **@CNBC:** 9 , **@BLUEJAYS:** 9 , **PEOPLE** 8 , **ITS** 8 , **@CNN** 8 , **PRICES** 7 , **GOING** 7 , **TIME** 6 , **@SENWHITEHOUSE:** 6 , **YEAR** 6 , **SOME** 6 , **TAX** 6 , **@YISHAN:** 6 , **ELON** 6 , **REALLY** 6 , 
+**NEW** 13 , **TWITTER** 12 , **US** 10 , **@CNBC:** 9 , **@MSNBC:** 9 , **@BLUEJAYS:** 9 , **AMERICAN** 9 , **PEOPLE** 8 , **ITS** 8 , **PRICES** 8 , **@CNN** 8 , **GOING** 7 , **TIME** 6 , **@SENWHITEHOUSE:** 6 , **YEAR** 6 , **TAX** 6 , **@YISHAN:** 6 , **ELON** 6 , **REALLY** 6 , **GOOD** 5 , 
  
 ## What this user tweeted
  
@@ -965,7 +1174,7 @@ Read more 👉 https://t.co/vWlXILsmbG…
  
 `Profile image:` http://pbs.twimg.com/profile_images/1514463307729539073/Rw06Q08k_normal.jpg 
  
-`Number of tweets excluding replies:` 237 
+`Number of tweets excluding replies:` 246 
  
 
  
@@ -973,7 +1182,7 @@ Read more 👉 https://t.co/vWlXILsmbG…
  
 ## User Top tweeted words 
  
-**●** 201 , **▶️** 200 , **◀️** 111 , **DOWNLOAD** 105 , **TITLE** 90 , **FREE** 60 , **MOBI** 41 , **KINDLE** 39 , **EPUB** 35 , **[READ]** 28 , **PDF** 26 , **EBOOK** 26 , **[DOWNLOAD]** 24 , **BOOK** 23 , **-&GT;** 21 , **&GT;&GT;** 21 , **=&GT;** 21 , **☛** 19 , **RATING** 18 , **➤** 15 , 
+**●** 201 , **▶️** 200 , **◀️** 108 , **DOWNLOAD** 105 , **TITLE** 87 , **FREE** 64 , **MOBI** 42 , **KINDLE** 39 , **EPUB** 35 , **[READ]** 27 , **PDF** 27 , **BOOK** 25 , **[DOWNLOAD]** 24 , **EBOOK** 24 , **=&GT;** 21 , **-&GT;** 21 , **&GT;&GT;** 20 , **☛** 20 , **RATING** 18 , **UNKNOWN** 14 , 
  
 ## What this user tweeted
  
