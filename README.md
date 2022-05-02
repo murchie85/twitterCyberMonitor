@@ -557,3 +557,165 @@ RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project'
 RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
  
 # ClmentDahUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` ClmentDah 
+ 
+`User chosen Name:` Clément Dah 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 02 17:20:34 +0000 2022 
+ 
+`User Description?:` Crypto 
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DEXARAN** 3 , **COOLRT** 2 , **GOODRT** 2 , **LE** 2 , **DE** 2 , **@SOY_FINANCE:** 2 , **@CALLISTOSUPPORT** 1 , **@CALLISTOSUPPORT:** 1 , **CALLISTO** 1 , **NETWORK** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , **SOME** 1 , **PROJECT'S** 1 , **UNIQUE** 1 , **ASPECTS** 1 , **EXPERIENCE** 1 , **CONTRIBUTING** 1 , **$ETC…@SOY_FINANCE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+ 
+# ClmentDah2USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` ClmentDah2 
+ 
+`User chosen Name:` Clément Dah 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 02 17:31:12 +0000 2022 
+ 
+`User Description?:` Crypto 
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DEXARAN** 2 , **@SOY_FINANCE:** 2 , **@CALLISTOSUPPORT** 1 , **COOLRT** 1 , **@CALLISTOSUPPORT:** 1 , **CALLISTO** 1 , **NETWORK** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , **SOME** 1 , **PROJECT'S** 1 , **UNIQUE** 1 , **ASPECTS** 1 , **EXPERIENCE** 1 , **CONTRIBUTING** 1 , **$ETC…@SOY_FINANCE** 1 , **GOODRT** 1 , **RELEASED** 1 , **NEW** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+ 
+# lee_le27938021USER INFO
+![image](http://pbs.twimg.com/profile_images/1521145775211827201/z67Am4i4_normal.jpg)
+ 
+`User ScreenName:` lee_le27938021 
+ 
+`User chosen Name:` David Lee 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 02 14:38:41 +0000 2022 
+ 
+`User Description?:` Ok 
+ 
+`Followers?: `15 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1521145775211827201/z67Am4i4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SOY_FINANCE** 10 , **@DEXARAN** 6 , **@UNSTOPPABLEWEB** 5 , **@CALLISTOSUPPORT** 4 , **PROJECT** 4 , **@BPOLHWECV5WN8EX:** 3 , **GREAT** 3 , **!!!** 3 , **SUPER!RT** 3 , **LES** 3 , **NICERT** 2 , **@GABRIELKOUSSIH1:** 2 , **GOODRT** 2 , **@SOY_FINANCE:** 2 , **QUE** 2 , **ET** 2 , **@BIZWAREINT** 2 , **RADIX** 2 , **@HICHAM_CHAM:** 2 , **RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+ 
+# Sophie18643943USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Sophie18643943 
+ 
+`User chosen Name:` Sophie 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 28 21:26:40 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 27 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 27 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CALLISTOSUPPORT:** 11 , **CALLISTO** 9 , **@SOY_FINANCE:** 7 , **@NICOLAMENALE:** 5 , **NETWORK** 5 , **COMMUNITY** 4 , **SOY** 4 , **$CLO** 3 , **NEW** 3 , **@DEXARAN** 3 , **2022** 3 , **000** 3 , **BLOCKCHAIN** 3 , **AMA** 3 , **CALLISTONETWORK** 3 , **AIRDROP** 3 , **FUND** 3 , **@COINMARKETCAP** 2 , **MANY** 2 , **NFTS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
