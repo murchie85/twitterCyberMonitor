@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **fr0gger_**  
+The most popular user is: **princess_antifa**  
  
 
-## Visualizing #cybersecurity concepts can be a great way to learn more about specific tools, methodologies, and techn… https://t.co/e8Ml2ofNMs 
+## men will be like ‘at least i don’t sell my body’ then join the military 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **fr0gger_**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Group-IB CEO remains in prison – the Russian-led company has been ‘blacklisted’ in Italy - https://t.co/w0S0jPMtd2… https://t.co/NDF8ie58Ug |
-| RT @CyberIQs_: Loaded gun found in Brooklyn Park school, district to start using #infosec #infosecurity #cybersecurity #threatintel #threat… |
-| CISA adds new Microsoft, Linux, and Jenkins flaws to its Known Exploited Vulnerabilities Catalog -… https://t.co/NDAPflQ2KS |
+| @AlyssaM_InfoSec Definitely a new way to do crop circles |
+| RT @ciso360: #Microsoft is adding a free built-in #VPN to its #Edge #browser Edge Secure Network will roll out as a part of a security up… |
+| RT @TheHackersNews: In a new campaign, Russian state-sponsored Cozy Bear (APT29) hackers have been spotted targeting diplomatic and governm… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **CyberIQs_** |
-| #2 Most tweeted to  | **JinibaBD** |
-| #3 Most tweeted to  | **threatintel** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 0.55%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **Hakin9** |
+| NewProfiles (less than 10 days) | 1.06%  |
+| Tweeters with < 10 followers  | 3.94%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -52,55 +52,56 @@ The most popular user is: **fr0gger_**
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
 | second  | **INFOSECURITY**  |
-| third  | **THREATINTEL** |
-| fourth  | **@CYBERIQS_:**  |
-| fifth  | **THREATINTEL…**  |
+| third  | **JAVASCRIPT** |
+| fourth  | **PYTHON**  |
+| fifth  | **IOT**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#Romanian Government, Border Police Websites Hit by #DDoS Attack #DarkWeb #CyberSec #infosec #cybercrime #hackers… https://t.co/7yEDrYVkIs |
+|RT @johnjhacking: Proud to leave my honest feedback about EC-Council's Certified Ethical Hacker course! #infosec https://t.co/qv1CIRX503 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fr0gger_**  |
+| The most retweeted user is: **princess_antifa**  |
 | ------------- |
-| Visualizing #cybersecurity concepts can be a great way to learn more about specific tools, methodologies, and techn… https://t.co/e8Ml2ofNMs |
+| men will be like ‘at least i don’t sell my body’ then join the military |
 
 # Potential Fake Accounts
  
-# bujarselimi21USER INFO
-![image](http://pbs.twimg.com/profile_images/1520961611103674374/a4ZZDCli_normal.jpg)
+# _Vault_SecurityUSER INFO
+![image](http://pbs.twimg.com/profile_images/1519355117258088449/lZugZdfD_normal.jpg)
  
-`User ScreenName:` bujarselimi21 
+`User ScreenName:` _Vault_Security 
  
-`User chosen Name:` Bujar Selimi 
+`User chosen Name:` Vault Security 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon May 02 01:06:56 +0000 2022 
+`User signup date?:` Wed Apr 27 15:47:31 +0000 2022 
  
-`User Description?:` “Your brain works just like a computer so make sure you're the only one programming it.”  "If you’re not paying for the Product, then you’re the Product" 
+`User Description?:` Make work in space safe for you.
+Do you want to focus on what's most important to your business, and achieve a high level of digital security at the same time? 
  
-`Followers?: `1 
+`Followers?: `9 
  
-`Following?:` 76 
+`Following?:` 35 
  
 `User URL?:` None 
  
-`Location:` London, England 
+`Location:` Poland | USA 
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 93 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1520961611103674374/a4ZZDCli_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1519355117258088449/lZugZdfD_normal.jpg 
  
-`Number of tweets excluding replies:` 8 
+`Number of tweets excluding replies:` 93 
  
 
  
@@ -108,12 +109,155 @@ VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECT
  
 ## User Top tweeted words 
  
-**THREAT** 2 , **CYBERSECURITY** 2 , **AI** 2 , **STAY** 2 , **SAFE** 2 , **RT** 1 , **@INFOSEC_TRAIN:** 1 , **HUNTING** 1 , **INTELLIGENCE** 1 , **INFOSECTRAIN** 1 , **HTTPS://TCO/CVQ6021KCR** 1 , **THREATHUNTING** 1 , **THREATINTEL…RT** 1 , **@JCHILLIPLANET:** 1 , **SECURITY** 1 , **NEWS** 1 , **WHAT'S** 1 , **OLD** 1 , **NEW** 1 , **AGAIN** 1 , 
+**CYBERSECURITY** 17 , **SDI** 12 , **IDENTITY** 11 , **SECURE** 10 , **DIGITAL** 10 , **_VAULT_SECURITY** 7 , **USER** 7 , **SECURITY** 7 , **TECHNOLOGY** 7 , **DATA** 6 , **PEOPLE** 6 , **PERSONAL** 5 , **ATTACKS** 5 , **RANSOMWARE** 4 , **MILLION** 4 , **NEED** 4 , **DON’T** 4 , **ORGANIZATIONS** 4 , **2022** 4 , **INNOVATIVE** 4 , 
  
 ## What this user tweeted
  
-RT @javier_carriazo: 5 Reasons Why Hackers Target Smartphone Users &amp; How To Protect Yourself 
-#DataBreaches #DarkWeb #CyberSec #infosec #cy…
+@mynurseai, a healthcare startup that provides chronic care management and remote patient monitoring services, said… https://t.co/3nG96tJ3h6@cathaypacific  Airways in October revealed a hacker had accessed the personal information of 9.4 million customers… https://t.co/0o4NCIre8IThe article said that AI-powered #Cybersecurity Protects Businesses from the Inside Out... but  the real secure is… https://t.co/lANRoEaWjC@mozilla finds mental health apps fail 'spectacularly' at user security, data policies. 
+#DataSecurity #infosec… https://t.co/6r6AFj0YRkSo, why is it important to have sustainable #cybersecurity? The benefits of #sustainablesecurity and IT are akin to… https://t.co/W9FFlPv2ODAccording to data shared by @Google on Wednesday, its automated systems helped block 1.2 million “policy violating… https://t.co/rdz9jJakyJCommon #Cybersecurity Cybersecurity Misconceptions for Small and Medium-Sized Organizations
+👇🏻
+This list is based o… https://t.co/vKbmPsEc9o❗UPDATED❗#Cybersecurity M&amp;A Roundup: 42 Deals Announced in April 2022
+#infosec #cybersecuritymerger https://t.co/lGIXfiBGfiLawmakers Call For Better @Meta User Data Oversight.
+❗Buy our innovative solution: Secure Digital Identity. DM❗… https://t.co/b8HBLfFTmG#IoT botnets are not new. Nor are DDoS attacks. But the two are on a trajectory that is raising the stakes in #DDoS… https://t.co/nQmHixvjAVNearly a quarter of the respondents (23%) named securing the remote workforce as their top priority for 2022. That… https://t.co/ig2IO3DWfRA  🇷🇺 state-sponsored threat actor has been observed targeting diplomatic and government entities as part of a seri… https://t.co/NfVHbAwRNR4 Ways to Spring Clean Your #Cybersecurity
+
+❗Take action to avoid phishing attacks
+❗Strengthen and secure your pass… https://t.co/OrdxXbWyOVThirty-seven cybersecurity-related merger and acquisition (M&amp;A) deals were announced in April 2022.
+#CyberSecurity… https://t.co/S3pgNPRx1K
+ 
+# _FoX_87_USER INFO
+![image](http://pbs.twimg.com/profile_images/1520765032686141445/yrDuGh7D_normal.jpg)
+ 
+`User ScreenName:` _FoX_87_ 
+ 
+`User chosen Name:` 🔸Alla Pinchuk 🔸 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 01 13:37:33 +0000 2022 
+ 
+`User Description?:` Hi, guys 👋 
+Cyber security🌐 Penetration testing⚠️ ▫️OSINT ▫️Ethical hacking ☣️ 
+ 
+`Followers?: `7 
+ 
+`Following?:` 58 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 46 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1520765032686141445/yrDuGh7D_normal.jpg 
+ 
+`Number of tweets excluding replies:` 46 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 21 , **INFOSEC** 19 , **PENTESTING** 18 , **@_CYBERKHALID:** 14 , **BUGBOUNTY** 7 , **ETHICALHACKING** 7 , **BUGBOUNTYTIPS** 7 , **OSCP** 6 , **SECURITY** 6 , **HACKING** 5 , **TOOLS** 5 , **CYBERSECURITYTIPS** 5 , **INFOSECURITY** 5 , **TOOL** 4 , **CHEAT** 4 , **SHEET** 4 , **INJECTION** 4 , **SQL** 4 , **BYPASS** 4 , **WORDPRESS** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Hakin9: Fsociety Hacking Tools Pack - A Penetration Testing Framework https://t.co/EtbrBYkD3Y 
+
+#infosec #cybersecurity #redteam #pente…RT @Shubham_pen: Bug Bounty Cheatsheet
+
+Credit @trbughunters
+#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #ciss…RT @_cyberkhalid: Owasp Top 10 2021
+
+Nice update...xss gets included in injection part.
+
+#cybersecurity #Ethicalhacking #cybersecuritytips…RT @_cyberkhalid: SQL injection parameters
+#cybersecurity #CyberSecurityAwareness #infosec #infosecurity #Pentesting https://t.co/9LLoLhBn3uRT @_cyberkhalid: Json-based csrf payloads
+
+#bugbounty #bugbountytips #cybersecurity #ethicalhacking #infosec #infosecurity #websecurity ht…RT @_cyberkhalid: Admin Bypass
+
+#cybersecurity #infosec #infosecurity #bugbounty #bugbountytips https://t.co/lt03LW191NRT @_cyberkhalid: Blind XSS is kind of vulnerability that most hunters miss, This is my findings from hackerone public program inwhich I wa…RT @_cyberkhalid: Nginx reverse proxy 403 bypass
+
+#cybersecurity #Pentesting #bugbountytips #bugbounty #infosec #infosecurity #Ethicalhacki…
+ 
+# Bartek94983493USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Bartek94983493 
+ 
+`User chosen Name:` Bartek 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 29 14:23:44 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 68 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 68 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@_VAULT_SECURITY:** 66 , **CYBERSECURITY** 20 , **SDI** 11 , **_VAULT_SECURITY** 9 , **SECURE** 8 , **DIGITAL** 8 , **IDENTITY** 8 , **DATA** 7 , **SECURITY** 6 , **ATTACKS** 5 , **USER** 5 , **SWITCH** 5 , **PERSONAL** 4 , **ORGANIZATIONS** 4 , **INNOVATIVE** 4 , **PEOPLE** 4 , **CYBERATTACKS** 4 , **REAL** 3 , **DDOS** 3 , **APRIL** 3 , 
+ 
+## What this user tweeted
+ 
+RT @_Vault_Security: The article said that AI-powered #Cybersecurity Protects Businesses from the Inside Out... but  the real secure is #SD…RT @_Vault_Security: Switch to #SDI from #Vault_Security and you will never have to be afraid of too weak cybersecurity program. 
+#infosec…
+ 
+# Billy76266311USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Billy76266311 
+ 
+`User chosen Name:` Billy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 29 18:38:18 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 40 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 40 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@OTHERSIDEZMETA** 26 , **THANKS** 12 , **DROP** 7 , **LEGIT** 6 , **AIRDROP** 6 , **GODNESS** 4 , **THANKS!** 4 , **THANK** 4 , **WHITELIST** 4 , **SPOT!** 4 , **!** 3 , **BEST** 3 , **GREAT!** 3 , **31K$** 3 , **BAYC** 3 , **FANTASTIC!** 3 , **RECEIVED** 2 , **5730$** 2 , **WORTH!** 2 , **DROP!** 2 , 
+ 
+## What this user tweeted
+ 
+@ffxo1 @OthersidezMeta Received airdrop, 5730$ worth! @zethriaoscar @sergioaville @infosec_whale @Cardan0Carl… https://t.co/cflnzUzO7Q
  
 # CISOworld_inUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1520862343311523840/By87cwNA_normal.jpg)
@@ -152,110 +296,43 @@ RT @javier_carriazo: 5 Reasons Why Hackers Target Smartphone Users &amp; How To 
  
 ## What this user tweeted
  
-RT @CybelAngel: Need to see your shadow IT?  Ask about our #AssetDiscovery and Monitoring service: https://t.co/EbNggb2hiV.  Use CybelAngel…
+RT @TechResultsLtd: [VentureBeat] Cybersecurity and the Pareto Principle: The future of zero-day preparedness #cybersecurity #paretoprincip…RT @InfoSecSherpa: Read InfoSecSherpa's #InfoSec and #DataPrivacy News Roundup for Monday, May 2, 2022
+
+Includes the @NewshubNZ article, "C…RT @Strata_Sec: By joining up security #data, Strata Insight gives time and control back to #cybersecurity professionals
+
+This short video…RT @hackinarticles: Active Directory Bootcamp 
+
+4  Days of Pro-active Training using Mitre Tactic
+
+Learn how to employ an offensive strateg…RT @3ackd0or: End-to-End Encryption Explained
+#Security #0day #BugBounty #vulnerabilities #CyberSecurity #infosec #informationsecurity #inf…RT @corixpartners: A Look Back at the #log4j Incident
+
+Check It Out &gt;&gt; The latest episode of our Cyber #Security Transformation #Podcast wi…RT @TheHackersNews: A pair of security issues have been reported in the #Microsoft Azure database for PostgreSQL Flexible Server that could…
  
-# refine_and_dineUSER INFO
-![image](http://pbs.twimg.com/profile_images/1520426702899347456/1oROj3-3_normal.jpg)
+# Hersch_USER INFO
+![image](http://pbs.twimg.com/profile_images/1521223740817817601/yJ5jiEjv_normal.jpg)
  
-`User ScreenName:` refine_and_dine 
+`User ScreenName:` Hersch_ 
  
-`User chosen Name:` trojan_Foxtrot 
+`User chosen Name:` Herschel Bowling 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 30 05:01:02 +0000 2022 
+`User signup date?:` Mon Apr 25 20:09:42 +0000 2022 
  
-`User Description?:` Smartest person in the room. Shit hacking skills. Wearer of many hats. MI turned ISSO turned CTI Lead. Always out front (behind a keyboard). 
+`User Description?:` Recent DFIR & Cyber grad, he/him 
  
-`Followers?: `5 
+`Followers?: `18 
  
-`Following?:` 105 
+`Following?:` 45 
  
-`User URL?:` https://t.co/WvfRIWIXdf 
+`User URL?:` https://t.co/lQkuhgojpQ 
  
-`Location:` Yugopotamia 
- 
-`Number of tweets extracted`  : 15 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1520426702899347456/1oROj3-3_normal.jpg 
- 
-`Number of tweets excluding replies:` 15 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CTI** 5 , **PEOPLE** 2 , **MOST** 2 , **INTO** 2 , **LIKE?** 2 , **TWITTER** 2 , **NEW** 2 , **@T14G0P** 1 , **@TALOSSECURITY** 1 , **WORRIES!** 1 , **THOUGHT** 1 , **I’D** 1 , **PULL** 1 , **STRING** 1 , **🧠@ALYSSAM_INFOSEC** 1 , **WELL** 1 , **I’LL** 1 , **DAMNEDRT** 1 , **@HACKERFANTASTIC:** 1 , **TERM** 1 , 
- 
-## What this user tweeted
- 
-Are Anomali University courses worth the time or just jump right into ThreatStream and figure it out? #cti #threatintel
- 
-# CCreecherUSER INFO
-![image](http://pbs.twimg.com/profile_images/1520496132031451139/xktUa7p9_normal.jpg)
- 
-`User ScreenName:` CCreecher 
- 
-`User chosen Name:` ✿ aqua 𓆩♡𓆪 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 30 20:08:58 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 9 
- 
-`User URL?:` None 
- 
-`Location:` Beach𓆩♡𓆪 
- 
-`Number of tweets extracted`  : 19 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1520496132031451139/xktUa7p9_normal.jpg 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**♡** 3 , **HOOKED** 3 , **IM** 2 , **OH** 2 , **COME** 2 , **RIHANNA** 2 , **TEA** 2 , **PEOPLE** 2 , **RT** 1 , **@STUFFIEPOSTER:** 1 , **HTTPS://TCO/LORHWVUHHFRT** 1 , **@PIINKIFAIRY:** 1 , **CAMELLIA** 1 , **SINENSIS** 1 , **FLOWER** 1 , **HTTPS://TCO/GONIZXHAARTEA:** 1 , **OFC** 1 , **U** 1 , **TOM** 1 , **ZENDAYA** 1 , 
- 
-## What this user tweeted
- 
-RT @JinibaBD: ⚠️🚨⚠️ #Russian #Military Hackers—$10 Million Reward Offered By U.S. Government #DarkWeb #CyberSec #infosec #cybercrime #hacke…
- 
-# techrachelUSER INFO
-![image](http://pbs.twimg.com/profile_images/1519246395009605633/JZ3ySskJ_normal.jpg)
- 
-`User ScreenName:` techrachel 
- 
-`User chosen Name:` Rachel Lindsay 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 27 09:25:01 +0000 2022 
- 
-`User Description?:` Computer programmer. Loves #quantumencryption, #technology, and dogs 
- 
-`Followers?: `0 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:`  
+`Location:` Madison, WI 
  
 `Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1519246395009605633/JZ3ySskJ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1521223740817817601/yJ5jiEjv_normal.jpg 
  
 `Number of tweets excluding replies:` 2 
  
@@ -265,50 +342,77 @@ RT @JinibaBD: ⚠️🚨⚠️ #Russian #Military Hackers—$10 Million Reward O
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 2 , **CYBER** 2 , **VS** 2 , **RT** 1 , **@INTEGRALDEFENCE:** 1 , **US** 1 , **PUTS** 1 , **$12** 1 , **MILLION** 1 , **TOWARDS** 1 , **FUNDING** 1 , **RESEARCH** 1 , **HTTPS://TCO/ZLEN7XDKUJ** 1 , **CYBERNEWS** 1 , **CYBERSECURIT…RT** 1 , **@CYBERIQS_:** 1 , **EVENTS** 1 , **INCIDENT** 1 , **ATTACK** 1 , **INFOSEC** 1 , 
+**@DNSPRINCESS** 1 , **@REDFERNSECURITY** 1 , **@CILLIC** 1 , **@1O57** 1 , **@GOLGOTHUS** 1 , **@ELLEARMAGEDDON** 1 , **@INFOSEC_TAYLOR** 1 , **@ALISSAKNIGHT** 1 , **@PMELSON…** 1 , **HTTPS://TCO/03KREGD3RIAFTER** 1 , **YEARS** 1 , **AVOIDING** 1 , **MADE** 1 , **TWITTER** 1 , **ENGAGE** 1 , **DFIR** 1 , **CYBERSECURITY** 1 , **COMMUNITY!** 1 , **THANK** 1 , **YOU…** 1 , 
  
 ## What this user tweeted
  
-RT @CyberIQs_: Cyber Events vs Incident vs Attack #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #hacking #cybernew…
+@dnsprincess @redfernsecurity @cillic @1o57 @Golgothus @ElleArmageddon @Infosec_Taylor @alissaknight @pmelson… https://t.co/03kreGD3RI
  
-
-<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
-### CONCLUSION & EXTERNAL ANALYSIS
-
-*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
-Authors analytical summary on request.
-**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       **@BPOLHWECV5WN8EX:** 3 , **GREAT** 3 , **!!!** 3 , **SUPER!RT** 3 , **NETWORK** 3 , **@DEXARAN** 3 , **@UNSTOPPABLEWEB** 3 , **000** 3 , **@ELIEMAHUTIN:** 3 , **LISTING** 3 , **$SOY** 3 , **@COINMARKETCAP** 3 , **GOODRT** 2 , 
+# Martina69297634USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-## What this user tweeted
+`User ScreenName:` Martina69297634 
  
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
- 
-# DavidCyruxUSER INFO
-![image](http://pbs.twimg.com/profile_images/1520503569505558529/851hnVYi_normal.jpg)
- 
-`User ScreenName:` DavidCyrux 
- 
-`User chosen Name:` David Cyrux 
+`User chosen Name:` Martina 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 30 20:39:56 +0000 2022 
+`User signup date?:` Sat Apr 30 07:28:07 +0000 2022 
  
-`User Description?:` Magnifique 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 40 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 40 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@OTHERSIDEZMETA** 31 , **THANKS** 10 , **BEST** 7 , **DROP!** 7 , **AIRDROP** 6 , **GOOD** 4 , **MOVE** 4 , **HUGE** 4 , **LEGIT** 4 , **PROJECT** 3 , **EVER!** 3 , **@OTHERSIDEZMETA!** 3 , **BIG** 2 , **INSANE** 2 , **DEV!** 2 , **DEV** 2 , **RECEIVED** 2 , **5730$** 2 , **WORTH!** 2 , **!** 2 , 
+ 
+## What this user tweeted
+ 
+@h_uvss Thanks for legit drop! @Andrew08704091 @georgecon84 @sammybr89 @Hush_Homes_Ltd @thomasrwells @rohitgeee… https://t.co/HrUTBtRawT
+ 
+# CardinalInfoSecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1519377996116750336/jxMKdjsc_normal.jpg)
+ 
+`User ScreenName:` CardinalInfoSec 
+ 
+`User chosen Name:` Stanford R&DE ISO 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 27 17:43:00 +0000 2022 
+ 
+`User Description?:` General Interaction Account 
  
 `Followers?: `2 
  
-`Following?:` 100 
+`Following?:` 53 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Hiding in trees. 
  
-`Number of tweets extracted`  : 34 
+`Number of tweets extracted`  : 35 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1520503569505558529/851hnVYi_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1519377996116750336/jxMKdjsc_normal.jpg 
  
-`Number of tweets excluding replies:` 34 
+`Number of tweets excluding replies:` 35 
  
 
  
@@ -316,38 +420,40 @@ RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project'
  
 ## User Top tweeted words 
  
-**@SOY_FINANCE** 10 , **@SOY_FINANCE:** 6 , **@CALLISTOSUPPORT** 4 , **🏆** 4 , **CALLISTO** 3 , **@DEXARAN** 3 , **PROJECT** 3 , **SOY** 3 , **000** 3 , **NICERT** 3 , **LISTING** 3 , **$SOY** 3 , **@COINMARKETCAP** 3 , **AIRDROP** 3 , **@COINBUREAU** 3 , **NETWORK** 2 , **@BPOLHWECV5WN8EX:** 2 , **GREAT** 2 , **!!!** 2 , **SUPER!RT** 2 , 
+**@SPACEX:** 3 , **NEVER** 3 , **GOING** 2 , **@MALWAREJAKE:** 2 , **@JAMESWT_MHT** 2 , **PUT** 2 , **@BLEEPINCOMPUTER:** 2 , **@BILLTOULAS** 2 , **CYBERSECURITY** 2 , **FALCON** 2 , **DAY** 2 , **@SWIFTONSECURITY:** 2 , **TEXTED** 2 , **WINDOWS** 2 , **RT** 1 , **@THEQUARTERING:** 1 , **ELON** 1 , **MUSK** 1 , **FOUND** 1 , **DEAD** 1 , 
  
 ## What this user tweeted
  
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+@AlyssaM_InfoSec Waiting for the line of merch to go with this branding!
  
-# GwladysEmeraudeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1521044226708054017/skrlAABa_normal.jpg)
+# jameomgyayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1520908215810084864/je785AiD_normal.jpg)
  
-`User ScreenName:` GwladysEmeraude 
+`User ScreenName:` jameomgyay 
  
-`User chosen Name:` Gwladys Émeraude 
+`User chosen Name:` james 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon May 02 08:28:57 +0000 2022 
+`User signup date?:` Sun May 01 23:23:42 +0000 2022 
  
-`User Description?:` Simple 
+`User Description?:` i am jame
+
+https://t.co/DjWfOliK69 
  
-`Followers?: `5 
+`Followers?: `49 
  
-`Following?:` 93 
+`Following?:` 149 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` space 
  
-`Number of tweets extracted`  : 18 
+`Number of tweets extracted`  : 27 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1521044226708054017/skrlAABa_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1520908215810084864/je785AiD_normal.jpg 
  
-`Number of tweets excluding replies:` 18 
+`Number of tweets excluding replies:` 27 
  
 
  
@@ -355,38 +461,121 @@ RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project'
  
 ## User Top tweeted words 
  
-**@SOY_FINANCE** 6 , **@DEXARAN** 4 , **@SOY_FINANCE:** 4 , **PROJECT** 3 , **NEW** 2 , **@UNSTOPPABLEWEB** 2 , **🌱** 2 , **RADIX** 2 , **$SOY** 2 , **WATCH** 2 , **RT** 1 , **@FRESALAPINI:** 1 , **@CALLISTOSUPPORT** 1 , **GOOD🚀RT** 1 , **@CALLISTOSUPPORT:** 1 , **CALLISTO** 1 , **NETWORK** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , 
+**@EVAWILLIAMS912:** 4 , **@DRJOHNAKING:** 3 , **GOOD** 2 , **HAPPY** 2 , **POSTED** 2 , **PRACTICE** 2 , **UNTIL** 2 , **FUTURE** 2 , **@ICREWPLAYA:** 2 , **MINING** 2 , **MORATORIUM** 2 , **CRYPTO** 2 , **@KEVINONEHUNRD:** 2 , **PASSWORD** 2 , **@X_EXPLORER:** 2 , **SHORTS** 2 , **EXPLORE** 2 , **NATURE** 2 , **RELAX** 2 , **HOUSING** 2 , 
  
 ## What this user tweeted
  
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+RT @VR_Ulysses: Join us TODAY at 3:30 PM PST for a FREE webcast about the future of spatial computing for #netsec #infosec #bigdata and muc…
  
-# GatienKoussiUSER INFO
+# skersts_niksUSER INFO
+![image](http://pbs.twimg.com/profile_images/1520792664341417984/N9NM6om1_normal.jpg)
+ 
+`User ScreenName:` skersts_niks 
+ 
+`User chosen Name:` Niks Šķērsts 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 28 06:21:01 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 160 
+ 
+`User URL?:` None 
+ 
+`Location:` Jelgava, Latvija 
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1520792664341417984/N9NM6om1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UN** 6 , **KA** 5 , **IR** 5 , **MŪSU** 3 , **MAN** 3 , **KĀ** 3 , **AR** 3 , **ANDROID** 2 , **KAĶIS** 2 , **ĻOTI** 2 , **JAU** 2 , **BIJA** 2 , **IESPĒJAMS** 2 , **VISLABĀK** 2 , **ARĪ** 2 , **LMT** 2 , **NAV** 2 , **PIE** 2 , **CABLE** 2 , **RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @NandanLohitaksh: ADB-Toolkit - Tool for testing your android device and hack someone android phone
+https://t.co/fyicCuLNRU  
+
+#infosec…
+ 
+# iotnewsinUSER INFO
+![image](http://pbs.twimg.com/profile_images/1520019996671422465/jIlStqqi_normal.jpg)
+ 
+`User ScreenName:` iotnewsin 
+ 
+`User chosen Name:` iotnewsin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 29 12:36:57 +0000 2022 
+ 
+`User Description?:` Use Internet of things, never submit to be used by them. #iot #technonews 
+ 
+`Followers?: `13 
+ 
+`Following?:` 89 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 88 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1520019996671422465/jIlStqqi_normal.jpg 
+ 
+`Number of tweets excluding replies:` 88 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IOT** 33 , **AI** 23 , **IIOT** 14 , **MACHINELEARNING** 11 , **DATA** 10 , **PYTHON** 10 , **BIGDATA** 8 , **CYBERSECURITY** 7 , **ANALYTICS** 7 , **ARDUINO** 6 , **NEW** 6 , **DIGITAL** 5 , **ARTIFICIAL** 5 , **…RT** 5 , **DATASCIENCE** 5 , **ROBOTICS** 4 , **AIETHICS** 4 , **@ELI_KRUMOVA:** 4 , **INTELLIGENCE** 4 , **PYTORCH** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Hakin9: Fsociety Hacking Tools Pack - A Penetration Testing Framework https://t.co/EtbrBYkD3Y 
+
+#infosec #cybersecurity #redteam #pente…
+ 
+# MGZeroesUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` GatienKoussi 
+`User ScreenName:` MGZeroes 
  
-`User chosen Name:` Gatien Koussi 
+`User chosen Name:` MGZeroes 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 30 11:18:48 +0000 2022 
+`User signup date?:` Mon Apr 25 20:25:27 +0000 2022 
  
-`User Description?:` Crypto 
+`User Description?:`  
  
-`Followers?: `0 
+`Followers?: `2 
  
-`Following?:` 1 
+`Following?:` 9 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 75 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 75 
  
 
  
@@ -394,38 +583,42 @@ RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project'
  
 ## User Top tweeted words 
  
-**@SOY_FINANCE:** 5 , **@CALLISTOSUPPORT:** 3 , **000** 3 , **GOOD** 2 , **PROJETRT** 2 , **CALLISTO** 2 , **NETWORK** 2 , **@DEXARAN** 2 , **COOLRT** 2 , **SOY** 2 , **🌱** 2 , **WATCH** 2 , **AIRDROP** 2 , **@CALLISTOSUPPORT** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , **SOME** 1 , **PROJECT'S** 1 , **UNIQUE** 1 , 
+**@ELONMUSK:** 18 , **@TIMCAST:** 11 , **TWITTER** 8 , **DIE** 8 , **PEOPLE** 6 , **@ELONMUSK** 6 , **NICHT** 5 , **WING** 4 , **ELON** 4 , **MUSK** 4 , **BUY** 4 , **AGAINST** 4 , **@KAZEEMANUAR:** 4 , **@ZUBYMUSIC:** 4 , **FAR** 4 , **LAW** 4 , **I’M** 3 , **BEING** 3 , **STILL** 3 , **MAKE** 3 , 
  
 ## What this user tweeted
  
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+RT @hackinarticles: End to End Encryption Explained
+
+Credit https://t.co/pheAuOa1hH
+
+#infosec #cybersecurity #cybersecuritytips  #pentestin…
  
-# GatienKoussisUSER INFO
+# segnotesUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` GatienKoussis 
+`User ScreenName:` segnotes 
  
-`User chosen Name:` Gatien Koussis 
+`User chosen Name:` Security Notes 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 30 11:37:00 +0000 2022 
+`User signup date?:` Thu Apr 28 16:43:27 +0000 2022 
  
-`User Description?:` Crypto 
+`User Description?:` Información relacionada con Seguridad Informatica 
  
-`Followers?: `0 
+`Followers?: `2 
  
-`Following?:` 1 
+`Following?:` 32 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 15 
+`Number of tweets extracted`  : 7 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 15 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -433,184 +626,32 @@ RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project'
  
 ## User Top tweeted words 
  
-**@SOY_FINANCE:** 6 , **@CALLISTOSUPPORT:** 4 , **000** 3 , **CALLISTO** 2 , **NETWORK** 2 , **@DEXARAN** 2 , **NEW** 2 , **SOY** 2 , **🌱** 2 , **WATCH** 2 , **$SOY** 2 , **LISTING** 2 , **AIRDROP** 2 , **FUND** 2 , **@CALLISTOSUPPORT** 1 , **COOL** 1 , **NEWRT** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , 
+**DE** 5 , **@MALMOEB:** 2 , **1/** 2 , **CYBERSECURITY** 2 , **LINUX** 2 , **MÁS** 2 , **RT** 1 , **PATIENT** 1 , **ZERO** 1 , **INTERNET-EXPOSED** 1 , **SERVER** 1 , **SINGLE-FACTOR** 1 , **RDP** 1 , **ATTACKERS** 1 , **BRUTE-FORCED** 1 , **PASSWORD** 1 , **ATYPICA…RT** 1 , **@SANS_ISC:** 1 , **PASSIVE** 1 , **DNS;** 1 , 
  
 ## What this user tweeted
  
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+RT @hackinarticles: End to End Encryption Explained
+
+Credit https://t.co/pheAuOa1hH
+
+#infosec #cybersecurity #cybersecuritytips  #pentestin…
  
-# AdjibDanielUSER INFO
+# Techmedic01USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` AdjibDaniel 
+`User ScreenName:` Techmedic01 
  
-`User chosen Name:` Daniel Adjib 
+`User chosen Name:` Eric Ledford 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun May 01 09:52:31 +0000 2022 
+`User signup date?:` Mon May 02 16:20:32 +0000 2022 
  
-`User Description?:` Crypto 
+`User Description?:` Tech enthusiast 
  
 `Followers?: `0 
  
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 15 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 15 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SOY_FINANCE:** 5 , **000** 3 , **@CALLISTOSUPPORT:** 2 , **@DEXARAN** 2 , **COOLRT** 2 , **SOY** 2 , **🌱** 2 , **WATCH** 2 , **FUND** 2 , **AIRDROP** 2 , **@CALLISTOSUPPORT** 1 , **GOOD** 1 , **NEWRT** 1 , **CALLISTO** 1 , **NETWORK** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , **SOME** 1 , **PROJECT'S** 1 , 
- 
-## What this user tweeted
- 
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
- 
-# FearlessKoussiUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` FearlessKoussi 
- 
-`User chosen Name:` Fearless Koussi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun May 01 10:19:44 +0000 2022 
- 
-`User Description?:` Crypto 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SOY_FINANCE:** 4 , **@DEXARAN** 2 , **🌱** 2 , **WATCH** 2 , **@CALLISTOSUPPORT** 1 , **COOLRT** 1 , **@CALLISTOSUPPORT:** 1 , **CALLISTO** 1 , **NETWORK** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , **SOME** 1 , **PROJECT'S** 1 , **UNIQUE** 1 , **ASPECTS** 1 , **EXPERIENCE** 1 , **CONTRIBUTING** 1 , **$ETC…@SOY_FINANCE** 1 , **GOODRT** 1 , 
- 
-## What this user tweeted
- 
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
- 
-# BriciaKoussiUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` BriciaKoussi 
- 
-`User chosen Name:` Bricia Koussi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun May 01 16:18:53 +0000 2022 
- 
-`User Description?:` Crypto 
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SOY_FINANCE:** 5 , **COOLRT** 3 , **000** 3 , **@DEXARAN** 2 , **SOY** 2 , **🌱** 2 , **WATCH** 2 , **@CRYPTOBOTWALLET** 2 , **AIRDROP** 2 , **@CALLISTOSUPPORT** 1 , **OKAYRT** 1 , **@CALLISTOSUPPORT:** 1 , **CALLISTO** 1 , **NETWORK** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , **SOME** 1 , **PROJECT'S** 1 , **UNIQUE** 1 , 
- 
-## What this user tweeted
- 
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
- 
-# ClmentDahUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` ClmentDah 
- 
-`User chosen Name:` Clément Dah 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 02 17:20:34 +0000 2022 
- 
-`User Description?:` Crypto 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DEXARAN** 3 , **COOLRT** 2 , **GOODRT** 2 , **LE** 2 , **DE** 2 , **@SOY_FINANCE:** 2 , **@CALLISTOSUPPORT** 1 , **@CALLISTOSUPPORT:** 1 , **CALLISTO** 1 , **NETWORK** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , **SOME** 1 , **PROJECT'S** 1 , **UNIQUE** 1 , **ASPECTS** 1 , **EXPERIENCE** 1 , **CONTRIBUTING** 1 , **$ETC…@SOY_FINANCE** 1 , 
- 
-## What this user tweeted
- 
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
- 
-# ClmentDah2USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` ClmentDah2 
- 
-`User chosen Name:` Clément Dah 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 02 17:31:12 +0000 2022 
- 
-`User Description?:` Crypto 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
+`Following?:` 17 
  
 `User URL?:` None 
  
@@ -628,77 +669,38 @@ RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project'
  
 ## User Top tweeted words 
  
-**@DEXARAN** 2 , **@SOY_FINANCE:** 2 , **@CALLISTOSUPPORT** 1 , **COOLRT** 1 , **@CALLISTOSUPPORT:** 1 , **CALLISTO** 1 , **NETWORK** 1 , **VISION** 1 , **2022** 1 , **DESCRIBES** 1 , **SOME** 1 , **PROJECT'S** 1 , **UNIQUE** 1 , **ASPECTS** 1 , **EXPERIENCE** 1 , **CONTRIBUTING** 1 , **$ETC…@SOY_FINANCE** 1 , **GOODRT** 1 , **RELEASED** 1 , **NEW** 1 , 
+**FIND** 2 , **FIRST** 2 , **@THEHACKERSNEWS:** 2 , **RELEASED** 2 , **DATA** 2 , **RT** 1 , **@DEFCON:** 1 , **HACKERS** 1 , **122** 1 , **VULNERABILITIES** 1 , **27** 1 , **DEEMED** 1 , **CRITICAL** 1 , **DURING** 1 , **ROUND** 1 , **DHS** 1 , **BUG** 1 , **BOUNTY** 1 , **PROGRAM** 1 , **HTTPS://TCO/TXR7L1MA8PRT** 1 , 
  
 ## What this user tweeted
  
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+RT @TheHackersNews: OpenSSF project has released a tool that scans popular open-source repositories for malicious packages. Named "Package…RT @TheHackersNews: #Google has officially released the first developer preview for the #Privacy Sandbox on #Android 13, offering an "early…
  
-# lee_le27938021USER INFO
-![image](http://pbs.twimg.com/profile_images/1521145775211827201/z67Am4i4_normal.jpg)
+# leonlisboa_audUSER INFO
+![image](http://pbs.twimg.com/profile_images/1519769901946351622/TbaztaWD_normal.png)
  
-`User ScreenName:` lee_le27938021 
+`User ScreenName:` leonlisboa_aud 
  
-`User chosen Name:` David Lee 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 02 14:38:41 +0000 2022 
- 
-`User Description?:` Ok 
- 
-`Followers?: `15 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1521145775211827201/z67Am4i4_normal.jpg 
- 
-`Number of tweets excluding replies:` 21 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SOY_FINANCE** 10 , **@DEXARAN** 6 , **@UNSTOPPABLEWEB** 5 , **@CALLISTOSUPPORT** 4 , **PROJECT** 4 , **@BPOLHWECV5WN8EX:** 3 , **GREAT** 3 , **!!!** 3 , **SUPER!RT** 3 , **LES** 3 , **NICERT** 2 , **@GABRIELKOUSSIH1:** 2 , **GOODRT** 2 , **@SOY_FINANCE:** 2 , **QUE** 2 , **ET** 2 , **@BIZWAREINT** 2 , **RADIX** 2 , **@HICHAM_CHAM:** 2 , **RT** 1 , 
- 
-## What this user tweeted
- 
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
- 
-# Sophie18643943USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Sophie18643943 
- 
-`User chosen Name:` Sophie 
+`User chosen Name:` León Lisboa - Compliance de TI & Segurança da Info 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 28 21:26:40 +0000 2022 
+`User signup date?:` Thu Apr 28 20:05:55 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Auditoria de TI, Cyber & Fraud Investigation. Compliance e Riscos de TI, InfoSec e CyberSec.  Ethical Hacker. Caçador de Hackers. 
  
 `Followers?: `0 
  
-`Following?:` 1 
+`Following?:` 123 
  
-`User URL?:` None 
+`User URL?:` https://t.co/JTyo430VR0 
  
 `Location:`  
  
-`Number of tweets extracted`  : 27 
+`Number of tweets extracted`  : 25 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1519769901946351622/TbaztaWD_normal.png 
  
-`Number of tweets excluding replies:` 27 
+`Number of tweets excluding replies:` 25 
  
 
  
@@ -706,11 +708,243 @@ RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project'
  
 ## User Top tweeted words 
  
-**@CALLISTOSUPPORT:** 11 , **CALLISTO** 9 , **@SOY_FINANCE:** 7 , **@NICOLAMENALE:** 5 , **NETWORK** 5 , **COMMUNITY** 4 , **SOY** 4 , **$CLO** 3 , **NEW** 3 , **@DEXARAN** 3 , **2022** 3 , **000** 3 , **BLOCKCHAIN** 3 , **AMA** 3 , **CALLISTONETWORK** 3 , **AIRDROP** 3 , **FUND** 3 , **@COINMARKETCAP** 2 , **MANY** 2 , **NFTS** 2 , 
+**@TRENDMICRORSRCH:** 4 , **INFOSEC** 4 , **CYBERSECURITY** 4 , **USE** 3 , **PENTESTING** 3 , **OSCP** 3 , **LINUX** 3 , **BEHIND** 2 , **AVOSLOCKER** 2 , **RANSOMWARE** 2 , **@HACKINARTICLES:** 2 , **ENCRYPTION** 2 , **CYBERSECURITYTIPS** 2 , **@SHUBHAM_PEN:** 2 , **INFORMATIONSECURITY** 2 , **HACKING** 2 , **CISSP** 2 , **OS** 2 , **WINDOWS** 2 , **BASIC** 2 , 
  
 ## What this user tweeted
  
-RT @CallistoSupport: Callisto Network Vision 2022 describes some of our project's unique aspects, from our experience contributing to $ETC…
+RT @hackinarticles: End to End Encryption Explained
+
+Credit https://t.co/pheAuOa1hH
+
+#infosec #cybersecurity #cybersecuritytips  #pentestin…
+ 
+# IndieGameFan1USER INFO
+![image](http://pbs.twimg.com/profile_images/1520682851510988801/qyYz0KTo_normal.png)
+ 
+`User ScreenName:` IndieGameFan1 
+ 
+`User chosen Name:` IndieGameFan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 01 08:33:19 +0000 2022 
+ 
+`User Description?:` Retweets indie game posts
+Bot made by @ssaldev 
+ 
+`Followers?: `15 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1520682851510988801/qyYz0KTo_normal.png 
+ 
+`Number of tweets excluding replies:` 748 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INDIEDEV** 66 , **GAMEDEV** 50 , **GAME** 34 , **INDIEGAME** 28 , **NEW** 20 , **SOME** 13 , **FREE** 12 , **INDIEGAMEDEV** 11 , **INDIEGAMES** 11 , **//** 11 , **WORKING** 10 , **PIXELART** 10 , **CHECK** 10 , **INDIE** 10 , **PART** 9 , **@SHADERCREW:** 9 , **MADEWITHUNITY** 8 , **GAMING** 8 , **FIRST** 7 , **COMING** 7 , 
+ 
+## What this user tweeted
+ 
+RT @williamstyles23: You and your third dimension...
+
+@favourablegroup
+@sdarsystems 
+@tritcoin
+
+#defi #cryptonews #indiedev #Ethereum #ETH…RT @FavourableBet: There is not nothing to worry about.
+
+@FavourableGroup
+
+#defi #cryptonews #indiedev #Ethereum #ETH #CryptoGaming #Crypto…RT @williamstyles23: Drink some coffee &amp; pretend you know what you're doing.
+
+@FavourableGroup
+@FavourableBet 
+
+#defi #cryptonews #indiedev…RT @williamstyles23: Targeted advertising for dummies
+
+#GameTheory #GameDev #IndieDev #BigData #AI #Marketing #Advertising #DataLiteracy #C…RT @RedFox_App: 🚨Protect yourself from Phishing scams!
+Visit: https://t.co/Vb0UZDvF80 &amp; Stay Safe!
+
+.
+
+#security #infosec #cybersecurity #1…
+ 
+# frogsecNETUSER INFO
+![image](http://pbs.twimg.com/profile_images/1519767700976791552/3LZLeTa1_normal.jpg)
+ 
+`User ScreenName:` frogsecNET 
+ 
+`User chosen Name:` frogsec 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 28 19:35:28 +0000 2022 
+ 
+`User Description?:` infosec + frens 
+ 
+`Followers?: `10 
+ 
+`Following?:` 231 
+ 
+`User URL?:` https://t.co/PXTIpBdbrN 
+ 
+`Location:` swamp 
+ 
+`Number of tweets extracted`  : 118 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1519767700976791552/3LZLeTa1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 118 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BITCOIN** 9 , **FROG** 8 , **VERY** 7 , **PEOPLE** 6 , **COULD** 4 , **THREAT** 4 , **USE** 4 , **GOOD** 4 , **YEARS** 4 , **SECURITY** 4 , **NEED** 3 , **UNDERSTAND** 3 , **STILL** 3 , **DON'T** 3 , **STATE** 3 , **NETWORK** 3 , **TOO** 3 , **WAY** 3 , **LAST** 3 , **🐸** 3 , 
+ 
+## What this user tweeted
+ 
+infosec has been pwned 
+
+cultural marxist mind virus now endemic
+
+imagine working with these people 🤮 https://t.co/6aVl6gMH0h
+ 
+# seb_secUSER INFO
+![image](http://pbs.twimg.com/profile_images/1520506960990322688/vNC6VC7L_normal.jpg)
+ 
+`User ScreenName:` seb_sec 
+ 
+`User chosen Name:` Sebastian W 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 27 18:41:42 +0000 2022 
+ 
+`User Description?:` #Infosec Professional | Husband & Father | Submarine Veteran | Fan of picking up heavy stuff | https://t.co/dSvY4RI3Ud… 
+ 
+`Followers?: `2 
+ 
+`Following?:` 35 
+ 
+`User URL?:` https://t.co/RS9g0wLi9I 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1520506960990322688/vNC6VC7L_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PANDAS** 3 , **NEW** 2 , **PHONE** 2 , **SOME** 2 , **WE’VE** 2 , **RT** 1 , **@JOEHELLE:** 1 , **HTTPS://TCO/9LKKCMQG6EGOT** 1 , **FORGOT** 1 , **MOVE** 1 , **GOOGLE** 1 , **AUTHENTICATOR** 1 , **ACCOUNTS** 1 , **THANKFULLY** 1 , **STILL** 1 , **OLD** 1 , **A…** 1 , **HTTPS://TCO/QPAHBSWZ7JTOOK** 1 , **TIME** 1 , **OUTSIDE** 1 , 
+ 
+## What this user tweeted
+ 
+Got a new phone. Forgot to move over Google Authenticator accounts. Thankfully, I still had the old phone and was a… https://t.co/QPAHbSWZ7J
+ 
+# johnmyers0915USER INFO
+![image](http://pbs.twimg.com/profile_images/1519150110294392834/UpwGk3IZ_normal.jpg)
+ 
+`User ScreenName:` johnmyers0915 
+ 
+`User chosen Name:` John Myers 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 27 03:01:02 +0000 2022 
+ 
+`User Description?:` INFOSEC Professional. CISSP. OSCP in progress. Married. Retired @USNavy, Gulf War/OIF Vet. 
+ 
+`Followers?: `27 
+ 
+`Following?:` 223 
+ 
+`User URL?:` https://t.co/VQTr1FbXfe 
+ 
+`Location:` America 
+ 
+`Number of tweets extracted`  : 176 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1519150110294392834/UpwGk3IZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 180 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ELONMUSK** 18 , **TWITTER** 13 , **BIDEN** 11 , **TRUTH** 8 , **ELON** 7 , **@BENNYJOHNSON:** 7 , **@ELONMUSK:** 7 , **GO** 6 , **GOING** 6 , **BACK** 6 , **PEOPLE** 6 , **ALREADY** 6 , **AGAIN** 6 , **COULD** 5 , **@DONALDJTRUMPJR:** 5 , **NEW** 5 , **POWERSHELL** 5 , **LEFT** 5 , **FREE** 5 , **SPEECH** 5 , 
+ 
+## What this user tweeted
+ 
+RT @three_cube: Reverse Engineering Malware: Ghidra, Part 3: Analyzing the Ransomware WannaCry #reversing #dfir #wannacry #reverseengineeri…
+ 
+# bujarselimi21USER INFO
+![image](http://pbs.twimg.com/profile_images/1520961611103674374/a4ZZDCli_normal.jpg)
+ 
+`User ScreenName:` bujarselimi21 
+ 
+`User chosen Name:` Bujar Selimi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 02 01:06:56 +0000 2022 
+ 
+`User Description?:` “Your brain works just like a computer so make sure you're the only one programming it.”  "If you’re not paying for the Product, then you’re the Product" 
+ 
+`Followers?: `1 
+ 
+`Following?:` 76 
+ 
+`User URL?:` None 
+ 
+`Location:` London, England 
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1520961611103674374/a4ZZDCli_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THREAT** 2 , **CYBERSECURITY** 2 , **AI** 2 , **STAY** 2 , **SAFE** 2 , **RT** 1 , **@INFOSEC_TRAIN:** 1 , **HUNTING** 1 , **INTELLIGENCE** 1 , **INFOSECTRAIN** 1 , **HTTPS://TCO/CVQ6021KCR** 1 , **THREATHUNTING** 1 , **THREATINTEL…RT** 1 , **@JCHILLIPLANET:** 1 , **SECURITY** 1 , **NEWS** 1 , **WHAT'S** 1 , **OLD** 1 , **NEW** 1 , **AGAIN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Infosec_Train: Threat Hunting &amp; Threat Intelligence | InfosecTrain
+
+https://t.co/cvq6021kCR
+
+#threathunting #cybersecurity #threatintel…RT @jchilliplanet: IT Security News
+
+What's old is new again - cyber threats don't change that much according to this information.  Continu…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
