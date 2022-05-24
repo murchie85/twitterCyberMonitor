@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **fr0gger_**  
+The most popular user is: **elonmusk**  
  
 
-## Visualizing #cybersecurity concepts can be a great way to learn more about specific tools, methodologies, and techn… https://t.co/e8Ml2ofNMs 
+## If Twitter acquisition completes, company will be super focused on hardcore software engineering, design, infosec &amp;… https://t.co/186nr3QGA6 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **fr0gger_**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CyberIQs_: [webapps] OpenCart v3.x Newsletter Module – Blind SQLi #infosec #infosecurity #cybersecurity #threatintel #threatintelligenc… |
-| RT @CyberIQs_: Travel Reward App Can't Escape American Airlines' TM Suit #infosec #infosecurity #cybersecurity #threatintel #threatintellig… |
-| Pwn2Own Vancouver 2022 D1: MS Teams exploits received $450,000 - https://t.co/WZ0Z3ZYKrT#Hacking #OSINT #Security #Threatintel |
+| ✨feature✨#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie #python #reactjs… https://t.co/275VX5mwCg |
+| My new fav tweet:Conti #ransomware gang has shut down its infrastructure in favor of migrating its criminal activ… https://t.co/75cHOFKGjS |
+| Living With Dirty Cyber Assets #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #hacking… https://t.co/jSFjn0uFRf |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CyberIQs_** |
-| #2 Most tweeted to  | **JinibaBD** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 1.2%|
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **Shubham_pen** |
+| #3 Most tweeted to  | **reach2ratan** |
+| NewProfiles (less than 10 days) | 0.64%  |
+| Tweeters with < 10 followers  | 3.42%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,56 +51,56 @@ The most popular user is: **fr0gger_**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **INFOSECURITY**  |
-| third  | **THREATINTEL** |
-| fourth  | **@CYBERIQS_:**  |
-| fifth  | **THREATINTEL…**  |
+| second  | **PENTESTING**  |
+| third  | **REDTEAM** |
+| fourth  | **OSCP**  |
+| fifth  | **INFORMATIONSECURITY**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (27.27%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (72.73%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Nikkei becomes latest major news outlet hit with ransomware #infosec #infosecurity #cybersecurity #threatintel… https://t.co/x7bE0F8cYu |
+|RT @hackinarticles: Best of Infosec Tools (Part 1)#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsec… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fr0gger_**  |
+| The most retweeted user is: **elonmusk**  |
 | ------------- |
-| Visualizing #cybersecurity concepts can be a great way to learn more about specific tools, methodologies, and techn… https://t.co/e8Ml2ofNMs |
+| If Twitter acquisition completes, company will be super focused on hardcore software engineering, design, infosec &amp;… https://t.co/186nr3QGA6 |
 
 # Potential Fake Accounts
  
-# NorthernObsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1526304573962571778/qC7a6C0I_normal.jpg)
+# MTSRadioUSER INFO
+![image](http://pbs.twimg.com/profile_images/1528897806861119488/u2LR2wOz_normal.jpg)
  
-`User ScreenName:` NorthernObs 
+`User ScreenName:` MTSRadio 
  
-`User chosen Name:` Northern Observer 
+`User chosen Name:` MTS Radio 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon May 16 20:43:43 +0000 2022 
+`User signup date?:` Tue May 24 00:36:57 +0000 2022 
  
-`User Description?:` Observer in the north. OSINT, Electronic Warfare, Electronics, Cyber, Signals, Conflicts, Navy & Mil tech. Retired from active service, enjoying civilian life. 
+`User Description?:` I love vodka, live music and old vinyl check out my YouTube channel for more. 
  
-`Followers?: `13 
+`Followers?: `1 
  
-`Following?:` 107 
+`Following?:` 21 
  
-`User URL?:` None 
+`User URL?:` https://t.co/efj67gtEVx 
  
 `Location:`  
  
-`Number of tweets extracted`  : 70 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1526304573962571778/qC7a6C0I_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1528897806861119488/u2LR2wOz_normal.jpg 
  
-`Number of tweets excluding replies:` 70 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -108,38 +108,361 @@ VIEWS WERE : **SUBJECTIVE**  (27.27%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**UKRAINE** 8 , **RUSSIAN** 8 , **@VCDGF555** 8 , **RUSSIA** 6 , **EI** 6 , **@FLORIDATWEETER** 6 , **NAVY** 6 , **NATO** 6 , **@ARIKOPONENPS** 5 , **SE** 5 , **@RADIO_RESEARCH** 5 , **DON'T** 4 , **@B2JOSSI** 4 , **PART** 3 , **SITÄ** 3 , **VAIN** 3 , **INTERESTING** 3 , **@MINKKINENMINNA** 3 , **ROUBLES** 3 , **MILITARY** 3 , 
+**GML2022** 1 , **SEEMS** 1 , **INFOSEC** 1 , **NIGHTMARE** 1 , **ALREADY** 1 , **PROGRESS** 1 , **IMAGINE** 1 , **EXPLOITS** 1 , **PLAY** 1 , **AND…** 1 , **HTTPS://TCO/4YAMWRVNPU@KILLERMIKE** 1 , **@EMORYUNIVERSITY** 1 , **@REVOLTTV** 1 , **THAT’S** 1 , **IMPORTANT** 1 , **MESSAGE** 1 , **LINES** 1 , **GOING…** 1 , **HTTPS://TCO/E2NBW0KURZRT** 1 , **@KATIEPORTEROC:** 1 , 
  
 ## What this user tweeted
  
-RT @bad_packets: Mass scanning activity detected from 58.62.36.13 (🇨🇳) and 58.62.36.17 (🇨🇳) targeting F5 BIG-IP iControl REST endpoints vul…
+#GML2022 seems like an #infosec nightmare already in progress. I can only imagine all the exploits in play now and… https://t.co/4yaMwRvnPU
  
-# TrevorZabarUSER INFO
-![image](http://pbs.twimg.com/profile_images/1527717782997151746/xbkPpp_h_normal.jpg)
+# Nitrix01USER INFO
+![image](http://pbs.twimg.com/profile_images/1528303761248206851/6sHUNP2V_normal.png)
  
-`User ScreenName:` TrevorZabar 
+`User ScreenName:` Nitrix01 
  
-`User chosen Name:` Trevor J Zabar 
+`User chosen Name:` Nitrix0 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri May 20 18:25:15 +0000 2022 
+`User signup date?:` Sun May 22 09:10:06 +0000 2022 
  
-`User Description?:` A Pioneer of the Gut Microbiome 
+`User Description?:` Cybersecurity learner 👨‍💻
+Red team ✊🔴 
+ 
+`Followers?: `0 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:` France 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1528303761248206851/6sHUNP2V_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LINUX** 2 , **PENTESTING** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **REDTEAM** 2 , **RT** 1 , **@HAKIN9:** 1 , **SMART** 1 , **ENUMERATION** 1 , **TOOL** 1 , **CTFS** 1 , **HTTPS://TCO/LFITOBCWNE** 1 , **PENTEST** 1 , **PEN…RT** 1 , **@HACKINARTICLES:** 1 , **COMMAND** 1 , **CHEAT** 1 , **SHEET** 1 , **CYBERSECURITYTIPS** 1 , **OSCP** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Hakin9: Linux Smart Enumeration - tool for pentesting and CTFs https://t.co/LfITOBCwne 
+
+#infosec #cybersecurity #redteam #pentest #pen…RT @hackinarticles: Linux Command Cheat Sheet
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity…
+ 
+# Senjana_TzonevaUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Senjana_Tzoneva 
+ 
+`User chosen Name:` Senjana 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 18 16:16:37 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `8 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 378 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@RAINMAKER1973:** 52 , **@SPACEDOTCOM:** 28 , **INFOSEC** 23 , **CYBERSECURITY** 22 , **@HACKINARTICLES:** 18 , **CYBERSECURITYTIPS** 13 , **NEW** 13 , **PENTESTING** 12 , **OSCP** 12 , **REDTEAM** 12 , **@SPACE_STATION:** 10 , **@PAULA_PICCARD:** 10 , **@ENGINEERS_FEED:** 10 , **C…RT** 9 , **MOON** 9 , **EARTH** 9 , **MORE:** 9 , **MAY** 8 , **THROUGH** 8 , **YEARS** 8 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Networking Essentials
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #c…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…RT @hackinarticles: Best of Infosec Tools (Part 1)
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsec…RT @CyberSecOb: Industrial Cyber Security &amp; IIoT – A Balanced Approach to Innovation and Risk - May (May 25-26).
+Registration Link:
+https:/…RT @_Vault_Security: The Costliest Types of Cyber Crime 
+#cyberattack #infosec #cybersecurity #cybercrime https://t.co/5UvQ4OYNwgRT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…RT @hackinarticles: Best of Infosec Tools (Part 3)
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsec…RT @_Vault_Security: Basic Linux commands.
+
+#CyberSecurity #infosec #Linux #Hacking #CyberSec 
+#cybersecuritytips #Unix #networking https:/…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…RT @hackinarticles: Best of Infosec Tools (Part 2)
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsec…RT @hackinarticles: Best of SQL Injection
+
+Beginner’s Guide to SQL Injection
+https://t.co/JxFeNGKumt
+
+ Boolean Based
+https://t.co/53pe4cfTB…RT @hackinarticles: Firefox for Pentester
+
+https://t.co/6i1wyIDnrS
+
+https://t.co/jnDzwFmf0E
+
+https://t.co/ehWpqKeWY9
+
+#infosec #cybersecuri…RT @hackinarticles: Best of Wireshark Tutorial
+
+A Beginner’s Guide
+https://t.co/ipDR6O842U
+
+Password Sniffing
+https://t.co/AqX0zF9joa
+
+Nmap…RT @hackinarticles: VOIP Penetration Testing
+
+https://t.co/X0xvSTwoAd
+
+https://t.co/sL1rE9qOHs
+
+https://t.co/Tuibhmiu6G
+
+#infosec #cybersec…RT @hackinarticles: Linux Command Cheat Sheet
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity…RT @Paula_Piccard: 4 Cybersecurity Stocks You Can Buy and Hold for the Next Decade
+
+Know more: https://t.co/MXtj997r1G
+
+#DataSecurity #Priv…RT @getsecurd: CISA Adds 21 Known Exploited Vulnerabilities to Catalog https://t.co/Rybbrvk0KY
+#infosec https://t.co/vxh18Yr6kLRT @Paula_Piccard: What does prioritizing cybersecurity at the leadership level entail?
+
+Know more: https://t.co/Ix8m0f0NAI
+
+#DataSecurity…RT @Paula_Piccard: IP and cybersecurity disputes are top legal concerns for tech companies
+
+Know more: https://t.co/kr2dOeJKZd
+
+#DataSecuri…RT @Paula_Piccard: Different Types of Malware Programs
+
+#DataSecurity #Privacy #100DaysOfCode #Cloud #Security
+#MachineLearning #Phishing #…RT @getsecurd: Malware Analysis: Trickbot https://t.co/4vf3uNrKPR #infosec #cybersecurity https://t.co/YxeuycDcxW
+ 
+# LANBlRAKUSER INFO
+![image](http://pbs.twimg.com/profile_images/1529134092062806016/nuUB7oLB_normal.jpg)
+ 
+`User ScreenName:` LANBlRAK 
+ 
+`User chosen Name:` LANBIRAK 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 19 16:20:23 +0000 2022 
+ 
+`User Description?:` KERTTİRTMEYİN BANA BEŞİĞİNİZİ        
+
+-Retweets & Likes maybe Bookmarks- 
+ 
+`Followers?: `1 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 53 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1529134092062806016/nuUB7oLB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 53 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DER** 6 , **EN** 4 , **AUS** 4 , **UND** 4 , **@SEDAT_PEKER** 3 , **DIE** 3 , **BU** 3 , **@KILICDAROGLUK:** 3 , **RT** 2 , **ALANI** 2 , **SONUNDA** 2 , **🙏** 2 , **NUR** 2 , **VON** 2 , **DA** 2 , **EIN** 2 , **BUGÜN** 2 , **KURZ** 2 , **WIR** 2 , **@EACARER:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @Hakin9: Linux Smart Enumeration - tool for pentesting and CTFs https://t.co/LfITOBCwne 
+
+#infosec #cybersecurity #redteam #pentest #pen…
+ 
+# c9lab_socUSER INFO
+![image](http://pbs.twimg.com/profile_images/1526807363743019008/yvS_Tsd3_normal.jpg)
+ 
+`User ScreenName:` c9lab_soc 
+ 
+`User chosen Name:` C9LAB Research Team 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 18 06:09:49 +0000 2022 
+ 
+`User Description?:` Cyber Security Researchers 
+ 
+`Followers?: `3 
+ 
+`Following?:` 102 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1526807363743019008/yvS_Tsd3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PHISHING** 12 , **DOMAIN** 7 , **DETECTED:** 4 , **DOMAIN:** 3 , **@ECARLESI:** 2 , **THREAT** 2 , **FOUND:** 2 , **SCAMALERT** 2 , **DOMAINS:** 2 , **1BANK-INFFO[]XYZ** 2 , **3AXISBANK[]COM** 2 , **AXISBANKREWAR[]COM** 2 , **AXISCARDREDEEM[]XYZ** 2 , **AXISPOINTREWARDS[]…** 2 , **RT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…
+ 
+# HamdanKhan_KUSER INFO
+![image](http://pbs.twimg.com/profile_images/1528323705042247680/_cmAq5Jc_normal.jpg)
+ 
+`User ScreenName:` HamdanKhan_K 
+ 
+`User chosen Name:` Hamdan Khan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 22 08:00:29 +0000 2022 
+ 
+`User Description?:` AI | WEB DEV | PYTHON
+🤖 ● Artificial intelligence | Machine learning
+🐧 ● Cybersecurity | programming
+📊 ● Data Science | web development
+🧠 ● Quiz | python 
+ 
+`Followers?: `0 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1528323705042247680/_cmAq5Jc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**↓** 5 , **PROGRAMMING** 5 , **♦︎** 4 , **&GT;** 4 , **CODER** 3 , **HACKER** 2 , **CSS** 2 , **PROGRAMMER** 2 , **RT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **OSCP** 1 , **REDTEAM** 1 , **CYBERSEC** 1 , **HTTPS://TCO/…@DEEKSHITAVERMA** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #cybersec #hacker https://t.co/…
+ 
+# GeerdMunroeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1528777572242309121/VpeSrt5H_normal.jpg)
+ 
+`User ScreenName:` GeerdMunroe 
+ 
+`User chosen Name:` Munroe Geerd | New Thread Every Thursday 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 23 00:07:46 +0000 2022 
+ 
+`User Description?:` I help writers use social media better. 
+
+Get your free guide to Twitter growth for writers:
+
+👉 https://t.co/XqrBoMjTMG 👈 
+ 
+`Followers?: `73 
+ 
+`Following?:` 65 
+ 
+`User URL?:` https://t.co/BhwL7FD7tf 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 173 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1528777572242309121/VpeSrt5H_normal.jpg 
+ 
+`Number of tweets excluding replies:` 173 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I'M** 18 , **THREAD** 14 , **THANKS** 12 , **TWITTER** 10 , **@JODYJSPERLING** 9 , **FIND** 9 , **@ECHOJTOLLRIDGE** 9 , **WRITERS** 8 , **WRITE** 7 , **GOOD** 7 , **PROMOTING** 7 , **THAT'S** 6 , **@BOURNEWRITE** 6 , **WRITINGCOMMUNITY** 6 , **WROTE** 5 , **DON'T** 5 , **SHARE** 4 , **HERE** 4 , **SAY** 4 , **I’M** 4 , 
+ 
+## What this user tweeted
+ 
+@jodyjsperling @ELChandler5 I was raised on the worst internet trolls of the century. My infosec is tighter than a… well, very tight thing.
+ 
+# CorinaG19780063USER INFO
+![image](http://pbs.twimg.com/profile_images/1527331596843376656/ddOOPKhW_normal.jpg)
+ 
+`User ScreenName:` CorinaG19780063 
+ 
+`User chosen Name:` Eli Rodríguez 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu May 19 16:19:45 +0000 2022 
+ 
+`User Description?:` Me gusta la música y el arte urbano 
  
 `Followers?: `2 
  
-`Following?:` 119 
+`Following?:` 86 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 40 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1527717782997151746/xbkPpp_h_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1527331596843376656/ddOOPKhW_normal.jpg 
  
-`Number of tweets excluding replies:` 40 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -147,13 +470,13 @@ RT @bad_packets: Mass scanning activity detected from 58.62.36.13 (🇨🇳) and
  
 ## User Top tweeted words 
  
-**@REALSKIPBAYLESS** 4 , **(HAMSTRING)** 3 , **NBA** 3 , **WANTS** 3 , **@JALENROSE** 3 , **@UNDISPUTED** 2 , **SEASON** 2 , **FIRST** 2 , **DUNK** 2 , **GAME** 2 , **BIG** 2 , **TEAM** 2 , **INJURY** 2 , **BACK** 2 , **MAKES** 2 , **MAVS** 2 , **RT** 1 , **@SCIENCEMAGAZINE:** 1 , **T** 1 , **CELLS** 1 , 
+**RT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **OSCP** 1 , **REDTEAM** 1 , **INFORMATIONSECURITY** 1 , **CISSP** 1 , **C…RT** 1 , **@MARVELSTUDIOS:** 1 , **KIND** 1 , **DOCTOR** 1 , **STRANGE** 1 , **ARE…🌀** 1 , **EXPERIENCE** 1 , **MARVEL** 1 , 
  
 ## What this user tweeted
  
-RT @x0darkpadr3: So what podcasts are people currently listening to?
+RT @hackinarticles: Pic of the Day
 
-#podcast #OSINT #Infosec #AppSec #threatintel #faith https://t.co/LPM…
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…
  
 # Contax118549631USER INFO
 ![image](http://pbs.twimg.com/profile_images/1529185932376686595/b2Qimnn-_normal.jpg)
@@ -192,36 +515,36 @@ RT @x0darkpadr3: So what podcasts are people currently listening to?
  
 ## What this user tweeted
  
-RT @DailyOsint: Do you think #Telegram is getting more popular among hackers?
+RT @hackinarticles: Pic of the Day
 
-Discover the Top 10 #DarkWeb Telegram channels and groups 🕵️…
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…
  
-# ThreatintelsimUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# VAEDOXXUSER INFO
+![image](http://pbs.twimg.com/profile_images/1527582862999834624/OXv6X93H_normal.jpg)
  
-`User ScreenName:` Threatintelsim 
+`User ScreenName:` VAEDOXX 
  
-`User chosen Name:` Threat intelligence 
+`User chosen Name:` VAEDOXXoff 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri May 20 06:29:39 +0000 2022 
+`User signup date?:` Fri May 20 09:23:22 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Official account for a growing ethical hacking group 
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 1 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 25 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1527582862999834624/OXv6X93H_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 25 
  
 
  
@@ -229,14 +552,52 @@ Discover the Top 10 #DarkWeb Telegram channels and groups 🕵️…
  
 ## User Top tweeted words 
  
-**INFOSEC** 6 , **CYBERSECURITY** 6 , **@CYBERIQS_:** 4 , **INFOSECURITY** 4 , **THREATINTEL** 4 , **@THREATINTEL:** 3 , **THREATINTELLIGENCE** 2 , **ACTIVITY** 2 , **THREATPROTECTION** 2 , **HTT…RT** 2 , **RT** 1 , **CANADA** 1 , **BANS** 1 , **HUAWEI** 1 , **ZTE** 1 , **5G** 1 , **NETWORKS** 1 , **CITING** 1 , **NATIONAL** 1 , **THREATINTEL…RT** 1 , 
+**INFOSEC** 3 , **PEOPLE** 3 , **SEEMS** 3 , **RANSOMWARE** 3 , **@HACKINARTICLES:** 2 , **CYBERSECURITY** 2 , **CYBERSECURITYTIPS** 2 , **PENTESTING** 2 , **OSCP** 2 , **NEED** 2 , **DDOSING** 2 , **GOOD** 2 , **GETTING** 2 , **FUNGIBLE** 2 , **1** 2 , **1!1!!** 2 , **3** 2 , **DECRYPTABLE** 2 , **PHISHING** 2 , **RT** 1 , 
  
 ## What this user tweeted
  
-RT @CyberIQs_: Canada bans Huawei and ZTE from 5G networks, citing national #infosec #infosecurity #cybersecurity #threatintel #threatintel…RT @CyberIQs_: India slightly softens infosec incident reporting and data retention #infosec #infosecurity #cybersecurity #threatintel #thr…RT @CyberIQs_: New infosec products of the week: May 20, 2022 #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #hacki…RT @threatintel: On the latest #CyberSecurityBrief #podcast we discuss Chinese cyber-espionage activity, North Korean IT workers faking bei…RT @nshcthreatrecon: Government sponsored hacking group SectorE02 targeted attack against JAPAN. Their LNK malware was disguised as a Works…RT @threatintel: #ThreatProtection WordPress websites are being compromised on a daily basis, most turned into a redirection platform for a…RT @threatintel: #ThreatProtection What did #Symantec IPS protection do for its customers last week? Read more: https://t.co/ZjKWJ3QVU2 htt…RT @RESecurity: Our team is enjoying Singapore 🇸🇬 and we're looking forward to meeting all our partners and clients in the #APAC region at…RT @bad_packets: Mass scanning activity detected from 2.56.11.65 (🇩🇪) targeting F5 BIG-IP iControl REST endpoints vulnerable to unauthentic…RT @CyberIQs_: TD SYNNEX Expands Solution Offering with Google Cloud #infosec #infosecurity #cybersecurity #threatintel #threatintelligence…RT @ntlmrelay: 📌Conti #ransomware analysis (step-by-step approach) by @GeeksCyber 🔥 ~94 steps @x64dbg ⚙️
-📘https://t.co/JHecSznqD2
+RT @hackinarticles: Pic of the Day
 
-#malware…
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…
+ 
+# blessedyard1USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` blessedyard1 
+ 
+`User chosen Name:` blessedyard 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue May 24 12:17:23 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BURP** 1 , **SUITE** 1 , **PROFESSIONAL** 1 , **EDITION** 1 , **V202238** 1 , **X64** 1 , **FULL** 1 , **ACTIVATED** 1 , **EXTENSIONS** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/WHQLXYOWKM** 1 , 
+ 
+## What this user tweeted
+ 
+Burp Suite Professional Edition v2022.3.8 x64 Full Activated   Extensions - Discount 100% OFF… https://t.co/WhQLxyOWKM
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
