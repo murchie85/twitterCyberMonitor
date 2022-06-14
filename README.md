@@ -29,9 +29,9 @@ The most popular user is: **NatashaBertrand**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| State-sponsored Chinese threat actors compromise #telecom and #network service providers https://t.co/xgBXVLIpE2 vi… https://t.co/OpNmKhrXh0 |
-| RT @malwaretech: An Introduction to Use-After-Free Vulnerabilitieshttps://t.co/LfxPdoz1yA |
-| @averykimball @CkLorentzen @sgodofsk perhaps the vulnerabilities we currently perceive in humanity are a result of… https://t.co/4Fbgqk0VGy |
+| RT @hackinarticles: IDA Pro Cheat SHeetCredit https://t.co/fUjU3hiPcA#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #red… |
+| RT @wilson_hack_: Linux Path Cheat Sheet#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informationsecurity  #cissp #Cybe… |
+| RT @RobbStack_sats: Long term this crash is bullish for #Crypto and #CosmosBecause it is showing all the vulnerabilities of the industry.… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **NatashaBertrand**
 | #2 Most tweeted to  | **thehawkeyex** |
 | #3 Most tweeted to  | **malwaretech** |
 | NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 4.26%|
+| Tweeters with < 10 followers  | 4.3%|
 | Tweeters with > 1000000 followers  | 0.06%  |
 
 
@@ -60,12 +60,12 @@ The most popular user is: **NatashaBertrand**
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (69.23%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (23.08%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Wonderous train again. Dangers lurk in all vulnerabilities- No matter   ك̷و̷د̶⁩ ⁦̸خ̷ص̸م̴⁩  .   .._^ے⁦نون⁩- https://t.co/cLDMZsP7Ns |
+|Apparently my update to some historical details of CVE-2020-36403 has been actioned… In fact the issue was fixed in… https://t.co/DwMqopWeZa |
 
 ### MOST RETWEETED 
 
@@ -74,6 +74,45 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
 | JUST OUT: Volume 5 of the Senate Intelligence Committee's Russia report, focused on counterintelligence threats and… https://t.co/SJk5xXBEIg |
 
 # Potential Fake Accounts
+ 
+# MariomaciloUSER INFO
+![image](http://pbs.twimg.com/profile_images/1535232861791461376/9WqapRSc_normal.jpg)
+ 
+`User ScreenName:` Mariomacilo 
+ 
+`User chosen Name:` Mario 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jun 10 12:09:05 +0000 2022 
+ 
+`User Description?:` Artista Perfil Profissional Modelo / Ator DRT 13980 Blog Estilo de Vida / Moda Masculina / Viagem / Beleza Sou Brasileiro 🇧🇷Sede aqui no Canadá🇨🇦 
+ 
+`Followers?: `11 
+ 
+`Following?:` 120 
+ 
+`User URL?:` None 
+ 
+`Location:` Canada 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1535232861791461376/9WqapRSc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GOVBRAZIL:** 4 , **BRAZIL** 2 , **NUCLEAR** 2 , **FITNESS** 1 , **🏋️** 1 , **HTTPS://TCO/C3PGQSEDBART** 1 , **METRO** 1 , **MOVIE** 1 , **THEATER** 1 , **PASSEIO** 1 , **RIO** 1 , **DE** 1 , **JANEIRO** 1 , **1962** 1 , **PHOTO:** 1 , **GEORGE** 1 , **GAFNER** 1 , **NATIVE** 1 , **ARCHIVES** 1 , **CORREIO** 1 , 
+ 
+## What this user tweeted
+ 
+RT @govbrazil: Brazil has completely mastered nuclear fuel’s manufacturing cycle, having one of the world's largest uranium reserves. By no…
  
 # BambamOf1USER INFO
 ![image](http://pbs.twimg.com/profile_images/1536790451583328259/l8nbeJ0Z_normal.jpg)
@@ -90,17 +129,17 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 15 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1536790451583328259/l8nbeJ0Z_normal.jpg 
  
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 15 
  
 
  
@@ -108,49 +147,7 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 ## User Top tweeted words 
  
-**NEW** 3 , **EASY** 2 , **HELLO** 2 , **PAGE** 2 , **RT** 1 , **@ASPOWORLD:** 1 , **🕰️** 1 , **1** 1 , **WEEK** 1 , **LAUNCH** 1 , **MEGA** 1 , **MILLIONS** 1 , **REACHED** 1 , **TOTAL** 1 , **REWARD** 1 , **POOL** 1 , **VALUE** 1 , **THAN** 1 , **129000** 1 , **ASPO** 1 , 
- 
-## What this user tweeted
- 
-RT @danielmakelley: Part 1: Three Years of Bug Bounty Hunting and Responsible Disclosure.
-
-➡️5904 vulnerabilities reported
-➡️25 Letters of…
- 
-# carlosjrofUSER INFO
-![image](http://pbs.twimg.com/profile_images/1536647171004583938/HVbl2IeQ_normal.jpg)
- 
-`User ScreenName:` carlosjrof 
- 
-`User chosen Name:` Carlos JR FF 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jun 14 09:50:09 +0000 2022 
- 
-`User Description?:` tamo ai 
- 
-`Followers?: `0 
- 
-`Following?:` 70 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 96 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1536647171004583938/HVbl2IeQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 96 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 13 , **NFT** 10 , **WL** 6 , **EL** 6 , **X** 5 , **JUNE** 5 , **CRYPTO** 5 , **PROJECT** 5 , **RT** 4 , **🔥** 4 , **10** 4 , **DAY** 4 , **HERE** 4 , **COMMUNITY** 4 , **NEW** 4 , **WEEK** 3 , **HOLDERS** 3 , **ACCESS** 3 , **TWEET** 3 , **WAR** 3 , 
+**NEW** 3 , **TOP** 2 , **EASY** 2 , **HELLO** 2 , **PAGE** 2 , **RT** 1 , **@GAMETA_OFFICIAL:** 1 , **BIGWIG** 1 , **90%** 1 , **CRYPTOCURRENCIES** 1 , **ZEROED** 1 , **BEAR** 1 , **MARKETRT** 1 , **@REALM8882:** 1 , **TIKTOK粉丝** 1 , **TIKTOK刷粉丝** 1 , **TIKTOK刷点赞** 1 , **TIKTOK刷播放量** 1 , **TIKTOK刷粉平台** 1 , **TIKTOK刷赞平台** 1 , 
  
 ## What this user tweeted
  
@@ -185,11 +182,11 @@ LK+RT+FLW≠Endorsement.
  
 `Location:` American Empire 
  
-`Number of tweets extracted`  : 149 
+`Number of tweets extracted`  : 167 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1536503786558181376/k0W_WEVE_normal.jpg 
  
-`Number of tweets excluding replies:` 149 
+`Number of tweets excluding replies:` 167 
  
 
  
@@ -197,7 +194,7 @@ LK+RT+FLW≠Endorsement.
  
 ## User Top tweeted words 
  
-**@CLARKEMICAH** 81 , **@EMPIREDECODER** 49 , **@LILITICA** 34 , **@PURCELLGREGORY** 33 , **&GT;** 32 , **RUSSIA** 11 , **DON'T** 11 , **@WILDWALKER84** 10 , **@COSTASSIE** 10 , **US** 9 , **YOU'RE** 8 , **@SCOTTBERRY** 7 , **EVEN** 6 , **UKRAINIAN** 6 , **PEOPLE** 6 , **@SARIELLAFOREVER** 5 , **THEN** 5 , **VIOLENCE** 5 , **--** 5 , **WHOLE** 5 , 
+**@CLARKEMICAH** 81 , **@LILITICA** 52 , **@PURCELLGREGORY** 50 , **@EMPIREDECODER** 49 , **&GT;** 36 , **RUSSIA** 13 , **DON'T** 11 , **@WILDWALKER84** 10 , **@COSTASSIE** 10 , **US** 9 , **YOU'RE** 8 , **EVEN** 7 , **PEOPLE** 7 , **@SCOTTBERRY** 7 , **@SARIELLAFOREVER** 6 , **NATO** 6 , **CALL** 6 , **LITERALLY** 6 , **UKRAINIAN** 6 , **FAR-RIGHT** 5 , 
  
 ## What this user tweeted
  
@@ -743,7 +740,7 @@ when You kiss my vulnerabilities
  
 `Location:` in your heart  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 199 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1536022147276996608/FcipeTe8_normal.jpg 
  
