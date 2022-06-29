@@ -845,235 +845,25 @@ RT @PrivacyNinjaSG: 🏦 @BankoftheWest is warning customers that their debit ca
  
 `User chosen Name:` huiledelavandeok 
  
-** 5 , **@DADEUTHANNIE:** 4 , **🕯** 4 , **BACK** 4 , **😭😭😭** 4 , **WONWOO’S** 4 , **SMILE** 4 , **@PLEDIS_17:** 4 , **2NE1** 4 , **DUMB** 4 , **MOST** 3 , **TIME** 3 , **AROUND** 3 , 
- 
-## What this user tweeted
- 
-RT @stellarwonwoo_: they say don't invest emotions on idols. you don't know who they really are. they don't know you. but here you are, sta…
- 
-# crypto_swoopUSER INFO
-![image](http://pbs.twimg.com/profile_images/1538855189993635840/TfWOB4So_normal.jpg)
- 
-`User ScreenName:` crypto_swoop 
- 
-`User chosen Name:` CryptoSwoop 
- 
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jun 20 12:02:44 +0000 2022 
- 
-`User Description?:` No-shill news, education & research on #Bitcoin, DeFi, crypto 
- 
-`Followers?: `18 
- 
-`Following?:` 30 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 99 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1538855189993635840/TfWOB4So_normal.jpg 
- 
-`Number of tweets excluding replies:` 99 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BITCOIN** 18 , **@ERICYAKES** 8 , **TIME** 7 , **@AANTONOP** 6 , **THESE** 5 , **@GOINGPARABOLIC** 5 , **CRYPTO** 4 , **SOME** 4 , **REAL** 4 , **NEW** 4 , **NFTS** 4 , **MOST** 3 , **BTC** 3 , **ACCORDING** 3 , **INTO** 3 , **EFFICIENT** 3 , **MONETARY** 3 , **@DERGIGI** 3 , **DOWN** 3 , **BITCOIN:** 3 , 
- 
-## What this user tweeted
- 
-As outlined in a recent report by @trailofbits / DARPA that pointed out several vulnerabilities that could be explo… https://t.co/97HZZnE4yc
- 
-# deeann_colvinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1538713482845364229/VJHOx0hh_normal.jpg)
- 
-`User ScreenName:` deeann_colvin 
- 
-`User chosen Name:` Deeann Colvin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 20 02:40:30 +0000 2022 
+`User signup date?:` Tue Jun 28 14:55:25 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 19 
+`Following?:` 91 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 91 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1538713482845364229/VJHOx0hh_normal.jpg 
- 
-`Number of tweets excluding replies:` 91 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PORTAL_FINANCE** 16 , **AMA** 15 , **PROJECT** 15 , **@METADOGE_BSC** 13 , **UTC** 12 , **PM** 10 , **MANY** 10 , **@STADER_BNB** 8 , **MOST** 7 , **HOST** 7 , **INTERESTING** 7 , **USERS** 6 , **TIME:** 6 , **PORTAL** 6 , **JUNE** 6 , **COMMUNITY** 6 , **PROJECTS** 6 , **@DEBONDPROTOCOL** 6 , **@EQUILIBRIUMDEFI** 6 , **@GETAVERSEGLOBAL** 6 , 
- 
-## What this user tweeted
- 
-@bscarmyofficial @stader_bnb Protecting users data, privacy &amp; funds has become a glaring problem that many companie… https://t.co/sL4MGR08UT
- 
-# MudassarAKLodhiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1539573853281783809/EJ2dyuw3_normal.jpg)
- 
-`User ScreenName:` MudassarAKLodhi 
- 
-`User chosen Name:` MudassarAKLodhi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jun 22 11:38:39 +0000 2022 
- 
-`User Description?:` We live in deeds not in years. 
- 
-`Followers?: `5 
- 
-`Following?:` 79 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1539573853281783809/EJ2dyuw3_normal.jpg 
- 
-`Number of tweets excluding replies:` 331 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**کے** 55 , **کی** 50 , **سے** 40 , **میں** 38 , **کو** 33 , **ہے** 32 , **کا** 29 , **اور** 27 , **نے** 27 , **تو** 24 , **پر** 21 , **کہ** 20 , **یہ** 19 , **@ZHANG_HEQING:** 19 , **US** 18 , **نہیں** 17 , **کر** 16 , **CHINA** 16 , **اس** 16 , **@MAKSIMYQY:** 16 , 
- 
-## What this user tweeted
- 
-RT @EbrahimHashem: There’s a difference between pre-2008 &amp; post-2008 US.
-
-Pre-2008 US could maintain a facade of power &amp; hubristically bull…
- 
-# Machado49299628USER INFO
-![image](http://pbs.twimg.com/profile_images/1540603876142772225/K-Yd6sFT_normal.jpg)
- 
-`User ScreenName:` Machado49299628 
- 
-`User chosen Name:` MachadoDeAssis 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jun 25 07:50:38 +0000 2022 
- 
-`User Description?:` Fear is a mind killer. 
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1540603876142772225/K-Yd6sFT_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WOMAN'S** 5 , **CISA** 4 , **DOMINIUM** 4 , **@AHOWEBLOGGER** 4 , **BODY** 4 , **SCOTUS** 4 , **USED** 4 , **LEGAL** 4 , **PATHS** 4 , **FOLLOW** 4 , **HEARTS** 4 , **MACHINES** 3 , **@MARYRZIEGLER** 3 , **STOPS** 3 , **REPORT** 2 , **VULNERABILITIES** 2 , **VETERAN** 2 , **HERO** 2 , **@SCOTUSBLOG** 2 , **FOUND** 2 , 
- 
-## What this user tweeted
- 
-@CISAJen So CISA found vulnerabilities in Dominium machines. Coming with weak security measures but allow its usage… https://t.co/YxodHK1btn
- 
-# a2g2_officialUSER INFO
-![image](http://pbs.twimg.com/profile_images/1542155101313597440/zt1EUXSj_normal.jpg)
- 
-`User ScreenName:` a2g2_official 
- 
-`User chosen Name:` Amol Aggarwal 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jun 27 19:39:43 +0000 2022 
- 
-`User Description?:` All about CyberSecurity and Crypto 
- 
-`Followers?: `6 
- 
-`Following?:` 104 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1542155101313597440/zt1EUXSj_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MAKE** 2 , **MONEY** 2 , **PENTESTING** 2 , **FILE** 2 , **CYBERSECURITY** 2 , **WIFI** 2 , **WINDOWS** 2 , **KERNEL** 2 , **WOW** 1 , **😯** 1 , **DIDN'T** 1 , **HTTPS://TCO/EW7X9ITAHMRT** 1 , **@HEYEASLO:** 1 , **ONLINE** 1 , **CREATING** 1 , **SELLING** 1 , **NOTION** 1 , **TEMPLATES** 1 , **LEARN** 1 , **NOTION:** 1 , 
- 
-## What this user tweeted
- 
-RT @snap_sec: Attacking File Uploads in Modern Web Applications, A comprehensive article and a cheatsheet for testing common file upload vu…
- 
-# RuggStarTechUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` RuggStarTech 
- 
-`User chosen Name:` RuggStarTech 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jun 26 14:26:30 +0000 2022 
- 
-`User Description?:` Sharing the stories in Tech, I think should be shared. 
- 
-`Followers?: `0 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
+`Number of tweets extracted`  : 66 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 10 
+`Number of tweets excluding replies:` 71 
  
 
  
@@ -1081,40 +871,38 @@ RT @snap_sec: Attacking File Uploads in Modern Web Applications, A comprehensive
  
 ## User Top tweeted words 
  
-**RB17** 2 , **CISA** 2 , **VULNERABILITIES** 2 , **CATALOG** 2 , **GOODWOOD** 2 , **YEAR** 2 , **BEST** 2 , **INSTA360** 1 , **LEICA** 1 , **360CAMERA** 1 , **1INCH** 1 , **HTTPS://TCO/CQ51MGG8SI** 1 , **HTTPS://TCO/IBDOKRTDSXHYPERCAR** 1 , **REDBULL** 1 , **RED** 1 , **BULL** 1 , **RADICAL** 1 , **1250BHP** 1 , **HYBRID** 1 , **HYPERCAR** 1 , 
+**EL** 9 , **DE** 8 , **EN** 5 , **@DIVASBLOCKCHAIN:** 5 , **LA** 4 , **JUNE** 4 , **UTC** 4 , **AMA** 4 , **الله** 4 , **Y** 4 , **QUE** 3 , **JOIN** 3 , **CRYPTO** 3 , **CRYPTOCURRENCY** 3 , **يا** 3 , **LOVE** 3 , **TOKEN** 3 , **DATE** 3 , **1** 3 , **PM** 3 , 
  
 ## What this user tweeted
  
-#Cyber, #CISA, #Vulnerabilities Catalog
-
-CISA Adds Eight Known Exploited Vulnerabilities to Catalog | CISA… https://t.co/vkKBl1Khau
+RT @PrivacyNinjaSG: 🏦 @BankoftheWest is warning customers that their debit card numbers &amp; PINs have been stolen by skimmers installed on se…
  
-# tofud4hUSER INFO
-![image](http://pbs.twimg.com/profile_images/1540233033592508416/RBzIBVD3_normal.jpg)
+# Usuario4049USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` tofud4h 
+`User ScreenName:` Usuario4049 
  
-`User chosen Name:` tofu 
+`User chosen Name:` Usuario404 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jun 24 07:17:47 +0000 2022 
+`User signup date?:` Sat Jun 25 20:07:09 +0000 2022 
  
-`User Description?:` mute me for peace :^ / turn off rts        new ga-j acc (not multi), follow me back. xoxo 
+`User Description?:`  
  
-`Followers?: `45 
+`Followers?: `3 
  
-`Following?:` 1033 
+`Following?:` 37 
  
 `User URL?:` None 
  
-`Location:` Philippines 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 25 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1540233033592508416/RBzIBVD3_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 2463 
+`Number of tweets excluding replies:` 25 
  
 
  
@@ -1122,7 +910,232 @@ CISA Adds Eight Known Exploited Vulnerabilities to Catalog | CISA… https://t.c
  
 ## User Top tweeted words 
  
-**RT** 178 , **FOLLOW** 98 , **IDR** 57 , **@YNAHGIVES:** 49 , **$4** 48 , **30MINS** 48 , **HOURS** 43 , **~** 38 , **•** 36 , **||** 34 , **+** 32 , **TWEET** 32 , **GIVEAWAY** 26 , **BELOW** 26 , **⬇️RT** 26 , **$10** 25 , **ONLY:** 22 , **MINS** 21 , **60** 15 , **RETWEET** 15 , 
+**DE** 11 , **QUE** 10 , **ES** 7 , **EL** 7 , **EN** 6 , **LO** 5 , **UN** 5 , **Y** 4 , **DEL** 4 , **LA** 4 , **PARA** 3 , **VER** 3 , **CON** 2 , **ATAQUES** 2 , **DDOS** 2 , **RECOMENDACIONES** 2 , **BUENAS** 2 , **PRÁCTICAS** 2 , **CCN-CERT** 2 , **TOOLS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @NandanLohitaksh: A collection of awesome security hardening guides, tools and other resources
+
+https://t.co/9jPYSemVsw
+
+#cybersecurity…RT @HOCupdate: Top Tools List For Bug Bounty Hunters
+
+→HOCIG
+→Burpsuite
+→Sqlmap
+→NMAP
+→Nikto
+→Amass
+→Sublister
+→XSStrike
+→Commix
+→HYDRA
+→Ar…
+ 
+# VobOnuUSER INFO
+![image](http://pbs.twimg.com/profile_images/1540210898853572610/HF23G_SF_normal.jpg)
+ 
+`User ScreenName:` VobOnu 
+ 
+`User chosen Name:` Anu Vhab 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 23 11:18:30 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 279 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1540210898853572610/HF23G_SF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 315 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NFT** 19 , **:** 16 , **CRYPTO** 11 , **FIRST** 10 , **WL** 10 , **+** 10 , **JOIN** 8 , **@NFTSUPREMES:** 8 , **CHECK** 8 , **TIME** 8 , **DE** 8 , **LA** 7 , **UTC** 7 , **FOLLOW** 7 , **DAY** 6 , **1** 6 , **SPOTS** 6 , **DAYS** 6 , **TOP** 6 , **LISTING** 6 , 
+ 
+## What this user tweeted
+ 
+RT @PrivacyNinjaSG: 🏦 @BankoftheWest is warning customers that their debit card numbers &amp; PINs have been stolen by skimmers installed on se…
+ 
+# ShikdarRuhinUSER INFO
+![image](http://pbs.twimg.com/profile_images/1540672823139520512/ZzzHYHM9_normal.png)
+ 
+`User ScreenName:` ShikdarRuhin 
+ 
+`User chosen Name:` Ruhin Shikdar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jun 25 12:26:39 +0000 2022 
+ 
+`User Description?:` Love traveling 
+ 
+`Followers?: `0 
+ 
+`Following?:` 58 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 46 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1540672823139520512/ZzzHYHM9_normal.png 
+ 
+`Number of tweets excluding replies:` 48 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UTC** 8 , **AMA** 7 , **CRYPTO** 5 , **ANNOUNCE** 5 , **JUNE** 5 , **NEXT** 4 , **PM** 4 , **LOVE** 3 , **CHECK** 3 , **FIRST** 3 , **2022** 3 , **STAKING** 3 , **@UNICRYPTO_WORLD:** 3 , **💠CHAT** 3 , **SERIES** 3 , **🎁PRIZE:** 3 , **📆DATE:** 3 , **🏨** 3 , **VENUE:** 3 , **DUDE** 3 , 
+ 
+## What this user tweeted
+ 
+RT @PrivacyNinjaSG: 🏦 @BankoftheWest is warning customers that their debit card numbers &amp; PINs have been stolen by skimmers installed on se…
+ 
+# DavidNe60169275USER INFO
+![image](http://pbs.twimg.com/profile_images/1540003132117340166/0DJnlg6f_normal.jpg)
+ 
+`User ScreenName:` DavidNe60169275 
+ 
+`User chosen Name:` David Newman❤🤘 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jun 23 15:54:52 +0000 2022 
+ 
+`User Description?:` Texas Longhorn! 
+ 
+`Followers?: `8 
+ 
+`Following?:` 142 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 137 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1540003132117340166/0DJnlg6f_normal.jpg 
+ 
+`Number of tweets excluding replies:` 137 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@WASHTIMES:** 31 , **GREAT** 11 , **US** 8 , **@IVANMELENDEZ17_** 7 , **NEW** 6 , **ABORTION** 6 , **LAST** 5 , **@TEXASLONGHORNS:** 5 , **AFTER** 4 , **ITS** 4 , **@TTINDIA:** 4 , **OTHER** 4 , **PRESIDENT** 4 , **WEEK** 4 , **BEING** 4 , **🤘RT** 4 , **LIFE** 3 , **WORLD** 3 , **2022** 3 , **PROUD** 3 , 
+ 
+## What this user tweeted
+ 
+RT @WashTimes: China conducted a sophisticated disinformation campaign against a company building a rare earth minerals facility in Texas f…
+ 
+# horselqnd5USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` horselqnd5 
+ 
+`User chosen Name:` horselqnd5 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 28 17:51:43 +0000 2022 
+ 
+`User Description?:` sexy 
+ 
+`Followers?: `0 
+ 
+`Following?:` 124 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 75 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 77 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**EL** 11 , **DE** 7 , **LA** 6 , **NFT** 6 , **@DIVASBLOCKCHAIN:** 6 , **CON** 5 , **Y** 5 , **FIRST** 4 , **CRYPTO** 4 , **UTC** 4 , **FOLLOW** 4 , **TOKEN** 4 , **EN** 4 , **FICOPRESIDENTE** 4 , **QUE** 3 , **FREE** 3 , **REGISTER** 3 , **@RESOURCEFULCEO:** 3 , **CHECK** 3 , **@SAHLABDELKARIM:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @PrivacyNinjaSG: 🏦 @BankoftheWest is warning customers that their debit card numbers &amp; PINs have been stolen by skimmers installed on se…
+ 
+# TheCDN3USER INFO
+![image](http://pbs.twimg.com/profile_images/1541158584452538368/Vie-f5S1_normal.jpg)
+ 
+`User ScreenName:` TheCDN3 
+ 
+`User chosen Name:` 🇨🇦TheCDN🇺🇲 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jun 26 17:38:28 +0000 2022 
+ 
+`User Description?:` Here for info and syrupy fun
+No trains please 💯🩸
+#MAGA #MCGA #VETERANS 
+ 
+`Followers?: `230 
+ 
+`Following?:` 376 
+ 
+`User URL?:` None 
+ 
+`Location:` Canada 
+ 
+`Number of tweets extracted`  : 150 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1541158584452538368/Vie-f5S1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 150 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@888MARTINE:** 26 , **@LOGIXCA** 13 , **@THECDN3** 11 , **@IGNORENTTHE** 11 , **@STACEYTHEGHOST** 8 , **@KEITH0STA** 7 , **@STACEYTHEGHOST:** 7 , **@ROGERBAER2010** 7 , **@TWINBUS** 6 , **@GENEVIVECARON18** 6 , **GREAT** 6 , **PLEASE** 6 , **@JAVEDAK70048620** 6 , **@KARRASAMELIA5** 6 , **@THURM1515** 6 , **@DONOTKNEEL** 6 , **@X4EILEEN** 5 , **@KENDALL_K22** 5 , **@TEEJ2021:** 5 , **WELL** 5 , 
+ 
+## What this user tweeted
+ 
+RT @trip_elix: "RT @TheHackersNews: Cybersecurity experts warn of "Black Basta" #ransomware that attacked dozens of companies in the U.S.,…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br> , **MINS** 21 , **60** 15 , **RETWEET** 15 , 
  
 ## What this user tweeted
  
