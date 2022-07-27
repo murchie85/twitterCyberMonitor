@@ -29,9 +29,9 @@ The most popular user is: **AbuseIPDB_bot**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Multiple vulnerabilities in widely-used GPS tracker could allow attackers to track, disrupt vehicles https://t.co/gQmXTIGzqO #threatintel |
-| RT @onveq: Interesting Job Posting at ,#Riyadh, #SaudiArabia Technology Specialist - Security @ #Microsoft https://t.co/h76Mvx376d #infosec… |
-| Brute Ratel C4 Detected - 142[.]93[.]230[.]121:443 - https://t.co/PYlvetmDCy#BruteRatelC4Detected #OSINT #ThreatIntel |
+| RT @KrystleM_Reid: My new blog on Iran-based threat actor #YellowGaruda a.k.a. #CharmingKitten looks at undisclosed tools, #OPSEC errors, a… |
+| RT @Certego_Intel: #Covid19 #CertStream #SuspiciousDomain: novel-coronavirus[.onlinelibrary[.wiley[.com[.rgnul[.remotexs[.inVirusTotal: h… |
+| RT @CTI_Alerts: https://t.co/7jxrgndXh8FCC wants $3 billion extra to remove Huawei network equipment #infosec #infosecurity #cybersecurit… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **AbuseIPDB_bot**
 | #2 Most tweeted to  | **DailyOsint** |
 | #3 Most tweeted to  | **javier_carriazo** |
 | NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 1.34%|
+| Tweeters with < 10 followers  | 1.35%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -60,12 +60,12 @@ The most popular user is: **AbuseIPDB_bot**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (55.56%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (44.44%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Black Basta Ransomware Victim: MAI - https://t.co/K8AIhycXgN#BlackBasta #Ransomware #OSINT #ThreatIntel |
+|RT @kaspersky: SIGMA's comprehensive architecture simplifies #threathunting. Our upcoming #webinar covers 👇 ✔️History and evolution of #SI… |
 
 ### MOST RETWEETED 
 
