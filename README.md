@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **NatashaBertrand**  
+The most popular user is: **teneikaask_you**  
  
 
-## JUST OUT: Volume 5 of the Senate Intelligence Committee's Russia report, focused on counterintelligence threats and… https://t.co/SJk5xXBEIg 
+## If you're looking to pivot into entry-level tech roles, IBM has 6 FREE trainings with badges or certs you can earn.… https://t.co/QfnKyCMxcC 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **NatashaBertrand**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MCU_Direct: Evangeline Lilly has revealed how the Wasp's journey in ANT-MAN AND THE WASP: QUANTUMANIA will be different than the second… |
-| A risk analysis has four goals:Identify assets and their value.Identify vulnerabilities and threats.Quantify th… https://t.co/whxfZ3cXIj |
-| @equis_group It really makes you think about the path not taken, better quality and more inclusive growth amidst a… https://t.co/P9UWPraHGt |
+| RT @mycompcareer: The Need for IT Security Personnel Has Never Been Higher https://t.co/Z0gKBkm9JI #ITSecurity #ITcareer #cybersecurity #IT |
+| RT @TrendsHu: $INTC stock probably could outperform the market. #cyber #cybersecurity #confidentialcomputing #stocks #cloud #tech #netsec #… |
+| RT @WilliamTurton: This week, cybersecurity journalists received emails from a PR firm offering a meeting with Glenn Greenwald in Las Vegas… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **MCU_Direct** |
-| #3 Most tweeted to  | **sarahkendzior** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 4.64%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **WilliamTurton** |
+| #2 Most tweeted to  | **1KosmosBlockID** |
+| #3 Most tweeted to  | **Shubham_pen** |
+| NewProfiles (less than 10 days) | 2.72%  |
+| Tweeters with < 10 followers  | 5.18%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -50,479 +50,30 @@ The most popular user is: **NatashaBertrand**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **INFOSEC**  |
-| third  | **PENTESTING** |
-| fourth  | **CYBERSECURITYTIPS**  |
-| fifth  | **OSCP**  |
+| first  | **INFOSEC**  |
+| second  | **✨**  |
+| third  | **AI** |
+| fourth  | **PENTESTING**  |
+| fifth  | **DATASCIENCE**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @nashrafeeg: @Ahmed_hamdhan you know some of us can actually read the links you all post "Fiscal vulnerabilities remain high. The fisc… |
+|RT @Hackers_Academy: News Alert!LibreOffice Releases Software Update to Patch 3 New Vulnerabilities Source: https://t.co/UM17iCeCqB #… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NatashaBertrand**  |
+| The most retweeted user is: **teneikaask_you**  |
 | ------------- |
-| JUST OUT: Volume 5 of the Senate Intelligence Committee's Russia report, focused on counterintelligence threats and… https://t.co/SJk5xXBEIg |
+| If you're looking to pivot into entry-level tech roles, IBM has 6 FREE trainings with badges or certs you can earn.… https://t.co/QfnKyCMxcC |
 
 # Potential Fake Accounts
- 
-# rbeka03USER INFO
-![image](http://pbs.twimg.com/profile_images/1552737647482773506/zOJoMPwD_normal.jpg)
- 
-`User ScreenName:` rbeka03 
- 
-`User chosen Name:` Rebeka 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jul 24 15:00:32 +0000 2022 
- 
-`User Description?:` ~𝘐𝘭 𝘢 𝘭'𝘪𝘯𝘴𝘵𝘪𝘯𝘤𝘵 𝘥𝘦 𝘴𝘶𝘳𝘷𝘪𝘦 𝘥'𝘶𝘯 𝘤𝘢𝘧𝘢𝘳𝘥~ 
- 
-`Followers?: `21 
- 
-`Following?:` 131 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 105 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1552737647482773506/zOJoMPwD_normal.jpg 
- 
-`Number of tweets excluding replies:` 105 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 22 , **LE** 11 , **QUE** 10 , **LA** 9 , **@MCU_DIRECT:** 8 , **BONNE** 7 , **PHASE** 6 , **MARVEL** 6 , **!** 6 , **EN** 6 , **4** 5 , **SUR** 5 , **LES** 5 , **JOURNÉE** 5 , **@QUIDVACUO_:** 5 , **MR** 4 , **STUDIOS** 4 , **EST** 4 , **NEW** 4 , **MAIS** 4 , 
- 
-## What this user tweeted
- 
-RT @MCU_Direct: Evangeline Lilly has revealed how the Wasp's journey in ANT-MAN AND THE WASP: QUANTUMANIA will be different than the second…
- 
-# gsamjikaraUSER INFO
-![image](http://pbs.twimg.com/profile_images/1552727137618206723/4aURUy3l_normal.jpg)
- 
-`User ScreenName:` gsamjikara 
- 
-`User chosen Name:` gupta samjikara 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 28 18:29:00 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 40 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1552727137618206723/4aURUy3l_normal.jpg 
- 
-`Number of tweets excluding replies:` 40 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DENTROKAMPA_** 9 , **ITS** 8 , **SERVER** 6 , **SAVEMINECRAFT** 6 , **CHAT** 6 , **SURE** 5 , **THEN** 4 , **SYSTEM** 4 , **NOBODY** 4 , **MICROSOFT** 3 , **USE** 3 , **SAYING** 3 , **PEOPLE** 3 , **MINECRAFT** 3 , **DON'T** 3 , **REPORTING** 3 , **@MICROSOFT** 3 , **NEVER** 3 , **THING** 3 , **CHANGE** 3 , 
- 
-## What this user tweeted
- 
-@ChooLantanaVT @sofiawastaken @skie_c Context is currently suspect as there is a v2 of gaslight that can still mani… https://t.co/xftZytdfFQ
- 
-# willijonathan55USER INFO
-![image](http://pbs.twimg.com/profile_images/1550359749996298240/MaCYSisl_normal.jpg)
- 
-`User ScreenName:` willijonathan55 
- 
-`User chosen Name:` Jonathan williams 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 22 05:49:22 +0000 2022 
- 
-`User Description?:` what does'nt kill you nmkes ypu stronger. proud Dad. lives in the beautiful city of Houston. 
- 
-`Followers?: `13 
- 
-`Following?:` 41 
- 
-`User URL?:` None 
- 
-`Location:` sicily Italy 
- 
-`Number of tweets extracted`  : 172 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550359749996298240/MaCYSisl_normal.jpg 
- 
-`Number of tweets excluding replies:` 173 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SORRY** 38 , **HERE** 38 , **DROPPING** 37 , **I'M** 34 , **READ** 31 , **SAW** 29 , **PROFILE** 26 , **@FOXNEWS** 22 , **ITS** 19 , **THAT'S** 18 , **QUIET** 18 , **IMPRESSIVE** 11 , **COMPLETELY** 8 , **THROUGH** 6 , **AGREE** 6 , **MIND** 5 , **GOING** 5 , **HI** 5 , **@THEHILL** 5 , **I…** 4 , 
- 
-## What this user tweeted
- 
-@cherbic555 @MontagueTerrie Yemen's collapsing economy, Itself a product of the conflict. Exacerbated vulnerabiliti… https://t.co/ghbtsJMMlz
- 
-# NerdbrroUSER INFO
-![image](http://pbs.twimg.com/profile_images/1551211235080814593/ex1Rx1Xp_normal.jpg)
- 
-`User ScreenName:` Nerdbrro 
- 
-`User chosen Name:` Josiah 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jul 24 14:18:19 +0000 2022 
- 
-`User Description?:` Marvel shill 😂 Huge marvel comics fan/MCU 
- 
-`Followers?: `1 
- 
-`Following?:` 126 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 86 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1551211235080814593/ex1Rx1Xp_normal.jpg 
- 
-`Number of tweets excluding replies:` 86 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@MCU_DIRECT:** 23 , **MARVEL** 14 , **KANG** 13 , **AVENGERS:** 13 , **@MARVELSTUDIOS:** 13 , **DIRECTOR** 10 , **NEW** 10 , **KEVIN** 10 , **ANNOUNCED** 10 , **•** 10 , **MCU** 9 , **HALL** 9 , **@THEREALSUPES:** 8 , **FEIGE** 8 , **H:** 8 , **STUDIOS'** 8 , **@THEDENOFNERDS:** 7 , **DESTIN** 7 , **SDCC2022** 7 , **3** 6 , 
- 
-## What this user tweeted
- 
-RT @MCU_Direct: Evangeline Lilly has revealed how the Wasp's journey in ANT-MAN AND THE WASP: QUANTUMANIA will be different than the second…
- 
-# GrandmasbeefarmUSER INFO
-![image](http://pbs.twimg.com/profile_images/1551948134548373504/_3-e-urq_normal.jpg)
- 
-`User ScreenName:` Grandmasbeefarm 
- 
-`User chosen Name:` Penny 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 26 14:42:03 +0000 2022 
- 
-`User Description?:` Catholic beekeeper in Oklahoma. Please don’t bring political crap to this account because I lack the self control to avoid arguing like some kind of idiot. 
- 
-`Followers?: `10 
- 
-`Following?:` 208 
- 
-`User URL?:` None 
- 
-`Location:` Oklahoma 
- 
-`Number of tweets extracted`  : 36 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1551948134548373504/_3-e-urq_normal.jpg 
- 
-`Number of tweets excluding replies:` 36 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ABORTION** 4 , **@XAN_DESANCTIS:** 3 , **CHARGES** 2 , **BEING** 2 , **MISCARRIAGE** 2 , **SAYING** 2 , **MEDIA** 2 , **THERE’S** 2 , **DIFFERENCE** 2 , **BETWEEN** 2 , **I’M** 2 , **DEPENDING** 2 , **AGAINST** 2 , **NEVER** 2 , **PLACE** 2 , **QUESTION** 2 , **WEEK** 2 , **AFTER** 2 , **DURING** 2 , **MUCH** 2 , 
- 
-## What this user tweeted
- 
-@guideforlovers When cohabitating and revealing your innermost self, vulnerabilities, weaknesses amounts to a real… https://t.co/ywwriNC6rl
- 
-# MichaelBBoldUSER INFO
-![image](http://pbs.twimg.com/profile_images/1550718188941324289/S9IGwHk3_normal.jpg)
- 
-`User ScreenName:` MichaelBBold 
- 
-`User chosen Name:` Michael 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 23 05:41:55 +0000 2022 
- 
-`User Description?:` Crypto Love + Defi+ Game Addicted 
- 
-`Followers?: `7 
- 
-`Following?:` 54 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 119 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550718188941324289/S9IGwHk3_normal.jpg 
- 
-`Number of tweets excluding replies:` 119 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@KOICAPITAL_** 53 , **PROJECT** 21 , **@IDEAVERSEIDV** 17 , **@WWW_BIT_STORE** 16 , **MARKETING** 12 , **AMA** 11 , **PLAN** 11 , **JOIN** 9 , **US** 9 , **MANY** 9 , **@LEONA_BIANCAA2** 8 , **@KRISHSTEEM** 8 , **@BRAVOO_C** 8 , **@ATHENACLUTCH** 8 , **COMMUNITY** 8 , **GLOBAL** 8 , **PROJECTS** 8 , **ANY** 7 , **STRATEGIES** 7 , **JULY** 6 , 
- 
-## What this user tweeted
- 
-@hashpalette_en @koicapital_ Kindly tell us about your smarts contract? Have you done any audit ? How secure is sma… https://t.co/Ij5MeDKvMi
- 
-# sanya_098sharmaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1550381875239141376/mU1fyNdZ_normal.jpg)
- 
-`User ScreenName:` sanya_098sharma 
- 
-`User chosen Name:` Sanya Sharma 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 22 04:38:14 +0000 2022 
- 
-`User Description?:` Beauty lies in the eye of beholder. 
- 
-`Followers?: `5 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550381875239141376/mU1fyNdZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 209 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KARANKUNDRRA** 84 , **@KKUNDRRA** 80 , **U** 37 , **TEJRAN** 35 , **KARAN** 24 , **POST** 16 , **TEJASSWIPRAKASH** 14 , **DON'T** 14 , **UR** 14 , **HAI** 13 , **KKUNDRRASQUAD** 13 , **LAUNCH** 13 , **PLZ** 13 , **LOVE** 12 , **R** 12 , **KI** 12 , **SNAPPED** 11 , **@ITSMETEJASSWI** 10 , **@CRICBOLLYBUZZ:** 9 , **HANDSOME** 9 , 
- 
-## What this user tweeted
- 
-RT @KaransAlisha: @kkundrra ♥️✨
-Just wanna say Thank you so much for being you♥️
-For letting the world know d real you
-From sharing ur vuln…
- 
-# Al_DariyaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1549806722591690752/838m4AAt_normal.png)
- 
-`User ScreenName:` Al_Dariya 
- 
-`User chosen Name:` Dare A 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 20 17:21:31 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1549806722591690752/838m4AAt_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STARTUPS** 2 , **RT** 1 , **@ESKA_GLOBAL:** 1 , **WEBINAR** 1 , **TALK** 1 , **CYBERSECURITY** 1 , **CHALLANGES** 1 , **FACING** 1 , **BUILD** 1 , **SECURITY** 1 , **SCRATCH…** 1 , 
- 
-## What this user tweeted
- 
-RT @ESKA_global: Webinar for startups. We will talk about cybersecurity challanges facing startups, how to build security from the scratch…
- 
-# techpearce9USER INFO
-![image](http://pbs.twimg.com/profile_images/1550379482619461632/4BnRCxi7_normal.jpg)
- 
-`User ScreenName:` techpearce9 
- 
-`User chosen Name:` John Pearce 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 21 20:29:47 +0000 2022 
- 
-`User Description?:` #cyber & #technology #news  
-
-@techpearce
-@techpearce2
-@techpearce3
-@techpearce4
-@JohnNews2u
-@johnpearcenews5
-
-#Tech & #Technology #newsupdates 
- 
-`Followers?: `24 
- 
-`Following?:` 90 
- 
-`User URL?:` None 
- 
-`Location:` Manchester UK 
- 
-`Number of tweets extracted`  : 179 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550379482619461632/4BnRCxi7_normal.jpg 
- 
-`Number of tweets excluding replies:` 291 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEFIGEN:** 24 , **TECHNOLOGY** 18 , **@NDTV:** 12 , **SMART** 11 , **@TANSUYEGEN:** 9 , **@FRRONCONI:** 9 , **AI** 9 , **INNOVATION** 9 , **@RONALD_VANLOON:** 8 , **SYSTEM** 8 , **MAKE** 7 , **ROBOT** 7 , **USING** 7 , **ROBOTICS** 7 , **@TECHINSIDER:** 7 , **@JAMESVGINGERICH:** 7 , **BEST** 6 , **THESE** 5 , **TECH** 5 , **ITS** 5 , 
- 
-## What this user tweeted
- 
-RT @Ronald_vanLoon: Best practices #Ransomware Mitigation
--Process validation
--Discover vulnerabilities
--Discover anomalies
--Backup
-by @mos…
- 
-# 4MoonDreams4USER INFO
-![image](http://pbs.twimg.com/profile_images/1550901773765787649/MMK_a3Jg_normal.png)
- 
-`User ScreenName:` 4MoonDreams4 
- 
-`User chosen Name:` Camille Jackson 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 23 17:52:51 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 182 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550901773765787649/MMK_a3Jg_normal.png 
- 
-`Number of tweets excluding replies:` 182 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@IMWATSON91** 74 , **@ACLU** 60 , **@WOMENSMARCH** 27 , **@_BOUDICCARISING** 19 , **TRANS** 17 , **GENDER** 16 , **WOMEN** 14 , **PEOPLE** 14 , **YOU’RE** 13 , **@W00224886** 13 , **MALE** 12 , **MEN** 10 , **DON'T** 10 , **SEX** 10 , **FEMALE** 10 , **@LAVENDERANDRED_** 10 , **STOP** 8 , **NEVER** 8 , **MAN** 8 , **EVERYONE** 7 , 
- 
-## What this user tweeted
- 
-@aliswisel @DrProudman @Independent Quite the opposite. To me, feminism has always been about biology… health bias,… https://t.co/6WdYMncOjh
- 
-# CorgiCoinCrewUSER INFO
-![image](http://pbs.twimg.com/profile_images/1552447528825548800/qtCGPNb4_normal.jpg)
- 
-`User ScreenName:` CorgiCoinCrew 
- 
-`User chosen Name:` CorgiCoinCrew 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 28 00:13:28 +0000 2022 
- 
-`User Description?:` Community-owned Twitter Page of the Community-owned Cryptocurrency.
-
-https://t.co/mfjPvsarlb
-https://t.co/5UUyPmcwip 
- 
-`Followers?: `13 
- 
-`Following?:` 55 
- 
-`User URL?:` https://t.co/YNkshYgKMt 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1552447528825548800/qtCGPNb4_normal.jpg 
- 
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**$CORGI** 9 , **@CORGICOINBSC** 7 , **@CORGICOINBSC:** 5 , **CORGICOIN** 5 , **CORGICREW** 3 , **CERTIK** 2 , **SECURITY** 2 , **FIRST** 2 , **@CORGICOINNFT:** 2 , **COMMUNITY** 2 , **99** 2 , **HEARD** 1 , **CASE** 1 , **😉** 1 , **HTTPS://TCO/PFOG2SZYAEOH** 1 , **BOBBY!!** 1 , **WANNA** 1 , **TG** 1 , **HTTPS://TCO/5TEZJTQSLMBEARS** 1 , **LOAD** 1 , 
- 
-## What this user tweeted
- 
-RT @CorgiCoinBSC: CorgiCoin had a very successful audit with Certik - 0 security vulnerabilities and #184 on their ranking of all tokens!…
  
 # Sam98722473USER INFO
 ![image](http://pbs.twimg.com/profile_images/1549405009992974336/dhjwfa2q_normal.jpg)
@@ -561,38 +112,59 @@ RT @CorgiCoinBSC: CorgiCoin had a very successful audit with Certik - 0 security
  
 ## What this user tweeted
  
-RT @hackinarticles: SSH Command Cheat Sheet
+RT @Solutions3LLC: Marriott confirms another #databreach after hotel got hacked, reports @BleepinComputer. #CyberSecurity #CyberResilience…RT @whoisscanningme: 🔎 Unauthorized port scans
+🔎 Mapped in realtime
+🔎 Tweeted hourly
+🔎 #cybersecurity
+https://t.co/85FSAuEhDV https://t.co/…RT @BforeAi: Predicted Malicious Domain :  eine-liebenswerte-welt[.]com 
+PreCrime Threat Intelligence by @BforeAi 
+Threat Agnostic 
+Near-Ze…RT @Paula_Piccard: .@Akamai blocked largest DDoS in Europe against one of its customers
 
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity…
+Know more: https://t.co/eRnbEHonAz
+
+#DataSecurity…RT @BforeAi: Predicted Malicious Domain :  eliasherrlen76[.]com 
+PreCrime Threat Intelligence by @BforeAi 
+Threat Agnostic 
+Near-Zero False…RT @Ronald_vanLoon: Top Trends &amp; Tips for CISOs
+by @Ronald_vanLoon &amp; @mpryland |
+
+Learn more: https://t.co/C8fcW8JOyK
+
+#AWSPartner #reInfor…RT @AnacompInc: T-Mobile has agreed to pay $350 million to settle multiple class-action suits stemming from a #databreach disclosed last ye…RT @Shubham_pen: Cyber Security Acronyms
+
+#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #cissp #redteam #technol…RT @BforeAi: Predicted Malicious Domain :  endcentralbank[.]com 
+PreCrime Threat Intelligence by @BforeAi 
+Threat Agnostic 
+Near-Zero False…RT @USCERT_gov: 🛡️ #Identitytheft is usually a crime of opportunity. Protect yourself &amp; safeguard your data by taking these precautions: ht…RT @CyberPashto: Welcome to Cyber Pashto weekly Cybersecurity NEWS 28 July 2022 #CyberPashto #Cybersecurity #NewsUpdates #BreakingNews
+Watc…RT @IntegralDefence: 7 signs to put down your phone and walk away - https://t.co/1gjRroopSa - #cyber #cybernews #cybersecurity #cyberdefens…RT @BNNBreaking: JUST IN: The U.S. Justice Department is investigating a threat of cyber attacks by foreign nations involving the federal c…
  
-# SachinS92663872USER INFO
-![image](http://pbs.twimg.com/profile_images/1552109425150029824/oxfAaH2d_normal.png)
+# Maureen01646949USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` SachinS92663872 
+`User ScreenName:` Maureen01646949 
  
-`User chosen Name:` Tech Bakshi 
+`User chosen Name:` Maureen 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 27 01:04:41 +0000 2022 
+`User signup date?:` Thu Jul 28 21:25:36 +0000 2022 
  
-`User Description?:` Hello everyone
-I review new technology and Give Information of New Technology
-You can Subscribe me on my YouTube channel for amazing videos. 
+`User Description?:`  
  
 `Followers?: `0 
  
 `Following?:` 0 
  
-`User URL?:` https://t.co/wvDDu0EOdT 
+`User URL?:` None 
  
-`Location:` India(Himachal Pradesh) 
+`Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 127 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1552109425150029824/oxfAaH2d_normal.png 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 127 
  
 
  
@@ -600,39 +172,118 @@ You can Subscribe me on my YouTube channel for amazing videos.
  
 ## User Top tweeted words 
  
-**1** 3 , **PHONE** 3 , **APPLE** 2 , **USERS** 2 , **+** 2 , **WATCH** 1 , **INDIA** 1 , **MULTIPLE** 1 , **HIGH** 1 , **SEVERITY** 1 , **VULNERABILITIES** 1 , **GOVERNMENT** 1 , **WARNS** 1 , **UPDATE** 1 , **YOUR…** 1 , **HTTPS://TCO/ACIZWPBVVVRT** 1 , **@HEYITSYOGESH:** 1 , **REDMI** 1 , **K50S** 1 , **PRO** 1 , 
+**@1KOSMOSBLOCKID:** 127 , **LEARN** 54 , **IDENTITY** 53 , **1KOSMOS** 29 , **SECURITY** 23 , **RECENT** 22 , **WINDOWS** 22 , **READ** 21 , **BLOG** 21 , **@KUPPINGERCOLE** 18 , **MARKET** 18 , **COMPASS** 18 , **REMOTE** 18 , **HELLO** 15 , **DOWNLOAD** 15 , **WHITEPAPER** 15 , **SECURE** 15 , **COVERS** 14 , **ADVANCED** 13 , **MOST** 13 , 
  
 ## What this user tweeted
  
-Apple Watch Users in India of Multiple High Severity Vulnerabilities, Government Warns to apple users.
-update your… https://t.co/ACIzWPBvvV
+RT @1KosmosBlockID: In his interview with @miliefsky of @cyberdefensemag, Mike Engle explains how 1Kosmos is creating a universe of verifie…RT @1KosmosBlockID: The @kuppingercole Market Compass covers the rise of reusable, verified identity for use cases like remote employee onb…RT @1KosmosBlockID: What are identity providers and what problems do they solve?
+
+Read our recent blog to learn more:
+https://t.co/OVC5g1Cs…RT @1KosmosBlockID: The @kuppingercole Market Compass covers decentralized identity, specifically Self-Sovereign Identity (SSI) solutions.…RT @1KosmosBlockID: In @MacDonaldRob's recent blog, he discusses balancing the risk between easy access and advanced controls when moving t…RT @1KosmosBlockID: Register for our upcoming webinar to learn how 1Kosmos BlockID's integration with Azure AD closes security gaps in pass…RT @1KosmosBlockID: Windows Hello for Business is an excellent start to any passwordless journey. However, if you are considering moving to…RT @1KosmosBlockID: What are the different types of business email compromise attacks? How can they be prevented?
+
+@identity4authnz answers…RT @1KosmosBlockID: Download the whitepaper to learn how to adopt a zero trust security strategy to simplify security infrastructure, optim…RT @1KosmosBlockID: Join our team! Are you ready to reimagine the future of digital identity? 
+
+Discover our open positions: https://t.co/B…RT @1KosmosBlockID: Are your remote employees really who they say they are? 🤔
+
+Download our whitepaper today to learn how to securely onboa…RT @1KosmosBlockID: The @kuppingercole Market Compass covers the rise of reusable, verified identity for use cases like remote employee onb…RT @1KosmosBlockID: Did you make it to 1Kosmos' Fighting Fraud in Government Services webinar?
+
+In case you missed it, watch the full webin…RT @1KosmosBlockID: With an identity-based approach to authentication, identity is at the forefront of security so that organizations know…RT @1KosmosBlockID: How do identity providers work and what problems do they solve?
+
+Read our recent blog to learn more about our secure, d…RT @1KosmosBlockID: Our VP of Product Marketing, @MacDonaldRob, discusses the benefits of using advanced biometrics rather than device-leve…RT @1KosmosBlockID: By supplementing SSO with identity verification and advanced MFA, it's possible to eliminate passwords in a safe and se…RT @1KosmosBlockID: The @kuppingercole Market Compass covers decentralized identity, specifically Self-Sovereign Identity (SSI) solutions.…RT @1KosmosBlockID: Read our recent blog to learn how 1Kosmos strengthens the identity pillar of zero trust: https://t.co/ZMpLm2spGJ
+
+#zero…RT @1KosmosBlockID: Register for our upcoming webinar to learn how 1Kosmos BlockID's integration with Azure AD closes security gaps in pass…RT @1KosmosBlockID: Windows Hello for Business is an excellent start to any passwordless journey. However, if you are considering moving to…RT @1KosmosBlockID: We're proud to announce our investment from security experts @TechGula as we advance our vision of integrating identity…RT @1KosmosBlockID: What does @FIDOAlliance's May 5th announcement mean for the future of passwordless authentication?🤔 
+
+Watch our recent…RT @1KosmosBlockID: What exactly is "strong authentication"? 🤔 
+
+Read @MacDonaldRob's recent blog to learn more about the different types o…RT @1KosmosBlockID: Are your remote employees really who they say they are? 🤔
+
+Download our whitepaper today to learn how to securely onboa…RT @1KosmosBlockID: Read our datasheet to learn how 1Kosmos SIM Binding reduces fraud with identity based access control: https://t.co/afEm…RT @1KosmosBlockID: The @kuppingercole Market Compass covers the rise of reusable, verified identity for use cases like remote employee onb…RT @1KosmosBlockID: Is your contractor really who they say they are?
+
+Download the whitepaper to learn how you can securely address contrac…RT @1KosmosBlockID: With an identity-based approach to authentication, identity is at the forefront of security so that organizations know…RT @1KosmosBlockID: Banks and financial institutions are among the most vulnerable businesses regarding data theft. What can they do to pre…RT @1KosmosBlockID: Thank you to @FinTech_Futures for recognizing 1Kosmos as the Best Consumer Digital Banking Solutions Provider in the 20…RT @1KosmosBlockID: In this vlog, our CSO and Co-Founder, Michael Engle, joins our CMO, @mcichon to discuss why identity is the most import…RT @1KosmosBlockID: What are identity providers and what problems do they solve?
+
+Read our recent blog to learn more:
+https://t.co/OVC5g1Cs…RT @1KosmosBlockID: In @MacDonaldRob's recent blog, he discusses balancing the risk between easy access and advanced controls when moving t…RT @1KosmosBlockID: What are the different types of business email compromise attacks? How can they be prevented?
+
+@identity4authnz answers…RT @1KosmosBlockID: The @kuppingercole Market Compass covers decentralized identity, specifically Self-Sovereign Identity (SSI) solutions.…RT @1KosmosBlockID: Download the whitepaper to learn how to adopt a zero trust security strategy to simplify security infrastructure, optim…RT @1KosmosBlockID: Register for our upcoming webinar to learn how 1Kosmos BlockID's integration with Azure AD closes security gaps in pass…RT @1KosmosBlockID: Join our team! Are you ready to reimagine the future of digital identity? 
+
+Discover our open positions: https://t.co/B…RT @1KosmosBlockID: Windows Hello for Business is an excellent start to any passwordless journey. However, if you are considering moving to…RT @1KosmosBlockID: Did you make it to 1Kosmos' Fighting Fraud in Government Services webinar?
+
+In case you missed it, watch the full webin…RT @1KosmosBlockID: Are your remote employees really who they say they are? 🤔
+
+Download our whitepaper today to learn how to securely onboa…RT @1KosmosBlockID: The @kuppingercole Market Compass covers the rise of reusable, verified identity for use cases like remote employee onb…RT @1KosmosBlockID: With an identity-based approach to authentication, identity is at the forefront of security so that organizations know…RT @1KosmosBlockID: How do identity providers work and what problems do they solve?
+
+Read our recent blog to learn more about our secure, d…RT @1KosmosBlockID: How do identity providers work and what problems do they solve?
+
+Read our recent blog to learn more about our secure, d…RT @1KosmosBlockID: By supplementing SSO with identity verification and advanced MFA, it's possible to eliminate passwords in a safe and se…RT @1KosmosBlockID: Read our recent blog to learn how 1Kosmos strengthens the identity pillar of zero trust: https://t.co/ZMpLm2spGJ
+
+#zero…RT @1KosmosBlockID: We're proud to announce our investment from security experts @TechGula as we advance our vision of integrating identity…RT @1KosmosBlockID: The @kuppingercole Market Compass covers decentralized identity, specifically Self-Sovereign Identity (SSI) solutions.…RT @1KosmosBlockID: Register for our upcoming webinar to learn how 1Kosmos BlockID's integration with Azure AD closes security gaps in pass…RT @1KosmosBlockID: What exactly is "strong authentication"? 🤔 
+
+Read @MacDonaldRob's recent blog to learn more about the different types o…RT @1KosmosBlockID: Windows Hello for Business is an excellent start to any passwordless journey. However, if you are considering moving to…RT @1KosmosBlockID: Read our datasheet to learn how 1Kosmos SIM Binding reduces fraud with identity based access control: https://t.co/afEm…RT @1KosmosBlockID: Is your contractor really who they say they are?
+
+Download the whitepaper to learn how you can securely address contrac…RT @1KosmosBlockID: Are your remote employees really who they say they are? 🤔
+
+Download our whitepaper today to learn how to securely onboa…RT @1KosmosBlockID: The @kuppingercole Market Compass covers the rise of reusable, verified identity for use cases like remote employee onb…RT @1KosmosBlockID: With an identity-based approach to authentication, identity is at the forefront of security so that organizations know…RT @1KosmosBlockID: Banks and financial institutions are among the most vulnerable businesses regarding data theft. What can they do to pre…RT @1KosmosBlockID: 1Kosmos BlockID prebuilt integration with Azure AD augments Windows Hello with passwordless MFA that verifies the ident…RT @1KosmosBlockID: In this vlog, our CSO and Co-Founder, Michael Engle, joins our CMO, @mcichon to discuss why identity is the most import…RT @1KosmosBlockID: How do identity providers work and what problems do they solve?
+
+Read our recent blog to learn more about our secure, d…RT @1KosmosBlockID: What are identity providers and what problems do they solve?
+
+Read our recent blog to learn more:
+https://t.co/OVC5g1U3…RT @1KosmosBlockID: In @MacDonaldRob's recent blog, he discusses balancing the risk between easy access and advanced controls when moving t…RT @1KosmosBlockID: What are the different types of business email compromise attacks? How can they be prevented?
+
+@identity4authnz answers…RT @1KosmosBlockID: Download the whitepaper to learn how to adopt a zero trust security strategy to simplify security infrastructure, optim…RT @1KosmosBlockID: Join our team! Are you ready to reimagine the future of digital identity? 
+
+Discover our open positions: https://t.co/B…RT @1KosmosBlockID: The @kuppingercole Market Compass covers decentralized identity, specifically Self-Sovereign Identity (SSI) solutions.…RT @1KosmosBlockID: Register for our upcoming webinar to learn how 1Kosmos BlockID's integration with Azure AD closes security gaps in pass…RT @1KosmosBlockID: Windows Hello for Business is an excellent start to any passwordless journey. However, if you are considering moving to…RT @1KosmosBlockID: Read our datasheet to learn how 1Kosmos SIM Binding reduces fraud with identity based access control: https://t.co/afEm…RT @1KosmosBlockID: Are your remote employees really who they say they are? 🤔
+
+Download our whitepaper today to learn how to securely onboa…RT @1KosmosBlockID: The @kuppingercole Market Compass covers the rise of reusable, verified identity for use cases like remote employee onb…RT @1KosmosBlockID: With an identity-based approach to authentication, identity is at the forefront of security so that organizations know…RT @1KosmosBlockID: Thank you to @FinTech_Futures for recognizing 1Kosmos as the Best Consumer Digital Banking Solutions Provider in the 20…RT @1KosmosBlockID: Come join us for #IPAFriday for all things identity based authentication today at 11:00am PST / 2:00pm EST on LinkedIn!…RT @1KosmosBlockID: How do identity providers work and what problems do they solve?
+
+Read our recent blog to learn more about our secure, d…RT @1KosmosBlockID: By supplementing SSO with identity verification and advanced MFA, it's possible to eliminate passwords in a safe and se…RT @1KosmosBlockID: What exactly is "strong authentication"? 🤔 
+
+Read @MacDonaldRob's recent blog to learn more about the different types o…RT @1KosmosBlockID: The @kuppingercole Market Compass covers decentralized identity, specifically Self-Sovereign Identity (SSI) solutions.…RT @1KosmosBlockID: Register for our upcoming webinar to learn how 1Kosmos BlockID's integration with Azure AD closes security gaps in pass…RT @1KosmosBlockID: Windows Hello for Business is an excellent start to any passwordless journey. However, if you are considering moving to…RT @1KosmosBlockID: Is your contractor really who they say they are?
+
+Download the whitepaper to learn how you can securely address contrac…RT @1KosmosBlockID: Read our datasheet to learn how 1Kosmos SIM Binding reduces fraud with identity based access control: https://t.co/afEm…RT @1KosmosBlockID: Are your remote employees really who they say they are? 🤔
+
+Download our whitepaper today to learn how to securely onboa…RT @1KosmosBlockID: Banks and financial institutions are among the most vulnerable businesses regarding data theft. What can they do to pre…RT @1KosmosBlockID: In this vlog, our CSO and Co-Founder, Michael Engle, joins our CMO, @mcichon to discuss why identity is the most import…RT @1KosmosBlockID: What are identity providers and what problems do they solve?
+
+Read our recent blog to learn more:
+https://t.co/OVC5g1U3…RT @1KosmosBlockID: How do identity providers work and what problems do they solve?
+
+Read our recent blog to learn more about our secure, d…RT @1KosmosBlockID: In @MacDonaldRob's recent blog, he discusses balancing the risk between easy access and advanced controls when moving t…RT @1KosmosBlockID: What are the different types of business email compromise attacks? How can they be prevented?
+
+@identity4authnz answers…RT @1KosmosBlockID: Download the whitepaper to learn how to adopt a zero trust security strategy to simplify security infrastructure, optim…RT @1KosmosBlockID: The @kuppingercole Market Compass covers decentralized identity, specifically Self-Sovereign Identity (SSI) solutions.…RT @1KosmosBlockID: Register for our upcoming webinar to learn how 1Kosmos BlockID's integration with Azure AD closes security gaps in pass…RT @1KosmosBlockID: Windows Hello for Business is an excellent start to any passwordless journey. However, if you are considering moving to…RT @1KosmosBlockID: The @kuppingercole Market Compass covers the rise of reusable, verified identity for use cases like remote employee onb…RT @1KosmosBlockID: Are your remote employees really who they say they are? 🤔
+
+Download our whitepaper today to learn how to securely onboa…RT @1KosmosBlockID: With an identity-based approach to authentication, identity is at the forefront of security so that organizations know…RT @1KosmosBlockID: Thank you to @FinTech_Futures for recognizing 1Kosmos as the Best Consumer Digital Banking Solutions Provider in the 20…RT @1KosmosBlockID: How do identity providers work and what problems do they solve?
+
+Read our recent blog to learn more about our secure, d…RT @1KosmosBlockID: By supplementing SSO with identity verification and advanced MFA, it's possible to eliminate passwords in a safe and se…RT @1KosmosBlockID: What exactly is "strong authentication"? 🤔 
+
+Read @MacDonaldRob's recent blog to learn more about the different types o…RT @1KosmosBlockID: Is your contractor really who they say they are?
+
+Download the whitepaper to learn how you can securely address contrac…
  
-# Abel42069USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# adamgaidamUSER INFO
+![image](http://pbs.twimg.com/profile_images/1550474958576533504/RABGxs8e_normal.jpg)
  
-`User ScreenName:` Abel42069 
+`User ScreenName:` adamgaidam 
  
-`User chosen Name:` Abel 
+`User chosen Name:` adam gaidam 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 20 19:30:53 +0000 2022 
+`User signup date?:` Fri Jul 22 12:21:44 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Computer science ( cyber security) 
  
-`Followers?: `4 
+`Followers?: `20 
  
-`Following?:` 106 
+`Following?:` 56 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 23 
+`Number of tweets extracted`  : 91 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1550474958576533504/RABGxs8e_normal.jpg 
  
-`Number of tweets excluding replies:` 23 
+`Number of tweets excluding replies:` 91 
  
 
  
@@ -640,11 +291,133 @@ update your… https://t.co/ACIzWPBvvV
  
 ## User Top tweeted words 
  
-**VS** 5 , **PADDY** 3 , **LMAO** 3 , **SEAN** 3 , **TOO** 2 , **HE’S** 2 , **SAYING** 2 , **BITCH** 2 , **BAD** 2 , **DUDE** 2 , **FUCK** 2 , **PEOPLE** 2 , **DON’T** 2 , **GOT** 2 , **Y’ALL** 2 , **RT** 1 , **@BENDAMAN2001:** 1 , **WAY** 1 , **HYPED** 1 , **DOUMBE’S** 1 , 
+**CYBERSECURITY** 34 , **INFOSEC** 23 , **PENTESTING** 20 , **PYTHON** 20 , **AI** 17 , **OSCP** 17 , **@SEOKONIKAISLAM:** 15 , **REDTEAM** 14 , **@HACKINARTICLES:** 13 , **CYBERSECURITYTIPS** 13 , **INFORMATIONSECURITY** 13 , **MACHINELEARNING** 12 , **DATASCIENCE** 12 , **BIGDATA** 10 , **ANALYTICS** 10 , **RSTATS** 10 , **CISSP** 9 , **DATASECURITY** 9 , **REACTJS** 9 , **IIOT** 9 , 
  
 ## What this user tweeted
  
-@Actionman513 Unfair/incorrect, paddy has looked beatable, conor was steamrolling fools with his left. Paddy has sh… https://t.co/WcGUFktjHm
+RT @Shubham_pen: The Strategic Guide to the MITRE ATT&amp;CK Framework
+Credit: https://t.co/RI5ltfWY8m
+
+#infosec #cybersecurity #pentesting #os…RT @Sheraj99: #Linux Performance Tools https://t.co/jfBAt0zQqE #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #I…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…
+ 
+# CbcnsLiveUSER INFO
+![image](http://pbs.twimg.com/profile_images/1552765220640006144/b74I0WQX_normal.png)
+ 
+`User ScreenName:` CbcnsLive 
+ 
+`User chosen Name:` CBSNS LIVE 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 28 21:17:32 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1552765220640006144/b74I0WQX_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WHITE** 1 , **HOUSE’S** 1 , **CYBERSECURITY** 1 , **WORKFORCE** 1 , **PLAN** 1 , **LOOK** 1 , **HTTPS://TCO/S3DOA8CHS6SMASHING** 1 , **PODCAST** 1 , **EPISODE** 1 , **47** 1 , **SARA** 1 , **SOUEIDAN:** 1 , **DOES** 1 , **ACCESSIBILITY** 1 , **MATTER?** 1 , **HTTPS://TCO/31EIKWQGRCIN** 1 , **GARDEN** 1 , **HYPERAUTOMATION￼** 1 , **HTTPS://TCO/KZNRLLTL4FUNIFIED** 1 , **COMMERCE** 1 , 
+ 
+## What this user tweeted
+ 
+What the White House’s Cybersecurity Workforce Plan Should Look Like https://t.co/S3doA8CHS6
+ 
+# byulisintownUSER INFO
+![image](http://pbs.twimg.com/profile_images/1552552592194027520/07qr-8LW_normal.jpg)
+ 
+`User ScreenName:` byulisintown 
+ 
+`User chosen Name:` byul🐣✨ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 28 07:07:49 +0000 2022 
+ 
+`User Description?:` Love small and cute things 🥺🤏 
+ 
+`Followers?: `2 
+ 
+`Following?:` 35 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 59 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1552552592194027520/07qr-8LW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 60 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CALLMEZJBBY:** 29 , **😭😭💫** 7 , **@KINGCHESSGM1:** 5 , **WAY** 4 , **YOUTUBE** 3 , **VIA** 3 , **@YOUTUBE** 3 , **@SEQSCIENCE:** 3 , **CYBERSECURITY** 3 , **BTS** 3 , **WINDOWS** 2 , **11** 2 , **PAGE** 2 , **!!!** 2 , **CHESS** 2 , **TACTICS** 2 , **FREE** 2 , **DECOY** 2 , **FACE** 2 , **MAGNUS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @seqscience: We have compiled a list of issues and #networking #threats that are #emerging currently. #cybersecurity #seq #pentesting #p…RT @seqscience: Remote work raises new cybersecurity concerns and is one of the most talked-about emerging developments in cybersecurity to…
+ 
+# IliassMeeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1552291701485719553/mRvOdg3W_normal.png)
+ 
+`User ScreenName:` IliassMee 
+ 
+`User chosen Name:` Mee Iliass 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 27 13:55:56 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1552291701485719553/mRvOdg3W_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 6 , **FULL** 4 , **ACTIVATED** 4 , **DISCOUNT** 4 , **100%** 4 , **MARKETING** 3 , **PRO** 2 , **YOUTUBE** 2 , **OFF…** 2 , **OFF** 2 , **INFOSEC…** 2 , **EDITION** 2 , **DR** 1 , **FARFARVIDEO** 1 , **BLASTER** 1 , **V148** 1 , **TOOL** 1 , **HTTPS://TCO/2KK3KY5SO8TUBERANK** 1 , **JEET** 1 , **4** 1 , 
+ 
+## What this user tweeted
+ 
+Video Marketing Blaster Pro v1.48 Full Activated – Youtube Marketing Tool – Discount 100% OFF… https://t.co/2KK3Ky5SO8
  
 # techresourzeUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1551276418381889537/VdHZ4PcZ_normal.jpg)
@@ -683,26 +456,28 @@ update your… https://t.co/ACIzWPBvvV
  
 ## What this user tweeted
  
-RT @hackinarticles: SSH Command Cheat Sheet
+RT @Paula_Piccard: There Are Too Few Women in Computer Science and Engineering
 
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity…RT @hackinarticles: Ls Linux Commands
+Know more: https://t.co/1wL7agIx8B
 
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp…
+#MachineLearning #Pytho…
  
-# MorbidDregUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# Ibrahim_786_USER INFO
+![image](http://pbs.twimg.com/profile_images/1552086764214435841/AMxC8Xkj_normal.jpg)
  
-`User ScreenName:` MorbidDreg 
+`User ScreenName:` Ibrahim_786_ 
  
-`User chosen Name:` Morbid Dreg 
+`User chosen Name:` Ibrahim Khan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jul 25 10:26:14 +0000 2022 
+`User signup date?:` Tue Jul 26 23:41:32 +0000 2022 
  
-`User Description?:`  
+`User Description?:` It is far better to live like a lion for a day then to live like a jackal for hundred years,
+Islam • honesty • loyalty •
+human rights • Peace • Pakistan 🇵🇰 
  
-`Followers?: `3 
+`Followers?: `21 
  
 `Following?:` 25 
  
@@ -710,255 +485,11 @@ RT @hackinarticles: SSH Command Cheat Sheet
  
 `Location:`  
  
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RUSSIA** 4 , **ITS** 4 , **RUSSIA’S** 3 , **US** 3 , **THESE** 2 , **HISTORY** 2 , **POINT** 2 , **WHERE** 2 , **PROMISE** 2 , **HALT** 2 , **NATO** 2 , **RUSSIAN** 2 , **WEST** 2 , **COULD** 2 , **HUNDREDS** 2 , **STATES** 2 , **@KAYLAGREENXXX** 1 , **PERSONALLY** 1 , **BELIEVE** 1 , **CARRY** 1 , 
- 
-## What this user tweeted
- 
-@kaylagreenxxx At this point Russia’s patience was pushed to its limit, Russia had no choice but to intervene to se… https://t.co/txg16HG3Rj@kaylagreenxxx Unfortunately, the west only considers its own unjustified imperial security needs,  and refuses to… https://t.co/zxYa3SYsa7
- 
-# RosamiaLestari1USER INFO
-![image](http://pbs.twimg.com/profile_images/1550382806093533186/Y9Y_Czw1_normal.jpg)
- 
-`User ScreenName:` RosamiaLestari1 
- 
-`User chosen Name:` Rosa mia Lestari 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 22 07:27:26 +0000 2022 
- 
-`User Description?:` Elsinarosa 
- 
-`Followers?: `2 
- 
-`Following?:` 20 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 197 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550382806093533186/Y9Y_Czw1_normal.jpg 
- 
-`Number of tweets excluding replies:` 245 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@XENOS_GIVEAWAY:** 53 , **@FCMETA_NFT** 47 , **@XENOS_GIVEAWAY** 46 , **@BITMICOFFICIAL:** 22 , **GIVEAWAY** 19 , **🎉** 18 , **FOLLOW** 18 , **+** 18 , **HOURS** 17 , **🥳** 16 , **RT** 15 , **CONGRATS** 15 , **WON** 15 , **BISMILLAH** 14 , **@SUPREMEFINANCE2:** 14 , **DONE** 13 , **‼️** 12 , **✅** 12 , **@THEFLYTRAVELNFT:** 11 , **@MISSYCRYPTONIA:** 9 , 
- 
-## What this user tweeted
- 
-RT @blockxpress: Announcing partnership with @SolidProof_io for our smart contract audit. 🤝
- 
-Solid Proof is specialized in auditing smart…
- 
-# KavinValanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1551125778234241024/-LLkh6HQ_normal.jpg)
- 
-`User ScreenName:` KavinValan 
- 
-`User chosen Name:` Kavin Valan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jul 24 08:06:49 +0000 2022 
- 
-`User Description?:` Full-Stack Developer and Penetration tester | Founder  CCL 
-| Tech Writer | Tweet about Python, C++, programming, GUI dev, Cybersecurity. 
- 
-`Followers?: `4 
- 
-`Following?:` 9 
- 
-`User URL?:` https://t.co/EuZxpDozyf 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 25 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1551125778234241024/-LLkh6HQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 25 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CARBON** 5 , **TOOL** 5 , **LINUX** 3 , **DIRB** 3 , **NETWORK** 3 , **PYTHON** 3 , **DEVELOPER** 2 , **LANGUAGE** 2 , **C-LION** 2 , **C++** 2 , **CARBONLANG** 2 , **SQLIV** 2 , **SCANNER** 2 , **WEB** 2 , **FIND** 2 , **SECURITY** 2 , **WEBSITE** 2 , **USED** 2 , **WHICH** 2 , **WEBSITES** 2 , 
- 
-## What this user tweeted
- 
-Nikto
-Nikto is webserver and web application assessment tool to find potential security issues and vulnerabilities.… https://t.co/MKPCoHvvvO
- 
-# WhoAmI22314071USER INFO
-![image](http://pbs.twimg.com/profile_images/1552313248535531520/u38k5m7B_normal.jpg)
- 
-`User ScreenName:` WhoAmI22314071 
- 
-`User chosen Name:` WhoAmI 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 27 15:15:02 +0000 2022 
- 
-`User Description?:` https://t.co/BXWWYKuI2R… 
- 
-`Followers?: `2 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:` Cyber Space 
- 
-`Number of tweets extracted`  : 20 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1552313248535531520/u38k5m7B_normal.jpg 
- 
-`Number of tweets excluding replies:` 20 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**00100000** 5 , **01101111** 3 , **01100101** 3 , **01101110** 2 , **01110111** 2 , **@_JOHNHAMMOND:** 2 , **SOME** 2 , **BECOME** 2 , **SECURITY** 2 , **AHR0CDOVL2NHBMFYEXRVA2VUCY5JB20VDHJHZMZPYY9MZWVKYMFJAY9HYM91DC9KANVVEGG3OHVQMZVRDJBVBJBVCMMXB3ZSL3BVC3QUANNWMDEWMDAXMDAGMDEWMDEXMDEGMDEWMTEXMTEGMDEWMDEXMDEGMDEXMDAXMDEGMDEWMTEXMTEGMDEWMDAWMTEGMDEXMDEXMTEGMDEXMDAXMDAGMDEXMDA…** 1 , **HTTPS://TCO/I0QWR5MXVNWOAH** 1 , **TRIED** 1 , **HTTPS://TCO/JNMI5B7IYA** 1 , **COOL!** 1 , **HTTPS://TCO/ZPVE0GGLVPHTTPS://TCO/VUOTMWO5Y9MDEXMTAXMTEGMDEXMDEWMDAGMDEXMDAWMDEGMDEXMTAXMDAGMDAXMDAWMDAGMDEXMDAWMDEGMDEXMDAWMTAGMDEXMDEXMTEGMDEXMTAXMDEGMDEXMTA…** 1 , **HTTPS://TCO/E8MZ6HNHX901000100** 1 , **01111001** 1 , **01110101** 1 , **01101011** 1 , **0111011…** 1 , 
- 
-## What this user tweeted
- 
-RT @_JohnHammond: Taking the ever-popular WORDLE game down to its purest form, in low-level C for super speedy gameplay and... some vulnera…
- 
-# Nirav70610334USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Nirav70610334 
- 
-`User chosen Name:` Nirav 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jul 24 08:33:00 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@RONALD_VANLOON:** 4 , **5G** 2 , **@RONALD_VANLOON** 2 , **MORE:** 2 , **-DISCOVER** 2 , **FUTURE** 2 , **RT** 1 , **GREEN** 1 , **ICT** 1 , **POWERED** 1 , **AI** 1 , **LEARN** 1 , **HTTPS://TCO/RS2W8F8RS7** 1 , **HUAWEIPARTNER** 1 , **WINWIN** 1 , **HUA…RT** 1 , **BEST** 1 , **PRACTICES** 1 , **RANSOMWARE** 1 , **MITIGATION** 1 , 
- 
-## What this user tweeted
- 
-RT @Ronald_vanLoon: Best practices #Ransomware Mitigation
--Process validation
--Discover vulnerabilities
--Discover anomalies
--Backup
-by @mos…
- 
-# OkayamaH2USER INFO
-![image](http://pbs.twimg.com/profile_images/1552478036007612416/Rmo80MfF_normal.jpg)
- 
-`User ScreenName:` OkayamaH2 
- 
-`User chosen Name:` 岡山浩樹 日本人材育成協会 労務管理アドバイザー 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 20 00:27:55 +0000 2022 
- 
-`User Description?:` Google Chrome
-My Own Company  アドバイザー 
- 
-`Followers?: `0 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:` Japan 
- 
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1552478036007612416/Rmo80MfF_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1552086764214435841/AMxC8Xkj_normal.jpg 
  
-`Number of tweets excluding replies:` 329 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WORLDORDERS2012:** 26 , **@QECWRITU:** 15 , **@NIHONKOKU_KENPO:** 14 , **TUBE** 13 , **@JINZAIORG:** 7 , **@ZARD_BOT:** 6 , **ZARDRT** 6 , **@GOV_ONLINE:** 5 , **AQUA** 5 , **MAIL** 5 , **MOBISYSTEMS** 5 , **@MALWAREBYTES:** 4 , **JAPAN** 4 , **／** 3 , **＼** 3 , **GOOGLE** 3 , **ZARD** 3 , **@ZARD_SINCE1991:** 3 , **SARD** 3 , **MICROSOFT** 3 , 
- 
-## What this user tweeted
- 
-RT @Malwarebytes: Do it now. https://t.co/stK9DX46Sx
- 
-# Kryptoverse888USER INFO
-![image](http://pbs.twimg.com/profile_images/1551402305937096704/TctrWXFs_normal.jpg)
- 
-`User ScreenName:` Kryptoverse888 
- 
-`User chosen Name:` Cryptoverse 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jul 25 02:27:38 +0000 2022 
- 
-`User Description?:` All in Cryptoverse 
- 
-`Followers?: `14 
- 
-`Following?:` 205 
- 
-`User URL?:` None 
- 
-`Location:` Cryptoverse 
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1551402305937096704/TctrWXFs_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 555 
  
 
  
@@ -966,12 +497,12 @@ RT @Malwarebytes: Do it now. https://t.co/stK9DX46Sx
  
 ## User Top tweeted words 
  
-**⚜️** 2 , **INTEGRATION** 2 , **1/** 2 , **ASTAR** 2 , **ITS** 2 , **LEARN** 2 , **@ALGEM_IO** 2 , **RT** 1 , **@POLKADOTSPACE:** 1 , **@PROJECTGALAXYHQ** 1 , **@MOONBEAMNETWORK** 1 , **MEANS** 1 , **MOONBEAM-BASED** 1 , **SMART** 1 , **CONTRACTS** 1 , **T…RT** 1 , **@COSMOS_TIC:** 1 , **ADVANTAGE** 1 , **BEAR** 1 , **MARKET** 1 , 
+**کے** 62 , **کی** 59 , **میں** 54 , **ہے** 53 , **سے** 50 , **تو** 36 , **اور** 34 , **کا** 32 , **ہیں** 31 , **نہیں** 28 , **کو** 25 , **پر** 25 , **کر** 22 , **وہ** 22 , **یہ** 19 , **نے** 19 , **کہ** 17 , **ہم** 15 , **ہو** 15 , **بھی** 15 , 
  
 ## What this user tweeted
  
-RT @Cris_Pap8: 1/ With the exponential growth of DeFi,xchain bridges have become a necessity
-However there r many fundamental concerns rega…
+RT @CyberPashto: Welcome to Cyber Pashto weekly Cybersecurity NEWS 28 July 2022 #CyberPashto #Cybersecurity #NewsUpdates #BreakingNews
+Watc…
  
 # LizardGod93USER INFO
 ![image](http://pbs.twimg.com/profile_images/1551250643070976003/yXZLOCuE_normal.jpg)
@@ -998,7 +529,7 @@ However there r many fundamental concerns rega…
  
 `Profile image:` http://pbs.twimg.com/profile_images/1551250643070976003/yXZLOCuE_normal.jpg 
  
-`Number of tweets excluding replies:` 322 
+`Number of tweets excluding replies:` 323 
  
 
  
@@ -1006,40 +537,39 @@ However there r many fundamental concerns rega…
  
 ## User Top tweeted words 
  
-**IL** 33 , **È** 33 , **DI** 32 , **LA** 28 , **E** 22 , **CHE** 21 , **NON** 18 , **UN** 14 , **DA** 13 , **RANSOMWARE** 11 , **HA** 11 , **🔴** 10 , **PER** 10 , **LO** 9 , **@YOURANONRIOTS:** 9 , **@GALLINA_DI:** 9 , **LE** 9 , **MA** 8 , **@GALLINA_DI** 8 , **HANNO** 8 , 
+**IL** 33 , **È** 33 , **DI** 30 , **LA** 27 , **E** 22 , **CHE** 21 , **NON** 19 , **UN** 14 , **DA** 13 , **RANSOMWARE** 11 , **HA** 11 , **🔴** 10 , **PER** 10 , **LO** 9 , **@YOURANONRIOTS:** 9 , **@GALLINA_DI:** 9 , **LE** 9 , **MA** 8 , **@GALLINA_DI** 8 , **HANNO** 8 , 
  
 ## What this user tweeted
  
-RT @Hakin9: ATM Hacking: Advanced methods for finding security vulnerabilities by Anastasis Vasileiadis https://t.co/PNcn2TnBYB 
-
-#infosec…
+RT @Nostalgicbrain0: Basic #Linux Commands
+#ML #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #…
  
-# Pori2091USER INFO
-![image](http://pbs.twimg.com/profile_images/1551811298341449728/c2l_tBLs_normal.jpg)
+# InsaSihaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1550369697085853696/TT77VAjq_normal.jpg)
  
-`User ScreenName:` Pori2091 
+`User ScreenName:` InsaSiha 
  
-`User chosen Name:` Pori 
+`User chosen Name:` जसवंन्त सिह इन्सा 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jul 26 06:00:59 +0000 2022 
+`User signup date?:` Fri Jul 22 06:32:46 +0000 2022 
  
-`User Description?:` I'm a student & crypto business men 
+`User Description?:`  
  
-`Followers?: `8 
+`Followers?: `10 
  
-`Following?:` 73 
+`Following?:` 103 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 83 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1551811298341449728/c2l_tBLs_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1550369697085853696/TT77VAjq_normal.jpg 
  
-`Number of tweets excluding replies:` 83 
+`Number of tweets excluding replies:` 298 
  
 
  
@@ -1047,38 +577,38 @@ RT @Hakin9: ATM Hacking: Advanced methods for finding security vulnerabilities b
  
 ## User Top tweeted words 
  
-**@AL32K** 38 , **@LIMOVERSEGLOBAL** 20 , **@FAHAD3079** 20 , **PROJECT** 11 , **@KINGDOMXGAME** 11 , **PROJECTS** 10 , **AMA** 10 , **@PANDORA_DEX** 10 , **@MAHATAB1230@DENS_CLUB** 9 , **TOKEN** 8 , **@MOVERSERUN** 8 , **@JID32K1** 8 , **@JKL43214** 8 , **JULY** 7 , **@MAHATAB1230** 7 , **BLOCKCHAIN** 6 , **UTC** 6 , **@ZENITHCHAIN_CO** 6 , **@IBATOFFICIAL** 6 , **@DECRED_NEXT** 6 , 
+**SAINT** 77 , **GURMEET** 68 , **RAM** 67 , **RAHIM** 60 , **JI** 56 , **@SHARMASEEMA1377:** 38 , **WORLDNATURECONSERVATIONDAY** 35 , **के** 26 , **है** 25 , **BLOOD** 24 , **को** 23 , **की** 23 , **से** 23 , **EARTH** 22 , **US** 21 , **NATURE** 20 , **SAVE** 19 , **TREES** 18 , **में** 18 , **DERA** 17 , 
  
 ## What this user tweeted
  
-@dens_club @Al32k @limoverseglobal Can you assure us that this won't be one of those projects that come out, do a l… https://t.co/BpkcZIIqHh
+RT @Cyberdost: Do not trust online users unless you know them in real life. Also do not share personal information such as address, phone n…
  
-# HoldProtocolUSER INFO
-![image](http://pbs.twimg.com/profile_images/1549609059556290560/D2m4zEp-_normal.jpg)
+# cagin_ayseUSER INFO
+![image](http://pbs.twimg.com/profile_images/1552719483189559298/EhkUfgiM_normal.jpg)
  
-`User ScreenName:` HoldProtocol 
+`User ScreenName:` cagin_ayse 
  
-`User chosen Name:` Hold Protocol 
+`User chosen Name:` Ayşe ÇAĞIN 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 20 04:15:40 +0000 2022 
+`User signup date?:` Thu Jul 28 18:12:24 +0000 2022 
  
-`User Description?:` Hack mitigation for the #Solana ecosystem. Follow for how we help protect your tokens against hacks & exploits 👨🏻‍💻 $HOLD #SolanaSummerCamp 
+`User Description?:`  
  
-`Followers?: `7 
+`Followers?: `0 
  
-`Following?:` 56 
+`Following?:` 26 
  
-`User URL?:` https://t.co/inW5QBqfHn 
+`User URL?:` None 
  
-`Location:` Solana 
+`Location:`  
  
-`Number of tweets extracted`  : 56 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1549609059556290560/D2m4zEp-_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1552719483189559298/EhkUfgiM_normal.jpg 
  
-`Number of tweets excluding replies:` 56 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -1086,13 +616,252 @@ RT @Hakin9: ATM Hacking: Advanced methods for finding security vulnerabilities b
  
 ## User Top tweeted words 
  
-**PROTOCOLS** 13 , **US** 11 , **SECURITY** 10 , **PROTOCOL** 9 , **@LOSSLESSDEFI** 9 , **CHECK** 8 , **@HOLDPROTOCOL** 6 , **DEFI** 6 , **LESS** 6 , **WE'RE** 6 , **BUILDING** 6 , **WHITE-HATS** 5 , **TRUST** 5 , **TOKENS** 5 , **ON-CHAIN** 5 , **SOLANASUMMERCAMP** 5 , **PANEL** 5 , **TOKEN** 4 , **THIS'LL** 4 , **(EG** 4 , 
+**@SAHAEXPO:** 5 , **TOOK** 4 , **ITS** 4 , **PLACE** 3 , **DR** 2 , **SAHA** 2 , **)** 2 , **PRODUCES** 2 , **TÜRKIYE'S** 2 , **LARGEST** 2 , **STAR** 2 , **SPONSOR** 2 , **TECHNOLOGIES** 2 , **COMPANY** 2 , **DEFENCE** 2 , **RT** 1 , **@SAHAISTANBUL:** 1 , **AZERBAYCAN** 1 , **TEKNIK** 1 , **ÜNIVERSITESI** 1 , 
  
 ## What this user tweeted
  
-Depositing funds into a Solana protocol? Here's why audits aren't foolproof in preventing exploits -
+RT @SahaExpo: Leonardo, (@LDO_Electronics)Italian multinational company specialising in aerospace, defence and security took its place at #…
+ 
+# ZekaBerkayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1552717046420496384/KMwShx04_normal.jpg)
+ 
+`User ScreenName:` ZekaBerkay 
+ 
+`User chosen Name:` Murat Berkay Zeka 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 28 18:02:54 +0000 2022 
+ 
+`User Description?:` SAHA İstanbul
+Project and Business Development Manager 
+ 
+`Followers?: `1 
+ 
+`Following?:` 36 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1552717046420496384/KMwShx04_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
 
-- &amp; why upgra… https://t.co/q2HAhIecra
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SAHAEXPO:** 3 , **STM** 2 , **HAK** 2 , **HEM** 2 , **TOOK** 2 , **ITS** 2 , **PLACE** 2 , **SAHA** 2 , **DR** 2 , **TECHNOLOGIES** 2 , **RT** 1 , **@SSDERGILIK:** 1 , **CO-LIGHT** 1 , **SUALTI** 1 , **AYDINLATMA** 1 , **SISTEMI** 1 , **TÜRK** 1 , **DONANMASININ** 1 , **HIZMETINDE!** 1 , **SISTEM** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SahaExpo: Leonardo, (@LDO_Electronics)Italian multinational company specialising in aerospace, defence and security took its place at #…
+ 
+# marisor38620732USER INFO
+![image](http://pbs.twimg.com/profile_images/1552517163566518273/Qg9TWDjX_normal.jpg)
+ 
+`User ScreenName:` marisor38620732 
+ 
+`User chosen Name:` mari soria 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 28 04:51:05 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1552517163566518273/Qg9TWDjX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NFT** 3 , **MINTING** 3 , **LEGAL** 3 , **RT** 2 , **WIN** 2 , **NEWS** 2 , **LET’S** 2 , **START** 2 , **LICENSE** 2 , **GUYS** 2 , **ADDITION** 2 , **SOAP** 2 , **S…RT** 2 , **NEW** 2 , **EXCITED** 2 , **SEXY** 2 , **THICC** 2 , **RAVEN** 2 , **IS…RT** 2 , **FINALLY** 2 , 
+ 
+## What this user tweeted
+ 
+RT @AstraProtocol: 🎉@SecNielsen Joins #Web3 Compliance Platform @AstraProtocol as Adviser!
+
+🚀Kirstjen Nielsen to advise on global risk envi…
+ 
+# MoosaPatriotUSER INFO
+![image](http://pbs.twimg.com/profile_images/1551255901721485312/FCySaLaS_normal.jpg)
+ 
+`User ScreenName:` MoosaPatriot 
+ 
+`User chosen Name:` Moosa 🇵🇰 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 24 17:18:27 +0000 2022 
+ 
+`User Description?:` Islam | Humanity | Ummah | PakArmy & ISI• Kashmir & Palestine | Imran Khan | main account @Moosa_Patriot | Peace | Pakistan comes First 🇵🇰 
+ 
+`Followers?: `36 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1551255901721485312/FCySaLaS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1093 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کے** 72 , **میں** 61 , **سے** 57 , **کی** 49 , **ہے** 48 , **اور** 34 , **تو** 33 , **کا** 31 , **ہیں** 29 , **نہیں** 28 , **کو** 27 , **نے** 27 , **اللہ** 25 , **بھی** 24 , **ہو** 20 , **کر** 20 , **پر** 19 , **یہ** 18 , **آپ** 17 , **کہ** 16 , 
+ 
+## What this user tweeted
+ 
+RT @CyberPashto: Welcome to Cyber Pashto weekly Cybersecurity NEWS 28 July 2022 #CyberPashto #Cybersecurity #NewsUpdates #BreakingNews
+Watc…
+ 
+# bsecurezUSER INFO
+![image](http://pbs.twimg.com/profile_images/1551862423673380864/4Ozo5B27_normal.jpg)
+ 
+`User ScreenName:` bsecurez 
+ 
+`User chosen Name:` B Security 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 26 09:25:28 +0000 2022 
+ 
+`User Description?:` We are a startup , we do Cybersecurity services along with penetration testing ,web designing , UI/UX and Premium Ethical Hacking courses. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1551862423673380864/4Ozo5B27_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 6 , **BSECUREZ** 4 , **BSECURITY** 3 , **WEBDEVELOPMENT** 3 , **BGMI** 2 , **ETHICALHACKING** 2 , **DATA** 2 , **REMOVED** 1 , **PLAYSTORE** 1 , **BAN** 1 , **WHOT???** 1 , **BGMIBAN** 1 , **PUBGMOBILE** 1 , **HTTPS://TCO/S56HXA8RYIBSECUREZ** 1 , **HTTPS://TCO/2XQCYBFAOVCYBERSECURITY** 1 , **RELIES** 1 , **SCIENCE** 1 , **INTERGRITY** 1 , **HTTPS://TCO/5FQUKQ5DIPBSECUREZ** 1 , **HTTPS://TCO/6UHAIKH7WZBSECURITY** 1 , 
+ 
+## What this user tweeted
+ 
+Bgmi removed from the playstore, ban or whot???
+
+#bsecurez #cybersecurity #BGMI #bgmiban #PUBGMOBILE https://t.co/s56HXA8RyI
+ 
+# N9neDeepUSER INFO
+![image](http://pbs.twimg.com/profile_images/1551931231176216577/55D4WYp1_normal.jpg)
+ 
+`User ScreenName:` N9neDeep 
+ 
+`User chosen Name:` Deep Space N9ne 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 26 14:01:14 +0000 2022 
+ 
+`User Description?:` I am a #pythonprogrammer and interested in #cybersecurity / #ethicalhacking 
+ 
+`Followers?: `7 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 35 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1551931231176216577/55D4WYp1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 35 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PYTHON** 17 , **PROGRAMMING** 11 , **DATASCIENCE** 8 , **CYBERSECURITY** 7 , **…RT** 6 , **JAVASCRIPT** 5 , **✨** 5 , **SQL** 4 , **ANALYTICS** 4 , **AI** 4 , **CODING** 4 , **OLD** 4 , **⛳️** 4 , **BIGDATA** 3 , **LEARN** 3 , **HACKERS** 3 , **@MYTRASHCODE:** 3 , **MEME** 3 , **PROGRAMMINGJOKE** 3 , **CODE** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Nostalgicbrain0: Basic #Linux Commands
+#ML #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #…RT @Hakin9: In this video tutorial you will learn how to use the Harvester in combination with Shodan to collect email addresses for intell…RT @three_cube: Network Basics for Hackers, Server Message Block (SMB): How it Works and How it Breaks #smb #networkbasics #cybersecurity #…
+ 
+# g0summitUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` g0summit 
+ 
+`User chosen Name:` g0summit 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 28 15:14:17 +0000 2022 
+ 
+`User Description?:` g0summit 
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GROUND** 1 , **ZERO** 1 , **SUMMIT** 1 , **REBOOTED** 1 , **2022** 1 , **5TH** 1 , **6TH** 1 , **AUGUST** 1 , **DR** 1 , **AMBEDKAR** 1 , **INT** 1 , **CENTER** 1 , **NEW** 1 , **DELHI!** 1 , **HTTPS://TCO/USJFYSZVFB…** 1 , **HTTPS://TCO/HNV5YKZQBZ** 1 , 
+ 
+## What this user tweeted
+ 
+Ground Zero Summit Rebooted 2022 on 5th and 6th August, Dr Ambedkar Int Center, New Delhi! https://t.co/UsjFYSZvfb… https://t.co/hNv5YKZqBz
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
