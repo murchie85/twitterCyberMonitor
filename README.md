@@ -11,10 +11,10 @@
  
 ![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **KrystleM_Reid**  
+The most popular user is: **Malwar3Ninja**  
  
 
-## My new blog on Iran-based threat actor #YellowGaruda a.k.a. #CharmingKitten looks at undisclosed tools, #OPSEC erro… https://t.co/H7eOWFKGrW 
+## 🔥⚡Today we carried out a proactive Internet Wide #Threathunt to identify #CobaltStrike Servers. So far we have iden… https://t.co/mAgLuHjOYX 
 
   
 
@@ -29,18 +29,18 @@ The most popular user is: **KrystleM_Reid**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CyberIQs_: DHL Phishing Page Uses Telegram Bot for Exfiltration #infosec #infosecurity #cybersecurity #threatintel #threatintelligence… |
-| RT @mikey27_63: How do you communicate #ThreatIntel to your organization in a crisis? #x33fcon #geopolitics @QuoIntelligence https://t.co/g… |
-| RT @JinibaBD: 🚨Watch out Apple users‼️This creepy #macOS #backdoor spies on you without you noticing 🍏🍎🤦‍♂️#ThreatIntel #Phishing #ransomw… |
+| RT @outpost24: Day7 of #ThreatIntel - Data leak is a big problem for GDPR and IP protection. Our data leakage module make it easy to discov… |
+| RT @CyberSecDN: Multiple vulnerabilities in widely-used GPS tracker could allow attackers to track, disrupt vehicles https://t.co/gQmXTIGzq… |
+| DOJ recovers ransoms paid by health centers in Kansas, Colorado https://t.co/tqWMCxGFp8 |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **DailyOsint** |
 | #2 Most tweeted to  | **JinibaBD** |
-| #3 Most tweeted to  | **CyberIQs_** |
+| #3 Most tweeted to  | **Volexity** |
 | NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 1.77%|
+| Tweeters with < 10 followers  | 1.84%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,8 +51,8 @@ The most popular user is: **KrystleM_Reid**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **THREATINTEL**  |
-| second  | **RANSOMWARE**  |
-| third  | **MALWARE** |
+| second  | **MALWARE**  |
+| third  | **RANSOMWARE** |
 | fourth  | **THREAT**  |
 | fifth  | **PHISHING**  |
 
@@ -60,18 +60,18 @@ The most popular user is: **KrystleM_Reid**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|The PwC #threatintel team has published new findings on the group we call #YellowGaruda (which closely aligns to… https://t.co/nIlVsetm05 |
+|Brute Ratel C4 Detected - 54[.]93[.]134[.]133:443 - https://t.co/IsEyYu394I#BruteRatelC4Detected #OSINT #ThreatIntel |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KrystleM_Reid**  |
+| The most retweeted user is: **Malwar3Ninja**  |
 | ------------- |
-| My new blog on Iran-based threat actor #YellowGaruda a.k.a. #CharmingKitten looks at undisclosed tools, #OPSEC erro… https://t.co/H7eOWFKGrW |
+| 🔥⚡Today we carried out a proactive Internet Wide #Threathunt to identify #CobaltStrike Servers. So far we have iden… https://t.co/mAgLuHjOYX |
 
 # Potential Fake Accounts
  
