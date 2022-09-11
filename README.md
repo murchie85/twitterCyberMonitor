@@ -29,9 +29,9 @@ The most popular user is: **Volexity**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| SCYTHE Presents: #ThreatThursday – SpeakUp #infosec #infosecurity #cybersecurity #threatintel #threatintelligence… https://t.co/Ezy9WedTnX |
-| RT @CyberIQs_: Albania Cuts Diplomatic Ties With Iran After #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #hacking… |
-| RT @CyberIQs_: eBook: 4 cybersecurity trends to watch in 2022 #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #hacki… |
+| SCYTHE Presents: Threat Thursday Top Ransomware #infosec #infosecurity #cybersecurity #threatintel… https://t.co/MqVCNPnxPz |
+| RT @threatintel: #ThreatProtection #MagicRAT - new #malware attributed to the #Lazarus #APT, read more: https://t.co/LNJhgSdhMY https://t.c… |
+| CISO Interview Series: The thinking of a CISO at #infosec #infosecurity #cybersecurity #threatintel… https://t.co/HMNLAfsrMY |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -60,12 +60,12 @@ The most popular user is: **Volexity**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Exoprise Customers Achieve Significant ROI With #infosec #infosecurity #cybersecurity #threatintel… https://t.co/WLcKnpRLkC |
+|RT @CyberIQs_: 5 stepswords to deliver true transformative impact #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #h… |
 
 ### MOST RETWEETED 
 
@@ -93,17 +93,17 @@ VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTI
  
 `Followers?: `3 
  
-`Following?:` 2 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:` Everywhere 
  
-`Number of tweets extracted`  : 23 
+`Number of tweets extracted`  : 22 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1567476514081443840/w9fRNLqd_normal.jpg 
  
-`Number of tweets excluding replies:` 23 
+`Number of tweets excluding replies:` 22 
  
 
  
@@ -111,7 +111,7 @@ VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTI
  
 ## User Top tweeted words 
  
-**E-MAIL** 4 , **ADRESSES** 4 , **LEAKED** 4 , **@FRAUHOLLE2701** 2 , **2022** 2 , **CYBERATTACK** 2 , **UKRAINE** 2 , **DOCUMENTS** 2 , **@SNAKEPIT_ONE** 1 , **WELCOME** 1 , **ANSWER** 1 , **HIT** 1 , **LIST🤣😊@SNAKEPIT_ONE** 1 , **POLL** 1 , **TELEGRAM** 1 , **LAUNCHED** 1 , **AUGUST** 1 , **30** 1 , **WARNED** 1 , **PEOPLE** 1 , 
+**E-MAIL** 4 , **ADRESSES** 4 , **LEAKED** 4 , **2022** 2 , **CYBERATTACK** 2 , **UKRAINE** 2 , **DOCUMENTS** 2 , **FUCKISIS** 1 , **FCKTERRORISTS** 1 , **CONTENTS** 1 , **:** 1 , **NAMES** 1 , **CODE** 1 , **NAME** 1 , **STATISTICAL** 1 , **NUMBER** 1 , **WIFE** 1 , **SONS** 1 , **PARENTS** 1 , **FI…** 1 , 
  
 ## What this user tweeted
  
