@@ -1040,3 +1040,282 @@ RT @DailyMail: Putin's NUCLEAR threat to the West: Vladimir warns Ukraine's alli
  
 `User signup date?:` Tue Sep 20 07:46:45 +0000 2022 
  
+`User Description?:` Απαισιόδοξος με σκεπτικιστική άποψη για τον άνθρωπο - Βενιζελικός/Μεγάλη ιδέα/Ένωσις 🇬🇷🇨🇾
+
+Μιλάω Ελληνικά/Γερμανικά/Αγγλικά (Greek/German/English) 
+ 
+`Followers?: `5 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:` Καλαμάτα, Ελλάς 
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1572130550042824704/ohyXu33a_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AARONJMATE** 3 , **@LGLOBALCITIZEN** 2 , **@GMENESHIAN** 2 , **RUSSIA** 2 , **COULD** 2 , **@WITTE_SERGEI** 2 , **@OUTANDABOUTJC1** 1 , **REALIZE** 1 , **INSANE** 1 , **ATTACK** 1 , **UKRA…** 1 , **HTTPS://TCO/2C52IGQMRY@MURATENKO** 1 , **SO-CALLED** 1 , **'PROTECTION'** 1 , **DOESN'T** 1 , **JUSTIFY** 1 , **INSTALLATION** 1 , **SATELLITE** 1 , **STATE** 1 , **AGA…** 1 , 
+ 
+## What this user tweeted
+ 
+@outandaboutjc1 @LGlobalcitizen @aaronjmate When you think about that, one realize how insane it was to attack Ukra… https://t.co/2C52IGqMrY
+ 
+# Freedom_TrudiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1569690124660707330/l23H3du4_normal.jpg)
+ 
+`User ScreenName:` Freedom_Trudi 
+ 
+`User chosen Name:` смерть фашизму 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 13 14:05:35 +0000 2022 
+ 
+`User Description?:` Retweets for democracy, freedom and human rights. 
+ 
+`Followers?: `10 
+ 
+`Following?:` 548 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 53 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1569690124660707330/l23H3du4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 10 , **UKRAINE** 7 , **UKRAINIAN** 7 , **RUSSIA** 6 , **WAR** 5 , **GRAVES** 4 , **IZYUM** 4 , **UKRAINIANS** 3 , **MASS** 3 , **VICTIMS** 3 , **GENOCIDE** 3 , **PROTEST** 3 , **MUST** 3 , **@OLEX_SCHERBA:** 2 , **DOES** 2 , **SHOW** 2 , **DAY** 2 , **BRUTALITY** 2 , **@BBCWORLD:** 2 , **REPORTING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @olex_scherba: So, basically, Russia, the mighty member of the UN Security Council, threatens Ukraine and the world with nuclear weapons…
+ 
+# investocrestUSER INFO
+![image](http://pbs.twimg.com/profile_images/1570652567880994817/dFkJzpeh_normal.jpg)
+ 
+`User ScreenName:` investocrest 
+ 
+`User chosen Name:` Investocrest 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 16 05:34:00 +0000 2022 
+ 
+`User Description?:` Trader || Investor || Not SEBI registered||
+Do your own research || Option seller || stock market || Ex-SBI || Ex-HDFC ||Post are not buy sell Recommendations|| 
+ 
+`Followers?: `18 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:` Mumbai, India 
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1570652567880994817/dFkJzpeh_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NIFTY** 5 , **@REDBOXINDIA:** 4 , **FINNIFTY** 3 , **SEEN** 3 , **EXTENDS** 2 , **NIFTY50** 2 , **BUY** 2 , **NET** 2 , **RUPEES** 2 , **INDIAN** 2 , **SHARES** 2 , **BANKNIFTY** 2 , **HERO** 2 , **MINOR** 2 , **SUPPORT** 2 , **EXPIRY** 2 , **LONG** 1 , **SIDE** 1 , **TRADE** 1 , **INITIATED** 1 , 
+ 
+## What this user tweeted
+ 
+RT @REDBOXINDIA: RUSSIAN DEFENCE MINISTER: WE ARE FIGHTING WITH THE WEST IN UKRAINE
+ 
+# Bavovnyatko1USER INFO
+![image](http://pbs.twimg.com/profile_images/1571132854226096129/QJ6cnrV3_normal.jpg)
+ 
+`User ScreenName:` Bavovnyatko1 
+ 
+`User chosen Name:` Bavovnyatko 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 17 13:29:44 +0000 2022 
+ 
+`User Description?:` I love Bavovna 
+ 
+`Followers?: `5 
+ 
+`Following?:` 133 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 189 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1571132854226096129/QJ6cnrV3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 189 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 39 , **RUSSIA** 22 , **UKRAINE** 20 , **UKRAINIAN** 18 , **@DEFENCEU:** 17 , **RUSSIANS** 12 , **WAR** 11 , **PUTIN** 9 , **THAT'S** 9 , **@APMASSARO3:** 9 , **WORLD** 7 , **В** 6 , **ITS** 6 , **MUST** 6 , **REGION** 6 , **НЕ** 5 , **ЯК** 5 , **OCCUPIED** 5 , **TERRITORIES** 5 , **TIME** 5 , 
+ 
+## What this user tweeted
+ 
+RT @USAmbKyiv: Sham referenda and mobilization are signs of weakness, of Russian failure. The United States will never recognize Russia's c…
+ 
+# roxanebartels5USER INFO
+![image](http://pbs.twimg.com/profile_images/1572227221988974592/m1xfHk2__normal.jpg)
+ 
+`User ScreenName:` roxanebartels5 
+ 
+`User chosen Name:` roxane bartels 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 20 14:11:52 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1572227221988974592/m1xfHk2__normal.jpg 
+ 
+`Number of tweets excluding replies:` 392 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NFT** 17 , **DISCORD** 12 , **NEW** 11 , **FOLLOW** 10 , **WL** 10 , **X** 9 , **NFTS** 9 , **@WISHMASTER_0:** 9 , **MINT** 9 , **US** 9 , **RT** 8 , **FIRST** 8 , **@ESSENVIEWS:** 8 , **INTO** 8 , **GO** 8 , **SOME** 7 , **کے** 7 , **DE** 7 , **MADE** 7 , **🚨** 6 , 
+ 
+## What this user tweeted
+ 
+RT @FluffyHammys: Hi! Today we release our collection to charity. Now you can see it available on OpenSea!
+#NFT #UkraineRussianWar #NFTComm…
+ 
+# TheBenCarlowUSER INFO
+![image](http://pbs.twimg.com/profile_images/1570377175798349824/tFwldVXs_normal.jpg)
+ 
+`User ScreenName:` TheBenCarlow 
+ 
+`User chosen Name:` Ben Carlow 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Sep 15 11:36:37 +0000 2022 
+ 
+`User Description?:` Go on, hit me.
+
+New account. Follow back.
+
+City hopper. Working class. Patriot. Not a Tory. 
+
+🚩 
+ 
+`Followers?: `7 
+ 
+`Following?:` 162 
+ 
+`User URL?:` None 
+ 
+`Location:` Liverpool, England 
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1570377175798349824/tFwldVXs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**QUEEN** 7 , **TORY** 4 , **BREAKING:** 3 , **PUTIN** 3 , **GAS** 3 , **YEARS** 3 , **FUNERAL** 3 , **ENOUGH** 3 , **PARTIAL** 2 , **MOBILIZATION** 2 , **SAY** 2 , **LOOKED** 2 , **SMELLED** 2 , **NICE** 2 , **LONG** 2 , **@POLITICSJOE_UK:** 2 , **WEEK** 2 , **MOST** 2 , **GOVERNMENT** 2 , **LAST** 2 , 
+ 
+## What this user tweeted
+ 
+RT @spectatorindex: BREAKING: Russia's Putin has declared a partial mobilization in his country, says the West doesn't want peace between R…
+ 
+# SadderdumberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1572350539257487361/dklmCdbg_normal.jpg)
+ 
+`User ScreenName:` Sadderdumber 
+ 
+`User chosen Name:` Brave New World 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 20 22:17:47 +0000 2022 
+ 
+`User Description?:` #птнпнх 🇺🇦 Слава Україні! 
+ 
+`Followers?: `1 
+ 
+`Following?:` 51 
+ 
+`User URL?:` None 
+ 
+`Location:` End 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1572350539257487361/dklmCdbg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ЧТО** 3 , **ЗА** 2 , **В** 2 , **С** 2 , **@POTUS** 1 , **TIME** 1 , **ATACAMS** 1 , **SHIPPED** 1 , **UKRAINEОПЕРАЦИЯ** 1 , **ПО** 1 , **ЗАХВАТУ** 1 , **КИЕВА** 1 , **ТРИ** 1 , **ДНЯ** 1 , **ИДЕТ** 1 , **НАСТОЛЬКО** 1 , **УСПЕШНО** 1 , **НУЖНО** 1 , **ОБЪЯВЛЯТЬ** 1 , **МОБИЛИЗАЦИЮНУ** 1 , 
+ 
+## What this user tweeted
+ 
+@potus it’s time for ATACAMs to be shipped to Ukraine
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
