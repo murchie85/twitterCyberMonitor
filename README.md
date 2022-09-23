@@ -1896,3 +1896,499 @@ RT @Firouz_Naderi: @elonmusk Elon Thank u for what you did for Ukraine and what 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1573207076238655491/sFIZyhJP_normal.jpg 
  
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FIRST** 1 , **TWEET** 1 , **BUSY** 1 , **TRAINING** 1 , **WEEK** 1 , **LEARN** 1 , **EXPLOSIVE** 1 , **ORDNANCE** 1 , **DISPOSAL** 1 , **IN…** 1 , **HTTPS://TCO/I9PWD0JVME** 1 , 
+ 
+## What this user tweeted
+ 
+Our first Tweet - We are busy training this week with those that want to learn about Explosive Ordnance Disposal in… https://t.co/I9PWD0JVme
+ 
+# AhmadianMedyaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1572877043452481536/uc1V1Rgt_normal.jpg)
+ 
+`User ScreenName:` AhmadianMedya 
+ 
+`User chosen Name:` Medya Ahmadian 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Sep 22 09:13:41 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 42 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1572877043452481536/uc1V1Rgt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**و** 3 , **MAHSAAMINI** 3 , **IRAN** 2 , **OPIRAN** 2 , **کرد** 2 , **@5OGAND:** 2 , **ANONYMOUS** 2 , **RT** 1 , **@FIROUZ_NADERI:** 1 , **@ELONMUSK** 1 , **ELON** 1 , **THANK** 1 , **U** 1 , **UKRAINE** 1 , **PEOPLE** 1 , **PUTTIN…@JK_ROWLING** 1 , **MAHSAAMINIRT** 1 , **@SAMRASOULPOUR:** 1 , **حسین** 1 , **رونقی** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Firouz_Naderi: @elonmusk Elon Thank u for what you did for Ukraine and what you have said will do for the people of Iran who are puttin…
+ 
+# mickosmeckiUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` mickosmecki 
+ 
+`User chosen Name:` Michał Kosmecki 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 17 17:59:26 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@KRISTIRAIK:** 1 , **WISH** 1 , **RUSSIANS** 1 , **SHOCKED** 1 , **WAR** 1 , **CRIMES** 1 , **PEOPLE** 1 , **COMMITTED** 1 , **UKRAINE** 1 , **MOBILISAT…RT** 1 , **@PIECHOCINSKI:** 1 , **POLSKA:** 1 , **WYRAŹNIE** 1 , **MNIEJ** 1 , **MŁODEGO** 1 , **BYDŁA** 1 , 
+ 
+## What this user tweeted
+ 
+RT @KristiRaik: I wish Russians would be as shocked about the war crimes their people have committed in Ukraine as they are about mobilisat…
+ 
+# Azad93631755USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Azad93631755 
+ 
+`User chosen Name:` Azad 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 21 17:01:12 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IRAN** 12 , **PEOPLE** 7 , **MAHSAAMINI** 7 , **@HICHKASOFFICIAL:** 6 , **و** 5 , **INTERNET** 5 , **ISLAMIC** 5 , **REPUBLIC** 5 , **ANONYMOUS** 5 , **رو** 4 , **WORLD** 4 , **مهسا_امینی** 4 , **OPIRAN** 4 , **IRANIANS** 4 , **GOVERNMENT** 4 , **NEED** 3 , **به** 3 , **هشتگ** 3 , **از** 3 , **FIGHT** 3 , 
+ 
+## What this user tweeted
+ 
+RT @HichkasOfficial: The fight for Iran, is the fight for freedom in the frontlines. 
+
+These brave men and women are fighting a regime that…
+ 
+# josephtamil10USER INFO
+![image](http://pbs.twimg.com/profile_images/1571942590756397056/D69FbpOj_normal.jpg)
+ 
+`User ScreenName:` josephtamil10 
+ 
+`User chosen Name:` josephtamil 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 17 15:54:15 +0000 2022 
+ 
+`User Description?:` Ex- refugee  Jaffna tamil , sri Lanka,  Third account after russian invasion on ukraine 
+.
+never studied in english.pz don't curse my english
+stand with ukraine 
+ 
+`Followers?: `31 
+ 
+`Following?:` 112 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1571942590756397056/D69FbpOj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 711 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 36 , **UKRAINE** 21 , **RUSSIA** 19 , **PEOPLE** 14 , **@TREASCHEST:** 13 , **UKRAINIAN** 12 , **MILITARY** 11 , **IRANIAN** 11 , **AGAINST** 10 , **RUSSIANS** 10 , **@FLASH_NEWS_UA:** 10 , **WAR** 9 , **GO** 8 , **AFTER** 7 , **MOSCOW** 7 , **CAPTIVITY** 7 , **MOBILIZATION** 7 , **FORCES** 7 , **⚡️** 7 , **NEVER** 6 , 
+ 
+## What this user tweeted
+ 
+RT @IAPonomarenko: The most ridiculous thing about the Russian “referenda” in occupied Ukraine is that everyone knows the only possible “re…
+ 
+# SalesfromDcryptUSER INFO
+![image](http://pbs.twimg.com/profile_images/1571931036027691015/fBdVts_T_normal.jpg)
+ 
+`User ScreenName:` SalesfromDcrypt 
+ 
+`User chosen Name:` Dan Mills Classic Mopars 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 19 18:35:38 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `23 
+ 
+`Following?:` 43 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 62 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1571931036027691015/fBdVts_T_normal.jpg 
+ 
+`Number of tweets excluding replies:` 62 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ABABCUGS:** 12 , **XRP** 11 , **@WILLYWONKAXRP:** 8 , **RIPPLE** 5 , **@PAPITRUMPO:** 5 , **$XRP** 4 , **SEPTEMBER** 4 , **@BLACKBERRYXRP:** 4 , **US** 4 , **HODL** 4 , **$XRP!!** 4 , **22** 4 , **GOLD** 3 , **☀️RT** 3 , **NEXT** 3 , **RESISTANCE** 3 , **STILL** 3 , **XRPRT** 3 , **🔥🔥🔥** 3 , **@ALEXCOBB_:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @XRPride: @FoJAk3 All vax company registered in Ukraine
+https://t.co/Gh5o2cU2I7
+ 
+# amir_m_8167USER INFO
+![image](http://pbs.twimg.com/profile_images/1572655389933535232/pdqHc74q_normal.jpg)
+ 
+`User ScreenName:` amir_m_8167 
+ 
+`User chosen Name:` amir 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 21 18:33:18 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 40 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1572655389933535232/pdqHc74q_normal.jpg 
+ 
+`Number of tweets excluding replies:` 40 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**مهسا_امینی** 21 , **OPIRAN** 18 , **MAHSAAMINI** 18 , **IRAN** 11 , **PEOPLE** 8 , **MAHSA_AMINI** 5 , **IRANIAN** 5 , **POLICE** 4 , **از** 4 , **ادامه** 4 , **مردم** 4 , **!** 3 , **VOICE** 3 , **قدرت** 3 , **هم** 3 , **ایران** 3 , **به** 3 , **بدید** 3 , **TEHRAN** 2 , **NEEDS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @ItAintmoeen: Why people are not talking about what is happening in Iran right now just like they were talking about Ukraine? Is it a ra…
+ 
+# WildNews16USER INFO
+![image](http://pbs.twimg.com/profile_images/1573203563588763648/a7lHVdJV_normal.jpg)
+ 
+`User ScreenName:` WildNews16 
+ 
+`User chosen Name:` Wild News 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 23 06:52:12 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1573203563588763648/a7lHVdJV_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VIA** 4 , **RUSSIAN** 3 , **UKRAINE** 3 , **DEFENCE** 1 , **MINISTRY** 1 , **REPORT** 1 , **MILITARY** 1 , **OPERATIONS** 1 , **22** 1 , **SEP** 1 , **HTTPS://TCO/OKHOZTFSOD** 1 , **@YOUTUBEUKRAINIAN** 1 , **NATIONAL** 1 , **GUARD** 1 , **HIT** 1 , **KA** 1 , **52** 1 , **HELICOPTER** 1 , **SKY** 1 , **WIT** 1 , 
+ 
+## What this user tweeted
+ 
+Russian Defence Ministry report on military operations in Ukraine 22 Sep... https://t.co/oKhOZTFSOd via @YouTube
+ 
+# Gill31573364USER INFO
+![image](http://pbs.twimg.com/profile_images/1569674100888707072/lvJxJBhL_normal.png)
+ 
+`User ScreenName:` Gill31573364 
+ 
+`User chosen Name:` Gill 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Sep 13 13:07:23 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1569674100888707072/lvJxJBhL_normal.png 
+ 
+`Number of tweets excluding replies:` 291 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MFA_RUSSIA** 22 , **@SHUBHAMPATILL23** 16 , **@RUSSIANEMBASSY** 16 , **@EU_COMMISSION** 16 , **DON’T** 14 , **PEOPLE** 13 , **@ALANPET60608394** 13 , **@FCDOGOVUK…** 11 , **@TWMCLTD** 10 , **@MEGHANMOOD** 8 , **HE’S** 7 , **LOOK** 7 , **I’M** 6 , **STOP** 6 , **WELL** 6 , **@LEECAMP** 6 , **THAT’S** 6 , **REALLY** 6 , **@EMBASSYOFRUSSIA** 6 , **@KREMLINRUSSIA_E** 6 , 
+ 
+## What this user tweeted
+ 
+@Outerlnk @thatdayin1992 America has invested billions in Ukraine. Hunter Biden sitting on the boards of the gas co… https://t.co/TEZT1w4Jdy
+ 
+# Ignacio31138579USER INFO
+![image](http://pbs.twimg.com/profile_images/1573211911130185729/FQB2dFt8_normal.jpg)
+ 
+`User ScreenName:` Ignacio31138579 
+ 
+`User chosen Name:` Ignacio Nunez 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 23 07:07:11 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1573211911130185729/FQB2dFt8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WAR** 2 , **RT** 1 , **@ELONMUSK:** 1 , **STARLINK** 1 , **CONNECTING** 1 , **SCHOOLS** 1 , **AMAZONRT** 1 , **@POPMECH:** 1 , **INSTEAD** 1 , **HELPING** 1 , **WIN** 1 , **MOBILIZATION** 1 , **COULD** 1 , **YET** 1 , **ANOTHER** 1 , **PUTIN’S** 1 , **DECISIONS** 1 , **STARTING** 1 , **ITSELF** 1 , **THAT…RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PopMech: Instead of helping win the war, the mobilization could be yet another of Putin’s decisions, like starting the war itself, that…
+ 
+# Zoro73757683USER INFO
+![image](http://pbs.twimg.com/profile_images/1572964844675993600/4s26es3o_normal.jpg)
+ 
+`User ScreenName:` Zoro73757683 
+ 
+`User chosen Name:` Zoro 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Sep 22 15:01:56 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1572964844675993600/4s26es3o_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SKYNEWS** 11 , **UK** 3 , **INTO** 3 , **MEMBER** 2 , **@SKYNEWS:** 2 , **1** 2 , **UKRAINE** 2 , **1ST** 2 , **😍** 2 , **RT** 1 , **@OKANGOCAROLYN:** 1 , **TRUE** 1 , **SECURITY** 1 , **CAUSE** 1 , **INSECURITY** 1 , **UKRAINE?!RT** 1 , **@FHILIPGREEN:** 1 , **UN** 1 , **ONCE** 1 , **AGAIN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @OkangoCarolyn: @SkyNews True, how can a security member be the cause of insecurity of Ukraine?!
+ 
+# DollThomas27USER INFO
+![image](http://pbs.twimg.com/profile_images/1573191471062196225/gR1opyny_normal.jpg)
+ 
+`User ScreenName:` DollThomas27 
+ 
+`User chosen Name:` Doll 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 23 06:00:24 +0000 2022 
+ 
+`User Description?:` Freedom. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1573191471062196225/gR1opyny_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ALWAYS** 2 , **SHOCKING** 2 , **INHUMANE…** 2 , **DON’T** 2 , **KID** 2 , **YOURSELF** 2 , **SIDED** 2 , **TRULY** 2 , **RT** 1 , **@TOADMEISTER:** 1 , **"THE** 1 , **FSU** 1 , **GOING** 1 , **TRY** 1 , **LAW** 1 , **CHANGED** 1 , **PAYPAL** 1 , **OTHER** 1 , **COMPANIES** 1 , **CAN’T** 1 , 
+ 
+## What this user tweeted
+ 
+RT @1Pr0p0rt10n2: If you suspect MSM has been spinning lies about Ukraine but haven't yet managed a look behind the curtain, this article s…
+ 
+# thoughtslibra93USER INFO
+![image](http://pbs.twimg.com/profile_images/1573027275871850496/GiaV0MvZ_normal.jpg)
+ 
+`User ScreenName:` thoughtslibra93 
+ 
+`User chosen Name:` Daydreamer 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Sep 21 18:23:48 +0000 2022 
+ 
+`User Description?:` #dailythoughts 
+ 
+`Followers?: `2 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1573027275871850496/GiaV0MvZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@HEROIAM_SLAVA:** 1 , **ISRAEL** 1 , **SELLS** 1 , **ANTI-DRONE** 1 , **SYSTEMS** 1 , **UKRAINE** 1 , **ALREADY** 1 , **SHOOTING** 1 , **DOWN** 1 , **IRANIAN** 1 , **DRONES** 1 , **MOSCOW** 1 , **BOUGHT** 1 , **HTTPS://TCO/…RT** 1 , **@ISRAELRUSSIAN:** 1 , **ПОСОЛ** 1 , **ИЗРАИЛЯ** 1 , **В** 1 , **ООН** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Heroiam_Slava: Israel sells anti-drone systems to Ukraine.
+We are already shooting down Iranian drones that Moscow bought https://t.co/…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
