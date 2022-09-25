@@ -832,67 +832,50 @@ She was a 22…
  
 `User ScreenName:` chiffrercode 
  
-`User chosen Name:` Chiffrer 
+`User 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1572935033433776131/E5mxYFCm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 71 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ALWAYS** 4 , **LOVE** 4 , **😆** 4 , **🤣** 4 , **MAN** 4 , **THANKS** 3 , **PEOPLE** 2 , **NEVER:** 2 , **DAD** 2 , **CAN'T** 2 , **BEER:** 2 , **HTTPS://TCO/CYJT4OPUBY** 2 , **“** 2 , **HB:** 2 , **HTTPS://TCO/IEUV1JQGCA** 2 , **HOME** 2 , **BOYS:** 2 , **GOD** 2 , **😂** 2 , **DON'T** 2 , 
+ 
+## What this user tweeted
+ 
+https://t.co/9rZpVT26Sb I can't...
+ 
+# jackryan212USER INFO
+![image](http://pbs.twimg.com/profile_images/1571654181823385601/J79_CHcM_normal.jpg)
+ 
+`User ScreenName:` jackryan212 
+ 
+`User chosen Name:` Jack Ryan 🇺🇸🇺🇦 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Sep 21 15:27:58 +0000 2022 
+`User signup date?:` Mon Sep 19 00:10:15 +0000 2022 
  
-`User Description?:` #Bug 
+`User Description?:`  
  
-`Followers?: `1 
+`Followers?: `207 
  
-`Following?:` 16 
+`Following?:` 220 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1572608634584199169/14OkqILG_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1571654181823385601/J79_CHcM_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BUG** 3 , **PLAYBOOKS** 2 , **@NANDANLOHITAKSH:** 2 , **BOUNTY** 2 , **RT** 1 , **@DAVID_DAS_NEVES:** 1 , **MUSTVIEW** 1 , **[REPO]** 1 , **PUBLIC** 1 , **REPOSITORY** 1 , **CONTAINS** 1 , **INCIDENT** 1 , **RESPONSE** 1 , **WORKFLOWS** 1 , **COMP…RT** 1 , **MOBILE** 1 , **APPLICATION** 1 , **PENETRATION** 1 , **TESTING** 1 , **CHEAT** 1 , 
- 
-## What this user tweeted
- 
-RT @david_das_neves: #mustView
-[Repo] Public Playbooks - This repository contains all the Incident Response Playbooks and Workflows of Comp…
- 
-# UpsiteDesignUSER INFO
-![image](http://pbs.twimg.com/profile_images/1573624463173746688/FU_je0jL_normal.png)
- 
-`User ScreenName:` UpsiteDesign 
- 
-`User chosen Name:` UpsiteDesign 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 16 22:33:40 +0000 2022 
- 
-`User Description?:` Freelance Web- and Mobile App designer. I can customize your mobile app for commercial or marketing purposes for a fraction of the average price. Check it out. 
- 
-`Followers?: `2 
- 
-`Following?:` 5 
- 
-`User URL?:` https://t.co/JLe3G1IpJ5 
- 
-`Location:` Germany 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1573624463173746688/FU_je0jL_normal.png 
- 
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 1550 
  
 
  
@@ -900,38 +883,38 @@ RT @david_das_neves: #mustView
  
 ## User Top tweeted words 
  
-**PROGRAMMING** 2 , **RT** 1 , **@PROGRAMMERJOKE9:** 1 , **COULDN’T** 1 , **TRUE** 1 , **PROGRAMMING100DAYSOFCODE** 1 , **JAVASCRIPT** 1 , **DEV** 1 , **LINUX** 1 , **JAVA** 1 , **CODENEWBIE…** 1 , 
+**RUSSIAN** 24 , **RUSSIA** 12 , **UKRAINE** 11 , **@FIORELLAISABELM** 10 , **THAT’S** 9 , **SOME** 8 , **@PACTFAUSTIAN** 8 , **@NHC_ATLANTIC** 8 , **IRAN** 8 , **@AZMILITARY1** 7 , **AFTER** 7 , **WELL** 7 , **@MIAMI_MARILYN** 7 , **@MARYMODESTUS** 7 , **YOU’RE** 6 , **@DRSHPK** 6 , **UKRAINIAN** 6 , **@KAOMSEBAI** 6 , **@NEXTA_TV:** 6 , **PUTIN** 5 , 
  
 ## What this user tweeted
  
-RT @programmerjoke9: Couldn’t be more true in programming#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie…
+Ukraine calls for urgent Security Council meeting to discuss possible Russian annexations https://t.co/MgXk9jJyTCRT @ChuckPfarrer: WE CAN HELP: Canadian or international volunteers, civilian or military, medic or aid worker, in country or out-- if you'…
  
-# _CyberAwareUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# Wolf05600781USER INFO
+![image](http://pbs.twimg.com/profile_images/1570393156432150529/FfYLsC8X_normal.jpg)
  
-`User ScreenName:` _CyberAware 
+`User ScreenName:` Wolf05600781 
  
-`User chosen Name:` Umme Farwa 
+`User chosen Name:` Wolf 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Sep 24 09:30:02 +0000 2022 
+`User signup date?:` Thu Sep 15 12:03:30 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Wenn Sie sich für höher als Gott halten, sollten Sie wissen, dass Ihre Seele bereits in der Hölle ist. 
  
-`Followers?: `0 
+`Followers?: `4 
  
-`Following?:` 6 
+`Following?:` 107 
  
 `User URL?:` None 
  
-`Location:` Pakistan 🇵🇰  
+`Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1570393156432150529/FfYLsC8X_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 830 
  
 
  
@@ -939,13 +922,248 @@ RT @programmerjoke9: Couldn’t be more true in programming#100Daysofcode #javas
  
 ## User Top tweeted words 
  
-**INFORMATIONSECURITY** 3 , **WOMEN** 2 , **AWARENESS** 2 , **@_EHSANTARAR:** 2 , **@GOVTOFPAKISTAN** 1 , **LEAVE** 1 , **ONLINE** 1 , **PLATFORMS** 1 , **SAFETY** 1 , **SAME** 1 , **WAY** 1 , **DON'T** 1 , **GO** 1 , **ALONE** 1 , **NIGHT** 1 , **SOMETIM…** 1 , **HTTPS://TCO/M4GMFHEKEDRT** 1 , **@GOVTOFPAKISTAN:** 1 , **PM’S** 1 , **STRATEGIC** 1 , 
+**US** 15 , **RUSSIA** 13 , **BIDEN** 12 , **THESE** 11 , **RUSSIANS** 11 , **UKRAINE** 11 , **EVERYONE** 11 , **ALREADY** 9 , **KNOWS** 9 , **WORLD** 8 , **EU** 8 , **UNITED** 8 , **UKROFASCISTS** 7 , **🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣** 7 , **DIE** 7 , **COUP** 6 , **FASCISTS** 6 , **HERE** 6 , **STATES** 6 , **MADE** 5 , 
  
 ## What this user tweeted
  
-RT @hackinarticles: OSI Layers and Attacks
+@nypost The bogus vote was in the US in 2016 when Biden became president.
+The butcher is Biden, who made a coup in… https://t.co/UoAfvgWLQ4
+ 
+# BetalJuiceUSER INFO
+![image](http://pbs.twimg.com/profile_images/1573793712236154880/6p0oqiSx_normal.jpg)
+ 
+`User ScreenName:` BetalJuice 
+ 
+`User chosen Name:` Addamo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Sep 22 10:35:11 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 216 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 38 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1573793712236154880/6p0oqiSx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 38 
+ 
 
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #…
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SOME** 4 , **UKRAINE** 4 , **US** 4 , **YEARS** 3 , **@IVAN_8848:** 3 , **@LVIVTYLER** 2 , **MUCH** 2 , **TIME** 2 , **CALL** 2 , **REGIME** 2 , **AMERICA** 2 , **BEING** 2 , **INDEED** 2 , **FRENCH** 2 , **FOREIGN** 2 , **AGAINST** 2 , **TWO** 2 , **PUTIN** 2 , **PRESIDENT** 2 , **AUSTRALIA** 2 , 
+ 
+## What this user tweeted
+ 
+RT @EvaKBartlett: Article on Ukraine's increased attacks on Donetsk with western weapons, killing at least 26 Donbass civilians in the past…
+ 
+# Abolish_The_EUUSER INFO
+![image](http://pbs.twimg.com/profile_images/1571617306266009600/Oo8eXkbC_normal.jpg)
+ 
+`User ScreenName:` Abolish_The_EU 
+ 
+`User chosen Name:` Je Ne Suis Pas L’Élu 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Sep 18 21:10:20 +0000 2022 
+ 
+`User Description?:` Abolir Radio-Canada. Les merdias sont les ennemis du peuple. Sans pronoms, ni drapeaux. The fake news media are the enemy of the people. 🚫 virtue signalling 
+ 
+`Followers?: `3 
+ 
+`Following?:` 69 
+ 
+`User URL?:` None 
+ 
+`Location:` Brossard 
+ 
+`Number of tweets extracted`  : 147 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1571617306266009600/Oo8eXkbC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 148 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 16 , **LES** 14 , **US** 12 , **LE** 11 , **QUE** 11 , **UN** 8 , **LA** 7 , **ET** 7 , **SUR** 7 , **EVEN** 7 , **UKRAINE** 7 , **WESTERN** 7 , **POUR** 7 , **VOUS** 6 , **WAR** 6 , **DES** 6 , **PEOPLE** 6 , **UNE** 6 , **:** 5 , **CE** 5 , 
+ 
+## What this user tweeted
+ 
+RT @BMarchetich: For anyone still committed to the talking point that Ukraine's Far Right is negligible &amp; no different from any other count…
+ 
+# Vojkan59657389USER INFO
+![image](http://pbs.twimg.com/profile_images/1573665369117663233/-5a0WO2R_normal.jpg)
+ 
+`User ScreenName:` Vojkan59657389 
+ 
+`User chosen Name:` Goran 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 24 12:21:22 +0000 2022 
+ 
+`User Description?:` Fake western democracy, fake free speech, free Assange! 
+ 
+`Followers?: `12 
+ 
+`Following?:` 52 
+ 
+`User URL?:` None 
+ 
+`Location:` Belgrade, Republic of Serbia 
+ 
+`Number of tweets extracted`  : 143 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1573665369117663233/-5a0WO2R_normal.jpg 
+ 
+`Number of tweets excluding replies:` 143 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**US** 13 , **UKRAINE** 11 , **@VALERE_IA:** 9 , **RUSSIA** 8 , **REFERENDUM** 7 , **YEARS** 6 , **MILITARY** 6 , **EU** 6 , **IRAN** 6 , **@VALERE_IA** 6 , **@BLACKINTHEEMPIR:** 5 , **NEW** 5 , **WAR** 5 , **RUSSIAN** 5 , **ITS** 5 , **AFTER** 5 , **WESTERN** 5 , **MOST** 5 , **@GANGUSKHAN777** 5 , **WORLD** 5 , 
+ 
+## What this user tweeted
+ 
+RT @djuric_zlatko: The best part of NATO military aid is, that these guys giving tactical advices to Ukraine, haven’t won a war before. It’…
+ 
+# abt_liveUSER INFO
+![image](http://pbs.twimg.com/profile_images/1570899800891195393/o8tQoY0F_normal.jpg)
+ 
+`User ScreenName:` abt_live 
+ 
+`User chosen Name:` Akhand Bharat Tv 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Sep 16 22:16:05 +0000 2022 
+ 
+`User Description?:` ABT LIVE covers breaking news, and the latest news in politics, sports, business & cinema. Follow us & stay ahead! 
+ 
+`Followers?: `622 
+ 
+`Following?:` 8 
+ 
+`User URL?:` https://t.co/6hGo3TdQCM 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1570899800891195393/o8tQoY0F_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2281 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 137 , **में** 82 , **की** 67 , **ने** 53 , **पर** 48 , **का** 45 , **को** 44 , **से** 43 , **लिए** 37 , **है** 36 , **हैं** 19 , **और** 19 , **क्या** 17 , **करने** 15 , **वीडियो** 12 , **सबसे** 11 , **किया** 11 , **भारत** 9 , **सरकार** 9 , **अब** 8 , 
+ 
+## What this user tweeted
+ 
+Russia-Ukraine war: India is on the side of peace and will remain firmly there, Jaishankar tells UNGA https://t.co/Zhk9xiyMBX
+ 
+# mikasa_uaUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` mikasa_ua 
+ 
+`User chosen Name:` UkrainianMikasaUA 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Sep 25 00:14:21 +0000 2022 
+ 
+`User Description?:` I'm from Ukraine in Kyiv Slava ukraini 
+ 
+`Followers?: `1 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:` Ukraine 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WON'T** 2 , **WIN** 2 , **@ZELENSKYYUA** 1 , **@ZELENSKAUA** 1 , **@MARIA_DRUTSKA** 1 , **@DEFENCEU** 1 , **@TDF_UA** 1 , **@CHEKA_TSYBUKH** 1 , **@IULIIAMENDEL** 1 , **@IRMACHEP** 1 , **@ANDRIYYERMAK…** 1 , **HTTPS://TCO/TOILHTN6JARUSSIANS** 1 , **TRUST** 1 , **THIER** 1 , **HTTPS://TCO/OHXMIKLLRQ** 1 , **ALONG** 1 , **STICK** 1 , **TOGETHER** 1 , **UKRAINE** 1 , **R…** 1 , 
+ 
+## What this user tweeted
+ 
+Russians won't win trust me thier won't https://t.co/OHXMIKLLRQ as along we stick together in Ukraine we will win R… https://t.co/DM9EqHDl2i
+ 
+# SantaforAmeric1USER INFO
+![image](http://pbs.twimg.com/profile_images/1571995063860731904/ikf4d6MF_normal.jpg)
+ 
+`User ScreenName:` SantaforAmeric1 
+ 
+`User chosen Name:` Santa for America 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Sep 19 22:44:16 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `43 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1571995063860731904/ikf4d6MF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 276 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 32 , **REPUBLICANS** 16 , **DONALD** 12 , **@GTCONWAY3D:** 12 , **THAT'S** 11 , **I’M** 8 , **US** 8 , **BAN** 8 , **JUDGE** 8 , **DESANTIS** 7 , **NEW** 7 , **REPUBLICAN** 7 , **BREAKING:** 7 , **SPECIAL** 7 , **RON** 6 , **SAYING** 6 , **PARTY** 6 , **CUT** 6 , **TAXES** 6 , **RICH** 6 , 
+ 
+## What this user tweeted
+ 
+RT @nytimes: In Opinion
+
+"Vladimir Putin and Donald Trump, long entwined, continue on vile parallel paths: They would rather destroy their…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
