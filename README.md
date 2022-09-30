@@ -11,12 +11,10 @@
  
 ![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **DailyOsint**  
+The most popular user is: **AbuseIPDB_bot**  
  
 
-## If you need to search for file extensions abused by attackers,
-
-You can use https://t.co/5z6OzBwDab, which also cat… https://t.co/CVDFqaTO4O 
+## IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb 
 
   
 
@@ -31,18 +29,18 @@ You can use https://t.co/5z6OzBwDab, which also cat… https://t.co/CVDFqaTO4O
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RedPacketSec: Google Chrome Import code execution | CVE-2022-3311 - https://t.co/snCaCVswUZ#CVE #Vulnerability #OSINT #ThreatIntel #C… |
-| RT @DailyOsint: Need to stay informed about emerging cyber threats?The #Spain #ThreatLandscape report contains valuable insight.https:/… |
-| RT @RedPacketSec: FreeBSD privilege escalation | CVE-2022-23086 - https://t.co/ZloOUWtJGy#CVE #Vulnerability #OSINT #ThreatIntel #Cyber |
+| RT @maldatabase: #Ursnif malware indicators.#Malware #ThreatIntelligence #threatintel #IOChttps://t.co/K2t4kUTu2M |
+| RT @CyberSecDN: Cyberattack Costs for US Businesses up by 80% https://t.co/n9zPk7Gh9F #threatintel |
+| Cobalt Stike Beacon Detected - 87[.]246[.]7[.]38:80 - https://t.co/TnghSTSpQy#CobaltStrikeBeaconDetected #OSINT #ThreatIntel |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **DailyCTI** |
 | #2 Most tweeted to  | **CyberIQs_** |
-| #3 Most tweeted to  | **threatintel** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 1.68%|
+| #3 Most tweeted to  | **RedPacketSec** |
+| NewProfiles (less than 10 days) | 0.09%  |
+| Tweeters with < 10 followers  | 1.32%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -62,60 +60,20 @@ You can use https://t.co/5z6OzBwDab, which also cat… https://t.co/CVDFqaTO4O
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @threatintel: #ThreatProtection #NullMixer #malware #dropper, read more about Symantec's protection: https://t.co/JGVXBwwrFs https://t.c… |
+|al says FBI is working on Optus data breach – video #infosec #infosecurity #cybersecurity #threatintel… https://t.co/BF2yIr0S2C |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DailyOsint**  |
+| The most retweeted user is: **AbuseIPDB_bot**  |
 | ------------- |
-| If you need to search for file extensions abused by attackers,You can use https://t.co/5z6OzBwDab, which also cat… https://t.co/CVDFqaTO4O |
+| IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb |
 
 # Potential Fake Accounts
- 
-# EzLab33USER INFO
-![image](http://pbs.twimg.com/profile_images/1575555493531193344/C8FnsW4y_normal.jpg)
- 
-`User ScreenName:` EzLab33 
- 
-`User chosen Name:` Ez Lab 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Sep 23 18:12:50 +0000 2022 
- 
-`User Description?:` Cybersegurity .
-knowledge and power must be used to do good . 
- 
-`Followers?: `1 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 24 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1575555493531193344/C8FnsW4y_normal.jpg 
- 
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEHACKERSNEWS:** 4 , **QUE** 3 , **@KASPERSKY:** 2 , **HACK** 2 , **INTELLIGENCE** 2 , **HACKING** 2 , **UNIT** 2 , **US** 2 , **SECURITY** 2 , **MALWARE** 2 , **–** 2 , **ISRAEL'S** 2 , **GROUP** 2 , **BACKDOOR** 2 , **CYBERCRIME** 2 , **NEW** 2 , **@CYBERNEWS:** 2 , **INFOSEC** 2 , **HTTPS://T…RT** 2 , **@GCHQ:** 2 , 
- 
-## What this user tweeted
- 
-RT @threatintel: The #Witchetty espionage group (aka Lookingfrog) updates toolset with backdoor that leverages #steganography to extract it…
  
 # nullexportUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1574152966172545024/6ZY3AOMB_normal.jpg)
