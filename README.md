@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **RnaudBertrand**  
  
 
-## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This… https://t.co/9kCO6ugG3G 
+## Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 
 
   
 
@@ -25,25 +23,25 @@ This… https://t.co/9kCO6ugG3G
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Check out my Hex-Rays guest blog on the HRDevHelper plugin and find out how it can help find vulnerabilities! Speak… https://t.co/rfEXykjE0M |
-| Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software https://t.co/IHDDHTMHH3 |
-| RT @QuaiNetwork: Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This mitigat… |
+| RT @LogKa11: @ukraine_world Ukraine successfully shot down the first batch using its own infrastructure, ammo depot and army barracks |
+| RT @oculusfiles: Why am I not i the least surprised that Russian Orthodox priests from the Russian Church in Ukraine in Bucha and other tow… |
+| RT @KyivIndependent: ⚡️ CNN: 1,300 Starlinks in Ukraine go offline due to funding issues.Ukraine’s fears that its military will lose acce… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **QuaiNetwork** |
-| #2 Most tweeted to  | **ChuckPfarrer** |
-| #3 Most tweeted to  | **hackinarticles** |
-| NewProfiles (less than 10 days) | 1.74%  |
-| Tweeters with < 10 followers  | 12.52%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **KyivIndependent** |
+| #2 Most tweeted to  | **nexta_tv** |
+| #3 Most tweeted to  | **runews** |
+| NewProfiles (less than 10 days) | 2.12%  |
+| Tweeters with < 10 followers  | 7.26%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -52,98 +50,57 @@ This… https://t.co/9kCO6ugG3G
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DEVELOPERS**  |
-| second  | **MAKING**  |
-| third  | **CORE** |
-| fourth  | **FOCUSED**  |
-| fifth  | **CODEBASE**  |
+| first  | **UKRAINE**  |
+| second  | **RUSSIAN**  |
+| third  | **RUSSIA** |
+| fourth  | **US**  |
+| fifth  | **WAR**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Humanity has many exposed vulnerabilities. And yet, most of the time, the lights turn on and the water continues to… https://t.co/XZaCVKtjUL |
+|RT @GlasnostGone: More detail on new US $400m #Ukraine military aid package. US supplying refurbished T-72 tanks, making them “the most tec… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **RnaudBertrand**  |
 | ------------- |
-| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
+| Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 |
 
 # Potential Fake Accounts
  
-# stevehac345USER INFO
-![image](http://pbs.twimg.com/profile_images/1587362582171729923/e2XYB6Gz_normal.jpg)
+# avalubingsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1588068893574287362/_SPe91kJ_normal.jpg)
  
-`User ScreenName:` stevehac345 
+`User ScreenName:` avalubings 
  
-`User chosen Name:` Steve Hack💻 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Oct 30 16:10:43 +0000 2022 
- 
-`User Description?:` 🥇🥉Pro-Hacking Service. *Private investigator* * Recovery Services* *Recovery Services* *Crypto* *Instagram* *icloud ID* *Snapchat* *Facebook* #NoFreeServices 
- 
-`Followers?: `3 
- 
-`Following?:` 3 
- 
-`User URL?:` https://t.co/id8ILKt3l1 
- 
-`Location:` Dallas,Nc 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1587362582171729923/e2XYB6Gz_normal.jpg 
- 
-`Number of tweets excluding replies:` 299 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ACCOUNT** 118 , **HACKED** 103 , **INBOX** 80 , **RECOVER** 65 , **AVAILABLE** 40 , **DM** 40 , **HELP** 39 , **I'M** 38 , **HACKING** 38 , **ACCOUNTS** 37 , **LOST** 36 , **GUIDE** 35 , **SNAPCHAT** 31 , **FACEBOOKDOWN** 29 , **HACK** 28 , **NEED** 27 , **ICLOUD** 26 , **ANY** 24 , **HACKER** 23 , **24/7** 21 , 
- 
-## What this user tweeted
- 
-Linux Path Cheat Sheet
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informationsecurity  #cissp… https://t.co/yArcUN7fhQ
- 
-# najimudeensull2USER INFO
-![image](http://pbs.twimg.com/profile_images/1588627671126269956/XzHtdwNx_normal.png)
- 
-`User ScreenName:` najimudeensull2 
- 
-`User chosen Name:` najimudeen sulley 
+`User chosen Name:` JackyDOS 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Nov 04 20:22:06 +0000 2022 
+`User signup date?:` Thu Nov 03 07:21:43 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 8 
+`Following?:` 38 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 52 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1588627671126269956/XzHtdwNx_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1588068893574287362/_SPe91kJ_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 52 
  
 
  
@@ -151,166 +108,44 @@ Linux Path Cheat Sheet
  
 ## User Top tweeted words 
  
-**TRILEMMA** 2 , **@QUAINETWORK:** 2 , **QUAI** 2 , **SOLVING** 1 , **@QUAINETWORK@QUAINETWORK** 1 , **CHECK** 1 , **LAYER** 1 , **1@QUAINETWORK** 1 , **NICE** 1 , **INFORMATIONRT** 1 , **NETWORK'S** 1 , **DEVELOPERS** 1 , **FOCUSED** 1 , **MAKING** 1 , **CORE** 1 , **CODEBASE** 1 , **LIGHT-WEIGHT** 1 , **EFFICIENT** 1 , **POSSIBLE** 1 , **MITIGAT…@QUAINETWORK** 1 , 
+**ICH** 10 , **@JANBOEHM** 10 , **DU** 6 , **IST** 5 , **PUTIN** 5 , **NEED** 5 , **HÄKCHEN** 5 , **UND** 5 , **DAS** 4 , **HAT** 4 , **ABER** 4 , **TWITTER** 4 , **IM** 4 , **KHARKIV** 3 , **UKRAINE** 3 , **RUSSIAN** 3 , **OCCUPIERS** 3 , **STAGED** 3 , **KEIN** 3 , **@__OFMINE__** 3 , 
  
 ## What this user tweeted
  
-RT @QuaiNetwork: Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
+Maskenball Ende..später weil:
 
-This mitigat…
+@lufthansa 
+Ukraine government organization
+The russian occupiers staged a man-made… https://t.co/J9ffFtYiSo@lufthansa 
+Ukraine government organization
+The russian occupiers staged a man-made natural disaster in the Kharkiv… https://t.co/vYSSXifPAZ
  
-# ExaHazeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1588520825656934401/edZtfDH6_normal.jpg)
+# kayakdog21USER INFO
+![image](http://pbs.twimg.com/profile_images/1586714084384591872/ktzRy9cx_normal.jpg)
  
-`User ScreenName:` ExaHaze 
+`User ScreenName:` kayakdog21 
  
-`User chosen Name:` EXA 
+`User chosen Name:` kayakdog 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Nov 04 12:52:41 +0000 2022 
+`User signup date?:` Thu Oct 27 16:03:30 +0000 2022 
  
-`User Description?:` Ethical Hacker | Red Team | Bug Hunter 
+`User Description?:`  
  
 `Followers?: `7 
  
-`Following?:` 102 
+`Following?:` 64 
  
 `User URL?:` None 
  
 `Location:`  
- 
-`Number of tweets extracted`  : 18 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1588520825656934401/edZtfDH6_normal.jpg 
- 
-`Number of tweets excluding replies:` 18 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**INFOSEC** 4 , **WEBSITE** 3 , **US** 2 , **DEPARTMENT** 2 , **ENTER** 2 , **EMAIL** 2 , **CYBERSECURITY** 2 , **WEB** 2 , **PENTESTING** 2 , **THROUGH** 2 , **HACKING** 2 , **FREE** 2 , **SUPPORT** 2 , **BUG** 2 , **BOUNTY** 2 , **RT** 1 , **@S0UFI4N3:** 1 , **JUSTICE** 1 , **PUT** 1 , **WHERE** 1 , 
- 
-## What this user tweeted
- 
-RT @JasonFossen: The British government is vulnerability scanning every IP address hosted in the UK:
-
-https://t.co/frll23a5oj
-
-Quote: "We'r…
- 
-# azp_90USER INFO
-![image](http://pbs.twimg.com/profile_images/1586229821805305857/vFGivsIe_normal.jpg)
- 
-`User ScreenName:` azp_90 
- 
-`User chosen Name:` Jhonny Z 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 29 05:12:19 +0000 2022 
- 
-`User Description?:` Microblog personal, escribiendo acerca de tecnología, redes, infraestructura. Próximamente blog. ¿Me invitas un café?
-👇 https://t.co/o3Aiw9uD09 
- 
-`Followers?: `25 
- 
-`Following?:` 216 
- 
-`User URL?:` https://t.co/q36L7pXlmV 
- 
-`Location:` Planeta Tierra 
- 
-`Number of tweets extracted`  : 53 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1586229821805305857/vFGivsIe_normal.jpg 
- 
-`Number of tweets excluding replies:` 53 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 23 , **QUE** 13 , **ES** 11 , **EL** 9 , **EN** 8 , **LOS** 7 , **CON** 7 , **PARA** 7 , **LA** 7 , **@HACKINARTICLES:** 5 , **INFOSEC** 5 , **CYBERSECURITY** 5 , **PENTESTING** 5 , **OSCP** 5 , **SE** 5 , **PERO** 5 , **DEL** 5 , **CYBERSECURITYTIPS** 4 , **REDTEAM** 4 , **UNA** 4 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: TCP Summary Cheat Sheet
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity…
- 
-# jaabir2021USER INFO
-![image](http://pbs.twimg.com/profile_images/1587499007576006657/oizuyi00_normal.jpg)
- 
-`User ScreenName:` jaabir2021 
- 
-`User chosen Name:` jaabir 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Oct 28 17:29:31 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `62 
- 
-`Following?:` 171 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 42 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1587499007576006657/oizuyi00_normal.jpg 
- 
-`Number of tweets excluding replies:` 42 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**QUAI** 17 , **@QUAINETWORK:** 16 , **NETWORK** 8 , **NETWORK'S** 4 , **BLOCKCHAINS** 4 , **LONDON** 4 , **@RAJ1020300** 3 , **JOIN** 3 , **QUAINETWORK** 3 , **CORE** 3 , **@ALANORWICK** 3 , **@TXBLOCKCHAIN** 3 , **TWITTER** 3 , **@GALXE** 3 , **SOUL** 2 , **🔥** 2 , **GIVEAWAY** 2 , **PROJECT** 2 , **COME** 2 , **LIVE** 2 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This mitigat…
- 
-# SthrnSmokeshowUSER INFO
-![image](http://pbs.twimg.com/profile_images/1585780653899108353/yfXXAiXQ_normal.jpg)
- 
-`User ScreenName:` SthrnSmokeshow 
- 
-`User chosen Name:` Sassy Succubus 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 26 15:35:40 +0000 2022 
- 
-`User Description?:` | Temptress | Scorpio | Music Obsessed | Neurodivergent | Bookworm | Introvert | 
- 
-`Followers?: `182 
- 
-`Following?:` 247 
- 
-`User URL?:` None 
- 
-`Location:` The Dirty South 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1585780653899108353/yfXXAiXQ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1586714084384591872/ktzRy9cx_normal.jpg 
  
-`Number of tweets excluding replies:` 276 
+`Number of tweets excluding replies:` 337 
  
 
  
@@ -318,38 +153,38 @@ This mitigat…
  
 ## User Top tweeted words 
  
-**LOVE** 10 , **FEEL** 9 , **YOU'RE** 8 , **I'M** 7 , **MAKE** 7 , **PUT** 6 , **NEED** 6 , **ALWAYS** 5 , **DON'T** 5 , **EVER** 5 , **TOO** 5 , **SOMEONE** 5 , **THEN** 5 , **GIVE** 4 , **TELL** 4 , **GETTING** 4 , **GOOD** 4 , **EVERYONE** 4 , **@CYNFULLYSWEETXO:** 4 , **SHARE** 4 , 
+**@REPDEREKKILMER** 30 , **UKRAINE** 15 , **80** 12 , **BILLION** 12 , **PEOPLE** 11 , **SOME** 8 , **DOWN** 8 , **ASK** 8 , **FIRST** 7 , **RESPONDERS** 7 , **COVID** 7 , **ICU** 7 , **DURING** 7 , **@HOUSEDPCC** 7 , **@ENERGYCOMMERCE** 7 , **@HOUSEDEMOCRATS** 7 , **CONSTITUENTS** 7 , **SENT** 6 , **GO** 6 , **FIRED** 6 , 
  
 ## What this user tweeted
  
-RT @CynfullySweetXO: be very careful and selective who you share your feelings and vulnerabilities with. not everyone deserves to know the…
+@MGPforCongress But the democrats sent 80 BILLION to Ukraine and you support this. The democrats are currently inva… https://t.co/jz6zacIdzj
  
-# KevinRylaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1585979488504287234/lPFP2S6N_normal.jpg)
+# JimCarlisUSER INFO
+![image](http://pbs.twimg.com/profile_images/1586127134979923970/EYY4q_EI_normal.jpg)
  
-`User ScreenName:` KevinRyla 
+`User ScreenName:` JimCarlis 
  
-`User chosen Name:` KevinDAO 
+`User chosen Name:` @JimCarlis 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Oct 28 12:56:07 +0000 2022 
+`User signup date?:` Fri Oct 28 22:39:03 +0000 2022 
  
-`User Description?:`  
+`User Description?:` 🔨 
  
-`Followers?: `18 
+`Followers?: `20 
  
-`Following?:` 22 
+`Following?:` 119 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 59 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1585979488504287234/lPFP2S6N_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1586127134979923970/EYY4q_EI_normal.jpg 
  
-`Number of tweets excluding replies:` 59 
+`Number of tweets excluding replies:` 531 
  
 
  
@@ -357,40 +192,38 @@ RT @CynfullySweetXO: be very careful and selective who you share your feelings a
  
 ## User Top tweeted words 
  
-**@COHO_COSMOS:** 27 , **COHO** 8 , **QUAI** 6 , **HORIZON** 5 , **EVERYONE** 5 , **@COHO_COSMOS** 5 , **QWOYN** 5 , **STUDIOS** 5 , **@QUAINETWORK:** 4 , **COSMIC** 4 , **HI** 4 , **LOOK** 4 , **TOMORROW** 4 , **NEW** 4 , **@TERITORINETWORK** 4 , **BLOCKCHAINS** 3 , **US** 3 , **COSMICHORIZON** 3 , **FORWARD** 3 , **MEETING** 3 , 
+**BIDEN** 14 , **@POTUS** 12 , **ELECTION** 11 , **@CHARLIECRIST** 11 , **PEOPLE** 10 , **AMERICA** 10 , **BIDEN’S** 9 , **DEMOCRATS** 8 , **TWITTER** 8 , **BEING** 7 , **@ELONMUSK** 7 , **THAN** 7 , **DON’T** 7 , **DEMOCRAT** 6 , **REPUBLICAN** 6 , **PAY** 6 , **@THELEOTERRELL** 5 , **BLUE** 5 , **DAY** 5 , **COMMUNIST** 5 , 
  
 ## What this user tweeted
  
-RT @QuaiNetwork: Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This mitigat…
+@SterZCrazy @donotlietome420 @DrOz Just like AOC, and incestuous Iliana Omar her dad and father-in-law are one in t… https://t.co/DCpb9WS4A0
  
-# Angelina88359USER INFO
-![image](http://pbs.twimg.com/profile_images/1588593641932603394/K1qEeE6__normal.png)
+# srhwl1USER INFO
+![image](http://pbs.twimg.com/profile_images/1587218886214275072/z49ziIPl_normal.jpg)
  
-`User ScreenName:` Angelina88359 
+`User ScreenName:` srhwl1 
  
-`User chosen Name:` Ангеліна Герус 
+`User chosen Name:` So-78 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Nov 04 18:06:53 +0000 2022 
+`User signup date?:` Mon Oct 31 21:08:31 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `4 
  
-`Following?:` 9 
+`Following?:` 7 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 34 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1588593641932603394/K1qEeE6__normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1587218886214275072/z49ziIPl_normal.jpg 
  
-`Number of tweets excluding replies:` 34 
+`Number of tweets excluding replies:` 666 
  
 
  
@@ -398,40 +231,40 @@ This mitigat…
  
 ## User Top tweeted words 
  
-**@QUAINETWORK:** 18 , **QUAI** 17 , **NETWORK** 7 , **QUAINETWORK** 5 , **GOOD** 4 , **@QUAINETWORK** 4 , **BLOCKCHAINS** 4 , **BESTRT** 3 , **JOIN** 3 , **MODULAR** 3 , **MANY** 3 , **NETWORK'S** 3 , **CORE** 3 , **LONDON** 3 , **EVM-COMPATIBLE** 2 , **US** 2 , **COMMUNITY** 2 , **QUAICOMMUNITY** 2 , **QUAINATION** 2 , **CRYPTOCURRENCIES** 2 , 
+**CANADA** 158 , **KHERSON** 144 , **RUSSIAN** 137 , **UKRAINE** 88 , **GERMANY** 80 , **GERMANY…** 78 , **DESTROY** 71 , **UKRAINIAN** 69 , **UNITEDSTATES** 61 , **FORCES** 46 , **CANADA…** 42 , **HIMARS** 41 , **TANKS** 33 , **NEAR** 33 , **TROOPS** 33 , **TANK** 29 , **ATTACK!!** 29 , **KHERSON…** 26 , **VEHICLES** 24 , **ARMY** 23 , 
  
 ## What this user tweeted
  
-RT @QuaiNetwork: Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This mitigat…
+Brutal attack (Nov 05) Ukraine drone show wipes out 30 Russian Tanks by pieces with Javelin Missiles
+#Canada… https://t.co/5GJEmWGgujUkrainian forces using dozen Modified Drone grenades destroy 50 convoy Russian T-72 tank in kherson
+#Canada… https://t.co/cAhKDk37D6
  
-# KeshgRishiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1587860445402386432/yVkQ2i-I_normal.png)
+# BS22Take2USER INFO
+![image](http://pbs.twimg.com/profile_images/1587771792252338177/gbg4sRTY_normal.jpg)
  
-`User ScreenName:` KeshgRishi 
+`User ScreenName:` BS22Take2 
  
-`User chosen Name:` rishi keshg 
+`User chosen Name:` Brï Stachura ver.2.0 🇵🇱🇮🇹🇮🇪🇺🇸🫶🏻🇺🇦💙💛 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 02 17:33:25 +0000 2022 
+`User signup date?:` Thu Oct 27 20:29:40 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Hello Fellas…Take #2. See a Fella, Follow a Fella 😉 SAVE AZOV & Mariupol 🪖✊🏻#RussiaIsATerriostState 
  
-`Followers?: `0 
+`Followers?: `707 
  
-`Following?:` 9 
+`Following?:` 1185 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` In your walls 
  
-`Number of tweets extracted`  : 19 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1587860445402386432/yVkQ2i-I_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1587771792252338177/gbg4sRTY_normal.jpg 
  
-`Number of tweets excluding replies:` 19 
+`Number of tweets excluding replies:` 259 
  
 
  
@@ -439,40 +272,38 @@ This mitigat…
  
 ## User Top tweeted words 
  
-**@QUAINETWORK:** 15 , **QUAI** 13 , **NETWORK** 6 , **BLOCKCHAINS** 4 , **NETWORK'S** 3 , **@TXBLOCKCHAIN** 3 , **QUAINETWORK** 2 , **DEVELOPERS** 2 , **LONDON** 2 , **TEAM** 2 , **LIVE!** 2 , **MODULAR** 2 , **@ALANORWICK** 2 , **CO-FOUNDER** 2 , **RT** 1 , **JOE** 1 , **ROGAN** 1 , **DISCUSSING** 1 , **FUTURE** 1 , **CENTRAL** 1 , 
+**UKRAINE** 18 , **RUSSIA** 8 , **RUSSIAN** 8 , **PUTIN** 7 , **@CHIBERIA85** 7 , **@DIMAFROMUKRAINE** 7 , **@ANNOYEDUKE** 7 , **US** 6 , **NEW** 6 , **PEOPLE** 6 , **@RICHARD_R1CH** 6 , **@JEREMYTHESCOT** 6 , **@PHIL_DARIN** 6 , **@SNOWYINCHI** 6 , **@WHITESOXIC** 6 , **UKRAINIAN** 5 , **DAY** 5 , **RUSSIANRETREAT** 5 , **@MOSSROBESON__** 5 , **VOTE** 4 , 
  
 ## What this user tweeted
  
-RT @QuaiNetwork: Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This mitigat…
+@LebFella @ORTRXC This is from @govtrack I looked up a bill on Ukraine. Then went to the vote of it &amp; at the bottom… https://t.co/NVxfKIMDFX
  
-# KanjiCireng7USER INFO
-![image](http://pbs.twimg.com/profile_images/1588549609231896577/Nbz1Ci3C_normal.jpg)
+# Kristine17QUSER INFO
+![image](http://pbs.twimg.com/profile_images/1588342830082265088/KPyX9vQP_normal.jpg)
  
-`User ScreenName:` KanjiCireng7 
+`User ScreenName:` Kristine17Q 
  
-`User chosen Name:` Cireng Kanji 
+`User chosen Name:` DigitalSoldierKristine 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Oct 27 09:35:30 +0000 2022 
+`User signup date?:` Fri Nov 04 01:26:06 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Back after a lifetime ban (because I shared the truth that didn’t follow their narrative). 
  
 `Followers?: `2 
  
-`Following?:` 14 
+`Following?:` 87 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 120 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1588549609231896577/Nbz1Ci3C_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1588342830082265088/KPyX9vQP_normal.jpg 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 120 
  
 
  
@@ -480,13 +311,169 @@ This mitigat…
  
 ## User Top tweeted words 
  
-**🚀RT** 5 , **@QUAINETWORK:** 5 , **QUAI** 5 , **NETWORK** 3 , **BLOCKCHAINS** 3 , **@QUAINETWORK** 2 , **🚀** 1 , **QUAINETWORKGOODDDDDD** 1 , **QUAINETWORK@QUAINETWORK** 1 , **WHILE** 1 , **MOST** 1 , **CRYPTOCURRENCIES** 1 , **FUNCTION** 1 , **USING** 1 , **BLOCKCHAIN** 1 , **SOME** 1 , **INNOVATIVE** 1 , **PROJECTS** 1 , **UTILIZE** 1 , **B…@QUAINETWORK** 1 , 
+**@JUSTTHENEWS:** 12 , **BIDEN** 9 , **@BENNYJOHNSON:** 7 , **AFTER** 7 , **FIRED** 6 , **TWITTER** 5 , **ELECTION** 5 , **@EPOCHTIMES:** 5 , **DON’T** 4 , **VOTER** 4 , **BREAKING:** 4 , **US** 4 , **BEING** 4 , **@ELONMUSK:** 4 , **@TOMFITTON:** 4 , **JOE** 4 , **@ELONMUSK** 3 , **NEW** 3 , **@TOMFITTON** 3 , **ANYONE** 3 , 
  
 ## What this user tweeted
  
-RT @QuaiNetwork: Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
+@mikepompeo Hell no! We are not the world’s pocketbook! Just because the Dems &amp; RINOs don’t want their crimes in Uk… https://t.co/g8ZVV1G6lq
+ 
+# USAPsyOPUSER INFO
+![image](http://pbs.twimg.com/profile_images/1585866744287137798/dyt2fxMH_normal.jpg)
+ 
+`User ScreenName:` USAPsyOP 
+ 
+`User chosen Name:` USAPsyOP 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 28 05:30:49 +0000 2022 
+ 
+`User Description?:` We are living through a PSY OP run by Globalists, TRUMP WON/  Jan 6th a setup /Ray Epps was FBI! Free Speech Enthusiast. Truth Wins in the end. #comeandtakeit 
+ 
+`Followers?: `13 
+ 
+`Following?:` 79 
+ 
+`User URL?:` https://t.co/pf9rCABjsK 
+ 
+`Location:` Dallas 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1585866744287137798/dyt2fxMH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 613 
+ 
 
-This mitigat…
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TEXAS** 14 , **FU@KING** 13 , **PEOPLE** 13 , **I'M** 13 , **US** 9 , **CAN'T** 9 , **REMEMBER** 8 , **NEXT** 8 , **THAT'S** 7 , **REALLY** 7 , **COULD** 7 , **SHIT** 7 , **ANY** 7 , **ELECTION** 7 , **WEEK** 7 , **PREPPING** 7 , **WORLD** 6 , **KEEP** 6 , **SOME** 6 , **BRASIL?** 6 , 
+ 
+## What this user tweeted
+ 
+@ukraine_world Yes. And I suppose you want me to believe a Russian would blow the fu@king squirrels head off with an AK47?
+ 
+# MattLaChance5USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` MattLaChance5 
+ 
+`User chosen Name:` Matt LaChance 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Oct 31 22:31:59 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AMYBREWSTER2016** 1 , **@CBOUZY** 1 , **HELP** 1 , **THROW** 1 , **UKRAINE** 1 , **2014** 1 , **THANKS** 1 , **MCCAIN** 1 , **MURPHY** 1 , **WORLD** 1 , **BETTER** 1 , **TODAY@CADDIENETWORK** 1 , **100%** 1 , **YES@STEPHENKING** 1 , **FUNNY** 1 , **STAND** 1 , **BOOKS** 1 , **GARBAGE** 1 , **SAYING** 1 , 
+ 
+## What this user tweeted
+ 
+@amybrewster2016 @cbouzy If we did not help over throw Ukraine in 2014 thanks McCain and Murphy the world would be better today
+ 
+# _Gentle_KabirUSER INFO
+![image](http://pbs.twimg.com/profile_images/1586452913110585345/Nb5XwAR2_normal.jpg)
+ 
+`User ScreenName:` _Gentle_Kabir 
+ 
+`User chosen Name:` KABIR 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 29 20:19:51 +0000 2022 
+ 
+`User Description?:` Pharmacist! MBA! CIPSMN 
+ 
+`Followers?: `7 
+ 
+`Following?:` 225 
+ 
+`User URL?:` None 
+ 
+`Location:` Nigeria 
+ 
+`Number of tweets extracted`  : 58 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1586452913110585345/Nb5XwAR2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 58 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**US** 6 , **EVERYONE** 4 , **THAT'S** 4 , **RUSSIA** 4 , **MOST** 4 , **DON'T** 4 , **PEOPLE** 4 , **UKRAINE** 3 , **EU** 3 , **GROUP** 3 , **CAN'T** 3 , **"I** 3 , **MEDIA** 3 , **BEST** 3 , **NAKED** 3 , **@JAMILU_LUQMAN:** 3 , **VERY** 2 , **SIMPLY** 2 , **TWEET** 2 , **SOUTHERN** 2 , 
+ 
+## What this user tweeted
+ 
+@NairaShola @OshioQuake Very wrong. Everyone knows Ukraine lasted this long simply because US, UK &amp; EU are fully su… https://t.co/kbEE4sKtHY
+ 
+# Rose80640866USER INFO
+![image](http://pbs.twimg.com/profile_images/1587899913630883841/4VkJ8F2G_normal.jpg)
+ 
+`User ScreenName:` Rose80640866 
+ 
+`User chosen Name:` Rose 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 01 18:13:15 +0000 2022 
+ 
+`User Description?:` widow 4 children 2 grandkids 2 great grandkids 
+ 
+`Followers?: `21 
+ 
+`Following?:` 114 
+ 
+`User URL?:` None 
+ 
+`Location:` Boston, MA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1587899913630883841/4VkJ8F2G_normal.jpg 
+ 
+`Number of tweets excluding replies:` 545 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 22 , **US** 18 , **@NEWSWEEK:** 13 , **PRESIDENT** 13 , **TWITTER** 13 , **@WASHINGTONPOST:** 12 , **NEW** 12 , **ELON** 11 , **MUSK** 10 , **TIME** 9 , **DONALD** 9 , **SHOW** 9 , **FORMER** 8 , **HOUSE** 8 , **AGAINST** 7 , **BREAKING:** 7 , **AFTER** 7 , **@MSNBC:** 7 , **PEOPLE** 6 , **VOTE** 6 , 
+ 
+## What this user tweeted
+ 
+RT @visegrad24: 25-year-old Zeng Shengguang has been killed in battle against the Russian Army.
+
+He is the first Taiwanese volunteer to sac…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
