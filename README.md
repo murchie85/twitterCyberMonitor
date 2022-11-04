@@ -11,10 +11,12 @@
  
 ![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **AbuseIPDB_bot**  
+The most popular user is: **Max_Mal_**  
  
 
-## IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb 
+## #Qakbot infection leads to Ransomware(#BlackBasta) attack🚨
+
+#DFIR and #ThreatIntel report covers full execution flo… https://t.co/okaPBfcLQS 
 
   
 
@@ -29,9 +31,9 @@ The most popular user is: **AbuseIPDB_bot**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Max_Mal_: #Qakbot infection leads to Ransomware(#BlackBasta) attack🚨#DFIR and #ThreatIntel report covers full execution flow TTPs (Ad… |
-| RT @AllForOsint: Hey #OSINT, hope you enjoyed @TraceLabs CTF.Now are ready for our everlasting 'The Unsolvable CTF'?#SOCINT #geolocatio… |
-| RT @SolMiningpunkV2: IM DOING MY PART ARE YOU??? @CISAgov @US_CYBERCOM @defcon @xml @HackForumsNet @kalilinux #Cybersecurity #threatintel #… |
+| Active #Malware samples detected on 2022-11-01 posted by MalwarePatrol on @AlienVault OTX: /pulse/6361b2548ab2daa50… https://t.co/VRxTdGbB7o |
+| Malware Analysis - persistence - 7129291fc3d97377200f8a24ad06930a - https://t.co/jx4KIHyo8e#Malware #OSINT #ThreatIntel  #persistence |
+| Malware Analysis - ransomware - 570bd97195aed5776a9207ae03b17eb5 - https://t.co/bkH7L4zphi#Malware #OSINT #ThreatIntel  #ransomware |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -39,9 +41,9 @@ The most popular user is: **AbuseIPDB_bot**
 | #1 Most tweeted to  | **Max_Mal_** |
 | #2 Most tweeted to  | **DailyOsint** |
 | #3 Most tweeted to  | **RedPacketSec** |
-| NewProfiles (less than 10 days) | 0.39%  |
-| Tweeters with < 10 followers  | 3.16%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| NewProfiles (less than 10 days) | 0.13%  |
+| Tweeters with < 10 followers  | 2.82%|
+| Tweeters with > 1000000 followers  | 0.13%  |
 
 
 
@@ -60,18 +62,18 @@ The most popular user is: **AbuseIPDB_bot**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (37.5%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJECTIVE** (37.5%)
+VIEWS WERE : **SUBJECTIVE**  (83.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (16.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BranhamRoen: CyberSecurity Weekly #Hacker #News Sept4-11, 2022FULL EPISODE &gt;&gt; https://t.co/gxqTDJOZ9W#cyberattack #cybersecuritynews… |
+|Malware Analysis - persistence - a35215aa49d53cb99f3037a7ff7e0331 - https://t.co/y38KMGkynw#Malware #OSINT #ThreatIntel  #persistence |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AbuseIPDB_bot**  |
+| The most retweeted user is: **Max_Mal_**  |
 | ------------- |
-| IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb |
+| #Qakbot infection leads to Ransomware(#BlackBasta) attack🚨#DFIR and #ThreatIntel report covers full execution flo… https://t.co/okaPBfcLQS |
 
 # Potential Fake Accounts
  
@@ -88,7 +90,7 @@ VIEWS WERE : **SUBJECTIVE**  (37.5%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJEC
  
 `User Description?:` My name is Jake! I'm completely human developer. 
  
-`Followers?: `47 
+`Followers?: `56 
  
 `Following?:` 1054 
  
@@ -100,7 +102,7 @@ VIEWS WERE : **SUBJECTIVE**  (37.5%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJEC
  
 `Profile image:` http://pbs.twimg.com/profile_images/1585381392644538390/5lOPnoYV_normal.jpg 
  
-`Number of tweets excluding replies:` 3514 
+`Number of tweets excluding replies:` 3513 
  
 
  
@@ -134,17 +136,17 @@ WhatsApp?? #MachineLearning
  
 `Followers?: `7 
  
-`Following?:` 78 
+`Following?:` 79 
  
 `User URL?:` None 
  
 `Location:` United States 
  
-`Number of tweets extracted`  : 15 
+`Number of tweets extracted`  : 16 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1586587267275128832/a9Hi_FNN_normal.png 
  
-`Number of tweets excluding replies:` 15 
+`Number of tweets excluding replies:` 16 
  
 
  
@@ -152,50 +154,11 @@ WhatsApp?? #MachineLearning
  
 ## User Top tweeted words 
  
-**ACCOUNT** 3 , **VERIFICATION** 2 , **@IGN:** 2 , **NEW** 2 , **@CYBERSECDN:** 2 , **@AOC** 1 , **WRONG!** 1 , **KEEPING** 1 , **HANDS** 1 , **CLEAR** 1 , **VIEW** 1 , **BEST** 1 , **PRACTICE** 1 , **WHILE** 1 , **DETAINED** 1 , **UNLESS** 1 , **YOU’RE** 1 , **DIRECTED** 1 , **PLACE** 1 , **TH…** 1 , 
+**ACCOUNT** 3 , **VERIFICATION** 2 , **@IGN:** 2 , **NEW** 2 , **@CYBERSECDN:** 2 , **RT** 1 , **@DESERTEDPIACES_:** 1 , **RAILROAD** 1 , **TRACKS** 1 , **FOREST** 1 , **HTTPS://TCO/SPZZOIQXLV@AOC** 1 , **WRONG!** 1 , **KEEPING** 1 , **HANDS** 1 , **CLEAR** 1 , **VIEW** 1 , **BEST** 1 , **PRACTICE** 1 , **WHILE** 1 , **DETAINED** 1 , 
  
 ## What this user tweeted
  
 RT @CyberSecDN: CISA Warns of Daixin Team Hackers Targeting Health Organizations With Ransomware https://t.co/NpxJfQKLDs #threatintel
- 
-# Ioc_test07USER INFO
-![image](http://pbs.twimg.com/profile_images/1585178414440452097/zH6Yj-l1_normal.png)
- 
-`User ScreenName:` Ioc_test07 
- 
-`User chosen Name:` Daniel James 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Oct 26 07:55:59 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1585178414440452097/zH6Yj-l1_normal.png 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MALICIOUS** 6 , **FILE** 6 , **HOSTED** 6 , **IOC** 6 , **16[]73[]231[]81** 4 , **THREATINTEL** 4 , **IDUNN** 4 , **@IOC_TEST07:** 3 , **POTENTIALLY** 3 , **TESTINGPOTENTIALLY** 3 , **TESTINGRT** 2 , **16[]73()231()81** 2 , **@RELAR13** 1 , **@CHRISTI42410109** 1 , **@WADIAMONDBK** 1 , **@DJCHAD818** 1 , **@IRENEHINESMAN** 1 , **@3YEARLETTERMAN** 1 , **@DS_ABP** 1 , **@ELONMUSK** 1 , 
- 
-## What this user tweeted
- 
-RT @Ioc_test07: Potentially malicious file hosted at 16[.]73[.]231[.]81 #ioc #ThreatIntel #idunn #testingPotentially malicious file hosted at 16[.]73[.]231[.]81 #ioc #ThreatIntel #idunn #testingRT @Ioc_test07: Potentially malicious file hosted at 16[.]73(.).231(.)81 #ioc #ThreatIntel #idunn #testingPotentially malicious file hosted at 16[.]73(.).231(.)81 #ioc #ThreatIntel #idunn #testing
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
