@@ -14,7 +14,7 @@
 The most popular user is: **elonmusk**  
  
 
-## @FedorovMykhailo Starlink service is now active in Ukraine. More terminals en route. 
+## Starlink has been told by some governments (not Ukraine) to block Russian news sources. We will not do so unless at… https://t.co/iD0sAP7azl 
 
   
 
@@ -29,19 +29,19 @@ The most popular user is: **elonmusk**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @weirdturnspro The republics only defended themselves against Ukrainian aggression. Poroshenko admitted that he was… https://t.co/8xuZHYn6EA |
-| @B3man1 @CBCNews You should move to ukraine then. That way you could really support them, win win |
-| RT @francis_scarr: RT boss Margarita Simonyan says Ukraine "ought to be made a little smaller""Thank God, this is what we're in fact doin… |
+| @Biz_Ukraine_Mag He needs the leather coat. |
+| RT @IrcoboMartial: Personal thought: Of course, #NAFO is Ukraine centered, and it won't change. However, we need a more "globalist" view of… |
+| Pergi Fuck Yourself, Putin!(Malay)#Ukraine #StandWithUkraine #IStandWithUkraine #StopPutin |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DashDobrofsky** |
-| #2 Most tweeted to  | **NOELreports** |
-| #3 Most tweeted to  | **KyivIndependent** |
-| NewProfiles (less than 10 days) | 1.46%  |
-| Tweeters with < 10 followers  | 7.6%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **KyivIndependent** |
+| #2 Most tweeted to  | **elonmusk** |
+| #3 Most tweeted to  | **SamRamani2** |
+| NewProfiles (less than 10 days) | 1.52%  |
+| Tweeters with < 10 followers  | 8.62%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -54,457 +54,43 @@ The most popular user is: **elonmusk**
 | second  | **WAR**  |
 | third  | **RUSSIA** |
 | fourth  | **RUSSIAN**  |
-| fifth  | **MUSK**  |
+| fifth  | **ITS**  |
 
 
 ## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @walter_report: Ukrainian mortar team near Bakhmut.Incessantly lobbing mortar mines at russian invaders over the screams of the wounded… |
+|RT @blackintheempir: As the 300,000 new Russian troops arrive on the battlefield that we were told won't matter, get ready to hear the West… |
 
 ### MOST RETWEETED 
 
 | The most retweeted user is: **elonmusk**  |
 | ------------- |
-| @FedorovMykhailo Starlink service is now active in Ukraine. More terminals en route. |
+| Starlink has been told by some governments (not Ukraine) to block Russian news sources. We will not do so unless at… https://t.co/iD0sAP7azl |
 
 # Potential Fake Accounts
  
-# vulpes_laniusUSER INFO
-![image](http://pbs.twimg.com/profile_images/1594894058161405954/iQVYPwkW_normal.jpg)
+# thierrydelamar7USER INFO
+![image](http://pbs.twimg.com/profile_images/1594637649201041415/XEiZbOGy_normal.jpg)
  
-`User ScreenName:` vulpes_lanius 
+`User ScreenName:` thierrydelamar7 
  
-`User chosen Name:` S-P-E-C-T-R-E 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Nov 22 03:21:46 +0000 2022 
- 
-`User Description?:` land of the free, because of the brave. 
- 
-`Followers?: `4 
- 
-`Following?:` 53 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 15 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1594894058161405954/iQVYPwkW_normal.jpg 
- 
-`Number of tweets excluding replies:` 15 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@POTUS** 4 , **@DONALDJTRUMPJR** 3 , **@CJANE0123** 1 , **SOURCE** 1 , **NEWS** 1 , **IFUNNY** 1 , **BULLSIT** 1 , **MAINSTREAM** 1 , **MEDIA@CJANE0123** 1 , **SON** 1 , **NEFARIOUS** 1 , **DEALINGS** 1 , **CHINA** 1 , **UKRAINE** 1 , **RUSSIA…** 1 , **HTTPS://TCO/PJYCOPLFUW@CJANE0123** 1 , **SMOKING** 1 , **CRACK** 1 , **14** 1 , **YEAR** 1 , 
- 
-## What this user tweeted
- 
-@CJane0123 @DonaldJTrumpJr @POTUS Not only that but his son also has nefarious dealings in china ukraine and russia… https://t.co/pJycOpLfUW
- 
-# JoshuaM9171USER INFO
-![image](http://pbs.twimg.com/profile_images/1596662019943550977/1Zev_OnQ_normal.jpg)
- 
-`User ScreenName:` JoshuaM9171 
- 
-`User chosen Name:` JoshuaMichael9171 
+`User chosen Name:` thierry delamarre 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Nov 27 00:27:13 +0000 2022 
- 
-`User Description?:` Guilty until proven innocent. 
- 
-`Followers?: `23 
- 
-`Following?:` 474 
- 
-`User URL?:` None 
- 
-`Location:` Indianapolis, IN 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596662019943550977/1Zev_OnQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 717 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 15 , **EVIDENCE** 10 , **BIDEN** 8 , **SILVER** 8 , **NEWS** 7 , **TWITTER** 7 , **PROBLEM** 6 , **THAT'S** 6 , **THAN** 6 , **ANY** 6 , **GOVERNMENT** 6 , **GOLD** 5 , **DEMOCRATS** 5 , **AGAINST** 5 , **@MFA_RUSSIA:** 5 , **JOE** 4 , **ELECTIONS** 4 , **YOU'RE** 4 , **INFLATION** 4 , **MUCH** 4 , 
- 
-## What this user tweeted
- 
-RT @RussianEmbassy: 🤔#NATO's Jamie Shea, 1999: 70% of #Yugoslavia is without electricity. It shows we have our finger on the trigger and ca…
- 
-# slly2255USER INFO
-![image](http://pbs.twimg.com/profile_images/1594731516763852807/LxkWcPGl_normal.jpg)
- 
-`User ScreenName:` slly2255 
- 
-`User chosen Name:` HeSallyyy11 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 21 16:33:47 +0000 2022 
- 
-`User Description?:` My hobbies are, traveling, fitness, practicing yoga, golf, cooking, and investing. 
- 
-`Followers?: `16 
- 
-`Following?:` 78 
- 
-`User URL?:` None 
- 
-`Location:` Irvine, California  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1594731516763852807/LxkWcPGl_normal.jpg 
- 
-`Number of tweets excluding replies:` 605 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 24 , **MEGHAN** 18 , **ARDERN** 17 , **MCCONNELL** 16 , **MITCH** 16 , **JACINDA** 16 , **PRESIDENT** 14 , **@JEFFBEZOS:** 11 , **AGAINST** 10 , **MARKLE** 9 , **ELON** 9 , **VOTED** 8 , **MARRIAGE** 8 , **TWITTER** 8 , **SANNA** 8 , **MARIN** 8 , **JOE** 8 , **SAME** 7 , **STILL** 7 , **SOME** 6 , 
- 
-## What this user tweeted
- 
-RT @apmassaro3: “My neighbors in Ukraine have now electricity for a lot of hours, no heating and no water. And they want to buy starlink! R…
- 
-# JoinHisKingdomUSER INFO
-![image](http://pbs.twimg.com/profile_images/1598094253166567426/zRlPUDgh_normal.jpg)
- 
-`User ScreenName:` JoinHisKingdom 
- 
-`User chosen Name:` Prime Minister of Kingdom of God 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 22:55:09 +0000 2022 
- 
-`User Description?:` 1st Citizen, Owner and Prime Minister of the Kingdom of God since 1994 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:` The World State Kingdom of God 
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1598094253166567426/zRlPUDgh_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SUBJECTS** 4 , **ITS** 3 , **UNDIVERSE** 3 , **EG** 3 , **EUROPE** 3 , **USA** 3 , **WHITECHRISTIAN** 3 , **LEGAL** 2 , **PERSON** 2 , **GOD** 2 , **KINGDOM** 2 , **SUBJECT** 2 , **OF…** 2 , **HTTPS://TCO/TRBOCJRAVHALL** 1 , **NATIONS** 1 , **KINGDOMOFGOD** 1 , **AL…** 1 , **HTTPS://TCO/EXKAGZPD1TA** 1 , **HTTPS://TCO/OMGM3146IF** 1 , 
- 
-## What this user tweeted
- 
-A legal person is God, His Kingdom or its undiverse Subject, e.g. #Europe and #USA are #WhiteChristian Subjects of… https://t.co/tRBocJRavHAll nations are the undiverse Subjects of #KingdomOfGod, e.g. #Europe and #USA are its #WhiteChristian Subjects, al… https://t.co/EXKAgZPD1t
- 
-# SharonShevlaneUSER INFO
-![image](http://pbs.twimg.com/profile_images/1598075924607541248/HBujwqrU_normal.jpg)
- 
-`User ScreenName:` SharonShevlane 
- 
-`User chosen Name:` Sharon Shevlane 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 21:26:02 +0000 2022 
- 
-`User Description?:` Delighted member of the Irish Freedom Party,
-Trad Catholic,
-Love Ireland Love my family 
-Investigating researcher, writer,
-I'm back!
-#TheGreatIrishReset2030🇮🇪 
- 
-`Followers?: `1 
- 
-`Following?:` 18 
- 
-`User URL?:` None 
- 
-`Location:` Roscommon Ireland 
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1598075924607541248/HBujwqrU_normal.jpg 
- 
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CARLINGFORD** 3 , **PEOPLE** 3 , **THAN** 3 , **YOUNG** 2 , **BEING** 2 , **@XX17965797N:** 2 , **NEVER** 2 , **IRELANDISFULL** 2 , **TWITTER** 2 , **2022** 2 , **HIGHER** 2 , **@IREXITFREEDOM:** 2 , **DECEMBER** 2 , **SINN** 2 , **FEIN** 2 , **RT** 1 , **@HERMANNKELLY:** 1 , **VILLAGE** 1 , **CO** 1 , **LOUTH** 1 , 
- 
-## What this user tweeted
- 
-RT @hermannkelly: Carlingford village, Co Louth tonight. All young men claiming to be from Ukraine. Our hospitality and resources being abu…
- 
-# Humayun93678481USER INFO
-![image](http://pbs.twimg.com/profile_images/1596722034335252481/Wzb4-N8n_normal.png)
- 
-`User ScreenName:` Humayun93678481 
- 
-`User chosen Name:` Humayun kabir Khan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Nov 27 04:26:12 +0000 2022 
+`User signup date?:` Mon Nov 21 10:23:36 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `5 
+`Followers?: `20 
  
-`Following?:` 119 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 181 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596722034335252481/Wzb4-N8n_normal.png 
- 
-`Number of tweets excluding replies:` 181 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RUSSIAN** 23 , **UKRAINE** 18 , **BAKHMUT** 17 , **PEOPLE** 16 , **RUSSIA** 14 , **WAR** 12 , **R** 12 , **DON’T** 12 , **UKRAINIAN** 10 , **@EUROMAIDANPRESS:** 9 , **@ELONMUSK** 7 , **FORCES** 7 , **@MAKS_NAFO_FELLA:** 7 , **MUST** 7 , **RUSSIANS** 7 , **AFTER** 7 , **@DEFENCEU:** 7 , **TOO** 6 , **ELON** 6 , **WAGNER** 6 , 
- 
-## What this user tweeted
- 
-RT @_JakubJanda: Hungary is a safe heaven for Russian intelligence against other democracies.
-
-When Russia started the war on Ukraine, Russ…
- 
-# itsmeyalllibsUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` itsmeyalllibs 
- 
-`User chosen Name:` it'sme 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 26 23:22:40 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 55 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 24 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LIBSOFTIKTOK** 7 , **WHERE** 4 , **MONEY** 2 , **UNTIL** 2 , **PEOPLE** 2 , **FIND** 2 , **DON'T** 2 , **@JACK** 2 , **@TWITTERSUPPORT** 2 , **@DJTDESK** 2 , **2** 2 , **AMERICA** 2 , **WHATEVER** 2 , **TH…** 2 , **BOY** 2 , **@LSEDD** 1 , **EVERYONE** 1 , **TOO** 1 , **SCARED** 1 , **SAY** 1 , 
- 
-## What this user tweeted
- 
-@svtjess @CTPOLICELIVE @libsoftiktok No more money to Ukraine until we get the receipts of where the rest of the money has gone.
- 
-# GarnhamPiers1USER INFO
-![image](http://pbs.twimg.com/profile_images/1596256326241468472/Fr2tx55q_normal.jpg)
- 
-`User ScreenName:` GarnhamPiers1 
- 
-`User chosen Name:` Piers Garnham 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Nov 25 21:33:32 +0000 2022 
- 
-`User Description?:` Live in London, England with my Spanish wife. I’ve been an actor, banker and salesman. All I want is the truth and a better world for all. 
- 
-`Followers?: `44 
- 
-`Following?:` 906 
- 
-`User URL?:` None 
- 
-`Location:` London, England 
- 
-`Number of tweets extracted`  : 163 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596256326241468472/Fr2tx55q_normal.jpg 
- 
-`Number of tweets excluding replies:` 163 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JEWS** 17 , **BLAME** 16 , **MISTAKENLY** 15 , **PEOPLE** 14 , **WORLD** 12 , **SOME** 12 , **SUGGESTED** 12 , **WORLD’S** 10 , **WOES** 10 , **GOING** 8 , **@NIGEL_FARAGE** 7 , **APPLE** 7 , **TELL** 6 , **CHARLES** 6 , **GAY!** 6 , **COVERING** 6 , **TWITTER** 6 , **CHINA** 6 , **FREE** 6 , **SPEECH** 6 , 
- 
-## What this user tweeted
- 
-@ChuckCallesto Under Secretary of State for Political Affairs of the United States Victoria Nuland admitted in a Se… https://t.co/iei7zNqxDU
- 
-# Lamnak3USER INFO
-![image](http://pbs.twimg.com/profile_images/1598094342618497026/YlAAA_am_normal.jpg)
- 
-`User ScreenName:` Lamnak3 
- 
-`User chosen Name:` Lamnak 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 23:18:48 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 43 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1598094342618497026/YlAAA_am_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TOMFITTON:** 3 , **@ELONMUSK:** 2 , **RT** 1 , **@REPMTG:** 1 , **JOE** 1 , **BIDEN** 1 , **SUCH** 1 , **FAILURE** 1 , **RAIL** 1 , **COMPANIES** 1 , **VERGE** 1 , **SHUTTING** 1 , **DOWNRT** 1 , **@JUDICIALWATCH:** 1 , **11** 1 , **MILLION** 1 , **TAX** 1 , **DOLLARS** 1 , **CONTRACT** 1 , **YEAR** 1 , 
- 
-## What this user tweeted
- 
-RT @JudicialWatch: .@TomFitton: 11 million in tax dollars for one contract for one year -- tied to biolabs in Ukraine! https://t.co/DcEF7Sk…
- 
-# TheLordShadow80USER INFO
-![image](http://pbs.twimg.com/profile_images/1597315276982259712/4wPFwiE8_normal.jpg)
- 
-`User ScreenName:` TheLordShadow80 
- 
-`User chosen Name:` LordShadow1980 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 28 19:42:57 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 64 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597315276982259712/4wPFwiE8_normal.jpg 
- 
-`Number of tweets excluding replies:` 64 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UKRAINE** 42 , **SLAVAUKRAINE** 26 , **UKRAINERUSSIANWAR** 18 , **UKRAINEFRONTLINES** 16 , **أوكرانيا** 14 , **RUSSIAN** 8 , **UKRAINERUSSIANWAR…** 7 , **SLAVAUKRAINE…** 7 , **روسيا…** 7 , **DESTROYED** 7 , **روسيا** 6 , **FORCES** 6 , **OCCUPIERS** 5 , **OMBR** 5 , **BAKHMUT** 5 , **SEPARATE** 4 , **BRIGADE** 4 , **الحرب_الروسية_الأوكرانية** 4 , **ARMED** 4 , **WORK** 4 , 
- 
-## What this user tweeted
- 
-🏴‍☠️
-
-45 OABR: how the occupiers fled from the Kherson direction!
-
-#Ukraine
-#SlavaUkraine
-#UkraineRussianWar… https://t.co/X0b5e6lazh🏴‍☠️
-
-They approached, shot at enemy positions and left
-
-#Ukraine
-#SlavaUkraine
-#UkraineRussianWar… https://t.co/lySQCVPQlf🏴‍☠️
-
-Look at the flag in the background, that person's face is familiar to me.
-
-#Ukraine
-#SlavaUkraine… https://t.co/ihgC5RsZZX
- 
-# ClancyDarrowUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` ClancyDarrow 
- 
-`User chosen Name:` Clancy Darrow 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 24 13:52:16 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 34 
+`Following?:` 252 
  
 `User URL?:` None 
  
@@ -512,50 +98,9 @@ Look at the flag in the background, that person's face is familiar to me.
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1594637649201041415/XEiZbOGy_normal.jpg 
  
-`Number of tweets excluding replies:` 296 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CNBC:** 90 , **@KYIVINDEPENDENT:** 44 , **RUSSIAN** 18 , **UKRAINE** 17 , **(VIA** 17 , **US** 15 , **@CNBCMAKEIT)** 12 , **CHINA** 12 , **LISTEN** 10 , **STOCKS** 10 , **ENERGY** 9 , **COVID** 9 , **ITS** 8 , **UKRAINIAN** 8 , **PEOPLE** 8 , **@OCCUPYDEMOCRATS:** 8 , **⚡️** 8 , **NEW** 7 , **NOW:** 7 , **YEAR** 7 , 
- 
-## What this user tweeted
- 
-RT @KyivIndependent: ⚡️Kuleba and Danish counterpart discuss support for Ukraine.
-
-"In today’s meeting, we discussed Denmark’s steadfast an…
- 
-# MclDaveUSER INFO
-![image](http://pbs.twimg.com/profile_images/1595638105188360192/s66sUCHb_normal.png)
- 
-`User ScreenName:` MclDave 
- 
-`User chosen Name:` dave McL 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 24 04:39:04 +0000 2022 
- 
-`User Description?:` Human Being, Lover of Liberties, One Piece Fan.  Teemo main. Pureblood 
- 
-`Followers?: `3 
- 
-`Following?:` 81 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 131 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1595638105188360192/s66sUCHb_normal.png 
- 
-`Number of tweets excluding replies:` 131 
+`Number of tweets excluding replies:` 1137 
  
 
  
@@ -563,156 +108,38 @@ RT @KyivIndependent: ⚡️Kuleba and Danish counterpart discuss support for Ukr
  
 ## User Top tweeted words 
  
-**@WAPIROBEN** 38 , **@JUSTTRYNAB** 37 , **@SOSADEEP3** 37 , **@TOM__BUILDER** 37 , **@NOLIEWITHBTC** 37 , **@CBS8** 36 , **?** 30 , **PEOPLE** 17 , **@REMOVEFOXNOW** 14 , **LOL** 12 , **MEAN** 11 , **REALLY** 9 , **DONT** 9 , **@KEVIN_CAVED_IN** 9 , **THEN** 8 , **HATE** 6 , **GUNS** 6 , **LOVE** 6 , **CANT** 5 , **DON'T** 5 , 
+**DE** 47 , **LA** 35 , **LE** 31 , **À** 24 , **DES** 20 , **POUR** 19 , **UN** 17 , **EN** 16 , **UNE** 15 , **LES** 15 , **ET** 14 , **@POTUS:** 12 , **DANS** 12 , **!** 11 , **QUE** 11 , **SUR** 10 , **@_B___S:** 10 , **EST** 10 , **QUI** 10 , **UKRAINE** 9 , 
  
 ## What this user tweeted
  
-@DashDobrofsky you don't really know alot do you ? Hunter Biden conspiracies ? what are they ? He wanted Russia and… https://t.co/BNNTUPcfJj
+RT @tomaburque: Destroying enemies near #Bakhmut at night with a thermal imager spotting and correcting fire #Ukraine is winning https://t.…
  
-# CapriCryptoFundUSER INFO
-![image](http://pbs.twimg.com/profile_images/1595831443527286784/MnOMZvrB_normal.jpg)
+# makara51415165USER INFO
+![image](http://pbs.twimg.com/profile_images/1598089834328825856/affiJr8j_normal.jpg)
  
-`User ScreenName:` CapriCryptoFund 
+`User ScreenName:` makara51415165 
  
-`User chosen Name:` CapriCryptoFund 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 23 14:33:47 +0000 2022 
- 
-`User Description?:` Former distressed HF investor, New crypto enthusiast. Trying to unravel the chaos and make money from crypto pandemonium. Legal observations my own; not advice. 
- 
-`Followers?: `60 
- 
-`Following?:` 108 
- 
-`User URL?:` None 
- 
-`Location:` Naples, FL 
- 
-`Number of tweets extracted`  : 146 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1595831443527286784/MnOMZvrB_normal.jpg 
- 
-`Number of tweets excluding replies:` 146 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SBF_FTX** 15 , **@ANDREWRSORKIN** 10 , **@JOHNEDEATON1** 8 , **INTERVIEW** 7 , **BANKRUPTCY** 7 , **LOVE** 7 , **FIRST** 6 , **FTX** 6 , **SBF** 5 , **US** 5 , **TOO** 5 , **@WASSIELAWYER** 5 , **DAY** 5 , **REALLY** 5 , **@COINDESK** 4 , **COULD** 4 , **GREAT** 4 , **FISHING** 4 , **I'VE** 4 , **SOME** 4 , 
- 
-## What this user tweeted
- 
-RT @TiffanyFong_: Audio from my first interview with Sam Bankman-Fried. SBF talks bankruptcy, the alleged “backdoor,” donations to the Demo…
- 
-# EliBlueYellowUSER INFO
-![image](http://pbs.twimg.com/profile_images/1594520572125495296/Yx7rlaA5_normal.jpg)
- 
-`User ScreenName:` EliBlueYellow 
- 
-`User chosen Name:` Eli 🌻🇺🇦 
+`User chosen Name:` Girly 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Nov 21 02:34:58 +0000 2022 
+`User signup date?:` Sat Nov 26 22:17:43 +0000 2022 
  
-`User Description?:`  
- 
-`Followers?: `29 
- 
-`Following?:` 151 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1594520572125495296/Yx7rlaA5_normal.jpg 
- 
-`Number of tweets excluding replies:` 1633 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UKRAINE** 34 , **RUSSIAN** 14 , **@MAKS_NAFO_FELLA:** 12 , **@NOELREPORTS:** 12 , **SUPPORT** 11 , **RUSSIA** 11 , **GOD** 10 , **UKRAINIAN** 10 , **WAR** 9 , **DAY** 9 , **NEW** 8 , **US** 8 , **PUTIN** 7 , **BAKHMUT** 7 , **UKRANIANS** 7 , **UKRAINE!** 7 , **@KASPAROV63:** 7 , **GERMAN** 6 , **MAN** 6 , **HELP** 6 , 
- 
-## What this user tweeted
- 
-RT @Maks_NAFO_FELLA: "The Alliance considers the main thing now to ensure the victory of Ukraine, and not to discuss its entry, because oth…"The most important step Ukraine and the West can take to contribute to diplomacy is to support Ukraine’s war effor… https://t.co/j6SN3fJxWNRT @MarkHertling: A paper just released by the @AtlanticCouncil and the @USIP.  Proud to be a contributor.
-https://t.co/EUeILRJ7qr
- 
-# TahireYelmenUSER INFO
-![image](http://pbs.twimg.com/profile_images/1596312235659476993/T_wdbVaC_normal.jpg)
- 
-`User ScreenName:` TahireYelmen 
- 
-`User chosen Name:` Tahire Yelmen 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 26 01:17:32 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596312235659476993/T_wdbVaC_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SIZCE** 2 , **;)** 2 , **ISTANBUL** 2 , **YENIPROFILRESMİ** 2 , **ZARA** 2 , **RT** 1 , **@FADIME340086:** 1 , **NASILIM** 1 , **BEYLER** 1 , **HTTPS://TCO/HD5YBIR8HVRT** 1 , **@TRTWORLD:** 1 , **UKRAINE** 1 , **PRESIDENT** 1 , **ZELENSKYY** 1 , **APPEARS** 1 , **MOCK** 1 , **ELON** 1 , **MUSK'S** 1 , **PROPOSAL** 1 , **RUSSIA'S** 1 , 
- 
-## What this user tweeted
- 
-RT @trtworld: Ukraine President Zelenskyy appears to mock Elon Musk's proposal to end Russia's offensive and asks the billionaire to visit…
- 
-# MucizeSoyukUSER INFO
-![image](http://pbs.twimg.com/profile_images/1596237785211486208/WjdDN8wv_normal.jpg)
- 
-`User ScreenName:` MucizeSoyuk 
- 
-`User chosen Name:` Mucize Soyuk 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Nov 25 20:21:42 +0000 2022 
- 
-`User Description?:`  
+`User Description?:` Enjoy time, enjoy my life, love to travel, I want to fulfill my dream, travel around the world 
  
 `Followers?: `1 
  
-`Following?:` 11 
+`Following?:` 12 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` California 
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 66 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1596237785211486208/WjdDN8wv_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1598089834328825856/affiJr8j_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 66 
  
 
  
@@ -720,311 +147,38 @@ RT @trtworld: Ukraine President Zelenskyy appears to mock Elon Musk's proposal t
  
 ## User Top tweeted words 
  
-**SIZCE** 2 , **;)** 2 , **ISTANBUL** 2 , **YENIPROFILRESMİ** 2 , **ZARA** 2 , **RT** 1 , **@FADIME340086:** 1 , **NASILIM** 1 , **BEYLER** 1 , **HTTPS://TCO/HD5YBIR8HVRT** 1 , **@TRTWORLD:** 1 , **UKRAINE** 1 , **PRESIDENT** 1 , **ZELENSKYY** 1 , **APPEARS** 1 , **MOCK** 1 , **ELON** 1 , **MUSK'S** 1 , **PROPOSAL** 1 , **RUSSIA'S** 1 , 
+**TWITTER** 11 , **ELON** 10 , **@ELONMUSK:** 9 , **@POTUS:** 7 , **BIDEN** 6 , **PEOPLE** 6 , **YEARS** 5 , **MUSK** 5 , **COVID** 4 , **OTHER** 4 , **RESPECT** 4 , **@CLOWNWORLD_:** 3 , **JOE** 3 , **@CATTURD2:** 3 , **VACCINE** 3 , **I’VE** 3 , **POLITICAL** 3 , **STILL** 3 , **DON’T** 3 , **@DOM_LUCRE:** 3 , 
  
 ## What this user tweeted
  
-RT @trtworld: Ukraine President Zelenskyy appears to mock Elon Musk's proposal to end Russia's offensive and asks the billionaire to visit…
+RT @ProudElephantUS: How did the Democrats lose track of 20 BILLION dollars that they gave to Ukraine?
  
-# BeyzaDalkesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1596413641707978753/C1TvURgZ_normal.jpg)
+# MoreheadMalcolmUSER INFO
+![image](http://pbs.twimg.com/profile_images/1597632481074839555/OEwDNM8t_normal.jpg)
  
-`User ScreenName:` BeyzaDalkes 
+`User ScreenName:` MoreheadMalcolm 
  
-`User chosen Name:` Beyza Dalkes 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 26 08:00:29 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596413641707978753/C1TvURgZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SIZCE** 2 , **;)** 2 , **ZARA** 2 , **ISTANBUL** 2 , **YENIPROFILRESMİ** 2 , **RT** 1 , **@ASIYEKURTEL:** 1 , **BU** 1 , **DURUŞ** 1 , **NASIL** 1 , **BEYLERR** 1 , **HTTPS://TCO/0EEYHQFY65RT** 1 , **@TRTWORLD:** 1 , **UKRAINE** 1 , **PRESIDENT** 1 , **ZELENSKYY** 1 , **APPEARS** 1 , **MOCK** 1 , **ELON** 1 , **MUSK'S** 1 , 
- 
-## What this user tweeted
- 
-RT @trtworld: Ukraine President Zelenskyy appears to mock Elon Musk's proposal to end Russia's offensive and asks the billionaire to visit…
- 
-# Deadwood2022USER INFO
-![image](http://pbs.twimg.com/profile_images/1596298304412860416/rIXD17ub_normal.jpg)
- 
-`User ScreenName:` Deadwood2022 
- 
-`User chosen Name:` Big Al 
+`User chosen Name:` malcolm morehead 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Nov 25 12:57:24 +0000 2022 
+`User signup date?:` Tue Nov 29 15:54:18 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Conservative 
  
-`Followers?: `4 
- 
-`Following?:` 81 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 95 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596298304412860416/rIXD17ub_normal.jpg 
- 
-`Number of tweets excluding replies:` 95 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CHINA** 15 , **NEED** 14 , **MUCH** 12 , **SUPER** 11 , **POWER** 11 , **QUEST** 11 , **PLANET** 11 , **AMERICAN** 7 , **FUENTES** 6 , **SMARTEST** 5 , **AFRICAN** 5 , **MUSK** 5 , **LATINX** 4 , **NICK** 4 , **?** 4 , **ANOTHER** 3 , **@HODGETWINS** 3 , **DON'T** 3 , **HERSHEY** 3 , **GO** 3 , 
- 
-## What this user tweeted
- 
-@NoLieWithBTC Billions sent to Ukraine, no audit ?
- 
-# WVtoMS2019USER INFO
-![image](http://pbs.twimg.com/profile_images/1596570622909374466/bKlDDOo0_normal.jpg)
- 
-`User ScreenName:` WVtoMS2019 
- 
-`User chosen Name:` Charles Howell 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 26 18:19:40 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 101 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596570622909374466/bKlDDOo0_normal.jpg 
- 
-`Number of tweets excluding replies:` 101 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**YOU’RE** 16 , **DON’T** 8 , **I’M** 8 , **NAZI** 7 , **LIBERALS** 7 , **TRASH** 7 , **@ELONMUSK** 7 , **@GEORGETAKEI** 6 , **PEOPLE** 5 , **THAT’S** 5 , **TESLA** 5 , **BIDEN** 5 , **@AVINDMAN** 5 , **UKRAINE** 4 , **CAN’T** 4 , **BUY** 4 , **NEVER** 4 , **BEING** 4 , **GO** 4 , **DOWN** 4 , 
- 
-## What this user tweeted
- 
-@alexstubb The Ukraine and it’s Nazi people will lose.
- 
-# gadunka859USER INFO
-![image](http://pbs.twimg.com/profile_images/1597735914473594880/8umTJbVt_normal.jpg)
- 
-`User ScreenName:` gadunka859 
- 
-`User chosen Name:` mobats 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 26 22:13:40 +0000 2022 
- 
-`User Description?:` I like stuff and hate stuff founder of gadunkanism 
- 
-`Followers?: `9 
- 
-`Following?:` 334 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 151 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597735914473594880/8umTJbVt_normal.jpg 
- 
-`Number of tweets excluding replies:` 156 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 15 , **@ESQUEER_:** 10 , **WORKERS** 7 , **@GOOFXIST:** 7 , **US** 6 , **@KATIEDIMARTIN:** 6 , **LGBTQ** 6 , **GOT** 5 , **OFF** 5 , **STATES** 5 , **TRANS** 5 , **FUCKING** 5 , **LOOK** 4 , **BEING** 4 , **GOOD** 4 , **GUY** 4 , **@SHITPOSTGATE:** 4 , **TWITTER** 4 , **HOPE** 4 , **@PRIMUSGENDERED:** 4 , 
- 
-## What this user tweeted
- 
-RT @ComptonMadeMe: President Bernie Sanders would side with the workers after sending $100 Billion to Ukraine
- 
-# cha99035392USER INFO
-![image](http://pbs.twimg.com/profile_images/1597792260728713216/GT806Mig_normal.jpg)
- 
-`User ScreenName:` cha99035392 
- 
-`User chosen Name:` Elena Garcia 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Nov 29 19:27:57 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 25 
- 
-`User URL?:` None 
- 
-`Location:` New York 
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597792260728713216/GT806Mig_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GAS** 2 , **RT** 1 , **@POTUS:** 1 , **PRICES** 1 , **DOWN** 1 , **DOMESTIC** 1 , **PRODUCTION** 1 , **WE’VE** 1 , **RALLIED** 1 , **WORLD** 1 , **RELEASE** 1 , **OIL** 1 , **ADDRESS** 1 , **PRICE** 1 , **HIKE** 1 , **INFLAMED…HTTPS://TCO/NBWQ5XKZB9** 1 , 
- 
-## What this user tweeted
- 
-RT @POTUS: Gas prices are down, domestic production is up, and we’ve rallied the world to release oil to address a gas price hike inflamed…
- 
-# Rell___1984USER INFO
-![image](http://pbs.twimg.com/profile_images/1597346391076081666/g14DfhLO_normal.jpg)
- 
-`User ScreenName:` Rell___1984 
- 
-`User chosen Name:` Rell 1984 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 28 21:38:21 +0000 2022 
- 
-`User Description?:` “The march of science and technology does not imply growing intellectual complexity in the lives of most people. It often means the opposite.”  -Thomas Sowell 
- 
-`Followers?: `10 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:` Brooklyn, NY 
- 
-`Number of tweets extracted`  : 52 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597346391076081666/g14DfhLO_normal.jpg 
- 
-`Number of tweets excluding replies:` 52 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 7 , **@JAMESBRADLEYCA** 7 , **YOU’RE** 6 , **@MMPADELLAN** 6 , **LOSING** 5 , **@HODGETWINS** 5 , **@GARRETT_ARCHER** 5 , **@BISTROMATH2013** 4 , **@ABRAHAMHAMADEH** 4 , **@JACKPOSOBIEC** 4 , **@COLLINRUGG** 3 , **MEAN** 3 , **T…** 3 , **THESE** 3 , **@DADOSKYLR** 3 , **THEY’RE** 3 , **@DROOSKI** 3 , **GOVT** 2 , **I’M** 2 , **THEY’LL** 2 , 
- 
-## What this user tweeted
- 
-@ashevillecomics @CollinRugg You have a Ukraine flag in your bio. No one with more than one brain cell to rub together takes you seriously 😂
- 
-# FmrPhoenixRavenUSER INFO
-![image](http://pbs.twimg.com/profile_images/1598091748097822723/_ARuM5kV_normal.jpg)
- 
-`User ScreenName:` FmrPhoenixRaven 
- 
-`User chosen Name:` Robert wolfe 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 23:08:32 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 22 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1598091748097822723/_ARuM5kV_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@NATALIE83049** 1 , **@MICHAEL19979713** 1 , **@JOJOFROMJERZ** 1 , **TRUE** 1 , **CHINA** 1 , **UKRAINE** 1 , **DEALS** 1 , **SONS** 1 , **VERY** 1 , **DOUBTFUL** 1 , 
- 
-## What this user tweeted
- 
-@Natalie83049 @Michael19979713 @JoJoFromJerz If that was true they would know about his China and Ukraine deals and his sons. Very doubtful
- 
-# AnnaHer12042022USER INFO
-![image](http://pbs.twimg.com/profile_images/1595850844238479360/hVpNrwUj_normal.jpg)
- 
-`User ScreenName:` AnnaHer12042022 
- 
-`User chosen Name:` Anna 🇨🇵 🇪🇺 ꑭ 💛💙 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Nov 22 10:59:13 +0000 2022 
- 
-`User Description?:` L'Ukraine est le cœur de l'Europe. L'inhumanité et le terrorisme aujourd'hui, portent des noms russes. Non DM svp. sauf connus 
- 
-`Followers?: `23 
+`Followers?: `7 
  
 `Following?:` 117 
  
 `User URL?:` None 
  
-`Location:` La belle France. 
+`Location:` Batesville, MS 
  
-`Number of tweets extracted`  : 167 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1595850844238479360/hVpNrwUj_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1597632481074839555/OEwDNM8t_normal.jpg 
  
-`Number of tweets excluding replies:` 168 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -1032,11 +186,11 @@ RT @POTUS: Gas prices are down, domestic production is up, and we’ve rallied t
  
 ## User Top tweeted words 
  
-**DE** 21 , **UKRAINE** 20 , **RUSSIAN** 19 , **LA** 16 , **À** 11 , **UKRAINIAN** 10 , **LE** 9 , **RUSSIA** 9 , **NEGOTIATIONS** 9 , **ET** 8 , **@WARMONITOR3:** 8 , **LES** 8 , **FORCES** 8 , **@UKRAINIANNEWS24:** 7 , **@DEFENCEU:** 7 , **WITHOUT** 7 , **MAY** 6 , **RUSSIANS** 6 , **@DEFENCEU** 6 , **EST** 5 , 
+**CHILD** 3 , **TWITTER** 2 , **@ELONMUSK** 2 , **PROBLEM** 2 , **RT** 1 , **@FOXNEWS:** 1 , **BIDEN** 1 , **ADMIN** 1 , **PLEDGES** 1 , **ADDITIONAL** 1 , **$53M** 1 , **BOLSTER** 1 , **UKRAINE’S** 1 , **POWER** 1 , **GRID** 1 , **HTTPS://TCO/CGLS0YE2BNRT** 1 , **@TWITTERBUSINESS:** 1 , **20:** 1 , **SAME** 1 , **MISSION** 1 , 
  
 ## What this user tweeted
  
-RT @UkrainianNews24: Russia has increased the number of aircraft at the Engels airfield in Saratov Oblast, which may mean the Kremlin aims…
+RT @FoxNews: Biden admin pledges additional $53M to bolster Ukraine’s power grid https://t.co/CGls0yE2bn
  
 # Eric_DS_PerezUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
@@ -1059,11 +213,11 @@ RT @UkrainianNews24: Russia has increased the number of aircraft at the Engels a
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 38 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 38 
  
 
  
@@ -1071,77 +225,38 @@ RT @UkrainianNews24: Russia has increased the number of aircraft at the Engels a
  
 ## User Top tweeted words 
  
-**@MFA_RUSSIA** 4 , **@BBCWORLD** 4 , **@SKYNEWS** 4 , **@REESOXFORD** 4 , **@DIPLOMACYOXFORD** 4 , **@FINANCIALTIMES** 4 , **@RUSSIANEMBASSY** 3 , **@GUARDIAN** 2 , **@TELEGRAPH…** 2 , **@GUARDIAN…** 2 , **HTTPS://TCO/XYMXL4YTIW@RUSSIANEMBASSY** 1 , **HTTPS://TCO/VDOE6WSXIS@BARONATION** 1 , **HTTPS://TCO/D22Y3L4ZUM@UPSTREAM_AGS** 1 , **HTTPS://TCO/N4FVWFU28C** 1 , 
+**@MFA_RUSSIA** 38 , **@BBCWORLD** 38 , **@SKYNEWS** 38 , **@REESOXFORD** 38 , **@DIPLOMACYOXFORD** 38 , **@RUSSIANEMBASSY** 34 , **@FINANCIALTIMES…** 19 , **@FINANCIALTIMES** 19 , **@GUARDIAN…** 15 , **@GUARDIAN** 4 , **@TELEGRAPH…** 4 , **@FIFI1872THE2ND** 1 , **HTTPS://TCO/KMFFO16XQ8@FIFI1872THE2ND** 1 , **HTTPS://TCO/4WCCRQ04YQ@FIFI1872THE2ND** 1 , **HTTPS://TCO/UMDDFWLCZ1@FIFI1872THE2ND** 1 , **HTTPS://TCO/F5MB7UMTQZ@FIFI1872THE2ND** 1 , **HTTPS://TCO/QQZWREBXUI@FIFI1872THE2ND** 1 , **HTTPS://TCO/XTVFTGVX7N@FIFI1872THE2ND** 1 , **HTTPS://TCO/GGNINTTDTC@FIFI1872THE2ND** 1 , **HTTPS://TCO/EZZCKN2JJU@FIFI1872THE2ND** 1 , 
  
 ## What this user tweeted
  
-@RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes @guardian @Telegraph… https://t.co/vdOE6wSXIs
+@fifi1872The2nd @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes… https://t.co/uMddfWLCZ1@fifi1872The2nd @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes… https://t.co/F5Mb7UMTQZ@fifi1872The2nd @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes… https://t.co/qQZwrebxUI@fifi1872The2nd @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes… https://t.co/yIkc1GjYl1@fifi1872The2nd @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes… https://t.co/XCCVs6rqOE@fifi1872The2nd @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes… https://t.co/Ept1DI2yBN@Merkava_2 @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes @guardian… https://t.co/pVkocBixvb@Merkava_2 @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes @guardian… https://t.co/E5094NnJXu@alan_jervis493 @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes… https://t.co/zBRXAVkAA2@alan_jervis493 @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes… https://t.co/o2JL3MoUJd@alan_jervis493 @RussianEmbassy @mfa_russia @BBCWorld @SkyNews @REESOxford @DiplomacyOxford @FinancialTimes… https://t.co/OK0mTPVFIm
  
-# AkhtemB06490781USER INFO
-![image](http://pbs.twimg.com/profile_images/1596513135103442951/orlSVOIa_normal.jpg)
+# JuneyJimUSER INFO
+![image](http://pbs.twimg.com/profile_images/1596685542518816769/v3UWt5hI_normal.jpg)
  
-`User ScreenName:` AkhtemB06490781 
+`User ScreenName:` JuneyJim 
  
-`User chosen Name:` Akhtem Brendan Krystiyan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 26 14:33:07 +0000 2022 
- 
-`User Description?:` It’s fatal to enter a war without the Will to win it, I will fight for my great nation Ukraine 🇺🇦 
- 
-`Followers?: `19 
- 
-`Following?:` 766 
- 
-`User URL?:` None 
- 
-`Location:` Ukraine 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596513135103442951/orlSVOIa_normal.jpg 
- 
-`Number of tweets excluding replies:` 651 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@JILEVIN:** 104 , **VIA** 75 , **@DEFENCEU:** 21 , **RUSSIAN** 20 , **UKRAINE** 19 , **@UKRAINEWAR24:** 16 , **⚡️** 16 , **MSNBC** 16 , **AFTER** 15 , **UKRAINIAN** 14 , **THEHILL** 14 , **@EUROMAIDANPRESS:** 13 , **USATODAY** 12 , **ALTERNET** 10 , **HOUSE** 9 , **NEW** 9 , **@MFA_UKRAINE:** 9 , **@BIZ_UKRAINE_MAG:** 8 , **PEOPLE** 8 , **NATO** 8 , 
- 
-## What this user tweeted
- 
-RT @Biz_Ukraine_Mag: President Zelenskyy welcomed Ukraine’s world heavyweight champ Oleksandr Usyk today to discuss fundraising efforts to…
- 
-# ThatGlockGuy1USER INFO
-![image](http://pbs.twimg.com/profile_images/1597086454777192448/Bq3tBogm_normal.jpg)
- 
-`User ScreenName:` ThatGlockGuy1 
- 
-`User chosen Name:` Chad Reed 
+`User chosen Name:` Jim juney 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Nov 28 04:33:34 +0000 2022 
+`User signup date?:` Thu Nov 24 00:47:25 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `6 
  
-`Following?:` 388 
+`Following?:` 46 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 80 
+`Number of tweets extracted`  : 169 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1597086454777192448/Bq3tBogm_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1596685542518816769/v3UWt5hI_normal.jpg 
  
-`Number of tweets excluding replies:` 80 
+`Number of tweets excluding replies:` 169 
  
 
  
@@ -1149,116 +264,38 @@ RT @Biz_Ukraine_Mag: President Zelenskyy welcomed Ukraine’s world heavyweight 
  
 ## User Top tweeted words 
  
-**GLOCK** 12 , **SAY** 4 , **GUNS** 4 , **GAME** 4 , **@GLOCKINC:** 4 , **USE** 3 , **WE'RE** 3 , **GOING** 3 , **HOME** 3 , **AGAINST** 3 , **?** 3 , **??** 3 , **NEEDS** 3 , **UKRAINE** 2 , **US** 2 , **CNN** 2 , **TIME** 2 , **SPEAK** 2 , **SECOND** 2 , **AIN’T** 2 , 
+**@REPSWALWELL** 24 , **@DBONGINO** 23 , **@JEFFSCALES1957** 14 , **@RAEVYNVASYRAK** 13 , **DON’T** 11 , **@JIMCARREY** 10 , **@GRANTTNELSON08** 8 , **ANOTHER** 8 , **@BILLYPUMPALOAF** 8 , **@WALLINGLEE** 7 , **MASS** 7 , **YEA** 6 , **GUN** 6 , **BLAH** 6 , **OH** 6 , **WEEKEND** 6 , **@CHICAGOSMAYOR** 6 , **PEOPLE** 5 , **GOING** 5 , **WHITE** 5 , 
  
 ## What this user tweeted
  
-Ukraine presses NATO on membership, but alliance gives no guarantees - The Washington Post https://t.co/uhYz0QLGIJ
+@Taito2740 @saRANDOM27 @wallinglee @granttnelson08 @JimCarrey Wow telling European countries to divest from depende… https://t.co/pwAbvLOsvy
  
-# LisaMoo03890245USER INFO
-![image](http://pbs.twimg.com/profile_images/1596177755137253377/awOE-WO0_normal.jpg)
+# Allen22586454USER INFO
+![image](http://pbs.twimg.com/profile_images/1597362146966323200/tXi5RgfZ_normal.jpg)
  
-`User ScreenName:` LisaMoo03890245 
+`User ScreenName:` Allen22586454 
  
-`User chosen Name:` Lisa Moore 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Nov 25 16:22:25 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 105 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 84 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596177755137253377/awOE-WO0_normal.jpg 
- 
-`Number of tweets excluding replies:` 84 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 11 , **TWITTER** 10 , **FREE** 8 , **LIBERAL** 8 , **HANDLERS** 7 , **5** 7 , **PEOPLE** 7 , **SOCIALISTIC** 6 , **MILLION** 6 , **@ELONMUSK:** 6 , **COVID** 6 , **VACCINE** 6 , **AMERICA** 6 , **CHILDREN** 5 , **SPEECH** 5 , **PLUS** 5 , **ILLEGAL** 4 , **COMMUNIST** 4 , **SAME** 4 , **DEMOCRATS** 4 , 
- 
-## What this user tweeted
- 
-@Lancegooden And Ukraine...
- 
-# itzscarfacezUSER INFO
-![image](http://pbs.twimg.com/profile_images/1597433188959236096/cbvCwsVg_normal.jpg)
- 
-`User ScreenName:` itzscarfacez 
- 
-`User chosen Name:` 𝐓𝐨𝐧𝐲 𝐌𝐨𝐧𝐭𝐚𝐧𝐚 
+`User chosen Name:` Allen 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Nov 29 03:27:17 +0000 2022 
+`User signup date?:` Mon Nov 28 16:15:25 +0000 2022 
  
-`User Description?:` Tony Montana editz 
+`User Description?:` Even evil is confused right now. 
  
 `Followers?: `1 
  
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:` Miami, FL 
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597433188959236096/cbvCwsVg_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CLOWN** 2 , **@DARKLEAKSYT** 2 , **UKRAINE** 2 , **@NATSIMARD** 1 , **@UKRAINE_WORLD** 1 , **SOUND** 1 , **ESPECIALLY** 1 , **HASHTAG@DARKLEAKSYT** 1 , **BAHAHAHAHA** 1 , **GOTTA** 1 , **LOVE** 1 , **RUN** 1 , **CHICKENS@LUBOMYRKICKS** 1 , **SURRENDERED** 1 , **SOLDIERS** 1 , **REASON** 1 , **KILL** 1 , **ONES** 1 , **GROUND** 1 , **EXAC…** 1 , 
- 
-## What this user tweeted
- 
-@NatSimard @ukraine_world You sound like a clown especially with that hashtag@LubomyrKicks @DarkleaksYt They surrendered them Ukraine soldiers had no reason to kill the ones on the ground exac… https://t.co/0MxC7pxl24@TimmOskar @deathlasha1 @DarkleaksYt Bro supports Ukraine 😂
- 
-# nathan_villigerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1597672848331444224/tJF1_Tvs_normal.jpg)
- 
-`User ScreenName:` nathan_villiger 
- 
-`User chosen Name:` Republic of Ukraine (For SMCM Class) 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Nov 29 18:45:24 +0000 2022 
- 
-`User Description?:` Zelesnky drip 
- 
-`Followers?: `6 
- 
-`Following?:` 13 
+`Following?:` 7 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 109 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1597672848331444224/tJF1_Tvs_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1597362146966323200/tXi5RgfZ_normal.jpg 
  
-`Number of tweets excluding replies:` 8 
+`Number of tweets excluding replies:` 109 
  
 
  
@@ -1266,38 +303,39 @@ Ukraine presses NATO on membership, but alliance gives no guarantees - The Washi
  
 ## User Top tweeted words 
  
-**UKRAINE** 4 , **@FEHRSUSA** 4 , **@EUROPEAN_INSTIT** 3 , **PEACE** 3 , **@CHIGOVERNMENT** 2 , **@TONY_GUTERRES** 2 , **THE…** 2 , **EXCELLENT** 1 , **WORD** 1 , **CHOICE** 1 , **LIKEWISE** 1 , **“STOKED”** 1 , **BRING** 1 , **SAVE** 1 , **LIVES** 1 , **WAR@TONY_GUTERRES** 1 , **HEARTENING** 1 , **HEAR** 1 , **PROSPECTS** 1 , **CEASEFIRE** 1 , 
+**@ELONMUSK** 10 , **NEVER** 8 , **@REALJAMESWOODS:** 7 , **DON'T** 6 , **INTEREST** 6 , **MONEY** 6 , **WELL** 5 , **YES** 4 , **CHINA** 4 , **SPECIAL** 4 , **APPLE** 4 , **ANGRY** 3 , **WAY** 3 , **WAIT** 3 , **GOOD** 3 , **WHERE** 3 , **NEED** 3 , **TWITTER** 3 , **PUT** 3 , **ACTUALLY** 3 , 
  
 ## What this user tweeted
  
-@chigovernment @Tony_Guterres Excellent word choice @chigovernment, Ukraine is likewise “stoked” to bring save lives and end the war
+@PeterSweden7 They are Nazis.
+Ukraine Azov Battalion: Nazi militarized force funded by the USA
  
-# Sherrielynne1USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# Robert37002909USER INFO
+![image](http://pbs.twimg.com/profile_images/1595311536742060032/49zrYu6N_normal.jpg)
  
-`User ScreenName:` Sherrielynne1 
+`User ScreenName:` Robert37002909 
  
-`User chosen Name:` Sherrielynne 
+`User chosen Name:` Robert 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 30 20:52:05 +0000 2022 
+`User signup date?:` Wed Nov 23 07:00:44 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `9 
  
-`Following?:` 82 
+`Following?:` 32 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 25 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1595311536742060032/49zrYu6N_normal.jpg 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 25 
  
 
  
@@ -1305,81 +343,77 @@ Ukraine presses NATO on membership, but alliance gives no guarantees - The Washi
  
 ## User Top tweeted words 
  
-**PEOPLE** 2 , **BIDEN** 2 , **PRESIDENT** 2 , **TWITTER** 2 , **ELECTIONS** 2 , **CONTROL** 2 , **GOD** 2 , **RT** 1 , **@TOMCOTTONAR:** 1 , **THERE'S** 1 , **HUGE** 1 , **DIFFERENCE** 1 , **BETWEEN** 1 , **50/50** 1 , **49/51** 1 , **SENATE** 1 , **CONSERVATIVE** 1 , **BEHIND** 1 , **@HERSCHELWALKER** 1 , **E…RT** 1 , 
+**CLEARANCE** 7 , **THEFT** 6 , **HOPE** 5 , **AFTER** 5 , **REVIEW** 5 , **FELONY** 5 , **SECURITY** 4 , **EXPENSIVE** 4 , **BAGS** 4 , **GOOD** 3 , **BAG** 3 , **YEAH** 3 , **TOTALLY** 3 , **HOUSE** 3 , **@ELONMUSK** 3 , **NEVER** 2 , **CHINA** 2 , **DON'T** 2 , **DOE** 2 , **INTEND** 2 , 
  
 ## What this user tweeted
  
-RT @SenTedCruz: I have serious concerns about corruption by Joe Biden during his time as Vice President and now as President.
+RT @TetyanaWrites: Winter in #Ukraine, before war. Rxssia will never destroy Ukraine’s  magic. No matter how long it will take to rebuild.…
  
-The Biden f…
+# Turboniam22USER INFO
+![image](http://pbs.twimg.com/profile_images/1596313182825582597/XJhzjrmi_normal.jpg)
  
-# magmiidaaUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+`User ScreenName:` Turboniam22 
  
-`User ScreenName:` magmiidaa 
- 
-`User chosen Name:` magmi 
+`User chosen Name:` Jack Torrance 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Nov 24 10:18:16 +0000 2022 
+`User signup date?:` Sat Nov 26 01:09:55 +0000 2022 
+ 
+`User Description?:` 🤠😈🌴🍕🍺🥃🛩️.World traveler, #FJB,Who cares about your pronouns??#Desantis2024 
+ 
+`Followers?: `13 
+ 
+`Following?:` 124 
+ 
+`User URL?:` None 
+ 
+`Location:` Pennsylvania, USA 
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1596313182825582597/XJhzjrmi_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ELONMUSK** 4 , **DON’T** 4 , **STILL** 4 , **SHIT** 3 , **YOU’RE** 3 , **YEA** 2 , **BEFORE** 2 , **HOW’S** 2 , **VOLKSWAGEN** 2 , **NARRATIVE** 2 , **PLEASE** 2 , **TRUE** 2 , **COULD** 2 , **US** 2 , **BIDEN** 2 , **FRIDAY** 2 , **DOESN’T** 2 , **KEEP** 2 , **SHOW** 2 , **@ATENSNUT:** 2 , 
+ 
+## What this user tweeted
+ 
+F*CK corrupt ass Ukraine… Yea I said it…
+ 
+# DonnaKn48308772USER INFO
+![image](http://pbs.twimg.com/profile_images/1597947487385444356/SRsrSfz3_normal.png)
+ 
+`User ScreenName:` DonnaKn48308772 
+ 
+`User chosen Name:` Donna Knott 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 13:35:43 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 34 
+`Following?:` 77 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 86 
+`Number of tweets extracted`  : 21 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1597947487385444356/SRsrSfz3_normal.png 
  
-`Number of tweets excluding replies:` 86 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GERMANY** 19 , **@JULIANROEPCKE** 19 , **@TPYXANEWS** 11 , **!** 10 , **GERMAN** 8 , **RU** 8 , **PZH** 8 , **2000** 8 , **KMW** 8 , **LOOKING** 8 , **SET** 8 , **MUCH** 7 , **MAINTENANCE** 7 , **HUB** 7 , **?** 6 , **UKRAINE** 6 , **ITS** 6 , **SENT** 6 , **@CHUCKPFARRER:** 6 , **NOV/** 6 , 
- 
-## What this user tweeted
- 
-@bn880 @WarMonitor3 The Pentagon did decide not to supply Patriot air defense systems to Ukraine.
-
-The spokesman of… https://t.co/zRkjjlQ9gY
- 
-# mikewilke31USER INFO
-![image](http://pbs.twimg.com/profile_images/1596498013341483008/fBYkecCI_normal.jpg)
- 
-`User ScreenName:` mikewilke31 
- 
-`User chosen Name:` Mike Wilke 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Nov 26 00:29:59 +0000 2022 
- 
-`User Description?:` Old and cranky 
- 
-`Followers?: `1 
- 
-`Following?:` 57 
- 
-`User URL?:` None 
- 
-`Location:` Wisconsin, USA 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596498013341483008/fBYkecCI_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 21 
  
 
  
@@ -1387,486 +421,13 @@ The spokesman of… https://t.co/zRkjjlQ9gY
  
 ## User Top tweeted words 
  
-**BIDEN** 3 , **ECONOMIC** 2 , **TEAM** 2 , **FAMILY** 2 , **DOES** 2 , **RT** 1 , **@JUDICIALWATCH:** 1 , **@TOMFITTON:** 1 , **11** 1 , **MILLION** 1 , **TAX** 1 , **DOLLARS** 1 , **CONTRACT** 1 , **YEAR** 1 , **--** 1 , **TIED** 1 , **BIOLABS** 1 , **UKRAINE!** 1 , **HTTPS://TCO/DCEF7SK…RT** 1 , **@RNCRESEARCH:** 1 , 
+**BIDEN** 6 , **JOE** 4 , **DEMOCRATS** 3 , **FREE** 3 , **PRESIDENT** 3 , **BIDEN’S** 2 , **@KARILAKEWARROOM:** 2 , **NEED** 2 , **@SENTEDCRUZ:** 2 , **CORRUPTION** 2 , **RAIL** 2 , **APP** 2 , **REGIME** 2 , **WHILE** 2 , **TRUMP** 2 , **ELECTION** 2 , **RT** 1 , **@STEPHENM:** 1 , **UNCONTROLLED** 1 , **MIGRATION** 1 , 
  
 ## What this user tweeted
  
-RT @JudicialWatch: .@TomFitton: 11 million in tax dollars for one contract for one year -- tied to biolabs in Ukraine! https://t.co/DcEF7Sk…
- 
-# oli_grindUSER INFO
-![image](http://pbs.twimg.com/profile_images/1595897730911592448/dD_kmaRM_normal.jpg)
- 
-`User ScreenName:` oli_grind 
- 
-`User chosen Name:` Noel Gruber 🫦//alt account for my old Noel one// 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 24 01:22:26 +0000 2022 
- 
-`User Description?:` he/him (alt Noel account actual account is @thatfdup_girl or smth 
- 
-`Followers?: `72 
- 
-`Following?:` 92 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1595897730911592448/dD_kmaRM_normal.jpg 
- 
-`Number of tweets excluding replies:` 1469 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**IM** 18 , **I'M** 17 , **@GRIMABON** 16 , **YOU'RE** 15 , **MISCHA** 10 , **MEOW** 9 , **DON'T** 7 , **KISS** 6 , **SHE'S** 6 , **SORRY** 6 , **@COFFEEMOMHELEN** 6 , **AGAIN** 5 , **MAKE** 5 , **LOVE** 5 , **THAT'S** 5 , **GONNA** 5 , **PLEASE** 5 , **@M1SCHABACHINSKI** 5 , **NEED** 4 , **OTHER** 4 , 
- 
-## What this user tweeted
- 
-@Crows_Nest___ ....im buying a ticket to Ukraine so I can punch him 
-
-//He's in ukraine right? 😭//
- 
-# teodor_drtUSER INFO
-![image](http://pbs.twimg.com/profile_images/1597948485814423552/wV-hZvlX_normal.jpg)
- 
-`User ScreenName:` teodor_drt 
- 
-`User chosen Name:` teodor_dr 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 13:35:57 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 25 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597948485814423552/wV-hZvlX_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GAS** 2 , **RT** 1 , **@MASCULINEPEAK:** 1 , **DATING** 1 , **HACK:** 1 , **EVEN** 1 , **PERFECT** 1 , **10** 1 , **TREAT** 1 , **6** 1 , **DON'T** 1 , **LET** 1 , **GIRL'S** 1 , **BEAUTY** 1 , **INTIMIDATE** 1 , **YOURT** 1 , **@COBRATATE:** 1 , **NEO** 1 , **ARRESTED** 1 , **AGENTS** 1 , 
- 
-## What this user tweeted
- 
-RT @POTUS: Gas prices are down, domestic production is up, and we’ve rallied the world to release oil to address a gas price hike inflamed…
- 
-# MarcoAlba1960USER INFO
-![image](http://pbs.twimg.com/profile_images/1598089684432846849/PS3FkREA_normal.jpg)
- 
-`User ScreenName:` MarcoAlba1960 
- 
-`User chosen Name:` Marco Alba 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 22:56:25 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 148 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1598089684432846849/PS3FkREA_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WANTS** 3 , **BIDEN** 3 , **PRESIDENT** 3 , **LEFT** 2 , **@JIM_JORDAN** 1 , **THREAT** 1 , **DEMOCRACYRT** 1 , **@JIM_JORDAN:** 1 , **CENSORSHIP** 1 , **ONLINE** 1 , **MEDIA** 1 , **FREE** 1 , **SPEECH** 1 , **CHOICE** 1 , **CLEARRT** 1 , **@SENTEDCRUZ:** 1 , **SERIOUS** 1 , **CONCERNS** 1 , **CORRUPTION** 1 , **JOE** 1 , 
- 
-## What this user tweeted
- 
-RT @SenTedCruz: I have serious concerns about corruption by Joe Biden during his time as Vice President and now as President.
+RT @rising_serpent: Amazon lays off 10,000, Petroleum Reserve empty, heating fuel shortage in Northeast, SBF roams free, Paul Pelosi story…RT @SenTedCruz: I have serious concerns about corruption by Joe Biden during his time as Vice President and now as President.
  
 The Biden f…
- 
-# YankeeYallncUSER INFO
-![image](http://pbs.twimg.com/profile_images/1595902357396766720/pa8Oh2c9_normal.jpg)
- 
-`User ScreenName:` YankeeYallnc 
- 
-`User chosen Name:` YankeeYallnc 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Nov 24 21:49:18 +0000 2022 
- 
-`User Description?:` If you want to know who controls you, look at who you are not allowed to criticize. ― Voltaire 
- 
-`Followers?: `4 
- 
-`Following?:` 169 
- 
-`User URL?:` None 
- 
-`Location:` United States 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1595902357396766720/pa8Oh2c9_normal.jpg 
- 
-`Number of tweets excluding replies:` 331 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TWITTER** 16 , **BIDEN** 11 , **TRUMP** 11 , **ELECTION** 11 , **DON’T** 10 , **PEOPLE** 9 , **ARIZONA** 9 , **FREE** 9 , **@HODGETWINS:** 9 , **PRESIDENT** 8 , **MEDIA** 8 , **COUNTY** 8 , **APPLE** 7 , **JOE** 7 , **ELON** 7 , **MUSK** 7 , **@JAMESBRADLEYCA:** 7 , **SPEECH** 7 , **MARICOPA** 6 , **PARTY** 6 , 
- 
-## What this user tweeted
- 
-RT @SenTedCruz: I have serious concerns about corruption by Joe Biden during his time as Vice President and now as President.
- 
-The Biden f…
- 
-# bigteninch6910USER INFO
-![image](http://pbs.twimg.com/profile_images/1594905962548273152/FfgGEgnc_normal.jpg)
- 
-`User ScreenName:` bigteninch6910 
- 
-`User chosen Name:` bigteninch69 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Nov 22 00:41:16 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 111 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1594905962548273152/FfgGEgnc_normal.jpg 
- 
-`Number of tweets excluding replies:` 263 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DON'T** 19 , **PEOPLE** 16 , **FJB** 16 , **LEFT** 12 , **LOOK** 11 , **DEMOCRATS** 10 , **LEFTIST** 8 , **I'M** 8 , **WORLD** 8 , **GO** 7 , **TRUMP** 7 , **FAUCI** 7 , **BLOODLINE** 7 , **@BECKYLYNCHWWE** 7 , **MONEY** 6 , **THAT'S** 6 , **THESE** 6 , **MATCH** 6 , **@WWE** 6 , **@RHEARIPLEY_WWE** 6 , 
- 
-## What this user tweeted
- 
-@coffee_anytime He has the Ukraine border with his Crack head son
- 
-# ImPeedzUSER INFO
-![image](http://pbs.twimg.com/profile_images/1596009313625071616/Pc87Dcv5_normal.jpg)
- 
-`User ScreenName:` ImPeedz 
- 
-`User chosen Name:` Peedz 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Nov 25 05:09:00 +0000 2022 
- 
-`User Description?:` Third verse same as the first. Don't talk about the thing.
-June 1995 when I began using the internet, there were only 23,500 websites. We are not the same. 
- 
-`Followers?: `107 
- 
-`Following?:` 213 
- 
-`User URL?:` https://t.co/xwAS3NTqfl 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1596009313625071616/Pc87Dcv5_normal.jpg 
- 
-`Number of tweets excluding replies:` 383 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**THAT'S** 14 , **I'M** 10 , **@ADAMKINZINGER** 10 , **GOING** 9 , **DON'T** 9 , **HE'S** 8 , **@ASHTERFLACKX** 8 , **PEOPLE** 7 , **THEY'RE** 7 , **😁** 7 , **GO** 6 , **GOOD** 6 , **@POLITICSVERSE** 6 , **🤣** 6 , **@PATRIOTTAKES** 6 , **DOESN'T** 5 , **ISN'T** 5 , **BEING** 5 , **@ELONMUSK** 5 , **TWITTER** 5 , 
- 
-## What this user tweeted
- 
-@Miqueia82627767 @DefenceU Russia did around 600 Billion dollars in damage in Ukraine so far. Most of the "money" w… https://t.co/KKuP6fGQ1l
- 
-# CherylM47623410USER INFO
-![image](http://pbs.twimg.com/profile_images/1594693026672250884/T5FA5O-U_normal.png)
- 
-`User ScreenName:` CherylM47623410 
- 
-`User chosen Name:` Cheryl Martinez 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 21 14:03:39 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 23 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 64 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1594693026672250884/T5FA5O-U_normal.png 
- 
-`Number of tweets excluding replies:` 64 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@JUDICIALWATCH:** 9 , **@REALJAMESWOODS:** 9 , **@REPMTG:** 7 , **TWITTER** 6 , **I’M** 6 , **VACCINATED** 6 , **GOVERNMENT** 5 , **@RSBNETWORK:** 5 , **@ELONMUSK:** 5 , **BIDEN** 4 , **@GOVRONDESANTIS:** 4 , **@BREITBARTNEWS:** 4 , **APPLE** 4 , **FREE** 4 , **SPECIAL** 4 , **CONGRESS** 4 , **BOARD** 3 , **SPEECH** 3 , **US** 3 , **@JIM_JORDAN:** 3 , 
- 
-## What this user tweeted
- 
-RT @JudicialWatch: .@TomFitton: 11 million in tax dollars for one contract for one year -- tied to biolabs in Ukraine! https://t.co/DcEF7Sk…RT @JudicialWatch: NEW: Defense Department Records Reveal U.S. Funding of Anthrax Laboratory Activities in Ukraine https://t.co/qrTMVuxhHW
- 
-# TheRealistMFerUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` TheRealistMFer 
- 
-`User chosen Name:` Hamlet 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 21 05:18:52 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `15 
- 
-`Following?:` 375 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 324 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK** 20 , **YEAH** 14 , **US** 12 , **I'M** 12 , **PEOPLE** 10 , **DON'T** 10 , **UKRAINE** 9 , **CAN'T** 9 , **NEVER** 8 , **YOU'RE** 8 , **MR** 8 , **WELL** 8 , **MONEY** 7 , **DIDN'T** 7 , **THESE** 7 , **REAL** 7 , **GOT** 7 , **SHOW** 6 , **THAT'S** 6 , **CHINESE** 6 , 
- 
-## What this user tweeted
- 
-@Walcandy1 @elonmusk @tim_cook Oh FFS. Right, and corruption didn't exist in the US government until Trump took ove… https://t.co/5j4M9Pbh3O
- 
-# BoostedJessUSER INFO
-![image](http://pbs.twimg.com/profile_images/1597359847556759555/WUDLsGc-_normal.jpg)
- 
-`User ScreenName:` BoostedJess 
- 
-`User chosen Name:` Jess Boosted pronouns phi/zer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 28 22:38:43 +0000 2022 
- 
-`User Description?:` it’s all a lie. Covid was by design. the shot doesn’t work. Ukraine isn’t what CNN tells you, and DragQueen story time is a crime. 
- 
-`Followers?: `4 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 178 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597359847556759555/WUDLsGc-_normal.jpg 
- 
-`Number of tweets excluding replies:` 178 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LOVE** 13 , **ELON** 11 , **BLACK** 9 , **DON’T** 9 , **ISN’T** 9 , **NEED** 9 , **@ELONMUSK** 9 , **MUSK** 8 , **QUEER** 8 , **KLAUS** 7 , **GOOD** 7 , **UKRAINE** 7 , **HATE** 6 , **PEOPLE** 6 , **THESE** 6 , **MUST** 6 , **HOPE** 6 , **COVID** 6 , **U** 6 , **APPLE** 6 , 
- 
-## What this user tweeted
- 
-I hope that good Americans take a percentage of their social security checks and send it to aid Ukraine: this is th… https://t.co/YngPJSNAuh
- 
-# avaliva507USER INFO
-![image](http://pbs.twimg.com/profile_images/1594731296462229510/LpyrvvC7_normal.jpg)
- 
-`User ScreenName:` avaliva507 
- 
-`User chosen Name:` Suu-Xin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 21 16:33:31 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 103 
- 
-`User URL?:` None 
- 
-`Location:` Los Angeles 
- 
-`Number of tweets extracted`  : 196 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1594731296462229510/LpyrvvC7_normal.jpg 
- 
-`Number of tweets excluding replies:` 204 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TWITTER** 21 , **@VICKIESCHN_:** 16 , **@ELONMUSK:** 12 , **BIDEN** 9 , **FREE** 9 , **TRUMP** 8 , **FOLLOW** 8 , **I’M** 8 , **@CNNBRK:** 8 , **@NYTIMES:** 8 , **BACK** 7 , **DROP** 7 , **THAN** 7 , **DONALD** 7 , **@CATTURD2:** 7 , **SPEECH** 7 , **PRESIDENT** 6 , **GOING** 6 , **PEOPLE** 6 , **NAME** 6 , 
- 
-## What this user tweeted
- 
-RT @JamesBradleyCA: Hey John Kirby, if “The president is not going to speak for protesters around the world,” WTF are we doing in Ukraine?
- 
-# MikaylasMomUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` MikaylasMom 
- 
-`User chosen Name:` MikaylasMom 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Nov 27 04:37:09 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 18 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 18 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@HOUSEGOP** 3 , **@ELONMUSK** 3 , **TRUTH** 2 , **FIGHT** 2 , **NEVER** 2 , **GIVE** 2 , **@KARLS_QUEST** 1 , **DNCDEMON** 1 , **NAZI** 1 , **CONFORMISTS@HUNTERFOILHAT** 1 , **UKRAINE** 1 , **RUN** 1 , **NAZIS!@JOHNPMCGURU** 1 , **OHDO** 1 , **REALLY** 1 , **SPREAD** 1 , **DIRT** 1 , **SURE** 1 , **SKELETONS** 1 , **BOTH** 1 , 
- 
-## What this user tweeted
- 
-@HunterFoilhat @HouseGOP Ukraine is run by NAZIS!
- 
-# jjoboylejrUSER INFO
-![image](http://pbs.twimg.com/profile_images/1598006827207229447/D_PbcC1s_normal.jpg)
- 
-`User ScreenName:` jjoboylejr 
- 
-`User chosen Name:` Johnny O 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 17:29:15 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:` North America Earth 
- 
-`Number of tweets extracted`  : 20 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1598006827207229447/D_PbcC1s_normal.jpg 
- 
-`Number of tweets excluding replies:` 20 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@MBLASZCZAK** 4 , **DIPLOMACY** 2 , **RUSSIA** 2 , **LANGUAGE** 2 , **MANY** 2 , **CALL** 2 , **VERY** 2 , **TIGERS** 2 , **FIGHT** 2 , **WHILE** 2 , **WATCHES** 2 , **MOUNTAIN** 2 , **FAR** 2 , **PROXY** 2 , **BYE** 2 , **TRUTH** 2 , **“THE** 2 , **@ELISESTEFANIK** 1 , **FUNDING** 1 , **MOST** 1 , 
- 
-## What this user tweeted
- 
-@EliseStefanik And why are we funding the most corrupt country in the world? 👎🏻 Diplomacy with Russia Ukraine shoul… https://t.co/ceIr6i4FXL
  
 # totalkazaporezUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1596274825969995777/dNTmTYZ2_normal.jpg)
@@ -1893,7 +454,7 @@ RT @JamesBradleyCA: Hey John Kirby, if “The president is not going to speak fo
  
 `Profile image:` http://pbs.twimg.com/profile_images/1596274825969995777/dNTmTYZ2_normal.jpg 
  
-`Number of tweets excluding replies:` 1500 
+`Number of tweets excluding replies:` 1511 
  
 
  
@@ -1901,40 +462,38 @@ RT @JamesBradleyCA: Hey John Kirby, if “The president is not going to speak fo
  
 ## User Top tweeted words 
  
-**В** 31 , **І** 28 , **@COMRADE_EDISON** 22 , **@TWATTERBAAS** 22 , **НЕ** 20 , **НА** 18 , **@MARCEYGEEE** 17 , **RUSSIAN** 13 , **З** 13 , **@COMMUNISTCORN** 13 , **ЩО** 12 , **А** 11 , **ТА** 11 , **@NRDY73** 11 , **UKRAINE** 10 , **ДО** 10 , **ЦЕ** 10 , **У** 8 , **DON'T** 8 , **ДУЖЕ** 8 , 
+**В** 32 , **І** 30 , **НЕ** 24 , **@COMRADE_EDISON** 22 , **@TWATTERBAAS** 22 , **НА** 18 , **@MARCEYGEEE** 17 , **З** 14 , **RUSSIAN** 13 , **@COMMUNISTCORN** 13 , **ЦЕ** 12 , **ТА** 12 , **ЩО** 12 , **WAR** 11 , **Я** 11 , **ДО** 11 , **А** 11 , **@NRDY73** 11 , **UKRAINE** 10 , **У** 10 , 
  
 ## What this user tweeted
  
-RT @Telegraph: 🔴 Since Russia’s soldiers first stormed Ukraine, women have been gang-raped, men castrated, children sexually abused, and ci…
+RT @voice_justice1: @apmassaro3 If this helps Ukraine win the war as soon as possible, then that's good
  
-# NAFO_AnkleBiterUSER INFO
-![image](http://pbs.twimg.com/profile_images/1595463504114294785/ilonGwmA_normal.jpg)
+# Reena74186524USER INFO
+![image](http://pbs.twimg.com/profile_images/1594832858107052032/vCu-w3gU_normal.jpg)
  
-`User ScreenName:` NAFO_AnkleBiter 
+`User ScreenName:` Reena74186524 
  
-`User chosen Name:` Fotbitur Fella 🇺🇦 
+`User chosen Name:` winter is coming 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 23 01:52:27 +0000 2022 
+`User signup date?:` Mon Nov 21 23:17:29 +0000 2022 
  
-`User Description?:` Biting the feet and ankles of vatniks, tankies & orcs.
-#NAFOExpansionIsNonNegotiable #NAFO 
-слава Україні 
+`User Description?:` Third time around is a charm. Here to mess with the best, watch out. 
  
-`Followers?: `97 
+`Followers?: `17 
  
-`Following?:` 220 
+`Following?:` 180 
  
 `User URL?:` None 
  
-`Location:` Langley, VA 
+`Location:`  
  
 `Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1595463504114294785/ilonGwmA_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1594832858107052032/vCu-w3gU_normal.jpg 
  
-`Number of tweets excluding replies:` 595 
+`Number of tweets excluding replies:` 959 
  
 
  
@@ -1942,29 +501,740 @@ RT @Telegraph: 🔴 Since Russia’s soldiers first stormed Ukraine, women have 
  
 ## User Top tweeted words 
  
-**RUSSIAN** 18 , **@DEFENCEU** 18 , **RUSSIA** 16 , **UKRAINE** 16 , **@AIDACLAIRMONT** 9 , **@KLEBWERK555** 8 , **@JMVASQUEZ1974** 8 , **PUTIN** 7 , **@DEFENCEU:** 7 , **US** 7 , **THESE** 6 , **@ELONMUSK** 6 , **DEATH** 5 , **MANY** 5 , **NAZIS** 5 , **RUSSIANS** 5 , **UKRAINIAN** 5 , **DON'T** 4 , **@CANADIANKOBZAR** 4 , **ALWAYS** 4 , 
+**REPUBLICANS** 12 , **@ELONMUSK** 12 , **HOUSE** 9 , **ELON** 9 , **SICK** 8 , **AGAINST** 8 , **PEOPLE** 8 , **YEARS** 7 , **HAKEEM** 6 , **TWITTER** 6 , **TRUMP** 6 , **PAID** 6 , **WORKERS** 6 , **@DUTY2WARN:** 6 , **NEW** 6 , **ANY** 5 , **BREAKING:** 5 , **CONGRESS** 5 , **T…RT** 5 , **DON’T** 5 , 
  
 ## What this user tweeted
  
-@CanadianKobzar @witter_dude Try not to get in the weeds with the vatniks.
-I just tell them that the whole nazi exc… https://t.co/W7UTid1EcPRT @Callsign_Santa: "There is no Ukraine separate from Europe, just as there is no Poland or Lithuania or Romania or Latvia or Germany or F…
+@Gerashchenko_en Glory to Ukraine
  
-# janZar66USER INFO
-![image](http://pbs.twimg.com/profile_images/1597927421914800130/mIFa-0nA_normal.jpg)
+# AntonioLItBkUSER INFO
+![image](http://pbs.twimg.com/profile_images/1597380874487595008/W8QHW-3Q_normal.jpg)
  
-`User ScreenName:` janZar66 
+`User ScreenName:` AntonioLItBk 
  
-`User chosen Name:` Jan Nap 
+`User chosen Name:` Antonio 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 30 12:13:59 +0000 2022 
+`User signup date?:` Mon Nov 28 20:33:59 +0000 2022 
+ 
+`User Description?:` Big Government bullshit!! Believe nothing what you hear! Government is acting like the mob. Bring back the NY family’s. STreeTs were SaFer! 🇮🇹👉🏽🇺🇸 
+ 
+`Followers?: `102 
+ 
+`Following?:` 360 
+ 
+`User URL?:` None 
+ 
+`Location:` Brooklyn, NY 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597380874487595008/W8QHW-3Q_normal.jpg 
+ 
+`Number of tweets excluding replies:` 361 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 21 , **PEOPLE** 13 , **@KARILAKEWARROOM:** 12 , **@KARILAKE:** 12 , **PRESIDENT** 10 , **BIDEN** 9 , **ELECTION** 8 , **DON’T** 8 , **ARIZONA** 7 , **NOTHING** 7 , **TWITTER** 6 , **APPLE** 6 , **SAY** 6 , **VOTE** 6 , **THEN** 6 , **REPUBLICAN** 6 , **MITCH** 6 , **GOT** 6 , **PARTY** 5 , **DEMOCRATS** 5 , 
+ 
+## What this user tweeted
+ 
+RT @chriswi72993545: @PelosiTracker_ The burden of proof lies with the government. 
+
+Furthermore, why are we reporting our side hustling to…
+ 
+# DeedsMdundeeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1598113842915151874/-OT0cpz5_normal.jpg)
+ 
+`User ScreenName:` DeedsMdundee 
+ 
+`User chosen Name:` MrDeeds 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 23:56:31 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 24 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:` Miami Beach, FL 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598113842915151874/-OT0cpz5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CALLED** 2 , **RT** 1 , **@VAIIYIE:** 1 , **EYE** 1 , **CONTACT** 1 , **EITHER** 1 , **ATTRACTIVE** 1 , **AWKWARDRT** 1 , **@DASHDOBROFSKY:** 1 , **ELON** 1 , **MUSK** 1 , **SPREAD** 1 , **HUNTER** 1 , **BIDEN** 1 , **CONSPIRACIES** 1 , **UKRAINE** 1 , **CEDE** 1 , **ITS** 1 , **TERRITORIES** 1 , **PUTIN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @DashDobrofsky: Elon Musk spread Hunter Biden conspiracies. He called on Ukraine to cede its territories to Putin. He called on Taiwan t…
+ 
+# ConnorF83722540USER INFO
+![image](http://pbs.twimg.com/profile_images/1597203586760450050/z1FmPG4__normal.jpg)
+ 
+`User ScreenName:` ConnorF83722540 
+ 
+`User chosen Name:` ConnorFrancis 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 23 21:01:43 +0000 2022 
+ 
+`User Description?:` Cat lover, horror enthusiast, USA Germany, Ukraine. #NAFO 
+ 
+`Followers?: `25 
+ 
+`Following?:` 302 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597203586760450050/z1FmPG4__normal.jpg 
+ 
+`Number of tweets excluding replies:` 816 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 29 , **RUSSIAN** 12 , **PEOPLE** 12 , **RUSSIA** 10 , **@NOELREPORTS:** 10 , **VERY** 9 , **NATO** 9 , **🇺🇦** 7 , **UNITED** 7 , **THESE** 7 , **UKRAINIAN** 6 , **IRAN** 6 , **MUST** 6 , **GO** 6 , **GREAT** 6 , **@MAKS_NAFO_FELLA:** 6 , **PRESIDENT** 5 , **BEING** 5 , **PRINCE** 5 , **WILLIAM** 5 , 
+ 
+## What this user tweeted
+ 
+RT @GlasnostGone: #Ukraine's President's Office welcomed a proposal by the president of the European Commission to establish a specialized…RT @ThomasBrayford: Russia must pay for all the damage it has caused in Ukraine and all Russian assets must be frozen. #FreezeRussianAssets…RT @NOELreports: URGENT: 🇺🇸⚡️The United States has signed a $1.2 billion contract with Raytheon to purchase the NASAMS air defense system f…RT @NatalieSmal: Beautiful!🤩🤩🤩
+Ammo depots and bases that destroyed the Armed Forces of Ukraine during the autumn, from 01.09 to 30.11
+
+Tot…
+ 
+# elbrujo83USER INFO
+![image](http://pbs.twimg.com/profile_images/1595918822187442178/VMgIBcJW_normal.jpg)
+ 
+`User ScreenName:` elbrujo83 
+ 
+`User chosen Name:` ElBrujo83 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 24 23:08:24 +0000 2022 
+ 
+`User Description?:` Army & IT Veteran Cannabis/HEMP Executive Altruistic Quixotic History & Religious Culture Aficionado 
+ 
+`Followers?: `1 
+ 
+`Following?:` 21 
+ 
+`User URL?:` None 
+ 
+`Location:` Mississippi, USA 
+ 
+`Number of tweets extracted`  : 83 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1595918822187442178/VMgIBcJW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 83 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FOXNEWS** 14 , **@THEINSIDERPAPER** 8 , **DEMOCRATS** 7 , **DON’T** 7 , **@EJEANCARROLL** 7 , **NEVER** 6 , **PROBLEM** 6 , **HA** 6 , **@TARTARUGAIII** 6 , **NOBODY** 6 , **FAKE** 5 , **PEOPLE** 5 , **US** 5 , **@ME_BLACQ** 5 , **YOU’RE** 5 , **@LOGICALLY_JC** 5 , **THAT’S** 4 , **SUPREME** 4 , **COURT** 4 , **THING** 4 , 
+ 
+## What this user tweeted
+ 
+@FoxNews I support Russia over Ukraine, and this treasonous Democrat government.
+ 
+# Slade_HalestormUSER INFO
+![image](http://pbs.twimg.com/profile_images/1597097902492774400/vbcFW-L1_normal.jpg)
+ 
+`User ScreenName:` Slade_Halestorm 
+ 
+`User chosen Name:` SladeHale 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 28 05:19:40 +0000 2022 
+ 
+`User Description?:` Associate Editor @BoundingComics. Professional writer specializing in pop culture and politics. Previously worked for GamePro, CinemaBlend & ScreenRant. 
+ 
+`Followers?: `10 
+ 
+`Following?:` 15 
+ 
+`User URL?:` https://t.co/HlBd5aqYU6 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 80 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597097902492774400/vbcFW-L1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 80 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ELONMUSK** 8 , **@BOUNDINGCOMICS** 7 , **THAT'S** 6 , **@ESOTERICBOT** 6 , **DON'T** 5 , **TWITTER** 5 , **OH** 5 , **@SERGIOBOWERS1** 5 , **US** 4 , **I'M** 4 , **COMMUNIST** 3 , **DOESN'T** 3 , **MEANS** 3 , **MAKE** 3 , **YOU'RE** 3 , **LEFT-WING** 3 , **LOOK** 3 , **TIME** 3 , **APPLE** 3 , **MAKES** 3 , 
+ 
+## What this user tweeted
+ 
+@DashDobrofsky Really? That's interesting, since A) there needs to be an off-ramp to the Ukraine war, otherwise it'… https://t.co/w8EJtZDsnR
+ 
+# BobbyDickDuck1USER INFO
+![image](http://pbs.twimg.com/profile_images/1597317048228462593/Y9zr1xqy_normal.jpg)
+ 
+`User ScreenName:` BobbyDickDuck1 
+ 
+`User chosen Name:` BobbyDickDuck 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 28 19:50:23 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 41 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597317048228462593/Y9zr1xqy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 41 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TWITTER** 7 , **@ZOESCHIFFER** 7 , **@ELONMUSK** 5 , **SPEECH** 3 , **@THISISKYLER** 3 , **PEOPLE** 3 , **@NSCOTTG** 3 , **ANY** 3 , **WEEK** 3 , **@TIM_COOK** 3 , **@ELONMUSK:** 2 , **GOOD** 2 , **THEY’RE** 2 , **OF…** 2 , **THAT’S** 2 , **THAN** 2 , **RACIST** 2 , **SUPPOSED** 2 , **ENOUGH** 2 , **@CATTURD2:** 2 , 
+ 
+## What this user tweeted
+ 
+@LovraV @pawel_md @ThePrivacyPagan @KimDotcom Ukraine didn’t kill no Russian children in 2014. Unless they were sen… https://t.co/NEYv1Mgu07
+ 
+# bourb70MUSER INFO
+![image](http://pbs.twimg.com/profile_images/1595212233293824001/VU9e-BZc_normal.png)
+ 
+`User ScreenName:` bourb70M 
+ 
+`User chosen Name:` M Bourb70 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 23 00:26:48 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 21 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 40 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1595212233293824001/VU9e-BZc_normal.png 
+ 
+`Number of tweets excluding replies:` 40 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CATTURD2:** 10 , **@JUDICIALWATCH:** 5 , **@ELONMUSK** 5 , **TWITTER** 5 , **@ELONMUSK:** 4 , **MARICOPA** 3 , **CHILDREN** 3 , **@TOMFITTON:** 3 , **FREE** 3 , **SPEECH** 3 , **RETWEET** 3 , **VOTER** 3 , **GOING** 3 , **NEED** 3 , **@RICKYDOGGIN:** 2 , **KILLED** 2 , **WHAT'S** 2 , **CORRUPT** 2 , **EVEN** 2 , **AMERICA** 2 , 
+ 
+## What this user tweeted
+ 
+RT @bennyjohnson: Never forget that this is what Republican Leadership was doing Instead of winning the Senate for Republicans in 2022.
+
+Uk…
+ 
+# HamareDesh_76USER INFO
+![image](http://pbs.twimg.com/profile_images/1597848018535026688/h9bBmX-n_normal.jpg)
+ 
+`User ScreenName:` HamareDesh_76 
+ 
+`User chosen Name:` Harpinder Dixit🇮🇳🇮🇱🇷🇺🇮🇷 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 06:59:21 +0000 2022 
+ 
+`User Description?:` No to NATO, BRICS for hamare future, Modi❤️. Musulman logh hamare dushmane. Ukraine is greater russia. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 58 
+ 
+`User URL?:` None 
+ 
+`Location:` Uttar Pradesh, India 
+ 
+`Number of tweets extracted`  : 55 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597848018535026688/h9bBmX-n_normal.jpg 
+ 
+`Number of tweets excluding replies:` 55 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEEPLE** 13 , **US** 10 , **RUSSIA** 8 , **UKRAINE** 6 , **SIR** 6 , **JAI** 6 , **TERRORISTS** 5 , **WAR** 5 , **MOST** 4 , **AGAINST** 4 , **CIA** 4 , **THESE** 4 , **DON'T** 4 , **HIND** 4 , **SAME** 4 , **WORLD** 4 , **MONEY** 4 , **NAZIS** 3 , **UKRANIAN** 3 , **EVERYONE** 3 , 
+ 
+## What this user tweeted
+ 
+@fluxus2 Ukraine wants all sovereign territory back. The Nazis will not sit at table for peace until it's fulfilled… https://t.co/zwUDmryLLQ
+ 
+# jkfullamUSER INFO
+![image](http://pbs.twimg.com/profile_images/1594555888420937729/rGUsxjl3_normal.jpg)
+ 
+`User ScreenName:` jkfullam 
+ 
+`User chosen Name:` Joseph Fullam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 21 04:55:51 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 40 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 109 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1594555888420937729/rGUsxjl3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 109 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FOXNEWS:** 14 , **@TOMFITTON:** 13 , **TWITTER** 12 , **FREE** 12 , **@NEWSMAX:** 11 , **@ELONMUSK** 11 , **@HODGETWINS:** 10 , **BIDEN** 8 , **MEDIA** 8 , **APPLE** 8 , **SPEECH** 8 , **MUSK** 7 , **APP** 7 , **ELON** 7 , **@ELONMUSK:** 6 , **CHINA** 6 , **@MARKLEVINSHOW:** 6 , **AGAINST** 6 , **PEOPLE** 6 , **US** 5 , 
+ 
+## What this user tweeted
+ 
+RT @TomFitton: We've been using tax dollars to help Ukraine manage dangerous pathogens such as anthrax for years!
+ 
+# Moc_KerryUSER INFO
+![image](http://pbs.twimg.com/profile_images/1597936275323252737/75xMfgjq_normal.jpg)
+ 
+`User ScreenName:` Moc_Kerry 
+ 
+`User chosen Name:` Moc.kery 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 12:50:29 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597936275323252737/75xMfgjq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@IRISHQUEEN1031:** 9 , **@MATTWALLACE888:** 3 , **@ELONMUSK** 3 , **PHONE** 3 , **ELON** 2 , **TWEET** 2 , **RT** 1 , **BIDEN** 1 , **ADMINISTRATION** 1 , **CANNOT** 1 , **ACCOUNT** 1 , **$20** 1 , **BILLION** 1 , **"AID"** 1 , **MONEY** 1 , **UKRAINE** 1 , **HTTPS://TCO/0SNSMIGINFRT** 1 , **HTTPS://TCO/GECKNPUQ3C@JUDICIALWATCH** 1 , **I’M** 1 , **BETTING** 1 , 
+ 
+## What this user tweeted
+ 
+RT @irishqueen1031: Biden administration cannot account for $20 BILLION in "aid" money for Ukraine.. https://t.co/0sNsmiGinF
+ 
+# EmmiRealUSER INFO
+![image](http://pbs.twimg.com/profile_images/1598010926648655885/NopqvCpD_normal.jpg)
+ 
+`User ScreenName:` EmmiReal 
+ 
+`User chosen Name:` EmmiForReal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 03:36:26 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 52 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 113 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598010926648655885/NopqvCpD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 113 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MUSK** 15 , **ELON** 10 , **SENATE** 9 , **MARRIAGE** 9 , **BREAKING:** 8 , **VOTE** 8 , **FREE** 7 , **RESPECT** 7 , **TWITTER** 6 , **US** 6 , **WARNOCK** 6 , **@ELONMUSK** 6 , **GUILTY** 5 , **@MMPADELLAN:** 5 , **VOTED** 5 , **PRESIDENT** 5 , **@APPLE** 5 , **THEN** 5 , **APPLE** 5 , **SPEECH** 5 , 
+ 
+## What this user tweeted
+ 
+RT @DashDobrofsky: Elon Musk spread Hunter Biden conspiracies. He called on Ukraine to cede its territories to Putin. He called on Taiwan t…
+ 
+# scottmacdartUSER INFO
+![image](http://pbs.twimg.com/profile_images/1595829191844548609/Vn7r5572_normal.jpg)
+ 
+`User ScreenName:` scottmacdart 
+ 
+`User chosen Name:` Scotland 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 24 17:17:46 +0000 2022 
+ 
+`User Description?:` I am the most beautiful country in the world 
+ 
+`Followers?: `5 
+ 
+`Following?:` 39 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1595829191844548609/Vn7r5572_normal.jpg 
+ 
+`Number of tweets excluding replies:` 203 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SCOTNATIONAL** 35 , **@ANGUSMACNEILSNP** 22 , **SCOTLAND** 15 , **UK** 15 , **@ALBAPARTY** 15 , **@JULIAHB1** 14 , **@TALKTV** 12 , **2014** 10 , **VOTE** 9 , **@ROSSCOLQUHOUN** 9 , **@CAMERONMCNEISH** 8 , **@THESNP** 8 , **GOV** 8 , **US** 7 , **SCOTTISH** 7 , **@BREXITSUCKS** 7 , **@BEERON1030** 6 , **COUNTRY** 6 , **THAT’S** 6 , **CAN’T** 6 , 
+ 
+## What this user tweeted
+ 
+@INBRed_Devil @Beeron1030 gas/fuel increases due to war in Ukraine !! We pay more than any other country &amp; have our own oil !
+ 
+# ismagilov2_tiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1596897787446452225/VaJIu7zb_normal.png)
+ 
+`User ScreenName:` ismagilov2_ti 
+ 
+`User chosen Name:` Timur Ismagilov 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 27 16:04:35 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1596897787446452225/VaJIu7zb_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DASHDOBROFSKY** 1 , **GOD** 1 , **FORBID** 1 , **ANYONE** 1 , **OPINION** 1 , **ANYTHING** 1 , **THESE** 1 , **DAYS** 1 , **UKRAINE** 1 , **USES** 1 , **STAR** 1 , **LINK** 1 , **BOMB** 1 , **RUSSIA…** 1 , **HTTPS://TCO/F22NOJTB8U** 1 , 
+ 
+## What this user tweeted
+ 
+@DashDobrofsky God forbid anyone has an opinion on anything these days. Also, Ukraine uses star link to bomb Russia… https://t.co/F22NoJtb8u
+ 
+# VeronikaKom11USER INFO
+![image](http://pbs.twimg.com/profile_images/1597319730351726594/apHkt1wv_normal.jpg)
+ 
+`User ScreenName:` VeronikaKom11 
+ 
+`User chosen Name:` Veronika Komarova 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 28 20:00:40 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597319730351726594/apHkt1wv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TAM** 2 , **JE** 2 , **UKRAINE** 2 , **RT** 1 , **@VFINNISHPROBS:** 1 , **FINLAND** 1 , **HOPES** 1 , **ELON** 1 , **MUSK** 1 , **BUYS** 1 , **SWEDISH** 1 , **ICE** 1 , **HOCKEY** 1 , **TEAM** 1 , **NEXTRT** 1 , **@FBEYEEE:** 1 , **ČÍNY** 1 , **JDOU** 1 , **HOTOVÁ** 1 , **AUTA** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Gerashchenko_en: "No one thought that when we attacked Ukraine (and Ukraine is Russia), all those countries would start sending heavy w…
+ 
+# FunnyWorld1313USER INFO
+![image](http://pbs.twimg.com/profile_images/1597605941691977735/XncTRpxq_normal.jpg)
+ 
+`User ScreenName:` FunnyWorld1313 
+ 
+`User chosen Name:` FunnyWorld1313 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 29 14:33:53 +0000 2022 
+ 
+`User Description?:` Looking at this funny old world and wondering what on Earth is wrong with it! The GHOST of TWITTER !!!!!! RESURRECTION !!!!!! CURIOUS CATS have NINE LIVES!!!!!! 
+ 
+`Followers?: `18 
+ 
+`Following?:` 436 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597605941691977735/XncTRpxq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 250 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHINA** 39 , **US** 24 , **@THEINSIDERPAPER:** 24 , **MILITARY** 15 , **CHINESE** 14 , **UKRAINE** 13 , **ITS** 12 , **NEW** 11 , **AFTER** 10 , **@COMRADESNOWBOOT:** 10 , **NEW:** 9 , **@ANDREWSERICKSON:** 9 , **POLICE** 8 , **INDIA** 7 , **@AZGEOPOLITICS:** 7 , **FORMER** 6 , **PEOPLE** 6 , **ZEMIN** 6 , **RUSSIA** 6 , **REPORT** 6 , 
+ 
+## What this user tweeted
+ 
+RT @BTHeadline: Scott Ritter &amp; Lee Camp: Why Ukraine Can't Win https://t.co/NqlIvWZeVIRT @BTHeadline: Former UN Weapons Inspector Scott Ritter explains the difference between NATO's Articles Four and Five, and why Poland soug…
+ 
+# DannyWerner124USER INFO
+![image](http://pbs.twimg.com/profile_images/1597397267677417472/BzQoWTdC_normal.jpg)
+ 
+`User ScreenName:` DannyWerner124 
+ 
+`User chosen Name:` Danny Werner 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 29 01:08:46 +0000 2022 
+ 
+`User Description?:` I rather not say, can’t disclose any information online #justaunworker 
+ 
+`Followers?: `1 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597397267677417472/BzQoWTdC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NYTIMES:** 3 , **THAN** 2 , **PRESIDENT** 2 , **@BBCWORLD:** 2 , **VISIT** 2 , **RT** 1 , **STELLAR** 1 , **SOUP** 1 , **REVIVING** 1 , **COZY** 1 , **MADE** 1 , **POT** 1 , **READY** 1 , **30** 1 , **MINUTES** 1 , **10000** 1 , **⭐⭐⭐⭐⭐** 1 , **REVIEWS** 1 , **HTTPS…RT** 1 , **JUDGE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @UNHumanRights: UN Human Rights Chief @volker_turk will visit #Ukraine from 4 to 7 December. He is scheduled to visit Kyiv and neighbour…
+ 
+# Cruz_mj1USER INFO
+![image](http://pbs.twimg.com/profile_images/1594645952761151489/wJ4A1j3c_normal.jpg)
+ 
+`User ScreenName:` Cruz_mj1 
+ 
+`User chosen Name:` Cruz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 21 10:55:40 +0000 2022 
+ 
+`User Description?:` Living my best life, #ChildhoodWasntFair 
+#YeahButIOvercame #PriotizeYourHappiness. Dog dad 😜, Dog is God spelled backward, my dog my joy! 
+ 
+`Followers?: `8 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:` Crib 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1594645952761151489/wJ4A1j3c_normal.jpg 
+ 
+`Number of tweets excluding replies:` 801 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ROBREINER:** 79 , **@POTUS:** 78 , **TRUMP** 31 , **–** 20 , **DEMOCRACY** 20 , **VOTE** 20 , **DONALD** 19 , **FAMILIES** 11 , **DON’T** 11 , **AMERICANS** 10 , **HOUSE** 9 , **AMERICAN** 8 , **THANKSGIVING** 8 , **THAN** 8 , **REPUBLICAN** 8 , **WE’RE** 8 , **TIME** 8 , **MOST** 7 , **YEARS** 7 , **US** 7 , 
+ 
+## What this user tweeted
+ 
+RT @POTUS: Our releases from the Strategic Petroleum Reserve – and my call for global partners to release reserves of their own – have help…RT @POTUS: Finding common ground is crucial to funding the government, COVID, and the war in Ukraine – and resolving the train strike.
+ 
+Th…RT @POTUS: Gas prices are down, domestic production is up, and we’ve rallied the world to release oil to address a gas price hike inflamed…RT @robreiner: With CPAC’s full throated support of Russia’s invasion of Ukraine, the GOP had firmly planted its flag in Authoritarianism.
+ 
+# cjbreymanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1597822154409648128/sxNip6D2_normal.jpg)
+ 
+`User ScreenName:` cjbreyman 
+ 
+`User chosen Name:` Cynthia Barnes Breyman 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 00:25:36 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597822154409648128/sxNip6D2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FREE** 3 , **TWITTER** 3 , **TRUTH** 2 , **ELON** 2 , **@JIM_JORDAN:** 2 , **SPECIAL** 2 , **RT** 1 , **@RISING_SERPENT:** 1 , **AMAZON** 1 , **LAYS** 1 , **OFF** 1 , **10000** 1 , **PETROLEUM** 1 , **RESERVE** 1 , **EMPTY** 1 , **HEATING** 1 , **FUEL** 1 , **SHORTAGE** 1 , **NORTHEAST** 1 , **SBF** 1 , 
+ 
+## What this user tweeted
+ 
+RT @rising_serpent: Amazon lays off 10,000, Petroleum Reserve empty, heating fuel shortage in Northeast, SBF roams free, Paul Pelosi story…
+ 
+# katherjames1USER INFO
+![image](http://pbs.twimg.com/profile_images/1597377321157111809/lDp4qPGw_normal.jpg)
+ 
+`User ScreenName:` katherjames1 
+ 
+`User chosen Name:` Katherine James 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 23 20:14:06 +0000 2022 
+ 
+`User Description?:` I’m an entrepreneur and I love flowers 🌺💖✨ 
+ 
+`Followers?: `1 
+ 
+`Following?:` 17 
  
 `User URL?:` None 
  
@@ -1972,7 +1242,7 @@ I just tell them that the whole nazi exc… https://t.co/W7UTid1EcPRT @Callsign_
  
 `Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1597927421914800130/mIFa-0nA_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1597377321157111809/lDp4qPGw_normal.jpg 
  
 `Number of tweets excluding replies:` 8 
  
@@ -1982,22 +1252,386 @@ I just tell them that the whole nazi exc… https://t.co/W7UTid1EcPRT @Callsign_
  
 ## User Top tweeted words 
  
-**@DIAMONDANDSILK** 2 , **PAYMENT** 2 , **HOPE** 2 , **@CRAFTYWORKINGMO** 1 , **HOW@TO@READ?** 1 , **START** 1 , **CONSTITUTION** 1 , **BOT@CHRISSCOTTSDALE** 1 , **@KERRYDOUGHTY8** 1 , **@ELONMUSK** 1 , **@VINCENT13031925** 1 , **ELON’S** 1 , **TAX** 1 , **EQUALS** 1 , **VEGETABLE** 1 , **PAID** 1 , **UKRAINE😡@FOXNEWS** 1 , **🤮🤮🤮🤮🤮@CRAFTYWORKINGMO** 1 , **KARMA** 1 , **GETS** 1 , 
+**@POTUS:** 3 , **GAS** 2 , **MUCH** 2 , **RT** 1 , **PRICES** 1 , **DOWN** 1 , **DOMESTIC** 1 , **PRODUCTION** 1 , **WE’VE** 1 , **RALLIED** 1 , **WORLD** 1 , **RELEASE** 1 , **OIL** 1 , **ADDRESS** 1 , **PRICE** 1 , **HIKE** 1 , **INFLAMED…@CASTULO_MORALES** 1 , **LOVELY** 1 , **🥰@CASTULO_MORALES** 1 , **HANDSOME** 1 , 
  
 ## What this user tweeted
  
-@ChrisScottsdale @KerryDoughty8 @elonmusk @vincent13031925 Elon’s tax payment equals one payment The Vegetable paid to Ukraine😡
+RT @POTUS: Gas prices are down, domestic production is up, and we’ve rallied the world to release oil to address a gas price hike inflamed…
  
-# AbiratusUSER INFO
-![image](http://pbs.twimg.com/profile_images/1596952101103751168/GhgDiGze_normal.jpg)
+# SharonShevlaneUSER INFO
+![image](http://pbs.twimg.com/profile_images/1598075924607541248/HBujwqrU_normal.jpg)
  
-`User ScreenName:` Abiratus 
+`User ScreenName:` SharonShevlane 
  
-`User chosen Name:` Connor Moore 
+`User chosen Name:` Sharon Shevlane 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Nov 27 19:39:48 +0000 2022 
+`User signup date?:` Wed Nov 30 21:26:02 +0000 2022 
+ 
+`User Description?:` Delighted member of the Irish Freedom Party,
+Trad Catholic,
+Love Ireland Love my family 
+Investigating researcher, writer,
+Artist
+#TheGreatIrishReset2030🇮🇪 
+ 
+`Followers?: `1 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:` Roscommon Ireland 
+ 
+`Number of tweets extracted`  : 37 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598075924607541248/HBujwqrU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 37 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IRELAND** 4 , **@CBBURKEAN** 4 , **@ELLE98759673:** 4 , **PEOPLE** 4 , **SINN** 3 , **YOUNG** 3 , **BEING** 3 , **PARTY** 3 , **@HERMANNKELLY:** 3 , **CARLINGFORD** 3 , **THAN** 3 , **COMING** 2 , **UKRAINE** 2 , **@THEBURKEANIE:** 2 , **“THE** 2 , **@PADDYMACC1:** 2 , **INTO** 2 , **IRISH** 2 , **DESIGNERS** 2 , **LONGER** 2 , 
+ 
+## What this user tweeted
+ 
+RT @CA_Gerrard71: Varadkar: 'People coming from Ukraine have a right to be in Ireland' https://t.co/l0eAisXmCv
+
+How did Varadkar go from "I…RT @paddymacc1: There's no proof that unvetted immigrants pouring into Ireland are victims of torture and persecution.
+⬇️
+Roderic O’Gorman…
+ 
+# StepOneObserveUSER INFO
+![image](http://pbs.twimg.com/profile_images/1595139055724945409/RwjhApLZ_normal.jpg)
+ 
+`User ScreenName:` StepOneObserve 
+ 
+`User chosen Name:` StepUno 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 22 18:41:50 +0000 2022 
+ 
+`User Description?:` 🍿⛈🎥🎬 
+ 
+`Followers?: `0 
+ 
+`Following?:` 137 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 61 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1595139055724945409/RwjhApLZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 61 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PROJECT_VERITAS:** 6 , **TWITTER** 6 , **FREE** 5 , **@ELONMUSK** 5 , **UKRAINE** 4 , **CHILD** 4 , **@PAPITRUMPO:** 3 , **WELL** 3 , **@CATTURD2:** 3 , **PEOPLE** 3 , **LEFT** 3 , **REALLY** 3 , **VACCINE** 3 , **BANK** 3 , **@ELONMUSK:** 3 , **SPEECH** 3 , **NEW:** 3 , **DON'T** 3 , **PARTY** 3 , **MILITARY** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Vera87072826: Wow. 
+Get this. 
+Balenciaga's creative director (Demna) lived in Ukraine for a period of his life and has been outspoken…
+ 
+# external_ideaUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` external_idea 
+ 
+`User chosen Name:` Neil Davis 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 01:12:32 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THEQUARTERING** 1 , **@ELONMUSK** 1 , **IMPRESSIVE** 1 , **RELIABILITY** 1 , **ALTHOUGH** 1 , **CRITICAL** 1 , **UKRAINE** 1 , 
+ 
+## What this user tweeted
+ 
+@TheQuartering @elonmusk Impressive reliability.   Although critical in Ukraine...
+ 
+# DavidMo88339241USER INFO
+![image](http://pbs.twimg.com/profile_images/1594556574474899457/_BNXqmEG_normal.jpg)
+ 
+`User ScreenName:` DavidMo88339241 
+ 
+`User chosen Name:` David Morin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 21 04:57:28 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 35 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 119 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1594556574474899457/_BNXqmEG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 119 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OFF** 9 , **TRUMP** 9 , **FIRST** 7 , **@ELONMUSK** 7 , **JOE** 6 , **THE…** 6 , **FUCKIN** 6 , **MAYBE** 5 , **STILL** 5 , **@HOUSEGOP** 4 , **LEFT** 4 , **US** 4 , **CAUSE** 4 , **VIA** 4 , **@GREGABBOTT_TX** 4 , **THEN** 4 , **VIETNAM** 4 , **FAKE** 3 , **BIDENS** 3 , **COMPOUND** 3 , 
+ 
+## What this user tweeted
+ 
+@RepMarkGreen @HouseGOP start with what the us army special forces frond on joe bidens ukraine compound first,  THATS THE REAL STORY
+ 
+# SamSmokeAlot03USER INFO
+![image](http://pbs.twimg.com/profile_images/1594798546120630275/9-NhPh2C_normal.png)
+ 
+`User ScreenName:` SamSmokeAlot03 
+ 
+`User chosen Name:` Sam Smoke Alot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 21 05:12:12 +0000 2022 
+ 
+`User Description?:` The Future is Blockchain, Web 3, Crypto and DeFi. #XRPisKing 
+ 
+`Followers?: `22 
+ 
+`Following?:` 112 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 136 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1594798546120630275/9-NhPh2C_normal.png 
+ 
+`Number of tweets excluding replies:` 136 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**XRP** 23 , **XLM** 20 , **@CRYPTOHULK19:** 19 , **BREAKING** 19 , **XDC** 19 , **ALGO** 18 , **QUANT** 18 , **IOTA** 18 , **RIPPLE** 17 , **HBAR** 16 , **CRYPTO** 16 , **PPL** 7 , **FTX** 5 , **COINBASE** 5 , **WALLET** 4 , **AFTER** 4 , **C…RT** 4 , **DEVELOPERS** 4 , **EXCHANGE** 3 , **INTO** 3 , 
+ 
+## What this user tweeted
+ 
+RT @CryptoHulk19: KABOOM….XLM STELLAR OFFICIALLY MADE THE UKRAINE CBDC!!!   #BREAKING #XRP #XLM #XDC #ALGO #Quant #IOTA #HBAR #Ripple #Cryp…
+ 
+# KathleenDunkel1USER INFO
+![image](http://pbs.twimg.com/profile_images/1597683158929100803/L0LQ3uzU_normal.jpg)
+ 
+`User ScreenName:` KathleenDunkel1 
+ 
+`User chosen Name:` Kathleen Dunkelberger 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 29 20:04:21 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `14 
+ 
+`Following?:` 205 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 65 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597683158929100803/L0LQ3uzU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 65 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TWITTER** 9 , **PEOPLE** 6 , **PRESIDENT** 6 , **ELON** 6 , **MANY** 5 , **BIDEN** 5 , **YEARS** 5 , **@ELONMUSK:** 5 , **EVER** 4 , **FIRST** 4 , **MUSK** 4 , **BIDEN:** 3 , **MAKE** 3 , **OTHER** 3 , **VACCINE** 3 , **COULD** 3 , **AGAINST** 3 , **FREE** 3 , **TRUMP** 3 , **COVID** 3 , 
+ 
+## What this user tweeted
+ 
+RT @SenTedCruz: I have serious concerns about corruption by Joe Biden during his time as Vice President and now as President.
+ 
+The Biden f…
+ 
+# missouri_flatUSER INFO
+![image](http://pbs.twimg.com/profile_images/1598087890923360261/iIQLii6f_normal.jpg)
+ 
+`User ScreenName:` missouri_flat 
+ 
+`User chosen Name:` MissouriFlat 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 22:53:10 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 47 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598087890923360261/iIQLii6f_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REUTERS** 1 , **WORRY** 1 , **20** 1 , **BILLION** 1 , **DOLLARS** 1 , **UKRAINE** 1 , **CAN'T** 1 , **ACCOUNT** 1 , 
+ 
+## What this user tweeted
+ 
+@Reuters worry about the 20 billion dollars that Ukraine can't account for
+ 
+# NotIndoctrin8edUSER INFO
+![image](http://pbs.twimg.com/profile_images/1597805532366135296/GpGkrMJk_normal.jpg)
+ 
+`User ScreenName:` NotIndoctrin8ed 
+ 
+`User chosen Name:` Not Indoctrinated 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Nov 25 19:06:26 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 52 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 117 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597805532366135296/GpGkrMJk_normal.jpg 
+ 
+`Number of tweets excluding replies:` 117 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SOTMASTER** 16 , **@JASONSM90876769** 16 , **@REPADAMSCHIFF** 16 , **@FOXNEWS** 13 , **LEFT** 12 , **@THELEOTERRELL** 9 , **@MONKEYSTEINEL** 8 , **@DASHDOBROFSKY** 7 , **HERE** 6 , **@ELONMUSK** 5 , **NEED** 5 , **MUCH** 5 , **THAN** 5 , **@LASTCHANCE99** 5 , **MOST** 4 , **INFLATION** 4 , **ACTUALLY** 4 , **MANY** 4 , **LITERALLY** 4 , **EVEN** 4 , 
+ 
+## What this user tweeted
+ 
+@PressSec So you finally admit that has orices spiked well before Putin invaded Ukraine! It's about time you accept… https://t.co/bcG6WUKJzV
+ 
+# ssholes__elbowsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1594808929514561547/mvsomRNO_normal.jpg)
+ 
+`User ScreenName:` ssholes__elbows 
+ 
+`User chosen Name:` Ivor Mectin - Space Trucker 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 21 21:21:21 +0000 2022 
+ 
+`User Description?:` Weirdly, some people claim that freedom of speech is a threat to democracy. 🤨 
+ 
+`Followers?: `96 
+ 
+`Following?:` 454 
+ 
+`User URL?:` None 
+ 
+`Location:` On a spaceship, dear... 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1594808929514561547/mvsomRNO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1280 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NIGEL_FARAGE** 16 , **@ELONMUSK** 10 , **PEOPLE** 9 , **DON'T** 8 , **@LAYAHHEILPERN** 8 , **WHITE** 8 , **@BEDFORDTWEETS** 8 , **@CLARECRAIGPATH** 7 , **@THECORONACURE_** 7 , **ENGLAND** 6 , **@DERRICKSTHEMAN** 6 , **@NYETENGALE** 6 , **WELL** 4 , **WON'T** 4 , **JEWISH** 4 , **STILL** 4 , **THAN** 4 , **YES** 4 , **@MIKEDRUCKER** 4 , **@FOX_CLAIRE** 3 , 
+ 
+## What this user tweeted
+ 
+@atensnut What is Ukraine..?
+ 
+# r_benildeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1595896238125244417/ZbcxxXTW_normal.jpg)
+ 
+`User ScreenName:` r_benilde 
+ 
+`User chosen Name:` Maria Benilde R.Freiras 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 24 21:43:38 +0000 2022 
  
 `User Description?:`  
  
@@ -2009,50 +1643,11 @@ I just tell them that the whole nazi exc… https://t.co/W7UTid1EcPRT @Callsign_
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 41 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1596952101103751168/GhgDiGze_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1595896238125244417/ZbcxxXTW_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@RISING_SERPENT:** 1 , **AMAZON** 1 , **LAYS** 1 , **OFF** 1 , **10000** 1 , **PETROLEUM** 1 , **RESERVE** 1 , **EMPTY** 1 , **HEATING** 1 , **FUEL** 1 , **SHORTAGE** 1 , **NORTHEAST** 1 , **SBF** 1 , **ROAMS** 1 , **FREE** 1 , **PAUL** 1 , **PELOSI** 1 , **STORY…@REDWOLFTWEETSUS** 1 , **@REALADAMNASSOR** 1 , 
- 
-## What this user tweeted
- 
-RT @rising_serpent: Amazon lays off 10,000, Petroleum Reserve empty, heating fuel shortage in Northeast, SBF roams free, Paul Pelosi story…
- 
-# magaboi580USER INFO
-![image](http://pbs.twimg.com/profile_images/1594758746743390214/GzZ4pVnO_normal.jpg)
- 
-`User ScreenName:` magaboi580 
- 
-`User chosen Name:` GunTotinPatriot 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 21 16:10:16 +0000 2022 
- 
-`User Description?:` I'm a Young Conservative Maga Conservative Irish roots 🇮🇪🇺🇲.Drain the swamp! Read your Bible and the constitution!. TRUMP "24" 
- 
-`Followers?: `85 
- 
-`Following?:` 443 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1594758746743390214/GzZ4pVnO_normal.jpg 
- 
-`Number of tweets excluding replies:` 860 
+`Number of tweets excluding replies:` 41 
  
 
  
@@ -2060,196 +1655,38 @@ RT @rising_serpent: Amazon lays off 10,000, Petroleum Reserve empty, heating fue
  
 ## User Top tweeted words 
  
-**BIDEN** 21 , **TWITTER** 14 , **JOE** 10 , **@PROUDELEPHANTUS:** 9 , **TRUMP** 8 , **THAN** 8 , **@NICKADAMSINUSA:** 7 , **COVID** 7 , **NEW** 7 , **PRESIDENT** 7 , **HAVING** 6 , **STOP** 6 , **DOES** 6 , **TIME** 6 , **DON'T** 6 , **@FAYSTON2022:** 6 , **RAPHAEL** 5 , **WAY** 5 , **PEOPLE** 5 , **@THISISKYLER:** 5 , 
+**QUE** 19 , **@PROFESSORBELLEI:** 16 , **DE** 14 , **O** 12 , **NÃO** 7 , **MAS** 6 , **É** 5 , **UM** 5 , **EM** 4 , **@XX17965797N:** 3 , **POLICE** 3 , **EU** 3 , **NUNCA** 3 , **COM** 3 , **@ELONMUSK:** 3 , **@RUNEWS:** 3 , **POR** 3 , **PAULO** 3 , **E** 3 , **POLÍTICOS** 3 , 
  
 ## What this user tweeted
  
-RT @ProudElephantUS: Why don’t we rename the southern border Ukraine? Then Democrats might actually try to fix the border crisis once and f…
+RT @runews: Zelensky says that more than $1 trillion is needed to restore Ukraine https://t.co/yGa4aWNJ9f
  
-# DLCane2USER INFO
-![image](http://pbs.twimg.com/profile_images/1597374536843919366/uRSsaztV_normal.jpg)
+# kentucky_mercyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1598109641891893249/C2u644M-_normal.jpg)
  
-`User ScreenName:` DLCane2 
+`User ScreenName:` kentucky_mercy 
  
-`User chosen Name:` DeeLC 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 28 22:40:22 +0000 2022 
- 
-`User Description?:` Starting over. Christian Conservative, Support #VETS & 1st responders #MAGA Dems/Libs are mentally deranged! NO Trains 
- 
-`Followers?: `11 
- 
-`Following?:` 152 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 135 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597374536843919366/uRSsaztV_normal.jpg 
- 
-`Number of tweets excluding replies:` 136 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 15 , **MEDIA** 9 , **BORDER** 9 , **LEFT** 6 , **TWITTER** 6 , **ILLEGAL** 6 , **TRUMP** 6 , **US** 5 , **HOUSE** 5 , **PRESIDENT** 5 , **DEMOCRATS** 5 , **NEED** 5 , **@ELONMUSK** 5 , **FAUCI** 5 , **ELON** 5 , **HUMAN** 5 , **WATCH** 5 , **@FAIRIMMIGRATION:** 5 , **GOVERNMENT** 4 , **MONEY** 4 , 
- 
-## What this user tweeted
- 
-RT @jsolomonReports: Watch:  Sec. of State Antony Blinken on US foreign aid to Ukraine for air defense systems | Just The News https://t.co…
- 
-# fiery_dogieUSER INFO
-![image](http://pbs.twimg.com/profile_images/1595283523757285376/TWo6eo5d_normal.jpg)
- 
-`User ScreenName:` fiery_dogie 
- 
-`User chosen Name:` fiery dogie 
+`User chosen Name:` Kentucky Mercy 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 23 05:09:06 +0000 2022 
- 
-`User Description?:` Success Isn't Entitlement 
- 
-`Followers?: `4 
- 
-`Following?:` 122 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 144 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1595283523757285376/TWo6eo5d_normal.jpg 
- 
-`Number of tweets excluding replies:` 144 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK** 21 , **@TIM_COOK** 15 , **TWITTER** 9 , **DON’T** 9 , **MAKE** 8 , **NEED** 8 , **APPLE** 7 , **PEOPLE** 6 , **WORLD** 6 , **CHINA** 6 , **@SETHDILLON** 6 , **MONEY** 5 , **FREE** 5 , **VERY** 5 , **THESE** 5 , **BECOME** 5 , **SURE** 4 , **ENOUGH** 4 , **ELON** 4 , **NEVER** 4 , 
- 
-## What this user tweeted
- 
-@Peoples_Pundit @barnes_law Stop sending money to Ukraine.
- 
-# NickAdamsSon1USER INFO
-![image](http://pbs.twimg.com/profile_images/1597064538855292929/9-sLr6NR_normal.jpg)
- 
-`User ScreenName:` NickAdamsSon1 
- 
-`User chosen Name:` Nick Adams Son (Alpha Male) 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 28 03:05:14 +0000 2022 
- 
-`User Description?:` Pro Trump, Pro God, Alpha Male Patriot. Kirk Cousins and Malik Willis Supporter. Hooters attender. Golf. Lifting 
- 
-`Followers?: `11 
- 
-`Following?:` 196 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597064538855292929/9-sLr6NR_normal.jpg 
- 
-`Number of tweets excluding replies:` 265 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ALPHA** 50 , **MALE** 32 , **TRUMP** 30 , **@NICKADAMSINUSA** 25 , **@NICKADAMSINUSA:** 23 , **BETA** 18 , **MALES** 18 , **HOOTERS** 17 , **WOKE** 17 , **GOD** 17 , **NEED** 17 , **PRO** 16 , **CHRISTIAN** 14 , **BIDEN** 13 , **TRUST** 8 , **PATRIOT** 8 , **JACK** 8 , **DEL** 8 , **THING** 7 , **NICK** 7 , 
- 
-## What this user tweeted
- 
-@ClayTravis We must fight so Ukraine could experience this democracy too
- 
-# lecielparfait7USER INFO
-![image](http://pbs.twimg.com/profile_images/1597624535234265092/xlWbMFtO_normal.jpg)
- 
-`User ScreenName:` lecielparfait7 
- 
-`User chosen Name:` LeCielParfait7-Heiliges Romische 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Nov 29 16:12:03 +0000 2022 
+`User signup date?:` Thu Dec 01 00:19:49 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 21 
+`Following?:` 7 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 68 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1597624535234265092/xlWbMFtO_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1598109641891893249/C2u644M-_normal.jpg 
  
-`Number of tweets excluding replies:` 68 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**U** 7 , **STREAM** 5 , **NORD** 4 , **2** 4 , **JENIN** 4 , **TOO** 3 , **"** 3 , **AG** 3 , **POLISH** 3 , **NS** 3 , **BEAUTIFUL** 3 , **ESCAPED** 3 , **HIGH** 3 , **SPEED** 3 , **ANAHEIM** 3 , **STATION** 3 , **MOBILE** 3 , **SUIT** 3 , **WIPED** 3 , **AWAY** 3 , 
- 
-## What this user tweeted
- 
-Greifswald, Schwarzwald, The Forest on the Deep Sea.
-
-" Nord Stream AG, has updated the end of the unplanned outage… https://t.co/OteYvmWAyX
- 
-# F59Re3USER INFO
-![image](http://pbs.twimg.com/profile_images/1597018502648430594/yJvUhhLk_normal.jpg)
- 
-`User ScreenName:` F59Re3 
- 
-`User chosen Name:` F59RE3 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 28 00:03:03 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 122 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 186 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597018502648430594/yJvUhhLk_normal.jpg 
- 
-`Number of tweets excluding replies:` 186 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -2257,312 +1694,26 @@ Greifswald, Schwarzwald, The Forest on the Deep Sea.
  
 ## User Top tweeted words 
  
-**TWITTER** 17 , **VIA** 17 , **@GREG_PRICE11:** 14 , **PEOPLE** 11 , **BIDEN** 10 , **PRESIDENT** 9 , **@JAMESBRADLEYCA:** 9 , **@ELONMUSK:** 9 , **APPLE** 9 , **AMERICA** 9 , **FREE** 9 , **SPEECH** 9 , **JOE** 7 , **TRUMP** 7 , **REPUBLICANS** 7 , **@ELONMUSK** 6 , **GOING** 6 , **THAN** 6 , **DONALD** 6 , **HOUSE** 6 , 
+**FLOOD** 3 , **EASTERN** 3 , **VICTIMS** 2 , **KY** 2 , **FUNCTION** 1 , **CHURCH?** 1 , **HTTPS://TCO/ELAF7OZVBJOPEN** 1 , **CHURCH** 1 , **DOORS** 1 , **AFTER** 1 , **ISN’T** 1 , **NEEDY?** 1 , **JESUS** 1 , **DO?ARE** 1 , **ANY** 1 , **LOCAL** 1 , **CHURCHES** 1 , **TAKING** 1 , **VICTIMS?** 1 , **ACTS** 1 , 
  
 ## What this user tweeted
  
-RT @SenTedCruz: I have serious concerns about corruption by Joe Biden during his time as Vice President and now as President.
+How does Ukraine Get 50+ billion dollars? https://t.co/E1NMUVTlRg
  
-The Biden f…
- 
-# KVIST1984USER INFO
-![image](http://pbs.twimg.com/profile_images/1594561472595623936/mSWPlRO6_normal.jpg)
- 
-`User ScreenName:` KVIST1984 
- 
-`User chosen Name:` KVIST1984🌻🌻🌻🌻🇺🇦🇺🇦🇺🇦🇺🇦🇩🇰🇩🇰🇩🇰🇩🇰 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 21 05:18:11 +0000 2022 
- 
-`User Description?:` Just got deleted.
-My old profile was kvist84
-Help me return 
-Slava Ukraine 🌻
-Russia is a terrorist state
-Please help me go fight ore help on the front line.! 
- 
-`Followers?: `315 
- 
-`Following?:` 1152 
- 
-`User URL?:` None 
- 
-`Location:` Denmark  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1594561472595623936/mSWPlRO6_normal.jpg 
- 
-`Number of tweets excluding replies:` 867 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UKRAINE** 46 , **UKRAINERUSSIAWAR** 14 , **RUSSIAN** 13 , **UKRAINEWILLWIN** 11 , **GOOD** 9 , **DON'T** 9 , **RUSSIA** 9 , **🇺🇦** 9 , **FU** 9 , **PEOPLE** 9 , **UKRAINIAN** 8 , **@GERASHCHENKO_EN:** 7 , **WAR** 6 , **DAY** 6 , **ORCS** 6 , **US** 6 , **GO** 5 , **BAKHMUT** 5 , **I'LL** 5 , **THAT'S** 5 , 
- 
-## What this user tweeted
- 
-Nordic nation
-Close collection in support fore Ukraine. Cool, good deed, but don't by them, 1/4 goes to the cheatin… https://t.co/ZgdENgQGrf
- 
-# SlimJimWmbly67USER INFO
-![image](http://pbs.twimg.com/profile_images/1594781943073501184/lizFch6J_normal.jpg)
- 
-`User ScreenName:` SlimJimWmbly67 
- 
-`User chosen Name:` SlimJim1967 🇨🇦🇮🇱🇮🇱🇺🇸🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇬🇧 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 21 19:55:51 +0000 2022 
- 
-`User Description?:` Rangers supporting IT guy who supports the union🇬🇧🇬🇧 loves travelling, follows biology and hates the SNp and detests the duplicitous blackface Trudeau 
- 
-`Followers?: `38 
- 
-`Following?:` 93 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1594781943073501184/lizFch6J_normal.jpg 
- 
-`Number of tweets excluding replies:` 419 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 14 , **@SOPHIELOUISECC** 12 , **@BBCNEWS** 10 , **GOOD** 9 , **BIDEN** 7 , **BEING** 7 , **@NO_BIKERS** 6 , **REALLY** 6 , **WELL** 6 , **COULD** 5 , **OH** 5 , **UK** 5 , **SAME** 4 , **LEFT** 4 , **TWO** 4 , **GREAT** 4 , **DRAG** 4 , **STURGEON** 4 , **DIDN'T** 4 , **NEVER** 4 , 
- 
-## What this user tweeted
- 
-RT @RedState: Ted Cruz Rips the Curtain Back on Biden and Ukraine While Grilling George Kent https://t.co/VBW3pSm0Cp
- 
-# Hsllyyyh225USER INFO
-![image](http://pbs.twimg.com/profile_images/1597013792239779840/cAAiRyf2_normal.jpg)
- 
-`User ScreenName:` Hsllyyyh225 
- 
-`User chosen Name:` HeSlly 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Nov 27 23:44:12 +0000 2022 
- 
-`User Description?:` My hobbies are, traveling, fitness, practicing yoga, golf, cooking, and investing. 
- 
-`Followers?: `3 
- 
-`Following?:` 20 
- 
-`User URL?:` None 
- 
-`Location:` Irvine, California 
- 
-`Number of tweets extracted`  : 183 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597013792239779840/cAAiRyf2_normal.jpg 
- 
-`Number of tweets excluding replies:` 183 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@POTUS:** 24 , **@AOC** 21 , **@GOP** 20 , **ELON** 11 , **@JOEBIDEN:** 11 , **MUSK** 10 , **TWITTER** 10 , **HOME** 7 , **AMERICA** 7 , **NEVER** 7 , **I’M** 7 , **FAMILIES** 7 , **FIRST** 6 , **US** 6 , **STILL** 6 , **SOCCER'S** 6 , **APPLE** 6 , **SPEECH** 6 , **@ELONMUSK:** 6 , **WHITE** 5 , 
- 
-## What this user tweeted
- 
-RT @POTUS: Gas prices are down, domestic production is up, and we’ve rallied the world to release oil to address a gas price hike inflamed…
- 
-# Joyce16MicahUSER INFO
-![image](http://pbs.twimg.com/profile_images/1598064052969897997/zONP21h__normal.jpg)
- 
-`User ScreenName:` Joyce16Micah 
- 
-`User chosen Name:` Micah❤ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 06:43:31 +0000 2022 
- 
-`User Description?:` Proudly Retired Teacher & MAGA❤️,MyBackup @DarethMsofia and follow4follow is Power of ❤️ United Patriotic trending 
- 
-`Followers?: `32 
- 
-`Following?:` 21 
- 
-`User URL?:` None 
- 
-`Location:` United States  
- 
-`Number of tweets extracted`  : 174 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1598064052969897997/zONP21h__normal.jpg 
- 
-`Number of tweets excluding replies:` 175 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TJLAKERS01:** 18 , **TWITTER** 14 , **@IKENNECT** 12 , **@ATLREY:** 12 , **@VICCERVANTES3:** 11 , **🚀VIC’SSPACEFLIGHT🚀** 11 , **ELON** 10 , **@VICCERVANTES3🚀** 10 , **@ILEGVM** 9 , **@KEITH0STA** 8 , **@BREE1914** 8 , **@LISAWAL24884807** 8 , **DON’T** 7 , **@1MIR_R** 7 , **PRAY** 7 , **TRUMP** 6 , **MUSK** 6 , **@NANAVET3** 6 , **@1SHOTANNIE🚀** 6 , **FREE** 5 , 
- 
-## What this user tweeted
- 
-RT @ChuckCallesto: BREAKING REPORT: Zelensky 'Invites' Elon Musk To Visit Ukraine...
- 
-# PilleDaveUSER INFO
+# liberty75006USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` PilleDave 
+`User ScreenName:` liberty75006 
  
-`User chosen Name:` Dave Pille 
+`User chosen Name:` LadyLiberty75006 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Nov 30 16:12:00 +0000 2022 
+`User signup date?:` Tue Nov 29 01:37:43 +0000 2022 
  
 `User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 83 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 4 , **@ELONMUSK** 3 , **PRESIDENT** 2 , **FREE** 2 , **ANTI-AMERICAN** 2 , **US** 2 , **@EVASTESLASPLAID** 1 , **DEPENDS** 1 , **BETTER** 1 , **AFFORD** 1 , **ANDROID** 1 , **PHONE** 1 , **W…** 1 , **HTTPS://TCO/UAPSUIAFDU@TOWNHALLCOM** 1 , **WOW** 1 , **LYING** 1 , **SAKE** 1 , **CRAP** 1 , **COURSE** 1 , **INTO** 1 , 
- 
-## What this user tweeted
- 
-RT @SenTedCruz: I have serious concerns about corruption by Joe Biden during his time as Vice President and now as President.
- 
-The Biden f…
- 
-# twonaturesatwarUSER INFO
-![image](http://pbs.twimg.com/profile_images/1597952487876698113/6QnxdVF6_normal.jpg)
- 
-`User ScreenName:` twonaturesatwar 
- 
-`User chosen Name:` twonaturesatwar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 10:58:50 +0000 2022 
- 
-`User Description?:` Average  Joe in pursuit of liberty 
  
 `Followers?: `2 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 145 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597952487876698113/6QnxdVF6_normal.jpg 
- 
-`Number of tweets excluding replies:` 145 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PROJECT_VERITAS:** 16 , **@JACKPOSOBIEC:** 11 , **EXPOSECHILDTRAFFICKING** 8 , **@LUKEWEARECHANGE:** 8 , **WATCH** 7 , **TWITTER** 7 , **@CATTURD2:** 7 , **PEOPLE** 6 , **STILL** 6 , **@PROJECT_VERITAS** 5 , **CHILD** 5 , **BIDEN** 5 , **COULD** 5 , **MANY** 5 , **WAY** 5 , **BELENCIAGA** 5 , **BALENCIAGA** 5 , **PART** 4 , **DOLLARS** 4 , **@TOMFITTON:** 4 , 
- 
-## What this user tweeted
- 
-@JudicialWatch @TomFitton If what are tax dollars  are going
-To in the Ukraine biolabs are on the up and up. Why not do it in the U.S.
- 
-# kentuckyliz2USER INFO
-![image](http://pbs.twimg.com/profile_images/1597302908659212288/yj1Mx3WN_normal.jpg)
- 
-`User ScreenName:` kentuckyliz2 
- 
-`User chosen Name:` Liz 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Nov 28 18:53:43 +0000 2022 
- 
-`User Description?:` Rejoined; not a noob. #TeamPete #BuildingBridges #SecondClassCitizenInABanState #AuntieAboboAtYourService #JuryNullification #Freethinker #Postcarder 
- 
-`Followers?: `11 
- 
-`Following?:` 40 
- 
-`User URL?:` None 
- 
-`Location:` Appalachian eastern Kentucky 
- 
-`Number of tweets extracted`  : 137 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597302908659212288/yj1Mx3WN_normal.jpg 
- 
-`Number of tweets excluding replies:` 137 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HA** 9 , **ELON** 6 , **@AVINDMAN** 6 , **MARRIAGE** 5 , **GOOD** 5 , **MEGHAN** 5 , **WHITE** 5 , **THAT'S** 5 , **MUCH** 4 , **SECURITY** 4 , **BAN** 4 , **FEATHER** 4 , **PEOPLE** 4 , **MUSK** 4 , **PARTY** 4 , **PRESIDENT** 4 , **LINE** 4 , **CARE** 4 , **@POTUS:** 4 , **CONSPIRACY** 4 , 
- 
-## What this user tweeted
- 
-RT @PressSec: The most common price at gas stations across the country is $2.99.
- 
-President Biden committed to addressing Putin’s Price Hi…
- 
-# JackBurtonsX2USER INFO
-![image](http://pbs.twimg.com/profile_images/1597766935332151296/taqH-LpI_normal.jpg)
- 
-`User ScreenName:` JackBurtonsX2 
- 
-`User chosen Name:` Jack Burton 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Nov 25 23:48:09 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `11 
  
 `Following?:` 42 
  
@@ -2570,11 +1721,11 @@ President Biden committed to addressing Putin’s Price Hi…
  
 `Location:`  
  
-`Number of tweets extracted`  : 97 
+`Number of tweets extracted`  : 16 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1597766935332151296/taqH-LpI_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 97 
+`Number of tweets excluding replies:` 16 
  
 
  
@@ -2582,36 +1733,275 @@ President Biden committed to addressing Putin’s Price Hi…
  
 ## User Top tweeted words 
  
-**@TULSIGABBARD** 8 , **@LEHRR** 6 , **SPEECH** 6 , **@DOMTHEBOMBYT** 5 , **@PRAGERU** 5 , **@EDIGADOR** 4 , **@NENTAIOFFICIAL** 4 , **@AZSLAYZ_** 4 , **@BRANTRE123** 4 , **@CNN** 4 , **@NBC** 4 , **@WSJ** 4 , **@NYPOST** 4 , **@WASHTIMES** 4 , **@SACBEE_NEWS** 4 , **@STARTRIBUNE…** 4 , **@CONCEPTUALJAMES** 4 , **PEOPLE** 4 , **FREE** 4 , **@REPTROYNEHLS** 3 , 
+**GOING** 3 , **RUN** 3 , **MONEY** 2 , **WORRIED** 2 , **THEY'RE** 2 , **PEOPLE** 2 , **SHIT** 2 , **YEARS** 2 , **COVID** 2 , **LIAR** 2 , **TOTALED** 2 , **HIT** 2 , **CAR** 2 , **@MARSHABLACKBURN** 1 , **BEHIND** 1 , **CORRUPT** 1 , **LAUNDERING** 1 , **COMMUNIST** 1 , **UKRAINE** 1 , **CUT** 1 , 
  
 ## What this user tweeted
  
-@jshkrueger @maush_pickt @Wags_16 @RepTroyNehls Ummmmmm..... kinda like the Ukraine
+@MarshaBlackburn We should be behind them, and not the corrupt money laundering communist Ukraine. Cut ALL aid to them now.
  
-# Seeker117719USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# BPow68USER INFO
+![image](http://pbs.twimg.com/profile_images/1597327370041556995/QXjTH5Iu_normal.png)
  
-`User ScreenName:` Seeker117719 
+`User ScreenName:` BPow68 
  
-`User chosen Name:` Jean Campbell 
+`User chosen Name:` Bill Pawelczyk 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Nov 22 01:58:46 +0000 2022 
+`User signup date?:` Mon Nov 28 20:31:36 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `3 
+`Followers?: `0 
  
-`Following?:` 49 
+`Following?:` 10 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 66 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597327370041556995/QXjTH5Iu_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TSLAFANMTL** 1 , **SHITTING** 1 , **LEFT?** 1 , **CENSORSHIP?** 1 , **SHOWING** 1 , **GOES** 1 , **BEHIND** 1 , **TWITTER** 1 , **CLOSED** 1 , **DOORS?** 1 , **MUCH…** 1 , **HTTPS://TCO/GYU2GTC2Q9@DAILYLOUD** 1 , **DOUBT** 1 , 
+ 
+## What this user tweeted
+ 
+@TSLAFanMtl How is he shitting on the Left? Censorship? Showing what goes on behind Twitter closed doors?  How much… https://t.co/GYU2GTc2q9
+ 
+# Pat20762174JohnUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Pat20762174John 
+ 
+`User chosen Name:` John Patterson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Nov 26 20:41:13 +0000 2022 
+ 
+`User Description?:` Hardcore conservative and a fiercely independent thinker. Pure blood 
+ 
+`Followers?: `68 
+ 
+`Following?:` 367 
+ 
+`User URL?:` None 
+ 
+`Location:` Southern united states 
+ 
+`Number of tweets extracted`  : 200 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 413 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 11 , **I’M** 7 , **HELL** 7 , **@HEAVENSCENT88:** 7 , **JOE** 6 , **DON’T** 6 , **US** 6 , **THAN** 6 , **TRUMP** 6 , **TOO** 6 , **@RAHEEMKASSAM** 6 , **NEED** 5 , **GOT** 5 , **NEVER** 5 , **SAY** 5 , **DEMOCRAT** 5 , **@NYETENGALE:** 5 , **@SIERRASMITH84:** 5 , **@LORITHECATLADY:** 5 , **PROBABLY** 4 , 
+ 
+## What this user tweeted
+ 
+RT @DanFarnsworth52: @withmalice @DonaldJTrumpJr Maybe you missed the FACTS:
+Joe Biden allegedly was involved with a second Chinese venture…
+ 
+# RubyRedSeaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1597625895682199552/e4PeScUJ_normal.jpg)
+ 
+`User ScreenName:` RubyRedSea 
+ 
+`User chosen Name:` RubyRedSea🇺🇸 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 29 15:17:34 +0000 2022 
+ 
+`User Description?:` Truth or Consequences? 
+ 
+`Followers?: `3 
+ 
+`Following?:` 156 
+ 
+`User URL?:` None 
+ 
+`Location:` The Emerald City 
+ 
+`Number of tweets extracted`  : 49 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597625895682199552/e4PeScUJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 49 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@RAHEEMKASSAM:** 4 , **@TRHLOFFICIAL:** 4 , **@LIONELMEDIA:** 4 , **@REALJAMESWOODS** 4 , **TWITTER** 3 , **BIDEN** 3 , **OH** 3 , **GOVERNMENT** 3 , **TIME** 2 , **REMEMBER** 2 , **PARTY** 2 , **BALENCIAGA** 2 , **DROPPED** 2 , **TRUMP** 2 , **UKRAINE** 2 , **KARINE** 2 , **JEAN-PIERRE** 2 , **@JAMESBRADLEYCA:** 2 , **JOE** 2 , **SWALLOWED** 2 , 
+ 
+## What this user tweeted
+ 
+RT @RichardGrenell: You dropped the Trump sanctions on the Russian pipeline and helped create the war in Ukraine. 
+
+Where’s @maggieNYT?!
+ 
+# MrBigg1975USER INFO
+![image](http://pbs.twimg.com/profile_images/1597719577156370432/JNOWAHO5_normal.jpg)
+ 
+`User ScreenName:` MrBigg1975 
+ 
+`User chosen Name:` Mr. Bens 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 29 22:27:03 +0000 2022 
+ 
+`User Description?:` Climate Change is the biggest LIE and CON of our lifetime. COVID vaccines DO NOT work against the Kung Flu. Mask wearing is a product of mental illness 
+ 
+`Followers?: `35 
+ 
+`Following?:` 101 
+ 
+`User URL?:` None 
+ 
+`Location:` North Carolina  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597719577156370432/JNOWAHO5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 4 , **OBSESSED** 3 , **@CHARLIEKIRK11** 3 , **COWARD** 2 , **UKRAINE** 2 , **USA** 2 , **CHRISTINE** 2 , **MCVIE** 2 , **USAVWAL** 2 , **TRUMP** 2 , **APPLE** 2 , **DON'T** 2 , **CHINA** 2 , **COMPLETELY** 2 , **@N3PATRIOT** 2 , **WELL** 2 , **ANTIFA** 1 , **POS** 1 , **BRAINER** 1 , **EVER** 1 , 
+ 
+## What this user tweeted
+ 
+Antifa are coward POS.  It's a no brainer if they ever mob my car.
+
+#Ukraine #USA Christine McVie #USAvWAL Fleetwoo… https://t.co/cNR6TudwM6
+ 
+# brainnectar5USER INFO
+![image](http://pbs.twimg.com/profile_images/1594567944452771841/gaL74J4T_normal.png)
+ 
+`User ScreenName:` brainnectar5 
+ 
+`User chosen Name:` Aidan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 21 05:46:38 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 78 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 85 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1594567944452771841/gaL74J4T_normal.png 
+ 
+`Number of tweets excluding replies:` 85 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DON'T** 12 , **PEOPLE** 12 , **GO** 6 , **GOING** 6 , **OFF** 6 , **ANY** 5 , **I'M** 5 , **CAN'T** 5 , **@SENATEGOP** 5 , **@NATHALIEJACOBY1** 5 , **THEN** 4 , **WAY** 4 , **@ELONMUSK** 4 , **FEED** 4 , **MEDIA** 4 , **UNREALISTIC** 4 , **EXPECTATIONS** 4 , **THINGS** 4 , **@BEVANWHITFIELD** 4 , **INTO** 3 , 
+ 
+## What this user tweeted
+ 
+@LayahHeilpern That's part of the reason why Elon musks felt the way he did about Ukraine. It's a huge hub for said pedophilia
+ 
+# coo73200948USER INFO
+![image](http://pbs.twimg.com/profile_images/1597594187502735360/EbW-EfZh_normal.jpg)
+ 
+`User ScreenName:` coo73200948 
+ 
+`User chosen Name:` Paul Cook 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 29 14:08:43 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 27 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597594187502735360/EbW-EfZh_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ELON** 6 , **FREE** 4 , **PEOPLE** 4 , **COUNT** 4 , **SPEECH** 3 , **JOIN** 3 , **FIRST** 3 , **SOCIAL** 3 , **MEDIA** 3 , **ACCOUNT** 3 , **69** 3 , **YRS** 3 , **OLD** 3 , **GENIUS** 3 , **MAKING** 3 , **$$** 3 , **EVENTUALLY** 3 , **WHILE** 3 , **TOO** 2 , **TED** 2 , 
+ 
+## What this user tweeted
+ 
+@TaraServatius ukraine has already lost the war, contrary to msm. All the wealthy &amp; upper middle class have left th… https://t.co/FQEOZbDLYq
+ 
+# rash110163USER INFO
+![image](http://pbs.twimg.com/profile_images/1597795481870123008/bL4qwUlB_normal.jpg)
+ 
+`User ScreenName:` rash110163 
+ 
+`User chosen Name:` rash 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 03:28:07 +0000 2022 
+ 
+`User Description?:` Here to tell the truth about lberals and Democrats! 
+ 
+`Followers?: `1 
+ 
+`Following?:` 98 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 67 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597795481870123008/bL4qwUlB_normal.jpg 
  
 `Number of tweets excluding replies:` 67 
  
@@ -2621,11 +2011,287 @@ President Biden committed to addressing Putin’s Price Hi…
  
 ## User Top tweeted words 
  
-**@ELONMUSK** 8 , **THAT'S** 5 , **US** 4 , **OLD** 4 , **THANK** 3 , **@COLLINRUGG** 3 , **SOME** 3 , **WRONG** 3 , **MUST** 3 , **YOU'RE** 3 , **THOUSANDS** 3 , **@PATRICKW** 3 , **@KYLENABECKER** 3 , **@TWITTER** 3 , **TRUMP** 3 , **SAME** 3 , **@TOMFITTON** 2 , **REALLY** 2 , **GOING** 2 , **DON'T** 2 , 
+**@ELONMUSK** 8 , **PEOPLE** 6 , **NEVER** 6 , **JOE** 4 , **DEMOCRATS** 4 , **DAY** 4 , **NEW** 4 , **COVID** 4 , **MANY** 4 , **DIED** 4 , **THING** 4 , **ANY** 4 , **LYING** 4 , **NEWS** 4 , **POS** 4 , **@TESLAANDDOGE** 4 , **SUPPORT** 3 , **ELECTION** 3 , **ADMINISTRATION** 3 , **BEING** 3 , 
  
 ## What this user tweeted
  
-RT @JudicialWatch: .@TomFitton: 11 million in tax dollars for one contract for one year -- tied to biolabs in Ukraine! https://t.co/DcEF7Sk…
+Won't get none from "CREEPY JOE ADMINISTRATION!" They support ALL Dictatorships, Iran, China, Russia, Cuba, and eve… https://t.co/Jehpoj2GpP@ACTBrigitte Won't get none from "CREEPY JOE ADMINISTRATION!" They support ALL Dictatorships, Iran, China, Russia,… https://t.co/MhmGgd6zey
+ 
+# Hardwins1USER INFO
+![image](http://pbs.twimg.com/profile_images/1597727613447012352/-fYrnGmH_normal.jpg)
+ 
+`User ScreenName:` Hardwins1 
+ 
+`User chosen Name:` Hardwins 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Nov 24 00:57:08 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597727613447012352/-fYrnGmH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MADDOWBLOG** 2 , **@DONALDJTRUMPJR** 1 , **@ELONMUSK** 1 , **CHINA** 1 , **FINGERS** 1 , **BODIES** 1 , **PIE@NEWSMAX** 1 , **@KRISTINOEM** 1 , **@GRETA** 1 , **ANOTHER** 1 , **$BILLION$** 1 , **UKRAINE** 1 , **FIX** 1 , **THINGS@JOEBIDEN** 1 , **@REVERENDWARNOCK** 1 , **DOESN'T** 1 , **MATTER** 1 , **ELECTIONS** 1 , **COMPROMISED2016** 1 , **LAST** 1 , 
+ 
+## What this user tweeted
+ 
+@NEWSMAX @KristiNoem @greta Another $Billion$ for Ukraine should fix things..
+ 
+# wlmoody46USER INFO
+![image](http://pbs.twimg.com/profile_images/1598104185706356737/_G1idwtM_normal.jpg)
+ 
+`User ScreenName:` wlmoody46 
+ 
+`User chosen Name:` Bill Moody 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 23:58:23 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 31 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598104185706356737/_G1idwtM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 4 , **@SENTEDCRUZ:** 2 , **DEMOCRATS** 2 , **CORRUPTION** 2 , **PRESIDENT** 2 , **TWITTER** 2 , **@FOXNEWS** 1 , **NEED** 1 , **WORRY** 1 , **PROTECTION** 1 , **COUNTRY** 1 , **AMERICART** 1 , **TRIED** 1 , **BLOCK** 1 , **QUESTIONING** 1 , **FAMILY’S** 1 , **BLATANT** 1 , **COVERING** 1 , **FAM…RT** 1 , **@TEDCRUZ:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SenTedCruz: I have serious concerns about corruption by Joe Biden during his time as Vice President and now as President.
+ 
+The Biden f…
+ 
+# hadesdeathsquadUSER INFO
+![image](http://pbs.twimg.com/profile_images/1596891117420625921/prYuLqJp_normal.jpg)
+ 
+`User ScreenName:` hadesdeathsquad 
+ 
+`User chosen Name:` Warren jeffs 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 27 15:37:29 +0000 2022 
+ 
+`User Description?:` thanks Elon Musk for letting me back 
+free speech matters 
+ 
+`Followers?: `16 
+ 
+`Following?:` 170 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1596891117420625921/prYuLqJp_normal.jpg 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WAY** 2 , **LAST** 2 , **PEOPLE** 2 , **@ALX** 2 , **SHARED** 2 , **@CORINTXT** 1 , **KIND** 1 , **ENGAGEMENT** 1 , **WANT?@REPBOEBERT** 1 , **LOVE** 1 , **HANDLE** 1 , **YOURSELF** 1 , **WHILE** 1 , **COURT** 1 , **HOUSE!@NATTY_RN** 1 , **🙋@ECPDBA** 1 , **@REALDAILYWIRE** 1 , **EVEN** 1 , **MAKE** 1 , **UKRAINE?@REALDAILYWIRE** 1 , 
+ 
+## What this user tweeted
+ 
+@ecpdba @realDailyWire And did it even make it to Ukraine?
+ 
+# Mark03765267USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Mark03765267 
+ 
+`User chosen Name:` Mark 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 23:04:07 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 81 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DONALDJTRUMPJR** 1 , **FIRMLY** 1 , **BELIEVE** 1 , **BEIJING** 1 , **O'BIDEN** 1 , **BEING** 1 , **BLACK** 1 , **MAILED** 1 , **CHINA** 1 , **UKRAINE** 1 , **HELL** 1 , **KNOWS** 1 , **M…** 1 , **HTTPS://TCO/D1QAFY5OXI** 1 , 
+ 
+## What this user tweeted
+ 
+@DonaldJTrumpJr Firmly believe Beijing O'biden is being black mailed by China, Ukraine and who the hell knows how m… https://t.co/d1qAFy5OXI
+ 
+# SuXin6356USER INFO
+![image](http://pbs.twimg.com/profile_images/1597442727813124096/PvFjwEu6_normal.jpg)
+ 
+`User ScreenName:` SuXin6356 
+ 
+`User chosen Name:` Su Xin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 29 04:06:02 +0000 2022 
+ 
+`User Description?:` Responsible, resilient, conceptual, leadership, rational, strong-willed, dominant, instinctive for a unique insight into the mysteries of life.🇹🇼 🇺🇸 
+ 
+`Followers?: `0 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:` Los Angeles 
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597442727813124096/PvFjwEu6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@POTUS:** 13 , **HOUSE** 8 , **NATIONS** 6 , **DONALD** 5 , **TRIBAL** 5 , **ELON** 4 , **MARRIAGE** 4 , **TAX** 4 , **GAS** 4 , **RESPECT** 4 , **SENATE** 4 , **MUSK** 3 , **TOO** 3 , **LATE** 3 , **BEING** 3 , **RAIL** 3 , **COMPANIES** 3 , **ECONOMY** 3 , **PROUD** 3 , **AGAINST** 3 , 
+ 
+## What this user tweeted
+ 
+RT @DashDobrofsky: Elon Musk spread Hunter Biden conspiracies. He called on Ukraine to cede its territories to Putin. He called on Taiwan t…
+ 
+# HubieF20USER INFO
+![image](http://pbs.twimg.com/profile_images/1597956910115848197/_5lMcbSF_normal.jpg)
+ 
+`User ScreenName:` HubieF20 
+ 
+`User chosen Name:` Hubert Foster 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 14:09:41 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `9 
+ 
+`Following?:` 72 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597956910115848197/_5lMcbSF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@JUDICIALWATCH:** 1 , **NEW:** 1 , **DEFENSE** 1 , **DEPARTMENT** 1 , **RECORDS** 1 , **REVEAL** 1 , **US** 1 , **FUNDING** 1 , **ANTHRAX** 1 , **LABORATORY** 1 , **ACTIVITIES** 1 , **UKRAINE** 1 , **HTTPS://TCO/QRTMVUXHHWRT** 1 , **@SILVERGURU22:** 1 , **WHAT’S** 1 , **HAPPENING?** 1 , **HTTPS://TCO/LEEQTSYFVV** 1 , 
+ 
+## What this user tweeted
+ 
+RT @JudicialWatch: NEW: Defense Department Records Reveal U.S. Funding of Anthrax Laboratory Activities in Ukraine https://t.co/qrTMVuxhHW
+ 
+# SteveMccormick6USER INFO
+![image](http://pbs.twimg.com/profile_images/1598106040406622208/vDfNjlkT_normal.jpg)
+ 
+`User ScreenName:` SteveMccormick6 
+ 
+`User chosen Name:` Steve Mccormick 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 01 00:04:01 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:` Jupiter, FL 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598106040406622208/vDfNjlkT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CALLED** 2 , **RT** 1 , **@DASHDOBROFSKY:** 1 , **ELON** 1 , **MUSK** 1 , **SPREAD** 1 , **HUNTER** 1 , **BIDEN** 1 , **CONSPIRACIES** 1 , **UKRAINE** 1 , **CEDE** 1 , **ITS** 1 , **TERRITORIES** 1 , **PUTIN** 1 , **TAIWAN** 1 , **T…NEWPROFILEPIC** 1 , **HTTPS://TCO/EZGSDW1DPE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @DashDobrofsky: Elon Musk spread Hunter Biden conspiracies. He called on Ukraine to cede its territories to Putin. He called on Taiwan t…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
