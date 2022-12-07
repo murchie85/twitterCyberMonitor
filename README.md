@@ -1942,4 +1942,852 @@ RT @maria_avdv: Thank you for our freedom. Glory to the Armed Forces! Glory to U
  
 ## User Top tweeted words 
  
-**НЕ** 38 , **И** 33 , **В** 20 , **НА** 17 , **ВЫ** 13 , **КАК** 10 , **І** 10 , **ЧТО** 9 , **ЗА** 9 , **А** 9 , **ОТ** 9 , **ТО** 8 , **ТАК** 8 , **ЖЕ** 7 , **С** 7 , 
+**НЕ** 38 , **И** 33 , **В** 20 , **НА** 17 , **ВЫ** 13 , **КАК** 10 , **І** 10 , **ЧТО** 9 , **ЗА** 9 , **А** 9 , **ОТ** 9 , **ТО** 8 , **ТАК** 8 , **ЖЕ** 7 , **С** 7 , **@MAX_KATZ** 7 , **РФ** 6 , **ЩО** 6 , **У** 6 , **З** 6 , 
+ 
+## What this user tweeted
+ 
+RT @NikaMelkozerova: My "fav" terms of 2022: "this might escalate war", "Security guarantees for Russia", "impartiality", "Ukraine conflict…
+ 
+# Roofuss420USER INFO
+![image](http://pbs.twimg.com/profile_images/1599497092501733377/S-6dOteJ_normal.png)
+ 
+`User ScreenName:` Roofuss420 
+ 
+`User chosen Name:` jim billybob 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 04 20:13:18 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 182 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1599497092501733377/S-6dOteJ_normal.png 
+ 
+`Number of tweets excluding replies:` 182 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 32 , **GUILTY** 24 , **@ANANAVARRO** 17 , **@SANDYRIFTER** 14 , **TAX** 13 , **ORGANIZATION** 11 , **PEOPLE** 10 , **FRAUD** 9 , **@MUELLERSHEWROTE:** 9 , **THESE** 9 , **@ELONMUSK** 9 , **@LIZ_CHENEY** 9 , **AMERICA** 9 , **HUNTER** 9 , **CONSTITUTION** 9 , **COUNTS** 8 , **TWITTER** 8 , **@CTVCALGARY** 8 , **LOL** 8 , **RUSSIAN** 7 , 
+ 
+## What this user tweeted
+ 
+RT @CanadaFP: The Kremlin claims it is making every effort to ensure the safety of civilians in Ukraine, but Russian forces continue to tar…
+ 
+# CrockettNiallUSER INFO
+![image](http://pbs.twimg.com/profile_images/1599447237095870464/QBVv_tQ2_normal.jpg)
+ 
+`User ScreenName:` CrockettNiall 
+ 
+`User chosen Name:` Davespeaks 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 01 22:40:01 +0000 2022 
+ 
+`User Description?:` Truth believer 
+ 
+`Followers?: `30 
+ 
+`Following?:` 194 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 188 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1599447237095870464/QBVv_tQ2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 188 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ELONMUSK** 20 , **BIDEN** 19 , **TWITTER** 14 , **FBI** 11 , **BAKER** 10 , **PRESIDENT** 9 , **TRUMP** 8 , **CAN’T** 7 , **RETWEET** 7 , **@MIRANDADEVINE** 7 , **HUNTER** 7 , **NEVER** 6 , **BIG** 6 , **LAPTOP** 6 , **JOE** 6 , **@TWITTER** 6 , **WHILE** 5 , **THESE** 5 , **REPLY** 5 , **US** 5 , 
+ 
+## What this user tweeted
+ 
+@RepMTG can’t like retweet or reply to your post denying Ukraine audit
+ 
+# globalkozeUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` globalkoze 
+ 
+`User chosen Name:` Koze 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 02 21:59:45 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 132 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**EEN** 3 , **@MAKS_NAFO_FELLA** 2 , **DE** 2 , **VOOR** 2 , **ER** 2 , **EU** 2 , **HET** 2 , **MEAN** 1 , **DEPLOYING** 1 , **GERMAN** 1 , **SOLDIERS** 1 , **UKRAINE** 1 , **VERY** 1 , **BAD** 1 , **IDEA** 1 , **THANK** 1 , **POLAND!@IVY_ISTILES** 1 , **@GEPARDTATZE** 1 , **DUTCH** 1 , **60** 1 , 
+ 
+## What this user tweeted
+ 
+@Maks_NAFO_FELLA It would mean deploying German soldiers in Ukraine, just a very bad idea. Thank you Poland!
+ 
+# SnarkySnarkmanUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` SnarkySnarkman 
+ 
+`User chosen Name:` SnarkySunshine 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 01 00:17:44 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 121 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 124 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 124 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 16 , **TWITTER** 10 , **ELECTION** 8 , **FBI** 7 , **LEFT** 7 , **PRESIDENT** 7 , **@CATTURD2:** 7 , **HUNTER** 6 , **TRUMP** 6 , **INTO** 5 , **ELON** 5 , **JOE** 5 , **@HODGETWINS:** 5 , **LIED** 5 , **THAN** 5 , **HOUSE** 4 , **SOME** 4 , **T…RT** 4 , **MUSK** 4 , **OFFICE** 4 , 
+ 
+## What this user tweeted
+ 
+RT @greg_price11: The House Foreign Affairs committee is currently debating a resolution from @RepMTG to audit the tax dollars America has…RT @greg_price11: MTG's resolution failed with all Democrats voting against providing transparency into how nearly $100 billion of our mone…
+ 
+# neverlefteverUSER INFO
+![image](http://pbs.twimg.com/profile_images/1598813648465514496/NCCZmCMH_normal.jpg)
+ 
+`User ScreenName:` neverleftever 
+ 
+`User chosen Name:` Absolutely NOT Hunky Heathen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 02 22:56:48 +0000 2022 
+ 
+`User Description?:` Marine, Republican, TERF, Lutheran LCMS 
+ 
+`Followers?: `15 
+ 
+`Following?:` 134 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598813648465514496/NCCZmCMH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 691 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WOMEN** 11 , **PEOPLE** 9 , **US** 8 , **INTO** 8 , **YOU'RE** 8 , **WOMAN** 8 , **BLACK** 8 , **MEN** 8 , **ITS** 7 , **TWITTER** 7 , **THAN** 7 , **LITERALLY** 7 , **SOMEONE** 7 , **POINT** 6 , **ELON** 6 , **KIDS** 6 , **MEGHAN** 6 , **MUCH** 6 , **I'M** 6 , **@TIMCAST** 6 , 
+ 
+## What this user tweeted
+ 
+RT @RepMTG: It’s official the Democrats have voted NO to transparency for the American people for an Audit for Ukraine.
+
+But we take over i…
+ 
+# bcat756USER INFO
+![image](http://pbs.twimg.com/profile_images/1599371006442881025/ALv3093i_normal.jpg)
+ 
+`User ScreenName:` bcat756 
+ 
+`User chosen Name:` Cat Black 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 04 07:08:58 +0000 2022 
+ 
+`User Description?:` Free Speech Absolutlist 
+ 
+`Followers?: `27 
+ 
+`Following?:` 137 
+ 
+`User URL?:` None 
+ 
+`Location:` Here for the party!! 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1599371006442881025/ALv3093i_normal.jpg 
+ 
+`Number of tweets excluding replies:` 286 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GRANDOLDMEMES** 11 , **@GRANDOLDMEMES:** 9 , **@CATTURD2:** 9 , **SCOTUS** 8 , **LIZ** 8 , **@TRUMPSHURRICANE** 8 , **@POTUS** 8 , **TWITTER** 7 , **DOES** 7 , **@REALCANDACEO** 7 , **@JOELPOLLAK** 7 , **@K_UTD70** 7 , **YEARS** 6 , **PRESIDENT** 6 , **@LUCIALICIOUS22** 6 , **CASE** 6 , **BRUNSON** 6 , **CHENEY** 6 , **@BARIWEISS** 5 , **HEARD** 5 , 
+ 
+## What this user tweeted
+ 
+RT @johnhackerla: More money to Ukraine 
+
+Meme by @johnhackerla &amp; @DavarEchad https://t.co/XrG4eTRHR0
+ 
+# BakerHolsombackUSER INFO
+![image](http://pbs.twimg.com/profile_images/1599384504153653248/GLHf3oD8_normal.jpg)
+ 
+`User ScreenName:` BakerHolsomback 
+ 
+`User chosen Name:` Lisa Baker Holsomback 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 02 22:52:47 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 43 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 43 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1599384504153653248/GLHf3oD8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 43 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TWITTER** 5 , **@ELIZABLEU:** 4 , **@BEHIZYTWEETS:** 4 , **ELON** 4 , **@MTAIBBI** 4 , **@ACTBRIGITTE:** 3 , **PRESIDENT** 3 , **@ELONMUSK** 3 , **FBI** 3 , **@CITIZENFREEPRES:** 3 , **CITY** 2 , **COMPANIES** 2 , **PROVIDING** 2 , **CLEAR** 2 , **MEDIA** 2 , **BACK** 2 , **DEMOCRATS** 2 , **AGAINST** 2 , **INTO** 2 , **AMERICA** 2 , 
+ 
+## What this user tweeted
+ 
+RT @greg_price11: MTG's resolution failed with all Democrats voting against providing transparency into how nearly $100 billion of our mone…
+ 
+# HannaCh32436399USER INFO
+![image](http://pbs.twimg.com/profile_images/1597711613741891585/YLzfCOdC_normal.jpg)
+ 
+`User ScreenName:` HannaCh32436399 
+ 
+`User chosen Name:` Hanna Chan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 29 21:57:54 +0000 2022 
+ 
+`User Description?:` Business Administration 
+ 
+`Followers?: `2 
+ 
+`Following?:` 86 
+ 
+`User URL?:` None 
+ 
+`Location:` Alberta Canada 
+ 
+`Number of tweets extracted`  : 155 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597711613741891585/YLzfCOdC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 155 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GREAT** 10 , **@MARTINJELSMATNI:** 8 , **NEW** 6 , **@PROFDAVIDHARVEY:** 6 , **ITS** 6 , **FIRST** 6 , **@CMFRICK:** 6 , **LAST** 5 , **DAY** 5 , **MANY** 5 , **TIME** 5 , **@PESMAG:** 5 , **UK** 5 , **CURRENT** 5 , **HEALTH** 5 , **@POLICESCOTLAND** 5 , **@KEITHMARTINMD:** 5 , **@BILLAULET:** 5 , **@ANDRE362:** 4 , **NIGHT** 4 , 
+ 
+## What this user tweeted
+ 
+RT @profdavidharvey: I speak with @profwolff about the Ukraine War (20 minutes). From Marxism for this Moment with @democracyatwrk 
+
+https:…
+ 
+# AFitz59130143USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` AFitz59130143 
+ 
+`User chosen Name:` AFitz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 27 00:57:58 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 68 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 24 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 24 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JACKPOSOBIEC:** 4 , **🚨** 4 , **FBI** 3 , **BIDEN** 3 , **RT** 2 , **UKRAINE** 2 , **BILL** 2 , **TWITTER** 2 , **@LIBSOFTIKTOK:** 2 , **SCOOP:** 2 , **DOCUMENTS** 2 , **REVEAL** 2 , **LAPTOP** 2 , **STORY** 2 , **@TOMFITTON:** 2 , **MEDIA** 2 , **DEFENSE** 2 , **TELL** 2 , **US** 2 , **BREAKING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @RepMTG: It’s official the Democrats have voted NO to transparency for the American people for an Audit for Ukraine.
+
+But we take over i…
+ 
+# RebeQa17USER INFO
+![image](http://pbs.twimg.com/profile_images/1597749010722422786/DFqgiYMr_normal.jpg)
+ 
+`User ScreenName:` RebeQa17 
+ 
+`User chosen Name:` RebeQa 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 00:11:57 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597749010722422786/DFqgiYMr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TWITTER** 10 , **@ELONMUSK:** 9 , **PEOPLE** 7 , **@ELONMUSK** 6 , **@DONALDJTRUMPJR:** 5 , **@CATTURD2:** 4 , **US** 4 , **REALLY** 4 , **BIDEN** 4 , **@DRDREW:** 3 , **@LAURENBOEBERT:** 3 , **MEDIA** 3 , **THAN** 3 , **HAPPENED** 3 , **HUNTER** 3 , **TRULY** 3 , **AVERAGE** 3 , **@KAYLEIGHMCENANY:** 3 , **MANY** 2 , **KIRSTIE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @RepMTG: Audit Ukraine!
+
+The American people deserve to know where every penny has gone because it’s the American people who worked hard…
+ 
+# RebecaA91219857USER INFO
+![image](http://pbs.twimg.com/profile_images/1599955978086121472/AJqkXBvD_normal.jpg)
+ 
+`User ScreenName:` RebecaA91219857 
+ 
+`User chosen Name:` Rebeca Acevedo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Nov 27 01:41:51 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `51 
+ 
+`Following?:` 80 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1599955978086121472/AJqkXBvD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 417 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 211 , **LA** 91 , **EN** 78 , **EL** 77 , **@AFRODITAA1984:** 63 , **LOS** 62 , **QUE** 53 , **Y** 51 , **LAS** 38 , **SE** 34 , **DEL** 33 , **@PUEBLOPATRIOTA:** 28 , **CON** 25 , **UCRANIA** 23 , **UN** 22 , **ES** 19 , **POR** 19 , **AL** 18 , **PARA** 17 , **SU** 15 , 
+ 
+## What this user tweeted
+ 
+RT @GeromanAT: Ukraine is going to lose this war - that is a fact.
+It is on US to decide if it will be a devastating defeat - with 100s of…
+ 
+# joselui94546044USER INFO
+![image](http://pbs.twimg.com/profile_images/1597784950249426944/N3qQFJgE_normal.jpg)
+ 
+`User ScreenName:` joselui94546044 
+ 
+`User chosen Name:` joseluis 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Nov 28 18:17:13 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597784950249426944/N3qQFJgE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 586 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOL** 19 , **:)** 18 , **@TROLLFOOTBALL:** 15 , **@JOSELUI94546044:** 12 , **JAPAN** 12 , **GOAL** 11 , **PENALTY** 11 , **POLAND** 10 , **FIRST** 9 , **U** 9 , **NEW** 9 , **FUCK** 9 , **FRANCE** 9 , **WORLD** 8 , **CUP** 8 , **SPAIN** 8 , **@LUI62240380:** 7 , **MAKE** 7 , **PLAY** 7 , **TEAM** 7 , 
+ 
+## What this user tweeted
+ 
+RT @officejjsmart: Guys, it’s been nearly 10 months of war and I sincerely appreciate that you’ve put Ukraine first - even ahead of persona…RT @strategywoman: 12:24 am in #Kyiv 
+
+Snow
+Night. 
+I wonder how many people on Twitter still support Ukraine. 
+It’s important to know. 
+I’…RT @FinancialTimes: Ukraine’s president Volodymyr Zelenskyy is the FT’s person of the year 2022. The 44-year-old has earnt a place in histo…RT @NOELreports: On the day of the Armed Forces of Ukraine, president Zelenskyi thanks all the soldiers. He stands at the entrance of Slovi…
+ 
+# justjonesy_nowUSER INFO
+![image](http://pbs.twimg.com/profile_images/1599976518754746368/p61_JW16_normal.jpg)
+ 
+`User ScreenName:` justjonesy_now 
+ 
+`User chosen Name:` JustJonesyNow 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 06 03:43:54 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `14 
+ 
+`Following?:` 104 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1599976518754746368/p61_JW16_normal.jpg 
+ 
+`Number of tweets excluding replies:` 421 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PNJABAN** 38 , **@BARIWEISS** 30 , **BAKER** 26 , **@MTAIBBI** 25 , **@HERSCHELWALKER** 20 , **@KLOEFFLER** 19 , **TWITTER** 18 , **@NEONFLAG** 13 , **FILES** 13 , **@JACKPOSOBIEC** 12 , **FBI** 10 , **@MTAIBBI:** 10 , **@JUSTJONESY_NOW** 9 , **I'M** 9 , **RNC** 9 , **US** 9 , **JAMES** 8 , **NEED** 8 , **@GREG_PRICE11** 7 , **I’M** 7 , 
+ 
+## What this user tweeted
+ 
+@greg_price11 #ShameOnGerryConnolly and all of the #Democrats for NOT VOTING TO PROVIDE TRANSPARENCY FOR THE AMERIC… https://t.co/EuLPoHfZWTRT @greg_price11: MTG's resolution failed with all Democrats voting against providing transparency into how nearly $100 billion of our mone…RT @greg_price11: The House Foreign Affairs committee is currently debating a resolution from @RepMTG to audit the tax dollars America has…
+ 
+# herjestalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1598135936738422789/xv912Yc__normal.jpg)
+ 
+`User ScreenName:` herjestal 
+ 
+`User chosen Name:` Hermi Catotal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 01 02:01:48 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `36 
+ 
+`Following?:` 85 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 81 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598135936738422789/xv912Yc__normal.jpg 
+ 
+`Number of tweets excluding replies:` 81 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**JUSTICEFORYOO** 35 , **STOPCHURCHPERSECUTION** 32 , **STOPHUMANRIGHTSABUSE** 28 , **STOPTHEEXTRADITIONOFKEITHHYOO…** 27 , **@VOICESOFEBC:** 10 , **KEITH** 7 , **SOUTH** 7 , **PLEASE** 7 , **US** 7 , **HELP** 7 , **YOO** 6 , **JUSTICEFORSEWOLVICTIMS** 6 , **@VOICESOFEBC** 5 , **POLITICAL** 5 , **VOICESOFEBC** 5 , **STOPHUMANRIGHTSABUSE…** 5 , **GOVERNMENT** 4 , **SEWOL** 4 , **PEOPLE** 4 , **SIGN** 4 , 
+ 
+## What this user tweeted
+ 
+RT @UN_HRC: The head of the @UNHumanRights Office @volker_turk called for an end to the war in #Ukraine during his first visit to the count…
+ 
+# OldRadioDude2USER INFO
+![image](http://pbs.twimg.com/profile_images/1598507809737433089/d5cZ9JY4_normal.jpg)
+ 
+`User ScreenName:` OldRadioDude2 
+ 
+`User chosen Name:` OldRadioDude™ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 02 02:02:41 +0000 2022 
+ 
+`User Description?:` Classic Cars, Rock, Motown; WOGL (retired), WPHT, WMMR, WIOQ, KYW, WBAP, KJKK, WCBS, KLUV, KRLD, KVIL; Married; Adopted by TX! 🎧📻 @JackInDFW on Truth Social 
+ 
+`Followers?: `265 
+ 
+`Following?:` 684 
+ 
+`User URL?:` None 
+ 
+`Location:` Texas 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598507809737433089/d5cZ9JY4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 926 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BACK** 8 , **DAY** 8 , **TWITTER** 8 , **PRESIDENT** 7 , **GOT** 7 , **BIDEN** 7 , **AFTER** 7 , **PEOPLE** 7 , **GO** 6 , **HE'S** 6 , **CORRUPT** 6 , **YEARS** 5 , **IGNORANT** 5 , **MOST** 5 , **@BPUNION:** 5 , **TRUMP** 5 , **GOING** 4 , **@AGHUFF:** 4 , **JESSE** 4 , **DEMOCRATS** 4 , 
+ 
+## What this user tweeted
+ 
+How come the Democrats said we couldn’t afford to pay $6 billion to finish the border wall, but are willing to send… https://t.co/zqSnEAHte5
+ 
+# HollyNowelll2USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` HollyNowelll2 
+ 
+`User chosen Name:` Holly Nowell 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 13:32:22 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@GREG_PRICE11:** 1 , **MTG'S** 1 , **RESOLUTION** 1 , **FAILED** 1 , **DEMOCRATS** 1 , **VOTING** 1 , **AGAINST** 1 , **PROVIDING** 1 , **TRANSPARENCY** 1 , **INTO** 1 , **NEARLY** 1 , **$100** 1 , **BILLION** 1 , **MONE…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @greg_price11: MTG's resolution failed with all Democrats voting against providing transparency into how nearly $100 billion of our mone…
+ 
+# Mohamed_E_MutalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1597608735920332803/ZGe9c4Sy_normal.jpg)
+ 
+`User ScreenName:` Mohamed_E_Mutal 
+ 
+`User chosen Name:` Mohamed Mutal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Nov 29 14:58:05 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 57 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 83 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597608735920332803/ZGe9c4Sy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 83 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**و** 10 , **US** 6 , **لا** 6 , **HE'S** 5 , **في** 5 , **القرآن** 5 , **BLACK** 5 , **SOLDIERS** 5 , **GIVE** 5 , **SEATS** 5 , **NAZI** 5 , **PRISONERS** 5 , **WAR** 5 , **HEAR** 4 , **KANYE** 4 , **YET** 4 , **MAKE** 4 , **WHAT'S** 4 , **من** 4 , **انا** 4 , 
+ 
+## What this user tweeted
+ 
+@OnsalaBob @TOOEdit He's old news. It's Yeism now. You need to upgrade. The ground shifted. Race realism ended in t… https://t.co/tC94KFPm5j
+ 
+# la_lany891USER INFO
+![image](http://pbs.twimg.com/profile_images/1598808994432405505/IytuQpzC_normal.png)
+ 
+`User ScreenName:` la_lany891 
+ 
+`User chosen Name:` La Lans 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 02 22:39:03 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 71 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598808994432405505/IytuQpzC_normal.png 
+ 
+`Number of tweets excluding replies:` 72 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TWITTER** 10 , **@JACKPOSOBIEC:** 4 , **FILES** 4 , **FBI** 4 , **@PAPITRUMPO:** 4 , **BIDEN** 4 , **I’M** 4 , **MUSK** 4 , **@TOMFITTON:** 4 , **JAMES** 3 , **GOVERNMENT** 3 , **TELL** 3 , **AMERICAN** 3 , **@REALJAMESWOODS:** 3 , **STILL** 3 , **WHICH** 3 , **WHERE** 3 , **HELP** 3 , **TRUMP** 3 , **PEOPLE** 3 , 
+ 
+## What this user tweeted
+ 
+@RT_com's account has been withheld in Belgium, Austria, Bulgaria, Sweden, Croatia, Spain, Slovenia, Cyprus, Slovakia, Czech Republic, Romania, Portugal, Poland, Denmark, Netherlands, Estonia, Malta, Luxembourg, Finland, France, Lithuania, Germany, Greece, Latvia, Hungary, Italy, Ireland, United Kingdom in response to a legal demand. Learn more.
+ 
+# RimdziusKatieUSER INFO
+![image](http://pbs.twimg.com/profile_images/1598100953777029120/wfsI3I7c_normal.png)
+ 
+`User ScreenName:` RimdziusKatie 
+ 
+`User chosen Name:` katie rimdzius 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 23:45:33 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `13 
+ 
+`Following?:` 39 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598100953777029120/wfsI3I7c_normal.png 
+ 
+`Number of tweets excluding replies:` 378 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 14 , **INTO** 13 , **@ELONMUSK** 10 , **TWITTER** 9 , **ELON** 9 , **DON'T** 9 , **PEOPLE** 8 , **YEARS** 8 , **US** 8 , **ELECTION** 7 , **@TOMFITTON:** 7 , **BEING** 6 , **DEMOCRATS** 6 , **AGAINST** 6 , **NEW** 6 , **WORLD** 6 , **NEED** 6 , **MONEY** 6 , **TOO** 6 , **@BUZZPATTERSON:** 6 , 
+ 
+## What this user tweeted
+ 
+RT @greg_price11: MTG's resolution failed with all Democrats voting against providing transparency into how nearly $100 billion of our mone…
+ 
+# CarlosF42361893USER INFO
+![image](http://pbs.twimg.com/profile_images/1597752789303808000/6huljkJT_normal.jpg)
+ 
+`User ScreenName:` CarlosF42361893 
+ 
+`User chosen Name:` Carlos Freeman 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 00:33:55 +0000 2022 
+ 
+`User Description?:` If it looks like a banana and smells like a banana, it must be a peach! 
+ 
+`Followers?: `0 
+ 
+`Following?:` 75 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 62 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597752789303808000/6huljkJT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 62 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 7 , **AFTER** 6 , **TRUMP** 5 , **SHOW** 4 , **MAN** 4 , **SOVEREIGN** 3 , **FOUNDERS** 3 , **DOES** 3 , **@ELONMUSK** 3 , **STATES** 3 , **SPEECH** 3 , **NEEDS** 3 , **EVER** 2 , **THANK** 2 , **MOTHER** 2 , **FBI** 2 , **TAKEN** 2 , **2021** 2 , **BIDEN** 2 , **WHICH** 2 , 
+ 
+## What this user tweeted
+ 
+@ananavarro After 7 years of Russian collusion, stormy, Ukraine phone call and bleach, you finally got 87,000 IRS a… https://t.co/umtPKLEdgj
+ 
+# SueBahtYahUSER INFO
+![image](http://pbs.twimg.com/profile_images/1598868347298500609/3i2_Fzf3_normal.jpg)
+ 
+`User ScreenName:` SueBahtYah 
+ 
+`User chosen Name:` Sue Baht Yah 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 03 02:07:27 +0000 2022 
+ 
+`User Description?:` Founder, Teacher & Voice of Spiritual Prime Rib, The Bible Study for Those Who Want More Than Just Milk 
+ 
+`Followers?: `5 
+ 
+`Following?:` 138 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1598868347298500609/3i2_Fzf3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TWITTER** 11 , **@MTAIBBI:** 8 , **BIDEN** 7 , **FBI** 6 , **BAKER** 5 , **NEW** 5 , **HUNTER** 4 , **LAPTOP** 4 , **@BARIWEISS** 4 , **@ELONMUSK** 4 , **HOURS** 3 , **ELON** 3 , **MUSK** 3 , **FORMER** 3 , **FILES** 3 , **SAY** 3 , **2016** 3 , **PEOPLE** 3 , **DIDN'T** 3 , **JOE** 3 , 
+ 
+## What this user tweeted
+ 
+RT @greg_price11: MTG's resolution failed with all Democrats voting against providing transparency into how nearly $100 billion of our mone…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
