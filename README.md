@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **TranslatedCats**  
+The most popular user is: **TJ_Null**  
  
 
-## Is it possible to sleep in such a state? https://t.co/FPZw8gxNnO 
+## It is done! This should have been released a long time ago but I am glad I took the time to finish it. 
+
+For those… https://t.co/th6PRjhijn 
 
   
 
@@ -23,24 +25,24 @@ The most popular user is: **TranslatedCats**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Security Job: DevSecOps Engineer - TOP SECRET Clearance Required - Colorado Springs/Denver/Pueblo… https://t.co/NjPhz5O2eW |
-| RT @EzuieQuotes: "You cannot change anyone, but you can be the reason someone changes." |
-| HIRING: Microsoft Azure Sentinel Security Architect / Remote (USA) https://t.co/j3jqIfvP10 #InfoSec #InfoSecJobs… https://t.co/MYQ1eE4KIF |
+| RT @DailyCTI: Which teams can benefit most from threat intelligence? https://t.co/m1WDSMPQSHChristopher Ahlberg, Ph.D.#CyberThreatInt… |
+| RT @liontarakos: SUPERB COLLECTION OF TOOLS/resourceshttps://t.co/lnQ2KGf6C7 #7com1068 #hacking #rootkit #exploit #infosec #cybersec #Thre… |
+| RT @intel_owl: we have released Greedybear v1.0.1 with support for all TPOT types!https://t.co/UICAC3pfg6#opensource #tpot #honeypot #T… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Shubham_pen** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **TheHackersNews** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 4.88%|
+| #1 Most tweeted to  | **DailyOsint** |
+| #2 Most tweeted to  | **RedPacketSec** |
+| #3 Most tweeted to  | **PolySwarm** |
+| NewProfiles (less than 10 days) | 0.33%  |
+| Tweeters with < 10 followers  | 3.13%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,139 +52,57 @@ The most popular user is: **TranslatedCats**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **HACKING**  |
-| third  | **PENTESTING** |
-| fourth  | **OSCP**  |
-| fifth  | **INFORMATIONSECURITY**  |
+| first  | **OSINT**  |
+| second  | **THREATINTEL**  |
+| third  | **MALWARE** |
+| fourth  | **THREAT**  |
+| fifth  | **DETECTED**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SecurityTrybe: Top Search Engines for Pentesters #CyberAttack #cybercrime #PenTest #Pentesting #CyberSecurity #tech #infosec #hacked… |
+|DHS to review Lapsus$ gangs hacking tactics https://t.co/rSCpES6H14 #threatintel |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TranslatedCats**  |
+| The most retweeted user is: **TJ_Null**  |
 | ------------- |
-| Is it possible to sleep in such a state? https://t.co/FPZw8gxNnO |
+| It is done! This should have been released a long time ago but I am glad I took the time to finish it. For those… https://t.co/th6PRjhijn |
 
 # Potential Fake Accounts
  
-# Megahackar707USER INFO
-![image](http://pbs.twimg.com/profile_images/1600890306823688192/FSJDNHaC_normal.jpg)
+# rverse_engineerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603381126726561794/CynuuAms_normal.jpg)
  
-`User ScreenName:` Megahackar707 
+`User ScreenName:` rverse_engineer 
  
-`User chosen Name:` Mega hacker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 08 16:29:03 +0000 2022 
- 
-`User Description?:` Infosec Geek,hacker , Advance Information Security, Professional Hacking Services, Snapchat,Google, Facebook, Instagram,Twitter 
-https://t.co/LMIhZmdhEy 24/7 
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:` United States 
- 
-`Number of tweets extracted`  : 65 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1600890306823688192/FSJDNHaC_normal.jpg 
- 
-`Number of tweets excluding replies:` 65 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@MEGAHACKAR707:** 25 , **ACCOUNT** 20 , **HACK** 20 , **SNAPCHAT** 18 , **HACKING** 12 , **DM** 11 , **RECOVER** 9 , **AVAILABLE** 9 , **HACKED** 9 , **WALLET** 8 , **RECOVERY** 8 , **CELSIUS** 8 , **GBTC** 8 , **ICERKET** 8 , **I'M** 8 , **INBOX** 7 , **TRUST** 7 , **COINBASE** 7 , **TEXT** 7 , **GUARANTEED** 7 , 
- 
-## What this user tweeted
- 
-RT @Shubham_pen: Best of Hacking Tools
-Credit: https://t.co/W84HfSM18o…
-
-#infosec #cybersecurity #pentesting #oscp  #informationsecurity #h…
- 
-# m_paavaa265USER INFO
-![image](http://pbs.twimg.com/profile_images/1601351460456898561/NFMPe1N1_normal.png)
- 
-`User ScreenName:` m_paavaa265 
- 
-`User chosen Name:` Powered By ASAP Investors 
+`User chosen Name:` reverse_engineer 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Dec 09 23:01:52 +0000 2022 
+`User signup date?:` Wed Dec 14 11:13:24 +0000 2022 
  
-`User Description?:` I hodl you, baby. 🦋 deep talks & NFTs 
+`User Description?:` Reverse Enginnering, Malware Analysis, Exploit Development, Threat Analysis, OSINT. 
  
 `Followers?: `0 
  
-`Following?:` 3 
+`Following?:` 49 
  
-`User URL?:` None 
+`User URL?:` https://t.co/2agXNUY07y 
  
-`Location:`  
+`Location:` 0x90 
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1601351460456898561/NFMPe1N1_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1603381126726561794/CynuuAms_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BROTHER** 1 , **MNTGE** 1 , **PASS** 1 , **MINT** 1 , **FINALLY** 1 , **LIVE!** 1 , **GO** 1 , **GO!** 1 , **❤️‍** 1 , **@VICDOTGOV** 1 , **@THE0BYTHESEA** 1 , **@FKASTREETART** 1 , **@METAVERSELAYMAN…** 1 , **HTTPS://TCO/GQXGT268C8HOPING** 1 , **WIN** 1 , **@NFT_NAPPA** 1 , **@URDREAMGURLXNFT** 1 , **@ETHEREUMMAXIMA2** 1 , **@WAYYVVEE** 1 , **@2167SPA** 1 , 
- 
-## What this user tweeted
- 
-Brother MNTGE pass mint is finally live! Go go! ❤️‍ @vicdotgov @the0bythesea @FKAStreetArt @metaverselayman… https://t.co/gQXGt268c8
- 
-# willybak3d441USER INFO
-![image](http://pbs.twimg.com/profile_images/1601151944420200450/sGrEbidZ_normal.png)
- 
-`User ScreenName:` willybak3d441 
- 
-`User chosen Name:` Masa KIMURA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 09 09:49:04 +0000 2022 
- 
-`User Description?:` Elon ‘12 G’14. Views are my own. 
- 
-`Followers?: `0 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1601151944420200450/sGrEbidZ_normal.png 
- 
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -190,38 +110,39 @@ Brother MNTGE pass mint is finally live! Go go! ❤️‍ @vicdotgov @the0bythes
  
 ## User Top tweeted words 
  
-**BROTHER** 1 , **MNTGE** 1 , **MINT** 1 , **FINALLY** 1 , **LIVE!** 1 , **CLAIM** 1 , **FAST!** 1 , **🤑** 1 , **@OUEDRAOGOCYRI14** 1 , **@GATEIORUSSIA** 1 , **@DKINVESTS** 1 , **@JESUSTRAV777** 1 , **@GR4_2710…** 1 , **HTTPS://TCO/NXQ3VW38KGJUST** 1 , **ENTERED** 1 , **RAFFLE** 1 , **@JAKEZELINGER** 1 , **@UMRS28** 1 , **@NUCLEARVODKA5** 1 , **@INTERNYALE** 1 , 
+**@MALWARE_TRAFFIC** 2 , **@MALWRHUNTERTEAM** 2 , **@JAMESWT_MHT** 2 , **@JAMES_INTHE_BOX** 2 , **DOCUMENT** 2 , **DLL** 2 , **VAGABOND** 1 , **BEST** 1 , **SHOWS** 1 , **NETFLIX** 1 , **WATCH** 1 , **REALLY** 1 , **WINS** 1 , **HEART** 1 , **💖** 1 , **HTTPS://TCO/OI7J0HUKRQ@ARKBIRD_SOLG** 1 , **@SHADOWCHASING1** 1 , **THOUGHT** 1 , **RECENT** 1 , **CAMPAIGN** 1 , 
  
 ## What this user tweeted
  
-Brother MNTGE mint is finally live! Claim fast! 🤑 @OUEDRAOGOCyri14 @gateiorussia @dkinvests @JesusTrav777 @Gr4_2710… https://t.co/NXQ3vW38kG
+Thread: North Korean "Lazarus" APT group is being targeting with phishing password protected document.
+Document is… https://t.co/zSHmIKfmra
  
-# ZenaidaBashiri2USER INFO
-![image](http://pbs.twimg.com/profile_images/1603520697598361603/qejrn2Kd_normal.png)
+# cema_labsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603058774851436548/KKaioqwS_normal.jpg)
  
-`User ScreenName:` ZenaidaBashiri2 
+`User ScreenName:` cema_labs 
  
-`User chosen Name:` Zenaida Bashirian 
+`User chosen Name:` CEMA Labs 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 15 22:41:29 +0000 2022 
+`User signup date?:` Wed Dec 14 15:01:09 +0000 2022 
  
-`User Description?:` #Arts Suddenly, the consciousness of our compatriots is not closed by propaganda! #Apes 
+`User Description?:` Teaching the fundamentals and building on the skills and knowledge of the cyber/EM operator. 
  
-`Followers?: `4 
+`Followers?: `2 
  
-`Following?:` 2 
+`Following?:` 116 
  
-`User URL?:` None 
+`User URL?:` https://t.co/zkETgCtMu9 
  
-`Location:` No Wars ! 
+`Location:` McLean, VA 
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1603520697598361603/qejrn2Kd_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1603058774851436548/KKaioqwS_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -229,36 +150,36 @@ Brother MNTGE mint is finally live! Claim fast! 🤑 @OUEDRAOGOCyri14 @gateiorus
  
 ## User Top tweeted words 
  
-**WORK** 1 , **INFOSEC** 1 , **FOCUSED** 1 , **TRANSFORMING** 1 , **MEASURING** 1 , **SECURITY** 1 , **PARTICULARLY** 1 , **CULTURE** 1 , **LEADERSHIP** 1 , **STUFF** 1 , **THAT'S** 1 , **HA…** 1 , **HTTPS://TCO/VFN9B6UCKZ** 1 , 
+**DIGITAL** 3 , **MILITARY-GRADE** 2 , **SIGNATURE** 2 , **REDUCTION** 2 , **COURSE** 2 , **SECURING** 2 , **DAILY** 2 , **LANDSCAPE** 2 , **TAUGHT** 2 , **@TESLACONOMICS** 2 , **RT** 1 , **@CYBSECBOT:** 1 , **PAST** 1 , **24** 1 , **HOURS** 1 , **3905** 1 , **IOC'S** 1 , **SUBMITTED** 1 , **QAKBOT** 1 , **MOST** 1 , 
  
 ## What this user tweeted
  
-I work in InfoSec, focused on transforming &amp; measuring security, particularly culture, leadership &amp; stuff that's ha… https://t.co/VfN9B6Uckz
+Excited to announce we are #OpenForBusiness. Providing courses in Social Engineering, Digital Force Protection, EW-… https://t.co/2OXbLS6htb
  
-# cyber0doctorUSER INFO
-![image](http://pbs.twimg.com/profile_images/1600128131859447809/fKRCRnzA_normal.jpg)
+# cyberresgalaxyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1601282297843527680/uxkEEa2n_normal.jpg)
  
-`User ScreenName:` cyber0doctor 
+`User ScreenName:` cyberresgalaxy 
  
-`User chosen Name:` Steven Huan 
+`User chosen Name:` @CyberResGalaxy 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Dec 06 13:55:33 +0000 2022 
+`User signup date?:` Fri Dec 09 18:05:10 +0000 2022 
  
-`User Description?:` Infosec enthusiast 
+`User Description?:` Follow us for the threat intel bulletins from CyberRes Galaxy, the new threat hunting platform from @MicroFocusSec. Sign up today! 
  
-`Followers?: `0 
+`Followers?: `7 
  
-`Following?:` 7 
+`Following?:` 34 
  
-`User URL?:` None 
+`User URL?:` https://t.co/XPYpDIpTnC 
  
 `Location:`  
  
 `Number of tweets extracted`  : 14 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1600128131859447809/fKRCRnzA_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1601282297843527680/uxkEEa2n_normal.jpg 
  
 `Number of tweets excluding replies:` 14 
  
@@ -268,454 +189,39 @@ I work in InfoSec, focused on transforming &amp; measuring security, particularl
  
 ## User Top tweeted words 
  
-**INFOSEC** 3 , **@IWANBUCHLER:** 3 , **@BASTIONNE1:** 2 , **ZEROTRUST** 2 , **DATAPROTECTION** 2 , **DATAPRIVACY** 2 , **DIGITALTRANSFORMATION** 2 , **CYBERSEC** 2 , **WORK** 2 , **KEEP** 2 , **IDEA** 2 , **STARTUP** 2 , **NEED** 2 , **BASTIONNE** 2 , **GOING** 2 , **HEAR** 2 , **KEYBOARDS** 2 , **RT** 1 , **DOES** 1 , **@BASTIONNE1** 1 , 
+**USING** 5 , **NEW** 4 , **THREATINTELLIGENCE** 3 , **ATTACK** 3 , **US** 2 , **CYBERRESGALAXY** 2 , **SHOWS** 2 , **👉** 2 , **READ** 2 , **FULL** 2 , **MUSTANGPANDA** 2 , **PLUGX** 2 , **VARIATIONS** 2 , **DIPLOMATIC** 2 , **THEMES** 2 , **PUBLIC** 2 , **SECTOR** 2 , **GOVT** 2 , **DETECTED** 2 , **2022-12-12** 1 , 
  
 ## What this user tweeted
  
-RT @Bastionne1: How does @Bastionne1 do #ZeroTrust ?
-#dataprotection #dataprivacy #infosec #DigitalTransformation #CyberSec https://t.co/Ik…RT @hackinarticles: Pic of the Day
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…RT @Nickieyey: ✨ Here is a hub of Offensive Security Cheatsheet!
-
-Huge collection of useful methodologies, #bugbountytips and resources for…
+Do you trust your #ThreatIntelligence solution? Our new on-demand #SecOps webinar shows how to get the most out of… https://t.co/8diLsMIPGQ
  
-# Redd_PanPan414USER INFO
-![image](http://pbs.twimg.com/profile_images/1601152676481343492/wmu7GqBE_normal.png)
+# 0x00erUSER INFO
+![image](http://pbs.twimg.com/profile_images/1600781405134327808/AJwlvYoM_normal.jpg)
  
-`User ScreenName:` Redd_PanPan414 
+`User ScreenName:` 0x00er 
  
-`User chosen Name:` Zhuangziyan.eth 
+`User chosen Name:` Sager ✪ 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Dec 09 09:51:58 +0000 2022 
+`User signup date?:` Wed Dec 07 20:26:28 +0000 2022 
  
-`User Description?:` #NFT 
+`User Description?:` I'm a passionate #Programmer, #Cybersecurity Analyst, and Committer for Nessus, @OpenCV, and @Monero.
+| विवेकख्यातिरविप्लवा हानोपायः| 
  
-`Followers?: `0 
+`Followers?: `45 
  
-`Following?:` 3 
+`Following?:` 200 
  
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1601152676481343492/wmu7GqBE_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BROTHER** 1 , **MNTGE** 1 , **PASS** 1 , **MINT** 1 , **LIVE!** 1 , **LETS** 1 , **GO!** 1 , **❤️‍** 1 , **@ANTON_SECHENOV** 1 , **@NFT_FINGERS** 1 , **@NATIVENAIROBI** 1 , **@DEREKDADDYO11** 1 , **@PULLVINNY…** 1 , **HTTPS://TCO/EFFWQ5PXHLMARY** 1 , **PERFECT** 1 , **ISN'T** 1 , **SHE?I** 1 , **SPEAKING** 1 , **GENERALLY** 1 , **PARTICULAR** 1 , 
- 
-## What this user tweeted
- 
-Brother MNTGE pass mint is live! Lets go! ❤️‍ @Anton_Sechenov @NFT_Fingers @nativenairobi @derekdaddyo11 @PullVinny… https://t.co/EfFwQ5PXHl
- 
-# MC_Lele1USER INFO
-![image](http://pbs.twimg.com/profile_images/1602191325033635843/nKIJFh1U_normal.jpg)
- 
-`User ScreenName:` MC_Lele1 
- 
-`User chosen Name:` Lewis 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 12 06:25:07 +0000 2022 
- 
-`User Description?:` •Web developer
-•UX researcher
-•with God all things is possible 
- 
-`Followers?: `50 
- 
-`Following?:` 126 
- 
-`User URL?:` None 
- 
-`Location:` Kigali 
- 
-`Number of tweets extracted`  : 23 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1602191325033635843/nKIJFh1U_normal.jpg 
- 
-`Number of tweets excluding replies:` 23 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DIGICENTERRW** 6 , **@BICTRWANDA:** 5 , **CYBERSECURITY** 4 , **MEETUP** 4 , **RWANDA** 4 , **@CYBERSEC_RWANDA** 4 , **@RWANDAICT** 4 , **@JUDY_INFOSEC** 3 , **@RWICTCHAMBER** 3 , **MEETUPRWANDA** 3 , **DATA** 3 , **@UZARWANDA:** 2 , **BACK!!!** 2 , **FRIDAY** 2 , **16TH** 2 , **DECEMBER** 2 , **2022** 2 , **2:00** 2 , **6:00** 2 , **PM** 2 , 
- 
-## What this user tweeted
- 
-RT @bictrwanda: We are supper excited to host @Judy_infosec as Keynote speaker tomorrow in Cybersecurity Meetup Rwanda #Kigali #meetuprwand…@bictrwanda @Judy_infosec @Cybersec_Rwanda @DigiCenterRW @rwictchamber @RwandaICT @cmu_africa @RICTAInfo… https://t.co/g5RS53ae7K
- 
-# CourtneyNettl15USER INFO
-![image](http://pbs.twimg.com/profile_images/1600528406461956096/e14DCp48_normal.jpg)
- 
-`User ScreenName:` CourtneyNettl15 
- 
-`User chosen Name:` Courtney Nettles 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 07 16:30:26 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1600528406461956096/e14DCp48_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RANDOM** 1 , **LUCKY** 1 , **TAG** 1 , **@LUFFY84741213** 1 , **@VINAY_BA92** 1 , **@J0RDANBELF0RT** 1 , **@RZSHOKRI** 1 , **@ZKKNCC** 1 , **@IBRAHIMIBRA89** 1 , **@FKPVW…** 1 , **HTTPS://TCO/EWM4O2IDNJ2ND** 1 , **BATCH** 1 , **DON’T** 1 , **MISS** 1 , **@HOAREAUHUGO** 1 , **@MRAPENFT** 1 , **@AMBBRET** 1 , **@SATIK72513036** 1 , **@SIMONLI82759277** 1 , **@ZAFARKARIMOV5…** 1 , 
- 
-## What this user tweeted
- 
-2nd batch don’t miss  @HoareauHugo @MrApeNFT @AmbBret @satik72513036 @simonli82759277 @ZafarKarimov5… https://t.co/5gGn7bJiq3
- 
-# CyberCrymenUSER INFO
-![image](http://pbs.twimg.com/profile_images/1600578446924468224/SOSl0Ltr_normal.jpg)
- 
-`User ScreenName:` CyberCrymen 
- 
-`User chosen Name:` CyberCrymen 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 07 19:48:00 +0000 2022 
- 
-`User Description?:` Emo cybersec punk sharing hacking news relevant to Australians and helpful information about cyber crime in Australia.
-
-cybercrymen@infosec.exchange 
- 
-`Followers?: `7 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
+`User URL?:` https://t.co/qD5WIotj95 
  
 `Location:` 127.0.0.1 
  
-`Number of tweets extracted`  : 67 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1600578446924468224/SOSl0Ltr_normal.jpg 
- 
-`Number of tweets excluding replies:` 67 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SECURITY** 8 , **CYBER** 8 , **AUSTRALIA** 7 , **CYBERSECURITY** 5 , **ITS** 4 , **AUSTRALIAN** 4 , **WHICH** 4 , **DATA** 4 , **ONLINE** 3 , **NEW** 3 , **MINISTER** 3 , **COMPANY** 3 , **ANY** 3 , **EASY** 3 , **NUMBER** 3 , **PEOPLE** 3 , **@MEDIBANK** 3 , **TECH** 2 , **STOP** 2 , **PROVIDER** 2 , 
- 
-## What this user tweeted
- 
-RT @TheCyberExpress: A massive outage has affected the firefighter server provider and has limited its operations. Investigation shows that…
- 
-# LarryBoettgerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603299259893399554/KDpD7cCN_normal.png)
- 
-`User ScreenName:` LarryBoettger 
- 
-`User chosen Name:` Larry Boettger 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 07 22:18:10 +0000 2022 
- 
-`User Description?:` Interests include cybersecurity, information technology, sports, fitness, cars, motorcycles, space & various other things. 
- 
-`Followers?: `19 
- 
-`Following?:` 306 
- 
-`User URL?:` https://t.co/rkiKfGwITg 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 18 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603299259893399554/KDpD7cCN_normal.png 
- 
-`Number of tweets excluding replies:` 18 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 9 , **MAP** 8 , **SOME** 6 , **RESOURCES:** 6 , **PDF** 6 , **LINKS** 6 , **RESOURCES** 5 , **SECURITY** 3 , **MIND** 3 , **GUIDE** 2 , **HERE:…** 2 , **APPLICATION** 1 , **HTTPS://TCO/RVA5ASLZGR** 1 , **HTTPS://TCO/PLJ4ONWZ9HRT** 1 , **@PAYLOADARTIST:** 1 , **DEFENDER’S** 1 , **WINDOWS** 1 , **REGISTRY** 1 , **HTTPS://TCO/X4NCCUZMPJ** 1 , **LUKE** 1 , 
- 
-## What this user tweeted
- 
-RT @payloadartist: The Defender’s Guide to the Windows Registry
-
-https://t.co/x4nCcUZMPJ
-
-By Luke Paine
-
-#infosec #hacking #pentesting #cyb…
- 
-# ladyvorsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603466678767128590/7deoB6F3_normal.jpg)
- 
-`User ScreenName:` ladyvors 
- 
-`User chosen Name:` Munki 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 19:00:17 +0000 2022 
- 
-`User Description?:` Cyber Security Professional + #OSINT enthusiast + Private Investigations 
- 
-`Followers?: `1 
- 
-`Following?:` 56 
- 
-`User URL?:` None 
- 
-`Location:` California  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603466678767128590/7deoB6F3_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**OSINT** 3 , **FAKE** 3 , **TOOLS** 2 , **@OSINTBEAR** 1 , **PRESSURE!** 1 , **ENJOY** 1 , **CONTENT** 1 , **:)RT** 1 , **@ANONYMOUSH4CK35:** 1 , **PLAYING** 1 , **KEY** 1 , **ROLE** 1 , **SAVING** 1 , **UKRAINE** 1 , **LEARN** 1 , **USE** 1 , **HERE** 1 , **HACKERS-ARISE** 1 , **LARGEST** 1 , **REPOSITORIE…RT** 1 , 
- 
-## What this user tweeted
- 
-RT @thebinarybot: List of OSINT tools that can aid your investigation if you come across a suspicious URL or IP address.
-
-🧵👇
-
-#osint #infos…
- 
-# parsecsoprivacyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603436879357026304/_evINUig_normal.jpg)
- 
-`User ScreenName:` parsecsoprivacy 
- 
-`User chosen Name:` Parsecs of Privacy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 17:04:59 +0000 2022 
- 
-`User Description?:` Privacy Issues, though small and mighty, will eventually be writ large in every single device. 
- 
-`Followers?: `2 
- 
-`Following?:` 31 
- 
-`User URL?:` None 
- 
-`Location:` Midwest USA 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603436879357026304/_evINUig_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PRIVACY** 5 , **@TEACHPRIVACY:** 4 , **UPDATED** 2 , **INFORMATION** 2 , **MOST** 2 , **TRAINING** 2 , **COURSES** 2 , **@PRIVACYPROS:** 2 , **(VIA** 2 , **@DAILYDASHBOARD)** 2 , **RT** 1 , **@WHIOTV:** 1 , **“THIS** 1 , **CRAZY** 1 , **I’M** 1 , **TRULY** 1 , **BLESSED"** 1 , **LORI** 1 , **JANES** 1 , **HTTPS://TCO/3ADYJYUIOWRT** 1 , 
- 
-## What this user tweeted
- 
-RT @TeachPrivacy: The California Privacy Rights Act Brings New Data Requirements for Employers in 2023 https://t.co/WZHoUZl96C
- #infosec vi…
- 
-# ShreyChaturUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603040783229067264/zujRoce5_normal.jpg)
- 
-`User ScreenName:` ShreyChatur 
- 
-`User chosen Name:` Shrey Chaturvedi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 14 14:54:02 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 36 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603040783229067264/zujRoce5_normal.jpg 
- 
-`Number of tweets excluding replies:` 36 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SUBMITTED** 19 , **@JEEFAIRATTEMPT:** 15 , **TO:** 12 , **DATE:** 12 , **2022** 12 , **APPLICANT:** 12 , **JEEADVANCED2023** 12 , **IIT** 11 , **DIRECTOR** 10 , **@RAJMARAIYA6** 9 , **JEE** 8 , **OCTOBER** 8 , **ASPIRANTS** 7 , **@OFFICIAL_AISU:** 6 , **REPRESENTATION** 6 , **(JEE** 6 , **ASPIRANT)** 6 , **BEHALF** 6 , **@DG_NTA** 4 , **@ADVAITABHINAV:** 4 , 
- 
-## What this user tweeted
- 
-RT @hetmehtaa: What is the one piece of advice you would give to a beginner in Cyber Security? 
-
- #infosec
- 
-# otrsharifaminuUSER INFO
-![image](http://pbs.twimg.com/profile_images/1600088094312636416/zeny4mn1_normal.jpg)
- 
-`User ScreenName:` otrsharifaminu 
- 
-`User chosen Name:` 👑OTR $HARIF💰 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 06 11:01:47 +0000 2022 
- 
-`User Description?:` Get The Molla 💰 And The Birches Will Start Chasing 🏃‍♀️ You 
- 
-`Followers?: `33 
- 
-`Following?:` 233 
- 
-`User URL?:` None 
- 
-`Location:` Queens, NY 
- 
-`Number of tweets extracted`  : 18 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1600088094312636416/zeny4mn1_normal.jpg 
- 
-`Number of tweets excluding replies:` 18 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TV3_GHANA:** 3 , **DON'T** 3 , **@MME_IT:** 2 , **HIP** 2 , **POPO** 2 , **TAMUS** 2 , **LONG** 2 , **FEEL** 2 , **FINANCIAL** 2 , **MATTER** 2 , **RT** 1 , **IRANIAN** 1 , **HACKER** 1 , **GROUP** 1 , **BECOMES** 1 , **FIRST** 1 , **KNOWN** 1 , **APT** 1 , **WEAPONIZE** 1 , **DNS-OVER-HTTPS** 1 , 
- 
-## What this user tweeted
- 
-RT @MME_IT: Iranian #hacker group becomes first known #APT to weaponize DNS-over-HTTPS (DoH)
-
-https://t.co/giYFtgiEBu
-
-#infosec #cybersecur…
- 
-# RiverRidleyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1600243647387164686/WiTcotHm_normal.jpg)
- 
-`User ScreenName:` RiverRidley 
- 
-`User chosen Name:` River Ridley 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 06 21:38:23 +0000 2022 
- 
-`User Description?:` Writer 
- 
-`Followers?: `13 
- 
-`Following?:` 107 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1600243647387164686/WiTcotHm_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1600781405134327808/AJwlvYoM_normal.jpg 
  
-`Number of tweets excluding replies:` 647 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LOVE** 25 , **DON’T** 13 , **PEOPLE** 10 , **I’M** 9 , **GOING** 7 , **NEED** 6 , **THAT’S** 6 , **SOME** 6 , **@BILLYM2K** 5 , **VERY** 5 , **BEING** 5 , **GO** 5 , **REALLY** 5 , **DOWN** 4 , **TOO** 4 , **GETTING** 4 , **UK** 4 , **BRAIN** 4 , **FEEL** 4 , **EVEN** 4 , 
- 
-## What this user tweeted
- 
-Zac and Charlie do 100% of their thinking in their bone marrow, which means they have bank vault level brain infose… https://t.co/CKJdA6MiQ1
- 
-# 0bihubUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603362299116494850/R_GHbVu-_normal.jpg)
- 
-`User ScreenName:` 0bihub 
- 
-`User chosen Name:` Obihub 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 12:08:23 +0000 2022 
- 
-`User Description?:` Connecting drone enthusiasts with cutting-edge software development enthusiasts 
- 
-`Followers?: `4 
- 
-`Following?:` 26 
- 
-`User URL?:` https://t.co/mBebcQwpct 
- 
-`Location:` Worldwide 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603362299116494850/R_GHbVu-_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 349 
  
 
  
@@ -723,133 +229,13 @@ Zac and Charlie do 100% of their thinking in their bone marrow, which means they
  
 ## User Top tweeted words 
  
-**PYTHON** 3 , **SOFTWARE** 3 , **FLASHING** 2 , **LIGHTS** 2 , **MAKE** 2 , **DAY** 2 , **CYBERSECURITY** 2 , **AWS** 1 , **CHALICE** 1 , **SERVERLESS** 1 , **MICROFRAMEWORK** 1 , **MAKES** 1 , **EASY** 1 , **CREATE** 1 , **DEPLOY** 1 , **MANAGE** 1 , **APIS** 1 , **AN…** 1 , **HTTPS://TCO/XLPRW6Y0HUAS** 1 , **PROGRAMMER** 1 , 
+**PYTHON** 13 , **USE** 12 , **PROGRAMMING** 11 , **CODE** 11 , **DEVELOPER** 9 , **CODING** 8 , **SOFTWARE** 8 , **JAVASCRIPT** 8 , **HACKER** 7 , **PROGRAMMER** 7 , **LINUX** 7 , **SHELL** 7 , **LEARNING** 6 , **MAKE** 6 , **START** 6 , **ANALYTICS** 6 , **WEBSITE** 6 , **CSS** 6 , **DON’T** 5 , **KEEP** 5 , 
  
 ## What this user tweeted
  
-RT @hackinarticles: Pic of the Day
+RT @DailyOsint: If you need an #OSINT #tool for different types of research,
 
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…
- 
-# LuxuryRusticUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603339704115630084/TzRSRlZj_normal.jpg)
- 
-`User ScreenName:` LuxuryRustic 
- 
-`User chosen Name:` Remote Rustic Luxury 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 10:41:18 +0000 2022 
- 
-`User Description?:` Working remotely? We are your connection to relocating to KE. #MagicalKenya 
- 
-`Followers?: `0 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:` Nairobi, Kenya 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603339704115630084/TzRSRlZj_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SALE** 7 , **•** 6 , **NAIVASHA** 5 , **HOUSE** 5 , **3** 3 , **BEDROOM** 3 , **LAKE** 3 , **@KORIRPROPERTY:** 3 , **LOCATED** 3 , **WORK** 3 , **VILLA** 2 , **VILLAS** 2 , **SOUTH** 2 , **4-BEDROOM** 2 , **LODGE** 2 , **DIANI** 2 , **REMOTE** 2 , **NEVER** 2 , **RT** 1 , **@RYDENINTL:** 1 , 
- 
-## What this user tweeted
- 
-RT @Paula_Piccard: Remote work guide Do's &amp; Don'ts
-
-#DataSecurity #Privacy #100DaysOfCode #CloudSecurity
-#MachineLearning #Phishing #Ransom…
- 
-# PivotSecTeamUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603340230664552448/iDIjgYGB_normal.jpg)
- 
-`User ScreenName:` PivotSecTeam 
- 
-`User chosen Name:` P.I.V.O.T Security 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 10:33:41 +0000 2022 
- 
-`User Description?:` Protecting businesses from cyber threats with cutting-edge security solutions. Follow us for the latest in cyber security news and tips 
- 
-`Followers?: `4 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:` India 
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603340230664552448/iDIjgYGB_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SECURITY** 2 , **READY** 1 , **CYBER** 1 , **GAME** 1 , **NEXT** 1 , **LEVEL?** 1 , **ENROLL** 1 , **UDEMY** 1 , **COURSE** 1 , **LEARN** 1 , **DEFEND** 1 , **AGAINS…** 1 , **HTTPS://TCO/QWBJEUPPXXCYBER** 1 , **ISN'T** 1 , **PROTECTING** 1 , **BUSINESS** 1 , **TAKING** 1 , **CONTROL** 1 , **FIGHTING** 1 , **BACK** 1 , 
- 
-## What this user tweeted
- 
-Cyber security isn't just about protecting your business - it's about taking control and fighting back. Follow… https://t.co/A6ehSF9G0N
- 
-# infosec_AUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603055380229017600/7V3i-n9c_normal.jpg)
- 
-`User ScreenName:` infosec_A 
- 
-`User chosen Name:` \____ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 13 18:15:31 +0000 2022 
- 
-`User Description?:` Cybersecurity enthusiast 
- 
-`Followers?: `5 
- 
-`Following?:` 98 
- 
-`User URL?:` None 
- 
-`Location:` Localhost 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603055380229017600/7V3i-n9c_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HELLO** 1 , **WORLD** 1 , 
- 
-## What this user tweeted
- 
-Hello world
+Mr.Holmes allows you to #investigate social accounts, phone n…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
