@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **sternenko**  
  
 
-## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This… https://t.co/9kCO6ugG3G 
+## Russians executed civilians in Luhansk region, Ukraine. Publicly and demonstratively, for the whole world to see.… https://t.co/0JlJNnDn1g 
 
   
 
@@ -25,25 +23,25 @@ This… https://t.co/9kCO6ugG3G
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Shared: Drupal Releases Security Updates to Address Vulnerabilities in H5P and File (Field) Paths https://t.co/A6aaYFUi5D #WinObsWiKi |
-| RT @sisinerdtweets: For anyone interested in DevOps, Security, this is your chance to grab this FREE learning plan by @safestack You'll l… |
-| RT @ovationamericas: #Mozilla released updates addressing several vulnerabilities impacting #Thunderbird, #FirefoxESR, and #Firefox. If exp… |
+| RT @jcokechukwu: You’re in Africa feeling oppressed &amp; crying day &amp; night for freedom, but don’t wanna hear about Russia/Ukraine war. Really… |
+| RT @KyivIndependent: ⚡️Two Russian Oniks missiles shot down over Odesa. Ukraine shot down the missiles on the morning of Dec. 17, Ukraine… |
+| RT @AZgeopolitics: 🚨🇷🇺🚀🇺🇦Air alerts over Ukraine 11:30 am local time...Ukraine media advice people to go to shelter immediately https://t.c… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **proofaudit** |
-| #3 Most tweeted to  | **TheHackersNews** |
-| NewProfiles (less than 10 days) | 1.16%  |
-| Tweeters with < 10 followers  | 5.14%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **McFaul** |
+| #2 Most tweeted to  | **KyivIndependent** |
+| #3 Most tweeted to  | **caslernoel** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 7.5%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -52,58 +50,57 @@ This… https://t.co/9kCO6ugG3G
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **INFOSEC**  |
-| third  | **PENTESTING** |
-| fourth  | **OSCP**  |
-| fifth  | **CYBERSECURITYTIPS**  |
+| first  | **UKRAINE**  |
+| second  | **RUSSIA**  |
+| third  | **RUSSIAN** |
+| fourth  | **WAR**  |
+| fifth  | **PUTIN**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @hackinarticles: A Traditional Security Architecture#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informati… |
+|RT @uarealitynow: 🇦🇹 Austria will transfer 5 million euros to the Energy Support Fund of Ukraine. The fund, created by the Ministry of Ener… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **sternenko**  |
 | ------------- |
-| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
+| Russians executed civilians in Luhansk region, Ukraine. Publicly and demonstratively, for the whole world to see.… https://t.co/0JlJNnDn1g |
 
 # Potential Fake Accounts
  
-# KR1ST11N_B1GW1NUSER INFO
-![image](http://pbs.twimg.com/profile_images/1600863903457607681/l5C3wym__normal.jpg)
+# iviews_USER INFO
+![image](http://pbs.twimg.com/profile_images/1602486161565683712/yVvoCLtY_normal.jpg)
  
-`User ScreenName:` KR1ST11N_B1GW1N 
+`User ScreenName:` iviews_ 
  
-`User chosen Name:` ⚽fe BSC fre tag 💫 
+`User chosen Name:` Incog 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 08 14:42:45 +0000 2022 
+`User signup date?:` Thu Dec 08 06:23:10 +0000 2022 
  
-`User Description?:` slalu sabar berdoa tawAkal_ 🙏🙏
-@/wangi_lucky96 ke suspennd 
+`User Description?:` World views. Russian Bot (apparently) 
  
-`Followers?: `131 
+`Followers?: `11 
  
-`Following?:` 889 
+`Following?:` 54 
  
 `User URL?:` None 
  
-`Location:` Jawa Timur, Indonesia 
+`Location:` Australia  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 122 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1600863903457607681/l5C3wym__normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1602486161565683712/yVvoCLtY_normal.jpg 
  
-`Number of tweets excluding replies:` 2709 
+`Number of tweets excluding replies:` 123 
  
 
  
@@ -111,77 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**RT** 108 , **FOLLOW** 68 , **+** 53 , **HOURS** 44 , **•** 37 , **~** 31 , **GIVEAWAY** 30 , **IDR** 24 , **$50** 21 , **DONERT** 16 , **@FIGHTOUT_** 14 , **6** 14 , **24** 14 , **ENDS** 13 , **$20** 13 , **MINS** 13 , **JOIN** 12 , **3** 12 , **$100** 11 , **RETWEET** 11 , 
+**US** 12 , **TWITTER** 10 , **UKRAINE** 9 , **@ELONMUSK:** 9 , **RUSSIA** 8 , **NATO** 7 , **UKRAINIAN** 7 , **WAR** 6 , **LEGAL** 6 , **ACCOUNT** 6 , **WITHHELD** 5 , **BELGIUM** 5 , **AUSTRIA** 5 , **BULGARIA** 5 , **SWEDEN** 5 , **CROATIA** 5 , **SPAIN** 5 , **SLOVENIA** 5 , **CYPRUS** 5 , **SLOVAKIA** 5 , 
  
 ## What this user tweeted
  
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
+RT @timand2037: #NATO backed NeoNazi militia in #Ukraine supports #NATO backed #AlQaeda groups in #Syria. Who would have thought? https://t…
  
-# rverse_engineerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603381126726561794/CynuuAms_normal.jpg)
+# TheQueeny777USER INFO
+![image](http://pbs.twimg.com/profile_images/1603683672141578240/pFzlwxNo_normal.jpg)
  
-`User ScreenName:` rverse_engineer 
+`User ScreenName:` TheQueeny777 
  
-`User chosen Name:` reverse_engineer 
+`User chosen Name:` The Queen 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Dec 14 11:13:24 +0000 2022 
+`User signup date?:` Fri Dec 16 09:24:42 +0000 2022 
  
-`User Description?:` Reverse Enginnering, Malware Analysis, Exploit Development, Threat Analysis, OSINT. 
+`User Description?:` Interdimensional being here to help enslave humanity. I await the globalist agenda and the mass genocide of humanity. You will own nothing and be happy. 
  
 `Followers?: `3 
  
-`Following?:` 63 
- 
-`User URL?:` https://t.co/2agXNUY07y 
- 
-`Location:` 0x90 
- 
-`Number of tweets extracted`  : 68 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603381126726561794/CynuuAms_normal.jpg 
- 
-`Number of tweets excluding replies:` 68 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEW** 6 , **OPS** 6 , **MALWARE** 5 , **INJECTION** 4 , **@CYB3ROPS:** 4 , **RANSOMWARE** 4 , **@MALWRHUNTERTEAM** 4 , **@JAMESWT_MHT** 4 , **GITHUB** 3 , **GREAT** 3 , **CAMPAIGN** 3 , **SOME** 3 , **WINDOWS** 3 , **@ARKBIRD_SOLG** 3 , **LINUX** 2 , **@AKACLANDESTINE:** 2 , **PRAGUE** 2 , **@JOUSEFM2:** 2 , **INSPIRED** 2 , **PRINCIPLES** 2 , 
- 
-## What this user tweeted
- 
-RT @HackSysTeam: Check out our new blog post on exploiting PDF reader vulnerabilities! Part 2 features a use-after-free vulnerability in Fo…RT @TrendMicroRSRCH: [1/6] The Cuba #ransomware makes use of ProxyShell- and ProxyLogon-related vulnerabilities to download and execute its…
- 
-# Rashee12479USER INFO
-![image](http://pbs.twimg.com/profile_images/1602422985285324802/5isl99eT_normal.jpg)
- 
-`User ScreenName:` Rashee12479 
- 
-`User chosen Name:` Anki ki Pari 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 12 21:58:29 +0000 2022 
- 
-`User Description?:` Me Bhi Bohat Attached hun : Priyankit ❤️🥺 
- 
-`Followers?: `29 
- 
-`Following?:` 135 
+`Following?:` 39 
  
 `User URL?:` None 
  
-`Location:` Mumbai, India 
+`Location:` Where ever I want  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 64 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1602422985285324802/5isl99eT_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1603683672141578240/pFzlwxNo_normal.jpg 
  
-`Number of tweets excluding replies:` 1161 
+`Number of tweets excluding replies:` 64 
  
 
  
@@ -189,38 +147,38 @@ RT @HackSysTeam: Check out our new blog post on exploiting PDF reader vulnerabil
  
 ## User Top tweeted words 
  
-**BB** 108 , **SENSATION** 101 , **ANKIT** 78 , **PRIYANKART** 60 , **FAN** 57 , **FAVOURITE** 57 , **PRIYANKA** 40 , **GUPTA** 30 , **GUPTART** 24 , **LIFE** 18 , **WAY** 14 , **@ITS_ANKU_:** 14 , **@PRIYANKA_STAN:** 13 , **PEOPLE** 11 , **DONE** 10 , **KEEP** 10 , **PRIYANKIT** 10 , **LOVE** 10 , **@ZAALIM__GIRL:** 10 , **&LT;3** 9 , 
+**!** 20 , **SLAVES** 18 , **DON'T** 10 , **MIND** 7 , **STOP** 6 , **SLAVE** 5 , **TRUTH** 5 , **WOKE** 4 , **TELLING** 4 , **NOTHING** 4 , **US** 4 , **FREE** 4 , **LOOK** 4 , **INDOCTRINATED** 3 , **HE'S** 3 , **@THEFREDS** 3 , **DYSTOPIAN** 3 , **INTO** 3 , **CONTROL** 3 , **OBEDIENT** 3 , 
  
 ## What this user tweeted
  
-RT @ForRubinav: Who says Ankit doesn't show his vulnerabilities. He does. When he hugs Pari when he is tired, exhausted and confused. He do…
+@GordonBrown Why don't government desist with the WEF globalist agenda ! stop sending money to launder in the Ukrai… https://t.co/1hZWXtEAM0
  
-# cakraDwiaryaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603617582644621314/BgI95Ywx_normal.jpg)
+# PetGoaatUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603057390030577668/90svTNzD_normal.jpg)
  
-`User ScreenName:` cakraDwiarya 
+`User ScreenName:` PetGoaat 
  
-`User chosen Name:` kaciptamenangdollar99 
+`User chosen Name:` PetGoat2 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Dec 16 02:49:39 +0000 2022 
+`User signup date?:` Wed Dec 14 16:00:08 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `16 
+`Followers?: `3 
  
-`Following?:` 145 
+`Following?:` 82 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 191 
+`Number of tweets extracted`  : 172 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1603617582644621314/BgI95Ywx_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1603057390030577668/90svTNzD_normal.jpg 
  
-`Number of tweets excluding replies:` 192 
+`Number of tweets excluding replies:` 172 
  
 
  
@@ -228,1513 +186,156 @@ RT @ForRubinav: Who says Ankit doesn't show his vulnerabilities. He does. When h
  
 ## User Top tweeted words 
  
-**RT** 84 , **•** 53 , **FOLLOW** 38 , **REZEKI** 37 , **@PRCTIU:** 36 , **||** 36 , **IDR** 32 , **+** 31 , **ANAK** 27 , **HOURS** 26 , **BISMILLAH** 21 , **$10** 14 , **150000** 13 , **120** 13 , **@JIHANICORN:** 12 , **TAG** 12 , **$50** 12 , **@PRINCESSPROMOS_:** 12 , **ULANG** 11 , **TAHUN** 11 , 
+**LOL** 15 , **CRYPTO** 11 , **@ATLANTA_PRESS** 10 , **@SENWARREN** 9 , **FUCKING** 8 , **@SOLIDLYETH** 8 , **PEOPLE** 7 , **YOU'RE** 7 , **@KINGSFANTOM** 6 , **@ZEROHEDGE** 6 , **@ALGODTRADING** 6 , **I'VE** 5 , **@ELONMUSK** 5 , **@SCOOTERXBT:** 5 , **FTX** 5 , **@CLARENCEWHORLEY** 5 , **GOD** 5 , **MAKE** 5 , **I'M** 5 , **AFTER** 5 , 
  
 ## What this user tweeted
  
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
+@lexfridman @elonmusk Ukraine is a money-laundering cartel, glow honeypot and so are you Lex.
  
-# AndrasZoltanMo1USER INFO
-![image](http://pbs.twimg.com/profile_images/1601823647324422144/hOPOD8Xt_normal.png)
+# C__LagerstromUSER INFO
+![image](http://pbs.twimg.com/profile_images/1602424401990918144/1eQvCwz5_normal.jpg)
  
-`User ScreenName:` AndrasZoltanMo1 
+`User ScreenName:` C__Lagerstrom 
  
-`User chosen Name:` Andras Zoltan Molnar 
+`User chosen Name:` Cecilia Lagerström 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Dec 11 06:18:12 +0000 2022 
+`User signup date?:` Sat Dec 10 00:06:36 +0000 2022 
+ 
+`User Description?:` Married, mom, laboratory health and safety officer.
+👍Politics, democracy, human rights, equality, science. #SupportUkraine 
+ 
+`Followers?: `9 
+ 
+`Following?:` 203 
+ 
+`User URL?:` None 
+ 
+`Location:` Sverige 
+ 
+`Number of tweets extracted`  : 35 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1602424401990918144/1eQvCwz5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 35 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**US** 4 , **PUTIN** 3 , **NUCLEAR** 3 , **RUSSIA** 3 , **I’M** 2 , **UKRAINE** 2 , **GIVEN** 2 , **PUBLIC** 2 , **SQUARE** 2 , **ABSOLUT** 2 , **ACCOUNTS** 2 , **CHANGE** 2 , **RIGHTS** 2 , **@SAMRAMANI2:** 2 , **EUROPEAN** 2 , **COUNTRIES** 2 , **SECURITY** 2 , **TODAY’S** 2 , **MISSILE** 2 , **DON'T** 2 , 
+ 
+## What this user tweeted
+ 
+@McFaul The killing and terrorizing of civilians started when Russian soliders entered Ukraine.RT @andrewmichta: I’m at a loss why there is hesitation about the future status of #Crimea, with some analysts arguing that #Ukraine may ne…
+ 
+# LaurieG02047559USER INFO
+![image](http://pbs.twimg.com/profile_images/1603578880920412161/ZG6UH9X4_normal.jpg)
+ 
+`User ScreenName:` LaurieG02047559 
+ 
+`User chosen Name:` Laurie Garcia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 11 23:51:51 +0000 2022 
+ 
+`User Description?:` photographer, writer, historical research 
+ 
+`Followers?: `0 
+ 
+`Following?:` 84 
+ 
+`User URL?:` None 
+ 
+`Location:` Somewhere in hell USA 
+ 
+`Number of tweets extracted`  : 69 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1603578880920412161/ZG6UH9X4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 69 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ELON** 11 , **MUSK** 10 , **@ELONMUSK** 5 , **RATHER** 4 , **PEOPLE** 4 , **REALLY** 4 , **TWITTER** 3 , **THAN** 3 , **TRUMP** 3 , **OTHER** 3 , **HIMSELF** 2 , **TALKING** 2 , **NEW** 2 , **LOOK** 2 , **THROW** 2 , **AWAY** 2 , **KEY** 2 , **FREAKS** 2 , **THAT’S** 2 , **MEMBER** 2 , 
+ 
+## What this user tweeted
+ 
+Deleting the code for Ukraine was not brilliant, but rather craven. Depraved, aligning himself with dictators and t… https://t.co/yvSzxxvCZT
+ 
+# eugene_luyindaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603923499206250501/sITcLOQG_normal.jpg)
+ 
+`User ScreenName:` eugene_luyinda 
+ 
+`User chosen Name:` luyinda Eugène 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 17 01:19:42 +0000 2022 
+ 
+`User Description?:` Professeur spécialiste de l'éducation de base. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 89 
+ 
+`User URL?:` None 
+ 
+`Location:` Kinshasa RDcongo 
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1603923499206250501/sITcLOQG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LE** 5 , **DE** 5 , **PAS** 4 , **RDC** 4 , **DES** 4 , **PE…RT** 2 , **SPOKE** 2 , **QUI** 2 , **NE** 2 , **WAY** 2 , **LES** 2 , **LA** 2 , **ET** 2 , **RT** 1 , **@KAMALAHARRIS:** 1 , **GREAT** 1 , **HARVEY** 1 , **MILK** 1 , **ONCE** 1 , **SAID:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SecBlinken: Today I spoke with Bulgarian @PresidentOfBG Rumen Radev. We discussed our unwavering support for Ukraine against Russia’s a…
+ 
+# ChiredziRhodieUSER INFO
+![image](http://pbs.twimg.com/profile_images/1602378967847141391/VTUszrLN_normal.jpg)
+ 
+`User ScreenName:` ChiredziRhodie 
+ 
+`User chosen Name:` Andy the Rhodie 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 11 12:29:12 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `130 
- 
-`Following?:` 681 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1601823647324422144/hOPOD8Xt_normal.png 
- 
-`Number of tweets excluding replies:` 953 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ANDRASZOLTANMO1:** 15 , **:** 14 , **@ELONMUSK:** 11 , **PEOPLE** 8 , **FOLLOW** 7 , **@RICKYRICKSMUSIC:** 7 , **TRAILER** 6 , **BACK** 5 , **(YEA** 5 , **ALBUM** 5 , **WIN** 5 , **TWITTER** 5 , **NEW** 5 , **GUYS** 4 , **LOVE** 4 , **@THEBCSTDAY:** 4 , **FAN** 4 , **SOMEONE** 4 , **MAYBE** 4 , **WHERE** 4 , 
- 
-## What this user tweeted
- 
-RT @ESKA_global: Protect your website from hacking and the theft of confidential information, and find vulnerabilities before hackers do. S…
- 
-# kle54606512USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` kle54606512 
- 
-`User chosen Name:` Dean 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 08 03:32:41 +0000 2022 
- 
-`User Description?:` Retired. Exercise daily. Logophile. Intellectually curious. Strong wit. Love science, British cars, red wines, dark chocolate and wire-hair fox terriers. 
- 
-`Followers?: `5 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 297 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 23 , **@ELONMUSK** 22 , **TRUMP** 12 , **COULD** 10 , **PEOPLE** 10 , **DON'T** 10 , **NEVER** 10 , **@RICHARDGRENELL** 9 , **ELECTION** 8 , **GOOD** 8 , **@TOODLESMCGHEE1** 8 , **@REPSWALWELL** 8 , **JOE** 8 , **DEMOCRATS** 7 , **WELL** 7 , **PRESIDENT** 7 , **YOU'RE** 6 , **MANY** 6 , **NAME** 6 , **DOES** 6 , 
- 
-## What this user tweeted
- 
-@arden3_sam @RichardGrenell @AbrahamHamadeh @KariLake @bgmasters @katiehobbs Dominion machines. According to three… https://t.co/ofap2k6jWf
- 
-# longlivejaeyiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603280047426924544/F7kC4hUz_normal.jpg)
- 
-`User ScreenName:` longlivejaeyi 
- 
-`User chosen Name:` vaaa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 06:44:38 +0000 2022 
- 
-`User Description?:` win.. @livelongjaey locked & cant be unlocked 
- 
-`Followers?: `19 
- 
-`Following?:` 444 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603280047426924544/F7kC4hUz_normal.jpg 
- 
-`Number of tweets excluding replies:` 881 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 148 , **FOLLOW** 93 , **IDR** 59 , **HOURS** 56 , **~** 52 , **+** 52 , **•** 42 , **GIVEAWAY** 38 , **||** 30 , **MINS** 26 , **$10** 24 , **$50** 19 , **24** 16 , **6** 14 , **RETWEET** 14 , **3** 13 , **📌RT** 13 , **$20** 12 , **VIA** 11 , **@BUNNIEFIED:** 11 , 
- 
-## What this user tweeted
- 
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
- 
-# bigwindong15USER INFO
-![image](http://pbs.twimg.com/profile_images/1602848716708515843/54YV0dsz_normal.jpg)
- 
-`User ScreenName:` bigwindong15 
- 
-`User chosen Name:` bigwindong 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 14 00:31:17 +0000 2022 
- 
-`User Description?:` Saya bekerja keras karena sadar kalau uang tidak punya kaki buat jalan sendiri kekantong saya🍀🍀🍀🍀☘️☘️☘️☘️😩😩😩😩 
- 
-`Followers?: `22 
- 
-`Following?:` 297 
- 
-`User URL?:` None 
- 
-`Location:` Padang Barat, Indonesia 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1602848716708515843/54YV0dsz_normal.jpg 
- 
-`Number of tweets excluding replies:` 777 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 98 , **DONERT** 54 , **FOLLOW** 41 , **+** 38 , **IDR** 34 , **•** 31 , **||** 28 , **~** 24 , **HOURS** 22 , **GIVEAWAY** 21 , **@PRCTIU:** 18 , **$10** 15 , **MINT** 14 , **MINS** 13 , **@BUNNIEFIED:** 12 , **3** 12 , **QUOTED** 11 , **24** 10 , **:** 10 , **$50** 9 , 
- 
-## What this user tweeted
- 
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
- 
-# BasithalraffiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1601826496452395009/8qWPd3xD_normal.jpg)
- 
-`User ScreenName:` Basithalraffi 
- 
-`User chosen Name:` Efriyanti🍒freetag 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 11 06:23:01 +0000 2022 
- 
-`User Description?:` akun @Oxraafi_bigwin mulai 11 des gk di pkek y,Engga ke lock, habis logout. Ternyata kode yang via pesan masih gak masuk jadi gak ada akses lain jgn rerol plies 
- 
-`Followers?: `32 
- 
-`Following?:` 309 
- 
-`User URL?:` None 
- 
-`Location:` Kota Palembang, Sumatera Selat 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1601826496452395009/8qWPd3xD_normal.jpg 
- 
-`Number of tweets excluding replies:` 726 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 145 , **FOLLOW** 72 , **+** 60 , **IDR** 54 , **•** 48 , **GIVEAWAY** 40 , **~** 34 , **MINS** 30 , **HOURS** 29 , **||** 28 , **$10** 20 , **@PRCTIU:** 18 , **$50** 14 , **@BUNNIEFIED:** 14 , **60** 13 , **120** 13 , **3** 13 , **MAU** 13 , **90** 12 , **VIA** 12 , 
- 
-## What this user tweeted
- 
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
- 
-# 0xmadaamUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603590545317990400/ASro_m6x_normal.jpg)
- 
-`User ScreenName:` 0xmadaam 
- 
-`User chosen Name:` 🌟 madam 🌟 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 03:18:08 +0000 2022 
- 
-`User Description?:` Akun @madamcityx nggak dapat kode verifikasi 16.12.22 💔 Please don't reroll me 🙏 
- 
-`Followers?: `30 
- 
-`Following?:` 154 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603590545317990400/ASro_m6x_normal.jpg 
- 
-`Number of tweets excluding replies:` 361 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 100 , **FOLLOW** 60 , **+** 49 , **HOURS** 42 , **IDR** 29 , **•** 26 , **GIVEAWAY** 25 , **~** 24 , **TG** 21 , **$50** 20 , **MINS** 17 , **BISMILLAH** 16 , **@MADAAM03** 15 , **JOIN** 14 , **||** 14 , **24** 13 , **@CHITAGLORYA3RD:** 12 , **6** 12 , **@FIGHTOUT_** 12 , **YA** 11 , 
- 
-## What this user tweeted
- 
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
- 
-# kurtCaveroUSER INFO
-![image](http://pbs.twimg.com/profile_images/1600680665103548416/1-2iENs7_normal.jpg)
- 
-`User ScreenName:` kurtCavero 
- 
-`User chosen Name:` Betoy #bigwin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 08 02:26:04 +0000 2022 
- 
-`User Description?:` My Acc got suspend this morning
-Finding mutuals , para dima reroll 😭
- I use both data and Wifi, 🍀Manifesting Win From Stake🍀 StakeAcc:CaveroBetoy 
- 
-`Followers?: `50 
- 
-`Following?:` 1359 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1600680665103548416/1-2iENs7_normal.jpg 
- 
-`Number of tweets excluding replies:` 3769 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 106 , **FOLLOW** 69 , **+** 41 , **~** 40 , **GIVEAWAY** 35 , **HOURS** 33 , **IDR** 33 , **•** 31 , **MINS** 24 , **$10** 19 , **||** 18 , **DONE** 16 , **$50** 14 , **@0XLKWINS** 13 , **$20** 13 , **RETWEET** 13 , **✅** 12 , **@0NOWINQUINSERA** 12 , **@BUNNIEFIED:** 12 , **TASK** 12 , 
- 
-## What this user tweeted
- 
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
- 
-# 0x4milkcarrotUSER INFO
-![image](http://pbs.twimg.com/profile_images/1602813643950727168/l0NhzmrT_normal.png)
- 
-`User ScreenName:` 0x4milkcarrot 
- 
-`User chosen Name:` chea 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 12 01:32:42 +0000 2022 
- 
-`User Description?:` new acc, @0x_wangiduit was deactived. 
- 
-`Followers?: `71 
- 
-`Following?:` 384 
- 
-`User URL?:` None 
- 
-`Location:` hunter acc 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1602813643950727168/l0NhzmrT_normal.png 
- 
-`Number of tweets excluding replies:` 634 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 140 , **FOLLOW** 72 , **IDR** 66 , **•** 61 , **+** 45 , **GIVEAWAY** 44 , **~** 43 , **HOURS** 41 , **@SWEENPI** 27 , **VIA** 25 , **MINS** 23 , **||** 19 , **2** 18 , **DRAW** 17 , **$1** 17 , **SALDO** 17 , **TEST** 16 , **₱** 15 , **@SWEENPIRT** 14 , **5000** 14 , 
- 
-## What this user tweeted
- 
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
- 
-# 1ng1nB1gw1n888_USER INFO
-![image](http://pbs.twimg.com/profile_images/1602572205497278464/HhO1cdVi_normal.jpg)
- 
-`User ScreenName:` 1ng1nB1gw1n888_ 
- 
-`User chosen Name:` 91l4n_ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 13 07:45:10 +0000 2022 
- 
-`User Description?:` #SingPentingYakin
-@B0n4v3ntur3888_ its suspend
-@B0n4venture888_ ke lock 
- 
-`Followers?: `52 
- 
-`Following?:` 242 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1602572205497278464/HhO1cdVi_normal.jpg 
- 
-`Number of tweets excluding replies:` 340 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 147 , **+** 76 , **FOLLOW** 70 , **•** 57 , **IDR** 50 , **HOURS** 45 , **||** 41 , **GIVEAWAY** 33 , **~** 24 , **$10** 22 , **@PRCTIU:** 22 , **$50** 20 , **24** 20 , **$30** 18 , **MINT** 18 , **120** 17 , **@CHITAGLORYA3RD:** 16 , **150000** 15 , **MINS** 14 , **3** 13 , 
- 
-## What this user tweeted
- 
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
- 
-# Septian3264USER INFO
-![image](http://pbs.twimg.com/profile_images/1603185917279481856/KtBOJo42_normal.jpg)
- 
-`User ScreenName:` Septian3264 
- 
-`User chosen Name:` Yusuf Freetag (Wangi🍀) 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 00:28:29 +0000 2022 
- 
-`User Description?:` Bismillahirrahmanirrahim buat sampingan 
- 
-`Followers?: `12 
- 
-`Following?:` 224 
- 
-`User URL?:` None 
- 
-`Location:` Tuban, Indonesia 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603185917279481856/KtBOJo42_normal.jpg 
- 
-`Number of tweets excluding replies:` 701 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 169 , **FOLLOW** 95 , **IDR** 74 , **+** 59 , **HOURS** 58 , **•** 55 , **~** 53 , **GIVEAWAY** 49 , **||** 34 , **MINS** 33 , **$10** 21 , **@BUNNIEFIED:** 21 , **60** 19 , **24** 18 , **$50** 17 , **📌RT** 17 , **6** 16 , **VIA** 15 , **ENDS** 15 , **3** 15 , 
- 
-## What this user tweeted
- 
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
- 
-# Yerikho140818USER INFO
-![image](http://pbs.twimg.com/profile_images/1602582248586608641/hM25TD_M_normal.jpg)
- 
-`User ScreenName:` Yerikho140818 
- 
-`User chosen Name:` Yerikho 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 13 08:23:57 +0000 2022 
- 
-`User Description?:` H4 
- 
-`Followers?: `15 
- 
-`Following?:` 382 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1602582248586608641/hM25TD_M_normal.jpg 
- 
-`Number of tweets excluding replies:` 431 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 167 , **FOLLOW** 89 , **+** 66 , **IDR** 66 , **~** 57 , **HOURS** 48 , **•** 43 , **||** 37 , **GIVEAWAY** 33 , **MINS** 26 , **📌RT** 22 , **$10** 19 , **24** 14 , **3** 13 , **4** 13 , **$20** 13 , **$50** 12 , **TWEET** 12 , **120** 12 , **DRAW** 12 , 
- 
-## What this user tweeted
- 
-RT @proofaudit: A smart contract audit is necessary to reduce the risk of bugs or vulnerabilities that could lead to the loss of funds, or…
- 
-# Concepc04410413USER INFO
-![image](http://pbs.twimg.com/profile_images/1603894548517851136/SQlNB5fR_normal.png)
- 
-`User ScreenName:` Concepc04410413 
- 
-`User chosen Name:` Concepcion Connor 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 23:27:12 +0000 2022 
- 
-`User Description?:` do love 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603894548517851136/SQlNB5fR_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# Michell21918266USER INFO
-![image](http://pbs.twimg.com/profile_images/1603871743931736100/eHgjDN60_normal.png)
- 
-`User ScreenName:` Michell21918266 
- 
-`User chosen Name:` Michelle Pickering 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 21:56:34 +0000 2022 
- 
-`User Description?:` loss i need 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603871743931736100/eHgjDN60_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# KirkKaramUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603865743841427457/I0dyUk7I_normal.png)
- 
-`User ScreenName:` KirkKaram 
- 
-`User chosen Name:` Kirk Karam 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 21:32:44 +0000 2022 
- 
-`User Description?:` loss i need 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603865743841427457/I0dyUk7I_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# CynthiaRohrbac1USER INFO
-![image](http://pbs.twimg.com/profile_images/1603860268701962240/DFg7XXQE_normal.png)
- 
-`User ScreenName:` CynthiaRohrbac1 
- 
-`User chosen Name:` Cynthia Rohrbacher 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 21:10:59 +0000 2022 
- 
-`User Description?:` nice have 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603860268701962240/DFg7XXQE_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# PischkeEugeneUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603859008372228097/CUBIwXbK_normal.png)
- 
-`User ScreenName:` PischkeEugene 
- 
-`User chosen Name:` Eugene Pischke 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 21:05:58 +0000 2022 
- 
-`User Description?:` haapy love 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603859008372228097/CUBIwXbK_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# BleepNumbersUSER INFO
-![image](http://pbs.twimg.com/profile_images/1602263386041253888/k7XDWiqx_normal.jpg)
- 
-`User ScreenName:` BleepNumbers 
- 
-`User chosen Name:` Bleep 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 08 02:09:31 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `18 
- 
-`Following?:` 93 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 56 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1602263386041253888/k7XDWiqx_normal.jpg 
- 
-`Number of tweets excluding replies:` 56 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GOVERNMENT** 5 , **@ASHCRYPTOREAL:** 4 , **BITCOIN** 4 , **PEOPLE** 4 , **NEED** 4 , **CONTROL** 4 , **GIVE** 3 , **$1000** 3 , **SYSTEM** 3 , **ACTUALLY** 3 , **MAKE** 3 , **SURE** 3 , **I’M** 3 , **$ETH** 3 , **FOLLOW** 3 , **TWO** 3 , **ACTUAL** 3 , **RT** 2 , **600K** 2 , **5** 2 , 
- 
-## What this user tweeted
- 
-@elonmusk @Timcast #disobey government coercion to use their inefficient and dangerous to privacy system.
-Sweeny is… https://t.co/gahXlCIQsD
- 
-# MarkDel07597590USER INFO
-![image](http://pbs.twimg.com/profile_images/1603841264767668228/GF32w2QE_normal.png)
- 
-`User ScreenName:` MarkDel07597590 
- 
-`User chosen Name:` Mark Delrosario 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 19:55:28 +0000 2022 
- 
-`User Description?:` nice have 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603841264767668228/GF32w2QE_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# JamesSm53686019USER INFO
-![image](http://pbs.twimg.com/profile_images/1603836462377668616/3E8sh3hD_normal.png)
- 
-`User ScreenName:` JamesSm53686019 
- 
-`User chosen Name:` James Smith 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 19:36:22 +0000 2022 
- 
-`User Description?:` do love 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603836462377668616/3E8sh3hD_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# LindaDu49962648USER INFO
-![image](http://pbs.twimg.com/profile_images/1603830172377022476/rVUZPU9H_normal.png)
- 
-`User ScreenName:` LindaDu49962648 
- 
-`User chosen Name:` Linda Dubois 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 19:11:22 +0000 2022 
- 
-`User Description?:` haapy love 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603830172377022476/rVUZPU9H_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# BethanyBrewste7USER INFO
-![image](http://pbs.twimg.com/profile_images/1603817113369575435/y-XJMm-I_normal.png)
- 
-`User ScreenName:` BethanyBrewste7 
- 
-`User chosen Name:` Bethany Brewster 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 18:19:30 +0000 2022 
- 
-`User Description?:` me heard 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603817113369575435/y-XJMm-I_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# DREV_DVUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603806458583433219/SgcuEdvk_normal.jpg)
- 
-`User ScreenName:` DREV_DV 
- 
-`User chosen Name:` Andre Vaughn 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 17:36:30 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 199 
- 
-`User URL?:` None 
- 
-`Location:` Austin, TX 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603806458583433219/SgcuEdvk_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBER** 2 , **RT** 1 , **@MSFTSECURITY:** 1 , **THREATS** 1 , **BECOMING** 1 , **TARGETED** 1 , **75%** 1 , **COMMON** 1 , **INDUSTRIAL** 1 , **CONTROLLERS** 1 , **CUSTOMER** 1 , **OT** 1 , **NETWORKS** 1 , **HIGH-S…RT** 1 , **@DINESHDSOUZA:** 1 , **VERY** 1 , **CONCERNING** 1 , **HTTPS://TCO/CY4I1VXJRJRT** 1 , **@AJENGLISH:** 1 , **KUWAITI** 1 , 
- 
-## What this user tweeted
- 
-RT @msftsecurity: Cyber threats are becoming more targeted. Today, 75% of common industrial controllers in customer OT networks have high-s…
- 
-# LowellSeayUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603815406808055826/uEXjM2GI_normal.png)
- 
-`User ScreenName:` LowellSeay 
- 
-`User chosen Name:` Lowell Seay 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 18:12:43 +0000 2022 
- 
-`User Description?:` haapy love 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603815406808055826/uEXjM2GI_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# PeggySa14608529USER INFO
-![image](http://pbs.twimg.com/profile_images/1603811109059936256/pWE8Z590_normal.png)
- 
-`User ScreenName:` PeggySa14608529 
- 
-`User chosen Name:` Peggy Sackett 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 17:55:38 +0000 2022 
- 
-`User Description?:` loss i need 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603811109059936256/pWE8Z590_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# JasonMo17246044USER INFO
-![image](http://pbs.twimg.com/profile_images/1603806095977463824/yl1u5msH_normal.png)
- 
-`User ScreenName:` JasonMo17246044 
- 
-`User chosen Name:` Jason Morgan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 17:35:43 +0000 2022 
- 
-`User Description?:` loss i need 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603806095977463824/yl1u5msH_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# Jennife05556822USER INFO
-![image](http://pbs.twimg.com/profile_images/1603802499248537601/eyTt-aG7_normal.png)
- 
-`User ScreenName:` Jennife05556822 
- 
-`User chosen Name:` Jennifer Seymour 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 17:21:26 +0000 2022 
- 
-`User Description?:` haapy love 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603802499248537601/eyTt-aG7_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# adam_smitleyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603801859789144080/USa4vNqC_normal.png)
- 
-`User ScreenName:` adam_smitley 
- 
-`User chosen Name:` Adam Smitley 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 17:18:52 +0000 2022 
- 
-`User Description?:` nice have 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603801859789144080/USa4vNqC_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# HowardSarkisUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603800075418976273/Yha5bKwm_normal.png)
- 
-`User ScreenName:` HowardSarkis 
- 
-`User chosen Name:` Howard Sarkis 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 17:11:47 +0000 2022 
- 
-`User Description?:` do love 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603800075418976273/Yha5bKwm_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# FannieB50817310USER INFO
-![image](http://pbs.twimg.com/profile_images/1603771260328153095/3pXvkQZP_normal.png)
- 
-`User ScreenName:` FannieB50817310 
- 
-`User chosen Name:` Fannie Barker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 15:17:12 +0000 2022 
- 
-`User Description?:` haapy love 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603771260328153095/3pXvkQZP_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# JohnSte81892772USER INFO
-![image](http://pbs.twimg.com/profile_images/1603764692954087429/C_0UFrJI_normal.png)
- 
-`User ScreenName:` JohnSte81892772 
- 
-`User chosen Name:` John Stewart 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 14:51:12 +0000 2022 
- 
-`User Description?:` nice have 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603764692954087429/C_0UFrJI_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ARETRUE** 1 , **VULNERABILITIES** 1 , **INFULL** 1 , **CONCUSSION** 1 , **REPTILES** 1 , **SCRUPULOUSLYPRAY** 1 , **PAINOF** 1 , **小学5年生より賢いの** 1 , 
- 
-## What this user tweeted
- 
-aretrue vulnerabilities infull concussion reptiles scrupulouslyPray painof
-#小学5年生より賢いの
- 
-# thewpexpertoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603431047005437971/Aka0LWS5_normal.png)
- 
-`User ScreenName:` thewpexperto 
- 
-`User chosen Name:` Jorge Pozo 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 16:45:26 +0000 2022 
- 
-`User Description?:` I'm a WordPress website designer with a passion for providing expert-level support, speed and performance optimization, all at the guaranteed lowest price. 
- 
-`Followers?: `1 
- 
-`Following?:` 5 
- 
-`User URL?:` https://t.co/fKl75fDNn4 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 24 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603431047005437971/Aka0LWS5_normal.png 
- 
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SITE** 13 , **WORDPRESS** 8 , **HELP** 6 , **MAKE** 5 , **USERS** 5 , **SURE** 4 , **CONTENT** 4 , **YOU'RE** 3 , **TIPS** 3 , **KEEP** 3 , **THERE!** 3 , **SOCIAL** 3 , **SMALL** 2 , **BUSINESS** 2 , **OWNER** 2 , **BLOGGER** 2 , **NEED** 2 , **PERSONAL** 2 , **I'VE** 2 , **GOT** 2 , 
- 
-## What this user tweeted
- 
-Not keeping your WordPress core, themes, and plugins up to date: Outdated software can contain security vulnerabili… https://t.co/r0HGuEoBuZUsing too many plugins: While plugins can be incredibly useful, having too many can slow down your site and create… https://t.co/Lrn10R5PQ8
- 
-# Tuesday61211610USER INFO
-![image](http://pbs.twimg.com/profile_images/1602669921493721088/P06g0Xex_normal.jpg)
- 
-`User ScreenName:` Tuesday61211610 
- 
-`User chosen Name:` Tuesday 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 11 17:18:55 +0000 2022 
- 
-`User Description?:` UGP
-
-UNITED GIRLPOWER
-
-      FOUNDATION 
- 
-`Followers?: `111 
- 
-`Following?:` 691 
- 
-`User URL?:` None 
- 
-`Location:` Utrecht, The Netherlands 
- 
-`Number of tweets extracted`  : 150 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1602669921493721088/P06g0Xex_normal.jpg 
- 
-`Number of tweets excluding replies:` 150 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AMERICA** 60 , **PERSON** 56 , **@TUESDAY61211610:** 51 , **MAKE** 49 , **1** 48 , **GREAT** 48 , **STRONG** 48 , **POWERFUL** 48 , **AGAIN** 48 , **MRS** 48 , **MEN** 22 , **WOMEN** 21 , **NANCY** 21 , **@GLORIAT61774414** 18 , **THAN** 16 , **GLORIA** 13 , **RATHER** 8 , **POWER** 8 , **USE** 8 , **PROUD** 7 , 
- 
-## What this user tweeted
- 
-@Thomas46Tank Because out of your vulnerabilities will come your strength.”@Porcupine666 because out of your vulnerabilities will come your strength.”
- 
-# AaronCurry72USER INFO
-![image](http://pbs.twimg.com/profile_images/1603455991663759362/HLuVe1JF_normal.jpg)
- 
-`User ScreenName:` AaronCurry72 
- 
-`User chosen Name:` Aaron D. Curry 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 13 04:12:37 +0000 2022 
- 
-`User Description?:` Prince 
- 
-`Followers?: `24 
- 
-`Following?:` 496 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603455991663759362/HLuVe1JF_normal.jpg 
- 
-`Number of tweets excluding replies:` 365 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TIME** 5 , **NEED** 5 , **US** 4 , **@THEMAURYSHOW:** 4 , **@ELONMUSK:** 4 , **LET** 4 , **I'M** 4 , **GOING** 4 , **LOVE** 4 , **ELON** 4 , **2023** 3 , **AMERICA** 3 , **NEXT** 3 , **RESPECT** 3 , **DAY** 3 , **GOD** 3 , **WAY** 3 , **HARRY** 3 , **FAMILY** 3 , **COME** 3 , 
- 
-## What this user tweeted
- 
-RT @NSACyber: 1 of 5 – Vulnerabilities can pose a huge risk to your network. NSA’s #Cybersecurity Collaboration Center disclosed dozens of…
- 
-# rakeshm49965511USER INFO
-![image](http://pbs.twimg.com/profile_images/1603618280094461953/MOz4I2Ys_normal.jpg)
- 
-`User ScreenName:` rakeshm49965511 
- 
-`User chosen Name:` rakesh mishra 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 04:46:00 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:` Lucknow 
- 
-`Number of tweets extracted`  : 40 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603618280094461953/MOz4I2Ys_normal.jpg 
- 
-`Number of tweets excluding replies:` 40 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MARKETING** 31 , **DIGITAL** 29 , **TECHNOLOGY** 25 , **EPITOME** 24 , **FULL-SERVICE** 24 , **MARKETING…** 15 , **COMPANY** 8 , **SEO** 7 , **WEBSITE** 6 , **SOCIAL** 6 , **ENTREPRENEUR** 6 , **BUSINESS** 6 , **OFFER** 5 , **SMO** 5 , **MOTIVATION** 5 , **DIGITALMARKETING** 4 , **COMPANYBUSINESS** 4 , **COMPANYDIGITALMARKETING** 4 , **DESIGN** 3 , **MEDIA** 3 , 
- 
-## What this user tweeted
- 
-Business analysis is important for any organization to identify all vulnerabilities and implement proper solutions#… https://t.co/ilLuKJFRta
- 
-# lecrytokQUAIUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` lecrytokQUAI 
- 
-`User chosen Name:` LeCrytok_Quai 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 08:43:27 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 260 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@QUAINETWORK:** 196 , **QUAI** 130 , **NETWORK** 47 , **QUAINETWORK** 34 , **BLOCKCHAINS** 25 , **COMMUNITY** 21 , **BLOCKCHAIN** 21 , **TEAM** 20 , **CRYPTO** 18 , **BELOW** 15 , **JOIN** 15 , **NETWORK'S** 14 , **US** 14 , **TWITTER** 14 , **QUAI'S** 14 , **CHECK** 13 , **$QUAI** 13 , **WORKING** 13 , **CORE** 12 , **NEW** 11 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This mitigat…
- 
-# purnairawan1337USER INFO
-![image](http://pbs.twimg.com/profile_images/1601221826247786496/Wd0SERco_normal.png)
- 
-`User ScreenName:` purnairawan1337 
- 
-`User chosen Name:` purna 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 09 14:26:47 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 74 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 37 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1601221826247786496/Wd0SERco_normal.png 
- 
-`Number of tweets excluding replies:` 37 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FILE** 6 , **→** 6 , **FIND** 5 , **🔸** 4 , **FILES** 4 , **LINK** 4 , **SSRF** 4 , **127001** 4 , **NEW** 3 , **BYPASS** 3 , **TARGET** 3 , **@DINOSN:** 3 , **PAYLOADS** 3 , **TOOL** 3 , **\** 3 , **BUGBOUNTYTIPS** 3 , **BUGBOUNTY** 3 , **ASSETFINDER** 3 , **@NANDANLOHITAKSH:** 3 , **HTTPX** 3 , 
- 
-## What this user tweeted
- 
-RT @Dinosn: How To Exploit File Inclusion Vulnerabilities: A Beginner’s Introduction. — StackZero https://t.co/Q3XssoDjGu
- 
-# Anonymoushack_xUSER INFO
-![image](http://pbs.twimg.com/profile_images/1600811560699666435/xpmbHzny_normal.jpg)
- 
-`User ScreenName:` Anonymoushack_x 
- 
-`User chosen Name:` Anonymous Hack 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 08 10:42:51 +0000 2022 
- 
-`User Description?:` Infosec Geek, Hacker, Advance Information Security, Professional Hacking services, iCloud, Snapchat, Google, Instagram, Facebook Twitter https://t.co/QbzAFj53x5 24/7 
- 
-`Followers?: `11 
+`Followers?: `3 
  
 `Following?:` 19 
  
 `User URL?:` None 
  
-`Location:` Lansing, MI 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 88 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1600811560699666435/xpmbHzny_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1602378967847141391/VTUszrLN_normal.jpg 
  
-`Number of tweets excluding replies:` 209 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 52 , **ACCOUNT** 51 , **HACKED** 49 , **HACKING** 48 , **DM** 41 , **INBOX** 41 , **PARA** 28 , **RECOVERY** 26 , **SNAPCHAT** 23 , **AVAILABLE** 23 , **RECOVER** 23 , **FACEBOOKDOWN** 22 , **AGORA** 22 , **24/7** 21 , **HACKER** 21 , **CYBERSECURITY** 20 , **CONTA** 19 , **ICLOUD** 18 , **ACCOUNTS** 17 , **ANY** 17 , 
- 
-## What this user tweeted
- 
-RT @Anonymoushack_x: Linux Path Cheat Sheet inbox now
-#infosec #cybersecurity #cybe
-rsecuritytips  #pentesting #oscp  #informationsecurity …Linux Path Cheat Sheet inbox now
-#infosec #cybersecurity #cybe
-rsecuritytips  #pentesting #oscp … https://t.co/UyNp2Rik2y
- 
-# Jeremy_H_11USER INFO
-![image](http://pbs.twimg.com/profile_images/1602177189960556544/vxAayXxH_normal.jpg)
- 
-`User ScreenName:` Jeremy_H_11 
- 
-`User chosen Name:` Jeremy Hyde 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 12 02:48:17 +0000 2022 
- 
-`User Description?:` #BillsMafia 
- 
-`Followers?: `9 
- 
-`Following?:` 181 
- 
-`User URL?:` None 
- 
-`Location:` Las Vegas, NV 
- 
-`Number of tweets extracted`  : 138 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1602177189960556544/vxAayXxH_normal.jpg 
- 
-`Number of tweets excluding replies:` 138 
+`Number of tweets excluding replies:` 88 
  
 
  
@@ -1742,36 +343,153 @@ rsecuritytips  #pentesting #oscp … https://t.co/UyNp2Rik2y
  
 ## User Top tweeted words 
  
-**HE’S** 10 , **@MONTEZFORDWWE** 9 , **@MONICACROWLEY** 9 , **@LODAVIS1717** 8 , **@JAAYTHERAM** 7 , **TIME** 6 , **BILLS** 6 , **MIAMI** 6 , **TEAM** 5 , **THAN** 5 , **@DAVIDFISCHER_71** 5 , **BEST** 5 , **@KATIEHOBBS** 5 , **@DEAFLIBERTARIAN** 5 , **GOOD** 4 , **YOU’RE** 4 , **MUCH** 4 , **OH** 4 , **SEEM** 4 , **@SNEAKYJOESPORTS** 4 , 
+**PEOPLE** 16 , **@ELONMUSK** 13 , **@CARVER_LADY** 9 , **@APPLYPRESSURE27** 9 , **@DORANTHESIEGE** 9 , **@SJWILLIAMS123** 9 , **UK** 7 , **THAN** 6 , **THAT’S** 6 , **WELL** 6 , **YOU’RE** 6 , **@JOHNR33003777** 6 , **UKRAINE** 5 , **@IROMG** 5 , **THESE** 4 , **SUPPORT** 4 , **MONEY** 4 , **STOP** 4 , **OTHER** 4 , **SOME** 4 , 
  
 ## What this user tweeted
  
-@sabresman31 @SneakyJoeSports Android are so much more susceptible to vulnerabilities and attacks
+@kimleadbeater I see you support Ukraine, wanna send more money there, or spend on your local community? Personally… https://t.co/1qbb3ONi9I@GBNEWS @SophieReaper Stop sending money to Ukraine and other countries! Look after our own first!@KenCentralNotts @KEdge23 Why do some people love other countries like the Ukraine more than the UK that they live… https://t.co/6GFwU0IJgL@KEdge23 Economy ruined by profiteering by large uk shops, economy ruined by sending uk tax payers money to corrupt… https://t.co/JvG2xHj84C
  
-# ASP__SolutionUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603508460737404937/tfWJf3vB_normal.jpg)
+# iraneazad2581USER INFO
+![image](http://pbs.twimg.com/profile_images/1603800492764717057/-Cwuzxge_normal.jpg)
  
-`User ScreenName:` ASP__Solution 
+`User ScreenName:` iraneazad2581 
  
-`User chosen Name:` ASP Solution 
+`User chosen Name:` iraneazad2581 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 15 21:47:51 +0000 2022 
+`User signup date?:` Fri Dec 16 17:12:07 +0000 2022 
  
-`User Description?:` Bringing solutions to your most complicated security concerns. 
+`User Description?:`  
  
 `Followers?: `2 
  
-`Following?:` 35 
+`Following?:` 0 
  
 `User URL?:` None 
  
-`Location:` McLean, VA 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1603800492764717057/-Cwuzxge_normal.jpg 
+ 
+`Number of tweets excluding replies:` 475 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**و** 74 , **از** 69 , **به** 56 , **که** 50 , **در** 43 , **HOWHEALTHYISTOOMAJREALLY** 35 , **برای** 35 , **این** 32 , **@YEONE_RHIE:** 26 , **مهسا_امینی** 22 , **توماج_صالحی** 22 , **TOOMAJSALEHI** 20 , **رو** 19 , **را** 16 , **توماج** 15 , **آیدا_رستمی** 14 , **با** 13 , **تا** 12 , **@SOORISH70:** 12 , **جمهوری** 12 , 
+ 
+## What this user tweeted
+ 
+RT @YeOne_Rhie: It's for the brave people of #Ukraine. For the vision of Europe they are fighting for. For freedom, peace and democracy. 🇪🇺…
+ 
+# NataliiaV77USER INFO
+![image](http://pbs.twimg.com/profile_images/1602768286332100610/7t0EBb4L_normal.jpg)
+ 
+`User ScreenName:` NataliiaV77 
+ 
+`User chosen Name:` Nataliia V. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 13 20:51:21 +0000 2022 
+ 
+`User Description?:` I'm Ukrainian patriot, cosmopolitan #оркофоб #русофоб, love my country #Victory for #Ukraine!! 💙💛 
+ 
+`Followers?: `1 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:` Ukraine, Kyiv 
+ 
+`Number of tweets extracted`  : 42 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1602768286332100610/7t0EBb4L_normal.jpg 
+ 
+`Number of tweets excluding replies:` 43 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REALCALEBMAUPIN** 9 , **@UKJERSTENSSON** 7 , **RUZZIAN** 6 , **KREMLIN** 6 , **В** 5 , **@EUAN_MACDONALD:** 4 , **UKRAINE** 4 , **RUSSIA** 4 , **А** 4 , **@VALMICHEL7:** 4 , **BOT** 4 , **RUSSIAN** 4 , **И** 3 , **НА** 3 , **WATER** 3 , **FASISTS** 3 , **PROPAGANDA** 3 , **PAID** 3 , **FASIST** 3 , **DONETSK** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Euan_MacDonald: Ukraine urgently needs heavy weapons so it can defeat fascist Russia quickly.
+ 
+# CssioDaniel8USER INFO
+![image](http://pbs.twimg.com/profile_images/1602687754189606912/h9URvww7_normal.jpg)
+ 
+`User ScreenName:` CssioDaniel8 
+ 
+`User chosen Name:` Cássio Daniel 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 13 15:28:56 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 49 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1602687754189606912/h9URvww7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**O** 10 , **QUE** 7 , **VAI** 6 , **SÓ** 5 , **NÃO** 4 , **DE** 4 , **RUSSIANS** 3 , **E** 3 , **POR** 3 , **PRA** 3 , **MEIA** 3 , **UM** 3 , **OS** 2 , **ESTÃO** 2 , **@BOTAFOGO** 2 , **BILHÕES** 2 , **PARA** 2 , **OU** 2 , **SE** 2 , **NOS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @igorlachenkov: Russians kill peaceful Ukrainians everyday, russians torture our soldiers in captivity, russians ruin our cities with bo…
+ 
+# GrahamWPhillip1USER INFO
+![image](http://pbs.twimg.com/profile_images/1603729521232023555/BgvahBzF_normal.jpg)
+ 
+`User ScreenName:` GrahamWPhillip1 
+ 
+`User chosen Name:` Graham William Phillips 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 16 12:04:07 +0000 2022 
+ 
+`User Description?:` An independent journalist reporting from Russian Ukraine 
+ 
+`Followers?: `19 
+ 
+`Following?:` 84 
+ 
+`User URL?:` None 
+ 
+`Location:` Donbass 
  
 `Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1603508460737404937/tfWJf3vB_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1603729521232023555/BgvahBzF_normal.jpg 
  
 `Number of tweets excluding replies:` 7 
  
@@ -1781,235 +499,38 @@ rsecuritytips  #pentesting #oscp … https://t.co/UyNp2Rik2y
  
 ## User Top tweeted words 
  
-**RT** 1 , **@MITREATTACK:** 1 , **HAVEN'T** 1 , **CHANCE** 1 , **YET** 1 , **CHECK** 1 , **ATT&AMP;CK'S** 1 , **DEFENSIVE** 1 , **LEAD** 1 , **@LEXONTHEHUNT'S** 1 , **APPEARANCE** 1 , **BLUEPRINTPODCAST…RT** 1 , **@DARKREADING:** 1 , **META** 1 , **PONIES** 1 , **$300K** 1 , **BOUNTY** 1 , **ZERO-CLICK** 1 , **MOBILE** 1 , **RCE** 1 , 
+**SERBIA** 3 , **THANK** 1 , **@CLARKEMICAH** 1 , **HELP** 1 , **CAUSE** 1 , **STANDING** 1 , **RUSSIA** 1 , **FREEING** 1 , **UKRAINE** 1 , **RETURN** 1 , **UK** 1 , **WE'LL** 1 , **DRINK** 1 , **😁@COSSACKGUNDI** 1 , **AKA** 1 , **AIDAN** 1 , **ASLIN** 1 , **GOT** 1 , **SANCTIONED** 1 , **COUNTRY** 1 , 
  
 ## What this user tweeted
  
-RT @DarkReading: Meta Ponies Up $300K Bounty for Zero-Click Mobile RCE Bugs in Facebook: https://t.co/kpndmpHMPc by @jaivijayanRT @cema_labs: Take a military-grade style Signature Reduction course and focus on securing the daily digital landscape. Taught by former I…
+Thank you @ClarkeMicah for your help with my cause and standing with Russia in freeing Ukraine.
+
+When I return to UK we'll have a drink 😁
  
-# saturn_sweetieUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603456521219629056/h7YZvoA2_normal.jpg)
+# BavovnaReportsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1601935784910766082/iWCkbOCt_normal.jpg)
  
-`User ScreenName:` saturn_sweetie 
+`User ScreenName:` BavovnaReports 
  
-`User chosen Name:` Saturn Sweetie 
+`User chosen Name:` BAVOVNA 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 15 18:14:06 +0000 2022 
+`User signup date?:` Sat Dec 10 22:35:12 +0000 2022 
  
-`User Description?:` you can’t be what you can’t see | she/her 
+`User Description?:` #Fella NAFO evangelist / Denazifying RuZZia one vatnik at a time 
  
-`Followers?: `1 
+`Followers?: `333 
  
-`Following?:` 22 
+`Following?:` 725 
  
 `User URL?:` None 
  
-`Location:` Saurns Rings 
+`Location:` Kramatorsk, Ukraine 
  
-`Number of tweets extracted`  : 111 
+`Number of tweets extracted`  : 157 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1603456521219629056/h7YZvoA2_normal.jpg 
- 
-`Number of tweets excluding replies:` 112 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 19 , **TIME** 11 , **@HIMTUITION:** 9 , **@MARYAMHASNAA:** 9 , **I’M** 7 , **EVEN** 6 , **SOMEONE** 6 , **LOVE** 6 , **GOING** 6 , **DON’T** 6 , **DON'T** 5 , **CAPRICORN** 5 , **ALWAYS** 5 , **@THEHOLISTICPSYC:** 5 , **LOT** 4 , **@WISE_CHIMP:** 4 , **NEED** 4 , **MAKE** 4 , **FRIENDS** 4 , **ACTUALLY** 4 , 
- 
-## What this user tweeted
- 
-@TarotByBronx Such a great way to explain this. More vulnerabilities and candor. Genuine connection and check-in’s.… https://t.co/MExarv0yUH
- 
-# HolicCellUSER INFO
-![image](http://pbs.twimg.com/profile_images/1601312151607529472/bMcL-KQj_normal.jpg)
- 
-`User ScreenName:` HolicCell 
- 
-`User chosen Name:` Reflection Holic Cell 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 09 20:25:23 +0000 2022 
- 
-`User Description?:` AIRDROP WARRIOR 
-#BNB #ETH #POLYGON #SOLANA
-https://t.co/fcmFrOttrn 
- 
-`Followers?: `2 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1601312151607529472/bMcL-KQj_normal.jpg 
- 
-`Number of tweets excluding replies:` 208 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@QUAINETWORK:** 165 , **QUAI** 123 , **NETWORK** 50 , **QUAINETWORK** 31 , **@QUAINETWORK** 24 , **BLOCKCHAIN** 23 , **COMMUNITY** 22 , **BLOCKCHAINS** 21 , **PROOF-OF-WORK** 17 , **TEAM** 16 , **NETWORK'S** 15 , **CORE** 15 , **QUAI'S** 13 , **20** 12 , **CRYPTO** 12 , **US** 12 , **LAYER** 12 , **BELOW** 11 , **TRANSACTIONS** 11 , **DECENTRALIZED** 11 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This mitigat…
- 
-# AaronJust925USER INFO
-![image](http://pbs.twimg.com/profile_images/1603505675149070336/9QpU8tXe_normal.png)
- 
-`User ScreenName:` AaronJust925 
- 
-`User chosen Name:` Aaron Just 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 21:41:59 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603505675149070336/9QpU8tXe_normal.png 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@ALBS86768113:** 1 , **OTHER** 1 , **VULNERABILITIES** 1 , **MBITCASINO** 1 , **WHICH** 1 , **DISCLOSE** 1 , **ANYONE** 1 , **PRIVATESIMPLY** 1 , **RETWEET** 1 , **20** 1 , **FOLLOW…@ALBS86768113** 1 , **@MBITCASINO** 1 , **LIKE?@MBITCASINO** 1 , **SANTA** 1 , **CLAUSE** 1 , **COMING** 1 , **TOWN** 1 , **ROCKIN** 1 , **AROUND** 1 , 
- 
-## What this user tweeted
- 
-RT @Albs86768113: There are other vulnerabilities in Mbitcasino which I will disclose to anyone in private.Simply retweet this to 20 follow…
- 
-# andersakin1USER INFO
-![image](http://pbs.twimg.com/profile_images/1603478987677876224/nHSFOTAU_normal.png)
- 
-`User ScreenName:` andersakin1 
- 
-`User chosen Name:` andersakin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 19:55:56 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 86 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603478987677876224/nHSFOTAU_normal.png 
- 
-`Number of tweets excluding replies:` 86 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AFTER** 12 , **NEW** 8 , **CNN** 7 , **FIRST** 5 , **JOURNALISTS** 4 , **WEEK** 4 , **THURSDAY** 4 , **BACK** 4 , **REVEALS** 4 , **NEXT** 4 , **BOX** 3 , **SEASON** 3 , **2** 3 , **NFL** 3 , **SEAHAWKS** 3 , **NIGHT** 3 , **LOOKS** 3 , **THEORY** 3 , **ELON** 3 , **VS** 3 , 
- 
-## What this user tweeted
- 
-Energy watchdog finds fossil fuel plant shutdowns creating long-term vulnerabilities to the US electric grid https://t.co/Gg6c3KJlBS
- 
-# B3YourOwnUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603476344628776971/BzFI1ZFU_normal.png)
- 
-`User ScreenName:` B3YourOwn 
- 
-`User chosen Name:` New Age 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 15 19:45:26 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 18 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603476344628776971/BzFI1ZFU_normal.png 
- 
-`Number of tweets excluding replies:` 18 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**US** 4 , **POPULATION** 3 , **MINIMIZE** 2 , **AVERAGE** 2 , **LEFT** 2 , **TRY** 2 , **MAJOR** 2 , **INDUSTRIES** 2 , **MAKE** 2 , **HUMAN** 2 , **PARTY** 2 , **SAME** 2 , **MAJORITY** 2 , **PEOPLE** 2 , **MASS** 2 , **TWO** 2 , **SYSTEM** 2 , **HALF** 2 , **WANTS** 1 , **EQUALIZE** 1 , 
- 
-## What this user tweeted
- 
-These all limit the choice we have and strongly incline us towards the avenue that brings them profit. There is a h… https://t.co/N77Bq9GG3e
- 
-# VictorM42911725USER INFO
-![image](http://pbs.twimg.com/profile_images/1602266281230614529/6CMbJggj_normal.jpg)
- 
-`User ScreenName:` VictorM42911725 
- 
-`User chosen Name:` Victor Marquez 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 12 11:34:17 +0000 2022 
- 
-`User Description?:` Editor-in-Chief at Techtyche. At Techtyche, I test the performance and quality of gadgets such as VR boxes, headsets, etc. 
- 
-`Followers?: `5 
- 
-`Following?:` 151 
- 
-`User URL?:` https://t.co/z48TmHZN4V 
- 
-`Location:` Walnut Creek, CA 
- 
-`Number of tweets extracted`  : 158 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1602266281230614529/6CMbJggj_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1601935784910766082/iWCkbOCt_normal.jpg 
  
 `Number of tweets excluding replies:` 158 
  
@@ -2019,38 +540,38 @@ These all limit the choice we have and strongly incline us towards the avenue th
  
 ## User Top tweeted words 
  
-**HOPE** 57 , **OKAY** 54 , **USED** 53 , **ARTICLE** 51 , **THAT'S** 33 , **THANK** 29 , **NEW** 25 , **SHARING** 20 , **ITS** 18 , **TWEET** 16 , **SOME** 10 , **GAME** 10 , **UPDATE** 9 , **REALLY** 9 , **INFORMATION** 7 , **LATEST** 7 , **GOOD** 7 , **2** 6 , **RELEASED** 6 , **ARTICLES** 6 , 
+**RUSSIAN** 26 , **UKRAINE** 13 , **RUSSIA** 13 , **NEW** 8 , **UKRAINIAN** 7 , **ORCS** 7 , **VATNIK** 6 , **VERY** 5 , **EU** 5 , **MELITOPOL** 5 , **WAR** 4 , **PUTIN** 4 , **SOLDIERS** 4 , **EUROPE** 4 , **SOME** 4 , **ITS** 3 , **AFTER** 3 , **@ONYXUSONE** 3 , **SOVIET** 3 , **LOT** 3 , 
  
 ## What this user tweeted
  
-There have been high-severity security vulnerabilities disclosed in different endpoint protection and anti-virus so… https://t.co/jiPehFgiMa
+RT @wartranslated: Depressed Girkin declares strategic defeat as the war with Ukraine is nowhere near its end after almost 10 months of fig…
  
-# thurein17069498USER INFO
-![image](http://pbs.twimg.com/profile_images/1603422189172424704/28BzM-PX_normal.png)
+# OtherSiteWorldUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603737264932196358/ksGpuO0G_normal.jpg)
  
-`User ScreenName:` thurein17069498 
+`User ScreenName:` OtherSiteWorld 
  
-`User chosen Name:` thurein win 
+`User chosen Name:` Other Site 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 15 16:10:14 +0000 2022 
+`User signup date?:` Fri Dec 16 13:02:14 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 3 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1603422189172424704/28BzM-PX_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1603737264932196358/ksGpuO0G_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -2058,39 +579,166 @@ There have been high-severity security vulnerabilities disclosed in different en
  
 ## User Top tweeted words 
  
-**@CEASPORTSFC:** 3 , **HOLDING** 2 , **BNB** 2 , **SAFU** 2 , **BADGE** 2 , **KYC** 2 , **RT** 1 , **@ONUSFINANCE:** 1 , **💎** 1 , **EARN** 1 , **1354%** 1 , **👉** 1 , **EXTEND** 1 , **USERS’** 1 , **OPPORTUNITIES** 1 , **INCREASE** 1 , **PROFITS** 1 , **ONUS** 1 , **PROVI…RT** 1 , **🎈CEASPORTS** 1 , 
+**RUSSIA** 2 , **MAYBE:** 2 , **DESTROYS** 1 , **UKRAINE'S** 1 , **OTHER** 1 , **SITE:** 1 , **REVIEWING** 1 , **ITS** 1 , **ARMAMENTS** 1 , **CLEANS** 1 , **WAREHOUSES** 1 , **LAUN…** 1 , **HTTPS://TCO/MPNWL5NUOGMORE** 1 , **ON:** 1 , **HTTPS://TCO/V6ILXH16GE** 1 , **HTTPS://TCO/FJ6KMWSTZY-** 1 , **NORTH** 1 , **KOREA** 1 , **ANNOUNCED** 1 , **SUCCESS** 1 , 
  
 ## What this user tweeted
  
-RT @CEASportsFC: 🏆Another hour, another news! SAFU Badge &amp; KYC are clear.
-🥊SAFU specialize in auditing smart contracts and finding early vu…
+Russia destroys Ukraine's
+
+OTHER SITE: 
+
+Or maybe: Russia is reviewing its armaments. It cleans warehouses and laun… https://t.co/MPNWl5nuOG
  
-# cema_labsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603058774851436548/KKaioqwS_normal.jpg)
+# Semper1908USER INFO
+![image](http://pbs.twimg.com/profile_images/1600488333297258497/vi-SQ6L6_normal.jpg)
  
-`User ScreenName:` cema_labs 
+`User ScreenName:` Semper1908 
  
-`User chosen Name:` CEMA Labs 
+`User chosen Name:` Semper Fidelis 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Dec 14 15:01:09 +0000 2022 
+`User signup date?:` Wed Dec 07 13:24:37 +0000 2022 
  
-`User Description?:` Teaching the fundamentals and building on the skills and knowledge of the cyber/EM operator. 
+`User Description?:` Perpetual optimism is a force multiplier 
+ 
+`Followers?: `60 
+ 
+`Following?:` 1228 
+ 
+`User URL?:` None 
+ 
+`Location:` Europe 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1600488333297258497/vi-SQ6L6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 949 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 29 , **UKRAINIAN** 17 , **KYIV** 17 , **🇺🇦RT** 15 , **RUSSIAN** 12 , **🇺🇦** 10 , **PEOPLE** 9 , **DAY** 8 , **MUSK** 8 , **KHARKIV** 7 , **AFTER** 7 , **MISSILE** 7 , **RUSSIA** 7 , **@NOELREPORTS:** 7 , **FORCES** 7 , **AGAIN** 6 , **MORNING** 6 , **@WARMONITOR3:** 6 , **ATTACK** 6 , **MISSILES** 6 , 
+ 
+## What this user tweeted
+ 
+RT @KarlspreisAC: (4/5) By awarding the Charlemagne Prize 2023 to both the president and the people, we underscore the fact that Ukraine is…RT @KarlspreisAC: The International Charlemagne Prize of Aachen 2023 will be awarded to @ZelenskyyUa, &amp; to the People of Ukraine 🇺🇦.
+#karls…RT @praisethesteph: #Ukraine/#Russia 🇺🇦🇷🇺:
+
+Three 🇺🇦#Ukrainian M-55S tanks delivered from 🇸🇮#Slovenia now in use with newly formed 47th bri…
+ 
+# ANIKA21429362USER INFO
+![image](http://pbs.twimg.com/profile_images/1604055004532576256/JQLQeDEk_normal.jpg)
+ 
+`User ScreenName:` ANIKA21429362 
+ 
+`User chosen Name:` ANIKA 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 15 14:51:23 +0000 2022 
+ 
+`User Description?:` Visual Artist. Independent. Christian Woman. No DMS🚫 #Ukraine #MovieBuff No LISTS🚫 All welcome for #Kindness #compassion I’m here for Christmas. 💙💙💙 
+ 
+`Followers?: `72 
+ 
+`Following?:` 323 
+ 
+`User URL?:` None 
+ 
+`Location:` Melbourne, Victoria 
+ 
+`Number of tweets extracted`  : 145 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1604055004532576256/JQLQeDEk_normal.jpg 
+ 
+`Number of tweets excluding replies:` 146 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VIA** 35 , **@YOUTUBE** 11 , **@YOUTUBE…** 7 , **UKRAINE** 6 , **YEARS** 5 , **LOVE** 4 , **WANTS** 4 , **I’M** 4 , **WOMEN** 4 , **PEOPLE** 4 , **TRUMP** 4 , **GOING** 4 , **TWITTER** 4 , **SUSPENDED** 4 , **@YOUTUBERT** 4 , **CHRISTMAS** 4 , **UKRAINIAN** 3 , **MOST** 3 , **BEAUTIFUL** 3 , **THIS-** 3 , 
+ 
+## What this user tweeted
+ 
+Prayers and readings for Ukraine to add to your Passover seder #Ukraine  https://t.co/LNc83SNpjK
+ 
+# GrumpySkippUSER INFO
+![image](http://pbs.twimg.com/profile_images/1604047784910508032/DIbNIxMv_normal.jpg)
+ 
+`User ScreenName:` GrumpySkipp 
+ 
+`User chosen Name:` Grumpy Skipper 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 16 12:54:37 +0000 2022 
+ 
+`User Description?:` The war #Ukraine - #Russia seasoned with pinch of sarcasm. 
+#NAFO - Grumpy Fella. Saint #HIMARS fan. #Russophobe by DNA. 
+ 
+`Followers?: `5 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:` Europe 
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1604047784910508032/DIbNIxMv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NIE** 6 , **W** 6 , **SIĘ** 5 , **ALE** 3 , **Z** 3 , **🇷🇺** 3 , **🇺🇦** 3 , **MNIE** 3 , **ŻE** 3 , **@MARCIN_ICELAND** 3 , **DZIEŃ** 3 , **DOBRY** 3 , **BO** 3 , **@PANINOWAKOWA** 2 , **TY** 2 , **NA** 2 , **ZA** 2 , **TEŻ** 2 , **COŚ** 2 , **MI** 2 , 
+ 
+## What this user tweeted
+ 
+#Ukraine 🇺🇦
+
+#Russian 🇷🇺 position on the frontline. https://t.co/F7SOgOI9JS#Russia  🇷🇺
+Cruise missile fired at #Ukraine 🇺🇦 malfunctioned during the flight and crash-landed in #Stalingrad Obl… https://t.co/7SLTpQol8C
+ 
+# BlackMapleCoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1602628446873690112/Rqb7eP9J_normal.jpg)
+ 
+`User ScreenName:` BlackMapleCo 
+ 
+`User chosen Name:` Black Maple Company 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 13 11:29:27 +0000 2022 
+ 
+`User Description?:` 🇨🇦Canadians Freedom Fighters in 🇺🇦 • we fight for the freedom of Ukrainians • we fight so civilians and children stop getting killed • Slava Ukraini 
  
 `Followers?: `8 
  
-`Following?:` 183 
+`Following?:` 29 
  
-`User URL?:` https://t.co/zkETgCtMu9 
+`User URL?:` None 
  
-`Location:` McLean, VA 
+`Location:`  
  
-`Number of tweets extracted`  : 16 
+`Number of tweets extracted`  : 23 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1603058774851436548/KKaioqwS_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1602628446873690112/Rqb7eP9J_normal.jpg 
  
-`Number of tweets excluding replies:` 16 
+`Number of tweets excluding replies:` 23 
  
 
  
@@ -2098,38 +746,321 @@ RT @CEASportsFC: 🏆Another hour, another news! SAFU Badge &amp; KYC are clear.
  
 ## User Top tweeted words 
  
-**NETWORK** 3 , **DIGITAL** 3 , **HACKED** 2 , **NSA** 2 , **5G** 2 , **SEEN** 2 , **OPERATION** 2 , **READ** 2 , **MILITARY-GRADE** 2 , **SIGNATURE** 2 , **REDUCTION** 2 , **COURSE** 2 , **SECURING** 2 , **DAILY** 2 , **LANDSCAPE** 2 , **TAUGHT** 2 , **@TESLACONOMICS** 2 , **RT** 1 , **@0XYZQT:** 1 , **FBI’S** 1 , 
+**GREAT** 5 , **CANADIANS** 4 , **@BRIGADENORMANDE** 4 , **DOING** 3 , **UKRAINIAN** 3 , **LE** 2 , **MORNING** 2 , **NUMBER** 2 , **BLACK** 2 , **DAY** 2 , ***OFFICIAL** 1 , **STATEMENT*** 1 , **FIGHTING** 1 , **UKRAINE** 1 , **COWARD** 1 , **;)** 1 , **ASK** 1 , **@INT_LEGION_UA…** 1 , **HTTPS://TCO/M8BVV7FIJY@INT_LEGION_UA** 1 , **AMAZING** 1 , 
  
 ## What this user tweeted
  
-Take a military-grade style Signature Reduction course and focus on securing the daily digital landscape. Taught by… https://t.co/l8fkONRutA
+*Official Statement*
+
+Canadians fighting in Ukraine are NOT coward ;)
+
+You can ask @BrigadeNormande, @Int_Legion_UA… https://t.co/m8bvv7FIJY
  
-# utinwisdom12USER INFO
-![image](http://pbs.twimg.com/profile_images/1603293287598653442/U8jQqg78_normal.jpg)
+# NastySkulkerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603716138646777856/T1b-njDy_normal.png)
  
-`User ScreenName:` utinwisdom12 
+`User ScreenName:` NastySkulker 
  
-`User chosen Name:` utinwisdom12@yahoo.com 
+`User chosen Name:` sneaky stabb'n 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 15 07:37:35 +0000 2022 
+`User signup date?:` Fri Dec 16 11:38:17 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 53 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1603716138646777856/T1b-njDy_normal.png 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ELONMUSK** 12 , **@TOMFITTON** 5 , **@OLGANYC1211** 4 , **THESE** 3 , **JOURNALISTS** 2 , **T…** 2 , **ISN'T** 2 , **IRONY** 2 , **@JOHNRICH** 2 , **GUY** 2 , **KEEP** 2 , **@SUSPENDEDNOMORE** 2 , **DON'T** 2 , **YOU'RE** 2 , **@BEGLAN_MICHAEL** 1 , **FOLLOWING** 1 , **WAR** 1 , **UKRAINE?** 1 , **ESCALATED** 1 , **WAR?** 1 , 
+ 
+## What this user tweeted
+ 
+@beglan_michael @OlgaNYC1211 have you been following the war in ukraine? who escalated that war? better yet, who is… https://t.co/oQeaduFgTS
+ 
+# JohnPhD4USER INFO
+![image](http://pbs.twimg.com/profile_images/1601558277086744581/MMT7ORfo_normal.jpg)
+ 
+`User ScreenName:` JohnPhD4 
+ 
+`User chosen Name:` John, PhD 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 10 12:43:13 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 139 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1601558277086744581/MMT7ORfo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 139 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GEROMANAT** 19 , **@WARMONITORS** 14 , **UKRAINE** 13 , **DON'T** 8 , **@AZGEOPOLITICS** 7 , **@ELONMUSK** 7 , **LOVE** 6 , **THAT'S** 6 , **@AZOVMOLOZENSKY** 6 , **WHITE** 5 , **GOOD** 5 , **WAR** 5 , **@APMASSARO3** 5 , **@LTS_NJ** 5 , **RUSSIA** 4 , **DUDE** 4 , **EVEN** 4 , **BELIEVE** 4 , **ANY** 4 , **GO** 4 , 
+ 
+## What this user tweeted
+ 
+@The_Real_Fly I am 100% sure that Zelensky has "assurances" that if Ukraine were close to being forced into a surre… https://t.co/gxmp4zRbtG@JosefMagnor @AZgeopolitics We will rather see Poland out of the EU than Ukraine in it.
+ 
+# TopazMercuryUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603657706040045568/RLxXJM2B_normal.jpg)
+ 
+`User ScreenName:` TopazMercury 
+ 
+`User chosen Name:` Mercury Topaz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 16 01:33:56 +0000 2022 
+ 
+`User Description?:` Christian, Conservative, Carnivore, Anti-Vaccine, Hamster, Yorkshire Terriers, Australian Shepherds, Leopard Geckos, Neon Tetras, Mollies, Ferrets, Lovebirds 
+ 
+`Followers?: `13 
+ 
+`Following?:` 371 
+ 
+`User URL?:` None 
+ 
+`Location:` Albertville, AL 
+ 
+`Number of tweets extracted`  : 91 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1603657706040045568/RLxXJM2B_normal.jpg 
+ 
+`Number of tweets excluding replies:` 91 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**T…** 7 , **YES** 6 , **JOE** 6 , **ABSOLUTELY** 5 , **I'M** 4 , **SLUSH** 3 , **SINGLE** 3 , **SURE** 3 , **MONEY** 3 , **CHILD** 3 , **PART** 3 , **AGAINST** 3 , **BEING** 3 , **NEW** 3 , **ITS** 3 , **TEXAS** 3 , **TWITTER** 3 , **STATES** 3 , **US** 3 , **RECENTLY** 3 , 
+ 
+## What this user tweeted
+ 
+@MuellerSheWrote @TheJusticeDept How much of Joe Biden's Ukraine aid is a slush fund? Answer: all of it 🤣
+ 
+# AbelNgandujr1USER INFO
+![image](http://pbs.twimg.com/profile_images/1603730970737364992/SAxTBgpm_normal.jpg)
+ 
+`User ScreenName:` AbelNgandujr1 
+ 
+`User chosen Name:` 334 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 16 06:56:17 +0000 2022 
+ 
+`User Description?:` News and information 
+ 
+`Followers?: `1 
+ 
+`Following?:` 94 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1603730970737364992/SAxTBgpm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DEFENCE** 3 , **BUDGET** 2 , **SPENDING** 2 , **MILITARY** 2 , **INCREASE** 1 , **MINISTRY'S** 1 , **AROUND** 1 , **TENTH** 1 , **PUBLIC** 1 , **CURRENT** 1 , **LEVELS** 1 , **WILL…** 1 , **HTTPS://TCO/ENGKVPNJU4KISHIDA'S** 1 , **PLAN** 1 , **DOUBLE** 1 , **OUTLAYS** 1 , **2** 1 , **PERCENT** 1 , **GROSS** 1 , **DOMESTIC** 1 , 
+ 
+## What this user tweeted
+ 
+The Ukraine 🇺🇦 war has shown us the necessity of being abel to sustain a fight and that its something japan has not… https://t.co/npUQAGpYLG
+ 
+# Dj13PaxUSER INFO
+![image](http://pbs.twimg.com/profile_images/1604056586791550976/L6EG8yQ8_normal.jpg)
+ 
+`User ScreenName:` Dj13Pax 
+ 
+`User chosen Name:` DJ Pax💎. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 17 05:41:31 +0000 2022 
+ 
+`User Description?:` I❤Ukraine🇺🇦. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 153 
+ 
+`User URL?:` None 
+ 
+`Location:` Ukraine 
+ 
+`Number of tweets extracted`  : 70 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1604056586791550976/L6EG8yQ8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 70 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 18 , **RUSSIA** 10 , **В** 9 , **RUSSIAN** 7 , **🇺🇦** 6 , **ТА** 5 , **UKRAINIAN** 5 , **WAR** 4 , **@VONDERLEYEN:** 4 , **FUTURE** 4 , **ЗА** 4 , **BAKHMUT** 4 , **УКРАЇНИ🇺🇦** 4 , **БЕЗ** 4 , **AIR** 3 , **TWO** 3 , **ENERGY** 3 , **ПРО** 3 , **RUSSIANS** 3 , **PEOPLE** 3 , 
+ 
+## What this user tweeted
+ 
+RT @officejjsmart: All of Ukraine 🇺🇦 is under air alert as two 🇷🇺 MiG-31s have taken off from Belarus 🇧🇾 with the likely task of firing mis…RT @UkraineRussia2: The Biden administration is asking Congress to allocate an additional $38 billion to Ukraine. 
+
+In addition, according…RT @ZMiST_Ua: ⚡️The russian federation is preparing for a protracted war in Ukraine, and those who support Kyiv in NATO must continue to se…RT @vonderleyen: The future of Ukraine begins with its children.
+
+We are helping rebuild the schools destroyed by Russia’s war, with €100 m…RT @vonderleyen: The Black Sea electric cable is a new transmission route full of opportunities.
+ 
+It could integrate Georgia to our electr…
+ 
+# LucasBlack52USER INFO
+![image](http://pbs.twimg.com/profile_images/1601169228991762433/T4c8Gi-7_normal.jpg)
+ 
+`User ScreenName:` LucasBlack52 
+ 
+`User chosen Name:` Lucas Blackstone 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 09 10:32:56 +0000 2022 
+ 
+`User Description?:` It Doesn't Have To Be Like This 
+ 
+`Followers?: `4 
+ 
+`Following?:` 113 
+ 
+`User URL?:` None 
+ 
+`Location:` United Kingdom 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1601169228991762433/T4c8Gi-7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 233 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 20 , **AFTER** 15 , **RUSSIAN** 13 , **US** 11 , **RUSSIA** 10 , **ITS** 9 , **INTO** 9 , **HOME** 7 , **@GERASHCHENKO_EN:** 7 , **MAN** 7 , **MISSILES** 6 , **WAR** 6 , **MISSILE** 6 , **PEOPLE** 6 , **SEND** 6 , **DURING** 5 , **FIND** 5 , **GOVERNMENT** 5 , **PATRIOT** 5 , **EUROPEAN** 5 , 
+ 
+## What this user tweeted
+ 
+Russians strike Ukraine with 60 missiles in one of the worst barrages during war https://t.co/TryrI6OPsD'Colossal damage' as Russia launches 'massive missile attack' on Ukraine  https://t.co/FwBavCEi0FUkraine 'preparing' for Russia to invade from north, top commander says https://t.co/tRnlG6A1IbUkraine war latest: Russia 'withdrawing troops from two southern cities' https://t.co/t4gtxBYeTG
+ 
+# hotspottimesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603397282891988994/Vq07z6Dz_normal.png)
+ 
+`User ScreenName:` hotspottimes 
+ 
+`User chosen Name:` Kavya Singh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 15 14:31:16 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1603397282891988994/Vq07z6Dz_normal.png 
+ 
+`Number of tweets excluding replies:` 281 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 208 , **…** 44 , **ANTI-AGING** 33 , **NEWS** 30 , **JOBS** 28 , **US** 23 , **HTTPS://TCO/9WLIVRUWGZ** 19 , **NEW** 18 , **CNBC** 16 , **POST** 11 , **PAY** 11 , **LABOR** 10 , **2022** 10 , **CTV** 9 , **TIMES** 9 , **BEST** 9 , **ASSOCIATED** 9 , **PRESS** 9 , **MARKET** 8 , **WORKERS** 8 , 
+ 
+## What this user tweeted
+ 
+Ukraine war: Food crisis plan unveiled by U.S., banks – CTV News https://t.co/vvT5xqklWE
+ 
+# BirgeLoofUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` BirgeLoof 
+ 
+`User chosen Name:` Birge Lööf 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 13 08:32:45 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `5 
  
-`Following?:` 82 
+`Following?:` 57 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 36 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1603293287598653442/U8jQqg78_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 36 
+`Number of tweets excluding replies:` 203 
  
 
  
@@ -2137,40 +1068,38 @@ Take a military-grade style Signature Reduction course and focus on securing the
  
 ## User Top tweeted words 
  
-**AIRDROP** 13 , **💧** 12 , **➕** 11 , **🏆** 8 , **@SPDBINANCE:** 8 , **👨‍👩‍👧** 7 , **@AIRDROPSTARIO:** 6 , **TASK:** 6 , **@DMAG_OFFICIAL:** 5 , **RANDOM** 5 , **PARTICIPANTS** 5 , **EACH** 5 , **REFERRAL:** 5 , **SUPERDOGE** 5 , **NEW** 4 , **PRICE** 4 , **BUSD** 4 , **USDT** 3 , **USD** 3 , **@COREDAO_ORG:** 3 , 
+**OCH** 36 , **ATT** 34 , **ÄR** 33 , **DET** 29 , **SOM** 29 , **HAR** 25 , **FÖR** 24 , **PÅ** 22 , **EN** 22 , **VIA** 21 , **TILL** 18 , **MED** 17 , **INTE** 16 , **AV** 15 , **DE** 14 , **OM** 13 , **NÄR** 10 , **VAD** 10 , **MOT** 9 , **VI** 9 , 
  
 ## What this user tweeted
  
-RT @HazeCryptoTM: ✅ HazeCrypto audit found no vulnerabilities, backdoors or any scam scripts on the project below:
-
-🌐 contract20BNB - https…
+RT @wallacemick: Several months later and the #EU is still promoting a War that suits #US #NATO + the Military Industrial Complex, but a to…
  
-# abhirajabhi312USER INFO
-![image](http://pbs.twimg.com/profile_images/1602620057279901697/eUdVwTT__normal.jpg)
+# Peacemom77777USER INFO
+![image](http://pbs.twimg.com/profile_images/1600794525361905664/4YbYUqey_normal.png)
  
-`User ScreenName:` abhirajabhi312 
+`User ScreenName:` Peacemom77777 
  
-`User chosen Name:` Abhishek kumar 
+`User chosen Name:` Kathleen McEvoy 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 12 01:15:25 +0000 2022 
+`User signup date?:` Thu Dec 08 10:08:50 +0000 2022 
  
-`User Description?:` Web-D | excited about open source & everything revolving around tech || CSE '26 
+`User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 68 
+`Following?:` 23 
  
-`User URL?:` https://t.co/uAH9HkctWX 
+`User URL?:` None 
  
-`Location:` India  
+`Location:`  
  
-`Number of tweets extracted`  : 56 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1602620057279901697/eUdVwTT__normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1600794525361905664/4YbYUqey_normal.png 
  
-`Number of tweets excluding replies:` 56 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -2178,11 +1107,89 @@ RT @HazeCryptoTM: ✅ HazeCrypto audit found no vulnerabilities, backdoors or an
  
 ## User Top tweeted words 
  
-**SOURCE** 20 , **OPEN** 14 , **SOFTWARE** 11 , **COLLABORATION** 5 , **HELPFUL** 4 , **😇** 4 , **THREAD** 4 , **BUSINESSES** 4 , **USING** 4 , **CODE** 4 , **USE** 4 , **CSS** 4 , **CHATGPT** 3 , **WORK** 3 , **😂** 3 , **THANKS** 3 , **PROJECTS** 3 , **DON'T** 3 , **YEAR** 3 , **HERE** 3 , 
+**UKRAINE** 3 , **@MCFAUL:** 2 , **RUSSIANS** 2 , **EVIL** 2 , **ITS** 2 , **RT** 1 , **COMMITTED** 1 , **OUTRAGEOUS** 1 , **ACTS** 1 , **PUTIN** 1 , **MADE** 1 , **DECISION** 1 , **INVADE** 1 , **CARRIED** 1 , **H…RT** 1 , **@APMASSARO3:** 1 , **MORNING** 1 , **NEWLY** 1 , **ASTOUNDED** 1 , **ISN'T** 1 , 
  
 ## What this user tweeted
  
-Open source software is often more secure and reliable. With many eyes on the code, open source projects can quickl… https://t.co/xqvUbdpVTH
+RT @McFaul: Russians have committed outrageous, evil acts in Ukraine. Putin made the decision to invade Ukraine. But Russians carried out h…
+ 
+# Debroui1GilbertUSER INFO
+![image](http://pbs.twimg.com/profile_images/1602331950550753283/dLMv5lu0_normal.png)
+ 
+`User ScreenName:` Debroui1Gilbert 
+ 
+`User chosen Name:` Gilbert Debrouille 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 12 15:58:01 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `36 
+ 
+`Following?:` 281 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1602331950550753283/dLMv5lu0_normal.png 
+ 
+`Number of tweets excluding replies:` 3087 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 139 , **LA** 94 , **LE** 71 , **LES** 65 , **À** 56 , **DES** 51 , **ET** 39 , **EN** 38 , **:** 33 , **DU** 33 , **!** 30 , **UN** 27 , **QUI** 23 , **QUE** 23 , **EST** 22 , **IL** 20 , **POUR** 20 , **DANS** 19 , **AU** 17 , **SUR** 17 , 
+ 
+## What this user tweeted
+ 
+RT @AP_Climate: Coal use across the world is set to reach a new record this year amid persistently high demand for the heavily polluting fo…
+ 
+# DexVT50USER INFO
+![image](http://pbs.twimg.com/profile_images/1603591938116145154/KwrcYM9y_normal.png)
+ 
+`User ScreenName:` DexVT50 
+ 
+`User chosen Name:` Dex 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 16 03:24:45 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 29 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1603591938116145154/KwrcYM9y_normal.png 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 6 , **RUSSIA** 5 , **@THE_REAL_FLY** 2 , **WRONG** 2 , **NATO** 2 , **GOING** 2 , **PRETTY** 1 , **MUCH** 1 , **SAW** 1 , **COMING** 1 , **EVEN** 1 , **FIGHTS** 1 , **BLOODY** 1 , **STILL** 1 , **BLOODSLIDE…** 1 , **HTTPS://TCO/YFYBBBR5FU@CAITOZ** 1 , **@ZFTHINKER** 1 , **THOUGH?** 1 , **CANNOT** 1 , **REMEMBER** 1 , 
+ 
+## What this user tweeted
+ 
+@The_Real_Fly Pretty much. Saw that coming. Even if Ukraine fights to the bloody end. It will still be a bloodslide… https://t.co/YFYBBbr5fu
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
