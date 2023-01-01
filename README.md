@@ -296,11 +296,43 @@ Misses ambassador ,what do u tell me about donesk,how ukraine attacks this peace
  
 `Location:`  
  
-`Number of tweets extracted`  : 97 
+`Numb**TOKENIZATION** 1 , **REAL-WORLD** 1 , **ASSETS** 1 , **(NOT** 1 , **NEXT** 1 , **PFP** 1 , **PROJECT)** 1 , **F…** 1 , **HTTPS://TCO/WPDDIB6JIQBACKING** 1 , 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1608171832259088387/IeJxAHqn_normal.jpg 
+## What this user tweeted
  
-`Number of tweets excluding replies:` 97 
+Main areas of interest:
+
+- Cybersecurity
+- DeFi
+- Tokenization of real-world assets (not your next PFP project)
+- F… https://t.co/WpddIB6jiq
+ 
+# Amitjha58441242USER INFO
+![image](http://pbs.twimg.com/profile_images/1606547575771103233/PLRikuaY_normal.jpg)
+ 
+`User ScreenName:` Amitjha58441242 
+ 
+`User chosen Name:` Amit jha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 23 09:56:02 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 93 
+ 
+`User URL?:` None 
+ 
+`Location:` New Delhi, India 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1606547575771103233/PLRikuaY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8534 
  
 
  
@@ -308,39 +340,79 @@ Misses ambassador ,what do u tell me about donesk,how ukraine attacks this peace
  
 ## User Top tweeted words 
  
-**BIDEN** 13 , **PRESIDENT** 12 , **JOE** 9 , **TRUMP** 9 , **TAX** 8 , **RECORD** 8 , **NEW** 7 , **@THELEOTERRELL:** 7 , **US** 6 , **REPUBLICANS** 6 , **RAY** 5 , **TIME** 4 , **SOUTHERN** 4 , **AMERICAN** 4 , **PEOPLE** 4 , **AFTER** 4 , **DONALD** 4 , **@GOP:** 4 , **@TOMFITTON:** 4 , **YEAR** 4 , 
+**@CBP** 33 , **AGENTS** 29 , **@USBPCHIEFYUM:** 27 , **@USBPCHIEFEPT:** 22 , **@CBPINTLAFFAIRAC:** 21 , **BORDER** 16 , **SECTOR** 16 , **STATION** 16 , **@USBPCHIEF:** 13 , **YUMA** 13 , **US** 10 , **@WCO_OMD** 10 , **EL** 10 , **USBP** 10 , **DE** 9 , **LA** 9 , **@CBPEUROPE:** 9 , **PATROL** 9 , **OFFICE** 8 , **WEEK** 7 , 
  
 ## What this user tweeted
  
-RT @marklevinshow: Obama, abject failure
-https://t.co/BWVJNYf60W
+RT @CBPIntlAffairAC: I was honored to chair the @CBP roundtable with @WCO_OMD @wcosg Mikuriya to discuss CBP priorities including our green…
  
-# MalmstromGlendaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606992221286400000/N2IPr8c2_normal.jpg)
+# c_ryancsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1608527592990064641/0DC4i1lr_normal.jpg)
  
-`User ScreenName:` MalmstromGlenda 
+`User ScreenName:` c_ryancs 
  
-`User chosen Name:` glenda malmstrom 
+`User chosen Name:` RyanC 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Dec 25 12:36:16 +0000 2022 
+`User signup date?:` Tue Dec 27 22:12:45 +0000 2022 
+ 
+`User Description?:` #bugbounty hunter / penetration tester , eWAPTX / eWAPT / eJPT 💻 
+ 
+`Followers?: `3 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:` Egypt 
+ 
+`Number of tweets extracted`  : 171 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1608527592990064641/0DC4i1lr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 171 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@0X0SOJALSEC:** 29 , **XSS** 23 , **CYBERSECURITY** 21 , **BUGBOUNTY** 21 , **BUGBOUNTYTIPS** 18 , **BYPASS** 16 , **INFOSEC** 15 , **HACKING** 14 , **:** 14 , **1** 12 , **•** 11 , **PAYLOAD** 11 , **GITHUB** 10 , **@NANDANLOHITAKSH:** 10 , **FILE** 10 , **@AKACLANDESTINE:** 9 , **@MANIESHNEUPANE:** 9 , **LINUX** 9 , **2** 9 , **INJECTION** 8 , 
+ 
+## What this user tweeted
+ 
+RT @three_cube: Wi-Fi Hacking, Part 11: The PMKID Attack Against WPA2-PSK (password) #wifihacking #pmkid #cybersecurity #cyberwarrior
+
+http…
+ 
+# mike_harbison_USER INFO
+![image](http://pbs.twimg.com/profile_images/1609081787799539712/xLfr_-P0_normal.jpg)
+ 
+`User ScreenName:` mike_harbison_ 
+ 
+`User chosen Name:` Mike Harbison 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 31 06:59:13 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 1 
+`Following?:` 34 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 79 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1606992221286400000/N2IPr8c2_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1609081787799539712/xLfr_-P0_normal.jpg 
  
-`Number of tweets excluding replies:` 78 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -348,40 +420,78 @@ https://t.co/BWVJNYf60W
  
 ## User Top tweeted words 
  
-**VIA** 42 , **LITERALLY** 9 , **REDACTED** 7 , **NEW** 6 , **NEWS** 6 , **CLAYTON** 5 , **WORLD** 5 , **PEOPLE** 4 , **EVEN** 4 , **DOLLARS** 4 , **@FACEBOOKWATCHI** 4 , **AFTER** 4 , **VERY** 4 , **GATES** 4 , **SO-CALLED** 4 , **HTTPS://TCO/VSRBMKENO6** 3 , **@FACEBOOKWATCHTHIS** 3 , **MORRIS** 3 , **EXPOSES** 3 , **@FACEBOOKWATCHTHEY** 3 , 
+**PUBLISHED** 2 , **ORGANIZATION** 2 , **SECURITY** 2 , **2023** 2 , **NEEDS** 1 , **REPRESENTATIVE** 1 , **TABLE** 1 , **CYBERSECURTITY** 1 , **HTTPS://TCO/EJK7SET2TQRT** 1 , **@ISECURITY:** 1 , **LASTPASS** 1 , **THERE’S** 1 , **NEWS** 1 , **USERS** 1 , **STORING** 1 , **SENSITIVE** 1 , **INFORMATION** 1 , **USING** 1 , **PRODUCT** 1 , **HTTPS://TCO/RK4BHMGAQR** 1 , 
  
 ## What this user tweeted
  
-Neo-Nazi threat in new Ukraine: NEWSNIGHT 2014
-
-BBC Newsnight's Gabriel Gatehouse investigates the links between th… https://t.co/VbUzKYPrj1
+RT @iSecurity: LastPass — There’s more news for users storing sensitive information using the product. https://t.co/rK4bhmgaqr #infrastruct…
  
-# GotLongTermUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606818601029488640/os9eoUSw_normal.jpg)
+# ITWorkforcePapiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1606352932504494080/A7IPdUTE_normal.jpg)
  
-`User ScreenName:` GotLongTerm 
+`User ScreenName:` ITWorkforcePapi 
  
-`User chosen Name:` JayLT 
+`User chosen Name:` cyber workforce papi 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Dec 24 03:34:03 +0000 2022 
+`User signup date?:` Fri Dec 23 16:27:10 +0000 2022 
+ 
+`User Description?:` I run an IT training school and make content to help people make informed IT career decisions. 
+ 
+`Followers?: `3 
+ 
+`Following?:` 48 
+ 
+`User URL?:` https://t.co/SeNa1Vshv5 
+ 
+`Location:` san antonio, tx 
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1606352932504494080/A7IPdUTE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DYN_ADVANCEMENT:** 5 , **CYBERSECURITY** 5 , **TICTOK** 2 , **CAREER** 2 , **DATASECURITY** 2 , **RT** 1 , **NEVER** 1 , **WORKED** 1 , **WON'T** 1 , **UNDERSTAND** 1 , **DANGEROUS** 1 , **HTTPS://TCO/TNBS51JP2LRT** 1 , **CAREERS** 1 , **EVERYWHERE!** 1 , **HTTPS://TCO/HJNLLEWKA7RT** 1 , **SUCCESSFUL** 1 , **OILANDGAS** 1 , **INDUSTRY?** 1 , **HTTPS://TCO/M4RA2YFI…@LILMOONLAMBO** 1 , **BAHAHAHAHART** 1 , 
+ 
+## What this user tweeted
+ 
+RT @dyn_advancement: If you never worked in #cybersecurity you won't understand how dangerous #TicTok
+is https://t.co/tNbS51Jp2l
+ 
+# RUDRANA27622426USER INFO
+![image](http://pbs.twimg.com/profile_images/1606611095032320000/5QLgAXQW_normal.jpg)
+ 
+`User ScreenName:` RUDRANA27622426 
+ 
+`User chosen Name:` Rudra Narayan Chaubey 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 24 11:17:37 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `14 
+`Followers?: `1 
  
-`Following?:` 111 
+`Following?:` 24 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 26 
+`Number of tweets extracted`  : 124 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1606818601029488640/os9eoUSw_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1606611095032320000/5QLgAXQW_normal.jpg 
  
-`Number of tweets excluding replies:` 26 
+`Number of tweets excluding replies:` 124 
  
 
  
@@ -389,38 +499,39 @@ BBC Newsnight's Gabriel Gatehouse investigates the links between th… https://t
  
 ## User Top tweeted words 
  
-**FREE** 3 , **TWITTER** 3 , **LOOK** 2 , **2023** 2 , **$XRP** 2 , **NEW** 2 , **WISH** 2 , **TRADING** 2 , **FIND** 2 , **PEOPLE** 2 , **FILES** 2 , **DROP** 2 , **@BWHITE4363** 1 , **@DAILYCALLER** 1 , **PURELY** 1 , **COMES** 1 , **ACROSS** 1 , **DEVIL** 1 , **WORSHIPPER** 1 , **DISTURBED…** 1 , 
+**के** 129 , **में** 63 , **की** 57 , **जी** 48 , **से** 31 , **को** 30 , **का** 30 , **पर** 26 , **श्री** 24 , **और** 21 , **ने** 20 , **भारत** 18 , **है।** 17 , **@RAHULRAJANSH:** 15 , **प्रदेश** 14 , **प्रधानमंत्री** 13 , **कर** 13 , **@GIRISHYADAVBJP:** 13 , **@ATUL4BJP:** 13 , **@KPPS_BHU:** 12 , 
  
 ## What this user tweeted
  
-RT @kate_freedomer: My youngest child just got diagnosed with strep at the urgent care. No big deal. Rx for Amoxicillin. However, CVS says…
+RT @SKodineya: #Spread #wings 🕊️of #cyber #awareness
+Thought-provoking depictions of impact of #cyberworld on mankind &amp; how to #staysafeonl…
  
-# KathrynRiverUSER INFO
-![image](http://pbs.twimg.com/profile_images/1608476523543269377/f_lCT4-G_normal.jpg)
+# RahulRajJain11USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` KathrynRiver 
+`User ScreenName:` RahulRajJain11 
  
-`User chosen Name:` Kathryn 
+`User chosen Name:` Rahul Raj Jain 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 29 00:56:21 +0000 2022 
+`User signup date?:` Sat Dec 24 12:24:51 +0000 2022 
  
-`User Description?:` California Democrat.   Need I say more?  Lost my old account, this one is new.  Kinda fun to start over. 
+`User Description?:`  
  
-`Followers?: `6 
+`Followers?: `0 
  
-`Following?:` 100 
+`Following?:` 14 
  
 `User URL?:` None 
  
-`Location:` Planet Earth 
+`Location:`  
  
-`Number of tweets extracted`  : 137 
+`Number of tweets extracted`  : 98 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1608476523543269377/f_lCT4-G_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 137 
+`Number of tweets excluding replies:` 98 
  
 
  
@@ -428,40 +539,158 @@ RT @kate_freedomer: My youngest child just got diagnosed with strep at the urgen
  
 ## User Top tweeted words 
  
-**GEORGE** 12 , **NEW** 10 , **HOUSE** 10 , **SANTOS** 8 , **@MMPADELLAN:** 8 , **@REPSWALWELL:** 7 , **YEARS** 7 , **PEOPLE** 7 , **AFTER** 7 , **@JOYCEWHITEVANCE:** 6 , **YEAR** 6 , **GOOD** 6 , **US** 6 , **REPUBLICANS** 5 , **@US_STORMWATCH:** 5 , **A…RT** 5 , **NEXT** 5 , **@RBREICH:** 5 , **LIFE** 5 , **FEDERAL** 5 , 
+**के** 115 , **में** 50 , **की** 46 , **जी** 42 , **का** 25 , **को** 23 , **से** 23 , **पर** 22 , **श्री** 21 , **भारत** 16 , **ने** 15 , **और** 15 , **है।** 14 , **प्रधानमंत्री** 13 , **@RAHULRAJANSH:** 12 , **प्रदेश** 11 , **@GIRISHYADAVBJP:** 11 , **साथ** 11 , **@KIRTIMANBJP9695:** 10 , **@KPPS_BHU:** 10 , 
  
 ## What this user tweeted
  
-RT @OlenaHalushka: A million times thank you to everybody who supported Ukraine in 2022. Let 2023 finally bring long-overdue Ukrainian vict…
+RT @SKodineya: #Spread #wings 🕊️of #cyber #awareness
+Thought-provoking depictions of impact of #cyberworld on mankind &amp; how to #staysafeonl…
  
-# BullOnBeachUSER INFO
-![image](http://pbs.twimg.com/profile_images/1607975302189162498/3vw63iWm_normal.jpg)
+# RahulRajJain12USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` BullOnBeach 
+`User ScreenName:` RahulRajJain12 
  
-`User chosen Name:` Tom Bready 
+`User chosen Name:` Rahul Raj Jain 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Dec 28 05:41:56 +0000 2022 
+`User signup date?:` Sat Dec 24 12:35:57 +0000 2022 
  
-`User Description?:` Pronouns: Me/Myself/I
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 82 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 82 
+ 
 
-Goal: To disrupt whatever is left of the liberal echo chamber. 
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 94 , **में** 44 , **की** 39 , **जी** 36 , **से** 22 , **का** 21 , **श्री** 20 , **को** 17 , **पर** 17 , **ने** 14 , **और** 14 , **भारत** 13 , **@RAHULRAJANSH:** 12 , **है।** 11 , **@KIRTIMANBJP9695:** 10 , **प्रधानमंत्री** 10 , **प्रदेश** 10 , **सिंह** 10 , **देश** 10 , **@GIRISHYADAVBJP:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @SKodineya: #Spread #wings 🕊️of #cyber #awareness
+Thought-provoking depictions of impact of #cyberworld on mankind &amp; how to #staysafeonl…
+ 
+# RahulRajJain13USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` RahulRajJain13 
+ 
+`User chosen Name:` Rahul Raj Jain 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 24 12:39:33 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 82 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 82 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 94 , **में** 44 , **की** 39 , **जी** 36 , **से** 22 , **का** 21 , **श्री** 20 , **को** 17 , **पर** 17 , **ने** 14 , **और** 14 , **भारत** 13 , **@RAHULRAJANSH:** 12 , **है।** 11 , **@KIRTIMANBJP9695:** 10 , **प्रधानमंत्री** 10 , **प्रदेश** 10 , **सिंह** 10 , **देश** 10 , **@GIRISHYADAVBJP:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @SKodineya: #Spread #wings 🕊️of #cyber #awareness
+Thought-provoking depictions of impact of #cyberworld on mankind &amp; how to #staysafeonl…
+ 
+# AnujPan40803680USER INFO
+![image](http://pbs.twimg.com/profile_images/1606219103106084864/F049hMuW_normal.png)
+ 
+`User ScreenName:` AnujPan40803680 
+ 
+`User chosen Name:` Anuj Pandey 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 23 09:24:10 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 185 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1606219103106084864/F049hMuW_normal.png 
+ 
+`Number of tweets excluding replies:` 185 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 91 , **में** 68 , **जी** 49 , **की** 44 , **को** 33 , **@NARENDRAMODI** 32 , **का** 29 , **से** 28 , **श्री** 27 , **है** 18 , **प्रधानमंत्री** 16 , **@SUKHGREWALBJP:** 12 , **देश** 12 , **2022** 12 , **भारत** 12 , **@NIRAVSHAHBJP:** 11 , **नेतृत्व** 11 , **@UMANG_BJP:** 10 , **और** 10 , **@ASHISHSOOD_BJP:** 10 , 
+ 
+## What this user tweeted
+ 
+RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
+ 
+# PrinceG38812938USER INFO
+![image](http://pbs.twimg.com/profile_images/1608748637080944645/JOkw0_4r_normal.jpg)
+ 
+`User ScreenName:` PrinceG38812938 
+ 
+`User chosen Name:` Prince Goswami 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 30 08:52:21 +0000 2022 
+ 
+`User Description?:`  
  
 `Followers?: `2 
  
-`Following?:` 63 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 119 
+`Number of tweets extracted`  : 173 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1607975302189162498/3vw63iWm_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1608748637080944645/JOkw0_4r_normal.jpg 
  
-`Number of tweets excluding replies:` 119 
+`Number of tweets excluding replies:` 173 
  
 
  
@@ -469,11 +698,167 @@ Goal: To disrupt whatever is left of the liberal echo chamber.
  
 ## User Top tweeted words 
  
-**YOU’RE** 8 , **@ELONMUSK** 7 , **TAX** 6 , **TIME** 5 , **PEOPLE** 5 , **BLACKROCK** 4 , **BIDEN** 4 , **MUCH** 4 , **STILL** 4 , **DON’T** 3 , **WITHOUT** 3 , **TWITTER** 3 , **COUNTRY** 3 , **THESE** 3 , **TOO** 3 , **EVERYONE** 2 , **LOT** 2 , **FIRE** 2 , **LET** 2 , **FAUCI** 2 , 
+**के** 90 , **में** 66 , **जी** 49 , **की** 42 , **को** 33 , **@NARENDRAMODI** 30 , **का** 29 , **से** 28 , **श्री** 27 , **है** 18 , **प्रधानमंत्री** 16 , **देश** 12 , **भारत** 12 , **2022** 12 , **नेतृत्व** 11 , **रेलवे** 10 , **पर** 10 , **@ASHISHSOOD_BJP:** 10 , **और** 10 , **@UMANG_BJP:** 9 , 
  
 ## What this user tweeted
  
-@BNOFeed Distracting everyone from Blackrock owning Ukraine
+RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
+ 
+# giri_aaradhyaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1606034309303144448/1Xb1XqfS_normal.jpg)
+ 
+`User ScreenName:` giri_aaradhya 
+ 
+`User chosen Name:` Aaradhya Giri 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 22 20:57:46 +0000 2022 
+ 
+`User Description?:` Jai mata di 
+ 
+`Followers?: `15 
+ 
+`Following?:` 21 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1606034309303144448/1Xb1XqfS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1264 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 105 , **में** 69 , **जी** 53 , **की** 47 , **को** 42 , **@NARENDRAMODI** 34 , **का** 32 , **से** 30 , **श्री** 30 , **पर** 20 , **प्रधानमंत्री** 18 , **है** 18 , **भारत** 16 , **@UMANG_BJP:** 14 , **देश** 13 , **@SUKHGREWALBJP:** 13 , **2022** 12 , **नेतृत्व** 12 , **ने** 11 , **और** 11 , 
+ 
+## What this user tweeted
+ 
+RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
+ 
+# NituGir55736887USER INFO
+![image](http://pbs.twimg.com/profile_images/1606962826987606018/pJawuVWF_normal.jpg)
+ 
+`User ScreenName:` NituGir55736887 
+ 
+`User chosen Name:` Nitu Giri 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 24 10:11:35 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1606962826987606018/pJawuVWF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1179 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 98 , **में** 70 , **जी** 49 , **की** 43 , **को** 40 , **@NARENDRAMODI** 36 , **से** 31 , **का** 29 , **श्री** 28 , **है** 21 , **प्रधानमंत्री** 17 , **पर** 17 , **भारत** 15 , **देश** 13 , **@SWAMIANANDSWARO:** 13 , **ने** 13 , **@RAJIB4BJP:** 12 , **2022** 12 , **नेतृत्व** 12 , **लिए** 12 , 
+ 
+## What this user tweeted
+ 
+RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
+ 
+# PoojaPa34065764USER INFO
+![image](http://pbs.twimg.com/profile_images/1608473482517708807/xRP0b6Xy_normal.jpg)
+ 
+`User ScreenName:` PoojaPa34065764 
+ 
+`User chosen Name:` Pooja Pandey 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 29 14:40:56 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1608473482517708807/xRP0b6Xy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 372 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 98 , **में** 66 , **जी** 51 , **की** 47 , **को** 42 , **@NARENDRAMODI** 33 , **श्री** 30 , **का** 30 , **से** 29 , **है** 19 , **पर** 18 , **भारत** 15 , **प्रधानमंत्री** 15 , **@UMANG_BJP:** 13 , **@SUKHGREWALBJP:** 13 , **देश** 13 , **ने** 12 , **JI** 12 , **नेतृत्व** 12 , **और** 11 , 
+ 
+## What this user tweeted
+ 
+RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
+ 
+# RoliDub19324109USER INFO
+![image](http://pbs.twimg.com/profile_images/1606962128937975810/OChgJJkE_normal.jpg)
+ 
+`User ScreenName:` RoliDub19324109 
+ 
+`User chosen Name:` Roli Dubey 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 25 06:27:27 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1606962128937975810/OChgJJkE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1181 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 99 , **में** 68 , **जी** 54 , **की** 45 , **को** 41 , **@NARENDRAMODI** 39 , **श्री** 33 , **का** 31 , **से** 26 , **प्रधानमंत्री** 18 , **है** 17 , **पर** 16 , **भारत** 14 , **देश** 13 , **ने** 13 , **@SWAMIANANDSWARO:** 13 , **@RAJIB4BJP:** 12 , **नेतृत्व** 12 , **लिए** 12 , **2022** 11 , 
+ 
+## What this user tweeted
+ 
+RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
