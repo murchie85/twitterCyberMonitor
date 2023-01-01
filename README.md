@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **igorlachenkov**  
+The most popular user is: **BrentToderian**  
  
 
-## For russians the "russian New Year at the festive table" is the footage of ruined buildings in Ukraine. These are p… https://t.co/I2zDlQOsuJ 
+## “In Finland, the # of homeless people has fallen sharply. Those affected receive a small apartment &amp; counselling wi… https://t.co/Vw9H499jgQ 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **igorlachenkov**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MFA_Ukraine: #RussiaIsATerroristState00:35, 1st raid alert in 2023.We will keep fighting, #Ukraine will win. https://t.co/rxD1fK4EJV |
-| Ukrainian Drones Strikes Dropping the Bomb right on top of the Dozens Russian Military BMP and Tank#Canada… https://t.co/zr5HdVufSp |
-| RT @15poundstogo: The State Dept released 69 documents foia yesterday, including a bit on Wuhan and Ukraine, but also stuff on how they han… |
+| RT @Ox4d5a: Rust - ReflectiveLoader64mimikatz and metasploit payloads are working nicelyhttps://t.co/rtwFMN87KHhttps://t.co/f3QJXhvQQk… |
+| Happy new year to the whole #infosec community, have some good fun and best wishes for 2023, may it bring some amaz… https://t.co/0SJq5lhQQx |
+| Dad programmer jokes#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie #python… https://t.co/KoG9zqwOuW |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ZelenskyyUa** |
-| #2 Most tweeted to  | **USAmbKyiv** |
-| #3 Most tweeted to  | **strategywoman** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 5.76%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **Shubham_pen** |
+| #3 Most tweeted to  | **0x0SojalSec** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 6.34%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,367 +50,181 @@ The most popular user is: **igorlachenkov**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **YEAR**  |
-| third  | **US** |
-| fourth  | **2023**  |
-| fifth  | **RUSSIA**  |
+| first  | **INFOSEC**  |
+| second  | **PENTESTING**  |
+| third  | **OSCP** |
+| fourth  | **REDTEAM**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NOELreports: 79% of Poles consider Russia a threat and are ready to help Ukraine, according to a CBOS poll.The vast majority of respo… |
+|RT @0x0SojalSec: A Chrome extension that keeps track of the injected urls with Blind XSS payloads.https://t.co/VWFArXu4lC#infosec #cyber… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **igorlachenkov**  |
+| The most retweeted user is: **BrentToderian**  |
 | ------------- |
-| For russians the "russian New Year at the festive table" is the footage of ruined buildings in Ukraine. These are p… https://t.co/I2zDlQOsuJ |
+| “In Finland, the # of homeless people has fallen sharply. Those affected receive a small apartment &amp; counselling wi… https://t.co/Vw9H499jgQ |
 
 # Potential Fake Accounts
  
-# KellyThe3rdUSER INFO
-![image](http://pbs.twimg.com/profile_images/1607212496489684992/GKg4KRG5_normal.jpg)
+# aMEEduUSER INFO
+![image](http://pbs.twimg.com/profile_images/1607097918464446471/SXqYbOJ7_normal.jpg)
  
-`User ScreenName:` KellyThe3rd 
+`User ScreenName:` aMEEdu 
  
-`User chosen Name:` KellyThe2nd - TAPIOCA 🫦 🐸 
+`User chosen Name:` me 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 26 02:47:37 +0000 2022 
+`User signup date?:` Sun Dec 25 19:09:20 +0000 2022 
  
-`User Description?:` twitter is whack, temp account (I hope) 
-I have a fever. 
+`User Description?:` Ff 
  
-`Followers?: `5 
+`Followers?: `0 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1607097918464446471/SXqYbOJ7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**“CONGRATULATIONS** 4 , **INFOSEC** 3 , **CYBERSECURITY** 3 , **PENTESTING** 3 , **OSCP** 3 , **DAY** 3 , **YEAR** 3 , **@FASC1NATE:** 3 , **▫️** 3 , **@SHUBHAM_PEN:** 2 , **INFORMATIONSECURITY** 2 , **CISSP** 2 , **REDTEAM** 2 , **YOU’RE** 2 , **@ESPN:** 2 , **LAST** 2 , **BANGER** 2 , **AFTER** 2 , **@NIALLHARBISON:** 2 , **KILLED** 2 , 
+ 
+## What this user tweeted
+ 
+RT @Shubham_pen: Linux Command Line Cheat Sheet
+Credit: https://t.co/okY2Dl161a
+
+#infosec #cybersecurity #pentesting #oscp  #informationsec…RT @Shubham_pen: The SSL/TLS Handshake Process
+
+#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #cissp #redteam #t…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…
+ 
+# FelixGinaldoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1607355152293322752/3KC64_Pm_normal.jpg)
+ 
+`User ScreenName:` FelixGinaldo 
+ 
+`User chosen Name:` Ginaldo Félix serviços de marketing digital 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 26 12:38:25 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1607355152293322752/3KC64_Pm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INSTAGRAM** 1 , **DATA** 1 , **EXTRACTOR** 1 , **PRO** 1 , **V30** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/ILO0SWEGT1** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/DJBHA0HGGV** 1 , 
+ 
+## What this user tweeted
+ 
+Instagram Data Extractor Pro v3.0 Full Activated – Discount 100% OFF https://t.co/ilO0SWegt1 #infosec #bugcrowd… https://t.co/Djbha0HGgV
+ 
+# NetvertaTUSER INFO
+![image](http://pbs.twimg.com/profile_images/1606379866500304896/0h_csPgH_normal.jpg)
+ 
+`User ScreenName:` NetvertaT 
+ 
+`User chosen Name:` Netverta Technologies 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 23 20:02:11 +0000 2022 
+ 
+`User Description?:` At Netverta, we will provide the ongoing technology services you need to operate effectively. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 30 
+ 
+`User URL?:` https://t.co/3bKST1h2o3 
+ 
+`Location:` Florida, USA 
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1606379866500304896/0h_csPgH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NETVERTA** 3 , **HERE** 3 , **EDGE** 3 , **YEAR** 2 , **US** 2 , **@HACKINARTICLES:** 2 , **PIC** 2 , **DAY** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **CYBERSECURITYTIPS** 2 , **PENTESTING** 2 , **OSCP** 2 , **REDTEAM** 2 , **INFORMATIONSECURITY** 2 , **CISSP** 2 , **C…RT** 2 , **HUMOR** 2 , **MAKES** 2 , **YOU!** 2 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…
+ 
+# 12_xssUSER INFO
+![image](http://pbs.twimg.com/profile_images/1609540054413893635/__BDHKcp_normal.jpg)
+ 
+`User ScreenName:` 12_xss 
+ 
+`User chosen Name:` 𝓢𝓸𝓾𝓶𝔂𝓪𝓭𝓲𝓹 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 01 13:11:03 +0000 2023 
+ 
+`User Description?:` God's child will rise again✌️ 
+ 
+`Followers?: `1 
  
 `Following?:` 37 
  
 `User URL?:` None 
  
-`Location:` scotland, mostly ❄ 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1607212496489684992/GKg4KRG5_normal.jpg 
- 
-`Number of tweets excluding replies:` 216 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DON'T** 12 , **I'M** 12 , **@PARXAFTERDARK2** 10 , **THAT'S** 9 , **@WATERPARKS** 9 , **NEED** 9 , **EVEN** 9 , **ANY** 8 , **STILL** 8 , **LOL** 8 , **GOING** 7 , **@AWSTEN** 7 , **TIME** 6 , **?** 6 , **SOMETHING** 6 , **CAN'T** 6 , **THOUGHT** 6 , **PEOPLE** 6 , **WELL** 6 , **/** 5 , 
- 
-## What this user tweeted
- 
-London going full cringe with their #HappyNewYears message 🙄 with the Ukraine stuff. So glad I didn't go / stay the… https://t.co/XGEKguWcYM
- 
-# ZFallangUSER INFO
-![image](http://pbs.twimg.com/profile_images/1607670725749444608/mur7twd9_normal.png)
- 
-`User ScreenName:` ZFallang 
- 
-`User chosen Name:` Zeeg Fallang 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 27 09:32:24 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1607670725749444608/mur7twd9_normal.png 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DON'T** 3 , **MUCH** 3 , **I'M** 3 , **GOOD** 3 , **GOLUB** 2 , **BAD** 2 , **NEWS** 2 , **ETHEREUM** 2 , **IVAN** 1 , **VS** 1 , **JARON** 1 , **'BOOTS'** 1 , **ENNIS** 1 , **SCHEDULED** 1 , **7TH** 1 , **JANUARY** 1 , **GOING** 1 , **BEAT** 1 , **@JARONENNIS** 1 , **BOXING** 1 , 
- 
-## What this user tweeted
- 
-Ivan Golub vs Jaron 'Boots' Ennis scheduled for the 7th of January
-Golub is going to beat @JaronEnnis
-#Boxing Golub… https://t.co/63vfTIRwUn
- 
-# MaxjessepiperUSER INFO
-![image](http://pbs.twimg.com/profile_images/1607872356021583874/PRMT0nYj_normal.jpg)
- 
-`User ScreenName:` Maxjessepiper 
- 
-`User chosen Name:` Teresa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 27 22:53:07 +0000 2022 
- 
-`User Description?:` Here to help Ukraine. Slava Ukraini! Heroiam Slava! 🇺🇸🇺🇦 Notorious B I G Fella 
- 
-`Followers?: `364 
- 
-`Following?:` 365 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1607872356021583874/PRMT0nYj_normal.jpg 
- 
-`Number of tweets excluding replies:` 244 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEW** 21 , **UKRAINE** 13 , **YEAR** 12 , **HAPPY** 10 , **HEY** 6 , **RUSSIA** 6 , **GO** 6 , **@CZEBURASHKA** 6 , **WISH** 5 , **SEND** 5 , **PLEASE** 5 , **RUSSIAN** 5 , **ITS** 5 , **@FELLARAKTAR** 5 , **NAFO** 5 , **GOT** 5 , **GOOD** 4 , **WEAPONS** 4 , **@MINDYNL79** 4 , **HERE** 4 , 
- 
-## What this user tweeted
- 
-@POTUS GOOD. Give Ukraine enough weapons to end this war!💙💛
- 
-# gregkay1927USER INFO
-![image](http://pbs.twimg.com/profile_images/1606717335498285056/DTJTPusU_normal.jpg)
- 
-`User ScreenName:` gregkay1927 
- 
-`User chosen Name:` Kay 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 23 23:52:35 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `44 
- 
-`Following?:` 799 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606717335498285056/DTJTPusU_normal.jpg 
- 
-`Number of tweets excluding replies:` 701 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GINNI** 13 , **THOMAS** 12 , **TATE** 11 , **TRUMP** 11 , **ANDREW** 9 , **GOOD** 9 , **DON’T** 7 , **LET** 7 , **@THERICKWILSON** 7 , **MAN** 6 , **HOUSE** 6 , **@IGORNOVIKOV:** 5 , **NEW** 5 , **MOST** 5 , **ANY** 5 , **@BADDCOMPANI** 5 , **TAXES** 4 , **WANTED** 4 , **MAGA** 4 , **PEOPLE** 4 , 
- 
-## What this user tweeted
- 
-RT @igornovikov: My final update of 2022. In 2 hours, I'll be turning 40 and Ukraine will enter the year 2023. 
-
-Here's to our Victory in t…
- 
-# EdgarPe81000147USER INFO
-![image](http://pbs.twimg.com/profile_images/1607281511404806144/ygD1gTve_normal.jpg)
- 
-`User ScreenName:` EdgarPe81000147 
- 
-`User chosen Name:` Edgar Perez 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 24 17:57:49 +0000 2022 
- 
-`User Description?:` ima SPORT lover 
- 
-`Followers?: `17 
- 
-`Following?:` 539 
- 
-`User URL?:` None 
- 
-`Location:` anto Domingo de Guzmán, Domini 
- 
-`Number of tweets extracted`  : 121 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1607281511404806144/ygD1gTve_normal.jpg 
- 
-`Number of tweets excluding replies:` 126 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**S** 17 , **U** 10 , **RUSSIA** 9 , **UKRAINE** 8 , **YEAR** 8 , **NEW** 7 , **GOOD** 7 , **NAZY** 7 , **DON'T** 7 , **NEWS** 6 , **SHOT** 5 , **FIGHT** 5 , **SAME** 5 , **EN** 5 , **BAKHMUT** 4 , **PMC** 4 , **NEVER** 4 , **HOPE** 4 , **TELL** 3 , **WAGNER** 3 , 
- 
-## What this user tweeted
- 
-Misses ambassador ,what do u tell me about donesk,how ukraine attacks this peaceful city over and over again,and Yo… https://t.co/oSnDpkolUq
- 
-# LisaFul13127232USER INFO
-![image](http://pbs.twimg.com/profile_images/1608171832259088387/IeJxAHqn_normal.jpg)
- 
-`User ScreenName:` LisaFul13127232 
- 
-`User chosen Name:` Lisa Fulkerson 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 28 18:43:37 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 120 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Numb**TOKENIZATION** 1 , **REAL-WORLD** 1 , **ASSETS** 1 , **(NOT** 1 , **NEXT** 1 , **PFP** 1 , **PROJECT)** 1 , **F…** 1 , **HTTPS://TCO/WPDDIB6JIQBACKING** 1 , 
- 
-## What this user tweeted
- 
-Main areas of interest:
-
-- Cybersecurity
-- DeFi
-- Tokenization of real-world assets (not your next PFP project)
-- F… https://t.co/WpddIB6jiq
- 
-# Amitjha58441242USER INFO
-![image](http://pbs.twimg.com/profile_images/1606547575771103233/PLRikuaY_normal.jpg)
- 
-`User ScreenName:` Amitjha58441242 
- 
-`User chosen Name:` Amit jha 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 23 09:56:02 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 93 
- 
-`User URL?:` None 
- 
-`Location:` New Delhi, India 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606547575771103233/PLRikuaY_normal.jpg 
- 
-`Number of tweets excluding replies:` 8534 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CBP** 33 , **AGENTS** 29 , **@USBPCHIEFYUM:** 27 , **@USBPCHIEFEPT:** 22 , **@CBPINTLAFFAIRAC:** 21 , **BORDER** 16 , **SECTOR** 16 , **STATION** 16 , **@USBPCHIEF:** 13 , **YUMA** 13 , **US** 10 , **@WCO_OMD** 10 , **EL** 10 , **USBP** 10 , **DE** 9 , **LA** 9 , **@CBPEUROPE:** 9 , **PATROL** 9 , **OFFICE** 8 , **WEEK** 7 , 
- 
-## What this user tweeted
- 
-RT @CBPIntlAffairAC: I was honored to chair the @CBP roundtable with @WCO_OMD @wcosg Mikuriya to discuss CBP priorities including our green…
- 
-# c_ryancsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1608527592990064641/0DC4i1lr_normal.jpg)
- 
-`User ScreenName:` c_ryancs 
- 
-`User chosen Name:` RyanC 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 27 22:12:45 +0000 2022 
- 
-`User Description?:` #bugbounty hunter / penetration tester , eWAPTX / eWAPT / eJPT 💻 
- 
-`Followers?: `3 
- 
-`Following?:` 34 
- 
-`User URL?:` None 
- 
-`Location:` Egypt 
- 
-`Number of tweets extracted`  : 171 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1608527592990064641/0DC4i1lr_normal.jpg 
- 
-`Number of tweets excluding replies:` 171 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@0X0SOJALSEC:** 29 , **XSS** 23 , **CYBERSECURITY** 21 , **BUGBOUNTY** 21 , **BUGBOUNTYTIPS** 18 , **BYPASS** 16 , **INFOSEC** 15 , **HACKING** 14 , **:** 14 , **1** 12 , **•** 11 , **PAYLOAD** 11 , **GITHUB** 10 , **@NANDANLOHITAKSH:** 10 , **FILE** 10 , **@AKACLANDESTINE:** 9 , **@MANIESHNEUPANE:** 9 , **LINUX** 9 , **2** 9 , **INJECTION** 8 , 
- 
-## What this user tweeted
- 
-RT @three_cube: Wi-Fi Hacking, Part 11: The PMKID Attack Against WPA2-PSK (password) #wifihacking #pmkid #cybersecurity #cyberwarrior
-
-http…
- 
-# mike_harbison_USER INFO
-![image](http://pbs.twimg.com/profile_images/1609081787799539712/xLfr_-P0_normal.jpg)
- 
-`User ScreenName:` mike_harbison_ 
- 
-`User chosen Name:` Mike Harbison 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 31 06:59:13 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 34 
- 
-`User URL?:` None 
- 
-`Location:`  
+`Location:` Kolkata, India 
  
 `Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1609081787799539712/xLfr_-P0_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1609540054413893635/__BDHKcp_normal.jpg 
  
 `Number of tweets excluding replies:` 3 
  
@@ -420,36 +234,82 @@ http…
  
 ## User Top tweeted words 
  
-**PUBLISHED** 2 , **ORGANIZATION** 2 , **SECURITY** 2 , **2023** 2 , **NEEDS** 1 , **REPRESENTATIVE** 1 , **TABLE** 1 , **CYBERSECURTITY** 1 , **HTTPS://TCO/EJK7SET2TQRT** 1 , **@ISECURITY:** 1 , **LASTPASS** 1 , **THERE’S** 1 , **NEWS** 1 , **USERS** 1 , **STORING** 1 , **SENSITIVE** 1 , **INFORMATION** 1 , **USING** 1 , **PRODUCT** 1 , **HTTPS://TCO/RK4BHMGAQR** 1 , 
+**BUGBOUNTY** 2 , **BUGBOUNTYTIPS** 2 , **CYBERSECURITY** 2 , **HACKING** 2 , **RT** 1 , **@BUGHUNTY:** 1 , **IDOR** 1 , **TRICKS** 1 , **PENTESTING** 1 , **HTTPS://TCO/MXWBAH1ADXRT** 1 , **@THEBINARYBOT:** 1 , **STARTED** 1 , **ETHICAL** 1 , **2023** 1 , **CANNOT** 1 , **RECOMMEND** 1 , **SOMETHING** 1 , **BETTER** 1 , **THAN** 1 , **@TCMSECURITY** 1 , 
  
 ## What this user tweeted
  
-RT @iSecurity: LastPass — There’s more news for users storing sensitive information using the product. https://t.co/rK4bhmgaqr #infrastruct…
+RT @thebinarybot: If you want to get started in Ethical Hacking in 2023, I cannot recommend something better than @TCMSecurity 's 15-hour P…
  
-# ITWorkforcePapiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606352932504494080/A7IPdUTE_normal.jpg)
+# yourkowUSER INFO
+![image](http://pbs.twimg.com/profile_images/1609486896056643585/cD0O1IcK_normal.png)
  
-`User ScreenName:` ITWorkforcePapi 
+`User ScreenName:` yourkow 
  
-`User chosen Name:` cyber workforce papi 
+`User chosen Name:` Regent 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Dec 23 16:27:10 +0000 2022 
+`User signup date?:` Sun Jan 01 09:49:13 +0000 2023 
  
-`User Description?:` I run an IT training school and make content to help people make informed IT career decisions. 
+`User Description?:`  
  
-`Followers?: `3 
+`Followers?: `0 
  
-`Following?:` 48 
+`Following?:` 33 
  
-`User URL?:` https://t.co/SeNa1Vshv5 
+`User URL?:` None 
  
-`Location:` san antonio, tx 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1609486896056643585/cD0O1IcK_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHATGPT** 2 , **CYBERSECURITY** 2 , **@THEHOLISTICPSYC** 1 , **FUTURE** 1 , **RELATIVE** 1 , **GENERATION** 1 , **ASKED** 1 , **QUESTION** 1 , **ANSWERS** 1 , **DEPENDS** 1 , **MANY** 1 , **THINGSRT** 1 , **@MALMOEB:** 1 , **1/** 1 , **NEW** 1 , **YEARS** 1 , **RESOLUTION** 1 , **🍾:** 1 , **ENABLE** 1 , **PS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @0xor0ne: Unpatched TP-Link WR940N V6, vulnerability analysis and exploitation by @b1ack0wl
+
+https://t.co/plA9jEfafJ
+
+#iot #embedded #in…RT @Shubham_pen: Best of TCP/IP Cheatsheet
+Credit: https://t.co/GGG2USFV0t
+
+#infosec #cybersecurity #pentesting #oscp  #informationsecurity…
+ 
+# khlde_USER INFO
+![image](http://pbs.twimg.com/profile_images/1608340859413471233/hT02A1Sc_normal.jpg)
+ 
+`User ScreenName:` khlde_ 
+ 
+`User chosen Name:` Khalid Albattashi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 26 23:29:01 +0000 2022 
+ 
+`User Description?:` •Cyber security🎩 •Hacker📱 •Software Developer💽 •Full stack Developer👨🏼‍💻 •For orders & business (𝐃𝐌📥) 
+ 
+`Followers?: `13 
+ 
+`Following?:` 212 
+ 
+`User URL?:` https://t.co/mEibYLX4Hs 
+ 
+`Location:` مسقط, سلطنة عمان 
  
 `Number of tweets extracted`  : 10 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1606352932504494080/A7IPdUTE_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1608340859413471233/hT02A1Sc_normal.jpg 
  
 `Number of tweets excluding replies:` 10 
  
@@ -459,79 +319,39 @@ RT @iSecurity: LastPass — There’s more news for users storing sensitive 
  
 ## User Top tweeted words 
  
-**@DYN_ADVANCEMENT:** 5 , **CYBERSECURITY** 5 , **TICTOK** 2 , **CAREER** 2 , **DATASECURITY** 2 , **RT** 1 , **NEVER** 1 , **WORKED** 1 , **WON'T** 1 , **UNDERSTAND** 1 , **DANGEROUS** 1 , **HTTPS://TCO/TNBS51JP2LRT** 1 , **CAREERS** 1 , **EVERYWHERE!** 1 , **HTTPS://TCO/HJNLLEWKA7RT** 1 , **SUCCESSFUL** 1 , **OILANDGAS** 1 , **INDUSTRY?** 1 , **HTTPS://TCO/M4RA2YFI…@LILMOONLAMBO** 1 , **BAHAHAHAHART** 1 , 
+**LINUX** 5 , **HACKING** 4 , **CYBER** 4 , **LARAVEL** 4 , **KALI** 3 , **INSTAGRAM** 2 , **HACKERS** 2 , **STACK** 2 , **DEVELOPER** 2 , **(LARAVEL** 2 , **API** 2 , **LIVE** 2 , **WIRE** 2 , **SECURITY** 2 , **@NOWTRND** 1 , **@QNNNA** 1 , **يَا** 1 , **أَيُّهَا** 1 , **النَّبِيُّ** 1 , **لِمَ** 1 , 
  
 ## What this user tweeted
  
-RT @dyn_advancement: If you never worked in #cybersecurity you won't understand how dangerous #TicTok
-is https://t.co/tNbS51Jp2l
+Osintgram is a OSINT tool on Instagram. 
+It offers an interactive shell to perform analysis on Instagram account of… https://t.co/dz8edDU0lN
  
-# RUDRANA27622426USER INFO
-![image](http://pbs.twimg.com/profile_images/1606611095032320000/5QLgAXQW_normal.jpg)
+# DeathNo28250364USER INFO
+![image](http://pbs.twimg.com/profile_images/1609306628330774531/G7313XL6_normal.png)
  
-`User ScreenName:` RUDRANA27622426 
+`User ScreenName:` DeathNo28250364 
  
-`User chosen Name:` Rudra Narayan Chaubey 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 24 11:17:37 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 24 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 124 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606611095032320000/5QLgAXQW_normal.jpg 
- 
-`Number of tweets excluding replies:` 124 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 129 , **में** 63 , **की** 57 , **जी** 48 , **से** 31 , **को** 30 , **का** 30 , **पर** 26 , **श्री** 24 , **और** 21 , **ने** 20 , **भारत** 18 , **है।** 17 , **@RAHULRAJANSH:** 15 , **प्रदेश** 14 , **प्रधानमंत्री** 13 , **कर** 13 , **@GIRISHYADAVBJP:** 13 , **@ATUL4BJP:** 13 , **@KPPS_BHU:** 12 , 
- 
-## What this user tweeted
- 
-RT @SKodineya: #Spread #wings 🕊️of #cyber #awareness
-Thought-provoking depictions of impact of #cyberworld on mankind &amp; how to #staysafeonl…
- 
-# RahulRajJain11USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` RahulRajJain11 
- 
-`User chosen Name:` Rahul Raj Jain 
+`User chosen Name:` Death Note 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Dec 24 12:24:51 +0000 2022 
+`User signup date?:` Sat Dec 31 21:52:54 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 14 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 98 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1609306628330774531/G7313XL6_normal.png 
  
-`Number of tweets excluding replies:` 98 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -539,326 +359,11 @@ Thought-provoking depictions of impact of #cyberworld on mankind &amp; how to #s
  
 ## User Top tweeted words 
  
-**के** 115 , **में** 50 , **की** 46 , **जी** 42 , **का** 25 , **को** 23 , **से** 23 , **पर** 22 , **श्री** 21 , **भारत** 16 , **ने** 15 , **और** 15 , **है।** 14 , **प्रधानमंत्री** 13 , **@RAHULRAJANSH:** 12 , **प्रदेश** 11 , **@GIRISHYADAVBJP:** 11 , **साथ** 11 , **@KIRTIMANBJP9695:** 10 , **@KPPS_BHU:** 10 , 
+**FULL** 2 , **ACTIVATED** 2 , **–** 2 , **DISCOUNT** 2 , **100%** 2 , **OFF** 2 , **EMAIL** 1 , **EXTRACTOR** 1 , **PROFESSIONAL** 1 , **EDITION** 1 , **V7319** 1 , **HTTPS://TCO/E37AAW2ERV** 1 , **INFOSEC…** 1 , **HTTPS://TCO/AZ0I0MBKLRFOXIT** 1 , **PDF** 1 , **EDITOR** 1 , **PRO** 1 , **V121015250** 1 , **HTTPS://TCO/B3X3KXI9FP** 1 , **INFOSEC** 1 , 
  
 ## What this user tweeted
  
-RT @SKodineya: #Spread #wings 🕊️of #cyber #awareness
-Thought-provoking depictions of impact of #cyberworld on mankind &amp; how to #staysafeonl…
- 
-# RahulRajJain12USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` RahulRajJain12 
- 
-`User chosen Name:` Rahul Raj Jain 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 24 12:35:57 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 82 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 82 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 94 , **में** 44 , **की** 39 , **जी** 36 , **से** 22 , **का** 21 , **श्री** 20 , **को** 17 , **पर** 17 , **ने** 14 , **और** 14 , **भारत** 13 , **@RAHULRAJANSH:** 12 , **है।** 11 , **@KIRTIMANBJP9695:** 10 , **प्रधानमंत्री** 10 , **प्रदेश** 10 , **सिंह** 10 , **देश** 10 , **@GIRISHYADAVBJP:** 9 , 
- 
-## What this user tweeted
- 
-RT @SKodineya: #Spread #wings 🕊️of #cyber #awareness
-Thought-provoking depictions of impact of #cyberworld on mankind &amp; how to #staysafeonl…
- 
-# RahulRajJain13USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` RahulRajJain13 
- 
-`User chosen Name:` Rahul Raj Jain 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 24 12:39:33 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 82 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 82 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 94 , **में** 44 , **की** 39 , **जी** 36 , **से** 22 , **का** 21 , **श्री** 20 , **को** 17 , **पर** 17 , **ने** 14 , **और** 14 , **भारत** 13 , **@RAHULRAJANSH:** 12 , **है।** 11 , **@KIRTIMANBJP9695:** 10 , **प्रधानमंत्री** 10 , **प्रदेश** 10 , **सिंह** 10 , **देश** 10 , **@GIRISHYADAVBJP:** 9 , 
- 
-## What this user tweeted
- 
-RT @SKodineya: #Spread #wings 🕊️of #cyber #awareness
-Thought-provoking depictions of impact of #cyberworld on mankind &amp; how to #staysafeonl…
- 
-# AnujPan40803680USER INFO
-![image](http://pbs.twimg.com/profile_images/1606219103106084864/F049hMuW_normal.png)
- 
-`User ScreenName:` AnujPan40803680 
- 
-`User chosen Name:` Anuj Pandey 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 23 09:24:10 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 185 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606219103106084864/F049hMuW_normal.png 
- 
-`Number of tweets excluding replies:` 185 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 91 , **में** 68 , **जी** 49 , **की** 44 , **को** 33 , **@NARENDRAMODI** 32 , **का** 29 , **से** 28 , **श्री** 27 , **है** 18 , **प्रधानमंत्री** 16 , **@SUKHGREWALBJP:** 12 , **देश** 12 , **2022** 12 , **भारत** 12 , **@NIRAVSHAHBJP:** 11 , **नेतृत्व** 11 , **@UMANG_BJP:** 10 , **और** 10 , **@ASHISHSOOD_BJP:** 10 , 
- 
-## What this user tweeted
- 
-RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
- 
-# PrinceG38812938USER INFO
-![image](http://pbs.twimg.com/profile_images/1608748637080944645/JOkw0_4r_normal.jpg)
- 
-`User ScreenName:` PrinceG38812938 
- 
-`User chosen Name:` Prince Goswami 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 30 08:52:21 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 173 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1608748637080944645/JOkw0_4r_normal.jpg 
- 
-`Number of tweets excluding replies:` 173 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 90 , **में** 66 , **जी** 49 , **की** 42 , **को** 33 , **@NARENDRAMODI** 30 , **का** 29 , **से** 28 , **श्री** 27 , **है** 18 , **प्रधानमंत्री** 16 , **देश** 12 , **भारत** 12 , **2022** 12 , **नेतृत्व** 11 , **रेलवे** 10 , **पर** 10 , **@ASHISHSOOD_BJP:** 10 , **और** 10 , **@UMANG_BJP:** 9 , 
- 
-## What this user tweeted
- 
-RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
- 
-# giri_aaradhyaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606034309303144448/1Xb1XqfS_normal.jpg)
- 
-`User ScreenName:` giri_aaradhya 
- 
-`User chosen Name:` Aaradhya Giri 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 22 20:57:46 +0000 2022 
- 
-`User Description?:` Jai mata di 
- 
-`Followers?: `15 
- 
-`Following?:` 21 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606034309303144448/1Xb1XqfS_normal.jpg 
- 
-`Number of tweets excluding replies:` 1264 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 105 , **में** 69 , **जी** 53 , **की** 47 , **को** 42 , **@NARENDRAMODI** 34 , **का** 32 , **से** 30 , **श्री** 30 , **पर** 20 , **प्रधानमंत्री** 18 , **है** 18 , **भारत** 16 , **@UMANG_BJP:** 14 , **देश** 13 , **@SUKHGREWALBJP:** 13 , **2022** 12 , **नेतृत्व** 12 , **ने** 11 , **और** 11 , 
- 
-## What this user tweeted
- 
-RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
- 
-# NituGir55736887USER INFO
-![image](http://pbs.twimg.com/profile_images/1606962826987606018/pJawuVWF_normal.jpg)
- 
-`User ScreenName:` NituGir55736887 
- 
-`User chosen Name:` Nitu Giri 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 24 10:11:35 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606962826987606018/pJawuVWF_normal.jpg 
- 
-`Number of tweets excluding replies:` 1179 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 98 , **में** 70 , **जी** 49 , **की** 43 , **को** 40 , **@NARENDRAMODI** 36 , **से** 31 , **का** 29 , **श्री** 28 , **है** 21 , **प्रधानमंत्री** 17 , **पर** 17 , **भारत** 15 , **देश** 13 , **@SWAMIANANDSWARO:** 13 , **ने** 13 , **@RAJIB4BJP:** 12 , **2022** 12 , **नेतृत्व** 12 , **लिए** 12 , 
- 
-## What this user tweeted
- 
-RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
- 
-# PoojaPa34065764USER INFO
-![image](http://pbs.twimg.com/profile_images/1608473482517708807/xRP0b6Xy_normal.jpg)
- 
-`User ScreenName:` PoojaPa34065764 
- 
-`User chosen Name:` Pooja Pandey 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 29 14:40:56 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1608473482517708807/xRP0b6Xy_normal.jpg 
- 
-`Number of tweets excluding replies:` 372 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 98 , **में** 66 , **जी** 51 , **की** 47 , **को** 42 , **@NARENDRAMODI** 33 , **श्री** 30 , **का** 30 , **से** 29 , **है** 19 , **पर** 18 , **भारत** 15 , **प्रधानमंत्री** 15 , **@UMANG_BJP:** 13 , **@SUKHGREWALBJP:** 13 , **देश** 13 , **ने** 12 , **JI** 12 , **नेतृत्व** 12 , **और** 11 , 
- 
-## What this user tweeted
- 
-RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
- 
-# RoliDub19324109USER INFO
-![image](http://pbs.twimg.com/profile_images/1606962128937975810/OChgJJkE_normal.jpg)
- 
-`User ScreenName:` RoliDub19324109 
- 
-`User chosen Name:` Roli Dubey 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 25 06:27:27 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606962128937975810/OChgJJkE_normal.jpg 
- 
-`Number of tweets excluding replies:` 1181 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 99 , **में** 68 , **जी** 54 , **की** 45 , **को** 41 , **@NARENDRAMODI** 39 , **श्री** 33 , **का** 31 , **से** 26 , **प्रधानमंत्री** 18 , **है** 17 , **पर** 16 , **भारत** 14 , **देश** 13 , **ने** 13 , **@SWAMIANANDSWARO:** 13 , **@RAJIB4BJP:** 12 , **नेतृत्व** 12 , **लिए** 12 , **2022** 11 , 
- 
-## What this user tweeted
- 
-RT @ICPFund: The Government is considering 3 grievance appellate committees (GACs) to handle social media users' complaints, broadly regard…
+Email Extractor Professional Edition v7.3.1.9 Full Activated – Discount 100% OFF https://t.co/E37Aaw2ErV #infosec… https://t.co/aZ0i0MBKlrFoxit PDF Editor Pro v12.1.0.15250 Full Activated – Discount 100% OFF https://t.co/b3X3KXi9FP #infosec #bugcrowd… https://t.co/g8qwxsZCzR
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
