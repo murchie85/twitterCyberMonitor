@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **steezy10_**  
+The most popular user is: **QuaiNetwork**  
  
 
-## I went from being depressed and unemployed to having a Masters in Cybersecurity and also landing a Tech job that ha… https://t.co/4C0spAG81o 
+## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
+
+This… https://t.co/9kCO6ugG3G 
 
   
 
@@ -23,24 +25,24 @@ The most popular user is: **steezy10_**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @hackinarticles: API Pentesting Mindmap Attackhttps://t.co/TtkXSUw1Jp#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #r… |
-| Our CTI team scours the clear/dark web &amp; a variety of open/paid cyber sources for new &amp; emerging threats, to help o… https://t.co/JJvzznShaA |
-| RT @davidbombal: What are you going to do in 2023? Tops 5 skills to get!YouTube video: https://t.co/VDGmneZGLo#linux #python #go #ai #c… |
+| /// Significant, somewhat significat things I did in 2022:- Pilgrimage to 7 jyotirlings - Featured twice in new… https://t.co/JO9m3RNKVO |
+| RT @FaIyaZz007: Hi everyone! Learn everything about one of the most dangerous vulnerabilities of web application- Local File InclusionArt… |
+| RT @matthew_d_green: The NSA maintained a $250m/year “SIGINT Enabling Project” that inserted vulnerabilities into US cryptographic technolo… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **Shubham_pen** |
-| #3 Most tweeted to  | **BowTiedCyber** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 4.82%|
+| #2 Most tweeted to  | **claudiopoy** |
+| #3 Most tweeted to  | **matthew_d_green** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 6.5%|
 | Tweeters with > 1000000 followers  | 0.06%  |
 
 
@@ -50,128 +52,30 @@ The most popular user is: **steezy10_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
+| first  | **VULNERABILITIES**  |
 | second  | **PENTESTING**  |
-| third  | **2023** |
-| fourth  | **AI**  |
-| fifth  | **•**  |
+| third  | **INFOSEC** |
+| fourth  | **KA**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheBunkerLabs: #CEOcircle cohort member, Marine #veteran, @vanderbiltowen alumni, #Nashville resident, and CEO of ARMS Cyber, Michael B… |
+|@LordJamesEden @TalkTV No mate, you've shown your colours... an advocate of the freedom to use other peoples vulner… https://t.co/a4Xo0MtPsX |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **steezy10_**  |
+| The most retweeted user is: **QuaiNetwork**  |
 | ------------- |
-| I went from being depressed and unemployed to having a Masters in Cybersecurity and also landing a Tech job that ha… https://t.co/4C0spAG81o |
+| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
 
 # Potential Fake Accounts
- 
-# paywriters24_7USER INFO
-![image](http://pbs.twimg.com/profile_images/1606701479754190852/_I3NsLrn_normal.jpg)
- 
-`User ScreenName:` paywriters24_7 
- 
-`User chosen Name:` 24/7PROFESSIONAL TUTORS 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 24 15:46:25 +0000 2022 
- 
-`User Description?:` A committed team of young women tutors with incredible experience ready to tackle your;Assignments,Exams, Dissertation, Research paper, Thesis, etc 
- 
-`Followers?: `22 
- 
-`Following?:` 309 
- 
-`User URL?:` None 
- 
-`Location:` Michigan, USA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606701479754190852/_I3NsLrn_normal.jpg 
- 
-`Number of tweets excluding replies:` 261 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PAY** 85 , **DM** 73 , **DUE** 47 , **PAPER** 46 , **RESEARCH** 39 , **ESSAY** 39 , **ASSIGNMENTS** 38 , **✓ESSAY** 35 , **LAW** 32 , **STATISTICS** 30 , **1&AMP;2** 30 , **PROGRAMMING** 28 , **CLASS** 28 , **NURSING** 28 , **ACCOUNTING** 27 , **WRITE** 27 , **US** 26 , **THESIS** 26 , **✓BUSINESS** 25 , **ENGLISH** 23 , 
- 
-## What this user tweeted
- 
-Hire our expertise. 
-
-Research paper 
-Dissertation
-Thesis
-Business law
-Exams
-Nursing 
-Accounting 
-Geometry 
-
-DM/WHA… https://t.co/AAFZWOyC4nProfessionals well versed in; 
-
-Assignments 
-Online exam 
-Research paper 
-History 
-Essay due
-Dissertation 
-Course… https://t.co/78HVRZK08Y
- 
-# SeconalzUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609305372451569664/aPEUUb2o_normal.jpg)
- 
-`User ScreenName:` Seconalz 
- 
-`User chosen Name:` Smerdyakov 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 31 21:47:54 +0000 2022 
- 
-`User Description?:` Skid on a journey
-Computer Hobbyist 
- 
-`Followers?: `2 
- 
-`Following?:` 89 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 19 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1609305372451569664/aPEUUb2o_normal.jpg 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**I'LL** 2 , **YEAR** 2 , **READ** 2 , **CYBERSECURITY** 1 , **PROGRAM** 1 , **CCSF** 1 , **EASILY** 1 , **RIVALS** 1 , **OTHER** 1 , **UNIVERSITIES** 1 , **OFFEREDBEING** 1 , **ZEN** 1 , **VERSION** 1 , **STREET** 1 , **PREACHER** 1 , **LOT** 1 , **QUIETER** 1 , **PRACTICEGENERATION** 1 , **ALPHA** 1 , **FIRST** 1 , 
- 
-## What this user tweeted
- 
-The cybersecurity program at CCSF easily rivals other universities in what is offered.
  
 # EveryoneElse07USER INFO
 ![image](http://pbs.twimg.com/profile_images/1608426648998748163/06PHsG1C_normal.jpg)
@@ -187,9 +91,9 @@ The cybersecurity program at CCSF easily rivals other universities in what is of
 `User Description?:` Liberal, w Conservative&Progressive Ideals #Ally 🏳️‍🌈#BLM 🇺🇦 #MahsaAmini
 Not New, Rebuilding #BlueCrew #Resist #VoteBlue🌊🌊🌊 
  
-`Followers?: `213 
+`Followers?: `214 
  
-`Following?:` 433 
+`Following?:` 434 
  
 `User URL?:` None 
  
@@ -199,7 +103,7 @@ Not New, Rebuilding #BlueCrew #Resist #VoteBlue🌊🌊🌊
  
 `Profile image:` http://pbs.twimg.com/profile_images/1608426648998748163/06PHsG1C_normal.jpg 
  
-`Number of tweets excluding replies:` 1459 
+`Number of tweets excluding replies:` 1470 
  
 
  
@@ -207,80 +111,38 @@ Not New, Rebuilding #BlueCrew #Resist #VoteBlue🌊🌊🌊
  
 ## User Top tweeted words 
  
-**PEOPLE** 11 , **@NAZANINNOUR:** 10 , **در** 7 , **REPUBLICAN** 6 , **TRUMP** 6 , **US** 6 , **AFTER** 5 , **SPEAKER** 5 , **GOOD** 5 , **GOP** 5 , **@FRED_GUTTENBERG** 5 , **@LISA_PUBCITIZEN** 5 , **@EVERYONEELSE07:** 4 , **HOUSE** 4 , **DAY** 4 , **AGREE** 4 , **IRANIAN** 4 , **PLEASE** 4 , **2023** 4 , **مهسا_امینی** 4 , 
+**PEOPLE** 10 , **@NAZANINNOUR:** 10 , **TRUMP** 7 , **در** 7 , **SPEAKER** 6 , **HOUSE** 6 , **GOP** 6 , **@FRED_GUTTENBERG** 6 , **@LISA_PUBCITIZEN** 6 , **US** 6 , **@NICKKNUDSENUS** 5 , **AFTER** 5 , **GOOD** 5 , **REPUBLICAN** 5 , **@REALTUCKFRUMPER:** 4 , **@JOANISPARKLES** 4 , **ANY** 4 , **REPUBLICANS** 4 , **@UKRAINIANSQUAD:** 4 , **DAY** 4 , 
  
 ## What this user tweeted
  
 RT @YourAnonRiots: A new strain of #Linux malware is targeting #WordPress sites, taking advantage of vulnerabilities in various plugins and…
  
-# Mary_Manson_USER INFO
-![image](http://pbs.twimg.com/profile_images/1609661251252092931/IWbZv7xZ_normal.jpg)
+# 0bobtUSER INFO
+![image](http://pbs.twimg.com/profile_images/1608585315320463363/sms4DV9u_normal.jpg)
  
-`User ScreenName:` Mary_Manson_ 
+`User ScreenName:` 0bobt 
  
-`User chosen Name:` Mary 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 27 07:44:58 +0000 2022 
- 
-`User Description?:` #BTC #ETH #crypto #INVESTMENT #tron  #Dodgecoin #Trading
-I lost my old account 🥺
-I'm living the best of my life ❤️ and
-I love football 😍 
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:` Florida, USA 
- 
-`Number of tweets extracted`  : 156 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1609661251252092931/IWbZv7xZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 156 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MONEY** 35 , **WITHDRAWAL** 23 , **WITHDRAW** 22 , **ANY** 22 , **PLATFORM** 21 , **THESE** 21 , **MESSAGE** 20 , **TRADETID** 20 , **ISSUES** 18 , **ICERKET** 17 , **FUNDS** 16 , **HAVING** 16 , **STILL** 14 , **HELP** 14 , **MRBICOIN** 14 , **PEOPLE** 14 , **STORMAVAIL** 13 , **JULYSIL** 12 , **WITHDRAWALS** 12 , **SGTKCOIN** 12 , 
- 
-## What this user tweeted
- 
-#cryptoworld you can still get your money back on any platform I can help you the it very easy #infosec… https://t.co/PMqdW7Q2kZ
- 
-# Apinzon69pUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609995988055326722/hxE8bWYn_normal.png)
- 
-`User ScreenName:` Apinzon69p 
- 
-`User chosen Name:` asd a 
+`User chosen Name:` Bobby T 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 02 19:32:10 +0000 2023 
+`User signup date?:` Thu Dec 29 15:22:01 +0000 2022 
  
-`User Description?:`  
+`User Description?:` engineer. cfa. crypto dev. stats. 
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 1 
+`Following?:` 15 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 15 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1609995988055326722/hxE8bWYn_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1608585315320463363/sms4DV9u_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 15 
  
 
  
@@ -288,40 +150,38 @@ I love football 😍
  
 ## User Top tweeted words 
  
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
+**IE** 7 , **DEBT** 6 , **SOFTWARE** 4 , **BUSINESS** 3 , **INTEREST** 3 , **RATE** 3 , **TECHNICAL** 3 , **BEST** 2 , **DUE** 2 , **SOLVE** 2 , **DEVS** 2 , **TROUBLESHOOTING** 1 , **LOAD** 1 , **BUG'S** 1 , **CONTEXT** 1 , **INTO** 1 , **BRAIN'S** 1 , **WORKING** 1 , **MEMORY** 1 , **THAT'S** 1 , 
  
 ## What this user tweeted
  
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
+could the leverage lead to catastrophic loss, i.e., are the software vulnerabilities existential?
  
-# Johnmamoir9USER INFO
-![image](http://pbs.twimg.com/profile_images/1609992056729997317/H712Xch8_normal.png)
+# DayoClinckspoorUSER INFO
+![image](http://pbs.twimg.com/profile_images/1608028927779393546/6B3eO4jc_normal.jpg)
  
-`User ScreenName:` Johnmamoir9 
+`User ScreenName:` DayoClinckspoor 
  
-`User chosen Name:` Auau 
+`User chosen Name:` DAYO 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 02 19:16:32 +0000 2023 
+`User signup date?:` Wed Dec 28 09:15:46 +0000 2022 
  
-`User Description?:`  
+`User Description?:` solo entrepeneur, filmmaker & photograper 
  
 `Followers?: `0 
  
-`Following?:` 2 
+`Following?:` 18 
  
-`User URL?:` None 
+`User URL?:` https://t.co/tuSEE7glje 
  
-`Location:`  
+`Location:` Belgium 
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1609992056729997317/H712Xch8_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1608028927779393546/6B3eO4jc_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -329,81 +189,41 @@ The Code to enter is in today…
  
 ## User Top tweeted words 
  
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
+**ABILITY** 3 , **YEARS** 2 , **RT** 1 , **@THECHRISDO:** 1 , **PERSONAL** 1 , **BRANDING** 1 , **101:** 1 , **1** 1 , **ARTICULATE** 1 , **THOUGHTS** 1 , **2** 1 , **IMPACT** 1 , **LIVES** 1 , **OTHERS** 1 , **3** 1 , **SCALE** 1 , **MESSA…RT** 1 , **@DENEHYXXL:** 1 , **ROLE** 1 , **GENERALIST** 1 , 
  
 ## What this user tweeted
  
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
+RT @theChrisDo: Personal branding 101:
+1. Ability to articulate thoughts
+2. Ability to impact the lives of others
+3. Ability to scale messa…
  
-# Zbsv82773342USER INFO
-![image](http://pbs.twimg.com/profile_images/1609987753445363712/zAvl5Dd6_normal.png)
+# Shahzeb9901USER INFO
+![image](http://pbs.twimg.com/profile_images/1609956872827686915/lf1pUz7R_normal.jpg)
  
-`User ScreenName:` Zbsv82773342 
+`User ScreenName:` Shahzeb9901 
  
-`User chosen Name:` Zbsv 
+`User chosen Name:` Shah Zeb 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 02 18:59:26 +0000 2023 
+`User signup date?:` Sat Dec 24 17:21:12 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Student of BBA (Business) Indus University Gulshan Campus | Social Activists | Supporter & Ardent fan of charismatic personality @imrankhanPTI 
  
-`Followers?: `0 
+`Followers?: `713 
  
-`Following?:` 1 
+`Following?:` 1651 
  
-`User URL?:` None 
+`User URL?:` https://t.co/ZfoOoheCXv 
  
-`Location:`  
+`Location:` کراچی, پاکستان 
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1609987753445363712/zAvl5Dd6_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1609956872827686915/lf1pUz7R_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
- 
-## What this user tweeted
- 
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
- 
-# Wheatey1USER INFO
-![image](http://pbs.twimg.com/profile_images/1609984164597473282/BuZ-mm4W_normal.png)
- 
-`User ScreenName:` Wheatey1 
- 
-`User chosen Name:` We at Ey 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 02 18:45:11 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1609984164597473282/BuZ-mm4W_normal.png 
- 
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 964 
  
 
  
@@ -411,95 +231,11 @@ The Code to enter is in today…
  
 ## User Top tweeted words 
  
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
+**کے** 71 , **میں** 66 , **کی** 66 , **خان** 59 , **سے** 54 , **عمران** 52 , **کا** 50 , **کو** 42 , **نے** 41 , **اور** 40 , **کر** 34 , **باجوہ** 33 , **پر** 30 , **نہیں** 28 , **ہے** 25 , **پاکستان** 24 , **بھی** 24 , **ایک** 22 , **جنرل** 21 , **@PTIOFFICIAL:** 20 , 
  
 ## What this user tweeted
  
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
- 
-# asd_oasUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609980994391605254/A_zdBeYQ_normal.png)
- 
-`User ScreenName:` asd_oas 
- 
-`User chosen Name:` oas asd 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 02 18:32:35 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1609980994391605254/A_zdBeYQ_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
- 
-## What this user tweeted
- 
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
- 
-# copy_cateUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609978288197505024/rhfgvWbt_normal.jpg)
- 
-`User ScreenName:` copy_cate 
- 
-`User chosen Name:` copy cate 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 02 18:21:50 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1609978288197505024/rhfgvWbt_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
- 
-## What this user tweeted
- 
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
+RT @AVeteran1956: Should also be seen in the context of 5th gen warfare. Penetration of hostile agencies in our systems, state of art techn…
  
 # c_ryancsUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1608527592990064641/0DC4i1lr_normal.jpg)
@@ -538,41 +274,39 @@ The Code to enter is in today…
  
 ## What this user tweeted
  
-RT @0xor0ne: Couple years old but still a very cool research by @theflow0 on zero click RCE in
-Linux bluetooth stack
+RT @hackinarticles: Firewall Security Checklist
 
-https://t.co/yVQvSi6h…RT @hackinarticles: VirusTotal Intellgence Cheat SHeet
+#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecurity…RT @0x0SojalSec: If I want to quickly, manually spray an application input, I use this payload : by @hakluke 
 
-https://t.co/5H4gNbDBx0
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #os…
+'"&gt;&lt;svg/onload=alert()&gt;{{7*7…RT @ManieshNeupane: List Of Smart Contract Vulnerabilities !
+https://t.co/iP6NZjIkoh
  
-# OauAscUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609975286744993792/a9AVwAtq_normal.png)
+# OSCARFLORESFRAGUSER INFO
+![image](http://pbs.twimg.com/profile_images/1607326308719276032/hRGfVgy0_normal.jpg)
  
-`User ScreenName:` OauAsc 
+`User ScreenName:` OSCARFLORESFRAG 
  
-`User chosen Name:` oau asc 
+`User chosen Name:` Oscar Flores Fraga 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 02 18:09:54 +0000 2023 
+`User signup date?:` Mon Dec 26 10:38:34 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Branding Personal 
  
-`Followers?: `0 
+`Followers?: `67 
  
-`Following?:` 2 
+`Following?:` 2123 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 37 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1609975286744993792/a9AVwAtq_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1607326308719276032/hRGfVgy0_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 37 
  
 
  
@@ -580,40 +314,41 @@ https://t.co/5H4gNbDBx0
  
 ## User Top tweeted words 
  
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
+**🚀** 24 , **BRANDING** 7 , **PERSONAL** 5 , **💫RT** 4 , **ABILITY** 3 , **BRAND** 2 , **💫@SOYMASTERMUNOZ** 2 , **RT** 1 , **@THECHRISDO:** 1 , **101:** 1 , **1** 1 , **ARTICULATE** 1 , **THOUGHTS** 1 , **2** 1 , **IMPACT** 1 , **LIVES** 1 , **OTHERS** 1 , **3** 1 , **SCALE** 1 , **MESSA…@THECHRISDO** 1 , 
  
 ## What this user tweeted
  
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
+RT @theChrisDo: Personal branding 101:
+1. Ability to articulate thoughts
+2. Ability to impact the lives of others
+3. Ability to scale messa…
  
-# mike_harbison_USER INFO
-![image](http://pbs.twimg.com/profile_images/1609081787799539712/xLfr_-P0_normal.jpg)
+# IQxaainIDUSER INFO
+![image](http://pbs.twimg.com/profile_images/1607383297071452160/w6zdQJgd_normal.jpg)
  
-`User ScreenName:` mike_harbison_ 
+`User ScreenName:` IQxaainID 
  
-`User chosen Name:` Mike Harbison 
+`User chosen Name:` Syed Zain-ul-Abideen 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Dec 31 06:59:13 +0000 2022 
+`User signup date?:` Mon Dec 26 14:22:16 +0000 2022 
  
-`User Description?:`  
+`User Description?:` ACCA student... 
  
-`Followers?: `0 
+`Followers?: `30 
  
-`Following?:` 34 
+`Following?:` 187 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Vancouver, WA 
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 113 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1609081787799539712/xLfr_-P0_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1607383297071452160/w6zdQJgd_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 113 
  
 
  
@@ -621,152 +356,67 @@ The Code to enter is in today…
  
 ## User Top tweeted words 
  
-**PUBLISHED** 3 , **ORGANIZATION** 2 , **SECURITY** 2 , **2023** 2 , **MALICIOUS** 1 , **DEPENDENCIES** 1 , **DISCOVERED** 1 , **PYTORCH** 1 , **FRAMEWORK** 1 , **LIBRARY** 1 , **LARGER** 1 , **DISCUSSION…** 1 , **HTTPS://TCO/F4H5TAFNMSI** 1 , **NEEDS** 1 , **REPRESENTATIVE** 1 , **TABLE** 1 , **CYBERSECURTITY** 1 , **HTTPS://TCO/EJK7SET2TQRT** 1 , **@ISECURITY:** 1 , **LASTPASS** 1 , 
+**اور** 23 , **کا** 17 , **کے** 17 , **KY** 16 , **سے** 16 , **کی** 15 , **کو** 15 , **HA** 13 , **نہیں** 12 , **KO** 12 , **@SOLDIERSPEAKS:** 11 , **نے** 11 , **KI** 10 , **کر** 10 , **ہے** 10 , **میں** 10 , **یہ** 10 , **کہ** 10 , **پر** 10 , **باجوہ** 10 , 
  
 ## What this user tweeted
  
-I just published Malicious Dependencies Discovered in PyTorch Framework Library — A Larger Discussion.… https://t.co/F4H5TafNms
+RT @AVeteran1956: Should also be seen in the context of 5th gen warfare. Penetration of hostile agencies in our systems, state of art techn…
  
-# lunga_manaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609962732719165509/xQ9Qlrvy_normal.png)
+# Morey1939USER INFO
+![image](http://pbs.twimg.com/profile_images/1608300520304680962/CBtuT8Zc_normal.png)
  
-`User ScreenName:` lunga_mana 
+`User ScreenName:` Morey1939 
  
-`User chosen Name:` Mana Lunga 
+`User chosen Name:` Numbers Logos 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 02 17:20:01 +0000 2023 
+`User signup date?:` Thu Dec 29 03:14:59 +0000 2022 
+ 
+`User Description?:` As a senior citizen devoid of any aptitude or training to create a website, I THANK GOD who is with us all the way. Questions separating belief from unbelief. 
+ 
+`Followers?: `29 
+ 
+`Following?:` 259 
+ 
+`User URL?:` https://t.co/ZGUGgNO752 
+ 
+`Location:` Arlington VA 
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1608300520304680962/CBtuT8Zc_normal.png 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ENNUI365:** 4 , **TRUMP** 4 , **VIA** 3 , **2022** 3 , **WAR** 2 , **FLORIDA** 2 , **MAJOR** 2 , **YEAR** 2 , **IN…** 2 , **@ENNUI365** 1 , **REPUBLICAN** 1 , **EISENHOWER’S** 1 , **DAY** 1 , **VOTED** 1 , **NIXON** 1 , **GOLDWATER** 1 , **REAGAN** 1 , **BOTH** 1 , **BUSHES** 1 , **ROMNEY** 1 , 
+ 
+## What this user tweeted
+ 
+Despite his vulnerabilities, Trump remains the early GOP front-runner. https://t.co/nRid7k5HBg via @HuffPostPol
+ 
+# HannahD94850961USER INFO
+![image](http://pbs.twimg.com/profile_images/1607061482906296322/Tic-qBXm_normal.png)
+ 
+`User ScreenName:` HannahD94850961 
+ 
+`User chosen Name:` Hannah David 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 25 17:11:29 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `8 
  
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1609962732719165509/xQ9Qlrvy_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
- 
-## What this user tweeted
- 
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
- 
-# cyberkenpachiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1608478998664732703/AcfGqJTR_normal.jpg)
- 
-`User ScreenName:` cyberkenpachi 
- 
-`User chosen Name:` The Protagonist 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 29 14:49:12 +0000 2022 
- 
-`User Description?:` Recently switched to cyber security as a career, I am new to the path | I promise to always embrace misery 
- 
-`Followers?: `11 
- 
-`Following?:` 83 
- 
-`User URL?:` None 
- 
-`Location:` The Matrix  
- 
-`Number of tweets extracted`  : 23 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1608478998664732703/AcfGqJTR_normal.jpg 
- 
-`Number of tweets excluding replies:` 23 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 5 , **INFOSEC** 4 , **SECURITY** 4 , **TECH** 3 , **@SECURITYTRYBE:** 3 , **HACKING** 3 , **☑️** 3 , **RT** 2 , **@VEEO19** 2 , **U** 2 , **FREE** 2 , **PLATFORMS** 2 , **PYTHON** 2 , **…RT** 2 , **BUGBOUNTY** 2 , **HACKED** 2 , **CONSISTENTLY** 2 , **DEDICATE** 2 , **TOTAL** 2 , **30HOURS** 2 , 
- 
-## What this user tweeted
- 
-RT @Khulood_Almani: 🎯What are the6⃣ Most #Tech #Employment Opportunities Expected to Increase by 2024❓
-
-HT/@CatherineAdenle 
-#futureofwork…
- 
-# AugustinusIonelUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609953748553457666/axCbwlGz_normal.png)
- 
-`User ScreenName:` AugustinusIonel 
- 
-`User chosen Name:` Augustinus Ionel 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 02 16:44:19 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1609953748553457666/axCbwlGz_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
- 
-## What this user tweeted
- 
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
- 
-# yourkowUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609486896056643585/cD0O1IcK_normal.png)
- 
-`User ScreenName:` yourkow 
- 
-`User chosen Name:` Regent 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 01 09:49:13 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 33 
+`Following?:` 64 
  
 `User URL?:` None 
  
@@ -774,7 +424,7 @@ The Code to enter is in today…
  
 `Number of tweets extracted`  : 13 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1609486896056643585/cD0O1IcK_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1607061482906296322/Tic-qBXm_normal.png 
  
 `Number of tweets excluding replies:` 13 
  
@@ -784,38 +434,38 @@ The Code to enter is in today…
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 4 , **PENTESTING** 3 , **IN…RT** 2 , **REVERSE** 2 , **ENGINEERING** 2 , **@SHUBHAM_PEN:** 2 , **CREDIT:** 2 , **INFOSEC** 2 , **OSCP** 2 , **@0XOR0NE:** 2 , **EXPLOITATION** 2 , **LINUX** 2 , **KERNEL** 2 , **CHATGPT** 2 , **RT** 1 , **@UK_DANIEL_CARD:** 1 , **HAHAHAHAHHAHAHAHAHAHAHAHAHAHART** 1 , **@PTRACESECURITY:** 1 , **VISUAL** 1 , **GUIDE** 1 , 
+**INTO** 2 , **BACK** 2 , **HOLIDAY** 2 , **SEASON** 2 , **BLESSED** 2 , **@NBA:** 2 , **NBAXMAS** 2 , **🎄🎁** 2 , **RT** 1 , **@BELLAUSA17:** 1 , **@ELONMUSK** 1 , **GO** 1 , **TRUMP!!!!** 1 , **🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸** 1 , **HTTPS://TCO/GAYFSZJ2ZG@MATTHEW_D_GREEN** 1 , **HELLORT** 1 , **@MATTHEW_D_GREEN:** 1 , **NSA** 1 , **MAINTAINED** 1 , **$250M/YEAR** 1 , 
  
 ## What this user tweeted
  
-RT @ptracesecurity: A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://t.co/fG4o5MRcoS  #Pentesting #CyberSecurity #In…
+RT @matthew_d_green: The NSA maintained a $250m/year “SIGINT Enabling Project” that inserted vulnerabilities into US cryptographic technolo…
  
-# rotarurobert15USER INFO
-![image](http://pbs.twimg.com/profile_images/1609949998493405187/LRe9oP78_normal.png)
+# z3r01kUSER INFO
+![image](http://pbs.twimg.com/profile_images/1607294016223170561/XktWj0m8_normal.jpg)
  
-`User ScreenName:` rotarurobert15 
+`User ScreenName:` z3r01k 
  
-`User chosen Name:` rotaru robert 
+`User chosen Name:` z3r0xk.dll 🇵🇸 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 02 16:29:25 +0000 2023 
+`User signup date?:` Mon Dec 26 08:13:29 +0000 2022 
  
-`User Description?:`  
+`User Description?:` (Small) bug hunter 
  
-`Followers?: `0 
+`Followers?: `27 
  
-`Following?:` 2 
+`Following?:` 466 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 52 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1609949998493405187/LRe9oP78_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1607294016223170561/XktWj0m8_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 52 
  
 
  
@@ -823,40 +473,40 @@ RT @ptracesecurity: A Visual Guide to SSH Tunnels: Local and Remote Port Forward
  
 ## User Top tweeted words 
  
-**RT** 1 , **@THEBEARDEDITDAD:** 1 , **🚨** 1 , **GIVEAWAY** 1 , **TIME!!!🚨** 1 , **@INE** 1 , **DONATED** 1 , **10** 1 , **ANNUAL** 1 , **PREMIUM** 1 , **SUBSCRIPTIONS** 1 , **($749** 1 , **VALUE** 1 , **EACH!!)** 1 , **CODE** 1 , **ENTER** 1 , **TODAY…** 1 , 
+**ANY** 5 , **في** 4 , **FIND** 4 , **BUG** 4 , **ما** 4 , **من** 3 , **WRITE** 3 , **TRYHACKME** 3 , **PRACTICE!** 3 , **USE** 3 , **LEARN** 3 , **TOOLS** 3 , **RT** 2 , **"TARGET[]COM"** 2 , **@AKACLANDESTINE:** 2 , **GITHUB** 2 , **TOOL** 2 , **:** 2 , **X10** 2 , **FREE** 2 , 
  
 ## What this user tweeted
  
-RT @TheBeardedITDad: 🚨 Giveaway Time!!!🚨
-@ine Has donated 10 Annual Premium Subscriptions ($749 Value EACH!!)
-The Code to enter is in today…
+RT @securityfreax: Use IDA PRO HexRays decompiler with ChatGPT to find possible vulnerabilities in binaries 
+
+https://t.co/w0H5Kq777Q
  
-# TechJoyrideUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609941441341685760/EGEQxsPa_normal.jpg)
+# Koneka_Islam_19USER INFO
+![image](http://pbs.twimg.com/profile_images/1606862931324731392/TZN0-hRW_normal.jpg)
  
-`User ScreenName:` TechJoyride 
+`User ScreenName:` Koneka_Islam_19 
  
-`User chosen Name:` Tech JoyRide 
+`User chosen Name:` Koneka_Islam_Jara 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 02 15:55:25 +0000 2023 
+`User signup date?:` Sun Dec 25 04:02:12 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `6 
  
-`Following?:` 1 
+`Following?:` 47 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 65 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1609941441341685760/EGEQxsPa_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1606862931324731392/TZN0-hRW_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 65 
  
 
  
@@ -864,17 +514,11 @@ The Code to enter is in today…
  
 ## User Top tweeted words 
  
-**@GOOGLEDOODLES** 1 , **@GOOGLE** 1 , **NICE** 1 , **👌LATEST** 1 , **TRENDS** 1 , **TECHNOLOGY:-** 1 , **1ARTIFICIAL** 1 , **INTELLIGENCE** 1 , **25G** 1 , **3EDGE** 1 , **COMPUTING** 1 , **4CYBERSECURITY** 1 , **5INTERNET** 1 , **THINGS…** 1 , **HTTPS://TCO/8OLMQUTMHE** 1 , 
+**@PUFFVERSE** 37 , **@MARK_JONI_** 18 , **@JON_SEN_** 18 , **@MD_ABDULLAH_ALL@MADSCRYPTO_** 18 , **NFT** 8 , **MANY** 8 , **MARKET** 7 , **PROJECTS** 7 , **PUFFVERSE** 6 , **AMA** 6 , **ANY** 5 , **PROJECT** 5 , **READ** 4 , **USERS** 4 , **SEKUYA** 4 , **NFTS** 4 , **LIVE** 4 , **DURING** 3 , **DOES** 3 , **PLAN** 3 , 
  
 ## What this user tweeted
  
-Latest Trends in Technology:-
-
-1.Artificial intelligence
-2.5G
-3.Edge computing
-4.Cybersecurity
-5.Internet of Things… https://t.co/8OlmQuTmhe
+@TomketLovers Protecting users data, privacy &amp; funds has become a glaring problem that many companies/projects must… https://t.co/uXV4fXzZJk
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
