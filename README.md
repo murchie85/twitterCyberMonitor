@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **RnaudBertrand**  
  
 
-## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This… https://t.co/9kCO6ugG3G 
+## Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 
 
   
 
@@ -25,25 +23,25 @@ This… https://t.co/9kCO6ugG3G
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @klever_io: 7/ Keep your hardware wallet and #KleverWallet app up to date with the latest security patches. This will help protect again… |
-| RT @creativeON: How Offsite Backups Make Your Website More Secure? Having a backup for your site is very important. It can help you in fixi… |
-| RT @hackinarticles: Web Application Hacking Tools#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecuri… |
+| RT @DefenceU: The US weapons are in good hands in Ukraine. |
+| RT @apmassaro3: Remember: russia's self-proclaimed "history" is a lie. They stole it from Ukraine https://t.co/7VQIUyeDGT |
+| RT @KyivIndependent: ⚡️Sweden pledges to provide Ukraine with Archer artillery systems.Swedish Prime Minister Ulf Kristersson pledged on… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mrjamesob** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **Spotlight_Abby** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 5.72%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **JamesBradleyCA** |
+| #2 Most tweeted to  | **KyivIndependent** |
+| #3 Most tweeted to  | **ukraine_map** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 6.54%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -52,286 +50,47 @@ This… https://t.co/9kCO6ugG3G
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **؟?**  |
-| third  | **نمشے** |
-| fourth  | **MAKE**  |
-| fifth  | **THERAPY**  |
+| first  | **UKRAINE**  |
+| second  | **WAR**  |
+| third  | **ZELENSKY** |
+| fourth  | **RUSSIAN**  |
+| fifth  | **TANKS**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJECTIVE** (57.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|It may look like WordPress stands out in the plane of 'core + 3rd-party plugins' systems, but they are not alone. L… https://t.co/xWOOB4Gour |
+|RT @CondoleezzaRice: The way to avoid confrontation with Russia in the future is to help Ukraine push back the invader now. That is the les… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **RnaudBertrand**  |
 | ------------- |
-| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
+| Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 |
 
 # Potential Fake Accounts
  
-# musingsnwisdomUSER INFO
-![image](http://pbs.twimg.com/profile_images/1612141079817785344/3omhj45w_normal.jpg)
+# hmar880USER INFO
+![image](http://pbs.twimg.com/profile_images/1611516359623458818/ZeYQLPuh_normal.jpg)
  
-`User ScreenName:` musingsnwisdom 
+`User ScreenName:` hmar880 
  
-`User chosen Name:` Evolving Perceptions 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 08 11:54:12 +0000 2023 
- 
-`User Description?:` An innocent attempt to share the tiniest and strangest of wisdom gained through the lifelong experiences and knowledge. 
- 
-`Followers?: `10 
- 
-`Following?:` 84 
- 
-`User URL?:` None 
- 
-`Location:` New Delhi, India 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1612141079817785344/3omhj45w_normal.jpg 
- 
-`Number of tweets excluding replies:` 302 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DATA** 40 , **DIGITAL** 37 , **CERTIFICATE** 32 , **PROCESS** 23 , **MARKETING** 20 , **VIDEO** 19 , **EDITING** 19 , **OFFERED** 19 , **UNIVERSITY** 17 , **TOOLS** 15 , **COURSE** 15 , **SUCH** 15 , **TRANSFORMATION** 14 , **INVOLVES** 14 , **ENSURE** 14 , **VISUALIZATION** 14 , **TESTING** 13 , **SYSTEM** 12 , **CREATE** 12 , **ALLOWS** 12 , 
- 
-## What this user tweeted
- 
-3. Security testing: This type of testing is designed to identify vulnerabilities and ensure that the system is secure.
- 
-# Scaredy_CoinsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1612476780266283008/3mGfGY-I_normal.jpg)
- 
-`User ScreenName:` Scaredy_Coins 
- 
-`User chosen Name:` Scaredy Coins 
+`User chosen Name:` Live up 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 09 15:33:45 +0000 2023 
- 
-`User Description?:` Scaredy Coin is the new digital asset nonregulated by the government. It is designed to be safe and trustworthy with tamper-proof transactions. 
- 
-`Followers?: `0 
- 
-`Following?:` 57 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1612476780266283008/3mGfGY-I_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COINS** 4 , **NFTS** 3 , **ADDITION** 2 , **SCAREDY** 2 , **RELEASE** 2 , **HTTPS://TCO/YD8PU3CEXYTHE** 1 , **MESSAGE** 1 , **THESE** 1 , **SELF-ACCEPTANCE** 1 , **SELF-COMPASSION** 1 , **MAKING** 1 , **THOUGHTFUL** 1 , **MEANINGFUL** 1 , **ANY** 1 , **COLLECTIONIN** 1 , **AESTHETIC** 1 , **APPEAL** 1 , **DEEPER** 1 , **MEANING** 1 , **MEANT** 1 , 
- 
-## What this user tweeted
- 
-In addition to their aesthetic appeal, Scaredy Coins also have a deeper meaning. They are meant to represent the id… https://t.co/QEPI4GSnud
- 
-# Menaya_CyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1609853522345922560/5RkTpara_normal.jpg)
- 
-`User ScreenName:` Menaya_Cyber 
- 
-`User chosen Name:` Menaya 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 02 09:42:18 +0000 2023 
- 
-`User Description?:` Menaya is a turnkey, SaaS cybersecurity auditing solution that monitors and prevents cyber risks before they happen.
-#cybersecurity #technology #ethicalhacking 
- 
-`Followers?: `3 
- 
-`Following?:` 19 
- 
-`User URL?:` https://t.co/EfaatGANQb 
- 
-`Location:` Paris, France 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1609853522345922560/5RkTpara_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MILLIONS** 2 , **DE** 2 , **EN** 2 , **RT** 1 , **@THEHACKERSNEWS:** 1 , **RESEARCHERS** 1 , **UNCOVERED** 1 , **API** 1 , **VULNERABILITIES** 1 , **16** 1 , **MAJOR** 1 , **CAR** 1 , **BRANDS** 1 , **PUTTING** 1 , **VEHICLES** 1 , **RISK** 1 , **CYBERATT…RT** 1 , **@SIECLEDIGITAL:** 1 , **DEEZER** 1 , **:** 1 , 
- 
-## What this user tweeted
- 
-RT @TheHackersNews: Researchers have uncovered API vulnerabilities in 16 major car brands, putting millions of vehicles at risk of cyberatt…
- 
-# CalanoAssociateUSER INFO
-![image](http://pbs.twimg.com/profile_images/1610275361589235714/uWZS3KJy_normal.jpg)
- 
-`User ScreenName:` CalanoAssociate 
- 
-`User chosen Name:` Calano & Associates 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 03 14:02:07 +0000 2023 
- 
-`User Description?:` Premier provider in Enterprise IT | Risk-Based Solutions | Cybersecurity | Artificial Intelligence | Consulting. 
- 
-`Followers?: `0 
- 
-`Following?:` 10 
- 
-`User URL?:` https://t.co/hLbwbUkXXM 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1610275361589235714/uWZS3KJy_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CALANO** 4 , **RETIRED** 2 , **CRYPTOGRAPHIC** 2 , **2023** 2 , **WE'RE** 2 , **STARTING** 2 , **OFF** 2 , **STRONG** 2 , **NEWS** 2 , **ASSOCIATES** 2 , **INC** 2 , **HIRING!** 2 , **RT** 1 , **@NISTCYBER:** 1 , **SPIRIT** 1 , **NATIONALTECHNOLOGYDAY!** 1 , **IMPORTANT** 1 , **NOTE** 1 , **@NIST** 1 , **SHA-1** 1 , 
- 
-## What this user tweeted
- 
-RT @NISTcyber: In the spirit of #NationalTechnologyDay! It is important to note that @NIST retired the SHA-1 #Cryptographic Algorithm! 
-
-It…
- 
-# c10akingUSER INFO
-![image](http://pbs.twimg.com/profile_images/1610678889126465538/pI3gWYF-_normal.jpg)
- 
-`User ScreenName:` c10aking 
- 
-`User chosen Name:` dev_c10aking 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 04 16:45:46 +0000 2023 
- 
-`User Description?:` 실력으로 깨부수고 싶다 
- 
-`Followers?: `4 
- 
-`Following?:` 48 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1610678889126465538/pI3gWYF-_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SQL** 2 , **RT** 1 , **@INTIGRITI:** 1 , **MASTER** 1 , **INJECTIONS** 1 , **OPEN** 1 , **THREAD!** 1 , **INJECTION** 1 , **ATTACKS** 1 , **VULNERABILITIES** 1 , **ALLOW** 1 , **ATTACKERS…@HELLDEVV** 1 , **술먹고** 1 , **어른한테** 1 , **횡설수설이라뇨@SILICONSONG** 1 , **이만** 1 , **보내주시는** 1 , **게@PPYAGDAEGALIGW1** 1 , **네이버앱켜서** 1 , **흥얼거려보심이@HELLDEVV** 1 , 
- 
-## What this user tweeted
- 
-RT @intigriti: If you want to master SQL injections, open this thread!
-
-SQL injection attacks are vulnerabilities that can allow attackers…
- 
-# GafferIosefUSER INFO
-![image](http://pbs.twimg.com/profile_images/1611271128542072833/fPwNiMBp_normal.jpg)
- 
-`User ScreenName:` GafferIosef 
- 
-`User chosen Name:` Iosef Gaffer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jan 06 07:41:35 +0000 2023 
+`User signup date?:` Thu Jan 05 16:53:07 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `2 
  
-`Following?:` 35 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1611271128542072833/fPwNiMBp_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DOWN** 5 , **CASE** 4 , **PRODUCER** 4 , **DIDN'T:** 3 , **PROFILE** 2 , **WEREWOLF** 2 , **WRITING** 1 , **NEED** 1 , **WRITE** 1 , **NAMES** 1 , **STILL** 1 , **LISTENING** 1 , **(IF** 1 , **NUMBER** 1 , **GREATER** 1 , **THAN** 1 , **7)WRITING** 1 , **NOT:** 1 , **"WHO** 1 , **DOESN'T** 1 , 
- 
-## What this user tweeted
- 
-idea: exploratory latent profile analysis on werewolf movies, plugging in variables like what werewolf rules are fo… https://t.co/CieSKb7CQF
- 
-# 9k3p8Zb8BWR2CsSUSER INFO
-![image](http://pbs.twimg.com/profile_images/1612106691973382149/XqPikvnz_normal.jpg)
- 
-`User ScreenName:` 9k3p8Zb8BWR2CsS 
- 
-`User chosen Name:` 吉田貴博 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 08 15:19:21 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `9 
- 
-`Following?:` 400 
+`Following?:` 7 
  
 `User URL?:` None 
  
@@ -339,9 +98,9 @@ idea: exploratory latent profile analysis on werewolf movies, plugging in variab
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1612106691973382149/XqPikvnz_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1611516359623458818/ZeYQLPuh_normal.jpg 
  
-`Number of tweets excluding replies:` 200 
+`Number of tweets excluding replies:` 2069 
  
 
  
@@ -349,38 +108,63 @@ idea: exploratory latent profile analysis on werewolf movies, plugging in variab
  
 ## User Top tweeted words 
  
-**NEW** 8 , **EN** 8 , **PRESIDENT** 7 , **EL** 7 , **BORDER** 7 , **DAY** 7 , **DE** 7 , **NCT127** 6 , **GOOD** 6 , **US** 6 , **@VODAFONEUK:** 6 , **@NCTSMTOWN_127:** 5 , **NCT** 5 , **DURING** 5 , **@POTUS:** 5 , **OPERATIONS** 5 , **SECURITY** 5 , **LAST** 5 , **MEXICO** 5 , **LA** 5 , 
+**CANADA** 159 , **RUSSIAN** 143 , **UKRAINE** 105 , **GERMANY** 98 , **BAKHMUT** 90 , **UKRAINIAN** 87 , **GERMANY…** 61 , **FORCES** 42 , **CANADA…** 41 , **DESTROY** 40 , **ATTACK** 38 , **KYIV** 36 , **TANK** 31 , **TROOPS** 31 , **MISSILES** 30 , **(JAN** 29 , **2023)** 28 , **DRONE** 28 , **AMERICA** 27 , **WAR** 26 , 
  
 ## What this user tweeted
  
-RT @eAsiaMediaHub: The climate crisis is a threat multiplier, exacerbating pre-existing human trafficking vulnerabilities and placing more…
+Ukraine - 13.12.2022. Footage Of Presidential Brigade Destroying Russian Armor With Javelin ATGM.
+#Canada #Germany… https://t.co/hPpa7jZk5ySatellite images show: Russian main airport was SHOT by unknown aircraft!
+#Canada #Germany #Bakhmut #Kyiv #Ukraine
+https://t.co/DSsRAPs0ayGoPro Footage - Ukrainian troops destroy Russian tanks at close range
+#Canada #Germany #America #Ukraine #Bakhmut
+https://t.co/PSRHECZlzGNow it's started! Ukrainian military destroyed a tugboat near the Antonovsky bridge   OK South
+#Canada #Germany… https://t.co/FctKyu86NhUkrainian artillery destroys Russian tanks leaving injured troops fleeing
+#Canada #Germany #America #Ukraine… https://t.co/TwPneHpJwZUkraine Continues Attacking - Russian Invasion DOCUMENTARY
+#Canada #Germany #Bakhmut #Kyiv #Ukraine
+https://t.co/fbcQAx7mjlGoPro footage! Ukrainian troops Destroy Russian Tanks Convoy in the  gray zone Bakhmut combat
+#Canada #Germany… https://t.co/N8aUxQAWdhWAR IN UKRAINE: Ukrainian Forces Destroy Russian Supply Truck
+#Canada #Germany #Bakhmut #Kyiv #Ukraine
+https://t.co/qQh2eUIo3yGoPro footage!! Ukrainian Troops Destroy Russian Tank T-80 to pieces on Bakhmut
+#Canada #Germany #America #Ukraine… https://t.co/zLU3iB3YFRUkraine's elite KRAKEN battalion fires 50 HIMARS missiles destroying Russian headquarters in Kherson
+#Canada… https://t.co/hDJmx7rTyUAgain: Ukrainian forces use 16 HIMARS Missile destroys Russian Defence System near Kherson
+#Canada #Germany… https://t.co/WkkVM8KeC1HORRIBLE!! Ukraine armed forces destroy 25 Russian tanks and 37 armored vehicles near Donetsk
+#Canada #Germany… https://t.co/CCdD4YjJdvHORRIBLE Sep 09 Ukraine soldier strangle Russian supply lines with western artillery near Kherson
+#Canada #Germany… https://t.co/Z05tsAmTwAToday! Ukraine war video footage, Destroy RussianTank in Kherson, Ukraine Drone Attack
+#Canada #Germany #America… https://t.co/2qOmI8QruMMorning briefing of the Ministry of Defense of Russia (July 17, 2022)
+#Canada #Germany #Bakhmut #Kyiv #Ukraine
+https://t.co/bHvkPcZ7fvUkraine War Video Footage, Drone Attack, Russian withdraws troops from Kherson
+#Canada #Germany #America #Ukraine… https://t.co/n67pxpdAW7BRUTAL ATTACK!! Ukraine forces destroy 4 Russian armored &amp; 15 Soldiers in wooded near Kharkiv
+#Canada #Germany… https://t.co/slWi9wAfrvUkrainian Drones Drop Bombs destroy Russian Soldiers Hiding In Foxholes
+#Canada #Germany #Bakhmut #Kyiv #Ukraine
+https://t.co/8EiKtMMQhGUkrainian AH-1Z fighter Helicopter Attack on Russian Military Brigade Battalion in Russia | Gta V
+#Canada #Germany… https://t.co/EI2UIfPe6t
  
-# BarryJames9991USER INFO
-![image](http://pbs.twimg.com/profile_images/1611820970385317889/heXIwjrW_normal.png)
+# wtphillips31USER INFO
+![image](http://pbs.twimg.com/profile_images/1611193983941709824/-8_3vOBl_normal.jpg)
  
-`User ScreenName:` BarryJames9991 
+`User ScreenName:` wtphillips31 
  
-`User chosen Name:` Barry James 
+`User chosen Name:` MrGeorgiaPine 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 07 20:23:59 +0000 2023 
+`User signup date?:` Thu Jan 05 23:25:57 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Formerly MrGeorgiaPine … #Conservative Patriot who enjoys scotch. Avid Hunter & outdoorsman. Christian, husband & father. Formerly followed by @genflynn 
  
-`Followers?: `1 
+`Followers?: `239 
  
-`Following?:` 9 
+`Following?:` 346 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 188 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1611820970385317889/heXIwjrW_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1611193983941709824/-8_3vOBl_normal.jpg 
  
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 188 
  
 
  
@@ -388,40 +172,116 @@ RT @eAsiaMediaHub: The climate crisis is a threat multiplier, exacerbating pre-e
  
 ## User Top tweeted words 
  
-**@OASISPROTOCOL** 9 , **@IBANI_FATEX:** 6 , **SAPPHIRE** 5 , **PRIVACY** 5 , **OASIS** 3 , **NETWORK** 3 , **@CAPRICONVIC:** 3 , **DEVS** 2 , **BUILD** 2 , **DAPPS** 2 , **KEY** 2 , **WEB3** 2 , **NFTS** 2 , **PRIVATE** 2 , **SOLIDITY** 2 , **ALLOWS** 2 , **TEE** 2 , **VULNERABILITIES** 2 , **WELL-KNOWN** 2 , **EVM** 2 , 
+**…** 31 , **@ELONMUSK** 14 , **BACK** 13 , **TWITTER** 13 , **TIME** 11 , **ACCOUNT** 11 , **PEOPLE** 10 , **@GEORGIAPINE8** 10 , **I’M** 8 , **@WTPHILLIPS31** 8 , **STILL** 7 , **FOLLOW** 7 , **DON’T** 7 , **BEFORE** 7 , **THING** 7 , **DOING** 7 , **NUKED** 7 , **@DC_DRAINO** 6 , **NEVER** 6 , **THEN** 6 , 
  
 ## What this user tweeted
  
-RT @IbanI_FATEx: How @OasisProtocol protects privacy despite TEE vulnerabilities 🤔
-
-If such vulnerabilities occur, the Oasis #Network uses…
+@CollinRugg If Ukraine is truly at war with Russia then how in the hell is Zelensky appearing in Congress &amp; The Golden Globes?
  
-# PaulJef00023944USER INFO
-![image](http://pbs.twimg.com/profile_images/1611823249263939584/PDdEik7n_normal.png)
+# JoanLin41927981USER INFO
+![image](http://pbs.twimg.com/profile_images/1609638890729504773/bM1gEClz_normal.jpg)
  
-`User ScreenName:` PaulJef00023944 
+`User ScreenName:` JoanLin41927981 
  
-`User chosen Name:` Paul Jeffery 
+`User chosen Name:` Joan Lindsey 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 07 20:33:03 +0000 2023 
+`User signup date?:` Sun Jan 01 19:52:37 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `51 
  
-`Following?:` 9 
+`Following?:` 224 
+ 
+`User URL?:` None 
+ 
+`Location:` Pensacola, FL 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1609638890729504773/bM1gEClz_normal.jpg 
+ 
+`Number of tweets excluding replies:` 687 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOVE** 10 , **GOOD** 8 , **NEW** 7 , **OFF** 7 , **STILL** 6 , **DAY** 6 , **DOWN** 6 , **MUCH** 5 , **@LONDONMURRAY12** 5 , **AFTER** 5 , **@PAULJAWIN** 5 , **@DEFENCEU** 5 , **DON’T** 5 , **@PTSDADVOCATE** 5 , **I’M** 5 , **HOME** 5 , **ANOTHER** 4 , **BEAST** 4 , **TOO** 4 , **OLD** 4 , 
+ 
+## What this user tweeted
+ 
+@ukraine_map About time I’d say!!
+ 
+# bennykeukensUSER INFO
+![image](http://pbs.twimg.com/profile_images/1610931645145661440/k1eVz0VG_normal.jpg)
+ 
+`User ScreenName:` bennykeukens 
+ 
+`User chosen Name:` Ben Keukens 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 05 09:07:54 +0000 2023 
+ 
+`User Description?:` Volonteer 
+ 
+`Followers?: `76 
+ 
+`Following?:` 321 
+ 
+`User URL?:` None 
+ 
+`Location:` Rotterdam, Nederland 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1610931645145661440/k1eVz0VG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 736 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 58 , **HET** 41 , **VAN** 28 , **EEN** 27 , **EN** 23 , **VOOR** 20 , **OP** 18 , **JE** 17 , **MET** 13 , **MAAR** 12 , **JAAR** 11 , **DAT** 11 , **DOOR** 10 , **AAN** 10 , **DIE** 9 , **ER** 9 , **@KIJKVERDER1** 9 , **@J41963735** 9 , **@MIJN078MENING** 9 , **@INE66H** 9 , 
+ 
+## What this user tweeted
+ 
+RT @WSJ: The British government is in talks to send main battle tanks to Ukraine to help its forces roll back Russia’s territorial gains ht…
+ 
+# LindaPa74615342USER INFO
+![image](http://pbs.twimg.com/profile_images/1611162053846372354/W0X2hQdm_normal.png)
+ 
+`User ScreenName:` LindaPa74615342 
+ 
+`User chosen Name:` Linda Palmer 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 06 00:45:41 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `51 
+ 
+`Following?:` 327 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1611823249263939584/PDdEik7n_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1611162053846372354/W0X2hQdm_normal.png 
  
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 4072 
  
 
  
@@ -429,40 +289,38 @@ If such vulnerabilities occur, the Oasis #Network uses…
  
 ## User Top tweeted words 
  
-**@OASISPROTOCOL** 9 , **@IBANI_FATEX:** 6 , **SAPPHIRE** 5 , **PRIVACY** 5 , **OASIS** 3 , **NETWORK** 3 , **@CAPRICONVIC:** 3 , **DEVS** 2 , **BUILD** 2 , **DAPPS** 2 , **KEY** 2 , **WEB3** 2 , **NFTS** 2 , **PRIVATE** 2 , **SOLIDITY** 2 , **ALLOWS** 2 , **TEE** 2 , **VULNERABILITIES** 2 , **🤔** 2 , **EVM** 2 , 
+**HOUSE** 18 , **REPUBLICANS** 16 , **US** 12 , **AFTER** 9 , **TRUMP** 8 , **OLD** 8 , **FIRST** 8 , **GOP** 7 , **MCCARTHY** 7 , **GOT** 7 , **CONGRESS** 7 , **MARJORIE** 6 , **TAYLOR** 6 , **GREENE** 6 , **PRESIDENT** 6 , **@REALTUCKFRUMPER:** 6 , **NEVER** 6 , **WHITE** 6 , **NEW** 6 , **DAY** 6 , 
  
 ## What this user tweeted
  
-RT @IbanI_FATEx: How @OasisProtocol protects privacy despite TEE vulnerabilities 🤔
-
-If such vulnerabilities occur, the Oasis #Network uses…
+RT @RachelNotley: “Every day we know that news from Ukraine, horrible news, and we understand that we are lucky,” Mykoliachuk added. “We ha…
  
-# _pinkwolf_USER INFO
-![image](http://pbs.twimg.com/profile_images/1610721043814940692/Xx80T_oe_normal.jpg)
+# JohnGil99050259USER INFO
+![image](http://pbs.twimg.com/profile_images/1611163655189721088/0BW7Wbfu_normal.jpg)
  
-`User ScreenName:` _pinkwolf_ 
+`User ScreenName:` JohnGil99050259 
  
-`User chosen Name:` ❥ 
+`User chosen Name:` John Giles 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 04 19:14:06 +0000 2023 
+`User signup date?:` Wed Jan 04 22:07:41 +0000 2023 
  
-`User Description?:` ∞🐶∞ 
+`User Description?:` Lefty. MMT. Anti imperialist. 
  
-`Followers?: `28 
+`Followers?: `6 
  
-`Following?:` 21 
+`Following?:` 55 
  
 `User URL?:` None 
  
-`Location:` ohmpawat ♡  
+`Location:` Australia 
  
-`Number of tweets extracted`  : 173 
+`Number of tweets extracted`  : 156 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1610721043814940692/Xx80T_oe_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1611163655189721088/0BW7Wbfu_normal.jpg 
  
-`Number of tweets excluding replies:` 891 
+`Number of tweets excluding replies:` 156 
  
 
  
@@ -470,55 +328,11 @@ If such vulnerabilities occur, the Oasis #Network uses…
  
 ## User Top tweeted words 
  
-**OHMPAWAT** 64 , **@OHMPAWATT** 55 , **PAMPERDECATLIVEXOHM** 23 , **OHM** 17 , **DOUBLESAVAGE** 16 , **ยิ้ม5พันของโอมภวัต** 14 , **IGS** 12 , **GOOD** 11 , **@GMMTV:** 10 , **OHMNANON** 10 , **@PORR_PATLNWZA55:** 9 , **GMMTV** 9 , **🧡** 9 , **@PAWAT_TRENDS:** 8 , **~** 8 , **@PLZ_MORE_GIMAN:** 8 , **โอมนนน** 7 , **CUTE** 7 , **@_FRIENDUNFRIEND:** 7 , **20230107** 7 , 
+**@MATT83278765** 19 , **@MICHELEROUSSEA7** 19 , **@WALLACEMICK** 19 , **@CAITOZ** 12 , **YOU'RE** 11 , **@DANNYSHAWCUNY** 10 , **@BLACKINTHEEMPIR** 9 , **DON'T** 7 , **FEDERAL** 6 , **@ATLASEMOJIFKKDS** 6 , **US** 6 , **@0_LOKI_0** 6 , **THING** 5 , **SPENDING** 5 , **@MARKCUMBERBATC6** 5 , **ISN'T** 5 , **@JACKSONHINKLLE** 5 , **🤷‍♂️** 5 , **ANY** 5 , **@DYASSMO** 5 , 
  
 ## What this user tweeted
  
-RT @porr_patlnwza55: are. the way ohm has always be open about his flaws and vulnerabilities from the past, he wasnt a perfect child n hes…
- 
-# cyberwr3nchUSER INFO
-![image](http://pbs.twimg.com/profile_images/1611741640095584256/Hp26NZgW_normal.jpg)
- 
-`User ScreenName:` cyberwr3nch 
- 
-`User chosen Name:` Dhanesh Sivasamy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 07 15:08:45 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 89 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1611741640095584256/Hp26NZgW_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SECURITY** 4 , **SECOND** 3 , **TIPS** 3 , **ARM** 2 , **READ** 2 , **DOWNLOAD** 2 , **:-** 2 , **COURSE** 2 , **5** 2 , **BUGBOUNTY** 2 , **EXFIL** 2 , **CURL** 2 , **BASH** 2 , **EVEN** 2 , **ANDROID** 2 , **REVERSE** 2 , **ENGINEERING** 2 , **CYBERSECURITY** 2 , **DAY** 2 , **BLOGS** 2 , 
- 
-## What this user tweeted
- 
-RT @0x0SojalSec: Don’t report SSRF, Escalate to RCE
-
-https://t.co/sHrXcUHXiU
-https://t.co/v7KYQA3UjF
-https://t.co/JOWSAyUuNE
-https://t.co/5…
+RT @RnaudBertrand: Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years that it…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
