@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **rhowardbrowne**  
+The most popular user is: **SecurityTrybe**  
  
 
-## Leaked audio from days after the 2016 election, before Trump’s inauguration—Biden calls Poroshenko, then head of st… https://t.co/SJs2e6QuJZ 
+## Cybersecurity Certifications to get in 2023 (For FREE) 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **rhowardbrowne**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @catcontentonly: Ukraine gonna go down as the most cringe war in world history. |
-| RT @disclosetv: NEW - Ukraine presents itself as a battle angel at the Miss Universe pageant in New Orleans.https://t.co/E7owwCVVhj |
-| @KamVTV Biden has always been a national security risk. He’s been in league with the Chinese  government and Ukrai… https://t.co/DYJD9x9azu |
+| Is ChatGPT a cybersecurity threat?https://t.co/bbOlc4HDN5 |
+| RT @CISACyber: 🤝 Is your organization interested in helping with vulnerability disclosures? If so, consider becoming a #CVE Numbering Autho… |
+| @DC214DFW I am looking for a mid-level remote job in cybersecurity, penetration testing. I have a few cybersecurity… https://t.co/9fVjEiUBGb |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AdamKinzinger** |
-| #2 Most tweeted to  | **gtconway3d** |
-| #3 Most tweeted to  | **DefenceU** |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **ireteeh** |
+| #3 Most tweeted to  | **hackinarticles** |
 | NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 6.94%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| Tweeters with < 10 followers  | 4.42%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **rhowardbrowne**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **RUSSIA**  |
-| third  | **WAR** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **BIDEN**  |
+| first  | **INFOSEC**  |
+| second  | **PENTESTING**  |
+| third  | **DAY** |
+| fourth  | **@SECURITYTRYBE:**  |
+| fifth  | **OSCP**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DefenceU: Western countries are so worried about sending tanks to Ukraine, they’re arguing about what is and isn’t a “tank.” We offer o… |
+|RT @GovEvers: BREAKING: I just signed an executive order banning TikTok and other potential cybersecurity-threatening technologies on state… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **rhowardbrowne**  |
+| The most retweeted user is: **SecurityTrybe**  |
 | ------------- |
-| Leaked audio from days after the 2016 election, before Trump’s inauguration—Biden calls Poroshenko, then head of st… https://t.co/SJs2e6QuJZ |
+| Cybersecurity Certifications to get in 2023 (For FREE) |
 
 # Potential Fake Accounts
  
-# RomeoBoxerDadUSER INFO
-![image](http://pbs.twimg.com/profile_images/1611843714581659653/7JYwRMWC_normal.jpg)
+# tarynblake1991USER INFO
+![image](http://pbs.twimg.com/profile_images/1610733997662797834/aEoMWVY3_normal.png)
  
-`User ScreenName:` RomeoBoxerDad 
+`User ScreenName:` tarynblake1991 
  
-`User chosen Name:` Scott Johnson 
+`User chosen Name:` Taryn Smith 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 07 21:32:20 +0000 2023 
+`User signup date?:` Wed Jan 04 20:24:45 +0000 2023 
  
-`User Description?:` I’m better at crossword puzzles than you. 
+`User Description?:`  
  
-`Followers?: `38 
+`Followers?: `1 
  
-`Following?:` 675 
+`Following?:` 37 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 11 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1611843714581659653/7JYwRMWC_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1610733997662797834/aEoMWVY3_normal.png 
  
-`Number of tweets excluding replies:` 439 
+`Number of tweets excluding replies:` 11 
  
 
  
@@ -108,77 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJE
  
 ## User Top tweeted words 
  
-**PETE** 31 , **SEX** 23 , **OTHER** 23 , **MEN** 22 , **ANYONE** 19 , **THAT’S** 19 , **GOT** 18 , **JOB** 18 , **SUGGESTING** 16 , **GAY** 14 , **OTHERWISE** 12 , **BIDEN** 11 , **DIVERSITY** 9 , **TIME** 9 , **DON’T** 8 , **GOOD** 8 , **HIRE** 8 , **TRANSPORTATION** 8 , **VERY** 7 , **@NINATURNER** 7 , 
+**@REDWLLC** 3 , **EXPERT** 2 , **BRIAN** 2 , **TOP** 2 , **EMPLOYERS** 2 , **TEAM** 2 , **A…** 2 , **VALUATION** 2 , **RT** 1 , **@JYDBASKETBALL:** 1 , **NICE** 1 , **WAY** 1 , **START** 1 , **GAME** 1 , **2025** 1 , **5-10** 1 , **HANNAH** 1 , **REYNOLDS** 1 , **(PAWHUSKA)** 1 , **STEAL** 1 , 
  
 ## What this user tweeted
  
-RT @JackPosobiec: You mean like when Biden said his son never did business in China and Ukraine?
+REDW #cybersecurity expert Brian Grayek is shedding light on the increasing intensity and liability of cyberattacks… https://t.co/RPCVwH8l2v
  
-# daraklydeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1611425670726385664/onr9mS-i_normal.jpg)
+# TzJosh_USER INFO
+![image](http://pbs.twimg.com/profile_images/1612997190007365638/uc9mE53U_normal.jpg)
  
-`User ScreenName:` daraklyde 
+`User ScreenName:` TzJosh_ 
  
-`User chosen Name:` vit 
+`User chosen Name:` Josh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 06 17:44:12 +0000 2023 
+`User signup date?:` Wed Jan 11 02:17:35 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Live, Love and Learn 
  
-`Followers?: `2 
+`Followers?: `7 
  
-`Following?:` 75 
+`Following?:` 121 
  
 `User URL?:` None 
  
-`Location:` Europe 
+`Location:` Outta Space 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1611425670726385664/onr9mS-i_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1612997190007365638/uc9mE53U_normal.jpg 
  
-`Number of tweets excluding replies:` 499 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ENDWOKENESS** 50 , **@TZCHAVIS** 43 , **@TRUE_GOV** 33 , **И** 32 , **В** 30 , **@TATIANACOLLIGAN** 30 , **НЕ** 30 , **UKRAINE** 25 , **@DW_RUSSIAN** 24 , **ЧТО** 21 , **ЭТО** 20 , **@LUBOS_TULEJA** 17 , **@KLAUS_ARMINIUS** 15 , **Я** 13 , **КАК** 12 , **DON'T** 11 , **YOU'RE** 11 , **@CLOWNWORLD_** 10 , **BLACKS** 10 , **А** 10 , 
- 
-## What this user tweeted
- 
-@ProudWasp123 @Henrik_Palmgren Ukraine is not nearly as attractive to immigrants as USA. Ukraine would be the same as Baltics.@ProudWasp123 @Henrik_Palmgren I'm just curious where did you adopt the idea that Ukraine would become non-white un… https://t.co/lMfQcfOumF@ProudWasp123 @Henrik_Palmgren Leaders are jews and somehow Ukraine still has one of the highest white populations… https://t.co/WW8ioxqfMz
- 
-# lisapotter231USER INFO
-![image](http://pbs.twimg.com/profile_images/1613674796767744001/dNon_X6a_normal.jpg)
- 
-`User ScreenName:` lisapotter231 
- 
-`User chosen Name:` Lisa Potter 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 12 22:06:17 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1613674796767744001/dNon_X6a_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -186,28 +147,28 @@ RT @JackPosobiec: You mean like when Biden said his son never did business in Ch
  
 ## User Top tweeted words 
  
-**@GRETATHUNBERG** 2 , **DE** 2 , **VAN** 2 , **@RUELMONIQUE1** 1 , **AFTER** 1 , **DONE** 1 , **EATING** 1 , **ZE** 1 , **BUGZ** 1 , **UNCLE** 1 , **SCHWAB** 1 , **WICKED** 1 , **WITCH** 1 , **H…** 1 , **HTTPS://TCO/ACEOCRTOTW@GRETATHUNBERG** 1 , **OCEANS** 1 , **ABSORB** 1 , **MUCH** 1 , **CO2** 1 , **THAN** 1 , 
+**DEY** 3 , **RT** 1 , **@IRETEEH:** 1 , **UNSURE** 1 , **CYBERSECURITY** 1 , **CAREER** 1 , **PATH** 1 , **FOCUS** 1 , **GO** 1 , **YOUTUBE** 1 , **SEARCH** 1 , **“A** 1 , **DAY** 1 , **LIFE** 1 , **SERIE…LEWANDOWSKI** 1 , **GBA** 1 , **TODAYRT** 1 , **@INSTABLOG9JA:** 1 , **ABROAD-BASED** 1 , **MAN** 1 , 
  
 ## What this user tweeted
  
-@GretaThunberg The oceans can absorb much more CO2 than mankind ór even volcano’s can ever emit; besides: plants ne… https://t.co/zph4x7cGrw
+RT @ireteeh: If you are unsure of the Cybersecurity career path you want to focus on, go to youtube and search for “A day in the life serie…
  
-# Rsp93RUSER INFO
-![image](http://pbs.twimg.com/profile_images/1613297635498295299/LqSGL-7K_normal.jpg)
+# qubitQuartUSER INFO
+![image](http://pbs.twimg.com/profile_images/1611091970771849216/WRwBN3xK_normal.jpg)
  
-`User ScreenName:` Rsp93R 
+`User ScreenName:` qubitQuart 
  
-`User chosen Name:` RSP93 IQ 132 
+`User chosen Name:` qubitQuart 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 05 01:34:08 +0000 2023 
+`User signup date?:` Thu Jan 05 19:38:36 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Curioso, inquieto, con cultura de portada de libro. Estudiando, a mis años. IA, Machine Learning, Ciberseguridad... y otras cosas del lugar. 
  
-`Followers?: `60 
+`Followers?: `12 
  
-`Following?:` 390 
+`Following?:` 262 
  
 `User URL?:` None 
  
@@ -215,9 +176,9 @@ RT @JackPosobiec: You mean like when Biden said his son never did business in Ch
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1613297635498295299/LqSGL-7K_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1611091970771849216/WRwBN3xK_normal.jpg 
  
-`Number of tweets excluding replies:` 202 
+`Number of tweets excluding replies:` 347 
  
 
  
@@ -225,40 +186,80 @@ RT @JackPosobiec: You mean like when Biden said his son never did business in Ch
  
 ## User Top tweeted words 
  
-**@ROMAN_BABER** 15 , **PEOPLE** 8 , **US** 7 , **INCOME** 7 , **@UBI_WORKS** 7 , **CAN’T** 6 , **GOING** 6 , **TAX** 6 , **FIRST** 6 , **BITCOIN** 6 , **NEED** 6 , **CANADA** 5 , **AFTER** 5 , **WOW** 5 , **BREAKING:** 5 , **EVEN** 4 , **@WBRETTWILSON:** 4 , **BASIC** 4 , **KEEP** 4 , **STOP** 4 , 
+**DE** 51 , **AI** 40 , **PYTHON** 34 , **EN** 26 , **DATA** 26 , **LA** 25 , **DATASCIENCE** 21 , **MACHINELEARNING** 18 , **CHATGPT** 15 , **Y** 15 , **@MACHINELEARNFLX:** 14 , **BIGDATA** 14 , **EL** 13 , **LEARN** 12 , **SCIENCE** 12 , **NEW** 11 , **LEARNING** 11 , **MICROSOFT** 10 , **ANALYTICS** 10 , **UN** 10 , 
  
 ## What this user tweeted
  
-RT @lakesidehi: Why is Canada purchasing weapons from the US to send to the Ukraine? Canadian citizens can’t even own handguns but our gove…
+RT @vmwarenews: Tune into this @TechstrongTV interview with @VMware's Senior Cybersecurity Strategist @karenworstell to explore her insight…
  
-# RoyalBavarianusUSER INFO
-![image](http://pbs.twimg.com/profile_images/1611490284830957570/z5naF25k_normal.jpg)
+# SekobCorpUSER INFO
+![image](http://pbs.twimg.com/profile_images/1610608079304900608/xeU-dox9_normal.jpg)
  
-`User ScreenName:` RoyalBavarianus 
+`User ScreenName:` SekobCorp 
  
-`User chosen Name:` RoyalBavarianus 
+`User chosen Name:` SEKOB 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 06 22:10:02 +0000 2023 
+`User signup date?:` Wed Jan 04 12:00:51 +0000 2023 
  
-`User Description?:` Royal Bavarian Air Defense Command
-NAFO expansion is non-negotiable. 💪🇺🇦💛💙🙏🚀
-#UkraineIsUnbreakable #RussiaIsLosing #SlavaUkraïni 
+`User Description?:` We are a company based in Casablanca, Morocco, specialized in cybersecurity, We help our clients in pentesting their networks ans systems. 
  
-`Followers?: `42 
+`Followers?: `5 
  
-`Following?:` 115 
+`Following?:` 18 
+ 
+`User URL?:` https://t.co/N1VeXEgU5c 
+ 
+`Location:` Casablanca, Morocco 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1610608079304900608/xeU-dox9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NETWORK** 3 , **BEST** 2 , **PRACTICES:** 2 , **VULNERABILITIES** 2 , **THESE** 2 , **VLAN** 1 , **ATTACKS** 1 , **ALLOW** 1 , **UNAUTHORIZED** 1 , **ACCESS** 1 , **RESOURCES** 1 , **PROTECT** 1 , **SEGMENTING** 1 , **INTO** 1 , **VLANS** 1 , **A…** 1 , **HTTPS://TCO/VEFGREVNEDARP** 1 , **SPOOFING** 1 , **ATTACK** 1 , **ALERT!** 1 , 
+ 
+## What this user tweeted
+ 
+Pentesting best practices:
+1) Start with reconnaissance and information gathering .
+2) Identify vulnerabilities and… https://t.co/vY8ZrjTdTO
+ 
+# SarahSaintJame1USER INFO
+![image](http://pbs.twimg.com/profile_images/1611409741011369996/q6kD5ZUM_normal.jpg)
+ 
+`User ScreenName:` SarahSaintJame1 
+ 
+`User chosen Name:` Sarah St. James 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 06 17:08:33 +0000 2023 
+ 
+`User Description?:` Ridin' with the pack through the Tennessee mountains.
+VPN, SOCKS, & at least three routers. 
+ 
+`Followers?: `12 
+ 
+`Following?:` 170 
  
 `User URL?:` None 
  
-`Location:` Hohenschwanstein 
+`Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 157 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1611490284830957570/z5naF25k_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1611409741011369996/q6kD5ZUM_normal.jpg 
  
-`Number of tweets excluding replies:` 299 
+`Number of tweets excluding replies:` 157 
  
 
  
@@ -266,38 +267,42 @@ NAFO expansion is non-negotiable. 💪🇺🇦💛💙🙏🚀
  
 ## User Top tweeted words 
  
-**DIE** 57 , **DER** 49 , **UND** 37 , **IST** 24 , **ZU** 19 , **VON** 19 , **DAS** 17 , **ES** 16 , **EIN** 16 , **DEN** 16 , **NICHT** 14 , **DEM** 14 , **SIE** 13 , **HAT** 13 , **FÜR** 12 , **SICH** 12 , **MIT** 12 , **EINE** 11 , **UKRAINE** 10 , **DES** 10 , 
+**@REDPACKETSEC:** 16 , **BLACKTECHTWITTER** 14 , **CVE** 10 , **OSINT** 10 , **@SPLCENTER:** 10 , **VULNERABILITY** 8 , **TWITTER** 8 , **LEARNING** 7 , **CYBERSECURITY** 7 , **100DAYSOFCODE** 7 , **CODE** 7 , **AI** 6 , **DE** 6 , **PYTHON** 6 , **DAY** 6 , **EXECUTION** 6 , **THREATINTEL** 6 , **TIME** 5 , **AFTER** 5 , **NEW** 5 , 
  
 ## What this user tweeted
  
-RT @adrianpetriw: Ukraine is losing an entire generation.  Every day we hear about filmmakers, authors, poets, professors, surgeons, teache…
+RT @0xor0ne: Useful blog post by @byte_how if you are approaching ghidra for the first time
+
+https://t.co/8QXBmwMkNe
+
+#ghidra #reverseengin…
  
-# karoshiraziUSER INFO
-![image](http://pbs.twimg.com/profile_images/1613108072112881664/vdab3iuO_normal.png)
+# IT_mediaaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1613625128096604160/hMoEZElQ_normal.jpg)
  
-`User ScreenName:` karoshirazi 
+`User ScreenName:` IT_mediaa 
  
-`User chosen Name:` Masoud Mohammadzade 
+`User chosen Name:` ITmediaa 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 11 09:38:28 +0000 2023 
+`User signup date?:` Thu Jan 12 19:49:01 +0000 2023 
  
-`User Description?:`  
+`User Description?:` News agency in the field of digital technologies, daily gadgets, space, business and... https://t.co/9FIkRbGxUf 
  
 `Followers?: `2 
  
-`Following?:` 13 
+`Following?:` 16 
  
-`User URL?:` None 
+`User URL?:` https://t.co/2RCjAz1dwC 
  
-`Location:`  
+`Location:` islamic Republic of Iran  
  
-`Number of tweets extracted`  : 28 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1613108072112881664/vdab3iuO_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1613625128096604160/hMoEZElQ_normal.jpg 
  
-`Number of tweets excluding replies:` 28 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -305,38 +310,40 @@ RT @adrianpetriw: Ukraine is losing an entire generation.  Every day we hear abo
  
 ## User Top tweeted words 
  
-**و** 11 , **IRGCTERRORISTS** 10 , **در** 8 , **از** 6 , **به** 6 , **را** 4 , **که** 4 , **است** 4 , **انقلاب** 3 , **@JAVANMARDI75:** 3 , **رو** 3 , **هشتگ** 3 , **سپاه** 3 , **این** 3 , **مهسا_امینی** 3 , **RT** 2 , **کرد** 2 , **مردم** 2 , **هم** 2 , **نفر** 2 , 
+**DESIGN** 2 , **GOOGLE** 2 , **RT** 1 , **@MICROSOFT:** 1 , **JAY** 1 , **MELAMED'S** 1 , **XP** 1 , **LEAGUE** 1 , **CHANGING** 1 , **WORLD** 1 , **YOUTH** 1 , **ESPORTS** 1 , **FOUNDED** 1 , **MISSION** 1 , **BUILD** 1 , **CHARACTER** 1 , **REINFORCE** 1 , **POS…RT** 1 , **@GOOGLE:** 1 , **PEOPLE** 1 , 
  
 ## What this user tweeted
  
-RT @F_karamizand: We Iranians request the people of #Ukraine, Syria and any other country who were hurt and oppressed by #IRGCterrorists to…
+RT @googleeurope: Are you a cybersecurity founder in the EU? 🔒 
+
+Applications are now open for Google for Startups Growth Academy: Cybersec…
  
-# KubbyzbobbyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1613322403870027776/6QxkG8OW_normal.jpg)
+# hackbytes1123USER INFO
+![image](http://pbs.twimg.com/profile_images/1612026606679388161/HqB_Jbtz_normal.jpg)
  
-`User ScreenName:` Kubbyzbobby 
+`User ScreenName:` hackbytes1123 
  
-`User chosen Name:` Kubbyz Bobby 
+`User chosen Name:` Hack Bytes 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 11 12:16:16 +0000 2023 
+`User signup date?:` Sun Jan 08 09:44:10 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Hack Bytes is a learning platform related to Cyber Security, Ethical Hacking, Cloud Security, Malware Analysis, Bug Hunting, Forensics and many more contents. 
  
-`Followers?: `21 
+`Followers?: `1 
  
-`Following?:` 113 
+`Following?:` 43 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 71 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1613322403870027776/6QxkG8OW_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1612026606679388161/HqB_Jbtz_normal.jpg 
  
-`Number of tweets excluding replies:` 72 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -344,13 +351,89 @@ RT @F_karamizand: We Iranians request the people of #Ukraine, Syria and any othe
  
 ## User Top tweeted words 
  
-**DE** 21 , **Y** 13 , **EN** 13 , **EL** 12 , **BIAFRA** 12 , **DEL** 11 , **LA** 10 , **QUE** 9 , **LOS** 8 , **LAS** 6 , **Q** 6 , **POR** 6 , **NIGERIA** 5 , **PUEBLO** 5 , **ESTÁ** 5 , **US** 4 , **NIGERIAN** 4 , **UNA** 4 , **SE** 4 , **PARA** 4 , 
+**CYBER** 5 , **SECURITY** 4 , **PLEASE** 2 , **MAJOR** 2 , **TOPICS:** 2 , **HTTPS://TCO/NKGKCBUCL7** 2 , **CYBERSECURITY** 2 , **ETHICALHACKING** 2 , **HACKING** 2 , **HEY** 1 , **GUYS** 1 , **CHECKOUT** 1 , **FIRST** 1 , **VIDEO** 1 , **YOUTUBE** 1 , **SUBSCRIBE** 1 , **CHANNEL** 1 , **SUCH…** 1 , **HTTPS://TCO/FCAASW4RF7RT** 1 , **@HACKBYTES1123:** 1 , 
  
 ## What this user tweeted
  
-RT @IpobOntario: US sanctioned @Russia for disobeying @UN order to stop war in Ukraine.
+Hey guys, please checkout my first video on YouTube on Cyber Security and please Subscribe my channel for more such… https://t.co/FCaaSW4rF7
+ 
+# van_localnewsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1611871929564270592/uHtK7ZHj_normal.png)
+ 
+`User ScreenName:` van_localnews 
+ 
+`User chosen Name:` vancouver local news 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 07 23:46:29 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 37 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 131 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1611871929564270592/uHtK7ZHj_normal.png 
+ 
+`Number of tweets excluding replies:` 131 
+ 
 
-MEANWHILE same US praises👇 @MBuhari disobeying sam…
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CANUCKS** 24 , **VANCOUVER** 21 , **BC** 19 , **AFTER** 10 , **CANUCKS’** 6 , **COULD** 6 , **NEWSCANADABRITISHCOLUMBIABC** 6 , **TRADE** 6 , **JETS** 6 , **PLAY** 5 , **NEW** 5 , **AVALANCHE** 5 , **METRO** 5 , **BO** 5 , **HORVAT** 5 , **POLICE** 5 , **PENGUINS** 5 , **NEWSCANADABRITISHCOLUMBIATHE** 5 , **SEXUAL** 4 , **NEED** 4 , 
+ 
+## What this user tweeted
+ 
+As new AI chatbot earns hype, cybersecurity experts warn about potential malicious uses https://t.co/p4GK1xGCkR #NewsScience
+ 
+# AITechHub1USER INFO
+![image](http://pbs.twimg.com/profile_images/1611465367443873792/o-W4Op4A_normal.jpg)
+ 
+`User ScreenName:` AITechHub1 
+ 
+`User chosen Name:` AI Tech Hub 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 06 20:45:03 +0000 2023 
+ 
+`User Description?:` Stay up-to-date on the latest AI technology and innovations with our channel. From machine learning to natural language processing, we cover it all. Join the co 
+ 
+`Followers?: `5 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 82 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1611465367443873792/o-W4Op4A_normal.jpg 
+ 
+`Number of tweets excluding replies:` 82 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 89 , **@NEUROHUB_AI:** 36 , **ARTIFICIALINTELLIGENCE** 19 , **ACCURACY** 8 , **FUTURE** 8 , **BELIEVE** 8 , **ARTIFICIALINTELLIGENCE…** 7 , **WON'T** 7 , **INTELLIGENCE** 6 , **BIAS** 6 , **CHATGPT** 5 , **AI…** 5 , **NEW** 5 , **INDUSTRY** 5 , **DATA** 5 , **VS** 5 , **GOOGLE** 5 , **MACHINELEARNING** 5 , **TECHNOLOGY** 4 , **CHALLENGES** 4 , 
+ 
+## What this user tweeted
+ 
+Feel safe online: AI is the ultimate weapon against cyber threats #AdaptiveSecurity #Artificialintelligence… https://t.co/mwXbIn7myY
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
