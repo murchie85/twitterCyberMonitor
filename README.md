@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **SecurityTrybe**  
+The most popular user is: **TJ_Null**  
  
 
-## Cybersecurity Certifications to get in 2023 (For FREE) 
+## It is done! This should have been released a long time ago but I am glad I took the time to finish it. 
+
+For those… https://t.co/th6PRjhijn 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **SecurityTrybe**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CISACyber: ⚠️@CISAgov issued 1️⃣ 2️⃣ NEW public advisories to the #ICS webpage.These advisories provide info about current security i… |
-| RT @avancercorp: #PenetrationTesting provides an opportunity to enterprises for implementing robust solutions for preventing future attacks… |
-| RT @SecurityTrybe: 12 YouTube Pages to Learn #Cybersecurity for FREE |
+| RT @DailyOsint: Do you have someone's username and need to investigate it?This #tool allows you to check the username on about 350 websit… |
+| RT @nshcthreatrecon: #cybercrime hacking groups used #Ransomware targeted attack against #healthcare industry. They also used several #open… |
+| Malware Analysis - discovery - 6fb56107fdf1eb1fd5358d34a5ffd4c4 - https://t.co/MfGKo3LJbM#Malware #OSINT #ThreatIntel  #discovery |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecurityTrybe** |
-| #2 Most tweeted to  | **ireteeh** |
-| #3 Most tweeted to  | **hackinarticles** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 4.4%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **DailyOsint** |
+| #2 Most tweeted to  | **RedPacketSec** |
+| #3 Most tweeted to  | **fr0gger_** |
+| NewProfiles (less than 10 days) | 0.82%  |
+| Tweeters with < 10 followers  | 2.8%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,188 +52,30 @@ The most popular user is: **SecurityTrybe**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **DAY** |
-| fourth  | **OSCP**  |
-| fifth  | **HACKING**  |
+| first  | **OSINT**  |
+| second  | **THREATINTEL**  |
+| third  | **MALWARE** |
+| fourth  | **@DAILYOSINT:**  |
+| fifth  | **ANALYSIS**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (70.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (30.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ireteeh: If you are unsure of the Cybersecurity career path you want to focus on, go to youtube and search for “A day in the life serie… |
+|Cobalt Stike Beacon Detected - 8[.]141[.]166[.]112:443 - https://t.co/8t28I1vHS8#CobaltStrikeBeaconDetected #OSINT #ThreatIntel |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SecurityTrybe**  |
+| The most retweeted user is: **TJ_Null**  |
 | ------------- |
-| Cybersecurity Certifications to get in 2023 (For FREE) |
+| It is done! This should have been released a long time ago but I am glad I took the time to finish it. For those… https://t.co/th6PRjhijn |
 
 # Potential Fake Accounts
- 
-# tarynblake1991USER INFO
-![image](http://pbs.twimg.com/profile_images/1610733997662797834/aEoMWVY3_normal.png)
- 
-`User ScreenName:` tarynblake1991 
- 
-`User chosen Name:` Taryn Smith 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 04 20:24:45 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 37 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1610733997662797834/aEoMWVY3_normal.png 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REDWLLC** 3 , **EXPERT** 2 , **BRIAN** 2 , **TOP** 2 , **EMPLOYERS** 2 , **TEAM** 2 , **A…** 2 , **VALUATION** 2 , **RT** 1 , **@JYDBASKETBALL:** 1 , **NICE** 1 , **WAY** 1 , **START** 1 , **GAME** 1 , **2025** 1 , **5-10** 1 , **HANNAH** 1 , **REYNOLDS** 1 , **(PAWHUSKA)** 1 , **STEAL** 1 , 
- 
-## What this user tweeted
- 
-REDW #cybersecurity expert Brian Grayek is shedding light on the increasing intensity and liability of cyberattacks… https://t.co/RPCVwH8l2v
- 
-# TzJosh_USER INFO
-![image](http://pbs.twimg.com/profile_images/1612997190007365638/uc9mE53U_normal.jpg)
- 
-`User ScreenName:` TzJosh_ 
- 
-`User chosen Name:` Josh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 11 02:17:35 +0000 2023 
- 
-`User Description?:` Live, Love and Learn 
- 
-`Followers?: `7 
- 
-`Following?:` 121 
- 
-`User URL?:` None 
- 
-`Location:` Outta Space 
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1612997190007365638/uc9mE53U_normal.jpg 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DEY** 3 , **RT** 1 , **@IRETEEH:** 1 , **UNSURE** 1 , **CYBERSECURITY** 1 , **CAREER** 1 , **PATH** 1 , **FOCUS** 1 , **GO** 1 , **YOUTUBE** 1 , **SEARCH** 1 , **“A** 1 , **DAY** 1 , **LIFE** 1 , **SERIE…LEWANDOWSKI** 1 , **GBA** 1 , **TODAYRT** 1 , **@INSTABLOG9JA:** 1 , **ABROAD-BASED** 1 , **MAN** 1 , 
- 
-## What this user tweeted
- 
-RT @ireteeh: If you are unsure of the Cybersecurity career path you want to focus on, go to youtube and search for “A day in the life serie…
- 
-# qubitQuartUSER INFO
-![image](http://pbs.twimg.com/profile_images/1611091970771849216/WRwBN3xK_normal.jpg)
- 
-`User ScreenName:` qubitQuart 
- 
-`User chosen Name:` qubitQuart 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 05 19:38:36 +0000 2023 
- 
-`User Description?:` Curioso, inquieto, con cultura de portada de libro. Estudiando, a mis años. IA, Machine Learning, Ciberseguridad... y otras cosas del lugar. 
- 
-`Followers?: `12 
- 
-`Following?:` 262 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1611091970771849216/WRwBN3xK_normal.jpg 
- 
-`Number of tweets excluding replies:` 347 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 51 , **AI** 40 , **PYTHON** 34 , **EN** 26 , **DATA** 26 , **LA** 25 , **DATASCIENCE** 21 , **MACHINELEARNING** 18 , **CHATGPT** 15 , **Y** 15 , **@MACHINELEARNFLX:** 14 , **BIGDATA** 14 , **EL** 13 , **LEARN** 12 , **SCIENCE** 12 , **NEW** 11 , **LEARNING** 11 , **MICROSOFT** 10 , **ANALYTICS** 10 , **UN** 10 , 
- 
-## What this user tweeted
- 
-RT @vmwarenews: Tune into this @TechstrongTV interview with @VMware's Senior Cybersecurity Strategist @karenworstell to explore her insight…
- 
-# SekobCorpUSER INFO
-![image](http://pbs.twimg.com/profile_images/1610608079304900608/xeU-dox9_normal.jpg)
- 
-`User ScreenName:` SekobCorp 
- 
-`User chosen Name:` SEKOB 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 04 12:00:51 +0000 2023 
- 
-`User Description?:` We are a company based in Casablanca, Morocco, specialized in cybersecurity, We help our clients in pentesting their networks ans systems. 
- 
-`Followers?: `5 
- 
-`Following?:` 18 
- 
-`User URL?:` https://t.co/N1VeXEgU5c 
- 
-`Location:` Casablanca, Morocco 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1610608079304900608/xeU-dox9_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NETWORK** 3 , **BEST** 2 , **PRACTICES:** 2 , **VULNERABILITIES** 2 , **THESE** 2 , **VLAN** 1 , **ATTACKS** 1 , **ALLOW** 1 , **UNAUTHORIZED** 1 , **ACCESS** 1 , **RESOURCES** 1 , **PROTECT** 1 , **SEGMENTING** 1 , **INTO** 1 , **VLANS** 1 , **A…** 1 , **HTTPS://TCO/VEFGREVNEDARP** 1 , **SPOOFING** 1 , **ATTACK** 1 , **ALERT!** 1 , 
- 
-## What this user tweeted
- 
-Pentesting best practices:
-1) Start with reconnaissance and information gathering .
-2) Identify vulnerabilities and… https://t.co/vY8ZrjTdTO
  
 # SarahSaintJame1USER INFO
 ![image](http://pbs.twimg.com/profile_images/1611409741011369996/q6kD5ZUM_normal.jpg)
@@ -247,7 +91,7 @@ Pentesting best practices:
 `User Description?:` Ridin' with the pack through the Tennessee mountains.
 VPN, SOCKS, & at least three routers. 
  
-`Followers?: `12 
+`Followers?: `20 
  
 `Following?:` 170 
  
@@ -271,130 +115,33 @@ VPN, SOCKS, & at least three routers.
  
 ## What this user tweeted
  
-RT @0xor0ne: Useful blog post by @byte_how if you are approaching ghidra for the first time
+RT @RedPacketSec: HackerOne Bug Bounty Disclosure: security-issue-into-wallet-lock-protectionbybug_vs_me - https://t.co/d323NI87m2
 
-https://t.co/8QXBmwMkNe
+#Hacker…RT @RedPacketSec: HackerOne Bug Bounty Disclosure: csrf-vulnerability-in-nextcloud-desktop-client-3-6-1-on-windows-when-clicking-malicious-…RT @RedPacketSec: HackerOne Bug Bounty Disclosure: take-over-subdomain-undici-nodejs-org-cdn-cloudflare-netbyalgisec1337 - https://t.co/8JG…RT @RedPacketSec: BlackCat/ALPHV Ransomware Victim: TIME TECHNOPLAST LIMITED - https://t.co/mwQaNTu0A6
 
-#ghidra #reverseengin…
- 
-# IT_mediaaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1613625128096604160/hMoEZElQ_normal.jpg)
- 
-`User ScreenName:` IT_mediaa 
- 
-`User chosen Name:` ITmediaa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 12 19:49:01 +0000 2023 
- 
-`User Description?:` News agency in the field of digital technologies, daily gadgets, space, business and... https://t.co/9FIkRbGxUf 
- 
-`Followers?: `2 
- 
-`Following?:` 16 
- 
-`User URL?:` https://t.co/2RCjAz1dwC 
- 
-`Location:` islamic Republic of Iran  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1613625128096604160/hMoEZElQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
+#ALPHV, #BlackCat, #darkweb, #datab…RT @RedPacketSec: BlackCat/ALPHV Ransomware Victim: Liebra Permana - https://t.co/hAjM1UZqTf
 
- 
+#ALPHV, #BlackCat, #darkweb, #databreach, #ra…RT @RedPacketSec: Microsoft Windows ODBC Driver code execution | CVE-2023-21732 - https://t.co/oCtHaJKh6s
 
- 
-## User Top tweeted words 
- 
-**DESIGN** 2 , **GOOGLE** 2 , **RT** 1 , **@MICROSOFT:** 1 , **JAY** 1 , **MELAMED'S** 1 , **XP** 1 , **LEAGUE** 1 , **CHANGING** 1 , **WORLD** 1 , **YOUTH** 1 , **ESPORTS** 1 , **FOUNDED** 1 , **MISSION** 1 , **BUILD** 1 , **CHARACTER** 1 , **REINFORCE** 1 , **POS…RT** 1 , **@GOOGLE:** 1 , **PEOPLE** 1 , 
- 
-## What this user tweeted
- 
-RT @googleeurope: Are you a cybersecurity founder in the EU? 🔒 
+#CVE #Vulnerability #OSINT #Thre…RT @RedPacketSec: Rust man-in-the-middle | CVE-2022-46176 - https://t.co/aRYS5BmLV8
 
-Applications are now open for Google for Startups Growth Academy: Cybersec…
- 
-# hackbytes1123USER INFO
-![image](http://pbs.twimg.com/profile_images/1612026606679388161/HqB_Jbtz_normal.jpg)
- 
-`User ScreenName:` hackbytes1123 
- 
-`User chosen Name:` Hack Bytes 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 08 09:44:10 +0000 2023 
- 
-`User Description?:` Hack Bytes is a learning platform related to Cyber Security, Ethical Hacking, Cloud Security, Malware Analysis, Bug Hunting, Forensics and many more contents. 
- 
-`Followers?: `1 
- 
-`Following?:` 43 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1612026606679388161/HqB_Jbtz_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
+#CVE #Vulnerability #OSINT #ThreatIntel #CyberRT @RedPacketSec: Google Chrome code execution | CVE-2023-0134 - https://t.co/kqeJtrEBkr
 
- 
+#CVE #Vulnerability #OSINT #ThreatIntel #CyberRT @RedPacketSec: Microsoft Windows Secure Socket Tunneling Protocol (SSTP) code execution | CVE-2023-21535 - https://t.co/plB39vOlPC
 
- 
-## User Top tweeted words 
- 
-**CYBER** 5 , **SECURITY** 4 , **PLEASE** 2 , **MAJOR** 2 , **TOPICS:** 2 , **HTTPS://TCO/NKGKCBUCL7** 2 , **CYBERSECURITY** 2 , **ETHICALHACKING** 2 , **HACKING** 2 , **HEY** 1 , **GUYS** 1 , **CHECKOUT** 1 , **FIRST** 1 , **VIDEO** 1 , **YOUTUBE** 1 , **SUBSCRIBE** 1 , **CHANNEL** 1 , **SUCH…** 1 , **HTTPS://TCO/FCAASW4RF7RT** 1 , **@HACKBYTES1123:** 1 , 
- 
-## What this user tweeted
- 
-Hey guys, please checkout my first video on YouTube on Cyber Security and please Subscribe my channel for more such… https://t.co/FCaaSW4rF7
- 
-# van_localnewsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1611871929564270592/uHtK7ZHj_normal.png)
- 
-`User ScreenName:` van_localnews 
- 
-`User chosen Name:` vancouver local news 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 07 23:46:29 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 37 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 133 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1611871929564270592/uHtK7ZHj_normal.png 
- 
-`Number of tweets excluding replies:` 133 
- 
+#CVE…RT @RedPacketSec: Google Chrome buffer overflow | CVE-2023-0138 - https://t.co/zNCxpCxiFR
 
- 
+#CVE #Vulnerability #OSINT #ThreatIntel #CyberRT @RedPacketSec: Microsoft Windows Layer 2 Tunneling Protocol (L2TP) code execution | CVE-2023-21546 - https://t.co/mE5HQnBxEg
 
- 
-## User Top tweeted words 
- 
-**CANUCKS** 24 , **BC** 21 , **VANCOUVER** 21 , **AFTER** 10 , **CANUCKS’** 6 , **COULD** 6 , **NEWSCANADABRITISHCOLUMBIABC** 6 , **TRADE** 6 , **JETS** 6 , **HOME** 5 , **PLAY** 5 , **NEW** 5 , **AVALANCHE** 5 , **METRO** 5 , **BO** 5 , **HORVAT** 5 , **POLICE** 5 , **PENGUINS** 5 , **NEWSCANADABRITISHCOLUMBIATHE** 5 , **SAY** 4 , 
- 
-## What this user tweeted
- 
-As new AI chatbot earns hype, cybersecurity experts warn about potential malicious uses https://t.co/p4GK1xGCkR #NewsScience
+#CVE #Vuln…RT @RedPacketSec: SAP NetWeaver AS for Java security bypass | CVE-2023-0017 - https://t.co/vYI0ZDZdX0
+
+#CVE #Vulnerability #OSINT #ThreatIn…RT @RedPacketSec: Zip4j weak security | CVE-2023-22899 - https://t.co/9MOEJxkHox
+
+#CVE #Vulnerability #OSINT #ThreatIntel #CyberRT @RedPacketSec: GitLab CE/EE denial of service | CVE-2022-3613 - https://t.co/qyyEI9FLx9
+
+#CVE #Vulnerability #OSINT #ThreatIntel #CyberRT @RedPacketSec: DoorDash - 367,476 breached accounts - https://t.co/BkPvw8ryDi
+
+#databreach #HaveIBeenPwnedLatestBreaches #HIBP #OSINT #S…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
