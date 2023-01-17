@@ -1,22 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **svpino**  
+The most popular user is: **QuaiNetwork**  
  
 
-## My entire Master's program is free online.
+## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
 
-Yet most people won't go through it because they won't get a certificat… https://t.co/DT4yhsHBf6 
+This… https://t.co/9kCO6ugG3G 
 
   
 
@@ -25,25 +25,25 @@ Yet most people won't go through it because they won't get a certificat… https
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SentinelOne: 🧵Here’s our favorite public #cyber threat research of 2022. Discoveries that have impacted lives and the #infosec industry… |
-| RT @Shubham_pen: Types of VPN Protocol#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #cissp #redteam #technolog… |
-| RT @SecurityTrybe: Cybersecurity Attack Vectors #cybersecurity #CyberAttack #tech #infosec #Hacked #Hacking #cyber #security #community #… |
+| Are you proactively addressing vulnerabilities in your IoT/OT environment? Read this @MfstSecurity customer story a… https://t.co/LdpilRO1t8 |
+| RT @ivanastradner: It’s high time for the US government to wage psychological war inside Russia and exploit Putin’s vulnerabilities. How? I… |
+| Once you embrace your vulnerabilities, noone can use them against you.It's not easy to speak about your journey &amp;… https://t.co/D7Ea4dMC0b |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **Shubham_pen** |
+| #2 Most tweeted to  | **KanekoaTheGreat** |
 | #3 Most tweeted to  | **TheHackersNews** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 4.18%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 5.58%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -52,57 +52,58 @@ Yet most people won't go through it because they won't get a certificat… https
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **OSCP** |
-| fourth  | **REDTEAM**  |
-| fifth  | **INFORMATIONSECURITY**  |
+| first  | **VULNERABILITIES**  |
+| second  | **INFOSEC**  |
+| third  | **PENTESTING** |
+| fourth  | **CYBERSECURITYTIPS**  |
+| fifth  | **OSCP**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TakSec: XSS via Angular Client-Side Template Injection P2/P3&gt;=1.6.0{{constructor.constructor('alert(1)')()}}1.2.24 - 1.2.29{{'a'.… |
+|Keep your WordPress themes and plugins updated to ensure they're secure and free of vulnerabilities. #WordPress #themes #plugins |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **svpino**  |
+| The most retweeted user is: **QuaiNetwork**  |
 | ------------- |
-| My entire Master's program is free online.Yet most people won't go through it because they won't get a certificat… https://t.co/DT4yhsHBf6 |
+| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
 
 # Potential Fake Accounts
  
-# 0x_ecticUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615384428775342080/LpkspRN-_normal.jpg)
+# Chompoo42658971USER INFO
+![image](http://pbs.twimg.com/profile_images/1614274472617574402/3Esa1qtA_normal.jpg)
  
-`User ScreenName:` 0x_ectic 
+`User ScreenName:` Chompoo42658971 
  
-`User chosen Name:` Kamal Acharya 
+`User chosen Name:` Chompoo🍐 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jan 17 15:55:03 +0000 2023 
+`User signup date?:` Tue Jan 10 10:05:24 +0000 2023 
  
-`User Description?:`  
+`User Description?:` @jeffsatur🤍🤍🤍Thai-Chinese🇹🇭🇨🇳🇨🇵🇰🇷🏳️‍🌈
+For Work Please Contact https://t.co/aOOl1MOjpm 
  
-`Followers?: `4 
+`Followers?: `3 
  
-`Following?:` 70 
+`Following?:` 201 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1615384428775342080/LpkspRN-_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1614274472617574402/3Esa1qtA_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 876 
  
 
  
@@ -110,81 +111,40 @@ VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**BUILD** 2 , **WINDOWS** 2 , **RT** 1 , **@KARPATHY:** 1 , **🔥** 1 , **NEW** 1 , **(1H56M)** 1 , **VIDEO** 1 , **LECTURE:** 1 , **"LET'S** 1 , **GPT:** 1 , **SCRATCH** 1 , **CODE** 1 , **SPELLED** 1 , **OUT"** 1 , **HTTPS://TCO/2PKSVGI3DE** 1 , **TRA…RT** 1 , **@0XOR0NE:** 1 , **INTRO** 1 , **SERIES** 1 , 
+**:** 18 , **@WORLDMUSICAWARD:** 16 , **@JEFFSATUR** 10 , **/** 10 , **JEFFSATUR** 9 , **BTS** 9 , **@MINDSNAME:** 9 , **FEB** 8 , **@PUSATUR:** 8 , **JIMIN** 7 , **AMBASSADOR** 7 , **HAPPY** 6 , **@SATURGXMS:** 6 , **JENNIE** 6 , **@SARANGYOURFUTU1:** 6 , **STAR** 5 , **FASHION** 5 , **2** 5 , **DIOR** 5 , **;** 5 , 
  
 ## What this user tweeted
  
-RT @0xor0ne: Intro series to Windows rootkits internals by @CyberarkLabs
- 
-https://t.co/f2FJaOTEOO 
+RT @UN: The number of journalists killed worldwide significantly increased in 2022. 
 
-#malware #windows #rootkit #infosec #c…
+Latest update from @UNESCO highlights the grave risks…
  
-# GroepGerritUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615411047908737025/057emCJs_normal.png)
+# irinagonar42USER INFO
+![image](http://pbs.twimg.com/profile_images/1614230708611866624/tS5vpRD0_normal.png)
  
-`User ScreenName:` GroepGerrit 
+`User ScreenName:` irinagonar42 
  
-`User chosen Name:` Gerrit van de Groep 
+`User chosen Name:` ирина гончар 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jan 17 18:09:41 +0000 2023 
+`User signup date?:` Sat Jan 14 11:59:26 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `5 
  
-`Following?:` 0 
+`Following?:` 17 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1615411047908737025/057emCJs_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1614230708611866624/tS5vpRD0_normal.png 
  
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ACTIVATED** 4 , **BURP** 3 , **FULL** 3 , **SUITE** 2 , **PROFESSIONAL** 2 , **EDITION** 2 , **V20231** 2 , **X64** 2 , **EXTENSIONS** 2 , **–** 2 , **BOUNTYL** 1 , **DISCOUNT** 1 , **100%** 1 , **OF…** 1 , **HTTPS://TCO/DLOZQSQZOYBURP** 1 , **BOUNTY** 1 , **PRO** 1 , **V261** 1 , **D…** 1 , **HTTPS://TCO/IRF1IOCQEK** 1 , 
- 
-## What this user tweeted
- 
-Burp Suite Professional Edition v2023.1 x64 Full Activated   Burp Bountyl Activated   Extensions – Discount 100% OF… https://t.co/DLOzQSqZOyBurp Suite Professional Edition v2023.1 x64 Full Activated   Burp Bounty Pro v2.6.1 Full Activated   Extensions – D… https://t.co/IRF1IOcqeK
- 
-# ISC2SiliconValUSER INFO
-![image](http://pbs.twimg.com/profile_images/1613414562635603973/qF6Za3rP_normal.png)
- 
-`User ScreenName:` ISC2SiliconVal 
- 
-`User chosen Name:` (ISC)2 Silicon Valley Chapter 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 12 05:56:21 +0000 2023 
- 
-`User Description?:` Silicon Valley Chapter of (ISC)², World’s Leading Cybersecurity Professional Organization 
- 
-`Followers?: `2 
- 
-`Following?:` 20 
- 
-`User URL?:` https://t.co/SjaxtmWF4V 
- 
-`Location:` Silicon Valley 
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1613414562635603973/qF6Za3rP_normal.png 
- 
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -192,38 +152,79 @@ Burp Suite Professional Edition v2023.1 x64 Full Activated   Burp Bountyl Activa
  
 ## User Top tweeted words 
  
-**ENCRYPT** 2 , **RT** 1 , **@CISACYBER:** 1 , **❓** 1 , **DYK** 1 , **MODERN** 1 , **SMARTPHONES** 1 , **LOCAL** 1 , **STORAGE** 1 , **MOST** 1 , **LAPTOPS** 1 , **MUST** 1 , **CONFIGURED** 1 , **DRIVES?** 1 , **GIVEN** 1 , **HO…RT** 1 , **@ISC2:** 1 , **FREE** 1 , **WEBINAR** 1 , **PERFORM** 1 , 
+**@DORADUS_IO:** 4 , **TASKS** 2 , **AVAILABLE** 2 , **15** 2 , **RT** 1 , **🎁** 1 , **NEW** 1 , **COMPLETING** 1 , **SOME** 1 , **PLANET** 1 , **REWARD** 1 , **GETDOGE** 1 , **REWARDSPOINTS** 1 , **P2E…RT** 1 , **PLAYTOEARN** 1 , **BSC** 1 , **NFTGIVEAWAYS** 1 , **DORADUS** 1 , **TEAM** 1 , **REGULARLY** 1 , 
  
 ## What this user tweeted
  
-RT @CISACyber: ❓ #DYK modern smartphones encrypt their local storage, but most laptops must be configured to encrypt their drives? Given ho…
+RT @Doradus_io: 🟢 We have successfully passed the audit from QuillAudit and have not identified any serious vulnerabilities.
+
+https://t.co/…
  
-# Ep27RealtimeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615345407839850497/BBukwEKn_normal.png)
+# ArbiZoooUSER INFO
+![image](http://pbs.twimg.com/profile_images/1611893543198679043/dfn6BQ97_normal.jpg)
  
-`User ScreenName:` Ep27Realtime 
+`User ScreenName:` ArbiZooo 
  
-`User chosen Name:` realtime ep27 
+`User chosen Name:` ArbiZoo (💙,🧡) 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jan 17 13:48:51 +0000 2023 
+`User signup date?:` Sun Jan 08 01:10:42 +0000 2023 
+ 
+`User Description?:` Ex-Zoo Keeper | Crypto | $BTC $ETH #Arbinaut | I only post my own opinion, I will never give you financial advice. 
+ 
+`Followers?: `512 
+ 
+`Following?:` 681 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 132 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1611893543198679043/dfn6BQ97_normal.jpg 
+ 
+`Number of tweets excluding replies:` 132 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ARBITRUM** 18 , **@THELOSTDONKEYS** 9 , **GM** 6 , **$DONK** 6 , **1** 6 , **EVERYONE** 6 , **THREAD** 5 , **COMPUTATIONS** 5 , **SOME** 5 , **COMMUNITY** 5 , **RT** 4 , **WHILE** 4 , **@ARBITRUM** 4 , **THAN** 4 , **SMART** 4 , **@ARBIICAT** 4 , **FOLLOW** 4 , **PUMP** 4 , **THANK** 3 , **DESIGNED** 3 , 
+ 
+## What this user tweeted
+ 
+15/24 Security: While Arbitrum uses mechanisms such as "verification games" to ensure the integrity of the system,… https://t.co/d7ms2EQwnj
+ 
+# GrebenukDmitroUSER INFO
+![image](http://pbs.twimg.com/profile_images/1614710488650194945/3r3CwpWO_normal.jpg)
+ 
+`User ScreenName:` GrebenukDmitro 
+ 
+`User chosen Name:` Дмитро Гребенюк 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 15 19:45:54 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 1 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1615345407839850497/BBukwEKn_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1614710488650194945/3r3CwpWO_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -231,11 +232,52 @@ RT @CISACyber: ❓ #DYK modern smartphones encrypt their local storage, but most
  
 ## User Top tweeted words 
  
-**–** 5 , **FULL** 3 , **ACTIVATED** 3 , **DISCOUNT** 3 , **100%** 3 , **YOUTUBE** 3 , **OFF…** 2 , **MARKETING** 2 , **EMAIL** 1 , **EXTRACTOR** 1 , **PROFESSIONAL** 1 , **EDITION** 1 , **V7319** 1 , **OFF** 1 , **HTTPS://TCO/2DB0YJ5NPD** 1 , **INFOSEC…** 1 , **HTTPS://TCO/84UAX02WMDVIDIQ** 1 , **VISION** 1 , **ENTERPRISE** 1 , **V38121** 1 , 
+**RT** 1 , **@DORADUS_IO:** 1 , **🟢** 1 , **SUCCESSFULLY** 1 , **PASSED** 1 , **AUDIT** 1 , **QUILLAUDIT** 1 , **IDENTIFIED** 1 , **ANY** 1 , **SERIOUS** 1 , **VULNERABILITIES** 1 , **HTTPS://TCO/…RT** 1 , **@KAIF_PLATFORM:** 1 , **TEAM** 1 , **COMMUNITY** 1 , **HARD** 1 , **WORK** 1 , **WEEK** 1 , **LOTS** 1 , **AWESOME** 1 , 
  
 ## What this user tweeted
  
-Email Extractor Professional Edition v7.3.1.9 Full Activated – Discount 100% OFF https://t.co/2db0Yj5npd #infosec… https://t.co/84Uax02WMdvidIQ Vision For YouTube Enterprise v3.81.2.1 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/zgEQOPuCkLVideo Marketing Blaster Pro v1.48 Full Activated – Youtube Marketing Tool – Discount 100% OFF… https://t.co/JZLKyQpzjJ
+RT @Doradus_io: 🟢 We have successfully passed the audit from QuillAudit and have not identified any serious vulnerabilities.
+
+https://t.co/…
+ 
+# cook05183315USER INFO
+![image](http://pbs.twimg.com/profile_images/1615021387680202753/8pnlnkqZ_normal.png)
+ 
+`User ScreenName:` cook05183315 
+ 
+`User chosen Name:` Les Cook 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 16 16:21:18 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 56 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 43 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615021387680202753/8pnlnkqZ_normal.png 
+ 
+`Number of tweets excluding replies:` 43 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KANEKOATHEGREAT:** 32 , **CENSORSHIP** 6 , **@ELONMUSK** 5 , **ELECTION** 5 , **2020** 4 , **ATLANTIC** 4 , **STARBIRD** 4 , **CISA** 4 , **SPEECH** 3 , **2016** 3 , **VOTING** 3 , **EIP** 3 , **TRUMP** 3 , **US** 3 , **FACEBOOK** 3 , **DHS** 3 , **BROOKIE** 3 , **DISINFORMATION** 3 , **NETWORK** 3 , **PUBLIC** 2 , 
+ 
+## What this user tweeted
+ 
+RT @KanekoaTheGreat: 25/ In effect, the left was allowed to discuss the vulnerabilities of voting machines after the 2016 election, and the…
  
 # g4mb01USER INFO
 ![image](http://pbs.twimg.com/profile_images/1613271459412975629/kShFdL7F_normal.jpg)
@@ -315,38 +357,34 @@ RT @hackinarticles: Search Engine for Pentesters
  
 ## What this user tweeted
  
-RT @0xor0ne: Cool writeup on CVE-2022-4543: KASLR bypass on Intel based systems 
-
-https://t.co/2395ERdGSY 
-
-#Linux #kernel #exploit #infose…
+KASLR feature that arranges the memory layout of the kernel to make it harder to locate and exploit vulnerabilities… https://t.co/JHuUbBOohy
  
-# DLDunning4USER INFO
-![image](http://pbs.twimg.com/profile_images/1612694014825750535/NUvOmIe9_normal.jpg)
+# ArchRoyalKnightUSER INFO
+![image](http://pbs.twimg.com/profile_images/1615337353685667840/uolX1kzI_normal.jpg)
  
-`User ScreenName:` DLDunning4 
+`User ScreenName:` ArchRoyalKnight 
  
-`User chosen Name:` Author D.L. Dunning 
+`User chosen Name:` RoyalKnight 🇺🇸🇬🇧🐕‍🦺 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 07 23:22:18 +0000 2023 
+`User signup date?:` Sun Jan 08 15:37:42 +0000 2023 
  
-`User Description?:` Author, tech Junkie, veteran and reader. 
+`User Description?:` Keeping up with the lies and manipulations of malignant narcissistic Sussex royals - Harold and Me-Me-Meghan. The duped Sussexsquad call me BOT. 😳 
  
-`Followers?: `1182 
+`Followers?: `30 
  
-`Following?:` 1842 
+`Following?:` 55 
  
 `User URL?:` None 
  
-`Location:` Mena Arkansas 
+`Location:`  
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1612694014825750535/NUvOmIe9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1615337353685667840/uolX1kzI_normal.jpg 
  
-`Number of tweets excluding replies:` 7620 
+`Number of tweets excluding replies:` 940 
  
 
  
@@ -354,40 +392,38 @@ https://t.co/2395ERdGSY
  
 ## User Top tweeted words 
  
-**BOOK** 29 , **AVAILABLE** 14 , **SERIES** 12 , **STORY** 12 , **KINDLE** 11 , **@MARYLSCHMIDT:** 11 , **READ** 11 , **LIFE** 11 , **BOOKSWORTHREADINGRT** 10 , **@PURPLEORCHIDPUB** 10 , **NEW** 9 , **BOOKS** 8 , **INTO** 8 , **FREE** 7 , **ROMANCE** 7 , **PART** 6 , **WRITINGCOMMUNITY** 6 , **ASMSG** 6 , **START** 6 , **OFF** 6 , 
+**HAROLD** 26 , **MEGHAN** 20 , **@KAISERATCB** 18 , **@YOUREALLMAD** 11 , **SPARE** 10 , **TODGER** 10 , **@JADEDCREATIVE** 10 , **HARRY** 9 , **@CODEIT** 9 , **HIMSELF** 7 , **ROYAL** 7 , **QUITE** 7 , **YES** 7 , **DON'T** 7 , **CARE** 7 , **WILLIAM** 7 , **THAT'S** 7 , **LOVE** 7 , **NEVER** 7 , **@HARRYTHRIVING** 7 , 
  
 ## What this user tweeted
  
-RT @gjscobie: This is the Digital Dark Age!
-
-The Kill Chain by GJ Scobie, the new cybercrime best seller from @darkstrokedark available now…
+@Nessie13Nessie I think he nailed it right. That's what we all feel. It's extremely cruel and villainous for someon… https://t.co/HQ3KB0RHum
  
-# Mohamed86318031USER INFO
-![image](http://pbs.twimg.com/profile_images/1612821959846289414/PpLzM4j-_normal.png)
+# FaizanK65809043USER INFO
+![image](http://pbs.twimg.com/profile_images/1614173689108471809/Vsn1cLQb_normal.png)
  
-`User ScreenName:` Mohamed86318031 
+`User ScreenName:` FaizanK65809043 
  
-`User chosen Name:` Mohamed Adel 
+`User chosen Name:` Faizan Khan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jan 10 14:41:34 +0000 2023 
+`User signup date?:` Sat Jan 14 08:12:51 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 18 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1612821959846289414/PpLzM4j-_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1614173689108471809/Vsn1cLQb_normal.png 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 415 
  
 
  
@@ -395,38 +431,38 @@ The Kill Chain by GJ Scobie, the new cybercrime best seller from @darkstrokedark
  
 ## User Top tweeted words 
  
-**–** 5 , **DISCOUNT** 3 , **100%** 3 , **FULL** 2 , **ACTIVATED** 2 , **OFF** 2 , **AUDIENS** 2 , **PRO** 2 , **XRAY** 1 , **WEB** 1 , **VULNERABILITY** 1 , **SCANNER** 1 , **ADVANCED** 1 , **V194** 1 , **HTTPS://TCO/CNUUPNKVTG** 1 , **INFOSEC…** 1 , **HTTPS://TCO/VEQ33BWTKLFACEBOOK** 1 , **EXTRACTOR** 1 , **PIXLEADS** 1 , **SIMPLE** 1 , 
+**@NIMRITAHLUWALIA** 143 , **@VOOTSELECT** 142 , **@ARCHANAGAUTAMM** 140 , **@IAMTINADATTA** 140 , **@SHALINBHANOT** 140 , **@SOUNDARYA_20** 140 , **@FAIZANK55418866:** 100 , **NIMRITISTHEBOSS** 84 , **@NIMRITTM:** 52 , **NIMRITKAURAHLUWALIA** 37 , **…RT** 28 , **NIMRITISTHEBOSS…RT** 22 , **N…RT** 21 , **NIMRIT** 14 , **@DREAMERMUSINGS2:** 12 , **NIMRI…RT** 11 , **FIFTY** 10 , **SIXTY** 10 , **SEVENTY** 10 , **EIGHTY** 10 , 
  
 ## What this user tweeted
  
-xRay Web Vulnerability Scanner Advanced v1.9.4 Full Activated – Discount 100% OFF https://t.co/cnuuPnkvtg #infosec… https://t.co/vEQ33BWTklFacebook Audiens Extractor Pro – PixLeads Pro – Simple Audiens Special Edition – Discount 100% OFF… https://t.co/utjG8t9lrl
+RT @NimritTM: People can say whatever they want to say .. for them definition of strong is a louder voice and nonsensical fights however be…
  
-# Arsam279USER INFO
-![image](http://pbs.twimg.com/profile_images/1614995362221273089/Le2kUWzA_normal.png)
+# FaizanK70375024USER INFO
+![image](http://pbs.twimg.com/profile_images/1612366091463925767/ScrLfGLt_normal.png)
  
-`User ScreenName:` Arsam279 
+`User ScreenName:` FaizanK70375024 
  
-`User chosen Name:` arsam 279 
+`User chosen Name:` Faizan Khan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 16 14:37:53 +0000 2023 
+`User signup date?:` Mon Jan 09 08:30:06 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 18 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1614995362221273089/Le2kUWzA_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1612366091463925767/ScrLfGLt_normal.png 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 769 
  
 
  
@@ -434,13 +470,11 @@ xRay Web Vulnerability Scanner Advanced v1.9.4 Full Activated – Discount 100% 
  
 ## User Top tweeted words 
  
-**PAY** 2 , **RT** 1 , **@SHUBHAM_PEN:** 1 , **APPLE** 1 , **VS** 1 , **GOOGLE** 1 , **SECURITY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **PENTESTING** 1 , **OSCP** 1 , **INFORMATIONSECURITY** 1 , **HACKING** 1 , **CISSP** 1 , **REDTEAM…** 1 , 
+**@NIMRITAHLUWALIA** 143 , **@VOOTSELECT** 142 , **@ARCHANAGAUTAMM** 140 , **@IAMTINADATTA** 140 , **@SHALINBHANOT** 140 , **@SOUNDARYA_20** 140 , **@FAIZANK55418866:** 100 , **NIMRITISTHEBOSS** 84 , **@NIMRITTM:** 52 , **NIMRITKAURAHLUWALIA** 38 , **…RT** 28 , **NIMRITISTHEBOSS…RT** 22 , **N…RT** 20 , **NIMRIT** 14 , **NIMRI…RT** 12 , **@DREAMERMUSINGS2:** 12 , **EIGHTY** 10 , **SEVENTY** 10 , **SIXTY** 10 , **FIFTY** 10 , 
  
 ## What this user tweeted
  
-RT @Shubham_pen: Apple Pay vs Google Pay Security
-
-#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #cissp #redteam…
+RT @NimritTM: People can say whatever they want to say .. for them definition of strong is a louder voice and nonsensical fights however be…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
