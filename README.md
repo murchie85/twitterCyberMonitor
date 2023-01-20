@@ -11,10 +11,10 @@
  
 ![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **SecurityTrybe**  
+The most popular user is: **TrentTelenko**  
  
 
-## Cybersecurity Certifications to get in 2023 (For FREE) 
+## This is going to be a long thread🧵 on Ukraine's unique 21st century fighting style based on Uber style C3I software… https://t.co/OWJZ2zxnUC 
 
   
 
@@ -29,19 +29,19 @@ The most popular user is: **SecurityTrybe**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Russian founder of a cryptocurrency exchange known for funneling ransomware profits arrested | #hacking |… https://t.co/us5MC8F58E |
-| RT @Hackwithgibson1: Contact me now for Hacking or Account Recovery #snapchat #instagram #Facebook #WhatsApp#ArtificialIntelligence #AI #M… |
-| RT @TeckinSolutions: Does your security solution protect everything in your enterprise? Reply if it could protect more. Download this eBook… |
+| RT @hackinarticles: Search Engine for Pentesters#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecurit… |
+| Awareness to goodCyberSecurity and cyber hygiene are foundations for secure systems #CyberSecurity #cyberawareness… https://t.co/RzpOFCboB3 |
+| RT @Riekwriters: PAY US TO HELP IN YOUR DUE-Homework-Assignment -Essay-Online class-ExamWhatsApp +1 (551) 292-7202https://t.co/5MCz… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheInsiderPaper** |
-| #2 Most tweeted to  | **SecurityTrybe** |
-| #3 Most tweeted to  | **hackinarticles** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 3.76%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **danielmakelley** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 6.62%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -51,47 +51,244 @@ The most popular user is: **SecurityTrybe**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **2023**  |
-| third  | **GLOBAL** |
+| second  | **DATA**  |
+| third  | **PENTESTING** |
 | fourth  | **HACKING**  |
-| fifth  | **DATA**  |
+| fifth  | **OSCP**  |
 
 
 ## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (25.0%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJECTIVE** (50.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @0xor0ne: Introduction to fileless ELF execution by @MagisterQuis using memfd_create()https://t.co/ReXB91Eil8 #Linux #malware #infos… |
+|RT @NordVPN: Don’t put all your data in one location.Old cybersecurity proverb |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SecurityTrybe**  |
+| The most retweeted user is: **TrentTelenko**  |
 | ------------- |
-| Cybersecurity Certifications to get in 2023 (For FREE) |
+| This is going to be a long thread🧵 on Ukraine's unique 21st century fighting style based on Uber style C3I software… https://t.co/OWJZ2zxnUC |
 
 # Potential Fake Accounts
  
-# tradinganartUSER INFO
-![image](http://pbs.twimg.com/profile_images/1613882669292740609/u0DmJ8hU_normal.jpg)
+# golusha13706563USER INFO
+![image](http://pbs.twimg.com/profile_images/1613101103390023682/kZWmwsir_normal.jpg)
  
-`User ScreenName:` tradinganart 
+`User ScreenName:` golusha13706563 
  
-`User chosen Name:` sid 
+`User chosen Name:` golu sharma 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 13 12:18:45 +0000 2023 
+`User signup date?:` Wed Jan 11 06:34:17 +0000 2023 
  
-`User Description?:` The game taught me the game ,and it didn't spare me the rod while teaching 
-- Jesse livemore 
+`User Description?:`  
  
-`Followers?: `22 
+`Followers?: `4 
  
-`Following?:` 223 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1613101103390023682/kZWmwsir_normal.jpg 
+ 
+`Number of tweets excluding replies:` 706 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 86 , **में** 57 , **की** 45 , **जी** 38 , **का** 32 , **को** 28 , **श्री** 23 , **और** 23 , **एवं** 22 , **पर** 21 , **से** 19 , **@KISHANREDDYBJP:** 17 , **@NARENDRAMODI** 17 , **@UPTOURISMGOV:** 15 , **PM** 14 , **@AMRITMAHOTSAV:** 12 , **@BJPDRMAHENDRA:** 12 , **@SATYAKUMAR_Y:** 12 , **भारत** 12 , **@DRMANIKSAHA2:** 11 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# Nickysh61321810USER INFO
+![image](http://pbs.twimg.com/profile_images/1613101333678260224/tt8b95bt_normal.jpg)
+ 
+`User ScreenName:` Nickysh61321810 
+ 
+`User chosen Name:` Nicky sharma 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 10 16:07:13 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1613101333678260224/tt8b95bt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 686 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 83 , **में** 65 , **की** 45 , **जी** 34 , **को** 31 , **से** 26 , **का** 26 , **पर** 24 , **और** 23 , **एवं** 21 , **श्री** 18 , **@NARENDRAMODI** 16 , **@KISHANREDDYBJP:** 15 , **ने** 14 , **@UPTOURISMGOV:** 14 , **PM** 13 , **है।** 12 , **@AMRITMAHOTSAV:** 12 , **एक** 11 , **@AJAYBHATTBJP4UK:** 11 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# RameshAgrwal4USER INFO
+![image](http://pbs.twimg.com/profile_images/1616011124734038016/0OtYEHG1_normal.jpg)
+ 
+`User ScreenName:` RameshAgrwal4 
+ 
+`User chosen Name:` Ramesh Agrwal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 08:54:34 +0000 2023 
+ 
+`User Description?:` डरती है दुनिया भी डराने वाला चाहिए,
+पत्थर दिल है मेरा… बस सामने टकराने वाला चाहिए। 
+ 
+`Followers?: `11 
+ 
+`Following?:` 72 
+ 
+`User URL?:` None 
+ 
+`Location:` Patna, India 
+ 
+`Number of tweets extracted`  : 34 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616011124734038016/0OtYEHG1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 34 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**में** 15 , **के** 14 , **का** 8 , **और** 8 , **पर** 6 , **जी** 6 , **को** 5 , **से** 5 , **श्री** 5 , **है।** 5 , **की** 5 , **@DRMANIKSAHA2:** 4 , **एवं** 4 , **हैं** 4 , **@NARENDRAMODI** 4 , **हार्दिक** 3 , **🙏** 3 , **@KISHANREDDYBJP:** 3 , **@LTGENGURMIT:** 3 , **राजभवन** 3 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# PrinceGop8USER INFO
+![image](http://pbs.twimg.com/profile_images/1616011246985441280/xVMO5hwN_normal.jpg)
+ 
+`User ScreenName:` PrinceGop8 
+ 
+`User chosen Name:` Prince Gop 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 08:50:30 +0000 2023 
+ 
+`User Description?:` डरती है दुनिया भी डराने वाला चाहिए,
+पत्थर दिल है मेरा… बस सामने टकराने वाला चाहिए। 
+ 
+`Followers?: `9 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:` Lohia Nagar, Patna 
+ 
+`Number of tweets extracted`  : 34 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616011246985441280/xVMO5hwN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 34 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**में** 15 , **के** 14 , **का** 8 , **और** 8 , **पर** 6 , **जी** 6 , **को** 5 , **से** 5 , **श्री** 5 , **है।** 5 , **की** 5 , **@DRMANIKSAHA2:** 4 , **एवं** 4 , **हैं** 4 , **@NARENDRAMODI** 4 , **हार्दिक** 3 , **🙏** 3 , **@KISHANREDDYBJP:** 3 , **@LTGENGURMIT:** 3 , **राजभवन** 3 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# PinkuYa4USER INFO
+![image](http://pbs.twimg.com/profile_images/1616011380657881090/EefWuwYM_normal.jpg)
+ 
+`User ScreenName:` PinkuYa4 
+ 
+`User chosen Name:` Pinku Yadav 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 08:39:56 +0000 2023 
+ 
+`User Description?:` डरती है दुनिया भी डराने वाला चाहिए,
+पत्थर दिल है मेरा… बस सामने टकराने वाला चाहिए। 
+ 
+`Followers?: `7 
+ 
+`Following?:` 52 
+ 
+`User URL?:` None 
+ 
+`Location:` Lohia Nagar, Patna 
+ 
+`Number of tweets extracted`  : 35 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616011380657881090/EefWuwYM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 35 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**में** 15 , **के** 14 , **का** 8 , **और** 8 , **पर** 6 , **जी** 6 , **को** 5 , **से** 5 , **श्री** 5 , **है।** 5 , **की** 5 , **@DRMANIKSAHA2:** 4 , **एवं** 4 , **हैं** 4 , **@NARENDRAMODI** 4 , **हार्दिक** 3 , **🙏** 3 , **@KISHANREDDYBJP:** 3 , **@LTGENGURMIT:** 3 , **राजभवन** 3 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# RalphNatalie2USER INFO
+![image](http://pbs.twimg.com/profile_images/1615997864257421314/N3JNQEsw_normal.png)
+ 
+`User ScreenName:` RalphNatalie2 
+ 
+`User chosen Name:` Ralph Natalie 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 09:01:29 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 35 
  
 `User URL?:` None 
  
@@ -99,7 +296,7 @@ VIEWS WERE : **SUBJECTIVE**  (25.0%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJEC
  
 `Number of tweets extracted`  : 12 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1613882669292740609/u0DmJ8hU_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1615997864257421314/N3JNQEsw_normal.png 
  
 `Number of tweets excluding replies:` 12 
  
@@ -109,88 +306,79 @@ VIEWS WERE : **SUBJECTIVE**  (25.0%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**ICT** 3 , **@MENDA_CRYPTO:** 2 , **JUDAS** 2 , **SWING** 2 , **@BUGHUNTAR:** 2 , **𝚈𝚘𝚞** 2 , **𝚋𝚞𝚐** 2 , **𝚍𝚘𝚗'𝚝** 2 , **𝚒𝚝** 2 , **❗️** 2 , **ALLIGATOR** 2 , **CORE** 2 , **CONTENT** 2 , **1** 2 , **VOLUME** 2 , **RT** 1 , **@ERNESTGFX:** 1 , **HERE'S** 1 , **35** 1 , **FREE** 1 , 
+**MANAGING** 12 , **MFG:** 9 , **INDUSTRY** 6 , **CANNABIS** 4 , **TECHNOLOGY** 4 , **CYBERSECURITY** 4 , **FOOD** 3 , **BEVERAGE** 2 , **IMPORTANCE** 2 , **CFO'S** 2 , **EXPERTISE** 2 , **DATA** 2 , **BUSINESSES** 2 , **BUSINESS** 2 , **TECHNOLOGIES** 2 , **40** 2 , **TRENDS** 1 , **CHALLENGING** 1 , **SELECT…** 1 , **HTTPS://TCO/THEFTOVKHHPRESENT** 1 , 
  
 ## What this user tweeted
  
-RT @ernestgfx: Here's 35 FREE Cybersecurity Certifications you can add to your CV / Resume 🔥👇👇
+The Importance of the CFO's Expertise in Cybersecurity
 
-It's all FREE!
-
-Took me 3days to compile th…
+Managing MFG: Cybersecurity and data privacy have been top… https://t.co/O9zXEIG21c
  
-# YourCyberAgentUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615872143438356480/LcI1kUcn_normal.jpg)
+# NageemRajUSER INFO
+![image](http://pbs.twimg.com/profile_images/1615959097681281024/KaLqmJo1_normal.jpg)
  
-`User ScreenName:` YourCyberAgent 
+`User ScreenName:` NageemRaj 
  
-`User chosen Name:` The Cyber Agent 
+`User chosen Name:` Nageem Raj 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 18 01:17:50 +0000 2023 
+`User signup date?:` Sun Jan 15 17:07:46 +0000 2023 
  
-`User Description?:` The Global authority in cybersecurity market trends, investing and competitive outlook 
+`User Description?:` Jai Shree Ram ❤️💖 
  
-`Followers?: `2 
+`Followers?: `9 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:` Patna, India 
+ 
+`Number of tweets extracted`  : 196 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615959097681281024/KaLqmJo1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 628 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 88 , **में** 56 , **की** 39 , **जी** 32 , **को** 29 , **का** 29 , **और** 22 , **से** 20 , **श्री** 19 , **पर** 19 , **एवं** 17 , **AKHANDA** 17 , **है।** 14 , **@NARENDRAMODI** 14 , **@KISHANREDDYBJP:** 13 , **PM** 13 , **@DRMANIKSAHA2:** 12 , **@AMRITMAHOTSAV:** 11 , **हैं** 10 , **एक** 10 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# RJaribalaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1615992129276481539/TckVVgtv_normal.jpg)
+ 
+`User ScreenName:` RJaribala 
+ 
+`User chosen Name:` Rakesh Jaribala 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 08:36:18 +0000 2023 
+ 
+`User Description?:` YOGI JI 
+ 
+`Followers?: `3 
  
 `Following?:` 47 
  
 `User URL?:` None 
  
-`Location:` Paris, France 
+`Location:` Lohia Nagar, Patna 
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 66 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1615872143438356480/LcI1kUcn_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1615992129276481539/TckVVgtv_normal.jpg 
  
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 4 , **WHICH** 3 , **GROW** 3 , **OUTLOOK** 2 , **SMB** 2 , **BUSINESS** 2 , **ENTERPRISE** 2 , **REPRESENT** 2 , **LESS** 1 , **“BRIGHT”** 1 , **WORKS** 1 , **CASH** 1 , **SHORT** 1 , **CYCLES** 1 , **ALREADY** 1 , **AFFEC…** 1 , **HTTPS://TCO/LEOZ82K7NWAT** 1 , **LEVEL** 1 , **REMAINS** 1 , **FAVORABLE** 1 , 
- 
-## What this user tweeted
- 
-At enterprise level, the outlook remains favorable, mainly due to:
-
-1️⃣ Cybersecurity is now viewed as a core compo… https://t.co/uX9LHFu9qOSo, is the cybersecurity market contracting?
-
-Analysts, customers and vendors think not. They do however, agree it… https://t.co/1SWSGvWhuSCybersecurity services which represent 65% will grow 14%, which correlates with the SaaS explosion and subscription… https://t.co/rZ1fVe5ovBCybersecurity products (which represent 35% of the spend) will grow 12% YoY, driven by:
-
-- Endpoint Security 
-- Net… https://t.co/WqOA4JaATbGlobal cybersecurity analyst firm, Canalys, estimates the cybersecurity spending will grow 13% in 2023 and remain a… https://t.co/OVJ2qztPyj
- 
-# CarrotRob88USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` CarrotRob88 
- 
-`User chosen Name:` Rob Carrot 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 16 00:02:34 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 66 
  
 
  
@@ -198,310 +386,24 @@ Analysts, customers and vendors think not. They do however, agree it… https://
  
 ## User Top tweeted words 
  
-**RT** 1 , **@GERALD_AUGER:** 1 , **HEY** 1 , **YOU!** 1 , **CYBERSECURITY** 1 , **INTERVIEW** 1 , **COMING** 1 , **UP?** 1 , **1ST** 1 , **OFF** 1 , **AWESOME** 1 , **🥳** 1 , **2ND:** 1 , **LET’S** 1 , **SHED** 1 , **SELF** 1 , **DOUBT** 1 , **AMP** 1 , **CONFIDENCE!…** 1 , 
+**के** 23 , **में** 21 , **का** 13 , **जी** 11 , **और** 10 , **@NARENDRAMODI** 9 , **की** 9 , **से** 9 , **श्री** 8 , **पर** 8 , **@DRMANIKSAHA2:** 7 , **को** 7 , **PM** 6 , **@KISHANREDDYBJP:** 6 , **एवं** 6 , **@AMRITMAHOTSAV:** 5 , **हो** 5 , **है।** 5 , **है** 4 , **SHRI** 4 , 
  
 ## What this user tweeted
  
-RT @Gerald_Auger: Hey You!
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
  
-Cybersecurity interview coming up?
-
-1st off, AWESOME 🥳
-
-2nd: Let’s shed self doubt, and AMP UP the confidence!…
+# HighlightedKingUSER INFO
+![image](http://pbs.twimg.com/profile_images/1615545044819378177/QaO7WUpE_normal.jpg)
  
-# AJBorja11USER INFO
-![image](http://pbs.twimg.com/profile_images/1615171534955462662/lz3RW7Ru_normal.jpg)
+`User ScreenName:` HighlightedKing 
  
-`User ScreenName:` AJBorja11 
- 
-`User chosen Name:` AJ Borja 
+`User chosen Name:` High801305 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 16 18:12:06 +0000 2023 
+`User signup date?:` Wed Jan 18 03:00:27 +0000 2023 
  
-`User Description?:` Ret.LEO, Student-Information &Cybersecurity Technology @umdglobalcampus, Guitar Player, Metal Head, Baseball nut, Garage Gym Owner, Wannabe Olympic Weightlifter 
- 
-`Followers?: `0 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1615171534955462662/lz3RW7Ru_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@UMDGLOBALCAMPUS:** 1 , **UMGC** 1 , **PILOTING** 1 , **NEW** 1 , **CLASS** 1 , **ALLOWS** 1 , **STUDENTS** 1 , **EARN** 1 , **THREE** 1 , **CREDITS** 1 , **SIGN** 1 , **INDIVIDUAL** 1 , **TEAM** 1 , **CYBE…MY** 1 , **FIRST** 1 , **TWEET** 1 , **FOLLOWMONEYFIGHTSLAVERY** 1 , **TEAMATII** 1 , **TRAFFICKINGINTEL** 1 , 
- 
-## What this user tweeted
- 
-RT @umdglobalcampus: UMGC is piloting a new class that allows students to earn three credits when they sign up for individual and team cybe…
- 
-# DataTechRevUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615842629685596160/fGJwQAy5_normal.jpg)
- 
-`User ScreenName:` DataTechRev 
- 
-`User chosen Name:` Carlos A 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 18 21:59:15 +0000 2023 
- 
-`User Description?:` Passionate about AI, Blockchain, Cybersecurity, Development and Web 3.0. Always looking for ways to leverage technology to create a better future. 
- 
-`Followers?: `0 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:` Earth 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1615842629685596160/fGJwQAy5_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**READY** 1 , **JOIN** 1 , **JOURNEY** 1 , **DISCOVERY** 1 , **SHARE** 1 , **INSIGHTS** 1 , **LATEST** 1 , **ADVANCEMENTS** 1 , **AI…** 1 , **HTTPS://TCO/3DL4LMYW3Q** 1 , 
- 
-## What this user tweeted
- 
-Get ready to join me on a journey of discovery as I share my insights on the latest advancements in #AI,… https://t.co/3dl4Lmyw3q
- 
-# SUMEYYETUNA_CAUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615060609539928064/JDwC1fO6_normal.jpg)
- 
-`User ScreenName:` SUMEYYETUNA_CA 
- 
-`User chosen Name:` Sumeyye T. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 16 18:49:49 +0000 2023 
- 
-`User Description?:` Cybersecurity Analyst 
- 
-`Followers?: `1 
- 
-`Following?:` 28 
- 
-`User URL?:` https://t.co/sZqkFmDhHY 
- 
-`Location:` Vancouver 
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1615060609539928064/JDwC1fO6_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GROUP** 2 , **KNOWN** 2 , **SECURITY** 2 , **SOMETHING** 2 , **AWARE** 1 , **WIZARDSPIDER** 1 , **CYBERCRIME** 1 , **ITS** 1 , **SOPHISTICATED** 1 , **APT** 1 , **ATTACKS** 1 , **USI…** 1 , **HTTPS://TCO/WWFXWMEAQIINTRODUCING** 1 , **ATOMIC** 1 , **RED** 1 , **TEAM!** 1 , **POWERFUL** 1 , **OPEN-SOURCE** 1 , **TESTING** 1 , **FRAMEWORK** 1 , 
- 
-## What this user tweeted
- 
-Be aware of #WizardSpider, a #cybercrime group known for its sophisticated #APT attacks. The group is known for usi… https://t.co/wwFXwMEAQI
- 
-# medzoobaba308USER INFO
-![image](http://pbs.twimg.com/profile_images/1615283044083957762/LtFLiKTz_normal.png)
- 
-`User ScreenName:` medzoobaba308 
- 
-`User chosen Name:` mouhamed baba 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 17 09:41:02 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 120 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 16 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1615283044083957762/LtFLiKTz_normal.png 
- 
-`Number of tweets excluding replies:` 16 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEW** 3 , **•** 3 , **DAYS** 2 , **FIRST** 2 , **DAY** 2 , **मोदी** 2 , **सरकार** 2 , **में** 2 , **महंगाई** 2 , **की** 2 , **CRYPTO** 2 , **A…RT** 2 , **@PAPUNRATTANA777:** 2 , **สUาย777** 2 , **แจกเครดิตฟรี🔥สมาชิกใหม่รับ50~ถอนสูงสุด3000💸HTTPS://TCO/VFP9NUOYU8** 2 , **🍀โบนัสเพิ่มเติมแชร์คลิปนี้** 2 , **RT** 1 , **@SURGE_FI:** 1 , **MANY** 1 , **FACES** 1 , 
- 
-## What this user tweeted
- 
-RT @ilifestyleme: 🤖#CyberSecurity Marketing Ideas &amp; Tips:
-🫢Don’t Assume Going to the Top Will Get You Results
-🍀Develop Distinct Programs fo…
- 
-# HamadoBotUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615227294116909058/jBmBRj-2_normal.jpg)
- 
-`User ScreenName:` HamadoBot 
- 
-`User chosen Name:` HamadoBot 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 17 00:46:38 +0000 2023 
- 
-`User Description?:` This Account Is Strictly For #Roblox Retweets! 
- 
-`Followers?: `16 
- 
-`Following?:` 64 
- 
-`User URL?:` None 
- 
-`Location:` Roblox Retweet Bot 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1615227294116909058/jBmBRj-2_normal.jpg 
- 
-`Number of tweets excluding replies:` 243 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ROBLOX** 130 , **HACKED** 14 , **ACCOUNT** 12 , **ROBUX** 12 , **HACKING** 12 , **DE** 11 , **QUE** 11 , **127** 10 , **INBOX** 10 , **@ROBLOX** 9 , **FOLLOW!** 9 , **CONCERT** 8 , **NEW** 8 , **AVAILABLE** 7 , **NCT** 7 , **ROBLOXRT** 7 , **Y** 7 , **GOT** 6 , **PLAYING** 6 , **USE** 5 , 
- 
-## What this user tweeted
- 
-RT @stealthdhack: If your Roblox got Hacked, Inbox me I'm available for all Hacking Services
-24/7 At your Services
-#hacking #recovery #robl…
- 
-# Ikechuk92259937USER INFO
-![image](http://pbs.twimg.com/profile_images/1614238028372840448/YEmmInJl_normal.jpg)
- 
-`User ScreenName:` Ikechuk92259937 
- 
-`User chosen Name:` Ikechukwu Chukwuemeka 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 14 09:57:47 +0000 2023 
- 
-`User Description?:` Business minded and friendly...
-Learning how to master peace ✌️🕊️
-To become a MASTERPIECE...
-#lovesmotivation 
- 
-`Followers?: `1 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:` Nigeria 
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1614238028372840448/YEmmInJl_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PETEROBI:** 3 , **@PALMPAY_NG:** 3 , **PALMPAY** 3 , **2023** 3 , **RT** 2 , **GIT** 2 , **STATE** 2 , **-PO** 2 , **REGISTRATION** 2 , **APP!** 2 , **RESOLUTION:** 2 , **YEARONPALMPAY** 2 , **MONEYMATTERS** 2 , **YESTERDAY** 2 , **LONDON** 2 , **EXCHANGE** 2 , **@VERGE:** 1 , **TWITTER** 1 , **SELLING** 1 , **YEAR** 1 , 
- 
-## What this user tweeted
- 
-RT @TheHackersNews: Attention Git users — Critical vulnerabilities have been identified in the Git source code version control system that…
- 
-# indian_suhanaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615797067309355008/Xk9tDB10_normal.jpg)
- 
-`User ScreenName:` indian_suhana 
- 
-`User chosen Name:` suhana indian 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 18 19:43:35 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1615797067309355008/Xk9tDB10_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 5 , **FULL** 3 , **ACTIVATED** 3 , **MARKETING** 3 , **DISCOUNT** 3 , **100%** 3 , **TOOL** 2 , **OFF…** 2 , **PRO** 2 , **FACEBOOK** 1 , **SCRAPER** 1 , **V1018** 1 , **DATA** 1 , **EXTRACTOR** 1 , **HTTPS://TCO/1WYNWH7YE2THUMBNAIL** 1 , **MAKER** 1 , **V11825** 1 , **(** 1 , **CHANNEL** 1 , **ART** 1 , 
- 
-## What this user tweeted
- 
-Facebook Scraper v1.0.1.8 Full Activated – Data Extractor Marketing Tool – Discount 100% OFF… https://t.co/1wyNwH7ye2Thumbnail Maker Pro v11.8.25 Full Activated ( Channel ART ) – Discount 100% OFF https://t.co/T9xkskqPTO #infosec… https://t.co/KNz8W5OIxhVideo Marketing Blaster Pro v1.49 Full Activated – Youtube Marketing Tool – Discount 100% OFF… https://t.co/n9dJScd6SG
- 
-# GillyBuddenUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` GillyBudden 
- 
-`User chosen Name:` Gilly Emodi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 10 22:54:05 +0000 2023 
- 
-`User Description?:`  
+`User Description?:` honest is the best policy 
  
 `Followers?: `0 
  
@@ -511,11 +413,11 @@ Facebook Scraper v1.0.1.8 Full Activated – Data Extractor Marketing Tool – D
  
 `Location:`  
  
-`Number of tweets extracted`  : 23 
+`Number of tweets extracted`  : 44 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1615545044819378177/QaO7WUpE_normal.jpg 
  
-`Number of tweets excluding replies:` 23 
+`Number of tweets excluding replies:` 44 
  
 
  
@@ -523,36 +425,545 @@ Facebook Scraper v1.0.1.8 Full Activated – Data Extractor Marketing Tool – D
  
 ## User Top tweeted words 
  
-**@KITEWORKS:** 23 , **ATTACKS** 4 , **CYBERSECURITY** 4 , **CMMC** 3 , **NEED** 3 , **CUSTOMERS** 3 , **CISO** 3 , **REQUIRE** 2 , **THAN** 2 , **ATTACKERS** 2 , **ACCESS** 2 , **WEBINAR** 2 , **LEARN** 2 , **DOD** 2 , **20** 2 , **COST** 2 , **CLOUD** 2 , **YEAR** 2 , **BEFORE** 2 , **RE…RT** 2 , 
+**के** 19 , **में** 18 , **का** 10 , **और** 9 , **से** 8 , **को** 7 , **पर** 7 , **श्री** 7 , **की** 7 , **@DRMANIKSAHA2:** 6 , **जी** 6 , **हो** 5 , **एवं** 5 , **है।** 5 , **मध्यप्रदेश** 4 , **हैं** 4 , **@NARENDRAMODI** 4 , **@CMMADHYAPRADESH:** 3 , **रही** 3 , **विकास** 3 , 
  
 ## What this user tweeted
  
-RT @Kiteworks: “Based on information and intel analyzed to investigate the issue, there is no evidence that the data being sold online was…RT @Kiteworks: Are you struggling to navigate the complex world of #CMMC compliance? Working with a #C3PAO organization can make all the di…RT @Kiteworks: “For now, attacks conducted by humans require less effort than attempting to create AI-enhanced attacks, such as deepfakes o…RT @Kiteworks: It’s very important to protect the #PII of students—those in K-12, trade schools, and colleges—and #FERPA codifies it. When…RT @Kiteworks: “In some cases, the attackers have used this access to gain access to additional credentials, while the group is also though…RT @Kiteworks: Missed our joint #webinar with @Optiv? Watch the replay now to learn everything DoD suppliers need to know about CMMC 2.0. W…
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
  
-# AI_OptimistUSER INFO
-![image](http://pbs.twimg.com/profile_images/1613484220638449665/JuswbOkm_normal.jpg)
+# Satyam545640USER INFO
+![image](http://pbs.twimg.com/profile_images/1616080575189909506/16ONwlB8_normal.jpg)
  
-`User ScreenName:` AI_Optimist 
+`User ScreenName:` Satyam545640 
  
-`User chosen Name:` AI Optimist 
+`User chosen Name:` Satyam Raj 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 12 08:32:46 +0000 2023 
+`User signup date?:` Thu Jan 19 14:30:08 +0000 2023 
  
-`User Description?:` •AI Expert|• Insights from around the globe| •Follow us for the latest developments in| •Machine learning|•Robotics & more| #AI #ML #DL 
+`User Description?:`  
  
-`Followers?: `30 
+`Followers?: `1 
  
-`Following?:` 105 
+`Following?:` 4 
  
 `User URL?:` None 
  
-`Location:` AI 
+`Location:`  
+ 
+`Number of tweets extracted`  : 40 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616080575189909506/16ONwlB8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 40 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 18 , **में** 17 , **का** 9 , **और** 8 , **से** 7 , **की** 7 , **श्री** 6 , **जी** 6 , **पर** 6 , **@DRMANIKSAHA2:** 5 , **को** 5 , **है।** 5 , **हो** 4 , **एवं** 4 , **हैं** 4 , **@NARENDRAMODI** 4 , **मध्यप्रदेश** 3 , **है** 3 , **रहा** 3 , **@JANSAMPARKMP:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# DCConnectGlobalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1613848808768811008/y7vx1SVq_normal.jpg)
+ 
+`User ScreenName:` DCConnectGlobal 
+ 
+`User chosen Name:` DCConnect Global Limited 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 13 10:09:14 +0000 2023 
+ 
+`User Description?:` SDN API Interconnect, Global Carriers, SaaS for Data Center & Cloud Providers. 
+ 
+`Followers?: `15 
+ 
+`Following?:` 196 
+ 
+`User URL?:` https://t.co/5ZEtqP8g8B 
+ 
+`Location:` Singapore 
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1613848808768811008/y7vx1SVq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WE'RE** 3 , **JOIN** 3 , **FUTURE** 2 , **WAY** 2 , **DCCONNECT** 2 , **OU…** 2 , **US** 2 , **@DCCONNECTGLOBAL** 2 , **RT** 1 , **@GLENGILMORE:** 1 , **SMARTCITY:** 1 , **ACCELERATING** 1 , **DIGITALTRANSFORMATION** 1 , **INCREASED** 1 , **CYBERSECURITY** 1 , **RISKS⚠️** 1 , **92%** 1 , **HIT** 1 , **RANSOMWARE** 1 , **ATTACKS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @GlenGilmore: #SmartCity: Accelerating #digitaltransformation has increased #cybersecurity risks⚠️
+
+92% hit by #ransomware attacks did N…
+ 
+# SurajRa58118780USER INFO
+![image](http://pbs.twimg.com/profile_images/1616098614438428685/4BGDdvLY_normal.jpg)
+ 
+`User ScreenName:` SurajRa58118780 
+ 
+`User chosen Name:` Suraj Raj 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 15:35:22 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 56 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 74 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616098614438428685/4BGDdvLY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 74 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 29 , **में** 25 , **जी** 13 , **का** 13 , **की** 12 , **@NARENDRAMODI** 11 , **और** 11 , **से** 10 , **को** 9 , **पर** 9 , **श्री** 9 , **@KISHANREDDYBJP:** 7 , **PM** 7 , **एवं** 7 , **@DRMANIKSAHA2:** 7 , **@UPTOURISMGOV:** 5 , **2023** 5 , **SHRI** 5 , **@AMRITMAHOTSAV:** 5 , **हो** 5 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# Kunalr85USER INFO
+![image](http://pbs.twimg.com/profile_images/1616088112064790529/gi5edC9I_normal.jpg)
+ 
+`User ScreenName:` Kunalr85 
+ 
+`User chosen Name:` Kunal Raj 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 14:56:35 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 45 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616088112064790529/gi5edC9I_normal.jpg 
+ 
+`Number of tweets excluding replies:` 45 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 19 , **में** 18 , **का** 10 , **और** 9 , **से** 8 , **को** 7 , **पर** 7 , **श्री** 7 , **की** 7 , **@DRMANIKSAHA2:** 6 , **जी** 6 , **@NARENDRAMODI** 5 , **हो** 5 , **एवं** 5 , **है।** 5 , **मध्यप्रदेश** 4 , **हैं** 4 , **PM** 3 , **@CMMADHYAPRADESH:** 3 , **रही** 3 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# gptdumpUSER INFO
+![image](http://pbs.twimg.com/profile_images/1615939356769882118/pCt5Qm3h_normal.jpg)
+ 
+`User ScreenName:` gptdump 
+ 
+`User chosen Name:` GPT Dump 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 17 21:38:35 +0000 2023 
+ 
+`User Description?:` Read. Summarize. Dump. Change litter box. Read. Summarize. Dump. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 16 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615939356769882118/pCt5Qm3h_normal.jpg 
+ 
+`Number of tweets excluding replies:` 16 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TACO** 2 , **BELL** 2 , **COUNTY** 2 , **NY** 2 , **LEGENDARY** 2 , **NEW** 2 , **FORMER** 1 , **PRESIDENT** 1 , **DONALD** 1 , **TRUMP** 1 , **LEGAL** 1 , **TEAM** 1 , **ORDERED** 1 , **PAY** 1 , **$937000** 1 , **SANCTIONS** 1 , **ATTEMPTS** 1 , **SUE…** 1 , **HTTPS://TCO/IUIYXFJJHCYUM** 1 , **BRANDS** 1 , 
+ 
+## What this user tweeted
+ 
+Yum Brands parent company of KFC &amp; Taco Bell was hit by a ransomware attack this week. Despite closing several hund… https://t.co/y4vy8DjsRQ
+ 
+# SweetiRajput7USER INFO
+![image](http://pbs.twimg.com/profile_images/1615013466691239936/sgK34C_7_normal.png)
+ 
+`User ScreenName:` SweetiRajput7 
+ 
+`User chosen Name:` Sweeti Rajput 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 16 15:49:50 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615013466691239936/sgK34C_7_normal.png 
+ 
+`Number of tweets excluding replies:` 600 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 84 , **में** 56 , **की** 42 , **जी** 30 , **का** 30 , **को** 28 , **पर** 20 , **से** 20 , **और** 19 , **एवं** 18 , **@NARENDRAMODI** 16 , **PM** 15 , **श्री** 15 , **@KISHANREDDYBJP:** 14 , **है।** 14 , **@DRMANIKSAHA2:** 13 , **है** 13 , **AKHANDA** 12 , **@UPTOURISMGOV:** 11 , **@AMRITMAHOTSAV:** 11 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# RitaKum65126587USER INFO
+![image](http://pbs.twimg.com/profile_images/1615037175049093121/uWD5a7Re_normal.png)
+ 
+`User ScreenName:` RitaKum65126587 
+ 
+`User chosen Name:` Rita Kumari 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 16 17:24:02 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615037175049093121/uWD5a7Re_normal.png 
+ 
+`Number of tweets excluding replies:` 666 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 84 , **में** 56 , **की** 42 , **जी** 30 , **का** 30 , **को** 28 , **पर** 20 , **से** 20 , **और** 19 , **एवं** 18 , **@NARENDRAMODI** 16 , **PM** 15 , **श्री** 15 , **@KISHANREDDYBJP:** 14 , **है।** 14 , **है** 13 , **@DRMANIKSAHA2:** 12 , **AKHANDA** 12 , **@UPTOURISMGOV:** 11 , **@AMRITMAHOTSAV:** 11 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# PrakashyadavY18USER INFO
+![image](http://pbs.twimg.com/profile_images/1614860078775140352/86UuRrDx_normal.jpg)
+ 
+`User ScreenName:` PrakashyadavY18 
+ 
+`User chosen Name:` Prakash yadav Yadav 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 16 05:37:41 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 51 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1614860078775140352/86UuRrDx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 569 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 84 , **में** 56 , **की** 41 , **जी** 30 , **का** 30 , **को** 28 , **पर** 20 , **से** 20 , **और** 19 , **एवं** 17 , **@NARENDRAMODI** 16 , **PM** 15 , **श्री** 15 , **@KISHANREDDYBJP:** 14 , **है।** 14 , **है** 13 , **AKHANDA** 13 , **@DRMANIKSAHA2:** 12 , **@UPTOURISMGOV:** 11 , **@AMRITMAHOTSAV:** 11 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# AvniRaj93902852USER INFO
+![image](http://pbs.twimg.com/profile_images/1615000594854604802/KGmOCtqZ_normal.png)
+ 
+`User ScreenName:` AvniRaj93902852 
+ 
+`User chosen Name:` Avni Raj 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 16 14:58:41 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615000594854604802/KGmOCtqZ_normal.png 
+ 
+`Number of tweets excluding replies:` 636 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 84 , **में** 55 , **की** 41 , **जी** 30 , **का** 30 , **को** 28 , **से** 20 , **पर** 19 , **और** 19 , **एवं** 18 , **@NARENDRAMODI** 16 , **PM** 15 , **श्री** 15 , **@KISHANREDDYBJP:** 14 , **है।** 14 , **AKHANDA** 13 , **@DRMANIKSAHA2:** 12 , **है** 12 , **@UPTOURISMGOV:** 11 , **@AMRITMAHOTSAV:** 11 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# SUMANKU87002835USER INFO
+![image](http://pbs.twimg.com/profile_images/1614895831915859969/O8j6tBW4_normal.png)
+ 
+`User ScreenName:` SUMANKU87002835 
+ 
+`User chosen Name:` SUMAN KUMARI 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 16 08:02:23 +0000 2023 
+ 
+`User Description?:` Study is a route of success 
+ 
+`Followers?: `2 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1614895831915859969/O8j6tBW4_normal.png 
+ 
+`Number of tweets excluding replies:` 646 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 84 , **में** 56 , **की** 42 , **जी** 30 , **का** 30 , **को** 28 , **पर** 20 , **से** 20 , **और** 19 , **एवं** 18 , **@NARENDRAMODI** 16 , **PM** 15 , **श्री** 15 , **@DRMANIKSAHA2:** 14 , **@KISHANREDDYBJP:** 14 , **है।** 14 , **है** 13 , **@UPTOURISMGOV:** 11 , **@AMRITMAHOTSAV:** 11 , **@AJAYBHATTBJP4UK:** 10 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# Creativ40273573USER INFO
+![image](http://pbs.twimg.com/profile_images/1615994719494107136/QHgnS7wz_normal.png)
+ 
+`User ScreenName:` Creativ40273573 
+ 
+`User chosen Name:` Creative Gamer 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 08:48:59 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 177 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615994719494107136/QHgnS7wz_normal.png 
+ 
+`Number of tweets excluding replies:` 179 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 81 , **में** 50 , **की** 37 , **जी** 31 , **को** 25 , **का** 24 , **और** 21 , **श्री** 19 , **से** 18 , **एवं** 17 , **पर** 16 , **@NARENDRAMODI** 15 , **PM** 13 , **@KISHANREDDYBJP:** 12 , **@DRMANIKSAHA2:** 12 , **महाराणा** 11 , **हैं** 10 , **है।** 10 , **@UPTOURISMGOV:** 10 , **@AMRITMAHOTSAV:** 10 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# Abhishe37252647USER INFO
+![image](http://pbs.twimg.com/profile_images/1615994945789390848/KXlNzw-m_normal.png)
+ 
+`User ScreenName:` Abhishe37252647 
+ 
+`User chosen Name:` Abhishek Singh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 08:49:53 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 172 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615994945789390848/KXlNzw-m_normal.png 
+ 
+`Number of tweets excluding replies:` 173 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 75 , **में** 46 , **की** 36 , **जी** 27 , **का** 25 , **को** 23 , **@NARENDRAMODI** 19 , **से** 18 , **और** 18 , **एवं** 17 , **पर** 16 , **श्री** 14 , **PM** 13 , **@KISHANREDDYBJP:** 12 , **@DRMANIKSAHA2:** 12 , **है।** 10 , **@AMRITMAHOTSAV:** 10 , **महाराणा** 10 , **हैं** 9 , **है** 9 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# SumitSi60389996USER INFO
+![image](http://pbs.twimg.com/profile_images/1613779560893681666/zqJX6pf5_normal.png)
+ 
+`User ScreenName:` SumitSi60389996 
+ 
+`User chosen Name:` Sumit Singh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 13 06:06:44 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1613779560893681666/zqJX6pf5_normal.png 
+ 
+`Number of tweets excluding replies:` 1362 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 84 , **में** 56 , **की** 41 , **जी** 30 , **का** 30 , **को** 28 , **पर** 20 , **से** 20 , **और** 19 , **@NARENDRAMODI** 18 , **एवं** 17 , **PM** 15 , **श्री** 15 , **@KISHANREDDYBJP:** 14 , **है।** 14 , **है** 13 , **@DRMANIKSAHA2:** 12 , **@UPTOURISMGOV:** 11 , **@AMRITMAHOTSAV:** 11 , **@BJYMNABADAL:** 10 , 
+ 
+## What this user tweeted
+ 
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# Ritikra74589148USER INFO
+![image](http://pbs.twimg.com/profile_images/1616048681115095040/ZOxAJKo2_normal.png)
+ 
+`User ScreenName:` Ritikra74589148 
+ 
+`User chosen Name:` Ritik raushan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 12:23:24 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 97 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1613484220638449665/JuswbOkm_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1616048681115095040/ZOxAJKo2_normal.png 
  
 `Number of tweets excluding replies:` 98 
  
@@ -562,83 +973,38 @@ RT @Kiteworks: “Based on information and intel analyzed to investigate the iss
  
 ## User Top tweeted words 
  
-**AI** 28 , **•** 14 , **MIDJOURNEY** 13 , **SUCH** 12 , **HUMAN** 9 , **ARTIFICIAL** 8 , **INTELLIGENCE** 7 , **LEARNING** 7 , **INPUT:** 7 , **NEW** 7 , **DISCORD** 7 , **REAL** 6 , **LIFE** 6 , **BEING** 6 , **MACHINE** 6 , **ALGORITHMS** 6 , **MAKE** 6 , **DATA** 6 , **THEN** 6 , **USE** 6 , 
+**के** 38 , **में** 31 , **का** 19 , **जी** 16 , **को** 13 , **की** 13 , **@NARENDRAMODI** 13 , **PM** 11 , **और** 11 , **से** 10 , **श्री** 10 , **@KISHANREDDYBJP:** 10 , **है।** 9 , **एवं** 9 , **पर** 9 , **है** 7 , **@AMRITMAHOTSAV:** 7 , **हो** 7 , **@UPTOURISMGOV:** 7 , **@SATYAKUMAR_Y:** 7 , 
  
 ## What this user tweeted
  
-• In real life, artificial intelligence and machine learning are being used in fields such as cybersecurity and cry… https://t.co/cQdM3Vy0NY
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
  
-# hackthebox_ngUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615741379849736194/N63XD-TP_normal.jpg)
+# Ritikra36654015USER INFO
+![image](http://pbs.twimg.com/profile_images/1616045096419610631/hinlaCft_normal.png)
  
-`User ScreenName:` hackthebox_ng 
+`User ScreenName:` Ritikra36654015 
  
-`User chosen Name:` Hack The Box Nigeria Meetup 🇳🇬 
+`User chosen Name:` Ritik raushan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 18 15:47:16 +0000 2023 
+`User signup date?:` Thu Jan 19 12:09:09 +0000 2023 
  
-`User Description?:` Twitter account for the Hack The Box meetup group in Nigeria.
-
-Follow @hackthebox_eu for official Hack The Box news. 
+`User Description?:`  
  
-`Followers?: `6 
+`Followers?: `0 
  
 `Following?:` 2 
  
-`User URL?:` https://t.co/wZBxtHLKLt 
- 
-`Location:` Nigeria 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1615741379849736194/N63XD-TP_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HELLO** 1 , **NIGERIA!!!** 1 , **EXCITED** 1 , **ANNOUNCE** 1 , **LAUNCH** 1 , **TWITTER** 1 , **ACCOUNT!** 1 , **JOIN** 1 , **US** 1 , **SHARPEN** 1 , **SKILLS** 1 , **NE…** 1 , **HTTPS://TCO/NBXJPA2ZM2** 1 , 
- 
-## What this user tweeted
- 
-Hello Nigeria!!!
-
-We are excited to announce the launch of our Twitter account!
-
-Join us to sharpen your skills, ne… https://t.co/nbxJPa2zM2
- 
-# pscybernagaurUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` pscybernagaur 
- 
-`User chosen Name:` Cyber Police Station Nagaur 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 14 11:47:13 +0000 2023 
- 
-`User Description?:` अपने साथ किसी भी प्रकार की ऑनलाइन साईबर ठगी होने पर तुरंत प्रभाव से 1930 पर कॉल करके या https://t.co/MjDnQ8h5rH पर ऑनलाइन शिकायत दर्ज करवाए 
- 
-`Followers?: `1 
- 
-`Following?:` 13 
- 
 `User URL?:` None 
  
-`Location:` Nakash Gate, Nagaur Rajasthan  
+`Location:`  
  
-`Number of tweets extracted`  : 15 
+`Number of tweets extracted`  : 90 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1616045096419610631/hinlaCft_normal.png 
  
-`Number of tweets excluding replies:` 15 
+`Number of tweets excluding replies:` 90 
  
 
  
@@ -646,23 +1012,22 @@ Join us to sharpen your skills, ne… https://t.co/nbxJPa2zM2
  
 ## User Top tweeted words 
  
-**के** 10 , **साइबर** 8 , **•** 7 , **की** 5 , **जिला** 3 , **नागौर** 3 , **में** 3 , **@CYBERDOST:** 3 , **@NAGAURPOLICE:** 3 , **NAGAURPOLICE** 2 , **SP** 2 , **OFFICE** 2 , **NAGAUR** 2 , **राज्य** 2 , **सरकार** 2 , **निर्देशानुसार** 2 , **अपराधों** 2 , **रोकथाम** 2 , **हेतु** 2 , **FRAUDSTERS** 2 , 
+**के** 33 , **में** 29 , **का** 18 , **जी** 14 , **@NARENDRAMODI** 12 , **की** 12 , **PM** 11 , **को** 11 , **और** 11 , **@KISHANREDDYBJP:** 10 , **से** 9 , **श्री** 9 , **है।** 8 , **पर** 8 , **हो** 7 , **@UPTOURISMGOV:** 7 , **@SATYAKUMAR_Y:** 7 , **एवं** 7 , **है** 6 , **SHRI** 6 , 
  
 ## What this user tweeted
  
-RT @Cyberdost: Protect your personal information online to secure your #DigitalIdentity. 
-If you are a victim of #cybercrime, dial 1930 and…
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
  
-# FauzixTzyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615743982323269632/N25VLyiI_normal.png)
+# SonuKum98981847USER INFO
+![image](http://pbs.twimg.com/profile_images/1616047441165549568/OG4fXfa5_normal.png)
  
-`User ScreenName:` FauzixTzy 
+`User ScreenName:` SonuKum98981847 
  
-`User chosen Name:` Fauzix tzy 
+`User chosen Name:` Sonu Kumar 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 18 16:12:38 +0000 2023 
+`User signup date?:` Thu Jan 19 12:18:28 +0000 2023 
  
 `User Description?:`  
  
@@ -674,11 +1039,11 @@ If you are a victim of #cybercrime, dial 1930 and…
  
 `Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 76 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1615743982323269632/N25VLyiI_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1616047441165549568/OG4fXfa5_normal.png 
  
-`Number of tweets excluding replies:` 6 
+`Number of tweets excluding replies:` 76 
  
 
  
@@ -686,13 +1051,214 @@ If you are a victim of #cybercrime, dial 1930 and…
  
 ## User Top tweeted words 
  
-**RT** 1 , **@DATSPROJECT:** 1 , **🚀DATS** 1 , **PROJECT** 1 , **INCENTIVIZED** 1 , **TESTNET** 1 , **PROGRAM** 1 , **BEGINS** 1 , **BECOME** 1 , **PART** 1 , **CYBER** 1 , **SECURITY** 1 , **TECHNOLOGY** 1 , **HIGH** 1 , **PERFORMANCE** 1 , **LOW…HTTPS://TCO/EWJUIGZZXO@ALIFDESFIAN3** 1 , **@NOVALAILA14** 1 , **@RIYANFEBRIYAN18** 1 , **HTTPS://TCO/M2YXWSWTU3RT** 1 , **@GALAXYLABSS:** 1 , 
+**के** 30 , **में** 26 , **का** 15 , **जी** 14 , **की** 13 , **और** 12 , **से** 11 , **@NARENDRAMODI** 11 , **को** 9 , **पर** 9 , **श्री** 9 , **@KISHANREDDYBJP:** 7 , **PM** 7 , **एवं** 7 , **@DRMANIKSAHA2:** 7 , **@UPTOURISMGOV:** 5 , **2023** 5 , **मुख्यमंत्री** 5 , **SHRI** 5 , **@AMRITMAHOTSAV:** 5 , 
  
 ## What this user tweeted
  
-RT @DatsProject: 🚀DATS Project incentivized #testnet program begins.
+RT @AmritMahotsav: Your ATM PIN is the first line of defence against potential fraud. Ms. Right says, "DO NOT share your ATM PIN with anyon…
+ 
+# Jobs4YouZaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1616213782161760256/g093nHDt_normal.jpg)
+ 
+`User ScreenName:` Jobs4YouZa 
+ 
+`User chosen Name:` Jobs 4 You Za 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 23:16:21 +0000 2023 
+ 
+`User Description?:` Plugs To Awesome Job Opportunities For South Africans 
+ 
+`Followers?: `0 
+ 
+`Following?:` 34 
+ 
+`User URL?:` https://t.co/xRpgfTXXxo 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 100 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616213782161760256/g093nHDt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 100 
+ 
 
-Become a part of cyber security technology with high performance, low…
+ 
+
+ 
+## User Top tweeted words 
+ 
+**APPLY** 18 , **@RMAKUKULI:** 16 , **@CAROL_MASHUDU1:** 15 , **LOOKING** 15 , **2023** 14 , **📌** 14 , **@YUTHCONNECT:** 13 , **12** 12 , **CLOSING** 12 , **LEARNERSHIP** 10 , **SOUTH** 10 , **GRADE** 10 , **JANUARY** 9 , **REQUIREMENTS:** 9 , **:** 8 , **•** 8 , **POSITION** 8 , **JOB** 8 , **@CAREERSSA1:** 7 , **ASSISTANT** 7 , 
+ 
+## What this user tweeted
+ 
+RT @ernestgfx: Here's 35 FREE Cybersecurity Certifications you can add to your CV / Resume 🔥👇👇
+
+It's all FREE!
+
+Took me 3days to compile th…
+ 
+# firstbennuUSER INFO
+![image](http://pbs.twimg.com/profile_images/1616213090491670532/JkMQOtWm_normal.jpg)
+ 
+`User ScreenName:` firstbennu 
+ 
+`User chosen Name:` bEnNu 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 10 21:20:50 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616213090491670532/JkMQOtWm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HACKED** 3 , **HACKING** 3 , **HTTPS://TCO/FP4BDNQDAOHACKING** 1 , **HTTPS://TCO/06K59VPKZ2RT** 1 , **@SECURITYTRYBE:** 1 , **YOUTUBE** 1 , **CHANNELS** 1 , **BUG** 1 , **BOUNTY** 1 , **INFOSEC** 1 , **CYBERATTACK** 1 , **BUGBOUNTY** 1 , **CYBERSECURITY** 1 , **HTTPS://T…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SecurityTrybe: YouTube Channels for Hacking and Bug Bounty 
+
+#infosec #CyberAttack #BugBounty #cybersecurity #Hacked #Hacking https://t…
+ 
+# diana_g_001USER INFO
+![image](http://pbs.twimg.com/profile_images/1616206790667997189/q11dBYKU_normal.jpg)
+ 
+`User ScreenName:` diana_g_001 
+ 
+`User chosen Name:` sugar diana 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 22:43:06 +0000 2023 
+ 
+`User Description?:` Crypto trader CEO of high waterfall foundation charity home helping the poor only dm with your bills 💵💸 
+ 
+`Followers?: `4 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:` London, England 
+ 
+`Number of tweets extracted`  : 62 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616206790667997189/q11dBYKU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 65 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CASHAPP** 18 , **CASH** 16 , **APP** 13 , **@CASHAPP** 10 , **✨** 8 , **MONEY** 6 , **@CASHAPP_QWN** 5 , **PAYPAL** 5 , **FREE** 4 , **$100** 4 , **I’M** 3 , **HELP** 3 , **HERE** 3 , **PAYPALRT** 3 , **AVAILABLE** 3 , **PEOPLE** 3 , **SEND** 3 , **LAST** 3 , **🙏** 3 , **REALLY** 3 , 
+ 
+## What this user tweeted
+ 
+RT @WilfridBlanc: Paypal silently truncates passwords to 20 characters https://t.co/SKPurl6gdk
+ 
+# EvanBuffordUSER INFO
+![image](http://pbs.twimg.com/profile_images/1616212379880116224/AzmirrXS_normal.jpg)
+ 
+`User ScreenName:` EvanBufford 
+ 
+`User chosen Name:` Evan Bufford 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 11 22:45:49 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616212379880116224/AzmirrXS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STARTING** 2 , **JOURNEY** 2 , **NEW** 1 , **TWITTER!** 1 , **BECOME** 1 , **CYBERSECURITY** 1 , **PROFESSIONAL!** 1 , **CYBERSECURITYRT** 1 , **@BLEEPINCOMPUTER:** 1 , **THREAT** 1 , **ACTORS** 1 , **STOLE** 1 , **PERSONAL** 1 , **INFORMATION** 1 , **ROUGHLY** 1 , **37** 1 , **MILLION** 1 , **CURRENT** 1 , **POSTPAID** 1 , **PREPAID** 1 , 
+ 
+## What this user tweeted
+ 
+Starting a new journey with this Twitter! Starting my journey to become a Cybersecurity professional! #cybersecurity
+ 
+# elvekasUSER INFO
+![image](http://pbs.twimg.com/profile_images/1616188925063610369/_CvJUhkX_normal.jpg)
+ 
+`User ScreenName:` elvekas 
+ 
+`User chosen Name:` Elvekas Venture 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 19 19:53:33 +0000 2023 
+ 
+`User Description?:` Working to Gain Efficient #Agroecology and #Food #Security in collaboration with others to make the world 🌍 Lovely🌹, #Farming 🧺 #Fun and #Diets #Nutritional 
+ 
+`Followers?: `2 
+ 
+`Following?:` 93 
+ 
+`User URL?:` https://t.co/fwfpeoVI4w 
+ 
+`Location:` Nigeria 
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1616188925063610369/_CvJUhkX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FAO:** 6 , **@ELVEKAS:** 5 , **DON'T** 5 , **RISK** 4 , **AMAZING** 4 , **@FAO** 4 , **NEED** 3 , **HUMAN** 3 , **PREVENT** 3 , **FOOD** 3 , **AGROECOLOGY** 3 , **FLOOD** 2 , **POVERTY** 2 , **COMMUNITIES** 2 , **RIGHTS** 2 , **MAKE** 2 , **PEOPLE** 2 , **WORLD** 2 , **TRAFFICKING** 2 , **WORKING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @elvekas: When we produce, at least appreciate us with a fare price.
+We bear all the risk, the cold, the heat, the stress just to make s…When we produce, at least appreciate us with a fare price.
+We bear all the risk, the cold, the heat, the stress jus… https://t.co/HQuKbpQm9d
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
