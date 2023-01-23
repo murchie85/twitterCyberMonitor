@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **RnaudBertrand**  
+The most popular user is: **MAstronomers**  
  
 
-## Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 
+## Margaret Hamilton, NASA's lead developer for Apollo program, stands next to all the code she wrote by hand that too… https://t.co/TkaKPHttrc 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **RnaudBertrand**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @McFaul: Ukraine is winning. Russia is losing, And Putin knows it. |
-| RT @Euan_MacDonald: The infuriating thing is that Germany IS the top military  aid donor to Ukraine in Europe, and has delivered quite a lo… |
-| RT @officejjsmart: Americans 🇺🇸 regarding our military aid to Ukraine 🇺🇦:We pay $14 a month to defeat Russia 🇷🇺 without losing a single A… |
+| RT @JinibaBD: 🚨how do you help kids with #cyberawarenesss⁉️🚨⛔️ #Phishing #ransomware #cyberattacks #privacy #cyberintelligence #infosec #cy… |
+| RT @cyberfeedio: HN: What happened with the substation attack in North Carolina? https://t.co/6EGzruVlk3 #tech #security #infosec #cybersec… |
+| RT @programmerjoke9: Better not fire anyone now#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie #python #… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **EdwardOfIran** |
-| #2 Most tweeted to  | **KyivIndependent** |
-| #3 Most tweeted to  | **UrmasReinsalu** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 6.62%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **TakSec** |
+| #3 Most tweeted to  | **Shubham_pen** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 6.12%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,47 +50,47 @@ The most popular user is: **RnaudBertrand**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **TANKS**  |
-| third  | **GERMANY** |
-| fourth  | **WAR**  |
-| fifth  | **IRGC**  |
+| first  | **INFOSEC**  |
+| second  | **"TARGETCOM"**  |
+| third  | **PENTESTING** |
+| fourth  | **OSCP**  |
+| fifth  | **@HACKINARTICLES:**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJECTIVE** (69.23%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AlGGDirect: @ChuckPfarrer live now on @MriyaReport analyzing current military status in Ukraine. Join us. |
+|RT @Shubham_pen: Linux Command Cheat SheetCredit: @drchopperX#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RnaudBertrand**  |
+| The most retweeted user is: **MAstronomers**  |
 | ------------- |
-| Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 |
+| Margaret Hamilton, NASA's lead developer for Apollo program, stands next to all the code she wrote by hand that too… https://t.co/TkaKPHttrc |
 
 # Potential Fake Accounts
  
-# Charlze99486312USER INFO
-![image](http://pbs.twimg.com/profile_images/1615495533312737280/44luVblz_normal.png)
+# elgrandeyayaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1615908977732206595/d-Xs-EjA_normal.jpg)
  
-`User ScreenName:` Charlze99486312 
+`User ScreenName:` elgrandeyaya 
  
-`User chosen Name:` Charlze 
+`User chosen Name:` Yaya 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jan 17 23:45:23 +0000 2023 
+`User signup date?:` Sat Jan 14 03:41:45 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `2 
+`Followers?: `1 
  
-`Following?:` 84 
+`Following?:` 47 
  
 `User URL?:` None 
  
@@ -98,7 +98,7 @@ VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJ
  
 `Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1615495533312737280/44luVblz_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1615908977732206595/d-Xs-EjA_normal.jpg 
  
 `Number of tweets excluding replies:` 6 
  
@@ -108,38 +108,42 @@ VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJ
  
 ## User Top tweeted words 
  
-**@THEGAYWHOSTRAYD** 1 , **UKRAINE!** 1 , **THEN** 1 , **DESPOTISM** 1 , **VLADIMIR** 1 , **PUTIN** 1 , **CRIMES** 1 , **AGAINST** 1 , **HUMANITY@BARACKOBAMA** 1 , **@POTUS** 1 , **@VP** 1 , **REMAIN** 1 , **CONFIDENT** 1 , **FORMER** 1 , **PRESIDENT** 1 , **OBAMA'S** 1 , **SUPPORT** 1 , **JOE** 1 , **BIDEN** 1 , **RESPECT** 1 , 
+**DE** 4 , **À** 3 , **"TARGET[]COM"** 2 , **@SYTHAMMM** 1 , **@MOULAMONEYY** 1 , **@CERFIAFR** 1 , **ÉVITE** 1 , **PARLER** 1 , **REBEU** 1 , **GROSSE** 1 , **SALOPE** 1 , **SUCEUR** 1 , **KONDERRT** 1 , **@TAKSEC:** 1 , **GOOGLE** 1 , **DORKS** 1 , **CLOUD** 1 , **STORAGE:** 1 , **SITE:HTTPS://TCO/CI8TRAUGE5** 1 , **SITE:HTTPS://TCO/HLODV2F9HC** 1 , 
  
 ## What this user tweeted
  
-@thegaywhostrayd Ukraine! and then the despotism of Vladimir Putin and his crimes against humanity.
+RT @TakSec: Google Dorks - Cloud Storage:
+
+site:https://t.co/ci8trAUge5 "target[.]com"
+site:https://t.co/HlodV2F9hc "target[.]com"
+site:htt…
  
-# bigwins_ros18USER INFO
-![image](http://pbs.twimg.com/profile_images/1614294497923563520/kCpEdAER_normal.jpg)
+# Ambr_enceUSER INFO
+![image](http://pbs.twimg.com/profile_images/1615357781048958977/2G0e9XWK_normal.jpg)
  
-`User ScreenName:` bigwins_ros18 
+`User ScreenName:` Ambr_ence 
  
-`User chosen Name:` ros (follow me back please) 
+`User chosen Name:` Ambr_ence 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 14 16:02:58 +0000 2023 
+`User signup date?:` Sun Jan 15 20:27:13 +0000 2023 
  
-`User Description?:` my @kierapanalo got suspended!please don't reroll me 
+`User Description?:` New account, making it comfortable. Coder and translator during the night, florist during the day (and proud of it). FR/EN/IT 
  
-`Followers?: `15 
+`Followers?: `2 
  
-`Following?:` 340 
+`Following?:` 30 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` he/him. Med. 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1614294497923563520/kCpEdAER_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1615357781048958977/2G0e9XWK_normal.jpg 
  
-`Number of tweets excluding replies:` 499 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -147,31 +151,28 @@ VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJ
  
 ## User Top tweeted words 
  
-**RT** 110 , **FOLLOW** 82 , **HOURS** 72 , **•** 46 , **+** 46 , **$50** 33 , **~** 32 , **24** 27 , **||** 26 , **GIVEAWAY** 22 , **DONE** 21 , **TWEET** 20 , **$100** 20 , **IDR** 19 , **ENDS** 17 , **✅** 17 , **JOIN** 15 , **8** 14 , **NEXT** 14 , **$10** 11 , 
+**POUR** 3 , **LES** 2 , **RT** 1 , **@EYNOXART:** 1 , **"WATERPIXEL** 1 , **ART"** 1 , **NO1⃣8⃣** 1 , **©️** 1 , **♥️** 1 , **SCIFICONCEPT** 1 , **PORTRAITART** 1 , **ACTIVEARTCOLLECTIVE** 1 , **DIGITALART** 1 , **AIART** 1 , **MIXEDMEDIA** 1 , **SCIFI** 1 , **WATERPI…RT** 1 , **@THREE_CUBE:** 1 , **BUG** 1 , **BOUNTY** 1 , 
  
 ## What this user tweeted
  
-RT @hazyartworks: 8th #NFT drop from Warline collection is here 
+RT @three_cube: Bug   Bounty Hunting, Part 1: Getting Started #bugbounty #infosec #vulnerabilities #cybersecurity #cyberwarrior
 
-Created by @Meta_History_UA
-Collaboration with @PictoricC
-
-https://t.co/X…
+https://t.…
  
-# RedstarcommandoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1617273419174641667/MyCm-oaG_normal.png)
+# DrugsHackUSER INFO
+![image](http://pbs.twimg.com/profile_images/1617019243794501637/5oF-ci6F_normal.jpg)
  
-`User ScreenName:` Redstarcommando 
+`User ScreenName:` DrugsHack 
  
-`User chosen Name:` James O'Neill 
+`User chosen Name:` Drugs Hack 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 22 21:30:04 +0000 2023 
+`User signup date?:` Sun Jan 22 04:37:33 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `7 
  
 `Following?:` 1 
  
@@ -179,11 +180,11 @@ https://t.co/X…
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 65 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1617273419174641667/MyCm-oaG_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1617019243794501637/5oF-ci6F_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 65 
  
 
  
@@ -191,43 +192,93 @@ https://t.co/X…
  
 ## User Top tweeted words 
  
-**@UKRAINE** 1 , **WATS** 1 , **DA** 1 , **ODDS** 1 , **LONG** 1 , **LAST** 1 , **?** 1 , 
+**CYBERSECURITY** 37 , **INFOSEC** 29 , **SECURITY** 21 , **TECH** 16 , **2** 16 , **1** 15 , **3** 14 , **HACKER** 10 , **HACKED** 10 , **4** 10 , **CYBERATTACK** 9 , **5** 9 , **CYBERSEC** 9 , **HACKING** 8 , **TOOLS** 7 , **2023** 6 , **PYTHON** 6 , **CODING** 5 , **LINUX** 5 , **TOP** 5 , 
  
 ## What this user tweeted
  
-@Ukraine Wats da odds on how long they last ?
+5 Website to improve your front end skill ✅
+#website #Top5
+#coding #infosec #cybersecurity #AI #security… https://t.co/06u2VYjL89CYBER CRIME Vs HACKER 👽🙀
+
+#hacker #blackhat @YourAnonNews @YourAnonOne @BlackHatEvents #coding #infosec… https://t.co/PPgscUefUGSkills Required in Different Sectors 
+
+#cybersecurity #infosec #Python #webdevelopment #coding #Hacked #community… https://t.co/GliTDo9asSBest Tools in Kali Linux 
+
+#Linux #kali #PenTest #infosec #cybersecurity #Hacked #Hacking https://t.co/8AVdkAdt5THow Old is your Language 
+
+#coding #infosec #cybersecurity #AI #security #programming #Web3 #JS #Python #NodeJS… https://t.co/m6XWhLDJobInternet of Things (IOT) Security Challenges 
+
+#iot #CyberAttack #Cybersecurity #infosec #security #Hacked #tech https://t.co/LFFojMMK6LEarn Money Easyestway 2023
+
+#earnings
+#earnmoney #earn2023 #twitter #CyberSecurity #hacker #infosec #Tech… https://t.co/TU2l8VptqzGoogle CEO Sundar pichai Got Hacked🥺
+
+#google #ceo #SundarPichai #hacked #CyberSecurity #hacker #infosec #Tech… https://t.co/FZ5lA4GJvQAwesome GitHub Repo
+
+#github #git #CyberSecurity #hacker #infosec #Tech #opensource #crime #gdpr #cloud… https://t.co/vqfqgS2kRFTypes Of Hacker👽
+
+#CyberSecurity #hacker #infosec #Tech #opensource #crime #gdpr #cloud #cloudsecurity… https://t.co/DVeaiAFwPzRequirements for a Hacking Laptop 
+
+#infosec #cybersecuritytips #cyber #security #cybersecurity #hacker #Hackathon… https://t.co/v020eTE6cJCybersecurity Career Pathway 
+
+#infosec #cybersecurity #security #tech #careeradvice #Careers #tech https://t.co/v8LWkw8ZeCCybersecurity Full Road Map 2023 
+
+#CyberSec #CyberSecurity #cyber #security #InfoSecJobs #infosec https://t.co/Kh5nwvYcPRPhishing vs Vishing 
+
+#fraud #CyberSecurityAwareness #CyberAttack #CyberSecurity #tech #security #infosec #community https://t.co/ZULmIfmxRYCryptography vs Encryption 
+
+#infosec #CyberAttack #security #tech #cybersafety #Crypto #tech #secure… https://t.co/6grzT4TRGI10 Effective Ways of Preventing Insider Threats 
+
+#insider #CyberAttack #infosec #CyberSecurity #security #hacked https://t.co/sav4J0tfPzHow Safe is Your Password 
+
+#Password #infosec #CyberSecurity #Hacked #hacking #CyberAttack #community #security… https://t.co/PXMitR2MDJTop 5 Cybersecurity Myths 
+
+#cybersecurity #infosec #security #tech #Awareness #CyberAttack https://t.co/T3wGh5guBD10 Top OSINT Tools for Hackers 
+
+#infosec #CyberAttack #cybersec #OSINT #Cybersecurity #Hacked https://t.co/03fSagYPfuTop 15 Vulnerability Scanners 
+
+#CyberAttack #cybersec #infosec #cybersecurity #Security #attack #PenTest #Hacked… https://t.co/727okRPZypVishing 
+
+#infosec #cybersecurity #Andriod #ios #mobile #cyberattacks #tech https://t.co/aDBEK0NE0PSocial Engineering 
+
+#CyberSec #infosec #cybersecurity #fraud #Awareness #community #tech #CyberAttack #psychology https://t.co/uVvxYCGcTTPhishing 
+
+#CyberSec #cyberattacks #Hacked #infosec #cybersecurity #security https://t.co/jkaRxAYsP8Data Science Roadmap 
+
+#DataScience #DataAnalytics #tech #Security #infosec #cybersecurity #Python #coding… https://t.co/nl43mhqeeb13 Types of Threats by E-Mail 
+
+#infosec #CyberSec #cybersafety #Security #Cybersecurity #secure https://t.co/AgBbXvP1PfHow a Botnet is used in DDoS
+
+#infosec #DDos #cyberattacks #tech #cybercrime #cybersecurity #Hacked #Hacking… https://t.co/viu34KF0uGTech Jobs Growth Projection (2020-2030)
+
+#CyberSec #cybersecurity #infosec #DataAnalytics #DataScientists #AI #Web3… https://t.co/7vEDIiURCX
  
-# Bholu2SaurabhUSER INFO
-![image](http://pbs.twimg.com/profile_images/1616895296772124673/ueGpEr-9_normal.jpg)
+# reotmaniUSER INFO
+![image](http://pbs.twimg.com/profile_images/1616720226170585088/bVQYNPUE_normal.jpg)
  
-`User ScreenName:` Bholu2Saurabh 
+`User ScreenName:` reotmani 
  
-`User chosen Name:` Sanatani Saurabh Singh 🐊 
+`User chosen Name:` Redouane O. 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 14 12:44:57 +0000 2023 
+`User signup date?:` Sat Jan 21 08:39:25 +0000 2023 
  
-`User Description?:` Proud To Be An Indian 🇮🇳🙏
-
-#Follow me guys old account is suspended 😌
-
-तेरी दहाड से ज्यादा,,, 
-मेरी खामोशी का खौफ है! क्षत्रिय _पुत्र 🦸‍♂️ 
+`User Description?:`  
  
-`Followers?: `108 
+`Followers?: `0 
  
-`Following?:` 139 
+`Following?:` 24 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 197 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1616895296772124673/ueGpEr-9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1616720226170585088/bVQYNPUE_normal.jpg 
  
-`Number of tweets excluding replies:` 399 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -235,80 +286,39 @@ https://t.co/X…
  
 ## User Top tweeted words 
  
-**के** 14 , **में** 12 , **@ANKUTWEEETS** 11 , **@IMUKESHOFFICIAL** 11 , **JAI** 11 , **@RAJESHRB001** 10 , **@THEPROT50878893** 10 , **@BOYCOTTBOLL** 10 , **NAHI** 9 , **HAI** 8 , **की** 8 , **NEVER** 8 , **DAY** 7 , **है** 7 , **@AFFICASM** 7 , **@FILMYKHICHDII** 7 , **और** 7 , **धर्म** 7 , **HAPPY** 6 , **@FUNDAKS7** 6 , 
+**RT** 1 , **@0X0SOJALSEC:** 1 , **THAN** 1 , **100'S** 1 , **PAYLOADS** 1 , **SSRF** 1 , **BYPASS** 1 , **WAF** 1 , **⚔️HTTPS://TCO/TF5PEB59CE** 1 , **INFOSEC** 1 , **CYBERSECURITYTIPS** 1 , **BUGBOUNTYTIPS** 1 , **HT…RT** 1 , **@KASPERSKY:** 1 , **DETECT** 1 , **~144** 1 , **MILLION** 1 , **MALICIOUS** 1 , **FILES** 1 , **PER** 1 , 
  
 ## What this user tweeted
  
-RT @DefenceU: Friends like these are worth more than a squadron of tanks. We are glad to welcome Boris Johnson to Ukraine. A person who has…RT @Ukrainianfree66: Meet Sheikh Said Ismagilov, the former Mufti of the Religious Administration of Muslims of #Ukraine️ the President of…
+RT @0x0SojalSec: More than 100's of payloads for SSRF to bypass WAF ⚔️https://t.co/tf5pEb59CE
+#infosec #cybersecuritytips #bugbountytips ht…
  
-# cordennewsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1617255553113231360/t2h4mkKo_normal.jpg)
+# no0bHaxorUSER INFO
+![image](http://pbs.twimg.com/profile_images/1616035380616384513/-pp7r4nw_normal.png)
  
-`User ScreenName:` cordennews 
+`User ScreenName:` no0bHaxor 
  
-`User chosen Name:` Corden News 
+`User chosen Name:` HeapOverflow 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 19 17:00:02 +0000 2023 
+`User signup date?:` Thu Jan 19 11:30:33 +0000 2023 
  
-`User Description?:` Productora de noticias en televisión/television news producer                                   De Argentina para el mundo 
+`User Description?:`  
  
-`Followers?: `5 
+`Followers?: `2 
  
-`Following?:` 137 
+`Following?:` 19 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 24 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1617255553113231360/t2h4mkKo_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1616035380616384513/-pp7r4nw_normal.png 
  
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 17 , **EN** 13 , **LA** 12 , **EL** 11 , **Y** 5 , **LAS** 4 , **PARA** 4 , **LOS** 4 , **@JAVIPONZO:** 3 , **SE** 3 , **DEL** 3 , **@INFOBAE:** 3 , **POR** 3 , **QUE** 3 , **@CBSNEWS:** 2 , **PRESIDENT** 2 , **@BBCWORLD:** 2 , **UKRAINE** 2 , **GUIÑO** 2 , **DIABLO** 2 , 
- 
-## What this user tweeted
- 
-RT @BBCWorld: Former UK Prime Minister Boris Johnson makes trip to Ukraine https://t.co/dkJ39R23vr
- 
-# swen_ukraineUSER INFO
-![image](http://pbs.twimg.com/profile_images/1614575820734926849/_1yxvSan_normal.jpg)
- 
-`User ScreenName:` swen_ukraine 
- 
-`User chosen Name:` Swen Ukraine 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jan 13 00:23:36 +0000 2023 
- 
-`User Description?:` https://t.co/vhgjcLIpcG
-Free News API
-Please tell me what content you would like to see about news.
-I can build any #NLP #ML #ChatGPT models 
- 
-`Followers?: `6 
- 
-`Following?:` 31 
- 
-`User URL?:` https://t.co/LB8LVjH6td 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1614575820734926849/_1yxvSan_normal.jpg 
- 
-`Number of tweets excluding replies:` 658 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -316,12 +326,15 @@ I can build any #NLP #ML #ChatGPT models
  
 ## User Top tweeted words 
  
-**@SWEN_UKRAINE:** 94 , **ARTICLE** 94 , **WAR** 88 , **UKRAINE** 51 , **?DID** 47 , **?RT** 47 , **RUSSIAN** 28 , **PHASE** 23 , **NEWS** 23 , **TANKS** 21 , **LATEST:** 21 , **SKY** 21 , **LATEST** 21 , **MAPS** 20 , **BEFORE** 18 , **DEAD** 17 , **HELICOPTER** 16 , **AFTER** 16 , **DAILY** 15 , **NEW** 14 , 
+**"TARGET[]COM"** 2 , **H8MAIL** 2 , **RT** 1 , **@TAKSEC:** 1 , **GOOGLE** 1 , **DORKS** 1 , **CLOUD** 1 , **STORAGE:** 1 , **SITE:HTTPS://TCO/CI8TRAUGE5** 1 , **SITE:HTTPS://TCO/HLODV2F9HC** 1 , **SITE:HTT…RT** 1 , **@THREE_CUBE:** 1 , **OPEN** 1 , **SOURCE** 1 , **INTELLIGENCE** 1 , **(OSINT):** 1 , **FINDING** 1 , **EMAIL** 1 , **PASSWORDS** 1 , **DUMPS** 1 , 
  
 ## What this user tweeted
  
-Opinion | A Brutal New Phase of Putin’s Terrible War in Ukraine - The New York Times
-#mr #ukrainians #brutal #putin… https://t.co/T2ITHioYjN
+RT @TakSec: Google Dorks - Cloud Storage:
+
+site:https://t.co/ci8trAUge5 "target[.]com"
+site:https://t.co/HlodV2F9hc "target[.]com"
+site:htt…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
