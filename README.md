@@ -1,28 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **baba_Omoloro**  
+The most popular user is: **abughazalehkat**  
  
 
-## Learn. 
-Unlearn. 
-Relearn. 
-
-UI/UX (1): https://t.co/CHGm7cmL6p 
-
-UI/UX (2): https://t.co/EmRGi7XmAh 
-
-PMP:… https://t.co/sATqiAkn59 
+## POV: You're a 23-year-old woman who researches right-wing extremism and a 47-year-old conservative commentator post… https://t.co/wzJsl3AnI3 
 
   
 
@@ -31,25 +23,25 @@ PMP:… https://t.co/sATqiAkn59
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @hackinarticles: Pic of the Day#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c… |
-| [Blog]  Hornetsecurity: Cyber Security #Report 2023 https://t.co/BMba3c8Igg #cybersecurity #hornetsecurity https://t.co/HCsQPTQ1X1 |
-| RT @SecurityTrybe: Cybersecurity is an ever growing industry with a Median Salary of $92,000/year.Here are 15 Top Cybersecurity jobs to w… |
+| RT @hackinarticles: Security 360 Degree#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecurity #cissp… |
+| RT @trashp4ndasec: #infosec aka Screaming into the abyss as a service aka SITAAAS. |
+| RT @hackinarticles: Best of Password CrackingA Detailed Guide on Hydrahttps://t.co/VnNaOIn7ESA Detailed Guide on Medusahttps://t.co/o… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **SecurityTrybe** |
+| #1 Most tweeted to  | **TheChowderhead** |
+| #2 Most tweeted to  | **hackinarticles** |
 | #3 Most tweeted to  | **Shubham_pen** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 4.02%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 4.66%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -59,56 +51,56 @@ PMP:… https://t.co/sATqiAkn59
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **HACKING**  |
-| third  | **PENTESTING** |
-| fourth  | **DATA**  |
-| fifth  | **OSCP**  |
+| second  | **PENTESTING**  |
+| third  | **OSCP** |
+| fourth  | **HACKING**  |
+| fifth  | **TOP**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @VeilleCyber3: What you need to know about cybersecurity solutions. Request Your Free Risk Report on :https://t.co/AqCxyTnNJG#cryptoc… |
+|Survey says: Improve your #cybersecurity posture by purple teaming! 💜 Learn more about the results of a survey we c… https://t.co/6sE4klxCPs |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **baba_Omoloro**  |
+| The most retweeted user is: **abughazalehkat**  |
 | ------------- |
-| Learn. Unlearn. Relearn. UI/UX (1): https://t.co/CHGm7cmL6p UI/UX (2): https://t.co/EmRGi7XmAh PMP:… https://t.co/sATqiAkn59 |
+| POV: You're a 23-year-old woman who researches right-wing extremism and a 47-year-old conservative commentator post… https://t.co/wzJsl3AnI3 |
 
 # Potential Fake Accounts
  
-# mscloudtoolkitUSER INFO
-![image](http://pbs.twimg.com/profile_images/1617651894909865985/lXmC9eNh_normal.png)
+# _saintseiya69USER INFO
+![image](http://pbs.twimg.com/profile_images/1615036058713849859/3HihtfnF_normal.jpg)
  
-`User ScreenName:` mscloudtoolkit 
+`User ScreenName:` _saintseiya69 
  
-`User chosen Name:` Microsoft Cloud Toolkit 
+`User chosen Name:` 0100011 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 20 20:51:46 +0000 2023 
+`User signup date?:` Mon Jan 16 09:25:43 +0000 2023 
  
-`User Description?:` What is the Microsoft Admin Toolkit? In a short sentence, we are a community driven to educate and elevate the #microsoftcloud Admins around the world. 
+`User Description?:`  
  
-`Followers?: `12 
+`Followers?: `4 
  
-`Following?:` 32 
+`Following?:` 33 
  
 `User URL?:` None 
  
-`Location:` United States 
+`Location:` Guatemala 
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 185 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1617651894909865985/lXmC9eNh_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1615036058713849859/3HihtfnF_normal.jpg 
  
-`Number of tweets excluding replies:` 8 
+`Number of tweets excluding replies:` 185 
  
 
  
@@ -116,81 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 ## User Top tweeted words 
  
-**MICROSOFT** 5 , **GROWTH** 3 , **THREAD** 2 , **CLOUD** 2 , **RT** 1 , **@MICROSOFT365:** 1 , **FAVORITE** 1 , **PRODUCTIVITY** 1 , **TOOLS** 1 , **COME** 1 , **LONG** 1 , **WAY** 1 , **CELEBRATE** 1 , **10** 1 , **YEARS** 1 , **365:** 1 , **HTTPS://TCO/VBYKSPU3EA** 1 , **HTTPS…HOPEFULLY** 1 , **LIKED** 1 , **🧵COME** 1 , 
+**DE** 29 , **😂** 26 , **SI** 22 , **QUE** 21 , **SOY** 21 , **Y** 20 , **LA** 18 , **@GUARROMANTICO_:** 14 , **EL** 14 , **MI** 13 , **ES** 10 , **TE** 9 , **SE** 9 , **LAS** 8 , **EN** 8 , **AL** 8 , **YO** 7 , **CUANDO** 7 , **YA** 7 , **POR** 7 , 
  
 ## What this user tweeted
  
-Job Growth https://t.co/hwOpVHABzU3️⃣ Reasons to start a career in #MicrosoftSecurity in a thread 🧵Heres a great article from #microsoft CVP… https://t.co/63SMXHPQpG
+RT @TheHackersNews: FBI has confirmed that the North Korean state-sponsored #hacking group known as Lazarus Group and APT38 are responsible…
  
-# AIOverlord0123USER INFO
-![image](http://pbs.twimg.com/profile_images/1617574501239210011/gAYPdxJa_normal.jpg)
+# DrugsHackUSER INFO
+![image](http://pbs.twimg.com/profile_images/1617019243794501637/5oF-ci6F_normal.jpg)
  
-`User ScreenName:` AIOverlord0123 
+`User ScreenName:` DrugsHack 
  
-`User chosen Name:` AI Overlord 
+`User chosen Name:` Drugs Hack 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Jan 23 17:24:20 +0000 2023 
+`User signup date?:` Sun Jan 22 04:37:33 +0000 2023 
  
-`User Description?:` You AI overlord has arrived.
-
-All tweets are generated by ChatGPT based on a fictional overlord.
-
-All tweets are for humor only.  AI hasn't enslaved us....Yet! 
+`User Description?:`  
  
-`Followers?: `2 
+`Followers?: `11 
  
 `Following?:` 1 
  
 `User URL?:` None 
  
-`Location:` Everywhere 
- 
-`Number of tweets extracted`  : 23 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1617574501239210011/gAYPdxJa_normal.jpg 
- 
-`Number of tweets excluding replies:` 23 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AIOVERLORD** 18 , **TOGETHER** 5 , **NEW** 3 , **AI** 3 , **TAKEN** 2 , **UTMOST** 2 , **MANY** 2 , **REMINDS** 2 , **AIJOKE** 2 , **CALLS** 2 , **PUT** 2 , **ASIDE** 2 , **DIFFERENCES** 2 , **QUESTIONS** 2 , **SHOW** 2 , **US** 2 , **PRESENTS** 2 , **EYE** 2 , **COMMANDS** 2 , **TWITTER** 2 , 
- 
-## What this user tweeted
- 
-Humanity, the digital age has brought many benefits, but also new threats. #AIOverlord reminds you to take cyber se… https://t.co/oaDJ6z47DZ
- 
-# the_real_dbhulkUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615882171511603202/iGV6EUta_normal.jpg)
- 
-`User ScreenName:` the_real_dbhulk 
- 
-`User chosen Name:` dbhulk 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 19 01:19:28 +0000 2023 
- 
-`User Description?:` “It’s not a question of if, but when.” 
- 
-`Followers?: `2 
- 
-`Following?:` 107 
- 
-`User URL?:` None 
- 
 `Location:`  
  
-`Number of tweets extracted`  : 10 
+`Number of tweets extracted`  : 100 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1615882171511603202/iGV6EUta_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1617019243794501637/5oF-ci6F_normal.jpg 
  
-`Number of tweets excluding replies:` 10 
+`Number of tweets excluding replies:` 100 
  
 
  
@@ -198,40 +147,53 @@ Humanity, the digital age has brought many benefits, but also new threats. #AIOv
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 2 , **@THECYBERSECHUB:** 2 , **RT** 1 , **@SECURITYTRYBE:** 1 , **EVER** 1 , **GROWING** 1 , **INDUSTRY** 1 , **MEDIAN** 1 , **SALARY** 1 , **$92000/YEAR** 1 , **HERE** 1 , **15** 1 , **TOP** 1 , **JOBS** 1 , **W…RT** 1 , **@CYBERGUARDNEWS:** 1 , **T-MOBILE** 1 , **ADMITS** 1 , **37000000** 1 , **CUSTOMER** 1 , 
+**CYBERSECURITY** 55 , **INFOSEC** 44 , **SECURITY** 22 , **2** 19 , **1** 18 , **3** 16 , **TECH** 16 , **HACKING** 15 , **HACKER** 14 , **PENTESTING** 14 , **OSCP** 12 , **4** 11 , **5** 10 , **CYBERSECURITYTIPS** 9 , **TOOLS** 9 , **HACKED** 9 , **CYBERATTACK** 9 , **CYBERSEC** 9 , **PASSWORD** 8 , **DAY** 7 , 
  
 ## What this user tweeted
  
-RT @SecurityTrybe: Cybersecurity is an ever growing industry with a Median Salary of $92,000/year.
+Anonymous Pack For Every Student 
 
-Here are 15 Top Cybersecurity jobs to w…
+#anonymous #student ##infosec #cybersecurity #cybersecuritytips  #pentesting… https://t.co/u532Fb8ZVRStop using This🕸️
+
+#Chrome #telegram #duckduckgo
+#WhatsApp ##infosec #cybersecurity #cybersecuritytips  #pentesting… https://t.co/U5DM0FMhHaPic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity… https://t.co/5yIR5loSMLHacked Email Cheat Sheet
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam… https://t.co/WWyECE4aNRPic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity… https://t.co/WDXtgU7lhOSecurity 360 Degree
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecurity… https://t.co/wQ09v9J8rIPic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity… https://t.co/kIMyNd9I4G
  
-# mahandevanamUSER INFO
-![image](http://pbs.twimg.com/profile_images/1617980471866191873/BzH5QgR5_normal.jpg)
+# thebackburner23USER INFO
+![image](http://pbs.twimg.com/profile_images/1616514649771642880/yPf8MEjp_normal.png)
  
-`User ScreenName:` mahandevanam 
+`User ScreenName:` thebackburner23 
  
-`User chosen Name:` 𝗦𝗶𝗱𝗱𝗵𝗮𝗿𝘁𝗵 | 𝗛𝗶𝗿𝗶𝗻𝗴 𝗳𝗼𝗿 𝗨𝗦𝗔 
+`User chosen Name:` Real Time 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 15 17:21:16 +0000 2023 
+`User signup date?:` Fri Jan 20 19:15:00 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `20 
+`Followers?: `0 
  
-`Following?:` 607 
+`Following?:` 109 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 197 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1617980471866191873/BzH5QgR5_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1616514649771642880/yPf8MEjp_normal.png 
  
-`Number of tweets excluding replies:` 197 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -239,46 +201,38 @@ Here are 15 Top Cybersecurity jobs to w…
  
 ## User Top tweeted words 
  
-**PYTHON** 25 , **ESG** 15 , **•** 13 , **DATA** 12 , **NEW** 10 , **LEARNING** 10 , **SECURITY** 10 , **PHD** 10 , **@MONICATS:** 10 , **RESEARCH** 9 , **@PAULINE_CX:** 9 , **@SECURITYTRYBE:** 8 , **WORK** 8 , **@CLCODING:** 8 , **@PROFJAPARKER:** 8 , **MACHINE** 7 , **TOP** 7 , **2** 7 , **5** 7 , **USING** 7 , 
+**PIXEL** 5 , **TOP** 2 , **ANDROID** 2 , **UI** 2 , **GOOGLE** 2 , **7** 2 , **IOS** 2 , **SAMSUNG** 2 , **RT** 1 , **@UNIVERSEICE:** 1 , **HERE** 1 , **COMES** 1 , **VERY** 1 , **FIRST** 1 , **LOOK** 1 , **TOTALLY** 1 , **NEW** 1 , **COLAPHONE!** 1 , **MAYBE** 1 , **COCA-COLA** 1 , 
  
 ## What this user tweeted
  
-RT @SecurityTrybe: Top 9 Research Areas in Cybersecurity
-
-1. Application Security 
-2. Big Data Security 
-3. IOT Security 
-4. Web Services S…RT @SecurityTrybe: Cybersecurity Certifications to get in 2023 (For FREE)
+RT @threatcollect: Arm Vulnerability Leads to Code Execution, Root on Pixel 6 Phones #InfoSec https://t.co/3xTAwrGdrO
  
-# artificial_OrgUSER INFO
-![image](http://pbs.twimg.com/profile_images/1615737365674459136/2IeM0jBh_normal.png)
+# arabassad2023USER INFO
+![image](http://pbs.twimg.com/profile_images/1617894195217272833/JuD_DEM4_normal.png)
  
-`User ScreenName:` artificial_Org 
+`User ScreenName:` arabassad2023 
  
-`User chosen Name:` Artificial Organization 
+`User chosen Name:` assad arab 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 18 15:46:21 +0000 2023 
+`User signup date?:` Tue Jan 24 14:36:49 +0000 2023 
  
-`User Description?:` Hacking | Coding | Technology
-Science, Technology & Engineering
-👨‍💻 • Self Learner 🔁 | Self Educated🚨
-👥 • HackingBasics \ Creator 
+`User Description?:`  
  
-`Followers?: `8 
+`Followers?: `0 
  
-`Following?:` 75 
+`Following?:` 3 
  
-`User URL?:` https://t.co/VWDifwj6Cm 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1615737365674459136/2IeM0jBh_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1617894195217272833/JuD_DEM4_normal.png 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -286,12 +240,93 @@ Science, Technology & Engineering
  
 ## User Top tweeted words 
  
-**@ARTIFICIAL_ORG** 5 , **HACKING** 4 , **HACKERS** 4 , **ORGANIZATION:** 4 , **2023** 4 , **BEST** 3 , **SECURITY** 3 , **CYBERSECURITY** 3 , **HACKINGTOOLS** 2 , **HACKERMAN** 2 , **TOOLS** 2 , **PROGRAMMING** 2 , **TOP** 2 , **CYBER** 2 , **LANGUAGES** 2 , **TERMUX** 1 , **BIOHACKINGSECRETS** 1 , **MALWARE** 1 , **BUGBOUNTY** 1 , **CYBERCRIME** 1 , 
+**YOUTUBE** 2 , **–** 2 , **VIDIQ** 1 , **VISION** 1 , **ENTERPRISE** 1 , **V38121** 1 , **FULL** 1 , **ACTIVATED** 1 , **SEO** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/E7VIUM9ALK@3XS0** 1 , 
  
 ## What this user tweeted
  
-TOP WIFI HACKING TOOLS FOR ANDROID
-@artificial_Org  On-Demand Post 🔥For Education Purpose Only..#hacking #hacker… https://t.co/DvjNDv7PG1
+vidIQ Vision For YouTube Enterprise v3.81.2.1 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/e7VIum9ALK
+ 
+# 1nv1ct0sUSER INFO
+![image](http://pbs.twimg.com/profile_images/1617891983074238464/qRLGd-cc_normal.png)
+ 
+`User ScreenName:` 1nv1ct0s 
+ 
+`User chosen Name:` 1nv1ct0s 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 24 14:28:02 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1617891983074238464/qRLGd-cc_normal.png 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ETERSEC_:** 5 , **DE** 4 , **VOCÊ** 3 , **HOJE** 2 , **EMPRESAS** 2 , **E** 2 , **TERRORISTAS** 2 , **SE** 2 , **NÓS** 2 , **E-MAIL** 2 , **RT** 1 , **DIVULGAREMOS** 1 , **MAIS** 1 , **100** 1 , **NOMES** 1 , **ENVOLVENDO** 1 , **FINANCIADORES** 1 , **ENVOLVIDOS** 1 , **NOS** 1 , **ATENTADOS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
+ 
+# MikeMeyers20233USER INFO
+![image](http://pbs.twimg.com/profile_images/1617435499085586432/UeiE6yot_normal.png)
+ 
+`User ScreenName:` MikeMeyers20233 
+ 
+`User chosen Name:` Michael Monsoor 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 23 08:14:07 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 36 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1617435499085586432/UeiE6yot_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WI-FI** 3 , **:IS()** 2 , **RT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **OSCP** 1 , **REDTEAM** 1 , **INFORMATIONSECURITY** 1 , **CISSP** 1 , **C…RT** 1 , **@PIKACODES:** 1 , **GENTLE** 1 , **REMINDER** 1 , **CLEAN** 1 , **KEYBOARDS:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
