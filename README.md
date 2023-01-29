@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **buitengebieden**  
+The most popular user is: **AbuseIPDB_bot**  
  
 
-## Well done kitty.. 😊 https://t.co/3yoQg3kDHO 
+## IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **buitengebieden**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @0xor0ne: A must read blog post by @andreyknvl for learning Linux kernel networking internals, fuzzing and syzkaller:https://t.co/9QQv… |
-| @irfaanshakeel Hey Irfan can I DM you on an infosec insight?Thanks. |
-| RT @DrugsHack: Hacking Lover#kalilinux #pentesting #pentester #ciberseguridad#cybersecurity #tecnologia #hackers #hacking#ethicalhackin… |
+| Newly observed #phishing website#infosec #cybersecurity #scam #threatintelURL: hxxps://mail[.]dontforgettoeat-fo… https://t.co/BlYgz0d0mS |
+| RT @CyberIQs_: 4 important vulnerabilities patched in VMware vRealize Log Insight #infosec #infosecurity #cybersecurity #threatintel #threa… |
+| RT @Malwar3Ninja: [https://t.co/otlIKKsWhQ] 🕵️‍♂️Malware #Vidar using #TikTok as C2⚙️https://t.co/iFCLH361fP⚠️ C2: 95.216.178[.]160#Th… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **three_cube** |
-| #3 Most tweeted to  | **0x0SojalSec** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 4.5%|
+| #1 Most tweeted to  | **noladefense** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **Malwar3Ninja** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 0.99%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,173 +50,30 @@ The most popular user is: **buitengebieden**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **HACKING** |
-| fourth  | **OSCP**  |
-| fifth  | **LINUX**  |
+| first  | **THREATINTEL**  |
+| second  | **INFOSEC**  |
+| third  | **PHISHING** |
+| fourth  | **WEBSITE**  |
+| fifth  | **OBSERVED**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (57.14%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (28.57%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NSConclave: All good things come to an end one day, but the story never ends. “It’s time to appreciate the speakers”#NSConclave2023… |
+|RT @DailyOsint: Search engine mind maphttps://t.co/uUWKZRkBDQ@hackinarticles#OSINT #BugBounty #investigation #intelligence #mindmap #… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **buitengebieden**  |
+| The most retweeted user is: **AbuseIPDB_bot**  |
 | ------------- |
-| Well done kitty.. 😊 https://t.co/3yoQg3kDHO |
+| IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb |
 
 # Potential Fake Accounts
- 
-# DrugsHackUSER INFO
-![image](http://pbs.twimg.com/profile_images/1617019243794501637/5oF-ci6F_normal.jpg)
- 
-`User ScreenName:` DrugsHack 
- 
-`User chosen Name:` Drugs Hack 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 22 04:37:33 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `14 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 140 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1617019243794501637/5oF-ci6F_normal.jpg 
- 
-`Number of tweets excluding replies:` 140 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 75 , **INFOSEC** 55 , **SECURITY** 28 , **PENTESTING** 25 , **1** 24 , **2** 24 , **HACKING** 23 , **3** 19 , **TECH** 17 , **HACKER** 16 , **OSCP** 15 , **CYBERSECURITYTIPS** 14 , **4** 13 , **ANONYMOUS** 13 , **5** 12 , **HACKERS** 12 , **HACKED** 12 , **PYTHON** 11 , **CYBERSEC** 11 , **STUDENT** 10 , 
- 
-## What this user tweeted
- 
-Hacking Lover Follow Me ❤️
-
-#kalilinux #pentesting #pentester #ciberseguridad
-#cybersecurity #tecnologia #hackers… https://t.co/wDkffgXEtoJob Domain in Cyber Security
-
-#kalilinux #pentesting #pentester #ciberseguridad
-#cybersecurity #tecnologia #hackers… https://t.co/OiUJvdSIZg7 Things Hackers Use IP Address For: 
-
-#CyberSecurity #cyberattacks #tech #infosec #Hacked #hacking #Cyber https://t.co/vbAz5PtGeFHacking Lover
-
-#kalilinux #pentesting #pentester #ciberseguridad
-#cybersecurity #tecnologia #hackers #hacking… https://t.co/b7VlDUl6pJI Love mY Space 
-
-#kalilinux #pentesting #pentester #ciberseguridad
-#cybersecurity #tecnologia #hackers #hacking… https://t.co/m1bTVugTpVDream 🥰
-#kalilinux #pentesting #pentester #ciberseguridad
-#cybersecurity #tecnologia #hackers #hacking… https://t.co/RyhNNLnL1V
- 
-# anti_sainteUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619514348304748544/ZOKgNDBM_normal.jpg)
- 
-`User ScreenName:` anti_sainte 
- 
-`User chosen Name:` sainte 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 29 01:54:28 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619514348304748544/ZOKgNDBM_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@0XOR0NE:** 1 , **REMINDER** 1 , **FEW** 1 , **GREAT** 1 , **TOOLS** 1 , **FIRMWARE** 1 , **UNPACKING** 1 , **REPACKING** 1 , **ANALYSIS** 1 , **BINWALK:** 1 , **HTTPS://TCO/TGVF2SCKXG** 1 , **EMBA:** 1 , **HT…RT** 1 , **@AACLE_:** 1 , **PENETESTING/BUG** 1 , **BOUNTY** 1 , **MINDMAP** 1 , **HTTPS://TCO/DKIDOLSZ46RT** 1 , **@HACKINARTICLES:** 1 , 
- 
-## What this user tweeted
- 
-RT @0xor0ne: Just a reminder of a few great tools for firmware unpacking, repacking and
-analysis
-
-binwalk: https://t.co/tGVf2sCKxG
-EMBA: ht…RT @hackinarticles: Search Engine for Pentester
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecurity…
- 
-# AbbaAbdulshamadUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619488291044167680/bCe1dVGB_normal.jpg)
- 
-`User ScreenName:` AbbaAbdulshamad 
- 
-`User chosen Name:` Abdulshamad Yunusa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 29 00:11:11 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 291 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619488291044167680/bCe1dVGB_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@DAVIDBOMBAL:** 1 , **HACKED** 1 , **BILLIONAIRE** 1 , **BANK** 1 , **COULD** 1 , **NEXT** 1 , **PROTECT** 1 , **YOURSELF!** 1 , **YOUTUBE** 1 , **VIDEO:** 1 , **HTTPS://TC…RT** 1 , **@ELONMUSK:** 1 , **HTTPS://TCO/FQWMKUM8YBRT** 1 , **@BBCHAUSA:** 1 , **HTTPS://TCO/AWZA2QZUEKRT** 1 , **@OFFICIALDEEZELL:** 1 , **I’M** 1 , **TEACHING** 1 , **GUYS** 1 , 
- 
-## What this user tweeted
- 
-RT @davidbombal: She hacked a billionaire, a bank ... and you could be next. 
-
-Do this now to protect yourself!
-
-YouTube video: https://t.c…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
