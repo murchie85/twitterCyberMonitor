@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **RnaudBertrand**  
+The most popular user is: **SecurityTrybe**  
  
 
-## Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 
+## Cybersecurity Certifications to get in 2023 (For FREE) 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **RnaudBertrand**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ledbettercarly: Highlights include: • 12.66 million COVID-19 vaccines in partnership w/ Global Citizen • 174,497 Afghans &amp; Ukrainian… |
-| @seanhannity If I was Putin and saw that the U.S. was seriously depleting their weapons and equipment by sending th… https://t.co/PjQiheBDwl |
-| RT @RonFilipkowski: Junior reveals that his dad’s plan to end the war is to force Ukraine to the negotiating table with Russia by cutting o… |
+| RT @SecurityTrybe: HTTPS vs HTTP ( Security always makes a world of difference) #secure #security #cybersecurity https://t.co/zGrI62cPz0 |
+| RT @SecurityTrybe: MIT and IBM are offering FREE Online courses on #Cybersecurity and #DataScience on edXHere are 7 FREE Courses to add t… |
+| RT @JinibaBD: 🚨⚠️🚨 The Godfather #Banking Trojan Expands Application Targeting to Affect More #Europe -Based Victims‼️ #Phishing #ransomwar… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JackPosobiec** |
-| #2 Most tweeted to  | **ukrainiansquad** |
-| #3 Most tweeted to  | **RonFilipkowski** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 6.72%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **three_cube** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 5.52%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -50,89 +50,47 @@ The most popular user is: **RnaudBertrand**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **RUSSIA** |
-| fourth  | **US**  |
-| fifth  | **TANKS**  |
+| first  | **INFOSEC**  |
+| second  | **@SECURITYTRYBE:**  |
+| third  | **PENTESTING** |
+| fourth  | **HACKING**  |
+| fifth  | **DATASCIENCE**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SlavaUk30722777: 🇺🇦Ukraine! Holy mother of heroesCome down to my heart❤️ https://t.co/4tj7GrV3LX |
+|This in particular blew my mind &gt; from mid-2020 through 2021, 82% of healthcare systems reported a cyber incident… https://t.co/9sGMgyWH1L |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RnaudBertrand**  |
+| The most retweeted user is: **SecurityTrybe**  |
 | ------------- |
-| Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 |
+| Cybersecurity Certifications to get in 2023 (For FREE) |
 
 # Potential Fake Accounts
  
-# symplygabrielUSER INFO
-![image](http://pbs.twimg.com/profile_images/1617117913374236673/KKnacVg4_normal.jpg)
+# Joe_CodezUSER INFO
+![image](http://pbs.twimg.com/profile_images/1619804093693788160/F_AG-_1Z_normal.png)
  
-`User ScreenName:` symplygabriel 
+`User ScreenName:` Joe_Codez 
  
-`User chosen Name:` Gabriel Lec 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 22 11:12:09 +0000 2023 
- 
-`User Description?:` Animateur en Technologies de l’Information et de la Communication, Assistant Informatique et Internet 
-#Nostr
-99ec46c1776f89a465c970210322df0d9f9cadfa71f314 
- 
-`Followers?: `16 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1617117913374236673/KKnacVg4_normal.jpg 
- 
-`Number of tweets excluding replies:` 901 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 68 , **LA** 37 , **À** 32 , **@RAINMAKER1973:** 31 , **LE** 23 , **LES** 22 , **@OMERTA_OFFICIEL:** 19 , **UN** 18 , **DES** 17 , **EN** 16 , **ET** 15 , **POUR** 15 , **EST** 14 , **QUI** 12 , **QUE** 12 , **SUR** 12 , **@E2VILLIERS:** 11 , **BITCOIN** 8 , **SE** 8 , **PAS** 8 , 
- 
-## What this user tweeted
- 
-Survey of opinion  #France #war #russia #Ukraine ? YouTube https://t.co/0WbV9IxdWW 
-#OMERTA
- 
-# BooselRUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` BooselR 
- 
-`User chosen Name:` Ron Boosel 
+`User chosen Name:` Joe McKinney 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 27 01:59:24 +0000 2023 
+`User signup date?:` Sun Jan 29 21:06:04 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `2 
+`Followers?: `1 
  
-`Following?:` 41 
+`Following?:` 3 
  
 `User URL?:` None 
  
@@ -140,7 +98,7 @@ Survey of opinion  #France #war #russia #Ukraine ? YouTube https://t.co/0WbV9Ixd
  
 `Number of tweets extracted`  : 4 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1619804093693788160/F_AG-_1Z_normal.png 
  
 `Number of tweets excluding replies:` 4 
  
@@ -150,40 +108,38 @@ Survey of opinion  #France #war #russia #Ukraine ? YouTube https://t.co/0WbV9Ixd
  
 ## User Top tweeted words 
  
-**US** 2 , **YOU’RE** 2 , **BLACK** 2 , **RT** 1 , **@REPMTG:** 1 , **PROXY** 1 , **WAR** 1 , **RUSSIA** 1 , **UKRAINE** 1 , **(A** 1 , **NON-NATO** 1 , **NATION)** 1 , **BENEFITS** 1 , **CHINA** 1 , **MOST** 1 , **CONTINUE** 1 , **HURT** 1 , **AN…RT** 1 , **@JIM_JORDAN:** 1 , **MAYBE** 1 , 
+**@TECHCRUNCH:** 2 , **@THEHACKERSNEWS:** 2 , **MALWARE** 2 , **NEW** 2 , **RT** 1 , **GOOGLE** 1 , **CREATED** 1 , **AI** 1 , **GENERATE** 1 , **MUSIC** 1 , **TEXT** 1 , **DESCRIPTIONS** 1 , **WON'T** 1 , **RELEASE** 1 , **HTTPS://TCO/V67RKIXPVA** 1 , **@KYLE_…RT** 1 , **MISSED** 1 , **THURSDAY'S** 1 , **EPISODE** 1 , **@CHAIN_REACTION** 1 , 
  
 ## What this user tweeted
  
-RT @RepMTG: The US proxy war with Russia, in Ukraine (a non-NATO nation), benefits China the most.
-
-It will only continue to hurt the US an…
+RT @TheHackersNews: Gootkit #malware continues to evolve and become more sophisticated, with notable changes to the toolkit, adding new com…RT @TheHackersNews: Ukraine is under attack from a new Golang-based data wiper #malware called "SwiftSlicer." The attackers have been ident…
  
-# KrasnosokAnnaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619841425620738050/oxEWqUOG_normal.png)
+# coresecuritymenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1618953780501913600/aIpgWE_c_normal.png)
  
-`User ScreenName:` KrasnosokAnna 
+`User ScreenName:` coresecuritymen 
  
-`User chosen Name:` Анна Краснощок 
+`User chosen Name:` Yanki C. 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 29 23:34:25 +0000 2023 
+`User signup date?:` Fri Jan 27 12:47:14 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 29 
+`Following?:` 24 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 54 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1619841425620738050/oxEWqUOG_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1618953780501913600/aIpgWE_c_normal.png 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 54 
  
 
  
@@ -191,22 +147,62 @@ It will only continue to hurt the US an…
  
 ## User Top tweeted words 
  
-**HI** 1 , **L'M** 1 , **ANNA** 1 , **L** 1 , **UKRAINE** 1 , **HTTPS://TCO/FJEYBX6F1X** 1 , 
+**@YANIVZADOK:** 33 , **@AKAMAI** 13 , **לא** 6 , **LEARN** 6 , **AKAMAI** 5 , **APPLY** 5 , **כל** 4 , **את** 4 , **ZEROTRUST** 4 , **WHERE** 4 , **TALK** 4 , **HERE:** 4 , **של** 3 , **PROTECT** 3 , **NETWORK** 3 , **ACCESS** 3 , **READ** 3 , **EDITION** 3 , **TOP-OF-MIND** 3 , **ISSUES** 3 , 
  
 ## What this user tweeted
  
-Hi l'm Anna l from Ukraine https://t.co/fJEYBX6f1X
+RT @Yanivzadok: It’s time to shut down #ransomware. Start by strengthening your defenses beyond the perimeter. Download the five-step ebook…RT @Yanivzadok: In this edition, we talk about top-of-mind issues in the #ecommerce industry in India. Learn more. @Akamai #cybersecurity h…RT @Yanivzadok: In this edition, we talk about top-of-mind issues in the #ecommerce industry in the ANZ region. Learn more. @Akamai #cybers…RT @Yanivzadok: In this edition, we talk about top-of-mind issues in the #ecommerce industry in the ASEAN region. Learn more. @Akamai #cybe…RT @Yanivzadok: Following the Ticketmaster #bot debacle, @Akamai's CEO and Co-Founder, @TomLeightonAKAM, discusses how Akamai's bot managem…
  
-# AleksandrGdeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619802670587420673/Z6s-_U2L_normal.png)
+# kdub756USER INFO
+![image](http://pbs.twimg.com/profile_images/1619813721093668864/xVs3kj-P_normal.png)
  
-`User ScreenName:` AleksandrGde 
+`User ScreenName:` kdub756 
  
-`User chosen Name:` Antonio Margareti 
+`User chosen Name:` Kevin Walker 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 29 21:00:25 +0000 2023 
+`User signup date?:` Sun Jan 29 21:44:20 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1619813721093668864/xVs3kj-P_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ACERESPONDER:** 3 , **THREAT** 2 , **RT** 1 , **NEW** 1 , **MODULE** 1 , **UP!** 1 , **TIME** 1 , **USE** 1 , **MANAGEENGINE** 1 , **CVE-2022-47966** 1 , **EXPLORE** 1 , **WINDOWS** 1 , **WEBSERVER** 1 , **COMPROMISE** 1 , **PRACTICE** 1 , **SOM…RT** 1 , **HUNTING** 1 , **MODULES** 1 , **SPLIT** 1 , **TWO** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ACEResponder: New module is up! This time we use ManageEngine CVE-2022-47966 to explore a Windows webserver compromise and practice som…RT @ACEResponder: Just figured out the @Horizon3Attack vRealize Log Insight exploit lol
+Incoming guided threat hunt + signatures before the…
+ 
+# MarcelgabrielLUSER INFO
+![image](http://pbs.twimg.com/profile_images/1619804329510162438/Lz-7vrUQ_normal.jpg)
+ 
+`User ScreenName:` MarcelgabrielL 
+ 
+`User chosen Name:` Marcelgabriel Luca 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 29 21:05:01 +0000 2023 
  
 `User Description?:`  
  
@@ -218,51 +214,11 @@ Hi l'm Anna l from Ukraine https://t.co/fJEYBX6f1X
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 22 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1619802670587420673/Z6s-_U2L_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1619804329510162438/Lz-7vrUQ_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@RAYANANAS__** 1 , **@YAZID_M13** 1 , **UKRAINE** 1 , **EVER** 1 , **ATTACKED** 1 , **FOREIGN** 1 , **COUNTRIES?** 1 , **IRAN** 1 , **CENTER** 1 , **TERRORISM** 1 , **ISRAEL** 1 , **MAK…** 1 , **HTTPS://TCO/7GHDCVFSJA** 1 , 
- 
-## What this user tweeted
- 
-@Rayananas__ @yazid_m13 Has Ukraine ever attacked foreign countries? Iran is the center of terrorism and Israel mak… https://t.co/7GhdCVfSjA
- 
-# tweetetoujoursUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619403636915699713/Cl3cvFQ2_normal.jpg)
- 
-`User ScreenName:` tweetetoujours 
- 
-`User chosen Name:` Oh ! Qui tweete toujours ? 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 28 18:30:07 +0000 2023 
- 
-`User Description?:` J'attends la fin du monde et je sens que je n'aurai pas besoin de m'armer de patience...
-#MacronEstUnFasciste 
- 
-`Followers?: `7 
- 
-`Following?:` 65 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 136 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619403636915699713/Cl3cvFQ2_normal.jpg 
- 
-`Number of tweets excluding replies:` 137 
+`Number of tweets excluding replies:` 22 
  
 
  
@@ -270,77 +226,40 @@ Hi l'm Anna l from Ukraine https://t.co/fJEYBX6f1X
  
 ## User Top tweeted words 
  
-**DE** 84 , **LA** 70 , **LES** 61 , **LE** 54 , **À** 36 , **QUE** 33 , **ET** 31 , **EN** 31 , **DES** 29 , **DU** 25 , **UN** 23 , **UNE** 23 , **PAS** 23 , **EST** 21 , **@OHQUITWEETE:** 20 , **QUI** 20 , **VOUS** 19 , **POUR** 17 , **NE** 16 , **IL** 15 , 
+**EVA** 15 , **TOKEN** 15 , **GO** 11 , **@EVA_TOKEN:** 11 , **NEXT** 5 , **🔥EVATOKEN** 3 , **CHALLENGES** 3 , **ELECTRIC** 3 , **AUTONOMOUS** 3 , **VEHICLES** 3 , **LET’S** 3 , **@EVA_TOKEN** 2 , **REVOLUTION@EVA_TOKEN** 2 , **@YOUTUBE** 2 , **EVA@EVA_TOKEN** 2 , **UP@EVA_TOKEN** 2 , **COME** 2 , **ISTAGRAM** 2 , **MOON** 2 , **STAY** 2 , 
  
 ## What this user tweeted
  
-RT @arnoklarsfeld: Ukraine is a country where the killers of Jewish families are officially honoured and given as an example … Your article…
+RT @eva_token: 🔥#EvaToken - The Challenges of Electric and Autonomous Vehicles
+
+🪜A number of challenges must be addressed for them to becom…
  
-# EdwardVelez06USER INFO
-![image](http://pbs.twimg.com/profile_images/1619125508049879040/-GSGpPLQ_normal.jpg)
+# lemonadelawUSER INFO
+![image](http://pbs.twimg.com/profile_images/1619792371343818757/Wj4hBdnh_normal.jpg)
  
-`User ScreenName:` EdwardVelez06 
+`User ScreenName:` lemonadelaw 
  
-`User chosen Name:` Edward Velez 
+`User chosen Name:` Lisa Walker 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 27 23:55:40 +0000 2023 
+`User signup date?:` Sun Jan 29 20:19:29 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `2 
  
-`Following?:` 36 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 16 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1619125508049879040/-GSGpPLQ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1619792371343818757/Wj4hBdnh_normal.jpg 
  
-`Number of tweets excluding replies:` 16 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 3 , **BORDER** 3 , **@SENTEDCRUZ:** 2 , **JOE** 2 , **BIDEN’S** 2 , **–** 2 , **@EDWARDVELEZ06:** 2 , **@LAURENBOEBERT** 2 , **COURSE** 2 , **PART** 2 , **DEMOCRATIC** 2 , **PLAN** 2 , **GOTTA** 2 , **BLIND** 2 , **REASONING** 2 , **BEHIND** 2 , **THESE** 2 , **TRY** 2 , **MAKE** 2 , **LIGHT** 2 , 
- 
-## What this user tweeted
- 
-RT @SenTedCruz: ICYMI: If President Joe Biden’s classified documents show links to Ukraine or China – there needs to be a serious investiga…
- 
-# LaylaMi37405871USER INFO
-![image](http://pbs.twimg.com/profile_images/1617993105596207140/qxCCDhDT_normal.jpg)
- 
-`User ScreenName:` LaylaMi37405871 
- 
-`User chosen Name:` Layla Mia 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 24 21:05:55 +0000 2023 
- 
-`User Description?:` 🇱🇷❤️ 
- 
-`Followers?: `3 
- 
-`Following?:` 45 
- 
-`User URL?:` None 
- 
-`Location:` United States 
- 
-`Number of tweets extracted`  : 20 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1617993105596207140/qxCCDhDT_normal.jpg 
- 
-`Number of tweets excluding replies:` 20 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -348,153 +267,37 @@ RT @SenTedCruz: ICYMI: If President Joe Biden’s classified documents show link
  
 ## User Top tweeted words 
  
-**@RICHARDGRENELL:** 4 , **@JAYSEKULOW:** 3 , **BIDEN’S** 2 , **SENATE** 2 , **DEMOCRATS** 2 , **TRUMP** 2 , **SANCTIONS** 2 , **PUTIN’S** 2 , **CAN’T** 2 , **@COUNTRYMUSIC:** 2 , **RT** 1 , **@FOXNEWS:** 1 , **TYRE** 1 , **NICHOL’S** 1 , **MOM** 1 , **MEMPHIS** 1 , **OFFICERS** 1 , **‘SHAMED** 1 , **FAMILIES’:** 1 , **‘I** 1 , 
+**@ACERESPONDER:** 7 , **MANAGEENGINE** 3 , **CVE-2022-47966** 3 , **ACCESS** 2 , **LOGS** 2 , **+** 2 , **THREAT** 2 , **RT** 1 , **POC** 1 , **CREATES** 1 , **HTTP** 1 , **500** 1 , **URLDECODE** 1 , **B64** 1 , **DECODE** 1 , **TH…RT** 1 , **QUICK** 1 , **DIRTY** 1 , **POWERSHELL** 1 , **SCRIPT** 1 , 
  
 ## What this user tweeted
  
-RT @RichardGrenell: Always remember…the Ukraine war started after Joe Biden &amp; Senate Democrats dropped the Trump sanctions on Putin’s pipel…
+RT @ACEResponder: The POC for #ManageEngine CVE-2022-47966 creates an HTTP 500 in the access logs. You can urldecode + b64 decode to get th…RT @ACEResponder: New module is up! This time we use ManageEngine CVE-2022-47966 to explore a Windows webserver compromise and practice som…RT @ACEResponder: Another artifact from CVE-2022-47966 IoC which may be less ephemeral than access or server logs: Catalina servlet logs. T…RT @ACEResponder: Just figured out the @Horizon3Attack vRealize Log Insight exploit lol
+Incoming guided threat hunt + signatures before the…
  
-# BreelieBakerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619814692309897218/NPo-H0H4_normal.jpg)
+# AKA11551122USER INFO
+![image](http://pbs.twimg.com/profile_images/1619772172657987584/w_x3pHP-_normal.jpg)
  
-`User ScreenName:` BreelieBaker 
+`User ScreenName:` AKA11551122 
  
-`User chosen Name:` Breelie Baker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 29 16:21:46 +0000 2023 
- 
-`User Description?:` 20 // coffee addict // rocker // living enigma // Riff Randell is my spirit animal (hey, that rhymed.) 
- 
-`Followers?: `10 
- 
-`Following?:` 361 
- 
-`User URL?:` None 
- 
-`Location:` Why don't you guess?  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619814692309897218/NPo-H0H4_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STOP** 2 , **RT** 1 , **@STEPHENKING:** 1 , **LOVE** 1 , **GOD** 1 , **RUSSIA** 1 , **POINTLESS** 1 , **WAR** 1 , **UKRAINE** 1 , **BOMBING** 1 , **UNARMED** 1 , **CIVILIANS** 1 , **PUTIN** 1 , **MUST** 1 , **STE…HAPPY** 1 , **BIRTHDAY** 1 , **TOMMY** 1 , **RAMONE!** 1 , **🎉YOU** 1 , **74** 1 , 
- 
-## What this user tweeted
- 
-RT @StephenKing: For the love of God, Russia, stop this pointless war in the Ukraine. Stop the bombing of unarmed civilians. Putin must ste…
- 
-# 1986SocialismUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619224858579156992/AG1-tNn4_normal.jpg)
- 
-`User ScreenName:` 1986Socialism 
- 
-`User chosen Name:` Ellie 🏳️‍⚧️ ☭ 
+`User chosen Name:` Abdulrahman Alomari 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 20 04:42:37 +0000 2023 
- 
-`User Description?:` Marxist-Leninist, Trans Woman, History Student, 19, She/Her. 
- 
-`Followers?: `7 
- 
-`Following?:` 56 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 74 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619224858579156992/AG1-tNn4_normal.jpg 
- 
-`Number of tweets excluding replies:` 74 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FUCKING** 9 , **FEEL** 6 , **@COMRADESTU** 6 , **IDEA** 5 , **WHERE** 5 , **PEOPLE** 4 , **HATE** 4 , **BEING** 4 , **@SIRLEMONN** 4 , **@ELIJW514** 4 , **RETURN** 3 , **WORLD** 3 , **SUCH** 3 , **FIND** 3 , **DON’T** 3 , **FUCK** 3 , **EVEN** 3 , **@ESHALEGAL** 3 , **PERSON** 3 , **I’M** 3 , 
- 
-## What this user tweeted
- 
-RT @WorldwideUSSR: "im very left-wing but i dont understand the anti-ukraine stances these radicals keep taking! we should support ukrai-"…
- 
-# Br_owhTUSER INFO
-![image](http://pbs.twimg.com/profile_images/1617689288275099650/JKagxvlW_normal.jpg)
- 
-`User ScreenName:` Br_owhT 
- 
-`User chosen Name:` Brown 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 24 00:15:43 +0000 2023 
+`User signup date?:` Sun Jan 29 18:56:46 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `13 
+`Followers?: `0 
  
 `Following?:` 1 
  
 `User URL?:` None 
  
-`Location:` The World🌍 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1617689288275099650/JKagxvlW_normal.jpg 
- 
-`Number of tweets excluding replies:` 814 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DEANBPHILLIPS:** 41 , **@BILLMAHER:** 29 , **PEOPLE** 16 , **@DAVIDSIROTA:** 13 , **WEEK** 12 , **@REPJEFFRIES:** 11 , **NEW** 11 , **YEAR** 11 , **THAN** 9 , **WATCH** 9 , **@CLUBRANDOM_!** 9 , **CONGRESS** 8 , **TRUMP** 8 , **HTTPS://TCO/FVCFDUGGHL** 8 , **@BILLMAHER** 8 , **@COMEDYCENTRAL:** 8 , **@CORYBOOKER:** 8 , **@POTUS:** 8 , **MINNESOTA** 7 , **MOST** 7 , 
- 
-## What this user tweeted
- 
-RT @TimothyDSnyder: I remember a certain frivolity from 2016. Trump was a curiosity. Russia was irrelevant. Nothing to take seriously. Then…
- 
-# TravisA01097510USER INFO
-![image](http://pbs.twimg.com/profile_images/1618373436564185088/5WG8jQ3K_normal.jpg)
- 
-`User ScreenName:` TravisA01097510 
- 
-`User chosen Name:` ASB&TDA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jan 25 22:04:23 +0000 2023 
- 
-`User Description?:` Live and love out loud. Be kind. Go the extra mile to make a difference. LGBTQIA safe place. 
- 
-`Followers?: `1 
- 
-`Following?:` 62 
- 
-`User URL?:` None 
- 
-`Location:` nowhere  
+`Location:`  
  
 `Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1618373436564185088/5WG8jQ3K_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1619772172657987584/w_x3pHP-_normal.jpg 
  
 `Number of tweets excluding replies:` 2 
  
@@ -504,11 +307,128 @@ RT @TimothyDSnyder: I remember a certain frivolity from 2016. Trump was a curios
  
 ## User Top tweeted words 
  
-**RT** 1 , **@AP:** 1 , **UKRAINE** 1 , **RECLAIMED** 1 , **THAN** 1 , **HALF** 1 , **TERRITORY** 1 , **RUSSIA** 1 , **TAKEN** 1 , **YEAR** 1 , **FIGHTING** 1 , **CURRENTLY** 1 , **CENTERS** 1 , **KHERSON** 1 , **DO…RT** 1 , **@PEPSICO:** 1 , **FACTS:** 1 , **LUNCHES** 1 , **BETTER** 1 , **@LAYS** 1 , 
+**AVOID** 2 , **E-COMMERCE** 2 , **INFOGRAPHIC** 2 , **RISKS?** 1 , **SAFETYFIRST** 1 , **ECOMMERCEBUSINESS** 1 , **HTTPS://TCO/5SFI4JNNDART** 1 , **@MOKH08:** 1 , **RISKS** 1 , **CUSTOMER?** 1 , **ECOMMERCE** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO/BYD1FTSAZ7** 1 , 
  
 ## What this user tweeted
  
-RT @AP: Ukraine has reclaimed more than half the territory Russia has taken this year. The fighting currently centers on the Kherson and Do…
+RT @mokh08: How to avoid e-commerce risks as customer? #infographic #ecommerce #cybersecurity https://t.co/byd1FTsaZ7
+ 
+# xen_lilyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1619004660366573569/Ddw_G68K_normal.jpg)
+ 
+`User ScreenName:` xen_lily 
+ 
+`User chosen Name:` xen_lily 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 26 03:15:44 +0000 2023 
+ 
+`User Description?:` xen_lily of xen_orchids 
+ 
+`Followers?: `0 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 117 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1619004660366573569/Ddw_G68K_normal.jpg 
+ 
+`Number of tweets excluding replies:` 117 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BALLET** 8 , **@CAMELIALADI:** 5 , **DANCE** 5 , **BIRTHDAY** 5 , **ARTE** 4 , **DANZA** 4 , **ART** 4 , **LOOK** 3 , **NEW** 3 , **OTHER** 3 , **U** 3 , **ITS** 3 , **@TONYPRINCIOTTI:** 3 , **HAPPY** 3 , **@MASTRONOMERS:** 2 , **FOLLOWERS** 2 , **OH** 2 , **GO** 2 , **FULL** 2 , **VIDEO:** 2 , 
+ 
+## What this user tweeted
+ 
+I might take another masters in cybersecurity because i'm vowed to vengeance of those hackers..
+ 
+# LuckyRa9859USER INFO
+![image](http://pbs.twimg.com/profile_images/1619255217723441152/weHkhNHJ_normal.jpg)
+ 
+`User ScreenName:` LuckyRa9859 
+ 
+`User chosen Name:` Lucky Raj 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 26 11:24:31 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1619255217723441152/weHkhNHJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 862 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 112 , **में** 68 , **की** 64 , **का** 40 , **जी** 39 , **श्री** 37 , **को** 36 , **है** 34 , **से** 30 , **@NARENDRAMODI** 24 , **और** 23 , **पर** 20 , **ने** 19 , **प्रधानमंत्री** 19 , **देश** 16 , **आज** 16 , **है।** 15 , **भारत** 14 , **MANNKIBAAT** 14 , **भी** 12 , 
+ 
+## What this user tweeted
+ 
+RT @ICPFund: According to a survey by McAfee, nearly 8 out of 10 individuals are subject to the different types of cyberbullying in India.…
+ 
+# baotien112233USER INFO
+![image](http://pbs.twimg.com/profile_images/1619703968187428864/1Tji6Pv9_normal.png)
+ 
+`User ScreenName:` baotien112233 
+ 
+`User chosen Name:` ANH. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 29 14:28:12 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 62 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1619703968187428864/1Tji6Pv9_normal.png 
+ 
+`Number of tweets excluding replies:` 62 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VS** 19 , **HERE** 16 , **49ERS** 14 , **LIVE** 14 , **STREAM** 12 , **WATCH** 12 , **NFL** 10 , **EAGLES** 10 , **@SHIRTSTHTGOHARD** 8 , **2023** 8 , **LINK** 7 , **OFFICIAL** 7 , **@FOOTBALLNFLLIVE** 6 , **@BENGALS** 5 , **@JOEYB** 5 , **SHIRT** 5 , **SAN** 5 , **FRANCISCO** 5 , **PHILADELPHIA** 5 , **CHAMPIONSHIP** 5 , 
+ 
+## What this user tweeted
+ 
+RT @PrivacyNinjaSG: 🚨 On November 14, 2021, Nippon notified PDCP of a malicious attack by bad actors, endangering the personal data of 1,07…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
