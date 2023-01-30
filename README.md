@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **SecurityTrybe**  
+The most popular user is: **buitengebieden**  
  
 
-## Cybersecurity Certifications to get in 2023 (For FREE) 
+## Well done kitty.. 😊 https://t.co/3yoQg3kDHO 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **SecurityTrybe**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SecurityTrybe: HTTPS vs HTTP ( Security always makes a world of difference) #secure #security #cybersecurity https://t.co/zGrI62cPz0 |
-| RT @SecurityTrybe: MIT and IBM are offering FREE Online courses on #Cybersecurity and #DataScience on edXHere are 7 FREE Courses to add t… |
-| RT @JinibaBD: 🚨⚠️🚨 The Godfather #Banking Trojan Expands Application Targeting to Affect More #Europe -Based Victims‼️ #Phishing #ransomwar… |
+| Cybersecurity For Small Business #CyberSecurity #infosec #security #business #Jobs #CyberAttack https://t.co/dqb9fraam9 |
+| RT @programmerjoke9: When you specify wrong base case in recursive function#100Daysofcode #javascript #programming #dev #linux #java #progr… |
+| RT @hackinarticles: Linux Basics Commands#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecurity #ciss… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecurityTrybe** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **three_cube** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 5.52%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **three_cube** |
+| #3 Most tweeted to  | **SecurityTrybe** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 4.6%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,27 +51,27 @@ The most popular user is: **SecurityTrybe**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **@SECURITYTRYBE:**  |
-| third  | **PENTESTING** |
-| fourth  | **HACKING**  |
-| fifth  | **DATASCIENCE**  |
+| second  | **PENTESTING**  |
+| third  | **HACKING** |
+| fourth  | **OSCP**  |
+| fifth  | **LINUX**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|This in particular blew my mind &gt; from mid-2020 through 2021, 82% of healthcare systems reported a cyber incident… https://t.co/9sGMgyWH1L |
+|Disable Cards Swiftly &amp; SecurelyThe only tool providing 100% destruction of private data.visit:… https://t.co/2YMeZn0DKK |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SecurityTrybe**  |
+| The most retweeted user is: **buitengebieden**  |
 | ------------- |
-| Cybersecurity Certifications to get in 2023 (For FREE) |
+| Well done kitty.. 😊 https://t.co/3yoQg3kDHO |
 
 # Potential Fake Accounts
  
@@ -112,34 +112,34 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECT
  
 ## What this user tweeted
  
-RT @TheHackersNews: Gootkit #malware continues to evolve and become more sophisticated, with notable changes to the toolkit, adding new com…RT @TheHackersNews: Ukraine is under attack from a new Golang-based data wiper #malware called "SwiftSlicer." The attackers have been ident…
+RT @TheHackersNews: Gootkit #malware continues to evolve and become more sophisticated, with notable changes to the toolkit, adding new com…
  
-# coresecuritymenUSER INFO
-![image](http://pbs.twimg.com/profile_images/1618953780501913600/aIpgWE_c_normal.png)
+# DrugsHackUSER INFO
+![image](http://pbs.twimg.com/profile_images/1617019243794501637/5oF-ci6F_normal.jpg)
  
-`User ScreenName:` coresecuritymen 
+`User ScreenName:` DrugsHack 
  
-`User chosen Name:` Yanki C. 
+`User chosen Name:` Drugs Hack 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 27 12:47:14 +0000 2023 
+`User signup date?:` Sun Jan 22 04:37:33 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `14 
  
-`Following?:` 24 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 54 
+`Number of tweets extracted`  : 140 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1618953780501913600/aIpgWE_c_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1617019243794501637/5oF-ci6F_normal.jpg 
  
-`Number of tweets excluding replies:` 54 
+`Number of tweets excluding replies:` 140 
  
 
  
@@ -147,28 +147,44 @@ RT @TheHackersNews: Gootkit #malware continues to evolve and become more sophist
  
 ## User Top tweeted words 
  
-**@YANIVZADOK:** 33 , **@AKAMAI** 13 , **לא** 6 , **LEARN** 6 , **AKAMAI** 5 , **APPLY** 5 , **כל** 4 , **את** 4 , **ZEROTRUST** 4 , **WHERE** 4 , **TALK** 4 , **HERE:** 4 , **של** 3 , **PROTECT** 3 , **NETWORK** 3 , **ACCESS** 3 , **READ** 3 , **EDITION** 3 , **TOP-OF-MIND** 3 , **ISSUES** 3 , 
+**CYBERSECURITY** 75 , **INFOSEC** 55 , **SECURITY** 28 , **PENTESTING** 25 , **1** 24 , **2** 24 , **HACKING** 23 , **3** 19 , **TECH** 17 , **HACKER** 16 , **OSCP** 15 , **CYBERSECURITYTIPS** 14 , **4** 13 , **ANONYMOUS** 13 , **5** 12 , **HACKERS** 12 , **HACKED** 12 , **PYTHON** 11 , **CYBERSEC** 11 , **STUDENT** 10 , 
  
 ## What this user tweeted
  
-RT @Yanivzadok: It’s time to shut down #ransomware. Start by strengthening your defenses beyond the perimeter. Download the five-step ebook…RT @Yanivzadok: In this edition, we talk about top-of-mind issues in the #ecommerce industry in India. Learn more. @Akamai #cybersecurity h…RT @Yanivzadok: In this edition, we talk about top-of-mind issues in the #ecommerce industry in the ANZ region. Learn more. @Akamai #cybers…RT @Yanivzadok: In this edition, we talk about top-of-mind issues in the #ecommerce industry in the ASEAN region. Learn more. @Akamai #cybe…RT @Yanivzadok: Following the Ticketmaster #bot debacle, @Akamai's CEO and Co-Founder, @TomLeightonAKAM, discusses how Akamai's bot managem…
+Hacking Lover Follow Me ❤️
+
+#kalilinux #pentesting #pentester #ciberseguridad
+#cybersecurity #tecnologia #hackers… https://t.co/wDkffgXEtoJob Domain in Cyber Security
+
+#kalilinux #pentesting #pentester #ciberseguridad
+#cybersecurity #tecnologia #hackers… https://t.co/OiUJvdSIZg7 Things Hackers Use IP Address For: 
+
+#CyberSecurity #cyberattacks #tech #infosec #Hacked #hacking #Cyber https://t.co/vbAz5PtGeFHacking Lover
+
+#kalilinux #pentesting #pentester #ciberseguridad
+#cybersecurity #tecnologia #hackers #hacking… https://t.co/b7VlDUl6pJI Love mY Space 
+
+#kalilinux #pentesting #pentester #ciberseguridad
+#cybersecurity #tecnologia #hackers #hacking… https://t.co/m1bTVugTpVDream 🥰
+#kalilinux #pentesting #pentester #ciberseguridad
+#cybersecurity #tecnologia #hackers #hacking… https://t.co/RyhNNLnL1V
  
-# kdub756USER INFO
-![image](http://pbs.twimg.com/profile_images/1619813721093668864/xVs3kj-P_normal.png)
+# anti_sainteUSER INFO
+![image](http://pbs.twimg.com/profile_images/1619514348304748544/ZOKgNDBM_normal.jpg)
  
-`User ScreenName:` kdub756 
+`User ScreenName:` anti_sainte 
  
-`User chosen Name:` Kevin Walker 
+`User chosen Name:` sainte 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 29 21:44:20 +0000 2023 
+`User signup date?:` Sun Jan 29 01:54:28 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 20 
+`Following?:` 21 
  
 `User URL?:` None 
  
@@ -176,7 +192,7 @@ RT @Yanivzadok: It’s time to shut down #ransomware. Start by strengthening you
  
 `Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1619813721093668864/xVs3kj-P_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1619514348304748544/ZOKgNDBM_normal.jpg 
  
 `Number of tweets excluding replies:` 3 
  
@@ -186,70 +202,34 @@ RT @Yanivzadok: It’s time to shut down #ransomware. Start by strengthening you
  
 ## User Top tweeted words 
  
-**@ACERESPONDER:** 3 , **THREAT** 2 , **RT** 1 , **NEW** 1 , **MODULE** 1 , **UP!** 1 , **TIME** 1 , **USE** 1 , **MANAGEENGINE** 1 , **CVE-2022-47966** 1 , **EXPLORE** 1 , **WINDOWS** 1 , **WEBSERVER** 1 , **COMPROMISE** 1 , **PRACTICE** 1 , **SOM…RT** 1 , **HUNTING** 1 , **MODULES** 1 , **SPLIT** 1 , **TWO** 1 , 
+**RT** 1 , **@0XOR0NE:** 1 , **REMINDER** 1 , **FEW** 1 , **GREAT** 1 , **TOOLS** 1 , **FIRMWARE** 1 , **UNPACKING** 1 , **REPACKING** 1 , **ANALYSIS** 1 , **BINWALK:** 1 , **HTTPS://TCO/TGVF2SCKXG** 1 , **EMBA:** 1 , **HT…RT** 1 , **@AACLE_:** 1 , **PENETESTING/BUG** 1 , **BOUNTY** 1 , **MINDMAP** 1 , **HTTPS://TCO/DKIDOLSZ46RT** 1 , **@HACKINARTICLES:** 1 , 
  
 ## What this user tweeted
  
-RT @ACEResponder: New module is up! This time we use ManageEngine CVE-2022-47966 to explore a Windows webserver compromise and practice som…RT @ACEResponder: Just figured out the @Horizon3Attack vRealize Log Insight exploit lol
-Incoming guided threat hunt + signatures before the…
+RT @0xor0ne: Just a reminder of a few great tools for firmware unpacking, repacking and
+analysis
+
+binwalk: https://t.co/tGVf2sCKxG
+EMBA: ht…RT @hackinarticles: Search Engine for Pentester
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecurity…
  
-# MarcelgabrielLUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619804329510162438/Lz-7vrUQ_normal.jpg)
+# AbbaAbdulshamadUSER INFO
+![image](http://pbs.twimg.com/profile_images/1619488291044167680/bCe1dVGB_normal.jpg)
  
-`User ScreenName:` MarcelgabrielL 
+`User ScreenName:` AbbaAbdulshamad 
  
-`User chosen Name:` Marcelgabriel Luca 
+`User chosen Name:` Abdulshamad Yunusa 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 29 21:05:01 +0000 2023 
+`User signup date?:` Sun Jan 29 00:11:11 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `3 
  
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619804329510162438/Lz-7vrUQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**EVA** 15 , **TOKEN** 15 , **GO** 11 , **@EVA_TOKEN:** 11 , **NEXT** 5 , **🔥EVATOKEN** 3 , **CHALLENGES** 3 , **ELECTRIC** 3 , **AUTONOMOUS** 3 , **VEHICLES** 3 , **LET’S** 3 , **@EVA_TOKEN** 2 , **REVOLUTION@EVA_TOKEN** 2 , **@YOUTUBE** 2 , **EVA@EVA_TOKEN** 2 , **UP@EVA_TOKEN** 2 , **COME** 2 , **ISTAGRAM** 2 , **MOON** 2 , **STAY** 2 , 
- 
-## What this user tweeted
- 
-RT @eva_token: 🔥#EvaToken - The Challenges of Electric and Autonomous Vehicles
-
-🪜A number of challenges must be addressed for them to becom…
- 
-# lemonadelawUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619792371343818757/Wj4hBdnh_normal.jpg)
- 
-`User ScreenName:` lemonadelaw 
- 
-`User chosen Name:` Lisa Walker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 29 20:19:29 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 2 
+`Following?:` 291 
  
 `User URL?:` None 
  
@@ -257,7 +237,7 @@ RT @eva_token: 🔥#EvaToken - The Challenges of Electric and Autonomous Vehicle
  
 `Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1619792371343818757/Wj4hBdnh_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1619488291044167680/bCe1dVGB_normal.jpg 
  
 `Number of tweets excluding replies:` 7 
  
@@ -267,168 +247,15 @@ RT @eva_token: 🔥#EvaToken - The Challenges of Electric and Autonomous Vehicle
  
 ## User Top tweeted words 
  
-**@ACERESPONDER:** 7 , **MANAGEENGINE** 3 , **CVE-2022-47966** 3 , **ACCESS** 2 , **LOGS** 2 , **+** 2 , **THREAT** 2 , **RT** 1 , **POC** 1 , **CREATES** 1 , **HTTP** 1 , **500** 1 , **URLDECODE** 1 , **B64** 1 , **DECODE** 1 , **TH…RT** 1 , **QUICK** 1 , **DIRTY** 1 , **POWERSHELL** 1 , **SCRIPT** 1 , 
+**RT** 1 , **@DAVIDBOMBAL:** 1 , **HACKED** 1 , **BILLIONAIRE** 1 , **BANK** 1 , **COULD** 1 , **NEXT** 1 , **PROTECT** 1 , **YOURSELF!** 1 , **YOUTUBE** 1 , **VIDEO:** 1 , **HTTPS://TC…RT** 1 , **@ELONMUSK:** 1 , **HTTPS://TCO/FQWMKUM8YBRT** 1 , **@BBCHAUSA:** 1 , **HTTPS://TCO/AWZA2QZUEKRT** 1 , **@OFFICIALDEEZELL:** 1 , **I’M** 1 , **TEACHING** 1 , **GUYS** 1 , 
  
 ## What this user tweeted
  
-RT @ACEResponder: The POC for #ManageEngine CVE-2022-47966 creates an HTTP 500 in the access logs. You can urldecode + b64 decode to get th…RT @ACEResponder: New module is up! This time we use ManageEngine CVE-2022-47966 to explore a Windows webserver compromise and practice som…RT @ACEResponder: Another artifact from CVE-2022-47966 IoC which may be less ephemeral than access or server logs: Catalina servlet logs. T…RT @ACEResponder: Just figured out the @Horizon3Attack vRealize Log Insight exploit lol
-Incoming guided threat hunt + signatures before the…
- 
-# AKA11551122USER INFO
-![image](http://pbs.twimg.com/profile_images/1619772172657987584/w_x3pHP-_normal.jpg)
- 
-`User ScreenName:` AKA11551122 
- 
-`User chosen Name:` Abdulrahman Alomari 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 29 18:56:46 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619772172657987584/w_x3pHP-_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
+RT @davidbombal: She hacked a billionaire, a bank ... and you could be next. 
 
- 
+Do this now to protect yourself!
 
- 
-## User Top tweeted words 
- 
-**AVOID** 2 , **E-COMMERCE** 2 , **INFOGRAPHIC** 2 , **RISKS?** 1 , **SAFETYFIRST** 1 , **ECOMMERCEBUSINESS** 1 , **HTTPS://TCO/5SFI4JNNDART** 1 , **@MOKH08:** 1 , **RISKS** 1 , **CUSTOMER?** 1 , **ECOMMERCE** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO/BYD1FTSAZ7** 1 , 
- 
-## What this user tweeted
- 
-RT @mokh08: How to avoid e-commerce risks as customer? #infographic #ecommerce #cybersecurity https://t.co/byd1FTsaZ7
- 
-# xen_lilyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619004660366573569/Ddw_G68K_normal.jpg)
- 
-`User ScreenName:` xen_lily 
- 
-`User chosen Name:` xen_lily 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 26 03:15:44 +0000 2023 
- 
-`User Description?:` xen_lily of xen_orchids 
- 
-`Followers?: `0 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 117 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619004660366573569/Ddw_G68K_normal.jpg 
- 
-`Number of tweets excluding replies:` 117 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BALLET** 8 , **@CAMELIALADI:** 5 , **DANCE** 5 , **BIRTHDAY** 5 , **ARTE** 4 , **DANZA** 4 , **ART** 4 , **LOOK** 3 , **NEW** 3 , **OTHER** 3 , **U** 3 , **ITS** 3 , **@TONYPRINCIOTTI:** 3 , **HAPPY** 3 , **@MASTRONOMERS:** 2 , **FOLLOWERS** 2 , **OH** 2 , **GO** 2 , **FULL** 2 , **VIDEO:** 2 , 
- 
-## What this user tweeted
- 
-I might take another masters in cybersecurity because i'm vowed to vengeance of those hackers..
- 
-# LuckyRa9859USER INFO
-![image](http://pbs.twimg.com/profile_images/1619255217723441152/weHkhNHJ_normal.jpg)
- 
-`User ScreenName:` LuckyRa9859 
- 
-`User chosen Name:` Lucky Raj 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jan 26 11:24:31 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619255217723441152/weHkhNHJ_normal.jpg 
- 
-`Number of tweets excluding replies:` 862 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 112 , **में** 68 , **की** 64 , **का** 40 , **जी** 39 , **श्री** 37 , **को** 36 , **है** 34 , **से** 30 , **@NARENDRAMODI** 24 , **और** 23 , **पर** 20 , **ने** 19 , **प्रधानमंत्री** 19 , **देश** 16 , **आज** 16 , **है।** 15 , **भारत** 14 , **MANNKIBAAT** 14 , **भी** 12 , 
- 
-## What this user tweeted
- 
-RT @ICPFund: According to a survey by McAfee, nearly 8 out of 10 individuals are subject to the different types of cyberbullying in India.…
- 
-# baotien112233USER INFO
-![image](http://pbs.twimg.com/profile_images/1619703968187428864/1Tji6Pv9_normal.png)
- 
-`User ScreenName:` baotien112233 
- 
-`User chosen Name:` ANH. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 29 14:28:12 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 41 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 62 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619703968187428864/1Tji6Pv9_normal.png 
- 
-`Number of tweets excluding replies:` 62 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VS** 19 , **HERE** 16 , **49ERS** 14 , **LIVE** 14 , **STREAM** 12 , **WATCH** 12 , **NFL** 10 , **EAGLES** 10 , **@SHIRTSTHTGOHARD** 8 , **2023** 8 , **LINK** 7 , **OFFICIAL** 7 , **@FOOTBALLNFLLIVE** 6 , **@BENGALS** 5 , **@JOEYB** 5 , **SHIRT** 5 , **SAN** 5 , **FRANCISCO** 5 , **PHILADELPHIA** 5 , **CHAMPIONSHIP** 5 , 
- 
-## What this user tweeted
- 
-RT @PrivacyNinjaSG: 🚨 On November 14, 2021, Nippon notified PDCP of a malicious attack by bad actors, endangering the personal data of 1,07…
+YouTube video: https://t.c…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
