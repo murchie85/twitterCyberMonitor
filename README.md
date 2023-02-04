@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **RikhardHusu**  
+The most popular user is: **SecurityTrybe**  
  
 
-## Finnish prime minister Sanna Marin was asked about a potential off-ramp for Russia to end the war in Ukraine. Her r… https://t.co/9wKpEVesxb 
+## Cybersecurity Certifications to get in 2023 (For FREE) 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **RikhardHusu**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @alexplitsas: This is your regular reminder that the war in Ukraine would be over the moment the Russians withdrew |
-| @SenatorRomney A million Russians invading Ukraine....let's shut them all down. |
-| RT @WarMonitor3: US to give GLSDB shells with a range of 150+ km for the HIMARS MLRS system to Ukraine. |
+| RT @SecurityTube: Advance your cybersecurity career with Pentester Academy! We provide hands-on training in 135+ pentesting subtopics all i… |
+| RT @khalilApriday: Get ahead in your career: How https://t.co/Vbr43gm4Mi free #cybersecurity  courses can boost your resume and job prosp… |
+| RT @best___tech: Is mandatory password expiration helping or hurting your password security?#DataSecurity #Privacy#100DaysOfCode #CloudSe… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **WarClandestine** |
-| #2 Most tweeted to  | **ukrainiansquad** |
-| #3 Most tweeted to  | **BorisJohnson** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 6.24%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **0xor0ne** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 5.72%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -50,57 +50,135 @@ The most popular user is: **RikhardHusu**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **US** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **RUSSIA**  |
+| first  | **INFOSEC**  |
+| second  | **HACKING**  |
+| third  | **AI** |
+| fourth  | **DATA**  |
+| fifth  | **PENTESTING**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PeImeniPusha: Volodymyr Zelensky announced that "if Ukraine falls, it will be the beginning of the Third World War" https://t.co/nPhC9Z… |
+|PLEASE RT! 🔊If you **struggled with and/or failed** the SY0-601 Security+ Performance Based Questions (PBQ), I wo… https://t.co/8dQ9CQoU4v |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RikhardHusu**  |
+| The most retweeted user is: **SecurityTrybe**  |
 | ------------- |
-| Finnish prime minister Sanna Marin was asked about a potential off-ramp for Russia to end the war in Ukraine. Her r… https://t.co/9wKpEVesxb |
+| Cybersecurity Certifications to get in 2023 (For FREE) |
 
 # Potential Fake Accounts
  
-# teslaisslowUSER INFO
-![image](http://pbs.twimg.com/profile_images/1618605805661462537/CZSS3zaM_normal.png)
+# CSCPROPUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621651925354561538/t-Z7_TPQ_normal.jpg)
  
-`User ScreenName:` teslaisslow 
+`User ScreenName:` CSCPROP 
  
-`User chosen Name:` Twiter sucks 
+`User chosen Name:` Johnathan S. Whiteboard 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Jan 26 13:44:30 +0000 2023 
+`User signup date?:` Fri Feb 03 23:23:09 +0000 2023 
+ 
+`User Description?:` Junior Lecturer at Rochester Institute of Technology. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:` Rochester, NY 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621651925354561538/t-Z7_TPQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SANDWICH** 2 , **GUYS** 1 , **ROCKSTAR** 1 , **GAMES** 1 , **HACK** 1 , **ETERNAL** 1 , **BLUE?** 1 , **STUDENTS** 1 , **CAN'T** 1 , **PASS** 1 , **TESTS** 1 , **BECAUSE…** 1 , **HTTPS://TCO/1PNIK2TSNJRT** 1 , **@RITTIGERS:** 1 , **INTRODUCING** 1 , **PRESIDENTIAL** 1 , **SEAL** 1 , **APPROVAL!** 1 , **NAMED** 1 , **@RITPRESIDENT** 1 , 
+ 
+## What this user tweeted
+ 
+Guys did you know that the rockstar games hack was because of Eternal Blue? My students can't pass my tests because… https://t.co/1pnIk2tsnj
+ 
+# DemystifyTechnoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621621980041728001/hlEF9Ks8_normal.png)
+ 
+`User ScreenName:` DemystifyTechno 
+ 
+`User chosen Name:` Demystify Technologies 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 03 21:29:42 +0000 2023 
+ 
+`User Description?:` Understand technologies in simpler language 
+ 
+`Followers?: `1 
+ 
+`Following?:` 82 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621621980041728001/hlEF9Ks8_normal.png 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OAUTH** 15 , **20** 6 , **USE** 4 , **10** 3 , **WHICH** 3 , **USED** 3 , **ACCESS** 3 , **TOKEN** 3 , **SECURE** 3 , **DUE** 2 , **IMPLEMENT** 2 , **TOKEN:** 2 , **TOKEN"** 2 , **NEW** 2 , **TO…** 2 , **THAN** 2 , **AUTHORIZATION** 2 , **PROVIDE** 2 , **APP** 2 , **SIMPLE** 2 , 
+ 
+## What this user tweeted
+ 
+Overall, OAuth 2.0 is the preferred version of the OAuth protocol, due to its security, simplicity, and flexibility… https://t.co/oGwRtzW1fH
+ 
+# CacPerfilUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621618627303641088/XBOAVf5P_normal.png)
+ 
+`User ScreenName:` CacPerfil 
+ 
+`User chosen Name:` CAC Perfil 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 03 21:16:23 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `6 
+`Followers?: `0 
  
-`Following?:` 3 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 134 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1618605805661462537/CZSS3zaM_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1621618627303641088/XBOAVf5P_normal.png 
  
-`Number of tweets excluding replies:` 135 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -108,38 +186,78 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJ
  
 ## User Top tweeted words 
  
-**PEOPLE** 11 , **AMERICA** 9 , **I'M** 8 , **BRUH** 8 , **LOOKS** 7 , **YOU'RE** 7 , **LOL** 7 , **RUSSIA** 6 , **BITCOIN** 6 , **VERY** 6 , **UKRAINE** 5 , **EU** 5 , **@ELONMUSK** 5 , **DON'T** 5 , **IDEA** 5 , **UNION** 5 , **CHINA** 5 , **YEAR** 5 , **EASTERN** 5 , **LOSERS** 5 , 
+**–** 3 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **INSTAGRAM** 1 , **BOT** 1 , **PRO** 1 , **V550** 1 , **OFF** 1 , **HTTPS://TCO/QORFHKBLDC** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/DAV6RD3YDRAUTLAND** 1 , **SUITE** 1 , **MICROSOCIAL** 1 , **V2238** 1 , **SOCIAL** 1 , **MEDIA** 1 , **MARKETING** 1 , 
  
 ## What this user tweeted
  
-@dim0kq meanwhile ukraine is stuck in 2006 thinking "the eu is cool" lol.
+Instagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/qORfhkbLDc #infosec #bugcrowd… https://t.co/dav6rD3yDrAutLand Suite Microsocial v22.38 Full Activated – Social Media Marketing – Discount 100% OFF… https://t.co/3ytPPgj3rA
  
-# RobertB63074448USER INFO
-![image](http://pbs.twimg.com/profile_images/1620963515816153088/Upr3JQs9_normal.jpg)
+# blogwithbankuuUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621245692420169732/CCRlxrwI_normal.jpg)
  
-`User ScreenName:` RobertB63074448 
+`User ScreenName:` blogwithbankuu 
  
-`User chosen Name:` Robert Beauregard 
+`User chosen Name:` Blog WithBankuu 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 28 18:12:56 +0000 2023 
+`User signup date?:` Tue Jan 31 02:22:25 +0000 2023 
+ 
+`User Description?:` "Tech Enthusiast and Digital Native on a Mission to Simplify the Online World."
+#InternetAndTechnology #TechBlogger #TechSavvy" 
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/T06hfm3ixr 
+ 
+`Location:` Citi Housing Jhelum, Punjab. 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621245692420169732/CCRlxrwI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PUBLISHED** 1 , **LATEST** 1 , **BLOG** 1 , **"PROTECTING** 1 , **BUSINESS** 1 , **CYBER** 1 , **THREATS"** 1 , **LEARN** 1 , **IMPORTANCE** 1 , **CYBERSECUR…** 1 , **HTTPS://TCO/YJ234QM05W** 1 , 
+ 
+## What this user tweeted
+ 
+Just published Our latest blog on "Protecting Your Business from Cyber Threats". Learn the importance of cybersecur… https://t.co/Yj234QM05w
+ 
+# veolviaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1619250194721423366/SPkmTi2Q_normal.png)
+ 
+`User ScreenName:` veolvia 
+ 
+`User chosen Name:` Berta Yovovich 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 28 08:25:04 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `7 
+`Followers?: `1 
  
-`Following?:` 30 
+`Following?:` 31 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 125 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1620963515816153088/Upr3JQs9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1619250194721423366/SPkmTi2Q_normal.png 
  
-`Number of tweets excluding replies:` 125 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -147,79 +265,81 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJ
  
 ## User Top tweeted words 
  
-**@REPMTG:** 9 , **BIDEN** 8 , **PRESIDENT** 6 , **INTO** 6 , **@JUDICIARYGOP:** 6 , **DOESN’T** 5 , **JOE** 5 , **@KARILAKE:** 5 , **DAY** 5 , **SPENDING** 5 , **@WASHTIMES:** 4 , **TRUMP** 4 , **GOT** 4 , **PROTECT** 4 , **CHILDREN** 4 , **LEFT** 4 , **AMERICA** 4 , **FENTANYL** 4 , **RACE** 4 , **BORDER** 4 , 
+**→** 6 , **LINUX** 4 , **•** 3 , **STUDY** 2 , **@SIMONHOLDORF:** 2 , **LEARN** 2 , **FREE:** 2 , **RT** 1 , **@BOWTIEDCYBER:** 1 , **FREE** 1 , **VIDEO** 1 , **SERIES:** 1 , **HTTPS://TCO/FYFUX7I81S** 1 , **GUIDE:** 1 , **HTTPS://TCO/GVKUFZJFAJ** 1 , **LINU…RT** 1 , **DEVOPS** 1 , **BASICS** 1 , **HTTPS://TCO/F8M8QXQAK3** 1 , **HTTPS://TCO/BUN0F1V845** 1 , 
  
 ## What this user tweeted
  
-RT @RealAmVoice: "It could be ended quite easily if President Trump . . . got these players to the negotiating table as only he can."
+RT @simonholdorf: Learn Cloud Computing for free:
 
-@Rea…
+AWS → https://t.co/0DGZp9mkzk
+Azure → https://t.co/78XJG5Vghj
+GCP → https://t.co/Wnto4zl…
  
-# marko25155716USER INFO
-![image](http://pbs.twimg.com/profile_images/1618364298291552277/h_FAZ_K0_normal.png)
+# GetN2TechPhyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621582142886264833/zNdHuyQo_normal.jpg)
  
-`User ScreenName:` marko25155716 
+`User ScreenName:` GetN2TechPhy 
  
-`User chosen Name:` Lazar Markovic 
+`User chosen Name:` Phylicia Thomas 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jan 25 21:44:50 +0000 2023 
+`User signup date?:` Fri Feb 03 18:48:42 +0000 2023 
+ 
+`User Description?:` Certified and ready to start my career in IT. I am aspiring to advance into cybersecurity roles upon completing my CompTIA Security+ certificate. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 34 
+ 
+`User URL?:` https://t.co/Fnnympcuey 
+ 
+`Location:` Bay Area/Central Valley 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621582142886264833/zNdHuyQo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CERTS** 1 , **UX** 1 , **DESIGN** 1 , **GOOGLE** 1 , **SUPPORT** 1 , **STUDYING** 1 , **SECURITY+** 1 , **I’M** 1 , **LINKEDIN** 1 , **TWITTER** 1 , **LOOKING** 1 , **C…** 1 , **HTTPS://TCO/IMFSNTJRPFKEEP** 1 , **IT!** 1 , **HTTPS://TCO/8OTWRABQRE** 1 , 
+ 
+## What this user tweeted
+ 
+I have certs in UX design, Google IT Support, and studying for Security+. I’m on LinkedIn and Twitter looking for c… https://t.co/ImfSnTJrpf
+ 
+# AdedolapoMarianUSER INFO
+![image](http://pbs.twimg.com/profile_images/1620541953686310913/uB66Akgd_normal.jpg)
+ 
+`User ScreenName:` AdedolapoMarian 
+ 
+`User chosen Name:` Adedolapo Akinwunmi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 31 21:11:28 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `4 
+`Followers?: `3 
  
-`Following?:` 23 
+`Following?:` 67 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 45 
+`Number of tweets extracted`  : 15 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1618364298291552277/h_FAZ_K0_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1620541953686310913/uB66Akgd_normal.jpg 
  
-`Number of tweets excluding replies:` 45 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DER** 13 , **DIE** 8 , **FÜR** 6 , **UND** 6 , **GEGEN** 5 , **NICHT** 5 , **DAS** 5 , **SCHON** 4 , **WIE** 4 , **MAN** 4 , **UKRAINE** 4 , **WAR** 4 , **IST** 3 , **DEN** 3 , **HAT** 3 , **EINE** 3 , **@TICHYSEINBLICK** 2 , **VIEL** 2 , **TIMES** 2 , **VOR** 2 , 
- 
-## What this user tweeted
- 
-RT @PeImeniPusha: These idiots continue to get pranked. John Bolton admitting the obvious, that the Minsk Agreements were put in place to a…
- 
-# FeministWeiner2USER INFO
-![image](http://pbs.twimg.com/profile_images/1620450973234642947/cpM01iHg_normal.jpg)
- 
-`User ScreenName:` FeministWeiner2 
- 
-`User chosen Name:` laugh@libs 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 31 15:38:20 +0000 2023 
- 
-`User Description?:` Ditto Heads America. Meme Lover.                                                     First Amendment =  Love 
- 
-`Followers?: `41 
- 
-`Following?:` 148 
- 
-`User URL?:` https://t.co/AdSLAnKLXo 
- 
-`Location:` Liberal heads rent free 
- 
-`Number of tweets extracted`  : 195 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1620450973234642947/cpM01iHg_normal.jpg 
- 
-`Number of tweets excluding replies:` 701 
+`Number of tweets excluding replies:` 15 
  
 
  
@@ -227,77 +347,40 @@ RT @PeImeniPusha: These idiots continue to get pranked. John Bolton admitting th
  
 ## User Top tweeted words 
  
-**@DC_FLAKE:** 14 , **BIDENBOOM** 13 , **@PANOS941:** 11 , **CHINESE** 10 , **SPY** 10 , **@MYWILLOWMEMES:** 9 , **BALLOON** 7 , **@BGOSZTOLA:** 5 , **@__KIMBERLY1:** 5 , **BALLOONS** 5 , **@MRPOTATOHEAD_SJ:** 5 , **@DWIGHTD6:** 5 , **CAN’T** 4 , **@SALLYMAYWEATHER:** 4 , **@THEDAILYGRIPE_:** 4 , **@KALVOUS:** 4 , **@DAVE60298344:** 4 , **@MARALAGOANTIFA:** 4 , **@INON36:** 4 , **@STEVEND78530209:** 4 , 
+**CYBERSECURITY** 7 , **FREE** 3 , **@SECURITYTRYBE:** 3 , **•** 3 , **@CYBERSAFEHQ:** 3 , **@BOWTIEDCYBER:** 2 , **CERTIFICATIONS** 2 , **@KHALILAPRIDAY:** 2 , **CYBERGIRLS** 2 , **COM** 2 , **@SISINERDTWEETS** 1 , **WISH** 1 , **BESTRT** 1 , **HERE'S** 1 , **90** 1 , **DAY** 1 , **CAREER** 1 , **ROADMAP!** 1 , **FOREVER** 1 , **HTTPS://TCO/EZHYLXM4NYRT** 1 , 
  
 ## What this user tweeted
  
-RT @RobSchneider: If your idea of ‘sensibility’ includes being okay with a limited nuclear war, then I would say you are not a sensible per…
+RT @BowTiedCyber: Here's your 90 Day Cybersecurity Career Roadmap!
+
+FREE FOREVER https://t.co/ezHylxM4NY
  
-# TysonAnglaterreUSER INFO
-![image](http://pbs.twimg.com/profile_images/1619113025105018880/aEg_s3hg_normal.jpg)
+# omnenimUSER INFO
+![image](http://pbs.twimg.com/profile_images/1618300931942060049/djycSgTx_normal.png)
  
-`User ScreenName:` TysonAnglaterre 
+`User ScreenName:` omnenim 
  
-`User chosen Name:` Tyson England 
+`User chosen Name:` Omnia Star 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Jan 27 23:20:01 +0000 2023 
+`User signup date?:` Wed Jan 25 17:33:03 +0000 2023 
  
-`User Description?:` Private Investor.  TKE Financiere Corp.  Macro news.  Web Design.  Social Media Management Packages. 
+`User Description?:` We are bloggers. The name of our page comes from the Latin "Omne Edim" meaning "Everything". We research my thoughts and share them with you as an article 
  
-`Followers?: `8 
+`Followers?: `9 
  
-`Following?:` 46 
+`Following?:` 10 
  
-`User URL?:` https://t.co/yE5lgwk1Sh 
+`User URL?:` https://t.co/7Q36K0HBJA 
  
 `Location:`  
  
-`Number of tweets extracted`  : 86 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1619113025105018880/aEg_s3hg_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1618300931942060049/djycSgTx_normal.png 
  
-`Number of tweets excluding replies:` 86 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**APPLE** 11 , **BITCOIN** 11 , **PEOPLE** 6 , **SAY** 6 , **TESLA** 6 , **MONTH** 5 , **SOME** 5 , **YEARS** 5 , **GOOD** 4 , **NEXT** 4 , **BUY** 4 , **US** 4 , **TWO** 4 , **FIRST** 4 , **FUTURE** 4 , **FRENCH** 4 , **SILVER** 4 , **GOT** 4 , **IM** 4 , **SURE** 3 , 
- 
-## What this user tweeted
- 
-RT @business: South Africa's decision to participate in naval exercises with Russia will sink its pretensions of neutrality over the war in…
- 
-# Daemon348USER INFO
-![image](http://pbs.twimg.com/profile_images/1619098250266517507/5cmDUsKz_normal.jpg)
- 
-`User ScreenName:` Daemon348 
- 
-`User chosen Name:` 🍭💣 Ｄᗩ𝔢мόŇ 👑♚ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jan 27 22:19:46 +0000 2023 
- 
-`User Description?:` Contro questa lurida classe Politica di 🤡 criminali che hanno partecipato attivamente al tentato golpe globale macchiandosi di CRIMINI CONTRO L'UMANITÀ! 
- 
-`Followers?: `2 
- 
-`Following?:` 21 
- 
-`User URL?:` None 
- 
-`Location:` Aprilia, Lazio 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619098250266517507/5cmDUsKz_normal.jpg 
- 
-`Number of tweets excluding replies:` 253 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -305,30 +388,30 @@ RT @business: South Africa's decision to participate in naval exercises with Rus
  
 ## User Top tweeted words 
  
-**DI** 100 , **CHE** 91 , **LA** 77 , **NON** 59 , **IL** 51 , **E** 46 , **È** 42 , **UN** 27 , **PER** 26 , **DA** 23 , **SI** 21 , **MA** 21 , **LE** 20 , **SONO** 18 , **UNA** 16 , **DELLA** 16 , **LORO** 15 , **@A_MELUZZI** 15 , **LURIDI** 15 , **ALLA** 14 , 
+**PUBLISHED** 5 , **MEDIUM…** 3 , **MEDIUM** 2 , **MEDIUMWRITERS** 2 , **TECHNOLOGY** 1 , **DIGITAL** 1 , **TRENDS:** 1 , **NAVIGATING** 1 , **FUTURE** 1 , **HTTPS://TCO/NC394GQVRX** 1 , **MEDIUMS_RARE…** 1 , **HTTPS://TCO/I16BSTU5VA@MRBOLBACHAN** 1 , **CHECK** 1 , **FOLLOW** 1 , **YOUI** 1 , **DANGER** 1 , **LIFE!** 1 , **FLUORIDE** 1 , **HTTPS://TCO/YH2GFDYXMK** 1 , **MEDIUMS_RARE** 1 , 
  
 ## What this user tweeted
  
-He is a globalist dude. Don't be fooled. 
-He supports #Ukraine and criticized #Trump on his foreign policy. 
-Trump… https://t.co/0cRUmBWfzs
+I just published Technology And Digital Trends: Navigating The Future https://t.co/nC394GqvRX 
+
+#mediums_rare… https://t.co/I16BSTu5Va
  
-# lIlIllIIIIIlIlIUSER INFO
-![image](http://pbs.twimg.com/profile_images/1620597340204830720/OwgFCjwL_normal.jpg)
+# AUzenovaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621042958634991616/P9rO6Inv_normal.jpg)
  
-`User ScreenName:` lIlIllIIIIIlIlI 
+`User ScreenName:` AUzenova 
  
-`User chosen Name:` Z Arctic Frog 🇨🇳🇷🇺 
+`User chosen Name:` Азиза Узенова 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jan 31 08:31:07 +0000 2023 
+`User signup date?:` Thu Feb 02 07:08:29 +0000 2023 
  
-`User Description?:` 50 Cent Army Poster 🇨🇳 Russian Bot 🇷🇺 
+`User Description?:`  
  
-`Followers?: `2 
+`Followers?: `0 
  
-`Following?:` 59 
+`Following?:` 22 
  
 `User URL?:` None 
  
@@ -336,7 +419,7 @@ Trump… https://t.co/0cRUmBWfzs
  
 `Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1620597340204830720/OwgFCjwL_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1621042958634991616/P9rO6Inv_normal.jpg 
  
 `Number of tweets excluding replies:` 8 
  
@@ -346,11 +429,14 @@ Trump… https://t.co/0cRUmBWfzs
  
 ## User Top tweeted words 
  
-**CHINESE** 3 , **SENDING** 2 , **TAX** 2 , **MONEY** 2 , **USA** 2 , **RT** 1 , **@LEVI_GODMAN:** 1 , **ZELENSKY** 1 , **DEMANDS** 1 , **SHOOT** 1 , **DOWN** 1 , **BALLOON** 1 , **US** 1 , **DEPRIVES** 1 , **UKRAINE** 1 , **ATTENTIONRT** 1 , **@PHD_FOOLPROOF:** 1 , **@VONDERLEYEN** 1 , **HTTPS://TCO/IWUQE7W5JLIF** 1 , **CALLED** 1 , 
+**@BE_HAPPY_CRYPTO:** 3 , **@REALMARYDOLL:** 3 , **RT** 1 , **@MOTORIUMNFT:** 1 , **CHOSEN** 1 , **GIVEN** 1 , **CHANCE** 1 , **SAVE** 1 , **HUMANITY** 1 , **MAKE** 1 , **CHOICE:** 1 , **PART** 1 , **LEFT** 1 , **OUT?…RT** 1 , **@HARVEST_KEEPER:** 1 , **SOME** 1 , **VERY** 1 , **GOOD** 1 , **NEWS** 1 , **CAN'T** 1 , 
  
 ## What this user tweeted
  
-RT @Levi_godman: Zelensky demands to shoot down the Chinese balloon over the US because it deprives Ukraine of attention
+RT @Harvest_Keeper: We have some very good news that we just can't help but share! 🤪
+
+Harvest Keeper has passed the KYC at Securi- 
+Cyberse…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
