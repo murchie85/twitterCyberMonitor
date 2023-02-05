@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **WarClandestine**  
+The most popular user is: **disclosetv**  
  
 
-## 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL 
+## JUST IN - Thousands of computer servers around the world have been targeted by a ransomware hacking attack, Italy's… https://t.co/N3p1xsMh89 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **WarClandestine**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @GOP GOP is responsible for inflation by letting COVID run rapidly through America &amp; pretending it didn’t exist. Su… https://t.co/yWyeKL5RVV |
-| RT @TampaTom69: Putin responds only to force. The only way to peace is to provide Ukraine with weapons - British Foreign Secretary, James C… |
-| Please donate for physically handicapped please help usPaypal/ akram.fathy@icloud.comDonate link at my profile… https://t.co/ahNxQuPgqu |
+| RT @disclosetv: JUST IN - Thousands of computer servers around the world have been targeted by a ransomware hacking attack, Italy's Nationa… |
+| RT @disclosetv: JUST IN - Thousands of computer servers around the world have been targeted by a ransomware hacking attack, Italy's Nationa… |
+| RT @disclosetv: JUST IN - Thousands of computer servers around the world have been targeted by a ransomware hacking attack, Italy's Nationa… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RonnyJacksonTX** |
-| #2 Most tweeted to  | **KanekoaTheGreat** |
-| #3 Most tweeted to  | **WarClandestine** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 6.26%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **disclosetv** |
+| #2 Most tweeted to  | **TheInsiderPaper** |
+| #3 Most tweeted to  | **SikhForTruth** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 3.28%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -50,57 +50,137 @@ The most popular user is: **WarClandestine**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **RUSSIA** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **US**  |
+| first  | **HACKING**  |
+| second  | **ATTACK**  |
+| third  | **RANSOMWARE** |
+| fourth  | **COMPUTER**  |
+| fifth  | **SERVERS**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JoostBroekers: The situation in Ukraine is not about "democracy"That is just Western bullshit rethoric.The U.S. and its NATO allies… |
+|RT @0xor0ne: Dirty pipe (CVE-2022-0847) original blog post by Max Kellermann https://t.co/GKj76u4l9N #Linux #kernel #exploit #infosec #… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WarClandestine**  |
+| The most retweeted user is: **disclosetv**  |
 | ------------- |
-| 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL |
+| JUST IN - Thousands of computer servers around the world have been targeted by a ransomware hacking attack, Italy's… https://t.co/N3p1xsMh89 |
 
 # Potential Fake Accounts
  
-# AvailHollywoo20USER INFO
-![image](http://pbs.twimg.com/profile_images/1620668368561881088/XwsJAU4M_normal.png)
+# LeokJaneUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621963928023490561/VpTx-ie8_normal.jpg)
  
-`User ScreenName:` AvailHollywoo20 
+`User ScreenName:` LeokJane 
  
-`User chosen Name:` Emily Robert 
+`User chosen Name:` Jane Leok 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 01 06:20:23 +0000 2023 
+`User signup date?:` Sat Feb 04 20:08:29 +0000 2023 
+ 
+`User Description?:` Jane Leok is a flexible and dynamic professional who has decided to transition into cybersecurity. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621963928023490561/VpTx-ie8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DOES** 1 , **SECURITY** 1 , **DEPARTMENT** 1 , **COMPREHENSIVE** 1 , **COLLECTION** 1 , **PLAN** 1 , **MAKE** 1 , **USE** 1 , **OPEN-SOURCE** 1 , **INTELLIGENCE** 1 , **ASSI…** 1 , **HTTPS://TCO/YAWK1IDOP5RT** 1 , **@WRITINGTORICHES:** 1 , **AI** 1 , **COPYWRITING** 1 , **TOOLS** 1 , **CHECK** 1 , **OUT:** 1 , **1** 1 , **CHAT** 1 , 
+ 
+## What this user tweeted
+ 
+Does your security department have a comprehensive collection plan and make use of open-source intelligence to assi… https://t.co/YAwK1iDOp5
+ 
+# black_bledsoe18USER INFO
+![image](http://pbs.twimg.com/profile_images/1621221402723454980/RIcb5iD9_normal.jpg)
+ 
+`User ScreenName:` black_bledsoe18 
+ 
+`User chosen Name:` Larry J Bledsoe lll 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 29 10:17:55 +0000 2023 
+ 
+`User Description?:` OTR Transport Operators
+Yellow Freight 
+Experience 55 Years 
+ 
+`Followers?: `90 
+ 
+`Following?:` 890 
+ 
+`User URL?:` None 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621221402723454980/RIcb5iD9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 206 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AMERICANINDIAN8:** 59 , **INDIGENOUS** 57 , **TAIRP** 56 , **@TRANSPORTTOPICS:** 32 , **@DAILYNATIVE1:** 28 , **@BLACK_BLEDSOE18:** 13 , **–** 11 , **ITS** 8 , **TRUCKING** 7 , **FOLLOW** 7 , **THANK** 7 , **US** 6 , **MORNING** 6 , **MAN** 6 , **GOOD** 6 , **@YELLOW_TRUCKING:** 6 , **WINTER** 6 , **@CHEROKEENATION:** 5 , **TIME** 5 , **GREAT** 5 , 
+ 
+## What this user tweeted
+ 
+RT @TransportTopics: #cyberthreats are a fast-growing concern within the trucking industry. What can be done to combat the problem? Read mo…
+ 
+# MarcelgabrielLUSER INFO
+![image](http://pbs.twimg.com/profile_images/1619804329510162438/Lz-7vrUQ_normal.jpg)
+ 
+`User ScreenName:` MarcelgabrielL 
+ 
+`User chosen Name:` Marcelgabriel Luca 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 29 21:05:01 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 5 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 88 
+`Number of tweets extracted`  : 31 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1620668368561881088/XwsJAU4M_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1619804329510162438/Lz-7vrUQ_normal.jpg 
  
-`Number of tweets excluding replies:` 88 
+`Number of tweets excluding replies:` 31 
  
 
  
@@ -108,117 +188,84 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJE
  
 ## User Top tweeted words 
  
-**DEEP** 51 , **ADD** 42 , **DOG** 41 , **INSIDE** 40 , **PERFECTLY** 37 , **POUNDS** 37 , **SNAPCHAT:EMILYROBERT007** 33 , **LIVE** 26 , **RËCÖRDËD** 25 , **ÑÄSTY** 25 , **DOGG🍆** 25 , **PÖUND** 25 , **DRÖPBÖX** 25 , **ÄVAILABLË** 25 , **WATCH** 25 , **BULL** 25 , **MASTIFF** 25 , **DOGG** 23 , **EMILYROBERT007** 20 , **7** 14 , 
+**@EVA_TOKEN:** 17 , **EVA** 17 , **TOKEN** 16 , **GO** 12 , **🔥EVATOKEN** 7 , **NEXT** 6 , **ELECTRIC** 6 , **AUTONOMOUS** 6 , **VEHICLES** 6 , **CHALLENGES** 5 , **COME** 3 , **BENEFITS** 3 , **EVOLUTION** 3 , **SOME** 3 , **LET’S** 3 , **🔥EVATOKEN:** 2 , **NEED** 2 , **PROJECT** 2 , **EMISSIONS** 2 , **🦺IMPROVED** 2 , 
  
 ## What this user tweeted
  
-I'm live and It's my dog perfectly inside me add to  Snapchat:emilyrobert007
-#Ukraine #UkraineWar #Ukrainian… https://t.co/VZ9tpRow7P
+RT @eva_token: 🔥#EvaToken - Concluding the Benefits &amp; Challenges
+
+Benefits:
+🌬Reduced emissions
+🦺Improved safety
+📈Increased convenience
+
+Cha…
  
-# kathie_2023USER INFO
-![image](http://pbs.twimg.com/profile_images/1619782473226887168/oUAh2DUD_normal.jpg)
+# terrortheerrorUSER INFO
+![image](http://pbs.twimg.com/profile_images/1620644546496417793/AaL0RZJ6_normal.jpg)
  
-`User ScreenName:` kathie_2023 
+`User ScreenName:` terrortheerror 
  
-`User chosen Name:` kathie 
+`User chosen Name:` Terry Winters 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 29 19:39:36 +0000 2023 
+`User signup date?:` Wed Feb 01 03:59:10 +0000 2023 
+ 
+`User Description?:` Ops and Cybersecurity Engineer | Blue Team | Crypto Vet | Startup Founder & Director @ RedShelf 
+ 
+`Followers?: `26 
+ 
+`Following?:` 153 
+ 
+`User URL?:` None 
+ 
+`Location:` Chicago, IL 
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1620644546496417793/AaL0RZJ6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TOGETHER** 2 , **HELP** 2 , **ITS** 2 , **MOST** 2 , **RT** 1 , **@ISC2:** 1 , **CLOSE** 1 , **CYBERSECURITY** 1 , **WORKFORCE** 1 , **GAP** 1 , **CULTIVATE** 1 , **NEXT** 1 , **GENERATION** 1 , **LEADERS** 1 , **RAISING** 1 , **AWARENESS…THE** 1 , **CITY** 1 , **EFFICIENT** 1 , **0°** 1 , **SUDDENLY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ISC2: Together, we can help close the #cybersecurity workforce gap. Help cultivate the next generation of leaders by raising awareness…
+ 
+# AdedolapoMarianUSER INFO
+![image](http://pbs.twimg.com/profile_images/1620541953686310913/uB66Akgd_normal.jpg)
+ 
+`User ScreenName:` AdedolapoMarian 
+ 
+`User chosen Name:` Adedolapo Akinwunmi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 31 21:11:28 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `43 
+`Followers?: `4 
  
-`Following?:` 627 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 140 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1619782473226887168/oUAh2DUD_normal.jpg 
- 
-`Number of tweets excluding replies:` 140 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**US** 9 , **CANADA** 7 , **@NORMALGUY223:** 7 , **GOING** 6 , **•** 6 , **MONEY** 5 , **GOVERNMENT** 5 , **MUCH** 5 , **PEOPLE** 5 , **RUSSIA** 5 , **WAR** 5 , **CHINA** 5 , **BALLOON** 5 , **OLD** 5 , **UKRAINE** 4 , **JUSTIN** 4 , **TRUDEAU** 4 , **DUTCH** 4 , **NEED** 4 , **SUPPORT** 4 , 
- 
-## What this user tweeted
- 
-@Trollstoy88 257,000 humans dead for the US empire. I've heard that the Ukraine Government hasn't kept track of the… https://t.co/XNbjquuWot
- 
-# ksleft952USER INFO
-![image](http://pbs.twimg.com/profile_images/1622061308123422721/06ROoK9z_normal.png)
- 
-`User ScreenName:` ksleft952 
- 
-`User chosen Name:` Aravind Ks 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 05 02:35:26 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `21 
- 
-`Following?:` 416 
+`Following?:` 69 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 6 
+`Number of tweets extracted`  : 18 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1622061308123422721/06ROoK9z_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1620541953686310913/uB66Akgd_normal.jpg 
  
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FORMER** 2 , **PM** 2 , **BENNET:** 2 , **@JOHNSTANLY:** 2 , **ZELENSKY** 2 , **MEETING** 2 , **RT** 1 , **@WARMONITORS:** 1 , **⚡️BREAKING** 1 , **NETANYAHU** 1 , **CONSIDERS** 1 , **SENDING** 1 , **UKRAINE** 1 , **'IRON** 1 , **DOME'** 1 , **DEFENSE** 1 , **SYSTEM** 1 , **ABC** 1 , **NEWSRT** 1 , **@AARONJMATE:** 1 , 
- 
-## What this user tweeted
- 
-RT @WarMonitors: ⚡️#BREAKING Netanyahu considers sending Ukraine 'Iron Dome' defense system — ABC News
- 
-# Richardrich181USER INFO
-![image](http://pbs.twimg.com/profile_images/1621512370693771264/wHVZEnTk_normal.jpg)
- 
-`User ScreenName:` Richardrich181 
- 
-`User chosen Name:` Richard Rich 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jan 27 17:33:47 +0000 2023 
- 
-`User Description?:` nafo official half Scandinavian half celtic 🇳🇴 🇬🇧 🇮🇪 
- 
-`Followers?: `68 
- 
-`Following?:` 346 
- 
-`User URL?:` None 
- 
-`Location:` Langley Virginia, USA 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1621512370693771264/wHVZEnTk_normal.jpg 
- 
-`Number of tweets excluding replies:` 542 
+`Number of tweets excluding replies:` 18 
  
 
  
@@ -226,50 +273,19 @@ RT @WarMonitors: ⚡️#BREAKING Netanyahu considers sending Ukraine 'Iron Dome'
  
 ## User Top tweeted words 
  
-**UKRAINIAN** 17 , **UKRAINE** 14 , **!** 14 , **@OPJUST_VERITAS** 14 , **@PETRSIMON_** 14 , **@WARMONITORS** 14 , **@SHAY_TORGERSON** 14 , **@MFA_RUSSIA** 13 , **RUSSIAN** 11 , **@BBCWORLD** 10 , **@SKYNEWS** 10 , **@RUSEMBUSA** 8 , **I'M** 8 , **@RUSSIANEMBASSY** 8 , **RUSSIA** 7 , **@FINANCIALTIMES** 7 , **@TIMESBUSINESS** 7 , **@THEECONOMIST** 7 , **I'VE** 6 , **RASHIST** 6 , 
+**•** 7 , **CYBERSECURITY** 7 , **@SECURITYTRYBE:** 5 , **CERTIFICATIONS** 5 , **DAYS** 4 , **@BOWTIEDCYBER:** 3 , **FREE** 3 , **@CYBERSAFEHQ:** 3 , **RT** 2 , **10** 2 , **CAREER** 2 , **COURSES** 2 , **@KHALILAPRIDAY:** 2 , **CYBERGIRLS** 2 , **COM** 2 , **TOP** 1 , **STARTING** 1 , **CYBERSECURITYRT** 1 , **4** 1 , **60** 1 , 
  
 ## What this user tweeted
  
-@jacksonhinklle Help Ukraine donate to  https://t.co/zapTx7k49n
- 
-# gwandonbagUSER INFO
-![image](http://pbs.twimg.com/profile_images/1620231970415607808/9_CWclAG_normal.png)
- 
-`User ScreenName:` gwandonbag 
- 
-`User chosen Name:` 관돈박 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 31 01:26:18 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `11 
- 
-`Following?:` 77 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1620231970415607808/9_CWclAG_normal.png 
- 
-`Number of tweets excluding replies:` 7 
- 
+RT @SecurityTrybe: 10 Top Certifications for those starting a Career in CybersecurityRT @BowTiedCyber: 4 IT CERTIFICATIONS IN 60 DAYS
 
- 
+Network+ • 30 Days
 
- 
-## User Top tweeted words 
- 
-**LOVE** 1 , **UKRAINEHTTPS://TCO/V56B848NY1@ELONMUSK** 1 , **@CB_DOGE** 1 , **HTTPS://TCO/7LE28HWEDT@THETECHCHAP** 1 , **GALAXY** 1 , **S23** 1 , **ULTRA@TOPSTARNEWS** 1 , **삼가** 1 , **고인의** 1 , **명복을** 1 , **빕니다💎👍💒🙏** 1 , 
- 
-## What this user tweeted
- 
-I love Ukraine
+Security+ • 15 Days
+
+Splunk Core User • 10 Days
+
+Azure 900 • 5 Days…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
