@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **elonmusk**  
+The most popular user is: **teneikaask_you**  
  
 
-## The hell with it … even though Starlink is still losing money &amp; other companies are getting billions of taxpayer $,… https://t.co/ZHRWMLxio3 
+## If you're looking to pivot into entry-level tech roles, IBM has 6 FREE trainings with badges or certs you can earn.… https://t.co/QfnKyCMxcC 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **elonmusk**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KyivIndependent: ⚡️Ambassador: 2 Ukrainians previously considered dead are rescued in Turkey.They were pulled out of the rubble in th… |
-| RT @ArthurM40330824: #Ukranian channels celebrating use of chem weapons on #Russian soldiers.After release of the canister the men appear… |
-| Ukraine to send humanitarian aid to Turkey after deadly earthquake (reminder: Ukraine is at war with Russia)  https://t.co/Dmb9pHNAha |
+| RT @0x0SojalSec: YouTube Channels for cybersecurity Hacking and Bug Bounty ⚔️#infosec #cybersecurity #Hacking #bugbountytips  #CyberAttac… |
+| Israeli cybersecurity unicorn, Wiz, ($6-billion valuation) to withdraw all banking activity out of Israel in protes… https://t.co/6rASsJvZtO |
+| possible #phishing Website Detected#infosec #cybersecurity #scam #フィッシング詐欺 #偽サイトURL: hxxps://we-dot-sharefilefol… https://t.co/5KYUL8IJhF |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **WarMonitor3** |
-| #2 Most tweeted to  | **ukrainiansquad** |
-| #3 Most tweeted to  | **WarClandestine** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 6.64%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **NOELreports** |
+| #2 Most tweeted to  | **SecurityTrybe** |
+| #3 Most tweeted to  | **Ox4d5a** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 5.9%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -50,59 +50,57 @@ The most popular user is: **elonmusk**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **RUSSIAN**  |
-| third  | **US** |
-| fourth  | **WAR**  |
-| fifth  | **RUSSIA**  |
+| first  | **PROPAGANDA**  |
+| second  | **INFOSEC**  |
+| third  | **HACKING** |
+| fourth  | **•**  |
+| fifth  | **RUSSIAN**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RueDaungier: Large demonstrations in the Netherlands have taken place protesting against Dutch arms supplies being sent to Ukraine. htt… |
+|RT @radukn: SCADA Security is out! https://t.co/lV8aEAEhL7 Stories via @ChuckDBrooks #cybersecurity #security |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **elonmusk**  |
+| The most retweeted user is: **teneikaask_you**  |
 | ------------- |
-| The hell with it … even though Starlink is still losing money &amp; other companies are getting billions of taxpayer $,… https://t.co/ZHRWMLxio3 |
+| If you're looking to pivot into entry-level tech roles, IBM has 6 FREE trainings with badges or certs you can earn.… https://t.co/QfnKyCMxcC |
 
 # Potential Fake Accounts
  
-# wontcavedave2USER INFO
-![image](http://pbs.twimg.com/profile_images/1621280980475740160/dsfVfIp1_normal.png)
+# CSCPROPUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621651925354561538/t-Z7_TPQ_normal.jpg)
  
-`User ScreenName:` wontcavedave2 
+`User ScreenName:` CSCPROP 
  
-`User chosen Name:` Wontcavedave2 
+`User chosen Name:` Johnathan S. Whiteboard 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Feb 02 22:49:41 +0000 2023 
+`User signup date?:` Fri Feb 03 23:23:09 +0000 2023 
  
-`User Description?:` I am Progressive Resister @Wontcavedave. 
-Twitter locked me out, starting over.  I follow back❤️
-DAVE 💔 #ProudBlue #ONEV1 #Rabbithole #DemVoice1 
+`User Description?:` Junior Lecturer at Rochester Institute of Technology. 
  
-`Followers?: `941 
+`Followers?: `0 
  
-`Following?:` 1297 
+`Following?:` 14 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Rochester, NY 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1621280980475740160/dsfVfIp1_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1621651925354561538/t-Z7_TPQ_normal.jpg 
  
-`Number of tweets excluding replies:` 1245 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -110,38 +108,38 @@ DAVE 💔 #ProudBlue #ONEV1 #Rabbithole #DemVoice1
  
 ## User Top tweeted words 
  
-**PRESIDENT** 16 , **BIDEN** 16 , **@TONYHUSSEIN4:** 13 , **US** 13 , **HOUSE** 12 , **GOP** 12 , **STATE** 12 , **THAN** 11 , **REPUBLICANS** 11 , **NEW** 10 , **PEOPLE** 10 , **MAGA** 10 , **TRUMP** 9 , **@JESSTEEZN:** 9 , **TIME** 9 , **VOTEBIGBLUE** 9 , **@RYANSHEAD:** 8 , **@DEMSOLDIERJR:** 8 , **~** 8 , **@EVOLVINGEMPATHY:** 8 , 
+**CYBERSECURITYAWARENESS** 2 , **WHITEBOARD** 2 , **SANDWICH** 2 , **YOU'RE** 1 , **SECURE?** 1 , **SECURE** 1 , **HAM** 1 , **CYBERSECURITY…** 1 , **HTTPS://TCO/5LYCQXEYEPWHY** 1 , **DON'T** 1 , **PEOPLE** 1 , **WEAR** 1 , **HATS** 1 , **ANYMORE?** 1 , **CYBERSECURITY** 1 , **INFORMATIONSECURITY** 1 , **INFOSEC…** 1 , **HTTPS://TCO/SXWDDGUELLSOMETIMES** 1 , **HUNGRY** 1 , **EAT** 1 , 
  
 ## What this user tweeted
  
-RT @oldsargepap: 2 yrs into his term, President Biden faces a GOP-led House amid a standoff over raising debt limit, inflation, tensions w/…
+how do you know you're secure? you of the secure the do. Ham. #cybersecurityawareness #cybersecurity… https://t.co/5LycQXeyepwhy don't people wear hats anymore? #cybersecurityawareness #cybersecurity #informationsecurity #infosec… https://t.co/sXWDDgueLl
  
-# JoelRiley777USER INFO
-![image](http://pbs.twimg.com/profile_images/1620764227064545280/wuV6D6uh_normal.jpg)
+# katerynaOO2USER INFO
+![image](http://pbs.twimg.com/profile_images/1621498154133635074/rS5izVCw_normal.jpg)
  
-`User ScreenName:` JoelRiley777 
+`User ScreenName:` katerynaOO2 
  
-`User chosen Name:` Joel Riley 
+`User chosen Name:` Катерина 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 01 12:40:53 +0000 2023 
+`User signup date?:` Fri Feb 03 13:17:10 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Volunteer assistance to the civilian and military units, I love my country UKRAINE 🇺🇦 SLAVIA UKRAINE 🇺🇦 
  
 `Followers?: `4 
  
-`Following?:` 27 
+`Following?:` 69 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 68 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1620764227064545280/wuV6D6uh_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1621498154133635074/rS5izVCw_normal.jpg 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 68 
  
 
  
@@ -149,36 +147,36 @@ RT @oldsargepap: 2 yrs into his term, President Biden faces a GOP-led House amid
  
 ## User Top tweeted words 
  
-**BIDEN** 2 , **RT** 1 , **@THEREDACTEDINC:** 1 , **SOMETHING** 1 , **BIG** 1 , **HAPPENING** 1 , **UKRAINE** 1 , **NATO** 1 , **SCARED!** 1 , **HTTPS://TCO/VKDGT9G26QRT** 1 , **@JAMIESALE:** 1 , **MAYBE** 1 , **PLANNED?🤔🤷🏻‍♀️RT** 1 , **@BENNYJOHNSON:** 1 , **MATT** 1 , **GAETZ** 1 , **"IMPEACHES"** 1 , **JOE** 1 , **CRIME** 1 , **FAMILY—** 1 , 
+**GLORY** 40 , **UKRAINE** 36 , **VICTORY** 35 , **PAST** 20 , **PRESENT** 20 , **HEROS🙏** 20 , **MAY** 20 , **STAY** 20 , **SAFE** 20 , **BRAVE** 15 , **CALLED** 13 , **LAND** 13 , **@NOELREPORTS:** 12 , **RUSSIAN** 6 , **UKRAINIAN** 6 , **THERE…** 6 , **OURS🇺🇦💪🇺🇦❤️🫶❤️RT** 5 , **BAKHMUT** 4 , **NEW** 4 , **HA…** 4 , 
  
 ## What this user tweeted
  
-RT @TheRedactedInc: Something BIG is happening in Ukraine and NATO is scared! https://t.co/vkDgT9g26q
+RT @NOELreports: The EU will create a center to counter Russian and Chinese propaganda. It will monitor propaganda narratives emanating fro…
  
-# ufopredictionsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1623099275734568962/2Jl1ZZNG_normal.jpg)
+# EngineWPressUSER INFO
+![image](http://pbs.twimg.com/profile_images/1619852198753574912/KAyxEhrf_normal.jpg)
  
-`User ScreenName:` ufopredictions 
+`User ScreenName:` EngineWPress 
  
-`User chosen Name:` Addictive Ufo Space Predictions ⚡🛸👽 
+`User chosen Name:` WordPress For Beginner's 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Feb 04 07:32:29 +0000 2023 
+`User signup date?:` Sun Jan 29 22:14:05 +0000 2023 
  
-`User Description?:` We Were Sent From The Future Using Quantum Time Continuum To Help The Enslaved Humanity On Planet Earth. 🌍WE COME IN PEACE & PROSPERITY! 🕊🤞🍀 
+`User Description?:` EngineWP is an unofficial #WordPress resource site offering WordPress tips, tricks, marketing, SEO, and other resources. 
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 5 
+`Following?:` 11 
  
-`User URL?:` None 
+`User URL?:` https://t.co/ShhtdePOBK 
  
-`Location:` voids of space  
+`Location:`  
  
 `Number of tweets extracted`  : 15 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1623099275734568962/2Jl1ZZNG_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1619852198753574912/KAyxEhrf_normal.jpg 
  
 `Number of tweets excluding replies:` 15 
  
@@ -188,227 +186,28 @@ RT @TheRedactedInc: Something BIG is happening in Ukraine and NATO is scared! ht
  
 ## User Top tweeted words 
  
-**COMING** 3 , **BLAH** 2 , **WATCH** 2 , **WHATEVER** 2 , **EARTH** 2 , **HELP** 2 , **CLOSE** 2 , **THE…** 2 , **PREDICTIONS** 2 , **WEF** 1 , **CONTROL** 1 , **STUFF** 1 , **ENEMY** 1 , **1THE** 1 , **GOVT** 1 , **POISONING** 1 , **TRUST** 1 , **THEM!** 1 , **HTTPS://TCO/YUZINFSPUDVAX’D** 1 , **UNVAX’D** 1 , 
+**LATEST** 4 , **SEO** 4 , **CHECK** 3 , **LEARN** 3 , **TOP** 3 , **POST** 3 , **WEBSITE'S** 3 , **ENGINE** 3 , **TIPS** 3 , **STAY** 3 , **AHEAD** 3 , **BLOG** 3 , **WORDPRESS** 2 , **EFFECTIVE** 2 , **BEST** 2 , **US** 2 , **THAN** 2 , **GAME** 2 , **SEARCH** 2 , **RANKINGS** 2 , 
  
 ## What this user tweeted
  
-Prime Minister Bennett says Ukraine and Russia were close to a cease-fire 9 days into the Russian invasion, but the… https://t.co/EuKb6RyYcS
+"Stay secure online with the best password managers. Check out our list of top picks on @EngineWPress for easy, enc… https://t.co/vJuRo0MgYw
  
-# ThedaLove18USER INFO
-![image](http://pbs.twimg.com/profile_images/1620114515001049088/u7p28KVd_normal.jpg)
+# collett_maUSER INFO
+![image](http://pbs.twimg.com/profile_images/1622677940205981704/dcqfJ3-K_normal.jpg)
  
-`User ScreenName:` ThedaLove18 
+`User ScreenName:` collett_ma 
  
-`User chosen Name:` Theda Love 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 29 20:36:51 +0000 2023 
- 
-`User Description?:` I am a Poet. I am a Writer, by Birth, by Profession. I am an Advocate; I work for under-represented people. I love people! I love the Rainbow Human.
-Bilingüe 
- 
-`Followers?: `26 
- 
-`Following?:` 221 
- 
-`User URL?:` https://t.co/QGU5pokBuq 
- 
-`Location:` Upstate NY 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1620114515001049088/u7p28KVd_normal.jpg 
- 
-`Number of tweets excluding replies:` 294 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@FRANZZZ_KAFKA:** 23 , **@JAMESL1927:** 21 , **EARTHQUAKE** 10 , **LOVE** 9 , **@CHILLSUBS:** 9 , **HERE** 8 , **HAPPY** 8 , **CANNOT** 8 , **OPEN** 7 , **PLEASE** 7 , **DON'T** 7 , **MAKE** 7 , **ANY** 6 , **VERY** 6 , **POETRY** 6 , **BOOK** 6 , **@POETRY_DAILY:** 6 , **TIME** 5 , **BACK** 5 , **LONG** 5 , 
- 
-## What this user tweeted
- 
-RT @MarkHamill: I will be signing a limited number of #StarWars posters with all proceeds donated to https://t.co/NvIy7ggjw6 for the benefi…
- 
-# AmandaOceanViewUSER INFO
-![image](http://pbs.twimg.com/profile_images/1620510098761056260/i7zZ_uxZ_normal.jpg)
- 
-`User ScreenName:` AmandaOceanView 
- 
-`User chosen Name:` Amanda Smith 
+`User chosen Name:` MA Collett 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Jan 31 19:39:46 +0000 2023 
- 
-`User Description?:` Starting from scratch, but I’ll never abandon my favorites, I’m stubborn like that.
-Zero tolerance for lies! 
- 
-`Followers?: `23 
- 
-`Following?:` 284 
- 
-`User URL?:` None 
- 
-`Location:` Crab Cake Alley 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1620510098761056260/i7zZ_uxZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 1975 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@VP** 11 , **PRESIDENT** 10 , **FLORIDA** 9 , **REPUBLICANS** 8 , **SOME** 8 , **NEW** 8 , **FORMER** 8 , **@SETH_HETTENA:** 7 , **HARRIS** 7 , **YEARS** 6 , **DON’T** 6 , **ANOTHER** 6 , **TRUMP** 6 , **GOP** 6 , **HERE’S** 6 , **@CATHY2NOTTODAY:** 6 , **US** 6 , **MEDIA** 6 , **@EMPTYWHEEL:** 6 , **EVEN** 6 , 
- 
-## What this user tweeted
- 
-RT @OCCRP: A secret Kremlin-linked organization successfully interfered with European policies on occupied Ukraine. 
-
-Leaked emails show ho…
- 
-# Newsx573441605USER INFO
-![image](http://pbs.twimg.com/profile_images/1621494097906401280/_w5y7C5M_normal.jpg)
- 
-`User ScreenName:` Newsx573441605 
- 
-`User chosen Name:` Newsx 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 03 12:52:17 +0000 2023 
+`User signup date?:` Mon Feb 06 19:24:24 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `8 
  
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1621494097906401280/_w5y7C5M_normal.jpg 
- 
-`Number of tweets excluding replies:` 981 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 69 , **में** 34 , **के** 28 , **ने** 23 , **से** 22 , **की** 21 , **का** 21 , **میں** 20 , **کی** 15 , **CRYPTO** 13 , **को** 12 , **کے** 11 , **पर** 10 , **کا** 8 , **اور** 7 , **پولیس** 6 , **UNITED** 6 , **किया** 6 , **है** 6 , **था** 6 , 
- 
-## What this user tweeted
- 
-Pink Floyds Roger Waters To Be Present At UNSC Meeting On Ukraine – UN Source https://t.co/vUXCqx5qfy
- 
-# geoffrobins5USER INFO
-![image](http://pbs.twimg.com/profile_images/1622357689572495360/BTq5tGBk_normal.png)
- 
-`User ScreenName:` geoffrobins5 
- 
-`User chosen Name:` digdug 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 05 22:13:09 +0000 2023 
- 
-`User Description?:` blank 
- 
-`Followers?: `0 
- 
-`Following?:` 24 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 20 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1622357689572495360/BTq5tGBk_normal.png 
- 
-`Number of tweets excluding replies:` 20 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@POTUS** 7 , **RUSSIAN** 3 , **DON'T** 3 , **TRUMP** 3 , **GUESS** 3 , **BIDEN** 2 , **GOOD** 2 , **PEOPLE** 2 , **DURING** 2 , **BIG** 2 , **CC** 2 , **@JEFF21461** 1 , **@BEN_KARKIS** 1 , **@UKRAINE_MAP** 1 , **KILLED** 1 , **ACTION** 1 , **HIT** 1 , **500000** 1 , **YO** 1 , **SAYINGOH** 1 , 
- 
-## What this user tweeted
- 
-@Jeff21461 @Ben_Karkis @ukraine_map When Russian killed in action hit 500,000 yo will be saying...oh shit,Poland coughed
- 
-# bigjoehungryUSER INFO
-![image](http://pbs.twimg.com/profile_images/1622689903657074689/HqvpedVz_normal.jpg)
- 
-`User ScreenName:` bigjoehungry 
- 
-`User chosen Name:` political lies 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 06 20:10:52 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 20 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1622689903657074689/HqvpedVz_normal.jpg 
- 
-`Number of tweets excluding replies:` 20 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEW** 3 , **FIRE** 2 , **ARRIVED** 2 , **RUSSIA’S** 2 , **WAR** 2 , **AGAINST** 2 , **UKRAINE** 2 , **PEOPLE** 2 , **LOT** 2 , **THE…** 2 , **RUSSIA** 2 , **@DVATW** 2 , **MASSIVE** 1 , **BREAKS** 1 , **SHIPPING** 1 , **WAREHOUSE** 1 , **FACTORY** 1 , **📌CHICAGO** 1 , **IL** 1 , **MULTIPLE** 1 , 
- 
-## What this user tweeted
- 
-@PeImeniPusha Russia’s war against #Ukraine is war against democracy and freedom. Everywhere in Estonia, people are… https://t.co/Kv9jKIwJCG
- 
-# GhostBoy45_USER INFO
-![image](http://pbs.twimg.com/profile_images/1623099892515192834/1BWosAr-_normal.jpg)
- 
-`User ScreenName:` GhostBoy45_ 
- 
-`User chosen Name:` Ghost Boy👽 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 07 20:14:28 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 5 
+`Following?:` 73 
  
 `User URL?:` None 
  
@@ -416,7 +215,7 @@ Pink Floyds Roger Waters To Be Present At UNSC Meeting On Ukraine – UN Source
  
 `Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1623099892515192834/1BWosAr-_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1622677940205981704/dcqfJ3-K_normal.jpg 
  
 `Number of tweets excluding replies:` 6 
  
@@ -426,11 +225,11 @@ Pink Floyds Roger Waters To Be Present At UNSC Meeting On Ukraine – UN Source
  
 ## User Top tweeted words 
  
-**@PEIMENIPUSHA:** 5 , **DE** 3 , **MISSILES** 2 , **LEBANESE** 2 , **UCRANIANOS** 2 , **RT** 1 , **THAN** 1 , **6** 1 , **STRUCK** 1 , **KHARKOVRT** 1 , **ZELENSKY** 1 , **SIGNED** 1 , **DECREES** 1 , **APPOINTING** 1 , **HEADS** 1 , **THREE** 1 , **REGIONAL** 1 , **STATE** 1 , **ADMINISTRATIONS:** 1 , **DNIPRO** 1 , 
+**@DOOBIE** 2 , **@BOYDCLEWIS** 1 , **CYBERSECURITY@DOOBIE** 1 , **HTTPS://TCO/SYCFPS7ADN@ILYTRISTEN** 1 , **TOP** 1 , **ARTIST** 1 , **FAR** 1 , **✨⚡️💫@AJSMITH1989** 1 , **LOVE** 1 , **SONG** 1 , **N** 1 , **😘@DOOBIE** 1 , **I’M** 1 , **TRYNA** 1 , **SOMETHING** 1 , **🥀@DOOBIE** 1 , **🤫** 1 , 
  
 ## What this user tweeted
  
-RT @PeImeniPusha: Child soldiers in ukraine. Location unknown. https://t.co/KSJufzbvyM
+@BoydClewis Cybersecurity
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
