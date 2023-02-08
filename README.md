@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **DailyOsint**  
+The most popular user is: **KanekoaTheGreat**  
  
 
-## If you need a fast and effective port scanner,
-
-You can try #RustScan, which is able to scan all ports in 3 seconds… https://t.co/G6zZMOFiJN 
+## 25/ In effect, the left was allowed to discuss the vulnerabilities of voting machines after the 2016 election, and… https://t.co/8XgCxYd9lc 
 
   
 
@@ -25,25 +23,25 @@ You can try #RustScan, which is able to scan all ports in 3 seconds… https://t
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RedPacketSec: IBM WebSphere Application Server code execution | CVE-2023-23477 - https://t.co/nLSLJV0x9P#CVE #Vulnerability #OSINT #T… |
-| CISA: Cisco Releases Security Advisories for Multiple Products - https://t.co/5JFQjd69nx#CISA #OSINT #ThreatIntel #Cyber |
-| RT @RedPacketSec: QNAP running QTS and running QTS code execution | CVE-2022-27596 - https://t.co/sxWqyJwjaH#CVE #Vulnerability #OSINT #T… |
+| RT @RuslanWing: If you are a developer and planning to deploy a Dapp or token on @XinFin_Official #XDCNetwork please use Mythril tool to te… |
+| @senatorshoshana Have you tried asking the AI about its security vulnerabilities? |
+| ➡️Call for papers! Deadline for proposals = Feb. 28 @Rev_Emulations Journal will publish an issue on "Vulnerabili… https://t.co/5kzPL9ZiTG |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DailyOsint** |
-| #2 Most tweeted to  | **RedPacketSec** |
-| #3 Most tweeted to  | **CyberGuardNews** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 2.17%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **KanekoaTheGreat** |
+| #2 Most tweeted to  | **udaykotak** |
+| #3 Most tweeted to  | **hack_git** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 5.14%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -52,30 +50,471 @@ You can try #RustScan, which is able to scan all ports in 3 seconds… https://t
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **THREATINTEL**  |
-| second  | **OSINT**  |
-| third  | **MALWARE** |
-| fourth  | **WHICH**  |
-| fifth  | **RANSOMWARE**  |
+| first  | **VULNERABILITIES**  |
+| second  | **INDIAN**  |
+| third  | **SOFTWARE** |
+| fourth  | **VOTING**  |
+| fifth  | **@KANEKOATHEGREAT:**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (80.0%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DailyOsint: If you need a fast and effective port scanner,You can try #RustScan, which is able to scan all ports in 3 seconds.https… |
+|RT @avrohomg: NetOps &amp; SecOps Collaborate to Identify &amp; Remediate Vulnerabilities👇 https://t.co/xh1FCTI3WZ#CyberSecurity @NETSCOUT @Evan… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DailyOsint**  |
+| The most retweeted user is: **KanekoaTheGreat**  |
 | ------------- |
-| If you need a fast and effective port scanner,You can try #RustScan, which is able to scan all ports in 3 seconds… https://t.co/G6zZMOFiJN |
+| 25/ In effect, the left was allowed to discuss the vulnerabilities of voting machines after the 2016 election, and… https://t.co/8XgCxYd9lc |
 
 # Potential Fake Accounts
+ 
+# DemystifyTechnoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621621980041728001/hlEF9Ks8_normal.png)
+ 
+`User ScreenName:` DemystifyTechno 
+ 
+`User chosen Name:` Demystify Technologies 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 03 21:29:42 +0000 2023 
+ 
+`User Description?:` Breaking down complex tech to make it simple for everyone. Join us on our mission to #DemystifyTech and empower tech-savvy minds. 
+ 
+`Followers?: `4 
+ 
+`Following?:` 113 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 75 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621621980041728001/hlEF9Ks8_normal.png 
+ 
+`Number of tweets excluding replies:` 75 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ARP** 17 , **NETWORK** 15 , **PROTOCOL** 15 , **USED** 15 , **MEDIA** 15 , **OAUTH** 15 , **SUCH** 13 , **CONTROL** 12 , **MULTIMEDIA** 12 , **SERVER** 11 , **IP** 9 , **ADDRESS** 8 , **DEVICE** 8 , **DATA** 8 , **RELAY** 8 , **DOWN** 7 , **ITS** 7 , **WHICH** 7 , **CSCF** 7 , **COMPONENT** 7 , 
+ 
+## What this user tweeted
+ 
+3. OSI Model: ARP operates at the Data Link Layer of the OSI Model.
+
+4. Security Vulnerabilities: ARP is not secure… https://t.co/vckppcithW
+ 
+# thegledly1USER INFO
+![image](http://pbs.twimg.com/profile_images/1622229184553832449/Aaln5QNs_normal.jpg)
+ 
+`User ScreenName:` thegledly1 
+ 
+`User chosen Name:` Dr. Manish Singh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 05 13:31:07 +0000 2023 
+ 
+`User Description?:` 🕉️ Geopolitics, Biology & Krishna 
+ 
+`Followers?: `24 
+ 
+`Following?:` 180 
+ 
+`User URL?:` None 
+ 
+`Location:` Bharat 
+ 
+`Number of tweets extracted`  : 66 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1622229184553832449/Aaln5QNs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 66 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INDIA** 12 , **PEOPLE** 9 , **INDIAN** 9 , **HINDUS** 8 , **AFTER** 7 , **INTO** 7 , **MUSLIMS** 6 , **SAME** 5 , **@THEGLEDLY1:** 5 , **ARMY** 5 , **BHUTAN** 5 , **DON'T** 5 , **STILL** 4 , **HINDU** 4 , **SUPPORT** 4 , **UAE** 4 , **WOMEN** 4 , **INSTEAD** 4 , **MONEY** 4 , **CONVERSION** 4 , 
+ 
+## What this user tweeted
+ 
+RT @EbrahimHashem: It’s a pity, but not a surprise, to see most “China scholars” in the West study China not because they want to understan…
+ 
+# inkstallashUSER INFO
+![image](http://pbs.twimg.com/profile_images/1622553411916025857/hw61qp4C_normal.jpg)
+ 
+`User ScreenName:` inkstallash 
+ 
+`User chosen Name:` Ashwin Shetty 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 06 09:32:28 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 113 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1622553411916025857/hw61qp4C_normal.jpg 
+ 
+`Number of tweets excluding replies:` 113 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GUIDE** 51 , **COMPREHENSIVE** 25 , **NOW:** 21 , **SKILLS** 20 , **UNDERSTANDING** 19 , **PYTHON** 18 , **ALGORITHMS** 15 , **NOW:…** 14 , **AI** 13 , **NEXT** 12 , **LEVEL** 12 , **AZURE** 12 , **SYNAPSE** 12 , **LEARN** 11 , **DEEPER** 11 , **ARCHITECTURE** 11 , **ANALYTICS** 11 , **CHATGPT** 10 , **SOFTWARE** 10 , **MARKET** 9 , 
+ 
+## What this user tweeted
+ 
+https://t.co/0Y5J9HNHuB
+Improve your #CyberDefense skills with the comprehensive guide on identifying, documenting… https://t.co/PM8O5MHjTrhttps://t.co/0Y5J9HNHuB
+Learn how to identify, document, and disclose cybersecurity vulnerabilities and stay ahead… https://t.co/tA5kyjydvOhttps://t.co/0Y5J9HNHuB
+Protect your organization from cyber threats with the guide on #Identifying, #Documenting &amp;… https://t.co/2MnNqAyQLMTake your #CyberSecurity knowledge to the next level with the guide on identifying, documenting and disclosing vuln… https://t.co/VswDCjIERSImprove your #CyberDefense skills with the comprehensive guide on identifying, documenting and disclosing vulnerabi… https://t.co/y5tFP17iQLLearn how to identify, document, and disclose cybersecurity vulnerabilities and stay ahead of the game. Get your gu… https://t.co/jp7vej0w4uProtect your organization from cyber threats with the guide on #Identifying, #Documenting &amp; #Disclosing Cybersecuri… https://t.co/v1HcCPOnhFEnhance your #CyberDefense skills with the guide on Identifying, Documenting and Disclosing Cybersecurity Vulnerabi… https://t.co/4BQdkFJsclProtect your organization from cyber attacks with a comprehensive guide on identifying &amp; disclosing vulnerabilities… https://t.co/CV7nDLRFhWStay ahead of cyber threats with the guide on #Identifying, #Documenting &amp; #Disclosing Cybersecurity Vulnerabilitie… https://t.co/amJ9dSTt7i
+ 
+# IcePhishingUSER INFO
+![image](http://pbs.twimg.com/profile_images/1622638652651360256/U4ZlHZcA_normal.jpg)
+ 
+`User ScreenName:` IcePhishing 
+ 
+`User chosen Name:` Ice Phishing 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 06 16:48:46 +0000 2023 
+ 
+`User Description?:` The daily 3min newsletter on what matters in cybersecurity 
+ 
+`Followers?: `1 
+ 
+`Following?:` 18 
+ 
+`User URL?:` https://t.co/m38RXSRAX2 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1622638652651360256/U4ZlHZcA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FEB** 1 , **7TH** 1 , **NEWSLETTER** 1 , **HERE'S** 1 , **TODAY:** 1 , **VMWARE** 1 , **VULNERABILITIES** 1 , **BEING** 1 , **LEVERAGED** 1 , **RANSOMWARE** 1 , **ATTA…** 1 , **HTTPS://TCO/GMLNABN5BB** 1 , 
+ 
+## What this user tweeted
+ 
+Feb 7th Newsletter - Here's what we have for you today:
+- VMware vulnerabilities being leveraged in ransomware atta… https://t.co/gMLNaBN5bb
+ 
+# HitleritwasokUSER INFO
+![image](http://pbs.twimg.com/profile_images/1622852442638393344/dfSw-OGx_normal.png)
+ 
+`User ScreenName:` Hitleritwasok 
+ 
+`User chosen Name:` This Sucks 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 07 06:59:07 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1622852442638393344/dfSw-OGx_normal.png 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WORLD** 2 , **@KANEKOATHEGREAT** 1 , **@REALMIKELINDELL** 1 , **@KARILAKEWARROOM** 1 , **@DC_DRAINO** 1 , **@CHRISTINA_BOBB** 1 , **@PATRICKBYRNE** 1 , **ERIC** 1 , **THESE** 1 , **SAME** 1 , **NETWORK** 1 , **VULNERABILITIES@LAURALOOMER** 1 , **WITHOUT** 1 , **GOVERNMENT** 1 , **I'D** 1 , **LIVE** 1 , **😃@NEILEJOHNSON** 1 , **@GEOREBEKAH** 1 , **SHE'S** 1 , **NASTY** 1 , 
+ 
+## What this user tweeted
+ 
+@KanekoaTheGreat @realMikeLindell @KariLakeWarRoom @DC_Draino @christina_bobb @PatrickByrne ERIC has these same network vulnerabilities.
+ 
+# jerrytech20USER INFO
+![image](http://pbs.twimg.com/profile_images/1621112912675803136/E-Bx6pBl_normal.jpg)
+ 
+`User ScreenName:` jerrytech20 
+ 
+`User chosen Name:` Jerry Tech 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 29 17:05:57 +0000 2023 
+ 
+`User Description?:` 🥇Pro-Hacking Service. *Private investigator* * Recovery Services* *Recovery Services* *Crypto* *Instagram* *icloud ID* *Snapchat* *Facebook* #NoFreeServices 
+ 
+`Followers?: `2 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621112912675803136/E-Bx6pBl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 277 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ACCOUNT** 150 , **HACKED** 109 , **INBOX** 85 , **RECOVER** 59 , **I'M** 43 , **GUIDE** 43 , **HACKING** 42 , **SNAPCHAT** 41 , **AVAILABLE** 39 , **HELP** 38 , **HACK** 36 , **LOST** 34 , **NEED** 32 , **ACCOUNTS** 32 , **FACEBOOKDOWN** 31 , **DM** 30 , **HACKER** 28 , **RECOVERY** 28 , **ICLOUD** 27 , **ANY** 25 , 
+ 
+## What this user tweeted
+ 
+Linux Path Cheat Sheet
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informationsecurity  #cissp… https://t.co/x8eR3cAkmJ
+ 
+# ukBabe2022USER INFO
+![image](http://pbs.twimg.com/profile_images/1622067730621894656/hAwhO1wD_normal.jpg)
+ 
+`User ScreenName:` ukBabe2022 
+ 
+`User chosen Name:` Alison Macson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 05 02:57:15 +0000 2023 
+ 
+`User Description?:` Tech Info 
+ 
+`Followers?: `0 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:` New York 
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1622067730621894656/hAwhO1wD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**METHODS** 4 , **COMPUTER** 3 , **INTO** 3 , **ACCOUNT** 3 , **HACKING** 2 , **SEVERAL** 2 , **USED** 2 , **HACK** 2 , **INSTAGRAM** 2 , **NOTE** 2 , **THESE** 2 , **METHOD** 2 , **COULD** 2 , **TECHN…** 2 , **THROUGH** 2 , **VARIOUS** 2 , **POPULAR** 2 , **FEATURE** 2 , **HACKED** 2 , **ONLINE** 2 , 
+ 
+## What this user tweeted
+ 
+Hacking can also be defined as the practice of exploring and experimenting with computer systems and networks to ga… https://t.co/bSguLTaFRVHacking into a school's computer system can be done through various methods, including exploiting vulnerabilities i… https://t.co/Lcs8mnW4jc
+ 
+# nimiinbb16USER INFO
+![image](http://pbs.twimg.com/profile_images/1619674552841248771/eIoaVk8M_normal.png)
+ 
+`User ScreenName:` nimiinbb16 
+ 
+`User chosen Name:` Nimibb16 Nim 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 29 12:31:19 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `89 
+ 
+`Following?:` 108 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1619674552841248771/eIoaVk8M_normal.png 
+ 
+`Number of tweets excluding replies:` 3505 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NIMRIT** 139 , **WON** 93 , **MAJESTIC** 67 , **STAR** 66 , **HEARTSRT** 55 , **NIMRITRT** 52 , **HEARTS** 32 , **NIMRITKAURAHLUWALIA** 21 , **@COLORSTV** 15 , **SE** 14 , **HAI** 13 , **@AISHWAR34633912:** 13 , **@NIMRITAHLUWALIA** 12 , **KA** 11 , **@SHIVRIT5:** 11 , **@NIMRIT_HOLIC:** 9 , **FANS** 9 , **MANDALI** 8 , **GOOD** 8 , **@DURRRRAHOO** 8 , 
+ 
+## What this user tweeted
+ 
+RT @sbaldeep23: Nimrit, U Played with utmost dignity, showed ur vulnerabilities nd showed ur realness on the show....U r beauty with brains…
+ 
+# s4ndraJCUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621843041890848768/NRsH3kU2_normal.jpg)
+ 
+`User ScreenName:` s4ndraJC 
+ 
+`User chosen Name:` Sandra Jiménez 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 04 11:56:18 +0000 2023 
+ 
+`User Description?:` Futura técnico superior en Administración de sistemas informáticos 
+ 
+`Followers?: `7 
+ 
+`Following?:` 46 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621843041890848768/NRsH3kU2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 16 , **HACKING** 7 , **EN** 6 , **LA** 5 , **PARA** 4 , **Y** 4 , **CIBERSEGURIDAD** 4 , **VER** 3 , **DEVOPS** 3 , **@ALVARO_CHIROU:** 3 , **COMPARTO** 3 , **CON** 3 , **CURSO** 2 , **TUS** 2 , **SI** 2 , **APRENDIENDO** 2 , **FTP** 2 , **QUE** 2 , **CYBERSECURITY** 2 , **INFOSEC** 2 , 
+ 
+## What this user tweeted
+ 
+RT @hack_git: POC
+
+A public collection of POCs &amp; Exploits for the vulnerabilities I discovered
+
+https://t.co/iszA9dJUWW https://t.co/TcufyI…
+ 
+# MrignayaniNUSER INFO
+![image](http://pbs.twimg.com/profile_images/1622582032923779072/FH2T-kU9_normal.jpg)
+ 
+`User ScreenName:` MrignayaniN 
+ 
+`User chosen Name:` Mrignayani Natrajan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 01 12:37:30 +0000 2023 
+ 
+`User Description?:` Geopolitical analyst | Mapping global power dynamics | Exploring the intersections of politics, history, and culture | Opinions are my own | #Geopolitics 
+ 
+`Followers?: `0 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1622582032923779072/FH2T-kU9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GLOBAL** 4 , **G-20** 3 , **COUNTRIES** 2 , **BETWEEN** 2 , **CHINA** 2 , **WORLD** 2 , **VULNERABILITIES** 2 , **PANDEMIC** 2 , **DEVELOPMENT** 2 , **SOUTH** 2 , **COMMON** 2 , **NATURAL** 1 , **DISASTER** 1 , **DESTABILIZED** 1 , **WEST** 1 , **ASIAN** 1 , **WHICH** 1 , **ALREADY** 1 , **SUFFERING** 1 , **HUMAN** 1 , 
+ 
+## What this user tweeted
+ 
+"The mounting debt vulnerabilities, caused by geopolitical tensions and the pandemic, can trigger a global recessio… https://t.co/TISkHDsYzN"The pandemic has exposed the vulnerabilities of countries, highlighting the need for a major scale-up of response… https://t.co/E4siem0O54
+ 
+# priyankitlove23USER INFO
+![image](http://pbs.twimg.com/profile_images/1621914178863902721/ZWWK6slA_normal.jpg)
+ 
+`User ScreenName:` priyankitlove23 
+ 
+`User chosen Name:` vanshika| pri ftw 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 04 16:44:45 +0000 2023 
+ 
+`User Description?:` 18| pri & anki 
+ 
+`Followers?: `5 
+ 
+`Following?:` 71 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621914178863902721/ZWWK6slA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 299 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PRIYANKA** 35 , **PRIYANKACHAHARCHOUDHARY** 20 , **TROPHY** 16 , **WINNER** 12 , **VOTE** 11 , **PRIYANKIT** 11 , **ARISING** 11 , **PRI** 10 , **BB16** 10 , **KI** 9 , **PRIYANKACHAHARCHOUDHARYRT** 8 , **MAKE** 8 , **WIN** 8 , **VOTING** 7 , **GONNA** 6 , **FINALE** 6 , **HATE** 6 , **FANS** 6 , **VOOT** 6 , **SAYING** 6 , 
+ 
+## What this user tweeted
+ 
+RT @udumbgirl_: @oldaccountsus13 @Gurdeep1965 @JThakers &amp; also have no basic idea about open &amp; shut case. Calling herself mental advocate &amp;…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
