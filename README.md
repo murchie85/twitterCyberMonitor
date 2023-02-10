@@ -1,28 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **baba_Omoloro**  
+The most popular user is: **Imposter_Edits**  
  
 
-## Learn. 
-Unlearn. 
-Relearn. 
-
-UI/UX (1): https://t.co/CHGm7cmL6p 
-
-UI/UX (2): https://t.co/EmRGi7XmAh 
-
-PMP:… https://t.co/sATqiAkn59 
+## Some more heartwarming footage coming out of the Turkey earthquake zone, rescuers we able to free a little friend!… https://t.co/lo5mjdYWzh 
 
   
 
@@ -31,25 +23,25 @@ PMP:… https://t.co/sATqiAkn59
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @avrohomg: BotNets: your VPN is now a target. So are the other links in your connectivity #SupplyChainGet the full report to find out… |
-| GAO Calls for Action to Protect Cybersecurity of Critical Energy, Communications Networks https://t.co/BJjrS70nwb… https://t.co/6VxCdOysMl |
-| “You’re being tracked already, so don’t worry about a balloon coming over your house.” 😳 What are your thoughts?… https://t.co/6LAFhnYKJS |
+| RT @Notes_Theory: How Radha Cracked Her CISSP Exam! https://t.co/OajHR4atwy #cissp #infosec #cybersecurity #security #cyber #informationsec… |
+| RT @sboger@mastodon.socialThe single best thing I ever did to reduce online drama was to dump 50% of the #infosec… https://t.co/g5LBPOQSwJ |
+| RT @oneleggoalie: This email and domain(noreply@usps.com)is #Phishing #Scam #Fraud#Pride #TruthMatters#Steam#nonbinary #laicism#Ind… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RepSwalwell** |
-| #2 Most tweeted to  | **HomelandDems** |
-| #3 Most tweeted to  | **HaywoodTalcove** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 5.64%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **0xor0ne** |
+| #3 Most tweeted to  | **0x0SojalSec** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 4.6%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -58,28 +50,28 @@ PMP:… https://t.co/sATqiAkn59
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TOP**  |
-| second  | **THRILLED**  |
-| third  | **SUBCOMMITTEE** |
-| fourth  | **CHOSEN**  |
-| fifth  | **DEMOCRAT**  |
+| first  | **INFOSEC**  |
+| second  | **PHISHING**  |
+| third  | **PENTESTING** |
+| fourth  | **CYBERSECURITYTIPS**  |
+| fifth  | **@HACKINARTICLES:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RepSwalwell: Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems |
+|Steps To Planning And Implementation Of Data PrivacyImplementing data privacy measures is essential for protectin… https://t.co/IC5VLVumup |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **baba_Omoloro**  |
+| The most retweeted user is: **Imposter_Edits**  |
 | ------------- |
-| Learn. Unlearn. Relearn. UI/UX (1): https://t.co/CHGm7cmL6p UI/UX (2): https://t.co/EmRGi7XmAh PMP:… https://t.co/sATqiAkn59 |
+| Some more heartwarming footage coming out of the Turkey earthquake zone, rescuers we able to free a little friend!… https://t.co/lo5mjdYWzh |
 
 # Potential Fake Accounts
  
@@ -124,7 +116,7 @@ Wondering how to #Recover, #hacked, retrieve, or protect any accounts or wallets
 
 👉 Follow DAMSOLTECH on Instagram ( https://t.co/PTmeVuFOiN)… https://t.co/NFDUg4MmTZ🤔How are you protecting your crypto wallets?
 
-👉 Follow DAMSOLTECH on Instagram ( https://t.co/PTmeVuFOiN)… https://t.co/FLRnm5Qhu6
+👉 Follow DAMSOLTECH on Instagram ( https://t.co/PTmeVuFOiN)… https://t.co/FLRnm5Qhu6Wondering how to recover hacked accounts and also protect any account or wallet? Leave me a DM for assistance,… https://t.co/uxPfWtyNsJ
  
 # AnkitChaubey22USER INFO
 ![image](http://pbs.twimg.com/profile_images/1621378165389283328/x4HFBIiv_normal.jpg)
@@ -163,38 +155,39 @@ Wondering how to #Recover, #hacked, retrieve, or protect any accounts or wallets
  
 ## What this user tweeted
  
-RT @NandanLohitaksh: Android Pentesting Roadmap
+How to clear cache in chrome https://t.co/I1Ug6F8TlF 
+#Chrome #google #windows #tech #infosec #hackrevealRT @hackinarticles: Search Engine for Pentester
 
-https://t.co/iZJ5ffvIhr
+https://t.co/3BV962TUHY
 
-#bugbounty #bugbountytips #cybersecurity #hacking https://t.co/tF…
+#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #red…SQL injection using of SQLMAP https://t.co/pFHiaaeYVH #sql #cybersecuritytips #CyberSecurityAwareness #CyberSec… https://t.co/OqX5PC6ZDn
  
-# LeokJaneUSER INFO
-![image](http://pbs.twimg.com/profile_images/1621963928023490561/VpTx-ie8_normal.jpg)
+# bug_hunter007USER INFO
+![image](http://pbs.twimg.com/profile_images/1621855173147607041/NjJTGvQ8_normal.png)
  
-`User ScreenName:` LeokJane 
+`User ScreenName:` bug_hunter007 
  
-`User chosen Name:` Jane Leok 
+`User chosen Name:` abc dfe 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Feb 04 20:08:29 +0000 2023 
+`User signup date?:` Sat Feb 04 12:56:20 +0000 2023 
  
-`User Description?:` Jane Leok is a flexible and dynamic professional who has decided to transition into cybersecurity. 
+`User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 9 
+`Following?:` 36 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1621963928023490561/VpTx-ie8_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1621855173147607041/NjJTGvQ8_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -202,11 +195,15 @@ https://t.co/iZJ5ffvIhr
  
 ## User Top tweeted words 
  
-**INTERNAL** 2 , **REDDIT** 1 , **SUFFERED** 1 , **CYBERATTACK** 1 , **SUNDAY** 1 , **EVENING** 1 , **HACKERS** 1 , **ACCESSING** 1 , **SYSTEMS** 1 , **STEALING** 1 , **DOCUMEN…** 1 , **HTTPS://TCO/8JOEVU0LCWANALYZING** 1 , **EVALUATING** 1 , **IMPROVING** 1 , **INFORMATION** 1 , **ARGUMENTS** 1 , **ORDER** 1 , **ARRIVE** 1 , **SOUND** 1 , **CONCLUSIONS** 1 , 
+**S3** 2 , **RT** 1 , **@ROOHAA_N:** 1 , **RECON** 1 , **TIPS:** 1 , **METHOD** 1 , **1:** 1 , **USE** 1 , **GOOGLE** 1 , **DORKS** 1 , **FINDING** 1 , **BUCKET** 1 , **SITE:** 1 , **HTTPS://TCO/EDQQIBNTG3** 1 , **&LT;HTTPS://TCO/EC8UOEIMP…RT** 1 , **@EXPERTHAC_GARY1:** 1 , **HACK** 1 , **SERVICES** 1 , **AVAILABLE** 1 , **24/7** 1 , 
  
 ## What this user tweeted
  
-Reddit suffered a cyberattack Sunday evening, with hackers accessing internal systems and stealing internal documen… https://t.co/8JOEvU0lcW
+RT @roohaa_n: S3 RECON TIPS:
+
+# Method 1:
+Use this google dorks for finding s3 bucket
+site: https://t.co/eDQQibNTG3 &lt;https://t.co/EC8UOeIMP…
  
 # johnsunday005USER INFO
 ![image](http://pbs.twimg.com/profile_images/1623264141795373058/srJQgBXN_normal.jpg)
@@ -256,45 +253,6 @@ https://t.co/XqqsyaoRch
 
 #infosec #cybersecurity #cybersecuritytips #pentesting #oscp #re…
  
-# smartyrishi39USER INFO
-![image](http://pbs.twimg.com/profile_images/1623891502190706688/NzCWAHsR_normal.jpg)
- 
-`User ScreenName:` smartyrishi39 
- 
-`User chosen Name:` mr creation's 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 10 03:47:58 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623891502190706688/NzCWAHsR_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HAI** 3 , **DEAR** 2 , **SIR/MAM** 2 , **MERA** 2 , **NAAM** 2 , **RISHIKESH** 2 , **KUMAR** 2 , **KAVILKAR** 2 , **MADHYA** 2 , **PRADESH** 2 , **JABALPUR** 2 , **KA** 2 , **REHNE** 2 , **@MAHAPOLICE** 1 , **WALA** 1 , **HU…** 1 , **HTTPS://TCO/NOQ0NZH1Y2@DGPMAHARASHTRA** 1 , **WALA…** 1 , **HTTPS://TCO/EB2QGH8GKBPLEASE** 1 , **HELP** 1 , 
- 
-## What this user tweeted
- 
-Please help me mere sath online payment fourod hua hai or me ghr me bhi kisi se share nhi krskta please cybersecuri… https://t.co/5w4Alc0nBy
- 
 # ThreatintelSaiUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1623156177503657992/2xWFDuWA_normal.png)
  
@@ -336,32 +294,35 @@ RT @hackinarticles: Pic of the Day
 
 #infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
  
-# WomenxpUSER INFO
-![image](http://pbs.twimg.com/profile_images/1620696365058920450/1Rui67Cs_normal.jpg)
+# nanzenikUSER INFO
+![image](http://pbs.twimg.com/profile_images/1623466471736111107/v7gS2J3B_normal.png)
  
-`User ScreenName:` Womenxp 
+`User ScreenName:` nanzenik 
  
-`User chosen Name:` Puji 
+`User chosen Name:` n4nz3nik 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 01 08:11:39 +0000 2023 
+`User signup date?:` Wed Feb 01 13:49:57 +0000 2023 
  
-`User Description?:` @pip 
+`User Description?:` + ¿A que te dedicas? 
+- Soy escritor, tengo un blog. ¿Y tu? 
++ Soy piloto, tengo una scooter.
+https://t.co/5YlElIQX8p 
  
-`Followers?: `7 
+`Followers?: `5 
  
-`Following?:` 117 
+`Following?:` 24 
  
-`User URL?:` None 
+`User URL?:` https://t.co/o6dFc8ptxV 
  
-`Location:`  
+`Location:` Spain 
  
-`Number of tweets extracted`  : 73 
+`Number of tweets extracted`  : 23 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1620696365058920450/1Rui67Cs_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1623466471736111107/v7gS2J3B_normal.png 
  
-`Number of tweets excluding replies:` 73 
+`Number of tweets excluding replies:` 23 
  
 
  
@@ -369,13 +330,94 @@ RT @hackinarticles: Pic of the Day
  
 ## User Top tweeted words 
  
-**GIVEAWAY** 13 , **@EKSAN_ETH** 11 , **X** 10 , **+** 10 , **@VEECZA** 10 , **FEB** 8 , **FOLLOW** 7 , **$USDT** 6 , **NFT** 6 , **TWITTER** 6 , **CAMPAIGN** 6 , **@AXIZNET** 5 , **AIRDROP** 5 , **9:00** 5 , **POOL** 5 , **JOIN** 4 , **@TASKONXYZ:** 4 , **⏰** 4 , **GIVING** 4 , **REWARDS!** 4 , 
+**DE** 12 , **QUE** 9 , **EN** 8 , **LA** 7 , **ES** 5 , **EL** 5 , **PARA** 5 , **DEL** 4 , **@DERECHODELARED:** 4 , **Y** 4 , **MI** 4 , **CON** 4 , **UN** 4 , **POR** 3 , **ESTO** 3 , **@ELHACKERNET:** 3 , **LAS** 3 , **YA** 2 , **ANTES** 2 , **UNA** 2 , 
  
 ## What this user tweeted
  
-RT @magpiexyz_io: Exciting news Magpies!😍
+RT @harshad_hacker: IoT-PT | Hacker Associate
+A Virtual environment for Pentesting IoT Devices
+https://t.co/Ii0dDB363U  | 
 
-We're launching our #BugBounty program in partnership with @immunefi to make Magpie even more se…
+#infosec #cyber…
+ 
+# BudhirajaAnkitaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1623323981658087424/a7kki85f_normal.png)
+ 
+`User ScreenName:` BudhirajaAnkita 
+ 
+`User chosen Name:` Ankita Budhiraja 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 08 14:12:51 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 40 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1623323981658087424/a7kki85f_normal.png 
+ 
+`Number of tweets excluding replies:` 40 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GUIDE** 21 , **COMPREHENSIVE** 12 , **AI** 11 , **NOW:** 9 , **SKILLS** 9 , **CHATGPT** 7 , **NOW:…** 6 , **MARKET** 6 , **COPY** 6 , **IDENTIFYING** 6 , **DISCLOSING** 6 , **RL** 6 , **AUTOMATION** 5 , **QUICK** 5 , **COOKBOOK** 5 , **GO** 5 , **HTTPS://TCO/JCXNPXYRAX** 5 , **DEEPER** 5 , **UNDERSTANDING** 5 , **AHEAD** 5 , 
+ 
+## What this user tweeted
+ 
+Learn how to identify, document, and disclose cybersecurity vulnerabilities and stay ahead of the game. Get your gu… https://t.co/bGH40XIl68Protect your organization from cyber attacks with a comprehensive guide on identifying &amp; disclosing vulnerabilities… https://t.co/OsDUgn0Mz0
+ 
+# hacked_oneshotUSER INFO
+![image](http://pbs.twimg.com/profile_images/1623134132493766656/3662kj7a_normal.jpg)
+ 
+`User ScreenName:` hacked_oneshot 
+ 
+`User chosen Name:` Oneshot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 08 01:34:32 +0000 2023 
+ 
+`User Description?:` A person with many skills .... 
+ 
+`Followers?: `0 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1623134132493766656/3662kj7a_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEED** 4 , **STORY** 4 , **NEURAL** 2 , **INTERFACES** 2 , **NEW** 2 , **@INFOSECPAT** 2 , **HI** 2 , **AI** 2 , **PROJECT** 2 , **@MRWHOSETHEBOSS** 1 , **ITS** 1 , **RISK-** 1 , **SECURITY** 1 , **RISKS:** 1 , **MAY** 1 , **VULNERABLE** 1 , **HAC…** 1 , **HTTPS://TCO/ADCZJTQUWFSTARTING** 1 , **PATH** 1 , **VERY** 1 , 
+ 
+## What this user tweeted
+ 
+@Infosecpat more to grow 
+with infosec pat
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
