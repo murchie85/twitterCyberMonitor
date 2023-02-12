@@ -1,1 +1,1 @@
-threatintel
+vulnerabilities
