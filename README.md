@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **RnaudBertrand**  
+The most popular user is: **disclosetv**  
  
 
-## Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 
+## JUST IN - Thousands of computer servers around the world have been targeted by a ransomware hacking attack, Italy's… https://t.co/N3p1xsMh89 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **RnaudBertrand**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Pontifex: Let us continue to stay close, with prayer and concrete support, to the earthquake victims in #Syria and #Turkey. And let us… |
-| RT @JayinKyiv: Full list of the House Republicans sponsoring Russian government employee Matt Gaetz's bill to end support to Ukraine. https… |
-| RT @igorsushko: 🧵 The FSB continues the slow poisoning of the former president of #Georgia, Mikheil #Saakashvili in prison. This isn't happ… |
+| RT @SCMagazine: .@BlackCloakCyber researchers said they found a massive spike in swatting attacks over the past six weeks that use online a… |
+| RT @hackinarticles: John the Ripper Cheat Sheethttps://t.co/d3TlSmBIJe#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #… |
+| RT @SecurityTrybe: Skills required in different IT Sectors #cybersecurity #coding #networking #Python #hacked #DataScience #AI https://t.… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **StationCDRKelly** |
-| #3 Most tweeted to  | **21WIRE** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 8.52%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **BowTiedCyber** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 7.48%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,41 +50,200 @@ The most popular user is: **RnaudBertrand**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **STARLINK** |
-| fourth  | **@STATIONCDRKELLY**  |
-| fifth  | **OTHER**  |
+| first  | **INFOSEC**  |
+| second  | **PENTESTING**  |
+| third  | **HACKING** |
+| fourth  | **@SECURITYTRYBE:**  |
+| fifth  | **INFORMATIONSECURITY**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (7.69%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (84.62%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @OldWhit04471679: @StationCDRKelly @elonmusk Spoken like a true war advocate with a bit too much hyperbole. I’ve heard this noise from C… |
+|RT @deb_infosec: Microsoft upgrades Defender to lock down Linux gear for its own good: Ballmer thought this… https://t.co/aCD2rgB0OF #cyber… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RnaudBertrand**  |
+| The most retweeted user is: **disclosetv**  |
 | ------------- |
-| Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years tha… https://t.co/ZrdfkVrrK4 |
+| JUST IN - Thousands of computer servers around the world have been targeted by a ransomware hacking attack, Italy's… https://t.co/N3p1xsMh89 |
 
 # Potential Fake Accounts
  
-# dguy321USER INFO
-![image](http://pbs.twimg.com/profile_images/1624906111944998915/6ELfnapb_normal.png)
+# ai_mindscapeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1624131091287183375/7HN-NLp7_normal.jpg)
  
-`User ScreenName:` dguy321 
+`User ScreenName:` ai_mindscape 
  
-`User chosen Name:` Darrin Fry 
+`User chosen Name:` AI MindScape 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 12 22:59:40 +0000 2023 
+`User signup date?:` Tue Feb 07 08:02:31 +0000 2023 
+ 
+`User Description?:` Unleashing the Power of AI-driven Truth. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` https://t.co/UaW7V8MK18 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 36 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1624131091287183375/7HN-NLp7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 36 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SECURITY** 10 , **DATA** 9 , **BREACH** 5 , **MOST** 5 , **SECURE** 5 , **ACCESS** 5 , **INFORMATION** 5 , **REMINDER** 4 , **CYBER** 4 , **SENSITIVE** 4 , **ENCRYPTION** 4 , **EVEN** 3 , **GREATEST** 3 , **ATTACKS** 3 , **PROCESS** 3 , **CONTROL** 3 , **ENSURING** 3 , **ITS** 3 , **BRUCE** 3 , **THREATS** 3 , 
+ 
+## What this user tweeted
+ 
+"The Aurora attack was a wake-up call to take cyber espionage seriously." - Amit Yoran, former director of the Nati… https://t.co/AcPJ7TlxfK
+ 
+# GideonIwuoha2USER INFO
+![image](http://pbs.twimg.com/profile_images/1622907951647277056/CvNQxFXg_normal.jpg)
+ 
+`User ScreenName:` GideonIwuoha2 
+ 
+`User chosen Name:` G- Force 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 07 10:22:28 +0000 2023 
+ 
+`User Description?:` here to better the rest 
+ 
+`Followers?: `2 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1622907951647277056/CvNQxFXg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**POSI** 5 , **TOKEN** 4 , **POSITION** 2 , **@POSITIONEX** 2 , **POSI_CHAIN@ROVERCRC** 2 , **RT** 1 , **@BOWTIEDCYBER:** 1 , **START** 1 , **CYBERSECURITY** 1 , **YOU’RE** 1 , **COMPLETELY** 1 , **GREEN** 1 , **1)** 1 , **STUDY** 1 , **A+** 1 , **WEEK** 1 , **2)** 1 , **BUY** 1 , **OLD** 1 , **DESKTOP** 1 , 
+ 
+## What this user tweeted
+ 
+RT @BowTiedCyber: How to START in Cybersecurity if you’re COMPLETELY GREEN
+
+1) Study A+ for a week
+2) Buy an old desktop tower on Craigslis…
+ 
+# PAW_cybersecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621630395870494720/RLr1BGVC_normal.jpg)
+ 
+`User ScreenName:` PAW_cybersec 
+ 
+`User chosen Name:` PAW Cyber security 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 03 22:02:39 +0000 2023 
+ 
+`User Description?:` PAW cybersecurity is cybersecurity group that inform you about online threats and helps you protect yourself. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621630395870494720/RLr1BGVC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DATA** 5 , **SAVED** 2 , **CYBER** 2 , **PROGRAM** 1 , **STEALS** 1 , **CALLED** 1 , **STEALER** 1 , **STEAL** 1 , **EVERYTHING** 1 , **CREDIT** 1 , **CARDS** 1 , **ACCOUNTS** 1 , **YOU…** 1 , **HTTPS://TCO/TQITBQCXVXREMEMBER:** 1 , **PASSWORD** 1 , **BROWSER** 1 , **CARD** 1 , **VULNERABILITY** 1 , **BETTER** 1 , **STORE** 1 , 
+ 
+## What this user tweeted
+ 
+Program that steals data is called stealer - it can steal everything from saved data, credit cards, accounts in you… https://t.co/tqITbQcxVX
+ 
+# LeokJaneUSER INFO
+![image](http://pbs.twimg.com/profile_images/1621963928023490561/VpTx-ie8_normal.jpg)
+ 
+`User ScreenName:` LeokJane 
+ 
+`User chosen Name:` Jane Leok 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 04 20:08:29 +0000 2023 
+ 
+`User Description?:` Jane Leok is a flexible and dynamic professional who has decided to transition into cybersecurity. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621963928023490561/VpTx-ie8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DOWN** 2 , **DATA** 2 , **BREACH** 2 , **INFORMATION** 2 , **BALLOONS** 2 , **SUFFERED** 2 , **INTERNAL** 2 , **BREAKING:** 1 , **US** 1 , **MILITARY** 1 , **SHOT** 1 , **ANOTHER** 1 , **HIGH-ALTITUDE** 1 , **OBJECT** 1 , **LAKE** 1 , **HURON** 1 , **MARKS** 1 , **THIRD** 1 , **CONSECU…** 1 , **HTTPS://TCO/JU0OXSLCJIBREAKING** 1 , 
+ 
+## What this user tweeted
+ 
+Breaking News: Data breach at Highmark affects 300,000 customers. Personal information, incl. names, SSN, financial… https://t.co/ea33zt98MwWeee! customers: The online grocery delivery startup suffered a data breach, with a year's worth of customer inform… https://t.co/1ROlWArgiT
+ 
+# jaydeep001tUSER INFO
+![image](http://pbs.twimg.com/profile_images/1622816785572720640/N2MeHsAj_normal.png)
+ 
+`User ScreenName:` jaydeep001t 
+ 
+`User chosen Name:` Jaydeep Vasani 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 07 04:37:26 +0000 2023 
  
 `User Description?:`  
  
@@ -96,48 +255,9 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 `Location:`  
  
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1624906111944998915/6ELfnapb_normal.png 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK** 6 , **@STATIONCDRKELLY** 6 , **@JEFFGIESEA** 3 , **UKRAINE** 2 , **RUSSIA** 2 , **@CINDILU13777176** 1 , **@GREENHORNGROVE** 1 , **ATTITUDE** 1 , **GOT** 1 , **US** 1 , **PEARL** 1 , **HARBOR** 1 , **LAST** 1 , **TIME** 1 , **AROUND@GREENHORNGROVE** 1 , **GUESS** 1 , **DEPENDS** 1 , **DOES** 1 , **DE-ESCALATION** 1 , **INVOLVE** 1 , 
- 
-## What this user tweeted
- 
-@GreenhornGrove @elonmusk @StationCDRKelly I guess that depends. Does de-escalation involve Ukraine giving up more… https://t.co/oqLgENKJPO@DJcalligraphy @PeterJJ_ @jeffgiesea @elonmusk @StationCDRKelly Ukraine is using starlink to coordinate an effectiv… https://t.co/8LZk9HBSgA
- 
-# BrynWebster5USER INFO
-![image](http://pbs.twimg.com/profile_images/1624917008797118464/EL2gEXYc_normal.jpg)
- 
-`User ScreenName:` BrynWebster5 
- 
-`User chosen Name:` Bryn Webster 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 12 23:42:58 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
 `Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624917008797118464/EL2gEXYc_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1622816785572720640/N2MeHsAj_normal.png 
  
 `Number of tweets excluding replies:` 2 
  
@@ -147,81 +267,39 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**@PRPATRIOTUS** 1 , **PATRIOTISM** 1 , **SUPPORT** 1 , **RUSSIAN** 1 , **IMPERIALISM@REALSTEWPETERS** 1 , **"FAKE** 1 , **UKRAINE** 1 , **WAR"** 1 , **DISGUSTING** 1 , **MORAL** 1 , **COWARDICE** 1 , 
+**@NSCONCLAVE:** 2 , **HERE** 2 , **SLIDE** 2 , **NSCONCLAVE2023** 2 , **BURP** 2 , **SUITE** 2 , **RT** 1 , **TIME** 1 , **CUSTOMIZE** 1 , **BURPSUITE** 1 , **!!** 1 , **CREATE** 1 , **CUSTOM** 1 , **PLUGIN** 1 , **USING** 1 , **E…RT** 1 , **UNLEASHING** 1 , **FULL** 1 , **POTENTIAL** 1 , **EXTENSION** 1 , 
  
 ## What this user tweeted
  
-@realstewpeters "fake Ukraine war"
-
-Disgusting moral cowardice
+RT @NSConclave: Time to customize #Burpsuite !!
+Here is the slide from #NSConclave2023 for CREATE A CUSTOM PLUGIN IN BURP SUITE USING THE E…
  
-# Rise10735USER INFO
-![image](http://pbs.twimg.com/profile_images/1623029975833255936/fZ7tZY_K_normal.jpg)
+# RozayVioletUSER INFO
+![image](http://pbs.twimg.com/profile_images/1623133459567763456/kfLCY8PY_normal.jpg)
  
-`User ScreenName:` Rise10735 
+`User ScreenName:` RozayViolet 
  
-`User chosen Name:` りせ💛❣️💙 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 07 18:40:14 +0000 2023 
- 
-`User Description?:` 私の好きな人は理君です。 
- 
-`Followers?: `21 
- 
-`Following?:` 114 
- 
-`User URL?:` https://t.co/4CF3HsWRYN 
- 
-`Location:` 好きな人の端末 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623029975833255936/fZ7tZY_K_normal.jpg 
- 
-`Number of tweets excluding replies:` 952 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CCF1210_TPPCHAN** 26 , **@SATOSHI20000825:** 25 , **@SATOSHI_CAFE825** 23 , **@525UNKNOWNONAME** 19 , **@STS_MK_129** 19 , **@525UNKNOWNONAME:** 17 , **@TOPPIDAYO_0815** 16 , **@SATOSHI20000825** 15 , **@RUKKARUKASARETA:** 15 , **@ASA_TOSHI8_25:** 13 , **@ASA_TOSHI8_25** 13 , **@STS_MK_129:** 9 , **@SATOSHI_CAFE825:** 8 , **@RISE10735:** 8 , **@MIKU_REICELE:** 7 , **@MS_RINNA:** 7 , **@CCF1210_TPPCHAN:** 6 , **@369MIROKU6** 5 , **@RISE10735** 5 , **@SARLSARX** 4 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.
-
-Starlink is the communication backbone of U…RT @StationCDRKelly: .@elonmusk Ukraine desperately needs your continued support. Please restore the full functionality of your Starlink sa…
- 
-# MarcosBarriche4USER INFO
-![image](http://pbs.twimg.com/profile_images/1621632943327219712/1NLOZp3z_normal.png)
- 
-`User ScreenName:` MarcosBarriche4 
- 
-`User chosen Name:` Marcos Barrichello Ríos 
+`User chosen Name:` Rozay Violet 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 03 22:13:16 +0000 2023 
+`User signup date?:` Tue Feb 07 03:05:42 +0000 2023 
  
-`User Description?:` Açoite de Yahshúa. 
+`User Description?:` ETHICAL-Hacker *Pro-Hacking Services *Private Investigator* *Recovery Services* *Crypto* *ICloud ID* *Instagram* *Facebook* *Snapchat*. #NoFreeHacks 
  
 `Followers?: `1 
  
-`Following?:` 242 
+`Following?:` 5 
  
 `User URL?:` None 
  
-`Location:` Florianópolis, BRA 
+`Location:` California, USA 
  
-`Number of tweets extracted`  : 29 
+`Number of tweets extracted`  : 157 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1621632943327219712/1NLOZp3z_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1623133459567763456/kfLCY8PY_normal.jpg 
  
-`Number of tweets excluding replies:` 29 
+`Number of tweets excluding replies:` 157 
  
 
  
@@ -229,122 +307,83 @@ Starlink is the communication backbone of U…RT @StationCDRKelly: .@elonmusk Uk
  
 ## User Top tweeted words 
  
-**DE** 17 , **E** 10 , **QUE** 10 , **O** 7 , **@ELONMUSK:** 6 , **UM** 6 , **EM** 6 , **PARA** 4 , **É** 4 , **COM** 3 , **PEOPLE** 3 , **MAIS** 3 , **LULA** 3 , **DA** 3 , **NÃO** 3 , **UMA** 3 , **MAS** 3 , **OS** 3 , **RT** 2 , **@FREU_RODRIGUES:** 2 , 
+**ACCOUNT** 98 , **HACKED** 74 , **INBOX** 57 , **RECOVER** 52 , **HACKING** 40 , **HELP** 33 , **GUIDE** 31 , **SNAPCHAT** 28 , **I'M** 27 , **AVAILABLE** 27 , **ACCOUNTS** 25 , **FACEBOOKDOWN** 23 , **LOST** 22 , **HACK** 22 , **DM** 22 , **RECOVERY** 20 , **ANY** 20 , **HACKER** 19 , **NEED** 18 , **ICLOUD** 18 , 
  
 ## What this user tweeted
  
-RT @elonmusk: @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.
-
-Starlink is the communication backbone of U…
+Linux Path Cheat Sheet
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informationsecurity  #cissp… https://t.co/z02CvbgdXYIf your account is Hacked, or your Account being tempered with, All you need is a Good hacker...
+Inbox now for all… https://t.co/1zcR81G7IaInbox now for help and guide on how to recover your Account
+#hacked #metamask #whatsapp #facebookdown #twitterdown… https://t.co/SdcOrZHjMJHacking is way Easier when you contact the right hacker.
+Inbox me now for all your hacking services 
+I'm always ava… https://t.co/JSfRFtzZ2oLet me help you recover that your Hacked Facebook, Instagram, Twitter Pinterest, Gmail, Snapchat etc....… https://t.co/OYrU4fyUX7
  
-# AlaskanAkUSER INFO
-![image](http://pbs.twimg.com/profile_images/1623536386140962816/zGnxAH5-_normal.jpg)
+# Ariel46326723USER INFO
+![image](http://pbs.twimg.com/profile_images/1621590492457717764/UVWRZU5N_normal.jpg)
  
-`User ScreenName:` AlaskanAk 
+`User ScreenName:` Ariel46326723 
  
-`User chosen Name:` Brady 
+`User chosen Name:` Ariel 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Feb 09 04:08:07 +0000 2023 
+`User signup date?:` Fri Feb 03 00:49:36 +0000 2023 
+ 
+`User Description?:` Je mène des opérations d'influence entièrement automatisées contre des gouvernements corrompus, leurs politiciens et les entreprises qui les soutiennent. 
+ 
+`Followers?: `7 
+ 
+`Following?:` 183 
+ 
+`User URL?:` https://t.co/HwzNX13Go8 
+ 
+`Location:` Paris, France 
+ 
+`Number of tweets extracted`  : 151 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1621590492457717764/UVWRZU5N_normal.jpg 
+ 
+`Number of tweets excluding replies:` 151 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BLACKTECHTWITTER** 15 , **DE** 15 , **LA** 10 , **US** 9 , **LINUX** 8 , **DES** 8 , **LES** 8 , **PYTHON** 7 , **MEDIA** 7 , **VIA** 7 , **ET** 7 , **WAR** 6 , **POUR** 6 , **TOP** 5 , **CIA** 5 , **LE** 5 , **INFLUENCE** 5 , **PRO** 4 , **GOT** 4 , **GOOGLE** 4 , 
+ 
+## What this user tweeted
+ 
+RT @CybrXx0: HWSyscalls is a new method to execute indirect syscalls using hardware breakpoints, HalosGate and a synthetic trampoline on ke…RT @Tcurryme: Stay ahead of the game in #cybersecurity! See weekly bulletin for the latest updates, tips, and insights. Protect your digita…RT @poulsen_hack58: For #Hacked #Gmail recovery
+Dm now #Hackedgmail #CyberSecurity #hacker #infosec @reach2ratan #security #cyber #tech #op…
+ 
+# JaspalS84707499USER INFO
+![image](http://pbs.twimg.com/profile_images/1621775843923234817/Ul5jHJWL_normal.jpg)
+ 
+`User ScreenName:` JaspalS84707499 
+ 
+`User chosen Name:` Jaspal Singh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 04 07:39:59 +0000 2023 
  
 `User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:` Girdwood, AK 
- 
-`Number of tweets extracted`  : 45 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623536386140962816/zGnxAH5-_normal.jpg 
- 
-`Number of tweets excluding replies:` 45 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK** 11 , **LMAO** 6 , **@TWITTER** 6 , **@TESLA** 6 , **@ELONMUSK:** 5 , **@MAYEMUSK** 5 , **@SPACEX** 5 , **@STATIONCDRKELLY** 4 , **TWITTER** 4 , **BLUE** 4 , **LOVE** 4 , **HATERS** 4 , **COMMENTING** 4 , **“HE’S** 4 , **LORD”** 4 , **STFU** 4 , **WORSHIP** 4 , **DON’T** 3 , **CHECK** 3 , **@KINGJAMES** 3 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.
-
-Starlink is the communication backbone of U…
- 
-# Bubblz_76USER INFO
-![image](http://pbs.twimg.com/profile_images/1623749593405046792/-jBfFKSW_normal.jpg)
- 
-`User ScreenName:` Bubblz_76 
- 
-`User chosen Name:` Bubblz 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 05 20:39:53 +0000 2023 
- 
-`User Description?:` #mao(202)4prez 
  
 `Followers?: `4 
  
-`Following?:` 164 
+`Following?:` 27 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 130 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1623749593405046792/-jBfFKSW_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1621775843923234817/Ul5jHJWL_normal.jpg 
  
-`Number of tweets excluding replies:` 130 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@FOXFUNKX:** 36 , **@AYUKOMAO:** 13 , **@ORDINARYGAMERS:** 11 , **BEST** 8 , **@SPEAKERMCCARTHY:** 8 , **BIDEN** 7 , **I'M** 7 , **IM** 6 , **STREAM** 5 , **NEW** 5 , **EVER** 5 , **ITS** 5 , **THANKS** 5 , **DOWN** 5 , **HI** 4 , **LAST** 4 , **YEAR** 4 , **GOING** 4 , **GONNA** 4 , **DAY** 4 , 
- 
-## What this user tweeted
- 
-RT @mattgaetz: Putin didn’t invade Ukraine when Trump was President. 
-
-Obama &amp; Biden - not so much.
- 
-# bananasenterpr1USER INFO
-![image](http://pbs.twimg.com/profile_images/1621491440705576960/3Z2jZICF_normal.jpg)
- 
-`User ScreenName:` bananasenterpr1 
- 
-`User chosen Name:` bananasenterprisesanyang 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 03 12:11:42 +0000 2023 
- 
-`User Description?:` Nooit meer naar NL 
- 
-`Followers?: `11 
- 
-`Following?:` 62 
- 
-`User URL?:` None 
- 
-`Location:` Republic of The Gambia 
- 
-`Number of tweets extracted`  : 40 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1621491440705576960/3Z2jZICF_normal.jpg 
- 
-`Number of tweets excluding replies:` 40 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -352,54 +391,11 @@ Obama &amp; Biden - not so much.
  
 ## User Top tweeted words 
  
-**DE** 9 , **EEN** 8 , **@LIZ_CHURCHILL8:** 8 , **VAN** 5 , **HET** 5 , **@WOLSNED:** 4 , **DIE** 4 , **EN** 4 , **WAT** 3 , **VOOR** 3 , **WORLD** 3 , **GEEN** 3 , **@NOS** 3 , **BIJ** 3 , **BILL** 3 , **JE** 3 , **OTHER** 2 , **INTO** 2 , **DEZE** 2 , **WAR** 2 , 
+**FRAUD** 5 , **CARD** 5 , **RBI** 4 , **MONEY** 4 , **SUPPORT** 4 , **ICICIBANK** 4 , **CYBER** 4 , **COMPLAINT** 4 , **NEVER** 4 , **USED** 4 , **SHARED** 4 , **CYBERATTACK** 3 , **OTP** 3 , **@JASPALS84707499:** 2 , **VERY** 2 , **SAD** 2 , **AD** 2 , **KEHTA** 2 , **HAI** 2 , **JAANKAAR** 2 , 
  
 ## What this user tweeted
  
-RT @elonmusk: @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.
-
-Starlink is the communication backbone of U…
- 
-# youandmexyzUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` youandmexyz 
- 
-`User chosen Name:` Waves 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 03 21:49:48 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 226 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 58 , **CHINESE** 20 , **PEOPLE** 19 , **DEMOCRATS** 18 , **HUNTER** 17 , **CHINA** 15 , **TWITTER** 15 , **SPY** 13 , **US** 13 , **COUNTRY** 13 , **ELON** 13 , **AMERICAN** 12 , **PRESIDENT** 11 , **DOWN** 11 , **TIME** 11 , **AOC** 11 , **TRUMP** 10 , **AMERICA** 9 , **@AIRBNB** 9 , **BAN** 9 , 
- 
-## What this user tweeted
- 
-RT @UnfilteredOnFox: What does a Chinese spy balloon, classified documents, Biden’s corvette, and UFOs have in common? 
-
-@dbongino draws th…
+RT @JaspalS84707499: I was very sad to see the RBI Ad - RBI kehta hai jaankaar baniye, satark rahiye! #cybersecurity #DigitalPayments #BeAw…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
