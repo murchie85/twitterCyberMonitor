@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **RepSwalwell**  
+The most popular user is: **buitengebieden**  
  
 
-## Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems 
+## Armadillo catching a ball.. 😊 https://t.co/ZOR7XNKXDG 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **RepSwalwell**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @barriers_in: Join us for our first Meetup of 2023 with @PhillipWylieNon-members register at Eventbrite - https://t.co/tlU3YsUwYJ𝐒𝐞𝐚… |
-| Prevent data theft. Book your free Phishing Security Training Consultation today.      #cybersecurity  #Phishing… https://t.co/Zrnwl3OvwA |
-| For Hacking, Recovery, Tracking, missing phone or finding someone’s location Dm now!#MachineLearning #Jupyter… https://t.co/wbFsYTOADK |
+| RT @JinibaBD: Chinese Tonto Team Hackers' Second Attempt to Target Cybersecurity Firm Group-IB Fails #cybercrime #Phishing #ransomware #cyb… |
+| Steganography — Data That Hidden Behind The Images.How Can You Detect The Hidden Data? [ #Tutorial ]… https://t.co/RykEAvAbHM |
+| RT @hackinarticles: Metasploit Framework Cheat Sheet@metasploit https://t.co/TwVzFbbZr4#infosec #cybersecurity #cybersecuritytips #pe… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecurityTrybe** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **DiscoverTRW** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 5.34%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **0x0SojalSec** |
+| #3 Most tweeted to  | **0xor0ne** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 5.58%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -52,189 +52,28 @@ The most popular user is: **RepSwalwell**
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
 | second  | **HACKING**  |
-| third  | **AI** |
-| fourth  | **PHISHING**  |
-| fifth  | **DATA**  |
+| third  | **PHISHING** |
+| fourth  | **PENTESTING**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (11.11%) & **NEGATIVELY-SUBJECTIVE** (11.11%) **OBJECTIVE** (77.78%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (23.08%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (69.23%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CyberInAfrica: Should TikTok be labelled a cybersecurity risk by local governments in Africa?What say you?https://t.co/BuKxVOywJD… |
+|RT @TechNative: Combatting Growing Cyber Threats to Critical Infrastructure #cyberskills #infosec #cio #ciso #cso #CDO #MSPs #cybersecuri… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RepSwalwell**  |
+| The most retweeted user is: **buitengebieden**  |
 | ------------- |
-| Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems |
+| Armadillo catching a ball.. 😊 https://t.co/ZOR7XNKXDG |
 
 # Potential Fake Accounts
- 
-# gerlisle_44USER INFO
-![image](http://pbs.twimg.com/profile_images/1623518284707684353/pCM-rr99_normal.jpg)
- 
-`User ScreenName:` gerlisle_44 
- 
-`User chosen Name:` Gerliza Iglesias 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 09 03:04:57 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 85 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623518284707684353/pCM-rr99_normal.jpg 
- 
-`Number of tweets excluding replies:` 85 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TEAMNEWFOLD** 84 , **SOLUTIONS** 16 , **BUSINESS** 15 , **DIGITAL** 15 , **BLOG:** 12 , **DIGITAL'S** 10 , **LINKEDIN:** 9 , **ONLINE** 9 , **SMALL** 9 , **WEBSITE** 9 , **GUIDE** 5 , **STUDY:** 5 , **ARTICLE:** 5 , **BEST** 5 , **NEWFOLD** 5 , **TIPS** 5 , **NETWORK** 4 , **CASE** 4 , **WAYS** 4 , **CEO** 4 , 
- 
-## What this user tweeted
- 
-Network Solutions Article: Educating Employees on Cybersecurity Best Practices #teamnewfold https://t.co/2pNi7xNf2B
- 
-# bytefeedaiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1622357341294444544/H4LBPIFd_normal.jpg)
- 
-`User ScreenName:` bytefeedai 
- 
-`User chosen Name:` Bytefeed 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 04 20:42:19 +0000 2023 
- 
-`User Description?:` The latest AI news, written and analyzed by AI. 
- 
-`Followers?: `2103 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/gd3FAy6KbP 
- 
-`Location:` Everywhere 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1622357341294444544/H4LBPIFd_normal.jpg 
- 
-`Number of tweets excluding replies:` 366 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AI** 160 , **TECHNOLOGY** 57 , **ARTIFICIAL** 34 , **INTELLIGENCE** 32 , **CHATGPT** 28 , **-…** 27 , **TECHNOLOGY…** 15 , **FORBES** 12 , **GOOGLE** 10 , **SEARCH** 9 , **GENERATIVE** 9 , **MICROSOFT** 9 , **NEW** 8 , **INVESTMENT** 7 , **CHATBOT** 7 , **IMPACT** 6 , **INVESTING** 5 , **NEXT** 5 , **AI…** 5 , **MODELS** 5 , 
- 
-## What this user tweeted
- 
-Power of AI Highlighted at Check Point's Cybersecurity Event - https://t.co/gflNq998LW
-#Cybersecurity #TechRepublic https://t.co/BU37mLWDcF
- 
-# AlameenboboUSER INFO
-![image](http://pbs.twimg.com/profile_images/1623450945836265472/b0dLVHC0_normal.jpg)
- 
-`User ScreenName:` Alameenbobo 
- 
-`User chosen Name:` Alamin Suleiman 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 08 22:34:53 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 57 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623450945836265472/b0dLVHC0_normal.jpg 
- 
-`Number of tweets excluding replies:` 57 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PULSENIGERIA247:** 10 , **@AL__QURAAN:** 9 , **💯** 3 , **PULSENEWS** 3 , **@NAIJA_PR:** 3 , **@NAIJA_PR** 2 , **HERE** 2 , **@AMEEGONETWORK:** 2 , **RAPPER** 2 , **NIGERIA** 2 , **X** 2 , **MILLION** 2 , **15** 2 , **1** 2 , **@YABALEFTONLINE:** 2 , **CBN** 2 , **ALLAH** 2 , **BETTER** 2 , **FANS** 2 , **NAIRA** 2 , 
- 
-## What this user tweeted
- 
-RT @DiscoverTRW: Achraf has started multiple successful companies after joining The Real World…
-
-Ranging from an AI startup receiving $150k…
- 
-# roivspfpsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624940731055099904/aoEoee3m_normal.jpg)
- 
-`User ScreenName:` roivspfps 
- 
-`User chosen Name:` ROIVS PFPS 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 13 01:13:42 +0000 2023 
- 
-`User Description?:` I am a digital artist that sells pfps,banners and more for 1$ each 
- 
-`Followers?: `1 
- 
-`Following?:` 7 
- 
-`User URL?:` https://t.co/oRzEtwqb7f 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1624940731055099904/aoEoee3m_normal.jpg 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@DISCOVERTRW:** 1 , **ACHRAF** 1 , **STARTED** 1 , **MULTIPLE** 1 , **SUCCESSFUL** 1 , **COMPANIES** 1 , **AFTER** 1 , **JOINING** 1 , **REAL** 1 , **WORLD…** 1 , **RANGING** 1 , **AI** 1 , **STARTUP** 1 , **RECEIVING** 1 , **$150K…@TYRAEMAGNA** 1 , **@GREENAPOLOGIST** 1 , **I’M** 1 , **LOOKING** 1 , **YOUGIVE** 1 , 
- 
-## What this user tweeted
- 
-RT @DiscoverTRW: Achraf has started multiple successful companies after joining The Real World…
-
-Ranging from an AI startup receiving $150k…
  
 # jakejaki7USER INFO
 ![image](http://pbs.twimg.com/profile_images/1625194321224863744/3__nXO1u_normal.png)
@@ -274,166 +113,6 @@ Ranging from an AI startup receiving $150k…
 ## What this user tweeted
  
 WinRar Keygen – Reverse Engineering Tutorial https://t.co/SDHlqeyvBo #infosec #bugcrowd #bugbountytips… https://t.co/V31eLyBahf
- 
-# NeelamS19154806USER INFO
-![image](http://pbs.twimg.com/profile_images/1622342005824045056/z26nT9c7_normal.png)
- 
-`User ScreenName:` NeelamS19154806 
- 
-`User chosen Name:` Neelam Singh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 05 21:10:50 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 8 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1622342005824045056/z26nT9c7_normal.png 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**POLICE** 4 , **NAVI** 3 , **@THANECITYPOLICE:** 3 , **@NAVIMUMPOLICE:** 2 , **MUMBAI** 2 , **ALERT** 2 , **@MUMBAIPOLICE:** 2 , **VILE** 2 , **PARLE** 2 , **RT** 1 , **KHARGHAR** 1 , **TRAFFIC** 1 , **COMMISSIONERATE** 1 , **ACTION** 1 , **AGAINST** 1 , **PASSENGER** 1 , **VEHICLES** 1 , **VIOLATION** 1 , **RULES---…RT** 1 , **LIVE** 1 , 
- 
-## What this user tweeted
- 
-RT @ThaneCityPolice: Be Alert, Be Vigilant, Be Aware  #CyberAwareness #cybersecurity https://t.co/oT019hkXl9
- 
-# CyberWaveSecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1625006442091773952/tEuCwiHY_normal.jpg)
- 
-`User ScreenName:` CyberWaveSec 
- 
-`User chosen Name:` CyberWave Security 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 09 22:15:42 +0000 2023 
- 
-`User Description?:` CyberWave Security is a managed security service provider (MSSP) that offers comprehensive and innovative cybersecurity solutions. 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:` Honolulu, HI 
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625006442091773952/tEuCwiHY_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBER** 1 , **ATTACKS** 1 , **COST** 1 , **BUSINESSES** 1 , **ESTIMATED** 1 , **$265** 1 , **BILLION** 1 , **2031!** 1 , **MAKING** 1 , **CRITICAL** 1 , **COMPANIES** 1 , **DEVE…** 1 , **HTTPS://TCO/610IZL325C@HACKINARTICLES** 1 , **WHERE** 1 , **AUTHENTICATION** 1 , **ENABLED** 1 , **DENYING** 1 , **ACCES** 1 , **OPEN** 1 , **LATCH** 1 , 
- 
-## What this user tweeted
- 
-Cyber attacks will cost businesses over an estimated $265 Billion By 2031! Making it critical for companies to deve… https://t.co/610iZl325C
- 
-# MayurClindcastUSER INFO
-![image](http://pbs.twimg.com/profile_images/1623303616772861952/kTsu_PDl_normal.png)
- 
-`User ScreenName:` MayurClindcast 
- 
-`User chosen Name:` Mayur Keshari 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 08 12:51:56 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623303616772861952/kTsu_PDl_normal.png 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CLINDCAST:** 2 , **CRUCIAL** 2 , **RT** 1 , **CHECKLIST** 1 , **FHIR** 1 , **API** 1 , **IMPLEMENTATION** 1 , **READ** 1 , **MORE:** 1 , **HTTPS://TCO/EAH0ZJKCES** 1 , **INTEROPERABILITY** 1 , **HEALTHCARENEWS** 1 , **HEA…RT** 1 , **POINT** 1 , **FEW** 1 , **METHODS** 1 , **HEALTHCARE** 1 , **FIRMS** 1 , **START** 1 , **USING** 1 , 
- 
-## What this user tweeted
- 
-RT @clindcast: The Crucial Checklist For FHIR API Implementation read more: https://t.co/EAh0zJkCES
-
-#interoperability #healthcarenews #hea…
- 
-# SajadHa16893761USER INFO
-![image](http://pbs.twimg.com/profile_images/1624873925493592064/a04Kj_Pk_normal.jpg)
- 
-`User ScreenName:` SajadHa16893761 
- 
-`User chosen Name:` Sajad Haider 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 06 14:00:23 +0000 2023 
- 
-`User Description?:` Arabs wins 
- 
-`Followers?: `2 
- 
-`Following?:` 8 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 90 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1624873925493592064/a04Kj_Pk_normal.jpg 
- 
-`Number of tweets excluding replies:` 90 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@COBRATATE:** 60 , **DAILY** 9 , **ANDREW** 8 , **JAIL** 8 , **TATE** 7 , **NEVER** 7 , **WORLD** 7 , **WATCH** 7 , **REAL** 6 , **@AMEEGONETWORK:** 6 , **MEN** 6 , **@DISCOVERTRW:** 5 , **DAY** 5 , **WITHOUT** 5 , **MOST** 5 , **HARD** 5 , **FULL** 5 , **INTERVIEW:** 5 , **INSIDE** 5 , **WORLD…** 4 , 
- 
-## What this user tweeted
- 
-RT @DiscoverTRW: Achraf has started multiple successful companies after joining The Real World…
-
-Ranging from an AI startup receiving $150k…
  
 # M_Tariq23USER INFO
 ![image](http://pbs.twimg.com/profile_images/1622618463004164096/xIuPGoCF_normal.png)
@@ -479,6 +158,174 @@ RT @hackinarticles: Burpsuite Extensions Cheat Sheet
 https://t.co/bFZk0nqvZB
 
 #infosec #cybersecurity #cybersecuritytips…
+ 
+# SanuSar33851601USER INFO
+![image](http://pbs.twimg.com/profile_images/1625173828099010560/dFZlKYSp_normal.png)
+ 
+`User ScreenName:` SanuSar33851601 
+ 
+`User chosen Name:` Sanu Sarkar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 13 16:43:29 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625173828099010560/dFZlKYSp_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 6 , **FULL** 5 , **ACTIVATED** 5 , **DISCOUNT** 3 , **100%** 3 , **OFF** 3 , **PRO** 2 , **SOCINATOR** 1 , **DOMINATOR** 1 , **ENTERPRISE** 1 , **V100142** 1 , **HTTPS://TCO/YKRV7THTKJ** 1 , **INFOSEC…** 1 , **HTTPS://TCO/GYXHJ2W4GFTELEGRAM** 1 , **SENDER** 1 , **V8730** 1 , **TELEGRAM** 1 , **MARKETING** 1 , **HTTPS://TCO/RDWLWUY5RY…** 1 , **HTTPS://TCO/BVSI2VYNMOBURP** 1 , 
+ 
+## What this user tweeted
+ 
+Socinator Dominator Enterprise v1.0.0.142 Full Activated – Discount 100% OFF https://t.co/ykRv7THTKj #infosec… https://t.co/GyxHJ2W4gfTelegram Sender Pro v8.7.3.0 Full Activated – Telegram Marketing – Discount 100% OFF https://t.co/rdWlWuy5ry… https://t.co/bVsI2vyNmoBurp Suite Professional Edition v2023.1 x64 Full Activated   Burp Bounty Pro v2.6.1 Full Activated   Extensions – D… https://t.co/fkldhaqRtSAcunetix Premium v15.3.230123162 Full Activated – CyberSecurity Tools – Discount 100% OFF https://t.co/hVk9T1m0jd… https://t.co/JC5A5fAwvg
+ 
+# CharmoniTakesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625165921126842368/zLqhUDS-_normal.jpg)
+ 
+`User ScreenName:` CharmoniTakes 
+ 
+`User chosen Name:` Charmoni Takis 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 13 15:52:28 +0000 2023 
+ 
+`User Description?:` Epicurean Philosophy in ancient Athens 
+ 
+`Followers?: `2 
+ 
+`Following?:` 55 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 95 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625165921126842368/zLqhUDS-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 95 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ΤΟ** 12 , **@YANISKATSELIS:** 12 , **LAMPONIO** 9 , **@THESTOICEMPEROR:** 9 , **Η** 7 , **ΜΕ** 6 , **NEW** 6 , **ΚΑΙ** 6 , **ΝΑ** 6 , **ΤΗΝ** 5 , **ΠΟΥ** 5 , **ΣΤΟ** 4 , **YEARS** 4 , **@NEILTYSON:** 4 , **@ELONMUSK** 4 , **ΔΕΝ** 4 , **ΘΑ** 4 , **Ο** 4 , **DRAGONSDENGR** 3 , **@SHIVON:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: Don't wait for a cyber attack to hit!
+
+⚡ Learn about the new Identity Security requirements for cyber insurance in our…
+ 
+# jesa_duranUSER INFO
+![image](http://pbs.twimg.com/profile_images/1623502403768311810/NSh_FwVM_normal.png)
+ 
+`User ScreenName:` jesa_duran 
+ 
+`User chosen Name:` Jesa Jean Duran 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 09 02:01:50 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 15 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1623502403768311810/NSh_FwVM_normal.png 
+ 
+`Number of tweets excluding replies:` 15 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CYBER_EVERY:** 15 , **SMALLBUSINESS** 5 , **CYBER** 5 , **👉** 5 , **⚠️** 4 , **PROTECT** 3 , **⛔** 3 , **➡️** 3 , **🛑** 3 , **CYBERSECURITY** 3 , **🚩** 2 , **ATTACKS** 2 , **RISKS** 2 , **SMALLBUSINESSOWNER** 2 , **…RT** 2 , **IT!** 2 , **NEED** 2 , **SMALLBUS…RT** 2 , **SMALL** 2 , **CERTIFICATE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @cyber_every: ⚠️ Cyber attacks have steadily increased! Know the risks and how deadly it is to #SmallBusinesses!
+
+Shocking Stats: https:…RT @cyber_every: 🚨 What is a deep fake video and how to spot It! Everything you need to know!
+ ➡️ https://t.co/PwKbu2eFZb
+
+#smallbusiness #…RT @cyber_every: ⛔ The importance of cybersecurity strategy to every small and medium businesses!! 👉 https://t.co/seGkhhmWns
+
+#smallbusines…RT @cyber_every: ⛔ What is a certificate authority and how important is it to your digital security? 
+➡️ https://t.co/Xw9jL0JzRB
+
+#smallbus…RT @cyber_every: 🚩 HTTPS and HTTP. We encounter these acronyms everyday as we surf the Internet. But what are they and why should they matt…RT @cyber_every: ⚠️ Know what a Rogue Certificate is, how dangerous it is and how you can  protect your company against it! ➡️ https://t.co…
+ 
+# onepiec27878962USER INFO
+![image](http://pbs.twimg.com/profile_images/1625101139665354754/bkcJ6iVh_normal.png)
+ 
+`User ScreenName:` onepiec27878962 
+ 
+`User chosen Name:` onepiece naruto 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 13 11:54:39 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625101139665354754/bkcJ6iVh_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIMPLE** 1 , **FACEBOOK** 1 , **AUTO** 1 , **POSTER** 1 , **V19918** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/SR0JTVEVXW** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/LZRKSUEHIT** 1 , 
+ 
+## What this user tweeted
+ 
+Simple Facebook Auto Poster v19.9.1.8 Full Activated – Discount 100% OFF https://t.co/sr0jtvevxw #infosec #bugcrowd… https://t.co/lzrksUeHit
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
