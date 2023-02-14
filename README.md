@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **RikhardHusu**  
+The most popular user is: **RepSwalwell**  
  
 
-## Finnish prime minister Sanna Marin was asked about a potential off-ramp for Russia to end the war in Ukraine. Her r… https://t.co/9wKpEVesxb 
+## Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **RikhardHusu**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @TPJhawk @Browndogblue411 @GullScreaming @MikolaXXXVII @chenweihua @ricwe123 Only in Ukraine they get get money fro… https://t.co/BRETQnSpM7 |
-| RT @Flash_news_ua: ⚡️A photo from the German port of Bremerhaven, where American military equipment arrives for Ukraine, was published by N… |
-| RT @United24media: This Valentine's Day and always, we love you as much as Ukraine loves F16 fighter jets. https://t.co/vNiV1JdWz8 |
+| RT @AP: An “all hands on deck” situation: Craigslist founder Craig Newmark explains why he donated $81 million to journalism, cybersecurity… |
+| RT @LouisColumbus: CISOs: Self-healing endpoints key to consolidating tech stacks, improving cyber-resiliency https://t.co/ENC9kamT8M #CISO… |
+| RT @VisualInforTech: Privileged Access Management (PAM) is crucial in enabling zero trust and defense-in-depth strategies that extend beyon… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Latics** |
-| #2 Most tweeted to  | **ricwe123** |
-| #3 Most tweeted to  | **KyivIndependent** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 6.42%|
-| Tweeters with > 1000000 followers  | 0.28%  |
+| #1 Most tweeted to  | **OvieNews** |
+| #2 Most tweeted to  | **SecurityTrybe** |
+| #3 Most tweeted to  | **hackinarticles** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 5.22%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **RikhardHusu**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **RUSSIA** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **US**  |
+| first  | **INFOSEC**  |
+| second  | **4**  |
+| third  | **DEVICES** |
+| fourth  | **LEAD**  |
+| fifth  | **WORKS**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (64.29%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @UAWeapons: #Ukraine: The Ukrainian 72nd Brigade claimed to destroy a Russian TOS-1A thermobaric multiple rocket launcher in the vicinit… |
+|RT @thebinarybot: ☃️Burp Suite for Pentester☃️This cheatsheet is built for the Bug Bounty Hunters and Pentesters to help them find vulner… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RikhardHusu**  |
+| The most retweeted user is: **RepSwalwell**  |
 | ------------- |
-| Finnish prime minister Sanna Marin was asked about a potential off-ramp for Russia to end the war in Ukraine. Her r… https://t.co/9wKpEVesxb |
+| Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems |
 
 # Potential Fake Accounts
  
-# dustinmills48USER INFO
-![image](http://pbs.twimg.com/profile_images/1625630363635646465/XP2aSNlV_normal.jpg)
+# DenilsonCdaSil1USER INFO
+![image](http://pbs.twimg.com/profile_images/1625629961364115458/2STqszVx_normal.png)
  
-`User ScreenName:` dustinmills48 
+`User ScreenName:` DenilsonCdaSil1 
  
-`User chosen Name:` dustin mills 
+`User chosen Name:` Denilson C. da Silva 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 14 22:24:44 +0000 2023 
+`User signup date?:` Tue Feb 14 22:55:59 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 20 
+`Following?:` 1 
  
 `User URL?:` None 
  
-`Location:` London Kentucky  
+`Location:`  
  
-`Number of tweets extracted`  : 27 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1625630363635646465/XP2aSNlV_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1625629961364115458/2STqszVx_normal.png 
  
-`Number of tweets excluding replies:` 27 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -108,38 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 ## User Top tweeted words 
  
-**@LIBSOFTIKTOK:** 4 , **TRUMP** 3 , **JERRY** 3 , **TWITTER** 3 , **HELD** 3 , **@ELONMUSK:** 3 , **@CHUCKCALLESTO:** 2 , **REPORT:** 2 , **ASKED** 2 , **COMPANY** 2 , **BIDEN** 2 , **@IMPACTWRESTLING:** 2 , **JARRETT** 2 , **RIP** 2 , **DAY** 2 , **WWE** 2 , **TOP** 2 , **FIRST** 2 , **@STILLGRAY:** 2 , **NEVER** 2 , 
+**😀😀😀INSTAGRAM** 1 , **BOT** 1 , **PRO** 1 , **V550** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/20UHJBMTIC** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/NWXDZNTKZ5** 1 , 
  
 ## What this user tweeted
  
-RT @ChuckCallesto: BOMBSHELL REPORT: Email Reveals Burisma ASKED HUNTER TO END UKRAINE INVESTIGATION  on Company in 2014 –  Joe Biden Then…
+😀😀😀Instagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/20UHjBmtIC #infosec #bugcrowd… https://t.co/nwXdZnTKz5
  
-# YaffaDina22USER INFO
-![image](http://pbs.twimg.com/profile_images/1623439462649802752/sJsXV_Ke_normal.png)
+# ZillurRahim6USER INFO
+![image](http://pbs.twimg.com/profile_images/1625622899414687744/Hx-l6jk1_normal.jpg)
  
-`User ScreenName:` YaffaDina22 
+`User ScreenName:` ZillurRahim6 
  
-`User chosen Name:` YaffaDina 
+`User chosen Name:` Zillur Rahim 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 08 21:51:44 +0000 2023 
+`User signup date?:` Tue Feb 14 22:27:56 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `4 
+`Followers?: `0 
  
-`Following?:` 99 
+`Following?:` 0 
  
 `User URL?:` None 
  
-`Location:` Brooklyn, NY 
+`Location:`  
  
-`Number of tweets extracted`  : 184 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1623439462649802752/sJsXV_Ke_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1625622899414687744/Hx-l6jk1_normal.jpg 
  
-`Number of tweets excluding replies:` 184 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -147,44 +147,83 @@ RT @ChuckCallesto: BOMBSHELL REPORT: Email Reveals Burisma ASKED HUNTER TO END U
  
 ## User Top tweeted words 
  
-**TRUMP** 15 , **STATE** 12 , **SHOOTING** 12 , **@REALTUCKFRUMPER:** 11 , **MICHIGAN** 11 , **PENCE** 9 , **MASS** 8 , **PEOPLE** 8 , **PRESIDENT** 7 , **@BADDCOMPANI:** 7 , **THESE** 7 , **NEW** 7 , **DONALD** 7 , **REPUBLICAN** 6 , **AFTER** 6 , **DAY** 6 , **MIKE** 6 , **BIDEN** 6 , **6** 6 , **MSU** 6 , 
+**–** 2 , **ACUNETIX** 1 , **PREMIUM** 1 , **V153230123162** 1 , **FULL** 1 , **ACTIVATED** 1 , **CYBERSECURITY** 1 , **TOOLS** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/AY2ZBNYL9S…** 1 , **HTTPS://TCO/I3UKY8A4K5** 1 , 
  
 ## What this user tweeted
  
-RT @lindyli: NRA is a Russian-funded terrorist org
-
-The Republican Party is a Russian-funded insurrectionist gang
-
-The Trump family is a Ru…RT @intermarium24: 🇩🇪A man spots a Russian flag on a car in Germany! 
-
-#Ukraine #Ukrainian #Russian #RussianArmy #RussiaIsATerroristState #…
+Acunetix Premium v15.3.230123162 Full Activated – CyberSecurity Tools – Discount 100% OFF https://t.co/Ay2ZBNYL9S… https://t.co/i3uky8A4K5
  
-# mitchellclevel9USER INFO
-![image](http://pbs.twimg.com/profile_images/1624914854707449857/3Smyq9SW_normal.png)
+# Annieni10970368USER INFO
+![image](http://pbs.twimg.com/profile_images/1625598164979032065/AkPSSdx9_normal.jpg)
  
-`User ScreenName:` mitchellclevel9 
+`User ScreenName:` Annieni10970368 
  
-`User chosen Name:` sparky plunderson 
+`User chosen Name:` Annie Smith 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 12 23:34:25 +0000 2023 
+`User signup date?:` Tue Feb 14 20:11:58 +0000 2023 
  
-`User Description?:`  
+`User Description?:` A woman is like a book, if you can't even attract people on the cover, who will be interested in reading your content, no matter what age you have to live beaut 
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/SwWA6MFgrM 
+ 
+`Location:` New York 
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625598164979032065/AkPSSdx9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PYTHON** 4 , **HAPPY** 3 , **LOVE** 3 , **DAY** 3 , **💕** 2 , **NATURE** 2 , **LEARN** 2 , **THESE** 2 , **@SECURITYTRYBE:** 2 , **CYBERSECURITY** 2 , **AI** 2 , **TECH** 2 , **DATASCIENCE** 2 , **DATAANALYTICS** 2 , **MUCH** 2 , **NAME** 2 , **WEB3** 2 , **@BNBCHAIN:** 2 , **TOURISM** 2 , **AIR** 2 , 
+ 
+## What this user tweeted
+ 
+RT @tut_ml: Learn Machine Learning with these courses- https://t.co/z4o4r7Iir4
+
+#Machinelearning #100DaysOfCode #IoT #100DaysOfMLCode #Pyth…RT @SecurityTrybe: Python Beginner Topics 
+
+#Cybersecurity #Python #infosec #AI #tech #DataScience #DataAnalytics https://t.co/oJj9HdXpcfRT @SecurityTrybe: Perfect way to learn Python in 50 Days 
+
+#Python #coding #CyberSecurity #AI #tech #DataAnalytics #DataScience https://t.…
+ 
+# zakwannmr19USER INFO
+![image](http://pbs.twimg.com/profile_images/1625585498029969409/Xj9ACQuu_normal.jpg)
+ 
+`User ScreenName:` zakwannmr19 
+ 
+`User chosen Name:` Zakwan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 14 18:51:22 +0000 2023 
+ 
+`User Description?:` I'm new here #trader 
  
 `Followers?: `1 
  
-`Following?:` 38 
+`Following?:` 93 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Kuala Lumpur 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624914854707449857/3Smyq9SW_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1625585498029969409/Xj9ACQuu_normal.jpg 
  
-`Number of tweets excluding replies:` 213 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -192,121 +231,40 @@ The Trump family is a Ru…RT @intermarium24: 🇩🇪A man spots a Russian flag
  
 ## User Top tweeted words 
  
-**@KANEKOATHEGREAT:** 18 , **US** 17 , **@CNN:** 16 , **OHIO** 15 , **TRAIN** 15 , **EAST** 13 , **STATE** 13 , **@CBSNEWS:** 12 , **@ABC:** 11 , **@THEHILL:** 11 , **@BBCWORLD:** 11 , **NEW** 11 , **THAN** 10 , **PALESTINE** 10 , **@AJENGLISH:** 9 , **PRESIDENT** 9 , **SCHOOL** 9 , **DERAILMENT** 9 , **@NPR:** 8 , **@NBCNEWS:** 8 , 
+**TAK** 3 , **PYTHON** 2 , **RT** 1 , **@JEFFRAZI:** 1 , **TAHU** 1 , **YANG** 1 , **KITA** 1 , **NI** 1 , **WAJIB** 1 , **PUN** 1 , **SHARE** 1 , **GAJI** 1 , **(CURRENT** 1 , **COMPANY)** 1 , **KEPADA** 1 , **BAKAL** 1 , **MAJIKAN** 1 , **BARU** 1 , **SEMASA** 1 , **INTERVIEW?** 1 , 
  
 ## What this user tweeted
  
-RT @NPR: NEW: The Russian government is systematically deporting thousands of Ukrainian children to Russia, a Yale University report finds.…
+RT @SecurityTrybe: Perfect way to learn Python in 50 Days 
+
+#Python #coding #CyberSecurity #AI #tech #DataAnalytics #DataScience https://t.…
  
-# MichaelMcKay87USER INFO
-![image](http://pbs.twimg.com/profile_images/1623022330338320385/Fsg3wNip_normal.jpg)
+# gamerz_aaaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1624990334626279427/JAO0ECik_normal.png)
  
-`User ScreenName:` MichaelMcKay87 
+`User ScreenName:` gamerz_aaa 
  
-`User chosen Name:` Michael McKay 🚩🏴󠁧󠁢󠁳󠁣󠁴󠁿 
+`User chosen Name:` Amit 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 07 17:51:57 +0000 2023 
- 
-`User Description?:` Scottish republican socialist. 
-Opposed to Capitalism, Fascism, Ethnic nationalism, Christian nationalism, and Imperialism. Arsenal FC & Scotland NT 
- 
-`Followers?: `20 
- 
-`Following?:` 331 
- 
-`User URL?:` None 
- 
-`Location:` Dundee, Scotland 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623022330338320385/Fsg3wNip_normal.jpg 
- 
-`Number of tweets excluding replies:` 449 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@_UNGAGGED** 22 , **CLASS** 17 , **@IRLAGAINSTFASH** 16 , **👇** 14 , **FAR-RIGHT** 12 , **@AURELMONDON** 11 , **PEOPLE** 10 , **@BELLACALEDONIA** 9 , **@JACOBIN** 9 , **SOME** 8 , **WORKING** 8 , **RUSSIAN** 7 , **@CDBEATON** 7 , **WAR** 7 , **UKRAINIAN** 6 , **FAR** 6 , **ONCE** 6 , **@LINDSEYAGERMAN** 6 , **FASCISM** 6 , **POINT** 6 , 
- 
-## What this user tweeted
- 
-RT @VlStarodubtsev: DSA-IC trying to frame great interview of my collegue as an argument against support for Ukraine. It is what you need t…
- 
-# Mrey571957USER INFO
-![image](http://pbs.twimg.com/profile_images/1623775195692519428/_QU0wg8t_normal.png)
- 
-`User ScreenName:` Mrey571957 
- 
-`User chosen Name:` Mar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 09 20:05:49 +0000 2023 
- 
-`User Description?:` Human 
- 
-`Followers?: `2 
- 
-`Following?:` 91 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623775195692519428/_QU0wg8t_normal.png 
- 
-`Number of tweets excluding replies:` 212 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 28 , **RESEARCH** 11 , **FRAUD** 10 , **PENCE** 9 , **@LINDYLI:** 9 , **REPUBLICANS** 9 , **GOP** 9 , **JESUS** 7 , **BIDEN** 7 , **PAID** 7 , **FIRM** 7 , **@MALCOLMNANCE** 6 , **2020** 6 , **CAMPAIGN** 6 , **LAPTOP** 6 , **@MUELLERSHEWROTE:** 6 , **REPUBLICAN** 5 , **PRESIDENT** 5 , **PROVE** 5 , **PERVERSE** 5 , 
- 
-## What this user tweeted
- 
-RT @PeteAguilar: In the last two weeks, Republicans have proposed cuts to: 
-
-Social Security, Medicaid, Ukraine aid, and SNAP benefits. 
-
-R…
- 
-# DivineTruth2200USER INFO
-![image](http://pbs.twimg.com/profile_images/1623089751317426177/XL34pP25_normal.jpg)
- 
-`User ScreenName:` DivineTruth2200 
- 
-`User chosen Name:` Divine Truth 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 07 21:31:23 +0000 2023 
+`User signup date?:` Mon Feb 13 04:34:21 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 11 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 32 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1623089751317426177/XL34pP25_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1624990334626279427/JAO0ECik_normal.png 
  
-`Number of tweets excluding replies:` 32 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -314,40 +272,42 @@ R…
  
 ## User Top tweeted words 
  
-**DE** 8 , **NICARAGUA** 4 , **UKRAINE** 3 , **EN** 3 , **@ANDROIDCENTRAL:** 3 , **FEBRUARY** 2 , **2023** 2 , **STARTING** 2 , **VENANCIA** 2 , **LA** 2 , **CPDH** 2 , **DEL** 2 , **ORTEGA** 2 , **8** 2 , **RUSSIAN** 2 , **@RAINMAKER1973:** 2 , **CHAMP** 2 , **PIXEL** 2 , **7** 2 , **PRO** 2 , 
+**19** 1 , **BEST** 1 , **FREE** 1 , **CYBER** 1 , **SECURITY** 1 , **COURSES!** 1 , **HTTPS://TCO/Q9WPDVT8ZA** 1 , **LET** 1 , **MISSED!** 1 , **CYBERSECURITY** 1 , **INFOSECURITY** 1 , 
  
 ## What this user tweeted
  
-Lithuania ready to contribute to repairing Ukraine's NASAMS – Nauseda in Norway
+19 of The Best Free Cyber Security Courses! https://t.co/q9WpDvt8ZA 
 
-https://t.co/GfHnFvwAHa
+Let me know what I missed!
+
+#cybersecurity #infosecurity
  
-# mooreava858USER INFO
-![image](http://pbs.twimg.com/profile_images/1625632854603431936/vLHOyt9u_normal.jpg)
+# DoidoDoidao1USER INFO
+![image](http://pbs.twimg.com/profile_images/1625560524820828160/7u21N51y_normal.png)
  
-`User ScreenName:` mooreava858 
+`User ScreenName:` DoidoDoidao1 
  
-`User chosen Name:` Ava Moore 
+`User chosen Name:` Doido Doidao 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Feb 13 00:59:36 +0000 2023 
+`User signup date?:` Tue Feb 14 18:20:05 +0000 2023 
  
-`User Description?:` 🇺🇦 🇺🇦 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 10 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 18 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1625632854603431936/vLHOyt9u_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1625560524820828160/7u21N51y_normal.png 
  
-`Number of tweets excluding replies:` 18 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -355,11 +315,91 @@ https://t.co/GfHnFvwAHa
  
 ## User Top tweeted words 
  
-**RUSSIAN** 8 , **@BAYRAKTAR_1LOVE:** 4 , **UKRAINIAN** 4 , **@PODOLYAK_M:** 4 , **BRIGADE** 3 , **🇺🇦** 3 , **@OLEKSIIREZNIKOV:** 3 , **@UAWEAPONS:** 2 , **UKRAINE:** 2 , **LEFT** 2 , **FIRST** 2 , **НІ** 2 , **НЕ** 2 , **WAR** 2 , **@CINC_AFU:** 2 , **FRONT** 2 , **MEETING** 2 , **UKRAINE** 2 , **DAY** 2 , **🇧🇪** 2 , 
+**EMAIL** 1 , **EXTRACTOR** 1 , **PROFESSIONAL** 1 , **EDITION** 1 , **V7332** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/KS2GNOJZKS** 1 , **INFOSEC…** 1 , **HTTPS://TCO/3SES75UX8P** 1 , 
  
 ## What this user tweeted
  
-RT @UAWeapons: #Ukraine: Ukrainian precision artillery strikes targeted two Russian D-20 152mm howitzers on the left bank of the Dnipro Riv…
+Email Extractor Professional Edition v7.3.3.2 Full Activated – Discount 100% OFF https://t.co/kS2GNOJzKS #infosec… https://t.co/3sEs75uX8P
+ 
+# KowsarA08581461USER INFO
+![image](http://pbs.twimg.com/profile_images/1625549522544869381/lP6rgCeP_normal.png)
+ 
+`User ScreenName:` KowsarA08581461 
+ 
+`User chosen Name:` Kowsar Ahmed 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 14 17:36:21 +0000 2023 
+ 
+`User Description?:` CyberSecurity student 
+ 
+`Followers?: `0 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625549522544869381/lP6rgCeP_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@B35363:** 1 , **SMART** 1 , **!** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **OSCP** 1 , **REDTEAM** 1 , **INFORMATIONSECURITY** 1 , **CISSP** 1 , **CYBERSECURITYTIP…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @B35363: Smart !
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #cybersecuritytip…
+ 
+# KhatuShyaamUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625546365899255809/rV_itOsW_normal.png)
+ 
+`User ScreenName:` KhatuShyaam 
+ 
+`User chosen Name:` Khatu shyaam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 14 17:23:49 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625546365899255809/rV_itOsW_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 3 , **DISCOUNT** 2 , **100%** 2 , **AUTLAND** 1 , **SUITE** 1 , **MICROSOCIAL** 1 , **V2238** 1 , **FULL** 1 , **ACTIVATED** 1 , **SOCIAL** 1 , **MEDIA** 1 , **MARKETING** 1 , **OFF…** 1 , **HTTPS://TCO/1B6QMHHRDAMICROSOFT** 1 , **VISUAL** 1 , **C** 1 , **REDISTRIBUTABLE** 1 , **PACKAGE** 1 , **AIO** 1 , **2023** 1 , 
+ 
+## What this user tweeted
+ 
+AutLand Suite Microsocial v22.38 Full Activated – Social Media Marketing – Discount 100% OFF… https://t.co/1b6QMHhrdAMicrosoft Visual C   Redistributable Package AIO 2023 x86   x64 – Discount 100% OFF https://t.co/n7C7mANSRQ… https://t.co/kkqUoxQmKa
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
