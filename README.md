@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **elonmusk**  
+The most popular user is: **RepSwalwell**  
  
 
-## @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.
-
-Starlink is the communication bac… https://t.co/F5nRSTE1Wn 
+## Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems 
 
   
 
@@ -25,25 +23,25 @@ Starlink is the communication bac… https://t.co/F5nRSTE1Wn
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @DanKEberhart @elonmusk Elon should shut down starlink and the US should stop sending money to Ukraine. End the war… https://t.co/XzZQcOJCGi |
-| RT @DC_Draino: For someone pretending to care about the environment, Biden has destroyed so much of it in 2 years-Blew up the Nordstream… |
-| RT @OrestZub: Likely scenario for Eastern Europe:1) Ukraine takes back Donbas and Crimea;2) Moldova restores its control over Transnistri… |
+| What's the difference between antimalware and antivirus?https://t.co/uVeJWudWdO#CyberSecurity #antiVirus #antimalware |
+| RT @ayoran: Great joining @CNBC with @KellyCNBC to discuss the cybersecurity threat landscape and concerns about spy balloons and AI.https… |
+| For Hacking or any Recovery services Dm now!#CyberSecurity #hacker #infosec @reach2ratan #security #cyber #tech… https://t.co/pqJV7VaCU2 |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **CheburekiMan** |
-| #3 Most tweeted to  | **DC_Draino** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 6.52%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **HackwithRyan1** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 5.42%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -52,96 +50,57 @@ Starlink is the communication bac… https://t.co/F5nRSTE1Wn
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **RUSSIA**  |
-| third  | **US** |
-| fourth  | **WAR**  |
-| fifth  | **RUSSIAN**  |
+| first  | **INFOSEC**  |
+| second  | **HACKING**  |
+| third  | **AI** |
+| fourth  | **PHISHING**  |
+| fifth  | **DATA**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (45.45%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (54.55%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DC_Draino: Aliens, Balloons, and Trump indictmentsThese are the distractions👆🏼This is the real news👇🏼Pfizer gain of function on C… |
+|Hello Friend's Today's 2nd Topic - Network Communication. Day(8/100)#cybersecurity #networksecurity… https://t.co/WDycKaHvGT |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **elonmusk**  |
+| The most retweeted user is: **RepSwalwell**  |
 | ------------- |
-| @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.Starlink is the communication bac… https://t.co/F5nRSTE1Wn |
+| Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems |
 
 # Potential Fake Accounts
  
-# LCanada2023USER INFO
-![image](http://pbs.twimg.com/profile_images/1624209140468908035/kDMUIxCJ_normal.jpg)
+# gerlisle_44USER INFO
+![image](http://pbs.twimg.com/profile_images/1623518284707684353/pCM-rr99_normal.jpg)
  
-`User ScreenName:` LCanada2023 
+`User ScreenName:` gerlisle_44 
  
-`User chosen Name:` Hong Kong Phooey 🇨🇦 🍁 🇨🇦 🍁 🇨🇦 🍁 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 08 20:37:33 +0000 2023 
- 
-`User Description?:` Animal Lover. Worried about the future of Canada. People in Canada are basically starving now. Fixed income, single moms. Etc. I can't just watch it anymore. 
- 
-`Followers?: `253 
- 
-`Following?:` 830 
- 
-`User URL?:` None 
- 
-`Location:` Saint John, New Brunswick 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1624209140468908035/kDMUIxCJ_normal.jpg 
- 
-`Number of tweets excluding replies:` 274 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUDEAU** 10 , **@HARMONY47383691:** 9 , **@LCANADA2023** 8 , **HAHA** 7 , **HERE** 7 , **@UR_A_SMARTASS_C** 7 , **@PIERREPOILIEVRE** 7 , **GOOD** 6 , **PROBABLY** 6 , **WOMAN** 6 , **FUCK** 6 , **LOVE** 6 , **LOL** 6 , **DON'T** 6 , **@STEPHENHARPER** 6 , **@DRPEOPLEKIND:** 5 , **CANADA** 5 , **JUSTIN** 5 , **CANADIAN** 5 , **LOOK** 5 , 
- 
-## What this user tweeted
- 
-RT @DrPeoplekind: F🇺🇦ck the Ukraine.
- 
-# fufumaddasakkaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624773143704268800/EZ3kQPxq_normal.jpg)
- 
-`User ScreenName:` fufumaddasakka 
- 
-`User chosen Name:` ONDUPARAKA FC 2 
+`User chosen Name:` Gerliza Iglesias 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 12 14:04:30 +0000 2023 
+`User signup date?:` Thu Feb 09 03:04:57 +0000 2023 
  
-`User Description?:` deeply interessted in ongoing conflicts 
+`User Description?:`  
  
-`Followers?: `4 
+`Followers?: `0 
  
-`Following?:` 94 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 50 
+`Number of tweets extracted`  : 85 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624773143704268800/EZ3kQPxq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1623518284707684353/pCM-rr99_normal.jpg 
  
-`Number of tweets excluding replies:` 51 
+`Number of tweets excluding replies:` 85 
  
 
  
@@ -149,26 +108,148 @@ RT @DrPeoplekind: F🇺🇦ck the Ukraine.
  
 ## User Top tweeted words 
  
-**DIE** 7 , **PEOPLE** 5 , **RUSSIA** 4 , **ALIENS** 4 , **@BLACKINTHEEMPIR:** 3 , **BEI** 3 , **THESE** 3 , **REALLY** 3 , **🔴KEEP** 3 , **@WARMONITORS** 3 , **US** 3 , **DAS** 3 , **@ZENTRALEV** 3 , **ALMOST** 2 , **EUROPE** 2 , **MURR*CANS** 2 , **HELL** 2 , **DER** 2 , **VON** 2 , **AMERICA** 2 , 
+**TEAMNEWFOLD** 84 , **SOLUTIONS** 16 , **BUSINESS** 15 , **DIGITAL** 15 , **BLOG:** 12 , **DIGITAL'S** 10 , **LINKEDIN:** 9 , **ONLINE** 9 , **SMALL** 9 , **WEBSITE** 9 , **GUIDE** 5 , **STUDY:** 5 , **ARTICLE:** 5 , **BEST** 5 , **NEWFOLD** 5 , **TIPS** 5 , **NETWORK** 4 , **CASE** 4 , **WAYS** 4 , **CEO** 4 , 
  
 ## What this user tweeted
  
-RT @blackintheempir: NATO and almost the entire continent of Europe have not been able to defeat one country that they have tried to convin…
+Network Solutions Article: Educating Employees on Cybersecurity Best Practices #teamnewfold https://t.co/2pNi7xNf2B
  
-# Grant99510493USER INFO
-![image](http://pbs.twimg.com/profile_images/1625290685732769792/WN7b2CEj_normal.png)
+# bytefeedaiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1622357341294444544/H4LBPIFd_normal.jpg)
  
-`User ScreenName:` Grant99510493 
+`User ScreenName:` bytefeedai 
  
-`User chosen Name:` Grant 
+`User chosen Name:` Bytefeed 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 14 00:27:50 +0000 2023 
+`User signup date?:` Sat Feb 04 20:42:19 +0000 2023 
+ 
+`User Description?:` The latest AI news, written and analyzed by AI. 
+ 
+`Followers?: `2103 
+ 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/gd3FAy6KbP 
+ 
+`Location:` Everywhere 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1622357341294444544/H4LBPIFd_normal.jpg 
+ 
+`Number of tweets excluding replies:` 368 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 160 , **TECHNOLOGY** 58 , **ARTIFICIAL** 35 , **INTELLIGENCE** 33 , **CHATGPT** 28 , **-…** 27 , **TECHNOLOGY…** 13 , **FORBES** 12 , **GOOGLE** 10 , **SEARCH** 9 , **GENERATIVE** 9 , **MICROSOFT** 9 , **NEW** 8 , **INVESTMENT** 7 , **IMPACT** 6 , **CHATBOT** 6 , **COMPANIES** 5 , **INVESTING** 5 , **NEXT** 5 , **AI…** 5 , 
+ 
+## What this user tweeted
+ 
+Power of AI Highlighted at Check Point's Cybersecurity Event - https://t.co/gflNq998LW
+#Cybersecurity #TechRepublic https://t.co/BU37mLWDcF
+ 
+# AlameenboboUSER INFO
+![image](http://pbs.twimg.com/profile_images/1623450945836265472/b0dLVHC0_normal.jpg)
+ 
+`User ScreenName:` Alameenbobo 
+ 
+`User chosen Name:` Alamin Suleiman 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 08 22:34:53 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `1 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 57 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1623450945836265472/b0dLVHC0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 57 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PULSENIGERIA247:** 10 , **@AL__QURAAN:** 9 , **💯** 3 , **PULSENEWS** 3 , **@NAIJA_PR:** 3 , **@NAIJA_PR** 2 , **HERE** 2 , **@AMEEGONETWORK:** 2 , **RAPPER** 2 , **NIGERIA** 2 , **X** 2 , **MILLION** 2 , **15** 2 , **1** 2 , **@YABALEFTONLINE:** 2 , **CBN** 2 , **ALLAH** 2 , **BETTER** 2 , **FANS** 2 , **NAIRA** 2 , 
+ 
+## What this user tweeted
+ 
+RT @DiscoverTRW: Achraf has started multiple successful companies after joining The Real World…
+
+Ranging from an AI startup receiving $150k…
+ 
+# roivspfpsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1624940731055099904/aoEoee3m_normal.jpg)
+ 
+`User ScreenName:` roivspfps 
+ 
+`User chosen Name:` ROIVS PFPS 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 13 01:13:42 +0000 2023 
+ 
+`User Description?:` I am a digital artist that sells pfps,banners and more for 1$ each 
+ 
+`Followers?: `1 
+ 
+`Following?:` 7 
+ 
+`User URL?:` https://t.co/oRzEtwqb7f 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1624940731055099904/aoEoee3m_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@DISCOVERTRW:** 1 , **ACHRAF** 1 , **STARTED** 1 , **MULTIPLE** 1 , **SUCCESSFUL** 1 , **COMPANIES** 1 , **AFTER** 1 , **JOINING** 1 , **REAL** 1 , **WORLD…** 1 , **RANGING** 1 , **AI** 1 , **STARTUP** 1 , **RECEIVING** 1 , **$150K…@TYRAEMAGNA** 1 , **@GREENAPOLOGIST** 1 , **I’M** 1 , **LOOKING** 1 , **YOUGIVE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @DiscoverTRW: Achraf has started multiple successful companies after joining The Real World…
+
+Ranging from an AI startup receiving $150k…
+ 
+# jakejaki7USER INFO
+![image](http://pbs.twimg.com/profile_images/1625194321224863744/3__nXO1u_normal.png)
+ 
+`User ScreenName:` jakejaki7 
+ 
+`User chosen Name:` jake jaki 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 13 18:04:55 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
  
 `Following?:` 2 
  
@@ -176,52 +257,11 @@ RT @blackintheempir: NATO and almost the entire continent of Europe have not bee
  
 `Location:`  
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1625290685732769792/WN7b2CEj_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1625194321224863744/3__nXO1u_normal.png 
  
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK:** 8 , **RT** 2 , **SOME** 2 , **@MUSKUNIVERSITY** 1 , **MAYBE** 1 , **THAT’S** 1 , **BACTERIA** 1 , **ENCOUNTER** 1 , **WATER** 1 , **FILTERRT** 1 , **@FARZYNESS** 1 , **🤣RT** 1 , **@STATIONCDRKELLY** 1 , **YOU’RE** 1 , **SMART** 1 , **ENOUGH** 1 , **SWALLOW** 1 , **MEDIA** 1 , **OTHER** 1 , **PROPAGANDA** 1 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.
-
-Starlink is the communication backbone of U…
- 
-# justice4orcsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624793067852034048/O02wKkcH_normal.png)
- 
-`User ScreenName:` justice4orcs 
- 
-`User chosen Name:` HeroesNeverDie 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 12 15:30:29 +0000 2023 
- 
-`User Description?:` #Istandwithukraine 
- 
-`Followers?: `4 
- 
-`Following?:` 46 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 31 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1624793067852034048/O02wKkcH_normal.png 
- 
-`Number of tweets excluding replies:` 31 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -229,30 +269,28 @@ Starlink is the communication backbone of U…
  
 ## User Top tweeted words 
  
-**REALLY** 7 , **UKRAINIAN** 6 , **PEOPLE** 4 , **RUSSIAN** 4 , **DON’T** 3 , **EVEN** 3 , **RALLY** 3 , **RT** 2 , **STOP** 2 , **@CHRISLYNNHEDGES** 2 , **T…** 2 , **GREAT** 2 , **GETTING** 2 , **YET** 2 , **PRO-WAR** 2 , **ELON** 2 , **WAR** 2 , **EFFORT** 2 , **LET** 2 , **EUROPE** 2 , 
+**WINRAR** 1 , **KEYGEN** 1 , **–** 1 , **REVERSE** 1 , **ENGINEERING** 1 , **TUTORIAL** 1 , **HTTPS://TCO/SDHLQEYVBO** 1 , **INFOSEC** 1 , **BUGCROWD** 1 , **BUGBOUNTYTIPS…** 1 , **HTTPS://TCO/V31ELYBAHF** 1 , 
  
 ## What this user tweeted
  
-RT @RpsAgainstTrump: JD Vance: “I really don’t care what happens to Ukraine one way or another.”
-
- https://t.co/dnSlcTWcDI
+WinRar Keygen – Reverse Engineering Tutorial https://t.co/SDHlqeyvBo #infosec #bugcrowd #bugbountytips… https://t.co/V31eLyBahf
  
-# Tardis444USER INFO
-![image](http://pbs.twimg.com/profile_images/1624065365453213697/lrdePuAG_normal.png)
+# NeelamS19154806USER INFO
+![image](http://pbs.twimg.com/profile_images/1622342005824045056/z26nT9c7_normal.png)
  
-`User ScreenName:` Tardis444 
+`User ScreenName:` NeelamS19154806 
  
-`User chosen Name:` Tardis 
+`User chosen Name:` Neelam Singh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 10 15:18:51 +0000 2023 
+`User signup date?:` Sun Feb 05 21:10:50 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 45 
+`Following?:` 8 
  
 `User URL?:` None 
  
@@ -260,7 +298,7 @@ RT @RpsAgainstTrump: JD Vance: “I really don’t care what happens to Ukraine 
  
 `Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624065365453213697/lrdePuAG_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1622342005824045056/z26nT9c7_normal.png 
  
 `Number of tweets excluding replies:` 8 
  
@@ -270,77 +308,38 @@ RT @RpsAgainstTrump: JD Vance: “I really don’t care what happens to Ukraine 
  
 ## User Top tweeted words 
  
-**WAR** 2 , **@LOCUST9** 1 , **@THETRUTEUK** 1 , **@ELONMUSK** 1 , **@STATIONCDRKELLY** 1 , **UKRAINE** 1 , **ALWAYS** 1 , **USA'S** 1 , **PROXY** 1 , **ANYONE** 1 , **SUPPORT** 1 , **THAT?@FOXNEWS** 1 , **COURSE** 1 , **DIDN'T** 1 , **WIN** 1 , **ABSOLUTELY** 1 , **RACISM** 1 , **MISOGYNY** 1 , **ELSE** 1 , **COULD** 1 , 
+**POLICE** 4 , **NAVI** 3 , **@THANECITYPOLICE:** 3 , **@NAVIMUMPOLICE:** 2 , **MUMBAI** 2 , **ALERT** 2 , **@MUMBAIPOLICE:** 2 , **VILE** 2 , **PARLE** 2 , **RT** 1 , **KHARGHAR** 1 , **TRAFFIC** 1 , **COMMISSIONERATE** 1 , **ACTION** 1 , **AGAINST** 1 , **PASSENGER** 1 , **VEHICLES** 1 , **VIOLATION** 1 , **RULES---…RT** 1 , **LIVE** 1 , 
  
 ## What this user tweeted
  
-@locust9 @TheTruteUK @elonmusk @StationCDRKelly The Ukraine War has always been the USA's proxy war. Why would anyone support that?
+RT @ThaneCityPolice: Be Alert, Be Vigilant, Be Aware  #CyberAwareness #cybersecurity https://t.co/oT019hkXl9
  
-# patrickantho256USER INFO
-![image](http://pbs.twimg.com/profile_images/1624547059448614912/nAtT2MrC_normal.jpg)
+# CyberWaveSecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625006442091773952/tEuCwiHY_normal.jpg)
  
-`User ScreenName:` patrickantho256 
+`User ScreenName:` CyberWaveSec 
  
-`User chosen Name:` Патрік Ентоні 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 11 23:07:14 +0000 2023 
- 
-`User Description?:` Fighting for peace ! Fighting for freedom ! Fighting for a peaceful coexistence Slava Ukraine 🙏🏼 
- 
-`Followers?: `50 
- 
-`Following?:` 236 
- 
-`User URL?:` None 
- 
-`Location:` Україна 
- 
-`Number of tweets extracted`  : 120 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1624547059448614912/nAtT2MrC_normal.jpg 
- 
-`Number of tweets excluding replies:` 121 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DEFENCEU:** 19 , **@NOELREPORTS:** 13 , **UKRAINE** 13 , **🇺🇦** 12 , **UKRAINIAN** 9 , **@OLEKSANDRKOLYM:** 9 , **В** 9 , **BAKHMUT** 8 , **RUSSIAN** 7 , **HERE** 6 , **НА** 6 , **FIGHTING** 5 , **SLAVA** 5 , **@SMALL10SPACE:** 5 , **RUSSIANS** 5 , **СЛАВА** 5 , **@GERASHCHENKO_EN:** 4 , **@VISEGRAD24:** 4 , **GOING** 4 , **@BAYRAKTAR_1LOVE:** 4 , 
- 
-## What this user tweeted
- 
-RT @maximus76a: They have taken up arms against Russia for a variety of reasons: a sense of moral outrage at their country’s invasion, a de…
- 
-# Michylucinda107USER INFO
-![image](http://pbs.twimg.com/profile_images/1623481864517304320/g438ab2e_normal.jpg)
- 
-`User ScreenName:` Michylucinda107 
- 
-`User chosen Name:` Michelle lucinda Grayson 
+`User chosen Name:` CyberWave Security 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Feb 09 00:33:20 +0000 2023 
+`User signup date?:` Thu Feb 09 22:15:42 +0000 2023 
  
-`User Description?:` Research Analyst and fashion designer.Simple woman who want to make the world a better place ! 
+`User Description?:` CyberWave Security is a managed security service provider (MSSP) that offers comprehensive and innovative cybersecurity solutions. 
  
 `Followers?: `0 
  
-`Following?:` 18 
+`Following?:` 1 
  
 `User URL?:` None 
  
-`Location:` New York, NY 
+`Location:` Honolulu, HI 
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1623481864517304320/g438ab2e_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1625006442091773952/tEuCwiHY_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -348,13 +347,93 @@ RT @maximus76a: They have taken up arms against Russia for a variety of reasons:
  
 ## User Top tweeted words 
  
-**MEDIA** 2 , **SERVED** 2 , **GOOD** 2 , **@THERICHFROMCALI** 2 , **BEST** 2 , **RT** 1 , **@ELONMUSK:** 1 , **@STATIONCDRKELLY** 1 , **YOU’RE** 1 , **SMART** 1 , **ENOUGH** 1 , **SWALLOW** 1 , **OTHER** 1 , **PROPAGANDA** 1 , **BS** 1 , **STARLINK** 1 , **COMMUNICATION** 1 , **BACKBONE** 1 , **U…DINNER** 1 , **!** 1 , 
+**CYBER** 1 , **ATTACKS** 1 , **COST** 1 , **BUSINESSES** 1 , **ESTIMATED** 1 , **$265** 1 , **BILLION** 1 , **2031!** 1 , **MAKING** 1 , **CRITICAL** 1 , **COMPANIES** 1 , **DEVE…** 1 , **HTTPS://TCO/610IZL325C@HACKINARTICLES** 1 , **WHERE** 1 , **AUTHENTICATION** 1 , **ENABLED** 1 , **DENYING** 1 , **ACCES** 1 , **OPEN** 1 , **LATCH** 1 , 
  
 ## What this user tweeted
  
-RT @elonmusk: @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.
+Cyber attacks will cost businesses over an estimated $265 Billion By 2031! Making it critical for companies to deve… https://t.co/610iZl325C
+ 
+# MayurClindcastUSER INFO
+![image](http://pbs.twimg.com/profile_images/1623303616772861952/kTsu_PDl_normal.png)
+ 
+`User ScreenName:` MayurClindcast 
+ 
+`User chosen Name:` Mayur Keshari 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 08 12:51:56 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1623303616772861952/kTsu_PDl_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
 
-Starlink is the communication backbone of U…
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CLINDCAST:** 2 , **CRUCIAL** 2 , **RT** 1 , **CHECKLIST** 1 , **FHIR** 1 , **API** 1 , **IMPLEMENTATION** 1 , **READ** 1 , **MORE:** 1 , **HTTPS://TCO/EAH0ZJKCES** 1 , **INTEROPERABILITY** 1 , **HEALTHCARENEWS** 1 , **HEA…RT** 1 , **POINT** 1 , **FEW** 1 , **METHODS** 1 , **HEALTHCARE** 1 , **FIRMS** 1 , **START** 1 , **USING** 1 , 
+ 
+## What this user tweeted
+ 
+RT @clindcast: The Crucial Checklist For FHIR API Implementation read more: https://t.co/EAh0zJkCES
+
+#interoperability #healthcarenews #hea…
+ 
+# SajadHa16893761USER INFO
+![image](http://pbs.twimg.com/profile_images/1624873925493592064/a04Kj_Pk_normal.jpg)
+ 
+`User ScreenName:` SajadHa16893761 
+ 
+`User chosen Name:` Sajad Haider 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 06 14:00:23 +0000 2023 
+ 
+`User Description?:` Arabs wins 
+ 
+`Followers?: `2 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 90 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1624873925493592064/a04Kj_Pk_normal.jpg 
+ 
+`Number of tweets excluding replies:` 90 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@COBRATATE:** 60 , **DAILY** 9 , **ANDREW** 8 , **JAIL** 8 , **TATE** 7 , **NEVER** 7 , **WORLD** 7 , **WATCH** 7 , **REAL** 6 , **@AMEEGONETWORK:** 6 , **MEN** 6 , **@DISCOVERTRW:** 5 , **DAY** 5 , **WITHOUT** 5 , **MOST** 5 , **HARD** 5 , **FULL** 5 , **INTERVIEW:** 5 , **INSIDE** 5 , **WORLD…** 4 , 
+ 
+## What this user tweeted
+ 
+RT @DiscoverTRW: Achraf has started multiple successful companies after joining The Real World…
+
+Ranging from an AI startup receiving $150k…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
