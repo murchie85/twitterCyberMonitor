@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **RepSwalwell**  
+The most popular user is: **realstewpeters**  
  
 
-## Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems 
+## Ohio: Dead fish and cattle being reported as far as 100 miles away from the site. 
+
+Journalists covering the story… https://t.co/iEf9KPAO41 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **RepSwalwell**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| 😀😀😀Instagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/20UHjBmtIC #infosec #bugcrowd… https://t.co/nwXdZnTKz5 |
-| RT @OvieNews: Meet Nigeria-born mathematics guru, Idris Ahmed, who has developed 4 patented devices , and currently works as the Lead Engin… |
-| DOJ Announces False Claims Act Recoveries for FY 2022 https://t.co/YA2Y5Luh1J #Cybersecurity |
+| Is Your Hotel Room Safe? These 5 Hotel Safety Hacks Make Your Room Jason Bourne Safe #SafetyFirst #infosec https://t.co/R2ugmPzk0c |
+| Google Rolling Out Privacy Sandbox Beta on Android 13 Deviceshttps://t.co/6G57YR54Eu#Infosec #Secinfo #Security… https://t.co/73yIcHl8Tu |
+| RT @hackinarticles: Password Dumping Cheatsheethttps://t.co/LHcXJIkekT#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **OvieNews** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **SecurityTrybe** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 5.42%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **SecurityTrybe** |
+| #3 Most tweeted to  | **0xor0ne** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 5.18%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -52,55 +54,55 @@ The most popular user is: **RepSwalwell**
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
 | second  | **HACKING**  |
-| third  | **4** |
-| fourth  | **LEAD**  |
-| fifth  | **DEVICES**  |
+| third  | **PENTESTING** |
+| fourth  | **PHISHING**  |
+| fifth  | **DATA**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (69.23%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @OvieNews: Meet Nigeria-born mathematics guru, Idris Ahmed, who has developed 4 patented devices , and currently works as the Lead Engin… |
+|RT @hackinarticles: Pic of the Day#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RepSwalwell**  |
+| The most retweeted user is: **realstewpeters**  |
 | ------------- |
-| Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems |
+| Ohio: Dead fish and cattle being reported as far as 100 miles away from the site. Journalists covering the story… https://t.co/iEf9KPAO41 |
 
 # Potential Fake Accounts
  
-# zpzl_USER INFO
-![image](http://pbs.twimg.com/profile_images/1623322733009584128/Lg5nxYGn_normal.jpg)
+# jaydeep001tUSER INFO
+![image](http://pbs.twimg.com/profile_images/1622816785572720640/N2MeHsAj_normal.png)
  
-`User ScreenName:` zpzl_ 
+`User ScreenName:` jaydeep001t 
  
-`User chosen Name:` ً 
+`User chosen Name:` Jaydeep Vasani 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Feb 06 08:45:09 +0000 2023 
+`User signup date?:` Tue Feb 07 04:37:26 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 48 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 17 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1623322733009584128/Lg5nxYGn_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1622816785572720640/N2MeHsAj_normal.png 
  
-`Number of tweets excluding replies:` 17 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -108,25 +110,22 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**@SHUBHAM_PEN:** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **PENTESTING** 2 , **OSCP** 2 , **INFORMATIONSECURITY** 2 , **@WAHEEDACOMRADE:** 2 , **MAKE** 2 , **@TEXTDEEP1:** 2 , **THERE'S** 2 , **SUFFERING** 2 , **CAUSED** 2 , **RT** 1 , **SQL** 1 , **CHEAT** 1 , **SHEET** 1 , **CREDIT:** 1 , **@YOSRACODES** 1 , **HACKING** 1 , **CISSP** 1 , 
+**@NSCONCLAVE:** 3 , **HERE** 3 , **NSCONCLAVE2023** 3 , **SLIDE** 2 , **BURP** 2 , **SUITE** 2 , **RT** 1 , **MATERIAL** 1 , **MOBILE** 1 , **APPLICATION** 1 , **INSTRUMENTATION** 1 , **FRIDA** 1 , **WORKSHOP** 1 , **@JAIMIN_GOHEL** 1 , **@VI…RT** 1 , **TIME** 1 , **CUSTOMIZE** 1 , **BURPSUITE** 1 , **!!** 1 , **CREATE** 1 , 
  
 ## What this user tweeted
  
-RT @Shubham_pen: SQL Cheat Sheet
-Credit: @yosracodes
-
-#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #cissp #redt…
+RT @NSConclave: Here is the material from #NSConclave2023 for MOBILE APPLICATION INSTRUMENTATION WITH FRIDA workshop by @jaimin_gohel &amp; @vi…
  
-# DenilsonCdaSil1USER INFO
-![image](http://pbs.twimg.com/profile_images/1625629961364115458/2STqszVx_normal.png)
+# drive_ii_SwaichUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625941649863114752/obGRJ-FR_normal.png)
  
-`User ScreenName:` DenilsonCdaSil1 
+`User ScreenName:` drive_ii_Swaich 
  
-`User chosen Name:` Denilson C. da Silva 
+`User chosen Name:` Swaich Drive II 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 14 22:55:59 +0000 2023 
+`User signup date?:` Wed Feb 15 19:34:32 +0000 2023 
  
 `User Description?:`  
  
@@ -140,7 +139,7 @@ Credit: @yosracodes
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1625629961364115458/2STqszVx_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1625941649863114752/obGRJ-FR_normal.png 
  
 `Number of tweets excluding replies:` 1 
  
@@ -150,77 +149,38 @@ Credit: @yosracodes
  
 ## User Top tweeted words 
  
-**😀😀😀INSTAGRAM** 1 , **BOT** 1 , **PRO** 1 , **V550** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/20UHJBMTIC** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/NWXDZNTKZ5** 1 , 
+**–** 2 , **AUTO** 1 , **WHATSAPP** 1 , **BUSINESS** 1 , **SENDER** 1 , **TURBO** 1 , **PRO** 1 , **V120** 1 , **FULL** 1 , **ACTIVATED** 1 , **(AI)** 1 , **ANTI** 1 , **BLOCK** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/4GFV8HAJNN** 1 , 
  
 ## What this user tweeted
  
-😀😀😀Instagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/20UHjBmtIC #infosec #bugcrowd… https://t.co/nwXdZnTKz5
+Auto WhatsApp Business Sender Turbo Pro v12.0 Full Activated (Ai) – Anti Block – Discount 100% OFF… https://t.co/4Gfv8HAjnN
  
-# ZillurRahim6USER INFO
-![image](http://pbs.twimg.com/profile_images/1625622899414687744/Hx-l6jk1_normal.jpg)
+# Sudipta37175841USER INFO
+![image](http://pbs.twimg.com/profile_images/1625914305643433985/jm9Cuy7h_normal.png)
  
-`User ScreenName:` ZillurRahim6 
+`User ScreenName:` Sudipta37175841 
  
-`User chosen Name:` Zillur Rahim 
+`User chosen Name:` Sudipta Sarkar 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 14 22:27:56 +0000 2023 
+`User signup date?:` Wed Feb 15 17:45:52 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1625622899414687744/Hx-l6jk1_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1625914305643433985/jm9Cuy7h_normal.png 
  
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 2 , **ACUNETIX** 1 , **PREMIUM** 1 , **V153230123162** 1 , **FULL** 1 , **ACTIVATED** 1 , **CYBERSECURITY** 1 , **TOOLS** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/AY2ZBNYL9S…** 1 , **HTTPS://TCO/I3UKY8A4K5** 1 , 
- 
-## What this user tweeted
- 
-Acunetix Premium v15.3.230123162 Full Activated – CyberSecurity Tools – Discount 100% OFF https://t.co/Ay2ZBNYL9S… https://t.co/i3uky8A4K5
- 
-# Annieni10970368USER INFO
-![image](http://pbs.twimg.com/profile_images/1625598164979032065/AkPSSdx9_normal.jpg)
- 
-`User ScreenName:` Annieni10970368 
- 
-`User chosen Name:` Annie Smith 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 14 20:11:58 +0000 2023 
- 
-`User Description?:` A woman is like a book, if you can't even attract people on the cover, who will be interested in reading your content, no matter what age you have to live beaut 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` https://t.co/SwWA6MFgrM 
- 
-`Location:` New York 
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625598164979032065/AkPSSdx9_normal.jpg 
- 
-`Number of tweets excluding replies:` 26 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -228,44 +188,38 @@ Acunetix Premium v15.3.230123162 Full Activated – CyberSecurity Tools – Disc
  
 ## User Top tweeted words 
  
-**PYTHON** 4 , **HAPPY** 3 , **LOVE** 3 , **DAY** 3 , **💕** 2 , **NATURE** 2 , **LEARN** 2 , **THESE** 2 , **@SECURITYTRYBE:** 2 , **CYBERSECURITY** 2 , **AI** 2 , **TECH** 2 , **DATASCIENCE** 2 , **DATAANALYTICS** 2 , **MUCH** 2 , **NAME** 2 , **WEB3** 2 , **@BNBCHAIN:** 2 , **TOURISM** 2 , **AIR** 2 , 
+**–** 3 , **DISCOUNT** 2 , **100%** 2 , **YOUTUBE** 2 , **MICROSOFT** 1 , **VISUAL** 1 , **C** 1 , **REDISTRIBUTABLE** 1 , **PACKAGE** 1 , **AIO** 1 , **2023** 1 , **X86** 1 , **X64** 1 , **OFF** 1 , **HTTPS://TCO/NUVDY0T8AI…** 1 , **HTTPS://TCO/D8MS6TCJWVVIDIQ** 1 , **VISION** 1 , **ENTERPRISE** 1 , **V38121** 1 , **FULL** 1 , 
  
 ## What this user tweeted
  
-RT @tut_ml: Learn Machine Learning with these courses- https://t.co/z4o4r7Iir4
-
-#Machinelearning #100DaysOfCode #IoT #100DaysOfMLCode #Pyth…RT @SecurityTrybe: Python Beginner Topics 
-
-#Cybersecurity #Python #infosec #AI #tech #DataScience #DataAnalytics https://t.co/oJj9HdXpcfRT @SecurityTrybe: Perfect way to learn Python in 50 Days 
-
-#Python #coding #CyberSecurity #AI #tech #DataAnalytics #DataScience https://t.…
+Microsoft Visual C   Redistributable Package AIO 2023 x86   x64 – Discount 100% OFF https://t.co/NUVdY0T8ai… https://t.co/d8MS6tCjwvvidIQ Vision For YouTube Enterprise v3.81.2.1 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/uGyjvqtsoq
  
-# zakwannmr19USER INFO
-![image](http://pbs.twimg.com/profile_images/1625585498029969409/Xj9ACQuu_normal.jpg)
+# TylerYam6USER INFO
+![image](http://pbs.twimg.com/profile_images/1623536869698056194/t0ZApjra_normal.jpg)
  
-`User ScreenName:` zakwannmr19 
+`User ScreenName:` TylerYam6 
  
-`User chosen Name:` Zakwan 
+`User chosen Name:` Tyler Yam 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 14 18:51:22 +0000 2023 
+`User signup date?:` Thu Feb 09 04:14:10 +0000 2023 
  
-`User Description?:` I'm new here #trader 
+`User Description?:` hacking vr stuff and web stuff and other stuff 
  
-`Followers?: `1 
+`Followers?: `4 
  
-`Following?:` 93 
+`Following?:` 28 
  
 `User URL?:` None 
  
-`Location:` Kuala Lumpur 
+`Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 39 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1625585498029969409/Xj9ACQuu_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1623536869698056194/t0ZApjra_normal.jpg 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 39 
  
 
  
@@ -273,40 +227,83 @@ RT @tut_ml: Learn Machine Learning with these courses- https://t.co/z4o4r7Iir4
  
 ## User Top tweeted words 
  
-**TAK** 3 , **PYTHON** 2 , **RT** 1 , **@JEFFRAZI:** 1 , **TAHU** 1 , **YANG** 1 , **KITA** 1 , **NI** 1 , **WAJIB** 1 , **PUN** 1 , **SHARE** 1 , **GAJI** 1 , **(CURRENT** 1 , **COMPANY)** 1 , **KEPADA** 1 , **BAKAL** 1 , **MAJIKAN** 1 , **BARU** 1 , **SEMASA** 1 , **INTERVIEW?** 1 , 
+**I'M** 14 , **@JONATHANDATA1** 10 , **@ELMEJDOUB3** 8 , **@YOUTUBE** 8 , **VR** 5 , **NEW** 5 , **PEOPLE** 4 , **ISSUE** 3 , **@PLAINTOO** 3 , **@JONATHANDATA0** 3 , **I'VE** 2 , **AND…** 2 , **INFOSEC** 2 , **SOFTWARE** 2 , **DON'T** 2 , **FOLLOW** 2 , **DUDE** 2 , **TRYING** 2 , **FRIEND** 2 , **@SACCHAN_VRC** 2 , 
  
 ## What this user tweeted
  
-RT @SecurityTrybe: Perfect way to learn Python in 50 Days 
-
-#Python #coding #CyberSecurity #AI #tech #DataAnalytics #DataScience https://t.…
+RT @Din3zh: PoC for Exploitable use-after-free issue in Firefox - CVE-2022-26485 https://t.co/J8jQnlz1xb #CVE #VR #infosecRT @twelvesec: Emerging technologies like the #metaverse, #VR, and #AR will make enforcement of data #privacy regulations more challenging.…RT @Alevskey: Bigscreen’s new VR headset goes small: https://t.co/dlTHgDe5wN by TechCrunch #infosec #software #technology@Gironanoticies @jonathandata1 this guy also thinks i'm jonathan's sock account because its too hard for him to ima… https://t.co/gl7PzXtbyt@Gironanoticies @jonathandata1 dude attacking jonathan by misrepresenting this video makes infosec look like a bunc… https://t.co/dESysYTvNG
  
-# gamerz_aaaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624990334626279427/JAO0ECik_normal.png)
+# bappi_35USER INFO
+![image](http://pbs.twimg.com/profile_images/1624104453958963202/ZQLkbtwU_normal.jpg)
  
-`User ScreenName:` gamerz_aaa 
+`User ScreenName:` bappi_35 
  
-`User chosen Name:` Amit 
+`User chosen Name:` Md. Bappi Ali 221-35-855 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Feb 13 04:34:21 +0000 2023 
+`User signup date?:` Fri Feb 10 17:54:10 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 79 
+ 
+`User URL?:` None 
+ 
+`Location:` bangladesh 
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1624104453958963202/ZQLkbtwU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 3 , **@THREE_CUBE:** 3 , **LINUX** 3 , **METASPLOIT** 3 , **NMAP** 2 , **PART** 2 , **@NIHILISME10:** 2 , **NEW** 2 , **FAV** 2 , **TWEET:** 2 , **BASICS** 2 , **FIND** 2 , **USERNAME** 2 , **RECONNG** 2 , **RT** 1 , **@HACKINARTICLES:** 1 , **GIT** 1 , **DORK** 1 , **CHEAT** 1 , **SHEET** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Git Dork Cheat Sheet
+
+@therceman 
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity…RT @Nihilisme10: My new fav tweet:
+
+Linux Basics for Hackers, Part 11: Linux Firewalls (iptables) #iptables #linux #linux4hackers #cybersec…
+ 
+# ZhebrilBUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625422664579031042/ICbbl4tz_normal.png)
+ 
+`User ScreenName:` ZhebrilB 
+ 
+`User chosen Name:` Zhebril devils Betta 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 14 09:12:16 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 1 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624990334626279427/JAO0ECik_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1625422664579031042/ICbbl4tz_normal.png 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -314,54 +311,11 @@ RT @SecurityTrybe: Perfect way to learn Python in 50 Days
  
 ## User Top tweeted words 
  
-**19** 1 , **BEST** 1 , **FREE** 1 , **CYBER** 1 , **SECURITY** 1 , **COURSES!** 1 , **HTTPS://TCO/Q9WPDVT8ZA** 1 , **LET** 1 , **MISSED!** 1 , **CYBERSECURITY** 1 , **INFOSECURITY** 1 , 
+**–** 5 , **FULL** 3 , **ACTIVATED** 3 , **DISCOUNT** 3 , **100%** 3 , **OFF** 3 , **MARKETING** 2 , **TOOL** 2 , **INSTAGRAM** 1 , **BOT** 1 , **PRO** 1 , **V550** 1 , **HTTPS://TCO/4ZVPY84NKW** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/GCHLFX3ZBCTUBE** 1 , **ATLAS** 1 , **PREMIUM** 1 , **V1030** 1 , **YOUTUBE** 1 , 
  
 ## What this user tweeted
  
-19 of The Best Free Cyber Security Courses! https://t.co/q9WpDvt8ZA 
-
-Let me know what I missed!
-
-#cybersecurity #infosecurity
- 
-# DoidoDoidao1USER INFO
-![image](http://pbs.twimg.com/profile_images/1625560524820828160/7u21N51y_normal.png)
- 
-`User ScreenName:` DoidoDoidao1 
- 
-`User chosen Name:` Doido Doidao 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 14 18:20:05 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625560524820828160/7u21N51y_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**EMAIL** 1 , **EXTRACTOR** 1 , **PROFESSIONAL** 1 , **EDITION** 1 , **V7332** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/KS2GNOJZKS** 1 , **INFOSEC…** 1 , **HTTPS://TCO/3SES75UX8P** 1 , 
- 
-## What this user tweeted
- 
-Email Extractor Professional Edition v7.3.3.2 Full Activated – Discount 100% OFF https://t.co/kS2GNOJzKS #infosec… https://t.co/3sEs75uX8P
+Instagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/4ZVPY84nkw #infosec #bugcrowd… https://t.co/gCHLfX3ZbCTube Atlas Premium v1.0.3.0 Full Activated – YouTube Marketing Tool – Discount 100% OFF https://t.co/oHp29yaTZl… https://t.co/cCxAm0AewE
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
