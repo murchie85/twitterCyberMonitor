@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **elonmusk**  
+The most popular user is: **RepSwalwell**  
  
 
-## @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.
-
-Starlink is the communication bac… https://t.co/F5nRSTE1Wn 
+## Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems 
 
   
 
@@ -25,25 +23,25 @@ Starlink is the communication bac… https://t.co/F5nRSTE1Wn
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ivan_8848: 🇧🇬'Categorically against sending armaments.' Bulgarian President Rumen Radev reaffirmed his stance against sending weapons t… |
-| RT @RichardEngel: Thousands of Ukrainian children forced into Russian network of camps, study finds https://t.co/Wta2sD89ma |
-| Col. Macgregor: Ukraine is About to be ANNIHILATED (Exclusive Interview) https://t.co/YDuPPmTJEk via @YouTube |
+| This is a new tactic:#phishing #cybersecurity #ransomwareUS and UK authorities just doxxed members of a Russian… https://t.co/SS2hoCmNXs |
+| When an organization trusts a malicious code package, it introduces a vulnerability in high-impact environments, su… https://t.co/bKtYIxcDJM |
+| RT @SecurityTrybe: 10 Best Coding Interview Preparation Sites for Software Programmers #Python #Security #coding #infosec #tech #cybersec… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecBlinken** |
-| #2 Most tweeted to  | **KyivIndependent** |
-| #3 Most tweeted to  | **visegrad24** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 6.78%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **NandanLohitaksh** |
+| #2 Most tweeted to  | **Eli_Krumova** |
+| #3 Most tweeted to  | **0xor0ne** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 6.8%|
+| Tweeters with > 1000000 followers  | 0.32%  |
 
 
 
@@ -52,174 +50,57 @@ Starlink is the communication bac… https://t.co/F5nRSTE1Wn
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **RUSSIAN** |
-| fourth  | **RUSSIA**  |
-| fifth  | **US**  |
+| first  | **INFOSEC**  |
+| second  | **DATA**  |
+| third  | **HACKING** |
+| fourth  | **AI**  |
+| fifth  | **•**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (30.77%) **OBJECTIVE** (53.85%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (30.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (70.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @nexta_tv: In the Moscow region, a conscript committed suicide because he did not want to fight in UkraineThe conscript left a suicide… |
+|This is the first of several stories coming about zero trust in state government. Right now, most are experimenting… https://t.co/jUfc42CsfE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **elonmusk**  |
+| The most retweeted user is: **RepSwalwell**  |
 | ------------- |
-| @StationCDRKelly You’re smart enough not to swallow media &amp; other propaganda bs.Starlink is the communication bac… https://t.co/F5nRSTE1Wn |
+| Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems |
 
 # Potential Fake Accounts
  
-# SPIDMAN51USER INFO
-![image](http://pbs.twimg.com/profile_images/1622448152342298627/8hqphW3D_normal.jpg)
+# YigitSrdrrUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` SPIDMAN51 
+`User ScreenName:` YigitSrdrr 
  
-`User chosen Name:` HumptyDumpty still on the wall 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 06 00:12:34 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 28 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 32 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1622448152342298627/8hqphW3D_normal.jpg 
- 
-`Number of tweets excluding replies:` 31 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@JULIADAVISNEWS** 4 , **WEAPONS** 3 , **WORLD** 3 , **@ZELENSKYYUA** 3 , **@PAULINEHANSONOZ** 3 , **WWII** 2 , **@UAREALITYNOW** 2 , **@UMLANDANDREAS** 2 , **@JCH6289** 2 , **@MAXBLUMENTHAL** 2 , **YES** 2 , **SAY** 2 , **RUSSIAN** 2 , **DANGEROUS** 2 , **3RD** 2 , **@DEFENCEU** 2 , **@FRANCIS_SCARR** 2 , **CLASS** 2 , **@SBSNEWS** 2 , **MANY** 2 , 
- 
-## What this user tweeted
- 
-@GenZConserves @c_daviscourt Bekah, all countries at war need a strong leader, the United Kingdom in WWII had Winst… https://t.co/RhPVQAaL73
- 
-# smashbillc11USER INFO
-![image](http://pbs.twimg.com/profile_images/1623889682638725120/Rpu43mIG_normal.jpg)
- 
-`User ScreenName:` smashbillc11 
- 
-`User chosen Name:` Gabriel 
+`User chosen Name:` yigit 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 07 16:37:36 +0000 2023 
- 
-`User Description?:` conservative, anti C-11, free speech supporter, anti Liberal, anti trudeau. Recently radicalized by Wagner and Putin 
- 
-`Followers?: `27 
- 
-`Following?:` 482 
- 
-`User URL?:` None 
- 
-`Location:` white rock 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623889682638725120/Rpu43mIG_normal.jpg 
- 
-`Number of tweets excluding replies:` 215 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@JUSTINTRUDEAU** 12 , **UKRAINE** 8 , **@CAFREELAND** 8 , **NAZI** 7 , **DON’T** 7 , **SUPPORT** 6 , **I’M** 6 , **THAT’S** 5 , **@POTUS** 5 , **VIA** 5 , **@YOUTUBE** 5 , **GETTING** 4 , **TRY** 4 , **GOING** 4 , **@ARTHURM40330824** 4 , **RUSSIA** 4 , **COULD** 4 , **@NARRATIVE_HOLE** 4 , **@PIERREPOILIEVRE** 4 , **NEED** 4 , 
- 
-## What this user tweeted
- 
-@WarMonitors @11Knuk123 Hahaha I knew it @ukrainiansquad and Ukraine sucks so bad at getting busted thanks to @telegram@WarMonitors We’re way past the point of acting surprised here, Ukraine is a Nazi state. @ZelenskyyUa is nothing mo… https://t.co/xXSQd96JZb
- 
-# masikaryamUSER INFO
-![image](http://pbs.twimg.com/profile_images/1622559069947961347/D8xjF9AP_normal.png)
- 
-`User ScreenName:` masikaryam 
- 
-`User chosen Name:` masoud iran 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 06 11:33:22 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 27 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1622559069947961347/D8xjF9AP_normal.png 
- 
-`Number of tweets excluding replies:` 590 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**و** 106 , **در** 101 , **از** 84 , **که** 66 , **به** 63 , **با** 45 , **را** 35 , **ایران** 27 , **برای** 26 , **این** 25 , **است** 25 , **روز** 22 , **@ALINEJADMASIH:** 19 , **جمهوری** 19 , **بر** 17 , **اسلامی** 17 , **مهسا_امینی** 16 , **ما** 16 , **رو** 14 , **@POURIAZERAATI:** 14 , 
- 
-## What this user tweeted
- 
-RT @IranIntl_En: European Commission President @vonderleyen says the EU will propose sanctions targeting for the first time Iranian economi…
- 
-# ShyamS2023USER INFO
-![image](http://pbs.twimg.com/profile_images/1625514164478267393/8OEVM5sw_normal.png)
- 
-`User ScreenName:` ShyamS2023 
- 
-`User chosen Name:` Shyam S 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 14 15:15:51 +0000 2023 
+`User signup date?:` Thu Feb 09 15:17:44 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 51 
+`Following?:` 18 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 14 
+`Number of tweets extracted`  : 12 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1625514164478267393/8OEVM5sw_normal.png 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 14 
+`Number of tweets excluding replies:` 12 
  
 
  
@@ -227,13 +108,247 @@ RT @IranIntl_En: European Commission President @vonderleyen says the EU will pro
  
 ## User Top tweeted words 
  
-**UKRAINE** 7 , **UKRAINIAN** 5 , **RUSSIAN** 4 , **@INTERMARIUM24:** 4 , **@UAREALITYNOW:** 3 , **OCCUPIERS** 2 , **@BIZ_UKRAINE_MAG:** 2 , **📦** 2 , **SOME** 2 , **LOST** 2 , **MAN** 2 , **EN** 2 , **OG** 2 , **RT** 1 , **@UKRAINIANNEWS24:** 1 , **VILLAGE** 1 , **KRASNA** 1 , **ZORKA** 1 , **LOCATED** 1 , **CRIMEA** 1 , 
+**CYBERSECURITY** 5 , **INFOSEC** 4 , **@HACKINARTICLES:** 3 , **CYBERSECURITYTIPS** 3 , **PENTESTING** 3 , **REDTEAM** 3 , **INFORMATIONSECURITY** 3 , **CISSP** 3 , **ANOTHER** 3 , **@SPAMRATS:** 3 , **DAY** 3 , **SERVER** 2 , **NEED** 2 , **@SENDGRID** 2 , **PIC** 2 , **OSCP** 2 , **C…RT** 2 , **RT** 1 , **@TECHINSIDER:** 1 , **STANDING** 1 , 
  
 ## What this user tweeted
  
-RT @UkrainianNews24: In the village of Krasna Zorka, located in Crimea, a local crematorium is cremating Russian occupiers round the clock,…RT @uarealitynow: 📦 Successfully demobilized in Ukraine to serve as sunflower 🌻 this upcoming Spring:
+RT @spamrats: Nice, they take a break on the weekend. Today the domain used for #snowshoespam is openvac023br[.]org @GoDaddy @Cloudflare…
+ 
+# jaydeep001tUSER INFO
+![image](http://pbs.twimg.com/profile_images/1622816785572720640/N2MeHsAj_normal.png)
+ 
+`User ScreenName:` jaydeep001t 
+ 
+`User chosen Name:` Jaydeep Vasani 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 07 04:37:26 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1622816785572720640/N2MeHsAj_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
 
-📦 Senior Lieutenant Yuri "Krug" Schn…
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NSCONCLAVE:** 3 , **HERE** 3 , **NSCONCLAVE2023** 3 , **SLIDE** 2 , **BURP** 2 , **SUITE** 2 , **RT** 1 , **MATERIAL** 1 , **MOBILE** 1 , **APPLICATION** 1 , **INSTRUMENTATION** 1 , **FRIDA** 1 , **WORKSHOP** 1 , **@JAIMIN_GOHEL** 1 , **@VI…RT** 1 , **TIME** 1 , **CUSTOMIZE** 1 , **BURPSUITE** 1 , **!!** 1 , **CREATE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @NSConclave: Here is the material from #NSConclave2023 for MOBILE APPLICATION INSTRUMENTATION WITH FRIDA workshop by @jaimin_gohel &amp; @vi…
+ 
+# drive_ii_SwaichUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625941649863114752/obGRJ-FR_normal.png)
+ 
+`User ScreenName:` drive_ii_Swaich 
+ 
+`User chosen Name:` Swaich Drive II 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 15 19:34:32 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625941649863114752/obGRJ-FR_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 2 , **AUTO** 1 , **WHATSAPP** 1 , **BUSINESS** 1 , **SENDER** 1 , **TURBO** 1 , **PRO** 1 , **V120** 1 , **FULL** 1 , **ACTIVATED** 1 , **(AI)** 1 , **ANTI** 1 , **BLOCK** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/4GFV8HAJNN** 1 , 
+ 
+## What this user tweeted
+ 
+Auto WhatsApp Business Sender Turbo Pro v12.0 Full Activated (Ai) – Anti Block – Discount 100% OFF… https://t.co/4Gfv8HAjnN
+ 
+# ConduitTechnic1USER INFO
+![image](http://pbs.twimg.com/profile_images/1625927346006917148/L95gZgku_normal.jpg)
+ 
+`User ScreenName:` ConduitTechnic1 
+ 
+`User chosen Name:` Conduit Technical Services 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 15 18:36:13 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 8 
+ 
+`User URL?:` https://t.co/Kv06n6tyQR 
+ 
+`Location:` USA 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625927346006917148/L95gZgku_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WORKING** 2 , **COMMITMENT** 2 , **SOME** 1 , **BENEFITS** 1 , **US** 1 , **INCLUDE:** 1 , **QUALIFIED** 1 , **DEDICATED** 1 , **TEAM** 1 , **PROFESSIONALS** 1 , **SUPPORTING** 1 , **YOU…** 1 , **HTTPS://TCO/JAEQAQ5EAIA** 1 , **RELIABLE** 1 , **PARTNERSHIP** 1 , **GOAL** 1 , **CONSISTENTLY** 1 , **MAKE** 1 , **OURSELVES** 1 , **AVAILABLE** 1 , 
+ 
+## What this user tweeted
+ 
+Some of the benefits of working with us include:
+
+A qualified and dedicated team of IT professionals supporting you… https://t.co/JaeQAq5EaI
+ 
+# Affiliate2heroUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625881151226118144/LAzKDAni_normal.jpg)
+ 
+`User ScreenName:` Affiliate2hero 
+ 
+`User chosen Name:` Digital Marketing guides 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 15 15:26:04 +0000 2023 
+ 
+`User Description?:` I am a professional Affiliate marketer & blogger. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 6 
+ 
+`User URL?:` https://t.co/Jaj4gX6Ehv 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625881151226118144/LAzKDAni_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STAY** 1 , **AHEAD** 1 , **2023?** 1 , **IMPROVE** 1 , **DIGITAL** 1 , **SKILLS!** 1 , **FOCUS** 1 , **AI** 1 , **CODING** 1 , **DATAANALYSIS** 1 , **DIGITALMARKETING…** 1 , **HTTPS://TCO/VNMCKWQCOLBOOST** 1 , **AFFILIATE** 1 , **MARKETING** 1 , **GAME** 1 , **THESE** 1 , **TOP** 1 , **TIPS:** 1 , **CHOOSE** 1 , **PRODUCTS** 1 , 
+ 
+## What this user tweeted
+ 
+Want to stay ahead in 2023? Improve your #digital skills! Focus on #AI, #coding, #dataanalysis, #digitalmarketing,… https://t.co/VNmCKWQcoL
+ 
+# cyberwarriorsmeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625106148746743808/LvgKiooK_normal.jpg)
+ 
+`User ScreenName:` cyberwarriorsme 
+ 
+`User chosen Name:` Cyber Warriors Middle East 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 13 12:14:14 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625106148746743808/LvgKiooK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THREAT** 4 , **SECURITY** 3 , **TARGETING** 3 , **US** 3 , **UNKNOWN** 2 , **RELEASED** 2 , **FLAWS** 2 , **ITS** 2 , **THREE** 2 , **MALWARE** 2 , **INDIVIDUALS** 2 , **CLICK** 2 , **READ** 2 , **ACTOR** 2 , **CYBERSECURITY** 2 , **INFRASTRUCTURE** 2 , **AGENCY** 2 , **(CISA)** 2 , **“BASED** 1 , **PRELIMINARY** 1 , 
+ 
+## What this user tweeted
+ 
+After the U.S. Cybersecurity and Infrastructure Security Agency (CISA) released a decryptor for affected victims to… https://t.co/8xq5W5tiVXThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three flaws to its Known Exploited… https://t.co/gJTuNFF9VV
+ 
+# Sudipta37175841USER INFO
+![image](http://pbs.twimg.com/profile_images/1625914305643433985/jm9Cuy7h_normal.png)
+ 
+`User ScreenName:` Sudipta37175841 
+ 
+`User chosen Name:` Sudipta Sarkar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 15 17:45:52 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625914305643433985/jm9Cuy7h_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 3 , **DISCOUNT** 2 , **100%** 2 , **YOUTUBE** 2 , **MICROSOFT** 1 , **VISUAL** 1 , **C** 1 , **REDISTRIBUTABLE** 1 , **PACKAGE** 1 , **AIO** 1 , **2023** 1 , **X86** 1 , **X64** 1 , **OFF** 1 , **HTTPS://TCO/NUVDY0T8AI…** 1 , **HTTPS://TCO/D8MS6TCJWVVIDIQ** 1 , **VISION** 1 , **ENTERPRISE** 1 , **V38121** 1 , **FULL** 1 , 
+ 
+## What this user tweeted
+ 
+Microsoft Visual C   Redistributable Package AIO 2023 x86   x64 – Discount 100% OFF https://t.co/NUVdY0T8ai… https://t.co/d8MS6tCjwvvidIQ Vision For YouTube Enterprise v3.81.2.1 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/uGyjvqtsoq
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
