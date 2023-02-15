@@ -1,22 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **DailyOsint**  
+The most popular user is: **QuaiNetwork**  
  
 
-## Do you want to do a Google Drive #investigation but don't know how?
+## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
 
-De Digger is the tool for you. It is a search… https://t.co/yzjI90Wbem 
+This… https://t.co/9kCO6ugG3G 
 
   
 
@@ -25,25 +25,25 @@ De Digger is the tool for you. It is a search… https://t.co/yzjI90Wbem
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bad_packets: Yearly Top 10 Countries – 2022Unique active DDoS botnet hosts detected:🇨🇳 China: 285,785🇮🇳 India: 51,270🇹🇼 Taiwan: 36,… |
-| New Symantec #ThreatIntel in @TechCrunch: We've observed the Russian hacking crew that was behind #WhisperGate targ… https://t.co/usDsxVRjRJ |
-| ⚡️MSTICpy is a powerful python library for threat intelligence and threat investigation! I created a new security a… https://t.co/IawPTOCRrj |
+| @GlenMitchell1 I thought they originally said her vulnerabilities were private... |
+| RT @Independent: What are Nicola Bulley’s ‘specific vulnerabilities’ as police reveal new details https://t.co/vHT5pIndth |
+| 🚨 Attention all Windows users: #Microsoft has released 75 new software security updates, including fixes for 3 acti… https://t.co/I4sSJy38LH |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DailyOsint** |
-| #2 Most tweeted to  | **fr0gger_** |
-| #3 Most tweeted to  | **cnoanalysis** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 2.24%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **WarMonitors** |
+| #2 Most tweeted to  | **SkyNews** |
+| #3 Most tweeted to  | **aliciakearns** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 8.04%|
+| Tweeters with > 1000000 followers  | 0.56%  |
 
 
 
@@ -52,30 +52,385 @@ De Digger is the tool for you. It is a search… https://t.co/yzjI90Wbem
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **THREATINTEL**  |
-| second  | **OSINT**  |
-| third  | **MALWARE** |
-| fourth  | **THREAT**  |
-| fifth  | **RANSOMWARE**  |
+| first  | **VULNERABILITIES**  |
+| second  | **POLICE**  |
+| third  | **NICOLA** |
+| fourth  | **MISSING**  |
+| fifth  | **BULLEY**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
+![image](assets/vulnerabilities/sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (11.11%) & **NEGATIVELY-SUBJECTIVE** (66.67%) **OBJECTIVE** (22.22%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AcademyThreat: Join a special Webinar 16 February to learn from a career of stories, lessons, mistakes, and suggestions to starting and… |
+|Microsoft has released updates to address vulnerabilities in multiple products. All users are strongly advised to u… https://t.co/19NeHb10eU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DailyOsint**  |
+| The most retweeted user is: **QuaiNetwork**  |
 | ------------- |
-| Do you want to do a Google Drive #investigation but don't know how?De Digger is the tool for you. It is a search… https://t.co/yzjI90Wbem |
+| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
 
 # Potential Fake Accounts
+ 
+# taranisd22USER INFO
+![image](http://pbs.twimg.com/profile_images/1623620547761373187/vA-AbjVQ_normal.jpg)
+ 
+`User ScreenName:` taranisd22 
+ 
+`User chosen Name:` Corincontog 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 06 12:00:45 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 46 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 151 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1623620547761373187/vA-AbjVQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 151 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**!** 23 , **?** 18 , **@CRIMLAWUK** 11 , **@GBNEWS** 9 , **ECHR** 9 , **TORY** 8 , **UK** 8 , **@OTTO_ENGLISH** 7 , **ENGLISH** 7 , **THEN** 7 , **DOES** 7 , **BRITISH** 7 , **VERY** 6 , **@ALANRPARKINSON** 6 , **@NIGEL_FARAGE** 6 , **RIFLE** 6 , **EU** 6 , **EVIDENCE** 6 , **PARTY** 5 , **HE’S** 5 , 
+ 
+## What this user tweeted
+ 
+@SholaMos1 The detective giving the briefing came across as quite defensive 
+
+Bringing up Nicola bulleys “vulnerabi… https://t.co/R871MxdGBm
+ 
+# Mike_Simpson37USER INFO
+![image](http://pbs.twimg.com/profile_images/1625829928896802818/XNmOjUwY_normal.jpg)
+ 
+`User ScreenName:` Mike_Simpson37 
+ 
+`User chosen Name:` Mike Simpson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 15 12:10:35 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625829928896802818/XNmOjUwY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DRUNK** 2 , **SHE'S** 2 , **THIRD** 2 , **PARTY** 2 , **@LANCSPOLICE** 1 , **"VULNERABILITIES"** 1 , **TRANSLATION** 1 , **17** 1 , **DAYS** 1 , **BEFORE** 1 , **PAST** 1 , **SCREAMS** 1 , **LIE…** 1 , **HTTPS://TCO/YGSKDX9UCO@LANCSPOLICE** 1 , **EXPLAIN** 1 , **RAN** 1 , **AWAY** 1 , **SHE'D** 1 , **OPEN** 1 , **USE** 1 , 
+ 
+## What this user tweeted
+ 
+@LancsPolice "Vulnerabilities" translation was drunk 17 Days before and has be drunk in the past.
+
+This screams Lie… https://t.co/yGSKDX9uCO
+ 
+# cyberwarriorsmeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625106148746743808/LvgKiooK_normal.jpg)
+ 
+`User ScreenName:` cyberwarriorsme 
+ 
+`User chosen Name:` Cyber Warriors Middle East 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 13 12:14:14 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625106148746743808/LvgKiooK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THREAT** 4 , **SECURITY** 3 , **TARGETING** 3 , **US** 3 , **UNKNOWN** 2 , **RELEASED** 2 , **FLAWS** 2 , **ITS** 2 , **THREE** 2 , **MALWARE** 2 , **INDIVIDUALS** 2 , **CLICK** 2 , **READ** 2 , **ACTOR** 2 , **CYBERSECURITY** 2 , **INFRASTRUCTURE** 2 , **AGENCY** 2 , **(CISA)** 2 , **“BASED** 1 , **PRELIMINARY** 1 , 
+ 
+## What this user tweeted
+ 
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three flaws to its Known Exploited… https://t.co/gJTuNFF9VV
+ 
+# mitchellclevel9USER INFO
+![image](http://pbs.twimg.com/profile_images/1624914854707449857/3Smyq9SW_normal.png)
+ 
+`User ScreenName:` mitchellclevel9 
+ 
+`User chosen Name:` sparky plunderson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 12 23:34:25 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 39 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1624914854707449857/3Smyq9SW_normal.png 
+ 
+`Number of tweets excluding replies:` 309 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OHIO** 18 , **@KANEKOATHEGREAT:** 18 , **TRAIN** 16 , **STATE** 14 , **AFTER** 14 , **@SKYNEWS:** 14 , **NEW** 13 , **US** 12 , **@AJENGLISH:** 12 , **DERAILMENT** 12 , **@CNN:** 12 , **@CBSNEWS:** 11 , **EAST** 11 , **MICHIGAN** 11 , **SHOOTING** 11 , **PEOPLE** 11 , **@NBCNEWS:** 11 , **MAN** 9 , **THAN** 9 , **PALESTINE** 9 , 
+ 
+## What this user tweeted
+ 
+RT @SkyNews: Giving his update, Assistant Chief Constable Peter Lawson says that he has been made aware of criticisms surrounding the polic…
+ 
+# CBaladuraUSER INFO
+![image](http://pbs.twimg.com/profile_images/1624092300401057792/HRWiUMLG_normal.png)
+ 
+`User ScreenName:` CBaladura 
+ 
+`User chosen Name:` Casiano Baladura 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 10 17:05:52 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 83 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1624092300401057792/HRWiUMLG_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@IMZARVINNN:** 1 , **SCARED** 1 , **VULNERABILITIES** 1 , **WEAKNESSES** 1 , **THINGS** 1 , **MAKES** 1 , **CRY** 1 , **EVERYONE** 1 , **KNOWS** 1 , **WORLD** 1 , **T…RT** 1 , **@ANIMESFEEI:** 1 , **MOOD** 1 , **HTTPS://TCO/KSI5KU6A5O** 1 , 
+ 
+## What this user tweeted
+ 
+RT @imzarvinnn: scared. my vulnerabilities, my weaknesses and the things that makes me cry, i want everyone to knows it. i want the world t…
+ 
+# JunaeMccoyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625828685990227969/Q7yexaCW_normal.jpg)
+ 
+`User ScreenName:` JunaeMccoy 
+ 
+`User chosen Name:` junae mccoy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 15 11:41:23 +0000 2023 
+ 
+`User Description?:` 19. we always coming out on top.❤ 💕 💌: junaemccoy@gmail.com 
+ 
+`Followers?: `3 
+ 
+`Following?:` 166 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 94 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625828685990227969/Q7yexaCW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 94 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**U** 31 , **UR** 24 , **TIME** 9 , **GONNA** 8 , **PHYSICALLY** 7 , **GOT** 6 , **LET** 6 , **GOD** 6 , **THEN** 5 , **ENOUGH** 5 , **EM** 5 , **NEEDED** 5 , **WAY** 5 , **WORLD** 5 , **DOOR** 5 , **SHOW** 4 , **FINNA** 4 , **KNEW** 4 , **BRO** 4 , **BEING** 4 , 
+ 
+## What this user tweeted
+ 
+because animals trust enough in us to take care of them depending on their vulnerabilities, they show unconditional… https://t.co/oQwU4lL7kq
+ 
+# BasedLagos07USER INFO
+![image](http://pbs.twimg.com/profile_images/1623491776437800960/TBZmYo-u_normal.jpg)
+ 
+`User ScreenName:` BasedLagos07 
+ 
+`User chosen Name:` BasedLagos07 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 09 01:19:17 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1623491776437800960/TBZmYo-u_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1149 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AZGEOPOLITICS:** 25 , **@DEEONEAYEKOOTO:** 20 , **US** 15 , **@ELONMUSK** 14 , **AGAINST** 13 , **PEOPLE** 12 , **@ALX** 12 , **STATE** 11 , **@POWERUSAID** 11 , **@USAID** 11 , **RUSSIA** 10 , **@AZGEOPOLITICS** 9 , **UKRAINE** 9 , **WAR** 9 , **@WARMONITORS:** 9 , **PRESIDENT** 8 , **HUNGARIAN** 8 , **NORD** 7 , **WORLD** 7 , **GOVERNMENT** 7 , 
+ 
+## What this user tweeted
+ 
+RT @WarMonitors: ⚡️Sabotage at Nord Stream reminded us of the vulnerabilities we face— NATO Secretary General https://t.co/UFVVOcES1g
+ 
+# timholmesmitraUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` timholmesmitra 
+ 
+`User chosen Name:` Tim Holmes-Mitra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 14 21:19:50 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:` earth 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUST** 2 , **CODE** 2 , **RT** 1 , **@TIMCLICKS:** 1 , **ANDROID** 1 , **13** 1 , **~15** 1 , **MILLION** 1 , **LINES** 1 , **ZERO** 1 , **MEMORY** 1 , **SAFETY** 1 , **VULNERABILITIES** 1 , **DISCOVERED** 1 , **ANDROID’S** 1 , **HAV…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @timClicks: Android 13 has ~1.5 million lines of Rust code, and zero memory safety vulnerabilities discovered in Android’s Rust code hav…
+ 
+# roxor_energyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1624382017453588480/gvfkVIG5_normal.jpg)
+ 
+`User ScreenName:` roxor_energy 
+ 
+`User chosen Name:` ROXOR ENERGY 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 07 05:49:09 +0000 2023 
+ 
+`User Description?:` Promoting green,clean sustainable energy ,green hydrogen,green ammonia, bio energy 
+ 
+`Followers?: `35 
+ 
+`Following?:` 483 
+ 
+`User URL?:` None 
+ 
+`Location:` Visakhapatnam 
+ 
+`Number of tweets extracted`  : 76 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1624382017453588480/gvfkVIG5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 76 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HYDROGEN** 12 , **ENERGY** 8 , **INDIA** 7 , **GREEN** 6 , **FIRST** 5 , **TÜRKIYE** 5 , **TEAM** 4 , **DAY** 4 , **INDIAENERGYWEEK** 4 , **GLOBAL** 3 , **FUTURE** 3 , **HOME** 3 , **CLIMATE** 3 , **VIA** 3 , **@YOUTUBERT** 3 , **WORLD** 3 , **@H2_VIEW:** 3 , **NEW** 3 , **SUPPORT** 3 , **UK** 3 , 
+ 
+## What this user tweeted
+ 
+RT @UndpSyria: Someone’s home, someone’s living room, car, doll &amp; books. Today we witnessed firsthand the devastating impact of the #earthq…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
