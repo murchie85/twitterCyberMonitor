@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **PMoelleken**  
  
 
-## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This… https://t.co/9kCO6ugG3G 
+## .@ZelenskyyUa's tv address to the Russian (!) people might be the most moving speech that I've ever seen in my enti… https://t.co/dtLV1sMPFd 
 
   
 
@@ -25,25 +23,25 @@ This… https://t.co/9kCO6ugG3G
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Telegraph: 🔴 The police officer in charge of the investigation into the disappearance of Nicola Bulley has revealed she was a "high ris… |
-| RT @SecurityWeek: Dozens of Vulnerabilities Patched in Intel Products https://t.co/PLqRAZdQWZ |
-| #Microsoft Edge (Chromium) &lt; 108.0.1462.42 Multiple #Vulnerabilities https://t.co/TwwwNkFy8k #Nessus |
+| RT @Laurie_Garrett: For several days leaders in #Moldova have warned @NATO and the West that #Russia intends to invade and stage a coup. Ke… |
+| RT @visegrad24: American volunteer soldier fighting for Ukraine telling a reporter why it’s wrong to tell Ukrainians to sue for peace. http… |
+| RT @KyivIndependent: These are the indicative estimates of Russia’s combat losses as of Feb. 15, according to the Armed Forces of Ukraine.… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **WarMonitors** |
-| #2 Most tweeted to  | **SkyNews** |
-| #3 Most tweeted to  | **aliciakearns** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 8.08%|
-| Tweeters with > 1000000 followers  | 0.58%  |
+| #1 Most tweeted to  | **SecBlinken** |
+| #2 Most tweeted to  | **catturd2** |
+| #3 Most tweeted to  | **POTUS** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 7.74%|
+| Tweeters with > 1000000 followers  | 0.28%  |
 
 
 
@@ -52,217 +50,57 @@ This… https://t.co/9kCO6ugG3G
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **POLICE**  |
-| third  | **NICOLA** |
-| fourth  | **MISSING**  |
-| fifth  | **BULLEY**  |
+| first  | **UKRAINE**  |
+| second  | **WAR**  |
+| third  | **RUSSIAN** |
+| fourth  | **RUSSIA**  |
+| fifth  | **US**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (45.45%) & **NEGATIVELY-SUBJECTIVE** (18.18%) **OBJECTIVE** (36.36%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @servicesurvey4u: @Raynerc113 God I do hope vulnerabilities do not rule out other possible scenarios. If I was taken and had mental heal… |
+|RT @ggreenwald: Maybe sending another $100 billion to Raytheon and the CIA "for Ukraine" will help with this. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **PMoelleken**  |
 | ------------- |
-| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
+| .@ZelenskyyUa's tv address to the Russian (!) people might be the most moving speech that I've ever seen in my enti… https://t.co/dtLV1sMPFd |
 
 # Potential Fake Accounts
  
-# taranisd22USER INFO
-![image](http://pbs.twimg.com/profile_images/1623620547761373187/vA-AbjVQ_normal.jpg)
+# AndyDFScandyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1623844298302038017/nAIyhGxm_normal.jpg)
  
-`User ScreenName:` taranisd22 
+`User ScreenName:` AndyDFScandy 
  
-`User chosen Name:` Corincontog 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 06 12:00:45 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 46 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 151 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1623620547761373187/vA-AbjVQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 151 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**!** 23 , **?** 18 , **@CRIMLAWUK** 11 , **@GBNEWS** 9 , **ECHR** 9 , **TORY** 8 , **UK** 8 , **@OTTO_ENGLISH** 7 , **ENGLISH** 7 , **THEN** 7 , **DOES** 7 , **BRITISH** 7 , **VERY** 6 , **@ALANRPARKINSON** 6 , **@NIGEL_FARAGE** 6 , **RIFLE** 6 , **EU** 6 , **EVIDENCE** 6 , **PARTY** 5 , **HE’S** 5 , 
- 
-## What this user tweeted
- 
-@SholaMos1 The detective giving the briefing came across as quite defensive 
-
-Bringing up Nicola bulleys “vulnerabi… https://t.co/R871MxdGBm
- 
-# Mike_Simpson37USER INFO
-![image](http://pbs.twimg.com/profile_images/1625829928896802818/XNmOjUwY_normal.jpg)
- 
-`User ScreenName:` Mike_Simpson37 
- 
-`User chosen Name:` Mike Simpson 
+`User chosen Name:` Andy Galorisk 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 15 12:10:35 +0000 2023 
+`User signup date?:` Tue Feb 07 22:16:51 +0000 2023 
  
-`User Description?:`  
+`User Description?:` meh ... decepticon associate..... fantasy sports are life !!!!!!! 
  
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625829928896802818/XNmOjUwY_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DRUNK** 2 , **SHE'S** 2 , **THIRD** 2 , **PARTY** 2 , **@LANCSPOLICE** 1 , **"VULNERABILITIES"** 1 , **TRANSLATION** 1 , **17** 1 , **DAYS** 1 , **BEFORE** 1 , **PAST** 1 , **SCREAMS** 1 , **LIE…** 1 , **HTTPS://TCO/YGSKDX9UCO@LANCSPOLICE** 1 , **EXPLAIN** 1 , **RAN** 1 , **AWAY** 1 , **SHE'D** 1 , **OPEN** 1 , **USE** 1 , 
- 
-## What this user tweeted
- 
-@LancsPolice "Vulnerabilities" translation was drunk 17 Days before and has be drunk in the past.
-
-This screams Lie… https://t.co/yGSKDX9uCO
- 
-# cyberwarriorsmeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1625106148746743808/LvgKiooK_normal.jpg)
- 
-`User ScreenName:` cyberwarriorsme 
- 
-`User chosen Name:` Cyber Warriors Middle East 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 13 12:14:14 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625106148746743808/LvgKiooK_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**THREAT** 4 , **SECURITY** 3 , **TARGETING** 3 , **US** 3 , **UNKNOWN** 2 , **RELEASED** 2 , **FLAWS** 2 , **ITS** 2 , **THREE** 2 , **MALWARE** 2 , **INDIVIDUALS** 2 , **CLICK** 2 , **READ** 2 , **ACTOR** 2 , **CYBERSECURITY** 2 , **INFRASTRUCTURE** 2 , **AGENCY** 2 , **(CISA)** 2 , **“BASED** 1 , **PRELIMINARY** 1 , 
- 
-## What this user tweeted
- 
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three flaws to its Known Exploited… https://t.co/gJTuNFF9VV
- 
-# mitchellclevel9USER INFO
-![image](http://pbs.twimg.com/profile_images/1624914854707449857/3Smyq9SW_normal.png)
- 
-`User ScreenName:` mitchellclevel9 
- 
-`User chosen Name:` sparky plunderson 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 12 23:34:25 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
+`Followers?: `5 
  
 `Following?:` 39 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` phoenix 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624914854707449857/3Smyq9SW_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1623844298302038017/nAIyhGxm_normal.jpg 
  
-`Number of tweets excluding replies:` 309 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**OHIO** 18 , **@KANEKOATHEGREAT:** 18 , **TRAIN** 16 , **STATE** 14 , **AFTER** 14 , **@SKYNEWS:** 14 , **NEW** 13 , **US** 12 , **@AJENGLISH:** 12 , **DERAILMENT** 12 , **@CNN:** 12 , **@CBSNEWS:** 11 , **EAST** 11 , **MICHIGAN** 11 , **SHOOTING** 11 , **PEOPLE** 11 , **@NBCNEWS:** 11 , **MAN** 9 , **THAN** 9 , **PALESTINE** 9 , 
- 
-## What this user tweeted
- 
-RT @SkyNews: Giving his update, Assistant Chief Constable Peter Lawson says that he has been made aware of criticisms surrounding the polic…
- 
-# CBaladuraUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624092300401057792/HRWiUMLG_normal.png)
- 
-`User ScreenName:` CBaladura 
- 
-`User chosen Name:` Casiano Baladura 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 10 17:05:52 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 83 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1624092300401057792/HRWiUMLG_normal.png 
- 
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -270,50 +108,11 @@ RT @SkyNews: Giving his update, Assistant Chief Constable Peter Lawson says that
  
 ## User Top tweeted words 
  
-**RT** 1 , **@IMZARVINNN:** 1 , **SCARED** 1 , **VULNERABILITIES** 1 , **WEAKNESSES** 1 , **THINGS** 1 , **MAKES** 1 , **CRY** 1 , **EVERYONE** 1 , **KNOWS** 1 , **WORLD** 1 , **T…RT** 1 , **@ANIMESFEEI:** 1 , **MOOD** 1 , **HTTPS://TCO/KSI5KU6A5O** 1 , 
+**RUSSIA** 2 , **@CHEBUREKIMAN** 1 , **@MVSCVLARLIBERAL** 1 , **@JORDANINHOUSTON** 1 , **😂** 1 , **NATO** 1 , **SEND** 1 , **STONE** 1 , **AGE** 1 , **5** 1 , **SECS** 1 , **LMAO** 1 , **CAN…** 1 , **HTTPS://TCO/VZYS98U4TP@1KALWAYSOPEN_** 1 , **HTTPS://TCO/JD48PJKIEPPEOPLE** 1 , **BELIEVE** 1 , **MAGIC** 1 , **BEANS** 1 , **REAL** 1 , **READ** 1 , 
  
 ## What this user tweeted
  
-RT @imzarvinnn: scared. my vulnerabilities, my weaknesses and the things that makes me cry, i want everyone to knows it. i want the world t…
- 
-# JunaeMccoyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1625828685990227969/Q7yexaCW_normal.jpg)
- 
-`User ScreenName:` JunaeMccoy 
- 
-`User chosen Name:` junae mccoy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 15 11:41:23 +0000 2023 
- 
-`User Description?:` 19. we always coming out on top.❤ 💕 💌: junaemccoy@gmail.com 
- 
-`Followers?: `3 
- 
-`Following?:` 166 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 94 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625828685990227969/Q7yexaCW_normal.jpg 
- 
-`Number of tweets excluding replies:` 94 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**U** 31 , **UR** 24 , **TIME** 9 , **GONNA** 8 , **PHYSICALLY** 7 , **GOT** 6 , **LET** 6 , **GOD** 6 , **THEN** 5 , **ENOUGH** 5 , **EM** 5 , **NEEDED** 5 , **WAY** 5 , **WORLD** 5 , **DOOR** 5 , **SHOW** 4 , **FINNA** 4 , **KNEW** 4 , **BRO** 4 , **BEING** 4 , 
- 
-## What this user tweeted
- 
-because animals trust enough in us to take care of them depending on their vulnerabilities, they show unconditional… https://t.co/oQwU4lL7kq
+@CheburekiMan @mvscvlarliberal @JordanInHouston 😂 nato would send russia to the stone age in 5 secs lmao russia can… https://t.co/vzYs98u4TP
  
 # BasedLagos07USER INFO
 ![image](http://pbs.twimg.com/profile_images/1623491776437800960/TBZmYo-u_normal.jpg)
@@ -328,9 +127,9 @@ because animals trust enough in us to take care of them depending on their vulne
  
 `User Description?:`  
  
-`Followers?: `7 
+`Followers?: `8 
  
-`Following?:` 41 
+`Following?:` 42 
  
 `User URL?:` None 
  
@@ -340,7 +139,7 @@ because animals trust enough in us to take care of them depending on their vulne
  
 `Profile image:` http://pbs.twimg.com/profile_images/1623491776437800960/TBZmYo-u_normal.jpg 
  
-`Number of tweets excluding replies:` 1161 
+`Number of tweets excluding replies:` 1185 
  
 
  
@@ -348,38 +147,197 @@ because animals trust enough in us to take care of them depending on their vulne
  
 ## User Top tweeted words 
  
-**@AZGEOPOLITICS:** 26 , **@DEEONEAYEKOOTO:** 21 , **@WARMONITORS:** 16 , **@ELONMUSK** 14 , **AGAINST** 13 , **RUSSIA** 12 , **@ALX** 12 , **US** 11 , **STATE** 10 , **UKRAINE** 9 , **@AZGEOPOLITICS** 9 , **PEOPLE** 9 , **ITS** 8 , **PRESIDENT** 8 , **UKRAINIAN** 7 , **MADE** 7 , **NORD** 7 , **WORLD** 7 , **WAR** 7 , **GOVERNMENT** 7 , 
+**@AZGEOPOLITICS:** 26 , **@TROLLSTOY88:** 20 , **@DEEONEAYEKOOTO:** 20 , **@WARMONITORS:** 16 , **UKRAINE** 13 , **@CLOWNWORLD_** 12 , **AGAINST** 12 , **RUSSIA** 10 , **STATE** 10 , **US** 9 , **PRESIDENT** 9 , **@AZGEOPOLITICS** 9 , **UKRAINIAN** 8 , **WAR** 8 , **ITS** 8 , **PEOPLE** 8 , **MADE** 7 , **NORD** 7 , **TINUBU** 7 , **RUSSIAN** 6 , 
  
 ## What this user tweeted
  
-RT @WarMonitors: ⚡️Sabotage at Nord Stream reminded us of the vulnerabilities we face— NATO Secretary General https://t.co/UFVVOcES1g
+RT @Trollstoy88: "Brazil is not interested in transferring munitions for use in the war between Ukraine and Russia," said President Luiz In…RT @Trollstoy88: "Even if they end up in Colombia as scrap metal, we will not hand over weapons to be taken to Ukraine to continue the war,…RT @Trollstoy88: Mexican President Andrés Manuel López Obrador criticized German Chancellor Olaf Scholz for agreeing to send Leopard tanks…RT @Trollstoy88: 'We are for peace': Latin America rejects requests to send weapons to Ukraine
+
+The reluctance of Latin America to supply w…RT @Trollstoy88: Arestovich said that those in Ukraine who consider Russian as "the language of the aggressor" have all the signs of a seve…RT @Trollstoy88: "Ukraine gets fewer battle tanks from allies than promised.
+'Germany and Portugal are the only two countries that have com…
  
-# timholmesmitraUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# meadcgroupUSER INFO
+![image](http://pbs.twimg.com/profile_images/1623480743208042496/zF6aFGt3_normal.png)
  
-`User ScreenName:` timholmesmitra 
+`User ScreenName:` meadcgroup 
  
-`User chosen Name:` Tim Holmes-Mitra 
+`User chosen Name:` Mike Mead 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 14 21:19:50 +0000 2023 
+`User signup date?:` Thu Feb 09 00:35:46 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 69 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 146 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1623480743208042496/zF6aFGt3_normal.png 
+ 
+`Number of tweets excluding replies:` 145 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FOXNEWS** 12 , **@DBONGINO** 8 , **DON’T** 7 , **HE’S** 6 , **@RPETTY** 6 , **@LARRYELDER** 6 , **@KARILAKE** 6 , **@CYNPHIL67** 6 , **@RNCRESEARCH** 6 , **SHE’S** 5 , **@CONNIE96815868** 5 , **BACK** 5 , **BIDEN** 5 , **@POTUS** 5 , **@ERICAREPORT** 5 , **@CATTURD2** 4 , **PEOPLE** 4 , **@BPUNION** 4 , **@GOVRONDESANTIS** 4 , **@ACTBRIGITTE** 4 , 
+ 
+## What this user tweeted
+ 
+@Tattedpeeps94 @RileyScout1520 @BPUnion He’s probably on his 10th booster and is an expert in Ukraine affairs!
+ 
+# kikianddiabloUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625523672760066049/m7i3o5AX_normal.jpg)
+ 
+`User ScreenName:` kikianddiablo 
+ 
+`User chosen Name:` Kiki Diablo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 14 15:53:38 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `8 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625523672760066049/m7i3o5AX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 395 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ELONMUSK** 18 , **@COLLINRUGG:** 17 , **@DINESHDSOUZA:** 12 , **BIDEN** 11 , **PEOPLE** 10 , **@CATTURD2:** 10 , **@TIMRUNSHISMOUTH:** 9 , **@AMUSE:** 9 , **@ELONMUSK:** 9 , **TWITTER** 8 , **@DC_DRAINO:** 8 , **@LARRYELDER:** 7 , **HAPPY** 7 , **MEDIA** 7 , **ELON** 7 , **MUSK** 7 , **@CB_DOGE:** 6 , **OTHER** 6 , **BREAKING:** 6 , **@MATTWALLACE888:** 6 , 
+ 
+## What this user tweeted
+ 
+RT @amuse: Russian leader has come to the conclusion that the United States won’t ‘Come to Its Senses’ until It ‘Gets Hit with a Nuke’. Wou…
+ 
+# KiggunduHalimahUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625598187300917249/pC6057O-_normal.png)
+ 
+`User ScreenName:` KiggunduHalimah 
+ 
+`User chosen Name:` Kiggundu Halimah 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 14 20:49:44 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `10 
+ 
+`Following?:` 70 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625598187300917249/pC6057O-_normal.png 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ARABIA** 3 , **MAIDS** 3 , **SAUDI** 2 , **KILLING** 2 , **NEED** 2 , **JUSTICE** 2 , **BLACK** 1 , **HTTPS://TCO/4KN4N26MSCRT** 1 , **@DAVIDKERSTEN:** 1 , **BECOMES** 1 , **BLATANTLY** 1 , **OBVIOUS** 1 , **UKRAINE** 1 , **FINISHED** 1 , **GUY** 1 , **TOUTED** 1 , **AMERICAN** 1 , **WAR** 1 , **HERO** 1 , **MEDIA…SAUDI** 1 , 
+ 
+## What this user tweeted
+ 
+RT @davidkersten: When it becomes blatantly obvious that Ukraine is finished, this guy will be touted as an American War Hero and the media…
+ 
+# YaffaDina22USER INFO
+![image](http://pbs.twimg.com/profile_images/1623439462649802752/sJsXV_Ke_normal.png)
+ 
+`User ScreenName:` YaffaDina22 
+ 
+`User chosen Name:` YaffaDina 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 08 21:51:44 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 101 
+ 
+`User URL?:` None 
+ 
+`Location:` Brooklyn, NY 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1623439462649802752/sJsXV_Ke_normal.png 
+ 
+`Number of tweets excluding replies:` 309 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 26 , **@REALTUCKFRUMPER:** 15 , **PENCE** 12 , **AFTER** 10 , **STATE** 9 , **PEOPLE** 9 , **PRESIDENT** 9 , **BIDEN** 8 , **BREAKING:** 8 , **DONALD** 8 , **@INTERMARIUM24:** 8 , **SHOOTING** 8 , **SCHOOL** 8 , **SOCIAL** 7 , **TESTIFY** 7 , **UKRAINE** 7 , **MIKE** 7 , **OHIO** 6 , **MICHIGAN** 6 , **MEDICARE** 6 , 
+ 
+## What this user tweeted
+ 
+RT @BaddCompani: Let's see, Garland went to Ukraine, met with Zelensky, Zelensky has filed a claim against many for the attempted coup in U…
+ 
+# EmprerorEmpressUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626006638762262528/HKUe1yCG_normal.png)
+ 
+`User ScreenName:` EmprerorEmpress 
+ 
+`User chosen Name:` G.Empreror Ari G.Empress Mary 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 15 23:52:46 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 26 
+`Following?:` 37 
  
 `User URL?:` None 
  
-`Location:` earth 
+`Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1626006638762262528/HKUe1yCG_normal.png 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -387,50 +345,11 @@ RT @WarMonitors: ⚡️Sabotage at Nord Stream reminded us of the vulnerabilitie
  
 ## User Top tweeted words 
  
-**RUST** 2 , **CODE** 2 , **RT** 1 , **@TIMCLICKS:** 1 , **ANDROID** 1 , **13** 1 , **~15** 1 , **MILLION** 1 , **LINES** 1 , **ZERO** 1 , **MEMORY** 1 , **SAFETY** 1 , **VULNERABILITIES** 1 , **DISCOVERED** 1 , **ANDROID’S** 1 , **HAV…** 1 , 
+**ACCOUNT** 3 , **THEE** 2 , **ACCESS** 2 , **GMAIL** 2 , **@SATYANADELLA** 1 , **ENSURE** 1 , **EMAIL** 1 , **MESSAGED** 1 , **SUNDAR** 1 , **GOOGLE** 1 , **REGARDS** 1 , **UKRAINE** 1 , **WAR** 1 , **MATTER** 1 , **A…** 1 , **HTTPS://TCO/IAM3TDB9ER@SUNDARPICHAI** 1 , **HEREBY** 1 , **EXPRESS** 1 , **IMPLY** 1 , **LEGAL** 1 , 
  
 ## What this user tweeted
  
-RT @timClicks: Android 13 has ~1.5 million lines of Rust code, and zero memory safety vulnerabilities discovered in Android’s Rust code hav…
- 
-# roxor_energyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624382017453588480/gvfkVIG5_normal.jpg)
- 
-`User ScreenName:` roxor_energy 
- 
-`User chosen Name:` ROXOR ENERGY 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 07 05:49:09 +0000 2023 
- 
-`User Description?:` Promoting green,clean sustainable energy ,green hydrogen,green ammonia, bio energy 
- 
-`Followers?: `36 
- 
-`Following?:` 483 
- 
-`User URL?:` None 
- 
-`Location:` Visakhapatnam 
- 
-`Number of tweets extracted`  : 76 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1624382017453588480/gvfkVIG5_normal.jpg 
- 
-`Number of tweets excluding replies:` 76 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HYDROGEN** 12 , **ENERGY** 8 , **INDIA** 7 , **GREEN** 6 , **FIRST** 5 , **TÜRKIYE** 5 , **TEAM** 4 , **DAY** 4 , **INDIAENERGYWEEK** 4 , **GLOBAL** 3 , **FUTURE** 3 , **HOME** 3 , **CLIMATE** 3 , **VIA** 3 , **@YOUTUBERT** 3 , **WORLD** 3 , **@H2_VIEW:** 3 , **NEW** 3 , **SUPPORT** 3 , **UK** 3 , 
- 
-## What this user tweeted
- 
-RT @UndpSyria: Someone’s home, someone’s living room, car, doll &amp; books. Today we witnessed firsthand the devastating impact of the #earthq…
+@satyanadella DO ENSURE THEE EMAIL IN MY ACCOUNT I MESSAGED SUNDAR AT GOOGLE IN REGARDS THEE UKRAINE WAR MATTER I A… https://t.co/iaM3tDb9Er
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
