@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **SecurityTrybe**  
+The most popular user is: **cat_auras**  
  
 
-## Cybersecurity Certifications to get in 2023 (For FREE) 
+## Moon 🌙 https://t.co/yp6VATM4bb 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **SecurityTrybe**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| it’s never good to find your data locked up. PR Image Factory/Shutterstock.comScott Shackelford, Indiana Universi… https://t.co/zmqt5yoJIx |
-| Download our FAQ to learn how you can eliminate security flaws in your connected medical devices:… https://t.co/aXKVAcuFL5 |
-| RT @0x0SojalSec: YouTube Channels for cybersecurity Hacking and Bug Bounty ⚔️#infosec #cybersecurity #Hacking #bugbountytips  #CyberAttac… |
+| Is it secure to have source code for website public? - Visit https://t.co/OR8JrVSYcj for the answer.… https://t.co/sS1uRCj9b6 |
+| RT @SecurityTrybe: Penetration Testing Tools #security #CyberThreat #Hacked #Hacking #cybersecurity #infosec https://t.co/ArNNxt9Qam |
+| RT @thebinarybot: ☃️Awesome AppSec☃️A curated list of resources for learning about application security. Find quality:➡️Articles➡️Book… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **SecurityTrybe** |
-| #2 Most tweeted to  | **Shubham_pen** |
-| #3 Most tweeted to  | **Richack_** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 4.1%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **0xor0ne** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 4.64%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,96 +51,56 @@ The most popular user is: **SecurityTrybe**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **HACKING**  |
-| third  | **AI** |
-| fourth  | **DATA**  |
-| fifth  | **@SECURITYTRYBE:**  |
+| second  | **PHISHING**  |
+| third  | **HACKING** |
+| fourth  | **PENTESTING**  |
+| fifth  | **CLONE**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (71.43%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SecurityTrybe: 7 FREE Cybersecurity Certifications from CISA ( Cyber &amp; Infrastructure Security Agency of United States ) |
+|RT @CyberSecOb: Digital Forensics and Incident Response (DFIR) Framework for Operational Technology (OT)Download Link:https://t.co/mLguv3… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SecurityTrybe**  |
+| The most retweeted user is: **cat_auras**  |
 | ------------- |
-| Cybersecurity Certifications to get in 2023 (For FREE) |
+| Moon 🌙 https://t.co/yp6VATM4bb |
 
 # Potential Fake Accounts
  
-# BxhamzabaigUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626542465632157696/A7Gc6X9B_normal.jpg)
+# osintpunkconUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626565399994068992/t45ymYUB_normal.jpg)
  
-`User ScreenName:` Bxhamzabaig 
+`User ScreenName:` osintpunkcon 
  
-`User chosen Name:` Hamza Baig 
+`User chosen Name:` OSINT PUNK 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 17 10:47:50 +0000 2023 
+`User signup date?:` Fri Feb 17 02:28:54 +0000 2023 
  
-`User Description?:` инструктор по видам спорта 
+`User Description?:`  
  
-`Followers?: `5 
+`Followers?: `2 
  
-`Following?:` 50 
+`Following?:` 7 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 65 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1626542465632157696/A7Gc6X9B_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1626565399994068992/t45ymYUB_normal.jpg 
  
-`Number of tweets excluding replies:` 66 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BEST** 4 , **🔥** 4 , **@NAKAMOTOGAMES:** 4 , **@RANGENODES:** 3 , **NEW** 3 , **@CRYPTOPROJECT6:** 3 , **VIDEO** 3 , **2** 3 , **@DOGEMINIBSC:** 3 , **LAST** 3 , **NEVER** 3 , **@CLUBOFGEMS:** 3 , **FIRST** 3 , **…RT** 3 , **LAUNCH** 3 , **WE'RE** 3 , **NEXT** 3 , **THANKS** 2 , **BIG** 2 , **APTOS** 2 , 
- 
-## What this user tweeted
- 
-RT @Dr_AdibEnayati: Don't forget it 🇺🇸
-#awareness #opsec #security #cybersecurity #informationsecurity #cybersecurityawareness #datasecurit…
- 
-# CyberWaveSecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1625006442091773952/tEuCwiHY_normal.jpg)
- 
-`User ScreenName:` CyberWaveSec 
- 
-`User chosen Name:` CyberWave Security 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 09 22:15:42 +0000 2023 
- 
-`User Description?:` CyberWave Security is a managed security service provider (MSSP) that offers comprehensive and innovative cybersecurity solutions. 
- 
-`Followers?: `7 
- 
-`Following?:` 6 
- 
-`User URL?:` https://t.co/dMlW9NwS0E 
- 
-`Location:` Honolulu, HI 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625006442091773952/tEuCwiHY_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -148,51 +108,13 @@ RT @Dr_AdibEnayati: Don't forget it 🇺🇸
  
 ## User Top tweeted words 
  
-**BUSINESSES** 3 , **CYBER** 2 , **THREATS** 2 , **MEDIUM-SIZED** 2 , **(SMBS)** 2 , **CYBERSECURITY** 1 , **PRIORITIES** 1 , **2023?** 1 , **MAY** 1 , **MAKE** 1 , **START** 1 , **THINKING** 1 , **Y…** 1 , **HTTPS://TCO/YBCRG6WQWZEVERY** 1 , **BUSINESS** 1 , **POTENTIAL** 1 , **TARGET** 1 , **INCLUDING** 1 , **SMALL** 1 , **THREAT…** 1 , 
+**SUNDAY** 2 , **RT** 1 , **@PWNVERSE:** 1 , **🔎OSINTPUNK23** 1 , **¿ARE** 1 , **PREPARING** 1 , **SNACKS** 1 , **ENERGY** 1 , **DRINKS** 1 , **MONDAY?🤔** 1 , **WATCH** 1 , **DREAM** 1 , **TEAM** 1 , **1…** 1 , 
  
 ## What this user tweeted
  
-Is cybersecurity one of your priorities in 2023? If not, you may want to make it one and start thinking about how y… https://t.co/YBCrG6WqWz
- 
-# NOOBGAM15144772USER INFO
-![image](http://pbs.twimg.com/profile_images/1625275328586293249/tO0kVADB_normal.jpg)
- 
-`User ScreenName:` NOOBGAM15144772 
- 
-`User chosen Name:` NOOB GAMING 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 13 23:26:48 +0000 2023 
- 
-`User Description?:` венеролог 
- 
-`Followers?: `7 
- 
-`Following?:` 96 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 90 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625275328586293249/tO0kVADB_normal.jpg 
- 
-`Number of tweets excluding replies:` 90 
- 
+RT @pwnverse: 🔎#osintpunk23 - ¿Are you preparing the snacks &amp; energy drinks for this Sunday &amp; Monday?🤔.
 
- 
-
- 
-## User Top tweeted words 
- 
-**@DOGEMINIBSC:** 7 , **AIDOGEMINI** 7 , **@DESIGNEROFSTYLE:** 7 , **SUPERBURN** 5 , **EXCHANGE** 5 , **CRYPTO** 5 , **DAY** 5 , **DECOR** 5 , **OFFERMXC** 5 , **🤍** 5 , **…RT** 4 , **2** 4 , **🔥** 4 , **TOKENS** 4 , **@CRYPTOPROJECT6:** 4 , **NEXT** 4 , **DECORATION** 4 , **QUE** 4 , **@TOMOKUQOD12:** 4 , **DEDRIVE** 3 , 
- 
-## What this user tweeted
- 
-RT @Dr_AdibEnayati: Don't forget it 🇺🇸
-#awareness #opsec #security #cybersecurity #informationsecurity #cybersecurityawareness #datasecurit…
+Watch our dream team this Sunday 1…
  
 # ravipat18725461USER INFO
 ![image](http://pbs.twimg.com/profile_images/1626668284753104896/pKNmpgh1_normal.jpg)
@@ -355,7 +277,209 @@ Account Director at @cobalt_io
  
 ## What this user tweeted
  
-RT @humansofinfosec: Is the manager role the only path ahead in cybersecurity? @seifhateb , Security Architect at Twilio, shares his view o…
+RT @humansofinfosec: Is the manager role the only path ahead in cybersecurity? @seifhateb , Security Architect at Twilio, shares his view o…RT @humansofinfosec: Technology has come a long way, but has human ability and attention to safety? Geoff Huston, Chief Scientist at APNIC,…
+ 
+# sas_sdsdaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626383897813737472/jWuA_fBI_normal.jpg)
+ 
+`User ScreenName:` sas_sdsda 
+ 
+`User chosen Name:` Jesse 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 17 00:31:17 +0000 2023 
+ 
+`User Description?:` 📍From Ukraine🇺🇦
+📍Currently living in Manhattan, new york, USA.🇺🇸
+35 years old engaged in interior design.
+Love life 
+ 
+`Followers?: `9 
+ 
+`Following?:` 55 
+ 
+`User URL?:` None 
+ 
+`Location:` Worldwide 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626383897813737472/jWuA_fBI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 752 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTOCURRENCY** 67 , **CRYPTO** 43 , **BITCOIN** 30 , **BTC** 27 , **BINANCE** 24 , **🔻** 21 , **BLOCKCHAIN** 16 , **CRYPTOCURRENCYRT** 16 , **…RT** 14 , **NFT** 11 , **ETH** 11 , **ALTCOIN** 10 , **MUSK** 10 , **$BTC** 9 , **USDT** 9 , **PRICE** 8 , **VIA** 8 , **CLAIM** 8 , **US** 8 , **WORTH** 8 , 
+ 
+## What this user tweeted
+ 
+RT @AtomSpam: Detected #phishing clone at address: hxxps://coinbasewallet[.]trade/
+
+#coinbase #crypto #cryptocurrency #infosec #cybersecuri…RT @sang_alertboot: How #brain #chips can change you: Studies show that Elon #Musk's new #tech can bend your mind in strange and troubling…
+ 
+# roy_debnitUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626606827692769280/vP6JEt3s_normal.jpg)
+ 
+`User ScreenName:` roy_debnit 
+ 
+`User chosen Name:` Debnit Roy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 17 15:37:43 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626606827692769280/vP6JEt3s_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DIABOLIC** 1 , **TRAFFIC** 1 , **BOT** 1 , **FULL** 1 , **EDITION** 1 , **V80** 1 , **LIFETIME** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/QKDET49JXX** 1 , **INFOSEC…** 1 , **HTTPS://TCO/NI587B0UGA** 1 , 
+ 
+## What this user tweeted
+ 
+Diabolic Traffic Bot Full Edition v8.0 Lifetime Activated – Discount 100% OFF https://t.co/QkDEt49Jxx #infosec… https://t.co/Ni587b0ugA
+ 
+# KhmerGaming10USER INFO
+![image](http://pbs.twimg.com/profile_images/1626476630657970178/2iTZcTK9_normal.png)
+ 
+`User ScreenName:` KhmerGaming10 
+ 
+`User chosen Name:` Khmer Gaming 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 17 07:00:21 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626476630657970178/2iTZcTK9_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SOCIAL** 1 , **EMAIL** 1 , **EXTRACTOR** 1 , **PRO** 1 , **V600** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/WNCRQNDTHT** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/OOBWBWCVCT** 1 , 
+ 
+## What this user tweeted
+ 
+Social Email Extractor Pro v6.0.0 Full Activated – Discount 100% OFF https://t.co/WnCRQnDthT #infosec #bugcrowd… https://t.co/ooBwBWCVCT
+ 
+# digintegraUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626396464913199105/_xeRK6c0_normal.png)
+ 
+`User ScreenName:` digintegra 
+ 
+`User chosen Name:` Digintegra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 17 01:41:48 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626396464913199105/_xeRK6c0_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 3 , **PRO** 2 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **KEYWORD** 1 , **RESEARCHER** 1 , **V13223** 1 , **OFF** 1 , **HTTPS://TCO/Z8OD6QXNAS** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/RJEES0HQBHTELEGRAM** 1 , **AUTO** 1 , **2023** 1 , **V4001** 1 , **SOCIAL** 1 , **MEDIA** 1 , **MARKETING** 1 , 
+ 
+## What this user tweeted
+ 
+Keyword Researcher Pro v13.223 Full Activated – Discount 100% OFF https://t.co/z8od6qXnAS #infosec #bugcrowd… https://t.co/RjeeS0hqbhTeleGram Auto Pro 2023 v4.0.0.1 Full Activated – Social Media Marketing Tool – Discount 100% OFF… https://t.co/K7B4tsuTCF
+ 
+# WhitenetsecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625816809319571459/4R_W7o0b_normal.png)
+ 
+`User ScreenName:` Whitenetsec 
+ 
+`User chosen Name:` Whitenet Appsec 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 15 10:53:28 +0000 2023 
+ 
+`User Description?:` We secure digital assets against cyber criminals.
+#cybersecurity #PenTesting #technology 
+ 
+`Followers?: `8 
+ 
+`Following?:` 7 
+ 
+`User URL?:` https://t.co/2B4l0GnjHC 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625816809319571459/4R_W7o0b_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TAILORED** 1 , **PENETRATION** 1 , **TESTING** 1 , **WEB** 1 , **APP:** 1 , **FLEXIBLE** 1 , **ROBUST** 1 , **METHODOLOGIES** 1 , **TOTAL** 1 , **PEACE** 1 , **MIND** 1 , **VISIT:…** 1 , **HTTPS://TCO/YSRNZGSAONWE** 1 , **TEAM** 1 , **PROFESSIONAL** 1 , **ETHICAL** 1 , **HACKERS** 1 , **FINDING** 1 , **VULNERABILITIES** 1 , **BEFORE** 1 , 
+ 
+## What this user tweeted
+ 
+We are a team of professional ethical hackers, finding vulnerabilities before others do?
+Learn more:… https://t.co/Q7PuTdZya7
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
