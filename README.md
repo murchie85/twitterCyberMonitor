@@ -1,22 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **FabrizioRomano**  
+The most popular user is: **DailyOsint**  
  
 
-## Sheikh Jassim Bin Hamad Al Thani bid in for 100% of Manchester United 🚨🔴 #MUFC
+## Do you want to do a Google Drive #investigation but don't know how?
 
-“The offer aims to restore the club… https://t.co/QoqyyN5z06 
+De Digger is the tool for you. It is a search… https://t.co/yzjI90Wbem 
 
   
 
@@ -25,24 +25,24 @@ The most popular user is: **FabrizioRomano**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Cyberknow20: Another new pro-Russian hacktivist group, Russian Clay is now joining the ongoing targeting of #NATO sites#cybersecurity… |
-| RT @TheHackersNews: 🚨 GoDaddy, the web hosting services provider, reveals a multi-year security breach that allowed unknown actors to insta… |
-| Detected #phishing clone at address: hxxps://riddhisiddhisteel[.]in/#bper #BPERBanca #infosec #cybersecurity… https://t.co/b98tMb3ez0 |
+| Lexis Nexis Firco Compliance Link cross-site request forgery | CVE-2022-29557 - https://t.co/vB3T6opkg6#CVE… https://t.co/A9qcV2ntDK |
+| RT @DailyOsint: Need to discover the IP addresses of a massive list of domain names?The dnsx, a #CLI #tool, helps you to quickly run mult… |
+| RT @DailyOsint: Do you need to monitor and detect signals from Reddit?SocialGrep is an analysis, statistics, and data tool for #Reddit.… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **0xor0ne** |
-| #3 Most tweeted to  | **0x0SojalSec** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 4.42%|
+| #1 Most tweeted to  | **DailyOsint** |
+| #2 Most tweeted to  | **fr0gger_** |
+| #3 Most tweeted to  | **threatintel** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 2.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -52,273 +52,30 @@ The most popular user is: **FabrizioRomano**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **HACKING** |
-| fourth  | **PHISHING**  |
-| fifth  | **CYBERSECURITYTIPS**  |
+| first  | **THREATINTEL**  |
+| second  | **OSINT**  |
+| third  | **MALWARE** |
+| fourth  | **RANSOMWARE**  |
+| fifth  | **THREAT**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (30.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (70.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @infosec_jobsCOM: HIRING: Senior Product Security Engineer / Mountain View, California https://t.co/c24dkczTEI #InfoSec #InfoSecJobs #Cy… |
+|RT @CyberIQs_: NO. 369 | Reddit Hack, Deepfake Scams, Embracing Change… #infosec #infosecurity #cybersecurity #threatintel #threatintellige… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FabrizioRomano**  |
+| The most retweeted user is: **DailyOsint**  |
 | ------------- |
-| Sheikh Jassim Bin Hamad Al Thani bid in for 100% of Manchester United 🚨🔴 #MUFC“The offer aims to restore the club… https://t.co/QoqyyN5z06 |
+| Do you want to do a Google Drive #investigation but don't know how?De Digger is the tool for you. It is a search… https://t.co/yzjI90Wbem |
 
 # Potential Fake Accounts
- 
-# digitalife_USER INFO
-![image](http://pbs.twimg.com/profile_images/1625523972992380930/UoEjfQ83_normal.jpg)
- 
-`User ScreenName:` digitalife_ 
- 
-`User chosen Name:` Digital Discovery 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 14 15:35:17 +0000 2023 
- 
-`User Description?:` Join me as we explore the latest advancements in the digital world and discover new ways to improve our online presence 
- 
-`Followers?: `0 
- 
-`Following?:` 22 
- 
-`User URL?:` https://t.co/19bDpM0Nox 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 19 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625523972992380930/UoEjfQ83_normal.jpg 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VIA** 4 , **LEARN** 3 , **NEW** 3 , **バレンタインデー** 3 , **VALENTINESDAY2023** 3 , **SAINTVALENTIN** 3 , **QUALITY** 3 , **AI** 2 , **IMPROVE** 2 , **GREAT** 2 , **VIDEO** 2 , **MAKE** 2 , **MONEY** 2 , **START** 2 , **3** 2 , **YOUTUBE** 2 , **CHANNEL** 2 , **VALENTINESDAY** 2 , **SANVALENTINO2023…** 2 , **WORLD** 2 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Pic of the Day
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
- 
-# SuccessThinkin1USER INFO
-![image](http://pbs.twimg.com/profile_images/1627032293134196737/pxP4vUIy_normal.jpg)
- 
-`User ScreenName:` SuccessThinkin1 
- 
-`User chosen Name:` Success Thinking 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 18 19:48:21 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627032293134196737/pxP4vUIy_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FLAREGET** 1 , **PRO** 1 , **V48108** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/NQBHEJEQAZ** 1 , **INFOSEC** 1 , **BUGCROWD** 1 , **BUGBOUNTYTIPS…** 1 , **HTTPS://TCO/PXGKWQOXJ4** 1 , 
- 
-## What this user tweeted
- 
-FlareGet Pro v4.8.108 Full Activated – Discount 100% OFF https://t.co/nqbHEJeQaz #infosec #bugcrowd #bugbountytips… https://t.co/PXGkwqoxj4
- 
-# AndNokhaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626999468406222848/B7teBITw_normal.jpg)
- 
-`User ScreenName:` AndNokha 
- 
-`User chosen Name:` And Chanel Nokha Daiya 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 18 17:37:55 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626999468406222848/B7teBITw_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**EARN** 1 , **$25** 1 , **WORTH** 1 , **STELLAR** 1 , **LUMENS** 1 , **AIRDROP** 1 , **FREE** 1 , **GIVEAWAY** 1 , **HTTPS://TCO/IGYYOHMPTS** 1 , **INFOSEC** 1 , **BUGCROWD** 1 , **BUGBOUNTYTIPS…** 1 , **HTTPS://TCO/JPIDJ5M27P** 1 , 
- 
-## What this user tweeted
- 
-Earn $25 Worth of Stellar Lumens Airdrop Free Giveaway https://t.co/igyYOHMPTS #infosec #bugcrowd #bugbountytips… https://t.co/JpIDJ5m27P
- 
-# osintpunkconUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626565399994068992/t45ymYUB_normal.jpg)
- 
-`User ScreenName:` osintpunkcon 
- 
-`User chosen Name:` OSINT PUNK 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 17 02:28:54 +0000 2023 
- 
-`User Description?:` A place made with 💚 by @pwnverse. Where you will find free resources, workshops and webinars, plus news about our hybrid event. #osintpunk 
- 
-`Followers?: `4 
- 
-`Following?:` 9 
- 
-`User URL?:` https://t.co/z6P7wHO5tx 
- 
-`Location:` Worldwide 
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626565399994068992/t45ymYUB_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PWNVERSE:** 2 , **🔎OSINTPUNK23** 2 , **SUNDAY** 2 , **RT** 1 , **TOMORROW** 1 , **@PWNVERSE** 1 , **YOUTUBE** 1 , **CHANNEL😤** 1 , **@INTEL_INQUIRER&GT;** 1 , **OSINT** 1 , **CCTV:** 1 , **SMILE** 1 , **CAMERA** 1 , **@C_3…RT** 1 , **¿ARE** 1 , **PREPARING** 1 , **SNACKS** 1 , **ENERGY** 1 , **DRINKS** 1 , **MONDAY?🤔** 1 , 
- 
-## What this user tweeted
- 
-RT @pwnverse: 🔎#osintpunk23 - Tomorrow, only on the @pwnverse Youtube Channel😤.
-
-@intel_inquirer&gt; OSINT &amp; CCTV: Smile for the camera 
-
-@C_3…RT @pwnverse: 🔎#osintpunk23 - ¿Are you preparing the snacks &amp; energy drinks for this Sunday &amp; Monday?🤔.
-
-Watch our dream team this Sunday 1…
- 
-# ShahidShahzanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626903640383401984/yUP7JP0g_normal.jpg)
- 
-`User ScreenName:` ShahidShahzan 
- 
-`User chosen Name:` Shahid Shahzan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 18 11:17:08 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626903640383401984/yUP7JP0g_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 2 , **TUBE** 1 , **ATLAS** 1 , **PREMIUM** 1 , **V1030** 1 , **FULL** 1 , **ACTIVATED** 1 , **YOUTUBE** 1 , **MARKETING** 1 , **TOOL** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/CCCKQ2IWBJ…** 1 , **HTTPS://TCO/LT6URFNBWV** 1 , 
- 
-## What this user tweeted
- 
-Tube Atlas Premium v1.0.3.0 Full Activated – YouTube Marketing Tool – Discount 100% OFF https://t.co/ccCkq2IwBJ… https://t.co/LT6UrFNbWV
- 
-# SecvivUSER INFO
-![image](http://pbs.twimg.com/profile_images/1625785075479744512/ZDdiPrvP_normal.png)
- 
-`User ScreenName:` Secviv 
- 
-`User chosen Name:` krish 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 15 07:22:22 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625785075479744512/ZDdiPrvP_normal.png 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BOTH** 3 , **USE** 2 , **CYBERSECURITY** 2 , **ETHICALHACKING** 2 , **HACKER** 2 , **INFOSEC** 2 , **KALILINUX** 2 , **ETHICALHACKER** 2 , **LINUX** 2 , **OPERATOR** 2 , **QUERIES** 2 , **THROUGH** 2 , **SITE:…** 2 , **DORK** 2 , **CODE** 2 , **HTTPS://TCO/QMUNMS4KGYIN** 1 , **2022** 1 , **ATTACKS** 1 , **APIS** 1 , **GREW** 1 , 
- 
-## What this user tweeted
- 
-In 2022, attacks on APIs grew by 681% while overall API traffic increased by 321%.
-Try to use Pynt integration aims… https://t.co/UiqB9thTI1
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
