@@ -1,22 +1,24 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **RepMTG**  
  
 
-## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
+## Joe Biden will be impeached.
 
-This… https://t.co/9kCO6ugG3G 
+Ukraine is NOT the 51st state!!!
+
+We are in over $34 TRILLION in debt, borders invade… https://t.co/Qhcm4lHDTj 
 
   
 
@@ -25,25 +27,25 @@ This… https://t.co/9kCO6ugG3G
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @AndreaBensaid In 2021, a hacker stole 600 million from poly network and returned it claiming it was a “white hat”… https://t.co/dstQXgYQay |
-| Hackers target Linux-based servers using a Mirai botnet variant: A Mirai botnet variant has targeted Linux-based se… https://t.co/j1R26Go8RZ |
-| Platypus exploit just reiterates why safety in DeFi is crucial - investors must do their due diligence, and project… https://t.co/tBxEm9AjBb |
+| RT @MavkaSlavka: The 200 people at the “Rage against War” rally in DC want Ukraine to leave Ukrainian territory, rather than ruZZia to leav… |
+| RT @himerucide: GUYS GUYS ukraine mama real she’s literally the colors https://t.co/BCmb4hD1zi |
+| RT @catturd2: When you’re busting your ass working 80 hours this week - remember, our government is gonna take half your money and send it… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MendlovitzMark** |
-| #2 Most tweeted to  | **TheHackersNews** |
-| #3 Most tweeted to  | **IuliiaMendel** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 6.92%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **catturd2** |
+| #2 Most tweeted to  | **ricwe123** |
+| #3 Most tweeted to  | **RealMattCouch** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 5.26%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -52,60 +54,57 @@ This… https://t.co/9kCO6ugG3G
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **IMPORTANT**  |
-| third  | **VIDEO** |
-| fourth  | **REVEALED**  |
-| fifth  | **STORY**  |
+| first  | **UKRAINE**  |
+| second  | **WAR**  |
+| third  | **RUSSIA** |
+| fourth  | **US**  |
+| fifth  | **BIDEN**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @deves_katherine: Sky News Contributor Katherine Deves says "children are being taught that the solution to their vulnerabilities is the… |
+|RT @blackintheempir: According to the US, Russia blew up their own pipeline, was shelling a nuclear power plant that they were in control o… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **RepMTG**  |
 | ------------- |
-| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
+| Joe Biden will be impeached.Ukraine is NOT the 51st state!!!We are in over $34 TRILLION in debt, borders invade… https://t.co/Qhcm4lHDTj |
 
 # Potential Fake Accounts
  
-# lightofthecovenUSER INFO
-![image](http://pbs.twimg.com/profile_images/1627266137351241729/NvxpJK1d_normal.jpg)
+# hudersfeltUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626955179517161473/wyc-YEBo_normal.jpg)
  
-`User ScreenName:` lightofthecoven 
+`User ScreenName:` hudersfelt 
  
-`User chosen Name:` I Am Your Karma 
+`User chosen Name:` Freida Hudersfelt 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 19 11:06:41 +0000 2023 
+`User signup date?:` Sat Feb 11 11:52:23 +0000 2023 
  
-`User Description?:` you don't know me but I know you.
-What goes around comes around.
-I can be a loyal friend or your worst enemy.
-I detest liars with a passion. 
+`User Description?:` Independent. MAGA.  America 1st. Anti-Ukraine.  Prolife.  Pro-Israel. Christian. Anti- Marxist. Anti-Neo Nazi. I support The police. Anti-woke. 
  
-`Followers?: `0 
+`Followers?: `10 
  
-`Following?:` 23 
+`Following?:` 97 
  
 `User URL?:` None 
  
-`Location:` England, United Kingdom 
+`Location:` Eureka, Ca. 
  
-`Number of tweets extracted`  : 19 
+`Number of tweets extracted`  : 46 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1627266137351241729/NvxpJK1d_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1626955179517161473/wyc-YEBo_normal.jpg 
  
-`Number of tweets excluding replies:` 19 
+`Number of tweets excluding replies:` 46 
  
 
  
@@ -113,116 +112,38 @@ I detest liars with a passion.
  
 ## User Top tweeted words 
  
-**MISSING** 3 , **FRIEND** 3 , **WHALE** 3 , **TWEETS** 2 , **@LANCSPOLICE** 2 , **LIFE** 2 , **GIVES** 2 , **PARTNER** 2 , **BACK** 2 , **ENEMY** 2 , **GAIN** 2 , **NOTHING** 2 , **US** 2 , **DRUMMING** 2 , **@LUCY_WAIN83** 1 , **@MR_B_SOLIHULL** 1 , **OH** 1 , **DON'T** 1 , **WORRY** 1 , **PROTECTED** 1 , 
+**MAN** 6 , **PEOPLE** 5 , **BIDEN** 3 , **BEING** 3 , **WHITE** 3 , **VERY** 3 , **THING** 3 , **WOMAN** 3 , **STATE** 2 , **UKRAINE** 2 , **POLICE** 2 , **@JAMESBRADLEYCA** 2 , **CALLED** 2 , **WEIRD** 2 , **MANY** 2 , **BLACK** 2 , **WAR** 2 , **ANTI-AMERICAN** 2 , **DANGER** 2 , **MOST** 2 , 
  
 ## What this user tweeted
  
-RT @EmmaDalts82: Can everyone back TF off @peter_faulding He searched where he was TOLD to search by @LancsPolice He's already said if he k…
+@stillgray It would seem we are now a colonial vassal state of Ukraine in the eyes of Biden. We should live in horr… https://t.co/pKhTW8EcWC
  
-# UdeyKotakUSER INFO
-![image](http://pbs.twimg.com/profile_images/1627107981681889282/VBjDLNVX_normal.jpg)
+# kcufsolomonyueUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626677656690253827/frHOw0yo_normal.jpg)
  
-`User ScreenName:` UdeyKotak 
+`User ScreenName:` kcufsolomonyue 
  
-`User chosen Name:` Udey Kotak 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 19 00:46:49 +0000 2023 
- 
-`User Description?:` CEO, kotak Mahindra Bank 
- 
-`Followers?: `0 
- 
-`Following?:` 30 
- 
-`User URL?:` None 
- 
-`Location:` mubai, India 
- 
-`Number of tweets extracted`  : 47 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627107981681889282/VBjDLNVX_normal.jpg 
- 
-`Number of tweets excluding replies:` 47 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@UDAYKOTAK:** 44 , **INFLATION** 8 , **GLOBAL** 7 , **MONEY** 7 , **YEAR** 7 , **US** 7 , **CENTRAL** 5 , **WORLD** 5 , **INDIA** 5 , **BANK** 4 , **FINANCIAL** 4 , **FED** 4 , **INDIAN** 3 , **ECONOMIC** 3 , **RUSSIA** 3 , **CHINA** 3 , **1** 3 , **DOES** 3 , **STOCK** 3 , **UK** 3 , 
- 
-## What this user tweeted
- 
-RT @udaykotak: I do not see systemic risk to Indian financial system from recent events. However,large Indian corporates rely more on globa…
- 
-# VikkiMMcCGuireUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624479939515875328/j3DfEwE0_normal.jpg)
- 
-`User ScreenName:` VikkiMMcCGuire 
- 
-`User chosen Name:` Vikki McGuire 
+`User chosen Name:` mantus 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 10 22:38:55 +0000 2023 
+`User signup date?:` Fri Feb 17 14:41:10 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `5 
+`Followers?: `20 
  
-`Following?:` 71 
- 
-`User URL?:` None 
- 
-`Location:` Brigg, England 
- 
-`Number of tweets extracted`  : 59 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1624479939515875328/j3DfEwE0_normal.jpg 
- 
-`Number of tweets excluding replies:` 59 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LBC** 46 , **@SANGITAMYSKA** 25 , **@MATTFREI** 19 , **@KENLOACHSIXTEEN** 19 , **@2022_MEDIC** 9 , **@CANDYSPETS2** 8 , **@STEFFD62** 7 , **@SYRFEWRTIR** 6 , **PEOPLE** 5 , **DON’T** 4 , **FACTS** 4 , **DOCTOR** 4 , **NEVER** 4 , **SOMEBODY** 4 , **CAN’T** 3 , **MISSTATING** 3 , **JUNIOR** 3 , **MISREPRESENTING** 3 , **T…** 3 , **CALLER** 3 , 
- 
-## What this user tweeted
- 
-@LBC @SangitaMyska The word ‘vulnerability’ is such a loaded word. As soon as the police announced Nicola had vulne… https://t.co/n86quQEKUF
- 
-# its_rgc2USER INFO
-![image](http://pbs.twimg.com/profile_images/1624279888013463554/MkbL3nTJ_normal.jpg)
- 
-`User ScreenName:` its_rgc2 
- 
-`User chosen Name:` SELL OUT 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 11 05:28:21 +0000 2023 
- 
-`User Description?:` Hiphop listener 
- 
-`Followers?: `18 
- 
-`Following?:` 93 
+`Following?:` 50 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 65 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624279888013463554/MkbL3nTJ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1626677656690253827/frHOw0yo_normal.jpg 
  
-`Number of tweets excluding replies:` 2159 
+`Number of tweets excluding replies:` 65 
  
 
  
@@ -230,28 +151,189 @@ RT @udaykotak: I do not see systemic risk to Indian financial system from recent
  
 ## User Top tweeted words 
  
-**PRIYANKA** 169 , **REIGN** 155 , **BEGINSRT** 124 , **MILLION** 34 , **@ADRASH110:** 31 , **~** 25 , **@SAURABHFOREVER9:** 24 , **BEGINS** 23 , **PEOPLE** 17 , **SP** 14 , **LIFE** 12 , **CONFIDENCE** 11 , **DON'T** 11 , **@BEREAL56636533:** 10 , **1M** 10 , **@SSROY_2003_:** 10 , **~$NEHA** 10 , **YOURSELF** 10 , **@SHAPNILXTWEETS:** 9 , **NEED** 9 , 
+**CHINA** 4 , **US** 4 , **GOOD** 4 , **LMAO** 4 , **@GUNDERGROUND_TV** 4 , **TIME** 4 , **@MANTUSYUE** 4 , **LOSER** 4 , **@CHAOSCOKE731** 4 , **DON'T** 4 , **HONG** 4 , **KONG** 4 , **FREE** 4 , **UKRAINE** 3 , **@INFERNOXHELL** 3 , **REALLY** 3 , **@GUNDAMNORTHROP** 3 , **DOG** 3 , **🤣** 3 , **WANG** 2 , 
  
 ## What this user tweeted
  
-RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitude, her non-grudge holding self. She's not faced less strug…
+RT @SpokespersonCHN: Wang Yi met with Ukrainian FM Kuleba. Wang noted that China and Ukraine are strategic partners. On the Ukraine crisis,…
  
-# HulkBuster75USER INFO
-![image](http://pbs.twimg.com/profile_images/1624712217953472513/dOxYioRf_normal.jpg)
+# MaggieCooker_20USER INFO
+![image](http://pbs.twimg.com/profile_images/1626528402021777410/a3t0Th9J_normal.jpg)
  
-`User ScreenName:` HulkBuster75 
+`User ScreenName:` MaggieCooker_20 
  
-`User chosen Name:` Hulk Buster 
+`User chosen Name:` Maggie Cooker 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 12 09:17:52 +0000 2023 
+`User signup date?:` Fri Feb 17 08:41:23 +0000 2023 
  
-`User Description?:` Crypto Holder - #ICP NFT - AMA Research CM 🧐 
+`User Description?:` Wishes it was sociaIly satisfactory to begin drinking this earIy. 
  
-`Followers?: `3 
+`Followers?: `4 
  
-`Following?:` 41 
+`Following?:` 46 
+ 
+`User URL?:` None 
+ 
+`Location:` USA 
+ 
+`Number of tweets extracted`  : 27 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626528402021777410/a3t0Th9J_normal.jpg 
+ 
+`Number of tweets excluding replies:` 27 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REUTERS:** 6 , **@NYTIMES:** 4 , **YEAR** 3 , **USA** 3 , **TOP** 2 , **ECONOMIC** 2 , **YEARS** 2 , **DANIEL** 2 , **EN** 2 , **PRESIDENT** 2 , **SOON** 2 , **AFTER** 2 , **NEW** 2 , **PARADE** 2 , **SO…RT** 2 , **MAN** 2 , **TRAIN** 2 , **TIGER** 2 , **THAN** 2 , **RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @latimes: .@LauraKingLAT spoke with six Ukrainians about the past year, and how they think the war might end — for them, for their count…RT @ewong: NEW: The alarming warnings by Blinken &amp; other Biden aides that China is strongly considering giving arms to Russia for use in Uk…
+ 
+# ShyamS2023USER INFO
+![image](http://pbs.twimg.com/profile_images/1625514164478267393/8OEVM5sw_normal.png)
+ 
+`User ScreenName:` ShyamS2023 
+ 
+`User chosen Name:` Shyam S 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 14 15:15:51 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 83 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 196 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625514164478267393/8OEVM5sw_normal.png 
+ 
+`Number of tweets excluding replies:` 200 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSIAN** 47 , **UKRAINE** 38 , **RUSSIA** 20 , **UKRAINIAN** 18 , **@UAREALITYNOW:** 14 , **@INTERMARIUM24:** 13 , **RUSSIANS** 12 , **@GERASHCHENKO_EN:** 11 , **@NOELREPORTS:** 11 , **WAR** 10 , **@FRANCIS_SCARR:** 9 , **🇺🇦** 9 , **KILLED** 8 , **BAKHMUT** 7 , **PUTIN** 7 , **US** 7 , **SOLDIER** 7 , **ITS** 7 , **PEOPLE** 7 , **SOME** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Azovsouth: The 🇺🇦Armed forces under control of #Bakhmut.
+
+The environment is difficult, but under control.
+
+#Bakhmut is 🇺🇦Ukraine!
+19 F…
+ 
+# EyesonGeoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1624026744398151681/U0BsAbGH_normal.jpg)
+ 
+`User ScreenName:` EyesonGeo 
+ 
+`User chosen Name:` EoG 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 10 12:43:47 +0000 2023 
+ 
+`User Description?:` OSINT — RT ≠ endorsement 
+ 
+`Followers?: `2 
+ 
+`Following?:` 76 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 35 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1624026744398151681/U0BsAbGH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 35 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 6 , **@FAYTUKS:** 5 , **AIR** 5 , **@WARMONITORS:** 3 , **RUSSIAN** 3 , **BREAKING:** 3 , **ALERT** 3 , **ACROSS** 3 , **US** 3 , **TIME** 3 , **RAID** 3 , **CHINA** 2 , **RUSSIA** 2 , **USE** 2 , **ITS** 2 , **ATTACKS** 2 , **AGAINST** 2 , **MILITARY** 2 , **NORTH** 2 , **WORLD** 2 , 
+ 
+## What this user tweeted
+ 
+RT @ewong: NEW: The alarming warnings by Blinken &amp; other Biden aides that China is strongly considering giving arms to Russia for use in Uk…
+ 
+# RickIsAGreatDadUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627059616252325894/ifQrOTLf_normal.jpg)
+ 
+`User ScreenName:` RickIsAGreatDad 
+ 
+`User chosen Name:` Richard Wallace Waldrep 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 12 23:05:11 +0000 2023 
+ 
+`User Description?:` I currently work for @HomeDepot. Member of @Newspring. Graduate from @followlimestone 04. #godawgs. Jeremiah 29:11. WA: @RickIsAtHomeDP. 🇨🇦 🇺🇸 
+ 
+`Followers?: `2 
+ 
+`Following?:` 218 
+ 
+`User URL?:` None 
+ 
+`Location:` Piedmont, SC 
+ 
+`Number of tweets extracted`  : 42 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1627059616252325894/ifQrOTLf_normal.jpg 
+ 
+`Number of tweets excluding replies:` 42 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@UNSTUCKGROUP:** 10 , **CULTURE** 6 , **LOVE** 6 , **GOD** 5 , **CHURCHES** 5 , **@NIKKIHALEY** 5 , **PEOPLE** 4 , **@THEDAD:** 4 , **NEW** 4 , **MAKE** 4 , **PRESIDENT** 4 , **WHERE** 3 , **THROUGH** 3 , **FAITH** 3 , **LIST** 3 , **@FIGHTTHENEWDRUG:** 3 , **HEALTHY** 3 , **@KLOVERADIO:** 3 , **KIDS** 2 , **CLEAR** 2 , 
+ 
+## What this user tweeted
+ 
+RT @WCKitchen: With freezing temperatures in the mountainous town of Elbistan, WCK is preparing hot soup for displaced families. This team—…
+ 
+# JENNANGELBUSER INFO
+![image](http://pbs.twimg.com/profile_images/1624993667592372225/kyZDxPzL_normal.jpg)
+ 
+`User ScreenName:` JENNANGELB 
+ 
+`User chosen Name:` Janangel57 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 12 07:52:35 +0000 2023 
+ 
+`User Description?:` GOD FAMILY FRIENDS ULTRA MAGA, BACK THE BLUE, LOVE TO PISS BIDEN OBAMA OFF, SCHUMER SCHIFF SOROS SANDERS WARREN WATERS NEED TO GO, NO DEMS OR DEAL WITH ME! 
+ 
+`Followers?: `173 
+ 
+`Following?:` 420 
  
 `User URL?:` None 
  
@@ -259,48 +341,9 @@ RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitu
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624712217953472513/dOxYioRf_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1624993667592372225/kyZDxPzL_normal.jpg 
  
-`Number of tweets excluding replies:` 288 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@AURAPOOL_** 36 , **@GOHEALTHHERO** 34 , **@NEWTON88A** 33 , **@YEOSHI_1** 32 , **@RANGOEXCHANGE** 26 , **@AURORAISNEAR** 24 , **@NEARITY_ORG** 24 , **@CATBOTICA** 23 , **@IZUMI_FINANCE** 18 , **@DARBYOCAN1** 16 , **@GABRINA_LOPEZ@WISECRYPTO_** 16 , **@NASIR76963347** 15 , **DOES** 14 , **PROJECT** 14 , **NFT** 14 , **@XEX_CRYPTO** 14 , **@NEWTON88A@DENS_CLUB** 12 , **@LITCRAFT_IO** 12 , **WHICH** 11 , **ANY** 10 , 
- 
-## What this user tweeted
- 
-@dens_club @AuraPool_ There is a very high chance of vulnerabilities in today's smart contracts, which allows Hacke… https://t.co/f4RwEYs8nm
- 
-# pri_121202USER INFO
-![image](http://pbs.twimg.com/profile_images/1625396628244008966/JEFGTOzy_normal.jpg)
- 
-`User ScreenName:` pri_121202 
- 
-`User chosen Name:` ILY PRIYANKA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 14 06:32:19 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 80 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625396628244008966/JEFGTOzy_normal.jpg 
- 
-`Number of tweets excluding replies:` 591 
+`Number of tweets excluding replies:` 731 
  
 
  
@@ -308,132 +351,15 @@ RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitu
  
 ## User Top tweeted words 
  
-**PRIYANKA** 100 , **REIGN** 89 , **@MEKONHU_:** 85 , **BEGINSRT** 74 , **~** 71 , **ROHIT** 70 , **LIFE** 41 , **BEGINS** 14 , **@TEAMPRIYANKAFC_:** 13 , **PRIYANKIT** 11 , **ANKIT** 10 , **LOVE** 9 , **@POWERPRIYANKIT:** 9 , **DRAFTS** 9 , **@ITZBATRYBRO:** 9 , **KO** 8 , **PLEASE** 8 , **PRIYANKACHAHARCHOUDHARY** 8 , **MEIN** 8 , **HAI** 8 , 
+**BIDEN** 61 , **PEOPLE** 55 , **FOOD** 24 , **EVERYONE** 19 , **QUICK** 19 , **ESCAPE** 19 , **KAMALA** 18 , **BORDERS** 17 , **SPEAKER** 16 , **MR** 16 , **SHUT** 16 , **FIX** 15 , **@JOEBIDEN** 14 , **LISTEN** 14 , **DOWN** 14 , **MAGA** 13 , **MAN** 13 , **STOP** 13 , **GOD** 12 , **SAVE** 12 , 
  
 ## What this user tweeted
  
-RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitude, her non-grudge holding self. She's not faced less strug…
- 
-# Lariab_98USER INFO
-![image](http://pbs.twimg.com/profile_images/1626991124291407872/NVKwGO0t_normal.jpg)
- 
-`User ScreenName:` Lariab_98 
- 
-`User chosen Name:` Lariab|Pari simpERA💫 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 11 17:41:33 +0000 2023 
- 
-`User Description?:` Mera account meri marzi 🙂 
- 
-`Followers?: `15 
- 
-`Following?:` 85 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626991124291407872/NVKwGO0t_normal.jpg 
- 
-`Number of tweets excluding replies:` 3300 
- 
+@SpeakerMcCarthy 
+SERIOUSLY MCCARTHY 
+YOU OWE THE PEOPLE 
 
- 
-
- 
-## User Top tweeted words 
- 
-**PRIYANKA** 123 , **REIGN** 104 , **BEGINS** 72 , **PRIYANKIT** 33 , **BEGINSRT** 24 , **@OJJITOSLINDOS:** 21 , **HAI** 17 , **TWEETS** 15 , **@HEYYOU1__:** 15 , **@TEAMPRIYANKAFC_:** 15 , **GOD** 14 , **LOVE** 13 , **ANKIT** 12 , **@_BUTTERFRIESS_:** 12 , **BLESS** 12 , **PRI** 11 , **@PRIYANKACHAHARO** 11 , **@NOOR_XD_:** 11 , **CONGRATULATIONS** 10 , **KO** 10 , 
- 
-## What this user tweeted
- 
-RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitude, her non-grudge holding self. She's not faced less strug…
- 
-# WhitenetsecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1625816809319571459/4R_W7o0b_normal.png)
- 
-`User ScreenName:` Whitenetsec 
- 
-`User chosen Name:` Whitenet Appsec 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 15 10:53:28 +0000 2023 
- 
-`User Description?:` We secure digital assets against cyber criminals.
-#cybersecurity #PenTesting #technology 
- 
-`Followers?: `7 
- 
-`Following?:` 8 
- 
-`User URL?:` https://t.co/2B4l0GnjHC 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625816809319571459/4R_W7o0b_normal.png 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LORD** 2 , **SHIVA** 2 , **RECOMMENDATION:** 1 , **MITIGATE** 1 , **SUCH** 1 , **THREATS** 1 , **WORDPRESS** 1 , **SITE** 1 , **OWNERS** 1 , **ADVISED** 1 , **CHANGE** 1 , **PASSWORDS** 1 , **UPDATE** 1 , **INSTALLE…** 1 , **HTTPS://TCO/IQ5ZBJZEUKMAY** 1 , **BLESS** 1 , **HEALTH** 1 , **WEALTH** 1 , **PROSPERITY** 1 , **BEST** 1 , 
- 
-## What this user tweeted
- 
-We are a team of professional ethical hackers, finding vulnerabilities before others do?
-Learn more:… https://t.co/Q7PuTdZya7
- 
-# icke_simonUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626419622244229120/rQnIqNhn_normal.png)
- 
-`User ScreenName:` icke_simon 
- 
-`User chosen Name:` Simon Icke 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 17 03:13:49 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 96 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 127 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626419622244229120/rQnIqNhn_normal.png 
- 
-`Number of tweets excluding replies:` 127 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@BBCNEWS:** 18 , **@SKYNEWS:** 17 , **@GBNEWS:** 14 , **BREXIT** 9 , **IRELAND** 8 , **UK** 8 , **AFTER** 8 , **YEAR** 8 , **EU** 7 , **NORTHERN** 7 , **SAY** 7 , **NICOLA** 7 , **UKRAINE** 6 , **THAN** 6 , **LABOUR** 6 , **PEOPLE** 5 , **SUPPORT** 5 , **BRITISH** 5 , **GOOD** 5 , **FIRST** 5 , 
- 
-## What this user tweeted
- 
-RT @SkyNews: Nicola Bulley was listed as a "high risk" missing person due to a "number of specific vulnerabilities", detectives say
-
-https:…
+House Speaker McCarthy will not release J6 footage as pr… https://t.co/lHL7sm1tfI
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
