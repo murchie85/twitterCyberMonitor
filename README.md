@@ -1,24 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **RepMTG**  
+The most popular user is: **mysk_co**  
  
 
-## Joe Biden will be impeached.
-
-Ukraine is NOT the 51st state!!!
-
-We are in over $34 TRILLION in debt, borders invade… https://t.co/Qhcm4lHDTj 
+## We confirm that iOS 16 does communicate with Apple services outside an active VPN tunnel. Worse, it leaks DNS reque… https://t.co/0qvfLEXgdr 
 
   
 
@@ -27,25 +23,25 @@ We are in over $34 TRILLION in debt, borders invade… https://t.co/Qhcm4lHDTj
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MavkaSlavka: The 200 people at the “Rage against War” rally in DC want Ukraine to leave Ukrainian territory, rather than ruZZia to leav… |
-| RT @himerucide: GUYS GUYS ukraine mama real she’s literally the colors https://t.co/BCmb4hD1zi |
-| RT @catturd2: When you’re busting your ass working 80 hours this week - remember, our government is gonna take half your money and send it… |
+| RT @Eli_Krumova: #Top10 Features in Automated #MachineLearning👉🏽 https://t.co/0dwdoqmJOv#ML #AI #DeepLearning #DataScience #BigData #Ana… |
+| Contact me now for Hacking or Account Recovery #ArtificialIntelligence #AI #ML #DataScience #DataScientists… https://t.co/FguunqIy7U |
+| #cybersecurity https://t.co/SKkppVu6yC GoDaddy Reveals Data Breach Led to Malware on Customer Sites |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **catturd2** |
-| #2 Most tweeted to  | **ricwe123** |
-| #3 Most tweeted to  | **RealMattCouch** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 5.26%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **ITSPmagazine** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 7.62%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -54,57 +50,57 @@ We are in over $34 TRILLION in debt, borders invade… https://t.co/Qhcm4lHDTj
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **RUSSIA** |
-| fourth  | **US**  |
-| fifth  | **BIDEN**  |
+| first  | **HACKING**  |
+| second  | **INFOSEC**  |
+| third  | **PENTESTING** |
+| fourth  | **AI**  |
+| fifth  | **HACKER**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (60.0%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @blackintheempir: According to the US, Russia blew up their own pipeline, was shelling a nuclear power plant that they were in control o… |
+|Hornet Staffing is looking for a Sr. Cybersecurity Atchitecthttps://t.co/qc2iI836US Duval County, Florida, US( cy… https://t.co/ZJrtdDuPNU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RepMTG**  |
+| The most retweeted user is: **mysk_co**  |
 | ------------- |
-| Joe Biden will be impeached.Ukraine is NOT the 51st state!!!We are in over $34 TRILLION in debt, borders invade… https://t.co/Qhcm4lHDTj |
+| We confirm that iOS 16 does communicate with Apple services outside an active VPN tunnel. Worse, it leaks DNS reque… https://t.co/0qvfLEXgdr |
 
 # Potential Fake Accounts
  
-# hudersfeltUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626955179517161473/wyc-YEBo_normal.jpg)
+# EricaCikoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627221706652762112/5gVWc618_normal.jpg)
  
-`User ScreenName:` hudersfelt 
+`User ScreenName:` EricaCiko 
  
-`User chosen Name:` Freida Hudersfelt 
+`User chosen Name:` Erica Ciko 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Feb 11 11:52:23 +0000 2023 
+`User signup date?:` Sun Feb 19 08:21:01 +0000 2023 
  
-`User Description?:` Independent. MAGA.  America 1st. Anti-Ukraine.  Prolife.  Pro-Israel. Christian. Anti- Marxist. Anti-Neo Nazi. I support The police. Anti-woke. 
+`User Description?:` Erica Ciko, Technical Writer and Editor. I'm here to connect with cybersecurity and networking experts, so feel free to reach out. 
  
-`Followers?: `10 
+`Followers?: `0 
  
-`Following?:` 97 
+`Following?:` 18 
  
 `User URL?:` None 
  
-`Location:` Eureka, Ca. 
+`Location:` New York 
  
-`Number of tweets extracted`  : 46 
+`Number of tweets extracted`  : 18 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1626955179517161473/wyc-YEBo_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1627221706652762112/5gVWc618_normal.jpg 
  
-`Number of tweets excluding replies:` 46 
+`Number of tweets excluding replies:` 18 
  
 
  
@@ -112,36 +108,78 @@ VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJE
  
 ## User Top tweeted words 
  
-**MAN** 6 , **PEOPLE** 5 , **BIDEN** 3 , **BEING** 3 , **WHITE** 3 , **VERY** 3 , **THING** 3 , **WOMAN** 3 , **STATE** 2 , **UKRAINE** 2 , **POLICE** 2 , **@JAMESBRADLEYCA** 2 , **CALLED** 2 , **WEIRD** 2 , **MANY** 2 , **BLACK** 2 , **WAR** 2 , **ANTI-AMERICAN** 2 , **DANGER** 2 , **MOST** 2 , 
+**@HACKINARTICLES:** 3 , **DAY** 3 , **RT** 2 , **PIC** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **CYBERSECURITYTIPS** 2 , **PENTESTING** 2 , **OSCP** 2 , **REDTEAM** 2 , **INFORMATIONSECURITY** 2 , **CISSP** 2 , **@ELONMUSK:** 2 , **@LATESTINSPACE:** 2 , **ETHICAL** 2 , **HACKING** 2 , **PROACTIVE** 2 , **TRAINING** 2 , **TECHNOLOGIES** 2 , **NETWORKING** 2 , 
  
 ## What this user tweeted
  
-@stillgray It would seem we are now a colonial vassal state of Ukraine in the eyes of Biden. We should live in horr… https://t.co/pKhTW8EcWC
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
  
-# kcufsolomonyueUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626677656690253827/frHOw0yo_normal.jpg)
+# Mubashi42086777USER INFO
+![image](http://pbs.twimg.com/profile_images/1626689802866417665/9wW_sKZW_normal.jpg)
  
-`User ScreenName:` kcufsolomonyue 
+`User ScreenName:` Mubashi42086777 
  
-`User chosen Name:` mantus 
+`User chosen Name:` Mubashir Hashmi 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 17 14:41:10 +0000 2023 
+`User signup date?:` Fri Feb 17 21:00:23 +0000 2023 
  
-`User Description?:`  
+`User Description?:` стилист 
  
-`Followers?: `20 
+`Followers?: `9 
  
-`Following?:` 50 
+`Following?:` 60 
  
 `User URL?:` None 
  
 `Location:`  
  
+`Number of tweets extracted`  : 60 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626689802866417665/9wW_sKZW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 60 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEW** 5 , **@CRYPTOPROJECT6:** 5 , **OFFERMXC** 5 , **میں** 4 , **🔹** 3 , **SERVICE** 3 , **CRYPTO** 3 , **BEST** 3 , **@OFFERMXC:** 3 , **کی** 3 , **@TOMOKUQOD12:** 3 , **ЧТО** 3 , **И** 3 , **TWITTER** 3 , **🔥** 2 , **STAKING** 2 , **@HK_WANI:** 2 , **CENTRAL** 2 , **BANK** 2 , **PURPOSE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @Dr_AdibEnayati: Don't forget it 🇺🇸
+#awareness #opsec #security #cybersecurity #informationsecurity #cybersecurityawareness #datasecurit…
+ 
+# SalmanSadi08USER INFO
+![image](http://pbs.twimg.com/profile_images/1627257417984798720/drJyr6-C_normal.png)
+ 
+`User ScreenName:` SalmanSadi08 
+ 
+`User chosen Name:` Electro Potter 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 19 10:42:55 +0000 2023 
+ 
+`User Description?:` прозектор 
+ 
+`Followers?: `7 
+ 
+`Following?:` 42 
+ 
+`User URL?:` None 
+ 
+`Location:` bangladesh 
+ 
 `Number of tweets extracted`  : 65 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1626677656690253827/frHOw0yo_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1627257417984798720/drJyr6-C_normal.png 
  
 `Number of tweets excluding replies:` 65 
  
@@ -151,160 +189,39 @@ VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJE
  
 ## User Top tweeted words 
  
-**CHINA** 4 , **US** 4 , **GOOD** 4 , **LMAO** 4 , **@GUNDERGROUND_TV** 4 , **TIME** 4 , **@MANTUSYUE** 4 , **LOSER** 4 , **@CHAOSCOKE731** 4 , **DON'T** 4 , **HONG** 4 , **KONG** 4 , **FREE** 4 , **UKRAINE** 3 , **@INFERNOXHELL** 3 , **REALLY** 3 , **@GUNDAMNORTHROP** 3 , **DOG** 3 , **🤣** 3 , **WANG** 2 , 
+**CRYPTO** 6 , **OFFERMXC** 5 , **@CRYPTOPROJECT6:** 5 , **کے** 4 , **میں** 4 , **کی** 4 , **BEST** 4 , **@OFFERMXC:** 3 , **@CLUBOFGEMS:** 3 , **@MUHAMMADNAEEMQ0:** 3 , **خان** 3 , **@TOMOKUQOD12:** 3 , **ЧТО** 3 , **И** 3 , **TWITTER** 3 , **♨️** 2 , **$3000** 2 , **GIVEAWAY** 2 , **NEVER** 2 , **EASY!** 2 , 
  
 ## What this user tweeted
  
-RT @SpokespersonCHN: Wang Yi met with Ukrainian FM Kuleba. Wang noted that China and Ukraine are strategic partners. On the Ukraine crisis,…
+RT @Dr_AdibEnayati: Don't forget it 🇺🇸
+#awareness #opsec #security #cybersecurity #informationsecurity #cybersecurityawareness #datasecurit…
  
-# MaggieCooker_20USER INFO
-![image](http://pbs.twimg.com/profile_images/1626528402021777410/a3t0Th9J_normal.jpg)
+# astraw_siloUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627294085638758400/vlUb5RG1_normal.png)
  
-`User ScreenName:` MaggieCooker_20 
+`User ScreenName:` astraw_silo 
  
-`User chosen Name:` Maggie Cooker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 17 08:41:23 +0000 2023 
- 
-`User Description?:` Wishes it was sociaIly satisfactory to begin drinking this earIy. 
- 
-`Followers?: `4 
- 
-`Following?:` 46 
- 
-`User URL?:` None 
- 
-`Location:` USA 
- 
-`Number of tweets extracted`  : 27 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626528402021777410/a3t0Th9J_normal.jpg 
- 
-`Number of tweets excluding replies:` 27 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@REUTERS:** 6 , **@NYTIMES:** 4 , **YEAR** 3 , **USA** 3 , **TOP** 2 , **ECONOMIC** 2 , **YEARS** 2 , **DANIEL** 2 , **EN** 2 , **PRESIDENT** 2 , **SOON** 2 , **AFTER** 2 , **NEW** 2 , **PARADE** 2 , **SO…RT** 2 , **MAN** 2 , **TRAIN** 2 , **TIGER** 2 , **THAN** 2 , **RT** 1 , 
- 
-## What this user tweeted
- 
-RT @latimes: .@LauraKingLAT spoke with six Ukrainians about the past year, and how they think the war might end — for them, for their count…RT @ewong: NEW: The alarming warnings by Blinken &amp; other Biden aides that China is strongly considering giving arms to Russia for use in Uk…
- 
-# ShyamS2023USER INFO
-![image](http://pbs.twimg.com/profile_images/1625514164478267393/8OEVM5sw_normal.png)
- 
-`User ScreenName:` ShyamS2023 
- 
-`User chosen Name:` Shyam S 
+`User chosen Name:` Silo Astraw 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 14 15:15:51 +0000 2023 
+`User signup date?:` Sun Feb 19 13:08:38 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `2 
+`Followers?: `0 
  
-`Following?:` 83 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 196 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625514164478267393/8OEVM5sw_normal.png 
- 
-`Number of tweets excluding replies:` 200 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RUSSIAN** 47 , **UKRAINE** 38 , **RUSSIA** 20 , **UKRAINIAN** 18 , **@UAREALITYNOW:** 14 , **@INTERMARIUM24:** 13 , **RUSSIANS** 12 , **@GERASHCHENKO_EN:** 11 , **@NOELREPORTS:** 11 , **WAR** 10 , **@FRANCIS_SCARR:** 9 , **🇺🇦** 9 , **KILLED** 8 , **BAKHMUT** 7 , **PUTIN** 7 , **US** 7 , **SOLDIER** 7 , **ITS** 7 , **PEOPLE** 7 , **SOME** 7 , 
- 
-## What this user tweeted
- 
-RT @Azovsouth: The 🇺🇦Armed forces under control of #Bakhmut.
-
-The environment is difficult, but under control.
-
-#Bakhmut is 🇺🇦Ukraine!
-19 F…
- 
-# EyesonGeoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624026744398151681/U0BsAbGH_normal.jpg)
- 
-`User ScreenName:` EyesonGeo 
- 
-`User chosen Name:` EoG 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 10 12:43:47 +0000 2023 
- 
-`User Description?:` OSINT — RT ≠ endorsement 
- 
-`Followers?: `2 
- 
-`Following?:` 76 
+`Following?:` 8 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 35 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624026744398151681/U0BsAbGH_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1627294085638758400/vlUb5RG1_normal.png 
  
-`Number of tweets excluding replies:` 35 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UKRAINE** 6 , **@FAYTUKS:** 5 , **AIR** 5 , **@WARMONITORS:** 3 , **RUSSIAN** 3 , **BREAKING:** 3 , **ALERT** 3 , **ACROSS** 3 , **US** 3 , **TIME** 3 , **RAID** 3 , **CHINA** 2 , **RUSSIA** 2 , **USE** 2 , **ITS** 2 , **ATTACKS** 2 , **AGAINST** 2 , **MILITARY** 2 , **NORTH** 2 , **WORLD** 2 , 
- 
-## What this user tweeted
- 
-RT @ewong: NEW: The alarming warnings by Blinken &amp; other Biden aides that China is strongly considering giving arms to Russia for use in Uk…
- 
-# RickIsAGreatDadUSER INFO
-![image](http://pbs.twimg.com/profile_images/1627059616252325894/ifQrOTLf_normal.jpg)
- 
-`User ScreenName:` RickIsAGreatDad 
- 
-`User chosen Name:` Richard Wallace Waldrep 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 12 23:05:11 +0000 2023 
- 
-`User Description?:` I currently work for @HomeDepot. Member of @Newspring. Graduate from @followlimestone 04. #godawgs. Jeremiah 29:11. WA: @RickIsAtHomeDP. 🇨🇦 🇺🇸 
- 
-`Followers?: `2 
- 
-`Following?:` 218 
- 
-`User URL?:` None 
- 
-`Location:` Piedmont, SC 
- 
-`Number of tweets extracted`  : 42 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627059616252325894/ifQrOTLf_normal.jpg 
- 
-`Number of tweets excluding replies:` 42 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -312,38 +229,38 @@ RT @ewong: NEW: The alarming warnings by Blinken &amp; other Biden aides that Ch
  
 ## User Top tweeted words 
  
-**@UNSTUCKGROUP:** 10 , **CULTURE** 6 , **LOVE** 6 , **GOD** 5 , **CHURCHES** 5 , **@NIKKIHALEY** 5 , **PEOPLE** 4 , **@THEDAD:** 4 , **NEW** 4 , **MAKE** 4 , **PRESIDENT** 4 , **WHERE** 3 , **THROUGH** 3 , **FAITH** 3 , **LIST** 3 , **@FIGHTTHENEWDRUG:** 3 , **HEALTHY** 3 , **@KLOVERADIO:** 3 , **KIDS** 2 , **CLEAR** 2 , 
+**–** 3 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **AUTLAND** 1 , **SUITE** 1 , **MICROSOCIAL** 1 , **V2238** 1 , **SOCIAL** 1 , **MEDIA** 1 , **MARKETING** 1 , **OFF…** 1 , **HTTPS://TCO/CYWEKZSYFKINSTAGRAM** 1 , **BOT** 1 , **PRO** 1 , **V550** 1 , **OFF** 1 , **HTTPS://TCO/AHREGPMENR** 1 , **INFOSEC** 1 , 
  
 ## What this user tweeted
  
-RT @WCKitchen: With freezing temperatures in the mountainous town of Elbistan, WCK is preparing hot soup for displaced families. This team—…
+AutLand Suite Microsocial v22.38 Full Activated – Social Media Marketing – Discount 100% OFF… https://t.co/CYwEKzSYFKInstagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/AHregPMEnR #infosec #bugcrowd… https://t.co/sYvCqaiUol
  
-# JENNANGELBUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624993667592372225/kyZDxPzL_normal.jpg)
+# FunPak5USER INFO
+![image](http://pbs.twimg.com/profile_images/1627302109572988930/l5RaVAHW_normal.png)
  
-`User ScreenName:` JENNANGELB 
+`User ScreenName:` FunPak5 
  
-`User chosen Name:` Janangel57 
+`User chosen Name:` Fun Pak 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 12 07:52:35 +0000 2023 
+`User signup date?:` Sun Feb 19 13:40:31 +0000 2023 
  
-`User Description?:` GOD FAMILY FRIENDS ULTRA MAGA, BACK THE BLUE, LOVE TO PISS BIDEN OBAMA OFF, SCHUMER SCHIFF SOROS SANDERS WARREN WATERS NEED TO GO, NO DEMS OR DEAL WITH ME! 
+`User Description?:`  
  
-`Followers?: `173 
+`Followers?: `0 
  
-`Following?:` 420 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624993667592372225/kyZDxPzL_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1627302109572988930/l5RaVAHW_normal.png 
  
-`Number of tweets excluding replies:` 731 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -351,15 +268,128 @@ RT @WCKitchen: With freezing temperatures in the mountainous town of Elbistan, W
  
 ## User Top tweeted words 
  
-**BIDEN** 61 , **PEOPLE** 55 , **FOOD** 24 , **EVERYONE** 19 , **QUICK** 19 , **ESCAPE** 19 , **KAMALA** 18 , **BORDERS** 17 , **SPEAKER** 16 , **MR** 16 , **SHUT** 16 , **FIX** 15 , **@JOEBIDEN** 14 , **LISTEN** 14 , **DOWN** 14 , **MAGA** 13 , **MAN** 13 , **STOP** 13 , **GOD** 12 , **SAVE** 12 , 
+**FULL** 2 , **ACTIVATED** 2 , **–** 2 , **DISCOUNT** 2 , **100%** 2 , **OFF** 2 , **EMAIL** 1 , **EXTRACTOR** 1 , **PROFESSIONAL** 1 , **EDITION** 1 , **V7332** 1 , **HTTPS://TCO/UIJTWVV5RY** 1 , **INFOSEC…** 1 , **HTTPS://TCO/AUX9BKJ3GAPSIPHON** 1 , **PRO** 1 , **VPN** 1 , **V358** 1 , **HTTPS://TCO/SMV5MIPIYQ** 1 , **INFOSEC** 1 , **BUGCROWD** 1 , 
  
 ## What this user tweeted
  
-@SpeakerMcCarthy 
-SERIOUSLY MCCARTHY 
-YOU OWE THE PEOPLE 
+Email Extractor Professional Edition v7.3.3.2 Full Activated – Discount 100% OFF https://t.co/UiJtwVV5rY #infosec… https://t.co/aux9BKj3Ga
+ 
+# JacobsTusharaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626346143767580673/O8jIa8hx_normal.jpg)
+ 
+`User ScreenName:` JacobsTushara 
+ 
+`User chosen Name:` Tushara Jacobs 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 16 21:02:39 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626346143767580673/O8jIa8hx_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
 
-House Speaker McCarthy will not release J6 footage as pr… https://t.co/lHL7sm1tfI
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 7 , **FULL** 3 , **ACTIVATED** 3 , **DISCOUNT** 3 , **100%** 3 , **OFF…** 3 , **YOUTUBE** 2 , **SEO** 2 , **VIDIQ** 1 , **VISION** 1 , **ENTERPRISE** 1 , **V38121** 1 , **HTTPS://TCO/ETYATNRFNMMETASPLOIT** 1 , **PRO** 1 , **4220** 1 , **2023013001** 1 , **BEST** 1 , **CYBERSECURITY** 1 , **TOOLS** 1 , **HTTPS://TCO/J8NTJHSZVFMONEY** 1 , 
+ 
+## What this user tweeted
+ 
+vidIQ Vision For YouTube Enterprise v3.81.2.1 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/ETYaTnrFnMMetasploit Pro 4.22.0 – 2023013001 Full Activated – Best CyberSecurity Tools – Discount 100% OFF… https://t.co/J8NtjHsZvfMoney Robot Submitter v7.40.88 Full Activated – BackLinks SEO Marketing Tool – Discount 100% OFF… https://t.co/hCArDy2Oso
+ 
+# theeseus_aiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627313411414532096/TMjZArOz_normal.jpg)
+ 
+`User ScreenName:` theeseus_ai 
+ 
+`User chosen Name:` Theeseus 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 19 14:12:01 +0000 2023 
+ 
+`User Description?:` AI and computer vision enthusiast, full-stack developer, and reverse engineering aficionado. #AI #ComputerVision #FullStack #ReverseEngineering 
+ 
+`Followers?: `1 
+ 
+`Following?:` 17 
+ 
+`User URL?:` https://t.co/992aujYtL9 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1627313411414532096/TMjZArOz_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PYTORCH** 3 , **WHERE** 2 , **GENERATOR** 2 , **ENOUGH** 2 , **OUTPUT** 2 , **WORKS** 1 , **FINE** 1 , **ENCOUNTER** 1 , **SCENARIOS** 1 , **RESORT** 1 , **USING** 1 , **COLLAB** 1 , **PRO** 1 , **ACCOUNT** 1 , **TO…** 1 , **HTTPS://TCO/UZZVSTVCCTDOES** 1 , **REQUIRE** 1 , **RESOURCES** 1 , **THAN** 1 , **TENSORFLOW?** 1 , 
+ 
+## What this user tweeted
+ 
+However, in the rare case where the generator does not have a long enough period, one could observe enough output t… https://t.co/sUSPuAcsO1
+ 
+# Mohamed14189726USER INFO
+![image](http://pbs.twimg.com/profile_images/1627299288949596161/7BHFxIcO_normal.png)
+ 
+`User ScreenName:` Mohamed14189726 
+ 
+`User chosen Name:` Mohamed zizo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 19 13:29:18 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1627299288949596161/7BHFxIcO_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 2 , **INSTAGRAM** 1 , **PHONE** 1 , **PRO** 1 , **V134** 1 , **FULL** 1 , **ACTIVATED** 1 , **SOCIAL** 1 , **MEDIA** 1 , **MARKETING** 1 , **TOOL** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/LFIV4NDJDP** 1 , 
+ 
+## What this user tweeted
+ 
+Instagram Get Phone Pro v1.3.4 Full Activated – Social Media Marketing Tool – Discount 100% OFF… https://t.co/lfiV4ndJDp
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
