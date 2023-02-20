@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **WarClandestine**  
  
 
-## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This… https://t.co/9kCO6ugG3G 
+## 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL 
 
   
 
@@ -25,25 +23,25 @@ This… https://t.co/9kCO6ugG3G
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #Fortinet has released security updates to address 40 vulnerabilities in its software, including FortiWeb, FortiOS,… https://t.co/aY1a07ZP2g |
-| RT @htmdcommunity: [🆕Video] Create Apps in Intune Just using CVE IDs https://t.co/Wq0aARP8do 👉Challenges with Security Scanners for Intune… |
-| RT @security_wang: A new variant of the infamous Mirai botnet #malware has been discovered, exploiting 13 RCE vulnerabilities to target #Li… |
+| We no longer can have American arms manufacturers as part of our strategic advisors.@ASPI_org! Don't be intimidated… https://t.co/bDNKbxrXN7 |
+| RT @BBCWorld: Ukraine war: How the conflict is creating family rifts in Russia https://t.co/viNLeiBssy |
+| RT @jeromecylin: Ron Paul is speaking at the protest of USA's support of Ukraine this weekend.1) Rand Paul hand delivered a letter from T… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MendlovitzMark** |
-| #2 Most tweeted to  | **TheHackersNews** |
-| #3 Most tweeted to  | **IuliiaMendel** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 6.82%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **catturd2** |
+| #2 Most tweeted to  | **ricwe123** |
+| #3 Most tweeted to  | **RealMattCouch** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 5.58%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -52,138 +50,57 @@ This… https://t.co/9kCO6ugG3G
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **IMPORTANT**  |
-| third  | **VIDEO** |
-| fourth  | **REVEALED**  |
-| fifth  | **STORY**  |
+| first  | **UKRAINE**  |
+| second  | **WAR**  |
+| third  | **US** |
+| fourth  | **BIDEN**  |
+| fifth  | **RUSSIA**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PeterWrangel: The quantity of munitions required by the conflict has exposed vulnerabilities in the US defence industry, which is tryin… |
+|RT @KyivIndependent: ⚡️Bloomberg: EU members may agree to pool ammunition purchases for Ukraine in MarchThe proposal, which was put forwa… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **WarClandestine**  |
 | ------------- |
-| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
+| 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL |
 
 # Potential Fake Accounts
  
-# lightofthecovenUSER INFO
-![image](http://pbs.twimg.com/profile_images/1627266137351241729/NvxpJK1d_normal.jpg)
+# JackCro97562751USER INFO
+![image](http://pbs.twimg.com/profile_images/1624970806488072192/j4Q510Wb_normal.png)
  
-`User ScreenName:` lightofthecoven 
+`User ScreenName:` JackCro97562751 
  
-`User chosen Name:` I Am Your Karma 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 19 11:06:41 +0000 2023 
- 
-`User Description?:` you don't know me but I know you.
-What goes around comes around.
-I can be a loyal friend or your worst enemy.
-I detest liars with a passion. 
- 
-`Followers?: `0 
- 
-`Following?:` 23 
- 
-`User URL?:` None 
- 
-`Location:` England, United Kingdom 
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627266137351241729/NvxpJK1d_normal.jpg 
- 
-`Number of tweets excluding replies:` 21 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MISSING** 3 , **FRIEND** 3 , **WHALE** 3 , **POLICE** 2 , **TWEETS** 2 , **@LANCSPOLICE** 2 , **LIFE** 2 , **GIVES** 2 , **PARTNER** 2 , **BACK** 2 , **ENEMY** 2 , **GAIN** 2 , **NOTHING** 2 , **US** 2 , **DRUMMING** 2 , **RT** 1 , **@BIRDWATCHEXTRA:** 1 , **APPEALING** 1 , **INFORMATION** 1 , **AFTER** 1 , 
- 
-## What this user tweeted
- 
-RT @EmmaDalts82: Can everyone back TF off @peter_faulding He searched where he was TOLD to search by @LancsPolice He's already said if he k…
- 
-# UdeyKotakUSER INFO
-![image](http://pbs.twimg.com/profile_images/1627107981681889282/VBjDLNVX_normal.jpg)
- 
-`User ScreenName:` UdeyKotak 
- 
-`User chosen Name:` Udey Kotak 
+`User chosen Name:` Jack Crow 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 19 00:46:49 +0000 2023 
- 
-`User Description?:` CEO, kotak Mahindra Bank 
- 
-`Followers?: `0 
- 
-`Following?:` 30 
- 
-`User URL?:` None 
- 
-`Location:` mubai, India 
- 
-`Number of tweets extracted`  : 47 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627107981681889282/VBjDLNVX_normal.jpg 
- 
-`Number of tweets excluding replies:` 47 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@UDAYKOTAK:** 44 , **INFLATION** 8 , **GLOBAL** 7 , **MONEY** 7 , **YEAR** 7 , **US** 7 , **CENTRAL** 5 , **WORLD** 5 , **INDIA** 5 , **BANK** 4 , **FINANCIAL** 4 , **FED** 4 , **INDIAN** 3 , **ECONOMIC** 3 , **RUSSIA** 3 , **CHINA** 3 , **1** 3 , **DOES** 3 , **STOCK** 3 , **UK** 3 , 
- 
-## What this user tweeted
- 
-RT @udaykotak: I do not see systemic risk to Indian financial system from recent events. However,large Indian corporates rely more on globa…
- 
-# VikkiMMcCGuireUSER INFO
-![image](http://pbs.twimg.com/profile_images/1624479939515875328/j3DfEwE0_normal.jpg)
- 
-`User ScreenName:` VikkiMMcCGuire 
- 
-`User chosen Name:` Vikki McGuire 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 10 22:38:55 +0000 2023 
+`User signup date?:` Mon Feb 13 03:16:45 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `5 
+`Followers?: `1 
  
-`Following?:` 71 
+`Following?:` 3 
  
 `User URL?:` None 
  
-`Location:` Brigg, England 
+`Location:`  
  
-`Number of tweets extracted`  : 59 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624479939515875328/j3DfEwE0_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1624970806488072192/j4Q510Wb_normal.png 
  
-`Number of tweets excluding replies:` 59 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -191,28 +108,106 @@ RT @udaykotak: I do not see systemic risk to Indian financial system from recent
  
 ## User Top tweeted words 
  
-**@LBC** 46 , **@SANGITAMYSKA** 25 , **@MATTFREI** 19 , **@KENLOACHSIXTEEN** 19 , **@2022_MEDIC** 9 , **@CANDYSPETS2** 8 , **@STEFFD62** 7 , **@SYRFEWRTIR** 6 , **PEOPLE** 5 , **DON’T** 4 , **FACTS** 4 , **DOCTOR** 4 , **NEVER** 4 , **SOMEBODY** 4 , **CAN’T** 3 , **MISSTATING** 3 , **JUNIOR** 3 , **MISREPRESENTING** 3 , **T…** 3 , **CALLER** 3 , 
+**RT** 1 , **@THEPOLITICALPOM:** 1 , **INVITE** 1 , **ANY** 1 , **LIBERAL** 1 , **TWITTER** 1 , **COME** 1 , **EXPLAIN** 1 , **FUCK** 1 , **USING** 1 , **TAX** 1 , **DOLLARS** 1 , **FUND** 1 , **PENSIO…** 1 , 
  
 ## What this user tweeted
  
-@LBC @SangitaMyska The word ‘vulnerability’ is such a loaded word. As soon as the police announced Nicola had vulne… https://t.co/n86quQEKUF
+RT @ThePoliticalPom: i invite any liberal on twitter to come at me and explain why THE FUCK we are using our tax dollars to fund the pensio…
  
-# its_rgc2USER INFO
-![image](http://pbs.twimg.com/profile_images/1624279888013463554/MkbL3nTJ_normal.jpg)
+# Kay3JeffersonUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627096257863860224/RwcmPMwb_normal.png)
  
-`User ScreenName:` its_rgc2 
+`User ScreenName:` Kay3Jefferson 
  
-`User chosen Name:` SELL OUT 
+`User chosen Name:` Jefferson Kay 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Feb 11 05:28:21 +0000 2023 
+`User signup date?:` Sun Feb 19 00:02:32 +0000 2023 
  
-`User Description?:` Hiphop listener 
+`User Description?:`  
  
-`Followers?: `18 
+`Followers?: `21 
  
-`Following?:` 93 
+`Following?:` 174 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 52 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1627096257863860224/RwcmPMwb_normal.png 
+ 
+`Number of tweets excluding replies:` 52 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ITS_THE_DR** 6 , **PRESIDENT** 4 , **BIDEN** 3 , **BITCH** 2 , **HEAD** 2 , **US** 2 , **FUCK** 2 , **CALIFORNIA** 2 , **SEEN** 2 , **TRUMP** 2 , **@1NICDAR:** 2 , **GOOD** 2 , **@NICKSORTOR** 2 , **JOE** 2 , **I’M** 2 , **LOOKS** 2 , **LITTLE** 2 , **THANK** 2 , **TRYING** 2 , **FRIEND** 2 , 
+ 
+## What this user tweeted
+ 
+RT @kriswild_kris: @its_the_Dr the war between Russia and Ukraine  in a small video..👇🤑🤑 https://t.co/JCkoP6QzyV
+ 
+# IllG27702419USER INFO
+![image](http://pbs.twimg.com/profile_images/1624234431786414083/nT4MXZjX_normal.png)
+ 
+`User ScreenName:` IllG27702419 
+ 
+`User chosen Name:` Ill G 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 11 02:30:39 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1624234431786414083/nT4MXZjX_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 3 , **WORLD** 2 , **@REPTHOMASMASSIE** 1 , **NOON** 1 , **MAH** 1 , **$16** 1 , **TAX** 1 , **DOLLARS** 1 , **NOOO@JACKSONHINKLLE** 1 , **ONCE** 1 , **WINS** 1 , **INVESTIGATION** 1 , **INTO** 1 , **WHERE** 1 , **FUNDING** 1 , **COMES** 1 , **ROT** 1 , **JAIL@JACKSONHINKLLE** 1 , **CRINGE** 1 , **LORD@TERROR_ALARM** 1 , 
+ 
+## What this user tweeted
+ 
+@jacksonhinklle Once ukraine wins there will be an investigation into where your funding comes from and you will rot in jail.
+ 
+# TNInterloperUSER INFO
+![image](http://pbs.twimg.com/profile_images/1624714085605560320/XORMFDh6_normal.jpg)
+ 
+`User ScreenName:` TNInterloper 
+ 
+`User chosen Name:` TN_Interloper 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 10 11:54:06 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `16 
+ 
+`Following?:` 216 
  
 `User URL?:` None 
  
@@ -220,9 +215,9 @@ RT @udaykotak: I do not see systemic risk to Indian financial system from recent
  
 `Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624279888013463554/MkbL3nTJ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1624714085605560320/XORMFDh6_normal.jpg 
  
-`Number of tweets excluding replies:` 2159 
+`Number of tweets excluding replies:` 464 
  
 
  
@@ -230,28 +225,30 @@ RT @udaykotak: I do not see systemic risk to Indian financial system from recent
  
 ## User Top tweeted words 
  
-**PRIYANKA** 169 , **REIGN** 155 , **BEGINSRT** 124 , **MILLION** 34 , **@ADRASH110:** 31 , **~** 25 , **@SAURABHFOREVER9:** 24 , **BEGINS** 23 , **PEOPLE** 17 , **SP** 14 , **LIFE** 12 , **CONFIDENCE** 11 , **DON'T** 11 , **@BEREAL56636533:** 10 , **1M** 10 , **@SSROY_2003_:** 10 , **~$NEHA** 10 , **YOURSELF** 10 , **@SHAPNILXTWEETS:** 9 , **NEED** 9 , 
+**UKRAINE** 7 , **US** 7 , **PEOPLE** 6 , **DON'T** 6 , **GOOD** 6 , **WELL** 6 , **WAR** 6 , **@DC_FLAKE:** 5 , **@VP** 5 , **@MATTWALSHBLOG** 5 , **@POTUS** 5 , **MUCH** 5 , **@REALLORISPENCER:** 5 , **UNTIL** 5 , **I'M** 4 , **@LEADERMCCONNELL** 4 , **SUPPORT** 4 , **@STILLGRAY:** 4 , **NAZI** 4 , **YOU'RE** 4 , 
  
 ## What this user tweeted
  
-RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitude, her non-grudge holding self. She's not faced less strug…
+RT @21WIRE: With each passing day, these people are descending into madness. Channeling the karma of WWI.
+
+EU head prefect Josep Borrell: ‘…
  
-# HulkBuster75USER INFO
-![image](http://pbs.twimg.com/profile_images/1624712217953472513/dOxYioRf_normal.jpg)
+# EdOn60524430USER INFO
+![image](http://pbs.twimg.com/profile_images/1625593627752771584/y1BgzItb_normal.jpg)
  
-`User ScreenName:` HulkBuster75 
+`User ScreenName:` EdOn60524430 
  
-`User chosen Name:` Hulk Buster 
+`User chosen Name:` tigray adey 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 12 09:17:52 +0000 2023 
+`User signup date?:` Tue Feb 14 20:15:54 +0000 2023 
  
-`User Description?:` Crypto Holder - #ICP NFT - AMA Research CM 🧐 
+`User Description?:`  
  
-`Followers?: `3 
+`Followers?: `8 
  
-`Following?:` 41 
+`Following?:` 45 
  
 `User URL?:` None 
  
@@ -259,9 +256,9 @@ RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitu
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1624712217953472513/dOxYioRf_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1625593627752771584/y1BgzItb_normal.jpg 
  
-`Number of tweets excluding replies:` 288 
+`Number of tweets excluding replies:` 1531 
  
 
  
@@ -269,117 +266,40 @@ RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitu
  
 ## User Top tweeted words 
  
-**@AURAPOOL_** 36 , **@GOHEALTHHERO** 34 , **@NEWTON88A** 33 , **@YEOSHI_1** 32 , **@RANGOEXCHANGE** 26 , **@AURORAISNEAR** 24 , **@NEARITY_ORG** 24 , **@CATBOTICA** 23 , **@IZUMI_FINANCE** 18 , **@DARBYOCAN1** 16 , **@GABRINA_LOPEZ@WISECRYPTO_** 16 , **@NASIR76963347** 15 , **DOES** 14 , **PROJECT** 14 , **NFT** 14 , **@XEX_CRYPTO** 14 , **@NEWTON88A@DENS_CLUB** 12 , **@LITCRAFT_IO** 12 , **WHICH** 11 , **ANY** 10 , 
+**TIGRAY** 44 , **COMMISSION** 30 , **REPORTERS** 24 , **TIGRAYANS** 22 , **CHAIRPERSON** 22 , **GUILTY** 21 , **TOLD** 21 , **GENOCIDE** 20 , **FLEE** 19 , **JUSTICE** 19 , **FORCED** 18 , **WOMEN** 18 , **REMY** 18 , **NGOY** 18 , **LUMBU** 18 , **MANY** 17 , **ትግራይ** 17 , **🇪🇹** 16 , **DEMEKE** 16 , **INQUIRY** 15 , 
  
 ## What this user tweeted
  
-@dens_club @AuraPool_ There is a very high chance of vulnerabilities in today's smart contracts, which allows Hacke… https://t.co/f4RwEYs8nm
+RT @AbrhaEyerus: @IntlCrimCourt has shown support towards Ukraine, but why is it controversial when it comes to Tigray?
+#EritreaOutOfTigray…RT @letushTigray16: @IntlCrimCourt has shown support towards Ukraine, but why is it controversial when it comes to Tigray?
+#EritreaOutOfTig…
  
-# pri_121202USER INFO
-![image](http://pbs.twimg.com/profile_images/1625396628244008966/JEFGTOzy_normal.jpg)
+# koch_jenoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627317896522133505/sJH6-zTt_normal.png)
  
-`User ScreenName:` pri_121202 
+`User ScreenName:` koch_jeno 
  
-`User chosen Name:` ILY PRIYANKA 
+`User chosen Name:` Jeno Koch 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 14 06:32:19 +0000 2023 
+`User signup date?:` Sun Feb 19 14:43:15 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `6 
+`Followers?: `0 
  
-`Following?:` 80 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625396628244008966/JEFGTOzy_normal.jpg 
- 
-`Number of tweets excluding replies:` 591 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PRIYANKA** 100 , **REIGN** 89 , **@MEKONHU_:** 85 , **BEGINSRT** 74 , **~** 71 , **ROHIT** 70 , **LIFE** 41 , **BEGINS** 14 , **@TEAMPRIYANKAFC_:** 13 , **PRIYANKIT** 11 , **ANKIT** 10 , **LOVE** 9 , **@POWERPRIYANKIT:** 9 , **DRAFTS** 9 , **@ITZBATRYBRO:** 9 , **KO** 8 , **PLEASE** 8 , **PRIYANKACHAHARCHOUDHARY** 8 , **MEIN** 8 , **HAI** 8 , 
- 
-## What this user tweeted
- 
-RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitude, her non-grudge holding self. She's not faced less strug…
- 
-# Lariab_98USER INFO
-![image](http://pbs.twimg.com/profile_images/1626991124291407872/NVKwGO0t_normal.jpg)
- 
-`User ScreenName:` Lariab_98 
- 
-`User chosen Name:` Lariab|Pari simpERA💫 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 11 17:41:33 +0000 2023 
- 
-`User Description?:` Mera account meri marzi 🙂 
- 
-`Followers?: `15 
- 
-`Following?:` 85 
+`Following?:` 4 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 33 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1626991124291407872/NVKwGO0t_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1627317896522133505/sJH6-zTt_normal.png 
  
-`Number of tweets excluding replies:` 3300 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PRIYANKA** 123 , **REIGN** 104 , **BEGINS** 72 , **PRIYANKIT** 33 , **BEGINSRT** 24 , **@OJJITOSLINDOS:** 21 , **HAI** 17 , **TWEETS** 15 , **@HEYYOU1__:** 15 , **@TEAMPRIYANKAFC_:** 15 , **GOD** 14 , **LOVE** 13 , **ANKIT** 12 , **@_BUTTERFRIESS_:** 12 , **BLESS** 12 , **PRI** 11 , **@PRIYANKACHAHARO** 11 , **@NOOR_XD_:** 11 , **CONGRATULATIONS** 10 , **KO** 10 , 
- 
-## What this user tweeted
- 
-RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitude, her non-grudge holding self. She's not faced less strug…
- 
-# WhitenetsecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1625816809319571459/4R_W7o0b_normal.png)
- 
-`User ScreenName:` Whitenetsec 
- 
-`User chosen Name:` Whitenet Appsec 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 15 10:53:28 +0000 2023 
- 
-`User Description?:` We secure digital assets against cyber criminals.
-#cybersecurity #PenTesting #technology 
- 
-`Followers?: `7 
- 
-`Following?:` 8 
- 
-`User URL?:` https://t.co/2B4l0GnjHC 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625816809319571459/4R_W7o0b_normal.png 
- 
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 33 
  
 
  
@@ -387,39 +307,38 @@ RT @TheBiggBossGirl: There's so much to learn from her, her never-give-up attitu
  
 ## User Top tweeted words 
  
-**LORD** 2 , **SHIVA** 2 , **RECOMMENDATION:** 1 , **MITIGATE** 1 , **SUCH** 1 , **THREATS** 1 , **WORDPRESS** 1 , **SITE** 1 , **OWNERS** 1 , **ADVISED** 1 , **CHANGE** 1 , **PASSWORDS** 1 , **UPDATE** 1 , **INSTALLE…** 1 , **HTTPS://TCO/IQ5ZBJZEUKMAY** 1 , **BLESS** 1 , **HEALTH** 1 , **WEALTH** 1 , **PROSPERITY** 1 , **BEST** 1 , 
+**AIRBNB** 8 , **@AIRBNB** 8 , **BOYCOTTAIRBNBRT** 5 , **CUSTOMER** 4 , **BOYCOTTAIRBNB** 4 , **USING** 4 , **@RIGHT_SIDE_FJB:** 3 , **AIR** 3 , **BNB** 3 , **RENTAL** 3 , **COULD** 3 , **GO** 3 , **RT** 2 , **DOLLARS** 2 , **GOT** 2 , **AMERICA** 2 , **FIRST** 2 , **WOKE** 2 , **BOYCOTT** 2 , **NORTH** 2 , 
  
 ## What this user tweeted
  
-We are a team of professional ethical hackers, finding vulnerabilities before others do?
-Learn more:… https://t.co/Q7PuTdZya7
+RT @Right_Side_FJB: 30 billion more dollars just got approved for ukraine https://t.co/1xtNNkFOs6
  
-# icke_simonUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626419622244229120/rQnIqNhn_normal.png)
+# JulieHo70392405USER INFO
+![image](http://pbs.twimg.com/profile_images/1627425831558471684/gc5ziH_9_normal.png)
  
-`User ScreenName:` icke_simon 
+`User ScreenName:` JulieHo70392405 
  
-`User chosen Name:` Simon Icke 
+`User chosen Name:` Julie Horn 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 17 03:13:49 +0000 2023 
+`User signup date?:` Sun Feb 19 21:52:08 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 96 
+`Following?:` 18 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 127 
+`Number of tweets extracted`  : 31 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1626419622244229120/rQnIqNhn_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1627425831558471684/gc5ziH_9_normal.png 
  
-`Number of tweets excluding replies:` 127 
+`Number of tweets excluding replies:` 31 
  
 
  
@@ -427,13 +346,11 @@ Learn more:… https://t.co/Q7PuTdZya7
  
 ## User Top tweeted words 
  
-**@BBCNEWS:** 18 , **@SKYNEWS:** 17 , **@GBNEWS:** 14 , **BREXIT** 9 , **IRELAND** 8 , **UK** 8 , **AFTER** 8 , **YEAR** 8 , **EU** 7 , **NORTHERN** 7 , **SAY** 7 , **NICOLA** 7 , **UKRAINE** 6 , **THAN** 6 , **LABOUR** 6 , **PEOPLE** 5 , **SUPPORT** 5 , **BRITISH** 5 , **GOOD** 5 , **FIRST** 5 , 
+**@POTUS** 29 , **@CLAIROPROP** 10 , **@CERDAFIED_NICK** 4 , **THANK** 3 , **TALKING** 3 , **BIDEN** 3 , **AND…** 2 , **DON'T** 2 , **DIFFERENT** 2 , **PRETTY** 2 , **BELIEVE** 2 , **BODIES** 2 , **MONEY** 2 , **UKRAINE** 2 , **@IDK_YOU999** 2 , **STUPID** 2 , **1** 2 , **SUCH** 2 , **Y…** 2 , **OFF** 2 , 
  
 ## What this user tweeted
  
-RT @SkyNews: Nicola Bulley was listed as a "high risk" missing person due to a "number of specific vulnerabilities", detectives say
-
-https:…
+@ForTexasHoujami @POTUS 1.I don't know all of the #'s,which of course, can be manipulated to reflect different thin… https://t.co/5oq41FnYeq
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
