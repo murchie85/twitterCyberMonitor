@@ -1,20 +1,23 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **mysk_co**  
+The most popular user is: **MangaAlerts**  
  
 
-## We confirm that iOS 16 does communicate with Apple services outside an active VPN tunnel. Worse, it leaks DNS reque… https://t.co/0qvfLEXgdr 
+## Viz Media announced they uploaded the following  subbed anime/movies for free on YouTube
+
+- Death Note (Complete)
+-… https://t.co/TKAANNEuRR 
 
   
 
@@ -23,25 +26,25 @@ The most popular user is: **mysk_co**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Eli_Krumova: #Top10 Features in Automated #MachineLearning👉🏽 https://t.co/0dwdoqmJOv#ML #AI #DeepLearning #DataScience #BigData #Ana… |
-| Contact me now for Hacking or Account Recovery #ArtificialIntelligence #AI #ML #DataScience #DataScientists… https://t.co/FguunqIy7U |
-| #cybersecurity https://t.co/SKkppVu6yC GoDaddy Reveals Data Breach Led to Malware on Customer Sites |
+| RT @Transform_Sec: Dozens of #Cybersecurity Companies Announced #Layoffs in Past Yearhttps://t.co/DSIPEOMm8O@SecurityWeek @EduardKovacs… |
+| RT @alcgroup: ALC Group's Cyber Security Services Director has shared his Top 10 #CyberSecurity Tips  | ALC Training News #InfoSec #Tips #T… |
+| RT @0xor0ne: Embedded Systems Security and TrustZone Cool guide by @dim0x69 https://t.co/IVKWDz01tg #iot #embedded #trustzone #infosec… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecurityTrybe** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **ITSPmagazine** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 7.62%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **ptracesecurity** |
+| #3 Most tweeted to  | **NandanLohitaksh** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 5.62%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,28 +53,28 @@ The most popular user is: **mysk_co**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HACKING**  |
-| second  | **INFOSEC**  |
-| third  | **PENTESTING** |
-| fourth  | **AI**  |
-| fifth  | **HACKER**  |
+| first  | **INFOSEC**  |
+| second  | **PENTESTING**  |
+| third  | **HACKING** |
+| fourth  | **REDTEAM**  |
+| fifth  | **PHISHING**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Hornet Staffing is looking for a Sr. Cybersecurity Atchitecthttps://t.co/qc2iI836US Duval County, Florida, US( cy… https://t.co/ZJrtdDuPNU |
+|RT @MetatrustLabs: #Cybersecurity is critical. Strong passwords, multi-factor authentication, and encryption can protect you from cyber thr… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mysk_co**  |
+| The most retweeted user is: **MangaAlerts**  |
 | ------------- |
-| We confirm that iOS 16 does communicate with Apple services outside an active VPN tunnel. Worse, it leaks DNS reque… https://t.co/0qvfLEXgdr |
+| Viz Media announced they uploaded the following  subbed anime/movies for free on YouTube- Death Note (Complete)-… https://t.co/TKAANNEuRR |
 
 # Potential Fake Accounts
  
@@ -114,74 +117,38 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 RT @hackinarticles: Pic of the Day
 
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…RT @hackinarticles: Ethical Hacking Proactive Training
+
+Join Ignite Technologies ETHICAL HACKING PROACTIVE TRAINING live sessions with core…RT @hackinarticles: Pic of the Day
+
 #infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
  
-# Mubashi42086777USER INFO
-![image](http://pbs.twimg.com/profile_images/1626689802866417665/9wW_sKZW_normal.jpg)
+# osintpunkconUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626565399994068992/t45ymYUB_normal.jpg)
  
-`User ScreenName:` Mubashi42086777 
+`User ScreenName:` osintpunkcon 
  
-`User chosen Name:` Mubashir Hashmi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 17 21:00:23 +0000 2023 
- 
-`User Description?:` стилист 
- 
-`Followers?: `9 
- 
-`Following?:` 60 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 60 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626689802866417665/9wW_sKZW_normal.jpg 
- 
-`Number of tweets excluding replies:` 60 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEW** 5 , **@CRYPTOPROJECT6:** 5 , **OFFERMXC** 5 , **میں** 4 , **🔹** 3 , **SERVICE** 3 , **CRYPTO** 3 , **BEST** 3 , **@OFFERMXC:** 3 , **کی** 3 , **@TOMOKUQOD12:** 3 , **ЧТО** 3 , **И** 3 , **TWITTER** 3 , **🔥** 2 , **STAKING** 2 , **@HK_WANI:** 2 , **CENTRAL** 2 , **BANK** 2 , **PURPOSE** 2 , 
- 
-## What this user tweeted
- 
-RT @Dr_AdibEnayati: Don't forget it 🇺🇸
-#awareness #opsec #security #cybersecurity #informationsecurity #cybersecurityawareness #datasecurit…
- 
-# SalmanSadi08USER INFO
-![image](http://pbs.twimg.com/profile_images/1627257417984798720/drJyr6-C_normal.png)
- 
-`User ScreenName:` SalmanSadi08 
- 
-`User chosen Name:` Electro Potter 
+`User chosen Name:` OSINT PUNK 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 19 10:42:55 +0000 2023 
+`User signup date?:` Fri Feb 17 02:28:54 +0000 2023 
  
-`User Description?:` прозектор 
+`User Description?:` A place made with 💚 by @pwnverse. Where you will find free resources, workshops and webinars, plus news about our hybrid event. #osintpunk 
  
 `Followers?: `7 
  
-`Following?:` 42 
+`Following?:` 9 
  
-`User URL?:` None 
+`User URL?:` https://t.co/z6P7wHO5tx 
  
-`Location:` bangladesh 
+`Location:` Worldwide 
  
-`Number of tweets extracted`  : 65 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1627257417984798720/drJyr6-C_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1626565399994068992/t45ymYUB_normal.jpg 
  
-`Number of tweets excluding replies:` 65 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -189,12 +156,15 @@ RT @Dr_AdibEnayati: Don't forget it 🇺🇸
  
 ## User Top tweeted words 
  
-**CRYPTO** 6 , **OFFERMXC** 5 , **@CRYPTOPROJECT6:** 5 , **کے** 4 , **میں** 4 , **کی** 4 , **BEST** 4 , **@OFFERMXC:** 3 , **@CLUBOFGEMS:** 3 , **@MUHAMMADNAEEMQ0:** 3 , **خان** 3 , **@TOMOKUQOD12:** 3 , **ЧТО** 3 , **И** 3 , **TWITTER** 3 , **♨️** 2 , **$3000** 2 , **GIVEAWAY** 2 , **NEVER** 2 , **EASY!** 2 , 
+**@PWNVERSE** 5 , **@PWNVERSE:** 5 , **🔎OSINTPUNK23** 5 , **OSINT** 4 , **YOUTUBE** 4 , **GREAT** 2 , **@INTEL_INQUIRER** 2 , **E** 2 , **LIVE** 2 , **CCTV:** 2 , **SMILE** 2 , **CAMERA** 2 , **SUNDAY** 2 , **RT** 1 , **@OSINT_TACTICAL:** 1 , **PRESENTATION** 1 , **PUNK** 1 , **2023** 1 , **@OSINTPUNKCON** 1 , **RESOURCES** 1 , 
  
 ## What this user tweeted
  
-RT @Dr_AdibEnayati: Don't forget it 🇺🇸
-#awareness #opsec #security #cybersecurity #informationsecurity #cybersecurityawareness #datasecurit…
+RT @pwnverse: 🔎#osintpunk23 - Using Offensive OSINT Defensively by the A W E S O M E  @C_3PJoe  is live on the @pwnverse  Youtube Channel🔥.…RT @pwnverse: 🔎#osintpunk23 - OSINT &amp; CCTV: Smile for the camera by the wonderful @intel_inquirer is live on the @pwnverse Youtube Channel😎…RT @pwnverse: 🔎#osintpunk23 - Monday morning, only on the @pwnverse Youtube Channel🔥.
+
+@OSINT_Tactical&gt;OSINT with Facial Recognition 
+
+@Jez…
  
 # astraw_siloUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1627294085638758400/vlUb5RG1_normal.png)
@@ -272,7 +242,7 @@ AutLand Suite Microsocial v22.38 Full Activated – Social Media Marketing – D
  
 ## What this user tweeted
  
-Email Extractor Professional Edition v7.3.3.2 Full Activated – Discount 100% OFF https://t.co/UiJtwVV5rY #infosec… https://t.co/aux9BKj3Ga
+Email Extractor Professional Edition v7.3.3.2 Full Activated – Discount 100% OFF https://t.co/UiJtwVV5rY #infosec… https://t.co/aux9BKj3GaPsiphon Pro VPN v358 Full Activated – Discount 100% OFF https://t.co/SmV5MiPiYQ #infosec #bugcrowd #bugbountytips… https://t.co/OgNYgKtxLE
  
 # JacobsTusharaUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1626346143767580673/O8jIa8hx_normal.jpg)
@@ -313,32 +283,32 @@ Email Extractor Professional Edition v7.3.3.2 Full Activated – Discount 100% O
  
 vidIQ Vision For YouTube Enterprise v3.81.2.1 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/ETYaTnrFnMMetasploit Pro 4.22.0 – 2023013001 Full Activated – Best CyberSecurity Tools – Discount 100% OFF… https://t.co/J8NtjHsZvfMoney Robot Submitter v7.40.88 Full Activated – BackLinks SEO Marketing Tool – Discount 100% OFF… https://t.co/hCArDy2Oso
  
-# theeseus_aiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1627313411414532096/TMjZArOz_normal.jpg)
+# doksanbirbayramUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627304734225756161/E4e81Wb1_normal.jpg)
  
-`User ScreenName:` theeseus_ai 
+`User ScreenName:` doksanbirbayram 
  
-`User chosen Name:` Theeseus 
+`User chosen Name:` ByRAM . 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 19 14:12:01 +0000 2023 
+`User signup date?:` Fri Feb 17 18:06:06 +0000 2023 
  
-`User Description?:` AI and computer vision enthusiast, full-stack developer, and reverse engineering aficionado. #AI #ComputerVision #FullStack #ReverseEngineering 
+`User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 17 
+`Following?:` 28 
  
-`User URL?:` https://t.co/992aujYtL9 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1627313411414532096/TMjZArOz_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1627304734225756161/E4e81Wb1_normal.jpg 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -346,11 +316,12 @@ vidIQ Vision For YouTube Enterprise v3.81.2.1 Full Activated – YouTube SEO –
  
 ## User Top tweeted words 
  
-**PYTORCH** 3 , **WHERE** 2 , **GENERATOR** 2 , **ENOUGH** 2 , **OUTPUT** 2 , **WORKS** 1 , **FINE** 1 , **ENCOUNTER** 1 , **SCENARIOS** 1 , **RESORT** 1 , **USING** 1 , **COLLAB** 1 , **PRO** 1 , **ACCOUNT** 1 , **TO…** 1 , **HTTPS://TCO/UZZVSTVCCTDOES** 1 , **REQUIRE** 1 , **RESOURCES** 1 , **THAN** 1 , **TENSORFLOW?** 1 , 
+**&GT;** 3 , **GOOGLE** 2 , **SHEETS** 2 , **APPS** 2 , **SCRIPT** 2 , **AI** 2 , **IÇIN** 2 , **RT** 1 , **@HACKTORIA:** 1 , **SEARCH** 1 , **ENGINES** 1 , **PENTESTERS** 1 , **🤖** 1 , **INFOSEC** 1 , **CYBERSSECURITY** 1 , **HTTPS://TCO/KR55QLWHLNRT** 1 , **@ARSLANCHAOS:** 1 , **GPT-3** 1 , **1-** 1 , **EXTENSIONS** 1 , 
  
 ## What this user tweeted
  
-However, in the rare case where the generator does not have a long enough period, one could observe enough output t… https://t.co/sUSPuAcsO1
+RT @hacktoria: Search Engines for PenTesters 🤖
+#infosec #cyberssecurity https://t.co/kr55qlWHLN
  
 # Mohamed14189726USER INFO
 ![image](http://pbs.twimg.com/profile_images/1627299288949596161/7BHFxIcO_normal.png)
@@ -390,6 +361,202 @@ However, in the rare case where the generator does not have a long enough period
 ## What this user tweeted
  
 Instagram Get Phone Pro v1.3.4 Full Activated – Social Media Marketing Tool – Discount 100% OFF… https://t.co/lfiV4ndJDp
+ 
+# myADHDROXXUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627304269333364738/nkgQZgKW_normal.png)
+ 
+`User ScreenName:` myADHDROXX 
+ 
+`User chosen Name:` Roxx Farron 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 19 13:49:06 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1627304269333364738/nkgQZgKW_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**EMAIL** 1 , **EXTRACTOR** 1 , **PROFESSIONAL** 1 , **EDITION** 1 , **V7332** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/JEM1PMIMEC** 1 , **INFOSEC…** 1 , **HTTPS://TCO/COGOGPDODB** 1 , 
+ 
+## What this user tweeted
+ 
+Email Extractor Professional Edition v7.3.3.2 Full Activated – Discount 100% OFF https://t.co/jeM1pMiMec #infosec… https://t.co/coGOGPdOdB
+ 
+# SecvivUSER INFO
+![image](http://pbs.twimg.com/profile_images/1625785075479744512/ZDdiPrvP_normal.png)
+ 
+`User ScreenName:` Secviv 
+ 
+`User chosen Name:` krish 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 15 07:22:22 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625785075479744512/ZDdiPrvP_normal.png 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 3 , **HACKER** 3 , **INFOSEC** 3 , **BOTH** 3 , **BUG** 2 , **PENTESTING** 2 , **USE** 2 , **ETHICALHACKING** 2 , **KALILINUX** 2 , **ETHICALHACKER** 2 , **LINUX** 2 , **OPERATOR** 2 , **QUERIES** 2 , **THROUGH** 2 , **SITE:…** 2 , **DORK** 2 , **CODE** 2 , **TOP** 1 , **10** 1 , **SEARCH** 1 , 
+ 
+## What this user tweeted
+ 
+Top 10 Search Engines for Pentesters and Bug Bounty Hunters
+#pentesting  #cybersecurity #hacker #infosec #kalilinux… https://t.co/E95rOqJA2M
+ 
+# cyprox_ioUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626626487557275650/iUGy_c62_normal.png)
+ 
+`User ScreenName:` cyprox_io 
+ 
+`User chosen Name:` Cyprox 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 17 16:13:32 +0000 2023 
+ 
+`User Description?:` Cyprox is a SaaS platform that provides API security. It monitors the security of your API endpoints for you and warns you against attacks. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 3 
+ 
+`User URL?:` https://t.co/SCUmOmsJAu 
+ 
+`Location:` VA, USA 
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626626487557275650/iUGy_c62_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**API** 5 , **TOP** 2 , **SECURITY** 2 , **NEW** 1 , **BLOGPOST** 1 , **IVAN** 1 , **SUÁREZ** 1 , **APIUMHUB:** 1 , **ACCORDING** 1 , **FORBES** 1 , **40%** 1 , **LARGE** 1 , **ORGANIZATIONS** 1 , **250+** 1 , **APIS** 1 , **AND…** 1 , **HTTPS://TCO/8B3CJXPKESNEW** 1 , **BLOG** 1 , **POSTS** 1 , **CISCO'S** 1 , 
+ 
+## What this user tweeted
+ 
+New Blogpost by Ivan Suárez from Apiumhub: According to Forbes, over 40% of large organizations have 250+ APIs. And… https://t.co/8b3cjXpKes
+ 
+# TVBayLc1USER INFO
+![image](http://pbs.twimg.com/profile_images/1627166214157119489/EioSUdh0_normal.jpg)
+ 
+`User ScreenName:` TVBayLc1 
+ 
+`User chosen Name:` TV Bay Lắc 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 19 04:40:31 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1627166214157119489/EioSUdh0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TELEGRAM** 2 , **–** 2 , **AUTO** 1 , **BUSINESS** 1 , **EDITION** 1 , **V1337** 1 , **FULL** 1 , **ACTIVATED** 1 , **BOT** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/DNTEVLAPT7…** 1 , **HTTPS://TCO/5201JZ2LQ6** 1 , 
+ 
+## What this user tweeted
+ 
+Auto Telegram Business Edition v1.3.3.7 Full Activated – Telegram Bot – Discount 100% OFF https://t.co/dNtevlAPT7… https://t.co/5201jz2lQ6
+ 
+# JoshTedmanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627120389347479552/Gnb-xwe__normal.png)
+ 
+`User ScreenName:` JoshTedman 
+ 
+`User chosen Name:` Josh Tedman 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 19 01:38:25 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1627120389347479552/Gnb-xwe__normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DIABOLIC** 1 , **TRAFFIC** 1 , **BOT** 1 , **FULL** 1 , **EDITION** 1 , **V80** 1 , **LIFETIME** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/ZMGWOUHILQ** 1 , **INFOSEC…** 1 , **HTTPS://TCO/6JH0NQ0XGD** 1 , 
+ 
+## What this user tweeted
+ 
+Diabolic Traffic Bot Full Edition v8.0 Lifetime Activated – Discount 100% OFF https://t.co/zmGWOuhiLq #infosec… https://t.co/6Jh0Nq0XGD
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
