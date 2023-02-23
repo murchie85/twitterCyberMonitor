@@ -1,22 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **Ukraine**  
  
 
-## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
+## To the free people of the world!
 
-This… https://t.co/9kCO6ugG3G 
+We feel your support. We see your demonstrations with our flags. We hear your cha… https://t.co/vg0xE2wX4M 
 
   
 
@@ -25,25 +25,25 @@ This… https://t.co/9kCO6ugG3G
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| G20 Watchdog to Tackle 'Vulnerabilities' in Decentralized Finance ... - Insurance Journal https://t.co/ml0Ov3n6yO |
-| RT @HitachiSysSec: 🤖🚫Zero day exploits are like the ninja moves of the hacking world!They are sneaky attacks that take advantage of softwa… |
-| RT @daveDFIR: https://t.co/JVCdb7p6Xa .. Experts found a large new class of bugs ‘class’ in Apple devices #news #tech #nsa #FBI #intelligen… |
+| RT @TheStudyofWar: Here are the 23 February 2023 control-of-terrain maps for #Russia's invasion of #Ukraine from @TheStudyofWar &amp; @critical… |
+| RT @RepMTG: $113 Billion has been appropriated to Ukraine in just 1 yr.Trump’s wall would have only cost $22 billion, but Congress refuse… |
+| @disclosetv This is real threat for Ukraine and NATO. https://t.co/Ww9RXkM4oZ |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **isaacstanbecker** |
-| #2 Most tweeted to  | **JoyceWhiteVance** |
-| #3 Most tweeted to  | **koinoniaeni** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 5.24%|
-| Tweeters with > 1000000 followers  | 0.42%  |
+| #1 Most tweeted to  | **RepMTG** |
+| #2 Most tweeted to  | **POTUS** |
+| #3 Most tweeted to  | **UN** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 5.74%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -52,209 +52,47 @@ This… https://t.co/9kCO6ugG3G
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **BRNOVICH**  |
-| third  | **MARK** |
-| fourth  | **2020**  |
-| fifth  | **US**  |
+| first  | **UKRAINE**  |
+| second  | **BILLION**  |
+| third  | **WAR** |
+| fourth  | **RUSSIA**  |
+| fifth  | **BIDEN**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (50.0%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BowTiedCyber: If you tell me you're a secure organizationBut you don't have- A process for remediating critical vulnerabilities- C… |
+|RT @ABC: The demolition of a severely earthquake-damaged building in Turkey turned into a rescue operation when two cats were spotted insid… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **Ukraine**  |
 | ------------- |
-| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
+| To the free people of the world!We feel your support. We see your demonstrations with our flags. We hear your cha… https://t.co/vg0xE2wX4M |
 
 # Potential Fake Accounts
  
-# krebscycle215USER INFO
-![image](http://pbs.twimg.com/profile_images/1628148076509646850/kUd0HDCx_normal.jpg)
+# WorldJahirUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628429084526252033/SfMGOY-n_normal.jpg)
  
-`User ScreenName:` krebscycle215 
+`User ScreenName:` WorldJahir 
  
-`User chosen Name:` Catgoul 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 21 21:37:39 +0000 2023 
- 
-`User Description?:` A goul who owns cats 
- 
-`Followers?: `1 
- 
-`Following?:` 10 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628148076509646850/kUd0HDCx_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@INFORMALFILMS** 2 , **@GJBNOIZE** 1 , **100%** 1 , **WASN'T** 1 , **WATER** 1 , **COUPLE** 1 , **DAYS** 1 , **LATER** 1 , **SCAN** 1 , **LAN…** 1 , **HTTPS://TCO/9GQFMHWWB9@GJBNOIZE** 1 , **MUST** 1 , **VERY** 1 , **FAMILIAR** 1 , **FAMILIES** 1 , **ACT** 1 , **MISSING** 1 , **PERSON** 1 , **CASES@MCCANNCASETWEET** 1 , **IDENTIFICATION** 1 , 
- 
-## What this user tweeted
- 
-@GjbNoize @InformalFilms He said she 100% wasn't in the water. A couple of days later he said he would scan the lan… https://t.co/9gqFmHWWB9
- 
-# UmanandSingh13USER INFO
-![image](http://pbs.twimg.com/profile_images/1627620019353051147/WQbJrx67_normal.png)
- 
-`User ScreenName:` UmanandSingh13 
- 
-`User chosen Name:` Umanand Singh 
+`User chosen Name:` jahir basha 🇮🇳 world 🌐 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Feb 20 10:43:46 +0000 2023 
+`User signup date?:` Thu Feb 16 09:14:37 +0000 2023 
  
 `User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627620019353051147/WQbJrx67_normal.png 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BANK** 3 , **ALREADY** 2 , **APPLIED** 2 , **SINGLE** 2 , **PROVIDE** 2 , **LOAN** 2 , **PLEASE** 2 , **READ** 2 , **CHECK** 2 , **BELOW** 2 , **MENTIONED** 2 , **PHOTO** 2 , **HTTPS://TCO/JDJGQNKSMQAPPLICANT** 1 , **READS** 1 , **LOVELY** 1 , **PROFESSIONAL** 1 , **UNIVERSITY** 1 , **(** 1 , **L** 1 , **P** 1 , 
- 
-## What this user tweeted
- 
-RT @FinMinIndia: The two Ministers had a productive discussion on important global economic issues. They also discussed about the upcoming…
- 
-# B6P9_USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` B6P9_ 
- 
-`User chosen Name:` B6P9 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 14 19:15:37 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 26 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 11 , **@DERECHODELARED:** 4 , **EXPLOITS** 2 , **UNA** 2 , **HERRAMIENTA** 2 , **QUE** 2 , **EL** 2 , **CERTIFICACIONES** 2 , **GRATUITAS** 2 , **CIBERSEGURIDAD** 2 , **WEB** 2 , **Y** 2 , **LA** 2 , **ES** 2 , **RT** 1 , **@NANDANLOHITAKSH:** 1 , **PUBLIC** 1 , **COLLECTION** 1 , **POCS** 1 , **VULNERABILITIES** 1 , 
- 
-## What this user tweeted
- 
-RT @NandanLohitaksh: A public collection of POCs &amp; Exploits for the vulnerabilities
-
-https://t.co/qtjP9GJKEH
-
-#bugbounty #bugbountytips #cy…
- 
-# TheCryptoPediaaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1628460674597916672/wVjhCu04_normal.jpg)
- 
-`User ScreenName:` TheCryptoPediaa 
- 
-`User chosen Name:` THE CRYPTOPEDIA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 14 10:54:58 +0000 2023 
- 
-`User Description?:` For latest Crypto News and BTT mining download THECRYPTOPEDIA app from the link below
-
-https://t.co/24x2CXiJLT 
- 
-`Followers?: `17 
- 
-`Following?:` 76 
- 
-`User URL?:` https://t.co/h0v6pgAe4w 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 42 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628460674597916672/wVjhCu04_normal.jpg 
- 
-`Number of tweets excluding replies:` 44 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CRYPTO** 12 , **BITCOIN** 5 , **WEB3** 4 , **COINBASE** 4 , **FOMC** 4 , **CRYPTOCURENCY** 4 , **:** 3 , **NEW** 3 , **PARTNERS** 3 , **BPS** 3 , **HIKE** 3 , **BLOCKCHAIN** 3 , **HONG** 2 , **KONG'S** 2 , **SECRETARY** 2 , **AVALANCHE** 2 , **BIGGEST** 2 , **CEO** 2 , **BANK** 2 , **LARGEST** 2 , 
- 
-## What this user tweeted
- 
-BREAKING: Finance Minister Nirmala Sitharaman held a bilateral meeting with US Treasury Secretary Janet Yellen  and… https://t.co/GbJMCTZSos
- 
-# GrMilephakAcUSER INFO
-![image](http://pbs.twimg.com/profile_images/1627736508969979917/5GjTL1RV_normal.jpg)
- 
-`User ScreenName:` GrMilephakAc 
- 
-`User chosen Name:` Mile Phakphum gr (Fan Account) 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 18 20:26:07 +0000 2023 
- 
-`User Description?:` Two can play the game 
  
 `Followers?: `3 
  
-`Following?:` 19 
+`Following?:` 129 
  
 `User URL?:` None 
  
@@ -262,51 +100,9 @@ BREAKING: Finance Minister Nirmala Sitharaman held a bilateral meeting with US T
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1627736508969979917/5GjTL1RV_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1628429084526252033/SfMGOY-n_normal.jpg 
  
-`Number of tweets excluding replies:` 257 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**APO** 46 , **@NNATTAWIN1** 35 , **NNATTAWIN** 30 , **@MILEPHAKPHUM** 26 , **@LAREIB_LOREIN:** 22 , **MILE** 22 , **BIRTHDAY** 19 , **HAPPY** 17 , **FANS** 17 , **@FOREVERHOHOHOLE:** 15 , **APOCOLLEAGUES** 12 , **MAN** 10 , **@SARAHAPO12:** 10 , **DON'T** 9 , **:** 9 , **PLEASE** 9 , **@APOPRTEAM:** 8 , **LOVE** 8 , **DIOR** 8 , **PEOPLE** 8 , 
- 
-## What this user tweeted
- 
-RT @Jynnae: 💚💛
-Dear whomever needs this.. 
-In a world of comparison and conformity, make your own statement. Have the courage to be yoursel…
- 
-# WhitenetsecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1625816809319571459/4R_W7o0b_normal.png)
- 
-`User ScreenName:` Whitenetsec 
- 
-`User chosen Name:` Whitenet Appsec 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 15 10:53:28 +0000 2023 
- 
-`User Description?:` We secure digital assets against cyber criminals.
-#cybersecurity #PenTesting #technology 
- 
-`Followers?: `8 
- 
-`Following?:` 10 
- 
-`User URL?:` https://t.co/2B4l0GnjHC 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1625816809319571459/4R_W7o0b_normal.png 
- 
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 661 
  
 
  
@@ -314,159 +110,38 @@ In a world of comparison and conformity, make your own statement. Have the coura
  
 ## User Top tweeted words 
  
-**TESTING** 3 , **PENETRATION** 2 , **LORD** 2 , **SHIVA** 2 , **PEN** 1 , **PROCESS** 1 , **SIMULATING** 1 , **CYBER-ATTACKS** 1 , **AGAINST** 1 , **COMPUTER** 1 , **NETWORKS** 1 , **APPLI…** 1 , **HTTPS://TCO/XVTXAKXI7ERECOMMENDATION:** 1 , **MITIGATE** 1 , **SUCH** 1 , **THREATS** 1 , **WORDPRESS** 1 , **SITE** 1 , **OWNERS** 1 , **ADVISED** 1 , 
+**@WORLDJAHIR:** 51 , **UKRAINE** 24 , **@WILSON121TOVAR:** 8 , **WAR** 7 , **RUSSIAN** 7 , **365** 5 , **STANDWITHUKRAINE** 4 , **UKRAINEWILLWIN** 4 , **DAYS** 4 , **UKRAINIAN** 4 , **@POTUS:** 4 , **AMERICAN** 4 , **RUSSIA** 4 , **STAND** 3 , **T…RT** 3 , **SUPPORT** 3 , **COLORS** 3 , **FLAG** 3 , **BELOVED** 3 , **GENOCIDAL** 3 , 
  
 ## What this user tweeted
  
-Penetration testing, or pen testing, is the process of simulating cyber-attacks against computer networks and appli… https://t.co/XvTxAkxI7E
+RT @DenesTorteli: 💔 Exactly one year: "I want to address the Armed Forces of Ukraine. Stand firm. You are all we have. You are everything t…
  
-# jmilan168USER INFO
-![image](http://pbs.twimg.com/profile_images/1628603190470901761/7hJA8K7h_normal.jpg)
+# unclejack33USER INFO
+![image](http://pbs.twimg.com/profile_images/1627855239507312640/GWfIclBe_normal.jpg)
  
-`User ScreenName:` jmilan168 
+`User ScreenName:` unclejack33 
  
-`User chosen Name:` Jonathan Milan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 20 03:34:16 +0000 2023 
- 
-`User Description?:` Startup cybersecurity company specializing in defense and offense security. Also willing to hire experienced I.T or anybody experienced in tech. 
- 
-`Followers?: `0 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628603190470901761/7hJA8K7h_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEHACKERSNEWS:** 2 , **NEWPROFILEPIC** 1 , **HTTPS://TCO/E4NCUJTNA9RT** 1 , **⚠️** 1 , **ATTENTION!** 1 , **APPLE** 1 , **ANNOUNCED** 1 , **THREE** 1 , **NEW** 1 , **VULNERABILITIES** 1 , **IMPACTING** 1 , **IOS** 1 , **IPADOS** 1 , **MACOS** 1 , **DEVICES** 1 , **READ:** 1 , **HTTPS://…RT** 1 , **HACKERS** 1 , **ADOPTING** 1 , **OPEN** 1 , 
- 
-## What this user tweeted
- 
-RT @TheHackersNews: ⚠️ Attention! #Apple has announced three new vulnerabilities impacting #iOS, iPadOS, and macOS devices.
-
-Read: https://…
- 
-# AlphaPool511USER INFO
-![image](http://pbs.twimg.com/profile_images/1627973412911038464/wBoEO2ND_normal.jpg)
- 
-`User ScreenName:` AlphaPool511 
- 
-`User chosen Name:` AlphaPool | WMT Stake Pool #511 
+`User chosen Name:` Uncle jack 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Feb 20 14:46:00 +0000 2023 
- 
-`User Description?:` High performance WorldMobile Token (WMT) staking service | 24/7 Monitoring | Making staking easy. https://t.co/tzQOKsy4Rt 
- 
-`Followers?: `14 
- 
-`Following?:` 21 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 104 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627973412911038464/wBoEO2ND_normal.jpg 
- 
-`Number of tweets excluding replies:` 104 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STAKING** 69 , **CRYPTO** 36 , **STAKE** 13 , **WORLDMOBILE** 13 , **REWARDS** 11 , **SECURITY** 11 , **@WMTOKEN:** 11 , **STAKING?** 10 , **CRYPTOCURRENCY** 9 , **NETWORK** 9 , **STAKED** 8 , **SOME** 8 , **RISKS** 7 , **EARN** 7 , **COINS** 7 , **ASSETS** 7 , **$WMT** 7 , **@WORLDMOBILETEAM:** 7 , **YES** 6 , **CRYPTO?** 6 , 
- 
-## What this user tweeted
- 
-4. 
-
-Regularly update your software and security measures: Make sure you keep your software and security measures u… https://t.co/dutwIAqz5u
- 
-# Astra_X_USER INFO
-![image](http://pbs.twimg.com/profile_images/1628499558853640192/B-a0KJ3u_normal.jpg)
- 
-`User ScreenName:` Astra_X_ 
- 
-`User chosen Name:` AstraX 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 22 20:53:52 +0000 2023 
- 
-`User Description?:` Just a binary that can't be exploited. 
- 
-`Followers?: `0 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628499558853640192/B-a0KJ3u_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COMPLETED** 3 , **WEB** 3 , **SECURITY** 3 , **ACADEMY** 3 , **LAB:** 3 , **USERNAME** 3 , **ENUMERATION** 3 , **VIA** 3 , **@WEBSECACADEMY** 3 , **DIFFERENT** 2 , **RESPONSES** 2 , **RESPONSE** 1 , **TIMING** 1 , **HTTPS://TCO/MBIZ3DZNRSI** 1 , **SUBTLY** 1 , **HTTPS://TCO/5XGA0YWO0KI** 1 , **HTTPS://TCO/YEL6VJEE1QWHY** 1 , **COLLEGES** 1 , **DOES** 1 , **FIX** 1 , 
- 
-## What this user tweeted
- 
-Why Colleges does not fix the vulnerabilities which can lead to a very critical reputation and data loss.
- 
-# Andrsmbli1USER INFO
-![image](http://pbs.twimg.com/profile_images/1626735893989019648/B8sDb8SM_normal.jpg)
- 
-`User ScreenName:` Andrsmbli1 
- 
-`User chosen Name:` András Ömböli 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 18 00:10:23 +0000 2023 
+`User signup date?:` Thu Feb 16 20:32:06 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `27 
  
-`Following?:` 4 
+`Following?:` 290 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 54 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1626735893989019648/B8sDb8SM_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1627855239507312640/GWfIclBe_normal.jpg 
  
-`Number of tweets excluding replies:` 55 
+`Number of tweets excluding replies:` 286 
  
 
  
@@ -474,42 +149,40 @@ Why Colleges does not fix the vulnerabilities which can lead to a very critical 
  
 ## User Top tweeted words 
  
-**0X0** 20 , **PRIVACY** 15 , **$OXO** 14 , **AMA** 14 , **@0X0AUDITS** 13 , **@NFALABS** 12 , **@DYDX** 12 , **@DAVEWELLZZ:** 10 , **AI** 10 , **@IGOTGAS4SALE:** 8 , **AUDITOR** 8 , **@CRYPTOALTSTARS3:** 8 , **COMING** 8 , **FREE** 7 , **MIXER** 7 , **LIVE** 7 , **@UNDER__RADAR** 7 , **DEX** 6 , **MAINNET** 6 , **USE** 6 , 
+**US** 13 , **UKRAINE** 9 , **PEOPLE** 9 , **SOLDIERS** 9 , **WAR** 9 , **LOL** 9 , **BETTER** 9 , **AIR** 8 , **@NAVALINSTITUTE:** 7 , **NEED** 7 , **LAST** 7 , **SUPPORT** 6 , **AFTER** 6 , **NEW** 6 , **DAY** 6 , **WEEK** 6 , **DURING** 5 , **@WASHINGTONPOST:** 5 , **FORCE** 5 , **BIDEN** 5 , 
  
 ## What this user tweeted
  
-RT @Under__Radar: 🧠𝟎𝐗𝟎 𝐀𝐈🧠#0x0  
+RT @RepMTG: $113 Billion has been appropriated to Ukraine in just 1 yr.
 
-🗓️Join us today at 3 pm EST as we sit down with the @0x0Audits!
-
-🔥We'll be discussing their ingenious AI-…
+Trump’s wall would have only cost $22 billion, but Congress refuse…
  
-# cynoscreenUSER INFO
-![image](http://pbs.twimg.com/profile_images/1625849357416411137/qTUBYP6X_normal.jpg)
+# PayMeInBitcoin3USER INFO
+![image](http://pbs.twimg.com/profile_images/1626822962593538048/IVBLt7sX_normal.jpg)
  
-`User ScreenName:` cynoscreen 
+`User ScreenName:` PayMeInBitcoin3 
  
-`User chosen Name:` Cynoscreen 
+`User chosen Name:` Ricky Racks 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 15 11:44:54 +0000 2023 
+`User signup date?:` Sat Feb 18 05:44:28 +0000 2023 
  
-`User Description?:` the only commercial provider of canine Covid detection - 99.68% convergence with PCR - a truly groundbreaking cynosiatric service 
+`User Description?:`  
  
-`Followers?: `5 
+`Followers?: `3 
  
-`Following?:` 25 
+`Following?:` 103 
  
-`User URL?:` https://t.co/w15gV77mUW 
+`User URL?:` None 
  
-`Location:` United Kingdom 
+`Location:`  
  
-`Number of tweets extracted`  : 29 
+`Number of tweets extracted`  : 32 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1625849357416411137/qTUBYP6X_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1626822962593538048/IVBLt7sX_normal.jpg 
  
-`Number of tweets excluding replies:` 29 
+`Number of tweets excluding replies:` 32 
  
 
  
@@ -517,11 +190,260 @@ RT @Under__Radar: 🧠𝟎𝐗𝟎 𝐀𝐈🧠#0x0
  
 ## User Top tweeted words 
  
-**COVIDISNTOVER** 11 , **COVID** 6 , **COVIDISNOTOVER** 5 , **DOGS** 3 , **HEALTH** 3 , **SCREENING** 3 , **TESTING** 3 , **LONG** 2 , **RESEARCH** 2 , **CHARITY** 2 , **DETECTION** 2 , **THEN** 2 , **COVID?** 2 , **VALENTINES** 2 , **COVID-19** 2 , **SCHOOLS** 2 , **BETTER** 2 , **THAN** 2 , **REPORTED** 2 , **ACUTE** 2 , 
+**PEOPLE** 5 , **UKRAINE** 4 , **GOING** 4 , **CARE** 3 , **@JACKPOSOBIEC:** 3 , **@MATTWALSHBLOG** 3 , **FIND** 2 , **MANY** 2 , **TAUGHT** 2 , **TURN** 2 , **@REPMTG:** 2 , **BILLION** 2 , **@GGREENWALD:** 2 , **LOOK** 2 , **MOST** 2 , **@BADLIN** 2 , **@MTAIBBI** 2 , **LOSER** 2 , **INSTEAD** 2 , **HERE** 2 , 
  
 ## What this user tweeted
  
-200 million Americans with vulnerabilities !   #CovidIsntOver https://t.co/s9KwKJsLLH
+RT @RepMTG: $113 Billion has been appropriated to Ukraine in just 1 yr.
+
+Trump’s wall would have only cost $22 billion, but Congress refuse…
+ 
+# Ham_TarotReaderUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626246666708987905/y0igvIKH_normal.jpg)
+ 
+`User ScreenName:` Ham_TarotReader 
+ 
+`User chosen Name:` Ham Tarot Reader 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 16 15:26:29 +0000 2023 
+ 
+`User Description?:` 𝐌𝐄𝐍𝐆𝐔𝐑𝐀𝐍𝐆𝐈 𝐑𝐄𝐒𝐈𝐊𝐎 𝐑𝐔𝐆𝐈 𝐃𝐀𝐋𝐀𝐌 𝐁𝐈𝐒𝐍𝐈𝐒 𝐌𝐀𝐔𝐏𝐔𝐍 𝐒𝐎𝐀𝐋 𝐏𝐄𝐑𝐀𝐒𝐀𝐀𝐍 𝐀𝐃𝐀𝐋𝐀𝐇 𝐊𝐄𝐀𝐇𝐋𝐈𝐀𝐍 𝐊𝐀𝐌𝐈 
+ 
+`Followers?: `593 
+ 
+`Following?:` 39 
+ 
+`User URL?:` https://t.co/RE4m4il51x 
+ 
+`Location:` Yogjakarta 
+ 
+`Number of tweets extracted`  : 70 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626246666708987905/y0igvIKH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 70 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COACH** 54 , **SILAHKAN** 40 , **KONSULTASI** 40 , **:** 40 , **DI** 39 , **JAKARTA** 32 , **TOUR** 32 , **2023** 32 , **4** 32 , **DAYS** 32 , **WHATSAPP** 31 , **HTTPS://TCO/XJ3CA4IPUE** 28 , **RECORDS** 27 , **BUSINESS** 26 , **-LIFE** 25 , **-AKASHIC** 25 , **-NUMEROLOGI** 25 , **-PROFESSIONAL** 25 , **ADVISOR** 25 , **WH…** 21 , 
+ 
+## What this user tweeted
+ 
+BUSINESS STRATEGY CONSULTATION
+
+Tarot Based Consultation, Akashic Records and Numerology
+
+🌍 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 :… https://t.co/msGs0cQpM8
+ 
+# WarfightgoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628901690719064064/no4lLIE7_normal.png)
+ 
+`User ScreenName:` Warfightgo 
+ 
+`User chosen Name:` Terzaguerramondiale Terza guerra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 23 23:36:40 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1628901690719064064/no4lLIE7_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WORLD** 2 , **WAR** 2 , **PUTINSWAR** 2 , **UKRAINE** 2 , **COME** 2 , **I'M** 1 , **FAVOR** 1 , **III** 1 , **WARCRIMES** 1 , **MUSK** 1 , **RUSSIAINVADEDUKRAINENATOISLOSINGTHEWAR** 1 , **GIVING** 1 , **TROOPS** 1 , **TIME** 1 , **3** 1 , **3WAR** 1 , **WORLDWAR3** 1 , 
+ 
+## What this user tweeted
+ 
+I'm in favor of World War III #PutinsWar #WarCrimes #Musk #Ukraine #RussiaInvadedUkraine#NATOisLosingTheWar  is giving troops to ukraine so it is time for world war 3 come on come on #3war #WorldWar3 #PutinsWar
+ 
+# PaveyLandonUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628244715853299712/DZI3fFLk_normal.png)
+ 
+`User ScreenName:` PaveyLandon 
+ 
+`User chosen Name:` Landon Pavey 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 22 04:06:05 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `24 
+ 
+`Following?:` 80 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1628244715853299712/DZI3fFLk_normal.png 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOING** 5 , **TRUMP** 4 , **BORDER** 3 , **EAST** 3 , **PALESTINE** 3 , **UNDER** 2 , **CROSSINGS** 2 , **BIDEN** 2 , **@BENNYJOHNSON:** 2 , **PRESIDENT** 2 , **OHIO** 2 , **SUCH** 2 , **MATT** 2 , **DAMON** 2 , **@NEWSMAX:** 2 , **CARE** 2 , **RT** 1 , **@REPKEVINHERN:** 1 , **PLUMMETED** 1 , **DOWN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @laurenboebert: Janet Yellen just announced another $10 billion in aid to Ukraine!
+
+Biden’s blank check strategy is not sustainable, esp…
+ 
+# patriciaenargeeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628584077396770819/djjckqCL_normal.jpg)
+ 
+`User ScreenName:` patriciaenargee 
+ 
+`User chosen Name:` Patriciaenargen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 23 02:06:50 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 71 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 79 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1628584077396770819/djjckqCL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 79 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LA** 30 , **DE** 29 , **Y** 20 , **QUE** 17 , **ES** 12 , **EL** 11 , **@LIBRANOSDMAL:** 11 , **LAS** 10 , **EN** 9 , **POR** 9 , **DEL** 8 , **UNA** 8 , **LOS** 6 , **SON** 5 , **TE** 4 , **AL** 4 , **TRUMP** 4 , **UN** 4 , **PARA** 4 , **OHIO** 3 , 
+ 
+## What this user tweeted
+ 
+RT @RepMTG: $113 Billion has been appropriated to Ukraine in just 1 yr.
+
+Trump’s wall would have only cost $22 billion, but Congress refuse…
+ 
+# truthradar87USER INFO
+![image](http://pbs.twimg.com/profile_images/1626766256727797761/x-7en7zz_normal.png)
+ 
+`User ScreenName:` truthradar87 
+ 
+`User chosen Name:` truth seeker 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 18 02:11:13 +0000 2023 
+ 
+`User Description?:` hello, be brave, be truthful 
+ 
+`Followers?: `0 
+ 
+`Following?:` 57 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626766256727797761/x-7en7zz_normal.png 
+ 
+`Number of tweets excluding replies:` 37 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 5 , **OHIO** 4 , **BIDEN** 4 , **SAVE** 4 , **WHITES** 3 , **@CATTURD2:** 3 , **PROJECT** 3 , **HIGH** 2 , **AGAINST** 2 , **@REPMTG:** 2 , **BILLION** 2 , **1** 2 , **WHITE** 2 , **PEOPLE** 2 , **BLACKS** 2 , **JEWISH** 2 , **EAST** 2 , **PALESTINE** 2 , **PETE** 2 , **BUTTIGIEG** 2 , 
+ 
+## What this user tweeted
+ 
+RT @RepMTG: $113 Billion has been appropriated to Ukraine in just 1 yr.
+
+Trump’s wall would have only cost $22 billion, but Congress refuse…
+ 
+# RosesinThorns1USER INFO
+![image](http://pbs.twimg.com/profile_images/1628398208576528385/7mEAd7Xq_normal.jpg)
+ 
+`User ScreenName:` RosesinThorns1 
+ 
+`User chosen Name:` HeyMulligan🍀 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 22 14:10:46 +0000 2023 
+ 
+`User Description?:` I'm back from Twitter detox.
+Just my thoughts... 
+ 
+`Followers?: `4 
+ 
+`Following?:` 28 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1628398208576528385/7mEAd7Xq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 16 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BILLION** 3 , **@REPMTG:** 2 , **UKRAINE** 2 , **BIDEN’S** 2 , **@ATENSNUT:** 2 , **WARMONGER** 2 , **EAST** 2 , **PALESTINE** 2 , **AMERICAN** 2 , **COUNTRIES** 2 , **DEMOCRATIC** 2 , **@DC_DRAINO:** 2 , **RT** 1 , **$113** 1 , **APPROPRIATED** 1 , **1** 1 , **YR** 1 , **TRUMP’S** 1 , **WALL** 1 , **COST** 1 , 
+ 
+## What this user tweeted
+ 
+RT @RepMTG: $113 Billion has been appropriated to Ukraine in just 1 yr.
+
+Trump’s wall would have only cost $22 billion, but Congress refuse…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
