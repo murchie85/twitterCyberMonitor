@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **rhowardbrowne**  
+The most popular user is: **RepSwalwell**  
  
 
-## Leaked audio from days after the 2016 election, before Trump’s inauguration—Biden calls Poroshenko, then head of st… https://t.co/SJs2e6QuJZ 
+## Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **rhowardbrowne**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @vik8867dn: Good night to all good people.❤️🛌🌙🌌#Ukraine#StandWithUkraineExcept Muscovites.☠️🏴‍☠️☠️#StopPutin #StopRussia https://t.… |
-| RT @DrMikey13: NEW - United States readies an additional $10 billion in economic assistance for Ukraine, says Yellen https://t.co/EWlnVHh2vO |
-| RT @U24_gov_ua: Elton John @eltonofficial supports Ukraine!@ejaf will donate $125,000 via #UNITED24. These funds will purchase 10 biochem… |
+| RT @PhilippineStar: The European Commission is suspending Chinese short video-sharing app TikTok from its employees' corporate phones, EU i… |
+| Robert Half Technology is looking for a Senior Cybersecurity Engineerhttps://t.co/MIh1R4Oq08 Tarrant County, Texas… https://t.co/fNBQbZHO6R |
+| RT @Natsecjeff: European Commission bans TikTok from corporate devices https://t.co/fdK8rpMUBk |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **RepMTG** |
-| #3 Most tweeted to  | **vonderleyen** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 5.9%|
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **SecurityTrybe** |
+| #3 Most tweeted to  | **Shubham_pen** |
+| NewProfiles (less than 10 days) | 0.54%  |
+| Tweeters with < 10 followers  | 7.92%|
 | Tweeters with > 1000000 followers  | 0.16%  |
 
 
@@ -50,41 +50,231 @@ The most popular user is: **rhowardbrowne**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **RUSSIA** |
-| fourth  | **BILLION**  |
-| fifth  | **BIDEN**  |
+| first  | **INFOSEC**  |
+| second  | **PENTESTING**  |
+| third  | **HACKING** |
+| fourth  | **INFORMATIONSECURITY**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Tomorrow is the one year anniversary of the Russian invasion of Ukraine. I'm going to stop by to visit my Ukrainian… https://t.co/G9VYWi1MzY |
+|RT @CyberNews: Final Cut Pro and other pirated macOS apps on Pirate Bay are riddled with previously undetected #malware. Once infected, #Ap… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **rhowardbrowne**  |
+| The most retweeted user is: **RepSwalwell**  |
 | ------------- |
-| Leaked audio from days after the 2016 election, before Trump’s inauguration—Biden calls Poroshenko, then head of st… https://t.co/SJs2e6QuJZ |
+| Thrilled to be chosen as top Democrat (“Ranking Member”) for Cybersecurity Subcommittee.  @HomelandDems |
 
 # Potential Fake Accounts
  
-# CHENJared3USER INFO
-![image](http://pbs.twimg.com/profile_images/1628683978197856257/vY0oNaCq_normal.png)
+# _HOMEWORKHELP__USER INFO
+![image](http://pbs.twimg.com/profile_images/1625384105465479168/EjR1zNIu_normal.jpg)
  
-`User ScreenName:` CHENJared3 
+`User ScreenName:` _HOMEWORKHELP__ 
  
-`User chosen Name:` CHEN Jared 
+`User chosen Name:` STUDENT ASSIGNMENT HELP 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Feb 23 09:11:34 +0000 2023 
+`User signup date?:` Tue Feb 14 06:37:31 +0000 2023 
+ 
+`User Description?:` A Team of Experienced Writers Proficient in Online Classes||Essays||Quizzes||Projects||Reports||Math||Calculus||Thesis||Research||
+Shoot us a DM for more info 
+ 
+`Followers?: `33 
+ 
+`Following?:` 73 
+ 
+`User URL?:` https://t.co/ZlrkHalUqm 
+ 
+`Location:` New York, USA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1625384105465479168/EjR1zNIu_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1093 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@_HOMEWORKHELP__:** 98 , **PAY** 77 , **BIOLOGY** 67 , **HOMEWORK** 61 , **CHEMISTRY** 60 , **ACCOUNTING** 59 , **PHYSICS** 54 , **NEED** 51 , **US** 51 , **CALCULUS** 47 , **ONLINECLASS** 42 , **MATH** 42 , **FINANCE** 40 , **YOUR;** 38 , **MUSIC** 38 , **✓PHYSICS** 36 , **ESSAYS** 35 , **ASSISTANCE** 34 , **ESSAY** 34 , **HELP** 33 , 
+ 
+## What this user tweeted
+ 
+For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/u4EnbZtAGL
+ 
+# mr_____stephenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628660913900253185/tNqsoLm4_normal.jpg)
+ 
+`User ScreenName:` mr_____stephen 
+ 
+`User chosen Name:` mr_____stephen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 21 12:15:35 +0000 2023 
+ 
+`User Description?:` God 🎖 Pro-Hacking Service. *Private investigator* *Recovery Services* *Recovery Services* *Crypto* *Instagram* *icloud ID* *Snapchat* *Facebook* #NoFreeHack 
+ 
+`Followers?: `21 
+ 
+`Following?:` 40 
+ 
+`User URL?:` https://t.co/EAsFKfRDO6 
+ 
+`Location:` New York, USA 
+ 
+`Number of tweets extracted`  : 140 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1628660913900253185/tNqsoLm4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 140 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HACKING** 59 , **ACCOUNT** 52 , **DM** 46 , **HACKED** 39 , **RECOVER** 30 , **RECOVERY** 22 , **ANY** 21 , **HELP** 19 , **AVAILABLE** 19 , **SNAPCHAT** 16 , **NEED** 13 , **ACCOUNTS** 13 , **LOST** 12 , **HACKER** 11 , **SOCIAL** 11 , **DATASCIENCE** 11 , **HACK** 11 , **24/7** 10 , **CYBERSECURITY** 10 , **MESSAGE** 10 , 
+ 
+## What this user tweeted
+ 
+You need help with your account recovery kindly send me a Dm
+#ArtificialIntelligence #DataScience #DataScientists… https://t.co/u78MFqqNskSpy on your girlfriend or boyfriend account without him/her suspecting or noticing
+#Snapchat #facebookdown… https://t.co/h1MaBrJlOOFor hacking or any account Recovery Dm now!
+#Roblox #RobloxDown #TikTok #Discord 
+#reddit #DataScience… https://t.co/SMAGfER1DKI am trusted and Reliable for any Hacking or Account Recovery 
+#ArtificialIntelligence #Telegram #DataScience… https://t.co/Qx9REtc6w1Dm now to Spy on your Boy/Girlfriend Account 
+#100DaysOfCode #100DaysOfHacking 
+#ArtificialIntelligence… https://t.co/XYrEBYsyXBTo spy on your Girlfriend or Boyfriend account Dm now
+#ArtificialIntelligence #AI #ML #DataScience #DataScientists… https://t.co/TuQp1XRSIxDm now for Lost Coins Hacked Account or Any social media account problems 
+#ArtificialIntelligence #AI #ML… https://t.co/5g4fWcKxNDIf you need help with hacking or account recovery #Telegram  
+#DataSecurity #dataScientist #snapchatsupport #Python… https://t.co/4jl7KhBBU6If you need help with hacking or account recovery Dm now #snapchatdown #DataSecurity #DataAnalytics #Python #NFT… https://t.co/oGd7qYDOsoTo Hack or Recover your account Dm now
+#Algorithms #Wearables #health #DataScience #Python #Cloud #AI #flutter… https://t.co/ozhmsMysXsIf you need a hacker for any kind of problem contact me now #programming #BigData #MachineLearning #DataScience… https://t.co/jD8WYKNZICDm for Help now on All social media #Snapchat #Instagram #WhatsApp #Gmail #MachineLearning #SQL #DataScience… https://t.co/kqeiOl9XJLFor #Hacked #Gmail recovery Dm now #Hackedgmail #CyberSecurity #hacker #infosec  #security #cyber #tech #opensource… https://t.co/D5fNFHVP62#Info sec #CyberSecurity #Hacking #cyber #info security #arduinolove #Arduino #cyberattack #Linux #MachineLearning… https://t.co/kwF9WD2RPjSend Me A DM for all digital hacking
+#MachineLearning #DataScience #SQL
+#Cybersecurity #BigData #Analytics #Al… https://t.co/4W1Menp5lTWondering how to recover hacked accounts and also protect any account or wallet? Leave me a DM for assistance.… https://t.co/0YE2rkS1HS
+ 
+# stephen_coddes1USER INFO
+![image](http://pbs.twimg.com/profile_images/1628661372497149953/1pMM_ktU_normal.jpg)
+ 
+`User ScreenName:` stephen_coddes1 
+ 
+`User chosen Name:` stephen__coddes 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 21 14:14:57 +0000 2023 
+ 
+`User Description?:` I am a Professional Hacker and a Private Investigator💻 I offer best Hacking and Recovery services for all social media Accounts, Gmails, iCloud. #NoFreeHack 
+ 
+`Followers?: `20 
+ 
+`Following?:` 99 
+ 
+`User URL?:` https://t.co/UQnGCrCnjC 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 50 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1628661372497149953/1pMM_ktU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 50 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HACKING** 22 , **ACCOUNT** 17 , **ANY** 12 , **RECOVERY** 11 , **SOCIAL** 11 , **MEDIA** 11 , **AVAILABLE** 9 , **HACKED** 7 , **SNAPCHAT** 7 , **DM** 7 , **HACKER** 6 , **NEED** 6 , **ACCOUNTS** 6 , **MESSAGE** 6 , **US** 6 , **HACKERS** 5 , **RECOVER** 5 , **HELP** 5 , **INSTAGRAM** 5 , **HACKEDACCOUNT** 4 , 
+ 
+## What this user tweeted
+ 
+Send Me A DM for all digital hacking
+#MachineLearning #DataScience #SQL
+#Cybersecurity #BigData #Analytics #Al… https://t.co/ixRP6jeUFMWondering how to recover hacked accounts and also protect any account or wallet? Leave me a DM for assistance.… https://t.co/kaXBwZRlX2🧑‍💻i do ethical hacking for good purpose 🇺🇸
+phone hack 
+WhatsApp hack/spy 
+Facebook/Instagram spy
+Social media acco… https://t.co/IXpzrU18UeDM us if you have questions related to hacking-
+Q
+be #linux #ransomware
+#debugging #termuxhacking #metasploit… https://t.co/1Dz8gpLfITDM us if you have questions related to hacking 🇦🇸
+ Hello guys I’m available for any hacking related 
+Service and cy… https://t.co/b0Kxof6iOJ
+ 
+# mjsurburgmdUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628863162291191811/ZYpv011K_normal.png)
+ 
+`User ScreenName:` mjsurburgmd 
+ 
+`User chosen Name:` Matthew Surburg 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 23 21:03:35 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1628863162291191811/ZYpv011K_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INTERVIEW** 1 , **@DEBBYKNOX** 1 , **HEALTHCARE** 1 , **CYBERSECURITY** 1 , **THANKS** 1 , **@STEVELONG** 1 , **PUTTING** 1 , **GOOD** 1 , **WORD!** 1 , 
+ 
+## What this user tweeted
+ 
+Just had an interview with @DebbyKnox about healthcare and cybersecurity.  Thanks to @SteveLong for putting in a good word!
+ 
+# AccauntPayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628846787850018818/0rVP3WRi_normal.png)
+ 
+`User ScreenName:` AccauntPay 
+ 
+`User chosen Name:` pay accaunt 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 23 19:58:31 +0000 2023 
  
 `User Description?:`  
  
@@ -96,50 +286,11 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJ
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1628683978197856257/vY0oNaCq_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1628846787850018818/0rVP3WRi_normal.png 
  
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UKRAINIAN** 2 , **RT** 1 , **@CBSNEWS:** 1 , **@SARAHASHTONLV** 1 , **AMERICAN** 1 , **ENLISTED** 1 , **MILITARY** 1 , **AFTER** 1 , **COVERED** 1 , **WAR** 1 , **JOINS** 1 , **CBS** 1 , **NEWS** 1 , **T…RT** 1 , **@NEXTA_TV:** 1 , **340** 1 , **LITERS** 1 , **PAINT** 1 , **COLORS** 1 , **FLAG** 1 , 
- 
-## What this user tweeted
- 
-RT @CBSNews: .@SarahAshtonLV is an American who enlisted in the Ukrainian military after she covered the war. She joins CBS News from the t…
- 
-# SeymaSuskunUSER INFO
-![image](http://pbs.twimg.com/profile_images/1628120395286020096/tap_qmKs_normal.jpg)
- 
-`User ScreenName:` SeymaSuskun 
- 
-`User chosen Name:` Şeyma Suskun 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 21 19:48:12 +0000 2023 
- 
-`User Description?:` Suskunluğumu bozacağım artık... 
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:` RT 
- 
-`Number of tweets extracted`  : 33 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628120395286020096/tap_qmKs_normal.jpg 
- 
-`Number of tweets excluding replies:` 33 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -147,39 +298,38 @@ RT @CBSNews: .@SarahAshtonLV is an American who enlisted in the Ukrainian milita
  
 ## User Top tweeted words 
  
-**????** 5 , **&AMP;AMP;** 4 , **REAL** 3 , **MADRID** 3 , **LIVE** 3 , **في** 2 , **LIVERPOOL** 2 , **SCHOOL** 2 , **KONSILI** 2 , **KHÀ** 2 , **MAÇ** 2 , **•** 2 , **SLAVA-UKRAINI** 1 , **UKRAINIAN** 1 , **REFUGEE** 1 , **SINGS** 1 , **LITHUANIANS** 1 , **SUPPORT** 1 , **UKRAINE** 1 , **HTTPS://TCO/CIM8OF8MVYBRUNO-FERN-NDEZ** 1 , 
+**COMPLETED** 1 , **MODULE** 1 , **INTRODUCTION** 1 , **ACADEMY** 1 , **HTB** 1 , **ACADEMY!** 1 , **HTTPS://TCO/KMTMHXADCL** 1 , **HACKTHEBOX** 1 , **HTBACADEMY** 1 , **CYBERSECURITY** 1 , 
  
 ## What this user tweeted
  
-#slava-ukraini Ukrainian refugee sings with Lithuanians in support for Ukraine
-https://t.co/CIM8of8MVY
+I just completed module Introduction to Academy in HTB Academy! https://t.co/KmTMhXAdCl #hackthebox #htbacademy #cybersecurity
  
-# kajpblUSER INFO
-![image](http://pbs.twimg.com/profile_images/1628910405971070976/2liDWnCD_normal.jpg)
+# trustfrazeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628842878540697601/7wzSPe7b_normal.png)
  
-`User ScreenName:` kajpbl 
+`User ScreenName:` trustfraze 
  
-`User chosen Name:` K R 
+`User chosen Name:` Jonathan Frazier 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 24 00:11:18 +0000 2023 
+`User signup date?:` Thu Feb 23 19:42:59 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 84 
+`Following?:` 4 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1628910405971070976/2liDWnCD_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1628842878540697601/7wzSPe7b_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -187,77 +337,81 @@ https://t.co/CIM8of8MVY
  
 ## User Top tweeted words 
  
-**I'M** 1 , **GLAD** 1 , **WE'RE** 1 , **SAVED** 1 , **MURDERED** 1 , **HTTPS://TCO/NHRUCPOQ8HYOUR** 1 , **GREAT** 1 , **MAN** 1 , **TAKING** 1 , **STAND** 1 , **GOD** 1 , **PUT** 1 , **HEAVENLY** 1 , **ANGELS** 1 , **STATE** 1 , **AMEN** 1 , **BELIEVE** 1 , **SOMETHING** 1 , **YOU…** 1 , **HTTPS://TCO/CG8FSDFKXHSHE** 1 , 
+**RT** 1 , **@TRUSTWARE_IO:** 1 , **RECAPPING** 1 , **WEEK** 1 , **CRYPTO** 1 , **CYBERSECURITY** 1 , **WEB3** 1 , **NFTS** 1 , **HTTPS://TCO/2MGZQPTOJ3** 1 , 
  
 ## What this user tweeted
  
-RT @DailyCaller: REPORTER: "The Mayor of East Palestine said that it was a slap in the face that the President had gone to Ukraine before..…
+RT @Trustware_io: Recapping this week in #crypto #cybersecurity #Web3 and #NFTs
+
+https://t.co/2mgzQPToJ3
  
-# TJMcallister73USER INFO
-![image](http://pbs.twimg.com/profile_images/1626306248684584960/xSp8ldWq_normal.jpg)
+# cyprox_ioUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626626487557275650/iUGy_c62_normal.png)
  
-`User ScreenName:` TJMcallister73 
+`User ScreenName:` cyprox_io 
  
-`User chosen Name:` TJ Mcallister 
+`User chosen Name:` Cyprox 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Feb 16 19:39:42 +0000 2023 
+`User signup date?:` Fri Feb 17 16:13:32 +0000 2023 
+ 
+`User Description?:` Cyprox is a SaaS platform that provides API security. It monitors the security of your API endpoints for you and warns you against attacks. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 3 
+ 
+`User URL?:` https://t.co/SCUmOmsJAu 
+ 
+`Location:` VA, USA 
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1626626487557275650/iUGy_c62_normal.png 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**API** 7 , **SECURITY** 4 , **APIS** 3 , **TOP** 3 , **DATA** 2 , **COMPANIES** 2 , **PROTECT** 2 , **5** 2 , **2022** 2 , **THREATS** 1 , **RESULT** 1 , **THEFT** 1 , **SENSITIVE** 1 , **FINANCIAL** 1 , **LOSSES** 1 , **REPUTATIONAL** 1 , **DAMAGE** 1 , **G…** 1 , **HTTPS://TCO/TBTVHIF5S0GDPR** 1 , **PCI** 1 , 
+ 
+## What this user tweeted
+ 
+APIs threats can result in the theft of sensitive data, financial losses, and reputational damage for companies.
+
+G… https://t.co/TBTVhif5s0
+ 
+# maayanbirnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1626580223612551171/Xtg-pwoJ_normal.jpg)
+ 
+`User ScreenName:` maayanbirn 
+ 
+`User chosen Name:` Maayan Birnboim 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 17 13:52:00 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `40 
+`Followers?: `6 
  
-`Following?:` 257 
+`Following?:` 149 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 114 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1626306248684584960/xSp8ldWq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1626580223612551171/Xtg-pwoJ_normal.jpg 
  
-`Number of tweets excluding replies:` 114 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 11 , **@UNHEALTHYTRUTH:** 9 , **@HODGETWINS:** 7 , **COVID** 7 , **BIDEN** 6 , **@CATTURD2:** 6 , **GOING** 5 , **EAST** 5 , **DOWN** 5 , **AFTER** 5 , **THESE** 4 , **KILLED** 4 , **PALESTINE** 4 , **BLACK** 4 , **@DRELIDAVID:** 4 , **RUSSIA** 4 , **YEARS** 4 , **TALKING** 4 , **GOVERNMENT** 4 , **@OLILONDONTV:** 4 , 
- 
-## What this user tweeted
- 
-RT @charliekirk11: BREAKING: Treasury Secretary Janet Yellen announces that the United States will send an additional $10 billion in econom…
- 
-# dean_cordaniUSER INFO
-![image](http://pbs.twimg.com/profile_images/1628887537921015811/DajzwoP__normal.jpg)
- 
-`User ScreenName:` dean_cordani 
- 
-`User chosen Name:` Dean Cordani 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 18 02:15:19 +0000 2023 
- 
-`User Description?:` Military History 
- 
-`Followers?: `46 
- 
-`Following?:` 646 
- 
-`User URL?:` None 
- 
-`Location:` Massachusetts, USA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628887537921015811/DajzwoP__normal.jpg 
- 
-`Number of tweets excluding replies:` 1818 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -265,95 +419,11 @@ RT @charliekirk11: BREAKING: Treasury Secretary Janet Yellen announces that the 
  
 ## User Top tweeted words 
  
-**@ELONMUSK** 12 , **@FARZYNESS** 11 , **MUFC** 9 , **SOME** 8 , **BARCELONA** 7 , **STOP** 7 , **@MASSSTATEPOLICE:** 7 , **LAST** 6 , **TIME** 6 , **I’M** 6 , **MAN** 6 , **MANCHESTER** 5 , **UNITED** 5 , **UNDER** 5 , **@ROBEVANS_ART:** 5 , **MUCH** 5 , **NEXT** 5 , **@MANUTDMEN:** 5 , **DE** 5 , **@50CENT:** 5 , 
+**@SYGNIA_LABS:** 3 , **TOOLS** 2 , **RT** 1 , **JOIN** 1 , **EXPERTS** 1 , **THROUGH** 1 , **INDUSTRIAL-GRADE** 1 , **RANSOMWARE** 1 , **ATTACK** 1 , **SHARE** 1 , **INSIGHTS** 1 , **ENHANCING** 1 , **CYBE…RT** 1 , **CALLING** 1 , **DROPS** 1 , **USERS!** 1 , **EVEN** 1 , **FINGERTIPS?** 1 , **CONTRIBUTE** 1 , **ADD** 1 , 
  
 ## What this user tweeted
  
-RT @Quicktake: The people of Ukraine are digging into their own pockets to supply soldiers with everything from boots to battle tanks.
-
-@Ma…
- 
-# RalphBrissette1USER INFO
-![image](http://pbs.twimg.com/profile_images/1627308564925624321/XV0EjXEX_normal.jpg)
- 
-`User ScreenName:` RalphBrissette1 
- 
-`User chosen Name:` Ralph Brissette 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 19 14:05:46 +0000 2023 
- 
-`User Description?:` Retired gay Maine native enjoying and sharing my pencil sketches with all of you 
- 
-`Followers?: `64 
- 
-`Following?:` 140 
- 
-`User URL?:` None 
- 
-`Location:` West Gardiner, Maine 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627308564925624321/XV0EjXEX_normal.jpg 
- 
-`Number of tweets excluding replies:` 328 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 33 , **PEOPLE** 13 , **OHIO** 12 , **DONALD** 12 , **UKRAINE** 11 , **BIDEN** 10 , **@MAYOISSPICYY:** 10 , **WATER** 9 , **REPUBLICANS** 9 , **MAKE** 9 , **DAY** 9 , **MARJORIE** 9 , **GIVE** 8 , **EAST** 8 , **PALESTINE** 8 , **GOING** 8 , **GOOD** 8 , **TAYLOR** 8 , **REPUBLICAN** 8 , **@MMPADELLAN:** 7 , 
- 
-## What this user tweeted
- 
-RT @POTUS: When Russia attacked Ukraine, America and our Allies stood strong.
- 
-For sovereignty. For democracy. For freedom.
- 
-I visited Ky…
- 
-# JonInNashUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626381116335616000/aPU9b2E6_normal.jpg)
- 
-`User ScreenName:` JonInNash 
- 
-`User chosen Name:` Jon G 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 15 09:30:03 +0000 2023 
- 
-`User Description?:` starting over 
- 
-`Followers?: `25 
- 
-`Following?:` 220 
- 
-`User URL?:` None 
- 
-`Location:` Nashville, TN 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626381116335616000/aPU9b2E6_normal.jpg 
- 
-`Number of tweets excluding replies:` 569 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@JIMMY_DORE** 22 , **AMERICA** 20 , **@DAVEDUFOUR** 18 , **REAL** 12 , **ISRAELI** 12 , **PM** 12 , **BENNETT** 12 , **RUSSIA/UKRAINE** 12 , **PEACE** 12 , **CONDUCTED** 11 , **@EDWARD_TANGUAY** 11 , **@EVAVLAAR** 11 , **US** 10 , **NEGOTIATIONS** 10 , **BOTH** 9 , **WAR** 9 , **GOVERNMENTS** 7 , **FORMER** 7 , **@THETHE1776** 7 , **SURE** 7 , 
- 
-## What this user tweeted
- 
-@UnderSecStateP 3/2022 former Israeli PM Bennett conducted Russia/Ukraine peace negotiations. Both were openly nego… https://t.co/3TVl9WSqY9@UnderSecStateP Israeli PM Bennett conducted Russia/Ukraine peace negotiations. Both were cooperating &amp; softening t… https://t.co/kdKqEMPbVD
+RT @sygnia_labs: Join our experts as they take you through an industrial-grade ransomware attack and share their insights on enhancing cybe…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
