@@ -1,20 +1,25 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **SecurityTrybe**  
+The most popular user is: **antony00**  
  
 
-## Cybersecurity Certifications to get in 2023 (For FREE) 
+## What a Night!
+What a Club!
+What a Stadium!
+
+🔥🔥🔥🔥🔥🔥🔥
+@ManUtd https://t.co/tZ826wD0z7 
 
   
 
@@ -23,25 +28,25 @@ The most popular user is: **SecurityTrybe**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Cyberknow20: The #Ukraine student cyber army and FRC24 are launching a joint ddos operation against 45 #Russian networks#cybersecurit… |
-| The European Commission has banned TikTok from employees' phones, including personal phones with the EU app install… https://t.co/93PHV1R632 |
-| RT @Shubham_pen: OSI Layers and Attacks#cybersecurity #pentesting #informationsecurity #hacking #DataSecurity #CyberSec #Hackers #tools #… |
+| RT @AtomSpam: Detected #phishing clone at address: hxxps://blocca-pagamento[.]000webhostapp[.]com/#bper #BPERBanca #infosec #cybersecurit… |
+| RT @phoebe_hacker: Git Commands Cheat Sheet#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #CyberSec… |
+| RT @fr0gger_: Earlier this week I had the opportunity to do the keynote at the Malware and Reverse Engineering Conference @FedUni_ICSL. My… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecurityTrybe** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **Shubham_pen** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 5.62%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **TechNative** |
+| #3 Most tweeted to  | **reach2ratan** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 4.8%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,27 +56,27 @@ The most popular user is: **SecurityTrybe**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **HACKING**  |
-| third  | **AI** |
-| fourth  | **PENTESTING**  |
-| fifth  | **US**  |
+| second  | **CYBERSECURITYTIPS**  |
+| third  | **PENTESTING** |
+| fourth  | **@HACKINARTICLES:**  |
+| fifth  | **REDTEAM**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (30.0%) & **NEGATIVELY-SUBJECTIVE** (10.0%) **OBJECTIVE** (60.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|As an occupational hazard, #cybersecurity professionals can be highly prone to operational stress &amp; fatigue, as the… https://t.co/9xA2FtxOwE |
+|RT @payloadartist: If you are tired of googling for #BugBounty writeups, I made a little tool that lets you search writeups easily. You can… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SecurityTrybe**  |
+| The most retweeted user is: **antony00**  |
 | ------------- |
-| Cybersecurity Certifications to get in 2023 (For FREE) |
+| What a Night!What a Club!What a Stadium!🔥🔥🔥🔥🔥🔥🔥@ManUtd https://t.co/tZ826wD0z7 |
 
 # Potential Fake Accounts
  
@@ -112,29 +117,15 @@ VIEWS WERE : **SUBJECTIVE**  (30.0%) & **NEGATIVELY-SUBJECTIVE** (10.0%) **OBJEC
  
 ## What this user tweeted
  
-C++ mostly used in
-Rn
-#ArtificialIntelligence #Al #ML
-#DataScience #DataScientists
-#CodeNewbies #Tech #deeplearning… https://t.co/WpZjQtPosNstrange ways emproyees can (accidently) expose data  
+strange ways emproyees can (accidently) expose data  
 #DataSecurity #Privacy
-#100DaysOfCode #CloudSecurity… https://t.co/bwNuaF2AH4Send Me A DM for all digital hacking
-#MachineLearning #DataScience #SQL
-#Cybersecurity #BigData #Analytics #Al… https://t.co/PY3qSDPbJvIf you need a hacker for any kind of problem contact me now #programming #BigData #MachineLearning #DataScience… https://t.co/BsnRx7dqXASpy on your girlfriend or boyfriend account without him/her suspecting or noticing
-#Snapchat #facebookdown… https://t.co/YSjNNOp0BqDM us if you have questions related to hacking 🇦🇸
- Hello guys I’m available for any hacking related 
-Service and cy… https://t.co/YR2zjih9YXDM us if you have questions related to hacking
-• Hello guys I'm available for any hacking
-related
-Service and cyber… https://t.co/HF42AGoAi9Instagram hacked? Message me now for retrieval.
-#hack #recovery #TrendingNow #Hackingtime #instagram #twitter… https://t.co/NqdrdwKMDKDM us if you have questions related to hacking 🇦🇸
-🔥☠️🔥💯✔ Hello guys I’m available for any hacking related 
-Service… https://t.co/P94xzzCUBCDM us if you have questions related to hacking-
-Q
-be #linux #ransomware
-#debugging #termuxhacking #metasploit… https://t.co/BYVnheBILwDM us if you have questions related to hacking 🇦🇸
-🔥☠️🔥💯✔️ Hello guys I’m available for any hacking related 
-Service… https://t.co/SIKgEsKGNJ
+#100DaysOfCode #CloudSecurity… https://t.co/bwNuaF2AH4strange ways emproyees can (accidently) expose data  
+#DataSecurity #Privacy
+#100DaysOfCode #CloudSecurity… https://t.co/DTobmw8PFZWondering how to recover hacked accounts and also protect any account or wallet? Leave me a DM for assistance.… https://t.co/hvJI2QToosstrange ways employees can (accidently) expose data
+
+📌
+
+#DataSecurity #Privacy #100DaysOfCode #CloudSecurity… https://t.co/tkcocXg7D5Were you hacked or scammed all you need is an ethical hacker. HMU now!#ethicalhacking #hack #kalilinux #linux… https://t.co/E30NXjTNUl
  
 # PPremiacoesUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1629255250992418818/B1E2Ps4O_normal.png)
@@ -212,68 +203,18 @@ Telegram Sender Pro v8.7.4.0 Full Activated – Telegram Marketing – Discount 
  
 ## What this user tweeted
  
-C++ mostly used in
-Rn
-#ArtificialIntelligence #Al #ML
-#DataScience #DataScientists
-#CodeNewbies #Tech #deeplearning… https://t.co/9ruNp9MV5hstrange ways emproyees can (accidently) expose data  
+strange ways emproyees can (accidently) expose data  
 #DataSecurity #Privacy
-#100DaysOfCode #CloudSecurity… https://t.co/APNrs6foCbSend Me A DM for all digital hacking
-#MachineLearning #DataScience #SQL
-#Cybersecurity #BigData #Analytics #Al… https://t.co/QhHWy9TNejIf you need a hacker for any kind of problem contact me now #programming #BigData #MachineLearning #DataScience… https://t.co/4aIUA2BfDqSpy on your girlfriend or boyfriend account without him/her suspecting or noticing
-#Snapchat #facebookdown… https://t.co/BZpBAVOg89DM us if you have questions related to hacking 🇦🇸
- Hello guys I’m available for any hacking related 
-Service and cy… https://t.co/KqQ77No8fnDM us if you have questions related to hacking
-• Hello guys I'm available for any hacking
-related
-Service and cyber… https://t.co/WspNWqQAUGInstagram hacked? Message me now for retrieval.
-#hack #recovery #TrendingNow #Hackingtime #instagram #twitter… https://t.co/JtqBRzhj4rDM us if you have questions related to hacking 🇦🇸
- Hello guys I’m available for any hacking related 
-Service and cy… https://t.co/oFHegK7n77DM us if you have questions related to hacking-
-Q
-be #linux #ransomware
-#debugging #termuxhacking #metasploit… https://t.co/U18RXXxRiqDM us if you have questions related to hacking 🇦🇸
-🔥Hello guys I’m available for any hacking related 
-Service and cy… https://t.co/c2nZCsLUpN
- 
-# nachorod123USER INFO
-![image](http://pbs.twimg.com/profile_images/1626699194294579200/KKcUDdYx_normal.jpg)
- 
-`User ScreenName:` nachorod123 
- 
-`User chosen Name:` Angel Ignacio Rodriguez Sanchez 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 17 21:44:44 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `10 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626699194294579200/KKcUDdYx_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
+#100DaysOfCode #CloudSecurity… https://t.co/APNrs6foCbstrange ways emproyees can (accidently) expose data  
+#DataSecurity #Privacy
+#100DaysOfCode #CloudSecurity… https://t.co/jbfiyJUNooWondering how to recover hacked accounts and also protect any account or wallet? Leave me a DM for assistance.… https://t.co/XEWWNFBxJOstrange ways employees can (accidently) expose data
 
- 
+📌
 
- 
-## User Top tweeted words 
- 
-**AI-POWERED** 2 , **RT** 1 , **@YARONSAMID:** 1 , **@SAMA** 1 , **@ELONMUSK** 1 , **CYBERSECURITY** 1 , **COMPANY** 1 , **FIGHTS** 1 , **CYBER** 1 , **THREATS** 1 , **BECOME** 1 , **$100B+** 1 , **BUSINESS** 1 , **T…@TONY_LANTES** 1 , **INTERESANTE** 1 , 
- 
-## What this user tweeted
- 
-RT @yaronsamid: @sama @elonmusk An AI-powered cybersecurity company that fights AI-powered cyber threats will become a $100B+ business in t…
+#DataSecurity #Privacy #100DaysOfCode #CloudSecurity… https://t.co/1CoYdIEPlnWere you hacked or scammed all you need is an ethical hacker. HMU now!#ethicalhacking #hack #kalilinux #linux… https://t.co/PNTF3gT9fn8 strange ways employees can (accidently) expose data
+
+#DataSecurity #Privacy
+#100DaysOfCode #CloudSecurity… https://t.co/VQfREfzBpV
  
 # metasupportaidUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1628797982714757121/xlMHTNyZ_normal.jpg)
@@ -288,7 +229,7 @@ RT @yaronsamid: @sama @elonmusk An AI-powered cybersecurity company that fights 
  
 `User Description?:` Account Recovery, Account Reactivation, Cybersecurity, Account SSL Setup, Access Granting to Suspended, Blocked, Disabled, Locked Accounts. tweets by staff 
  
-`Followers?: `184 
+`Followers?: `183 
  
 `Following?:` 3 
  
@@ -313,87 +254,8 @@ RT @yaronsamid: @sama @elonmusk An AI-powered cybersecurity company that fights 
 ## What this user tweeted
  
 Account Recovery protocol
-#HackedAccount #hackedinstagram #RecoveryPhrase #hackedemail Password Cracking: Creating… https://t.co/kGvjEF1jw2
- 
-# cyprox_ioUSER INFO
-![image](http://pbs.twimg.com/profile_images/1626626487557275650/iUGy_c62_normal.png)
- 
-`User ScreenName:` cyprox_io 
- 
-`User chosen Name:` Cyprox 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 17 16:13:32 +0000 2023 
- 
-`User Description?:` Cyprox is a SaaS platform that provides API security. It monitors the security of your API endpoints for you and warns you against attacks. 
- 
-`Followers?: `2 
- 
-`Following?:` 3 
- 
-`User URL?:` https://t.co/SCUmOmsJAu 
- 
-`Location:` VA, USA 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1626626487557275650/iUGy_c62_normal.png 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**API** 8 , **SECURITY** 5 , **TOP** 3 , **RESULT** 2 , **FINANCIAL** 2 , **DAMAGE** 2 , **DATA** 2 , **COMPANIES** 2 , **PROTECT** 2 , **5** 2 , **2022** 2 , **APIS** 2 , **LEGAL** 1 , **PENALTIES** 1 , **WELL** 1 , **COMPANY'S** 1 , **REPUTATION** 1 , **CUSTOMER…** 1 , **HTTPS://TCO/QPX8X0DXNVAPIS** 1 , **THREATS** 1 , 
- 
-## What this user tweeted
- 
-API security can result in legal and financial penalties, as well as damage to a company's reputation and customer… https://t.co/qpX8X0DxNv
- 
-# NexGenIQUSER INFO
-![image](http://pbs.twimg.com/profile_images/1627969866039758848/p3sxLx-i_normal.jpg)
- 
-`User ScreenName:` NexGenIQ 
- 
-`User chosen Name:` Nex Gen IQ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 21 09:42:57 +0000 2023 
- 
-`User Description?:` Your daily dose of tech news and insights. Stay up-to-date on the latest trends , innovations, and breakthroughs in the tech industry. 🛰️👨‍💻 
- 
-`Followers?: `9 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:` Nigeria 
- 
-`Number of tweets extracted`  : 118 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627969866039758848/p3sxLx-i_normal.jpg 
- 
-`Number of tweets excluding replies:` 118 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CHIDI__SOLOMON:** 39 , **NEW** 14 , **@NEXGENIQ:** 12 , **TECHNOLOGY** 11 , **TIME** 10 , **INVESTING** 9 , **MAKE** 9 , **TECH** 8 , **WAY** 8 , **FINANCIAL** 8 , **HELP** 7 , **STAY** 7 , **MONEY** 7 , **LANGUAGE** 7 , **START** 7 , **IMPORTANT** 6 , **BUSINESSES** 6 , **INNOVATION** 6 , **NEVER** 6 , **BUILDING** 6 , 
- 
-## What this user tweeted
- 
-RT @NexGenIQ: Cybersecurity is more important than ever, as businesses face growing threats from hackers and other malicious actors. 
-
-How…Cybersecurity is more important than ever, as businesses face growing threats from hackers and other malicious acto… https://t.co/Ho0xrrpj9a
+#HackedAccount #hackedinstagram #RecoveryPhrase #hackedemail Password Cracking: Creating… https://t.co/kGvjEF1jw2Account Recovery protocol
+#HackedAccount #hackedinstagram #RecoveryPhrase #hackedemail Password Cracking: Creating… https://t.co/gh008aWVIkLost Account access granting: Creating a Custom Wordlist with crunch #paswords #passwordcracking #infosec #crunch… https://t.co/GlSnX2TLto
  
 # DarkSafe007USER INFO
 ![image](http://pbs.twimg.com/profile_images/1629085657539964928/VOtzuUE4_normal.jpg)
@@ -434,71 +296,32 @@ How…Cybersecurity is more important than ever, as businesses face growing thre
  
 Protecting your online presence is crucial in today's digital age. Join the #CyberSecurity movement and learn how t… https://t.co/ldFCSYkNDW
  
-# AdamHerweckUSER INFO
-![image](http://pbs.twimg.com/profile_images/1628834365966004224/vZ_QJoch_normal.jpg)
+# wualtelyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627802325891878914/6pWkNrGw_normal.png)
  
-`User ScreenName:` AdamHerweck 
+`User ScreenName:` wualtely 
  
-`User chosen Name:` Adam Herweck 
+`User chosen Name:` Wualtely Gonzalez 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Feb 23 19:05:06 +0000 2023 
+`User signup date?:` Mon Feb 20 22:48:12 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `24 
  
-`Following?:` 3 
+`Following?:` 202 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1628834365966004224/vZ_QJoch_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1627802325891878914/6pWkNrGw_normal.png 
  
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PAYCHEX** 2 , **CYBERSECURITY** 1 , **NEW** 1 , **TAX** 1 , **LAWS** 1 , **HEALTHCARE** 1 , **REFORM** 1 , **SOME** 1 , **TOP** 1 , **ISSUES** 1 , **COMPLIANCE** 1 , **PROFESSIONALS** 1 , **HAVE…** 1 , **HTTPS://TCO/DT6LIOBH80OUR** 1 , **AWARD-WINNING** 1 , **PRE-CHECK** 1 , **POWERFUL** 1 , **COMBINATION** 1 , **PAYROLL** 1 , **TIME** 1 , 
- 
-## What this user tweeted
- 
-Cybersecurity, new tax laws, and healthcare reform are some of the top issues Paychex compliance professionals have… https://t.co/Dt6liObh80
- 
-# career_EMTUSER INFO
-![image](http://pbs.twimg.com/profile_images/1627282629560000512/uTq9ZoIa_normal.jpg)
- 
-`User ScreenName:` career_EMT 
- 
-`User chosen Name:` EMT Groupe, LLC 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 19 12:22:35 +0000 2023 
- 
-`User Description?:` Certified Career Coach that specializes in #resumewriting, #linkedin, #interviewprep, #militarytransitions, and helping ppl pivot to new careers. #blacktwitter 
- 
-`Followers?: `1 
- 
-`Following?:` 7 
- 
-`User URL?:` https://t.co/3mE1jv0YHC 
- 
-`Location:` Atlanta, GA 
- 
-`Number of tweets extracted`  : 18 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1627282629560000512/uTq9ZoIa_normal.jpg 
- 
-`Number of tweets excluding replies:` 18 
+`Number of tweets excluding replies:` 2297 
  
 
  
@@ -506,47 +329,38 @@ Cybersecurity, new tax laws, and healthcare reform are some of the top issues Pa
  
 ## User Top tweeted words 
  
-**REMOTE** 14 , **TITLE:** 12 , **LOCATION:** 12 , **DURATION:** 11 , **CONTRACT** 5 , **SEND** 5 , **COMPENSATION:** 4 , **US** 4 , **LONG** 3 , **W2** 3 , **RESUME** 3 , **MONTH** 3 , **SR** 3 , **6+** 3 , **MANAGER** 3 , **PROJECT** 3 , **MONTHS** 3 , **APPLY:** 2 , **(HYBRID)** 2 , **ANALYST** 2 , 
+**DE** 170 , **LA** 129 , **EN** 92 , **Y** 85 , **EL** 78 , **24FEB** 52 , **CON** 42 , **DEL** 40 , **QUE** 28 , **FANBINVICTA** 28 , **PARA** 27 , **SANCIONESASESINAS** 26 , **LOS** 25 , **NUESTRA** 24 , **||** 23 , **AL** 21 , **PUENTEPARALAPAZ** 21 , **POR** 20 , **NACIONAL** 19 , **UN** 19 , 
  
 ## What this user tweeted
  
-10.
-Title: Security Engineer - Expert
-Location: Remote 
-Duration: 12 Month
-Compensation: $75-$100/hr W2
-Send resume… https://t.co/fOjHneTwFv2.
-Title: Sr #Network #Security #Engineer
-Location: Fully Remote in US
-Duration: 3 month contract with potential to… https://t.co/Qnuo2khn7d
+RT @sucurisecurity: Malicious cron jobs can be aggressive. If your site keeps getting reinfected, make sure to check your #hosting control…
  
-# sPant_CenturygpUSER INFO
-![image](http://pbs.twimg.com/profile_images/1628756085657198592/NJ2flid9_normal.jpg)
+# DevduttGwaliorUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627504033996083202/pupWF6sn_normal.jpg)
  
-`User ScreenName:` sPant_Centurygp 
+`User ScreenName:` DevduttGwalior 
  
-`User chosen Name:` sanjay pant 
+`User chosen Name:` Devdutt Gwalior 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 22 15:59:27 +0000 2023 
+`User signup date?:` Sat Feb 18 14:13:23 +0000 2023 
  
-`User Description?:` Get the Best IT Support in Atlanta, Georgia for Your Computer Support Needs
-#itsupport #databackup #cloudcomputingsolutions #cioservices 
+`User Description?:` Hare Krishna Hare Rama 
  
 `Followers?: `0 
  
-`Following?:` 7 
+`Following?:` 2 
  
-`User URL?:` https://t.co/PzTnAcDBX9 
+`User URL?:` None 
  
-`Location:` Atlanta 
+`Location:` Gujarat, India 
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 19 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1628756085657198592/NJ2flid9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1627504033996083202/pupWF6sn_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 19 
  
 
  
@@ -554,13 +368,100 @@ Duration: 3 month contract with potential to… https://t.co/Qnuo2khn7d
  
 ## User Top tweeted words 
  
-**SUPPORT** 2 , **RT** 1 , **@CENTURYATLANTA:** 1 , **!!GET** 1 , **BEST** 1 , **ATLANTA** 1 , **GEORGIA** 1 , **COMPUTER** 1 , **NEEDS!!** 1 , **HTTPS://TCO/WVQLA8CF3H** 1 , **ITSOLUTION…** 1 , 
+**@LEXFRIDMAN:** 6 , **1** 5 , **·** 5 , **BEFORE** 4 , **API** 4 , **@FITFOUNDER:** 4 , **STOP** 4 , **LIFE** 3 , **HOURS** 3 , **THAN** 3 , **PYTHON** 3 , **10** 3 , **TEACH** 3 , **CHANGE** 3 , **BED** 3 , **HEALTH** 2 , **HOUR** 2 , **NEVER** 2 , **DON'T** 2 , **BIG** 2 , 
  
 ## What this user tweeted
  
-RT @CenturyAtlanta: !!Get the Best IT Support in Atlanta, Georgia for Your Computer Support Needs!!  
-https://t.co/WVqlA8cF3h  
-#itsolution…
+RT @SecurityTrybe: 20 Places to Learn to Code for FREE 
+
+#infosec #cybersecurity #coding #AI #python #programming #webdev https://t.co/giT7…
+ 
+# bajajkrrish11USER INFO
+![image](http://pbs.twimg.com/profile_images/1628109609046278155/6GuCHTDF_normal.jpg)
+ 
+`User ScreenName:` bajajkrrish11 
+ 
+`User chosen Name:` KRRISH 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 21 19:09:13 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 41 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1628109609046278155/6GuCHTDF_normal.jpg 
+ 
+`Number of tweets excluding replies:` 41 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BYPASS** 6 , **BLIND** 5 , **FIND** 5 , **BUGBOUNTY** 5 , **BUGBOUNTYTIPS** 5 , **@SANDH0T:** 4 , **BUG** 4 , **REDIRECT** 3 , **BOUNTY** 3 , **TRY** 3 , **ATTACK** 3 , **403** 3 , **SUBDOMAIN** 3 , **RECON** 3 , **FILE** 3 , **:** 2 , **SHODAN** 2 , **ALWAYS** 2 , **VIA** 2 , **READ** 2 , 
+ 
+## What this user tweeted
+ 
+RT @gonzxph: [Bypass Cloudflare] Open Redirect to XSS 
+
+Open Redirect
+
+/login?redirectUrl=//evil,org --&gt; redirect to evil,org
+
+Escalate to…RT @roohaa_n: Bypass of blind xss 🫣 and 50$ more for Restest 😍got my third bounty today 
+--Always try to bypass when they mark as resolved…
+ 
+# Liam_developerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1627166361343471618/9MPp87Tm_normal.png)
+ 
+`User ScreenName:` Liam_developer 
+ 
+`User chosen Name:` Liam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 19 04:41:06 +0000 2023 
+ 
+`User Description?:` Blockchain and Data Engineer.. Feel free to DM for any project collaborations or idea.. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/XgFomDegD0 
+ 
+`Location:` Spain 
+ 
+`Number of tweets extracted`  : 43 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1627166361343471618/9MPp87Tm_normal.png 
+ 
+`Number of tweets excluding replies:` 43 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 18 , **CODING** 17 , **DATASCIENCE** 11 , **LEARN** 9 , **ANALYTICS** 9 , **CYBERSECURITY** 9 , **BIGDATA** 9 , **PYTHON** 9 , **@WESTART_FACTORY:** 7 , **FREE** 6 , **PROGRAMMING** 6 , **MACHINELEARNING** 6 , **100DAYSOFCODE** 5 , **SQL** 5 , **TECH** 5 , **IIOT** 4 , **YOU'RE** 4 , **❯** 4 , **START** 3 , **RSTATS** 3 , 
+ 
+## What this user tweeted
+ 
+RT @SecurityTrybe: 20 Places to Learn to Code for FREE 
+
+#infosec #cybersecurity #coding #AI #python #programming #webdev https://t.co/giT7…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
