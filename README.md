@@ -1,20 +1,25 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **DavidHundeyin**  
+The most popular user is: **dwisiswant0**  
  
 
-## Your uploads on the Election Manager app have caused great damage to APC's agenda, and they're maliciously reportin… https://t.co/GInRsNKU8T 
+## Made public now &amp; beta version released!
+
+teler: Real-time HTTP #Intrusion Detection
+https://t.co/oAmJFd86TO
+
+#go… https://t.co/2zYQeHvP0Q 
 
   
 
@@ -23,24 +28,24 @@ The most popular user is: **DavidHundeyin**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AtomSpam: Detected #phishing clone at address: hxxps://bareboats[.]co[.]nz/online/intesa-sanpaolo/4774c197f6bacbf927eb568f534d93e3/logi… |
-| RT @Richack_: For #Hacked #Gmail recovery Dm now #Hackedgmail #CyberSecurity #hacker #infosec @reach2ratan #security #cyber #tech #opensour… |
-| RT @Ox4d5a: GIVEAWAY of my Offensive Rust course to 20 members. previous winners of this course giveaway are not eligible. Like and Retwe… |
+| RT @Certego_Intel: #Malware #PAS #BlocklistDomain: serenity-act[.comVirusTotal: https://t.co/PkeHNjIcVz#CyberSecurity #ThreatIntel (bot… |
+| RT @CyberGuardNews: Norwegian authorities recover $5.9 million in cryptocurrency stolen in Axie Infinity hack https://t.co/EDNDUaxXZx #thre… |
+| Simple Task Managing System SQL injection | CVE-2022-40032 - https://t.co/hm96kpQsXL#CVE #Vulnerability #OSINT #ThreatIntel #Cyber |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Ox4d5a** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **0xor0ne** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 5.08%|
+| #1 Most tweeted to  | **DailyOsint** |
+| #2 Most tweeted to  | **threatintel** |
+| #3 Most tweeted to  | **nshcthreatrecon** |
+| NewProfiles (less than 10 days) | 0.05%  |
+| Tweeters with < 10 followers  | 2.74%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,57 +55,57 @@ The most popular user is: **DavidHundeyin**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **COURSE**  |
-| third  | **GIVEAWAY** |
-| fourth  | **PHISHING**  |
-| fifth  | **HACKING**  |
+| first  | **THREATINTEL**  |
+| second  | **OSINT**  |
+| third  | **MALWARE** |
+| fourth  | **@DAILYOSINT:**  |
+| fifth  | **DETECTED**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @kot_hacker: Ever wondered if your mobile phone has been hacked, that maybe a third-party tool has been installed on it and your every m… |
+|Hackers disrupt Russian TV websites during Putin speech https://t.co/7nYttdBW9d #threatintel |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DavidHundeyin**  |
+| The most retweeted user is: **dwisiswant0**  |
 | ------------- |
-| Your uploads on the Election Manager app have caused great damage to APC's agenda, and they're maliciously reportin… https://t.co/GInRsNKU8T |
+| Made public now &amp; beta version released!teler: Real-time HTTP #Intrusion Detectionhttps://t.co/oAmJFd86TO#go… https://t.co/2zYQeHvP0Q |
 
 # Potential Fake Accounts
  
-# iam_shammasUSER INFO
-![image](http://pbs.twimg.com/profile_images/1629140419043885056/tewoHMQG_normal.jpg)
+# mr_____stephenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628660913900253185/tNqsoLm4_normal.jpg)
  
-`User ScreenName:` iam_shammas 
+`User ScreenName:` mr_____stephen 
  
-`User chosen Name:` Shammas 
+`User chosen Name:` mr_____stephen 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 24 15:25:18 +0000 2023 
+`User signup date?:` Tue Feb 21 12:15:35 +0000 2023 
  
-`User Description?:`  
+`User Description?:` God 🎖 Pro-Hacking Service. *Private investigator* *Recovery Services* *Recovery Services* *Crypto* *Instagram* *icloud ID* *Snapchat* *Facebook* #NoFreeHack 
  
-`Followers?: `1 
+`Followers?: `29 
  
-`Following?:` 5 
+`Following?:` 14 
  
-`User URL?:` None 
+`User URL?:` https://t.co/EAsFKfRDO6 
  
-`Location:`  
+`Location:` New York, USA 
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1629140419043885056/tewoHMQG_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1628660913900253185/tNqsoLm4_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 798 
  
 
  
@@ -108,182 +113,11 @@ VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECT
  
 ## User Top tweeted words 
  
-**GIVEAWAY** 2 , **COURSE** 2 , **RT** 1 , **@OX4D5A:** 1 , **OFFENSIVE** 1 , **RUST** 1 , **20** 1 , **MEMBERS** 1 , **PREVIOUS** 1 , **WINNERS** 1 , **ELIGIBLE** 1 , **RETWE…** 1 , 
+**ACCOUNT** 75 , **HACKING** 66 , **HACKED** 51 , **DM** 37 , **RECOVER** 33 , **INBOX** 29 , **SNAPCHAT** 29 , **RECOVERY** 25 , **HACK** 25 , **INSTAGRAM** 24 , **HACKER** 23 , **US** 23 , **ANY** 22 , **HELP** 20 , **AVAILABLE** 19 , **ACCOUNTS** 16 , **LOST** 16 , **RELATED** 15 , **MESSAGE** 14 , **MEDIA** 14 , 
  
 ## What this user tweeted
  
-RT @Ox4d5a: GIVEAWAY of my Offensive Rust course to 20 members. previous winners of this course giveaway are not eligible. 
-
-Like and Retwe…
- 
-# lightbearer720USER INFO
-![image](http://pbs.twimg.com/profile_images/1628618516977926144/oGBAwemK_normal.jpg)
- 
-`User ScreenName:` lightbearer720 
- 
-`User chosen Name:` Light Bearer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 23 04:51:27 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 81 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 124 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628618516977926144/oGBAwemK_normal.jpg 
- 
-`Number of tweets excluding replies:` 124 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WORLEYROBERT314:** 48 , **VIA** 18 , **@YOUTUBE** 16 , **@LIGHTBEARER720:** 9 , **@AZERBAIJAN** 7 , **@ARMENIA** 6 , **@LETSGO** 5 , **@BBCWORLD:** 5 , **@LAURAEISENHOWE7:** 4 , **DOWN** 4 , **CISA** 3 , **EASTERLY** 3 , **@APRILEJIBRIL** 3 , **NEW** 3 , **YOUNG** 3 , **(OFFICIAL** 3 , **@NASA:** 3 , **@NASAKENNEDY:** 3 , **AMERICAN** 3 , **US** 3 , 
- 
-## What this user tweeted
- 
-RT @CISACyber: ⚠️@CISAgov issued 3️⃣ NEW public advisories to the #ICS webpage.
-
-These advisories provide info about current security issue…
- 
-# FlvioFa85149705USER INFO
-![image](http://pbs.twimg.com/profile_images/1630708470012846081/8XoQeraX_normal.jpg)
- 
-`User ScreenName:` FlvioFa85149705 
- 
-`User chosen Name:` Flávio Faria 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 28 23:16:10 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630708470012846081/8XoQeraX_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 2 , **INVICTI** 1 , **PROFESSIONAL** 1 , **EDITION** 1 , **232039705** 1 , **FULL** 1 , **ACTIVATED** 1 , **CYBERSECURITY** 1 , **TOOLS** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/Y0PX4S0HGE@3XS0** 1 , 
- 
-## What this user tweeted
- 
-Invicti Professional Edition 23.2.0.39705 Full Activated – CyberSecurity Tools – Discount 100% OFF… https://t.co/Y0PX4s0HGe
- 
-# Samantha433211USER INFO
-![image](http://pbs.twimg.com/profile_images/1630313715424808962/8UMQwBg1_normal.jpg)
- 
-`User ScreenName:` Samantha433211 
- 
-`User chosen Name:` Samantha🇨🇦 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 25 20:51:02 +0000 2023 
- 
-`User Description?:` 🤍Graphic/ Web designer
-I can design Websites, Logo and whatever you want my creativity transitions and website coding Ethical Hacker then Dm me for rates. 
- 
-`Followers?: `2 
- 
-`Following?:` 18 
- 
-`User URL?:` None 
- 
-`Location:` Canada 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630313715424808962/8UMQwBg1_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEED** 2 , **TWITCH** 2 , **TESTING** 1 , **DEMO** 1 , **CLIENT** 1 , **HACKERS** 1 , **HACKING** 1 , **HACKER** 1 , **CYBERSECURITY** 1 , **ETHICALHACKING** 1 , **KALILINUX** 1 , **LINUX** 1 , **ETHICALHACKER…** 1 , **HTTPS://TCO/WMFQI3CUJRGOODVIBESONLY** 1 , **GOODDAY** 1 , **POKEMONDAY** 1 , **MYLIFESTORY** 1 , **HTTPS://TCO/LN1TWYESSXIF** 1 , **ANYONE** 1 , **OVERLAY?LMK😍** 1 , 
- 
-## What this user tweeted
- 
-Testing demo for client.
-#hackers #hacking #hacker #cybersecurity #ethicalhacking #kalilinux #linux #ethicalhacker… https://t.co/WmfQI3Cujr
- 
-# KRIPT099USER INFO
-![image](http://pbs.twimg.com/profile_images/1629446960997605377/vlE6XwJF_normal.jpg)
- 
-`User ScreenName:` KRIPT099 
- 
-`User chosen Name:` KRIPT099 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 25 11:21:23 +0000 2023 
- 
-`User Description?:` "Vulnerabilities beware, bug bounty hunter is here! With my cyber-sleuthing skills, I'll find and squash bugs before they can cause any harm.#bugbounty #infosec 
- 
-`Followers?: `13 
- 
-`Following?:` 10 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1629446960997605377/vlE6XwJF_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**INFOSEC** 6 , **👇** 5 , **BUGBOUNTYTIPS** 3 , **SEARCH** 3 , **ENGINE** 3 , **BUGBOUNTY** 2 , **NMAP** 2 , **:** 2 , **XSS** 2 , **GUIDE** 1 , **MOBILEAPP** 1 , **PENTEST-CHEATSHEET** 1 , **PENERATIONTESTING** 1 , **PENTESTING** 1 , **HTTPS://TCO/QFHHMQMW0KCHECK** 1 , **FREE** 1 , **COURSE** 1 , **HTTPS://TCO/NKUOHTNJNY** 1 , **FREENMAP** 1 , **CYBERSEC** 1 , 
- 
-## What this user tweeted
- 
-Guide for MobileApp Pentest-Cheatsheet
-👇
-
-#infosec #bugbountytips #BugBounty #penerationtesting #pentesting
-
-https://t.co/qFHhMQMw0KCheck out free Nmap course 
-👇
-https://t.co/nkuOHtnJnY
-
-#infosec #nmap #freenmap #bugbountytips #CyberSec #free
+Forgot your password for your social network, google or any active account?  Send a message to us going to recovery… https://t.co/hswqirYu0P
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
