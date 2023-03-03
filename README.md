@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **KeplerHomes**  
+The most popular user is: **WarClandestine**  
  
 
-## Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK 
+## 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **KeplerHomes**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. As the promise of decentralized techno… |
-| #Wordpress  #Automated | All In One SEO Patches Multiple Stored XSS Vulnerabilities in Version 4.3.0  &lt;span style="… https://t.co/q0uCjP6M4M |
-| RT @MacFarlaneNews: House Admin. Cmte Democrats about Jan 6 police video:"Rioters attempted to gather information about the interior of th… |
+| RT @bennyjohnson: BANNON: “We're giving $200 billion to Ukraine... We’ve paid enough in the wars in Europe. We are not a European power.”… |
+| RT @HerryNapit: A reminder: "A martyr does not die for Putin!" Many ways to raise awareness about the Russians, including Prigozhin, Ka… |
+| RT @amborin: @SecBlinken US-armed Ukraine deliberately killed many, many 1000s of civilians--including 500 children, because they opposed t… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **QuillAudits** |
-| #2 Most tweeted to  | **MacFarlaneNews** |
-| #3 Most tweeted to  | **silentgh00st** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 3.72%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **charliekirk11** |
+| #2 Most tweeted to  | **ImMeme0** |
+| #3 Most tweeted to  | **WarClandestine** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 5.38%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -50,102 +50,57 @@ The most popular user is: **KeplerHomes**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **WEB3**  |
-| third  | **@QUILLAUDITS:** |
-| fourth  | **ECOSYSTEM**  |
-| fifth  | **YEAR**  |
+| first  | **UKRAINE**  |
+| second  | **WAR**  |
+| third  | **RUSSIA** |
+| fourth  | **1**  |
+| fifth  | **US**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. As the promise of decentralized techno… |
+|RT @dom_lucre: What if I told you Ukraine helped create COVID-19? |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KeplerHomes**  |
+| The most retweeted user is: **WarClandestine**  |
 | ------------- |
-| Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK |
+| 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL |
 
 # Potential Fake Accounts
  
-# spartachainUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631796055405903874/QXS_j9cc_normal.jpg)
+# VanessacatieUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628337349087174657/1LVd48cd_normal.jpg)
  
-`User ScreenName:` spartachain 
+`User ScreenName:` Vanessacatie 
  
-`User chosen Name:` SPARTA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 22 20:29:17 +0000 2023 
- 
-`User Description?:` “In the end, a Spartan’s true strength is the warrior next to him. So give respect and honor to him, and it will be returned to you.”
-
-#IAMSPARTA 
- 
-`Followers?: `27 
- 
-`Following?:` 178 
- 
-`User URL?:` None 
- 
-`Location:` Sparta  
- 
-`Number of tweets extracted`  : 184 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631796055405903874/QXS_j9cc_normal.jpg 
- 
-`Number of tweets excluding replies:` 185 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@FEGTOKEN** 17 , **@STE_CHA_FEG** 11 , **@1QUADRICH:** 9 , **@MYMONERO:** 8 , **I'M** 8 , **QUADLIFE** 8 , **FEGTOKEN** 7 , **$QUAD** 7 , **💪** 6 , **WHICH** 6 , **@JHADDIX:** 6 , **AFTER** 6 , **@SECURITYTRYBE:** 6 , **@LIFE__MASTERY:** 6 , **NEED** 6 , **TOOL** 6 , **TIME** 5 , **😂** 5 , **MANY** 5 , **2** 5 , 
- 
-## What this user tweeted
- 
-RT @Jhaddix: 💪  Code Literacy is a Super Power for Hackers  💪
-
-(and Security Literacy is a super power for devs)
-
-Knowing how vulnerabiliti…
- 
-# GalaxySocial_USER INFO
-![image](http://pbs.twimg.com/profile_images/1629078688498348032/R8Le6UyB_normal.jpg)
- 
-`User ScreenName:` GalaxySocial_ 
- 
-`User chosen Name:` Galaxy Social | Coming to Sui 
+`User chosen Name:` Vanessa 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 24 11:10:49 +0000 2023 
+`User signup date?:` Wed Feb 22 10:13:09 +0000 2023 
  
-`User Description?:` Interact,connect and earn through our social network. More interactions, more money @SuiNetWork💧 
+`User Description?:`  
  
-`Followers?: `2 
+`Followers?: `14 
  
-`Following?:` 2 
+`Following?:` 34 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1629078688498348032/R8Le6UyB_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1628337349087174657/1LVd48cd_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 585 
  
 
  
@@ -153,26 +108,227 @@ Knowing how vulnerabiliti…
  
 ## User Top tweeted words 
  
-**SOCIAL** 5 , **@SUINETWORK:** 5 , **MEDIA** 2 , **GALAXY** 2 , **USERS** 2 , **VIBRANT** 2 , **SUIBUILDERHOUSE** 2 , **TESTNET** 2 , **WAVE** 2 , **DAY** 2 , **EARN** 2 , **🔎WE** 1 , **STEPS** 1 , **CONTINUE** 1 , **STRENGTHEN** 1 , **SECURITY** 1 , **INFRASTRUCTURE** 1 , **CONTINUOUSLY** 1 , **WORK** 1 , **LEADING** 1 , 
+**@NYTIMES:** 57 , **@WASHINGTONPOST:** 36 , **@TIME:** 29 , **NEW** 14 , **AFTER** 14 , **@POTUS:** 13 , **US** 12 , **PEOPLE** 12 , **ITS** 11 , **@NEWYORKER:** 9 , **YEAR** 9 , **LAST** 8 , **TWO** 8 , **SOME** 8 , **STATE** 8 , **FIRST** 8 , **TIME** 7 , **RECORD** 7 , **T…RT** 7 , **A…RT** 7 , 
  
 ## What this user tweeted
  
-🔎We will take steps to continue to strengthen our security infrastructure continuously. We will work with leading s… https://t.co/IzecywMKAY
+RT @nytimes: Concerned that animals might spread disease, officials tried to exterminate the pets left behind in Chernobyl, Ukraine, in 198…RT @nytimes: The U.S. will rush $400 million in new military aid, including more precision-guided rockets and additional ammunition, to Ukr…
  
-# DrEliNYCUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# peto_gabUSER INFO
+![image](http://pbs.twimg.com/profile_images/1630701904601796610/L-mqAhri_normal.jpg)
  
-`User ScreenName:` DrEliNYC 
+`User ScreenName:` peto_gab 
  
-`User chosen Name:` Eli Shalenberg 
+`User chosen Name:` Gabriel 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Feb 23 01:51:28 +0000 2023 
+`User signup date?:` Tue Feb 28 09:58:43 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `8 
+`Followers?: `2 
+ 
+`Following?:` 99 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1630701904601796610/L-mqAhri_normal.jpg 
+ 
+`Number of tweets excluding replies:` 19 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LA** 7 , **Y** 5 , **DE** 4 , **EN** 4 , **US** 4 , **QUE** 3 , **WESTERN** 2 , **SE** 2 , **POR** 2 , **MÉXICO** 2 , **@THEINSIDERPAPER:** 2 , **UKRAINE** 2 , **@THECRADLEMEDIA:** 2 , **CON** 2 , **AMERICANS** 2 , **RT** 1 , **@REALPEPEESCOBAR:** 1 , **LULA** 1 , **PHONE** 1 , **KIEVAN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @RealPepeEscobar: So Lula was on the phone with the Kievan Scarface.
+
+He said, "Brazil defends Ukraine's territorial integrity against R…
+ 
+# BattleBoarsBossUSER INFO
+![image](http://pbs.twimg.com/profile_images/1629179177625690116/2S-wXR-6_normal.png)
+ 
+`User ScreenName:` BattleBoarsBoss 
+ 
+`User chosen Name:` BattleBoarsDivision 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 24 17:17:09 +0000 2023 
+ 
+`User Description?:` Battle Boars Division - battle boars in defense of the Motherland! Let's burn the ass of the orcs in the fields and on the creative field! 
+ 
+`Followers?: `7 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1629179177625690116/2S-wXR-6_normal.png 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VIA** 7 , **HTTPS://TCO/FET1COY8KO** 2 , **US?** 1 , **🐗BATTLE** 1 , **BOARS** 1 , **VIRTUAL** 1 , **HEROES** 1 , **SYMBOLIZING** 1 , **DEFENDERS** 1 , **UKRAINE** 1 , **COLLECTION** 1 , **SEVERAL** 1 , **ITEMS…** 1 , **HTTPS://TCO/B25MUKWG0CLET** 1 , **COMPETITION** 1 , **BEGIN** 1 , **!** 1 , **@OPENSEAGLORY** 1 , **BRAVE** 1 , **INFANTRYMAN'S** 1 , 
+ 
+## What this user tweeted
+ 
+What about us? 🐗Battle boars are virtual heroes, symbolizing defenders of Ukraine. The collection of several items… https://t.co/b25mUKWg0c
+ 
+# 14reltihflodaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1629988067158237185/UBOUq2U1_normal.png)
+ 
+`User ScreenName:` 14reltihfloda 
+ 
+`User chosen Name:` J G 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 26 23:33:33 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 115 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1629988067158237185/UBOUq2U1_normal.png 
+ 
+`Number of tweets excluding replies:` 115 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BENSHAPIRO** 18 , **WHITE** 9 , **PEOPLE** 8 , **@CATTURD2** 8 , **@SCOTTADAMSSAYS** 7 , **BLACK** 7 , **DON'T** 5 , **HISTORY** 5 , **TELL** 4 , **TRUTH** 4 , **MAN** 4 , **MONTH** 4 , **@YOUTUBE** 4 , **@ITS_THE_DR** 4 , **AIPAC** 3 , **GOT** 3 , **(((THEY)))** 3 , **NEED** 3 , **PRO** 3 , **@GATEWAYPUNDIT** 3 , 
+ 
+## What this user tweeted
+ 
+@soundcabinet11 @ReallyAmerican1 He runs a company called Trident who is "making it easier" to get weapons to UKRAI… https://t.co/Adlo5SDu8h
+ 
+# Jenni0080USER INFO
+![image](http://pbs.twimg.com/profile_images/1631799401529344000/z-lA2Vrc_normal.jpg)
+ 
+`User ScreenName:` Jenni0080 
+ 
+`User chosen Name:` Jenni 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 03 23:25:56 +0000 2023 
+ 
+`User Description?:` All around the world 
+ 
+`Followers?: `0 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:` Manhattan 
+ 
+`Number of tweets extracted`  : 48 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1631799401529344000/z-lA2Vrc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 48 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MAKEUP** 11 , **@JACKPOSOBIEC:** 6 , **@FOXNEWS:** 5 , **MAKE** 3 , **WAR** 3 , **KARINA** 2 , **@NYXCOSMETICS:** 2 , **THESE** 2 , **@KYLIECOSMETICS:** 2 , **GLOSS** 2 , **TEAM** 2 , **ROOM** 2 , **@AESPASBBL:** 2 , **[230303]** 2 , **KST:** 2 , **+📸** 2 , **BETWEEN** 2 , **⭐️** 2 , **ASKING** 2 , **LOVE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @JackPosobiec: BREAKING EXCLUSIVE: VINDMAN DOCUMENTS LEAKED PROFITEERING OFF UKRAINE WAR
+
+https://t.co/kKrA8NUAoR https://t.co/pFfXdFHuZi
+ 
+# free_academia_USER INFO
+![image](http://pbs.twimg.com/profile_images/1630617464873578496/C3Eb_Xsj_normal.jpg)
+ 
+`User ScreenName:` free_academia_ 
+ 
+`User chosen Name:` Free Academia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 27 09:22:37 +0000 2023 
+ 
+`User Description?:` Researching and conveying information is our passion!📚👩‍🎓 
+
+#education #learning #politics #law #technology #philosophy #economy #science 
+ 
+`Followers?: `2 
+ 
+`Following?:` 85 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 19 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1630617464873578496/C3Eb_Xsj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 19 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHINA** 5 , **RUSSIA** 4 , **US** 3 , **UNDER** 3 , **CONSIDERING** 2 , **AID** 2 , **UKRAINE** 2 , **DEPT** 2 , **@BUSINESS:** 2 , **WARNS** 2 , **🔴** 2 , **EL** 2 , **LAB** 2 , **BEST** 2 , **MOMENTS** 2 , **AFTER** 2 , **DEATH** 2 , **1** 2 , **EXPLAINED** 2 , **LEADING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @BreakingNews: Initial U.S. intelligence suggesting China is considering supplying lethal aid to Russia for use in Ukraine was gleaned f…
+ 
+# 116nMusksanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1630210968000299009/-baANDf0_normal.jpg)
+ 
+`User ScreenName:` 116nMusksan 
+ 
+`User chosen Name:` イーロンマスクさん 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 27 13:45:15 +0000 2023 
+ 
+`User Description?:` 人生ENJOYしかしてない 
+ 
+`Followers?: `2 
  
 `Following?:` 14 
  
@@ -180,90 +336,9 @@ Knowing how vulnerabiliti…
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CAREGIVERS** 3 , **BURDEN** 2 , **3)** 1 , **GREATEST** 1 , **60** 1 , **YEARS** 1 , **OLD** 1 , **DON’T** 1 , **RECEIVE** 1 , **OUTSIDE** 1 , **HELP** 1 , **MULTIPLE** 1 , **DAYS** 1 , **W…** 1 , **HTTPS://TCO/DSPZ8LJYUU2)** 1 , **LONG-TERM** 1 , **CARE** 1 , **SHIFTS** 1 , **AWAY** 1 , **HOSPITALS** 1 , 
- 
-## What this user tweeted
- 
-2) As the burden of long-term care shifts away from hospitals toward local communities and families, caregivers hav… https://t.co/NXbQ8tAAPD
- 
-# bigwininakuyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1629092452627009537/SLeOivjR_normal.jpg)
- 
-`User ScreenName:` bigwininakuy 
- 
-`User chosen Name:` Boleh tag free 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 23 03:49:17 +0000 2023 
- 
-`User Description?:` Hunter Acc 🍀 My acc @winwinsolutiion has been locked, please don't reroll me, I'm not multi.
-Use 2 devices, 📱 & 💻 
- 
-`Followers?: `169 
- 
-`Following?:` 755 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1629092452627009537/SLeOivjR_normal.jpg 
- 
-`Number of tweets excluding replies:` 1932 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 156 , **•** 75 , **HOURS** 62 , **FOLLOW** 57 , **IDR** 50 , **+** 48 , **~** 36 , **||** 30 , **$50** 21 , **$2** 19 , **📌RT** 17 , **@CRYPTO_YNAH:** 17 , **30MINS** 17 , **ONLY:** 17 , **$10** 16 , **GIVEAWAY** 16 , **$5** 15 , **TWEET** 15 , **RETWEET** 14 , **$1** 14 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# karamojayouthAGUSER INFO
-![image](http://pbs.twimg.com/profile_images/1629792516651335680/-Qz3HZlX_normal.jpg)
- 
-`User ScreenName:` karamojayouthAG 
- 
-`User chosen Name:` KARAMOJA YOUTH AGENDA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 26 10:28:07 +0000 2023 
- 
-`User Description?:` Karimojong youth from all political parties and 9 districts of Karamoja, strategising on methods of sustainable peace and development 
- 
-`Followers?: `55 
- 
-`Following?:` 569 
- 
-`User URL?:` None 
- 
-`Location:` Uganda 
- 
 `Number of tweets extracted`  : 70 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1629792516651335680/-Qz3HZlX_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1630210968000299009/-baANDf0_normal.jpg 
  
 `Number of tweets excluding replies:` 70 
  
@@ -273,191 +348,30 @@ As the promise of decentralized techno…
  
 ## User Top tweeted words 
  
-**UGANDA** 6 , **PEACE** 5 , **KARAMOJA** 5 , **KENYA** 5 , **@NBSTV:** 5 , **PEOPLE** 4 , **WATER** 4 , **SCHOOL** 3 , **AFTER** 3 , **SOUTH** 3 , **SUDAN** 3 , **BEING** 3 , **MOROTO** 3 , **BORDER** 3 , **KAABONG** 3 , **DISTRICT** 3 , **LEADERS** 3 , **IRON** 3 , **USE** 3 , **TIME** 3 , 
+**@YOYOYOCHAN_TWI:** 15 , **@OOOOOCHAN444:** 9 , **@SPACEX:** 7 , **@MILET_MUSIC:** 7 , **@TESLA:** 6 , **@ELONMUSK:** 5 , **FIRST** 4 , **@POTUS:** 4 , **@BILLGATES:** 4 , **ORBIT** 3 , **FALCON** 3 , **STAGE** 3 , **LAST** 3 , **ENERGY** 3 , **INVESTOR** 3 , **DAY** 3 , **歌まね** 3 , **CALIFORNIA** 2 , **STARLINK** 2 , **@SPACEX** 2 , 
  
 ## What this user tweeted
  
-Apart from the insecurity we are facing
-The lasting vulnerabilities brought about by its violent past and rapidly c… https://t.co/W4Opi6zHTG
+RT @POTUS: The last time we were here together, Russia was amassing its troops on Ukraine’s border. 
  
-# luckieonesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631257536275021824/e9ylR6Cn_normal.jpg)
+@Bundeskanzler and I made it clear t…
  
-`User ScreenName:` luckieones 
+# RhondaEntrikin3USER INFO
+![image](http://pbs.twimg.com/profile_images/1629129918851211264/GhYW6RSr_normal.jpg)
  
-`User chosen Name:` v's fb ya temn🙆 
+`User ScreenName:` RhondaEntrikin3 
  
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 02 11:24:38 +0000 2023 
- 
-`User Description?:` for what— 
- 
-`Followers?: `17 
- 
-`Following?:` 92 
- 
-`User URL?:` None 
- 
-`Location:` win 
- 
-`Number of tweets extracted`  : 63 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631257536275021824/e9ylR6Cn_normal.jpg 
- 
-`Number of tweets excluding replies:` 63 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 43 , **FOLLOW** 27 , **HOURS** 26 , **+** 19 , **•** 19 , **$50** 13 , **~** 12 , **24** 10 , **IDR** 9 , **GIVEAWAY** 8 , **$20** 7 , **||** 7 , **•تابع** 6 , **@JIHANICORN:** 6 , **2** 6 , **💜** 6 , **@SOF1AZARA03:** 5 , **MINS** 5 , **🔔** 5 , **🍒** 5 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# LiaMaryam8USER INFO
-![image](http://pbs.twimg.com/profile_images/1631665075865149440/EoQlVnEd_normal.jpg)
- 
-`User ScreenName:` LiaMaryam8 
- 
-`User chosen Name:` Lia Maryam 
+`User chosen Name:` Rhonda Entrikin 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 03 10:57:56 +0000 2023 
+`User signup date?:` Fri Feb 24 14:40:00 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `10 
+`Followers?: `21 
  
-`Following?:` 103 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 68 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631665075865149440/EoQlVnEd_normal.jpg 
- 
-`Number of tweets excluding replies:` 69 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 43 , **FOLLOW** 39 , **HOURS** 33 , **•** 23 , **$50** 20 , **+** 18 , **24** 13 , **||** 13 , **GIVEAWAY** 10 , **-RT** 9 , **~** 8 , **@JIHANICORN:** 8 , **💜** 8 , **48** 8 , **📌RT** 6 , **$100** 6 , **IDR** 6 , **✅** 6 , **4** 5 , **:** 5 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# OtherWordlyXEUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631624421185036289/16MZiFjU_normal.jpg)
- 
-`User ScreenName:` OtherWordlyXE 
- 
-`User chosen Name:` ℰ. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 23 16:05:11 +0000 2023 
- 
-`User Description?:` They expected me to take the throne and lead, but what if I 𝐰𝐚𝐧𝐭𝐞𝐝 to be normal? #MC21+ #Parody #RolePlay writers tag: | #TwilightWhispers #Unavailable 
- 
-`Followers?: `40 
- 
-`Following?:` 58 
- 
-`User URL?:` None 
- 
-`Location:` Los Angeles, CA 
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631624421185036289/16MZiFjU_normal.jpg 
- 
-`Number of tweets excluding replies:` 578 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**I’M** 20 , **WELL** 11 , **YOU’RE** 11 , **SHE’S** 10 , **HOPE** 9 , **I’VE** 8 , **DON’T** 8 , **TIME** 7 , **SWEET** 6 , **HERE** 6 , **THAT’S** 6 , **OFF** 6 , **EZRA** 6 , **NEVER** 6 , **FEEL** 6 , **LOVE** 6 , **SAY** 5 , **WORK** 5 , **SOME** 5 , **MIGHT** 5 , 
- 
-## What this user tweeted
- 
-I just ran away when I realized they’d see this dark parts of me and it terrified me to be vulnerable because every… https://t.co/PyH9OTyUEg
- 
-# 2023_bigwinessUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631644426006306817/iyc8Kqvt_normal.jpg)
- 
-`User ScreenName:` 2023_bigwiness 
- 
-`User chosen Name:` sanjay 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 27 04:55:35 +0000 2023 
- 
-`User Description?:` Crypto lover 
- 
-`Followers?: `15 
- 
-`Following?:` 254 
- 
-`User URL?:` None 
- 
-`Location:` India 
- 
-`Number of tweets extracted`  : 145 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631644426006306817/iyc8Kqvt_normal.jpg 
- 
-`Number of tweets excluding replies:` 145 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 102 , **FOLLOW** 79 , **HOURS** 76 , **•** 53 , **+** 43 , **$50** 37 , **24** 32 , **||** 31 , **✅** 19 , **$30** 19 , **IDR** 17 , **4** 17 , **-RT** 17 , **~** 16 , **$100** 15 , **📌RT** 13 , **48** 12 , **JOIN** 10 , **3** 10 , **TWEET** 10 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# DendamW1nUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631306726518697987/Rj2DSCDi_normal.jpg)
- 
-`User ScreenName:` DendamW1n 
- 
-`User chosen Name:` Dendam W1n 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 02 14:04:40 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `16 
- 
-`Following?:` 225 
+`Following?:` 255 
  
 `User URL?:` None 
  
@@ -465,50 +379,9 @@ As the promise of decentralized techno…
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631306726518697987/Rj2DSCDi_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1629129918851211264/GhYW6RSr_normal.jpg 
  
-`Number of tweets excluding replies:` 417 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 153 , **•** 69 , **FOLLOW** 68 , **IDR** 62 , **HOURS** 52 , **||** 50 , **+** 37 , **~** 34 , **$2** 29 , **RETWEET** 24 , **$10** 24 , **2** 23 , **@CRYPTO_YNAH:** 23 , **30MINS** 23 , **ONLY:** 23 , **MINS** 22 , **$50** 20 , **📌RT** 20 , **GIVEAWAY** 20 , **DRAW** 17 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# 0xletmewinxxsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1629793377918263296/qWPX0EHT_normal.jpg)
- 
-`User ScreenName:` 0xletmewinxxs 
- 
-`User chosen Name:` WINN||MARCH 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 26 10:36:24 +0000 2023 
- 
-`User Description?:` BIG WIN CUTIEE||MARCH BIGWIN 
- 
-`Followers?: `49 
- 
-`Following?:` 746 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1629793377918263296/qWPX0EHT_normal.jpg 
- 
-`Number of tweets excluding replies:` 737 
+`Number of tweets excluding replies:` 366 
  
 
  
@@ -516,541 +389,11 @@ As the promise of decentralized techno…
  
 ## User Top tweeted words 
  
-**RT** 162 , **FOLLOW** 106 , **HOURS** 86 , **•** 79 , **+** 51 , **IDR** 42 , **$50** 38 , **||** 37 , **~** 35 , **24** 29 , **GIVEAWAY** 27 , **$10** 24 , **📌RT** 23 , **2** 19 , **$20** 19 , **$30** 16 , **RETWEET** 16 , **4** 15 , **🔔RT** 13 , **MINS** 13 , 
+**BIDEN** 19 , **PEOPLE** 16 , **COVID** 16 , **US** 14 , **HOUSE** 10 , **NEWS** 10 , **@VIGILANTFOX:** 9 , **TWO** 9 , **AGAINST** 9 , **MERRICK** 9 , **LAB** 9 , **JOE** 8 , **GARLAND** 8 , **DR** 8 , **BREAKING:** 7 , **FBI** 7 , **BILL** 7 , **REPUBLICANS** 7 , **LEAK** 7 , **MEDIA** 6 , 
  
 ## What this user tweeted
  
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# 8i9win__USER INFO
-![image](http://pbs.twimg.com/profile_images/1630406307974119425/2fIGxIpR_normal.jpg)
- 
-`User ScreenName:` 8i9win__ 
- 
-`User chosen Name:` FEBRUARI 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 28 03:04:22 +0000 2023 
- 
-`User Description?:` Akun hunter freetag sepuasnya, capek banget ganti akun terus
-
-akun @.voucherry_  ke lock lagi,tidak bisa verify 
- 
-`Followers?: `35 
- 
-`Following?:` 166 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630406307974119425/2fIGxIpR_normal.jpg 
- 
-`Number of tweets excluding replies:` 316 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 72 , **•** 52 , **FOLLOW** 49 , **HOURS** 43 , **+** 40 , **$50** 29 , **||** 23 , **JOIN** 21 , **$100** 15 , **4** 14 , **GIVEAWAY** 13 , **$30** 12 , **24** 11 , **HRS** 11 , **~** 9 , **$200** 9 , **RETWEET** 8 , **48** 8 , **✅** 8 , **WINNER** 7 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# joywinxXzzUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631497973552279553/APSn4mXf_normal.jpg)
- 
-`User ScreenName:` joywinxXzz 
- 
-`User chosen Name:` iyaaa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 03 03:19:51 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 104 
- 
-`User URL?:` None 
- 
-`Location:` forGa/joiningAcc 
- 
-`Number of tweets extracted`  : 87 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631497973552279553/APSn4mXf_normal.jpg 
- 
-`Number of tweets excluding replies:` 87 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 83 , **•** 65 , **FOLLOW** 50 , **HOURS** 44 , **+** 30 , **📌RT** 21 , **24** 19 , **$50** 19 , **||** 15 , **GIVEAWAY** 14 , **$30** 11 , **ENDS** 11 , **IDR** 11 , **@ZARAGIVEAWAY:** 10 , **🍒** 10 , **@TAEBOUKIE:** 10 , **$10** 10 , **4** 9 , **3** 8 , **~** 8 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# survivor_bhaby2USER INFO
-![image](http://pbs.twimg.com/profile_images/1630426272659812352/4uGuiSn5_normal.jpg)
- 
-`User ScreenName:` survivor_bhaby2 
- 
-`User chosen Name:` ⁉️My Old Account @survivor_bhaby Get Suspended⁉️ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 27 14:52:40 +0000 2023 
- 
-`User Description?:` I Never Lose Hope,Good Things Will Come Soon♥️🙏 #jihantesti #cutetesty #Bunnified #GemhostFamily #Hwannieproofs #FunsizedW1n #C1NK #Zarawinner #MissyAngels 
- 
-`Followers?: `11 
- 
-`Following?:` 475 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630426272659812352/4uGuiSn5_normal.jpg 
- 
-`Number of tweets excluding replies:` 923 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 126 , **HOURS** 76 , **FOLLOW** 75 , **•** 62 , **+** 52 , **$50** 35 , **~** 30 , **IDR** 28 , **||** 25 , **24** 21 , **JOIN** 19 , **$30** 17 , **$10** 17 , **📌RT** 15 , **-RT** 14 , **$20** 14 , **4** 13 , **GIVEAWAY** 13 , **MINS** 12 , **(POST** 11 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# i4hjkwn_USER INFO
-![image](http://pbs.twimg.com/profile_images/1629093601631412224/tWu0XW1l_normal.jpg)
- 
-`User ScreenName:` i4hjkwn_ 
- 
-`User chosen Name:` zui 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 23 11:34:10 +0000 2023 
- 
-`User Description?:` #엔하이픈 ; home and comfort 
- 
-`Followers?: `82 
- 
-`Following?:` 287 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1629093601631412224/tWu0XW1l_normal.jpg 
- 
-`Number of tweets excluding replies:` 375 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 87 , **•** 66 , **HOURS** 53 , **FOLLOW** 50 , **+** 25 , **||** 16 , **$50** 16 , **IDR** 15 , **24** 15 , **GIVEAWAY** 14 , **💜** 14 , **@JIHANICORN:** 13 , **2** 12 , **🍒** 12 , **RETWEET** 11 , **JOIN** 11 , **$10** 10 , **@HWANNIEPROMOTES:** 10 , **@ZARAGIVEAWAY:** 9 , **$30** 9 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# awaliah_rina31USER INFO
-![image](http://pbs.twimg.com/profile_images/1628486357881618432/9gfP--sR_normal.jpg)
- 
-`User ScreenName:` awaliah_rina31 
- 
-`User chosen Name:` Rina Awaliah 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 22 20:00:48 +0000 2023 
- 
-`User Description?:` Bigwin $10,$100,$1000 Aamiin 
- 
-`Followers?: `24 
- 
-`Following?:` 470 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628486357881618432/9gfP--sR_normal.jpg 
- 
-`Number of tweets excluding replies:` 1232 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 82 , **DONERT** 60 , **FOLLOW** 47 , **+** 46 , **HOURS** 39 , **•** 29 , **$50** 27 , **||** 26 , **~** 18 , **IDR** 16 , **24** 16 , **GIVEAWAY** 13 , **$10** 13 , **$20** 12 , **-RT** 12 , **@PRCTIU:** 12 , **$100** 11 , **@FURRINCRYPTO:** 9 , **DONE** 8 , **TWEET** 8 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# Marketi00727294USER INFO
-![image](http://pbs.twimg.com/profile_images/1631563950730117122/qnDaXfb4_normal.png)
- 
-`User ScreenName:` Marketi00727294 
- 
-`User chosen Name:` Marketing Team 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 03 07:55:33 +0000 2023 
- 
-`User Description?:` All are personal views , not business advice 
- 
-`Followers?: `2 
- 
-`Following?:` 8 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631563950730117122/qnDaXfb4_normal.png 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WEB3** 3 , **@QUILL_ACADEMY:** 2 , **@QUILLAUDITS:** 2 , **SECURITY** 2 , **MILLION** 2 , **CRYPTO** 2 , **RT** 1 , **1/** 1 , **SOLIDITY** 1 , **FUNCTIONS** 1 , **MARKED** 1 , **EITHER** 1 , **`VIEW`** 1 , **`PURE`** 1 , **INDICATE** 1 , **MODIFY** 1 , **STATE** 1 , **THE…RT** 1 , **5/6:** 1 , **COMMITMENT** 1 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# madhus38908USER INFO
-![image](http://pbs.twimg.com/profile_images/1631560465359966208/0DFPIJUV_normal.png)
- 
-`User ScreenName:` madhus38908 
- 
-`User chosen Name:` madhu shah 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 03 07:41:42 +0000 2023 
- 
-`User Description?:` "The rich will do anything for the poor but get off their backs; crypto is the cure for this damning parasitic infection" - Karl Marx 
- 
-`Followers?: `2 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631560465359966208/0DFPIJUV_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@QUILL_ACADEMY:** 2 , **RT** 1 , **1/** 1 , **SOLIDITY** 1 , **FUNCTIONS** 1 , **MARKED** 1 , **EITHER** 1 , **`VIEW`** 1 , **`PURE`** 1 , **INDICATE** 1 , **MODIFY** 1 , **STATE** 1 , **THE…RT** 1 , **UNCOVERING** 1 , **$1** 1 , **MILLION** 1 , **EXPLOIT:** 1 , **FEBRUARY** 1 , **27TH** 1 , **2023** 1 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# kristyjain13USER INFO
-![image](http://pbs.twimg.com/profile_images/1631562651443789824/rLys-Tb2_normal.jpg)
- 
-`User ScreenName:` kristyjain13 
- 
-`User chosen Name:` kristy jain 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 03 07:29:53 +0000 2023 
- 
-`User Description?:` Space and NFTs. What's left? 
- 
-`Followers?: `4 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631562651443789824/rLys-Tb2_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WEB3** 3 , **@QUILLAUDITS:** 2 , **$ETH** 2 , **RT** 1 , **LOOKING** 1 , **MAXIMIZE** 1 , **RETURNS** 1 , **LENDING** 1 , **BORROWING** 1 , **SPACE💰?** 1 , **DON'T** 1 , **COMPROMISE** 1 , **SECURITY** 1 , **BLOG** 1 , **POST…WITH** 1 , **CRASH** 1 , **SILVERGATE** 1 , **CRYPTO** 1 , **MARKET** 1 , **PLUMMETED** 1 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# Positive1LeeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631470880982220801/TD0_ZeIE_normal.jpg)
- 
-`User ScreenName:` Positive1Lee 
- 
-`User chosen Name:` DEREZY_TECHNOLOGY 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 02 18:09:50 +0000 2023 
- 
-`User Description?:` PROFESSIONAL IN ALL SOCIAL MEDIA ACCOUNT RECOVERIES
-RETRIEVING AND BLACKMAILING, HACKING AND SPYING 
- 
-`Followers?: `0 
- 
-`Following?:` 24 
- 
-`User URL?:` None 
- 
-`Location:` worldwide  
- 
-`Number of tweets extracted`  : 61 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631470880982220801/TD0_ZeIE_normal.jpg 
- 
-`Number of tweets excluding replies:` 61 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ACCOUNT** 34 , **INBOX** 25 , **HACKED** 23 , **HACKING** 19 , **RECOVER** 14 , **HELP** 14 , **HACK** 14 , **SNAPCHAT** 13 , **I'M** 13 , **AVAILABLE** 13 , **GUIDE** 11 , **DM** 10 , **24/7** 10 , **ANY** 9 , **NEED** 8 , **FACEBOOKDOWN** 8 , **SERVICES** 8 , **ACCOUNTS** 7 , **ICLOUD** 7 , **ACCESS** 7 , 
- 
-## What this user tweeted
- 
-Linux Path Cheat Sheet inbox now
-#infosec #cybersecurity #cybe
-rsecuritytips #pentesting #oscp #informationsecurity… https://t.co/0HSItLyF9Y
- 
-# llegoyaboyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1630272926271299590/p2ZDCJrr_normal.jpg)
- 
-`User ScreenName:` llegoyaboy 
- 
-`User chosen Name:` important. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 27 18:17:00 +0000 2023 
- 
-`User Description?:` 👨🏾‍🦯 
- 
-`Followers?: `14 
- 
-`Following?:` 494 
- 
-`User URL?:` None 
- 
-`Location:` Dominican Republic 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630272926271299590/p2ZDCJrr_normal.jpg 
- 
-`Number of tweets excluding replies:` 1902 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 76 , **LA** 38 , **EN** 29 , **EL** 26 , **QUE** 23 , **Y** 19 , **@SONICWALL:** 16 , **@SENMARCORUBIO:** 14 , **DEL** 14 , **SE** 13 , **CON** 11 , **UNA** 11 , **POR** 11 , **CHINA** 10 , **SU** 9 , **@BARCAUNIVERSAL:** 9 , **SONICWALL** 8 , **LAS** 8 , **UN** 8 , **THREAT** 7 , 
- 
-## What this user tweeted
- 
-RT @SonicWall: Security vulnerabilities in widely used systems and applications are discovered every day. Join SonicWall and @DarkReading a…
- 
-# AishaSh93539747USER INFO
-![image](http://pbs.twimg.com/profile_images/1630294822694055938/od54xhS2_normal.jpg)
- 
-`User ScreenName:` AishaSh93539747 
- 
-`User chosen Name:` Aisha Shah 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 25 12:42:52 +0000 2023 
- 
-`User Description?:` Be Grateful For What You Have ♥️ 
- 
-`Followers?: `4 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630294822694055938/od54xhS2_normal.jpg 
- 
-`Number of tweets excluding replies:` 3256 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PRIYANKACHAHARCHOUDHARY** 64 , **PRIYANKIT** 55 , **ANKITGUPTA** 33 , **PRIYANKA** 20 , **PRIYANKAPALTAN** 16 , **ANKIT** 15 , **LOVE** 15 , **@MEZZOMAD23:** 13 , **MUCH** 11 , **BIGGBOSS16** 11 , **MOST** 11 , **DON'T** 10 , **CHAHAR** 10 , **CHOUDHARY** 10 , **STILL** 10 , **@PRIYANKITISLUV2:** 9 , **U** 9 , **@PRIYANKACHAHARO** 9 , **GUYS** 8 , **FATEJO** 8 , 
- 
-## What this user tweeted
- 
-RT @priyankitisluv2: but before that girl could fully recover, they again took him away from her. Bas uske baad she became numb. She hid al…
- 
-# TJertyrUSER INFO
-![image](http://pbs.twimg.com/profile_images/1628845559766286337/Xo5MQGF9_normal.jpg)
- 
-`User ScreenName:` TJertyr 
- 
-`User chosen Name:` trex jertyr 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 23 19:52:29 +0000 2023 
- 
-`User Description?:` #ApesBay 
- 
-`Followers?: `4 
- 
-`Following?:` 48 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 140 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628845559766286337/Xo5MQGF9_normal.jpg 
- 
-`Number of tweets excluding replies:` 140 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COMMUNITY** 21 , **$ALT** 20 , **@APTOSLAUNCHIO:** 16 , **NICE** 16 , **COMING** 16 , **TOGETHER!** 16 , **PARTNERSHIP** 14 , **1** 14 , **APTOSLAUNCHRT** 13 , **@FOXFAIRYPROJECT:** 12 , **SUI** 12 , **@MASSALABS:** 11 , **JOIN** 9 , **FOX** 9 , **X** 9 , **🌊RT** 8 , **🚀** 8 , **OG** 8 , **FOLLOW** 8 , **@APTOSLAUNCHIO** 8 , 
- 
-## What this user tweeted
- 
-RT @moverxyz: Thanks to @Tetragaze for conducting an excellent audit of Mover's smart contracts. They went to great lengths to check every…
- 
-# Neymass180201USER INFO
-![image](http://pbs.twimg.com/profile_images/1630412333888708610/FihDSUqa_normal.jpg)
- 
-`User ScreenName:` Neymass180201 
- 
-`User chosen Name:` Neymass 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 28 03:38:33 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 207 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 125 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630412333888708610/FihDSUqa_normal.jpg 
- 
-`Number of tweets excluding replies:` 125 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AIRDROP** 17 , **@TWITTER:** 17 , **NFT** 10 , **FOLLOW** 8 , **COMMUNITY** 8 , **ACCESS** 7 , **TWITTER** 7 , **EARLY** 6 , **NEW** 6 , **GALXEOAT** 6 , **WE’RE** 5 , **ANNOUNCE** 5 , **TOKEN** 5 , **GIVING** 5 , **●** 5 , **ADD** 5 , **WE'RE** 5 , **ARBITRUM** 5 , **DEFI** 5 , **VERY** 4 , 
- 
-## What this user tweeted
- 
-RT @KeplerHomes: Before engaging with an unknown creature, it would be important to gather as much information as possible about the creatu…
+RT @KamVTV: Brutal but necessary. @JackPosobiec went nuclear on what Vindman and his brother are up to regarding Ukraine. These facts are f…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
