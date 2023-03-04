@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **CitizenFreePres**  
+The most popular user is: **SecurityTrybe**  
  
 
-## AOC humiliated at a Town Hall:
-
-"You ran as an outsider yet you voted to start this war in Ukraine. You're voting t… https://t.co/uFzDwBQbRU 
+## Cybersecurity Certifications to get in 2023 (For FREE) 
 
   
 
@@ -25,25 +23,25 @@ The most popular user is: **CitizenFreePres**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @garci32: AG Merrick Garland makes unannounced trip to Ukraine, reaffirms US vow to pursue war criminalshttps://t.co/p9hxhNCcR4Bill Ba… |
-| RT @pravda_eng: 🇺🇦🇱🇻 Presidents of Ukraine and Latvia sign declaration about support of Euroatlantic integration of Ukraine https://t.co/dp… |
-| RT @bennyjohnson: BANNON: “We're giving $200 billion to Ukraine... We’ve paid enough in the wars in Europe. We are not a European power.”… |
+| Hiring for Solution Leader (Cybersecurity) for our Managed Services in APAC - Singapore https://t.co/dG4IteVDt3 |
+| if your account is Hacked, or your Account being tempered with, All you need is a Good hacker...Inbox now for all… https://t.co/aB7PQW7U74 |
+| LIVE NOW inside the HACKERverse - The World's First Cybersecurity TV Channel dedicated to HACKERculture (est. Jan 2022) |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **charliekirk11** |
-| #2 Most tweeted to  | **ksorbs** |
-| #3 Most tweeted to  | **BaddCompani** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 5.22%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **SecurityTrybe** |
+| #3 Most tweeted to  | **cybernewslive** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 4.98%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -52,96 +50,57 @@ The most popular user is: **CitizenFreePres**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **RUSSIA** |
-| fourth  | **US**  |
-| fifth  | **ANOTHER**  |
+| first  | **INFOSEC**  |
+| second  | **STRATEGY**  |
+| third  | **NATIONAL** |
+| fourth  | **HACKING**  |
+| fifth  | **PENTESTING**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (64.29%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (28.57%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @blackintheempir: Agree with Russia going into Ukraine or not, Putin and Russia are the ones telling the truth about why the war started… |
+|Let's talk about Your #Broadband Success at @NRECANews #TechAdvantage next week in Nashville. CHR provides products… https://t.co/6LDe1SMBEE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CitizenFreePres**  |
+| The most retweeted user is: **SecurityTrybe**  |
 | ------------- |
-| AOC humiliated at a Town Hall:"You ran as an outsider yet you voted to start this war in Ukraine. You're voting t… https://t.co/uFzDwBQbRU |
+| Cybersecurity Certifications to get in 2023 (For FREE) |
 
 # Potential Fake Accounts
  
-# ShreyinformsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1629105708523458560/zdfrapN5_normal.jpg)
+# Douglasj69USER INFO
+![image](http://pbs.twimg.com/profile_images/1630925293174112257/rMgsYdsl_normal.png)
  
-`User ScreenName:` Shreyinforms 
+`User ScreenName:` Douglasj69 
  
-`User chosen Name:` Shreyinforms 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 24 11:55:29 +0000 2023 
- 
-`User Description?:` Follow us to get all important updates related to interest of you and me. I publish all the essential articles which are of interest to health, news and gaming 
- 
-`Followers?: `69 
- 
-`Following?:` 166 
- 
-`User URL?:` https://t.co/9Xy3rewp3R 
- 
-`Location:` Navi Mumbai, India 
- 
-`Number of tweets extracted`  : 37 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1629105708523458560/zdfrapN5_normal.jpg 
- 
-`Number of tweets excluding replies:` 37 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HERE** 6 , **@SHREYINFORMS:** 6 , **RAM** 6 , **MANDIR** 6 , **UKRAINE** 5 , **PANEER** 5 , **COMPLEX** 4 , **CULTURAL** 4 , **AROUND** 4 , **KAZHAGAM** 4 , **READ** 4 , **CHATTERJEE** 3 , **VS** 3 , **FACTORS** 3 , **CONFLICT** 3 , **LATEST** 3 , **INVOLVING** 3 , **PEOPLE** 3 , **INDIA** 3 , **QUICK** 3 , 
- 
-## What this user tweeted
- 
-Here is another good explanation why the Russia/Ukraine War is happening. It was President Trump who ruined their p… https://t.co/q5HpRWF90o
- 
-# aus_voiceUSER INFO
-![image](http://pbs.twimg.com/profile_images/1629398284216471555/rjPd2HEb_normal.png)
- 
-`User ScreenName:` aus_voice 
- 
-`User chosen Name:` Aus Voice 
+`User chosen Name:` Douglas Johnson 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Feb 25 08:29:58 +0000 2023 
+`User signup date?:` Wed Mar 01 13:37:45 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 10 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1629398284216471555/rjPd2HEb_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1630925293174112257/rMgsYdsl_normal.png 
  
-`Number of tweets excluding replies:` 371 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -149,77 +108,81 @@ Here is another good explanation why the Russia/Ukraine War is happening. It was
  
 ## User Top tweeted words 
  
-**@RVIKRAMAN** 136 , **ARAM** 89 , **VIKRAMAN** 24 , **@VIJAYSTANGIRL** 21 , **@CHIYANPRABAKAR4** 18 , **ARAMVELLUM** 16 , **VELLUM!!!RT** 16 , **ARAMVELLUMLEGALAID** 12 , **@KIARA_THAMIZHEE:** 11 , **VIKKU** 10 , **@RAZZMATAZZJOE** 8 , **VAATHIVIKRAMAN** 7 , **STUDENTS** 7 , **WOMEN** 7 , **TOTALWINNERVIKRAMAN** 6 , **CAN'T** 6 , **GOOD** 6 , **MANY** 5 , **COLLEGE** 5 , **BRO** 5 , 
+**@MEND_IO:** 2 , **RT** 1 , **BIDEN** 1 , **ADMINISTRATION** 1 , **RELEASED** 1 , **ITS** 1 , **NATIONAL** 1 , **CYBERSECURITY** 1 , **STRATEGY** 1 , **CALLING** 1 , **MAJOR** 1 , **REGULATORY** 1 , **CHANGES** 1 , **KEY** 1 , **INDUSTR…RT** 1 , **❗TWITTER** 1 , **TAKEOVER:** 1 , **HELLO** 1 , **CHRIS** 1 , **LINDSEY** 1 , 
  
 ## What this user tweeted
  
-RT @abcnews: Crowd laughs as Russia's foreign minister claims Ukraine war 'was launched against us' https://t.co/WkQVWvxg4V
+RT @Mend_io: The Biden Administration has released its National Cybersecurity Strategy, calling for major regulatory changes in key industr…
  
-# ELYSIYONUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631451364915118081/PA_k6RLH_normal.jpg)
+# spartachainUSER INFO
+![image](http://pbs.twimg.com/profile_images/1631796055405903874/QXS_j9cc_normal.jpg)
  
-`User ScreenName:` ELYSIYON 
+`User ScreenName:` spartachain 
  
-`User chosen Name:` 🫒⬛🟨🫒 
+`User chosen Name:` SPARTA 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 03 00:06:09 +0000 2023 
+`User signup date?:` Wed Feb 22 20:29:17 +0000 2023 
  
-`User Description?:` Husband of @faeiryfreya 🌻🌻🌻 
+`User Description?:` “In the end, a Spartan’s true strength is the warrior next to him. So give respect and honor to him, and it will be returned to you.”
+
+#IAMSPARTA 
  
-`Followers?: `17 
+`Followers?: `27 
  
-`Following?:` 16 
+`Following?:` 178 
+ 
+`User URL?:` None 
+ 
+`Location:` Sparta  
+ 
+`Number of tweets extracted`  : 188 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1631796055405903874/QXS_j9cc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 189 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FEGTOKEN** 17 , **@STE_CHA_FEG** 11 , **@1QUADRICH:** 9 , **@MYMONERO:** 8 , **I'M** 8 , **QUADLIFE** 8 , **@SECURITYTRYBE:** 7 , **FEGTOKEN** 7 , **$QUAD** 7 , **MANY** 6 , **💪** 6 , **WHICH** 6 , **@JHADDIX:** 6 , **AFTER** 6 , **@LIFE__MASTERY:** 6 , **NEED** 6 , **TOOL** 6 , **HACKED** 5 , **CYBERSECURITY** 5 , **TIME** 5 , 
+ 
+## What this user tweeted
+ 
+RT @SecurityTrybe: Search Engines for PenTesters 
+
+#Hacked #CyberAttack #infosec #cybersecurity #community #security #Pentesting https://t.…
+ 
+# Ransom_DiaryUSER INFO
+![image](http://pbs.twimg.com/profile_images/1628806449395539968/mbGirI0Q_normal.jpg)
+ 
+`User ScreenName:` Ransom_Diary 
+ 
+`User chosen Name:` Ransom Diary 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 23 17:11:03 +0000 2023 
+ 
+`User Description?:` Your personal #ransomware scraper. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 24 
+`Number of tweets extracted`  : 68 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631451364915118081/PA_k6RLH_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1628806449395539968/mbGirI0Q_normal.jpg 
  
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FIND** 2 , **ENTIRE** 2 , **ELYSIAN** 2 , **FLOODED** 2 , **@SINKPLSSER** 1 , **THREE** 1 , **INCHES** 1 , **TALLBUYING** 1 , **UKRAINE** 1 , **PATCHES** 1 , **DYE** 1 , **BLUE** 1 , **PART** 1 , **BLACK** 1 , **HABSBURG** 1 , **PATCHES@MOJITBH** 1 , **@YOUNGSLOSHY** 1 , **PRETTY** 1 , **SURE** 1 , **DOES** 1 , 
- 
-## What this user tweeted
- 
-buying ukraine patches to dye the blue part black for habsburg patches
- 
-# VanessacatieUSER INFO
-![image](http://pbs.twimg.com/profile_images/1628337349087174657/1LVd48cd_normal.jpg)
- 
-`User ScreenName:` Vanessacatie 
- 
-`User chosen Name:` Vanessa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Feb 22 10:13:09 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `16 
- 
-`Following?:` 34 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628337349087174657/1LVd48cd_normal.jpg 
- 
-`Number of tweets excluding replies:` 620 
+`Number of tweets excluding replies:` 68 
  
 
  
@@ -227,112 +190,32 @@ buying ukraine patches to dye the blue part black for habsburg patches
  
 ## User Top tweeted words 
  
-**@NYTIMES:** 57 , **@WASHINGTONPOST:** 37 , **@TIME:** 31 , **NEW** 15 , **@POTUS:** 13 , **PEOPLE** 12 , **TIME** 11 , **US** 11 , **MOST** 9 , **AFTER** 9 , **@NEWYORKER:** 9 , **ITS** 9 , **TWO** 8 , **T…RT** 8 , **LAST** 8 , **YEAR** 8 , **SOME** 7 , **ALEX** 7 , **MURDAUGH** 7 , **STATE** 7 , 
+**RANSOMWARE** 68 , **ATTACK** 68 , **VICTIM:** 68 , **BAD** 67 , **GUY:** 67 , **WHEN:** 66 , **2023** 60 , **UTC…** 44 , **FEB** 37 , **MAR** 26 , **LOCKBIT3** 24 , **FRI** 15 , **WED** 12 , **01** 12 , **MON** 12 , **27** 12 , **BIANLIAN** 11 , **TUE** 11 , **28** 11 , **03** 9 , 
  
 ## What this user tweeted
  
-RT @SamRamani2: Sergei Lavrov’s comments on the Ukraine War are greeted with laughter in India https://t.co/eETPILPiUART @maxseddon: Speaking in India, whose government has been sympathetic to Putin’s claims on Ukraine and helped Moscow mitigate the effect…
+What: #Ransomware attack
+The victim: HUNOSA
+The bad guy: #vicesociety
+When: Fri, 03 Mar 2023 22:53:47 UTC… https://t.co/TpCMb9d0xyWhat: #Ransomware attack
+The victim: New-Leak-in-lawyers-company-AASP
+The bad guy: #ragnarlocker
+When: Fri, 03 Mar… https://t.co/Iw50ruJEy8
  
-# HoitypoiteeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1628808215482839045/zpAKZi89_normal.jpg)
+# KRIPT099USER INFO
+![image](http://pbs.twimg.com/profile_images/1629446960997605377/vlE6XwJF_normal.jpg)
  
-`User ScreenName:` Hoitypoitee 
+`User ScreenName:` KRIPT099 
  
-`User chosen Name:` man up 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 23 17:25:14 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 24 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 82 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1628808215482839045/zpAKZi89_normal.jpg 
- 
-`Number of tweets excluding replies:` 82 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**US** 6 , **@BARONITAIGAS** 4 , **MAN** 4 , **TOLD** 4 , **@GEORGEGALLOWAY** 4 , **WEST** 3 , **SCHOOLS** 3 , **DRAG** 3 , **NAZI** 3 , **COKE** 3 , **HEAD** 3 , **DEMENTIA** 3 , **UKRAINE** 3 , **LOOKS** 3 , **JIMMY** 3 , **DON'T** 3 , **YUP** 3 , **GONNA** 3 , **73** 3 , **GENDERS** 3 , 
- 
-## What this user tweeted
- 
-@McFaul How can U.S. be funding a nazi drug addict in Ukraine???
- 
-# KevinRi58376058USER INFO
-![image](http://pbs.twimg.com/profile_images/1631490599894368257/eQDKgOTc_normal.jpg)
- 
-`User ScreenName:` KevinRi58376058 
- 
-`User chosen Name:` Kevin Richard 
+`User chosen Name:` KRIPT099 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Feb 22 16:44:58 +0000 2023 
+`User signup date?:` Sat Feb 25 11:21:23 +0000 2023 
  
-`User Description?:` God first
-| Forex/crypto trader📈📊 
-🌴No More 9 to 5🌴
-| Make $20k less than 31 days💵💷
-| 📚6-7 Figures Entrepreneur
-|📈LEARN to TRADE
-📩DM to start earning! 
+`User Description?:` "Vulnerabilities beware, bug bounty hunter is here! With my cyber-sleuthing skills, I'll find and squash bugs before they can cause any harm.#bugbounty #infosec 
  
-`Followers?: `349 
- 
-`Following?:` 325 
- 
-`User URL?:` None 
- 
-`Location:` Houston, TX 
- 
-`Number of tweets extracted`  : 106 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631490599894368257/eQDKgOTc_normal.jpg 
- 
-`Number of tweets excluding replies:` 106 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@POTUS:** 33 , **@THE_TRUMP_TRAIN:** 15 , **@JOEBIDEN:** 11 , **–** 10 , **BIDEN** 9 , **UKRAINE** 9 , **@JDUNLAP1974:** 9 , **TRUMP** 8 , **YEARS** 7 , **THAN** 6 , **TWO** 6 , **GOING** 5 , **PRESIDENT** 5 , **REPUBLICANS** 4 , **WAR** 4 , **CARE** 4 , **LAST** 4 , **NATION** 4 , **AMERICANS** 4 , **AMERICA** 4 , 
- 
-## What this user tweeted
- 
-RT @POTUS: The last time we were here together, Russia was amassing its troops on Ukraine’s border. 
- 
-@Bundeskanzler and I made it clear t…
- 
-# nguynNh55568847USER INFO
-![image](http://pbs.twimg.com/profile_images/1631624297809584128/rdssmfRa_normal.png)
- 
-`User ScreenName:` nguynNh55568847 
- 
-`User chosen Name:` nguyễn Nhân 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 03 11:55:21 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
+`Followers?: `11 
  
 `Following?:` 9 
  
@@ -340,11 +223,11 @@ RT @POTUS: The last time we were here together, Russia was amassing its troops o
  
 `Location:`  
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 11 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631624297809584128/rdssmfRa_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1629446960997605377/vlE6XwJF_normal.jpg 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 11 
  
 
  
@@ -352,11 +235,212 @@ RT @POTUS: The last time we were here together, Russia was amassing its troops o
  
 ## User Top tweeted words 
  
-**EM** 5 , **CÓ** 4 , **ANH** 4 , **XEM** 4 , **ĐƯỢC** 3 , **NHƯNG** 3 , **MUỐN** 3 , **TẢI** 3 , **APP** 3 , **LIVE** 3 , **SHOW** 3 , **HÀNG** 3 , **THỂ** 2 , **TỰ** 2 , **MỘT** 2 , **VỚI** 2 , **@DNG_CAM:** 2 , **FREE** 2 , **:** 2 , **@KIMKARDASHIAN:** 2 , 
+**INFOSEC** 8 , **👇** 5 , **SEARCH** 4 , **CYBERSECURITY** 3 , **:** 3 , **BUGBOUNTYTIPS** 3 , **ENGINE** 3 , **TOP** 2 , **TRYHACKME** 2 , **HACKING** 2 , **CYBERSEC** 2 , **CYBERSECURITYTIPS** 2 , **BUGBOUNTY** 2 , **NMAP** 2 , **XSS** 2 , **INTO** 1 , **WORLDS** 1 , **11TH** 1 , **RANKING** 1 , **LEADERBOARD** 1 , 
  
 ## What this user tweeted
  
-RT @CNN: Attorney General Merrick Garland made an unannounced trip to Ukraine on Friday, a Justice Department official says https://t.co/bT…
+Into worlds top 11th ranking on Tryhackme
+
+#tryhackme #leaderboard #infosec #cybersecurity #ctf #Hacking https://t.co/0U5Jfa3Thi
+ 
+# thefrugalfanatcUSER INFO
+![image](http://pbs.twimg.com/profile_images/1631761218582003713/bPuGJ_oe_normal.jpg)
+ 
+`User ScreenName:` thefrugalfanatc 
+ 
+`User chosen Name:` N K 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 03 20:58:44 +0000 2023 
+ 
+`User Description?:` A personal finance enthusiast 
+ 
+`Followers?: `2 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1631761218582003713/bPuGJ_oe_normal.jpg 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PLANS** 7 , **LIST** 7 , **NASDAQ** 7 , **LOOKING** 6 , **SELL** 6 , **MILLION** 6 , **SHARES** 6 , **PRICE** 6 , **PER** 6 , **IRA** 3 , **RANGE** 3 , **$400** 3 , **$500** 3 , **RETIREMENT** 2 , **TAX** 2 , **ROTH** 2 , **401K** 2 , **DIGITAL** 2 , **INCREASING** 2 , **HEALTHCARE** 2 , 
+ 
+## What this user tweeted
+ 
+Cybersecurity: With the increasing use of digital technologies, cybersecurity threats are also on the rise. The dem… https://t.co/lrSAvIX8rN
+ 
+# RecoveryXlsUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` RecoveryXls 
+ 
+`User chosen Name:` XLS Recovery 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 03 20:44:13 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 3 , **CYBERSECURITY** 3 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **INFOSEC** 2 , **BUGCROWD** 2 , **BUGBOUNTYTIPS** 2 , **BUGBOUNTYTIP** 2 , **SOCINATOR** 1 , **DOMINATOR** 1 , **ENTERPRISE** 1 , **V100144** 1 , **OFF** 1 , **HTTPS://TCO/FFXTLNYDKG** 1 , **INFOSEC…** 1 , **HTTPS://TCO/5AIXEQONOXHTTPS://TCO/QE3KZRT4ROTRENDING** 1 , **HTTPS://TCO/RXMFSIA5PI** 1 , **100DAYSOFCODE…** 1 , 
+ 
+## What this user tweeted
+ 
+Socinator Dominator Enterprise v1.0.0.144 Full Activated – Discount 100% OFF https://t.co/ffXtlnyDKG #infosec… https://t.co/5aIXEqONOxTrending https://t.co/RXmFsIa5PI #infosec #bugcrowd #bugbountytips #bugbountytip #CyberSecurity #100DaysOfCode… https://t.co/gJ0WVJ5L2sInvicti Professional Edition 23.2.0.39705 Full Activated – CyberSecurity Tools – Discount 100% OFF… https://t.co/a5cOmQi1Fi
+ 
+# WoodPowellDCUSER INFO
+![image](http://pbs.twimg.com/profile_images/1630984118459564094/g6Fso6Qk_normal.jpg)
+ 
+`User ScreenName:` WoodPowellDC 
+ 
+`User chosen Name:` Wood Powell 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 01 14:51:03 +0000 2023 
+ 
+`User Description?:` Fmr Managing Director @TOPteachGermany at @GoetheDC • Georgia Tech • 🇺🇸🇩🇪🇪🇺 transatlanticist • connector of people and ideas • ♥️ #apprenticeship 
+ 
+`Followers?: `15 
+ 
+`Following?:` 281 
+ 
+`User URL?:` None 
+ 
+`Location:` Washington, DC 
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1630984118459564094/g6Fso6Qk_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**🇩🇪** 4 , **NEW** 4 , **@ABAERBOCK** 4 , **@BUNDESKANZLER** 3 , **GUIDELINES** 3 , **@CONSTELZ** 2 , **ANY** 2 , **@AMYFIRES1** 2 , **INTERESTING** 2 , **@LSXFELLOWSHIP** 2 , **@POTUS** 2 , **STRATEGY** 2 , **DURING** 2 , **VISIT** 2 , **🇺🇸** 2 , **WASHINGTON** 2 , **@GERMANAMBUSA:** 2 , **WELCOME** 2 , **@GERMANAMBUSA** 2 , **HOSTING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @ONCD: Today, @POTUS released the National Cybersecurity Strategy. The Strategy sets forth a new vision for the future of cyberspace and…
+ 
+# JanusIDPUSER INFO
+![image](http://pbs.twimg.com/profile_images/1629219782217146374/wynoKVFc_normal.png)
+ 
+`User ScreenName:` JanusIDP 
+ 
+`User chosen Name:` Janus community 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 24 20:40:39 +0000 2023 
+ 
+`User Description?:` Janus is a community for building Internal Development Platforms and Plugins with https://t.co/34OrjMIM2H An OpenSource project found on GitHub: https://t.co/WotpvwOhHR 
+ 
+`Followers?: `17 
+ 
+`Following?:` 41 
+ 
+`User URL?:` https://t.co/ZU36GD2vk0 
+ 
+`Location:` OpenSource 
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1629219782217146374/wynoKVFc_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BACKSTAGE** 4 , **IMAGES** 4 , **LEARN** 4 , **AVAILABLE** 3 , **PIPELINE** 2 , **SECURE** 2 , **@JANUSIDP'S** 2 , **@QUAY_IO** 2 , **DEVOPS** 2 , **LATEST** 2 , **🔒** 1 , **KEEP** 1 , **POWE…** 1 , **HTTPS://TCO/LHGEQVJJAWRT** 1 , **@SERENAMARIE125:** 1 , **SIGN** 1 , **GREAT** 1 , **THINGS** 1 , **COME** 1 , **🙌🏼** 1 , 
+ 
+## What this user tweeted
+ 
+🔒 Keep your pipeline secure with @JanusIDP's backstage images now available on @Quay_io. Learn more about this powe… https://t.co/lhgeQVjJaw
+ 
+# towfique_hasan1USER INFO
+![image](http://pbs.twimg.com/profile_images/1630993034816135169/_XUnC-Qe_normal.jpg)
+ 
+`User ScreenName:` towfique_hasan1 
+ 
+`User chosen Name:` SK M TOWFIQUE HASAN SAGOR 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 01 18:06:56 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `8 
+ 
+`Following?:` 308 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1630993034816135169/_XUnC-Qe_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SECURITYTRYBE:** 5 , **CYBERSECURITY** 4 , **SECURITY** 3 , **INFORMATION** 2 , **(FREE)** 2 , **1** 2 , **COURSE** 2 , **FREE** 2 , **RESOURCES** 2 , **RT** 1 , **TIP** 1 , **DAY** 1 , **KEEP** 1 , **SENSITIVE/PERSONAL** 1 , **PRIVATERT** 1 , **CISCO** 1 , **NETWORKING** 1 , **ACADEMY** 1 , **OFFERING** 1 , **CERTIFICATIONS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SecurityTrybe: Cisco Networking Academy is offering this Certifications and Courses (FREE)
+
+1.   Introduction to Cybersecurity 
+
+https:…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
