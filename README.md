@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **KeplerHomes**  
+The most popular user is: **RikhardHusu**  
  
 
-## Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK 
+## Finnish prime minister Sanna Marin was asked about a potential off-ramp for Russia to end the war in Ukraine. Her r… https://t.co/9wKpEVesxb 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **KeplerHomes**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @kennyflorian: Shavkat with a big win over a tough Neal but it is clear he has vulnerabilities/weaknesses to work on. He definitely prov… |
-| @andyyo_ng @crimlawuk @TonyDowson5 I see that too. It would appear the full video is not released but the evidence… https://t.co/BzMWdLv9LG |
-| RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. As the promise of decentralized techno… |
+| RT @BadBalticTakes: Estonia has decided.A clear win for PM @kajakallas &amp; staunchly pro-Ukraine policies.Remember last year, Kremlin acc… |
+| RT @ChinasaNworu: Ukrainian forces cling to Bakhmut under severe #Russian pressure. @ForeignAffairs @real_IpobDOS @mfa_russia @LeahHardingA… |
+| Agree! Bush jr failed to punish him &amp; Obama sucked up to him &amp; then failed to punish him &amp; Biden rewarded him that… https://t.co/TeEP5l7dQy |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **QuillAudits** |
-| #2 Most tweeted to  | **MacFarlaneNews** |
-| #3 Most tweeted to  | **Jhaddix** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 5.48%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **intermarium24** |
+| #2 Most tweeted to  | **60Minutes** |
+| #3 Most tweeted to  | **visegrad24** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 5.74%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -50,59 +50,57 @@ The most popular user is: **KeplerHomes**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **WEB3**  |
-| third  | **@QUILLAUDITS:** |
-| fourth  | **ECOSYSTEM**  |
-| fifth  | **YEAR**  |
+| first  | **UKRAINE**  |
+| second  | **WAR**  |
+| third  | **RUSSIAN** |
+| fourth  | **RUSSIA**  |
+| fifth  | **UKRAINIAN**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ruby_exchange: Announcing Ruby's Bug Bounty! 🦟Earn up to $10,000 in $RUBY by finding and reporting potential exploits and vulnerabili… |
+|Russia-Ukraine war: How both sides of the conflict have used crypto to win https://t.co/0JD9oWi2kr #Ukraine… https://t.co/S9SQNAM74G |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KeplerHomes**  |
+| The most retweeted user is: **RikhardHusu**  |
 | ------------- |
-| Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK |
+| Finnish prime minister Sanna Marin was asked about a potential off-ramp for Russia to end the war in Ukraine. Her r… https://t.co/9wKpEVesxb |
 
 # Potential Fake Accounts
  
-# ANTWILAWRENCEO1USER INFO
-![image](http://pbs.twimg.com/profile_images/1629235753526992897/PhlwsPk2_normal.jpg)
+# CommonGroundYTUSER INFO
+![image](http://pbs.twimg.com/profile_images/1632186034174795779/LFJuOfV6_normal.jpg)
  
-`User ScreenName:` ANTWILAWRENCEO1 
+`User ScreenName:` CommonGroundYT 
  
-`User chosen Name:` Lawrence_ 
+`User chosen Name:` Common Ground Show 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Feb 24 21:27:15 +0000 2023 
+`User signup date?:` Sun Mar 05 00:39:23 +0000 2023 
  
-`User Description?:` One day they will realize, they gave up a diamond to play with rocks. 
- University of professional studies.
-Sigma male 
+`User Description?:` We consist of a 48 y/o White Republican and a 36 y/o Hispanic Democrat w/wildly different political views.  Join us on our journey of exploring our differences! 
  
-`Followers?: `3 
+`Followers?: `7 
  
-`Following?:` 41 
+`Following?:` 174 
  
-`User URL?:` None 
+`User URL?:` https://t.co/PBeKjQ90Fc 
  
-`Location:` Accra-Ghana 
+`Location:` USA 
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 10 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1629235753526992897/PhlwsPk2_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1632186034174795779/LFJuOfV6_normal.jpg 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 10 
  
 
  
@@ -110,32 +108,148 @@ Sigma male
  
 ## User Top tweeted words 
  
-**MEN** 4 , **"IT'S** 2 , **GOING** 2 , **BACK** 2 , **US** 2 , **MAN** 2 , **@ONESUPERMANN:** 2 , **RT** 1 , **@BRUTAL_MINDSET:** 1 , **15** 1 , **RULES** 1 , **HTTPS://TCO/QOAZ2Q645VRT** 1 , **@UTDPLUG:** 1 , **🚨** 1 , **SHAW:** 1 , **EASY** 1 , **WATCHING** 1 , **[TEN** 1 , **HAG]** 1 , **MAKE** 1 , 
+**REPUBLICAN** 4 , **FORMER** 2 , **US** 2 , **TRUMP** 2 , **SECURITY** 2 , **2024** 2 , **DEMOCRAT** 2 , **FIND** 2 , **REPUBLICANS…** 2 , **RT** 1 , **@AJENGLISH:** 1 , **PRESIDENT** 1 , **DONALD** 1 , **ELECTED** 1 , **NEXT** 1 , **YEAR** 1 , **COULD** 1 , **RUSSIA-UKRAINE** 1 , **WAR** 1 , **DAY** 1 , 
  
 ## What this user tweeted
  
-RT @FemaleMindGames: @MenMoneyMindset Keep your weaknesses &amp; vulnerabilities to yourself as a man.
-
-Societies obsession with men exposing w…
+RT @AJEnglish: Former US President Donald Trump says if elected next year he could end the Russia-Ukraine war in one day and single-handedl…
  
-# omar_anadhirUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631475875563679745/UteO13qn_normal.jpg)
+# blk764USER INFO
+![image](http://pbs.twimg.com/profile_images/1629337630650388481/Fkn_mjhr_normal.jpg)
  
-`User ScreenName:` omar_anadhir 
+`User ScreenName:` blk764 
  
-`User chosen Name:` A Omar 
+`User chosen Name:` Blk764 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 02 21:27:57 +0000 2023 
+`User signup date?:` Sat Feb 25 04:15:07 +0000 2023 
  
-`User Description?:` To empower people to harness the full potential of technology.  Teaches essential #TechSkills to increase #Productivity.
+`User Description?:` For God and Country 🇺🇸🇺🇸 
+ 
+`Followers?: `272 
+ 
+`Following?:` 440 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1629337630650388481/Fkn_mjhr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 859 
+ 
 
- #Mentorship #StartUps #Cybersecurity 
  
-`Followers?: `4 
+
  
-`Following?:` 53 
+## User Top tweeted words 
+ 
+**@LIONHEARTED76:** 13 , **@45TF5** 9 , **@827JS** 9 , **@1MIR_R** 9 , **@ILEGVM** 9 , **@MNS__5** 9 , **@X4EILEEN** 9 , **@J0KER937** 8 , **@KEITH0STA** 8 , **@1NICDAR:** 7 , **PEOPLE** 6 , **THAN** 6 , **@45KAG1** 6 , **@JACKPOSOBIEC:** 6 , **AMEN** 5 , **TRUMP** 5 , **BIDEN** 5 , **@BAGEL69ER** 5 , **👍👍👍👍RT** 4 , **SAY** 4 , 
+ 
+## What this user tweeted
+ 
+RT @wheresourLOGIC: We now know Ukraine is NOT
+‘the good guys’.
+They’re the complete opposite.
+But if we know they’re not what they say yet…
+ 
+# BobBoba90228498USER INFO
+![image](http://pbs.twimg.com/profile_images/1629356465428529154/OOMYH_Z5_normal.jpg)
+ 
+`User ScreenName:` BobBoba90228498 
+ 
+`User chosen Name:` Bob Boba 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 25 04:26:03 +0000 2023 
+ 
+`User Description?:` Vegas Gambler 
+ 
+`Followers?: `24 
+ 
+`Following?:` 331 
+ 
+`User URL?:` None 
+ 
+`Location:` Los Angeles, CA 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1629356465428529154/OOMYH_Z5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 287 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RUSSELL** 16 , **WAR** 15 , **MSNBC** 15 , **BRAND** 14 , **@POTUS** 12 , **WHITE** 9 , **TRUMP** 8 , **BLACK** 7 , **2** 7 , **LIBERAL** 7 , **JOHN** 7 , **BIDEN** 6 , **JOBS** 6 , **SCAMS** 6 , **PRESIDENT** 5 , **U** 5 , **NIGHT** 5 , **LAST** 5 , **MSNBC'S** 5 , **BACK** 5 , 
+ 
+## What this user tweeted
+ 
+@ericareport The greatest Leader Ukraine has ever had...too bad for us in the U.S unfortunately https://t.co/t7G0ycIWoy
+ 
+# NrsAlex11USER INFO
+![image](http://pbs.twimg.com/profile_images/1629805720391626754/AKgRXmvl_normal.jpg)
+ 
+`User ScreenName:` NrsAlex11 
+ 
+`User chosen Name:` Alex Dung 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 26 11:28:58 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 61 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1629805720391626754/AKgRXmvl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PRESIDENT** 3 , **TRUTH** 3 , **@_DINOMELAYE:** 3 , **INEC** 3 , **@PO_GRASSROOTM:** 2 , **DEAR** 2 , **PEOPLE** 2 , **LIARS** 2 , **@SHEHUSANI:** 2 , **WHERE** 2 , **ACTOR** 2 , **KANAYO** 2 , **@FIRSTLADYSHIP:** 2 , **PETER** 2 , **OBI** 2 , **APC** 2 , **FCT** 2 , **RT** 1 , **@ZELENSKYYUA** 1 , **UKRAINE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @PO_GrassRootM: Dear @ZelenskyyUa, the President of Ukraine 🇺🇦 the Nigerian people showed you support and sympathy, you're returning it…
+ 
+# mexicorepublic3USER INFO
+![image](http://pbs.twimg.com/profile_images/1630550689939173377/zCBfqeVU_normal.jpg)
+ 
+`User ScreenName:` mexicorepublic3 
+ 
+`User chosen Name:` mexicorepublicano México Republicano 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 24 05:49:49 +0000 2023 
+ 
+`User Description?:` ACUDE Y AFILIATE MÉXICO REPUBLICANO OAXACA 
+ 
+`Followers?: `7 
+ 
+`Following?:` 96 
  
 `User URL?:` None 
  
@@ -143,7 +257,7 @@ Societies obsession with men exposing w…
  
 `Number of tweets extracted`  : 36 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631475875563679745/UteO13qn_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1630550689939173377/zCBfqeVU_normal.jpg 
  
 `Number of tweets excluding replies:` 36 
  
@@ -153,38 +267,38 @@ Societies obsession with men exposing w…
  
 ## User Top tweeted words 
  
-**ONLINE** 8 , **SECURITY** 7 , **USE** 7 , **DON'T** 7 , **TIPS** 6 , **NEW** 6 , **TOOLS** 6 , **STAY** 5 , **INFORMATION** 5 , **DATA** 5 , **HELP** 5 , **ACCOUNTS** 4 , **LATEST** 4 , **YOURSELF** 4 , **FOLLOW** 3 , **UPDATES** 3 , **PERSONAL** 3 , **PREVENT** 3 , **SOFTWARE** 3 , **UP-TO-DATE** 3 , 
+**Y** 18 , **REPUBLICANO** 18 , **MÉXICO** 15 , **AFILIATE** 12 , **OAXACA** 10 , **@PENANEDERJI:** 9 , **@MEXICOREPUBLIC3:** 9 , **ACUDE** 9 , **LA** 8 , **DE** 7 , **QUE** 7 , **@KIKEGONZALEZRO** 7 , **ROJAS** 6 , **GONZÁLEZ** 4 , **ENRIQUE** 4 , **LOS** 3 , **EN** 3 , **ES** 3 , **EL** 3 , **SOMOS** 3 , 
  
 ## What this user tweeted
  
-Keep your software and operating system up-to-date to prevent security vulnerabilities. #softwaresafety #digitallifesecurity
+RT @PenaNederJI: Marjorie Taylor Greene Ramps Up Anti-Ukraine Rhetoric: Zelensky ‘Wants Our Sons And Daughters To Go Die’ https://t.co/mQld…
  
-# Brahmanjnana7USER INFO
-![image](http://pbs.twimg.com/profile_images/1631716156577918976/TLjnhFkx_normal.png)
+# nowwanne09USER INFO
+![image](http://pbs.twimg.com/profile_images/1631805205187555328/YNSkz4dQ_normal.jpg)
  
-`User ScreenName:` Brahmanjnana7 
+`User ScreenName:` nowwanne09 
  
-`User chosen Name:` Brahmanjnanaananda Nithya 
+`User chosen Name:` nowwanne Jong dae 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 03 18:00:21 +0000 2023 
+`User signup date?:` Fri Mar 03 23:54:12 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Ukrainian army fighting for victory🇺🇦🇺🇦✊ 
  
-`Followers?: `0 
+`Followers?: `2 
  
-`Following?:` 18 
+`Following?:` 28 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Ukraine 
  
-`Number of tweets extracted`  : 9 
+`Number of tweets extracted`  : 13 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631716156577918976/TLjnhFkx_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1631805205187555328/YNSkz4dQ_normal.jpg 
  
-`Number of tweets excluding replies:` 9 
+`Number of tweets excluding replies:` 13 
  
 
  
@@ -192,28 +306,71 @@ Keep your software and operating system up-to-date to prevent security vulnerabi
  
 ## User Top tweeted words 
  
-**WATER** 4 , **@UNDP:** 2 , **COUNTRIES** 2 , **RT** 1 , **@UNGENEVA:** 1 , **"WE** 1 , **NEED** 1 , **SHIFT** 1 , **CRISIS** 1 , **SECURE** 1 , **WORLD** 1 , **CONFLICTS** 1 , **COOPERATION** 1 , **LACK** 1 , **INFOR…RT** 1 , **LEAST** 1 , **DEVELOPED** 1 , **MOST** 1 , **AFFECTED** 1 , **CLIMATECHANGE** 1 , 
+**RUSSIAN** 5 , **FORCES** 4 , **NEED** 3 , **PRAYERS** 3 , **@MFA_UKRAINE:** 3 , **UKRAINIAN** 3 , **ARTILLERY** 3 , **🇺🇦** 2 , **LOOK** 2 , **USED** 2 , **@WARMONITOR3:** 2 , **HIT** 2 , **BASE** 2 , **@ZELENSKYYUA:** 2 , **RT** 1 , **@KYIVINDEPENDENT:** 1 , **⚡** 1 , **ISW:** 1 , **UNLIKELY** 1 , **ENCIRCLE** 1 , 
  
 ## What this user tweeted
  
-RT @UNVolunteers: Volunteering strengthens #women's participation in decision-making &amp; can help overcome vulnerabilities women face in some…
+RT @ua_parliament: Good morning, world💙💛
+
+Stand with Ukraine 🇺🇦
+
+🎥: WarriorsofUkraine https://t.co/BXkByuvtA3
  
-# fredriqkUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631878088807305218/v0oaz2nc_normal.jpg)
+# ll0047972USER INFO
+![image](http://pbs.twimg.com/profile_images/1631473722757357568/6NgHAxHz_normal.jpg)
  
-`User ScreenName:` fredriqk 
+`User ScreenName:` ll0047972 
  
-`User chosen Name:` Dian 
+`User chosen Name:` sisco striker 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 04 04:25:32 +0000 2023 
+`User signup date?:` Fri Mar 03 01:12:07 +0000 2023 
  
-`User Description?:` a realm to burst out my vulnerabilities into 
+`User Description?:` cool and easy going 
+ 
+`Followers?: `6 
+ 
+`Following?:` 111 
+ 
+`User URL?:` None 
+ 
+`Location:` Ghana 
+ 
+`Number of tweets extracted`  : 63 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1631473722757357568/6NgHAxHz_normal.jpg 
+ 
+`Number of tweets excluding replies:` 64 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NAIJA_PR:** 6 , **IGBO** 5 , **GO** 5 , **@JACKSONHINKLLE:** 4 , **U** 3 , **UKRAINE** 3 , **@YABALEFTONLINE:** 3 , **YORUBA** 3 , **DROP** 3 , **THREAD** 3 , **MEN** 2 , **WHICH** 2 , **INTO** 2 , **MAN** 2 , **RUSSIA** 2 , **@JIDESANWOOLU:** 2 , **DOWN** 2 , **LET** 2 , **US** 2 , **@IAMVINICIUS_SNR:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @firstladyship: The man who wrote the Nigeria Constitution &amp; INEC Guideline. He brokered the deal that saved Russia &amp; Ukraine from a nuc…
+ 
+# TimothyStott10USER INFO
+![image](http://pbs.twimg.com/profile_images/1632365683265916929/Zf257GMQ_normal.jpg)
+ 
+`User ScreenName:` TimothyStott10 
+ 
+`User chosen Name:` Timothy Stott 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 05 13:01:21 +0000 2023 
+ 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 5 
+`Following?:` 13 
  
 `User URL?:` None 
  
@@ -221,7 +378,7 @@ RT @UNVolunteers: Volunteering strengthens #women's participation in decision-ma
  
 `Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631878088807305218/v0oaz2nc_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1632365683265916929/Zf257GMQ_normal.jpg 
  
 `Number of tweets excluding replies:` 2 
  
@@ -231,191 +388,28 @@ RT @UNVolunteers: Volunteering strengthens #women's participation in decision-ma
  
 ## User Top tweeted words 
  
-**EVERGLOW✨** 1 , **HTTPS://TCO/PFJFDIOIINHI** 1 , **HI-I** 1 , **NEVER** 1 , **IMAGINE** 1 , **HERE** 1 , **CLAD** 1 , **DEFINITE** 1 , **UNCERTAINTIES** 1 , **YET** 1 , **NAKED** 1 , **UNYIELDING** 1 , **VULNERABILITIES** 1 , **MY…** 1 , **HTTPS://TCO/ZAMGREJRAJ** 1 , 
+**@PHILIPLAUREANO** 1 , **@PAULCLARK42GB** 1 , **@MAKS_NAFO_FELLA** 1 , **SUPPORT** 1 , **REMAINDER** 1 , **WEST?** 1 , **GE…** 1 , **HTTPS://TCO/KMKJ84QOWB@LROMAO_PTBR** 1 , **WHEELBARROW*** 1 , 
  
 ## What this user tweeted
  
-hi, just hi-i never imagine to be here clad in definite uncertainties yet naked with unyielding vulnerabilities. my… https://t.co/zaMgrEjraj
+@philiplaureano @paulclark42GB @Maks_NAFO_FELLA What do you think of the support from the remainder of the West? Ge… https://t.co/KmKJ84qoWb
  
-# karamojayouthAGUSER INFO
-![image](http://pbs.twimg.com/profile_images/1629792516651335680/-Qz3HZlX_normal.jpg)
+# RhondaEntrikin3USER INFO
+![image](http://pbs.twimg.com/profile_images/1629129918851211264/GhYW6RSr_normal.jpg)
  
-`User ScreenName:` karamojayouthAG 
+`User ScreenName:` RhondaEntrikin3 
  
-`User chosen Name:` KARAMOJA YOUTH AGENDA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 26 10:28:07 +0000 2023 
- 
-`User Description?:` Karimojong youth from all political parties and 9 districts of Karamoja, strategising on methods of sustainable peace and development 
- 
-`Followers?: `59 
- 
-`Following?:` 570 
- 
-`User URL?:` None 
- 
-`Location:` Uganda 
- 
-`Number of tweets extracted`  : 71 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1629792516651335680/-Qz3HZlX_normal.jpg 
- 
-`Number of tweets excluding replies:` 71 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UGANDA** 6 , **PEOPLE** 5 , **PEACE** 5 , **KARAMOJA** 5 , **KENYA** 5 , **@NBSTV:** 5 , **WATER** 4 , **SCHOOL** 3 , **AFTER** 3 , **SOUTH** 3 , **SUDAN** 3 , **BEING** 3 , **MOROTO** 3 , **BORDER** 3 , **KAABONG** 3 , **DISTRICT** 3 , **LEADERS** 3 , **IRON** 3 , **USE** 3 , **TIME** 3 , 
- 
-## What this user tweeted
- 
-Apart from the insecurity we are facing
-The lasting vulnerabilities brought about by its violent past and rapidly c… https://t.co/W4Opi6zHTG
- 
-# 0xwinxz19USER INFO
-![image](http://pbs.twimg.com/profile_images/1631230422255542272/MEWhLYSl_normal.jpg)
- 
-`User ScreenName:` 0xwinxz19 
- 
-`User chosen Name:` Deib 
+`User chosen Name:` Rhonda Entrikin 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 02 09:43:36 +0000 2023 
+`User signup date?:` Fri Feb 24 14:40:00 +0000 2023 
  
-`User Description?:` Manifesting big winx 
- 
-`Followers?: `7 
- 
-`Following?:` 228 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631230422255542272/MEWhLYSl_normal.jpg 
- 
-`Number of tweets excluding replies:` 254 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 168 , **FOLLOW** 113 , **HOURS** 105 , **•** 88 , **+** 62 , **$50** 47 , **||** 41 , **24** 41 , **~** 32 , **IDR** 31 , **📌RT** 31 , **GIVEAWAY** 30 , **ENDS** 23 , **$20** 23 , **3** 21 , **-RT** 20 , **$10** 19 , **4** 18 , **$100** 18 , **💜** 16 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# luckieonesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631257536275021824/e9ylR6Cn_normal.jpg)
- 
-`User ScreenName:` luckieones 
- 
-`User chosen Name:` v's fb ya temn🙆 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 02 11:24:38 +0000 2023 
- 
-`User Description?:` for what— 
+`User Description?:`  
  
 `Followers?: `24 
  
-`Following?:` 106 
- 
-`User URL?:` None 
- 
-`Location:` win 
- 
-`Number of tweets extracted`  : 72 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631257536275021824/e9ylR6Cn_normal.jpg 
- 
-`Number of tweets excluding replies:` 73 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 53 , **FOLLOW** 34 , **HOURS** 29 , **•** 26 , **+** 23 , **$50** 13 , **~** 13 , **24** 12 , **GIVEAWAY** 11 , **||** 9 , **IDR** 9 , **$20** 9 , **$100** 7 , **🍒** 7 , **@SOF1AZARA03:** 7 , **MINS** 7 , **@ZARAGIVEAWAY:** 6 , **$30** 6 , **@JIHANICORN:** 6 , **2** 6 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# LiaMaryam8USER INFO
-![image](http://pbs.twimg.com/profile_images/1631665075865149440/EoQlVnEd_normal.jpg)
- 
-`User ScreenName:` LiaMaryam8 
- 
-`User chosen Name:` Lia Maryam 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 03 10:57:56 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `9 
- 
-`Following?:` 181 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 178 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631665075865149440/EoQlVnEd_normal.jpg 
- 
-`Number of tweets excluding replies:` 180 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 111 , **FOLLOW** 106 , **HOURS** 86 , **||** 58 , **+** 55 , **$50** 48 , **•** 46 , **24** 29 , **GIVEAWAY** 25 , **IDR** 25 , **~** 24 , **4** 24 , **💜** 22 , **@JIHANICORN:** 21 , **$30** 21 , **-RT** 20 , **$20** 20 , **📌RT** 16 , **🔔** 13 , **48** 13 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# 0xxdendamUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631306726518697987/Rj2DSCDi_normal.jpg)
- 
-`User ScreenName:` 0xxdendam 
- 
-`User chosen Name:` Dendam W1n 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 02 14:04:40 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `18 
- 
-`Following?:` 268 
+`Following?:` 257 
  
 `User URL?:` None 
  
@@ -423,50 +417,9 @@ As the promise of decentralized techno…
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631306726518697987/Rj2DSCDi_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1629129918851211264/GhYW6RSr_normal.jpg 
  
-`Number of tweets excluding replies:` 578 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 169 , **FOLLOW** 74 , **$2** 61 , **@CRYPTO_YNAH:** 60 , **30MINS** 60 , **ONLY:** 60 , **HOURS** 52 , **~** 49 , **IDR** 48 , **•** 37 , **+** 32 , **MINS** 30 , **||** 27 , **$50** 25 , **@BUNNIEFIED:** 24 , **❇️** 23 , **$5** 22 , **GIVEAWAY** 20 , **72500** 19 , **60** 19 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# 0xysmvin_USER INFO
-![image](http://pbs.twimg.com/profile_images/1630109353687810048/31HgT0is_normal.jpg)
- 
-`User ScreenName:` 0xysmvin_ 
- 
-`User chosen Name:` 🦄 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Feb 25 09:09:28 +0000 2023 
- 
-`User Description?:` @0xcapee_ , ke lock please don't rerrol me 
- 
-`Followers?: `195 
- 
-`Following?:` 314 
- 
-`User URL?:` None 
- 
-`Location:` Indonesia  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630109353687810048/31HgT0is_normal.jpg 
- 
-`Number of tweets excluding replies:` 996 
+`Number of tweets excluding replies:` 527 
  
 
  
@@ -474,122 +427,38 @@ As the promise of decentralized techno…
  
 ## User Top tweeted words 
  
-**RT** 76 , **+** 51 , **FOLLOW** 40 , **HOURS** 37 , **•** 36 , **~** 20 , **$50** 18 , **$30** 17 , **IDR** 17 , **GIVEAWAY** 14 , **||** 13 , **MINS** 12 , **$EGGS** 12 , **✅** 11 , **JOIN** 11 , **$20** 10 , **4** 9 , **TWEET** 9 , **12** 9 , **3** 8 , 
+**TRUMP** 22 , **PEOPLE** 16 , **BIDEN** 15 , **PRESIDENT** 12 , **US** 11 , **@VIGILANTFOX:** 11 , **COVID** 10 , **BREAKING:** 10 , **JOE** 9 , **WHITE** 9 , **HOUSE** 8 , **MATT** 7 , **STOP** 7 , **VACCINE** 7 , **TRUMP:** 7 , **NEW** 6 , **DONALD** 6 , **MANY** 6 , **NEVER** 6 , **@ATENSNUT:** 6 , 
  
 ## What this user tweeted
  
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
+@AlexBerenson Why do you think it’s either or’. ? Do you support Zelensky? Do you support billions being sent to Ukraine?
  
-# vp41038228USER INFO
-![image](http://pbs.twimg.com/profile_images/1630607075398287360/jZNt9VPf_normal.jpg)
+# ZAndreasZUSER INFO
+![image](http://pbs.twimg.com/profile_images/1631417320408064000/iUIXABIV_normal.jpg)
  
-`User ScreenName:` vp41038228 
+`User ScreenName:` ZAndreasZ 
  
-`User chosen Name:` vp🙃Free Tag 
+`User chosen Name:` Andreas 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 28 16:31:25 +0000 2023 
- 
-`User Description?:` Selalu berusaha 
- 
-`Followers?: `25 
- 
-`Following?:` 219 
- 
-`User URL?:` None 
- 
-`Location:` Yogyakarta, Indonesia 
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630607075398287360/jZNt9VPf_normal.jpg 
- 
-`Number of tweets excluding replies:` 199 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 129 , **FOLLOW** 101 , **HOURS** 92 , **•** 71 , **+** 71 , **$50** 44 , **24** 32 , **$100** 27 , **@JIHANICORN:** 23 , **💜** 22 , **~** 20 , **IDR** 20 , **12** 18 , **🍒** 16 , **||** 15 , **-RT** 14 , **3** 13 , **$30** 13 , **📌RT** 13 , **$20** 12 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# SucibigwinnUSER INFO
-![image](http://pbs.twimg.com/profile_images/1630607499534680069/1JRvgiaE_normal.jpg)
- 
-`User ScreenName:` Sucibigwinn 
- 
-`User chosen Name:` Sfreetag🦄 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Feb 28 03:57:21 +0000 2023 
- 
-`User Description?:` @ox_succityx kena susp 🙏🏿 please no rerol me 😁😁 
- 
-`Followers?: `35 
- 
-`Following?:` 665 
- 
-`User URL?:` None 
- 
-`Location:` Brebes, Indonesia 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630607499534680069/1JRvgiaE_normal.jpg 
- 
-`Number of tweets excluding replies:` 1403 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 144 , **FOLLOW** 112 , **IDR** 70 , **HOURS** 67 , **•** 62 , **||** 54 , **~** 40 , **+** 35 , **$10** 28 , **MINS** 23 , **GIVEAWAY** 23 , **$5** 21 , **2** 21 , **3** 19 , **24** 18 , **4** 18 , **$50** 18 , **DRAW** 17 , **$20** 15 , **@PRCTIU:** 12 , 
- 
-## What this user tweeted
- 
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
- 
-# winwinzXUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631497973552279553/APSn4mXf_normal.jpg)
- 
-`User ScreenName:` winwinzX 
- 
-`User chosen Name:` iyaaa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 03 03:19:51 +0000 2023 
+`User signup date?:` Thu Mar 02 21:21:48 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `13 
+`Followers?: `0 
  
-`Following?:` 244 
+`Following?:` 4 
  
 `User URL?:` None 
  
-`Location:` forGa/joiningAcc 
+`Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 15 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631497973552279553/APSn4mXf_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1631417320408064000/iUIXABIV_normal.jpg 
  
-`Number of tweets excluding replies:` 335 
+`Number of tweets excluding replies:` 15 
  
 
  
@@ -597,30 +466,28 @@ As the promise of decentralized techno…
  
 ## User Top tweeted words 
  
-**RT** 147 , **FOLLOW** 113 , **•** 81 , **HOURS** 73 , **||** 57 , **IDR** 55 , **GIVEAWAY** 43 , **+** 41 , **~** 29 , **24** 25 , **$50** 22 , **MINS** 20 , **ENDS** 20 , **$5** 18 , **$10** 18 , **2** 18 , **3** 18 , **DRAW** 18 , **$30** 17 , **@TAEBOUKIE:** 17 , 
+**UKRAINE** 4 , **VIA** 3 , **WAR** 2 , **RUSSIA** 2 , **@YOUTUBERT** 2 , **LAVROV:** 2 , **LEAK** 2 , **US** 2 , **NEWS** 2 , **DOUGLAS** 2 , **RT** 1 , **@KANEKOATHEGREAT:** 1 , **DISCOVER** 1 , **UNTOLD** 1 , **STORY** 1 , **EYE-OPENING** 1 , **DOCUMENTARY** 1 , **READY** 1 , **CHALLENGE** 1 , **YO…MORNING** 1 , 
  
 ## What this user tweeted
  
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
-
-As the promise of decentralized techno…
+RT @KanekoaTheGreat: Discover the untold story about the War in Ukraine in this eye-opening documentary. Are you ready to challenge what yo…
  
-# survivor_bhaby2USER INFO
-![image](http://pbs.twimg.com/profile_images/1630426272659812352/4uGuiSn5_normal.jpg)
+# pamelan001USER INFO
+![image](http://pbs.twimg.com/profile_images/1630814891891105803/CJeHk4Ft_normal.png)
  
-`User ScreenName:` survivor_bhaby2 
+`User ScreenName:` pamelan001 
  
-`User chosen Name:` ⁉️My Old Account @survivor_bhaby Get Suspended⁉️ 
+`User chosen Name:` pamela n 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Feb 27 14:52:40 +0000 2023 
+`User signup date?:` Wed Mar 01 06:19:03 +0000 2023 
  
-`User Description?:` I Never Lose Hope,Good Things Will Come Soon♥️🙏 #jihantesti #cutetesty #Bunnified #GemhostFamily #Hwannieproofs #FunsizedW1n #C1NK #Zarawinner #MissyAngels 
+`User Description?:`  
  
-`Followers?: `15 
+`Followers?: `1 
  
-`Following?:` 599 
+`Following?:` 18 
  
 `User URL?:` None 
  
@@ -628,9 +495,9 @@ As the promise of decentralized techno…
  
 `Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1630426272659812352/4uGuiSn5_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1630814891891105803/CJeHk4Ft_normal.png 
  
-`Number of tweets excluding replies:` 1337 
+`Number of tweets excluding replies:` 834 
  
 
  
@@ -638,13 +505,13 @@ As the promise of decentralized techno…
  
 ## User Top tweeted words 
  
-**RT** 128 , **FOLLOW** 97 , **HOURS** 74 , **•** 60 , **+** 45 , **IDR** 30 , **$50** 27 , **~** 27 , **GIVEAWAY** 26 , **||** 26 , **24** 22 , **$10** 18 , **🔔** 16 , **$100** 15 , **48** 15 , **MINS** 14 , **JOIN** 13 , **$30** 13 , **PROJECT** 13 , **3** 12 , 
+**CHINA** 42 , **@SAYNOTOSINO:** 25 , **CHINESE** 19 , **CCP** 17 , **@2022_LOCKDOWN:** 12 , **XI** 11 , **US** 11 , **NEVER** 11 , **TAIWAN** 9 , **COMMUNIST** 9 , **UKRAINE** 8 , **@SOLOMONYUE:** 8 , **TAIWANISACOUNTRY** 7 , **RUSSIAN** 7 , **@BENEDICTROGERS:** 7 , **WAR** 7 , **@MRBCYBER:** 7 , **🇹🇼🇹🇼🇹🇼** 6 , **TAIWANESE** 6 , **MONEY** 6 , 
  
 ## What this user tweeted
  
-RT @QuillAudits: 1/6: The year was 2018, and the #Web3 ecosystem was just beginning to take shape. 
+RT @visegrad24: 24-year-old Volodymyr Kniazev has been killed in battle against the Russian Army.
 
-As the promise of decentralized techno…
+Rest In Peace Volodymyr. Ukraine will ne…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
