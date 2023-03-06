@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **RepThomasMassie**  
+The most popular user is: **SecurityTrybe**  
  
 
-## Regrettably, some of my congressional colleagues are more concerned about tracking that $600 Venmo payment you made… https://t.co/X2iUGeC7Pt 
+## Cybersecurity Certifications to get in 2023 (For FREE) 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **RepThomasMassie**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @nexta_tv: The Security Service of Ukraine eliminated a network of illegal casinos that during the occupation of Kherson worked for the… |
-| RT @WeyentiGaltom: As @mukeshkapila said this isn't peace at all.Tigrayans are still being📍Massacred📍Raped&amp;📍Blocked from aidSo @NLatUN… |
-| RT @visegrad24: This soldier is a Ukraine hero.The Russians decided to film his murder.He decided that his last words would be “glory t… |
+| RT @IBC_West: Talk to your kids about #CyberSecurity &amp; how to stay safe while online this Fraud Prevention Month (and every month). Review… |
+| RT @SecurityTrybe: Get Some Cybersecurity Hands-On Training with this Resources for FREE |
+| RT @three_cube: Confessions of a Professional Hacker: Can The CIA or other Law Enforcement Track my Every Move? #cia #cellphonetracking #in… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **visegrad24** |
-| #2 Most tweeted to  | **NOELreports** |
-| #3 Most tweeted to  | **krassenstein** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 7.04%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **Shubham_pen** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 4.48%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -50,135 +50,135 @@ The most popular user is: **RepThomasMassie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **UKRAINIAN**  |
-| third  | **VIDEO** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **WAR**  |
+| first  | **INFOSEC**  |
+| second  | **US**  |
+| third  | **@SECURITYTRYBE:** |
+| fourth  | **AI**  |
+| fifth  | **STRATEGY**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (53.85%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Longtstanding: In a UK artical by:Miriam Kuepper"US Ambassador-at-Large for Global Criminal Justice Beth Van Schaack (pictured) said… |
+|RT @Mimecast: Our Mimecast Technical Certification program continues to set the industry standard for excellence. With two levels of certif… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RepThomasMassie**  |
+| The most retweeted user is: **SecurityTrybe**  |
 | ------------- |
-| Regrettably, some of my congressional colleagues are more concerned about tracking that $600 Venmo payment you made… https://t.co/X2iUGeC7Pt |
+| Cybersecurity Certifications to get in 2023 (For FREE) |
 
 # Potential Fake Accounts
  
-# bossfoproUSER INFO
-![image](http://pbs.twimg.com/profile_images/1631257189431095296/FO-TkdYH_normal.jpg)
+# MamaRollingwindUSER INFO
+![image](http://pbs.twimg.com/profile_images/1630539499053760514/NncLawfh_normal.jpg)
  
-`User ScreenName:` bossfopro 
+`User ScreenName:` MamaRollingwind 
  
-`User chosen Name:` boss fo 
+`User chosen Name:` Mama Rollingwind 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 02 11:36:35 +0000 2023 
+`User signup date?:` Tue Feb 28 12:03:02 +0000 2023 
+ 
+`User Description?:` My other Twitter account went oof @wind_rolling.  Socially liberal and fiscally conservative. Dene Mom. Treaty 8. I talk smack about #cdnpoli 
+ 
+`Followers?: `27 
+ 
+`Following?:` 230 
+ 
+`User URL?:` None 
+ 
+`Location:` Milton, Ontario 
+ 
+`Number of tweets extracted`  : 126 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1630539499053760514/NncLawfh_normal.jpg 
+ 
+`Number of tweets excluding replies:` 126 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUDEAU** 9 , **DON’T** 7 , **INDIGENOUS** 7 , **BACK** 6 , **I’M** 5 , **BEING** 5 , **CANADIANS** 5 , **SAY** 5 , **@PAMPEREDCHEF** 5 , **@THEJAGMEETSINGH** 4 , **THING** 4 , **LEFT** 4 , **REPORT** 4 , **MOST** 4 , **LIBERALS** 4 , **OTHER** 4 , **@PIERREPOILIEVRE:** 4 , **PEOPLE** 4 , **NEEDS** 4 , **MAYBE** 4 , 
+ 
+## What this user tweeted
+ 
+Blah, blah, blah Harper’s fault.  I hope the MPs who have top secret clearance don’t have Tik Tok on their phones &amp;… https://t.co/lzInWKr70J
+ 
+# 2dsrqkcjwvUSER INFO
+![image](http://pbs.twimg.com/profile_images/1629465963018977287/gylrOFh3_normal.jpg)
+ 
+`User ScreenName:` 2dsrqkcjwv 
+ 
+`User chosen Name:` Tucker Gratton 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 25 12:54:02 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 94 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1629465963018977287/gylrOFh3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 2 , **@NETWORKCHUCK:** 1 , **FOLLOW…SUNDAY??** 1 , **YEAH** 1 , **MISSED** 1 , **FRIDAY** 1 , **HERE** 1 , **SOME** 1 , **PEOPLE** 1 , **REALLY** 1 , **ENJOY** 1 , **FOLLOWING** 1 , **CYBERSECURITY** 1 , **SPACE…RT** 1 , **@POKEMONGOAPP:** 1 , **WHAT’S** 1 , **BOX?** 1 , **👀** 1 , **FIND** 1 , **OUT!** 1 , 
+ 
+## What this user tweeted
+ 
+RT @NetworkChuck: Follow….Sunday?? Yeah, missed Friday, but here are some people that I really enjoy following in the cybersecurity space.…
+ 
+# Adamsar49985600USER INFO
+![image](http://pbs.twimg.com/profile_images/1632823593749946368/L-leKpxT_normal.png)
+ 
+`User ScreenName:` Adamsar49985600 
+ 
+`User chosen Name:` Adam sarah 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 06 19:20:55 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 69 
- 
-`User URL?:` None 
- 
-`Location:` Украина 
- 
-`Number of tweets extracted`  : 34 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631257189431095296/FO-TkdYH_normal.jpg 
- 
-`Number of tweets excluding replies:` 34 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**В** 7 , **НЕ** 7 , **А** 5 , **ЭТО** 5 , **И** 4 , **У** 4 , **О** 4 , **ПРО** 4 , **ЦЕ** 3 , **ЗА** 3 , **ТАМ** 3 , **ПО** 3 , **ЗАРАЗ** 2 , **@ASTROGAMMAVEL** 2 , **ESTE** 2 , **ДА** 2 , **ТЕ** 2 , **НА** 2 , **ГЕРОЯМ** 2 , **ЕГО** 2 , 
- 
-## What this user tweeted
- 
-@11K25_Energia Made in Ukraine
- 
-# divaliciousQQUSER INFO
-![image](http://pbs.twimg.com/profile_images/1629689558093946883/WvygVOGw_normal.jpg)
- 
-`User ScreenName:` divaliciousQQ 
- 
-`User chosen Name:` divalicious Queen ` 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Feb 26 03:47:23 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `9 
- 
-`Following?:` 133 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1629689558093946883/WvygVOGw_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1632823593749946368/L-leKpxT_normal.png 
  
-`Number of tweets excluding replies:` 814 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@KARILAKE** 139 , **@KATIEHOBBS** 52 , **@KARILAKEWARROOM** 48 , **@CPAC** 46 , **@BENBERGQUAM** 42 , **EVIDENCE** 13 , **DONT** 12 , **TABULATORS** 11 , **VOTE** 11 , **US** 9 , **HOBBS** 8 , **PEOPLE** 8 , **AZ** 8 , **STATE** 7 , **MARICOPA** 7 , **BALLOT** 7 , **MONEY** 7 , **@SCOTTPRESLER** 7 , **CRIMINAL** 6 , **GO** 6 , 
- 
-## What this user tweeted
- 
-@BrianGasmo @KariLake Go on killing more people in Ukraine and endorsing cabal crimes at the border but answer this… https://t.co/SlST4lYCZD
- 
-# llegoyaboyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1630272926271299590/p2ZDCJrr_normal.jpg)
- 
-`User ScreenName:` llegoyaboy 
- 
-`User chosen Name:` important. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 27 18:17:00 +0000 2023 
- 
-`User Description?:` 👨🏾‍🦯 
- 
-`Followers?: `22 
- 
-`Following?:` 597 
- 
-`User URL?:` None 
- 
-`Location:` Dominican Republic 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1630272926271299590/p2ZDCJrr_normal.jpg 
- 
-`Number of tweets excluding replies:` 3141 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -186,39 +186,38 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**DE** 119 , **LA** 67 , **EL** 65 , **EN** 61 , **Y** 51 , **QUE** 37 , **CON** 25 , **PARA** 24 , **SU** 21 , **UN** 20 , **POR** 20 , **SE** 19 , **DEL** 18 , **LOS** 16 , **@SC_ESPN:** 12 , **AL** 12 , **LO** 11 , **LAS** 11 , **ES** 10 , **LE** 9 , 
+**–** 2 , **MONEY** 1 , **ROBOT** 1 , **SUBMITTER** 1 , **V740** 1 , **FULL** 1 , **ACTIVATED** 1 , **BACKLINKS** 1 , **SEO** 1 , **MARKETING** 1 , **TOOL** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/FXISWMGYNLTRENDING** 1 , **HTTPS://TCO/8OLN8NOERE** 1 , **INFOSEC** 1 , **BUGCROWD** 1 , **BUGBOUNTYTIPS** 1 , **BUGBOUNTYTIP** 1 , 
  
 ## What this user tweeted
  
-RT @ukrainiansquad: We don’t have enough words to describe these brave soldiers who gave their lives for Ukraine and our freedom.
-RiP 🕯️ He…
+Money Robot Submitter v7.40 Full Activated – BackLinks SEO Marketing Tool – Discount 100% OFF… https://t.co/FxIswmgyNLTrending https://t.co/8Oln8NoerE #infosec #bugcrowd #bugbountytips #bugbountytip #CyberSecurity #100DaysOfCode… https://t.co/QnfDbgQI4N
  
-# kathrine20051USER INFO
-![image](http://pbs.twimg.com/profile_images/1631453023804309504/legt2iJL_normal.jpg)
+# AlexBerkley18USER INFO
+![image](http://pbs.twimg.com/profile_images/1632775437418995712/Pv1Wr7av_normal.png)
  
-`User ScreenName:` kathrine20051 
+`User ScreenName:` AlexBerkley18 
  
-`User chosen Name:` Samantha30090 
+`User chosen Name:` Alex Berkley 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 03 00:34:46 +0000 2023 
+`User signup date?:` Mon Mar 06 16:09:34 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 1 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631453023804309504/legt2iJL_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1632775437418995712/Pv1Wr7av_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -226,11 +225,51 @@ RiP 🕯️ He…
  
 ## User Top tweeted words 
  
-**US** 3 , **PEOPLE** 3 , **@JULIADAVISNEWS** 2 , **SEN** 2 , **@GERARDDOCKERY** 1 , **COUP** 1 , **INITIATED** 1 , **JOE** 1 , **BIDEN** 1 , **JOHN** 1 , **MCCAIN** 1 , **LINDSEY** 1 , **GRAHAM** 1 , **&AMP;…** 1 , **HTTPS://TCO/MRBWHXMIW1@VICKIRINGER** 1 , **DON'T** 1 , **ALLOW** 1 , **SUCH** 1 , **GROUP** 1 , **REMAIN** 1 , 
+**CLASS** 2 , **TAUGHT** 1 , **MAJOR** 1 , **THAN** 1 , **ANY** 1 , **OTHER** 1 , **FEEL** 1 , **CSEC** 1 , **366** 1 , **REQUIREMENT** 1 , **FOR…** 1 , **HTTPS://TCO/BV0MVCGBEGAS** 1 , **TWEET** 1 , **3/9** 1 , **IOT** 1 , **GOAT** 1 , **CHALLENGES** 1 , **COMPLETED** 1 , **6** 1 , **GO** 1 , 
  
 ## What this user tweeted
  
-@gerarddockery @JuliaDavisNews The coup was initiated by the US  Joe Biden, Sen John McCain, Sen Lindsey Graham, &amp;… https://t.co/mrbWhxMiW1
+This class has taught me more about my major than any other class, I feel that CSEC 366 should be a requirement for… https://t.co/Bv0MVcgBeg
+ 
+# francelegal420USER INFO
+![image](http://pbs.twimg.com/profile_images/1629430334386216961/Z_CBIFmg_normal.jpg)
+ 
+`User ScreenName:` francelegal420 
+ 
+`User chosen Name:` beuh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 25 10:32:17 +0000 2023 
+ 
+`User Description?:` Seul la qualité à un goût de ouf LIVRAISON PARTOUT EN FRANCE 🇫🇷 Snapchat👻:bedo420fr_ce #CBD #WEEDS #cannabisculture #beuh #hash 
+ 
+`Followers?: `2 
+ 
+`Following?:` 7 
+ 
+`User URL?:` https://t.co/VAEaOMRE4o 
+ 
+`Location:` Toulon, France 
+ 
+`Number of tweets extracted`  : 31 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1629430334386216961/Z_CBIFmg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 31 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FRANCELEGAL420:** 15 , **PSG** 14 , **100DAYSOFCODE** 13 , **PRIVACY** 11 , **CLOUDSECURITY** 11 , **MACHINELEARNING** 11 , **PHISHING** 11 , **DATASECURITY** 8 , **ALLEZPARIS** 6 , **RANSOMWARE…** 6 , **RANSOMWARE** 5 , **MILANATALANTA** 4 , **PARIS** 4 , **MARSEILLE** 4 , **LYON** 4 , **EN** 4 , **TEAMPSG** 4 , **GOOGLE** 4 , **CONCERTS** 4 , **ANIMATION** 4 , 
+ 
+## What this user tweeted
+ 
+RT @francelegal420: #DataSecurity #Privacy #AllezParis #100DaysOfCode #CloudSecurity
+#MachineLearning #Phishing #PSG #Ransomware #Cybersecu…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
