@@ -1,21 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **ByDonkeys**  
+The most popular user is: **SecurityTrybe**  
  
 
-## Solidarity with Ukraine ✊
-(Russian Embassy, London) https://t.co/efRXKgDuqV 
+## Cybersecurity Certifications to get in 2023 (For FREE) 
 
   
 
@@ -24,25 +23,25 @@ The most popular user is: **ByDonkeys**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| In Ukraine they left black mothers to freeze in the winter just because they are racist Lmao point to that happenin… https://t.co/OcmIeaXGaV |
-| RT @ARMYforTomorrow: BTS has spoken about racism in the White House &amp; about climate change at the UN: “I am very concerned about how I ca… |
-| RT @squatsons: So Germany… Ukraine blew your pipeline, gonna keep supporting someone who planted explosives on your energy infrastructure? |
+| #BreakingNews𝙰𝚗𝚘𝚗𝚢𝚖𝚘𝚞𝚜𝚆𝚎𝚎𝚔𝚕𝚢𝚁𝚎𝚌𝚊𝚙𝟘𝟛-𝟚𝟛 𝕨𝕖𝕖𝕜 𝟙#AnonymousWeeklyRecap #Anonymous #Hackers #hacktivism #CyberSecurity… https://t.co/tFLQcmJieS |
+| With this subscription you will get access to all eForensics, Hakin9, and PenTest, newest magazines, archives, and… https://t.co/ACWGRytthm |
+| StaySafeOnline: When hackers strike, acting fast is crucial. Regain control if your account has been compromised or… https://t.co/gPYleB30pL |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **visegrad24** |
-| #2 Most tweeted to  | **vonderleyen** |
-| #3 Most tweeted to  | **Gerashchenko_en** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 6.84%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **dx5ve** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 5.32%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -51,57 +50,57 @@ The most popular user is: **ByDonkeys**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **RUSSIA** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **UKRAINIAN**  |
+| first  | **INFOSEC**  |
+| second  | **HACKING**  |
+| third  | **@SECURITYTRYBE:** |
+| fourth  | **DATA**  |
+| fifth  | **CLOUD**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @vikvkravchuk: We will recover #Bakhmut and there's no doubt about it, but in the end, it doesn't matter too much. What matters are our… |
+|RT @hackinarticles: Pic of the Day#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ByDonkeys**  |
+| The most retweeted user is: **SecurityTrybe**  |
 | ------------- |
-| Solidarity with Ukraine ✊(Russian Embassy, London) https://t.co/efRXKgDuqV |
+| Cybersecurity Certifications to get in 2023 (For FREE) |
 
 # Potential Fake Accounts
  
-# covie_jaymesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1633248942509940736/87lK9m1b_normal.jpg)
+# llegoyaboyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1630272926271299590/p2ZDCJrr_normal.jpg)
  
-`User ScreenName:` covie_jaymes 
+`User ScreenName:` llegoyaboy 
  
-`User chosen Name:` Jaymes Copeland 
+`User chosen Name:` important. 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 07 21:09:11 +0000 2023 
+`User signup date?:` Mon Feb 27 18:17:00 +0000 2023 
  
-`User Description?:` I'm an easy going man full of life and still very young at heart ❤️ 
+`User Description?:` 👨🏾‍🦯 
  
-`Followers?: `2 
+`Followers?: `29 
  
-`Following?:` 27 
+`Following?:` 647 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Dominican Republic 
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1633248942509940736/87lK9m1b_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1630272926271299590/p2ZDCJrr_normal.jpg 
  
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 4318 
  
 
  
@@ -109,68 +108,26 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJ
  
 ## User Top tweeted words 
  
-**JOE** 4 , **BIDEN** 3 , **@JAMES_PHELPS:** 2 , **MUCH** 2 , **AFTER** 2 , **LIES** 2 , **VACATION** 2 , **RT** 1 , **@MOOMINOFFICIAL:** 1 , **WINTER** 1 , **SOLSTICE** 1 , **NORTHERN** 1 , **HEMISPHERE** 1 , **MARKING** 1 , **YEAR'S** 1 , **SHORTEST** 1 , **DAY❄️** 1 , **EVEN** 1 , **SUN** 1 , **GON…RT** 1 , 
+**DE** 113 , **LA** 69 , **EN** 52 , **EL** 50 , **QUE** 36 , **Y** 34 , **LOS** 24 , **CON** 22 , **DEL** 22 , **POR** 21 , **UN** 18 , **CHELSEA** 13 , **PARA** 13 , **SE** 13 , **AL** 12 , **BENFICA** 11 , **UNA** 10 , **AFTER** 10 , **@SC_ESPN:** 9 , **LAS** 9 , 
  
 ## What this user tweeted
  
-RT @WaywardRabbler: The new podcast, where we discuss my latest article on #Nigeria's elections and how they got their own #JoeBiden, as we…
+RT @SonicWall: SonicWall partnered with @Campus_Tech to help campus #IT leaders learn how to strategically defend their #networks. Get the…
  
-# TweetsToNewsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1632981630653710336/M6eGY-MP_normal.jpg)
+# MacquireJohnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1633207847080148999/X58HSH5Q_normal.png)
  
-`User ScreenName:` TweetsToNews 
+`User ScreenName:` MacquireJohn 
  
-`User chosen Name:` Midnight Mexican 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 06 23:32:35 +0000 2023 
- 
-`User Description?:` Hispanic that's always up at midnight. Covering anything and everything! 
- 
-`Followers?: `3 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 85 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1632981630653710336/M6eGY-MP_normal.jpg 
- 
-`Number of tweets excluding replies:` 85 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MUST** 20 , **UKRAINE** 12 , **NEVER** 8 , **RUSSIAN** 6 , **NEED** 6 , **WAR** 6 , **CHINA** 6 , **PUTIN** 5 , **RUSSIA** 5 , **MIDNIGHT** 5 , **ITS** 4 , **TIME** 4 , **GO** 4 , **LEARN** 4 , **AMERICANS** 4 , **PRO** 3 , **GOING** 3 , **INVASION** 3 , **UKRAINE!** 3 , **BEING** 3 , 
- 
-## What this user tweeted
- 
-This is why Ukraine MUST secure its NLRTHERN BORDER. 
-
-#UkraineWar
-#UkraineRussiaWar️ https://t.co/CmXKTJZ8pc
- 
-# grandmag1982USER INFO
-![image](http://pbs.twimg.com/profile_images/1633248218946367488/qv2qNMjK_normal.png)
- 
-`User ScreenName:` grandmag1982 
- 
-`User chosen Name:` John Grand 
+`User chosen Name:` John Macquire 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 07 23:28:14 +0000 2023 
+`User signup date?:` Tue Mar 07 20:47:48 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
 `Following?:` 1 
  
@@ -180,7 +137,7 @@ This is why Ukraine MUST secure its NLRTHERN BORDER.
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1633248218946367488/qv2qNMjK_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1633207847080148999/X58HSH5Q_normal.png 
  
 `Number of tweets excluding replies:` 1 
  
@@ -190,38 +147,38 @@ This is why Ukraine MUST secure its NLRTHERN BORDER.
  
 ## User Top tweeted words 
  
-**@VISEGRAD24** 1 , **UKRAINE** 1 , **THEORETICAL** 1 , **COUNTRY** 1 , **EUROPE** 1 , **HUGE** 1 , **MONEY** 1 , **LAUNDERER** 1 , **USA** 1 , **BIDEN'S** 1 , **SON** 1 , **AGRICULT…** 1 , **HTTPS://TCO/YKV8APSUSH** 1 , 
+**–** 3 , **METASPLOIT** 1 , **PRO** 1 , **4220** 1 , **2023013001** 1 , **FULL** 1 , **ACTIVATED** 1 , **BEST** 1 , **CYBERSECURITY** 1 , **TOOLS** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/EBISH00IVU** 1 , 
  
 ## What this user tweeted
  
-@visegrad24 Ukraine is a theoretical country in Europe, a huge money launderer for the USA. Biden's son in agricult… https://t.co/YKv8ApSush
+Metasploit Pro 4.22.0 – 2023013001 Full Activated – Best CyberSecurity Tools – Discount 100% OFF… https://t.co/ebisH00iVU
  
-# AlizaMeira1USER INFO
-![image](http://pbs.twimg.com/profile_images/1632805417934901250/YZ4ildmU_normal.png)
+# ColinFlemingCPAUSER INFO
+![image](http://pbs.twimg.com/profile_images/1633163976497328161/-Xmyh6cp_normal.jpg)
  
-`User ScreenName:` AlizaMeira1 
+`User ScreenName:` ColinFlemingCPA 
  
-`User chosen Name:` Aliza Meira 
+`User chosen Name:` Colin Fleming 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 06 18:08:41 +0000 2023 
+`User signup date?:` Tue Mar 07 12:54:11 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Bookkeeping and accounting services tailored to a client's unique needs. Personalized services to help you manage your company's finances. 
  
-`Followers?: `8 
+`Followers?: `1 
  
-`Following?:` 158 
+`Following?:` 51 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Toronto 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1632805417934901250/YZ4ildmU_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1633163976497328161/-Xmyh6cp_normal.jpg 
  
-`Number of tweets excluding replies:` 363 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -229,78 +186,40 @@ This is why Ukraine MUST secure its NLRTHERN BORDER.
  
 ## User Top tweeted words 
  
-**…** 26 , **@MPUKITA:** 22 , **MCCONNELL** 17 , **US** 13 , **TUCKER** 12 , **J6** 11 , **VIDEO** 11 , **JANUARY** 11 , **CHINESE** 11 , **PEOPLE** 10 , **MITCH** 9 , **CHAO** 9 , **CHINA** 8 , **COMMITTEE** 8 , **@DC_DRAINO:** 8 , **6TH** 8 , **BREAKING:** 7 , **TRUMP** 7 , **@COLLINRUGG:** 6 , **@LIZ_CHURCHILL8:** 6 , 
+**@TANDEMIG:** 2 , **DATA?** 2 , **TAX** 2 , **RT** 1 , **WORRIED** 1 , **SECURITY** 1 , **STARTUP'S** 1 , **SENSITIVE** 1 , **JOIN** 1 , **US** 1 , **INFORMATIVE** 1 , **SESSION** 1 , **GEO** 1 , **BOURCIER** 1 , **T…SEEKING** 1 , **NON-DILUTIVE** 1 , **FINANCING?** 1 , **LOOK** 1 , **INCENTIVES** 1 , **CREDITS** 1 , 
  
 ## What this user tweeted
  
-RT @TruthNinja316: That time Vadym Pozharsky from Burisma forwarded an email to Hunter Biden and Devon Archer about Joe visiting Ukraine. I…
+RT @tandemIG: Are you worried about the security of your startup's sensitive data?
+
+Join us for an informative session with Geo Bourcier, t…
  
-# Fiorentina02fanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1633192510708150272/A5_JAUbi_normal.jpg)
+# AliIsoufUSER INFO
+![image](http://pbs.twimg.com/profile_images/1633221533584728065/lcLf1p1l_normal.png)
  
-`User ScreenName:` Fiorentina02fan 
+`User ScreenName:` AliIsouf 
  
-`User chosen Name:` kekko🇺🇦🇮🇹 
+`User chosen Name:` Isouf Ali 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 06 17:10:03 +0000 2023 
- 
-`User Description?:` Fiorentina&RedBull ⚽️🏎
-Avellinese 
- 
-`Followers?: `8 
- 
-`Following?:` 116 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 27 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1633192510708150272/A5_JAUbi_normal.jpg 
- 
-`Number of tweets excluding replies:` 27 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DI** 7 , **CHE** 6 , **IL** 6 , **SE** 5 , **LA** 4 , **NON** 4 , **AL** 4 , **È** 4 , **SI** 3 , **LE** 3 , **UN** 3 , **@PHCHESS:** 2 , **UNA** 2 , **CUI** 2 , **@GPICHETTO** 2 , **MA** 2 , **NEL** 2 , **NATO** 2 , **PER** 2 , **MOMENTS** 2 , 
- 
-## What this user tweeted
- 
-RT @insidethegames: #AndriiCherkashyn, #Ukraine's under-17 national champion and European bronze medallist in the cadet category, is seekin…
- 
-# likitysplit50USER INFO
-![image](http://pbs.twimg.com/profile_images/1633034573914447873/yOvjVbNo_normal.png)
- 
-`User ScreenName:` likitysplit50 
- 
-`User chosen Name:` Margaret Smith 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 07 09:19:17 +0000 2023 
+`User signup date?:` Tue Mar 07 21:42:11 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 79 
+`Following?:` 36 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 47 
+`Number of tweets extracted`  : 34 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1633034573914447873/yOvjVbNo_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1633221533584728065/lcLf1p1l_normal.png 
  
-`Number of tweets excluding replies:` 47 
+`Number of tweets excluding replies:` 34 
  
 
  
@@ -308,38 +227,83 @@ RT @insidethegames: #AndriiCherkashyn, #Ukraine's under-17 national champion and
  
 ## User Top tweeted words 
  
-**@VIGILANTFOX** 15 , **GOING** 4 , **THEN** 4 , **PROBLEM** 4 , **INFORMATION** 3 , **STILL** 3 , **ALWAYS** 3 , **@VIGILANTFOX:** 3 , **@ELONMUSK** 3 , **WOMEN** 3 , **FIND** 2 , **IMPORTANT** 2 , **PART** 2 , **RESEARCH** 2 , **WHICH** 2 , **PFIZER** 2 , **LEFT** 2 , **HAVING** 2 , **BEFORE** 2 , **SOVEREIGN** 2 , 
+**@COREDAO_ORG:** 25 , **CORE** 14 , **SATOSHI** 7 , **LIVE** 6 , **COMMUNITY** 5 , **🔥** 5 , **@COREDAO_ORG** 5 , **CONSENSUS** 4 , **SECURITY** 4 , **THANK** 3 , **PARTNERSHIP** 3 , **SHARE** 3 , **PLUS** 3 , **ECOSYSTEM** 3 , **THROUGH** 3 , **JOIN** 3 , **US** 3 , **AMA** 3 , **✅** 3 , **EXCITED** 3 , 
  
 ## What this user tweeted
  
-@boatgirl3 @VigilantFox yet how much more information do they have now, having collected dna from us. Remember that… https://t.co/YPyawjJw3f
+RT @HalbornSecurity: Why Halborn?
+
+🌟 Reputation
+🌟 Excellence
+🌟 Quality Service
+
+Check out what our clients @cerenetwork, @Coredao_Org, and…
  
-# bois_odileUSER INFO
-![image](http://pbs.twimg.com/profile_images/1632079759055224832/GeCuAkBL_normal.png)
+# LifeScienceNxUSER INFO
+![image](http://pbs.twimg.com/profile_images/1629803314371018754/4IAAeCTl_normal.jpg)
  
-`User ScreenName:` bois_odile 
+`User ScreenName:` LifeScienceNx 
  
-`User chosen Name:` Odile Bois 
+`User chosen Name:` Life Science Networks 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 04 18:05:11 +0000 2023 
+`User signup date?:` Sun Feb 26 11:10:14 +0000 2023 
+ 
+`User Description?:` Connecting and driving collaboration in  BioPharmaceutical communities 
+ 
+`Followers?: `3 
+ 
+`Following?:` 96 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 166 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1629803314371018754/4IAAeCTl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 166 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MEDCITY** 24 , **NEWS** 24 , **HEALTH** 12 , **DRUG** 12 , **MEDICAL** 9 , **CARE** 8 , **DATA** 8 , **STUDY** 7 , **NEW** 7 , **CANCER** 7 , **HEALTHCARE** 6 , **DEVICE** 6 , **BIOSPACE** 6 , **CYBERSECURITY** 5 , **FDA** 5 , **THERAPY** 5 , **YEAR** 5 , **PATIENTS** 5 , **AI** 5 , **COULD** 5 , 
+ 
+## What this user tweeted
+ 
+How healthcare systems should increase cybersecurity investments https://t.co/TcV12DGlYrNIST seeks public comments on genomic data cybersecurity https://t.co/C4EqiSoi8k
+ 
+# Jamesmaiyo14USER INFO
+![image](http://pbs.twimg.com/profile_images/1633199026777513987/1HuDCcZE_normal.png)
+ 
+`User ScreenName:` Jamesmaiyo14 
+ 
+`User chosen Name:` James maiyo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 07 20:12:45 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 27 
+`Following?:` 14 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 38 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1632079759055224832/GeCuAkBL_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1633199026777513987/1HuDCcZE_normal.png 
  
-`Number of tweets excluding replies:` 38 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -347,40 +311,40 @@ RT @insidethegames: #AndriiCherkashyn, #Ukraine's under-17 national champion and
  
 ## User Top tweeted words 
  
-**DE** 8 , **LE** 8 , **:** 8 , **DU** 4 , **AU** 4 , **CANADA** 3 , **SE** 3 , **DANS** 3 , **NEUTRALITÉ** 3 , **OUI** 3 , **OU** 3 , **NON** 3 , **DÉCISION** 3 , **DEMANDÉE** 3 , **PEUPLE** 3 , **SOUVERAIN** 3 , **SUISSE** 3 , **@ANONOPSSE:** 2 , **COUNTRY** 2 , **QUE** 2 , 
+**TECH** 2 , **STARTING** 1 , **CHOOSE** 1 , **SPECIFIC** 1 , **AREA** 1 , **INTERESTS** 1 , **SUCH** 1 , **SOFTWARE** 1 , **DEVELOPMENT** 1 , **CYBERS…** 1 , **HTTPS://TCO/9E0YBWAUPZ** 1 , 
  
 ## What this user tweeted
  
-RT @vonderleyen: Thank you to each Canadian troop involved in training Ukrainian armed forces.
- 
-Europe and Canada will continue our traini…
+When starting out on tech,
+
+Choose a specific area of tech that interests you, such as software development, cybers… https://t.co/9E0ybwaUPZ
  
-# HoboBusUSER INFO
-![image](http://pbs.twimg.com/profile_images/1630794705284866050/EG_HBEqp_normal.jpg)
+# sincerely__layUSER INFO
+![image](http://pbs.twimg.com/profile_images/1631298448803737604/leTjX5Qk_normal.jpg)
  
-`User ScreenName:` HoboBus 
+`User ScreenName:` sincerely__lay 
  
-`User chosen Name:` Hobo Bus 
+`User chosen Name:` Ashleigha 💕 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 28 14:05:24 +0000 2023 
+`User signup date?:` Thu Mar 02 14:19:15 +0000 2023 
  
-`User Description?:` Just a few old punk rockers trying to get some follows 
+`User Description?:` Digital Forensics Analyst Career Loading⏳| #DFIR 🔎| BIC Mentee 📝| BW in Cyber 👩🏽‍💻| #DelStateAlumn ❤️💙 | #Soca Junkie 🎶💃| Wife 💍| #BlackTechTwitter 🖤✨ 
  
-`Followers?: `58 
+`Followers?: `37 
  
-`Following?:` 291 
+`Following?:` 101 
  
-`User URL?:` None 
+`User URL?:` https://t.co/CmTA5EsvNp 
  
-`Location:` Boulder, Co 
+`Location:` Maryland, USA 
  
-`Number of tweets extracted`  : 25 
+`Number of tweets extracted`  : 46 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1630794705284866050/EG_HBEqp_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1631298448803737604/leTjX5Qk_normal.jpg 
  
-`Number of tweets excluding replies:` 25 
+`Number of tweets excluding replies:` 46 
  
 
  
@@ -388,11 +352,91 @@ Europe and Canada will continue our traini…
  
 ## User Top tweeted words 
  
-**WAR** 6 , **PUNK** 4 , **PUNKROCK** 3 , **BRAIN** 3 , **KEEP** 2 , **ROT** 2 , **HOBO** 2 , **NEW** 2 , **SONG** 2 , **SOCIAL** 2 , **MEDIA** 2 , **CANCER** 2 , **MACHINE** 2 , **ROCK** 2 , **MAKES** 2 , **MUSIC** 2 , **INNOCENT** 1 , **SUFFERS** 1 , **MOST** 1 , **CAUGHT** 1 , 
+**BWIC** 5 , **SECURITY** 4 , **INTO** 4 , **I’M** 3 , **+** 3 , **@BLACKINCYBERCO1:** 3 , **KIDS** 3 , **DON’T** 3 , **PEOPLE** 3 , **CYBERSECURITY** 2 , **GREAT** 2 , **FOCUS** 2 , **CONGRATULATIONS** 2 , **I'M** 2 , **VERGE** 2 , **QUITTING** 2 , **TECH** 2 , **CANNOT** 2 , **STUDY** 2 , **LOT** 2 , 
  
 ## What this user tweeted
  
-It's the innocent that suffers the most in war, keep those who are caught in the middle of Russian aggression in yo… https://t.co/Q86V6bm4G7
+Got chosen for the EC-Council Certified Cybersecurity Technician Scholarship by which I am truly excited about!… https://t.co/cOMpd5psHs
+ 
+# 0x4Zl0dUSER INFO
+![image](http://pbs.twimg.com/profile_images/1632682034509275138/HGM5SsXD_normal.jpg)
+ 
+`User ScreenName:` 0x4Zl0d 
+ 
+`User chosen Name:` Kaname Ch 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 06 09:35:01 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:` F 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1632682034509275138/HGM5SsXD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HACKINARTICLES:** 2 , **PIC** 2 , **DAY** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **CYBERSECURITYTIPS** 2 , **PENTESTING** 2 , **OSCP** 2 , **REDTEAM** 2 , **INFORMATIONSECURITY** 2 , **CISSP** 2 , **RT** 1 , **C…RT** 1 , **C…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
+ 
+# Ifyy_udeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1630786108891045889/HuKDkYbG_normal.jpg)
+ 
+`User ScreenName:` Ifyy_ude 
+ 
+`User chosen Name:` Ify 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 01 04:17:49 +0000 2023 
+ 
+`User Description?:` JESUS IS LORD LoveWorld Nation I am Prolific 
+ 
+`Followers?: `41 
+ 
+`Following?:` 183 
+ 
+`User URL?:` None 
+ 
+`Location:` Heaven 
+ 
+`Number of tweets extracted`  : 109 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1630786108891045889/HuKDkYbG_normal.jpg 
+ 
+`Number of tweets excluding replies:` 112 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PETEROBI:** 24 , **NIGERIANS** 11 , **OBI** 9 , **PETER** 8 , **NIGERIA** 8 , **GOD** 7 , **ELECTION** 7 , **2023** 6 , **LAGOS** 6 , **LABOUR** 6 , **STATE** 5 , **RESULTS** 5 , **PROCESS** 5 , **DON’T** 5 , **ROR** 5 , **PASTORCHRIS** 5 , **RHAPSODY** 5 , **SHALL** 5 , **@AISHAYESUFU:** 5 , **THROUGH** 5 , 
+ 
+## What this user tweeted
+ 
+RT @faith_atabo: I have been selected to join 500+ outstanding fellows across 20 African Countries for the CyberGirls Fellowship 2023 cohor…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
