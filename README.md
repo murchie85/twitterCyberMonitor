@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **ColonelReynolds**  
+The most popular user is: **WarClandestine**  
  
 
-## Working hard to get machines out of elections. I’m asking for help to get 10,000 followers on here - we NEED more p… https://t.co/69Hj3O6MdL 
+## 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **ColonelReynolds**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @business: Recent IPOs are facing fresh scrutiny from investors concerned about the collapse of SVB, which was a leading bank for startu… |
-| RT @kanalabs: #Price #vulnerabilities caused by exploiting flash loans to borrow a huge volume of tokens and manipulating price data when f… |
-| GrammaTech Makes Finding Vulnerabilities in Binaries Simpler - Security Boulevard https://t.co/x7l66et87c #cyber… https://t.co/x0x9s54aXp |
+| RT @ruinwanderer: In twenty years, Ukraine will be a prosperous country in NATO and the EU, and the Russian Federation will not exist. |
+| RT @dom_lucre: I’m sure these fine Ukrainian men would show a black guy like me an amazing time with so much love! Stand with Ukraine! 🇺🇦 h… |
+| @kylemurugesu you said it, he clearly hasnt kicked off. Haven’t been match-fit in a long time since the war in Ukra… https://t.co/5D08WrkQTi |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ProjectLincoln** |
-| #2 Most tweeted to  | **unusual_whales** |
-| #3 Most tweeted to  | **SolidProof_io** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 8.4%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **dom_lucre** |
+| #2 Most tweeted to  | **DC_Draino** |
+| #3 Most tweeted to  | **GuntherEagleman** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 6.88%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -50,222 +50,58 @@ The most popular user is: **ColonelReynolds**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **GEM**  |
-| third  | **SMART** |
-| fourth  | **DETECT**  |
-| fifth  | **PEOPLE**  |
+| first  | **UKRAINE**  |
+| second  | **WAR**  |
+| third  | **RUSSIA** |
+| fourth  | **BAILOUTS**  |
+| fifth  | **RUSSIAN**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SolidProof_io: It's crucial for users to keep their software up-to-date to ensure that any discovered bugs are fixed and that their sys… |
+|"the war has served as a moment of one of the greatest transfers of wealth in history…BP, Shell, Exxon, Chevron, an… https://t.co/8t1Wo3MJuI |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ColonelReynolds**  |
+| The most retweeted user is: **WarClandestine**  |
 | ------------- |
-| Working hard to get machines out of elections. I’m asking for help to get 10,000 followers on here - we NEED more p… https://t.co/69Hj3O6MdL |
+| 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL |
 
 # Potential Fake Accounts
  
-# JuliodelossantsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1632022215133745152/cG6abPEQ_normal.jpg)
+# parasiticcystsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1634988821702901765/NpRZflaw_normal.jpg)
  
-`User ScreenName:` Juliodelossants 
+`User ScreenName:` parasiticcysts 
  
-`User chosen Name:` Jay DSants 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 04 06:31:28 +0000 2023 
- 
-`User Description?:` Cocinando y más con Dsants Al Punto
-
-Working hard every day for my princess!
-Thanks, Love you girls'. God bless U.S.A 
- 
-`Followers?: `52 
- 
-`Following?:` 253 
- 
-`User URL?:` https://t.co/NDMpnnVF1Q 
- 
-`Location:` Charlotte, NC 
- 
-`Number of tweets extracted`  : 82 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1632022215133745152/cG6abPEQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 82 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ORGANIC** 8 , **@NYTIMES:** 5 , **TRUMP** 5 , **NEW** 5 , **@THEHILL:** 5 , **AFTER** 5 , **BANK** 5 , **@JULIODELOSSANTS:** 5 , **DEAL** 4 , **PEOPLE** 4 , **SUPER** 4 , **VIA** 4 , **OLIVE** 4 , **NATURAL** 4 , **DONALD** 3 , **@WASHINGTONPOST:** 3 , **A…RT** 3 , **MEETING** 3 , **PRESIDENT** 3 , **TRUCK** 3 , 
- 
-## What this user tweeted
- 
-RT @davidaxelrod: On #AxeFiles, @McFaul reports on a rift in the Kremlin's councils caused by spectacularly flawed intelligence about Ukrai…
- 
-# fitlifenaturalUSER INFO
-![image](http://pbs.twimg.com/profile_images/1635380561026981892/hniUTmao_normal.jpg)
- 
-`User ScreenName:` fitlifenatural 
- 
-`User chosen Name:` Natural Weight Loss 
+`User chosen Name:` Funky Chicken Strips 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 13 20:32:52 +0000 2023 
+`User signup date?:` Sat Mar 11 23:55:37 +0000 2023 
  
-`User Description?:` Welcome to our page dedicated to helping you achieve your weight loss goals naturally! GET YOURS NOW! 
+`User Description?:` he/him/you can use they too if you want.
+I'm a Centrist Marxist and an agnostic. 
  
-`Followers?: `0 
+`Followers?: `23 
  
-`Following?:` 25 
- 
-`User URL?:` https://t.co/T3gIV9a0PK 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635380561026981892/hniUTmao_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WEIGHT** 4 , **LOSS** 3 , **BODY** 3 , **LIFE** 2 , **@BFITFORREAL:** 2 , **NATIONALNUTRITIONMONTH** 2 , **PILLS** 2 , **SAFE** 2 , **EFFECTIVE** 2 , **HEALTH** 2 , **HEALTHY** 2 , **INTO** 2 , **CHOICES** 2 , **MAKE** 2 , **LOOKING** 1 , **LOSE** 1 , **NATURALLY** 1 , **EFFECTIVELY?** 1 , **SAY** 1 , **GOODBYE** 1 , 
- 
-## What this user tweeted
- 
-RT @LionsFit4life: March 2023 marks 6yrs into #lowcarb #tcr lifestyle.A private journey that turned into a community passion.Sharing vulner…
- 
-# marvinteckkUSER INFO
-![image](http://pbs.twimg.com/profile_images/1632742586283700235/1zC3eArY_normal.jpg)
- 
-`User ScreenName:` marvinteckk 
- 
-`User chosen Name:` Marvintech 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 06 13:53:15 +0000 2023 
- 
-`User Description?:` MY SERVICES ARE NOT FREE VERIFICATION (Instagram,tiktok,Twitter,Facebook,spotify) Account recovery PUBG UNBANNING CODING 💻📲 GAMING/PS5 SALES🎮 
- 
-`Followers?: `2 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:` California, USA 
- 
-`Number of tweets extracted`  : 84 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1632742586283700235/1zC3eArY_normal.jpg 
- 
-`Number of tweets excluding replies:` 84 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ACCOUNT** 41 , **HACKED** 26 , **DM** 25 , **HACKING** 23 , **RECOVERY** 18 , **HELP** 14 , **HACK** 14 , **HACKER** 14 , **INBOX** 13 , **ANY** 12 , **LOST** 12 , **SNAPCHAT** 12 , **PASSWORD** 10 , **AVAILABLE** 10 , **RECOVER** 10 , **DATASCIENCE** 9 , **NEED** 9 , **CONTACT** 8 , **I'M** 7 , **ACCOUNTS** 7 , 
- 
-## What this user tweeted
- 
-Linux Path Cheat Sheet
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informationsecurity  #cissp… https://t.co/IJ5PD1SKrF
- 
-# DukeDutkiewiczUSER INFO
-![image](http://pbs.twimg.com/profile_images/1635385406563979264/h99jrreN_normal.jpg)
- 
-`User ScreenName:` DukeDutkiewicz 
- 
-`User chosen Name:` Duke 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 07 16:18:20 +0000 2023 
- 
-`User Description?:` #ApeSpaces #BeepBoop #AlphaLogicHQ #KongSeason 
- 
-`Followers?: `276 
- 
-`Following?:` 1892 
+`Following?:` 247 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 107 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1635385406563979264/h99jrreN_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1634988821702901765/NpRZflaw_normal.jpg 
  
-`Number of tweets excluding replies:` 4453 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PUFFPANDAS** 22 , **FOLLOW** 17 , **WIN** 16 , **NFT** 15 , **3** 15 , **JOIN** 14 , **@NFTRTETH** 13 , **NEW** 12 , **SOME** 12 , **US** 11 , **TAG** 11 , **PUFF** 11 , **RETWEET** 11 , **@PUFFPANDAS:** 10 , **MINT** 8 , **✅** 8 , **ALPHA** 8 , **COME** 7 , **🔥** 7 , **SPACE** 7 , 
- 
-## What this user tweeted
- 
-RT @HeldMind: Today Misfit Robots becomes 
-
-💜 Held Mind 💜
-
-We all have our own vulnerabilities and struggles and the way we experience them…
- 
-# faroqi787USER INFO
-![image](http://pbs.twimg.com/profile_images/1631986565898543104/YWhD104N_normal.jpg)
- 
-`User ScreenName:` faroqi787 
- 
-`User chosen Name:` Mshahidjhangvi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 04 06:51:51 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `118 
- 
-`Following?:` 305 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631986565898543104/YWhD104N_normal.jpg 
- 
-`Number of tweets excluding replies:` 1063 
+`Number of tweets excluding replies:` 107 
  
 
  
@@ -273,349 +109,65 @@ We all have our own vulnerabilities and struggles and the way we experience them
  
 ## User Top tweeted words 
  
-**کے** 54 , **کی** 49 , **ہے** 47 , **کو** 40 , **میں** 39 , **@TEAMSP__** 38 , **سے** 38 , **پاکستان_کی_ضرورت_عمران** 36 , **کا** 34 , **اور** 33 , **نے** 29 , **پر** 25 , **دونوں_مریم_گھڑی_چور** 23 , **تو** 21 , **بھی** 20 , **خان** 17 , **ہیں** 16 , **جو** 16 , **پاکستان** 16 , **کر** 15 , 
+**I'M** 9 , **BORED** 8 , **DON'T** 8 , **PEOPLE** 6 , **8** 6 , **GO** 5 , **●** 5 , **ANS** 5 , **KINDA** 5 , **GOT** 5 , **HORNY** 4 , **LOVE** 4 , **REAL** 4 , **THAT'S** 4 , **SOMETHING** 4 , **VERY** 4 , **YOU'RE** 4 , **STILL** 3 , **@YEMENSTARVI:** 3 , **YEMEN** 3 , 
  
 ## What this user tweeted
  
-RT @Zoha9568: Our political elites use vulnerabilities in the system to benefit themselves. Everyone nowadays interprets article 63A in the…
+RT @HamptonThink: This Saturday, March 18th, on the 20th anniversary of the US's brutal invasion of Iraq, we are joining countless other or…
  
-# ZiggtypUSER INFO
-![image](http://pbs.twimg.com/profile_images/1634931463035420677/w7Gv6t8m_normal.jpg)
+# CHUKKYFOUNDATI1USER INFO
+![image](http://pbs.twimg.com/profile_images/1632256755555082241/3GW92qO1_normal.jpg)
  
-`User ScreenName:` Ziggtyp 
+`User ScreenName:` CHUKKYFOUNDATI1 
  
-`User chosen Name:` ziggy pablo429 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 12 14:56:50 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 27 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634931463035420677/w7Gv6t8m_normal.jpg 
- 
-`Number of tweets excluding replies:` 27 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NI** 6 , **@VYBEZRADIOKE:** 5 , **BOUTROSS** 4 , **HAPA** 3 , **@OMWAMBAKE:** 2 , **I'M** 2 , **@ELONMUSK:** 2 , **BUSINESS** 2 , **@ZJHENO** 2 , **@C_ANDY_GURL:** 2 , **MBONA** 2 , **@BROWNGALNESSA** 2 , **@SPAPADEH** 2 , **AKO** 2 , **YA** 2 , **NA** 2 , **KWA** 2 , **RT** 1 , **@IAMJUDDAH:** 1 , **VIEW** 1 , 
- 
-## What this user tweeted
- 
-RT @KEPSA_KENYA: The #KEPSA DCEO @OgaloVic today met @AfDB_Group representatives, Bumi Camara and Tunji Namaiko in a meeting that discussed…
- 
-# Baldwin07085131USER INFO
-![image](http://pbs.twimg.com/profile_images/1632404261958045701/1PNENRb5_normal.jpg)
- 
-`User ScreenName:` Baldwin07085131 
- 
-`User chosen Name:` Baldwine Sven 
+`User chosen Name:` C͟H͟U͟K͟K͟Y͟ F͟O͟U͟N͟D͟A͟T͟I͟O͟N͟ 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 05 15:03:12 +0000 2023 
- 
-`User Description?:` Old account got suspended, please follow my new account till Twitter rectify the old acct, I'm a Dr 🤵‍♂️and i major in orthopaedic, i also love golf 🏌⛳️ 😏 
- 
-`Followers?: `7 
- 
-`Following?:` 22 
- 
-`User URL?:` https://t.co/Gmjiu83aRE 
- 
-`Location:` Berlin Germany 
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1632404261958045701/1PNENRb5_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@UN:** 5 , **CRISIS** 3 , **@CLOWNWORLD_:** 2 , **MAJOR** 2 , **RT** 1 , **MATH** 1 , **DOESN’T** 1 , **ADD** 1 , **HTTPS://TCO/3LKAHKABCFRT** 1 , **CLIMATE** 1 , **WATER** 1 , **US** 1 , **PART** 1 , **SOLUTION:** 1 , **🚿TAKE** 1 , **SHORT** 1 , **SHOWER** 1 , **💦AVOID** 1 , **OVER-WATERING** 1 , **PLANTS…RT** 1 , 
- 
-## What this user tweeted
- 
-RT @UN: Women and girls living in crisis settings face unique vulnerabilities, including increased gender-based violence, sexual exploitati…
- 
-# Miketec37214171USER INFO
-![image](http://pbs.twimg.com/profile_images/1632850184081121283/KMhvzqMA_normal.jpg)
- 
-`User ScreenName:` Miketec37214171 
- 
-`User chosen Name:` Mike_tech 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 06 20:37:45 +0000 2023 
- 
-`User Description?:` hacker 🇺🇸 recovers all social media IG, Facebook,Twitter,Gmail account etc..... 💻📵 we're fast and reliable 
- 
-`Followers?: `3 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1632850184081121283/KMhvzqMA_normal.jpg 
- 
-`Number of tweets excluding replies:` 467 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HACKED** 72 , **ACCOUNT** 68 , **HACKING** 55 , **INBOX** 44 , **RECOVER** 35 , **DM** 33 , **HELP** 31 , **HACK** 27 , **SIE** 24 , **GUIDE** 22 , **•** 22 , **SNAPCHAT** 21 , **FÜR** 20 , **ANY** 19 , **AVAILABLE** 19 , **I'M** 18 , **MIR** 17 , **ICLOUD** 16 , **HACKER** 16 , **FACEBOOKDOWN** 16 , 
- 
-## What this user tweeted
- 
-Linux Path Cheat Sheet inbox now
-#infosec #cybersecurity #cybe
-rsecuritytips  #pentesting #oscp… https://t.co/z0KiT8JIxF
- 
-# KwameAwuku7USER INFO
-![image](http://pbs.twimg.com/profile_images/1634175341831831553/qb9Qh99W_normal.jpg)
- 
-`User ScreenName:` KwameAwuku7 
- 
-`User chosen Name:` Kwame Awuku 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 08 18:12:25 +0000 2023 
- 
-`User Description?:` Surrender to Almighty Allah and Humanity to man 
- 
-`Followers?: `4 
- 
-`Following?:` 77 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634175341831831553/qb9Qh99W_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WOMEN** 3 , **@WHO:** 3 , **DEPRESSION** 3 , **GIRLS** 2 , **💚** 2 , **HERE** 2 , **HELP:** 2 , **🧡** 2 , **💙** 2 , **RT** 1 , **@UN:** 1 , **LIVING** 1 , **CRISIS** 1 , **SETTINGS** 1 , **FACE** 1 , **UNIQUE** 1 , **VULNERABILITIES** 1 , **INCLUDING** 1 , **INCREASED** 1 , **GENDER-BASED** 1 , 
- 
-## What this user tweeted
- 
-RT @UN: Women and girls living in crisis settings face unique vulnerabilities, including increased gender-based violence, sexual exploitati…
- 
-# muhamed_chehabUSER INFO
-![image](http://pbs.twimg.com/profile_images/1634249216204886018/GIkIYD1N_normal.png)
- 
-`User ScreenName:` muhamed_chehab 
- 
-`User chosen Name:` mohamed amine chehab 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 10 17:45:50 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634249216204886018/GIkIYD1N_normal.png 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRY** 2 , **XSS** 2 , **@NINADMISHRA5:** 2 , **🛡️** 2 , **RT** 1 , **@BUG_VS_ME:** 1 , **WHENEVER** 1 , **SAW** 1 , **ANY** 1 , **EMAIL** 1 , **INPUT** 1 , **FIELD!** 1 , **70%** 1 , **BUG** 1 , **HUNTERS** 1 , **DON'T** 1 , **COMPARED** 1 , **NAME** 1 , **FIELD** 1 , **ALWAYS** 1 , 
- 
-## What this user tweeted
- 
-RT @NinadMishra5: List of Tools to Detect XSS Vulnerabilities:
-XSSer
-W3af
-Probely
-Power fuzzer
-Burp Suite
-Netsparker
-ZAProxy
-WebScarab
-XSSt…
- 
-# karansingh1404USER INFO
-![image](http://pbs.twimg.com/profile_images/1634052432312377345/qmocznTE_normal.jpg)
- 
-`User ScreenName:` karansingh1404 
- 
-`User chosen Name:` karan singh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 10 04:43:08 +0000 2023 
- 
-`User Description?:` जो सत्य की राह पर चलते हैं, ईश्वर सदैव उनका साथ देते हैं। 
- 
-`Followers?: `10 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:` Hajipur, India 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634052432312377345/qmocznTE_normal.jpg 
- 
-`Number of tweets excluding replies:` 496 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 63 , **में** 51 , **की** 50 , **को** 50 , **का** 25 , **से** 21 , **और** 19 , **@AMRITMAHOTSAV:** 18 , **जी** 17 , **देश** 16 , **@JOSHIPRALHAD:** 15 , **है।** 15 , **पर** 14 , **है** 13 , **आज** 13 , **श्री** 13 , **CONGRATULATIONS** 12 , **@NARENDRAMODI** 12 , **GARU** 12 , **भारत** 12 , 
- 
-## What this user tweeted
- 
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
- 
-# AbhyYadav2USER INFO
-![image](http://pbs.twimg.com/profile_images/1634430548868308993/ds0Re_ZR_normal.png)
- 
-`User ScreenName:` AbhyYadav2 
- 
-`User chosen Name:` Abhy Yadav 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 05:46:23 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634430548868308993/ds0Re_ZR_normal.png 
- 
-`Number of tweets excluding replies:` 408 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 104 , **में** 84 , **की** 67 , **को** 40 , **जी** 39 , **का** 39 , **से** 30 , **है** 25 , **और** 25 , **पर** 24 , **भारत** 21 , **श्री** 19 , **है।** 19 , **आज** 19 , **ने** 17 , **@NARENDRAMODI** 15 , **INDIA** 15 , **देश** 14 , **CONGRATULATIONS** 13 , **@ANANDSHANKERBJP:** 11 , 
- 
-## What this user tweeted
- 
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
- 
-# pandey_lishaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1634517460367056896/-_SfmqSB_normal.png)
- 
-`User ScreenName:` pandey_lisha 
- 
-`User chosen Name:` Lisha Pandey 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 11:31:44 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634517460367056896/-_SfmqSB_normal.png 
- 
-`Number of tweets excluding replies:` 429 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 105 , **में** 83 , **की** 64 , **जी** 40 , **को** 39 , **का** 38 , **से** 30 , **और** 25 , **पर** 25 , **है** 24 , **भारत** 20 , **है।** 19 , **श्री** 19 , **आज** 19 , **ने** 17 , **@NARENDRAMODI** 15 , **INDIA** 15 , **देश** 14 , **CONGRATULATIONS** 13 , **कर** 11 , 
- 
-## What this user tweeted
- 
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
- 
-# NaakGaeR1USER INFO
-![image](http://pbs.twimg.com/profile_images/1634142557386022912/RrkhFfJd_normal.jpg)
- 
-`User ScreenName:` NaakGaeR1 
- 
-`User chosen Name:` ๖ۣۜNaψak GaᴍeR 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 10 10:42:01 +0000 2023 
+`User signup date?:` Sun Mar 05 05:47:28 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `1 
+ 
+`Following?:` 6 
+ 
+`User URL?:` https://t.co/i2PwzrQim5 
+ 
+`Location:` THE UNIVERSE 🌎 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1632256755555082241/3GW92qO1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 393 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NYTIMES:** 57 , **@CNN:** 45 , **@WSJ:** 41 , **@BBCWORLD:** 33 , **BANK** 32 , **SILICON** 23 , **VALLEY** 23 , **US** 20 , **AFTER** 18 , **BEST** 13 , **OSCAR** 12 , **TWO** 12 , **WIN** 11 , **NEW** 11 , **FIRST** 10 , **OSCARS** 10 , **COLLAPSE** 9 , **BIDEN** 9 , **HISTORY** 8 , **INTO** 8 , 
+ 
+## What this user tweeted
+ 
+RT @CNN: The International Criminal Court reportedly plans to open two war crimes cases tied to the Russian invasion of Ukraine and issue a…RT @nytimes: The International Criminal Court intends to open two war crimes cases tied to the Russian invasion of Ukraine and will seek ar…
+ 
+# YoutubeGoproUSER INFO
+![image](http://pbs.twimg.com/profile_images/1634290842532970497/ghHsUyYz_normal.png)
+ 
+`User ScreenName:` YoutubeGopro 
+ 
+`User chosen Name:` Gopro cam YouTube 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 10 20:31:14 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
  
 `Following?:` 1 
  
@@ -623,11 +175,11 @@ RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 38 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1634142557386022912/RrkhFfJd_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1634290842532970497/ghHsUyYz_normal.png 
  
-`Number of tweets excluding replies:` 542 
+`Number of tweets excluding replies:` 38 
  
 
  
@@ -635,38 +187,41 @@ RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation 
  
 ## User Top tweeted words 
  
-**के** 110 , **में** 81 , **की** 64 , **जी** 42 , **को** 40 , **का** 35 , **से** 26 , **पर** 24 , **और** 24 , **आज** 21 , **श्री** 20 , **भारत** 19 , **है** 19 , **है।** 16 , **ने** 16 , **देश** 16 , **INDIA** 15 , **@NARENDRAMODI** 14 , **MOMENT** 13 , **CONGRATULATIONS** 13 , 
+**LOL** 7 , **FAKE** 4 , **EDMONTON** 4 , **U** 4 , **STUPID** 3 , **COPS** 3 , **LIBERAL** 3 , **CTV** 3 , **@RACHELNOTLEY** 3 , **NDP** 3 , **@GLOBALEDMONTON** 3 , **SCHOOL** 2 , **BUS** 2 , **DRIVERS** 2 , **PEOPLE** 2 , **SHOULDN'T** 2 , **PAY** 2 , **CHILD** 2 , **PIPE** 2 , **MANIKINS** 2 , 
  
 ## What this user tweeted
  
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
+@ABDanielleSmith Take back that money from fake war Ukraine and help
  
-# sumitku65425853USER INFO
-![image](http://pbs.twimg.com/profile_images/1634422513173413888/kUbzP0Zy_normal.jpg)
+# Standards4everUSER INFO
+![image](http://pbs.twimg.com/profile_images/1633145943146250240/XTNpAm1N_normal.jpg)
  
-`User ScreenName:` sumitku65425853 
+`User ScreenName:` Standards4ever 
  
-`User chosen Name:` sumit kumar 
+`User chosen Name:` 🇺🇲Lily_West03👠⚖️ 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 11 05:13:55 +0000 2023 
+`User signup date?:` Tue Mar 07 15:29:01 +0000 2023 
  
-`User Description?:` kisi ke liye  mai accha hoon to kisi ke liye mai bura hoon. .. .. . asl me jo jaisa h uske liye mai waisa hoon. .. .. . 
+`User Description?:` Always ask: Who Benefits?
+Happily Married.  Conservative ✡️
+Two Standard Poodles, my boys❤️❤️
+Thank goodness for Bourbon! 
  
-`Followers?: `19 
+`Followers?: `85 
  
-`Following?:` 97 
+`Following?:` 169 
  
 `User URL?:` None 
  
-`Location:` Bihar, India 
+`Location:` Another Day in Paradise 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1634422513173413888/kUbzP0Zy_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1633145943146250240/XTNpAm1N_normal.jpg 
  
-`Number of tweets excluding replies:` 802 
+`Number of tweets excluding replies:` 317 
  
 
  
@@ -674,66 +229,28 @@ RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation 
  
 ## User Top tweeted words 
  
-**के** 69 , **की** 65 , **में** 62 , **को** 48 , **का** 38 , **से** 35 , **और** 26 , **@AMRITMAHOTSAV:** 21 , **है** 20 , **जी** 16 , **कांग्रेस** 16 , **पर** 15 , **देश** 15 , **है।** 14 , **लिए** 14 , **ने** 14 , **सरकार** 13 , **@UPTODAY365:** 13 , **@VISHVASSARANG:** 12 , **श्री** 12 , 
+**TRUMP** 36 , **BIDEN** 12 , **PEOPLE** 10 , **DEMOCRATS** 8 , **US** 7 , **@ALX** 7 , **I'M** 7 , **DON'T** 7 , **CARE** 7 , **THANK** 6 , **STILL** 6 , **PRESIDENT** 5 , **LIES** 5 , **AFTER** 5 , **MANY** 5 , **GREAT** 5 , **FOOTAGE** 5 , **JOE** 4 , **COMMITTEE** 4 , **@SPEAKERMCCARTHY** 4 , 
  
 ## What this user tweeted
  
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
+RT @45LVNancy: Banks are collapsing 
+But 
+Our hollow pResident can’t reassure the American people they won’t lose their life savings. 
+
+But…
  
-# MahakCh97265733USER INFO
-![image](http://pbs.twimg.com/profile_images/1631910987321458693/ugYuvdGJ_normal.jpg)
+# dailyhuntnowUSER INFO
+![image](http://pbs.twimg.com/profile_images/1635078698478043136/5_2UECNr_normal.jpg)
  
-`User ScreenName:` MahakCh97265733 
+`User ScreenName:` dailyhuntnow 
  
-`User chosen Name:` Mahak Chauhan 
+`User chosen Name:` DailyHuntNow janikmarvin 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 04 06:47:35 +0000 2023 
+`User signup date?:` Wed Mar 08 19:48:26 +0000 2023 
  
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1631910987321458693/ugYuvdGJ_normal.jpg 
- 
-`Number of tweets excluding replies:` 795 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 107 , **में** 87 , **की** 71 , **का** 43 , **जी** 39 , **को** 39 , **से** 27 , **पर** 27 , **है** 26 , **और** 26 , **भारत** 21 , **आज** 20 , **है।** 18 , **श्री** 17 , **ने** 16 , **देश** 15 , **@NARENDRAMODI** 14 , **CONGRATULATIONS** 13 , **INDIA** 13 , **MOMENT** 13 , 
- 
-## What this user tweeted
- 
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
- 
-# Dipak__rajUSER INFO
-![image](http://pbs.twimg.com/profile_images/1634466171394347016/9ef_4qK2_normal.jpg)
- 
-`User ScreenName:` Dipak__raj 
- 
-`User chosen Name:` Dipak__raj 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 08:07:35 +0000 2023 
- 
-`User Description?:` Saath Rehte Yoon Hi Waqt Gujar Jayega,
-Dur Hone Ke Baad Kaun Kise Yaad Aayega,
-Jee Lo Ye Pal Jab Tak Sath Hai Dosto,
-Kal Ka Kya Pata Waqt Kahan Le Ke Jayega. 
+`User Description?:` Political And Global & Entertainment News 
  
 `Followers?: `1 
  
@@ -741,55 +258,13 @@ Kal Ka Kya Pata Waqt Kahan Le Ke Jayega.
  
 `User URL?:` None 
  
-`Location:` उत्तर प्रदेश, भारत 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 122 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1634466171394347016/9ef_4qK2_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1635078698478043136/5_2UECNr_normal.jpg 
  
-`Number of tweets excluding replies:` 437 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 71 , **में** 62 , **की** 54 , **को** 35 , **से** 27 , **का** 24 , **@JOSHIPRALHAD:** 23 , **पर** 20 , **CONGRATULATIONS** 19 , **और** 18 , **@NARENDRAMODI** 17 , **@UPTODAY365:** 16 , **जी** 15 , **आज** 14 , **भारत** 14 , **है।** 14 , **ने** 13 , **कांग्रेस** 13 , **OSCAR** 12 , **लिए** 12 , 
- 
-## What this user tweeted
- 
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
- 
-# shaurav__patelUSER INFO
-![image](http://pbs.twimg.com/profile_images/1634465088055943168/rkXVeuGx_normal.jpg)
- 
-`User ScreenName:` shaurav__patel 
- 
-`User chosen Name:` Shaurav__patel 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 08:03:07 +0000 2023 
- 
-`User Description?:` Zindagi Ke Toofanon Ka Saahil Hai Dosti,
-Dil Ke Armaanon Ki Manzil Hai Dosti,
-Zindagi Bhi Ban Jayegi Apni To Jannat,
-Agar Maut Aane Tak Saath De Dosti. 
- 
-`Followers?: `3 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:` उत्तर प्रदेश, भारत 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634465088055943168/rkXVeuGx_normal.jpg 
- 
-`Number of tweets excluding replies:` 433 
+`Number of tweets excluding replies:` 122 
  
 
  
@@ -797,80 +272,38 @@ Agar Maut Aane Tak Saath De Dosti.
  
 ## User Top tweeted words 
  
-**के** 72 , **में** 64 , **की** 61 , **को** 36 , **से** 27 , **का** 26 , **@JOSHIPRALHAD:** 23 , **पर** 22 , **भारत** 20 , **CONGRATULATIONS** 19 , **और** 17 , **है।** 16 , **@NARENDRAMODI** 16 , **@UPTODAY365:** 16 , **जी** 14 , **ने** 14 , **आज** 13 , **लिए** 13 , **कांग्रेस** 13 , **OSCAR** 12 , 
+**@DAILYWORLD24:** 81 , **@WORLDNEWS24U:** 24 , **UKRAINE** 17 , **RUSSIAN** 15 , **AFTER** 13 , **US** 12 , **FORCES** 11 , **PRESIDENT** 11 , **ARMED** 9 , **CHINA** 8 , **MILITARY** 8 , **RUSSIA** 8 , **UKRAINIAN** 7 , **MINISTRY** 7 , **NEW** 7 , **MARCH** 6 , **HAMBURG** 6 , **DESTROYED** 5 , **SPECIAL** 5 , **FOREIGN** 5 , 
  
 ## What this user tweeted
  
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
+RT @DailyWorld24: 📝‼️🇺🇦NATO🇪🇺‼️The more NATO is involved in the Ukrainian war, the more surprising is the change in the diplomatic language…
  
-# cryptob92462233USER INFO
-![image](http://pbs.twimg.com/profile_images/1634282549060030483/-_RaxkDb_normal.jpg)
+# BPmatchpointUSER INFO
+![image](http://pbs.twimg.com/profile_images/1634252786828210176/QoY-EUTP_normal.jpg)
  
-`User ScreenName:` cryptob92462233 
+`User ScreenName:` BPmatchpoint 
  
-`User chosen Name:` crypto br.els 
+`User chosen Name:` the booky killer 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 06 19:02:45 +0000 2023 
+`User signup date?:` Fri Mar 10 17:53:25 +0000 2023 
  
-`User Description?:` @0xHashstack Contributor 
+`User Description?:`  
  
-`Followers?: `3 
+`Followers?: `9 
  
-`Following?:` 78 
+`Following?:` 123 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 197 
+`Number of tweets extracted`  : 66 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1634282549060030483/-_RaxkDb_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1634252786828210176/QoY-EUTP_normal.jpg 
  
-`Number of tweets excluding replies:` 197 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GMRT** 37 , **@ELYSIUM_CHAIN:** 29 , **E** 18 , **@APTOSLAUNCHIO** 16 , **🤑** 16 , **STRATEGY** 15 , **$APT** 15 , **BLOCKCHAIN** 12 , **🔥YOU** 11 , **CURRENTLY** 11 , **SUPPLY** 11 , **@ABELFINANCE** 11 , **AT…** 11 , **ONOMY** 11 , **@MESPROTOCOL:** 9 , **FIRST** 9 , **DE** 9 , **JOIN** 9 , **CETUS** 9 , **O** 8 , 
- 
-## What this user tweeted
- 
-RT @moverxyz: Thanks to @Tetragaze for conducting an excellent audit of Mover's smart contracts. They went to great lengths to check every…
- 
-# Shivam__singh0USER INFO
-![image](http://pbs.twimg.com/profile_images/1634450848528097280/askUOmEA_normal.jpg)
- 
-`User ScreenName:` Shivam__singh0 
- 
-`User chosen Name:` Shivam_singh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 07:06:20 +0000 2023 
- 
-`User Description?:` Zindagi Har Pal Kuchh Khaas Nahi Hoti,
-Phoolo Ki Khushboo Hamesha Paas Nahi Hoti,
-Milna Humari Takdeer Mein Tha Varna,
-Itni Pyari Dosti ittefaaq Nahi Hoti. 
- 
-`Followers?: `3 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:` उत्तर प्रदेश, भारत 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634450848528097280/askUOmEA_normal.jpg 
- 
-`Number of tweets excluding replies:` 474 
+`Number of tweets excluding replies:` 66 
  
 
  
@@ -878,79 +311,38 @@ Itni Pyari Dosti ittefaaq Nahi Hoti.
  
 ## User Top tweeted words 
  
-**के** 71 , **में** 63 , **की** 58 , **को** 36 , **का** 26 , **@JOSHIPRALHAD:** 24 , **और** 22 , **पर** 22 , **से** 21 , **भारत** 21 , **CONGRATULATIONS** 21 , **है।** 17 , **@NARENDRAMODI** 16 , **आज** 14 , **जी** 14 , **OSCAR** 13 , **एक** 12 , **लिए** 11 , **देश** 11 , **@AMRITMAHOTSAV:** 11 , 
+**MATE** 6 , **?** 5 , **@STEVE_WEISSMAN** 5 , **TENNIS** 5 , **…** 4 , **EVEN** 4 , **@PRAKASHAMRITRAJ** 4 , **WTA** 4 , **@TENNISCHANNEL** 3 , **THESE** 3 , **ANOTHER** 3 , **PLAYER** 3 , **GUY** 3 , **GO** 3 , **DIFFERENT** 3 , **@IGA_SWIATEK** 3 , **0** 3 , **BARELY** 3 , **CRINGE** 2 , **SHUT** 2 , 
  
 ## What this user tweeted
  
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
+@TennisChannel So cringe…, all these irrelevant Ukrainian players calling the shots Ahahahha , virtually a cringe f… https://t.co/qXpAnj145L
  
-# Rajeshk10667743USER INFO
-![image](http://pbs.twimg.com/profile_images/1634229742114336769/A-kqn_FW_normal.jpg)
+# greenhill_fredUSER INFO
+![image](http://pbs.twimg.com/profile_images/1633737573267898370/VZfOxubr_normal.png)
  
-`User ScreenName:` Rajeshk10667743 
+`User ScreenName:` greenhill_fred 
  
-`User chosen Name:` Rajesh kumar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 10 16:27:54 +0000 2023 
- 
-`User Description?:` der se bno pr zrur kuch bno
-kyuki waqt ke sath log 
-khairiyat nhi haisiyat puchte h 😇 
- 
-`Followers?: `11 
- 
-`Following?:` 96 
- 
-`User URL?:` None 
- 
-`Location:` Bihar, India 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634229742114336769/A-kqn_FW_normal.jpg 
- 
-`Number of tweets excluding replies:` 717 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 69 , **की** 64 , **में** 62 , **को** 46 , **का** 37 , **से** 34 , **और** 26 , **@AMRITMAHOTSAV:** 21 , **है** 20 , **जी** 16 , **कांग्रेस** 16 , **देश** 15 , **है।** 14 , **लिए** 14 , **ने** 14 , **पर** 14 , **@VISHVASSARANG:** 12 , **श्री** 12 , **सरकार** 12 , **@UPTODAY365:** 12 , 
- 
-## What this user tweeted
- 
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
- 
-# SunilRa478USER INFO
-![image](http://pbs.twimg.com/profile_images/1631892653527777280/ydk_E854_normal.png)
- 
-`User ScreenName:` SunilRa478 
- 
-`User chosen Name:` Sunil Rai 
+`User chosen Name:` Fred Greenhill 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 04 05:41:42 +0000 2023 
+`User signup date?:` Thu Mar 09 07:52:45 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `6 
+`Followers?: `2 
  
-`Following?:` 4 
+`Following?:` 2 
  
 `User URL?:` None 
  
-`Location:` Hajipur, India 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 33 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631892653527777280/ydk_E854_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1633737573267898370/VZfOxubr_normal.png 
  
-`Number of tweets excluding replies:` 1576 
+`Number of tweets excluding replies:` 34 
  
 
  
@@ -958,39 +350,38 @@ RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation 
  
 ## User Top tweeted words 
  
-**के** 75 , **की** 67 , **में** 60 , **का** 42 , **को** 38 , **से** 34 , **और** 26 , **है** 21 , **@AMRITMAHOTSAV:** 20 , **पर** 18 , **@UPTODAY365:** 18 , **कांग्रेस** 16 , **जी** 16 , **@VISHVASSARANG:** 15 , **है।** 15 , **लिए** 15 , **सरकार** 14 , **भारत** 14 , **ने** 13 , **श्री** 11 , 
+**GLORY** 10 , **KEEP** 6 , **STANDWITHUKRAINE** 6 , **RUSSIAN** 6 , **@FEHER_JUNIOR:** 5 , **UKRAINE** 5 , **UKRAINERT** 4 , **ARMED** 3 , **STRONG** 3 , **YNWART** 3 , **BAKHMUT** 3 , **ARMORED** 3 , **YNWA** 3 , **UKRAINIAN** 3 , **EX** 3 , **BACK** 3 , **UKRAINE@ENGYANYONG** 2 , **TIME** 2 , **TRYING** 2 , **AIR** 2 , 
  
 ## What this user tweeted
  
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
+@EngYanyong Glory to ukraine
  
-# sushant29294822USER INFO
-![image](http://pbs.twimg.com/profile_images/1634203081650085889/3P3dij2x_normal.jpg)
+# vladusik_UAUSER INFO
+![image](http://pbs.twimg.com/profile_images/1635425622871646211/jO6xG4G0_normal.jpg)
  
-`User ScreenName:` sushant29294822 
+`User ScreenName:` vladusik_UA 
  
-`User chosen Name:` sushant singh 
+`User chosen Name:` Vlada 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 10 14:41:32 +0000 2023 
+`User signup date?:` Mon Mar 13 22:41:14 +0000 2023 
  
-`User Description?:` jo haar jaye wo hm nhi 😇
-aur mujhe koi hara de itna kisi me dm nhi 😎😎 
+`User Description?:` russia is a terrorist state 
  
-`Followers?: `26 
+`Followers?: `1 
  
-`Following?:` 92 
+`Following?:` 25 
  
 `User URL?:` None 
  
-`Location:` Bihar, India 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1634203081650085889/3P3dij2x_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1635425622871646211/jO6xG4G0_normal.jpg 
  
-`Number of tweets excluding replies:` 756 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -998,38 +389,79 @@ aur mujhe koi hara de itna kisi me dm nhi 😎😎
  
 ## User Top tweeted words 
  
-**के** 69 , **की** 64 , **में** 62 , **को** 46 , **का** 37 , **से** 34 , **और** 26 , **@AMRITMAHOTSAV:** 21 , **है** 20 , **जी** 16 , **कांग्रेस** 16 , **देश** 15 , **है।** 14 , **लिए** 14 , **ने** 14 , **पर** 14 , **@VISHVASSARANG:** 12 , **श्री** 12 , **सरकार** 12 , **@UPTODAY365:** 12 , 
+**RUSSIA'S** 2 , **RT** 1 , **@TARASMI:** 1 , **PLEASE** 1 , **NOTE** 1 , **NEITHER** 1 , **NAVALNY'S** 1 , **FAMILY** 1 , **NOR** 1 , **EMPLOYEES** 1 , **FOUNDATION** 1 , **EVEN** 1 , **MENTION** 1 , **AGGRESSION** 1 , **AGAINST** 1 , **UKRAINE…TO** 1 , **ADD** 1 , **THREAD** 1 , **GIVING** 1 , **OSCAR** 1 , 
  
 ## What this user tweeted
  
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
+RT @tarasmi: Please note that neither Navalny's family nor the employees of his foundation even mention Russia's aggression against Ukraine…
  
-# AnilRai1087USER INFO
-![image](http://pbs.twimg.com/profile_images/1631892321691115520/VOOedhlh_normal.png)
+# StHelena248USER INFO
+![image](http://pbs.twimg.com/profile_images/1632110244401905664/V7p7bP5G_normal.jpg)
  
-`User ScreenName:` AnilRai1087 
+`User ScreenName:` StHelena248 
  
-`User chosen Name:` Anil Rai 
+`User chosen Name:` Clg Constantine 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 04 05:40:23 +0000 2023 
+`User signup date?:` Sat Mar 04 19:23:12 +0000 2023 
  
-`User Description?:` indan 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 94 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 43 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1632110244401905664/V7p7bP5G_normal.jpg 
+ 
+`Number of tweets excluding replies:` 43 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@RICHARDGRENELL:** 4 , **PRICES** 3 , **@JIM_JORDAN:** 3 , **ANOTHER** 3 , **MOST** 3 , **@CATTURD2:** 2 , **PAY** 2 , **BIDEN** 2 , **WORLD** 2 , **BACK** 2 , **THESE** 2 , **CHANGE** 2 , **APPARATUS** 2 , **IDEOLOGY** 2 , **STOP** 2 , **FORM** 2 , **MONEY** 2 , **LAUNDERING** 2 , **UNDER** 2 , **@CHARLIEKIRK11:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @charliekirk11: So Silicon Valley Bank had about $200 Billion on its balance sheet. 
+
+Ironically, $200 billion is also about how much we…
+ 
+# WallyST675USER INFO
+![image](http://pbs.twimg.com/profile_images/1633881562356776994/GDhGy3eV_normal.jpg)
+ 
+`User ScreenName:` WallyST675 
+ 
+`User chosen Name:` Wally 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 09 17:24:33 +0000 2023 
+ 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 8 
+`Following?:` 38 
  
 `User URL?:` None 
  
-`Location:` Bihar, India 
+`Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 62 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1631892321691115520/VOOedhlh_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1633881562356776994/GDhGy3eV_normal.jpg 
  
-`Number of tweets excluding replies:` 1707 
+`Number of tweets excluding replies:` 62 
  
 
  
@@ -1037,39 +469,38 @@ RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation 
  
 ## User Top tweeted words 
  
-**के** 72 , **की** 64 , **में** 60 , **का** 40 , **को** 34 , **से** 32 , **और** 25 , **@AMRITMAHOTSAV:** 19 , **@UPTODAY365:** 18 , **है** 17 , **पर** 15 , **है।** 15 , **कांग्रेस** 15 , **सरकार** 14 , **लिए** 14 , **जी** 14 , **@VISHVASSARANG:** 13 , **ने** 13 , **भारत** 13 , **@KISHANREDDYBJP:** 11 , 
+**YOU'RE** 6 , **PEOPLE** 5 , **@KURTSCHLICHTER:** 3 , **SAD** 3 , **CALL** 3 , **@MATTWALSHBLOG:** 3 , **CARE** 3 , **MAN** 3 , **@GPRIME85:** 3 , **UNDERSTAND** 3 , **@ELONMUSK:** 3 , **UPSET** 3 , **BACK** 2 , **INSANITY** 2 , **BIDEN** 2 , **HARD** 2 , **BAILOUTS** 2 , **PERIOD** 2 , **HI** 2 , **BAIL** 2 , 
  
 ## What this user tweeted
  
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
+Does that mean you're against funding a proxy war in Ukraine? https://t.co/4YyeSrtq6Y
  
-# sunilsi39359476USER INFO
-![image](http://pbs.twimg.com/profile_images/1633870476773830657/3QyUq5Sm_normal.jpg)
+# MICHELL52774407USER INFO
+![image](http://pbs.twimg.com/profile_images/1633841977551904769/2cABbRDD_normal.jpg)
  
-`User ScreenName:` sunilsi39359476 
+`User ScreenName:` MICHELL52774407 
  
-`User chosen Name:` sunil singh 
+`User chosen Name:` MICHELLE 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 09 16:40:29 +0000 2023 
+`User signup date?:` Thu Mar 09 14:32:50 +0000 2023 
  
-`User Description?:` waqt hr waqt bdl deta h 
-bs waqt ko thoda waqt chahiye 
+`User Description?:` 🇷🇺🤍🇷🇺💙🇷🇺❤️🇷🇺🤍🇷🇺💙🇷🇺🤍💙❤️🤍💙❤️🤍💙❤️🤍💙❤️🤍💙❤️🤍💙❤️🤍💙❤️🤍 
  
-`Followers?: `25 
+`Followers?: `75 
  
-`Following?:` 103 
+`Following?:` 515 
  
 `User URL?:` None 
  
-`Location:` Bihar, India 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 191 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1633870476773830657/3QyUq5Sm_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1633841977551904769/2cABbRDD_normal.jpg 
  
-`Number of tweets excluding replies:` 761 
+`Number of tweets excluding replies:` 856 
  
 
  
@@ -1077,11 +508,56 @@ bs waqt ko thoda waqt chahiye
  
 ## User Top tweeted words 
  
-**के** 72 , **की** 67 , **में** 64 , **को** 46 , **का** 39 , **से** 34 , **और** 26 , **@AMRITMAHOTSAV:** 21 , **है** 20 , **जी** 16 , **कांग्रेस** 16 , **है।** 15 , **लिए** 15 , **देश** 15 , **पर** 15 , **ने** 14 , **@VISHVASSARANG:** 12 , **श्री** 12 , **सरकार** 12 , **@UPTODAY365:** 12 , 
+**DE** 98 , **LA** 71 , **QUE** 65 , **EN** 51 , **Y** 43 , **EL** 42 , **LOS** 40 , **ES** 34 , **UN** 20 , **SE** 18 , **PARA** 18 , **POR** 18 , **LO** 17 , **LAS** 17 , **UNA** 17 , **CON** 17 , **DEL** 12 , **PUTIN** 9 , **YA** 9 , **MÁS** 9 , 
  
 ## What this user tweeted
  
-RT @Rajeev_GoI: In US, fallout of overstimulus durng Covid leading to inflation leading to Fed hike in rates creatng serious vulnerabilitie…
+RT @djuric_zlatko: Ukraine is a terror state: https://t.co/X1JoBVgK3G
+ 
+# Dissonance84USER INFO
+![image](http://pbs.twimg.com/profile_images/1632547764759597056/juUtyWtX_normal.png)
+ 
+`User ScreenName:` Dissonance84 
+ 
+`User chosen Name:` Dissonance 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 06 01:04:52 +0000 2023 
+ 
+`User Description?:` Freedom
+Free Speech
+Humor 
+ 
+`Followers?: `19 
+ 
+`Following?:` 201 
+ 
+`User URL?:` None 
+ 
+`Location:` California, USA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1632547764759597056/juUtyWtX_normal.png 
+ 
+`Number of tweets excluding replies:` 896 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BANK** 13 , **@SOVMICHAEL:** 13 , **PEOPLE** 10 , **@ZEROHEDGE:** 10 , **@DOWDEDWARD:** 9 , **@CONCEPTUALJAMES:** 8 , **3** 7 , **VACCINE** 7 , **NEVER** 7 , **MONEY** 7 , **FIRST** 6 , **BANKING** 6 , **LOST** 6 , **1** 6 , **NEED** 6 , **MUCH** 6 , **INTO** 6 , **LET** 6 , **WHILE** 5 , **DEATHS** 5 , 
+ 
+## What this user tweeted
+ 
+RT @45LVNancy: Banks are collapsing 
+But 
+Our hollow pResident can’t reassure the American people they won’t lose their life savings. 
+
+But…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
