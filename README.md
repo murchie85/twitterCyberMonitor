@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **mtaibbi**  
+The most popular user is: **LakotaMan1**  
  
 
-## 15.  The report was co-authored by Katie Couric and Chris Krebs, the founder of the DHS’s Cybersecurity and Infrast… https://t.co/4MDR2w7Pk0 
+## Marjorie Taylor Greene and Lauren Boebert absolutely hate this poster. So for god’s sake — don’t even think about l… https://t.co/i2N241bglb 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **mtaibbi**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @three_cube: Network Basics for Hackers, DNS and BIND: How it Works and How it Breaks #dns #bind #networkbasics #cybersecurity #infosec… |
-| @chizygram @BowTiedCyber At least a computer science degree is somewhat useful. Cybersecurity degrees(except WGU) s… https://t.co/1AptRTsYh1 |
-| RT @cybersecboardrm: New Critical Flaw in FortiOS and FortiProxy Could Give Hackers Remote Access #Cybersecurity #security  https://t.co/IW… |
+| RT @payloadartist: XSS In Google Contact Center AIhttps://t.co/LHxlT8TRNuBy @ndevtk #bugbounty #bugbountytips #infosec #cybersecurity… |
+| RT @0x0SojalSec: Wordpress vuln\CVEplugin: BackupBuddy⚡️cat hosts | httpx -title -path "/wp-admin/admin-post.php?page=pb_backupbuddy_des… |
+| @Coleens_ I feel like if you're not having a hard time battling for infosec you're not doing it right. Because mode… https://t.co/GM3x6Ww3uK |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **hackinarticles** |
 | #2 Most tweeted to  | **Shubham_pen** |
-| #3 Most tweeted to  | **three_cube** |
-| NewProfiles (less than 10 days) | 1.24%  |
-| Tweeters with < 10 followers  | 6.2%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #3 Most tweeted to  | **0x0SojalSec** |
+| NewProfiles (less than 10 days) | 0.42%  |
+| Tweeters with < 10 followers  | 6.14%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,143 +51,56 @@ The most popular user is: **mtaibbi**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **DATASCIENCE**  |
-| third  | **AI** |
-| fourth  | **HACKING**  |
-| fifth  | **PENTESTING**  |
+| second  | **PENTESTING**  |
+| third  | **DATASECURITY** |
+| fourth  | **PHISHING**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
+![image](assets/infosec/sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @HackwithNichola: Have Your account been #Hacked Dm now for help#ArtificialIntelligence #DataScience #DataScientists #innovation #deepl… |
+|Mongoaudit – An Audit and Pentesting Tool for MongoDB Databases https://t.co/yA5PSegRo7 #CyberSecurity #InfoSec #TousSecNum #CyberTools |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mtaibbi**  |
+| The most retweeted user is: **LakotaMan1**  |
 | ------------- |
-| 15.  The report was co-authored by Katie Couric and Chris Krebs, the founder of the DHS’s Cybersecurity and Infrast… https://t.co/4MDR2w7Pk0 |
+| Marjorie Taylor Greene and Lauren Boebert absolutely hate this poster. So for god’s sake — don’t even think about l… https://t.co/i2N241bglb |
 
 # Potential Fake Accounts
  
-# marvinteckkUSER INFO
-![image](http://pbs.twimg.com/profile_images/1632742586283700235/1zC3eArY_normal.jpg)
+# trannysrfilthyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1632250533086937088/yOAIZCYx_normal.png)
  
-`User ScreenName:` marvinteckk 
+`User ScreenName:` trannysrfilthy 
  
-`User chosen Name:` Marvintech 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 06 13:53:15 +0000 2023 
- 
-`User Description?:` MY SERVICES ARE NOT FREE VERIFICATION (Instagram,tiktok,Twitter,Facebook,spotify) Account recovery PUBG UNBANNING CODING 💻📲 GAMING/PS5 SALES🎮 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:` California, USA 
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1632742586283700235/1zC3eArY_normal.jpg 
- 
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ACCOUNT** 12 , **RECOVERY** 10 , **DM** 8 , **ANY** 5 , **DATASCIENCE** 5 , **HACKER** 5 , **HELP** 4 , **HACKING** 4 , **CONTACT** 4 , **NEED** 4 , **LOST** 3 , **DATASCIENTISTS…** 3 , **ARTIFICIALINTELLIGENCE** 3 , **AI** 3 , **PROBLEMS** 3 , **MACHINELEARNING** 3 , **SEND** 2 , **SERVICE** 2 , **FINDING** 2 , **HACKED** 2 , 
- 
-## What this user tweeted
- 
-To spy on your Girlfriend or Boyfriend account Dm now
-#ArtificialIntelligence #AI #ML #DataScience #DataScientists… https://t.co/erU3906U5BDm now for Lost Coins Hacked Account or Any social media account problems 
-#ArtificialIntelligence #AI #ML… https://t.co/41OHUCsqN3You need help with your account recovery kindly send me a Dm!
-#ArtificialIntelligence #DataScience #DataScientists… https://t.co/3iKbSKgG57To Hack or Recover your account Dm now
-#Algorithms #Wearables #health #DataScience #Python #Cloud #AI #flutter… https://t.co/qDF3tLEQadFor Hacking, Recovery, Tracking, missing phone or finding someone’s location Dm now!
-
-#MachineLearning #Jupyter… https://t.co/vvymEsjp6dIf you need a hacker for any kind of problem contact me now #programming
-#BigData #MachineLearning
-#DataScience… https://t.co/LZoPbcH46l
- 
-# ArK4nes_NCUSER INFO
-![image](http://pbs.twimg.com/profile_images/1633624033299423234/GdjiOWS6_normal.jpg)
- 
-`User ScreenName:` ArK4nes_NC 
- 
-`User chosen Name:` ArK4nes 
+`User chosen Name:` erasezionists 🇮🇷🇮🇷🇮🇷 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 08 23:15:13 +0000 2023 
+`User signup date?:` Sun Mar 05 05:23:47 +0000 2023 
  
-`User Description?:` - Hacking & Trip lover 
+`User Description?:` Trannys are mentally ill animals that need medical attention immediately. Free Palestine. Fk Nazi Ukraine 
  
-`Followers?: `0 
+`Followers?: `7 
  
-`Following?:` 14 
+`Following?:` 139 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 137 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1633624033299423234/GdjiOWS6_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1632250533086937088/yOAIZCYx_normal.png 
  
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**OPEN** 2 , **BETA** 2 , **SEASON** 2 , **HTB** 2 , **NEW** 2 , **NICE** 1 , **BOX** 1 , **!** 1 , **LOVE** 1 , **HTTPS://TCO/9NPDSDYTMZ** 1 , **HACKTHEBOX** 1 , **CYBERSECURITYSO** 1 , **HYPED** 1 , **(ALSO** 1 , **PROB** 1 , **BLUETEAMING** 1 , **FEATURE** 1 , **KNOWS** 1 , **😋)** 1 , **HAPPY** 1 , 
- 
-## What this user tweeted
- 
-Was a nice box ! Love this open beta season 
-https://t.co/9npDSdytmZ #hackthebox #htb #cybersecurity
- 
-# HotPhenomenaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1634736074953048071/8MXp5KdO_normal.jpg)
- 
-`User ScreenName:` HotPhenomena 
- 
-`User chosen Name:` HotPhenomena 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 10 19:46:20 +0000 2023 
- 
-`User Description?:` Facts, events, and situations: #Artificial_Intelligence | #cyberwar | #CyberSecurity | #tech | #GlobalWarming | #pandemic | #naturaldisasters | #astronmy etc 
- 
-`Followers?: `2 
- 
-`Following?:` 5 
- 
-`User URL?:` https://t.co/IEyK9AfM5l 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634736074953048071/8MXp5KdO_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 137 
  
 
  
@@ -195,91 +108,11 @@ https://t.co/9npDSdytmZ #hackthebox #htb #cybersecurity
  
 ## User Top tweeted words 
  
-**RANSOMWARE** 2 , **@BLACKGIRLSHACK** 1 , **@SHEHACKSPURPLE** 1 , **AGREE!CYBER** 1 , **COMBAT!** 1 , **FORCES** 1 , **TEAMING** 1 , **GLOBALLY** 1 , **DOWN** 1 , **AGGRESSIVE** 1 , **GANGS** 1 , **WORLDWIDE** 1 , **PHE…** 1 , **HTTPS://TCO/HHALNBXQBRCA** 1 , **US** 1 , **GOV** 1 , **DECISIONS** 1 , **BAN** 1 , **FOREIGN-BASED** 1 , **TECH** 1 , 
+**PEOPLE** 13 , **@GAMMONBADGE** 13 , **DON'T** 10 , **@WARMONITORS** 10 , **YOU'RE** 9 , **I'VE** 7 , **NEVER** 7 , **IRAN** 7 , **@200_ZOKA** 7 , **@SIGNALAPP** 6 , **LOL** 6 , **WHERE** 6 , **NAFO** 6 , **GO** 6 , **@TROLLSTOY88** 6 , **HE'S** 5 , **LMFAO** 5 , **GOING** 5 , **CAN'T** 5 , **THEY'RE** 5 , 
  
 ## What this user tweeted
  
-Cyber combat! Forces are teaming up globally to take down aggressive ransomware gangs worldwide. The ransomware phe… https://t.co/hHaLnBXQBrCA and US Gov decisions to ban foreign-based tech posing national security threats is a hot global sociotechnical p… https://t.co/3M6z42REmu
- 
-# jtryingmbestUSER INFO
-![image](http://pbs.twimg.com/profile_images/1633674835980173314/qTZMHAa5_normal.jpg)
- 
-`User ScreenName:` jtryingmbest 
- 
-`User chosen Name:` JustTryingMyBest 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 09 03:34:46 +0000 2023 
- 
-`User Description?:` (He/Him) Just trying my best to be a good person in this horrid system we live in, hope I can help at least a little bit to make the world a better place 
- 
-`Followers?: `1 
- 
-`Following?:` 38 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1633674835980173314/qTZMHAa5_normal.jpg 
- 
-`Number of tweets excluding replies:` 309 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRANS** 34 , **PEOPLE** 28 , **@CASEYEXPLOSION:** 17 , **@ROTTENINDENMARK:** 17 , **@FORDFISCHER:** 11 , **SAY** 10 , **NEVER** 10 , **@ALISSACALIENTE:** 10 , **@THOUGHTSLIME:** 10 , **SUICIDE** 8 , **T…RT** 8 , **I’M** 8 , **@LILYSIMPSON1312:** 8 , **@EUPHORITORI:** 7 , **A…RT** 7 , **@MAGICPEPPER414:** 7 , **ANTI-DRAG** 7 , **@ERININTHEMORN:** 6 , **GO** 6 , **REALLY** 6 , 
- 
-## What this user tweeted
- 
-RT @ScattrBrainJane: TW: Suicide/Abuse
-
-A trans girl from SA has apparently taken her own life, after a U.S. cybersecurity firm was hired b…
- 
-# CyberHope_23USER INFO
-![image](http://pbs.twimg.com/profile_images/1632230547727728640/voIgk3y0_normal.jpg)
- 
-`User ScreenName:` CyberHope_23 
- 
-`User chosen Name:` CyberHope 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 05 04:02:37 +0000 2023 
- 
-`User Description?:` Cyber hope is the belief that, through the right education and training, individuals and organisations can stay safe in this ever-evolving digital landscape. 
- 
-`Followers?: `1 
- 
-`Following?:` 21 
- 
-`User URL?:` https://t.co/0Gs7tP5Gf3 
- 
-`Location:` उत्तरांचल, भारत 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1632230547727728640/voIgk3y0_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**या** 2 , **FOLLOW** 1 , **LINK** 1 , **JOIN** 1 , **WHATSAPP** 1 , **GROUP:** 1 , **HTTPS://TCO/T0R9OOXP9BCYBERSECURITYTIPS** 1 , **HTTPS://TCO/REVM6IAY04BEWARE** 1 , **FAKE** 1 , **JOB** 1 , **OFFERS** 1 , **CYBERSECURITYTIPS** 1 , **HTTPS://TCO/Y6M5DH49UECYBERSECURITY** 1 , **TIPS** 1 , **HTTPS://TCO/ACS1MCHR7GKYC** 1 , **सस्पेंशन** 1 , **एक्सपाइरी** 1 , **अकाउंट** 1 , **ब्लॉक** 1 , **के** 1 , 
- 
-## What this user tweeted
- 
-#cybersecurity tips https://t.co/Acs1mCHR7G
+@RoyalAspieForce @basedspinach @sovereignbrah @signalapp Lol stop. Waste of time explaining anything to people who aren't part of infosec@sovereignbrah @signalapp You're not an infosec person why are you spreading fud about something you know nothing a… https://t.co/YrT9ZvM2RA
  
 # 0x4Zl0dUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1634967587514728448/sGk6vLXZ_normal.jpg)
@@ -407,123 +240,6 @@ RT @hackinarticles: Linux Path Cheat Sheet
  
 Internet Download Manager v6.41 Build 6 Multilingual Incl Full Activated – Discount 100% OFF… https://t.co/B81mxPf2Kw
  
-# DonDestinyJnr1USER INFO
-![image](http://pbs.twimg.com/profile_images/1634164704871436290/XXwtZHws_normal.jpg)
- 
-`User ScreenName:` DonDestinyJnr1 
- 
-`User chosen Name:` @Fra.nklin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 10 09:05:39 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634164704871436290/XXwtZHws_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**2023** 2 , **@PROPHETKAKRAB:** 2 , **@ASHANTI_KINGDOM** 1 , **@DR_ERICA_DR** 1 , **SHEESHRT** 1 , **@CTAC_HQ:** 1 , **ANOINTING** 1 , **SERVICE** 1 , **PROPHET** 1 , **KAKRA** 1 , **BAIDEN** 1 , **CTAC** 1 , **LIVE** 1 , **1ST** 1 , **JANUARY** 1 , **SUNDAYSERVICE** 1 , **HTTPS://TCO/BH6YZ482JTRT** 1 , **HTTPS://TCO/PGW9LQK4DFRT** 1 , **HTTPS://TCO/9LC1VXVSKDRT** 1 , **@RSASECURITY:** 1 , 
- 
-## What this user tweeted
- 
-RT @RSAsecurity: Join our #webinar to learn why #cybersecurity starts with identity 🛡️ and get a chance to win 🏆 one of 5 hospitality ticke…
- 
-# SamuelDDavid147USER INFO
-![image](http://pbs.twimg.com/profile_images/1633751181842436096/SDwWiaJO_normal.jpg)
- 
-`User ScreenName:` SamuelDDavid147 
- 
-`User chosen Name:` Samuel David 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 09 08:45:47 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1633751181842436096/SDwWiaJO_normal.jpg 
- 
-`Number of tweets excluding replies:` 753 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SERVICE** 93 , **ROUND** 93 , **CIRCLES** 93 , **WITHOUT** 93 , **OFFERING** 93 , **ANY** 93 , **REAL** 93 , **HELP** 93 , **MESSAGE** 93 , **CYBERSECURITY…** 93 , **DIDN’T** 76 , **FELT** 76 , **FRUSTRATED** 76 , **THEN** 76 , **REFERRED** 76 , **ACCOUNT** 72 , **TO…** 67 , **SUSPENDED** 38 , **ACCESS** 31 , **HACKED/DISABLED/SUSPENDED** 31 , 
- 
-## What this user tweeted
- 
-Support service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/lFNgIMnDOiSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/TZ9Rsohw2YSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/Rg6QqEXhMGSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/QbjuzzPiLaSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/DloSdbP2u5Support service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/INaudGwu7wSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/Pl4alGESMaSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/CvE46klM4SSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/qa90FUMcEYSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/0ET8OCiLYrSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/p71KLVeCLjSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/Ry5vId7HUPSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/ICIvhALfQvSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/FbpzuTIgLkSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/5kRhG9lOOKSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/gCm6YsqqW8Support service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/azQ2DnIFmnSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/ku7FgbnwC9Support service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/Xov3GAHSSJSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/OmXeOBm9nVSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/JWnuIiomAzSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/OOy4gOo0laSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/A7hA4VWq8CSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/h0jy56HyJoSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/T9EYv0RCn0Support service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/m0XMm4j2bdSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/0rjykzsBRaSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/ofHmRDGvaySupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/hGv75LCMHUSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/Ra7lu9oPgISupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/JjajElgIFMSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/IvcmilrqGUSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/12lKT1d2AJSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/vdhmLUbTDOSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/CzTWPRqpDoSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/mgZ2DN90a7Support service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/gvx8KHiJraSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/xV5j8VUTY6Support service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/pYFt3UCYErSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/BNQ2eN94JESupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/3xvsapADTJSupport service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/DY72UYT267Support service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/HP2T80etcL
- 
-# grac28513178USER INFO
-![image](http://pbs.twimg.com/profile_images/1634021180771557376/r-OXtbB2_normal.jpg)
- 
-`User ScreenName:` grac28513178 
- 
-`User chosen Name:` Good smile 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 10 02:36:46 +0000 2023 
- 
-`User Description?:` :) 
- 
-`Followers?: `0 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634021180771557376/r-OXtbB2_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@WICYSORG:** 1 , **PIECE** 1 , **ADVICE** 1 , **FELLOW** 1 , **WOMAN** 1 , **CYBERSECURITY** 1 , **WICYS** 1 , **HTTPS://TCO/SYCG1KYWBE** 1 , 
- 
-## What this user tweeted
- 
-RT @WiCySorg: Piece of advice from a fellow woman in cybersecurity. #WiCyS https://t.co/SyCG1kYWBE
- 
 # MihneaTanoviciUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1634615145665110021/6UIwloyB_normal.jpg)
  
@@ -565,32 +281,32 @@ RT @hackinarticles: Pic of the Day
 
 #infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
  
-# dement760USER INFO
-![image](http://pbs.twimg.com/profile_images/1634731096922533888/1g0yQugH_normal.jpg)
+# MahetaHitesh1USER INFO
+![image](http://pbs.twimg.com/profile_images/1632666360772788225/k4ATZs7__normal.jpg)
  
-`User ScreenName:` dement760 
+`User ScreenName:` MahetaHitesh1 
  
-`User chosen Name:` demen 
+`User chosen Name:` Maheta Hitesh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 04 06:22:02 +0000 2023 
+`User signup date?:` Fri Mar 03 15:28:01 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `7 
+`Followers?: `13 
  
-`Following?:` 285 
+`Following?:` 34 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1634731096922533888/1g0yQugH_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1632666360772788225/k4ATZs7__normal.jpg 
  
-`Number of tweets excluding replies:` 244 
+`Number of tweets excluding replies:` 3083 
  
 
  
@@ -598,39 +314,43 @@ RT @hackinarticles: Pic of the Day
  
 ## User Top tweeted words 
  
-**AIRDROP** 43 , **X** 31 , **OAT** 30 , **GIVEAWAY** 21 , **✅** 19 , **TOKEN** 18 , **SUI** 17 , **GOOD** 15 , **JOIN** 14 , **FOLLOW** 14 , **SHARE** 14 , **@LALAHASIM9** 13 , **🏆** 12 , **@AIRDOP16** 12 , **HOLD** 12 , **🎁** 11 , **PROJECT** 10 , **PRIZE** 10 , **CLAIM** 10 , **TOTAL** 9 , 
+**के** 45 , **की** 27 , **में** 23 , **અને** 22 , **શ્રી** 22 , **ખાતે** 21 , **દ્વારા** 21 , **को** 20 , **से** 19 , **का** 19 , **@NARENDRAMODI** 15 , **है।** 14 , **आज** 14 , **रहा** 14 , **जी** 13 , **SHRI** 13 , **श्री** 13 , **मार्च** 12 , **આજના** 12 , **અંગ્રેજોના** 12 , 
  
 ## What this user tweeted
  
-RT @hyperproAI: KYC CERTIFICATE SUCCESFULLY COMPLETED:
- the hyperproAI team has succesfully completed its KYC requirements with a top Kyc s…
+RT @nullcon: 🟢Keynote begins.... 
+
+💻Gareth Heyes sharing insights on how you can detect server-side prototype pollution +💡introduction of a…
  
-# EddyEkwere3USER INFO
-![image](http://pbs.twimg.com/profile_images/1634925815174447104/nJz4eYSd_normal.jpg)
+# NFTBTCYehovaSupUSER INFO
+![image](http://pbs.twimg.com/profile_images/1633344235540992000/hcsK3HRV_normal.jpg)
  
-`User ScreenName:` EddyEkwere3 
+`User ScreenName:` NFTBTCYehovaSup 
  
-`User chosen Name:` Eddy 
+`User chosen Name:` Yehova Supremacy - NFT Bible 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 08 17:14:37 +0000 2023 
+`User signup date?:` Tue Mar 07 17:29:23 +0000 2023 
  
-`User Description?:`  
+`User Description?:` https://t.co/3ZvVx3wFuU…
+NFTs BIBLE - most rare million dollar nfts
+crypto investor
+#nftbible #nft #crypto #bitcoin #NFTBITCOIN 
  
-`Followers?: `3 
+`Followers?: `45 
  
-`Following?:` 232 
+`Following?:` 97 
  
 `User URL?:` None 
  
-`Location:` Port Harcourt, Nigeria 
+`Location:` bitcoin 
  
-`Number of tweets extracted`  : 9 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1634925815174447104/nJz4eYSd_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1633344235540992000/hcsK3HRV_normal.jpg 
  
-`Number of tweets excluding replies:` 9 
+`Number of tweets excluding replies:` 603 
  
 
  
@@ -638,13 +358,200 @@ RT @hyperproAI: KYC CERTIFICATE SUCCESFULLY COMPLETED:
  
 ## User Top tweeted words 
  
-**DON'T** 2 , **9** 2 , **(SQL)** 2 , **RT** 1 , **@JA_OLAOYE:** 1 , **FRUSTRATED** 1 , **TRY** 1 , **BELOW** 1 , **FEEL** 1 , **GROWTH** 1 , **LEARNING** 1 , **PATH:** 1 , **1** 1 , **SOME** 1 , **BREAK** 1 , **2** 1 , **REEVALUATE** 1 , **YOUR…RT** 1 , **@EZEKIEL_ALEKE:** 1 , **FAVORITE** 1 , 
+**BANK** 24 , **FOLLOW** 19 , **DROP** 18 , **RT** 17 , **BITCOIN** 17 , **+** 17 , **@JAYECANE:** 17 , **@ELONMUSK** 15 , **$ETH** 14 , **FIRST** 14 , **0X85467794453C4896D2D00C309FB3F8B4D6D7D321RT** 14 , **@BTCTN:** 13 , **BANKS** 12 , **$USDC** 12 , **@WATCHERGURU:** 11 , **@BITCOINMAGAZINE:** 11 , **NFT** 11 , **CRYPTO** 10 , **@CZ_BINANCE:** 10 , **PEOPLE** 10 , 
  
 ## What this user tweeted
  
-RT @BDAnalyticsnews: How to tell a story with Data?
+RT @hackinarticles: Pic of the Day
 
-#ArtificialIntelligence #AI #ML #DataScience #DataScientists #CodeNewbies #Tech #deepl…
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
+ 
+# iamredjcehUSER INFO
+![image](http://pbs.twimg.com/profile_images/1634750936450236416/MRuYWaM5_normal.jpg)
+ 
+`User ScreenName:` iamredjceh 
+ 
+`User chosen Name:` RJ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 11 17:24:43 +0000 2023 
+ 
+`User Description?:` Infrastructure. Cybersecurity. Lover of hoodies. Tweets my own. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 61 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1634750936450236416/MRuYWaM5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**INFOSEC** 4 , **CYBERSECURITY** 4 , **CHEAT** 3 , **SHEET** 3 , **PENTESTING** 3 , **@HACKINARTICLES:** 3 , **FIRST** 2 , **POST** 2 , **@SHUBHAM_PEN:** 2 , **CREDIT:** 2 , **DATASECURITY** 2 , **CYBERSEC** 2 , **@MALWRHUNTERTEAM:** 2 , **FIND** 2 , **CYBERSECURITYTIPS** 2 , **DIRECTORY** 2 , **TCPDUMP** 2 , **RT** 1 , **@0XBOKU:** 1 , **WE'VE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Shubham_pen: WAF vs IPS
+Credit: https://t.co/TTe55SizW6
+
+#infosec #cybersecurity #pentesting #DataSecurity #CyberSec #bugbountytips #Li…RT @InfoSecComm: 🆕New Post
+
+Are you struggling to find your first bug?
+
+@therceman got you covered with his writeup on "How to Find Your Fi…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…RT @hackinarticles: Mitre Attack Cheat Sheet
+
+👉🏿Full HD Image: https://t.co/CwPLBuWp5c
+
+#infosec #cybersecurity #cybersecuritytips #pentest…RT @hackinarticles: Active Directory Penetration Testing Training (Online)
+
+Table of Content
+✅Initial AD Exploitation
+✅Active Directory Pos…RT @Shubham_pen: Tcpdump Cheat Sheet
+Credit: @Comparitech
+
+#infosec #cybersecurity #pentesting #tcpdump #DataSecurity #CyberSec #bugbountyt…
+ 
+# NetNavigat1onUSER INFO
+![image](http://pbs.twimg.com/profile_images/1634125905651015682/EK4X-S3E_normal.jpg)
+ 
+`User ScreenName:` NetNavigat1on 
+ 
+`User chosen Name:` net navigation 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 10 08:41:08 +0000 2023 
+ 
+`User Description?:` Your go-to source for practical online security advice. Follow us for the latest insights and resources to keep your digital life safe. #onlinesecurity #cyberse 
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` https://t.co/sgaTbOuGuE 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1634125905651015682/EK4X-S3E_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RESOURCES** 2 , **CYBERSECURITY** 2 , **READY** 1 , **NEXT** 1 , **BIG** 1 , **THING:** 1 , **6G** 1 , **TECHNOLOGY** 1 , **CHANGE** 1 , **LIFE** 1 , **FOREVER!** 1 , **HTTPS://TCO/VWTIYLONE5RT** 1 , **@HACK_GIT:** 1 , **CYBER** 1 , **SECURITY** 1 , **THOUSANDS** 1 , **RELATED** 1 , **ETHICAL** 1 , **HACKING** 1 , **/** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Shubham_pen: WAF vs IPS
+Credit: https://t.co/TTe55SizW6
+
+#infosec #cybersecurity #pentesting #DataSecurity #CyberSec #bugbountytips #Li…
+ 
+# Miketec37214171USER INFO
+![image](http://pbs.twimg.com/profile_images/1632850184081121283/KMhvzqMA_normal.jpg)
+ 
+`User ScreenName:` Miketec37214171 
+ 
+`User chosen Name:` Mike_tech 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 06 20:37:45 +0000 2023 
+ 
+`User Description?:` hacker 🇺🇸 recovers all social media IG, Facebook,Twitter,Gmail account etc..... 💻📵 we're fast and reliable 
+ 
+`Followers?: `3 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1632850184081121283/KMhvzqMA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 382 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HACKED** 65 , **ACCOUNT** 64 , **HACKING** 57 , **INBOX** 41 , **RECOVER** 32 , **DM** 32 , **HELP** 30 , **HACK** 26 , **•** 24 , **SIE** 24 , **GUIDE** 21 , **RECOVERY** 20 , **ANY** 20 , **FÜR** 20 , **SNAPCHAT** 19 , **ACCOUNTS** 18 , **HACKER** 17 , **MIR** 17 , **WHATSAPP** 17 , **GOOD** 17 , 
+ 
+## What this user tweeted
+ 
+weird ways employees can (accidentally) expose data 
+  #DataSecurity #Privacy
+  #100DaysOfCode #CloudSecurity… https://t.co/GESzVOSU528 Weird Ways Employees Can (Accidentally) Expose Data
+  #DataSecurity #Privacy
+  #100DaysOfCode #CloudSecurity… https://t.co/GA2VmBB06oDoes mandatory password expiration help or hurt your password security?
+  #DataSecurity #Privacy
+  #100DaysOfCode… https://t.co/ZT2wnmoo43Linux Path Cheat Sheet inbox now
+#infosec #cybersecurity #cybe
+rsecuritytips  #pentesting #oscp… https://t.co/z0KiT8JIxF
+ 
+# Mahmoud52241241USER INFO
+![image](http://pbs.twimg.com/profile_images/1634639501900365825/rp5OtK_t_normal.jpg)
+ 
+`User ScreenName:` Mahmoud52241241 
+ 
+`User chosen Name:` Mahmoud Osman 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 11 19:36:41 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1634639501900365825/rp5OtK_t_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 3 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **SOCINATOR** 1 , **DOMINATOR** 1 , **ENTERPRISE** 1 , **V100146** 1 , **OFF** 1 , **HTTPS://TCO/YUEAFIAEJV** 1 , **INFOSEC…** 1 , **HTTPS://TCO/H0KI8AET6TAUTLAND** 1 , **SUITE** 1 , **MICROSOCIAL** 1 , **V2314** 1 , **SOCIAL** 1 , **MEDIA** 1 , **MARKETING** 1 , **OFF…** 1 , 
+ 
+## What this user tweeted
+ 
+Socinator Dominator Enterprise v1.0.0.146 Full Activated – Discount 100% OFF https://t.co/YUEaFIaejv #infosec… https://t.co/h0Ki8aET6TAutLand Suite Microsocial v23.14 Full Activated – Social Media Marketing – Discount 100% OFF… https://t.co/CC15NfQIqM
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
