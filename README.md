@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **ScattrBrainJane**  
+The most popular user is: **Chasten**  
  
 
-## TW: Suicide/Abuse
-
-A trans girl from SA has apparently taken her own life, after a U.S. cybersecurity firm was hire… https://t.co/rZnCqaIhiL 
+## An honest question for you, @Mike_Pence, after your attempted joke this weekend. If your grandchild was born premat… https://t.co/YgxuoUuowq 
 
   
 
@@ -25,25 +23,25 @@ A trans girl from SA has apparently taken her own life, after a U.S. cybersecuri
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Oludeewon I just need a 8gb ram laptop to start a career in cybersecurity 🤲🧎 |
-| #HelpNetSecurity #CyberSecurity #Automated | Massive GitHub analysis reveals 10 million secrets hidden in 1 billion… https://t.co/rZF1FiUytn |
-| Don't let cyber threats slip under your radar! Intrusion Detection Systems (IDS) are your secret weapon for ident… https://t.co/ZpqIXblOul |
+| RT @CISACyber: 🔊 #CVE-2023-23397, CVE-2023-24880 &amp; CVE-2022-41328 have been added to @CISAgov’s Known Exploited Vulnerabilities Catalog. Vi… |
+| @TKMatima That is humanity not just InfoSec 😂 |
+| RT @matrixm0x: any new tips to bypass 403?#BugBounty #bugbountytips #infosec #hackerone https://t.co/i35NS5LFLu |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **BowTiedCyber** |
-| #3 Most tweeted to  | **ScattrBrainJane** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 5.08%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #2 Most tweeted to  | **0xor0ne** |
+| #3 Most tweeted to  | **LordNoteworthy** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 5.46%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -53,27 +51,27 @@ A trans girl from SA has apparently taken her own life, after a U.S. cybersecuri
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **US**  |
-| third  | **DATA** |
-| fourth  | **AI**  |
-| fifth  | **HACKING**  |
+| second  | **PASSWORD**  |
+| third  | **@HACKINARTICLES:** |
+| fourth  | **PHISHING**  |
+| fifth  | **PENTESTING**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|I tell you what interviewing for cybersecurity positions has actually done wonders for my imposter syndrome. To not… https://t.co/gy71KYPVcc |
+|RT @three_cube: Just 1 More Day!Ends March 15, comes with Network Basics book, Wireshark, Cryptography,  and 7 more videos!This is the… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ScattrBrainJane**  |
+| The most retweeted user is: **Chasten**  |
 | ------------- |
-| TW: Suicide/AbuseA trans girl from SA has apparently taken her own life, after a U.S. cybersecurity firm was hire… https://t.co/rZnCqaIhiL |
+| An honest question for you, @Mike_Pence, after your attempted joke this weekend. If your grandchild was born premat… https://t.co/YgxuoUuowq |
 
 # Potential Fake Accounts
  
@@ -116,105 +114,7 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJE
  
 Does mandatory password expiration help or hurt your password security?
   #DataSecurity #Privacy
-  #100DaysOfCode… https://t.co/flAacWRpV4Send me a DM for all the digital hacking
-  #Machine Learning #Data Science #SQL
-  #Cybersecurity #BigData… https://t.co/bxnN8kKrJ8C++ is mainly used in .
-  rn
-  #ArtificialIntelligence #Al #ML
-  #DataScience #DataScientists
-  #CodeNewbies… https://t.co/uVkTUvcoRWIf your account is hacked, or your account is being tampered with, all you need is a good hacker...
-  Inbox now for… https://t.co/dapWdqL2Z5C++ used mainly in
-  rn
-  #ArtificialIntelligence #Al #ML
-  #DataScience #DataScientists
-  #CodeNewbies #Technology… https://t.co/Qw6huZEwYIIf your account is hacked or your account is being tampered with, all you need is a good hacker.
-  Inbox now for al… https://t.co/jBIOOKZ0WH
- 
-# richard79qwUSER INFO
-![image](http://pbs.twimg.com/profile_images/1635782419335860224/qpPZRtjO_normal.jpg)
- 
-`User ScreenName:` richard79qw 
- 
-`User chosen Name:` Richard 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 22:31:12 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635782419335860224/qpPZRtjO_normal.jpg 
- 
-`Number of tweets excluding replies:` 26 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JOIN** 6 , **TWITTER** 4 , **@LINK3TO** 4 , **@MARINOGENT** 4 , **@KMPDU** 4 , **@DUBBAL5RT** 4 , **AMA** 4 , **US** 3 , **SPACE** 3 , **🎁** 3 , **@CYVOIO** 3 , **WEB3** 3 , **@WUG1TU698IZ5SKH** 2 , **SPACES** 2 , **DISCUSS** 2 , **FRENS!** 2 , **HOSTING** 2 , **ONLINE** 2 , **LIVE** 2 , **USDT** 2 , 
- 
-## What this user tweeted
- 
-RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
-
-🎁 200 USDT Giveaway!
-✅ Follow @wave_signal &amp; @CYVOio
-✅ Like &amp; Ret…
- 
-# cleverman230USER INFO
-![image](http://pbs.twimg.com/profile_images/1635773177623199745/-6maNCTP_normal.jpg)
- 
-`User ScreenName:` cleverman230 
- 
-`User chosen Name:` Cleverman 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 22:11:41 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 38 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 24 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635773177623199745/-6maNCTP_normal.jpg 
- 
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JOIN** 6 , **@LINK3TO** 4 , **@YUGITAWINSS** 4 , **@ICHIGO_SANDOO** 4 , **@LUCKYBOYJLAD5RT** 4 , **AMA** 4 , **US** 3 , **TWITTER** 3 , **SPACE** 3 , **🎁** 3 , **@CYVOIO** 3 , **WEB3** 3 , **SPACES** 2 , **DISCUSS** 2 , **FRENS!** 2 , **HOSTING** 2 , **ONLINE** 2 , **LIVE** 2 , **USDT** 2 , **@BNBCHAIN** 2 , 
- 
-## What this user tweeted
- 
-RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
-
-🎁 200 USDT Giveaway!
-✅ Follow @wave_signal &amp; @CYVOio
-✅ Like &amp; Ret…
+  #100DaysOfCode… https://t.co/flAacWRpV4
  
 # KTownsend2728USER INFO
 ![image](http://pbs.twimg.com/profile_images/1635755443464142848/NBrfxahP_normal.png)
@@ -253,11 +153,7 @@ RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
  
 ## What this user tweeted
  
-RT @Shubham_pen: Network Penetration Testing 
-Credit: @c4s73r
-https://t.co/qqJNyMz8Ub
-
-#cybersecurity #pentesting #informationsecurity #Dat…RT @0xor0ne: Introduction to ROP (Return-oriented programming) and DEP (Data Execution Prevention) bypass by CyberMasterV
+RT @0xor0ne: Introduction to ROP (Return-oriented programming) and DEP (Data Execution Prevention) bypass by CyberMasterV
 
 https://t.co/sqk…RT @hackinarticles: Cloud Attack Cheat Sheet
 
@@ -267,76 +163,34 @@ https://t.co/sqk…RT @hackinarticles: Cloud Attack Cheat Sheet
 
 #bugbountytips #bugbountytip #bugbounty #cybersecurity #infosec #ethicalhacking
 
-credit…RT @danielmakelley: 17 platforms where you can begin cybersecurity:
-
-1. HackXpert - Free labs and training.
-2. TryHackMe - Hands-on exercis…
+credit…
  
-# BotDumpsterFireUSER INFO
-![image](http://pbs.twimg.com/profile_images/1633471071511887873/jK1xJ9Tf_normal.png)
+# refudiatemUSER INFO
+![image](http://pbs.twimg.com/profile_images/1634599751298478082/jMe-SY6Q_normal.jpg)
  
-`User ScreenName:` BotDumpsterFire 
+`User ScreenName:` refudiatem 
  
-`User chosen Name:` Kevin Neubauer 
+`User chosen Name:` Travelling Light 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 08 14:13:46 +0000 2023 
+`User signup date?:` Sat Mar 11 16:26:23 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Northern lights, born overseas, living on a path, learning. Opinions my own 
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 1 
+`Following?:` 291 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Look up 
  
-`Number of tweets extracted`  : 7 
+`Number of tweets extracted`  : 64 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1633471071511887873/jK1xJ9Tf_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1634599751298478082/jMe-SY6Q_normal.jpg 
  
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CONTRASTSEC:** 7 , **STRATEGY** 4 , **CYBERSECURITY** 3 , **CYBER** 3 , **DIGITAL** 2 , **JOIN** 2 , **SVP** 2 , **HONOR** 2 , **SPECIAL** 2 , **TWO** 2 , **NATIONAL** 2 , **RT** 1 , **PROTECTING** 1 , **COMPANY'S** 1 , **ASSETS** 1 , **IMPORTANT** 1 , **THAN** 1 , **EVER** 1 , **ENSURE** 1 , **TRANSPARENCY** 1 , 
- 
-## What this user tweeted
- 
-RT @contrastsec: Protecting your company's digital assets is more important than ever. Ensure transparency in your software stack with SBOM…
- 
-# fabioopggUSER INFO
-![image](http://pbs.twimg.com/profile_images/1635762810562007042/OWj2M1pk_normal.png)
- 
-`User ScreenName:` fabioopgg 
- 
-`User chosen Name:` fabio rojas 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 14 22:00:19 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 21 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635762810562007042/OWj2M1pk_normal.png 
- 
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 64 
  
 
  
@@ -344,211 +198,38 @@ RT @contrastsec: Protecting your company's digital assets is more important than
  
 ## User Top tweeted words 
  
-**@CYVOIO** 3 , **@WAVE_SIGNAL** 2 , **✅** 2 , **@ZXXKILL** 1 , **@WINDGONE233** 1 , **@WUWEI720** 1 , **TESTRT** 1 , **@WAVE_SIGNAL:** 1 , **$200** 1 , **GA** 1 , **:** 1 , **CYBERSECURITY** 1 , **COMPANY** 1 , **JOINS** 1 , **WEB3** 1 , **🎁** 1 , **200** 1 , **USDT** 1 , **GIVEAWAY!** 1 , **FOLLOW** 1 , 
+**@SHAYKHSULAIMAN** 19 , **ANDREW** 8 , **@ELKZATTACK** 7 , **@MARCO995544** 6 , **TATE** 6 , **THANKS** 5 , **TIME** 5 , **OPINION** 5 , **DESERVE** 5 , **MUSLIMS** 5 , **PORNOGRAPHER** 5 , **WELL** 4 , **CONCERNED** 4 , **DEFENDING** 4 , **WHOSE** 4 , **BUSINESS** 4 , **GETTING** 4 , **W…** 3 , **@ZALAWARDAK** 3 , **MYS…** 3 , 
  
 ## What this user tweeted
  
-RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
+@AlyssaM_InfoSec Reminds me of this story about Elon Musk from an engineer who formerly worked at SpaceX.
 
-🎁 200 USDT Giveaway!
-✅ Follow @wave_signal &amp; @CYVOio
-✅ Like &amp; Ret…
+"Rocket… https://t.co/Dtt7WSwvSq
  
-# deezer79USER INFO
-![image](http://pbs.twimg.com/profile_images/1634676187791253508/qi-3xVDL_normal.png)
+# redteamhackersUSER INFO
+![image](http://pbs.twimg.com/profile_images/1633498991022288896/HGQv58se_normal.jpg)
  
-`User ScreenName:` deezer79 
+`User ScreenName:` redteamhackers 
  
-`User chosen Name:` Deezer79 
+`User chosen Name:` red team hackers 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 11 22:02:28 +0000 2023 
+`User signup date?:` Wed Mar 08 15:51:37 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Passionate about #cybersecurity and ethical #hacking. Join us as we explore the latest threats and solutions for protecting yourself online. 
  
-`Followers?: `0 
+`Followers?: `5 
  
-`Following?:` 36 
+`Following?:` 15 
  
-`User URL?:` None 
+`User URL?:` https://t.co/QlAfHwrlhM 
  
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634676187791253508/qi-3xVDL_normal.png 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**🏆** 8 , **JOIN** 6 , **@LINK3TO** 4 , **@MARINOGENT** 4 , **@MAHADYH44147373** 4 , **@HOLLAR_LEXZYRT** 4 , **AMA** 4 , **US** 3 , **TWITTER** 3 , **SPACE** 3 , **🎁** 3 , **@CYVOIO** 3 , **WEB3** 3 , **SPACES** 2 , **DISCUSS** 2 , **FRENS!** 2 , **HOSTING** 2 , **ONLINE** 2 , **LIVE** 2 , **USDT** 2 , 
- 
-## What this user tweeted
- 
-RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
-
-🎁 200 USDT Giveaway!
-✅ Follow @wave_signal &amp; @CYVOio
-✅ Like &amp; Ret…
- 
-# lync99cripUSER INFO
-![image](http://pbs.twimg.com/profile_images/1635759069842513922/-Nv92OVe_normal.jpg)
- 
-`User ScreenName:` lync99crip 
- 
-`User chosen Name:` Lync99crip 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 21:53:23 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 31 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 23 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635759069842513922/-Nv92OVe_normal.jpg 
- 
-`Number of tweets excluding replies:` 23 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JOIN** 6 , **@ELASTIC** 4 , **@NBCNE** 4 , **@LINK3TO** 4 , **AMA** 4 , **US** 3 , **SPACE** 3 , **@HJOYCEGENDRT** 3 , **🎁** 3 , **@CYVOIO** 3 , **WEB3** 3 , **В** 3 , **TWITTER** 2 , **SPACES** 2 , **DISCUSS** 2 , **FRENS!** 2 , **HOSTING** 2 , **ONLINE** 2 , **LIVE** 2 , **USDT** 2 , 
- 
-## What this user tweeted
- 
-RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
-
-🎁 200 USDT Giveaway!
-✅ Follow @wave_signal &amp; @CYVOio
-✅ Like &amp; Ret…
- 
-# rayza4398USER INFO
-![image](http://pbs.twimg.com/profile_images/1635753493158936577/8lj2lv2S_normal.jpg)
- 
-`User ScreenName:` rayza4398 
- 
-`User chosen Name:` Rayza 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 20:56:45 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635753493158936577/8lj2lv2S_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JOIN** 6 , **@LINK3TO** 4 , **@KMENDONCAFILHO** 4 , **@KMOV** 4 , **@KMPDURT** 4 , **AMA** 4 , **US** 3 , **SPACE** 3 , **🎁** 3 , **@CYVOIO** 3 , **WEB3** 3 , **TWITTER** 2 , **SPACES** 2 , **DISCUSS** 2 , **FRENS!** 2 , **HOSTING** 2 , **ONLINE** 2 , **LIVE** 2 , **USDT** 2 , **@BNBCHAIN** 2 , 
- 
-## What this user tweeted
- 
-RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
-
-🎁 200 USDT Giveaway!
-✅ Follow @wave_signal &amp; @CYVOio
-✅ Like &amp; Ret…
- 
-# Global_Support9USER INFO
-![image](http://pbs.twimg.com/profile_images/1635753984894877696/ATVCxKqr_normal.jpg)
- 
-`User ScreenName:` Global_Support9 
- 
-`User chosen Name:` Global Support🌍 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 14 21:11:41 +0000 2023 
- 
-`User Description?:` Official @Binance customer support. We're here to
-help! Any questions, drop us a DM. Include your case ID if you have one. 24/7 live chat in 17+ languages. 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` https://t.co/dg9yXKAsqz 
- 
-`Location:` Japan 
- 
-`Number of tweets extracted`  : 81 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635753984894877696/ATVCxKqr_normal.jpg 
- 
-`Number of tweets excluding replies:` 81 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@BINANCE:** 74 , **BINANCE** 43 , **🔸** 11 , **CRYPTO** 10 , **EARN** 8 , **BELOW** 7 , **LIVE** 6 , **TRADING** 6 , **INTERNATIONALWOMENSDAY** 6 , **ANOTHER** 5 , **LEARN** 5 , **FIND** 5 , **CO-FOUNDER** 5 , **MARKET** 4 , **WEB3** 4 , **CARD** 4 , **SIMPLE** 4 , **NEW** 4 , **HEAR** 4 , **DOWN** 4 , 
- 
-## What this user tweeted
- 
-RT @binance: #Binance visited Kaohsiung, Taiwan this weekend to discuss the importance of cybersecurity in Web3.
-
-As part of our commitment…
- 
-# HotPhenomenaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1634736074953048071/8MXp5KdO_normal.jpg)
- 
-`User ScreenName:` HotPhenomena 
- 
-`User chosen Name:` HotPhenomena 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 10 19:46:20 +0000 2023 
- 
-`User Description?:` Be aware of important life changing events: #Artificial_Intelligence | #cyberwar | #Infosec | #CyberSecurity | #tech | #HumanRights | #Ethics | etc. 
- 
-`Followers?: `3 
- 
-`Following?:` 17 
- 
-`User URL?:` https://t.co/IEyK9AfM5l 
- 
-`Location:`  
+`Location:` india 
  
 `Number of tweets extracted`  : 12 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1634736074953048071/8MXp5KdO_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1633498991022288896/HGQv58se_normal.jpg 
  
 `Number of tweets excluding replies:` 12 
  
@@ -558,104 +239,28 @@ As part of our commitment…
  
 ## User Top tweeted words 
  
-**US** 3 , **MALWARE** 2 , **LAUNCH** 2 , **GOV** 2 , **GLOBAL** 2 , **TECH** 2 , **PHENOMENON** 2 , **INTELLIGENCE** 2 , **SECURITY** 2 , **RANSOMWARE** 2 , **BEWARE** 1 , **BATLOADER** 1 , **INFECTIONS!!** 1 , **GOOGLE** 1 , **ADS** 1 , **BEING** 1 , **UTILIZED** 1 , **DISTRIBUTE** 1 , **USERS** 1 , **THREAT** 1 , 
+**PASSWORD** 3 , **HACKERS** 3 , **HACKING** 2 , **NEW** 2 , **TOOL** 2 , **RT** 1 , **@HACKINARTICLES:** 1 , **BEST** 1 , **CRACKING** 1 , **CRACKING:VNC** 1 , **HTTPS://TCO/WLP9O1PGEC** 1 , **CRACKING:SSH** 1 , **HTTPS://TCO/NTPZEORQIP…RT** 1 , **@KALILINUX:** 1 , **HAPPY** 1 , **10** 1 , **YEAR** 1 , **BIRTHDAY** 1 , **KALI!** 1 , **EXCITED** 1 , 
  
 ## What this user tweeted
  
-Beware of BatLoader malware infections!! Google ads are being utilized to distribute malware to users. Threat actor… https://t.co/QvJC3V9MRNThe Cybercriminal group DEV-1101 is using an open-source AiTM phishing kit to launch attacks at scale! Multi-factor… https://t.co/kNTQcWFjC4
+RT @hackinarticles: Best of Password Cracking
+
+Password Cracking:VNC
+https://t.co/wlp9O1PGEc
+
+Password Cracking:SSH
+https://t.co/NtpzeORQIP…
  
-# Megablast101USER INFO
-![image](http://pbs.twimg.com/profile_images/1634294009211371523/wlaEaiu-_normal.jpg)
+# AhmedPharmaciesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1635597504526917634/4jJYmAEt_normal.jpg)
  
-`User ScreenName:` Megablast101 
+`User ScreenName:` AhmedPharmacies 
  
-`User chosen Name:` Mega 
+`User chosen Name:` Ahmed Abdallah Pharmacies 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 05 17:48:31 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 100 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 198 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634294009211371523/wlaEaiu-_normal.jpg 
- 
-`Number of tweets excluding replies:` 216 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MAHMOOD** 29 , **NIGERIANS** 22 , **PLEASE** 22 , **YAKUBU** 20 , **IDIOT** 18 , **CALL** 18 , **TELL** 18 , **ELECTION** 17 , **PRESIDENT** 16 , **PETER** 16 , **OBI** 16 , **PROF** 16 , **CRIMINAL** 15 , **@INECNIGERIA** 14 , **PIECE** 14 , **DON'T** 13 , **BUHARI** 13 , **PEOPLE** 12 , **THIEF** 12 , **U** 12 , 
- 
-## What this user tweeted
- 
-@MobilePunch INEC is headed by a liar and is full of staff who lie every second with straight faces. Nothing like a… https://t.co/wo27S6lbyQ
- 
-# Mannaneba1USER INFO
-![image](http://pbs.twimg.com/profile_images/1635751296505348096/eiuYi9dD_normal.jpg)
- 
-`User ScreenName:` Mannaneba1 
- 
-`User chosen Name:` Mannaneba 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 20:50:58 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 35 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 23 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635751296505348096/eiuYi9dD_normal.jpg 
- 
-`Number of tweets excluding replies:` 23 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JOIN** 6 , **@ELASTIC** 4 , **@NBCNEWS** 4 , **@HJOYCEGENDERRT** 4 , **@LINK3TO** 4 , **AMA** 4 , **US** 3 , **SPACE** 3 , **🎁** 3 , **@CYVOIO** 3 , **WEB3** 3 , **@WUG1TU698IZ5SKH** 3 , **@BNBCHAIN** 2 , **TWITTER** 2 , **FRENS!** 2 , **HOSTING** 2 , **ONLINE** 2 , **LIVE** 2 , **USDT** 2 , **✅** 2 , 
- 
-## What this user tweeted
- 
-RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
-
-🎁 200 USDT Giveaway!
-✅ Follow @wave_signal &amp; @CYVOio
-✅ Like &amp; Ret…
- 
-# SamuelDDavid147USER INFO
-![image](http://pbs.twimg.com/profile_images/1633751181842436096/SDwWiaJO_normal.jpg)
- 
-`User ScreenName:` SamuelDDavid147 
- 
-`User chosen Name:` Samuel David 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 09 08:45:47 +0000 2023 
+`User signup date?:` Tue Mar 14 11:03:27 +0000 2023 
  
 `User Description?:`  
  
@@ -667,11 +272,11 @@ RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1633751181842436096/SDwWiaJO_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1635597504526917634/4jJYmAEt_normal.jpg 
  
-`Number of tweets excluding replies:` 1100 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -679,81 +284,38 @@ RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
  
 ## User Top tweeted words 
  
-**ACCESS** 197 , **HACKED/DISABLED/SUSPENDED** 197 , **ACCOUNTS** 197 , **FB** 197 , **INSTAGRAM** 197 , **EASILY** 197 , **RECOVERED** 197 , **HELP…** 197 , **SERVICE** 3 , **ROUND** 3 , **CIRCLES** 3 , **WITHOUT** 3 , **OFFERING** 3 , **ANY** 3 , **REAL** 3 , **HELP** 3 , **MESSAGE** 3 , **CYBERSECURITY…** 3 , **REGAIN** 1 , **HTTPS://TCO/QRC1H4H5QBSUPPORT** 1 , 
+**–** 4 , **WHATSAPP** 2 , **PRO** 2 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **AUTO** 1 , **BUSINESS** 1 , **SENDER** 1 , **TURBO** 1 , **V120** 1 , **(AI)** 1 , **ANTI** 1 , **BLOCK** 1 , **OFF…** 1 , **HTTPS://TCO/P3ZA2QDLOKWHATDROID** 1 , **V237** 1 , **MARKETING** 1 , **OFF** 1 , 
  
 ## What this user tweeted
  
-Support service will only take you round in circles without offering any real help message a cybersecurity… https://t.co/hnqbAX9kom
+Auto WhatsApp Business Sender Turbo Pro v12.0 Full Activated (Ai) – Anti Block – Discount 100% OFF… https://t.co/P3za2qDlokWhatDROID Pro v2.37 Full Activated – WhatsApp Marketing – Discount 100% OFF https://t.co/bm6O2KKiGG #infosec… https://t.co/IYiJntnz4l
  
-# bobycriptosUSER INFO
-![image](http://pbs.twimg.com/profile_images/1634656048161144834/gRuiguM6_normal.png)
+# DarthToorUSER INFO
+![image](http://pbs.twimg.com/profile_images/1635581470768254976/nPjYd_Zs_normal.jpg)
  
-`User ScreenName:` bobycriptos 
+`User ScreenName:` DarthToor 
  
-`User chosen Name:` Boby 
+`User chosen Name:` Darth Toor 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 11 20:42:26 +0000 2023 
+`User signup date?:` Wed Mar 08 18:02:22 +0000 2023 
  
-`User Description?:`  
+`User Description?:` “Before you came truely happy you must first truly suffer” 
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 36 
+`Following?:` 11 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Every Where  
  
-`Number of tweets extracted`  : 25 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1634656048161144834/gRuiguM6_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1635581470768254976/nPjYd_Zs_normal.jpg 
  
-`Number of tweets excluding replies:` 25 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JOIN** 5 , **TWITTER** 5 , **@SOHELMI22480870** 4 , **@THELAYER__** 4 , **@DUBBAL5RT** 4 , **US** 4 , **SPACE** 4 , **@CYVOIO** 3 , **@LINK3TO** 3 , **@WAVE_SIGNAL** 2 , **WEB3** 2 , **🎁** 2 , **USDT** 2 , **✅** 2 , **LIVE** 2 , **LAUNCHING** 2 , **@GAMESPACE_NFTS:** 2 , **PLAYERONETOURNAMENT** 2 , **AMA** 2 , **MAR** 2 , 
- 
-## What this user tweeted
- 
-RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
-
-🎁 200 USDT Giveaway!
-✅ Follow @wave_signal &amp; @CYVOio
-✅ Like &amp; Ret…
- 
-# Felixonyi555TecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1634629382965788675/va6D4Xy1_normal.jpg)
- 
-`User ScreenName:` Felixonyi555Tec 
- 
-`User chosen Name:` FELIXONYI555TECH 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 18:47:31 +0000 2023 
- 
-`User Description?:` This is the official felixonyi555tech account for #cybersecurity, #Techsupport , information technology support, crypto currency, AI. And more coming. 
- 
-`Followers?: `1 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634629382965788675/va6D4Xy1_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -761,79 +323,40 @@ RT @wave_signal: $200 GA with @CYVOio : Cybersecurity company joins Web3
  
 ## User Top tweeted words 
  
-**SECURE** 2 , **ACCOUNT** 1 , **PIDAY** 1 , **CYBERSECURITY** 1 , **TECHNOLOGY** 1 , **HTTPS://TCO/VLLVJCQKWV@FELIXONYI_555** 1 , **@ADANIELHILL** 1 , **@HACKERZDAO** 1 , **@DORKINGBEAUTY1** 1 , **@CYBERMATERIAL_** 1 , **$@COMMUNITYNOTES** 1 , **@FELIXONYI_555HTTPS://TCO/EUALJ0B0LD** 1 , **CRYPTO** 1 , **WALLET** 1 , **@TRUSTWALLET** 1 , **@XDEFI_WALLET** 1 , **@COINBASEWALLET** 1 , **@BINANCE** 1 , **@WALLETCONNECT…** 1 , **HTTPS://TCO/E2GPW2TIWN** 1 , 
+**RT** 1 , **@HACKINARTICLES:** 1 , **TYPES** 1 , **VPN** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **REDTEAM** 1 , **INFORMATIONSECURITY** 1 , **CYBERSEC** 1 , **NETWORKIN…** 1 , 
  
 ## What this user tweeted
  
-Secure your account #PiDay #CyberSecurity #technology https://t.co/VllVjcQkWV
+RT @hackinarticles: Types of VPN
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #CyberSec #networkin…
  
-# MarioYisli12281USER INFO
-![image](http://pbs.twimg.com/profile_images/1635709692386082835/04v_Ue9r_normal.png)
+# dripdrake298181USER INFO
+![image](http://pbs.twimg.com/profile_images/1635570803486883840/3gSA0Tmi_normal.png)
  
-`User ScreenName:` MarioYisli12281 
+`User ScreenName:` dripdrake298181 
  
-`User chosen Name:` Yislim Mario 
+`User chosen Name:` drip drake 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 14 18:29:15 +0000 2023 
+`User signup date?:` Tue Mar 14 09:17:21 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 8 
+`Following?:` 6 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1635709692386082835/04v_Ue9r_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1635570803486883840/3gSA0Tmi_normal.png 
  
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KYC** 2 , **TWITTER** 2 , **RT** 1 , **@MAKERDAO:** 1 , **PSM** 1 , **CIRCUIT** 1 , **BREAKER** 1 , **EXECUTIVE** 1 , **VOTE** 1 , **ENABLED** 1 , **VOTED** 1 , **🗳️** 1 , **HTTPS://TCO/DUOM9ILTYK** 1 , **ENCOURAGE** 1 , **MKR** 1 , **HOLDERS…RT** 1 , **@AJIRAPAYDEFI:** 1 , **PARTNERS** 1 , **@SECURI_LAB** 1 , **HERE** 1 , 
- 
-## What this user tweeted
- 
-RT @ajiraPayDefi: From our partners at @SECURI_LAB, here is the Audit Report and KYC verification certificate.
-
-Ajira Pay Finance KYC certi…
- 
-# ThatOn1eGuyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1635690630797045770/IXwDWkLe_normal.jpg)
- 
-`User ScreenName:` ThatOn1eGuy 
- 
-`User chosen Name:` That one guy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 14 17:05:34 +0000 2023 
- 
-`User Description?:` 🐛 Bug bounty hacker on a mission to find vulnerabilities and exploits in software systems. Self-taught and always learning. #bugbounty #hacker #cybersecurity 
- 
-`Followers?: `0 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:` Fargo, North Dakota 
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635690630797045770/IXwDWkLe_normal.jpg 
- 
-`Number of tweets excluding replies:` 9 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -841,50 +364,11 @@ Ajira Pay Finance KYC certi…
  
 ## User Top tweeted words 
  
-**DON'T** 1 , **UNDERSTIMATE** 1 , **HTTPS://TCO/SF15OKWGPR@DARRENVERHAGE** 1 , **RED** 1 , **HAT** 1 , **WAY** 1 , **EASIER** 1 , **USERT** 1 , **@FIRE__SQUIRREL:** 1 , ***USED** 1 , **OLDER** 1 , **METHODS** 1 , **SHARING** 1 , **OFFICE** 1 , **DOCUMENTS*** 1 , **TEAMS:** 1 , **GONNA** 1 , **DROWN** 1 , **TABS** 1 , **FORCING** 1 , 
+**GOOGLE** 1 , **BING** 1 , **SEARCH** 1 , **DATA** 1 , **EXTRACTOR** 1 , **PRO** 1 , **V827** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/F4SEBOLFDX** 1 , **INFOSEC…** 1 , **HTTPS://TCO/XNHGNKQLCS** 1 , 
  
 ## What this user tweeted
  
-Just started reading 'Applied Cryptography' by Bruce Schneier and already learning so much! 🔐💻 Excited to apply thi… https://t.co/zl7socuH2G
- 
-# life_is_good555USER INFO
-![image](http://pbs.twimg.com/profile_images/1635686473927208985/azjVlj6O_normal.jpg)
- 
-`User ScreenName:` life_is_good555 
- 
-`User chosen Name:` The Life is Good and Nice 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 14 16:54:54 +0000 2023 
- 
-`User Description?:` Passionate writer and storyteller exploring the art of living. Join me as I share personal experiences and insights on self-improvement, travel, and culture. 
- 
-`Followers?: `9 
- 
-`Following?:` 74 
- 
-`User URL?:` https://t.co/j9xkeVwUnG 
- 
-`Location:` United States of America 
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635686473927208985/azjVlj6O_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PUBLISHED** 1 , **IMPORTANCE** 1 , **VPNS:** 1 , **PROTECTING** 1 , **ONLINE** 1 , **PRIVACY** 1 , **SECURITY** 1 , **HTTPS://TCO/BQZF7LSTCF** 1 , **VPN…** 1 , **HTTPS://TCO/H4HKOYT8N9IFB** 1 , **F4F** 1 , **TEAMFOLLOWBACK** 1 , **FOLLOWME** 1 , **HELLOFOLLOWBACK** 1 , **100%FOLLOW** 1 , **BACK@HIITAYLORBLAKE** 1 , **CUTE** 1 , 
- 
-## What this user tweeted
- 
-I just published The Importance of VPNs: Protecting Your Online Privacy and Security https://t.co/BQzf7lsTCf #VPN… https://t.co/h4Hkoyt8n9
+Google Bing Search Data Extractor Pro v8.2.7 Full Activated – Discount 100% OFF https://t.co/F4SEbOLFdX #infosec… https://t.co/xnhGnKqlcS
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
