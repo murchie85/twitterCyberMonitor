@@ -1,22 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **ScattrBrainJane**  
+The most popular user is: **thejimmymackey**  
  
 
-## TW: Suicide/Abuse
+## "Sitting is the new smoking."
 
-A trans girl from SA has apparently taken her own life, after a U.S. cybersecurity firm was hire… https://t.co/rZnCqaIhiL 
+Yup. If you sit more than 6 hours a day, you're destroying your body and ruining you… https://t.co/aE5cFgIvLV 
 
   
 
@@ -25,25 +25,25 @@ A trans girl from SA has apparently taken her own life, after a U.S. cybersecuri
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Datboimano: I did it!Msc Cybersecurity with Distinction 🥺Against. All. Odds!Thank you Jesus 🥺🥺 |
-| RT @Wicked6Games: Announcing SANS as an official gaming platform partner for #Wicked6. 🚩 SANS has a capture-the-flag style cyber range wi… |
-| RT @Paula_Piccard: Ignitetechnologies/Credential-Dumping: This cheatsheet is aimed at the Red Teamers to help them understand the fundament… |
+| RT @CyberSecOb: The new edition – the 5th – of the Cyber Security Observatory LatAm goes live on July 25th!We are inviting CISOs, Startups… |
+| RT @NinadMishra5: Unique payloads for directory traversals ... easy wins:)Happy hunting!credit:@ManasH4rsh#bugbountytips  #infosec ht… |
+| RT @AlvieriD: Buffco Production natural gas producer from Longview Texas breached by Black Cat exposing employee and customer PII.#cybers… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wave_signal** |
-| #2 Most tweeted to  | **CYVOio** |
-| #3 Most tweeted to  | **hackinarticles** |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **0x0SojalSec** |
+| #3 Most tweeted to  | **hack_git** |
 | NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 5.88%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| Tweeters with < 10 followers  | 5.4%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -53,97 +53,56 @@ A trans girl from SA has apparently taken her own life, after a U.S. cybersecuri
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **HACKING**  |
-| third  | **DATA** |
-| fourth  | **AI**  |
-| fifth  | **HACKER**  |
+| second  | **@HACKINARTICLES:**  |
+| third  | **PENTESTING** |
+| fourth  | **CYBERSECURITYTIPS**  |
+| fifth  | **PHISHING**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|For quality assignment help,DM us#Essays#ResearchExams#Onlineclass#CalculusChemistry#Thesis#LawFinance… https://t.co/RAKHhsIPMM |
+|ChipMixer, the world's largest centralized crypto mixer service, is estimated to have laundered no less than $3.75… https://t.co/uaOjyUwjyY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ScattrBrainJane**  |
+| The most retweeted user is: **thejimmymackey**  |
 | ------------- |
-| TW: Suicide/AbuseA trans girl from SA has apparently taken her own life, after a U.S. cybersecurity firm was hire… https://t.co/rZnCqaIhiL |
+| "Sitting is the new smoking."Yup. If you sit more than 6 hours a day, you're destroying your body and ruining you… https://t.co/aE5cFgIvLV |
 
 # Potential Fake Accounts
  
-# Defendlab_USER INFO
-![image](http://pbs.twimg.com/profile_images/1632703236434952192/vmBgr70D_normal.jpg)
+# brentholbert2USER INFO
+![image](http://pbs.twimg.com/profile_images/1634683966203523086/lFNaW6tS_normal.png)
  
-`User ScreenName:` Defendlab_ 
+`User ScreenName:` brentholbert2 
  
-`User chosen Name:` Defendlab 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 06 11:21:42 +0000 2023 
- 
-`User Description?:` Your shield in the digital battlefield 
- 
-`Followers?: `9 
- 
-`Following?:` 16 
- 
-`User URL?:` https://t.co/hYM1L3eyZj 
- 
-`Location:` UAE 
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1632703236434952192/vmBgr70D_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBER** 4 , **PROTECT** 4 , **BUSINESS** 4 , **THREATS** 4 , **CYBERSECURITY** 3 , **DAY** 2 , **BOOTH** 2 , **SECURITY** 2 , **EXPERTS** 2 , **LEARN** 2 , **SERVICES** 2 , **LAST** 1 , **GISEC2023** 1 , **JOURNEY** 1 , **DOESN'T** 1 , **HERE** 1 , **SWING** 1 , **HALL** 1 , **8** 1 , **P1…** 1 , 
- 
-## What this user tweeted
- 
-It’s our last day at #GISEC2023, but your cybersecurity journey doesn't end here. 
-
-Swing by our booth at Hall 8 P1… https://t.co/S3H46RxuVP
- 
-# AlexH5355474648USER INFO
-![image](http://pbs.twimg.com/profile_images/1636038371511353345/mqd-iggx_normal.jpg)
- 
-`User ScreenName:` AlexH5355474648 
- 
-`User chosen Name:` Alex H 
+`User chosen Name:` brent holbert 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 15 16:15:18 +0000 2023 
+`User signup date?:` Sat Mar 11 22:33:22 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `3 
  
-`Following?:` 5 
+`Following?:` 66 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636038371511353345/mqd-iggx_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1634683966203523086/lFNaW6tS_normal.png 
  
-`Number of tweets excluding replies:` 9 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -151,11 +110,142 @@ Swing by our booth at Hall 8 P1… https://t.co/S3H46RxuVP
  
 ## User Top tweeted words 
  
-**WEEK** 2 , **US** 2 , **NATIONAL** 2 , **2017** 2 , **UNPACK** 1 , **CHALLENGES** 1 , **PROTECTING** 1 , **CRITICAL** 1 , **INFRASTRUCTURE** 1 , **ADDRESS** 1 , **CYBERTHIEVES** 1 , **GAINING** 1 , **UPPER** 1 , **HAND…** 1 , **HTTPS://TCO/OVPXCUOWNDTENABLE** 1 , **SUPPORTS** 1 , **NEW** 1 , **CYBERSECURITY** 1 , **STRATEGY** 1 , **WHICH** 1 , 
+**PARTY** 2 , **RT** 1 , **@ELONMUSK:** 1 , **DESCRIBES** 1 , **SIGNIFICANT** 1 , **PORTION** 1 , **PLATFORM** 1 , **HTTPS://TCO/IPUFU5O6GWRT** 1 , **@ALVIERID:** 1 , **LOCKBIT** 1 , **BREACHES** 1 , **MAXIMUM** 1 , **INDUSTRIES** 1 , **MESSAGE** 1 , **ELON** 1 , **MUSK** 1 , **SPACEX** 1 , **CONTRACTORS** 1 , **/MAXIMUMINDCOM** 1 , **@ELONMUSK** 1 , 
  
 ## What this user tweeted
  
-Tenable supports the new U.S. National Cybersecurity Strategy, which brings accountability to national cybersecurit… https://t.co/8PGo9ohk9L
+RT @AlvieriD: LockBit breaches Maximum Industries with a message to Elon Musk and SpaceX contractors.
+
+/maximumind.com
+
+@elonmusk @SpaceX…
+ 
+# ihaveACrownUSER INFO
+![image](http://pbs.twimg.com/profile_images/1635165144438169600/liNFes-s_normal.jpg)
+ 
+`User ScreenName:` ihaveACrown 
+ 
+`User chosen Name:` The Praised Lucky Child of The Fearless 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 13 06:09:04 +0000 2023 
+ 
+`User Description?:` Be forewarned: most of the stuff here will confuse and befuddle your senses. 
+Continue at your own risk... 
+ 
+`Followers?: `0 
+ 
+`Following?:` 52 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 107 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1635165144438169600/liNFes-s_normal.jpg 
+ 
+`Number of tweets excluding replies:` 107 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ALLABOUTFKK** 9 , **@MNALI** 9 , **@VIOLENTLYMYSTIC** 9 , **@CRICFAN2000** 9 , **@WAZIRAFTAB** 9 , **@FARMANK66613175** 9 , **@SANDHU7576** 9 , **DON'T** 6 , **YOU'RE** 6 , **DOESN'T** 5 , **I'M** 4 , **MEAN** 4 , **GETTING** 4 , **GUY** 4 , **HE'S** 4 , **MARRIED** 4 , **DIFFERENT** 4 , **DAY** 3 , **BEING** 3 , **WRONG** 3 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…
+ 
+# 0xNEO___USER INFO
+![image](http://pbs.twimg.com/profile_images/1636300201102123011/rhgSGgab_normal.jpg)
+ 
+`User ScreenName:` 0xNEO___ 
+ 
+`User chosen Name:` NEO 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 16 07:38:47 +0000 2023 
+ 
+`User Description?:` Developer | cyber security enthusiast 
+ 
+`Followers?: `1 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636300201102123011/rhgSGgab_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MAC** 2 , **LINUX** 2 , **RT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **OSCP** 1 , **REDTEAM** 1 , **INFORMATIONSECURITY** 1 , **CISSP** 1 , **C…WHICH** 1 , **PREFER?** 1 , **WINDOWS** 1 , **WINDOWS11** 1 , **PROGRAMMING** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #c…
+ 
+# G01dC01n168USER INFO
+![image](http://pbs.twimg.com/profile_images/1636310060686098444/Odhw942c_normal.png)
+ 
+`User ScreenName:` G01dC01n168 
+ 
+`User chosen Name:` Gold Coin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 16 10:14:54 +0000 2023 
+ 
+`User Description?:` Just a tech 
+ 
+`Followers?: `1 
+ 
+`Following?:` 64 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636310060686098444/Odhw942c_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PREP** 3 , **:** 3 , **RT** 1 , **@INTIGRITI:** 1 , **SPOT** 1 , **VULNERABILITY?** 1 , **🔎** 1 , **SHOW** 1 , **US** 1 , **YOU'D** 1 , **POP** 1 , **XSS** 1 , **COMMENTS** 1 , **👇** 1 , **MOST** 1 , **COMPLETE** 1 , **ANSWER** 1 , **GETS** 1 , **25€** 1 , **SWAG…@HAKSECIO** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hetmehtaa: Notes 📝 | #Infosec Certifications
+By Joas
+
+eJPT: https://t.co/aoq6VX1EMz
+eCPPT: https://t.co/nwzdWmBS6r
+eMAPT: https://t.co/…
  
 # FlowerrRosaUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1633354996816269315/ieQ29SKh_normal.jpg)
@@ -197,88 +287,6 @@ Tenable supports the new U.S. National Cybersecurity Strategy, which brings acco
 RT @hackinarticles: Pic of the Day
 
 #infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…
- 
-# papanews24USER INFO
-![image](http://pbs.twimg.com/profile_images/1636115304982933508/Q8N57F3I_normal.jpg)
- 
-`User ScreenName:` papanews24 
- 
-`User chosen Name:` papanews 24 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 15 20:30:41 +0000 2023 
- 
-`User Description?:` general news 
- 
-`Followers?: `5912 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 44 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636115304982933508/Q8N57F3I_normal.jpg 
- 
-`Number of tweets excluding replies:` 44 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEWS** 5 , **AFTER** 5 , **–** 5 , **NEW** 4 , **FIRST** 4 , **US** 4 , **PEOPLE** 3 , **ITS** 3 , **ARTICLE** 3 , **BUSINESS** 3 , **PART** 2 , **LOOK** 2 , **WEST** 2 , **T…** 2 , **FACING** 2 , **DUBLIN** 2 , **BANK** 2 , **PRESIDENT** 2 , **STAGE** 2 , **JUNO** 2 , 
- 
-## What this user tweeted
- 
-Cybercrime is on the rise. According to a Clark School study at the University of Maryland, a hacker strikes every… https://t.co/aBBBPjdcRY
- 
-# GaryBryneenUSER INFO
-![image](http://pbs.twimg.com/profile_images/1635866768185933824/YsyuPjjK_normal.jpg)
- 
-`User ScreenName:` GaryBryneen 
- 
-`User chosen Name:` Bryneen Gary 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 15 01:46:13 +0000 2023 
- 
-`User Description?:` Ms. Pretty Rickey: The Street Sweeper
-
-💯🎊 Paper back
-
-eBay 
- 
-`Followers?: `2 
- 
-`Following?:` 40 
- 
-`User URL?:` None 
- 
-`Location:` Inkster 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635866768185933824/YsyuPjjK_normal.jpg 
- 
-`Number of tweets excluding replies:` 202 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELLENORECLEMEN1:** 21 , **PEOPLE** 8 , **TARGETED** 8 , **SOME** 7 , **LOVE** 7 , **BEING** 6 , **BANK** 5 , **ITS** 5 , **US** 5 , **REMEMBER** 5 , **WEAPONS** 5 , **HEALTH** 5 , **INDIVIDUALS** 5 , **IM** 5 , **DEUTSCHE** 4 , **LOS** 4 , **AFTER** 4 , **VACCINE** 4 , **ENERGY** 4 , **@THEGALACTICMONK:** 4 , 
- 
-## What this user tweeted
- 
-RT @Raskilaa: Deutsche Bank's sensitive files may have been stolen by the LockBit ransomware gang, as an unknown hacker offers up a cache o…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
