@@ -1,25 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **NCTsmtown**  
+The most popular user is: **mysk_co**  
  
 
-## 🍽In Ukraine💚 
-
-https://t.co/p1BbxP5nnm
-
-#NCT2018_EMPATHY 
-#NCT #NCT2018 #NCT_U #NCT_U_BOSS #BOSS https://t.co/nJWrLZ1Jw7 
+## We confirm that iOS 16 does communicate with Apple services outside an active VPN tunnel. Worse, it leaks DNS reque… https://t.co/0qvfLEXgdr 
 
   
 
@@ -28,25 +23,25 @@ https://t.co/p1BbxP5nnm
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @LJT_is_me @AnitaAnandMP @CanadianArmy A russian pass time. So is child abduction,,, you know war crimes, russia's… https://t.co/pbCDqhKmPm |
-| RT @ZelenskyyUa: All those who produce weapons for terror against Ukraine, who help Russia incite aggression, in particular by supplying Sh… |
-| RT @iheartmindy: “Ukraine flag in profile” is the new “I got my covid shot banner” which is the new “wearing mask in profile pic” which rep… |
+| Menlo Security is hiring Data Scientist - Threat Research.✍️  Apply now: https://t.co/13rsYHl9eq#cybersecurity… https://t.co/000GsuI3Lm |
+| RT @CISACyber: 🚨 @CISAgov, @FBI &amp; @CISecurity’s MS-ISAC published a #cybersecurity advisory providing #TTPs, #IOCs &amp; other details on how #… |
+| Education Leaders Need to Prioritize Cybersecurity to Protect Schools and Students https://t.co/eBJLTly2R1 #cybersecurity |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ZelenskyyUa** |
-| #2 Most tweeted to  | **lindyli** |
-| #3 Most tweeted to  | **AnonOpsSE** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 29.86%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **mtaibbi** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **ARISEtv** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 7.72%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -55,58 +50,57 @@ https://t.co/p1BbxP5nnm
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **UPDATES** |
-| fourth  | **RUSSIA**  |
-| fifth  | **COLLUDED**  |
+| first  | **HACKING**  |
+| second  | **INFOSEC**  |
+| third  | **PENTESTING** |
+| fourth  | **@MTAIBBI:**  |
+| fifth  | **COMPANIES**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|❣️❣️Latest updates on the war in Ukraine #北京资源 #北京丝足 https://t.co/SKs5oB7Nah |
+|RT @hackinarticles: Wireshark For Pentester: A Beginner’s Guidehttps://t.co/ipDR6O842U#infosec #cybersecurity #cybersecuritytips #pente… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NCTsmtown**  |
+| The most retweeted user is: **mysk_co**  |
 | ------------- |
-| 🍽In Ukraine💚 https://t.co/p1BbxP5nnm#NCT2018_EMPATHY #NCT #NCT2018 #NCT_U #NCT_U_BOSS #BOSS https://t.co/nJWrLZ1Jw7 |
+| We confirm that iOS 16 does communicate with Apple services outside an active VPN tunnel. Worse, it leaks DNS reque… https://t.co/0qvfLEXgdr |
 
 # Potential Fake Accounts
  
-# INxMAIDJANUSER INFO
-![image](http://pbs.twimg.com/profile_images/1633825070962339842/kgcchpuy_normal.jpg)
+# Luna_Inc_USER INFO
+![image](http://pbs.twimg.com/profile_images/1636836575773356033/JHB9Cl8W_normal.jpg)
  
-`User ScreenName:` INxMAIDJAN 
+`User ScreenName:` Luna_Inc_ 
  
-`User chosen Name:` In Maidjan 
+`User chosen Name:` Luna Inc. 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 09 13:17:56 +0000 2023 
+`User signup date?:` Thu Mar 16 20:15:50 +0000 2023 
  
-`User Description?:` This is my new account old one is locked and I refuse to delete my tweet on Transgender bs.   
-WAR IS A RACKET 
+`User Description?:` Looking for top-notch home and tech products? Look no further than our recommendations! Follow us for the latest in smart home tech and more. #hometech 
  
-`Followers?: `121 
+`Followers?: `0 
  
-`Following?:` 192 
+`Following?:` 7 
  
-`User URL?:` None 
+`User URL?:` https://t.co/GEZEKZTvfd 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1633825070962339842/kgcchpuy_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1636836575773356033/JHB9Cl8W_normal.jpg 
  
-`Number of tweets excluding replies:` 548 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -114,69 +108,28 @@ WAR IS A RACKET
  
 ## User Top tweeted words 
  
-**YOU'RE** 13 , **@POTUS** 12 , **SHEEP** 11 , **I'M** 9 , **ANTI-AMERICAN** 9 , **WEF** 9 , **PEOPLE** 8 , **BRAINWASHED** 8 , **WAR** 8 , **@REPMTG** 7 , **FUCKING** 7 , **LOL** 6 , **SOMETHING** 6 , **DON'T** 6 , **KEEP** 6 , **@EDKRASSEN** 6 , **PIECE** 6 , **COUNTRY** 6 , **UKRAINE** 5 , **🤣🤣🤣** 5 , 
+**GAMING** 2 , **TOP** 2 , **10** 2 , **READY** 1 , **LEVEL** 1 , **EXPERIENCE?** 1 , **CHECK** 1 , **LAPTOP** 1 , **LIST** 1 , **2023** 1 , **FIND** 1 , **PERFECT** 1 , **MA…** 1 , **HTTPS://TCO/JFRHZ1KJZWSTAY** 1 , **SECURE** 1 , **PROTECT** 1 , **PRIVACY** 1 , **ONLINE** 1 , **THESE** 1 , **VPN** 1 , 
  
 ## What this user tweeted
  
-@KeithMichael08 @Linda82982011 @FoxNews Love our vets? Your party hasn't done a thing for the veterans. Probably talking about Ukraine vets.
+Stay secure and protect your privacy online with these top 10 VPN services. From ExpressVPN to PrivateVPN, we've go… https://t.co/wUZiziIkkj
  
-# JevansTw1USER INFO
-![image](http://pbs.twimg.com/profile_images/1636029445923299329/7mzdHoBQ_normal.jpg)
+# AleshaE20440755USER INFO
+![image](http://pbs.twimg.com/profile_images/1636068225807990784/zqwZ_bM8_normal.png)
  
-`User ScreenName:` JevansTw1 
+`User ScreenName:` AleshaE20440755 
  
-`User chosen Name:` john evans 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 14 16:45:06 +0000 2023 
- 
-`User Description?:` The tweeter formerly known as TW1, self-released to follow friends I made. Also posting photos on insta because johnlooksattheworld. Be kind always. 
- 
-`Followers?: `4 
- 
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 49 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636029445923299329/7mzdHoBQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 49 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 4 , **@ZOEJARDINIERE:** 3 , **PLEASE** 3 , **BEING** 3 , **WAY** 3 , **NEWS** 3 , **SOCIAL** 3 , **WELL** 2 , **I’M** 2 , **SAY** 2 , **@SUELLABRAVERMAN** 2 , **KEEP** 2 , **@BBCNEWS** 2 , **WHERE** 2 , **@SATHNAM** 2 , **WITHOUT** 2 , **ITS** 2 , **LOOKING** 2 , **BIT** 2 , **NEED** 2 , 
- 
-## What this user tweeted
- 
-@ZoeJardiniere At the mo I am editing the the Live Aid Cars song/video, interspersing the original with hostile env… https://t.co/0zVC0cHWUc
- 
-# Tony_B320USER INFO
-![image](http://pbs.twimg.com/profile_images/1635776143310610438/zDPq0dbs_normal.jpg)
- 
-`User ScreenName:` Tony_B320 
- 
-`User chosen Name:` Tony 
+`User chosen Name:` Alesha Edwards 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 14 21:35:23 +0000 2023 
+`User signup date?:` Wed Mar 15 18:13:56 +0000 2023 
  
-`User Description?:` https://t.co/r2ZwcM2bI0
-https://t.co/Cn2z4e0zn6,
-https://t.co/XPQxzeq8Z2 
+`User Description?:`  
  
-`Followers?: `434 
+`Followers?: `23 
  
-`Following?:` 1268 
+`Following?:` 855 
  
 `User URL?:` None 
  
@@ -184,9 +137,9 @@ https://t.co/XPQxzeq8Z2
  
 `Number of tweets extracted`  : 103 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1635776143310610438/zDPq0dbs_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1636068225807990784/zqwZ_bM8_normal.png 
  
-`Number of tweets excluding replies:` 108 
+`Number of tweets excluding replies:` 105 
  
 
  
@@ -194,42 +147,38 @@ https://t.co/XPQxzeq8Z2
  
 ## User Top tweeted words 
  
-**@PORNHUB** 19 , **UKRAINE** 15 , **RUSSIAN** 11 , **RUSSIA** 11 , **@RUINWANDERER:** 7 , **UKRAINIANS** 6 , **TIME** 6 , **UKRAINIAN** 5 , **SUPPORT** 5 , **ARREST** 5 , **HERE** 5 , **NAFO** 5 , **@ANONOPSSE:** 4 , **EVERYONE** 4 , **PUTIN** 4 , **LOVE** 4 , **BAKHMUT** 4 , **I'M** 4 , **RUSSIAISATERRORISTSTATE** 3 , **ICC** 3 , 
+**@AMERICANINDIAN8:** 15 , **INDIGENOUS** 15 , **TAIRP** 15 , **NEW** 5 , **PUBLIC** 4 , **PEOPLE** 4 , **SCHOOL** 4 , **DATA** 4 , **JOHN** 4 , **DEERE** 4 , **FOUR** 3 , **CHILD** 3 , **OFFICE** 3 , **TO…RT** 3 , **SUPPORT** 3 , **@FORBES:** 3 , **ACCORDING** 3 , **REPORT** 3 , **THAN** 3 , **EVERYONE** 3 , 
  
 ## What this user tweeted
  
-RT @AnonOpsSE: #Russia: invades #Ukraine, invades Ukraine again, tortures, rapes, and murders #Ukrainians, abducts #Ukrainian children, ann…RT @justartsndstuff: "Russia allegedly used Chinese-made ammunition during military operations in Ukraine
-
-This is written by the Japanese…
+RT @Paula_Piccard: Ransomware Attacks Upgraded To 'National Security Threat' In New White House Cybersecurity Strategy #Ransomware #cyberse…
  
-# TheCoffeeD89207USER INFO
-![image](http://pbs.twimg.com/profile_images/1636894477473181697/vozVtXXz_normal.jpg)
+# Mindful18957442USER INFO
+![image](http://pbs.twimg.com/profile_images/1637185691783401473/9LSfHFwU_normal.jpg)
  
-`User ScreenName:` TheCoffeeD89207 
+`User ScreenName:` Mindful18957442 
  
-`User chosen Name:` Daily Political Polls & Political Noise 
+`User chosen Name:` Mindfulness Meditation 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 18 00:38:52 +0000 2023 
+`User signup date?:` Sat Mar 18 20:14:20 +0000 2023 
  
-`User Description?:` Random Political Polls...plus other gossip.
-#Democrats #Republicans #Constitution #FactPolls
-Trump2024/Christian/Proud American/Make America Great Again. 
+`User Description?:`  
  
-`Followers?: `17 
+`Followers?: `0 
  
-`Following?:` 41 
+`Following?:` 37 
  
 `User URL?:` None 
  
-`Location:` United States/Tennessee 
+`Location:`  
  
-`Number of tweets extracted`  : 30 
+`Number of tweets extracted`  : 35 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636894477473181697/vozVtXXz_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1637185691783401473/9LSfHFwU_normal.jpg 
  
-`Number of tweets excluding replies:` 30 
+`Number of tweets excluding replies:` 35 
  
 
  
@@ -237,35 +186,155 @@ Trump2024/Christian/Proud American/Make America Great Again.
  
 ## User Top tweeted words 
  
-**TRUMP** 6 , **SOMEONE** 4 , **BIDEN** 3 , **VOTE** 3 , **ADD** 3 , **CHEAP** 2 , **THEN** 2 , **2020** 2 , **ELECTION** 2 , **LAW** 2 , **SOMETHING** 2 , **THAN** 2 , **STATE** 2 , **COULD** 2 , **PEOPLE** 2 , **INTO** 2 , **AGREE** 2 , **@BIGREDRACCOON:** 2 , **BLM** 2 , **JOB** 2 , 
+**FIGHT** 5 , **LINK** 4 , **SLOT** 4 , **SERVER** 4 , **UFC** 4 , **286** 4 , **VS** 4 , **SHIRT** 3 , **@CARTLANDDAVID** 3 , **CRYPTO** 3 , **BOX** 3 , **RED** 3 , **PACKET** 3 , **CAMPAIGN** 3 , **T…RT** 3 , **LIVE** 3 , **STREAM** 3 , **LEON** 3 , **EDWARDS** 3 , **KAMARU** 3 , 
  
 ## What this user tweeted
  
-Trump...
-Record Economic Growth
-Cheap Gas
-Cheap Food
-Secure Border
-
-Then -
-2020 election - Biden was installed. 
-
-U… https://t.co/j1HehhUrmG
+RT @Creativ110329: The increasing reliance on technology and the internet has made cybersecurity a critical concern for individuals &amp; busin…
  
-# pau88083USER INFO
-![image](http://pbs.twimg.com/profile_images/1636114311633588224/rk5vD1pm_normal.png)
+# kangaritechUSER INFO
+![image](http://pbs.twimg.com/profile_images/1633811686078529539/48vqDUZ3_normal.jpg)
  
-`User ScreenName:` pau88083 
+`User ScreenName:` kangaritech 
  
-`User chosen Name:` Sue 
+`User chosen Name:` Kangari Technology 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 15 21:17:03 +0000 2023 
+`User signup date?:` Thu Mar 09 12:41:19 +0000 2023 
+ 
+`User Description?:` Providing Proactive and Innovative solutions for a rapidly evolving world - Empowering you with cutting-edge technology. 
+ 
+`Followers?: `9 
+ 
+`Following?:` 6 
+ 
+`User URL?:` https://t.co/dep5CMZeti 
+ 
+`Location:` Freetown, Sierra Leone 
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1633811686078529539/48vqDUZ3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TECHNOLOGY** 4 , **HELP** 2 , **KANGARI** 2 , **BUSINESS** 2 , **CYBERSECURITY** 1 , **THREATS** 1 , **BECOMING** 1 , **INCREASINGLY** 1 , **SOPHISTICATED** 1 , **KANGARITECHNOLOGY** 1 , **PROTECT** 1 , **BUSINE…** 1 , **HTTPS://TCO/ZLKHFFCGXGHTTPS://TCO/EXX2O7LVXYUNLOCK** 1 , **POWER** 1 , **TECH!** 1 , **TEAM** 1 , **EXPERTS** 1 , **HERE** 1 , **THRIVE** 1 , **D…** 1 , 
+ 
+## What this user tweeted
+ 
+#Cybersecurity threats are becoming increasingly sophisticated. #KangariTechnology can help you protect your busine… https://t.co/ZlKhFfCGXG
+ 
+# plug_olivierUSER INFO
+![image](http://pbs.twimg.com/profile_images/1633931485530005505/eJwcKAtt_normal.jpg)
+ 
+`User ScreenName:` plug_olivier 
+ 
+`User chosen Name:` Plug Olivier 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 09 20:42:01 +0000 2023 
+ 
+`User Description?:` Livraison de weed dans toute la localité 
+ 
+`Followers?: `2 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:` France 
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1633931485530005505/eJwcKAtt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HTTPS://TCO/CTG45GI8LP** 6 , **EN** 5 , **TELEGRAM:** 5 , **PROPRE** 3 , **FRANCEVERTE** 3 , **CASH** 3 , **MAINS** 2 , **🌿🇫🇷** 2 , **HAUTSDEFRANCE** 2 , **VIOLENCEPOLICIERE…** 2 , **BUYTRUSTPILOTREVIEWS** 2 , **JUSTE** 1 , **HTTPS://TCO/CTG45GIGBN** 1 , **PSG** 1 , **HTTPS://TCO/IBDTXN6KO8JUSTE** 1 , **SNAP** 1 , **:** 1 , **HTTPS://TCO/NTJHQISXYL** 1 , **POKEMON…** 1 , **HTTPS://TCO/0ZRYQYCHAG🌍TÉLÉGRAM👉** 1 , 
+ 
+## What this user tweeted
+ 
+Juste en cash 
+Telegram: https://t.co/Ctg45GI8LP
+Snap : https://t.co/NTjHqisxYL
+#BuyTrustPilotReviews
+#pokemon… https://t.co/0ZRyQYchag
+ 
+# GraceFreya8918USER INFO
+![image](http://pbs.twimg.com/profile_images/1635952562292551680/_8lSA7Cs_normal.jpg)
+ 
+`User ScreenName:` GraceFreya8918 
+ 
+`User chosen Name:` Freya Grace 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 14 15:48:35 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `3 
+ 
+`Following?:` 17 
+ 
+`User URL?:` None 
+ 
+`Location:` Florida, United States 
+ 
+`Number of tweets extracted`  : 69 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1635952562292551680/_8lSA7Cs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 69 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BUSINESSDOR:** 46 , **RETAIL** 7 , **CRYPTO** 7 , **LONDON** 6 , **…RT** 5 , **MARKET** 5 , **BITCOIN** 5 , **WORLD** 5 , **OSCARS** 5 , **VISIT** 5 , **US** 4 , **NEXT** 4 , **GUIDE:** 4 , **TECHNOLOGY** 4 , **PRICE** 4 , **NEED** 4 , **JOURNEY** 4 , **RICHEST** 4 , **BANKING** 3 , **MILLION** 3 , 
+ 
+## What this user tweeted
+ 
+RT @BusinessdOr: Understanding how cybersecurity is set to impact the retail industry
+
+https://t.co/BcdVTZ4039
+
+#cybersecurity #retail #cyb…RT @BusinessdOr: 2 Cybersecurity Stocks You Can Buy And Hold For The Next Decade
+
+https://t.co/AinKQBCZii
+
+#stocks #stockmarket #markets #s…
+ 
+# sandeep32262USER INFO
+![image](http://pbs.twimg.com/profile_images/1636701042032123908/PqX1UlKv_normal.png)
+ 
+`User ScreenName:` sandeep32262 
+ 
+`User chosen Name:` Sandeep Kumar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 17 12:08:31 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
  
 `Following?:` 4 
  
@@ -273,11 +342,11 @@ U… https://t.co/j1HehhUrmG
  
 `Location:`  
  
-`Number of tweets extracted`  : 145 
+`Number of tweets extracted`  : 22 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636114311633588224/rk5vD1pm_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1636701042032123908/PqX1UlKv_normal.png 
  
-`Number of tweets excluding replies:` 147 
+`Number of tweets excluding replies:` 22 
  
 
  
@@ -285,38 +354,40 @@ U… https://t.co/j1HehhUrmG
  
 ## User Top tweeted words 
  
-**@ELONMUSK** 101 , **@ITSJUSTCORNBRO** 76 , **FREE** 52 , **ELON** 20 , **HELP** 20 , **UNLESS** 15 , **STILL** 13 , **DON'T** 9 , **BILLIONS** 6 , **GOOD** 6 , **@THEVIVAFREI** 6 , **NICE** 5 , **@DAJENNISON** 5 , **CAN'T** 4 , **OTHER** 4 , **ALWAYS** 4 , **FREE@IAMSHAWN37** 3 , **LOSING** 3 , **PLATFORM** 3 , **KEEP** 3 , 
+**@SHANTANU_BJP:** 17 , **HON'BLE** 6 , **@NARENDRAMODI** 6 , **MATUAMAHAMELA2023** 5 , **SHRI** 5 , **JI** 5 , **PM** 4 , **INDIA'S🇮🇳** 3 , **MINISTER** 3 , **THAKURNAGAR** 3 , **JOY** 2 , **OCCASION** 2 , **मिलेट्स** 2 , **WHICH** 2 , **RELIGIOUS** 2 , **DIVERSITY** 2 , **MILLETS** 2 , **(SHREE** 2 , **ANNA)** 2 , **UNION** 2 , 
  
 ## What this user tweeted
  
-@Realityentruth @elonmusk @itsjustcornbro It's free but I want to help.   Elon paid billions for this free speech c… https://t.co/xdvqU4yUDl
+RT @Shantanu_bjp: Hon'ble Union Home Minister Shri @AmitShah Ji pens an article on modern Cybersecurity setup of Hon'ble PM Shri @narendram…
  
-# gingerly_isUSER INFO
-![image](http://pbs.twimg.com/profile_images/1636617379630178304/NTA42fQE_normal.jpg)
+# baldevsinghjatUSER INFO
+![image](http://pbs.twimg.com/profile_images/1635948111725035521/sykDOx0A_normal.jpg)
  
-`User ScreenName:` gingerly_is 
+`User ScreenName:` baldevsinghjat 
  
-`User chosen Name:` Gingerly 🌊🌊🦋🧢 
+`User chosen Name:` बलदेव सिंह खण्डेला 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 11 03:59:27 +0000 2023 
+`User signup date?:` Wed Mar 15 09:56:43 +0000 2023 
  
-`User Description?:` 🦋Progressive | Humanist | Feminist | Activist | Atheist 🦋 politically refreshed - round 2 (old account banned at 14k) Im always on 🔥🔥 
+`User Description?:` एडवोकेट - बलदेव सिंह खण्डेला
+        खण्डेला विधानसभा 
+           (मिशन -2023) 
  
-`Followers?: `3520 
+`Followers?: `5 
  
-`Following?:` 2521 
+`Following?:` 36 
  
-`User URL?:` https://t.co/IkSmi5j181 
+`User URL?:` None 
  
-`Location:`  
+`Location:` खंडेला  
  
-`Number of tweets extracted`  : 198 
+`Number of tweets extracted`  : 103 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636617379630178304/NTA42fQE_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1635948111725035521/sykDOx0A_normal.jpg 
  
-`Number of tweets excluding replies:` 1570 
+`Number of tweets excluding replies:` 104 
  
 
  
@@ -324,11 +395,206 @@ U… https://t.co/j1HehhUrmG
  
 ## User Top tweeted words 
  
-**TRUMP** 16 , **I’M** 14 , **PEOPLE** 13 , **YES** 11 , **LOL** 10 , **MAGA** 10 , **DON’T** 9 , **DONALD** 8 , **@LAURENBOEBERT** 8 , **THESE** 7 , **THEY’RE** 7 , **DOJ** 7 , **ARRESTED** 6 , **@REPMTG** 6 , **BEING** 6 , **PRO** 6 , **CAN’T** 5 , **TUESDAY** 5 , **@LQLANA:** 5 , **WOMEN** 5 , 
+**के** 69 , **की** 50 , **का** 44 , **में** 39 , **को** 27 , **से** 26 , **जी** 25 , **है** 22 , **पर** 21 , **श्री** 21 , **और** 16 , **@BJP4RAJASTHAN:** 13 , **सरकार** 13 , **ने** 11 , **@DRSATISHPOONIA:** 10 , **है।** 10 , **@NARENDRAMODI** 9 , **अपने** 9 , **आज** 9 , **भी** 9 , 
  
 ## What this user tweeted
  
-Facing arrest warrant, Russia's Putin visits annexed Crimea (from @AP) https://t.co/OAlqSQ72Hk
+RT @AmitShah: The Modi government’s modern cybersecurity setup is protecting India's fast-growing digital economy to realize the vision of…
+ 
+# redd123_reddyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1636581923823955968/YFc7-kC-_normal.jpg)
+ 
+`User ScreenName:` redd123_reddy 
+ 
+`User chosen Name:` Vamshi Reddy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 17 04:13:27 +0000 2023 
+ 
+`User Description?:` followback chey ra pumka🙂 
+ 
+`Followers?: `23 
+ 
+`Following?:` 142 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 186 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636581923823955968/YFc7-kC-_normal.jpg 
+ 
+`Number of tweets excluding replies:` 616 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OSCARS2019** 78 , **OSCARS** 47 , **DE** 40 , **2019** 32 , **HTTPS://TCO/…RT** 26 , **@AUSTRALIAAI:** 25 , **PREDICTIONS** 25 , **PICKED** 25 , **ARTIFICIAL** 25 , **INTELLIGENCE** 25 , **COMPANY** 25 , **UNANIMOUS** 25 , **AI** 25 , **GUESSED** 25 , **RIGHT?** 25 , **EN** 20 , **LA** 18 , **QUE** 17 , **OSCARS2019RT** 14 , **OSCAR** 14 , 
+ 
+## What this user tweeted
+ 
+RT @AlfaIT_US: As #Oscars2019 approaches, malicious software is targeting individuals who attempt to illegally download nominated films. Pr…
+ 
+# sahithi04579484USER INFO
+![image](http://pbs.twimg.com/profile_images/1635529351050477568/fF3MSN20_normal.png)
+ 
+`User ScreenName:` sahithi04579484 
+ 
+`User chosen Name:` sahithi varma 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 14 06:32:38 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1635529351050477568/fF3MSN20_normal.png 
+ 
+`Number of tweets excluding replies:` 396 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OSCARS2019** 80 , **OSCARS** 51 , **DE** 42 , **2019** 35 , **HTTPS://TCO/…RT** 28 , **@AUSTRALIAAI:** 27 , **PREDICTIONS** 27 , **PICKED** 27 , **ARTIFICIAL** 27 , **INTELLIGENCE** 27 , **COMPANY** 27 , **UNANIMOUS** 27 , **AI** 27 , **GUESSED** 27 , **RIGHT?** 27 , **LA** 20 , **EN** 20 , **QUE** 19 , **OSCARS2019RT** 17 , **OSCAR** 15 , 
+ 
+## What this user tweeted
+ 
+RT @AlfaIT_US: As #Oscars2019 approaches, malicious software is targeting individuals who attempt to illegally download nominated films. Pr…
+ 
+# jakharrajesh36USER INFO
+![image](http://pbs.twimg.com/profile_images/1636703294302068743/6-azrdTd_normal.png)
+ 
+`User ScreenName:` jakharrajesh36 
+ 
+`User chosen Name:` Rajesh Jakhar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 17 12:17:28 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 29 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636703294302068743/6-azrdTd_normal.png 
+ 
+`Number of tweets excluding replies:` 29 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SHANTANU_BJP:** 14 , **SHRI** 8 , **JI** 7 , **HON'BLE** 6 , **की** 6 , **MATUAMAHAMELA2023** 6 , **के** 6 , **@SARBANANDSONWAL:** 5 , **THAKURNAGAR** 5 , **UNION** 4 , **MINISTER** 4 , **PM** 4 , **@NARENDRAMODI** 4 , **भारत** 4 , **@NARENDRAMODI:** 4 , **@AMITSHAH** 3 , **VISIT** 3 , **SHREEDHAM** 3 , **EXPERIENCE** 3 , **WHICH** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Shantanu_bjp: Hon'ble Union Home Minister Shri @AmitShah Ji pens an article on modern Cybersecurity setup of Hon'ble PM Shri @narendram…
+ 
+# benj63799USER INFO
+![image](http://pbs.twimg.com/profile_images/1636482053226082305/66Igu6sv_normal.jpg)
+ 
+`User ScreenName:` benj63799 
+ 
+`User chosen Name:` dj riffle🔫🔫 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 14 18:10:27 +0000 2023 
+ 
+`User Description?:` @candycrush tasty, delicious,mixes+rylical vybz 
+ 
+`Followers?: `1 
+ 
+`Following?:` 23 
+ 
+`User URL?:` None 
+ 
+`Location:` 🎮🕹 
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636482053226082305/66Igu6sv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PYTHON** 2 , **RT** 1 , **@THREE_CUBE:** 1 , **BASICS** 1 , **HACKERS** 1 , **PART** 1 , **4:** 1 , **FINDING** 1 , **EXACT** 1 , **LOCATION** 1 , **ANY** 1 , **IP** 1 , **ADDRESS** 1 , **PYTHON4HACKERS** 1 , **SCRIPTING4HACKERS…@TLSABELLAH** 1 , **WAY** 1 , **LAST** 1 , **WEEKEND@AM_SIMZY** 1 , **HUMAN** 1 , **FLOWERSRT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @three_cube: Python Basics for Hackers, Part 4: Finding the Exact Location of Any IP Address #python #python4hackers #scripting4hackers…
+ 
+# RooseJenniUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` RooseJenni 
+ 
+`User chosen Name:` Jenni Roose 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 14 04:07:29 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 42 
+ 
+`User URL?:` None 
+ 
+`Location:` St Paul, MN 
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RELATED** 2 , **ACCOUNT** 2 , **@FTCEDISCOVERY** 1 , **SOLUTIONS** 1 , **LAW** 1 , **PROFESSIONALS** 1 , **HTTPS://TCO/WLQ4KAYEVJ** 1 , **VIA** 1 , **@BRIGHTTALKOVER** 1 , **80** 1 , **PERCENT** 1 , **HACKING** 1 , **BREACHES** 1 , **PASSWORD** 1 , **ISSUES:** 1 , **CYBERSECURITY** 1 , **TRENDS** 1 , **HTTPS://TCO/PGMN7INIWF@TWITTERSAFETY** 1 , **HACKEDHELP** 1 , **COMPROMISED** 1 , 
+ 
+## What this user tweeted
+ 
+Over 80 Percent of Hacking Related Breaches Were Related to Password Issues: Cybersecurity Trends https://t.co/PgMn7InIwf
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
