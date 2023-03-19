@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **WarClandestine**  
  
 
-## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This… https://t.co/9kCO6ugG3G 
+## 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL 
 
   
 
@@ -25,25 +23,25 @@ This… https://t.co/9kCO6ugG3G
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports. |
-| RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports. |
-| RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports. |
+| @SkyNews It's all bollocks because you can't arrest an incumbent president. Putin has done nothing wrong...it's a p… https://t.co/JwkwP5Y46b |
+| RT @washingtonpost: Opinion by New Hampshire Gov. Chris Sununu: Some of my GOP colleagues have lost their moral compass on Ukraine https://… |
+| ❣️❣️Latest updates on the war in Ukraine #深圳丝足 #深圳资源 https://t.co/TlYGzViVqj |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **WatcherGuru** |
-| #2 Most tweeted to  | **RichQuack** |
-| #3 Most tweeted to  | **TheHackersNews** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 4.04%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **ZelenskyyUa** |
+| #2 Most tweeted to  | **lindyli** |
+| #3 Most tweeted to  | **DC_Draino** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 34.08%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -52,96 +50,59 @@ This… https://t.co/9kCO6ugG3G
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **BANKS**  |
-| third  | **BANK** |
-| fourth  | **FOUND**  |
-| fifth  | **SIMILAR**  |
+| first  | **UKRAINE**  |
+| second  | **WAR**  |
+| third  | **UPDATES** |
+| fourth  | **RUSSIA**  |
+| fifth  | **STEAL**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@michelletandler This is a consequence of greed and preying on people's vulnerabilities with increasingly addictive… https://t.co/f6HKmLAjMy |
+|Ukraine War video footage, drone attack, Destroy Russian Tank In Bakhmut, ukraine war 2022 #Canada #Germany… https://t.co/Ffvk7VO96b |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **WarClandestine**  |
 | ------------- |
-| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
+| 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL |
 
 # Potential Fake Accounts
  
-# syntaxdev1USER INFO
-![image](http://pbs.twimg.com/profile_images/1637229157607174150/w_I__FOr_normal.png)
+# Tony_B320USER INFO
+![image](http://pbs.twimg.com/profile_images/1635776143310610438/zDPq0dbs_normal.jpg)
  
-`User ScreenName:` syntaxdev1 
+`User ScreenName:` Tony_B320 
  
-`User chosen Name:` syntax dev 
+`User chosen Name:` Tony 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 18 23:07:03 +0000 2023 
+`User signup date?:` Tue Mar 14 21:35:23 +0000 2023 
  
-`User Description?:`  
+`User Description?:` https://t.co/r2ZwcM2bI0
+https://t.co/Cn2z4e0zn6,
+https://t.co/XPQxzeq8Z2 
  
-`Followers?: `3 
+`Followers?: `435 
  
-`Following?:` 6 
+`Following?:` 1293 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 112 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637229157607174150/w_I__FOr_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1635776143310610438/zDPq0dbs_normal.jpg 
  
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MONEY** 3 , **CENTRAL** 3 , **BANK** 3 , **@BALAJIS** 2 , **BITSIGNAL** 2 , **BITCOIN** 2 , **SUPPLY** 2 , **FIAT** 2 , **GOVERNMENT** 2 , **WHERE** 2 , **GAME** 2 , **MONOPOLY** 2 , **ACCOUNT** 2 , **HTTPS://TCO/O6F23JUXLVFINALLY** 1 , **BUY** 1 , **GOOD** 1 , **HTTPS://TCO/XCXLGC4RAOWITH** 1 , **HOWEVER** 1 , **NOBODY** 1 , **CONTROL** 1 , 
- 
-## What this user tweeted
- 
-Looking at recent instances of excessive money printing in countries we observe a comparable pattern of hyperinflat… https://t.co/bj8yVGksgI
- 
-# TakenAi_USER INFO
-![image](http://pbs.twimg.com/profile_images/1634685494129991680/jD0OWbYG_normal.jpg)
- 
-`User ScreenName:` TakenAi_ 
- 
-`User chosen Name:` TakenZ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 22:32:42 +0000 2023 
- 
-`User Description?:` Trader , Giveaway Hunter 
- 
-`Followers?: `28 
- 
-`Following?:` 632 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 168 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634685494129991680/jD0OWbYG_normal.jpg 
- 
-`Number of tweets excluding replies:` 1301 
+`Number of tweets excluding replies:` 117 
  
 
  
@@ -149,314 +110,38 @@ Looking at recent instances of excessive money printing in countries we observe 
  
 ## User Top tweeted words 
  
-**RT** 73 , **FOLLOW** 71 , **HOURS** 53 , **+** 42 , **•** 38 , **$50** 32 , **24** 24 , **||** 23 , **$100** 22 , **✅** 20 , **~** 16 , **IDR** 15 , **GIVEAWAY** 14 , **JOIN** 14 , **🔔** 12 , **RETWEET** 12 , **📌** 9 , **$QUACK** 8 , **48** 8 , **🎉** 8 , 
+**@PORNHUB** 19 , **UKRAINE** 17 , **RUSSIAN** 11 , **RUSSIA** 11 , **@RUINWANDERER:** 7 , **UKRAINIAN** 6 , **HERE** 6 , **UKRAINIANS** 6 , **TIME** 6 , **PUTIN** 5 , **SUPPORT** 5 , **ARREST** 5 , **NAFO** 5 , **I'VE** 4 , **RUSSIAISATERRORISTSTATE** 4 , **FIRST** 4 , **@ANONOPSSE:** 4 , **EVERYONE** 4 , **LOVE** 4 , **BAKHMUT** 4 , 
  
 ## What this user tweeted
  
-RT @RichQuack: 2/ 🏦 Banking Crisis: Recent events have exposed the vulnerabilities of the traditional banking system, with multiple banks f…
+RT @tozhsamist: “I enjoy being both, Ukrainian and Nigerian, and it has benefits for me since I can comprehend both sides. In Ukraine, I've…RT @AliceZhuravel: Here are my thoughts on the video showing racist acts in Ukraine. I've written a brief article on Medium outlining my th…
  
-# Bose_OXUSER INFO
-![image](http://pbs.twimg.com/profile_images/1637209403970531329/_QbEgLhr_normal.jpg)
+# BlessedSyl34599USER INFO
+![image](http://pbs.twimg.com/profile_images/1636797699335901184/jdF9OU48_normal.jpg)
  
-`User ScreenName:` Bose_OX 
+`User ScreenName:` BlessedSyl34599 
  
-`User chosen Name:` BoseOX 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 17 00:19:41 +0000 2023 
- 
-`User Description?:` DeFi enthusiast and blockchain developer. Passionate about building decentralized financial systems that empower individuals. 
- 
-`Followers?: `6 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:` OXisland 
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1637209403970531329/_QbEgLhr_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MEADOW** 8 , **DEFI** 4 , **STRONG** 3 , **PLATFORM** 3 , **PRICE** 2 , **LIKELY** 2 , **DUE** 2 , **MARKET** 2 , **DEMAND** 2 , **POSITIVE** 2 , **MADE** 2 , **@MEADOWLAUNCH** 2 , **LAUNCH** 2 , **ITS** 2 , **USER-FRIENDLY** 2 , **INTERFACE** 2 , **SEVERAL** 2 , **INCLUDING** 2 , **TOKEN** 2 , **@INVESTOR_RUTHH** 1 , 
- 
-## What this user tweeted
- 
-Security: Meadow has undergone extensive security audits and has implemented several measures to ensure the safety… https://t.co/oHmcwHKjoa
- 
-# saaamwhaleUSER INFO
-![image](http://pbs.twimg.com/profile_images/1636993260311785474/L_jEs64l_normal.png)
- 
-`User ScreenName:` saaamwhale 
- 
-`User chosen Name:` Samuele 
+`User chosen Name:` Choi myung 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 18 07:29:41 +0000 2023 
+`User signup date?:` Fri Mar 17 18:25:31 +0000 2023 
  
-`User Description?:`  
- 
-`Followers?: `32 
- 
-`Following?:` 74 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636993260311785474/L_jEs64l_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@WATCHERGURU:** 1 , **IN:** 1 , **186** 1 , **BANKS** 1 , **FOUND** 1 , **SIMILAR** 1 , **VULNERABILITIES** 1 , **SILICON** 1 , **VALLEY** 1 , **BANK** 1 , **WSJ** 1 , **REPORTSRT** 1 , **@SAYLOR:** 1 , **BITCOIN** 1 , **MAGIC** 1 , **HTTPS://TCO/AAG8PQWMLE@BINANCE** 1 , **SWINGBY** 1 , **CHAIN** 1 , **LINK** 1 , 
- 
-## What this user tweeted
- 
-RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports.
- 
-# AdemCaymaz8USER INFO
-![image](http://pbs.twimg.com/profile_images/1634246467379404824/31SS0R9p_normal.jpg)
- 
-`User ScreenName:` AdemCaymaz8 
- 
-`User chosen Name:` Adem Caymaz 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 10 17:34:55 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634246467379404824/31SS0R9p_normal.jpg 
- 
-`Number of tweets excluding replies:` 609 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STAJYERINPATRONUDEVLETRT** 66 , **STAJYERINPATRONUDEVLET** 54 , **STAJ** 29 , **VE** 27 , **BU** 16 , **BIR** 15 , **@ISMETSABRI1998:** 15 , **@STAJMADURLARID1** 13 , **STAJER** 13 , **VAR** 12 , **@FEHIMETANER:** 12 , **YOK** 10 , **O** 9 , **GÜN** 9 , **STAJYERÇIRAKMECLISIBEKLIYORRT** 8 , **IÇIN** 8 , **NASIL** 8 , **SSK** 8 , **GIBI** 8 , **@NURETTI74166663:** 8 , 
- 
-## What this user tweeted
- 
-RT @Authlogics: Prevent and protect password vulnerabilities within your organisation. 
-
-Claim your FREE Password Breach Report today: http…
- 
-# bazgiriyan1372USER INFO
-![image](http://pbs.twimg.com/profile_images/1635886931602022401/YJTBM6BZ_normal.png)
- 
-`User ScreenName:` bazgiriyan1372 
- 
-`User chosen Name:` Mohammad Bazgiriyan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 15 06:13:31 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `38 
- 
-`Following?:` 31 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 71 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635886931602022401/YJTBM6BZ_normal.png 
- 
-`Number of tweets excluding replies:` 72 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BITCOIN** 12 , **@SINGULARITYNET:** 11 , **@ELONMUSK:** 10 , **AI** 7 , **@SAYLOR:** 6 , **IN:** 6 , **@THEMOONCARL:** 6 , **CRYPTO** 6 , **@DAVIDGOKHSHTEIN:** 6 , **VERY** 6 , **@WATCHERGURU:** 5 , **US** 5 , **@THECRYPTOLARK:** 5 , **@CZ_BINANCE:** 5 , **SINGULARITYNET** 4 , **STILL** 4 , **ITS** 3 , **BANKS** 3 , **COMMUNITY** 3 , **@MMCRYPTO:** 3 , 
- 
-## What this user tweeted
- 
-RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports.
- 
-# JohnDoe15273373USER INFO
-![image](http://pbs.twimg.com/profile_images/1634690410126913537/JbRJuVt0_normal.jpg)
- 
-`User ScreenName:` JohnDoe15273373 
- 
-`User chosen Name:` Neo Turing 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 21:27:54 +0000 2023 
- 
-`User Description?:` La I.A. es la respuesta o la sentencia!
-Opinando de todo. 
- 
-`Followers?: `7 
- 
-`Following?:` 32 
- 
-`User URL?:` None 
- 
-`Location:` Mexico 
- 
-`Number of tweets extracted`  : 82 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634690410126913537/JbRJuVt0_normal.jpg 
- 
-`Number of tweets excluding replies:` 83 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 22 , **QUE** 16 , **LA** 13 , **EN** 12 , **EL** 11 , **PARA** 8 , **AI** 6 , **CRYPTO** 6 , **ESTA** 6 , **LOS** 6 , **LO** 6 , **Y** 5 , **CHATGPT** 4 , **UN** 4 , **UNA** 4 , **SAME** 3 , **IA** 3 , **RISK** 3 , **MONEY** 3 , **@ELONMUSK** 3 , 
- 
-## What this user tweeted
- 
-@spectatorindex Urgent review of risk management strategies needed to prevent systemic vulnerabilities. #Bankcollapse  #WSJ"
- 
-# JarahShaly38245USER INFO
-![image](http://pbs.twimg.com/profile_images/1636947729690525696/LqmzmBvo_normal.png)
- 
-`User ScreenName:` JarahShaly38245 
- 
-`User chosen Name:` Shalynn Jarah 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 14 23:05:13 +0000 2023 
- 
-`User Description?:` Winter is coming #Doge 
- 
-`Followers?: `0 
- 
-`Following?:` 9 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 32 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636947729690525696/LqmzmBvo_normal.png 
- 
-`Number of tweets excluding replies:` 32 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@RICHQUACK:** 27 , **BITCOIN** 9 , **CRYPTO** 8 , **CRYPTOCURRENCIES** 6 , **$QUACK** 4 , **CENTRAL** 4 , **BANKS** 4 , **BANKING** 4 , **FIRST** 3 , **1/** 3 , **🚀** 3 , **MIND-BLOWING** 3 , **SOME** 3 , **WORLD** 3 , **OTHER** 3 , **CRYPTOTWITTER** 3 , **OFFER** 3 , **BULL** 3 , **MARKETS** 3 , **BLOX** 2 , 
- 
-## What this user tweeted
- 
-RT @RichQuack: 2/ 🏦 Banking Crisis: Recent events have exposed the vulnerabilities of the traditional banking system, with multiple banks f…
- 
-# MaannsssiiiiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1637082747360387074/wb-jdU2-_normal.jpg)
- 
-`User ScreenName:` Maannsssiiii 
- 
-`User chosen Name:` Mansi Singh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 18 13:25:16 +0000 2023 
- 
-`User Description?:`  
+`User Description?:` one thing in life is consistency Libra ♎️ 
  
 `Followers?: `2 
  
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:` Boisar, India 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1637082747360387074/wb-jdU2-_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@INDIANCERT** 1 , **ANY** 1 , **SERVICE** 1 , **WITHOUT** 1 , **"HARDENED"** 1 , **ENVIRONMENT** 1 , **CONSIDERED** 1 , **"SOFT"** 1 , **TARGET** 1 , **VIRTUAL** 1 , **SERVERS** 1 , **P…** 1 , **HTTPS://TCO/AO4VOZVHNF** 1 , 
- 
-## What this user tweeted
- 
-@IndianCERT Any service without a "hardened" environment is considered a "soft" target. Virtual servers should be p… https://t.co/ao4VOzVhnF
- 
-# ShivangiJa96210USER INFO
-![image](http://pbs.twimg.com/profile_images/1635939760475881473/-JaBoTyc_normal.jpg)
- 
-`User ScreenName:` ShivangiJa96210 
- 
-`User chosen Name:` Shivangi Jaiswal 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 15 09:38:39 +0000 2023 
- 
-`User Description?:` Housewife 
- 
-`Followers?: `42 
- 
-`Following?:` 27 
+`Following?:` 173 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 184 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1635939760475881473/-JaBoTyc_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1636797699335901184/jdF9OU48_normal.jpg 
  
-`Number of tweets excluding replies:` 325 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -464,38 +149,38 @@ RT @RichQuack: 2/ 🏦 Banking Crisis: Recent events have exposed the vulnerabil
  
 ## User Top tweeted words 
  
-**$SHIB** 27 , **@BEZOSCRYPTO:** 22 , **के** 18 , **GOVERNOR** 14 , **@G20ORG:** 14 , **SHIB** 13 , **@BINANCE:** 13 , **BANK** 12 , **BITCOIN** 12 , **की** 12 , **@G20_BHARAT:** 12 , **@WATCHERGURU:** 11 , **G20** 11 , **CRYPTO** 10 , **@THESHIBDREAM:** 10 , **@NARENDRAMODI:** 9 , **DAY** 8 , **पर** 8 , **@DASSHAKTIKANTA** 8 , **G20INDIA** 8 , 
+**@SANDABLUEDEUX** 1 , **SOLUTION** 1 , **RUSSIA** 1 , **UKRAINE** 1 , **WAR@JADEFRANCESAZIM** 1 , **CHECKING** 1 , **SOMETHING@SSBBWSASHA** 1 , **NICEBAD** 1 , **THINGS** 1 , **NEVER** 1 , **LAST** 1 , **HTTPS://TCO/BJVCQ8WDS4ONE** 1 , **THING** 1 , **LIFE** 1 , **CONSISTENCY** 1 , **LIBRA** 1 , **♎️** 1 , **HTTPS://TCO/3HBNDEU6QZ** 1 , 
  
 ## What this user tweeted
  
-RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports.
+@SandaBlueDeux Is the solution of Russia and Ukraine war.
  
-# LawlardeyH57523USER INFO
-![image](http://pbs.twimg.com/profile_images/1636696112772857857/Qqedl5GI_normal.png)
+# WieberSeanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1636853049200201728/1C1vS58g_normal.png)
  
-`User ScreenName:` LawlardeyH57523 
+`User ScreenName:` WieberSean 
  
-`User chosen Name:` lawlardey hardeyqunlay 
+`User chosen Name:` sean wieber 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 17 11:48:56 +0000 2023 
+`User signup date?:` Fri Mar 17 22:12:32 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `10 
+`Followers?: `8 
  
-`Following?:` 149 
+`Following?:` 185 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Ohio 
  
-`Number of tweets extracted`  : 20 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636696112772857857/Qqedl5GI_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1636853049200201728/1C1vS58g_normal.png 
  
-`Number of tweets excluding replies:` 20 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -503,262 +188,30 @@ RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Sil
  
 ## User Top tweeted words 
  
-**ELECTION** 2 , **POLICE** 2 , **DUTY** 2 , **@WATCHERGURU:** 2 , **IN:** 2 , **MUFC** 2 , **POLLING** 2 , **UNIT** 2 , **LET'S** 2 , **AGBADO** 2 , **RT** 1 , **@CAROLINERATHABE:** 1 , **🧓🏽:POOOO💨💨** 1 , **👧🏽:MARA** 1 , **MAMA** 1 , **🧓🏽:AHH** 1 , **FOTSEK** 1 , **LANG** 1 , **STRESSER** 1 , **MANN@R_NDIBOO** 1 , 
+**CLINTON** 2 , **DESANTIS** 2 , **RT** 1 , **@SAV_SAYS_:** 1 , **SPOTTED** 1 , **DOWNTOWN** 1 , **AUSTIN:** 1 , **OWEN** 1 , **SHROYER** 1 , **PRETENDING** 1 , **AMBASSADOR** 1 , **UKRAINE** 1 , **CALLS** 1 , **AMERICANS** 1 , **GO** 1 , **FIGHT** 1 , **TH…RT** 1 , **@JOHNCARDILLO:** 1 , **BILL** 1 , **PAID** 1 , 
  
 ## What this user tweeted
  
-RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports.
+RT @sav_says_: Spotted in downtown Austin:
+
+Owen Shroyer, pretending to be an ambassador for Ukraine, calls for Americans to go fight in th…
  
-# NkemjikaOluchi1USER INFO
-![image](http://pbs.twimg.com/profile_images/1634584807324655618/9YSDEQ2D_normal.jpg)
+# DawnPhelps91883USER INFO
+![image](http://pbs.twimg.com/profile_images/1637237915183992836/YQB65q51_normal.png)
  
-`User ScreenName:` NkemjikaOluchi1 
+`User ScreenName:` DawnPhelps91883 
  
-`User chosen Name:` Nkemjika Oluchi 
+`User chosen Name:` Dawn Phelps 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 11 15:20:29 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 20 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 41 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1634584807324655618/9YSDEQ2D_normal.jpg 
- 
-`Number of tweets excluding replies:` 42 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TECHCRYPTOANLST:** 19 , **:** 5 , **GOOD** 4 , **BITCOIN** 4 , **$** 3 , **NEXT** 3 , **WINNERS** 3 , **RT** 2 , **ACTIVE** 2 , **GOLDEN** 2 , **LOSS** 2 , **BINANCE** 2 , **@GREYBTC:** 2 , **FOLLOWERS** 2 , **MORNINGRT** 2 , **MORNING** 2 , **CRYPTO** 2 , **@NAIJA_PR:** 2 , **CURRENTLY** 2 , **TREND** 2 , 
- 
-## What this user tweeted
- 
-RT @TechCryptoAnlst: JUST IN : 186 banks found to have similar vulnerabilities as #Silicon_Valley_Bank, WSJ reports.
- 
-# DimMak485013721USER INFO
-![image](http://pbs.twimg.com/profile_images/1635984129098653699/P3gJao1f_normal.jpg)
- 
-`User ScreenName:` DimMak485013721 
- 
-`User chosen Name:` MH 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 15 12:32:00 +0000 2023 
- 
-`User Description?:` ■Researcher ■ Explorer ■ Historian 
- 
-`Followers?: `77 
- 
-`Following?:` 161 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 126 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635984129098653699/P3gJao1f_normal.jpg 
- 
-`Number of tweets excluding replies:` 128 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WATCHERGURU:** 27 , **@NEBRASKANGOONER:** 27 , **BITCOIN** 24 , **IN:** 23 , **$BTC** 17 , **BANK** 14 , **MARKET** 13 , **RESISTANCE** 12 , **@DRPROFITCRYPTO:** 11 , **BTC** 11 , **@IWANTCOINNEWS:** 11 , **||** 11 , **US** 9 , **BREAKOUT** 9 , **SILICON** 8 , **VALLEY** 8 , **SHORT** 8 , **🇺🇸** 8 , **COULD** 8 , **4H** 7 , 
- 
-## What this user tweeted
- 
-RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports.
- 
-# Eaglecapital256USER INFO
-![image](http://pbs.twimg.com/profile_images/1635222415633424386/wA7DJnHO_normal.jpg)
- 
-`User ScreenName:` Eaglecapital256 
- 
-`User chosen Name:` EagleCapital Africa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 13 09:49:37 +0000 2023 
- 
-`User Description?:` An investment Management  and consulting firm mainly in Sub Saharan Africa 
- 
-`Followers?: `30 
- 
-`Following?:` 629 
- 
-`User URL?:` None 
- 
-`Location:` Africa 
- 
-`Number of tweets extracted`  : 157 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635222415633424386/wA7DJnHO_normal.jpg 
- 
-`Number of tweets excluding replies:` 157 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BANK** 16 , **PEOPLE** 12 , **BUSINESS** 11 , **@BEEWOL:** 10 , **MONEY** 9 , **BANKS** 9 , **GREAT** 9 , **@AKSTON_CAPITAL:** 9 , **US** 8 , **TIME** 8 , **•** 8 , **@NEWVISIONWIRE:** 7 , **MARKET** 7 , **FIRST** 7 , **@QCOMPOUNDING:** 7 , **CASH** 7 , **VALUE** 7 , **DON'T** 7 , **@AFRICAFACTSZONE:** 6 , **ANY** 6 , 
- 
-## What this user tweeted
- 
-RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports.
- 
-# FAITHMA33735341USER INFO
-![image](http://pbs.twimg.com/profile_images/1636424530804473858/JQWw1S6K_normal.jpg)
- 
-`User ScreenName:` FAITHMA33735341 
- 
-`User chosen Name:` John Cruz 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 11 16:14:20 +0000 2023 
+`User signup date?:` Sat Mar 18 23:41:51 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636424530804473858/JQWw1S6K_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AIRDROP** 4 , **JOIN** 3 , **TOKENS** 3 , **💰** 2 , **US** 2 , **MADNESS** 2 , **HANDS** 1 , **SOME** 1 , **SERIOUS** 1 , **CASH** 1 , **@BAKULSQUID** 1 , **@BEC02175219** 1 , **@FAKHRIRIZALABD…** 1 , **HTTPS://TCO/NOKMD1GOTEI** 1 , **LIE** 1 , **WHILE** 1 , **DUSK** 1 , **THEN** 1 , **MAKE** 1 , **DECISION** 1 , 
- 
-## What this user tweeted
- 
-Accept that all of us can be hurt  that all of us can-and surely will at times-fail. Other vulnerabilities  like be… https://t.co/VYQgKovU7T
- 
-# Microbe704USER INFO
-![image](http://pbs.twimg.com/profile_images/1636579163166642177/tQZaPrcE_normal.jpg)
- 
-`User ScreenName:` Microbe704 
- 
-`User chosen Name:` Trip Trap 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 15 02:17:31 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `11 
- 
-`Following?:` 64 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636579163166642177/tQZaPrcE_normal.jpg 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**$TRUMP** 2 , **NEW** 2 , **TWITTER** 2 , **@LILCLEARPILL:** 2 , **RT** 1 , **@CHINAPUMPWXC:** 1 , **CHART** 1 , **BULLISH** 1 , **💹** 1 , **HTTPS://TCO/HRGWLF4RMN** 1 , **HTTPS://TCO/I3BN5VJLG3** 1 , **HTTPS://TCO/I7YUF1HLKNRT** 1 , **@APECOUNTRY:** 1 , **MOVEMENT** 1 , **BEGAN** 1 , **WITNESS** 1 , **PARABOLIC** 1 , **PARABOLICS** 1 , **ELON** 1 , **MUSK** 1 , 
- 
-## What this user tweeted
- 
-RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports.
- 
-# GBEXMaxiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1633758844462456832/5tHmTDcj_normal.jpg)
- 
-`User ScreenName:` GBEXMaxi 
- 
-`User chosen Name:` GBEX-Maxi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 09 08:50:11 +0000 2023 
- 
-`User Description?:` GBEX-Maxi . Follow the Money… 
- 
-`Followers?: `12 
- 
-`Following?:` 119 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1633758844462456832/5tHmTDcj_normal.jpg 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GLOBIANCE** 10 , **BANK** 6 , **XDC** 5 , **@GLOBIANCE:** 4 , **TOKEN** 4 , **NEW** 3 , **GROOT** 3 , **$GROOT** 3 , **@AAOOMINEE:** 3 , **GBEX** 3 , **CEX** 3 , **$GBEX** 3 , **DEFI** 3 , **COMING** 2 , **MARCH** 2 , **20** 2 , **WE'RE** 2 , **GROOTDEX** 2 , **CRYPTO** 2 , **LAUNCHPAD** 2 , 
- 
-## What this user tweeted
- 
-RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Silicon Valley Bank, WSJ reports.
- 
-# AltitudeEdgeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1635913569903542272/lKnL3JDY_normal.png)
- 
-`User ScreenName:` AltitudeEdge 
- 
-`User chosen Name:` AltitudeEdge 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 15 07:59:23 +0000 2023 
- 
-`User Description?:` I'm passionate about exploring the potential of blockchain technology to revolutionize the way we handle transactions and investments. 
- 
-`Followers?: `12 
- 
-`Following?:` 10 
+`Following?:` 14 
  
 `User URL?:` None 
  
@@ -766,7 +219,7 @@ RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Sil
  
 `Number of tweets extracted`  : 11 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1635913569903542272/lKnL3JDY_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1637237915183992836/YQB65q51_normal.png 
  
 `Number of tweets excluding replies:` 11 
  
@@ -776,11 +229,50 @@ RT @WatcherGuru: JUST IN: 186 banks found to have similar vulnerabilities as Sil
  
 ## User Top tweeted words 
  
-**NEWS:** 3 , **BANK** 3 , **BANKS** 2 , **FIRST** 2 , **ECB** 2 , **CENTRAL** 2 , **BANK'S** 2 , **SUISSE** 2 , **CREDIT** 2 , **BREAKING** 1 , **ACCORDING** 1 , **REPORT** 1 , **WSJ** 1 , **186** 1 , **DISCOVERED** 1 , **COMPARABLE** 1 , **VULNERABILITIES** 1 , **TO…** 1 , **HTTPS://TCO/KR4JARBAAVBITCOIN** 1 , **CREATED** 1 , 
+**SURRENDER** 4 , **UKRAINE** 3 , **RETURN** 3 , **MR** 3 , **MILLIONS** 2 , **CHINA?** 2 , **WHERE** 2 , **ARREST** 2 , **SAVE** 2 , **SAY** 2 , **@WESTYGAL** 1 , **@OBJECTIVE4EVA** 1 , **@MSOKOLOWSKI1** 1 , **@PIRATEONBOARD** 1 , **@TEDCRUZ** 1 , **LAST** 1 , **HEARD** 1 , **ANTIFA** 1 , **ALIVE** 1 , **BURNING** 1 , 
  
 ## What this user tweeted
  
-Breaking News: According to a report by #WSJ, 186 banks have been discovered to have comparable vulnerabilities to… https://t.co/kR4JaRBaav
+@rose_howdy Where is ccp arrest warrant? Solution: UKRAINE  SURRENDER. RETURN USA MONEY.
+ 
+# JoseGar43773090USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` JoseGar43773090 
+ 
+`User chosen Name:` Jose Garcia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 13 05:33:09 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 139 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 144 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TOMFITTON:** 26 , **BIDEN** 17 , **@DAILYCALLER:** 11 , **@LIBSOFTIKTOK** 11 , **@ELONMUSK:** 9 , **@VICTORSHI2020** 9 , **YOU’RE** 8 , **PEOPLE** 7 , **@ZUBYMUSIC:** 6 , **@RICHARDGRENELL:** 6 , **@LIBSOFTIKTOK:** 6 , **@RICKSMITHSHOW** 6 , **TRUMP** 5 , **WAY** 5 , **MONEY** 5 , **BANK** 5 , **DIDN’T** 5 , **EPSTEIN** 5 , **SHOW** 5 , **DRAG** 5 , 
+ 
+## What this user tweeted
+ 
+RT @DailyCaller: Gretchen Whitmer Accuses DeSantis Of Using ‘Kremlin’ Talking Points, Downplaying Russian Invasion https://t.co/6xGa0vXlnI
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
