@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **PalestineCultu1**  
+The most popular user is: **krassenstein**  
  
 
-## Stay calm it’s Palestine, not Ukraine. https://t.co/E8egoftE9Q 
+## BREAKING: Remember how Ron DeSantis attacked Disney World and used his government power to penalize the company for… https://t.co/zt3k4izgKt 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **PalestineCultu1**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| ❣️❣️Latest updates on the war in Ukraine #长沙资源 #长沙 https://t.co/X08jVBFLKK |
-| ❣️❣️Latest updates on the war in Ukraine #深圳资源 #深圳 https://t.co/CfsihWlQwp |
-| RT @RepMTG: ..Axios, respectively, as then-U.S. Special Envoy and Coordinator for International Energy Affairs raised concerns with both Jo… |
+| RT @hack_git: CEH-Exam-QuestionsPlanning To Take Certified Ethical Hacker (CEH)? Here are github repo with 125 questions and answers to h… |
+| How to Keep Incident Response Plans Current https://t.co/ojANF2LGMi #cybersecuritynews #netsec #infosec https://t.co/ep2b7DorwE |
+| RT @Exploit_Pack: Using off-the-shell simulation attacks and being detected? You need Exploit Pack in your arsenal. Get ready and spawn an… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **theskindoctor13** |
-| #2 Most tweeted to  | **total_woke_** |
-| #3 Most tweeted to  | **visegrad24** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 30.18%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **hack_git** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **ptracesecurity** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 6.66%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,57 +50,299 @@ The most popular user is: **PalestineCultu1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WAR**  |
-| third  | **UPDATES** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **RUSSIA**  |
+| first  | **INFOSEC**  |
+| second  | **@HACK_GIT:**  |
+| third  | **PHISHING** |
+| fourth  | **PENTESTING**  |
+| fifth  | **HACKER**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JamesBradleyCA: Wait so Ukraine can pay grift to the Bidens, but Trump can’t pay hush money to Stormy? |
+|RT @hackinarticles: Pic of the Day#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PalestineCultu1**  |
+| The most retweeted user is: **krassenstein**  |
 | ------------- |
-| Stay calm it’s Palestine, not Ukraine. https://t.co/E8egoftE9Q |
+| BREAKING: Remember how Ron DeSantis attacked Disney World and used his government power to penalize the company for… https://t.co/zt3k4izgKt |
 
 # Potential Fake Accounts
  
-# FedPakistanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1637556847543459845/k1nLi3ku_normal.jpg)
+# JuanMuo18849398USER INFO
+![image](http://pbs.twimg.com/profile_images/1638309624309792768/QVI4isi__normal.jpg)
  
-`User ScreenName:` FedPakistan 
+`User ScreenName:` JuanMuo18849398 
  
-`User chosen Name:` Fed Pakistan 
+`User chosen Name:` Juan Muñoz 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 19 09:42:30 +0000 2023 
+`User signup date?:` Tue Mar 21 16:57:50 +0000 2023 
  
-`User Description?:` Fueling Entrepreneurship in Pakistan. 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 70 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1638309624309792768/QVI4isi__normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **CYBERSECURITYAWARENESS** 1 , **INFORMATIONSECURITY…HTTPS://TCO/ZMANYGN5QO** 1 , **HTTPS://TCO/WGXOWY56U9HTTPS://TCO/ZMANYGN5QO** 1 , **HTTPS://TCO/PBBLDQSUHB** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…
+ 
+# Ghst006USER INFO
+![image](http://pbs.twimg.com/profile_images/1638319370072911873/Nek-j34n_normal.jpg)
+ 
+`User ScreenName:` Ghst006 
+ 
+`User chosen Name:` Bruce 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 21 22:58:09 +0000 2023 
+ 
+`User Description?:` Program Manager @ Microsoft | Global Security | Servant Leader | Enterprise Risk Management Leader | Cyber Security | Views Are My Own 
+ 
+`Followers?: `4 
+ 
+`Following?:` 55 
+ 
+`User URL?:` None 
+ 
+`Location:` Houston, TX 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1638319370072911873/Nek-j34n_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JA_WRECK:** 2 , **RESEARCHERS** 2 , **TOP** 2 , **RT** 1 , **$136** 1 , **MILLION** 1 , **BOUNTY** 1 , **REWARDS** 1 , **JULY** 1 , **2020** 1 , **+300** 1 , **TALENTED** 1 , **SECURITY** 1 , **+50** 1 , **COUNTRIES** 1 , **ACROSS** 1 , **WORLD** 1 , **THAN…RT** 1 , **CONGRATULATIONS** 1 , **100** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ja_wreck: $13.6 million in bounty rewards since July 2020 to +300 talented security researchers in +50 countries across the world. Than…RT @ja_wreck: Congratulations to the top 100 researchers of 2022!  A special thanks to the top three -  @guhe120, @pnig0s, and @callum_info…
+ 
+# Dragonrules101USER INFO
+![image](http://pbs.twimg.com/profile_images/1636244669364580352/kz99_NFA_normal.jpg)
+ 
+`User ScreenName:` Dragonrules101 
+ 
+`User chosen Name:` Bumblebee 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 14 09:58:43 +0000 2023 
+ 
+`User Description?:` Message from Starfleet, Captain. 
+ 
+`Followers?: `2 
+ 
+`Following?:` 56 
+ 
+`User URL?:` None 
+ 
+`Location:` Ethernet 
+ 
+`Number of tweets extracted`  : 72 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636244669364580352/kz99_NFA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 72 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEW** 9 , **APT** 7 , **@THEHACKERSNEWS:** 6 , **RANSOMWARE** 6 , **WINDOWS** 5 , **PENTESTING** 5 , **GROUP** 5 , **CYBER** 5 , **MALWARE** 5 , **@PTRACESECURITY:** 4 , **KERNEL** 4 , **BYPASS** 4 , **DISCOVERED** 4 , **DATA** 4 , **INDIA** 4 , **😆RT** 4 , **VULNERABILITY** 3 , **CRITICAL** 3 , **@BLACKORBIRD:** 3 , **2022** 3 , 
+ 
+## What this user tweeted
+ 
+RT @ptracesecurity: Trying To Exploit A Windows Kernel Arbitrary Read Vulnerability https://t.co/Eo2SvQzQG8  #Pentesting #Windows #Exploit…RT @TheHackersNews: ⚠️ CISA warns of critical flaws in Industrial Control Systems from Keysight, Delta Electronics, Siemens, VISAM, Rockwel…RT @TheHackersNews: 🚨 North Korean APT37 ScarCruft group is weaponizing file formats such as CHM, HTA, LNK, XLL, and macro-based documents…
+ 
+# OSINTelligenceXUSER INFO
+![image](http://pbs.twimg.com/profile_images/1636504655969615872/6YKLgLpj_normal.png)
+ 
+`User ScreenName:` OSINTelligenceX 
+ 
+`User chosen Name:` OSINTelligence 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 16 23:08:09 +0000 2023 
+ 
+`User Description?:` Cybersecurity, OSINT, and Threat Intelligence News, Articles, APT Behavior Analysis, Jobs, Training, and more! 
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/UtvHQmhcIN 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 27 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636504655969615872/6YKLgLpj_normal.png 
+ 
+`Number of tweets excluding replies:` 27 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 6 , **CYBERSECURITY** 5 , **MALWARE** 3 , **CYBER** 3 , **SECURITY** 3 , **SSH** 2 , **POWERED** 2 , **VULNERABILITIES** 2 , **SHELLBOT** 2 , **USING** 2 , **FERRARI** 2 , **INSIDE** 2 , **MISPADU** 2 , **HTTPS://TCO/DX6HQ1A8WH** 1 , **AMERICA’S** 1 , **SPACE-BASED** 1 , **SPY** 1 , **AGENCY** 1 , **AWARDS** 1 , **SIX** 1 , 
+ 
+## What this user tweeted
+ 
+https://t.co/9NTE0EdfkR - Cyber security in the boardroom
+
+#DataProtection #InfoSec #cyber #security #incident… https://t.co/i4eEmGAlQG
+ 
+# flashxshubhamUSER INFO
+![image](http://pbs.twimg.com/profile_images/1636503035449843712/uP8bqABL_normal.jpg)
+ 
+`User ScreenName:` flashxshubham 
+ 
+`User chosen Name:` ee 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 16 23:01:42 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636503035449843712/uP8bqABL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@HACK_GIT:** 1 , **CEH-EXAM-QUESTIONS** 1 , **PLANNING** 1 , **CERTIFIED** 1 , **ETHICAL** 1 , **HACKER** 1 , **(CEH)?** 1 , **HERE** 1 , **GITHUB** 1 , **REPO** 1 , **125** 1 , **QUESTIONS** 1 , **ANSWERS** 1 , **H…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hack_git: CEH-Exam-Questions
+
+Planning To Take Certified Ethical Hacker (CEH)? Here are github repo with 125 questions and answers to h…
+ 
+# IliaselelUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Iliaselel 
+ 
+`User chosen Name:` Ilias El Am 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 16 15:25:41 +0000 2023 
+ 
+`User Description?:`  
  
 `Followers?: `0 
+ 
+`Following?:` 53 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HACKINARTICLES:** 3 , **PIC** 3 , **DAY** 3 , **INFOSEC** 3 , **CYBERSECURITY** 3 , **CYBERSECURITYTIPS** 3 , **PENTESTING** 3 , **CYBERSECURITYAWARENESS** 3 , **LA** 2 , **NOCHE** 2 , **@FCBARCELONA:** 2 , **+** 2 , **من** 2 , **RT** 1 , **@HOBO_WORID:** 1 , **❤️💔RT** 1 , **INFORMATIONSECURITY…@MMAJEEDSX** 1 , **HAHAHAHAHAHRT** 1 , **INFORMATIONSECURITY…RT** 1 , **@DRDRDRD00282627:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…
+ 
+# beelaman98USER INFO
+![image](http://pbs.twimg.com/profile_images/1638367401073836034/t7mRbIOJ_normal.jpg)
+ 
+`User ScreenName:` beelaman98 
+ 
+`User chosen Name:` Beela Man Problem Solver 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 22 02:18:12 +0000 2023 
+ 
+`User Description?:` 🗝️PROFESSIONAL HACKER HACK & RECOVERY ANY SOCIAL MEDIA/CRYPTO ACCOUNTS💯 SPYING OF CHEATING SPOUSES #whatsapp #TIKTOK #instagram #ethicalhacker💯 
+ 
+`Followers?: `1 
  
 `Following?:` 3 
  
-`User URL?:` None 
+`User URL?:` https://t.co/3tDL6KYTwT 
  
-`Location:` Pakistan 
+`Location:`  
  
-`Number of tweets extracted`  : 62 
+`Number of tweets extracted`  : 22 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637556847543459845/k1nLi3ku_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1638367401073836034/t7mRbIOJ_normal.jpg 
  
-`Number of tweets excluding replies:` 62 
+`Number of tweets excluding replies:` 22 
  
 
  
@@ -108,78 +350,40 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 ## User Top tweeted words 
  
-**FEDPAKISTAN** 34 , **NEWSUPDATE** 30 , **PAKISTAN** 25 , **NEWS** 19 , **INTERNATIONALNEWS** 10 , **SPORTS** 8 , **INTERNATIONAL** 6 , **PAKISTANNEWS** 5 , **SERIES** 4 , **EARTHQUAKE** 4 , **HEALTH** 4 , **OUTSIDE** 4 , **IMRAN** 3 , **ISLAMABAD** 3 , **AFTER** 3 , **WORLD** 3 , **INDIA** 3 , **IRAN** 3 , **SAUDI** 3 , **COULD** 2 , 
+**HACKING** 18 , **CYBERSECURITY** 16 , **KALILINUX** 15 , **HACKERS** 15 , **LINUX** 14 , **HACKER** 13 , **HACK** 8 , **ETHICALHACKING** 7 , **ETHICAL** 7 , **PENTESTING** 7 , **INFOSEC…** 6 , **ETHICALHACKER** 3 , **PROGRAMMING…** 3 , **CYBERSECURITYAWARENESS** 3 , **INFOSEC** 3 , **CERTIFICATION** 3 , **STUDYGRAM** 3 , **STUDENTLIFE** 3 , **CTF** 3 , **CAPTURETHEFLAG** 3 , 
  
 ## What this user tweeted
  
-Chinese proposal could be basis for peace in Ukraine, says Putin. #international #newsupdate #fedpakistan https://t.co/CtA1I7uUIP
+Dat you covered recover all your loss 
+
+-#hacker #hacking #cybersecurity #hackers #hack #ethicalhacking #linux… https://t.co/wcmUp1wOwt#ethicalhacker #hacking #ethical hacking #hacker #cybersecurity #hackers #kalilinux #pentesting #linux #infosec… https://t.co/A8SeTfPB2i#ethicalhacker #hacking #ethical hacking #hacker #cybersecurity #hackers #kalilinux #pentesting #linux #infosec… https://t.co/QLKptEoHFq#ethicalhacker #hacking #ethical hacking #hacker #cybersecurity #hackers #kalilinux #pentesting #linux #infosec… https://t.co/NOFfJtffTo#ethicalhacker #hacking #ethical hacking #hacker #cybersecurity #hackers #kalilinux #pentesting #linux #infosec… https://t.co/GJYA7NRRjh#ethicalhacker #hacking #ethical hacking #hacker #cybersecurity #hackers #kalilinux #pentesting #linux #infosec #programming #hack #technology #informationsecurity #security #python #coding #hackingtools #cybercrime #hackerman #cyberattack #cyber #malware #p https://t.co/ZYq2qF2hY5
  
-# BeirnadiAnnaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1638468012100517889/LQnbk4nE_normal.jpg)
+# Sharanr24445958USER INFO
+![image](http://pbs.twimg.com/profile_images/1636567005590609922/8WRVFn5l_normal.png)
  
-`User ScreenName:` BeirnadiAnna 
+`User ScreenName:` Sharanr24445958 
  
-`User chosen Name:` Anna Bernadi 
+`User chosen Name:` Sharan raj 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 17 14:08:10 +0000 2023 
+`User signup date?:` Fri Mar 17 03:15:54 +0000 2023 
  
-`User Description?:` Hello dear 🥰. My name is Anna  I am a plus size model from Kyiv, Ukraine. Here I will upload my favorite shoots ❤️ XoXo 
+`User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 0 
+`Following?:` 17 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 40 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1638468012100517889/LQnbk4nE_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1636567005590609922/8WRVFn5l_normal.png 
  
-`Number of tweets excluding replies:` 40 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@BERNADIANNA:** 40 , **HI** 4 , **HAPPY** 4 , **GREAT** 4 , **DAY** 4 , **FAVORITE** 3 , **NEW** 3 , **WISH** 3 , **I'M** 2 , **ALREADY** 2 , **HALLOWEEN?** 2 , **💋** 2 , **WHAT’S** 2 , **🫶🏻❤️🫶🏻** 2 , **❤️** 2 , **SOMETIMES** 2 , **RT** 1 , **RECENTLY** 1 , **FOLLOWERS** 1 , **BEGAN** 1 , 
- 
-## What this user tweeted
- 
-RT @BernadiAnna: Happy New year🎁🎄I wish you the most pleasant moments in life. Be happy and healthy. I wish that luck would always follow y…
- 
-# marsupilamikindUSER INFO
-![image](http://pbs.twimg.com/profile_images/1638198001293205509/P2rdtTJb_normal.jpg)
- 
-`User ScreenName:` marsupilamikind 
- 
-`User chosen Name:` marsupilamikind 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 17 19:27:35 +0000 2023 
- 
-`User Description?:` I hope Karma slaps you before I do! Stay calm and let karma finish it! 
-Before you embark on the journey of revenge, dig two graves. 
- 
-`Followers?: `7 
- 
-`Following?:` 66 
- 
-`User URL?:` None 
- 
-`Location:` Germany 
- 
-`Number of tweets extracted`  : 67 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638198001293205509/P2rdtTJb_normal.jpg 
- 
-`Number of tweets excluding replies:` 68 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -187,52 +391,13 @@ Before you embark on the journey of revenge, dig two graves.
  
 ## User Top tweeted words 
  
-**DIE** 11 , **VON** 4 , **@HARRI_EST** 4 , **SICH** 4 , **@THE__SEEN:** 4 , **@DOGVIDEOSDAILY:** 4 , **@HARRI_EST:** 3 , **BACK** 3 , **@NOELREPORTS:** 3 , **2** 3 , **SECRET** 3 , **SOMETHING** 3 , **DER** 3 , **UND** 3 , **DAS** 3 , **@VOLKSVERPETZER:** 3 , **ER** 3 , **ES** 3 , **DASS** 3 , **FÜR** 3 , 
+**RT** 1 , **@HACK_GIT:** 1 , **CEH-EXAM-QUESTIONS** 1 , **PLANNING** 1 , **CERTIFIED** 1 , **ETHICAL** 1 , **HACKER** 1 , **(CEH)?** 1 , **HERE** 1 , **GITHUB** 1 , **REPO** 1 , **125** 1 , **QUESTIONS** 1 , **ANSWERS** 1 , **H…@UBUNTU** 1 , **1ST** 1 , 
  
 ## What this user tweeted
  
-RT @natemook: Update from Bakhmut &amp; Chasiv Yar in eastern Ukraine! Thanks to Seva @VsevolodKozhem1 we were able to get pet food to areas wh…
- 
-# NgagaRichardUSER INFO
-![image](http://pbs.twimg.com/profile_images/1638108736995614720/lOI7raEp_normal.jpg)
- 
-`User ScreenName:` NgagaRichard 
- 
-`User chosen Name:` Divine favour 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 21 08:56:35 +0000 2023 
- 
-`User Description?:` *Have you been vaccinated against God?* 
+RT @hack_git: CEH-Exam-Questions
 
-For from within, out of the heart of men, come evil ••• All these evil things come from within and make the man unholy 
- 
-`Followers?: `12 
- 
-`Following?:` 92 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638108736995614720/lOI7raEp_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BELIEVE** 3 , **LIFE** 2 , **FUTURE** 2 , **CHRIST** 2 , **JESUS** 2 , **THINGS** 2 , **POSSIBLE** 2 , **BELIEVES…** 2 , **TRUTH** 2 , **POWER** 2 , **NA** 2 , **RT** 1 , **@BUSINESS:** 1 , **US** 1 , **SECRETARY** 1 , **STATE** 1 , **ANTONY** 1 , **BLINKEN** 1 , **“WORLD** 1 , **FOOLED”** 1 , 
- 
-## What this user tweeted
- 
-RT @business: US Secretary of State Antony Blinken said the “world should not be fooled” by a potential Chinese-Russian peace plan for Ukra…
+Planning To Take Certified Ethical Hacker (CEH)? Here are github repo with 125 questions and answers to h…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
