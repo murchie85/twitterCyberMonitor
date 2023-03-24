@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **KeplerHomes**  
+The most popular user is: **DVATW**  
  
 
-## Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK 
+## Well looky here. The Head of the Ukrainian national bank has bought himself a new rolls Royce. Keep donating to Ukr… https://t.co/rNqx62iweE 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **KeplerHomes**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ekeretteetim11: Despite the vulnerabilities of Trusted Execution Environment (TEEs), @OasisProtocol adopts it because of its advantages… |
-| RT @hack_git: CheckovPrevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container imag… |
-| RT @reach2ratan: Google reveals 18 chip vulnerabilities threatening mobile, wearables, vehicles https://t.co/9WCXdUxQxJ#CyberSecurity #ha… |
+| RT @BorisJohnson: Fantastic to speak to the CEO Club of Ukraine and meet business leaders full of enthusiasm for increased trade between th… |
+| RT @KyivIndependent: ⚡️Sweden approves $600 million in military aid to Ukraine.The new package proposed by the country's government inclu… |
+| RT @jonnytickle: TASS in 2018: Upgrading Russian tanks to fire depleted uranium ammunition “does not violate any international treaties”T… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jess_boob** |
-| #2 Most tweeted to  | **AbiyAhmedAli** |
-| #3 Most tweeted to  | **RnaudBertrand** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 6.44%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **DonaldJTrumpJr** |
+| #2 Most tweeted to  | **Gerashchenko_en** |
+| #3 Most tweeted to  | **visegrad24** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 22.9%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -50,97 +50,57 @@ The most popular user is: **KeplerHomes**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **WAY**  |
-| third  | **EXPLORES** |
-| fourth  | **THAT’S**  |
-| fifth  | **CALLING**  |
+| first  | **UKRAINE**  |
+| second  | **UPDATE❣️S**  |
+| third  | **❣️WAR** |
+| fourth  | **UKRAINE❣️**  |
+| fifth  | **WAR**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (33.33%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@LJT_is_me @neecbf @AbrahamHamadeh She had her day in court.  Confession?  You mean clarity?  I voted for Kari.  I’… https://t.co/NDDYSajr1U |
+|❣️❣️Latest update❣️s on the ❣️war in Ukraine❣️ #深圳资源 #深圳丝足 https://t.co/DSO5kF4b47 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KeplerHomes**  |
+| The most retweeted user is: **DVATW**  |
 | ------------- |
-| Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK |
+| Well looky here. The Head of the Ukrainian national bank has bought himself a new rolls Royce. Keep donating to Ukr… https://t.co/rNqx62iweE |
 
 # Potential Fake Accounts
  
-# ObbacumaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1638598768613531648/h-D_1JQL_normal.jpg)
+# sultans84124192USER INFO
+![image](http://pbs.twimg.com/profile_images/1638773388922503169/SeB0qzMo_normal.jpg)
  
-`User ScreenName:` Obbacuma 
+`User ScreenName:` sultans84124192 
  
-`User chosen Name:` Obbacuma 💡 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 16 19:31:47 +0000 2023 
- 
-`User Description?:` I will be wings that create dreams ѦмѦ ҤØ$₸ 🎙️ I am a professional crypto ᴛʀᴀᴅᴇʀ/ɪɴᴠᴇsᴛᴏʀ/ʀᴇsᴇᴀʀᴄʜᴇʀ📊 #BTC | #BNB | #TRX  | #AVAX | #TUSD | #USDT
-𝙉𝙁𝙏 🌐 
- 
-`Followers?: `1 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638598768613531648/h-D_1JQL_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ROTTHEGAME** 6 , **PROJECT** 2 , **ROTTHEGAME** 2 , **@REDKITEPAD** 1 , **DUE** 1 , **SECURITY** 1 , **VULNERABILITIES** 1 , **HACKING** 1 , **EVENTS** 1 , **HEARD** 1 , **FREQUENTLY** 1 , **RECENT…** 1 , **HTTPS://TCO/VD1IGZXINV@REDKITEPAD** 1 , **STRONG** 1 , **COMMUNITY** 1 , **BRINGS** 1 , **INTERESTING** 1 , **IDEAS** 1 , **ATTRACTS** 1 , **LARGE…** 1 , 
- 
-## What this user tweeted
- 
-@redkitepad @RoTTheGame Due to the security vulnerabilities and hacking events that we have heard frequently recent… https://t.co/Vd1IGzXINV
- 
-# NoriellaMorganUSER INFO
-![image](http://pbs.twimg.com/profile_images/1637469656750477313/OheF4H_b_normal.jpg)
- 
-`User ScreenName:` NoriellaMorgan 
- 
-`User chosen Name:` Noriella 
+`User chosen Name:` Freweyni Alemayu 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 19 15:02:14 +0000 2023 
+`User signup date?:` Mon Mar 20 20:51:07 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `35 
+`Followers?: `99 
  
-`Following?:` 4 
+`Following?:` 231 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637469656750477313/OheF4H_b_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1638773388922503169/SeB0qzMo_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 2618 
  
 
  
@@ -148,38 +108,80 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJ
  
 ## User Top tweeted words 
  
-**@EKERETTEETIM11:** 10 , **PRIVACY** 5 , **FUTURE** 3 , **@OASISPROTOCOL** 3 , **WEB3** 2 , **SAPPHIRE** 2 , **ITS** 2 , **BLOCKCHAIN** 2 , **TECHNOLOGY** 2 , **DEVELOPERS** 2 , **CONFIDENTIAL** 2 , **DAPPS** 2 , **AI** 2 , **RT** 1 , **EXPLORING** 1 , **WORTH** 1 , **APPRECIATING** 1 , **ROLE** 1 , **PARATIME** 1 , **OFFERING** 1 , 
+**TIGRAY** 59 , **MUST** 23 , **ATROCITIES** 23 , **AGAINST** 23 , **WAR** 22 , **REPORTS** 22 , **CRIMES** 22 , **CONFLICT** 21 , **RIGHTS** 21 , **HUMAN** 20 , **INDEPENDENT** 20 , **PEOPLE** 19 , **FORCES** 18 , **ITS** 17 , **HUMANITY** 15 , **FREE** 15 , **TIGRAYGENOCIDE** 14 , **COMMITTED** 14 , **ABUSES** 14 , **AMHARA** 14 , 
  
 ## What this user tweeted
  
-RT @ekeretteetim11: Despite the vulnerabilities of Trusted Execution Environment (TEEs), @OasisProtocol adopts it because of its advantages…
+RT @kingo4Tigray: Justice must be served for the Tigray people and their families, who have suffered unimaginable loss &amp; trauma due to the…RT @kingo4Tigray: Million of ppl have died &amp; &gt;130K women have been raped as a result of the atrocities committed by @AbiyAhmed &amp; @IsaiasAfw…RT @kingo4Tigray: Justice must be served for all victims, no matter their nationality or background. @AbiyAhmed &amp; @IsaiasAfwerki are war cr…RT @kingo4Tigray: The Tigray people have suffered enough, it's time for justice to be served &amp; for the perpetrators to be held accountable.…RT @5Weyen72: The atrocities committed by @AbiyAhmedAli  &amp; Isaias Afwerki against the Tigray ppl have resulted in the deaths of million &amp; t…RT @Alemmez: Justice ⚖️ must be served for the Tigray people and their families, who have suffered unimaginable loss &amp; trauma due to the ac…RT @gereleake12: IC must push on UN lead independent investigations to bring criminals to justice.  #TigrayGenocide 
+#Justice4Tigray #ICHRE…RT @berry__of: Justice must be served for all victims, no matter their nationality or background. @AbiyAhmedAli &amp; Isaias Afwerki are war cr…
  
-# StefliaF40088USER INFO
-![image](http://pbs.twimg.com/profile_images/1638719147440848900/8s0LsDob_normal.jpg)
+# Rayj711USER INFO
+![image](http://pbs.twimg.com/profile_images/1636515840345423872/7i2AZ0yM_normal.jpg)
  
-`User ScreenName:` StefliaF40088 
+`User ScreenName:` Rayj711 
  
-`User chosen Name:` Steflia Fi 
+`User chosen Name:` Ray Johnson 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 23 01:42:11 +0000 2023 
+`User signup date?:` Thu Mar 16 12:15:57 +0000 2023 
+ 
+`User Description?:` #AMC / $APE 🚀🚀 
+ 
+`Followers?: `81 
+ 
+`Following?:` 255 
+ 
+`User URL?:` None 
+ 
+`Location:` Huntsville, AL Rocket City🚀🚀 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636515840345423872/7i2AZ0yM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 947 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AMC** 22 , **$AMC** 15 , **@PAPITRUMPO:** 14 , **@DOM_LUCRE:** 14 , **BIDEN** 11 , **FRANCE** 9 , **TRUMP** 9 , **APE** 9 , **🔥** 8 , **US** 8 , **MARKET** 7 , **GOVERNMENT** 7 , **BREAKING** 7 , **ATAMC** 6 , **@KARILAKE:** 6 , **@ZEROHEDGE:** 6 , **GOING** 6 , **DAY** 6 , **GAMESTOP** 6 , **$APE** 5 , 
+ 
+## What this user tweeted
+ 
+RT @GuntherEagleman: Illegal aliens shouldn’t get a penny in federal assistance… Neither should Ukraine.  
+
+It’s not the American tax payer…
+ 
+# Brar0180USER INFO
+![image](http://pbs.twimg.com/profile_images/1637358057863761921/z45McUdU_normal.png)
+ 
+`User ScreenName:` Brar0180 
+ 
+`User chosen Name:` Amandeep kaur 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 19 07:39:15 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `7 
  
-`Following?:` 20 
+`Following?:` 8 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Toronto, Ontario 
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1638719147440848900/8s0LsDob_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1637358057863761921/z45McUdU_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 362 
  
 
  
@@ -187,199 +189,28 @@ RT @ekeretteetim11: Despite the vulnerabilities of Trusted Execution Environment
  
 ## User Top tweeted words 
  
-**@EKERETTEETIM11:** 4 , **PRIVACY** 4 , **WEB3** 2 , **@OASISPROTOCOL** 2 , **ITS** 2 , **REALLY** 1 , **LOVE** 1 , **🔥⚡** 1 , **HTTPS://TCO/SWYVGU1I5PRT** 1 , **EXPLORING** 1 , **FUTURE** 1 , **WORTH** 1 , **APPRECIATING** 1 , **ROLE** 1 , **SAPPHIRE** 1 , **PARATIME** 1 , **OFFERING** 1 , **QUALITY** 1 , **SOLUTI…RT** 1 , **DESPITE** 1 , 
+**FREEAMRITPALSINGH** 64 , **WESTANDWITHAMRITPALSINGH** 56 , **FREEAMRITPALSINGHRT** 28 , **PUNJABUNDERSIEGE** 26 , **PUNJABUNDERSEIGE** 19 , **@BHAGWANTMANN** 19 , **PUNJAB** 16 , **SIKHS** 14 , **INDIAN** 13 , **FREEAMRITPALSINGHKHALSA** 10 , **INDIA** 9 , **ਤੇ** 8 , **MEDIA** 8 , **TYRANTINDIA** 8 , **AMRITPALSINGH** 7 , **SIKH** 7 , **@RAJAYDKAUR:** 7 , **WESTANDWITHAMRITPALSINGHRT** 7 , **🙏** 6 , **ARRESTS** 6 , 
  
 ## What this user tweeted
  
-RT @ekeretteetim11: Despite the vulnerabilities of Trusted Execution Environment (TEEs), @OasisProtocol adopts it because of its advantages…
+RT @Prabhje32426085: The #Fact that #Punjab always supported #Ukraine #Palestine #Uganda #BlackLivesMatter  #Delhi #KhalsaAid but now that…
  
-# DanielS01262362USER INFO
-![image](http://pbs.twimg.com/profile_images/1638684208552980480/PybMnFv3_normal.png)
+# EdwardsAnd46206USER INFO
+![image](http://pbs.twimg.com/profile_images/1637640645161496576/-iCcaNdt_normal.jpg)
  
-`User ScreenName:` DanielS01262362 
+`User ScreenName:` EdwardsAnd46206 
  
-`User chosen Name:` Daniel Samuel 
+`User chosen Name:` Edwards Anderson 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 22 23:28:55 +0000 2023 
+`User signup date?:` Mon Mar 20 02:22:10 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `24 
  
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 51 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638684208552980480/PybMnFv3_normal.png 
- 
-`Number of tweets excluding replies:` 51 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PRIVACY** 14 , **OASIS** 9 , **OASISNETWORK** 7 , **LAYER** 6 , **SAPPHIRE** 5 , **@OASISPROTOCOL** 5 , **WEB3** 5 , **DAPPS** 4 , **DEVS** 4 , **DATA** 4 , **@JHOESAYA:** 3 , **SMART** 3 , **COMMUNITY** 3 , **@CAPRICONVIC:** 3 , **AI** 3 , **@JUNECRIBB:** 3 , **✅** 3 , **EXECUTION** 2 , **CONTRACTS** 2 , **@ELVISDKING2:** 2 , 
- 
-## What this user tweeted
- 
-RT @CapriconVic: ✨ TEEs enable efficient private #smartcontract execution on the #OasisNetwork and lower devs and user friction
-
-TEEs allow…
- 
-# OSINTelligenceXUSER INFO
-![image](http://pbs.twimg.com/profile_images/1636504655969615872/6YKLgLpj_normal.png)
- 
-`User ScreenName:` OSINTelligenceX 
- 
-`User chosen Name:` OSINTelligence 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 16 23:08:09 +0000 2023 
- 
-`User Description?:` Cybersecurity, OSINT, and Threat Intelligence News, Articles, APT Behavior Analysis, Jobs, Training, and more! 
- 
-`Followers?: `4 
- 
-`Following?:` 1 
- 
-`User URL?:` https://t.co/UtvHQmhcIN 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 37 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636504655969615872/6YKLgLpj_normal.png 
- 
-`Number of tweets excluding replies:` 37 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 9 , **AI** 6 , **NEW** 4 , **SECURITY** 4 , **MALWARE** 4 , **USE** 3 , **VULNERABILITIES** 3 , **CYBER** 3 , **DATA** 2 , **MALICIOUS** 2 , **ACTORS** 2 , **CAMPAIGN** 2 , **NMAP** 2 , **PODCAST** 2 , **FIRST** 2 , **SSH** 2 , **POWERED** 2 , **SHELLBOT** 2 , **USING** 2 , **FERRARI** 2 , 
- 
-## What this user tweeted
- 
-https://t.co/SvfHsT2h1T - New podcast series 🎙️ First episode is now available! 🤖
-
-#podcast #show #content… https://t.co/MteGnWPDbM
- 
-# GordonPeac20369USER INFO
-![image](http://pbs.twimg.com/profile_images/1637123160045748238/K0AAFUJB_normal.png)
- 
-`User ScreenName:` GordonPeac20369 
- 
-`User chosen Name:` Gordon Peace 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 18 16:05:52 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 72 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1637123160045748238/K0AAFUJB_normal.png 
- 
-`Number of tweets excluding replies:` 72 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PRIVACY** 22 , **WEB3** 14 , **OASISNETWORK** 13 , **DAPPS** 9 , **OASIS** 9 , **SAPPHIRE** 8 , **@ETIMGRACE9:** 7 , **@JAYRICZOFFICIAL:** 6 , **LAYER** 6 , **DEVELOPERS** 5 , **AI** 5 , **@OASISPROTOCOL** 5 , **ALLOWS** 4 , **EVM** 4 , **DEVS** 4 , **BUILT** 4 , **NETWORK** 4 , **COMMUNITY** 4 , **CREATE** 3 , **JOIN** 3 , 
- 
-## What this user tweeted
- 
-RT @CapriconVic: ✨ TEEs enable efficient private #smartcontract execution on the #OasisNetwork and lower devs and user friction
-
-TEEs allow…
- 
-# GyaruEnjoyerRinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1638313815790985217/K_i-AF3y_normal.jpg)
- 
-`User ScreenName:` GyaruEnjoyerRin 
- 
-`User chosen Name:` rin 🇲🇳 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 19 22:29:13 +0000 2023 
- 
-`User Description?:` I FUCKING LOVE GYARUS AND BROWN ANIME GIRLS!!!
-
-ratbrained online jester
-the only truecel 
-very funny and based guy
-(slowly) learning mongolian
-
-terminally ngmi 
- 
-`Followers?: `41 
- 
-`Following?:` 32 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 157 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638313815790985217/K_i-AF3y_normal.jpg 
- 
-`Number of tweets excluding replies:` 157 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**U** 32 , **UR** 16 , **MORNING** 14 , **GOOD** 14 , **I'M** 10 , **IM** 10 , **GOODNIGHT** 9 , **ITS** 8 , **BASED** 7 , **KINDA** 7 , **USE** 7 , **LOVE** 7 , **BROWN** 6 , **ANIME** 6 , **YEAH** 6 , **"I** 6 , **POST** 6 , **HAPPY** 6 , **GIRL** 5 , **HERE** 5 , 
- 
-## What this user tweeted
- 
-@MrSpyCrab1 invulnerable means i have no vulnerabilities right so nothing can harm me. cancer? heart disease? aging… https://t.co/gXmL3GnJS1
- 
-# SaveALOTO_BRUSER INFO
-![image](http://pbs.twimg.com/profile_images/1636123609092575232/bxDG0qyl_normal.jpg)
- 
-`User ScreenName:` SaveALOTO_BR 
- 
-`User chosen Name:` SaveAlotoBr 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 15 20:21:12 +0000 2023 
- 
-`User Description?:` #SaveALOTO
-She / her
-🇧🇷 
- 
-`Followers?: `17 
- 
-`Following?:` 94 
+`Following?:` 267 
  
 `User URL?:` None 
  
@@ -387,9 +218,9 @@ She / her
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636123609092575232/bxDG0qyl_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1637640645161496576/-iCcaNdt_normal.jpg 
  
-`Number of tweets excluding replies:` 308 
+`Number of tweets excluding replies:` 211 
  
 
  
@@ -397,38 +228,89 @@ She / her
  
 ## User Top tweeted words 
  
-**ALEAGUEOFTHEIROWN** 151 , **MORETHANFOUR** 127 , **RENEWALOTO** 37 , **ALOTO** 29 , **@ALOTOHOMERUN:** 22 , **GRETA** 18 , **NEED** 17 , **DESERVES** 16 , **@WAVES_ALOTO:** 15 , **@C_DELIGH:** 14 , **ROBTHEBANK** 14 , **POWER** 12 , **CARSON** 12 , **SHOW** 11 , **MORETHANFOURRT** 11 , **@ALOTOKAIT:** 10 , **MAX** 9 , **RENEW** 8 , **US** 8 , **QUEER** 8 , 
+**TRUMP** 22 , **PRESIDENT** 16 , **BIDEN** 15 , **PEOPLE** 13 , **US** 10 , **DON’T** 10 , **TIME** 9 , **POLITICAL** 8 , **DESANTIS** 8 , **BRAGG** 8 , **ELECTION** 7 , **DA** 7 , **DOJ** 6 , **JOE** 6 , **ARREST** 6 , **@VIGILANTFOX:** 6 , **@CATTURD2:** 6 , **DC** 6 , **ANY** 5 , **NEW** 5 , 
  
 ## What this user tweeted
  
-RT @littlelight92: Greta showed me that no matter how cool and confident someone may seem, we all have our own fears and vulnerabilities, a…
+RT @RepMTG: Biden’s approval dips near lowest point at 38%.
+
+No wonder…
+
+Banking Crisis
+Border Crisis
+Inflation Crisis
+Ukraine Crisis
+Debt…
  
-# alimoha38596441USER INFO
-![image](http://pbs.twimg.com/profile_images/1636789790615154691/ychnS1yz_normal.png)
+# OwenDaniel69685USER INFO
+![image](http://pbs.twimg.com/profile_images/1636544945753411587/20CBt1Ur_normal.jpg)
  
-`User ScreenName:` alimoha38596441 
+`User ScreenName:` OwenDaniel69685 
  
-`User chosen Name:` ali mohammadi 
+`User chosen Name:` Owen Daniel 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 17 18:01:10 +0000 2023 
+`User signup date?:` Fri Mar 17 01:24:32 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `3 
  
-`Following?:` 21 
+`Following?:` 80 
+ 
+`User URL?:` None 
+ 
+`Location:` Accra -Ghana 
+ 
+`Number of tweets extracted`  : 19 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636544945753411587/20CBt1Ur_normal.jpg 
+ 
+`Number of tweets excluding replies:` 19 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CNN:** 3 , **LAW** 2 , **BARS** 2 , **IMPORTANT** 2 , **VERY** 2 , **DOLLAR** 2 , **SUGAR** 2 , **@DRLECTERSMASK** 1 , **LOVE** 1 , **VIEW** 1 , **👌RT** 1 , **@DRLECTERSMASK:** 1 , **RECEDE** 1 , **SPRING2023** 1 , **PHOTOGRAPHY** 1 , **PHOTO** 1 , **NATURE** 1 , **NATUREPHOTOGRAPHY** 1 , **LAKE** 1 , **WATER** 1 , 
+ 
+## What this user tweeted
+ 
+RT @kms_d4k: I’m not very active on Twitter right now.
+
+As I said before OPSEC is very important now. 
+
+Thanks, everyone for supporting Ukr…
+ 
+# Jess28211USER INFO
+![image](http://pbs.twimg.com/profile_images/1637563948076609544/7ZUevGNh_normal.jpg)
+ 
+`User ScreenName:` Jess28211 
+ 
+`User chosen Name:` Jessica 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 19 07:58:59 +0000 2023 
+ 
+`User Description?:` happy Sunday you all 💗💖💗💖 #igbo in Lagos #Governor-Elect #lagos #canada #uk 
+ 
+`Followers?: `92 
+ 
+`Following?:` 81 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 181 
+`Number of tweets extracted`  : 29 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636789790615154691/ychnS1yz_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1637563948076609544/7ZUevGNh_normal.jpg 
  
-`Number of tweets excluding replies:` 183 
+`Number of tweets excluding replies:` 29 
  
 
  
@@ -436,81 +318,85 @@ RT @littlelight92: Greta showed me that no matter how cool and confident someone
  
 ## User Top tweeted words 
  
-**GIFT** 38 , **DE** 38 , **CARD** 25 , **LA** 22 , **FREE** 19 , **WIN** 18 , **ENTER** 15 , **PAYPAL** 12 , **CLICK** 11 , **HERE** 11 , **AMAZON** 11 , **GIVEAWAY** 10 , **و** 10 , **QUE** 10 , **$750** 10 , **CHANCE** 9 , **NOW!** 9 , **EN** 9 , **$100** 9 , **BEST** 9 , 
+**@GRDECTER:** 5 , **COMMERCIAL** 4 , **@JESS28211:** 4 , **SURVIVOR** 4 , **EVERYONE** 3 , **EARTHQUAKE** 3 , **BORISJOHNSON** 3 , **RT** 2 , **@_TREND__:** 2 , **PERSON** 2 , **WEY** 2 , **DEY** 2 , **REAL** 2 , **ESTATE** 2 , **LOSSES** 2 , **LOANS** 2 , **BILLION** 2 , **ITS** 2 , **RONALDO** 2 , **VERY** 2 , 
  
 ## What this user tweeted
  
-RT @SolidityFinance: 📣We have completed the Smart Contract Audit for the @autonolas contracts!
-
-⚪️Series of smart contracts that enable dev…
+RT @Jess28211: Cristiano Ronaldo is very Easy for me to Draw 💯
+.
+.
+GOAT #Ronaldo𓃵 #Tommy #Survivor #Tuchel #مبارك_عليكم_الشهر #Ukraine Lori…
  
-# jugandoshi1672USER INFO
-![image](http://pbs.twimg.com/profile_images/1638534081804906496/nHqatnCl_normal.jpg)
+# ChandAli1465363USER INFO
+![image](http://pbs.twimg.com/profile_images/1635525750668312577/x6u-vx7I_normal.jpg)
  
-`User ScreenName:` jugandoshi1672 
+`User ScreenName:` ChandAli1465363 
  
-`User chosen Name:` JugandoShido xd 
+`User chosen Name:` Chand Ali 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 22 13:31:02 +0000 2023 
+`User signup date?:` Tue Mar 14 06:09:09 +0000 2023 
+ 
+`User Description?:` TLP Supporter always,
+Future Pharmacist,
+
+Cricket lover,
+Qalandar's blood, 
+ 
+`Followers?: `22 
+ 
+`Following?:` 79 
+ 
+`User URL?:` None 
+ 
+`Location:` Pakistan 
+ 
+`Number of tweets extracted`  : 55 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1635525750668312577/x6u-vx7I_normal.jpg 
+ 
+`Number of tweets excluding replies:` 55 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BABARAZAM𓃵** 7 , **นิกกี้ก้อย** 6 , **EARTHQUAKE** 5 , **PSL08** 5 , **PAKISTAN** 5 , **BOLU** 5 , **กราดยิง** 5 , **BHAI** 4 , **SHAHEENSHAHAFRIDI** 4 , **RIZWAN** 4 , **TLP** 4 , **بھی** 4 , **PCB** 3 , **HAY** 3 , **KA** 3 , **BHI** 3 , **WBC準々決勝** 3 , **SHADOWANDBONE** 3 , **KI** 3 , **MATCH** 3 , 
+ 
+## What this user tweeted
+ 
+The Hundred will be watchable🥰 this time .New pace sensation💥 Ihsanullah goes to Oval invincibles
+#TheHundredDraft… https://t.co/HlodGPugCZ
+ 
+# vsk1017USER INFO
+![image](http://pbs.twimg.com/profile_images/1636954734157344774/iKhPi1sU_normal.png)
+ 
+`User ScreenName:` vsk1017 
+ 
+`User chosen Name:` saikrishna vemula 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 18 04:56:36 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `3 
  
-`Following?:` 49 
+`Following?:` 108 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 146 
+`Number of tweets extracted`  : 90 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1638534081804906496/nHqatnCl_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1636954734157344774/iKhPi1sU_normal.png 
  
-`Number of tweets excluding replies:` 146 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 20 , **@JEFFYOR74440106:** 18 , **LA** 12 , **و** 10 , **🔥** 9 , **NFT** 8 , **@KPTOPUP:** 8 , **CHECK** 6 , **GIVEAWAY** 6 , **شاهد** 6 , **رمضان** 6 , **FREE** 6 , **NEW** 6 , **SIGN** 6 , **TIME** 5 , **ENTER** 5 , **WIN** 5 , **ريال** 5 , **✅** 5 , **مسلسلات** 5 , 
- 
-## What this user tweeted
- 
-RT @SolidityFinance: 📣We have completed the Smart Contract Audit for the @autonolas contracts!
-
-⚪️Series of smart contracts that enable dev…
- 
-# AdilJahangir321USER INFO
-![image](http://pbs.twimg.com/profile_images/1638211020173856770/ShaKTUSO_normal.jpg)
- 
-`User ScreenName:` AdilJahangir321 
- 
-`User chosen Name:` Adil Jahangir 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 14 09:39:51 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `9 
- 
-`Following?:` 18 
- 
-`User URL?:` None 
- 
-`Location:` Multan, Pakistan 
- 
-`Number of tweets extracted`  : 68 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638211020173856770/ShaKTUSO_normal.jpg 
- 
-`Number of tweets excluding replies:` 68 
+`Number of tweets excluding replies:` 92 
  
 
  
@@ -518,11 +404,11 @@ RT @SolidityFinance: 📣We have completed the Smart Contract Audit for the @aut
  
 ## User Top tweeted words 
  
-**@POLITICALPRISM_:** 20 , **PAKISTAN** 17 , **INDIAN** 13 , **کے** 12 , **@PASHTUNWALI79:** 10 , **@PAK_AFGAFFAIRS:** 9 , **@_KHALSA_00:** 9 , **کا** 7 , **ARMY** 6 , **سے** 6 , **SIKHS** 6 , **EARTHQUAKE** 6 , **OFFICERS** 6 , **پاکستان** 6 , **ٹی** 6 , **DAY** 5 , **@PECONOMIST_:** 5 , **اور** 5 , **نے** 5 , **میں** 5 , 
+**INDIA** 7 , **ISLAMIC** 5 , **HINDU** 5 , **PUNJAB** 5 , **MAA** 5 , **AGAINST** 5 , **@DRLOUPIS:** 5 , **@TRUEINDOLOGY:** 5 , **UKRAINE** 4 , **KEEP** 4 , **WHERE** 4 , **NEWS** 4 , **POLICE** 4 , **HINDUS** 4 , **@VIVEKAGNIHOTRI:** 4 , **@TOTAL_WOKE_:** 4 , **@MEGHUPDATES:** 4 , **@KIMDOTCOM:** 3 , **@UNSUBTLEDESI:** 3 , **U** 3 , 
  
 ## What this user tweeted
  
-RT @PoliticalPrism_: World Bank had recommended earlier that, in order to enhance country's resilience to natural disasters and sustain inc…
+RT @KimDotcom: UK will send depleted Uranium munitions to Ukraine. They cause cancer and birth defects. It’s like NATO dropping dirty bombs…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
