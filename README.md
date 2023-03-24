@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **DVATW**  
+The most popular user is: **obyezeks**  
  
 
-## Well looky here. The Head of the Ukrainian national bank has bought himself a new rolls Royce. Keep donating to Ukr… https://t.co/rNqx62iweE 
+## I have an update on @chude__ . According to Governor @CCSoludo , the Commissioner of @PoliceNG for Anambra confirme… https://t.co/mD3fSLTmAO 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **DVATW**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BorisJohnson: Fantastic to speak to the CEO Club of Ukraine and meet business leaders full of enthusiasm for increased trade between th… |
-| RT @KyivIndependent: ⚡️Sweden approves $600 million in military aid to Ukraine.The new package proposed by the country's government inclu… |
-| RT @jonnytickle: TASS in 2018: Upgrading Russian tanks to fire depleted uranium ammunition “does not violate any international treaties”T… |
+| RT @reutersdeals: Cybersecurity firm OneSpan explores sale -sources https://t.co/T3QCCR5pUc @milanavinn $OSPN |
+| RT @chrisdior777: Today, I have decided to do something I have never done before in my life. I will be quitting my regular job in cybersecu… |
+| RT @warriors_mom: How Justin Trudeau’s government was compromised by the CCP 🔍 Justin Trudeau’s government has been compromised by the Chin… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DonaldJTrumpJr** |
-| #2 Most tweeted to  | **Gerashchenko_en** |
-| #3 Most tweeted to  | **visegrad24** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 22.9%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **SecurityTrybe** |
+| #3 Most tweeted to  | **hack_git** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 6.38%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **DVATW**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **UPDATE❣️S**  |
-| third  | **❣️WAR** |
-| fourth  | **UKRAINE❣️**  |
-| fifth  | **WAR**  |
+| first  | **INFOSEC**  |
+| second  | **DATA**  |
+| third  | **HACKING** |
+| fourth  | **AI**  |
+| fifth  | **US**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|❣️❣️Latest update❣️s on the ❣️war in Ukraine❣️ #深圳资源 #深圳丝足 https://t.co/DSO5kF4b47 |
+|whole lotta cybersecurity experts on the feed rn https://t.co/VWBhxHWKkg |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DVATW**  |
+| The most retweeted user is: **obyezeks**  |
 | ------------- |
-| Well looky here. The Head of the Ukrainian national bank has bought himself a new rolls Royce. Keep donating to Ukr… https://t.co/rNqx62iweE |
+| I have an update on @chude__ . According to Governor @CCSoludo , the Commissioner of @PoliceNG for Anambra confirme… https://t.co/mD3fSLTmAO |
 
 # Potential Fake Accounts
  
-# sultans84124192USER INFO
-![image](http://pbs.twimg.com/profile_images/1638773388922503169/SeB0qzMo_normal.jpg)
+# StellaJohn81941USER INFO
+![image](http://pbs.twimg.com/profile_images/1639054755858198535/UHx5YMIa_normal.jpg)
  
-`User ScreenName:` sultans84124192 
+`User ScreenName:` StellaJohn81941 
  
-`User chosen Name:` Freweyni Alemayu 
+`User chosen Name:` Stella John 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 20 20:51:07 +0000 2023 
+`User signup date?:` Thu Mar 23 23:54:49 +0000 2023 
  
-`User Description?:`  
+`User Description?:` God is always good 
  
-`Followers?: `99 
+`Followers?: `0 
  
-`Following?:` 231 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1638773388922503169/SeB0qzMo_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1639054755858198535/UHx5YMIa_normal.jpg 
  
-`Number of tweets excluding replies:` 2618 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -108,39 +108,38 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**TIGRAY** 59 , **MUST** 23 , **ATROCITIES** 23 , **AGAINST** 23 , **WAR** 22 , **REPORTS** 22 , **CRIMES** 22 , **CONFLICT** 21 , **RIGHTS** 21 , **HUMAN** 20 , **INDEPENDENT** 20 , **PEOPLE** 19 , **FORCES** 18 , **ITS** 17 , **HUMANITY** 15 , **FREE** 15 , **TIGRAYGENOCIDE** 14 , **COMMITTED** 14 , **ABUSES** 14 , **AMHARA** 14 , 
+**TRY** 3 , **CHANGING** 3 , **PASSWORD?** 3 , **UNABLE** 3 , **TOO** 3 , **SUGGEST** 3 , **REACH** 3 , **CYBERSECURITY_02** 3 , **INSTAGRAM** 3 , **HE…** 3 , **HTTPS://TCO/8GJJEL4RXOHAVE** 1 , **HTTPS://TCO/0TIEWXJ9AQHAVE** 1 , **HTTPS://TCO/HMWVVYCAET** 1 , 
  
 ## What this user tweeted
  
-RT @kingo4Tigray: Justice must be served for the Tigray people and their families, who have suffered unimaginable loss &amp; trauma due to the…RT @kingo4Tigray: Million of ppl have died &amp; &gt;130K women have been raped as a result of the atrocities committed by @AbiyAhmed &amp; @IsaiasAfw…RT @kingo4Tigray: Justice must be served for all victims, no matter their nationality or background. @AbiyAhmed &amp; @IsaiasAfwerki are war cr…RT @kingo4Tigray: The Tigray people have suffered enough, it's time for justice to be served &amp; for the perpetrators to be held accountable.…RT @5Weyen72: The atrocities committed by @AbiyAhmedAli  &amp; Isaias Afwerki against the Tigray ppl have resulted in the deaths of million &amp; t…RT @Alemmez: Justice ⚖️ must be served for the Tigray people and their families, who have suffered unimaginable loss &amp; trauma due to the ac…RT @gereleake12: IC must push on UN lead independent investigations to bring criminals to justice.  #TigrayGenocide 
-#Justice4Tigray #ICHRE…RT @berry__of: Justice must be served for all victims, no matter their nationality or background. @AbiyAhmedAli &amp; Isaias Afwerki are war cr…
+Have you try changing your password? If unable too I suggest you reach out to #cybersecurity_02 on instagram who he… https://t.co/8gjJEl4rxoHave you try changing your password? If unable too I suggest you reach out to #cybersecurity_02 on instagram who he… https://t.co/0tiEWXJ9AqHave you try changing your password? If unable too I suggest you reach out to #cybersecurity_02 on instagram who he… https://t.co/hmwVVYCaeT
  
-# Rayj711USER INFO
-![image](http://pbs.twimg.com/profile_images/1636515840345423872/7i2AZ0yM_normal.jpg)
+# NagirnyiSergeiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1639053427467534337/Fzt7b__p_normal.jpg)
  
-`User ScreenName:` Rayj711 
+`User ScreenName:` NagirnyiSergei 
  
-`User chosen Name:` Ray Johnson 
+`User chosen Name:` Sergei Nagirnyi 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 16 12:15:57 +0000 2023 
+`User signup date?:` Wed Mar 22 18:20:48 +0000 2023 
  
-`User Description?:` #AMC / $APE 🚀🚀 
+`User Description?:` Full-stack Developer at TechCo, building web applications that solve real-world problems. 
  
-`Followers?: `81 
+`Followers?: `46 
  
-`Following?:` 255 
+`Following?:` 0 
  
 `User URL?:` None 
  
-`Location:` Huntsville, AL Rocket City🚀🚀 
+`Location:` Kyiv, Ukraine 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636515840345423872/7i2AZ0yM_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1639053427467534337/Fzt7b__p_normal.jpg 
  
-`Number of tweets excluding replies:` 947 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -148,40 +147,82 @@ RT @kingo4Tigray: Justice must be served for the Tigray people and their familie
  
 ## User Top tweeted words 
  
-**AMC** 22 , **$AMC** 15 , **@PAPITRUMPO:** 14 , **@DOM_LUCRE:** 14 , **BIDEN** 11 , **FRANCE** 9 , **TRUMP** 9 , **APE** 9 , **🔥** 8 , **US** 8 , **MARKET** 7 , **GOVERNMENT** 7 , **BREAKING** 7 , **ATAMC** 6 , **@KARILAKE:** 6 , **@ZEROHEDGE:** 6 , **GOING** 6 , **DAY** 6 , **GAMESTOP** 6 , **$APE** 5 , 
+**ANOTHER** 2 , **DAY** 1 , **THREAT** 1 , **THWARTED!** 1 , **PROUD** 1 , **WORKING** 1 , **@SECURETECH** 1 , **KEEP** 1 , **BUSINESSES** 1 , **SAFE** 1 , **CYBERSECURITY** 1 , **THREATPROTECTION** 1 , 
  
 ## What this user tweeted
  
-RT @GuntherEagleman: Illegal aliens shouldn’t get a penny in federal assistance… Neither should Ukraine.  
-
-It’s not the American tax payer…
+Another day, another threat thwarted! Proud to be working with @SecureTech to keep businesses safe. #Cybersecurity #ThreatProtection
  
-# Brar0180USER INFO
-![image](http://pbs.twimg.com/profile_images/1637358057863761921/z45McUdU_normal.png)
+# JinKazama00_USER INFO
+![image](http://pbs.twimg.com/profile_images/1637807537062813702/Tf7hNH7t_normal.jpg)
  
-`User ScreenName:` Brar0180 
+`User ScreenName:` JinKazama00_ 
  
-`User chosen Name:` Amandeep kaur 
+`User chosen Name:` Jin 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 19 07:39:15 +0000 2023 
+`User signup date?:` Mon Mar 20 13:24:26 +0000 2023 
  
 `User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 39 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1637807537062813702/Tf7hNH7t_normal.jpg 
+ 
+`Number of tweets excluding replies:` 39 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ARSLANAMJAD_:** 12 , **TWITTER** 3 , **EINSTEIN** 3 , **DAY** 3 , **LAUNCH** 3 , **BETWEEN** 3 , **TRYING** 3 , **CHANGE** 3 , **QUIT** 3 , **FED** 2 , **@TRUNGTPHAN:** 2 , **ALBERT** 2 , **MEETING** 2 , **@HACKINARTICLES:** 2 , **PIC** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **CYBERSECURITYTIPS** 2 , **PENTESTING** 2 , **CYBERSECURITYAWARENESS** 2 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…
+ 
+# elite_Writers_USER INFO
+![image](http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg)
+ 
+`User ScreenName:` elite_Writers_ 
+ 
+`User chosen Name:` ASSIGNMENT HELP 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 20 07:03:19 +0000 2023 
+ 
+`User Description?:` A Team of Experienced Writers Proficient in Online Classes||Essays||Quizzes||Projects||Reports||Math||Calculus||Thesis||Research||
+Shoot us a DM for more info:) 
  
 `Followers?: `7 
  
-`Following?:` 8 
+`Following?:` 15 
  
-`User URL?:` None 
+`User URL?:` https://t.co/XkpxvUuTiS 
  
-`Location:` Toronto, Ontario 
+`Location:` New Jersey, USA 
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 77 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637358057863761921/z45McUdU_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg 
  
-`Number of tweets excluding replies:` 362 
+`Number of tweets excluding replies:` 77 
  
 
  
@@ -189,38 +230,86 @@ It’s not the American tax payer…
  
 ## User Top tweeted words 
  
-**FREEAMRITPALSINGH** 64 , **WESTANDWITHAMRITPALSINGH** 56 , **FREEAMRITPALSINGHRT** 28 , **PUNJABUNDERSIEGE** 26 , **PUNJABUNDERSEIGE** 19 , **@BHAGWANTMANN** 19 , **PUNJAB** 16 , **SIKHS** 14 , **INDIAN** 13 , **FREEAMRITPALSINGHKHALSA** 10 , **INDIA** 9 , **ਤੇ** 8 , **MEDIA** 8 , **TYRANTINDIA** 8 , **AMRITPALSINGH** 7 , **SIKH** 7 , **@RAJAYDKAUR:** 7 , **WESTANDWITHAMRITPALSINGHRT** 7 , **🙏** 6 , **ARRESTS** 6 , 
+**PAY** 42 , **CHEMISTRY** 37 , **@ELITE_WRITERS_:** 35 , **RESEARCH** 33 , **ESSAYS** 31 , **CALCULUS** 30 , **THESIS** 29 , **ASSIGNMENT** 28 , **PHYSICS** 27 , **EXAMS** 27 , **US** 26 , **BIOLOGY** 23 , **QUALITY** 21 , **LAW** 20 , **ONLINECLASS** 19 , **ACCOUNTING** 18 , **HELPDM** 16 , **HOMEWORK** 15 , **FINANCE** 15 , **NEED** 15 , 
  
 ## What this user tweeted
  
-RT @Prabhje32426085: The #Fact that #Punjab always supported #Ukraine #Palestine #Uganda #BlackLivesMatter  #Delhi #KhalsaAid but now that…
+For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/FxgmrC21SVRT @elite_Writers_: For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Econom…RT @elite_Writers_: For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Econom…RT @elite_Writers_: For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Econom…For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/iRJS4sPbxO
  
-# EdwardsAnd46206USER INFO
-![image](http://pbs.twimg.com/profile_images/1637640645161496576/-iCcaNdt_normal.jpg)
+# sangho218USER INFO
+![image](http://pbs.twimg.com/profile_images/1638387143759532038/RFPKKuZA_normal.png)
  
-`User ScreenName:` EdwardsAnd46206 
+`User ScreenName:` sangho218 
  
-`User chosen Name:` Edwards Anderson 
+`User chosen Name:` Sang Hồ 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 20 02:22:10 +0000 2023 
+`User signup date?:` Wed Mar 22 03:48:29 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `24 
+`Followers?: `0 
  
-`Following?:` 267 
+`Following?:` 17 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637640645161496576/-iCcaNdt_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1638387143759532038/RFPKKuZA_normal.png 
  
-`Number of tweets excluding replies:` 211 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -228,135 +317,44 @@ RT @Prabhje32426085: The #Fact that #Punjab always supported #Ukraine #Palestine
  
 ## User Top tweeted words 
  
-**TRUMP** 22 , **PRESIDENT** 16 , **BIDEN** 15 , **PEOPLE** 13 , **US** 10 , **DON’T** 10 , **TIME** 9 , **POLITICAL** 8 , **DESANTIS** 8 , **BRAGG** 8 , **ELECTION** 7 , **DA** 7 , **DOJ** 6 , **JOE** 6 , **ARREST** 6 , **@VIGILANTFOX:** 6 , **@CATTURD2:** 6 , **DC** 6 , **ANY** 5 , **NEW** 5 , 
+**@SHUBHAM_PEN:** 2 , **CYBERSECURITY** 2 , **INFORMATIONSECURITY** 2 , **LINUX** 2 , **MALWARE** 2 , **RT** 1 , **TYPES** 1 , **CRYPTOGRAPHY** 1 , **DATASECURITY** 1 , **CYBERSEC** 1 , **BUGBOUNTYTIPS** 1 , **WEBSECURITY** 1 , **NET…RT** 1 , **BEST** 1 , **CYBER** 1 , **SECURITY** 1 , **TOOLS** 1 , **INFOSEC** 1 , **PENTESTING** 1 , **OSCP** 1 , 
  
 ## What this user tweeted
  
-RT @RepMTG: Biden’s approval dips near lowest point at 38%.
+RT @Shubham_pen: Types of Cryptography
 
-No wonder…
+#cybersecurity #informationsecurity #DataSecurity #CyberSec #bugbountytips #Linux #websecurity #Net…RT @Shubham_pen: Best of Cyber Security Tools
 
-Banking Crisis
-Border Crisis
-Inflation Crisis
-Ukraine Crisis
-Debt…
+#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #cissp #redteam #te…RT @hack_git: CEH-Exam-Questions
+
+Planning To Take Certified Ethical Hacker (CEH)? Here are github repo with 125 questions and answers to h…
  
-# OwenDaniel69685USER INFO
-![image](http://pbs.twimg.com/profile_images/1636544945753411587/20CBt1Ur_normal.jpg)
+# MChangeri95431USER INFO
+![image](http://pbs.twimg.com/profile_images/1637118263556550656/HN-5BOFy_normal.jpg)
  
-`User ScreenName:` OwenDaniel69685 
+`User ScreenName:` MChangeri95431 
  
-`User chosen Name:` Owen Daniel 
+`User chosen Name:` MChan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 17 01:24:32 +0000 2023 
+`User signup date?:` Sat Mar 18 15:46:08 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `3 
+`Followers?: `0 
  
-`Following?:` 80 
- 
-`User URL?:` None 
- 
-`Location:` Accra -Ghana 
- 
-`Number of tweets extracted`  : 19 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636544945753411587/20CBt1Ur_normal.jpg 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CNN:** 3 , **LAW** 2 , **BARS** 2 , **IMPORTANT** 2 , **VERY** 2 , **DOLLAR** 2 , **SUGAR** 2 , **@DRLECTERSMASK** 1 , **LOVE** 1 , **VIEW** 1 , **👌RT** 1 , **@DRLECTERSMASK:** 1 , **RECEDE** 1 , **SPRING2023** 1 , **PHOTOGRAPHY** 1 , **PHOTO** 1 , **NATURE** 1 , **NATUREPHOTOGRAPHY** 1 , **LAKE** 1 , **WATER** 1 , 
- 
-## What this user tweeted
- 
-RT @kms_d4k: I’m not very active on Twitter right now.
-
-As I said before OPSEC is very important now. 
-
-Thanks, everyone for supporting Ukr…
- 
-# Jess28211USER INFO
-![image](http://pbs.twimg.com/profile_images/1637563948076609544/7ZUevGNh_normal.jpg)
- 
-`User ScreenName:` Jess28211 
- 
-`User chosen Name:` Jessica 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 19 07:58:59 +0000 2023 
- 
-`User Description?:` happy Sunday you all 💗💖💗💖 #igbo in Lagos #Governor-Elect #lagos #canada #uk 
- 
-`Followers?: `92 
- 
-`Following?:` 81 
+`Following?:` 43 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 29 
+`Number of tweets extracted`  : 81 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637563948076609544/7ZUevGNh_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1637118263556550656/HN-5BOFy_normal.jpg 
  
-`Number of tweets excluding replies:` 29 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@GRDECTER:** 5 , **COMMERCIAL** 4 , **@JESS28211:** 4 , **SURVIVOR** 4 , **EVERYONE** 3 , **EARTHQUAKE** 3 , **BORISJOHNSON** 3 , **RT** 2 , **@_TREND__:** 2 , **PERSON** 2 , **WEY** 2 , **DEY** 2 , **REAL** 2 , **ESTATE** 2 , **LOSSES** 2 , **LOANS** 2 , **BILLION** 2 , **ITS** 2 , **RONALDO** 2 , **VERY** 2 , 
- 
-## What this user tweeted
- 
-RT @Jess28211: Cristiano Ronaldo is very Easy for me to Draw 💯
-.
-.
-GOAT #Ronaldo𓃵 #Tommy #Survivor #Tuchel #مبارك_عليكم_الشهر #Ukraine Lori…
- 
-# ChandAli1465363USER INFO
-![image](http://pbs.twimg.com/profile_images/1635525750668312577/x6u-vx7I_normal.jpg)
- 
-`User ScreenName:` ChandAli1465363 
- 
-`User chosen Name:` Chand Ali 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 14 06:09:09 +0000 2023 
- 
-`User Description?:` TLP Supporter always,
-Future Pharmacist,
-
-Cricket lover,
-Qalandar's blood, 
- 
-`Followers?: `22 
- 
-`Following?:` 79 
- 
-`User URL?:` None 
- 
-`Location:` Pakistan 
- 
-`Number of tweets extracted`  : 55 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1635525750668312577/x6u-vx7I_normal.jpg 
- 
-`Number of tweets excluding replies:` 55 
+`Number of tweets excluding replies:` 81 
  
 
  
@@ -364,39 +362,38 @@ Qalandar's blood,
  
 ## User Top tweeted words 
  
-**BABARAZAM𓃵** 7 , **นิกกี้ก้อย** 6 , **EARTHQUAKE** 5 , **PSL08** 5 , **PAKISTAN** 5 , **BOLU** 5 , **กราดยิง** 5 , **BHAI** 4 , **SHAHEENSHAHAFRIDI** 4 , **RIZWAN** 4 , **TLP** 4 , **بھی** 4 , **PCB** 3 , **HAY** 3 , **KA** 3 , **BHI** 3 , **WBC準々決勝** 3 , **SHADOWANDBONE** 3 , **KI** 3 , **MATCH** 3 , 
+**@KARILAKE:** 17 , **TRUMP** 16 , **@DC_DRAINO:** 12 , **PRESIDENT** 10 , **BIDEN** 7 , **BREAKING:** 6 , **US** 6 , **@BERNARDKERIK:** 6 , **PEOPLE** 5 , **@SARACARTERDC:** 5 , **COURT** 5 , **HOUSE** 5 , **NEVER** 5 , **@LARALOGAN:** 5 , **ELECTION** 4 , **@STEPHENM:** 4 , **ALVIN** 4 , **BRAGG** 4 , **DONALD** 4 , **POLITICAL** 4 , 
  
 ## What this user tweeted
  
-The Hundred will be watchable🥰 this time .New pace sensation💥 Ihsanullah goes to Oval invincibles
-#TheHundredDraft… https://t.co/HlodGPugCZ
+RT @GOPoversight: .@RepNancyMace discusses the implementation of the White House’s national cybersecurity strategy. https://t.co/CwvK2vC3vm
  
-# vsk1017USER INFO
-![image](http://pbs.twimg.com/profile_images/1636954734157344774/iKhPi1sU_normal.png)
+# AAniedu10240USER INFO
+![image](http://pbs.twimg.com/profile_images/1638985306853765122/1plGm90X_normal.jpg)
  
-`User ScreenName:` vsk1017 
+`User ScreenName:` AAniedu10240 
  
-`User chosen Name:` saikrishna vemula 
+`User chosen Name:` Allround Aniedu 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 18 04:56:36 +0000 2023 
+`User signup date?:` Thu Mar 23 19:25:22 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `3 
+`Followers?: `0 
  
-`Following?:` 108 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 90 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636954734157344774/iKhPi1sU_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1638985306853765122/1plGm90X_normal.jpg 
  
-`Number of tweets excluding replies:` 92 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -404,11 +401,89 @@ The Hundred will be watchable🥰 this time .New pace sensation💥 Ihsanullah g
  
 ## User Top tweeted words 
  
-**INDIA** 7 , **ISLAMIC** 5 , **HINDU** 5 , **PUNJAB** 5 , **MAA** 5 , **AGAINST** 5 , **@DRLOUPIS:** 5 , **@TRUEINDOLOGY:** 5 , **UKRAINE** 4 , **KEEP** 4 , **WHERE** 4 , **NEWS** 4 , **POLICE** 4 , **HINDUS** 4 , **@VIVEKAGNIHOTRI:** 4 , **@TOTAL_WOKE_:** 4 , **@MEGHUPDATES:** 4 , **@KIMDOTCOM:** 3 , **@UNSUBTLEDESI:** 3 , **U** 3 , 
+**DIABOLIC** 1 , **TRAFFIC** 1 , **BOT** 1 , **FULL** 1 , **EDITION** 1 , **V80** 1 , **LIFETIME** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/GHP2CXYDGO** 1 , **INFOSEC…** 1 , **HTTPS://TCO/XUSJLXEFCE** 1 , 
  
 ## What this user tweeted
  
-RT @KimDotcom: UK will send depleted Uranium munitions to Ukraine. They cause cancer and birth defects. It’s like NATO dropping dirty bombs…
+Diabolic Traffic Bot Full Edition v8.0 Lifetime Activated – Discount 100% OFF https://t.co/gHP2CXydGO #infosec… https://t.co/xUSJLxeFCe
+ 
+# Adammahamm96416USER INFO
+![image](http://pbs.twimg.com/profile_images/1638973875844182055/_eCUlWv__normal.png)
+ 
+`User ScreenName:` Adammahamm96416 
+ 
+`User chosen Name:` adammahammd mahammd 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 23 18:39:57 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1638973875844182055/_eCUlWv__normal.png 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**كةىلاةن@HASH_SUDAN** 1 , **زمااتخمنختاHTTPS://TCO/A1JI2ZIWOERT** 1 , **@NEWSOFTWARESINC:** 1 , **NEED** 1 , **AES** 1 , **ENCRYPTION** 1 , **HASHTAGS** 1 , **DATAPROTECTION** 1 , **DATASECURITY** 1 , **INTERNET** 1 , **SECURITY** 1 , **TECHNOLO…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @newsoftwaresinc: All you need to know about AES #Encryption - #Hashtags #dataprotection #datasecurity #internet #IT #Security #Technolo…
+ 
+# anna_dorse42439USER INFO
+![image](http://pbs.twimg.com/profile_images/1638922769466372096/MiWdUL0F_normal.jpg)
+ 
+`User ScreenName:` anna_dorse42439 
+ 
+`User chosen Name:` Anna-Marie Dorsett 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 23 15:15:37 +0000 2023 
+ 
+`User Description?:` Passionate about OT, sport & musical theatre. Always take lessons and learn from the good & bad things life may throw at you. (All views are my own) 
+ 
+`Followers?: `6 
+ 
+`Following?:` 285 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1638922769466372096/MiWdUL0F_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THERAPY** 3 , **MATERNAL** 2 , **HEALTH** 2 , **BOOK** 2 , **ONLINE** 2 , **EXCITED** 2 , **RT** 1 , **@DR2NISREENALWAN:** 1 , **DARE** 1 , **SAY** 1 , **R** 1 , **WORD** 1 , **YOU’VE** 1 , **EXPERIENCED** 1 , **LONGCOVID?** 1 , **LAST** 1 , **3YRS** 1 , **TAUGHT** 1 , **US** 1 , **RECOVERY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @imocharity: An amazing time at our #Cybersecurity &amp; #Online Safety Workshop today with enthusiastic attendees. We explored essential to…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
