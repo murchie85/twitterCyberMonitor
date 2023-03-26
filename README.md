@@ -1,20 +1,24 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **WarClandestine**  
+The most popular user is: **iihtishamm**  
  
 
-## 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL 
+## Feel the difference 
+
+Imran Khan                         Maryam Nawaz
+
+ 1-export plans                  Tosha Khan… https://t.co/rQRy8mFj9v 
 
   
 
@@ -23,25 +27,25 @@ The most popular user is: **WarClandestine**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KatyaYushchenko: Putin planned a “total cleansing” of Ukraine with “house-to-house terror”leaked spy documents show. Chilling emails fr… |
-| RT @Bevin83994661: B. Choi: If you live in the Anglo-Saxon world controlled by US mouthpiece media, you might think the world supports Amer… |
-| If food be the language of love... 😄🇺🇲🫶🇺🇦Don't forget to order your copy of @1JessicaEliza's amazing #NAFO Fella… https://t.co/vzaQTKTKdg |
+| RT @SecurityTrybe: 20 FREE Cybersecurity Certifications to Add to Resume/CV |
+| RT @ptracesecurity: making malware #2 https://t.co/g4ju66mMGJ  #Pentesting #malware #CyberSecurity #Infosec https://t.co/ibqwXY3cR1 |
+| Is It Time to Start Worrying About #QuantumComputing Security?https://t.co/dqyhIQFxbg v/ @InformationWeek… https://t.co/mpOpTJAkn8 |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LABELMENSWEAR** |
-| #2 Most tweeted to  | **KatyaYushchenko** |
-| #3 Most tweeted to  | **KyivIndependent** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 6.12%|
-| Tweeters with > 1000000 followers  | 0.46%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **ptracesecurity** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 6.14%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -50,57 +54,225 @@ The most popular user is: **WarClandestine**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **RUSSIA**  |
-| third  | **WAR** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **PUTIN**  |
+| first  | **INFOSEC**  |
+| second  | **HACKING**  |
+| third  | **ACCOUNT** |
+| fourth  | **AI**  |
+| fifth  | **FREE**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @England: The #ThreeLions are back home today!🆚 Ukraine🏆 #EURO2024 qualifier🏟 @wembleystadium ⌚️ 5pm📺 @Channel4 https://t.co/XC7iU… |
+|RT @caseyjakemorris: #blacktechtwitter I need volunteers to provide feedback on a cybersecurity practice test I built. Almost 400 questions… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WarClandestine**  |
+| The most retweeted user is: **iihtishamm**  |
 | ------------- |
-| 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL |
+| Feel the difference Imran Khan                         Maryam Nawaz 1-export plans                  Tosha Khan… https://t.co/rQRy8mFj9v |
 
 # Potential Fake Accounts
  
-# HarmonMasi18200USER INFO
-![image](http://pbs.twimg.com/profile_images/1636736240920797184/Ogl6NPgk_normal.png)
+# r3ds4ndr4USER INFO
+![image](http://pbs.twimg.com/profile_images/1636315390178385921/TPpTrRUr_normal.png)
  
-`User ScreenName:` HarmonMasi18200 
+`User ScreenName:` r3ds4ndr4 
  
-`User chosen Name:` Masie Harmon 
+`User chosen Name:` Sandra Schwartz 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 17 14:28:23 +0000 2023 
+`User signup date?:` Thu Mar 16 10:36:04 +0000 2023 
  
 `User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 74 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 116 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1636315390178385921/TPpTrRUr_normal.png 
+ 
+`Number of tweets excluding replies:` 116 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**:** 16 , **@HACK_GIT:** 14 , **NEW** 14 , **REDTEAM** 12 , **INFOSEC** 12 , **USING** 11 , **CODE** 10 , **@0XOR0NE:** 9 , **WINDOWS** 9 , **@CYBERWARSHIP:** 9 , **BLOG** 9 , **TOOL** 8 , **PENTEST** 8 , **PART** 8 , **PROCESS** 7 , **KERNEL** 7 , **LINUX** 7 , **@DAEM0NC0RE:** 6 , **SOME** 6 , **SYSCALLS** 6 , 
+ 
+## What this user tweeted
+ 
+RT @0xor0ne: Writeup by Chris Leech on Xiongmai DVRs devices exploitation (buffer overflow)
+
+https://t.co/uEgZcu62FZ 
+
+#iot #embedded #info…
+ 
+# elite_Writers_USER INFO
+![image](http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg)
+ 
+`User ScreenName:` elite_Writers_ 
+ 
+`User chosen Name:` ASSIGNMENT HELP 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 20 07:03:19 +0000 2023 
+ 
+`User Description?:` A Team of Experienced Writers Proficient in Online Classes||Essays||Quizzes||Projects||Reports||Math||Calculus||Thesis||Research||
+Shoot us a DM for more info:) 
+ 
+`Followers?: `19 
+ 
+`Following?:` 42 
+ 
+`User URL?:` https://t.co/XkpxvUuTiS 
+ 
+`Location:` New Jersey, USA 
+ 
+`Number of tweets extracted`  : 188 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 188 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ELITE_WRITERS_:** 86 , **PAY** 78 , **CHEMISTRY** 72 , **RESEARCH** 72 , **CALCULUS** 68 , **ESSAYS** 64 , **PHYSICS** 61 , **EXAMS** 61 , **ASSIGNMENT** 57 , **US** 56 , **ONLINECLASS** 55 , **THESIS** 55 , **BIOLOGY** 52 , **FINANCE** 51 , **QUALITY** 46 , **HOMEWORK** 46 , **ACCOUNTING** 44 , **LAW** 40 , **PAPER** 38 , **NEED** 32 , 
+ 
+## What this user tweeted
+ 
+For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/LNXh9t56XmRT @elite_Writers_: For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Econom…For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/v4K5rGRSzxRT @elite_Writers_: For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Econom…RT @elite_Writers_: For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Econom…For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/Hx0OUTuzF4For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/Vw3zHC6iyzRT @elite_Writers_: For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Econom…For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/kzX69qXhlo
+ 
+# Yanox8489092641USER INFO
+![image](http://pbs.twimg.com/profile_images/1637742548264554503/tEz4TJdc_normal.jpg)
+ 
+`User ScreenName:` Yanox8489092641 
+ 
+`User chosen Name:` Yanox 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 20 08:08:08 +0000 2023 
+ 
+`User Description?:` 日録 
  
 `Followers?: `2 
  
-`Following?:` 20 
+`Following?:` 5 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Japan 
  
-`Number of tweets extracted`  : 118 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636736240920797184/Ogl6NPgk_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1637742548264554503/tEz4TJdc_normal.jpg 
  
-`Number of tweets excluding replies:` 119 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -108,38 +280,81 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJ
  
 ## User Top tweeted words 
  
-**@JOMILLEWEB** 16 , **TOTPRT** 16 , **@ROYALFAMILY** 12 , **@FT** 9 , **@CANELLELABELLE** 9 , **TOTP** 9 , **MOONLIGHTING** 7 , **DIDN'T** 6 , **CHILDREN** 6 , **@SKYNEWS** 5 , **@MALE_MUWANGA** 5 , **WET** 5 , **KATE** 4 , **SHOW** 4 , **@ALEXAND10981787** 4 , **HE'S** 4 , **ANY** 4 , **@ALICEBMAY2** 4 , **PRINCESS** 4 , **THAT'S** 4 , 
+**@GEORGEZUMBO** 1 , **AMAZINGRT** 1 , **@SHUBHAM_PEN:** 1 , **PROGRAMMING** 1 , **LANGUAGES** 1 , **USES** 1 , **CYBERSECURITY** 1 , **PENTESTING** 1 , **INFORMATIONSECURITY** 1 , **HACKING** 1 , **DATASECURITY** 1 , **CYBERSEC** 1 , **BUGB…@SLOW_DEVELOPER** 1 , **GREAT** 1 , **LIST** 1 , **I'M** 1 , **THINKING** 1 , **LEARNING** 1 , **SQL** 1 , **AGAINAWESOME** 1 , 
  
 ## What this user tweeted
  
-RT @Musichayla: @SkyNews Stop arming Ukraine, peace talks or a ceasefireRT @Kphilly00: @Bessy645 @Ibs20041976 @AmandaT97954465 @SkyNews russia and ukraine have never had seperate histories. To risk ww3 over ukra…RT @AmandaT97954465: @SkyNews UK needs to step back and let Ukraine deal with it! It’s ok for the privileged they will be swept away to bun…
+RT @Shubham_pen: Programming Languages &amp; Their Uses
+
+#cybersecurity #pentesting #informationsecurity #hacking #DataSecurity #CyberSec #bugb…
  
-# Khuluma26748616USER INFO
-![image](http://pbs.twimg.com/profile_images/1636350724618563590/sSXZ4PYd_normal.png)
+# uncleprado81USER INFO
+![image](http://pbs.twimg.com/profile_images/1637184274850873346/fNW9zCyW_normal.jpg)
  
-`User ScreenName:` Khuluma26748616 
+`User ScreenName:` uncleprado81 
  
-`User chosen Name:` Khulumani 
+`User chosen Name:` Oracle 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 16 12:56:29 +0000 2023 
+`User signup date?:` Thu Mar 16 16:39:00 +0000 2023 
+ 
+`User Description?:` I see through your imaginations,I'm ur clear inspiration,I'm justing passing,maybe ur don't need my motivation. 
+ 
+`Followers?: `75 
+ 
+`Following?:` 665 
+ 
+`User URL?:` None 
+ 
+`Location:` 西区, 新加坡 
+ 
+`Number of tweets extracted`  : 113 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1637184274850873346/fNW9zCyW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 115 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LEARN** 16 , **DATA** 15 , **1** 10 , **THESE** 8 , **TIME** 8 , **PYTHON** 7 , **HTML** 6 , **2** 6 , **FREE** 5 , **TECH** 5 , **GO** 5 , **WEBSITES** 5 , **TOOLS** 5 , **10** 5 , **DEM** 5 , **SQL** 5 , **✅** 5 , **YOUTUBE** 4 , **PART** 4 , **❯** 4 , 
+ 
+## What this user tweeted
+ 
+RT @SecurityTrybe: 12 YouTube Channels to Learn Cybersecurity for FREE
+
+#cybersecurity #infosec #education #Awareness #tech #community #Hac…
+ 
+# IshikaGoyal0402USER INFO
+![image](http://pbs.twimg.com/profile_images/1639328790097670147/RrnRtNDS_normal.png)
+ 
+`User ScreenName:` IshikaGoyal0402 
+ 
+`User chosen Name:` Ishika Goyal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 24 18:10:15 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `2 
+`Followers?: `1 
  
-`Following?:` 12 
+`Following?:` 6 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 69 
+`Number of tweets extracted`  : 161 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636350724618563590/sSXZ4PYd_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1639328790097670147/RrnRtNDS_normal.png 
  
-`Number of tweets excluding replies:` 69 
+`Number of tweets excluding replies:` 161 
  
 
  
@@ -147,38 +362,41 @@ RT @Musichayla: @SkyNews Stop arming Ukraine, peace talks or a ceasefireRT @Kphi
  
 ## User Top tweeted words 
  
-**@NEWZROOM405:** 12 , **ARREST** 8 , **WARRANT** 7 , **@IOL:** 6 , **PUTIN** 6 , **PRESIDENT** 5 , **@MORNINGLIVESABC:** 5 , **@SUNDAYTIMESZA:** 4 , **ICC** 4 , **@JOBURGMPD:** 4 , **US** 4 , **AHEAD** 3 , **AFTER** 3 , **BRICS** 3 , **SUMMIT** 3 , **LOAD** 3 , **@SABC_2** 3 , **SABCNEWS** 3 , **OFFICERS** 3 , **COURT** 3 , 
+**AZURE** 154 , **@OMIOSSEC_MED:** 24 , **@OMIOSSEC_MED** 24 , **CLOUD** 20 , **LEARN** 18 , **MICROSOFT** 18 , **DEVOPS** 17 , **USING** 16 , **BICEP** 13 , **LOOKING** 12 , **RT** 11 , **POWERSHELL** 11 , **IAC** 10 , **@DAVILLAMIZARA:** 9 , **UNITED** 9 , **SERVICE** 9 , **OPENAI** 8 , **ENGINEER** 8 , **@INKSTALL:** 8 , **CHECK** 8 , 
  
 ## What this user tweeted
  
-RT @SABCNews: #Russia will station tactical nuclear weapons in Belarus, President #VladimirPutin said on Saturday, sending a warning to NAT…
+RT @sukumarraju: How to Tune Your Azure WAF https://t.co/4BppRUqgIH via @YouTube 
+
+#cloudsecurity #cybersecurity #azure #msftsecurity #clou…
  
-# Richard74252725USER INFO
-![image](http://pbs.twimg.com/profile_images/1638109838403158016/UYLjoVu3_normal.jpg)
+# umairwarriach07USER INFO
+![image](http://pbs.twimg.com/profile_images/1638654571269566465/6skcD2EJ_normal.jpg)
  
-`User ScreenName:` Richard74252725 
+`User ScreenName:` umairwarriach07 
  
-`User chosen Name:` Richard jones 
+`User chosen Name:` Umair Sajid 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 21 09:25:51 +0000 2023 
+`User signup date?:` Wed Mar 22 21:20:53 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Cybersecurity Analyst
+Data Analyst 
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 16 
+`Following?:` 111 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1638109838403158016/UYLjoVu3_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1638654571269566465/6skcD2EJ_normal.jpg 
  
-`Number of tweets excluding replies:` 500 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -186,38 +404,40 @@ RT @SABCNews: #Russia will station tactical nuclear weapons in Belarus, Presiden
  
 ## User Top tweeted words 
  
-**@CB_DOGE:** 155 , **@ELONMUSK** 136 , **ELON** 53 , **MUSK** 48 , **TWITTER** 42 , **🤣** 28 , **@MATTWALLACE888:** 26 , **DOGECOIN** 15 , **MOST** 13 , **THAN** 9 , **@MYDOGEOFFICIAL:** 9 , **🔥** 8 , **TESLA** 7 , **MEDIA** 7 , **MONEY** 6 , **MAN** 6 , **💯** 6 , **NEVER** 6 , **PEOPLE** 6 , **INTERNET** 6 , 
+**READ** 2 , **CHAPTER** 2 , **MYSELF** 2 , **SAW** 2 , **PAGE** 2 , **ALWAYS** 1 , **MEANT** 1 , **OH** 1 , **YOUI** 1 , **BELIEVED** 1 , **INSIGNIFICANT** 1 , **UNTIL** 1 , **HELD** 1 , **CLOSE** 1 , **CHEST** 1 , **DRANK** 1 , **HERBAL** 1 , **TEA** 1 , **SMILED** 1 , **F…** 1 , 
  
 ## What this user tweeted
  
-RT @MattWallace888: BREAKING: NATO about to send depleted Uranium munitions (essentially chemical weapons) to Ukraine! Putin says it’s the…RT @MattWallace888: What is going on in Ukraine? https://t.co/lI39Dn5f9O
+Excited to share my latest project - developing a NIDS to detect and prevent network intrusions. It's been a challe… https://t.co/JEzxcmn3pj
  
-# generalkuster7USER INFO
-![image](http://pbs.twimg.com/profile_images/1638356731473395715/0L1gZ6OR_normal.jpg)
+# Techindianews1USER INFO
+![image](http://pbs.twimg.com/profile_images/1639141475563851777/i9e0iRIF_normal.jpg)
  
-`User ScreenName:` generalkuster7 
+`User ScreenName:` Techindianews1 
  
-`User chosen Name:` General Kuster 
+`User chosen Name:` Tech India News 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Mar 22 01:47:14 +0000 2023 
+`User signup date?:` Wed Mar 22 17:36:59 +0000 2023 
  
-`User Description?:` I enjoy crafting memes! while I do admire and repost memes, I do my best to craft originals 😎👍 
+`User Description?:` Our technology review website is dedicated to providing in-depth coverage of the latest trends, innovations, and controversies in the world of technology
+
+#tech 
  
-`Followers?: `5 
+`Followers?: `1 
  
-`Following?:` 30 
+`Following?:` 7 
  
-`User URL?:` None 
+`User URL?:` https://t.co/8BdWSQsG05 
  
-`Location:`  
+`Location:` 404 
  
-`Number of tweets extracted`  : 128 
+`Number of tweets extracted`  : 15 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1638356731473395715/0L1gZ6OR_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1639141475563851777/i9e0iRIF_normal.jpg 
  
-`Number of tweets excluding replies:` 128 
+`Number of tweets excluding replies:` 15 
  
 
  
@@ -225,50 +445,11 @@ RT @MattWallace888: BREAKING: NATO about to send depleted Uranium munitions (ess
  
 ## User Top tweeted words 
  
-**TRUMP** 10 , **GO** 9 , **RUMBLETAKEOVER** 8 , **DESANTIS** 8 , **STOP** 6 , **INTO** 6 , **NEW** 5 , **😂** 5 , **WITCH** 5 , **GOODBYEYOUTUBE** 5 , **LETSRUMBLE** 5 , **RUMBLELIFE** 5 , **TRUMPARREST** 5 , **🤡** 4 , **VOTE** 4 , **THAN** 4 , **WIERDO** 4 , **NEWS** 4 , **@SCROWDER** 4 , **DON’T** 4 , 
+**INDIA** 3 , **2023** 3 , **?** 3 , **COMPREHENSIVE** 2 , **ACCUSES** 2 , **JACK** 2 , **DORSEY’S** 2 , **BLOCK** 2 , **INC** 2 , **MISLEADING** 2 , **INVESTORS** 2 , **GAMING** 2 , **CRYPTOCURRENCY** 2 , **PROTECTING** 1 , **BUSINESS** 1 , **CYBER** 1 , **THREATS:** 1 , **GUIDE** 1 , **CYBERSECURITY** 1 , **DATA** 1 , 
  
 ## What this user tweeted
  
-@Winning4Him This is another bologna war. Ukraine can go stuff itself.
- 
-# Patark23USER INFO
-![image](http://pbs.twimg.com/profile_images/1638970172961869824/aP0PzSh7_normal.jpg)
- 
-`User ScreenName:` Patark23 
- 
-`User chosen Name:` Patrick 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 23 15:49:50 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 28 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 137 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638970172961869824/aP0PzSh7_normal.jpg 
- 
-`Number of tweets excluding replies:` 137 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ITS_MARIA012:** 34 , **RUSSIA** 12 , **US** 11 , **AMERICA** 10 , **CHINA** 9 , **PRESIDENT** 9 , **BIDEN** 9 , **UKRAINE** 8 , **PUTIN** 8 , **@ITS_MARIA012** 6 , **NATO** 6 , **EU** 6 , **XI** 6 , **@KIMDOTCOM:** 6 , **TIME** 5 , **ZELENSKY** 5 , **WORLD** 5 , **AMERICAN** 5 , **JINPING** 5 , **@PAPITRUMPO:** 4 , 
- 
-## What this user tweeted
- 
-RT @Patark23: @mentalist51 @its_maria012 According to former German Chancellor Angela Merkel, the Minsk agreement served to buy time to rea…@mentalist51 @its_maria012 According to former German Chancellor Angela Merkel, the Minsk agreement served to buy t… https://t.co/cWhHLUCrZx
+Protecting Your Business from Cyber Threats: A Comprehensive Guide to Cybersecurity and Data Privacy https://t.co/QnFslJmwqF
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
