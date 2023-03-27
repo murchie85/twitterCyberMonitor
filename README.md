@@ -1,20 +1,24 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **Coredao_Org**  
+The most popular user is: **peterframpton**  
  
 
-## #CoreDAO is pleased to announce our partnership with the industry leading cybersecurity firm @HalbornSecurity  for… https://t.co/F4XhjIWjDu 
+## I have posted this before but ..
+
+26 years ago, a gunman entered
+Dunblane Primary School in Scotland,
+killing 16 ki… https://t.co/jEBdMkHlnP 
 
   
 
@@ -23,25 +27,25 @@ The most popular user is: **Coredao_Org**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @channel969: BSNL to Install Daily 300 4G, 5G Towers From Sept: Report #SEO #Google #Apple  #IOS #cybersecurity #Robotics #AI https://… |
-| Heard about Zero Trust but not sure where or how to start? Get an understanding and insight on where to start your… https://t.co/76AZFWd7t0 |
-| Wow! Thank you @mercyfrank Cybersecurity threats and the aviation sector https://t.co/aIALskB4e0 via @YouTube |
+| RT @hackinarticles: Computer Networking Notes#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #CyberS… |
+| RT @HalcyonAi: .@DoleSunshine Confirms Employee Data Compromised in Ransomware AttackMore than just #ransomware attacks - these are mass… |
+| Linux Path Cheat Sheet#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp  #informationsecurity  #cissp… https://t.co/2jQTdU0Q1s |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecurityTrybe** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **Sheraj99** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 6.46%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **SecurityTrybe** |
+| #3 Most tweeted to  | **Ox4d5a** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 6.06%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,57 +55,95 @@ The most popular user is: **Coredao_Org**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **AI**  |
-| third  | **HACKING** |
-| fourth  | **PHISHING**  |
-| fifth  | **DATA**  |
+| second  | **PENTESTING**  |
+| third  | **PHISHING** |
+| fourth  | **CYBERSECURITYTIPS**  |
+| fifth  | **@HACKINARTICLES:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @danielmakelley: 9 websites to look for remote cybersecurity jobs:1. 𝐇𝐢𝐫𝐞𝐝 (https://t.co/rCMpMoMpn0)2. 𝐅𝐥𝐞𝐱 𝐉𝐨𝐛𝐬 (https://t.co/bmO9rh… |
+|RT @ptracesecurity: Container security fundamentals part 2: Isolation &amp; namespaces https://t.co/1futobS1P6  #Pentesting #CyberSecurity #Inf… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Coredao_Org**  |
+| The most retweeted user is: **peterframpton**  |
 | ------------- |
-| #CoreDAO is pleased to announce our partnership with the industry leading cybersecurity firm @HalbornSecurity  for… https://t.co/F4XhjIWjDu |
+| I have posted this before but ..26 years ago, a gunman enteredDunblane Primary School in Scotland,killing 16 ki… https://t.co/jEBdMkHlnP |
 
 # Potential Fake Accounts
  
-# elite_Writers_USER INFO
-![image](http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg)
+# PylPrinceUSER INFO
+![image](http://pbs.twimg.com/profile_images/1638525363516055552/wnHIkXrK_normal.jpg)
  
-`User ScreenName:` elite_Writers_ 
+`User ScreenName:` PylPrince 
  
-`User chosen Name:` ASSIGNMENT HELP 
+`User chosen Name:` PrinceYL 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 20 07:03:19 +0000 2023 
+`User signup date?:` Wed Mar 22 12:04:05 +0000 2023 
  
-`User Description?:` A Team of Experienced Writers Proficient in Online Classes||Essays||Quizzes||Projects||Reports||Math||Calculus||Thesis||Research||
-Shoot us a DM for more info:) 
+`User Description?:` Android & iOS App Developer | I Build & Design Quality Websites, Scalable & Efficient Web3 Apps | Tech Savvy; Wallet Apps; (data, apps, blockchain) 
  
-`Followers?: `25 
+`Followers?: `11 
  
-`Following?:` 42 
+`Following?:` 55 
  
-`User URL?:` https://t.co/XkpxvUuTiS 
+`User URL?:` https://t.co/jGXZfpDTXp 
  
-`Location:` New Jersey, USA 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1638525363516055552/wnHIkXrK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 6 , **FULL** 4 , **ACTIVATED** 4 , **DISCOUNT** 4 , **100%** 4 , **OFF** 3 , **INFOSEC…** 3 , **PRO** 2 , **MARKETING** 2 , **EMAIL** 1 , **EXTRACTOR** 1 , **PROFESSIONAL** 1 , **EDITION** 1 , **V7332** 1 , **HTTPS://TCO/CIHIKFC0ES** 1 , **HTTPS://TCO/VEVRL24CPMTUBERANK** 1 , **JEET** 1 , **4** 1 , **V46** 1 , **YOUTUBE** 1 , 
+ 
+## What this user tweeted
+ 
+Email Extractor Professional Edition v7.3.3.2 Full Activated – Discount 100% OFF https://t.co/CIhikFc0es #infosec… https://t.co/VEVRL24cPMTubeRank Jeet 4 Pro v4.6 Full Activated – Youtube Marketing – Discount 100% OFF https://t.co/Uz490vKqDw #infosec… https://t.co/PnrBjDJVuxPlagiarism Checker X Enterprise v8.0.10 Full Activated – Discount 100% OFF https://t.co/TB7crXlOci #infosec… https://t.co/RtHXQdGr55TeleGram Auto Pro 2023 v4.0.0.1 Full Activated – Social Media Marketing Tool – Discount 100% OFF… https://t.co/bpPwFqb5an
+ 
+# IshikaGoyal0402USER INFO
+![image](http://pbs.twimg.com/profile_images/1639328790097670147/RrnRtNDS_normal.png)
+ 
+`User ScreenName:` IshikaGoyal0402 
+ 
+`User chosen Name:` Ishika Goyal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 24 18:10:15 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `6 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1639328790097670147/RrnRtNDS_normal.png 
  
-`Number of tweets excluding replies:` 260 
+`Number of tweets excluding replies:` 326 
  
 
  
@@ -109,94 +151,47 @@ Shoot us a DM for more info:)
  
 ## User Top tweeted words 
  
-**@ELITE_WRITERS_:** 95 , **PAY** 85 , **RESEARCH** 73 , **CALCULUS** 71 , **CHEMISTRY** 70 , **ONLINECLASS** 65 , **EXAMS** 64 , **FINANCE** 63 , **ESSAYS** 62 , **PHYSICS** 60 , **ASSIGNMENT** 57 , **HOMEWORK** 57 , **US** 56 , **THESIS** 51 , **BIOLOGY** 49 , **QUALITY** 45 , **PAPER** 43 , **ACCOUNTING** 41 , **LAW** 36 , **ASSIGNMENTS** 35 , 
+**AZURE** 195 , **@OMIOSSEC_MED:** 33 , **@OMIOSSEC_MED** 33 , **MICROSOFT** 25 , **CLOUD** 23 , **USING** 22 , **DEVOPS** 20 , **LEARN** 18 , **LOOKING** 18 , **BICEP** 17 , **POWERSHELL** 17 , **AWS** 13 , **@DAVILLAMIZARA:** 13 , **UNITED** 12 , **IAC** 10 , **AZURE…RT** 10 , **STATES** 10 , **(** 10 , **PYTHON** 9 , **ENGINEER** 9 , 
  
 ## What this user tweeted
  
-For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/iYNIYc0F7yFor quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/Bpwzz9qLyHRT @elite_Writers_: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econom…For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/CVybScq6gHRT @elite_Writers_: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econom…For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/DwogTxhsO3
+RT @omiossec_med: How to list Azure VM potentially affected by the OMI RCE from @omiossec_med #azure #infosec #security #omi  https://t.co/…RT @datachick: CLOUD SKILLS CHALLENGE
+
+DataChick's Secure Your Azure SQL Data 
+#database #SQLServer #azure #SQL #InfoSec #Security 
+
+Micros…RT @lilkiiwikrush:  Report Troll @MetaSikhs77 
+#100DaysOfCode #CyberSecurity
+#Python #IoT #IIoT #PyTorch 
+#JavaScript #ReactJS #WordPress…
  
-# SmartervproUSER INFO
-![image](http://pbs.twimg.com/profile_images/1636880763697209348/Lu_O4AKJ_normal.jpg)
+# coffees420frUSER INFO
+![image](http://pbs.twimg.com/profile_images/1640326493589864450/2vamv3I9_normal.png)
  
-`User ScreenName:` Smartervpro 
+`User ScreenName:` coffees420fr 
  
-`User chosen Name:` Smartervpro 
+`User chosen Name:` livraison gratuite 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 17 23:57:34 +0000 2023 
+`User signup date?:` Mon Mar 27 12:14:46 +0000 2023 
  
-`User Description?:` Powering Internet freedom through domains, hosting, security, and more — everything you need to make more online, for less 
+`User Description?:` 🇲🇫 spécialisé dans les envoie et produits de hautes qualité via 🇲🇫
+Telegram:Uber420 
  
-`Followers?: `2 
+`Followers?: `0 
  
-`Following?:` 4 
+`Following?:` 1 
  
-`User URL?:` https://t.co/VP5FU2nf0N 
+`User URL?:` https://t.co/tH9vGoDPky 
  
-`Location:` London, England 
+`Location:` france 
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 20 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636880763697209348/Lu_O4AKJ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1640326493589864450/2vamv3I9_normal.png 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 20 
  
 
  
@@ -204,11 +199,249 @@ Finance… https://t.co/DwogTxhsO3
  
 ## User Top tweeted words 
  
-**WEBSITE** 4 , **NAME** 4 , **SITELOCK** 2 , **CYBER** 2 , **MALWARE** 2 , **REGISTRATION** 2 , **PROCESS** 2 , **RESERVING** 2 , **UNIQUE** 2 , **INTERNET** 2 , **DOMAIN** 2 , **THE…** 2 , **OFFERS** 1 , **COMPREHENSIVE** 1 , **PROTECTION** 1 , **THREATS** 1 , **FIND** 1 , **FIX** 1 , **FILL** 1 , **GAPS** 1 , 
+**@FRANCELEGAL420:** 18 , **PSG** 10 , **100DAYSOFCODE** 9 , **DATASECURITY** 7 , **PRIVACY** 7 , **CLOUDSECURITY** 6 , **MACHINELEARNING** 6 , **PHISHING** 6 , **RANSOMWARE** 6 , **SNAP👻:BEDO420FR_CE** 4 , **LYON** 3 , **EN** 3 , **ALLEZPARIS** 3 , **CYBERSECU…RT** 3 , **CYBERSE…RT** 3 , **GOOGLE** 2 , **CONCERTS** 2 , **ANIMATION** 2 , **DE** 2 , **LIVRAISON** 2 , 
  
 ## What this user tweeted
  
-SiteLock offers comprehensive protection for your website from cyber threats. Find and fix malware, and fill gaps t… https://t.co/dKkHA3VcCSAs a small business owner, it's important to protect your website from cyber attacks. SiteLock Malware Automated Re… https://t.co/0u9LCmCgcr
+RT @francelegal420: #OMPSG #OM #PSG #TeamOM #TeamPSG #Paris #Marseille #Ligue1
+#indiedev #gamedev #screenshotsaturday #indiegame #Roblox #R…RT @francelegal420: Snap👻:bedo420fr_ce
+#DataSecurity #Privacy
+#100DaysOfCode #CloudSecurity
+#MachineLearning #Phishing #Ransomware #Cyberse…RT @francelegal420: Snap👻:bedo420fr_ce
+#DataSecurity #Privacy
+#100DaysOfCode #CloudSecurity
+#MachineLearning #Phishing #Ransomware #Cyberse…RT @francelegal420: Snap👻:bedo420fr_ce
+#DataSecurity #Privacy
+#100DaysOfCode #CloudSecurity
+#MachineLearning #Phishing #Ransomware #Cyberse…Telegr:Uber420
+Snap:bedo420fr_ce
+Juste en cash main propre
+#DataSecurity #Privacy
+#100DaysOfCode #CloudSecurity… https://t.co/M1DFlDP9Gz
+ 
+# breachfactorUSER INFO
+![image](http://pbs.twimg.com/profile_images/1637816232664596484/UB9JXJfX_normal.jpg)
+ 
+`User ScreenName:` breachfactor 
+ 
+`User chosen Name:` Breach Factor 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 20 13:57:19 +0000 2023 
+ 
+`User Description?:` Breach Factor, LLC is a cyber security firm that offers a variety of services to assess, build, and improve your organization's security program. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/LYFmAlbW7H 
+ 
+`Location:` Harrisburg, PA 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1637816232664596484/UB9JXJfX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CURIOUS** 1 , **ETHICAL** 1 , **HACKERS** 1 , **IDENTIFY** 1 , **PROTECTIVE** 1 , **MEASURES** 1 , **USED** 1 , **WEB** 1 , **APPS?** 1 , **SECURITY** 1 , **ARCHITECT** 1 , **AUSTIN…** 1 , **HTTPS://TCO/CHVHUEACB3** 1 , 
+ 
+## What this user tweeted
+ 
+Curious about how ethical hackers identify protective measures used by your web apps? Our Security Architect Austin… https://t.co/chVhUEacB3
+ 
+# chatabc_aiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1638875607739006978/AQ5Q5H3c_normal.jpg)
+ 
+`User ScreenName:` chatabc_ai 
+ 
+`User chosen Name:` ChatABC AI 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 23 11:24:26 +0000 2023 
+ 
+`User Description?:` ChatABC is better ChatGPT with features like team collaboration, prompt library, never-down service and so much more. 
+ 
+`Followers?: `8 
+ 
+`Following?:` 3 
+ 
+`User URL?:` https://t.co/BcVZ3vEMhj 
+ 
+`Location:` Your own ChatGPT 👉 
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1638875607739006978/AQ5Q5H3c_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@IAMMOIZFAROOQ:** 8 , **CHATGPT** 6 , **✅** 6 , **PROMPT** 5 , **CREATE** 4 , **TEAM** 3 , **LIBRARY** 3 , **CHATABC** 2 , **FEATURES** 2 , **COLLABORATION** 2 , **BETTER** 2 , **OUTPUT** 2 , **LANGUAGE** 2 , **TONE** 2 , **WRITING** 2 , **STYLE** 2 , **FORMAT** 2 , **FOLDERS** 2 , **TRY** 2 , **HTTPS://TCO/4GYTRHG4PC** 2 , 
+ 
+## What this user tweeted
+ 
+RT @7h3h4ckv157: A Better ChatGPT for
+You &amp; Your Team 📢
+
+ChatABC is better ChatGPT with features like:
+
+- Team collaboration ✅
+- Prompt lib…
+ 
+# AyoubBensi3654USER INFO
+![image](http://pbs.twimg.com/profile_images/1638340522426105856/0LQmPuIF_normal.png)
+ 
+`User ScreenName:` AyoubBensi3654 
+ 
+`User chosen Name:` ayoub bensiyd 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 22 00:43:13 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 54 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1638340522426105856/0LQmPuIF_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OFFENSIVE** 2 , **AI** 2 , **SEARCH** 2 , **@BUGHUNTAR:** 2 , **SQL** 2 , **INJECTION** 2 , **BUGBOUNTYTIPS** 2 , **XSS** 2 , **BUGBOUNTY** 2 , **RT** 1 , **@HACK_GIT:** 1 , **COMPILATION** 1 , **CURATED** 1 , **LIST** 1 , **USEFUL** 1 , **RESOURCES** 1 , **COVER** 1 , **HTTPS://TCO/FGQAGUNOGN** 1 , **CYBERSECURIT…RT** 1 , **@PWN2ARN:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hack_git: Offensive AI Compilation
+
+A curated list of useful resources that cover Offensive AI.
+
+https://t.co/FGQAgUnOGN
+
+#cybersecurit…
+ 
+# RustHatDotMeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1640276514355793921/ghyWDjNS_normal.jpg)
+ 
+`User ScreenName:` RustHatDotMe 
+ 
+`User chosen Name:` Jerome Grassnick 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 20 12:41:58 +0000 2023 
+ 
+`User Description?:` Hi, I’m Jerome, 28yo♂️ from 🇩🇪. I’m a developer and cybersec dude.
+https://t.co/2APCk9XYaF 
+ 
+`Followers?: `8 
+ 
+`Following?:` 95 
+ 
+`User URL?:` None 
+ 
+`Location:` Deutschland 
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1640276514355793921/ghyWDjNS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 14 , **INFOSEC** 8 , **PENTESTING** 7 , **@HACKINARTICLES:** 6 , **CYBERSECURITYTIPS** 6 , **CHEAT** 5 , **SHEET** 5 , **INFORMATIONSECURITY** 5 , **REDTEAM** 4 , **HACKING** 4 , **MACHINELEARNING** 3 , **DATASCIENCE** 3 , **SQL** 3 , **BIGDATA** 3 , **ANALYTICS** 3 , **AI** 3 , **IIOT** 3 , **PYTHON** 3 , **SECURITY** 3 , **@SHERAJ99:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: TryHackMe Cheat Sheet
+
+👉🏿Full HD Image: https://t.co/KcN9tsD7Ww
+
+#infosec #cybersecurity #cybersecuritytips #pentesting…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…RT @hackinarticles: Cyber Security Domains
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #CyberSec…RT @SecurityTrybe: 10 Websites/Platforms to Learn Hacking 
+
+#Cybersecurity #infosec #Hacking #bugbounty #Career #community #tech https://t.…RT @hackinarticles: Docker Architecture
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #CyberSec #ne…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…
+ 
+# Doberman_Stev21USER INFO
+![image](http://pbs.twimg.com/profile_images/1637338069971120133/mvquyPzw_normal.png)
+ 
+`User ScreenName:` Doberman_Stev21 
+ 
+`User chosen Name:` Steven Nugraha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 19 06:19:50 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1637338069971120133/mvquyPzw_normal.png 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 3 , **HACKING** 2 , **CHATGPT** 2 , **BUG** 2 , **BOUNTY** 2 , **RT** 1 , **@SECURITYTRYBE:** 1 , **10** 1 , **WEBSITES/PLATFORMS** 1 , **LEARN** 1 , **INFOSEC** 1 , **BUGBOUNTY** 1 , **CAREER** 1 , **COMMUNITY** 1 , **TECH** 1 , **HTTPS://T…RT** 1 , **@DAILYDARKWEB:** 1 , **JOAS** 1 , **SANTOS** 1 , **HTTPS://TCO/HZQ0HLRMB2** 1 , 
+ 
+## What this user tweeted
+ 
+RT @SecurityTrybe: 10 Websites/Platforms to Learn Hacking 
+
+#Cybersecurity #infosec #Hacking #bugbounty #Career #community #tech https://t.…
  
 # greyhathacksUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1640225545094049792/weTKbyF__normal.png)
@@ -256,168 +489,6 @@ RT @hackinarticles: HTTPX Cheat Sheet
 👉🏿Full HD Image: https://t.co/XxUsvivOks
 
 #infosec #cybersecurity #cybersecuritytips #pen…
- 
-# nalaemtonUSER INFO
-![image](http://pbs.twimg.com/profile_images/1638366179936051201/1BBbfUIq_normal.jpg)
- 
-`User ScreenName:` nalaemton 
- 
-`User chosen Name:` Nalaemton Selvaraj 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 22 00:52:11 +0000 2023 
- 
-`User Description?:` Ethical Hacker 🖥️ | Writer 📝 | Chennaiite 💛 | Proud Indian 🇮🇳 | நளஎம்டன் செல்வராஜ் ❤️ 
- 
-`Followers?: `1 
- 
-`Following?:` 28 
- 
-`User URL?:` https://t.co/gZBg5dO1RW 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638366179936051201/1BBbfUIq_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VIDEO** 2 , **HI** 1 , **EVERYONE!!** 1 , **GREETINGS** 1 , **DAY** 1 , **HTTPS://TCO/LC9HBJGFDK** 1 , **EXPLAINED** 1 , **SHIFTED** 1 , **CODI…** 1 , **HTTPS://TCO/IYMNVKVAUPHOPE** 1 , **YOU'LL** 1 , **INTERESTED** 1 , **THRILLED** 1 , **WORK** 1 , **HTTPS://TCO/AUYFRFMFHC** 1 , **HAVE…** 1 , **HTTPS://TCO/ZISROX6PLPI** 1 , **REPORTED** 1 , **SECURITY** 1 , **BUG** 1 , 
- 
-## What this user tweeted
- 
-Hi everyone!! Greetings of the day.
-https://t.co/lC9hBJGFDK
-In this video, I have explained how I shifted from Codi… https://t.co/IyMnVKvaup
- 
-# Doberman_Stev21USER INFO
-![image](http://pbs.twimg.com/profile_images/1637338069971120133/mvquyPzw_normal.png)
- 
-`User ScreenName:` Doberman_Stev21 
- 
-`User chosen Name:` Steven Nugraha 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 19 06:19:50 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1637338069971120133/mvquyPzw_normal.png 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CHATGPT** 2 , **CYBERSECURITY** 2 , **BUG** 2 , **BOUNTY** 2 , **RT** 1 , **@DAILYDARKWEB:** 1 , **JOAS** 1 , **SANTOS** 1 , **HTTPS://TCO/HZQ0HLRMB2** 1 , **DAILYDARKWEB** 1 , **HTTPS://TCO…RT** 1 , **@NINADMISHRA5:** 1 , **FOUND** 1 , **DIRECTORY** 1 , **LISTING?** 1 , **USE** 1 , **`WGET** 1 , **-R** 1 , **--NO-PARENT** 1 , **HTTPS://TCO/03PNOTUEBJ`** 1 , 
- 
-## What this user tweeted
- 
-RT @DailyDarkWeb: ChatGPT for CyberSecurity - by Joas A Santos
-
-https://t.co/HZQ0hlrmb2
-
-#dailydarkweb #cybersecurity #chatGPT https://t.co…
- 
-# donovancbw01USER INFO
-![image](http://pbs.twimg.com/profile_images/1640140684043640832/4GNQkuD9_normal.png)
- 
-`User ScreenName:` donovancbw01 
- 
-`User chosen Name:` Donovan Davis 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 26 23:56:25 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640140684043640832/4GNQkuD9_normal.png 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NEW** 2 , **SOME** 2 , **@SUPPAHSHANE** 1 , **FIRST** 1 , **TIP** 1 , **MIGHT** 1 , **BEST** 1 , **USE** 1 , **SOCIALS** 1 , **STAY** 1 , **UPDATED** 1 , **NEVER** 1 , **REALLY** 1 , **POST** 1 , **OR…** 1 , **HTTPS://TCO/LOGTEDB2FA@DISNEYRICH** 1 , **STARTING** 1 , **ACCOUNT** 1 , **SOCIAL** 1 , **PLATFORM** 1 , 
- 
-## What this user tweeted
- 
-RT @TheHackersNews: UK's National Crime Agency has revealed that it set up fake #DDoS-for-hire websites as a trap to catch cybercriminals.…
- 
-# MadMirrorMediaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1639786335534759938/1oX-PahI_normal.jpg)
- 
-`User ScreenName:` MadMirrorMedia 
- 
-`User chosen Name:` Mad Mirror Media 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 26 00:21:22 +0000 2023 
- 
-`User Description?:` Research lab and consulting firm. The human side of cyber conflict and digital disorder.  Real life is stranger than fiction. 
- 
-`Followers?: `79 
- 
-`Following?:` 41 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1639786335534759938/1oX-PahI_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AI** 5 , **EXPLAIN** 3 , **TECH** 2 , **DIGITALLITERACY** 2 , **BLOG** 2 , **USING** 2 , **ISSUES** 2 , **DISINFORMATION** 2 , **🚨** 2 , **RT** 1 , **@JAMES3NEAL:** 1 , **"HERE** 1 , **SKILLS** 1 , **NEED** 1 , **SUCCEED** 1 , **2023"** 1 , **HTTPS://TCO/SWNCKGQVDN** 1 , **VIA** 1 , **@WIRED@HAVEALOTDC** 1 , **@TERENAVARROLB** 1 , 
- 
-## What this user tweeted
- 
-Don't let disinformation and information threats undermine your organization's credibility. Learn how to protect yo… https://t.co/mwZ5i45e1d
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
