@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **DonaldJTrumpJr**  
+The most popular user is: **Coredao_Org**  
  
 
-## Just so we understand this is the leader of the left’s new religion, Ukraine. He replaced Lord Fauci who replaced g… https://t.co/8qoHqRaDUf 
+## #CoreDAO is pleased to announce our partnership with the industry leading cybersecurity firm @HalbornSecurity  for… https://t.co/F4XhjIWjDu 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **DonaldJTrumpJr**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @InfoAgeStrategy: Here's why I believe Ukraine was, and remains, such a threat to Vladimir #Putin: In 1989, Putin was a KGB officer in D… |
-| RT @EuromaidanPress: "Ukraine yearns for peace like no other.But peace doesn't come when the attacked lays down weapons &amp; stops defending i… |
-| RT @PTRUMPFORTX2020: Malaysia Airlines Flight 17 (MH17/MAS17) was shot down on 17 July 2014, while flying over eastern Ukraine. All 283 pas… |
+| RT @channel969: BSNL to Install Daily 300 4G, 5G Towers From Sept: Report #SEO #Google #Apple  #IOS #cybersecurity #Robotics #AI https://… |
+| Heard about Zero Trust but not sure where or how to start? Get an understanding and insight on where to start your… https://t.co/76AZFWd7t0 |
+| Wow! Thank you @mercyfrank Cybersecurity threats and the aviation sector https://t.co/aIALskB4e0 via @YouTube |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KimDotcom** |
-| #2 Most tweeted to  | **ZelenskyyUa** |
-| #3 Most tweeted to  | **InfoAgeStrategy** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 4.88%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **Sheraj99** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 6.46%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -50,57 +50,58 @@ The most popular user is: **DonaldJTrumpJr**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **RUSSIAN**  |
-| third  | **WAR** |
-| fourth  | **PUTIN**  |
-| fifth  | **SOLDIERS**  |
+| first  | **INFOSEC**  |
+| second  | **AI**  |
+| third  | **HACKING** |
+| fourth  | **PHISHING**  |
+| fifth  | **DATA**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Maks_NAFO_FELLA: Bad news... 😔The scandalous colonel-general of the Russian Armed Forces Rustam Muradov was allegedly removed from th… |
+|RT @danielmakelley: 9 websites to look for remote cybersecurity jobs:1. 𝐇𝐢𝐫𝐞𝐝 (https://t.co/rCMpMoMpn0)2. 𝐅𝐥𝐞𝐱 𝐉𝐨𝐛𝐬 (https://t.co/bmO9rh… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DonaldJTrumpJr**  |
+| The most retweeted user is: **Coredao_Org**  |
 | ------------- |
-| Just so we understand this is the leader of the left’s new religion, Ukraine. He replaced Lord Fauci who replaced g… https://t.co/8qoHqRaDUf |
+| #CoreDAO is pleased to announce our partnership with the industry leading cybersecurity firm @HalbornSecurity  for… https://t.co/F4XhjIWjDu |
 
 # Potential Fake Accounts
  
-# BadBigRussianUSER INFO
-![image](http://pbs.twimg.com/profile_images/1636887114317963265/tMAGF7PF_normal.jpg)
+# elite_Writers_USER INFO
+![image](http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg)
  
-`User ScreenName:` BadBigRussian 
+`User ScreenName:` elite_Writers_ 
  
-`User chosen Name:` BigRussianNews 🇷🇺 
+`User chosen Name:` ASSIGNMENT HELP 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 18 00:13:55 +0000 2023 
+`User signup date?:` Mon Mar 20 07:03:19 +0000 2023 
  
-`User Description?:` Ministry of Common Sense 🇷🇺 
+`User Description?:` A Team of Experienced Writers Proficient in Online Classes||Essays||Quizzes||Projects||Reports||Math||Calculus||Thesis||Research||
+Shoot us a DM for more info:) 
  
-`Followers?: `5 
+`Followers?: `25 
  
-`Following?:` 10 
+`Following?:` 42 
  
-`User URL?:` https://t.co/Av9ER2sa8h 
+`User URL?:` https://t.co/XkpxvUuTiS 
  
-`Location:` Washington, USA 
+`Location:` New Jersey, USA 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1636887114317963265/tMAGF7PF_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg 
  
-`Number of tweets excluding replies:` 340 
+`Number of tweets excluding replies:` 260 
  
 
  
@@ -108,77 +109,94 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
  
 ## User Top tweeted words 
  
-**UKRAINIAN** 21 , **ISRAEL** 12 , **UKRAINE** 11 , **MINISTER** 11 , **US** 9 , **RUSSIA** 9 , **NEW** 9 , **AGAINST** 9 , **NUCLEAR** 9 , **WORLD** 8 , **PUTIN** 8 , **PEOPLE** 8 , **PRIME** 8 , **WHICH** 7 , **INTO** 7 , **RUSSIAN** 7 , **MILITARY** 6 , **BIDEN** 6 , **DOWN** 6 , **WEAPONS** 6 , 
+**@ELITE_WRITERS_:** 95 , **PAY** 85 , **RESEARCH** 73 , **CALCULUS** 71 , **CHEMISTRY** 70 , **ONLINECLASS** 65 , **EXAMS** 64 , **FINANCE** 63 , **ESSAYS** 62 , **PHYSICS** 60 , **ASSIGNMENT** 57 , **HOMEWORK** 57 , **US** 56 , **THESIS** 51 , **BIOLOGY** 49 , **QUALITY** 45 , **PAPER** 43 , **ACCOUNTING** 41 , **LAW** 36 , **ASSIGNMENTS** 35 , 
  
 ## What this user tweeted
  
-keep the sovereign conservative Jewish state from disintegration and destruction? Like annihilation? Like the Ukraine!
+For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/iYNIYc0F7yFor quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/Bpwzz9qLyHRT @elite_Writers_: For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Econom…For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/CVybScq6gHRT @elite_Writers_: For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Econom…For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance… https://t.co/DwogTxhsO3
  
-# MultiToa66778USER INFO
-![image](http://pbs.twimg.com/profile_images/1637355766045634560/K0WOX7QF_normal.png)
+# SmartervproUSER INFO
+![image](http://pbs.twimg.com/profile_images/1636880763697209348/Lu_O4AKJ_normal.jpg)
  
-`User ScreenName:` MultiToa66778 
+`User ScreenName:` Smartervpro 
  
-`User chosen Name:` TOA Multi 
+`User chosen Name:` Smartervpro 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 19 07:30:09 +0000 2023 
+`User signup date?:` Fri Mar 17 23:57:34 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Powering Internet freedom through domains, hosting, security, and more — everything you need to make more online, for less 
  
 `Followers?: `2 
  
-`Following?:` 14 
+`Following?:` 4 
  
-`User URL?:` None 
+`User URL?:` https://t.co/VP5FU2nf0N 
  
-`Location:`  
+`Location:` London, England 
  
-`Number of tweets extracted`  : 51 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637355766045634560/K0WOX7QF_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1636880763697209348/Lu_O4AKJ_normal.jpg 
  
-`Number of tweets excluding replies:` 51 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FTX** 6 , **DE** 4 , **FREE** 4 , **EARN** 4 , **2023** 3 , **CRYPTO** 3 , **RETREATING** 2 , **UKRAINE** 2 , **RUNNING** 2 , **AWAY** 2 , **AFRICA** 2 , **CON** 2 , **ЕСЛИ** 2 , **INCOME** 2 , **@UNITEDTELEBOTAI:** 2 , **:** 2 , **GIFT** 2 , **BOOK** 2 , **REVIEW** 2 , **CLICK** 2 , 
- 
-## What this user tweeted
- 
-Russian #WagnerPMC war criminals retreating from #Ukraine and running away to #Africa !!! #southafrica #capetown… https://t.co/OTLKeqRrgO
- 
-# MiddaghChuckUSER INFO
-![image](http://pbs.twimg.com/profile_images/1636963629584252928/auAgUsU0_normal.jpg)
- 
-`User ScreenName:` MiddaghChuck 
- 
-`User chosen Name:` chuck middagh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 18 05:03:23 +0000 2023 
- 
-`User Description?:` USAF Veteran, former Law enforcement professional, ,including  Dept. of homeland Security. Democrat forever. Live in Arizona, Block MAGAs.  Slava Ukraine. 
- 
-`Followers?: `36 
- 
-`Following?:` 457 
- 
-`User URL?:` None 
- 
-`Location:` Tucson, Arizona 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636963629584252928/auAgUsU0_normal.jpg 
- 
-`Number of tweets excluding replies:` 499 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -186,79 +204,38 @@ Russian #WagnerPMC war criminals retreating from #Ukraine and running away to #A
  
 ## User Top tweeted words 
  
-**TRUMP** 27 , **DONALD** 10 , **@LEPAPILLONBLU2:** 9 , **@LINDYLI:** 9 , **@KANGAROOS991:** 8 , **MAGA** 8 , **@VISEGRAD24:** 7 , **REPUBLICANS** 7 , **TRUMP’S** 7 , **@PROJECTLINCOLN:** 7 , **@SASSYISME1961:** 7 , **@POTUS:** 7 , **@SMC429:** 7 , **WACO** 7 , **@EMYWINST:** 6 , **@ADAMKINZINGER:** 6 , **AGAINST** 6 , **@CATHYGRAPHICS3:** 6 , **@THERICKWILSON:** 6 , **ALVIN** 6 , 
+**WEBSITE** 4 , **NAME** 4 , **SITELOCK** 2 , **CYBER** 2 , **MALWARE** 2 , **REGISTRATION** 2 , **PROCESS** 2 , **RESERVING** 2 , **UNIQUE** 2 , **INTERNET** 2 , **DOMAIN** 2 , **THE…** 2 , **OFFERS** 1 , **COMPREHENSIVE** 1 , **PROTECTION** 1 , **THREATS** 1 , **FIND** 1 , **FIX** 1 , **FILL** 1 , **GAPS** 1 , 
  
 ## What this user tweeted
  
-RT @visegrad24: Ukraine has killed Dmitry Lysitsky, the Russian commander who ordered the killing of Ukrainian soldiers who were promised a…
+SiteLock offers comprehensive protection for your website from cyber threats. Find and fix malware, and fill gaps t… https://t.co/dKkHA3VcCSAs a small business owner, it's important to protect your website from cyber attacks. SiteLock Malware Automated Re… https://t.co/0u9LCmCgcr
  
-# MarcelJuli77882USER INFO
-![image](http://pbs.twimg.com/profile_images/1639632204396363777/o4hh7Guj_normal.jpg)
+# greyhathacksUSER INFO
+![image](http://pbs.twimg.com/profile_images/1640225545094049792/weTKbyF__normal.png)
  
-`User ScreenName:` MarcelJuli77882 
+`User ScreenName:` greyhathacks 
  
-`User chosen Name:` Marcel Julie 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 20 06:47:31 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 54 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 112 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1639632204396363777/o4hh7Guj_normal.jpg 
- 
-`Number of tweets excluding replies:` 112 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MPS** 12 , **TORY** 11 , **PEOPLE** 9 , **JOHNSON** 8 , **@BRITAIN_PEOPLE:** 6 , **GOING** 6 , **TAX** 6 , **BEING** 6 , **@RICHARDBURGON:** 6 , **BORIS** 6 , **MADE** 5 , **PUBLIC** 5 , **UK** 5 , **SECOND** 5 , **JOBS** 5 , **@SUPERTANSKIII:** 5 , **@MARINAPURKISS:** 5 , **DIDN'T** 5 , **IMAGINE** 4 , **SAY** 4 , 
- 
-## What this user tweeted
- 
-RT @premnsikka: Tory Minister Michael Gove says the UK is now poorer because of the Ukraine war &amp; Covid.
-
-NO. Other countries are affected…
- 
-# Irst94USER INFO
-![image](http://pbs.twimg.com/profile_images/1638096578551357440/p_7ysnK3_normal.png)
- 
-`User ScreenName:` Irst94 
- 
-`User chosen Name:` First 
+`User chosen Name:` Sumanth Chowdary 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 21 08:33:53 +0000 2023 
+`User signup date?:` Mon Mar 27 05:33:38 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 9 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 20 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1638096578551357440/p_7ysnK3_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1640225545094049792/weTKbyF__normal.png 
  
-`Number of tweets excluding replies:` 20 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -266,198 +243,46 @@ NO. Other countries are affected…
  
 ## User Top tweeted words 
  
-**@ELONMUSK:** 4 , **@ZELENSKYYUA:** 4 , **@DEFENCEU:** 4 , **🇺🇦** 4 , **TOTAL** 3 , **UKRAINE** 3 , **SOLDIERS** 3 , **T…RT** 2 , **IMPORTANT** 2 , **UKRAINIANS** 2 , **DEFENSE** 2 , **MARCH** 2 , **20** 2 , **GRAIN** 2 , **НА** 2 , **@GENERALSTAFFUA:** 2 , **2023** 2 , **UAARMY** 2 , **TRAINING** 2 , **RT** 1 , 
+**@HACKINARTICLES:** 2 , **CHEAT** 2 , **SHEET** 2 , **👉🏿FULL** 2 , **HD** 2 , **IMAGE:** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **CYBERSECURITYTIPS** 2 , **RT** 1 , **HTTPX** 1 , **HTTPS://TCO/DDOTWXFV1Q** 1 , **PENTESTING** 1 , **RE…RT** 1 , **WIRESHARK** 1 , **FILTER** 1 , **HTTPS://TCO/XXUSVIVOKS** 1 , **PEN…** 1 , 
  
 ## What this user tweeted
  
-RT @visegrad24: Sad news from Ukraine.
+RT @hackinarticles: HTTPX Cheat Sheet
 
-Ivan Shchegolov, one of the founders of the "Beshketniki Sirka" reconnaissance platoon, was killed…RT @kajakallas: On 25 March 1949 my family was among the 20 000 Estonians deported to Siberia by the Soviets.
+👉🏿Full HD Image: https://t.co/ddoTWxfv1Q
 
-Russia uses the same terror…
+#infosec #cybersecurity #cybersecuritytips #pentesting #re…RT @hackinarticles: Wireshark Filter Cheat Sheet
+
+👉🏿Full HD Image: https://t.co/XxUsvivOks
+
+#infosec #cybersecurity #cybersecuritytips #pen…
  
-# Ger72DUSER INFO
-![image](http://pbs.twimg.com/profile_images/1638092621892538370/Y3iGMnNf_normal.png)
+# nalaemtonUSER INFO
+![image](http://pbs.twimg.com/profile_images/1638366179936051201/1BBbfUIq_normal.jpg)
  
-`User ScreenName:` Ger72D 
+`User ScreenName:` nalaemton 
  
-`User chosen Name:` Charger 
+`User chosen Name:` Nalaemton Selvaraj 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 21 08:18:09 +0000 2023 
+`User signup date?:` Wed Mar 22 00:52:11 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Ethical Hacker 🖥️ | Writer 📝 | Chennaiite 💛 | Proud Indian 🇮🇳 | நளஎம்டன் செல்வராஜ் ❤️ 
  
-`Followers?: `0 
- 
-`Following?:` 9 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638092621892538370/Y3iGMnNf_normal.png 
- 
-`Number of tweets excluding replies:` 21 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UKRAINE** 4 , **RUSSIA** 4 , **@ZELENSKYYUA:** 4 , **@ELONMUSK:** 4 , **MUST** 3 , **UKRAINIAN** 3 , **POWER** 3 , **SOLDIERS** 3 , **🇺🇦** 2 , **DEFEAT** 2 , **NEW** 2 , **EXPERIENCE** 2 , **@DEFENCEU:** 2 , **155MM** 2 , **PEOPLE** 2 , **🇺🇸** 2 , **TRAINING** 2 , **МИ** 2 , **НЕ** 2 , **МІЖ** 2 , 
- 
-## What this user tweeted
- 
-RT @MoD_Estonia: Ukraine 🇺🇦 must win this war, and Russia 🇷🇺 must lose. Military support to #Ukraine must continue &amp; increase. In addition…
- 
-# konings_sa11110USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` konings_sa11110 
- 
-`User chosen Name:` Sanjee Konings 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 22 22:21:00 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 27 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CALLTOACTIVISM:** 6 , **@JOJOFROMJERZ:** 5 , **BREAKING:** 4 , **NEW** 3 , **AFTER** 3 , **OMG** 3 , **RUSSIAN** 2 , **A…RT** 2 , **TRUMP** 2 , **STOOD** 2 , **BOOM:** 2 , **RON** 2 , **DAY** 2 , **DISNEY** 2 , **CALLED** 2 , **SHOW** 2 , **YOU’RE** 2 , **LIFE** 2 , **@NIKE** 2 , **INTO** 2 , 
- 
-## What this user tweeted
- 
-RT @visegrad24: Ukraine has killed Dmitry Lysitsky, the Russian commander who ordered the killing of Ukrainian soldiers who were promised a…
- 
-# jiangyu47533437USER INFO
-![image](http://pbs.twimg.com/profile_images/1636986960131641344/JKJdk3Ms_normal.jpg)
- 
-`User ScreenName:` jiangyu47533437 
- 
-`User chosen Name:` 蒋鱼 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 18 07:04:39 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 39 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1636986960131641344/JKJdk3Ms_normal.jpg 
- 
-`Number of tweets excluding replies:` 298 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UNITED** 27 , **@MFA_CHINA** 25 , **STATES** 21 , **CHINA** 20 , **RUSSIA** 16 , **@ELIJAHSCHAFFER** 15 , **DON'T** 15 , **UKRAINE** 14 , **CHINESE** 14 , **GOVERNMENT** 13 , **PEOPLE** 13 , **@THINKING_PANDA** 11 , **@KANTHAN2030** 10 , **REALLY** 10 , **WAR** 8 , **TOO** 8 , **@SONGPINGANQ** 8 , **WELL** 8 , **COUNTRY** 8 , **AGE** 8 , 
- 
-## What this user tweeted
- 
-@GraphicW5 Isn't Musk dissatisfied with Ukraine for a long time because Ukraine didn't pay?  threatened Ukraine.  Now do this again.
- 
-# doctorphd462USER INFO
-![image](http://pbs.twimg.com/profile_images/1637086186656399361/mmHprN7n_normal.jpg)
- 
-`User ScreenName:` doctorphd462 
- 
-`User chosen Name:` Dr Carlos 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 18 11:36:51 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `14 
- 
-`Following?:` 102 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 63 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1637086186656399361/mmHprN7n_normal.jpg 
- 
-`Number of tweets excluding replies:` 64 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WIONEWS:** 17 , **@CNN:** 8 , **AFTER** 7 , **PRESIDENT** 5 , **US** 5 , **@BBCNEWS:** 4 , **@AJENGLISH:** 4 , **VLADIMIR** 4 , **PUTIN** 4 , **@FOXNEWS:** 3 , **WORLD** 3 , **BIDEN** 3 , **FIRST** 3 , **PEOPLE** 3 , **@WASHINGTONPOST:** 3 , **BANK** 3 , **CHARLES** 3 , **NEW** 3 , **UNDERWATER** 3 , **FAMILIES** 3 , 
- 
-## What this user tweeted
- 
-RT @FoxNews: OPINION: Russia-Ukraine conflict is driving a strategic transformation of our world order https://t.co/YotH7rJwn8
- 
-# baltendeutscheUSER INFO
-![image](http://pbs.twimg.com/profile_images/1638617306329911296/RIZhONrb_normal.jpg)
- 
-`User ScreenName:` baltendeutsche 
- 
-`User chosen Name:` Jäg╺╋━╸ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 18 12:04:05 +0000 2023 
- 
-`User Description?:` Drang nach Osten! 
- 
-`Followers?: `15 
+`Followers?: `1 
  
 `Following?:` 28 
  
-`User URL?:` None 
+`User URL?:` https://t.co/gZBg5dO1RW 
  
 `Location:`  
  
-`Number of tweets extracted`  : 195 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1638617306329911296/RIZhONrb_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1638366179936051201/1BBbfUIq_normal.jpg 
  
-`Number of tweets excluding replies:` 195 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -465,38 +290,40 @@ RT @FoxNews: OPINION: Russia-Ukraine conflict is driving a strategic transformat
  
 ## User Top tweeted words 
  
-**@ELIJAHSCHAFFER** 20 , **@STOPANTISEMITES** 19 , **@VISCERACTURE** 19 , **@VENERABLEBEDE10** 17 , **@FOXYBOY84171335** 17 , **@GRADUATEDBEN** 15 , **DON'T** 12 , **@AMERYENJOYER** 12 , **@SPAWNOFKAHN** 11 , **I'M** 9 , **DIDN'T** 8 , **YOU'RE** 7 , **@REALTXPOLITICS** 7 , **ASIATIC** 6 , **POST** 5 , **WHITE** 5 , **EACH** 5 , **SAME** 5 , **@DOWNNICE1** 5 , **@TOASTNICE** 5 , 
+**VIDEO** 2 , **HI** 1 , **EVERYONE!!** 1 , **GREETINGS** 1 , **DAY** 1 , **HTTPS://TCO/LC9HBJGFDK** 1 , **EXPLAINED** 1 , **SHIFTED** 1 , **CODI…** 1 , **HTTPS://TCO/IYMNVKVAUPHOPE** 1 , **YOU'LL** 1 , **INTERESTED** 1 , **THRILLED** 1 , **WORK** 1 , **HTTPS://TCO/AUYFRFMFHC** 1 , **HAVE…** 1 , **HTTPS://TCO/ZISROX6PLPI** 1 , **REPORTED** 1 , **SECURITY** 1 , **BUG** 1 , 
  
 ## What this user tweeted
  
-I read "based ukraine" a non white country. Non whites kill each other all the time it doesn't put them on a pedest… https://t.co/9SlVgLKUr0
+Hi everyone!! Greetings of the day.
+https://t.co/lC9hBJGFDK
+In this video, I have explained how I shifted from Codi… https://t.co/IyMnVKvaup
  
-# AmitJha4915117USER INFO
-![image](http://pbs.twimg.com/profile_images/1638046498717044736/ERY0wH2B_normal.jpg)
+# Doberman_Stev21USER INFO
+![image](http://pbs.twimg.com/profile_images/1637338069971120133/mvquyPzw_normal.png)
  
-`User ScreenName:` AmitJha4915117 
+`User ScreenName:` Doberman_Stev21 
  
-`User chosen Name:` Amit Jha 
+`User chosen Name:` Steven Nugraha 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 21 05:14:29 +0000 2023 
+`User signup date?:` Sun Mar 19 06:19:50 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `9 
+`Followers?: `1 
  
-`Following?:` 455 
+`Following?:` 13 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1638046498717044736/ERY0wH2B_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1637338069971120133/mvquyPzw_normal.png 
  
-`Number of tweets excluding replies:` 13518 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -504,38 +331,42 @@ I read "based ukraine" a non white country. Non whites kill each other all the t
  
 ## User Top tweeted words 
  
-**@JASDF_PAO_ENG:** 71 , **JASDF** 60 , **GEN** 40 , **AIR** 32 , **IZUTSU** 24 , **COS** 22 , **CONDUCTED** 16 , **DEFENSE** 14 , **FORCE** 13 , **JAPAN** 12 , **MAR** 12 , **LT** 11 , **EXERCISE** 10 , **SEP** 10 , **VISITED** 10 , **NOV** 10 , **@MODJAPAN_EN:** 10 , **PARTICIPATED** 9 , **CHIEF** 9 , **OCT** 9 , 
+**CHATGPT** 2 , **CYBERSECURITY** 2 , **BUG** 2 , **BOUNTY** 2 , **RT** 1 , **@DAILYDARKWEB:** 1 , **JOAS** 1 , **SANTOS** 1 , **HTTPS://TCO/HZQ0HLRMB2** 1 , **DAILYDARKWEB** 1 , **HTTPS://TCO…RT** 1 , **@NINADMISHRA5:** 1 , **FOUND** 1 , **DIRECTORY** 1 , **LISTING?** 1 , **USE** 1 , **`WGET** 1 , **-R** 1 , **--NO-PARENT** 1 , **HTTPS://TCO/03PNOTUEBJ`** 1 , 
  
 ## What this user tweeted
  
-RT @dylanpwhite: Great morning at Iruma Air Base in Sayama. Calling #Japan one of @NATO’s most capable partners, Secretary General Stoltenb…RT @ModJapan_en: On March 15, Director General for International Affairs, Miura, attended virtual Ukraine Defense Contact Group（UDCG）hosted…RT @ModJapan_en: Mar 17, the 18th #Japan-#Singapore Military-to-Military Dialogue was held. We exchanged views on 🇯🇵🇸🇬security coop. and si…
+RT @DailyDarkWeb: ChatGPT for CyberSecurity - by Joas A Santos
+
+https://t.co/HZQ0hlrmb2
+
+#dailydarkweb #cybersecurity #chatGPT https://t.co…
  
-# cryptex9816USER INFO
-![image](http://pbs.twimg.com/profile_images/1637715620979675138/w_FSlXjt_normal.jpg)
+# donovancbw01USER INFO
+![image](http://pbs.twimg.com/profile_images/1640140684043640832/4GNQkuD9_normal.png)
  
-`User ScreenName:` cryptex9816 
+`User ScreenName:` donovancbw01 
  
-`User chosen Name:` cryptex9816 
+`User chosen Name:` Donovan Davis 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 20 06:11:27 +0000 2023 
+`User signup date?:` Sun Mar 26 23:56:25 +0000 2023 
  
-`User Description?:` NFTs (non-fungible tokens) are unique cryptographic tokens that exist on a blockchain and cannot be replicated. NFTs can represent digital or real-world items. 
+`User Description?:`  
  
-`Followers?: `3 
+`Followers?: `0 
  
-`Following?:` 48 
+`Following?:` 16 
  
 `User URL?:` None 
  
-`Location:` Meerut, India 
+`Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637715620979675138/w_FSlXjt_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1640140684043640832/4GNQkuD9_normal.png 
  
-`Number of tweets excluding replies:` 233 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -543,11 +374,50 @@ RT @dylanpwhite: Great morning at Iruma Air Base in Sayama. Calling #Japan one o
  
 ## User Top tweeted words 
  
-**@KHOKHARMAYANK21** 27 , **WL** 17 , **NFT** 15 , **GIVEAWAY** 15 , **🎁** 14 , **RT** 13 , **FOLLOW** 13 , **JOIN** 11 , **1** 11 , **🏆** 9 , **AI** 8 , **@SANIYANEGI2** 8 , **TAG** 8 , **GOOD** 8 , **GM** 8 , **LIVE** 8 , **🔥** 8 , **@ONYXPROTOCOL:** 7 , **$ETH** 7 , **TOKEN** 7 , 
+**NEW** 2 , **SOME** 2 , **@SUPPAHSHANE** 1 , **FIRST** 1 , **TIP** 1 , **MIGHT** 1 , **BEST** 1 , **USE** 1 , **SOCIALS** 1 , **STAY** 1 , **UPDATED** 1 , **NEVER** 1 , **REALLY** 1 , **POST** 1 , **OR…** 1 , **HTTPS://TCO/LOGTEDB2FA@DISNEYRICH** 1 , **STARTING** 1 , **ACCOUNT** 1 , **SOCIAL** 1 , **PLATFORM** 1 , 
  
 ## What this user tweeted
  
-RT @ArturLukasuk: I don't want Chernobyl to happen again.  I do not want a nuclear bomb to fall on Ukraine.  God, I am begging you, let the…
+RT @TheHackersNews: UK's National Crime Agency has revealed that it set up fake #DDoS-for-hire websites as a trap to catch cybercriminals.…
+ 
+# MadMirrorMediaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1639786335534759938/1oX-PahI_normal.jpg)
+ 
+`User ScreenName:` MadMirrorMedia 
+ 
+`User chosen Name:` Mad Mirror Media 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 26 00:21:22 +0000 2023 
+ 
+`User Description?:` Research lab and consulting firm. The human side of cyber conflict and digital disorder.  Real life is stranger than fiction. 
+ 
+`Followers?: `79 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1639786335534759938/1oX-PahI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 5 , **EXPLAIN** 3 , **TECH** 2 , **DIGITALLITERACY** 2 , **BLOG** 2 , **USING** 2 , **ISSUES** 2 , **DISINFORMATION** 2 , **🚨** 2 , **RT** 1 , **@JAMES3NEAL:** 1 , **"HERE** 1 , **SKILLS** 1 , **NEED** 1 , **SUCCEED** 1 , **2023"** 1 , **HTTPS://TCO/SWNCKGQVDN** 1 , **VIA** 1 , **@WIRED@HAVEALOTDC** 1 , **@TERENAVARROLB** 1 , 
+ 
+## What this user tweeted
+ 
+Don't let disinformation and information threats undermine your organization's credibility. Learn how to protect yo… https://t.co/mwZ5i45e1d
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
