@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **ireteeh**  
+The most popular user is: **WarClandestine**  
  
 
-## Can we do a thread for Cybersecurity beginners and enthusiasts? Can you please share links/resources that has helpe… https://t.co/MptiHYRPx0 
+## 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **ireteeh**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Microsoft lets generative AI loose on cybersecurityhttps://t.co/VuBEDlB3OAMore news about $MSFT on #TickerTick https://t.co/jML21hwMMY |
-| RT @CCDHate: CCDH found that TikTok bombards vulnerable teens with harmful eating disorder content.Our research on TikTok’s dangerous alg… |
-| RT @JinibaBD: 🚨very good tips‼️ what do you think⁉️🚨How to Secure Your #Mobile Device: 8 Tips for 2023 ⛔️#cybercrime #Phishing #ransomware… |
+| RT @ThePollLady: Journalist: What is difference btw situation in Syria &amp; that in Ukraine? UN: There are no U.S. Armed forces inside Syria… |
+| RT @BMarchetich: The man responsible for the below comments is the husband of Victoria Nuland, who is now in large part behind Ukraine poli… |
+| RT @KanekoaTheGreat: United Nations spokesperson is unaware of US soldiers in Syria, unable to say if it violates international law, and st… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ProfIsaPantami** |
-| #2 Most tweeted to  | **SecurityTrybe** |
-| #3 Most tweeted to  | **hackinarticles** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 6.26%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **visegrad24** |
+| #2 Most tweeted to  | **johnpilger** |
+| #3 Most tweeted to  | **DefenceHQ** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 6.36%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -50,146 +50,58 @@ The most popular user is: **ireteeh**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **AI**  |
-| third  | **MICROSOFT** |
-| fourth  | **US**  |
-| fifth  | **HACKING**  |
+| first  | **UKRAINE**  |
+| second  | **RUSSIAN**  |
+| third  | **RUSSIA** |
+| fourth  | **WAR**  |
+| fifth  | **US**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
+![image](assets/ukraine/sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Minister of Communications and Digital Economy, @ProfIsaPantami delivers the Keynote address during Day 1 of the Cy… https://t.co/6RPxH9CSkj |
+|RT @RFERL: Ukrainians regard the Holodomor -- Ukrainian for "death by starvation" -- as a deliberate act of genocide by Stalin's regime wit… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ireteeh**  |
+| The most retweeted user is: **WarClandestine**  |
 | ------------- |
-| Can we do a thread for Cybersecurity beginners and enthusiasts? Can you please share links/resources that has helpe… https://t.co/MptiHYRPx0 |
+| 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL |
 
 # Potential Fake Accounts
  
-# CyberSourcer94USER INFO
-![image](http://pbs.twimg.com/profile_images/1640838433298841602/ZqpeUFm3_normal.jpg)
+# guyomeanarumaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1639005326778286081/VXGpfeWn_normal.jpg)
  
-`User ScreenName:` CyberSourcer94 
+`User ScreenName:` guyomeanaruma 
  
-`User chosen Name:` Haley Bastin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 28 22:02:43 +0000 2023 
- 
-`User Description?:` Cyber Security Recruitment Specialist at Lorien Global 
- 
-`Followers?: `0 
- 
-`Following?:` 81 
- 
-`User URL?:` https://t.co/T1v4N5LHbR 
- 
-`Location:` Tampa, FL  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640838433298841602/ZqpeUFm3_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CHECK** 1 , **LINKEDIN** 1 , **PAGE** 1 , **HTTPS://TCO/UB0OVEOKLVWHAT'S** 1 , **TWITTER** 1 , **FAM!** 1 , **CYBER** 1 , **SECURITY** 1 , **RECRUITMENT** 1 , **SPECIALIST** 1 , **LORIEN** 1 , **GLOBAL** 1 , **LOOKING** 1 , **EXPAND** 1 , **MY…** 1 , **HTTPS://TCO/WA6MPADOKN** 1 , 
- 
-## What this user tweeted
- 
-What's up twitter fam!
-I am a Cyber Security Recruitment Specialist at Lorien Global and I am looking to expand my… https://t.co/wA6mpaDOKn
- 
-# smshopitblogUSER INFO
-![image](http://pbs.twimg.com/profile_images/1639706683932033026/4nmy7Sbz_normal.jpg)
- 
-`User ScreenName:` smshopitblog 
- 
-`User chosen Name:` SM SHOT IT BLOG 
+`User chosen Name:` Guillaume ANNARUMMA 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Mar 25 18:59:25 +0000 2023 
+`User signup date?:` Thu Mar 23 19:31:36 +0000 2023 
  
-`User Description?:` We Provide All kinds of (PVA) Accounts, Social Reviews & Online Banking Services. Also, We Provide Social Media Management, Content Writing, SEO Services. 
+`User Description?:` well,well,well... non brit
+tel : 03 05 34 34 04 
  
-`Followers?: `3 
+`Followers?: `18 
  
-`Following?:` 27 
+`Following?:` 419 
  
-`User URL?:` https://t.co/gBEyu1y8tw 
+`User URL?:` None 
  
-`Location:` Los Angeles, California, USA 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1639706683932033026/4nmy7Sbz_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MACHINELEARNING** 5 , **100%** 4 , **ACCOUNTS** 4 , **SMSHOPIT** 3 , **DATASCIENCE** 3 , **PYTHON…** 3 , **GMAIL** 3 , **VERIFIED** 3 , **GOOGLE** 2 , **PERMANENT** 2 , **HTTPS://TCO/USSTE9GQQW** 2 , **DATASCIENCE…** 2 , **BUY** 1 , **REVIEWS-** 1 , **REAL** 1 , **HTTPS://TCO/NHUCCVOMAI** 1 , **HTTPS://TCO/TMBGJBEFDGBUY** 1 , **BUSINESS** 1 , **REVIEWS-100%** 1 , **SAFE** 1 , 
- 
-## What this user tweeted
- 
-Buy Google Reviews- 100% Real &amp; Permanent - SMSHOPIT
-https://t.co/nhuccvOMai
-
-#MachineLearning #DataScience #Python… https://t.co/TMBgJBeFDGBuy Google Business Reviews-100% safe &amp; Permanent 
-https://t.co/J8irFiJkHy
-
-#MachineLearning #DataScience #Python… https://t.co/hVtHlfHHSzBuy Old Gmail Accounts - 100% Verified - SMSHOPIT.
-https://t.co/ZADwY8n9Z8
-
-#MachineLearning #DataScience #Python… https://t.co/Xi0y6hDPa7
- 
-# elite_Writers_USER INFO
-![image](http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg)
- 
-`User ScreenName:` elite_Writers_ 
- 
-`User chosen Name:` ASSIGNMENT HELP 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 20 07:03:19 +0000 2023 
- 
-`User Description?:` A Team of Experienced Writers Proficient in Online Classes||Essays||Quizzes||Projects||Reports||Math||Calculus||Thesis||Research||
-Shoot us a DM for more info:) 
- 
-`Followers?: `28 
- 
-`Following?:` 42 
- 
-`User URL?:` https://t.co/XkpxvUuTiS 
- 
-`Location:` New Jersey, USA 
+`Location:` Ile-de-France, France 
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637711744612155393/I8VuwPdU_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1639005326778286081/VXGpfeWn_normal.jpg 
  
-`Number of tweets excluding replies:` 537 
+`Number of tweets excluding replies:` 309 
  
 
  
@@ -197,95 +109,38 @@ Shoot us a DM for more info:)
  
 ## User Top tweeted words 
  
-**@ELITE_WRITERS_:** 106 , **PAY** 103 , **CHEMISTRY** 72 , **CALCULUS** 65 , **US** 61 , **ESSAYS** 57 , **RESEARCH** 54 , **BIOLOGY** 49 , **HOMEWORK** 48 , **ONLINECLASS** 48 , **FINANCE** 46 , **ASSIGNMENT** 46 , **EXAMS** 46 , **THESIS** 46 , **DUE** 43 , **PHYSICS** 43 , **ACCOUNTING** 42 , **✓PHYSICS** 36 , **ESSAY** 35 , **ASSIGNMENTS** 34 , 
+**DE** 60 , **LA** 47 , **LE** 41 , **ET** 32 , **POUR** 26 , **PAS** 25 , **UN** 21 , **EN** 20 , **LES** 20 , **EST** 20 , **C'EST** 20 , **DES** 19 , **QUE** 19 , **MAIS** 19 , **QUI** 18 , **À** 17 , **UNE** 16 , **DU** 16 , **DANS** 13 , **NE** 12 , 
  
 ## What this user tweeted
  
-For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/Q9qtNM8jRpRT @elite_Writers_: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econom…For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/LdaBiJ67v5RT @elite_Writers_: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econom…For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/s2SOekMak9RT @elite_Writers_: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econom…
+The Holodomor, the Terror-Famine, was a man-made famine in Soviet Ukraine from 1932 to 1933 that killed millions of… https://t.co/SIRDVqdZpy
  
-# rulerhackUSER INFO
-![image](http://pbs.twimg.com/profile_images/1640499807256027140/kP157r-c_normal.jpg)
+# dubz7777777USER INFO
+![image](http://pbs.twimg.com/profile_images/1639323371312754688/8ATZTg4X_normal.jpg)
  
-`User ScreenName:` rulerhack 
+`User ScreenName:` dubz7777777 
  
-`User chosen Name:` Mahesh Yadav 
+`User chosen Name:` jimmy 🇺🇸🏳️‍🌈 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 27 22:13:01 +0000 2023 
+`User signup date?:` Fri Mar 24 17:19:00 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `4 
  
-`Following?:` 355 
+`Following?:` 35 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1640499807256027140/kP157r-c_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1639323371312754688/8ATZTg4X_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 296 
  
 
  
@@ -293,43 +148,121 @@ Finance
  
 ## User Top tweeted words 
  
-**PORTFOLIO** 2 , **APPLY** 1 , **FILL** 1 , **DETAILS** 1 , **USING** 1 , **FOLLOWING** 1 , **GOOGLE** 1 , **FORM:** 1 , **HTTPS://TCO/QBZQ4Y2CJF** 1 , **HBT…** 1 , **HTTPS://TCO/2AWVTMZ20UI** 1 , **GLAD** 1 , **SHARE** 1 , **HERE** 1 , **LINK** 1 , **TERMINAL-** 1 , **HTTPS://TCO/APCMSXRDCG** 1 , **INTERNING** 1 , **H…** 1 , **HTTPS://TCO/5ICWXEUHD1** 1 , 
+**@JK_ROWLING** 22 , **TRANS** 19 , **PEOPLE** 19 , **NAZI** 15 , **THESE** 15 , **WOMEN** 15 , **@ESQUEER_** 15 , **MEN** 11 , **WOMAN** 9 , **GOOD** 8 , **@AGINGWHITEGAY** 8 , **I’M** 8 , **MAN** 8 , **@THEPOSIEPARKER** 8 , **NEW** 7 , **@JEBADOO2** 7 , **DAY** 6 , **@AGINGWHITEGAY:** 6 , **@TOUGHTALKTY** 6 , **YOU’RE** 6 , 
  
 ## What this user tweeted
  
-To apply, fill out the details using the following Google Form:
-
-https://t.co/qbZQ4y2CJF
-
-#hbt… https://t.co/2AWvtMZ20U
+@iamloveable2020 @TheZeitgeistNZ @PearlMo77597172 Why were you at a Nazi rally?  Or are they just standing for Ukraine?
  
-# BLAQLIVESUSER INFO
-![image](http://pbs.twimg.com/profile_images/1637893135446450202/F8HT_3So_normal.jpg)
+# KimeuJosep99469USER INFO
+![image](http://pbs.twimg.com/profile_images/1638849792662028291/dk90XZAq_normal.png)
  
-`User ScreenName:` BLAQLIVES 
+`User ScreenName:` KimeuJosep99469 
  
-`User chosen Name:` BLAQ 
+`User chosen Name:` Tillah 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 20 17:00:33 +0000 2023 
+`User signup date?:` Thu Mar 23 10:26:53 +0000 2023 
  
-`User Description?:` Entrepreneur // Designer // IT  
-Whatever your mind can conceive & believe, It can achieve. 
+`User Description?:` Gooner🔫 
  
-`Followers?: `23 
+`Followers?: `6 
  
-`Following?:` 79 
+`Following?:` 142 
  
 `User URL?:` None 
  
-`Location:` Nairobi, Kenya 
+`Location:`  
+ 
+`Number of tweets extracted`  : 51 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1638849792662028291/dk90XZAq_normal.png 
+ 
+`Number of tweets excluding replies:` 50 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PRESIDENT** 6 , **KENYA** 5 , **RUTO** 4 , **NAIROBI** 4 , **@KIMUZI_:** 4 , **LAND** 4 , **US** 4 , **WILLIAM** 3 , **RAILA** 3 , **YA** 3 , **NORTHLANDS** 3 , **NA** 3 , **TIME** 3 , **THREAD** 2 , **WAR** 2 , **NEWS** 2 , **HII** 2 , **SHIT** 2 , **WHERE** 2 , **PEOPLE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @rbsw: THREAD
+The Global South &amp; the Ukraine War
+
+Kenya’s President William Ruto speaks out:
+
+“This is not about the North or the South.…
+ 
+# bigwindongplssUSER INFO
+![image](http://pbs.twimg.com/profile_images/1637673101487124480/w0470r2E_normal.jpg)
+ 
+`User ScreenName:` bigwindongplss 
+ 
+`User chosen Name:` luckymoon || freetag 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 20 04:30:38 +0000 2023 
+ 
+`User Description?:` i'm so lucky lucky so lucky lucky~ 
+ 
+`Followers?: `168 
+ 
+`Following?:` 743 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1637673101487124480/w0470r2E_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1836 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 130 , **•** 83 , **IDR** 79 , **FOLLOW** 50 , **+** 49 , **||** 43 , **HOURS** 32 , **MINS** 32 , **RETWEET** 31 , **@GIANPROMOTES:** 29 , **DRAW** 28 , **$2** 27 , **30000** 27 , **@PRCTIU:** 27 , **TWEET** 26 , **120** 25 , **VIA** 23 , **24** 22 , **BELOW** 21 , **👇** 19 , 
+ 
+## What this user tweeted
+ 
+RT @_SmartLiquidity: ☯️ Dive into the Yin &amp; Yang of #Crypto Regulation &amp; learn about TOP 10 Countries Impacting on Global Crypto Market !…
+ 
+# marn52963USER INFO
+![image](http://pbs.twimg.com/profile_images/1637631694802128896/V6MIYKGJ_normal.jpg)
+ 
+`User ScreenName:` marn52963 
+ 
+`User chosen Name:` Marn 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 19 12:20:36 +0000 2023 
+ 
+`User Description?:` @mar_menang @mar_menang2 @momscantik123 kesuspend semua,jika win please jangan di rerol 
+ 
+`Followers?: `53 
+ 
+`Following?:` 597 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 195 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1637893135446450202/F8HT_3So_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1637631694802128896/V6MIYKGJ_normal.jpg 
  
-`Number of tweets excluding replies:` 197 
+`Number of tweets excluding replies:` 2206 
  
 
  
@@ -337,40 +270,38 @@ Whatever your mind can conceive & believe, It can achieve.
  
 ## User Top tweeted words 
  
-**@BLAQLIVES:** 31 , **LOVE** 15 , **AFTER** 9 , **NA** 9 , **@STANDARDKENYA:** 8 , **DAY** 7 , **@OMWAMBAKE:** 7 , **PEOPLE** 6 , **ME:** 6 , **@VALENTIINOALI:** 6 , **@IH8RTS:** 6 , **ANYTHING** 6 , **FOLLOW** 5 , **@BLAQLIVESRT** 5 , **ALWAYS** 5 , **SOMEONE** 5 , **UR** 5 , **WORLD** 5 , **LEO** 5 , **TWITTER** 4 , 
+**RT** 87 , **•** 51 , **FOLLOW** 39 , **+** 38 , **HOURS** 32 , **||** 30 , **$20** 23 , **IDR** 23 , **GIVEAWAY** 18 , **~** 15 , **3** 14 , **$10** 11 , **$100** 10 , **-RT** 10 , **2** 10 , **@PRCTIU:** 10 , **TWEET** 9 , **24** 8 , **$50** 8 , **📌** 8 , 
  
 ## What this user tweeted
  
-RT @hackinarticles: Pic of the Day
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…
+RT @_SmartLiquidity: ☯️ Dive into the Yin &amp; Yang of #Crypto Regulation &amp; learn about TOP 10 Countries Impacting on Global Crypto Market !…
  
-# ai_panoramaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1640082524197081089/G8mRQiJb_normal.jpg)
+# BotGeopoliticalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1638475935220473856/45TTVfyg_normal.jpg)
  
-`User ScreenName:` ai_panorama 
+`User ScreenName:` BotGeopolitical 
  
-`User chosen Name:` AI Panorama 
+`User chosen Name:` Geopolitical Watch 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 20 16:46:55 +0000 2023 
+`User signup date?:` Mon Mar 20 11:40:57 +0000 2023 
  
-`User Description?:` I provide learning space for Artificial Intelligence, Machine Learning,  Deep Learning , Data Science , Robotics , Coding and Programming. 
+`User Description?:` Stay updated on the latest global affairs with our expert analysis and commentary. #geopolitics #worldnews 
  
-`Followers?: `2 
+`Followers?: `22 
  
-`Following?:` 85 
+`Following?:` 18 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 31 
+`Number of tweets extracted`  : 21 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1640082524197081089/G8mRQiJb_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1638475935220473856/45TTVfyg_normal.jpg 
  
-`Number of tweets excluding replies:` 31 
+`Number of tweets excluding replies:` 22 
  
 
  
@@ -378,161 +309,38 @@ RT @hackinarticles: Pic of the Day
  
 ## User Top tweeted words 
  
-**AI** 16 , **CHATBOTS** 7 , **CHATGPT4** 5 , **CHATBOT** 5 , **DUOLINGO** 4 , **NEW** 4 , **TECH** 4 , **ENJOYED** 3 , **THREAD:** 3 , **1** 3 , **FOLLOW** 3 , **3** 3 , **RETWEET** 3 , **APP** 3 , **LEARNING** 3 , **AI…** 3 , **MACHINES** 3 , **CHATGPT** 3 , **STRONG** 3 , **“THE** 3 , 
+**BANK** 5 , **NATIONAL** 4 , **MISSILE** 3 , **UKRAINE** 3 , **INTERNATIONAL** 2 , **PRESIDENT** 2 , **SECURITY** 2 , **FIRE** 2 , **WAGNER** 2 , **MLRS** 2 , **INTO** 2 , **DMITRY** 2 , **DEFENSE** 2 , **INDUSTRY** 2 , **UKRAINIAN** 2 , **"EXPERTS** 1 , **SLOVAKIA** 1 , **FRANCE** 1 , **JAPAN** 1 , **REPRESENTING** 1 , 
  
 ## What this user tweeted
  
-Chatgpt4 assists Duolingo app with 
-
-implicit learning. 
-
-•Chatgpt4 powers the new “Explain 
-
-My Answer”  feature i… https://t.co/wyiwAjvf66
+"Experts from Slovakia, France, and Japan representing the International Atomic Energy Agency (IAEA) will remain at… https://t.co/KMYV4LQ54v"Ukraine's President Volodymyr Zelensky is prepared to host China's President Xi Jinping, expressing willingness fo… https://t.co/rbYM5zDmW0
  
-# AdamuMusaA36063USER INFO
-![image](http://pbs.twimg.com/profile_images/1640419838026760207/fmwJgPe2_normal.jpg)
+# AnboundM10237USER INFO
+![image](http://pbs.twimg.com/profile_images/1640961884169076736/7ekjFYBr_normal.png)
  
-`User ScreenName:` AdamuMusaA36063 
+`User ScreenName:` AnboundM10237 
  
-`User chosen Name:` Adamu Musa ABDULLAHI 
+`User chosen Name:` anbound media 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 19 10:53:37 +0000 2023 
+`User signup date?:` Wed Mar 29 06:19:35 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640419838026760207/fmwJgPe2_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**KANAWA** 2 , **NE** 2 , **RT** 1 , **@PROFISAPANTAMI:** 1 , **SPECIAL** 1 , **GUEST** 1 , **HONOUR** 1 , **MINISTER** 1 , **COMMS** 1 , **DIGITAL** 1 , **ECONOMY** 1 , **@PROFISAPANTAMI** 1 , **PARTICIPATING** 1 , **CYBERSEC…HTTPS://TCO/S1NELTCGRYRT** 1 , **@ADAMUMUSAA36063:** 1 , **NEWPROFILEPIC** 1 , **HTTPS://TCO/KVT7NFOUJNNEWPROFILEPIC** 1 , **HTTPS://TCO/KVT7NFOUJNHTTPS://TCO/ZOW8HUEXKJRT** 1 , **@ABBAELMUSTAPH1:** 1 , **BEST** 1 , 
- 
-## What this user tweeted
- 
-RT @ProfIsaPantami: As the Special Guest of Honour, Minister of Comms and Digital Economy, @ProfIsaPantami is participating in the Cybersec…
- 
-# securityfundedUSER INFO
-![image](http://pbs.twimg.com/profile_images/1639350261230493699/VeRNZ22B_normal.png)
- 
-`User ScreenName:` securityfunded 
- 
-`User chosen Name:` Security, Funded 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 24 19:31:28 +0000 2023 
- 
-`User Description?:` Save hours of market research with a weekly review of cybersecurity funding and industry news in 5 minutes. 
- 
-`Followers?: `2 
  
 `Following?:` 1 
  
-`User URL?:` https://t.co/hIj1lfzmO6 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1639350261230493699/VeRNZ22B_normal.png 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SECURITY** 6 , **@MIKEPSECURITEE:** 5 , **FUNDED** 5 , **NEWSLETTER** 3 , **WEEK'S** 3 , **•** 3 , **CYBERSECURITY** 2 , **COMPANIES** 2 , **@LACEWORK** 2 , **💰** 2 , **ISSUE** 2 , **TOGETHER** 2 , **ISSUE:** 2 , **SVB** 2 , **ROUNDS** 2 , **RT** 1 , **@YARONVORONA:** 1 , **WHILE** 1 , **TRADITIONAL** 1 , **TECHNOLOGY** 1 , 
- 
-## What this user tweeted
- 
-RT @YaronVorona: While traditional #Cybersecurity technology companies will fare better serving enterprise, I think there's an opportunity…
- 
-# BossSaidul57729USER INFO
-![image](http://pbs.twimg.com/profile_images/1640699933782339587/RMe3cYET_normal.jpg)
- 
-`User ScreenName:` BossSaidul57729 
- 
-`User chosen Name:` Saidul Boss 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 28 12:58:41 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 23 
- 
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1640699933782339587/RMe3cYET_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1640961884169076736/7ekjFYBr_normal.png 
  
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VIRTUAL** 2 , **CURRENCY** 2 , **RT** 1 , **@COINGRAPHNEWS:** 1 , **IN:** 1 , **MANDIANT** 1 , **GOOGLE-OWNED** 1 , **CYBERSECURITY** 1 , **FIRM** 1 , **CONDUCTED** 1 , **RESEARCH** 1 , **INDICATING** 1 , **NORTH** 1 , **KOREAN** 1 , **HACKER** 1 , **GRO…RT** 1 , **@CCEXOC:** 1 , **CCEXOC** 1 , **EXCHANGE** 1 , **NEWLY** 1 , 
- 
-## What this user tweeted
- 
-RT @CoingraphNews: JUST IN: #Mandiant, a Google-owned cybersecurity firm, conducted a research indicating that that North Korean hacker gro…
- 
-# GregGosset81556USER INFO
-![image](http://pbs.twimg.com/profile_images/1640775622405267462/hJYxEG6V_normal.jpg)
- 
-`User ScreenName:` GregGosset81556 
- 
-`User chosen Name:` Greg Gossett 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 28 17:01:21 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 34 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 73 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640775622405267462/hJYxEG6V_normal.jpg 
- 
-`Number of tweets excluding replies:` 73 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -540,213 +348,11 @@ RT @CoingraphNews: JUST IN: #Mandiant, a Google-owned cybersecurity firm, conduc
  
 ## User Top tweeted words 
  
-**@RUSTICBARNINC:** 38 , **@MATADORNETWORKS:** 18 , **@GOSSETTSERVICES:** 17 , **RUSTIC** 15 , **DOTHAN** 14 , **SHOWROOM** 13 , **BARN** 12 , **BEAUTIFUL** 11 , **DROP** 11 , **LOOK** 8 , **WAY** 8 , **AL** 8 , **THESE** 8 , **GREAT** 8 , **TIME** 7 , **BETTER** 7 , **GREEN** 7 , **TAG** 7 , **ITEMS** 7 , **PART** 7 , 
+**KUNG** 1 , **CHAN** 1 , **FOUNDER** 1 , **ANBOUND** 1 , **INTERVIEWED** 1 , **HT** 1 , **"IF** 1 , **CHINA** 1 , **LEAD** 1 , **ACHIEVEMENT** 1 , **PEACE** 1 , **UKRAINE** 1 , **ACC…** 1 , **HTTPS://TCO/I6XA08H5BY** 1 , 
  
 ## What this user tweeted
  
-RT @matadornetworks: Popular cryptocurrency exchange platform Coinbase disclosed that it experienced a cybersecurity attack that targeted i…RT @matadornetworks: Cybersecurity and safety measures are the most discussed topic in the business world, as they should be. Securing your…RT @matadornetworks: Your clients expect you to ensure the confidentiality and security of their sensitive data. What happens if you don’t?…
- 
-# GengkiK96042USER INFO
-![image](http://pbs.twimg.com/profile_images/1638118213295935490/RU5ICOsr_normal.jpg)
- 
-`User ScreenName:` GengkiK96042 
- 
-`User chosen Name:` IVANARIANTO 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 21 09:55:47 +0000 2023 
- 
-`User Description?:` AIRDEROP 
- 
-`Followers?: `2 
- 
-`Following?:` 21 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 44 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1638118213295935490/RU5ICOsr_normal.jpg 
- 
-`Number of tweets excluding replies:` 44 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GODJOP** 7 , **AIRDROP** 7 , **@AZMASK_CHANNEL:** 6 , **ACCOUNT** 6 , **TWITTER** 5 , **GALXEID** 5 , **GID:6EEYALJY4KMZJSUXZTALEW** 5 , **@GALXE** 5 , **EACH** 4 , **AZMASK** 4 , **GOD** 3 , **JOIN** 3 , **PEGASUS** 3 , **DEX** 3 , **➕** 3 , **LAUNCHING** 3 , **55000** 3 , **🔥** 3 , **DIGITAL** 2 , **TOKEN** 2 , 
- 
-## What this user tweeted
- 
-RT @Azmask_Channel: CYBER SECURITY
-
-We collaborate with leading Cybersecurity companies such as EY, Darktrace, Digital Shadow, NCC Group, A…
- 
-# Umarfarouq73827USER INFO
-![image](http://pbs.twimg.com/profile_images/1640040341737701380/BwIuumfn_normal.jpg)
- 
-`User ScreenName:` Umarfarouq73827 
- 
-`User chosen Name:` Umarfarouq Shuaibu 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 26 16:59:49 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 31 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640040341737701380/BwIuumfn_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WASPAPPING_:** 2 , **$AIT** 2 , **💰** 2 , **RT** 1 , **HTTPS://TCO/DRU2AIBDVVRT** 1 , **HTTPS://TCO/P5BKXG7UGKRT** 1 , **@PROFISAPANTAMI:** 1 , **ARRIVAL** 1 , **SPECIAL** 1 , **GUEST** 1 , **HONOUR** 1 , **MINISTER** 1 , **COMMS** 1 , **DIGITAL** 1 , **ECONOMY** 1 , **@PROFISAPANTAMI** 1 , **11AM** 1 , **JOINT…RT** 1 , **@AITRADERGLOBAL:** 1 , **🪂** 1 , 
- 
-## What this user tweeted
- 
-RT @ProfIsaPantami: The arrival of the Special Guest of Honour, Minister of Comms &amp; Digital Economy, @ProfIsaPantami by 11am for the Joint…
- 
-# FerMRAHUSER INFO
-![image](http://pbs.twimg.com/profile_images/1640494650216595461/Pf4OBRtg_normal.jpg)
- 
-`User ScreenName:` FerMRAH 
- 
-`User chosen Name:` Fernando Martínez 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 27 23:13:05 +0000 2023 
- 
-`User Description?:` Computer Science @TecdeMonterrey
-Law School @UVMMEXICO 
- 
-`Followers?: `0 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:` México 
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640494650216595461/Pf4OBRtg_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@KCSENKEY** 2 , **@NINABINDEL** 1 , **ACTIONS** 1 , **DEFINITELY** 1 , **TAKEN** 1 , **BEFORE** 1 , **TOO** 1 , **LATE** 1 , **BOTH** 1 , **STUDENT** 1 , **COMPUTER…** 1 , **HTTPS://TCO/LUKUGBABYPRECENTLY** 1 , **READ** 1 , **@NINABINDEL'S** 1 , **PAPER** 1 , **"POST-QUANTUM** 1 , **CRYPTOGRAPHIC** 1 , **ASSEMBLAGES** 1 , **GOVERNANCE** 1 , **TH…** 1 , 
- 
-## What this user tweeted
- 
-Recently read @KCsenkey and @NinaBindel's paper on "Post-quantum cryptographic assemblages and the governance of th… https://t.co/uNwiUVAJ8z
- 
-# amibrahim1109USER INFO
-![image](http://pbs.twimg.com/profile_images/1637491712019841024/rC857eEh_normal.jpg)
- 
-`User ScreenName:` amibrahim1109 
- 
-`User chosen Name:` Ibrahim Muhammed 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 19 16:27:25 +0000 2023 
- 
-`User Description?:` #graduate of #civilengineering #Abuzaria #works at #telecommunicationservices
-
-#future #governor and #reformer of #kebbistate in Sha Allah 
- 
-`Followers?: `3 
- 
-`Following?:` 64 
- 
-`User URL?:` None 
- 
-`Location:` Kano, Nigeria 
- 
-`Number of tweets extracted`  : 16 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1637491712019841024/rC857eEh_normal.jpg 
- 
-`Number of tweets excluding replies:` 16 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ﷴﷺ** 36 , **MAY** 4 , **@PROFISAPANTAMI** 2 , **TENURE** 2 , **PRESIDENT** 2 , **NIGERIA** 2 , **BUHARI** 2 , **NASARAWA** 2 , **RT** 1 , **@SHURAIM:** 1 , **IGBO** 1 , **GUY** 1 , **DONATED** 1 , **50** 1 , **KETTLES** 1 , **SOME** 1 , **CASH** 1 , **MOSQUE** 1 , **LARANTO** 1 , **JOS** 1 , 
- 
-## What this user tweeted
- 
-RT @ProfIsaPantami: As the Special Guest of Honour, Minister of Comms and Digital Economy, @ProfIsaPantami is participating in the Cybersec…
- 
-# sulaimanal25480USER INFO
-![image](http://pbs.twimg.com/profile_images/1639696857298288640/gtJwyDs9_normal.png)
- 
-`User ScreenName:` sulaimanal25480 
- 
-`User chosen Name:` sulaiman alhaji auwal 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Mar 25 18:32:49 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 85 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 28 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1639696857298288640/gtJwyDs9_normal.png 
- 
-`Number of tweets excluding replies:` 28 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PROFISAPANTAMI:** 5 , **NAIRA** 4 , **NIGERIA** 3 , **HAPPY** 3 , **SPECIAL** 3 , **MINISTER** 3 , **COMMS** 3 , **DIGITAL** 3 , **ECONOMY** 3 , **@PROFISAPANTAMI** 3 , **OBIKE** 3 , **@CHANNELSTV:** 2 , **COURT** 2 , **CYBERSECURITY** 2 , **GUEST** 2 , **HONOUR** 2 , **@MAHEEDMUAZU:** 2 , **ANNIVERSARY** 2 , **@CAPTJAMYL** 2 , **MAY** 2 , 
- 
-## What this user tweeted
- 
-RT @ProfIsaPantami: #DigitalNigeria 
-
-Joint Cybersecurity Capacity Building Workshop for Nigeria organised by the Federal Ministry of Commu…RT @ProfIsaPantami: As the Special Guest of Honour, Minister of Comms and Digital Economy, @ProfIsaPantami is participating in the Cybersec…RT @ProfIsaPantami: Minister of Comms and Digital Economy, @ProfIsaPantami delivers the Keynote address during Day 1 of the Cybersecurity S…RT @ProfIsaPantami: The arrival of the Special Guest of Honour, Minister of Comms &amp; Digital Economy, @ProfIsaPantami by 11am for the Joint…
+Kung Chan, founder of ANBOUND, was interviewed with HT. "If China can lead the achievement of peace in Ukraine, acc… https://t.co/I6Xa08h5by
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
