@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **dddale**  
+The most popular user is: **DailyOsint**  
  
 
-## This may be one of the stupidest tweets I have ever read: https://t.co/bNYRu2JBrs 
+## Need to research a .onion domain and don't know how?
+
+TorWhois is a search engine that lists Tor sites' open ports,… https://t.co/Xggj0paI8I 
 
   
 
@@ -23,24 +25,24 @@ The most popular user is: **dddale**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @hackinarticles: Pic of the Day#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity… |
-| RT @ReebootToInit5: Hi infosec community and hackers.I need a little help from the community.One of my colleagues dad has been in ICU for… |
-| RT @0xor0ne: BPFDoor: backdoor targeting Linux with BPF based packet sniffing capabilitiesAnalysis by @SandflySecurityAnalysis: https://… |
+| You spoke. We stopped listing - our new CSS Blocklist rules listed 1.4m IPs..some false positives. Our researchers… https://t.co/U7U6S6GhmD |
+| Apple macOS Ventura buffer overflow | CVE-2023-27957 - https://t.co/Ry6HM86E2F#CVE #Vulnerability #OSINT #ThreatIntel #Cyber |
+| Week in review: Manage the risk of ChatGPT use, know the danger of failed #infosec #infosecurity #cybersecurity… https://t.co/JLO4gWB9Jg |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **hack_git** |
-| #3 Most tweeted to  | **ptracesecurity** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 6.34%|
+| #1 Most tweeted to  | **CyberIQs_** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **FalconFeedsio** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 1.4%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,107 +53,29 @@ The most popular user is: **dddale**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **@HACKINARTICLES:** |
-| fourth  | **CYBERSECURITYTIPS**  |
-| fifth  | **INFOSECURITY**  |
+| second  | **INFOSECURITY**  |
+| third  | **THREATINTEL** |
+| fourth  | **@CYBERIQS_:**  |
+| fifth  | **THREATINTEL…**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @0xor0ne: BPFDoor: backdoor targeting Linux with BPF based packet sniffing capabilitiesAnalysis by @SandflySecurityAnalysis: https://… |
+|Stressed out, walked out, thrown out, or locked up? #infosec #infosecurity #cybersecurity #threatintel… https://t.co/pEm5zsp7T0 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **dddale**  |
+| The most retweeted user is: **DailyOsint**  |
 | ------------- |
-| This may be one of the stupidest tweets I have ever read: https://t.co/bNYRu2JBrs |
+| Need to research a .onion domain and don't know how?TorWhois is a search engine that lists Tor sites' open ports,… https://t.co/Xggj0paI8I |
 
 # Potential Fake Accounts
- 
-# EsportSecureUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641495284520738839/pIlGWut-_normal.jpg)
- 
-`User ScreenName:` EsportSecure 
- 
-`User chosen Name:` EsportSecure 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 29 17:45:55 +0000 2023 
- 
-`User Description?:` IT Security & Esports consulting, awareness, news, emerging tech, AI, and more to better protect gamers & esports organizations 
- 
-`Followers?: `2 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:` Indiana 
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641495284520738839/pIlGWut-_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ESPORTS** 2 , **IMPORTANT** 2 , **GAMING** 2 , **PLATFORM** 1 , **SAAS** 1 , **PROVIDER** 1 , **AWARE** 1 , **PHISHING** 1 , **MALWARE** 1 , **THREATS** 1 , **YOUR…** 1 , **HTTPS://TCO/3CVN2UWIGOIT** 1 , **REMAIN** 1 , **VIGILANT** 1 , **WORLD** 1 , **MAKE** 1 , **SURE** 1 , **BEING** 1 , **CAUTIOUS** 1 , **SUBMIT** 1 , 
- 
-## What this user tweeted
- 
-If you are an esports platform or SaaS provider, it's important to be aware of phishing and malware threats to your… https://t.co/3CvN2uWigo
- 
-# animedone23USER INFO
-![image](http://pbs.twimg.com/profile_images/1642260258050682880/iOuOPG_g_normal.png)
- 
-`User ScreenName:` animedone23 
- 
-`User chosen Name:` Official 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 01 20:18:51 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642260258050682880/iOuOPG_g_normal.png 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 4 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **AUTO** 1 , **WHATSAPP** 1 , **BUSINESS** 1 , **SENDER** 1 , **TURBO** 1 , **PRO** 1 , **V120** 1 , **(AI)** 1 , **ANTI** 1 , **BLOCK** 1 , **OFF…** 1 , **HTTPS://TCO/CM1SKKFTFESEO** 1 , **POWERSUITE** 1 , **ENTERPRISE** 1 , **V974** 1 , 
- 
-## What this user tweeted
- 
-Auto WhatsApp Business Sender Turbo Pro v12.0 Full Activated (Ai) – Anti Block – Discount 100% OFF… https://t.co/cm1SKKfTfESEO PowerSuite Enterprise v97.4 Full Activated – Marketing Tool – Discount 100% OFF https://t.co/Ko0P955LLP… https://t.co/iyuyao1ti2
  
 # 3vgeniybogachevUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg)
@@ -191,64 +115,39 @@ Zeus Botnet author & creator !
  
 ## What this user tweeted
  
-RT @hackinarticles: Remote Desktop Penetration Testing (Port 3389)
-
-https://t.co/CSRTVJiFov
-
-#infosec #cybersecurity #cybersecuritytips #pe…RT @fedrick_hack7: Dm me now for any #Hacked accounts or Recovery, #infosec #cybersecurity #pentesting #oscp #informationsecurity #hacking…RT @ptracesecurity: 3CX VoIP Software Compromise &amp; Supply Chain Threats https://t.co/pzragNRTyI  #Pentesting #WebSecurity #Hacking #Infosec…RT @0xor0ne: Windows kernel drivers for red team tools development
-Introduction series by @Idov31
-
-Part 1: https://t.co/gLIk9tGiEI 
-Part 2:…RT @hackinarticles: Pic of the Day 
-
- #infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity #…RT @hacker_poulsen: strange ways emproyees can (accidently) expose data
-#DataSecurity #Privacy
-#100DaysOfCode
-#CloudSecurity
-#MachineLearni…RT @hackinarticles: Pic of the Day
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity #ci…RT @DailyCTI: How to assess threat actor intentions and capabilities?
+RT @DailyCTI: How to assess threat actor intentions and capabilities?
 
 You can read @klrgrz 's blog about the Threat Box model.
 
-https://t.…RT @ptracesecurity: Acoustic keyboard eavesdropping https://t.co/qFGmcCMZf7 #Infosec https://t.co/oxnXPQy2u2RT @hackinarticles: Socat for Pentester
+https://t.…RT @AnonymousH4ck35: If you need a comprehensive #email #OSINT #tool,
 
-https://t.co/NYINDMJVPX
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informat…RT @hackinarticles: Pic of the Day
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…RT @hackinarticles: Pic of the Day
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity #ci…RT @hackinarticles: Pic of the Day
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…RT @hackinarticles: Pic of the Day
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…
+Poastal provides you with valuable information on any email address.…RT @CyberIQs_: How to make the most of Symantec CloudSOC CASB – (Part3) #infosec #infosecurity #cybersecurity #threatintel #threatintellige…RT @CtacPaladion: [INFO] Silent Night #Zeus #botnet available for #sale in #underground forums
+To read more visit: https://t.co/bM27kTbdG0…
  
-# tradeblack1422USER INFO
-![image](http://pbs.twimg.com/profile_images/1641479810005483520/sShpfYBa_normal.png)
+# CyberSec_CafeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1641373383345537031/j3NCTXKz_normal.jpg)
  
-`User ScreenName:` tradeblack1422 
+`User ScreenName:` CyberSec_Cafe 
  
-`User chosen Name:` indonesian tradeblacklist 
+`User chosen Name:` Cybersecurity Cafe 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 30 16:37:38 +0000 2023 
+`User signup date?:` Thu Mar 23 13:00:44 +0000 2023 
  
-`User Description?:` Community Trader 
+`User Description?:` Andrea Succi | Cyber Strategist | Global Cybersecurity Leader | Cyber Evangelist | Passionate about securing digital landscapes & driving resilience 
  
-`Followers?: `2 
+`Followers?: `3 
  
-`Following?:` 8 
+`Following?:` 16 
  
-`User URL?:` None 
+`User URL?:` https://t.co/kxnUFOX9HH 
  
-`Location:` Kediri, Jawa Timur, Indonesia 
+`Location:` Milan, Italy 
  
 `Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641479810005483520/sShpfYBa_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1641373383345537031/j3NCTXKz_normal.jpg 
  
 `Number of tweets excluding replies:` 3 
  
@@ -258,230 +157,13 @@ https://t.co/NYINDMJVPX
  
 ## User Top tweeted words 
  
-**==&GT;** 2 , **RT** 1 , **@THEXSSRAT:** 1 , **HERE** 1 , **LIST** 1 , **100** 1 , **TOOLS** 1 , **ETHICAL** 1 , **HACKER** 1 , **ABOUT:** 1 , **NMAP** 1 , **METASPLOIT** 1 , **FRAMEWORK** 1 , **WIRESHARK** 1 , **JOHN** 1 , **RIPPE…RT** 1 , **@7H3H4CKV157:** 1 , **RED** 1 , **TEAM** 1 , **TOOLKIT** 1 , 
+**RT** 1 , **@DAILYOSINT:** 1 , **SCAN** 1 , **URL** 1 , **PHISHING?** 1 , **CHECKPHISH** 1 , **REAL-TIME** 1 , **SANDBOX** 1 , **IDENTIFYING** 1 , **PHISHING** 1 , **SCAM** 1 , **PA…🔒** 1 , **GROWING** 1 , **COMPLEXITY** 1 , **CYBERSECURITY:** 1 , **XDR** 1 , **SIMPLIFY** 1 , **SECURITY** 1 , **OPERATIONS** 1 , **FIND** 1 , 
  
 ## What this user tweeted
  
-RT @7h3h4ckv157: Red Team toolkit : 📢
+RT @DailyOsint: Do you want to scan a URL to see if it is phishing?
 
-#infosec #redteam #Hacking
-
-RECONNAISSANCE:
-
-- RustScan ==&gt; https://t.co/UIouyH9seC 
-
-- Amass ==&gt; ht…
- 
-# MyHackBoxUSER INFO
-![image](http://pbs.twimg.com/profile_images/1642080345720868867/rWX3N-f4_normal.jpg)
- 
-`User ScreenName:` MyHackBox 
- 
-`User chosen Name:` Hack Ethical News H.E.N 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 01 08:10:13 +0000 2023 
- 
-`User Description?:` Hello,
-I live in France
-I am 1* years old
-The reason I opened this account is to tell people about the Virtual world and to protect people from the VirtualWorld 
- 
-`Followers?: `0 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:` Nantes, France 
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642080345720868867/rWX3N-f4_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**EXPLOITING** 2 , **HACK** 2 , **@GOALTURKIYE** 1 , **VAYBE🧊OLD** 1 , **PISHING** 1 , **TOOLS🔥** 1 , **INSTALL** 1 , **GO** 1 , **HTTPS://TCO/YAZPKK5NYI** 1 , **USE** 1 , **ETHICALY** 1 , **RESPONSABLE** 1 , **CA…** 1 , **HTTPS://TCO/FOZBVMOEL2CYBER** 1 , **ESPIONAGE** 1 , **GROUP** 1 , **WINTER** 1 , **VIVERN** 1 , **(AKA** 1 , **TA473)** 1 , 
- 
-## What this user tweeted
- 
-Cyber espionage group Winter Vivern (aka TA473) targets officials in Europe and U.S. by exploiting unpatched Zimbra… https://t.co/0zb5ozEWzv
- 
-# hacker_henry0USER INFO
-![image](http://pbs.twimg.com/profile_images/1641653366664183808/ylESSZQw_normal.jpg)
- 
-`User ScreenName:` hacker_henry0 
- 
-`User chosen Name:` Henry Hacker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 31 00:54:23 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641653366664183808/ylESSZQw_normal.jpg 
- 
-`Number of tweets excluding replies:` 223 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HACKED** 71 , **ACCOUNT** 62 , **HACKING** 54 , **DM** 44 , **INBOX** 38 , **DE** 37 , **ANY** 35 , **SNAPCHAT** 35 , **RECOVERY** 27 , **RECOVER** 24 , **24/7** 24 , **FACEBOOKDOWN** 23 , **HELP** 21 , **HACKER** 19 , **AVAILABLE** 19 , **NEED** 18 , **WHATSAPP** 17 , **AHORA** 17 , **PARA** 16 , **ACCOUNTS** 15 , 
- 
-## What this user tweeted
- 
-For support and help, contact your favorite #Hacker fast and reliable. All social media
-#CyberSecurity #hacker… https://t.co/v3qN0unhS4Wondering how to #Recover, #hacked, retrieve, or protect any accounts or wallets DM now
-
-#CyberSecurity #hacker… https://t.co/b5KxDePsyTFor Hacking or any Recovery services Dm now!
-
-#CyberSecurity #hacker #infosec 
-@reach2ratan
- #security #cyber #tech… https://t.co/5dnGB3jgHQDm me now for any #Hacked accounts or Recovery, #infosec #cybersecurity #pentesting #oscp  #informationsecurity… https://t.co/U89XsaARu5
- 
-# IshikaGoyal0402USER INFO
-![image](http://pbs.twimg.com/profile_images/1639328790097670147/RrnRtNDS_normal.png)
- 
-`User ScreenName:` IshikaGoyal0402 
- 
-`User chosen Name:` Ishika Goyal 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 24 18:10:15 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1639328790097670147/RrnRtNDS_normal.png 
- 
-`Number of tweets excluding replies:` 820 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AZURE** 194 , **@OMIOSSEC_MED:** 34 , **CLOUD** 34 , **MICROSOFT** 31 , **@OMIOSSEC_MED** 31 , **BICEP** 22 , **USING** 21 , **DEVOPS** 18 , **POWERSHELL** 16 , **IAC** 13 , **SECURITY** 11 , **@BENSTEGINK:** 11 , **A…RT** 10 , **FREE** 9 , **NETWORK** 9 , **COURSES** 8 , **LEARN** 8 , **DEVELOPER** 7 , **AWS** 7 , **OPENAI** 7 , 
- 
-## What this user tweeted
- 
-RT @omiossec_med: How to list Azure VM potentially affected by the OMI RCE from @omiossec_med #azure #infosec #security #omi  https://t.co/…
- 
-# AngeloV07594674USER INFO
-![image](http://pbs.twimg.com/profile_images/1641865357064298504/F-X-qtxY_normal.jpg)
- 
-`User ScreenName:` AngeloV07594674 
- 
-`User chosen Name:` Angelo V 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 31 18:09:39 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 41 
- 
-`User URL?:` None 
- 
-`Location:` Oost-Vlaanderen  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641865357064298504/F-X-qtxY_normal.jpg 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PCMAG:** 3 , **@HACKINARTICLES:** 2 , **DOCKER** 2 , **BUSINESS** 2 , **FRANCE** 2 , **GROUP** 2 , **RT** 1 , **Y'ALL** 1 , **READY** 1 , **SMOOTH** 1 , **STYLINGS** 1 , **SHIMON?** 1 , **HTTPS://TCO/FQAVIPYY6YMETALLICA:** 1 , **DARKNESS** 1 , **SON** 1 , **(OFFICIAL** 1 , **MUSIC** 1 , **VIDEO)** 1 , **HTTPS://TCO/MLVVSESUJZ** 1 , **VIA** 1 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Docker for Pentester
-
-Abusing Docker API
-https://t.co/3oVFt1a9wx
-
-Image Vulnerability Assessment
-https://t.co/kdENQzNYl…
- 
-# RMatipara27921USER INFO
-![image](http://pbs.twimg.com/profile_images/1641920926983008257/AsEjjBIq_normal.jpg)
- 
-`User ScreenName:` RMatipara27921 
- 
-`User chosen Name:` ruhul matipara 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 31 21:50:28 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641920926983008257/AsEjjBIq_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**INSTAGRAM** 1 , **DATA** 1 , **EXTRACTOR** 1 , **PRO** 1 , **V30** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/JGMRDWYZR5** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/WHOEUZFIL2** 1 , 
- 
-## What this user tweeted
- 
-Instagram Data Extractor Pro v3.0 Full Activated – Discount 100% OFF https://t.co/jgmRdwYZR5 #infosec #bugcrowd… https://t.co/WHoeuzFil2
+Checkphish is a real-time sandbox for identifying phishing and scam pa…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
