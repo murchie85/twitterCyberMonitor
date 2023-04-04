@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **SIfill_**  
+The most popular user is: **DailyOsint**  
  
 
-## This is a VERY SERIOUS situation unfolding in Nashville. The reps who stood w/their constituents who came to the st… https://t.co/n9n8Ek21Jk 
+## Need to research a .onion domain and don't know how?
+
+TorWhois is a search engine that lists Tor sites' open ports,… https://t.co/Xggj0paI8I 
 
   
 
@@ -23,24 +25,24 @@ The most popular user is: **SIfill_**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Broadcom and New Innovations in Wireless Broadband Infrastructure for the #infosec #infosecurity #cybersecurity… https://t.co/mZjwN9GNSS |
-| RT @enelago: Password Manager #infosec https://t.co/hDcVHPJdqx |
-| Wondering how to #Recover, #hacked, retrieve, or protect any accounts or wallets DM now#CyberSecurity #hacker… https://t.co/6Ew5e6riiy |
+| Machine Learning NOT Marketing Lingo #infosec #infosecurity #cybersecurity #threatintel #threatintelligence… https://t.co/IHP4DRgbTW |
+| Do you need a search engine made for cyberspace mapping?You can try Fofa, a #tool for detecting Internet assets.… https://t.co/A0xRi1MS5p |
+| NanoLock Security, ISTARI push device level OT cyber protection, meet #infosec #infosecurity #cybersecurity… https://t.co/8B6XJDaKlj |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **hack_git** |
-| #3 Most tweeted to  | **CyberIQs_** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 4.98%|
+| #1 Most tweeted to  | **CyberIQs_** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **Volexity** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 1.44%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,40 +53,40 @@ The most popular user is: **SIfill_**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **INFOSECURITY** |
-| fourth  | **@HACKINARTICLES:**  |
-| fifth  | **CYBERSECURITYTIPS**  |
+| second  | **INFOSECURITY**  |
+| third  | **THREATINTEL** |
+| fourth  | **@CYBERIQS_:**  |
+| fifth  | **THREATINTEL…**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|The Cyber Security Observatory APAC - 7th Ed. is ready for download (open and free for the community):… https://t.co/dfbzxizr4C |
+|Forcepoint Cloud Security Gateway cross-site scripting | CVE-2023-26291 - https://t.co/KNVgna1pRG#CVE… https://t.co/eJriVifaPN |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SIfill_**  |
+| The most retweeted user is: **DailyOsint**  |
 | ------------- |
-| This is a VERY SERIOUS situation unfolding in Nashville. The reps who stood w/their constituents who came to the st… https://t.co/n9n8Ek21Jk |
+| Need to research a .onion domain and don't know how?TorWhois is a search engine that lists Tor sites' open ports,… https://t.co/Xggj0paI8I |
 
 # Potential Fake Accounts
  
-# aleksan83085148USER INFO
-![image](http://pbs.twimg.com/profile_images/1643339440985628673/8Yg_ryxS_normal.png)
+# actinfo001USER INFO
+![image](http://pbs.twimg.com/profile_images/1642863710804013056/1NXhMXGv_normal.png)
  
-`User ScreenName:` aleksan83085148 
+`User ScreenName:` actinfo001 
  
-`User chosen Name:` александр тищенко 
+`User chosen Name:` Act Info 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 04 19:47:08 +0000 2023 
+`User signup date?:` Mon Apr 03 12:16:46 +0000 2023 
  
 `User Description?:`  
  
@@ -98,7 +100,7 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1643339440985628673/8Yg_ryxS_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1642863710804013056/1NXhMXGv_normal.png 
  
 `Number of tweets excluding replies:` 1 
  
@@ -108,91 +110,12 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
  
 ## User Top tweeted words 
  
-**YOUTUBE** 2 , **–** 2 , **VIDIQ** 1 , **VISION** 1 , **ENTERPRISE** 1 , **V38610** 1 , **FULL** 1 , **ACTIVATED** 1 , **SEO** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/SP5DX3GHL3** 1 , 
+**THREATINTEL** 1 , **HEY** 1 , **GUYS** 1 , 
  
 ## What this user tweeted
  
-vidIQ Vision For YouTube Enterprise v3.86.1.0 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/Sp5Dx3gHl3
- 
-# julyrich001USER INFO
-![image](http://pbs.twimg.com/profile_images/1643330389585588227/GNuegT7C_normal.png)
- 
-`User ScreenName:` julyrich001 
- 
-`User chosen Name:` RAIHANNA AZZAKIYAH 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 19:11:10 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 8 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643330389585588227/GNuegT7C_normal.png 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DAY** 2 , **RT** 1 , **@CONVOMFS:** 1 , **💭** 1 , **MASALAH** 1 , **NYA** 1 , **ADA** 1 , **PADA** 1 , **DIRIMU** 1 , **HTTPS://TCO/GJ6AHLSFGRRT** 1 , **@TVONENEWS:** 1 , **ONAD** 1 , **TANYA** 1 , **KENAPA** 1 , **KOK** 1 , **ISLAM** 1 , **SEOLAH** 1 , **BANYAK** 1 , **LARANGANNYA** 1 , **DIJAWAB** 1 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Pic of the Day    
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity…
- 
-# JosiasSilv24335USER INFO
-![image](http://pbs.twimg.com/profile_images/1643274013421043716/MWjOEkTw_normal.png)
- 
-`User ScreenName:` JosiasSilv24335 
- 
-`User chosen Name:` Josias Silva Siqueira 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 15:27:09 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643274013421043716/MWjOEkTw_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DUOLINGO** 1 , **SUPER** 1 , **PREMIUM** 1 , **5933** 1 , **FULL** 1 , **ACTIVATED** 1 , **(** 1 , **LEARNING** 1 , **LANGUAGES** 1 , **)** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/HBEFUUEUTK…** 1 , **HTTPS://TCO/NE76CCNCRQ** 1 , 
- 
-## What this user tweeted
- 
-Duolingo SUPER Premium 5.93.3 Full Activated ( Learning Languages ) – Discount 100% OFF https://t.co/HBeFUuEutk… https://t.co/nE76cCnCRq
+#ThreatIntel 
+Hey Guys
  
 # 3vgeniybogachevUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg)
@@ -232,90 +155,14 @@ Zeus Botnet author & creator !
  
 ## What this user tweeted
  
-RT @hackinarticles: Pic of the Day
+RT @DailyCTI: How to assess threat actor intentions and capabilities?
 
-#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…RT @Cybernozcom: Theft of Arbitrary files from LocalStorage | Hacking on Android With Gaurang | #InsecureShop – 02 https://t.co/qYYIO3sZZG…
- 
-# MohsinB00USER INFO
-![image](http://pbs.twimg.com/profile_images/1643134349741789184/q_jE2YdW_normal.jpg)
- 
-`User ScreenName:` MohsinB00 
- 
-`User chosen Name:` Mohsin Bashir 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 06:12:11 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643134349741789184/q_jE2YdW_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
+You can read @klrgrz 's blog about the Threat Box model.
 
- 
+https://t.…RT @AnonymousH4ck35: If you need a comprehensive #email #OSINT #tool,
 
- 
-## User Top tweeted words 
- 
-**DRIVERPACK** 1 , **SOLUTION** 1 , **V171014-22094** 1 , **OFFLINE** 1 , **FULL** 1 , **2023** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/B0JT86TFFU** 1 , **INFOSEC…** 1 , **HTTPS://TCO/Y8RD1NWYRX** 1 , 
- 
-## What this user tweeted
- 
-DriverPack Solution v17.10.14-22094 Offline Full 2023 – Discount 100% OFF https://t.co/b0Jt86TfFU #infosec… https://t.co/Y8rD1nwYRX
- 
-# Kush420frUSER INFO
-![image](http://pbs.twimg.com/profile_images/1640008128535097344/jsmYI-wE_normal.jpg)
- 
-`User ScreenName:` Kush420fr 
- 
-`User chosen Name:` Kush France 🇫🇷 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 26 15:09:33 +0000 2023 
- 
-`User Description?:` Bon plan beuh en cash main propre 🇫🇷 Contactez-moi sur Telegram :@Zoneverte  Snap :@bedo420fr_ce Wirck:@plugshopp Passez vos commandes 🇫🇷 
- 
-`Followers?: `2 
- 
-`Following?:` 29 
- 
-`User URL?:` https://t.co/eah8kg51bc 
- 
-`Location:` Ile-de-France, France 
- 
-`Number of tweets extracted`  : 40 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640008128535097344/jsmYI-wE_normal.jpg 
- 
-`Number of tweets excluding replies:` 40 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@KUSH420FR:** 19 , **PSG** 11 , **100DAYSOFCODE** 11 , **PRIVACY** 10 , **CLOUDSECURITY** 8 , **MACHINELEARNING** 8 , **PHISHING** 8 , **DATASECURITY** 7 , **RANSOMWARE** 7 , **WEEDMOB** 7 , **WEEDLOVERS** 6 , **HANF** 5 , **FRANCEVERTE** 5 , **PARIS** 5 , **LYON** 4 , **BORDEAUX** 4 , **WEEDSMOKERS** 4 , **WEEDSOCIETY** 4 , **CANNIBISLIFE** 4 , **420FRIENDLY** 4 , 
- 
-## What this user tweeted
- 
-RT @Kush420fr: Snap👻:bedo420fr_ce
-#DataSecurity #Privacy
-#100DaysOfCode #CloudSecurity
-#MachineLearning #Phishing #Ransomware #Cybersecurit…
+Poastal provides you with valuable information on any email address.…RT @CyberIQs_: How to make the most of Symantec CloudSOC CASB – (Part3) #infosec #infosecurity #cybersecurity #threatintel #threatintellige…RT @CtacPaladion: [INFO] Silent Night #Zeus #botnet available for #sale in #underground forums
+To read more visit: https://t.co/bM27kTbdG0…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
