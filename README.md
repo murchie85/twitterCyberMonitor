@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **KeplerHomes**  
+The most popular user is: **JosBtrigga**  
  
 
-## Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK 
+## I confronted @hakeemjeffries on the Nordstream 2 pipeline revelations. I asked him to inquire into whether or not i… https://t.co/ZRIIyIQTER 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **KeplerHomes**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @IMFNews: Vulnerabilities such as elevated leverage, liquidity mismatches, and interconnectedness can heighten the stress in the nonbank… |
-| 4 Steps for Shifting Left &amp; Winning the Cybersecurity Battle: https://t.co/CSDm7Bgteq by @PastaOverEther, head geek, @solarwinds |
-| RT @davidobi_: Portrait photography sometimes should be treated  like a therapy session between the subject and the photographer. There’s a… |
+| @RonWaxman @ProjectLincoln Says the biden sheep with a Ukraine flag. When is Biden going to take care of business a… https://t.co/ywSItpChqE |
+| RT @OlenaHalushka: SBU exposed former rector of the parish of the russian orthodox church in Ukraine who blessed russian army &amp; their milit… |
+| @Biz_Ukraine_Mag A little to late boy! |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FantomFDN** |
-| #2 Most tweeted to  | **DemopJ** |
-| #3 Most tweeted to  | **cyberabadpolice** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 7.44%|
-| Tweeters with > 1000000 followers  | 0.3%  |
+| #1 Most tweeted to  | **MrAndyNgo** |
+| #2 Most tweeted to  | **Spriter99880** |
+| #3 Most tweeted to  | **mikepompeo** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 5.28%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **KeplerHomes**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **EXPLOITED**  |
-| third  | **SMART** |
-| fourth  | **DATA**  |
+| first  | **UKRAINE**  |
+| second  | **NATO**  |
+| third  | **RUSSIA** |
+| fourth  | **TRUMP"**  |
 | fifth  | **US**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@SuN_dzgns This logo would really work well for a penetrative hackers tool, probably called "SunZploit" used for br… https://t.co/XJpYZooc8p |
+|@ZelenskyyUa @POTUS I am an American, and I and everyone I know DO NOT support your Neonazi regime.💯 You will not b… https://t.co/d98nkNdq91 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KeplerHomes**  |
+| The most retweeted user is: **JosBtrigga**  |
 | ------------- |
-| Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK |
+| I confronted @hakeemjeffries on the Nordstream 2 pipeline revelations. I asked him to inquire into whether or not i… https://t.co/ZRIIyIQTER |
 
 # Potential Fake Accounts
  
-# llsur317USER INFO
-![image](http://pbs.twimg.com/profile_images/1641406873512423427/19tixpFy_normal.jpg)
+# muramatsuS94662USER INFO
+![image](http://pbs.twimg.com/profile_images/1642762414906302471/dCWpcgLX_normal.jpg)
  
-`User ScreenName:` llsur317 
+`User ScreenName:` muramatsuS94662 
  
-`User chosen Name:` Designergirl3017 
+`User chosen Name:` Sachiko Muramatsu 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 27 11:40:26 +0000 2023 
+`User signup date?:` Mon Apr 03 05:28:21 +0000 2023 
  
-`User Description?:` Graphic Designer and Abstract Artist living a fabulous life in the White Mountains. ✌️ 
+`User Description?:`  
  
-`Followers?: `7 
+`Followers?: `1 
  
-`Following?:` 25 
+`Following?:` 18 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 20 
+`Number of tweets extracted`  : 55 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641406873512423427/19tixpFy_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1642762414906302471/dCWpcgLX_normal.jpg 
  
-`Number of tweets excluding replies:` 20 
+`Number of tweets excluding replies:` 55 
  
 
  
@@ -108,79 +108,40 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**@WMUR9** 5 , **@BBCWORLD** 5 , **@CNN** 4 , **@EVANERYSCARLSEN** 3 , **YOU’VE** 3 , **READ** 3 , **YOU’RE** 3 , **CAN’T** 2 , **PEOPLE** 2 , **FOLKS** 2 , **@REUTERS** 2 , **@TOPGUNDY** 2 , **@SSTAEDTLER98** 2 , **WHERE** 2 , **KIDS** 2 , **STOP** 2 , **AGAIN** 2 , **SHAWN** 2 , **PROJECTING** 2 , **US** 2 , 
+**@NYTIMES:** 19 , **@BARACKOBAMA:** 12 , **@OBAMAFOUNDATION:** 6 , **AFTER** 5 , **CARE** 5 , **ACT** 4 , **PEOPLE** 4 , **@UNICEFINJAPAN:** 4 , **DAY** 3 , **@BBCNEWS:** 3 , **NEW** 3 , **DONALD** 3 , **TRUMP** 3 , **CLIMATE** 3 , **MONDAY** 3 , **TRANSGENDER** 3 , **US** 3 , **AFFORDABLE** 3 , **LIMITED** 3 , **RAISED** 2 , 
  
 ## What this user tweeted
  
-@dahughjestanus @Hedzer15 @earlboykinsfan @CNN Nothing you can say to some of these ultra-conservative folks. These… https://t.co/0xAOFJHe0U
+RT @nytimes: Finland’s flag was raised on Tuesday afternoon at the NATO headquarters in Brussels.
+
+The deeply symbolic moment marked the No…
  
-# Alex_Lyon2USER INFO
-![image](http://pbs.twimg.com/profile_images/1640812515927130112/rhL-jsZf_normal.jpg)
+# luchengyaoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1643373902687551489/56pzaqhG_normal.png)
  
-`User ScreenName:` Alex_Lyon2 
+`User ScreenName:` luchengyao 
  
-`User chosen Name:` Alex Lyon 
+`User chosen Name:` CY A 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 28 20:25:26 +0000 2023 
+`User signup date?:` Tue Apr 04 22:04:05 +0000 2023 
  
-`User Description?:` Social Media Manager | Grew 900k+ Organic Followers from Scratch | Author |  DM to Grow Your Brand 
+`User Description?:`  
  
-`Followers?: `56 
+`Followers?: `1 
  
-`Following?:` 136 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 81 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1640812515927130112/rhL-jsZf_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1643373902687551489/56pzaqhG_normal.png 
  
-`Number of tweets excluding replies:` 81 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DON'T** 5 , **CONTENT** 5 , **MEDIA** 5 , **GUYS** 5 , **PEOPLE** 4 , **SOCIAL** 4 , **LIGHT** 4 , **REPLY** 4 , **DAYS** 4 , **DIDN'T** 3 , **+** 3 , **BEING** 3 , **PERSON** 3 , **QUALITY** 3 , **MOST** 3 , **GOING** 3 , **AROUND** 3 , **PURPOSE** 3 , **DURING** 3 , **ENERGY** 3 , 
- 
-## What this user tweeted
- 
-Always avoid talking about depressive stuff on your timeline.
-
-Unless you are directly sympathizing with your targe… https://t.co/pK6T086SJ8
- 
-# AlysiaDiaz08USER INFO
-![image](http://pbs.twimg.com/profile_images/1643321033343025153/wdmQQsw7_normal.jpg)
- 
-`User ScreenName:` AlysiaDiaz08 
- 
-`User chosen Name:` Alysia Diaz 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 29 01:07:17 +0000 2023 
- 
-`User Description?:` Just another thing to mindlessly scroll through. 
- 
-`Followers?: `8 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:` Abilene, TX 
- 
-`Number of tweets extracted`  : 16 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643321033343025153/wdmQQsw7_normal.jpg 
- 
-`Number of tweets excluding replies:` 16 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -188,26 +149,26 @@ Unless you are directly sympathizing with your targe… https://t.co/pK6T086SJ8
  
 ## User Top tweeted words 
  
-**DAYS** 3 , **DAMN** 3 , **PEOPLE** 2 , **VALUE** 2 , **BEING** 2 , **EVERYTHING** 2 , **CHOOSE** 2 , **GOT** 2 , **NEWPROFILEPIC** 1 , **HTTPS://TCO/VERSCBNYA6@NINAGREWAL97** 1 , **HARDEST** 1 , **SHIT** 1 , **LEARN** 1 , **🤦🏻‍♀️RT** 1 , **@NINAGREWAL97:** 1 , **DESERVE** 1 , **MAKE** 1 , **KNOWN** 1 , **INSTEAD** 1 , **INCONSISTENT** 1 , 
+**WORLD** 2 , **@JOEBIDEN** 1 , **THANK** 1 , **MR** 1 , **BIDEN** 1 , **EFFORTS** 1 , **TOWARDS** 1 , **PEACE** 1 , **MAINTAINED** 1 , **ORDER** 1 , **PREVENTED** 1 , **RUSSIA'S…** 1 , **HTTPS://TCO/FMR02EXRYM** 1 , 
  
 ## What this user tweeted
  
-The shittiest thing you can do to a person, is play on their biggest vulnerabilities to manipulate them. 🙄
+@JoeBiden Thank you to Mr. Biden for his efforts towards world peace. He maintained world order, prevented Russia's… https://t.co/FMr02EXRYm
  
-# NextDepotUSER INFO
-![image](http://pbs.twimg.com/profile_images/1639998244775243778/cxxCdoSV_normal.jpg)
+# RapidNewsNetUSER INFO
+![image](http://pbs.twimg.com/profile_images/1643371898602913793/El9PHOU6_normal.jpg)
  
-`User ScreenName:` NextDepot 
+`User ScreenName:` RapidNewsNet 
  
-`User chosen Name:` Next Depot 
+`User chosen Name:` The Rapid News Network 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 26 14:21:06 +0000 2023 
+`User signup date?:` Tue Apr 04 21:51:01 +0000 2023 
  
-`User Description?:` We are building innovative decentralized finance solutions to empower individuals through open, transparent, and permissionless financial products. 
+`User Description?:` The Rapid News Network is an online news source providing timely and accurate coverage of breaking news and current events worldwide. 
  
-`Followers?: `4 
+`Followers?: `0 
  
 `Following?:` 35 
  
@@ -215,50 +176,11 @@ The shittiest thing you can do to a person, is play on their biggest vulnerabili
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1639998244775243778/cxxCdoSV_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1643371898602913793/El9PHOU6_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DEFI** 6 , **CRYPTO** 6 , **FINANCE** 3 , **FUTURE** 3 , **NEVER** 3 , **NEW** 3 , **INVESTORS** 2 , **PROTOCOLS** 2 , **LENDING** 2 , **TRADING** 2 , **BLOCKCHAIN** 2 , **HERE** 2 , **🔒** 1 , **SECURITY** 1 , **PARAMOUNT** 1 , **SPACE** 1 , **THAT'S** 1 , **NEED** 1 , **VIGILANT** 1 , **AUDITS** 1 , 
- 
-## What this user tweeted
- 
-🔒 Security is paramount in the DeFi space. That's why we need to be vigilant about audits, smart contract vulnerabi… https://t.co/1zPkHtfOvV
- 
-# KekoKoko159177USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` KekoKoko159177 
- 
-`User chosen Name:` Keko Koko 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Mar 28 19:09:23 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `9 
- 
-`Following?:` 88 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 139 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 139 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -266,31 +188,28 @@ The shittiest thing you can do to a person, is play on their biggest vulnerabili
  
 ## User Top tweeted words 
  
-**@QUAINETWORK:** 88 , **QUAI** 73 , **@QUAINETWORK** 45 , **NETWORK** 20 , **QUAIDEVS** 19 , **$QUAI** 19 , **@ALANORWICK** 19 , **CO-FOUNDER** 19 , **TOKEN** 17 , **@MECHANIKALK** 16 , **QUAINETWORK** 15 , **NEW** 13 , **CRYPTO** 12 , **BLOCKCHAIN** 10 , **IRON** 10 , **CRYPTORT** 9 , **TESTNET** 9 , **UNIVERSITY** 8 , **AGE** 8 , **UPCOMING** 7 , 
+**AVALANCHE** 2 , **34** 2 , **FELONY** 2 , **COUNTS** 2 , **WHILE** 2 , **DARIA** 1 , **TREPOVA** 1 , **CHARGED** 1 , **TERRORISM** 1 , **OFFENSES** 1 , **KILLING** 1 , **RUSSIAN** 1 , **MILITARY** 1 , **BLOGGER** 1 , **VLADLEN** 1 , **TATARSKY** 1 , **ST…** 1 , **HTTPS://TCO/NAKQ26AT2IMAJOR** 1 , **SIKKIM** 1 , **INDIA** 1 , 
  
 ## What this user tweeted
  
-RT @mechanikalk: Some more takeaways: 
-1) entropy reduction is the goal of work
-2) deltaS=1/2^n defines blockchain 
-3) All PoW vulnerabilit…
+Daria Trepova charged with terrorism offenses over the killing of Russian military blogger Vladlen Tatarsky in St.… https://t.co/NaKq26At2i
  
-# Wahegur31833672USER INFO
-![image](http://pbs.twimg.com/profile_images/1639861419184209921/RpfsJyX7_normal.png)
+# sk8coach311USER INFO
+![image](http://pbs.twimg.com/profile_images/1640731878435979265/_N_-6hzh_normal.jpg)
  
-`User ScreenName:` Wahegur31833672 
+`User ScreenName:` sk8coach311 
  
-`User chosen Name:` Wahegurupal Singg 
+`User chosen Name:` Elizabeth Silver 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Mar 26 05:26:43 +0000 2023 
+`User signup date?:` Tue Mar 28 15:04:46 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `11 
+`Followers?: `14 
  
-`Following?:` 4 
+`Following?:` 145 
  
 `User URL?:` None 
  
@@ -298,9 +217,9 @@ RT @mechanikalk: Some more takeaways:
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1639861419184209921/RpfsJyX7_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1640731878435979265/_N_-6hzh_normal.jpg 
  
-`Number of tweets excluding replies:` 1360 
+`Number of tweets excluding replies:` 448 
  
 
  
@@ -308,77 +227,77 @@ RT @mechanikalk: Some more takeaways:
  
 ## User Top tweeted words 
  
-**@DUTTSANJAY:** 90 , **GLIMPSE** 54 , **KUPWARA** 53 , **WINTER** 53 , **GLIMPSEOFKUPWARAWINTER** 34 , **GLIMPSEKUPWARAWINTER** 34 , **@MANISHT73464911:** 19 , **SHAMSHERA** 14 , **HAPPY** 14 , **LOVE** 13 , **CELEBRATE** 12 , **WISHING** 10 , **DAY** 9 , **FAMILY** 9 , **BIRTHDAY** 9 , **MAY** 9 , **RELEASING** 8 , **THANK** 8 , **WATCH** 7 , **LIFE** 7 , 
+**TRUMP** 24 , **PRESIDENT** 16 , **US** 13 , **BIDEN** 13 , **BRAGG** 12 , **INDICTMENT** 11 , **@DINESHDSOUZA:** 11 , **@MARKLEVINSHOW:** 11 , **LAW** 10 , **@SIMONATEBA:** 9 , **ALVIN** 9 , **@JIM_JORDAN:** 8 , **NEW** 8 , **@CATTURD2:** 8 , **AGAINST** 8 , **PEOPLE** 8 , **@JACKPOSOBIEC:** 7 , **@MRANDYNGO:** 7 , **AFTER** 7 , **AMERICA** 7 , 
  
 ## What this user tweeted
  
-RT @_SocialLinks_: Hey hey! Keep April 11 free because we’ve got a superb free webinar lined up where we’ll discuss some common types of cy…
+RT @MrAndyNgo: A group wore "Blacks for Trump" shirts outside the Manhattan courthouse. They stand next to a man wearing a "F— Trump" hat w…
  
-# nukeswitchwmnUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641529442723069952/Np5OwO5-_normal.png)
+# james_stur74380USER INFO
+![image](http://pbs.twimg.com/profile_images/1640450589183348736/9V8R_JEE_normal.png)
  
-`User ScreenName:` nukeswitchwmn 
+`User ScreenName:` james_stur74380 
  
-`User chosen Name:` joshua norman 
+`User chosen Name:` James Sturgeon 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 30 19:54:51 +0000 2023 
+`User signup date?:` Mon Mar 27 20:27:53 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1640450589183348736/9V8R_JEE_normal.png 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@FOXNEWS** 3 , **@JIM_JORDAN** 3 , **@MARIABARTIROMO** 3 , **PEOPLE** 3 , **@GAMEGROUCH** 2 , **YOU’RE** 2 , **@SAWYERMERRITT** 2 , **@TESLA** 2 , **HYDROGEN** 2 , **DON’T** 2 , **YES** 2 , **@BILLYM2K** 2 , **2ND** 2 , **@BRYAN2221** 1 , **@500PAISOO** 1 , **🪳@OZYANK** 1 , **UGLY** 1 , **FLAG** 1 , **ISN’T** 1 , **LITTLE** 1 , 
+ 
+## What this user tweeted
+ 
+@Ozyank @gamegrouch @FoxNews @Jim_Jordan @MariaBartiromo Ugly flag. Isn’t that that little corrupt place that Russi… https://t.co/DQEnGfrNsV
+ 
+# TarasNovikUSER INFO
+![image](http://pbs.twimg.com/profile_images/1641192693303853057/AH5fs3n-_normal.jpg)
+ 
+`User ScreenName:` TarasNovik 
+ 
+`User chosen Name:` Taras Novik 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 29 21:35:21 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `6 
  
-`Following?:` 66 
+`Following?:` 12 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 198 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641529442723069952/Np5OwO5-_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1641192693303853057/AH5fs3n-_normal.jpg 
  
-`Number of tweets excluding replies:` 837 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK** 53 , **@NUKESWITCHWMN:** 45 , **@ELONMUSKRT** 20 , **OFF** 9 , **DOWN** 9 , **@COBRATATE** 8 , **DWAN** 8 , **BURNED** 7 , **IVEY** 7 , **FULLTILT** 7 , **UNGAR** 7 , **YAKIMA** 7 , **PETTY** 7 , **@COBRATATE:** 6 , **SEXTAPE** 6 , **BLOW** 6 , **NEED** 6 , **TWIN** 6 , **W** 6 , **FLAMETHROWER** 6 , 
- 
-## What this user tweeted
- 
-RT @GmanPoker: 1/2: I was heartened reading the details regarding several security measures HCL has implemented. Security vulnerabilities a…
- 
-# GlassUmbre6USER INFO
-![image](http://pbs.twimg.com/profile_images/1642724529725227008/h8HzzxK1_normal.jpg)
- 
-`User ScreenName:` GlassUmbre6 
- 
-`User chosen Name:` glass umbre 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 03 02:59:07 +0000 2023 
- 
-`User Description?:` Explore new world using Metaverse 
- 
-`Followers?: `1 
- 
-`Following?:` 22 
- 
-`User URL?:` None 
- 
-`Location:` Iceland 
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642724529725227008/h8HzzxK1_normal.jpg 
- 
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -386,251 +305,13 @@ RT @GmanPoker: 1/2: I was heartened reading the details regarding several securi
  
 ## User Top tweeted words 
  
-**@5IRECHAIN:** 5 , **TWITTER** 3 , **ACCOUNT** 2 , **GALXEID** 2 , **GID:GGGZUKHH3FBPA9PKH9LJCH** 2 , **ERA** 2 , **@GALXE** 2 , **SUISWAP** 2 , **REPORT** 2 , **BUG** 2 , **5IFERS!** 2 , **ANOTHER** 2 , **VERIFYING** 1 , **@GALXERT** 1 , **@SYNCSWAP:** 1 , **THRILLED** 1 , **ANNOUNCE** 1 , **SYNCSWAP** 1 , **PIONEER** 1 , **CAMPAIGN!** 1 , 
+**RT** 1 , **@ANONOPSSE:** 1 , **GOOD** 1 , **MORNING** 1 , **WORLD!** 1 , **💙💛** 1 , **STAND** 1 , **UKRAINE!** 1 , **HTTPS://TCO/R8JBXPEQTU** 1 , 
  
 ## What this user tweeted
  
-RT @5ireChain: Hello, 5ifers! Have you tried breaking our testnet yet? 🔨
+RT @AnonOpsSE: Good morning, world! 💙💛
 
-We'd love to hear the feedback on its resilience and fix any vuln…
- 
-# Amarmumar786USER INFO
-![image](http://pbs.twimg.com/profile_images/1640193991483461633/7ASaSpR__normal.jpg)
- 
-`User ScreenName:` Amarmumar786 
- 
-`User chosen Name:` Amar kumar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 27 03:26:49 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 9 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640193991483461633/7ASaSpR__normal.jpg 
- 
-`Number of tweets excluding replies:` 26 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HARYANA** 18 , **FARMERS** 15 , **RAIN** 12 , **SUPPORT** 10 , **NEED** 7 , **RECENT** 6 , **CROPS** 6 , **GOVERNMENT** 5 , **LET'S** 5 , **CRISIS** 5 , **"THE** 4 , **NEEDS** 4 , **PROVIDE** 4 , **RELIEF** 4 , **AFFECTED** 4 , **SHOW** 4 , **FACING** 4 , **YET** 4 , **ANOTHER** 4 , **DUE** 4 , 
- 
-## What this user tweeted
- 
-RT @lalazoya7: "The recent rainfall has once again highlighted the vulnerabilities of our agriculture sector and the urgent need for climat…RT @Sourabh83701948: "The recent rainfall has once again highlighted the vulnerabilities of our agriculture sector and the urgent need for…
- 
-# neer1160USER INFO
-![image](http://pbs.twimg.com/profile_images/1640184897804566531/2wRY9Qwv_normal.jpg)
- 
-`User ScreenName:` neer1160 
- 
-`User chosen Name:` Neer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 27 02:52:01 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 41 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640184897804566531/2wRY9Qwv_normal.jpg 
- 
-`Number of tweets excluding replies:` 41 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HARYANA** 23 , **के** 19 , **FARMERS** 19 , **RAIN** 19 , **RECENT** 12 , **NEED** 12 , **SUPPORT** 12 , **GOVERNMENT** 8 , **AGRICULTURE** 7 , **जलवायु** 6 , **HIGHLIGHTED** 6 , **CROPS** 6 , **AFFECTED** 6 , **SECTOR** 6 , **हरियाणा** 5 , **हमारे** 5 , **खाद्य** 5 , **सुरक्षा** 5 , **RAINFALL** 5 , **URGENT** 5 , 
- 
-## What this user tweeted
- 
-RT @lalazoya7: "The recent rainfall has once again highlighted the vulnerabilities of our agriculture sector and the urgent need for climat…
- 
-# BakuBhau70485USER INFO
-![image](http://pbs.twimg.com/profile_images/1642477473697767426/rh5wX-7b_normal.png)
- 
-`User ScreenName:` BakuBhau70485 
- 
-`User chosen Name:` Baku Bhau 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 02 10:41:59 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 44 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642477473697767426/rh5wX-7b_normal.png 
- 
-`Number of tweets excluding replies:` 44 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HARYANA** 26 , **RAIN** 26 , **FARMERS** 23 , **के** 20 , **RECENT** 18 , **NEED** 15 , **CROPS** 13 , **SUPPORT** 9 , **DUE** 8 , **हरियाणा** 8 , **CAUSED** 8 , **AGRICULTURE** 8 , **GOVERNMENT** 7 , **से** 7 , **EXTENSIVE** 7 , **DAMAGE** 7 , **STRUGGLING** 7 , **TIME** 7 , **RAINFALL** 7 , **HIGHLIGHTED** 7 , 
- 
-## What this user tweeted
- 
-RT @lalazoya7: "The recent rainfall has once again highlighted the vulnerabilities of our agriculture sector and the urgent need for climat…
- 
-# Harsh1929942250USER INFO
-![image](http://pbs.twimg.com/profile_images/1640042153249501185/atsutOhA_normal.png)
- 
-`User ScreenName:` Harsh1929942250 
- 
-`User chosen Name:` Harsh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Mar 26 17:24:54 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 54 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640042153249501185/atsutOhA_normal.png 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WEATHERAGRICULTUREFARMERS** 3 , **से** 2 , **SUPPORT** 2 , **HTTPS://TCO/2N9SGJF83XHTTPS://TCO/T2FIIIJHT1** 1 , **@BBCINDIA** 1 , **WEATHERAGRICULTUREFARMERSRT** 1 , **@HARSH72108444:** 1 , **हरियाणा** 1 , **में** 1 , **बारिश** 1 , **प्रभावित** 1 , **होने** 1 , **वाले** 1 , **किसानों** 1 , **के** 1 , **साथ** 1 , **हम** 1 , **सॉलिडेटी** 1 , **दिखाएं** 1 , **और** 1 , 
- 
-## What this user tweeted
- 
-"The recent rainfall has once again highlighted the vulnerabilities of our agriculture sector and the urgent need f… https://t.co/3GgN5k0ZvE
- 
-# MyHackBoxUSER INFO
-![image](http://pbs.twimg.com/profile_images/1642080345720868867/rWX3N-f4_normal.jpg)
- 
-`User ScreenName:` MyHackBox 
- 
-`User chosen Name:` Hack Ethical News H.E.N 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 01 08:10:13 +0000 2023 
- 
-`User Description?:` Hello,
-I live in France
-I am 1* years old
-The reason I opened this account is to tell people about the Virtual world and to protect people from the VirtualWorld 
- 
-`Followers?: `2 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:` Nantes, France 
- 
-`Number of tweets extracted`  : 15 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642080345720868867/rWX3N-f4_normal.jpg 
- 
-`Number of tweets excluding replies:` 15 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HACKING** 2 , **SECURITY** 2 , **ATTACKS** 2 , **2022** 2 , **DDOS** 2 , **NEW** 2 , **HACKERS** 2 , **ACCESS** 2 , **SYSTEM** 2 , **OFFICIALS** 2 , **GROUP** 2 , **FLAW** 2 , **EXPLOITING** 2 , **HACK** 2 , **🔥TOP** 1 , **8** 1 , **ETHICAL** 1 , **TOOLS** 1 , **2023** 1 , **💻👍💪🔐** 1 , 
- 
-## What this user tweeted
- 
-🔥What is Nmap,
-💻Nmap can be used by hackers to gain access to uncontrolled ports on a system. All a hacker would ne… https://t.co/Ox9WtRVq74
- 
-# bytes_blogsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1640239996723421184/T35X_l4c_normal.jpg)
- 
-`User ScreenName:` bytes_blogs 
- 
-`User chosen Name:` Bytes & Blogs 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 27 05:45:58 +0000 2023 
- 
-`User Description?:` "Welcome to Bytes and Blogs, your one-stop shop for anything networking and IT related. Technology is a passion for our team of seasoned experts, and they are c 
- 
-`Followers?: `3 
- 
-`Following?:` 1 
- 
-`User URL?:` https://t.co/GzyOlsSZRg 
- 
-`Location:` US 
- 
-`Number of tweets extracted`  : 24 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1640239996723421184/T35X_l4c_normal.jpg 
- 
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LEARN** 8 , **SECURITY** 6 , **NETWORK** 6 , **GUIDE** 5 , **DATA** 4 , **ONLINE** 3 , **AGAINST** 3 , **CLOUD** 3 , **ROUTING** 3 , **POST** 3 , **COVERS** 3 , **SPACE** 2 , **NEW** 2 , **CHALLENGES** 2 , **TOP** 2 , **BEST** 2 , **PROTECT** 2 , **TOOLS** 2 , **YOURSELF** 2 , **CHECK** 2 , 
- 
-## What this user tweeted
- 
-Beware Ubuntu users! Linux kernel vulnerabilities let hackers launch DOS attacks &amp; execute arbitrary code. Stay saf… https://t.co/9DN3eL3HkW
+Stand with Ukraine! https://t.co/R8jBXpEQtU
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
