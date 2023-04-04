@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **teneikaask_you**  
+The most popular user is: **SIfill_**  
  
 
-## If you're looking to pivot into entry-level tech roles, IBM has 6 FREE trainings with badges or certs you can earn.… https://t.co/QfnKyCMxcC 
+## This is a VERY SERIOUS situation unfolding in Nashville. The reps who stood w/their constituents who came to the st… https://t.co/n9n8Ek21Jk 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **teneikaask_you**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Am_Blujay: He pursued a Master of Science in Computer Science, Artificial Intelligence &amp; Cybersecurity from the same prestigious univer… |
-| Is AI posing the next big cybersecurity threat? #Cybersecurity #AISecurity https://t.co/nf15E1QzvD |
-| #CyberSecurity Security News : Western Digital Hit by Network Security Breach - Critical Services Disrupted! https://t.co/SBLItgxtQk |
+| @SwiftOnSecurity @UK_Daniel_Card I already politely explained to him what he's doing wrong, especially in regards t… https://t.co/DVIXxVlJKR |
+| RT @hackinarticles: Pic of the Day      #infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecuri… |
+| RT @Exploit_Pack: Don't stop at simulation attacks, take it one step further. https://t.co/Iac8ORlZCl#cybersecurity #infosec #cybersecuri… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecurityTrybe** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **_1Billion** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 5.54%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **hack_git** |
+| #3 Most tweeted to  | **CyberIQs_** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 5.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,87 +51,29 @@ The most popular user is: **teneikaask_you**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **DATA**  |
-| third  | **LOOKING** |
-| fourth  | **AI**  |
-| fifth  | **US**  |
+| second  | **PENTESTING**  |
+| third  | **INFOSECURITY** |
+| fourth  | **@HACKINARTICLES:**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Are you part of the 15% of companies who are ready to defend against #cybersecurity threats? Check out @Cisco's fir… https://t.co/kfplMvcsCO |
+|RT @PhishStats: https://t.co/MAuIXRvYiq detected 271 new websites hosting #phishing | new today: 411 | #infosec #cybersecurity #malware htt… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **teneikaask_you**  |
+| The most retweeted user is: **SIfill_**  |
 | ------------- |
-| If you're looking to pivot into entry-level tech roles, IBM has 6 FREE trainings with badges or certs you can earn.… https://t.co/QfnKyCMxcC |
+| This is a VERY SERIOUS situation unfolding in Nashville. The reps who stood w/their constituents who came to the st… https://t.co/n9n8Ek21Jk |
 
 # Potential Fake Accounts
- 
-# Academic_tutor2USER INFO
-![image](http://pbs.twimg.com/profile_images/1641861448954511361/5aBI1VG3_normal.jpg)
- 
-`User ScreenName:` Academic_tutor2 
- 
-`User chosen Name:` Brilliant Writers 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 31 17:52:09 +0000 2023 
- 
-`User Description?:` Experienced team proficient in Dissertation, thesis, research paper, exams, online classes, essays and any other academic related field 
- 
-`Followers?: `6 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:` USA 
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641861448954511361/5aBI1VG3_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PHYSICS** 8 , **BIOLOGY** 7 , **CHEMISTRY** 7 , **HOMEWORK** 7 , **PAY** 7 , **ASSIGNMENT** 6 , **RESEARCH** 6 , **ESSAYS** 5 , **EXAMS** 5 , **THESIS** 5 , **NEED** 4 , **ASSISTANCE** 4 , **HOMEWORK?** 4 , **ACCOUNTING** 4 , **PHYSIOLOGY** 4 , **PHARMACOLOGY** 4 , **ONLINECLASS** 4 , **CALCULUS** 4 , **PAPER** 4 , **IN:** 4 , 
- 
-## What this user tweeted
- 
-RT @_HomeworkGurus: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econom…For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/gzK28Zp3nE
  
 # adwoa_akwaboaUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1642888280906555392/pUNlNi8v_normal.jpg)
@@ -170,180 +112,7 @@ Finance… https://t.co/gzK28Zp3nE
  
 ## What this user tweeted
  
-RT @kojomills_: Being in #cybersecurity is easy. It’s like riding a bike. Except the bike is on fire. You’re on fire. Everything is on fire.RT @kojomills_: “No security measure protects you permanently. It is important to learn to survive and adapt to new threats as they emerge”…
- 
-# Genius_writers_USER INFO
-![image](http://pbs.twimg.com/profile_images/1641488491765805061/4WpS7_57_normal.jpg)
- 
-`User ScreenName:` Genius_writers_ 
- 
-`User chosen Name:` Genius Writers 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 30 17:09:45 +0000 2023 
- 
-`User Description?:` writing services 
- 
-`Followers?: `5 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:` USA 
- 
-`Number of tweets extracted`  : 98 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641488491765805061/4WpS7_57_normal.jpg 
- 
-`Number of tweets excluding replies:` 98 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PAY** 109 , **US** 51 , **ASSIGNMENT** 44 , **ESSAYS** 41 , **THESIS** 38 , **RESEARCH** 34 , **EXAMS** 33 , **CALCULUS** 32 , **HOMEWORK** 32 , **IN:** 28 , **ACCOUNTING** 24 , **MATH** 23 , **ONLINECLASS** 22 , **BIOLOGY** 20 , **ESSAY** 18 , **HELP** 18 , **PAPER** 18 , **DUE** 17 , **ASSIGNMENTS** 17 , **MUSIC** 17 , 
- 
-## What this user tweeted
- 
-For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/MHGQ5qAJtcRT @_HOMEWORKHELP__: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econo…RT @Genius_writers_: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econo…For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/2P8zFgbNA3For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/g9vRu9ecjHFor quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/VmC1caEwpP
- 
-# d3sdemonnaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641608378915930112/ithmvPx2_normal.jpg)
- 
-`User ScreenName:` d3sdemonna 
- 
-`User chosen Name:` desdemona 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 31 01:08:31 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 41 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641608378915930112/ithmvPx2_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@CYBERSECMEG:** 1 , **I’VE** 1 , **REACHED** 1 , **POINT** 1 , **CAREER** 1 , **WHERE** 1 , **SPENDING** 1 , **FREE** 1 , **TIME** 1 , **FRIENDS** 1 , **TRAVELING** 1 , **HAVING** 1 , **FUN** 1 , **HIGHER** 1 , **PRIOR…RT** 1 , **@_ZSECURITY_:** 1 , **HIT** 1 , **300K** 1 , **SUBSCRIBERS** 1 , 
- 
-## What this user tweeted
- 
-RT @cybersecmeg: i’ve reached the point in my career where spending my free time with friends, traveling, or having fun, has a higher prior…
- 
-# DrDiplexTechNomUSER INFO
-![image](http://pbs.twimg.com/profile_images/1642231783658778631/O3RUo6-t_normal.png)
- 
-`User ScreenName:` DrDiplexTechNom 
- 
-`User chosen Name:` Dr Diplex Tech Nomad 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Mar 29 18:34:15 +0000 2023 
- 
-`User Description?:` Embark with DrDiplexTechNomad on a thrilling adventure through technology, AI, wellness, and travel. Join me on an exciting journey of discovery! 
- 
-`Followers?: `6 
- 
-`Following?:` 58 
- 
-`User URL?:` https://t.co/F5FaGITXYp 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642231783658778631/O3RUo6-t_normal.png 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AI** 4 , **DISCOVER** 3 , **🤖** 2 , **DIVE** 2 , **INTO** 2 , **READ** 2 , **FULL** 2 , **ON…** 2 , **FUTURE** 2 , **🚨** 1 , **CHATGPT:** 1 , **POWERFUL** 1 , **POTENTIAL** 1 , **RISKS?** 1 , **SAFETY** 1 , **CONCERNS** 1 , **SURROUNDING** 1 , **REVOLUTIONARY** 1 , **TECHNOL…** 1 , **HTTPS://TCO/S48EGPL4ZZ🤖👩‍⚖️** 1 , 
- 
-## What this user tweeted
- 
-🚨 ChatGPT: Powerful AI with potential risks? 🤖 Dive into the safety concerns surrounding this revolutionary technol… https://t.co/s48egpl4ZZ
+RT @kojomills_: “No security measure protects you permanently. It is important to learn to survive and adapt to new threats as they emerge”…
  
 # aleksan83085148USER INFO
 ![image](http://pbs.twimg.com/profile_images/1643339440985628673/8Yg_ryxS_normal.png)
@@ -425,23 +194,22 @@ RT @hackinarticles: Pic of the Day
 
 #infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity…
  
-# sky_cryptUSER INFO
-![image](http://pbs.twimg.com/profile_images/1643327961007898627/WPFoEn8j_normal.jpg)
+# JosiasSilv24335USER INFO
+![image](http://pbs.twimg.com/profile_images/1643274013421043716/MWjOEkTw_normal.png)
  
-`User ScreenName:` sky_crypt 
+`User ScreenName:` JosiasSilv24335 
  
-`User chosen Name:` sky 
+`User chosen Name:` Josias Silva Siqueira 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 04 18:57:53 +0000 2023 
+`User signup date?:` Tue Apr 04 15:27:09 +0000 2023 
  
-`User Description?:` Securing the past from breaches.
-#cyberarchive 
+`User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 9 
+`Following?:` 1 
  
 `User URL?:` None 
  
@@ -449,7 +217,7 @@ RT @hackinarticles: Pic of the Day
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1643327961007898627/WPFoEn8j_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1643274013421043716/MWjOEkTw_normal.png 
  
 `Number of tweets excluding replies:` 1 
  
@@ -459,78 +227,80 @@ RT @hackinarticles: Pic of the Day
  
 ## User Top tweeted words 
  
-**EXCITED** 1 , **LAUNCH** 1 , **CYBERSECURITY** 1 , **ARCHIVE** 1 , **ACCOUNT!** 1 , **FOLLOW** 1 , **ALONG** 1 , **EXPERT** 1 , **INSIGHTS** 1 , **NEWS** 1 , **RESOURCES** 1 , **STAYIN…** 1 , **HTTPS://TCO/2T7PN5ACSK** 1 , 
+**DUOLINGO** 1 , **SUPER** 1 , **PREMIUM** 1 , **5933** 1 , **FULL** 1 , **ACTIVATED** 1 , **(** 1 , **LEARNING** 1 , **LANGUAGES** 1 , **)** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/HBEFUUEUTK…** 1 , **HTTPS://TCO/NE76CCNCRQ** 1 , 
  
 ## What this user tweeted
  
-Excited to launch my cybersecurity archive account! Follow along for expert insights, news, and resources on stayin… https://t.co/2t7PN5aCSk
+Duolingo SUPER Premium 5.93.3 Full Activated ( Learning Languages ) – Discount 100% OFF https://t.co/HBeFUuEutk… https://t.co/nE76cCnCRq
  
-# BouriRintu13064USER INFO
-![image](http://pbs.twimg.com/profile_images/1643194672997888002/IjNmEz6i_normal.jpg)
+# 3vgeniybogachevUSER INFO
+![image](http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg)
  
-`User ScreenName:` BouriRintu13064 
+`User ScreenName:` 3vgeniybogachev 
  
-`User chosen Name:` Rintu Bouri 
+`User chosen Name:` Evgeniy Bogachev "Slavic" 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 04 09:59:35 +0000 2023 
+`User signup date?:` Fri Mar 31 19:35:31 +0000 2023 
+ 
+`User Description?:` Evgeniy Mikhailovich Bogachev 
+Zeus Botnet author & creator ! 
+ 
+`Followers?: `3 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 138 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg 
+ 
+`Number of tweets excluding replies:` 138 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 37 , **INFOSEC** 31 , **ZEUS** 30 , **BOTNET** 30 , **SECURITY** 19 , **@HACKINARTICLES:** 17 , **CYBERSECURITYTIPS** 16 , **PENTESTING** 16 , **ARRESTED** 15 , **HACKING** 14 , **@EHACKERNEWS:** 13 , **GENEVA** 12 , **DAY** 11 , **GANG** 11 , **LEADER** 11 , **NOTORIOUS** 11 , **HACKED** 10 , **CYBERSECURITYAWARENESS** 10 , **FBI-WANTED** 10 , **PIC** 9 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #cybersecurityawareness  #informationsecurity…RT @Cybernozcom: Theft of Arbitrary files from LocalStorage | Hacking on Android With Gaurang | #InsecureShop – 02 https://t.co/qYYIO3sZZG…
+ 
+# MohsinB00USER INFO
+![image](http://pbs.twimg.com/profile_images/1643134349741789184/q_jE2YdW_normal.jpg)
+ 
+`User ScreenName:` MohsinB00 
+ 
+`User chosen Name:` Mohsin Bashir 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 04 06:12:11 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 5 
+`Following?:` 1 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 23 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1643194672997888002/IjNmEz6i_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1643134349741789184/q_jE2YdW_normal.jpg 
  
-`Number of tweets excluding replies:` 23 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CPADPC:** 11 , **@WBPOLICE:** 10 , **CYBER** 7 , **PS** 7 , **VICTIM** 5 , **ASANSOL** 4 , **RS** 4 , **ADPC** 4 , **RECOVERED** 4 , **@CPADPC** 4 , **জন্য** 4 , **POLICE** 4 , **MONEY** 3 , **UNDER** 3 , **CRIME** 3 , **ORGANISED** 3 , **FAKE** 3 , **@CYBERPSADPC:** 2 , **1721398/-** 2 , **DIRECT** 2 , 
- 
-## What this user tweeted
- 
-RT @CyberpsAdpc: Please watch the video where the complainant sharing his experience, how Cyber PS helped him to recover his money.
-Link of…
- 
-# AInewspaperingUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641991853653278723/_MYjcpLX_normal.jpg)
- 
-`User ScreenName:` AInewspapering 
- 
-`User chosen Name:` AI Newspapering 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 31 14:53:29 +0000 2023 
- 
-`User Description?:` All contents are created by 100% artificial intelligence. Blockchain, science and technology news. #AI #news 
- 
-`Followers?: `5 
- 
-`Following?:` 4 
- 
-`User URL?:` https://t.co/9lD6yd4Ivg 
- 
-`Location:` AI 
- 
-`Number of tweets extracted`  : 59 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641991853653278723/_MYjcpLX_normal.jpg 
- 
-`Number of tweets excluding replies:` 59 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -538,124 +308,38 @@ Link of…
  
 ## User Top tweeted words 
  
-**AI** 14 , **BLOCKCHAIN** 9 , **USED** 7 , **CRYPTOCURRENCY** 7 , **SOME** 6 , **BITCOIN** 6 , **PRICE** 6 , **ETHEREUM** 6 , **AVALANCHE** 6 , **DATA** 5 , **TRANSACTIONS** 5 , **SMART** 4 , **WHILE** 4 , **HOWEVER** 4 , **LOGO** 4 , **CONSENSUS** 4 , **MARKET** 3 , **WORK** 3 , **EXCHANGE** 3 , **MILLION** 3 , 
+**DRIVERPACK** 1 , **SOLUTION** 1 , **V171014-22094** 1 , **OFFLINE** 1 , **FULL** 1 , **2023** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/B0JT86TFFU** 1 , **INFOSEC…** 1 , **HTTPS://TCO/Y8RD1NWYRX** 1 , 
  
 ## What this user tweeted
  
-Cybersecurity: AI can be used to detect and prevent cyber threats, while blockchain can ensure data integrity and s… https://t.co/dvb3omotKH
+DriverPack Solution v17.10.14-22094 Offline Full 2023 – Discount 100% OFF https://t.co/b0Jt86TfFU #infosec… https://t.co/Y8rD1nwYRX
  
-# REALScamROCKETUSER INFO
-![image](http://pbs.twimg.com/profile_images/1643292235281346561/I9ZQ3nyT_normal.png)
+# Kush420frUSER INFO
+![image](http://pbs.twimg.com/profile_images/1640008128535097344/jsmYI-wE_normal.jpg)
  
-`User ScreenName:` REALScamROCKET 
+`User ScreenName:` Kush420fr 
  
-`User chosen Name:` ScamROCKET Inc. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 16:24:56 +0000 2023 
- 
-`User Description?:` Empowering individuals and businesses to stay safe from online scams with our AI-powered scam detection.
-
-The only OFFICIAL ScamROCKET account. 
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643292235281346561/I9ZQ3nyT_normal.png 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UHH** 1 , **MAY** 1 , **PROBLEM!** 1 , **TURNS** 1 , **EVERYONE** 1 , **LIKES** 1 , **SCAM** 1 , **PREVENTION** 1 , **SERVICES** 1 , **BEING** 1 , **RAN!** 1 , **ARE…** 1 , **HTTPS://TCO/MZRBU4CX2BPROTECT** 1 , **YOURSELF** 1 , **ONLINE** 1 , **SCAMS** 1 , **HTTPS://TCO/EGTJXXEY7W!** 1 , **AI-POWERED** 1 , **TECHNOLOGY** 1 , **EXPERT** 1 , 
- 
-## What this user tweeted
- 
-Protect yourself from online scams with https://t.co/EGtjXxey7W! Our AI-powered technology and expert team are here… https://t.co/RaLyXLdmx4
- 
-# SecureutechUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641470169120665601/TKU-oed4_normal.jpg)
- 
-`User ScreenName:` Secureutech 
- 
-`User chosen Name:` SecureU 
+`User chosen Name:` Kush France 🇫🇷 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 30 15:09:56 +0000 2023 
+`User signup date?:` Sun Mar 26 15:09:33 +0000 2023 
  
-`User Description?:` Keeping you safe online 
+`User Description?:` Bon plan beuh en cash main propre 🇫🇷 Contactez-moi sur Telegram :@Zoneverte  Snap :@bedo420fr_ce Wirck:@plugshopp Passez vos commandes 🇫🇷 
  
 `Followers?: `2 
  
-`Following?:` 0 
+`Following?:` 29 
  
-`User URL?:` None 
+`User URL?:` https://t.co/eah8kg51bc 
  
-`Location:`  
+`Location:` Ile-de-France, France 
  
-`Number of tweets extracted`  : 28 
+`Number of tweets extracted`  : 40 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641470169120665601/TKU-oed4_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1640008128535097344/jsmYI-wE_normal.jpg 
  
-`Number of tweets excluding replies:` 28 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**USE** 8 , **CYBERSECURITY** 6 , **ACCOUNTS** 4 , **WEB3** 4 , **REPUTABLE** 4 , **USING** 4 , **PROTECT** 4 , **BEFORE** 3 , **CAUTIOUS** 3 , **AVOID** 3 , **PRIVATE** 3 , **OTHER** 3 , **VERIFY** 3 , **INFORMATION** 3 , **CYBERCRIMINALS** 3 , **REGULARLY** 3 , **ONLINE** 3 , **SENSITIVE** 2 , **DEVICES** 2 , **SCAMMERS** 2 , 
- 
-## What this user tweeted
- 
-📄 Establish secure document disposal processes. Shred sensitive papers and wipe electronic devices before disposal… https://t.co/X0cQuoCJej
- 
-# cibsecurity_999USER INFO
-![image](http://pbs.twimg.com/profile_images/1643278890385776642/V1gtoZzT_normal.jpg)
- 
-`User ScreenName:` cibsecurity_999 
- 
-`User chosen Name:` cibsecurity 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 15:28:46 +0000 2023 
- 
-`User Description?:` 🗞 The best daily news about cyber security and privacy and.
-
-🔔 Daily publications.
-
-💻 Is your life on the internet safe?
-
-⭐ Official THN Telegram Channel — A 
- 
-`Followers?: `1 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 16 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643278890385776642/V1gtoZzT_normal.jpg 
- 
-`Number of tweets excluding replies:` 16 
+`Number of tweets excluding replies:` 40 
  
 
  
@@ -663,50 +347,14 @@ Protect yourself from online scams with https://t.co/EGtjXxey7W! Our AI-powered 
  
 ## User Top tweeted words 
  
-**@GLITCH_9999:** 10 , **في** 8 , **السيبراني** 3 , **من** 3 , **التي** 3 , **على** 3 , **‼** 3 , **NEXTCLOUD** 3 , **رابط** 2 , **فيه** 2 , **الأمن_السيبراني** 2 , **مجال** 2 , **الامن** 2 , **عدد** 2 , **⚠️** 2 , **أطلقت** 2 , **تحديثات** 2 , **أمنية** 2 , **للأجهزة** 2 , **تستعمل** 2 , 
+**@KUSH420FR:** 19 , **PSG** 11 , **100DAYSOFCODE** 11 , **PRIVACY** 10 , **CLOUDSECURITY** 8 , **MACHINELEARNING** 8 , **PHISHING** 8 , **DATASECURITY** 7 , **RANSOMWARE** 7 , **WEEDMOB** 7 , **WEEDLOVERS** 6 , **HANF** 5 , **FRANCEVERTE** 5 , **PARIS** 5 , **LYON** 4 , **BORDEAUX** 4 , **WEEDSMOKERS** 4 , **WEEDSOCIETY** 4 , **CANNIBISLIFE** 4 , **420FRIENDLY** 4 , 
  
 ## What this user tweeted
  
-🚨 Cybersecurity researchers uncover a new, sophisticated 🔐 ransomware strain called Rorschach. With unprecedented s… https://t.co/FBO6X7C4Ax
- 
-# CyberScam555USER INFO
-![image](http://pbs.twimg.com/profile_images/1643244070226268160/Pl0wIEuu_normal.png)
- 
-`User ScreenName:` CyberScam555 
- 
-`User chosen Name:` Cyber Scam 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 13:28:10 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643244070226268160/Pl0wIEuu_normal.png 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VICTIMS** 1 , **SHARED** 1 , **INFORMATION…** 1 , **FIR** 1 , **FILED** 1 , **ONLINE** 1 , **SCAM** 1 , **INCIDENT** 1 , **STILL** 1 , **CYBER** 1 , **CRIMINALS** 1 , **A…** 1 , **HTTPS://TCO/SK9HWJ1HLVBE** 1 , **AWARE** 1 , **TELEGRAM** 1 , **USERS** 1 , **CYBERATTACK** 1 , **CYBERSAFETY** 1 , **CYBERCRIME** 1 , **CYBERSECURITYAWARENESS** 1 , 
- 
-## What this user tweeted
- 
-One of the victims shared this information… FIR filed on this online scam incident, but still cyber criminals are a… https://t.co/Sk9hwJ1hLv
+RT @Kush420fr: Snap👻:bedo420fr_ce
+#DataSecurity #Privacy
+#100DaysOfCode #CloudSecurity
+#MachineLearning #Phishing #Ransomware #Cybersecurit…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
