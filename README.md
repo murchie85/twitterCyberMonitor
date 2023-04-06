@@ -1,20 +1,24 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **mtaibbi**  
+The most popular user is: **erbmjha**  
  
 
-## 15.  The report was co-authored by Katie Couric and Chris Krebs, the founder of the DHS’s Cybersecurity and Infrast… https://t.co/4MDR2w7Pk0 
+## Indian Muslims want to do "Namaz on Road"
+
+Indian Muslims want to do "Namaz in public parks"
+
+Indian Muslims want t… https://t.co/TMwnS8JOi3 
 
   
 
@@ -23,25 +27,25 @@ The most popular user is: **mtaibbi**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Ready to get automated? We’re here to help you choose the eGRC solution best suited for your business 👇 https://t.co/Z7LnvZ7pHU |
-| RT @hackinarticles: Docker for Pentester: Pentesting Frameworkhttps://t.co/a006yvbKnG#infosec #cybersecurity #cybersecuritytips #pentes… |
-| RT @securezeron: Are you tired of feeling cyber-paranoid? #Zeron v2.0 is here to give you the ultimate #cybersecurity upgrade!Our Co-Found… |
+| RT @YourAnonRiots: The #darkweb domain of the infamous Genesis marketplace is still online while its clearnet domain has been seized.http… |
+| RT @hetmehtaa: Mobile Pentesting 101 – How to set up your Android Environment #infosec #cybersecurity https://t.co/UvOqbR302J |
+| RT @YourAnonRiots: The #darkweb domain of the infamous Genesis marketplace is still online while its clearnet domain has been seized.http… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brodaishola_** |
-| #2 Most tweeted to  | **BowTiedCyber** |
-| #3 Most tweeted to  | **hackinarticles** |
-| NewProfiles (less than 10 days) | 0.71%  |
-| Tweeters with < 10 followers  | 5.32%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **ptracesecurity** |
+| #3 Most tweeted to  | **hack_git** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 5.6%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,56 +55,56 @@ The most popular user is: **mtaibbi**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **US**  |
-| third  | **DATA** |
-| fourth  | **HACKER**  |
-| fifth  | **AI**  |
+| second  | **PENTESTING**  |
+| third  | **@HACKINARTICLES:** |
+| fourth  | **CYBERSECURITYTIPS**  |
+| fifth  | **INFOSECURITY**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Manufacturing IT pros: what are some unique cybersecurity threats disproportionately targeting your industry? |
+|RT @hackinarticles: Burp Suite for Pentester: Burp Sequencerhttps://t.co/IzROiUUtX7#infosec #cybersecurity #cybersecuritytips #pentesti… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mtaibbi**  |
+| The most retweeted user is: **erbmjha**  |
 | ------------- |
-| 15.  The report was co-authored by Katie Couric and Chris Krebs, the founder of the DHS’s Cybersecurity and Infrast… https://t.co/4MDR2w7Pk0 |
+| Indian Muslims want to do "Namaz on Road"Indian Muslims want to do "Namaz in public parks"Indian Muslims want t… https://t.co/TMwnS8JOi3 |
 
 # Potential Fake Accounts
  
-# Genius_writers_USER INFO
-![image](http://pbs.twimg.com/profile_images/1641488491765805061/4WpS7_57_normal.jpg)
+# GuyLaDocheXUSER INFO
+![image](http://pbs.twimg.com/profile_images/1643611016410931202/_7OK0PEp_normal.jpg)
  
-`User ScreenName:` Genius_writers_ 
+`User ScreenName:` GuyLaDocheX 
  
-`User chosen Name:` Genius Writers 
+`User chosen Name:` Larry Allen 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 30 17:09:45 +0000 2023 
+`User signup date?:` Wed Apr 05 13:24:19 +0000 2023 
  
-`User Description?:` writing services 
+`User Description?:` Used to live in Cali but now currently residing in Oklahoma. 
  
-`Followers?: `24 
+`Followers?: `7 
  
-`Following?:` 64 
+`Following?:` 171 
  
 `User URL?:` None 
  
-`Location:` USA 
+`Location:` Oklahoma City, OK 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 17 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641488491765805061/4WpS7_57_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1643611016410931202/_7OK0PEp_normal.jpg 
  
-`Number of tweets excluding replies:` 299 
+`Number of tweets excluding replies:` 16 
  
 
  
@@ -108,95 +112,46 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 ## User Top tweeted words 
  
-**PAY** 178 , **US** 111 , **ESSAYS** 75 , **@GENIUS_WRITERS_:** 67 , **CALCULUS** 64 , **ASSIGNMENT** 62 , **RESEARCH** 62 , **THESIS** 57 , **EXAMS** 55 , **FINANCE** 53 , **ONLINECLASS** 52 , **DUE** 45 , **ACCOUNTING** 42 , **HOMEWORK** 41 , **ASSIGNMENTS** 40 , **QUALITY** 40 , **MATH** 38 , **CHEMISTRY** 36 , **LAW** 35 , **HELP** 33 , 
+**DOES** 3 , **SOME** 2 , **@AKACLANDESTINE:** 2 , **GITHUB** 2 , **PROXY** 2 , **REDIRECT** 2 , **@SOSINTEL** 1 , **VTECH** 1 , **QUANTUM** 1 , **COMPUTER** 1 , **ANY** 1 , **EXPLOITS** 1 , **EXPRESSO** 1 , **I'M** 1 , **HAVING** 1 , **TROUBLE** 1 , **TURNING** 1 , **THI…** 1 , **HTTPS://TCO/M2OYOG7I7IRT** 1 , **@WH_Y:** 1 , 
  
 ## What this user tweeted
  
-RT @Genius_writers_: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econo…For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/r0YAyXiy3HRT @Genius_writers_: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econo…RT @Genius_writers_: For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance
-#Econo…For quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/4uVQLXXBBSFor quality assignment help,DM us
-#Essays
-#Research
-Exams
-#Onlineclass
-#Calculus
-Chemistry
-#Thesis
-#Law
-Finance… https://t.co/zSMfJuSrhD
+RT @hackinarticles: Metasploit Cheat Sheet  
+
+📷Full HD Image: https://t.co/TwVzFbbrBw
+
+#infosec #cybersecurity #cybersecuritytips #pentesti…RT @0xtechrock: OSINT TIP #153 🖇️
+
+Redirect Detective is free tool that allows you to do a full trace of a URL Redirect.
+
+In some cases, sh…
  
-# ccoodddeerrhUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641247779241750529/iT3ciXYN_normal.png)
+# gauge7760USER INFO
+![image](http://pbs.twimg.com/profile_images/1644024030121402369/_L5esusy_normal.jpg)
  
-`User ScreenName:` ccoodddeerrh 
+`User ScreenName:` gauge7760 
  
-`User chosen Name:` coder 
+`User chosen Name:` Gauge Assess 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 30 01:15:37 +0000 2023 
+`User signup date?:` Tue Apr 04 12:30:21 +0000 2023 
  
-`User Description?:` wanna be bug hunter 
+`User Description?:` Professional Music Artist: Composer, Song Writer, Singer, Pianist, & Guitarist. Music is What Drives Me 4 Cause What Few Exp.'s Make Such an Impression 4 All. 
  
-`Followers?: `9 
+`Followers?: `0 
  
-`Following?:` 21 
+`Following?:` 104 
  
 `User URL?:` None 
  
-`Location:` india 
+`Location:` Lake Charjes, La 
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 10 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641247779241750529/iT3ciXYN_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1644024030121402369/_L5esusy_normal.jpg 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 10 
  
 
  
@@ -204,30 +159,156 @@ Finance… https://t.co/zSMfJuSrhD
  
 ## User Top tweeted words 
  
-**RCE** 4 , **@TAKSEC:** 2 , **GOOGLE** 2 , **BUGBOUNTY** 2 , **@BUGHUNTAR:** 2 , **FILE** 2 , **LFI** 2 , **"EXAMPLE[]COM"** 2 , **RT** 1 , **DORK** 1 , **PRONE** 1 , **PARAMETERS** 1 , **INURL:CMD** 1 , **INURL:EXEC=** 1 , **INURL:QUERY=** 1 , **INURL:CODE=** 1 , **INURL:DO=** 1 , **INURL:RUN=** 1 , **INURL:READ=…RT** 1 , **@MIZZLE_NEUPANE5:** 1 , 
+**GIT** 5 , **@THEXSSRAT:** 3 , **!** 2 , **BUGBOUNTY** 2 , **TIP** 2 , **BUG** 2 , **BOUNTY** 2 , **RT** 1 , **@HOANGN144:** 1 , **STILL** 1 , **WORKS** 1 , **😉** 1 , **BUGBOUNTYTIPS** 1 , **HTTPS://TCO/SWL4EDTSVYRT** 1 , **DON’T** 1 , **LET** 1 , **FEAR** 1 , **ENDING** 1 , **FAILURE** 1 , **STOP** 1 , 
  
 ## What this user tweeted
  
-RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @GoogleVRP 
+RT @hack_git: All about bug bounty
 
-#BugBounty #ethicalhacking  #rce #cybersecurity http…
+These are my bug bounty notes that I have gathered from various sources, you can contribute to this rep…
  
-# Bhramastra88380USER INFO
-![image](http://pbs.twimg.com/profile_images/1641630399276392448/omnYDSOI_normal.jpg)
+# DetGiles38192USER INFO
+![image](http://pbs.twimg.com/profile_images/1643573340282703872/JxXMBxTI_normal.png)
  
-`User ScreenName:` Bhramastra88380 
+`User ScreenName:` DetGiles38192 
  
-`User chosen Name:` Bhramastra 
+`User chosen Name:` Det Giles 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 31 02:34:24 +0000 2023 
+`User signup date?:` Wed Apr 05 11:16:34 +0000 2023 
  
-`User Description?:` bug hunter | infosec geek | engineer 
+`User Description?:`  
  
-`Followers?: `5 
+`Followers?: `2 
  
-`Following?:` 20 
+`Following?:` 30 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 36 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643573340282703872/JxXMBxTI_normal.png 
+ 
+`Number of tweets excluding replies:` 36 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@THREE_CUBE:** 4 , **CYBERSECURITY** 4 , **@CYB_DETECTIVE:** 3 , **@FBI:** 3 , **@SPLUNK:** 3 , **🟩🟨🟨🟩🟩** 3 , **BOOKS** 3 , **1** 3 , **✔️** 3 , **WARDRIVING** 3 , **VERY** 2 , **MUCH** 2 , **OSINT** 2 , **FREE** 2 , **VICTIMS** 2 , **SEARCH** 2 , **ADDRESSES** 2 , **UNDERWATER** 2 , **FOLLOW** 2 , **FBI** 2 , 
+ 
+## What this user tweeted
+ 
+RT @three_cube: Scan Every IP in Russia in Minutes!
+
+OSINT: Zmap, How to Scan the Entire Internet in 45 Minutes! #osint #zmap #infosec #cyb…RT @ptracesecurity: Rorschach – A New Sophisticated And Fast Ransomware https://t.co/3S2va8tXLD  #Pentesting #Ransomware #CyberSecurity #In…
+ 
+# 3vgeniybogachevUSER INFO
+![image](http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg)
+ 
+`User ScreenName:` 3vgeniybogachev 
+ 
+`User chosen Name:` Evgeniy Bogachev "Slavic" 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 31 19:35:31 +0000 2023 
+ 
+`User Description?:` Evgeniy Mikhailovich Bogachev 
+Zeus Botnet author & creator ! 
+ 
+`Followers?: `3 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 153 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg 
+ 
+`Number of tweets excluding replies:` 153 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 41 , **INFOSEC** 32 , **ZEUS** 30 , **BOTNET** 30 , **SECURITY** 20 , **PENTESTING** 17 , **@HACKINARTICLES:** 17 , **CYBERSECURITYTIPS** 16 , **HACKING** 15 , **ARRESTED** 15 , **@EHACKERNEWS:** 14 , **GENEVA** 12 , **HACKED** 11 , **DAY** 11 , **GANG** 11 , **LEADER** 11 , **NOTORIOUS** 11 , **INFORMATIONSECURITY** 10 , **CYBERSECURITYAWARENESS** 10 , **FBI-WANTED** 10 , 
+ 
+## What this user tweeted
+ 
+RT @0xtechrock: OSINT TIP #153 🖇️
+
+Redirect Detective is free tool that allows you to do a full trace of a URL Redirect.
+
+In some cases, sh…RT @0xor0ne: Analysis of Shikitega Linux malware by @attcyber with its 300 bytes dropper
+encoded with the “Shikata Ga Nai” polymorphic XOR…RT @ptracesecurity: CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research  https://t.co/UMb11iL6Fz  #P…RT @ptracesecurity: What're you telling me, Ghidra? https://t.co/0aSQv9sG4F  #Pentesting #CyberSecurity #Infosec https://t.co/RSzQd5ab3J
+ 
+# hanif5511453USER INFO
+![image](http://pbs.twimg.com/profile_images/1643907649447280641/xAzjkaXT_normal.jpg)
+ 
+`User ScreenName:` hanif5511453 
+ 
+`User chosen Name:` Hanif Hossain 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 06 09:22:07 +0000 2023 
+ 
+`User Description?:` Hello,
+I'm a database service provider for a Latest Mailing Database company. https://t.co/CdChTckAMP 
+ 
+`Followers?: `1 
+ 
+`Following?:` 13 
+ 
+`User URL?:` https://t.co/CdChTckAMP 
+ 
+`Location:` Dhaka 
+ 
+`Number of tweets extracted`  : 30 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643907649447280641/xAzjkaXT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 30 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRAINING** 7 , **BUSINESS** 5 , **CISO** 5 , **BOTS** 4 , **LINE** 3 , **CYBERSECURITY** 3 , **AWARENESS** 3 , **PROJECTS** 3 , **CARRY** 2 , **CUSTOMER** 2 , **SUPPORT** 2 , **MANY** 2 , **COMPANIES** 2 , **WHICH** 2 , **P…** 2 , **BAD** 2 , **COMMUNICATION** 2 , **SECURITY** 2 , **HELP** 2 , **MUST** 2 , 
+ 
+## What this user tweeted
+ 
+InfoSec works closely with HR and training teams to deliver cyber awareness training track learning plans and manag… https://t.co/78GvNeUHIe
+ 
+# Sujitku71432835USER INFO
+![image](http://pbs.twimg.com/profile_images/1643789539285291008/pSu_bDBs_normal.png)
+ 
+`User ScreenName:` Sujitku71432835 
+ 
+`User chosen Name:` Sujit kumar jha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 06 01:35:40 +0000 2023 
+ 
+`User Description?:` Bug Hunter 
+ 
+`Followers?: `0 
+ 
+`Following?:` 28 
  
 `User URL?:` None 
  
@@ -235,7 +316,7 @@ RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @Googl
  
 `Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641630399276392448/omnYDSOI_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1643789539285291008/pSu_bDBs_normal.png 
  
 `Number of tweets excluding replies:` 8 
  
@@ -245,41 +326,42 @@ RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @Googl
  
 ## User Top tweeted words 
  
-**RCE** 3 , **BUGBOUNTYTIPS** 3 , **@GOOGLEVRP** 2 , **BUGBOUNTY** 2 , **CYBERSECURITY** 2 , **HTTPX** 2 , **LFI** 2 , **INFOSEC** 2 , **CYBERSEC** 2 , **@BUGHUNTAR:** 2 , **FIND** 2 , **SQL** 2 , **INJECTION** 2 , **RT** 1 , **@MIZZLE_NEUPANE5:** 1 , **YESI** 1 , **REWARDED** 1 , **SUBMISSION** 1 , **BUG** 1 , **ETHICALHACKING** 1 , 
+**--&GT;** 3 , **@TRICK3ST:** 2 , **WHICH** 2 , **BEST** 2 , **GPT-4** 2 , **@0X0SOJALSEC:** 2 , **RECON** 2 , **RT** 1 , **SUBDOMAIN** 1 , **PERMUTATIONS** 1 , **TOOL** 1 , **GOING** 1 , **RESULTS?** 1 , **HTTPS://TCO/KTJAHU8NC9RT** 1 , **@0XDEA:** 1 , **PUT** 1 , **SEMGREP** 1 , **POINT** 1 , **FALSE** 1 , **POSITIVES** 1 , 
  
 ## What this user tweeted
  
-RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @GoogleVRP 
+RT @0x0SojalSec: Bypassing Object Level Authorization:⚡️
 
-#BugBounty #ethicalhacking  #rce #cybersecurity http…
+GET /api_v1/messages --&gt; 401
+vs 
+GET /api_v1/messages?user_id=victim_uuid --&gt; 200…
  
-# Hailey741412827USER INFO
-![image](http://pbs.twimg.com/profile_images/1641242334548598785/-wYVM7r9_normal.png)
+# faja64433USER INFO
+![image](http://pbs.twimg.com/profile_images/1643788936186331138/P8meF0wC_normal.png)
  
-`User ScreenName:` Hailey741412827 
+`User ScreenName:` faja64433 
  
-`User chosen Name:` Hailey 
+`User chosen Name:` Sanusi Fajar 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 30 00:53:59 +0000 2023 
+`User signup date?:` Thu Apr 06 01:33:16 +0000 2023 
  
-`User Description?:` Bug Hunter
-noooooooooooooobbbbbbbbbbbbbbbbbbbb 
+`User Description?:`  
  
-`Followers?: `9 
+`Followers?: `0 
  
-`Following?:` 23 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641242334548598785/-wYVM7r9_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1643788936186331138/P8meF0wC_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -287,13 +369,11 @@ noooooooooooooobbbbbbbbbbbbbbbbbbbb
  
 ## User Top tweeted words 
  
-**BUG** 3 , **RCE** 2 , **INJECTION** 2 , **@TRICK3ST_BOT:** 2 , **PROGRAM** 2 , **DOWNLOAD** 2 , **RT** 1 , **@MIZZLE_NEUPANE5:** 1 , **YESI** 1 , **REWARDED** 1 , **SUBMISSION** 1 , **@GOOGLEVRP** 1 , **BUGBOUNTY** 1 , **ETHICALHACKING** 1 , **CYBERSECURITY** 1 , **HTTP…RT** 1 , **@TRICK3ST:** 1 , **LEAKY** 1 , **PATHS** 1 , **@_AYOUBFATHI_** 1 , 
+**–** 2 , **SEO** 1 , **POWERSUITE** 1 , **ENTERPRISE** 1 , **V975** 1 , **FULL** 1 , **ACTIVATED** 1 , **MARKETING** 1 , **TOOL** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/UPRGBLMLMU…** 1 , **HTTPS://TCO/UBRWXKVFJK** 1 , 
  
 ## What this user tweeted
  
-RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @GoogleVRP 
-
-#BugBounty #ethicalhacking  #rce #cybersecurity http…
+SEO PowerSuite Enterprise v97.5 Full Activated – Marketing Tool – Discount 100% OFF https://t.co/upRgblMLmu… https://t.co/uBRWxKvFjk
  
 # Prabes700124335USER INFO
 ![image](http://pbs.twimg.com/profile_images/1643786235889197056/YUQ9AyXc_normal.png)
@@ -332,136 +412,9 @@ RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @Googl
  
 ## What this user tweeted
  
-RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @GoogleVRP 
+RT @NandanLohitaksh: MFASweep - It's a PowerShell script that attempts to log in to various Microsoft services using a provided set of cred…RT @trick3st: An amazing thread on infosec books 📚
 
-#BugBounty #ethicalhacking  #rce #cybersecurity http…
- 
-# Simba3452823546USER INFO
-![image](http://pbs.twimg.com/profile_images/1643441881659875328/CtbBQLfA_normal.png)
- 
-`User ScreenName:` Simba3452823546 
- 
-`User chosen Name:` Simba 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 05 02:34:12 +0000 2023 
- 
-`User Description?:` cybersecurity researcher | infosec geek | Bug Hunter 
- 
-`Followers?: `3 
- 
-`Following?:` 30 
- 
-`User URL?:` None 
- 
-`Location:` india 
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643441881659875328/CtbBQLfA_normal.png 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BUG** 3 , **BUGBOUNTY** 3 , **RCE** 2 , **CHECK** 2 , **BOUNTY** 2 , **NMAP** 2 , **@TAKSEC:** 2 , **GOOGLE** 2 , **BURP** 2 , **@BUGHUNTAR:** 2 , **FIND** 2 , **SQL** 2 , **INJECTION** 2 , **BUGBOUNTYTIPS** 2 , **FILE** 2 , **XSS** 2 , **RT** 1 , **@MIZZLE_NEUPANE5:** 1 , **YESI** 1 , **REWARDED** 1 , 
- 
-## What this user tweeted
- 
-RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @GoogleVRP 
-
-#BugBounty #ethicalhacking  #rce #cybersecurity http…
- 
-# solihinundang20USER INFO
-![image](http://pbs.twimg.com/profile_images/1643668900792639488/61fzNBQ9_normal.png)
- 
-`User ScreenName:` solihinundang20 
- 
-`User chosen Name:` Undang Solihin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 05 17:36:18 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643668900792639488/61fzNBQ9_normal.png 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@XEBIA:** 1 , **PROTECT** 1 , **BUSINESS** 1 , **CYBER** 1 , **THREATS?** 1 , **🔐** 1 , **TOP** 1 , **5** 1 , **TIPS** 1 , **XEBIA'S** 1 , **SECURITY** 1 , **EXPERTS** 1 , **DIGITAL** 1 , **ASSET** 1 , **PROTECTION** 1 , **HT…@XEBIA** 1 , **🇮🇩🙏🇮🇩HTTPS://TCO/K81OSNYTEL** 1 , **🕋🕌🕋🇮🇩🙏🇮🇩🎖🌟🎖@KOTLINCONF** 1 , **🇮🇩🙏🎖🌟🎖🙏🇮🇩** 1 , 
- 
-## What this user tweeted
- 
-RT @Xebia: Want to protect your business from cyber threats? 🔐 Get top 5 tips from Xebia's security experts on digital asset protection 
-ht…
- 
-# semil23982USER INFO
-![image](http://pbs.twimg.com/profile_images/1643804811672821761/LLaUjhBe_normal.jpg)
- 
-`User ScreenName:` semil23982 
- 
-`User chosen Name:` Emmanuel 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 03 07:09:03 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 67 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643804811672821761/LLaUjhBe_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SOME** 3 , **SHIT** 2 , **RT** 1 , **@ZK_SHARK:** 1 , **CYBERSECURITY** 1 , **🧵** 1 , **POTENTIALLY** 1 , **MOST** 1 , **IMPORTANT** 1 , **THREAD** 1 , **READ** 1 , **LIFETIME** 1 , **🫡** 1 , **TOPICS:** 1 , **-PASSWORDS** 1 , **-2FA** 1 , **-EMAIL…RT** 1 , **@FRANKDEGODS:** 1 , **TRIED** 1 , **LEARNED** 1 , 
- 
-## What this user tweeted
- 
-RT @ZK_shark: Cybersecurity  🧵
-
-Potentially the most important thread you will read in your lifetime.... 🫡
-
-Topics:
--Passwords
--2FA
--Email…
+Make a plan to dive into 1-2 of these resources this month. You'll be surprised by how…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
