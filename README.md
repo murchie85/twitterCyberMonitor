@@ -1,22 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **DailyOsint**  
+The most popular user is: **QuaiNetwork**  
  
 
-## Need to research a .onion domain and don't know how?
+## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
 
-TorWhois is a search engine that lists Tor sites' open ports,… https://t.co/Xggj0paI8I 
+This… https://t.co/9kCO6ugG3G 
 
   
 
@@ -25,25 +25,25 @@ TorWhois is a search engine that lists Tor sites' open ports,… https://t.co/Xg
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| QNAP Zero-Days Leave 80K Devices Vulnerable to Cyberattack #infosec #infosecurity #cybersecurity #threatintel… https://t.co/x1SV5TSRbf |
-| RT @DailyOsint: Do you want to scan a URL to see if it is phishing?Checkphish is a real-time sandbox for identifying phishing and scam pa… |
-| RT @DailyOsint: How can you see what's behind a website?You can read this blog, which nicely details the topic with privacy tips.https:… |
+| RT @securityblvd: 📢 @orcasec can trace cloud security risks back to the original #code that created the issue and the #developer that wrote… |
+| Why shouldn't gov't review such policies that favour girls in the urban at the expense of the disadvantaged rural s… https://t.co/6MEOqvDk4o |
+| RT @narcslatethelie: @maxine_stroud @allticketyb00 @iv8L73o1t6Z6Urw 100% He's setting/confusing the timeline.Also alluding to 3rd party i… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CyberIQs_** |
-| #2 Most tweeted to  | **DailyOsint** |
-| #3 Most tweeted to  | **Volexity** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 1.46%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ggreenwald** |
+| #2 Most tweeted to  | **mtracey** |
+| #3 Most tweeted to  | **FantomFDN** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 5.54%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -52,57 +52,293 @@ TorWhois is a search engine that lists Tor sites' open ports,… https://t.co/Xg
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **INFOSECURITY**  |
-| third  | **THREATINTEL** |
-| fourth  | **THREATINTEL…**  |
-| fifth  | **CYBERSECURITY…**  |
+| first  | **VULNERABILITIES**  |
+| second  | **SMART**  |
+| third  | **AUDIT** |
+| fourth  | **WHERE**  |
+| fifth  | **SOME**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|GUEST ESSAY: The role advanced ‘VM’ is ideally suited to play in combating m #infosec #infosecurity #cybersecurity… https://t.co/O9ePfLRYk8 |
+|#NicolaBulley7/ WAS 27th MORNING NORMAL?🔸Why say normal &amp; then specifically describe a scenario that aligns w/ "v… https://t.co/3pHiakGCJl |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DailyOsint**  |
+| The most retweeted user is: **QuaiNetwork**  |
 | ------------- |
-| Need to research a .onion domain and don't know how?TorWhois is a search engine that lists Tor sites' open ports,… https://t.co/Xggj0paI8I |
+| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
 
 # Potential Fake Accounts
  
-# actinfo001USER INFO
-![image](http://pbs.twimg.com/profile_images/1642863710804013056/1NXhMXGv_normal.png)
+# CryptoKoliaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1641793040502210566/0yrmRed5_normal.jpg)
  
-`User ScreenName:` actinfo001 
+`User ScreenName:` CryptoKolia 
  
-`User chosen Name:` Act Info 
+`User chosen Name:` Коля Кінах 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 03 12:16:46 +0000 2023 
+`User signup date?:` Fri Mar 31 13:19:41 +0000 2023 
+ 
+`User Description?:` #BTC #binance #airdrop #arbitrum #sui #ETH #BNB #Cryptocurrency #followback 
+ 
+`Followers?: `3 
+ 
+`Following?:` 78 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1641793040502210566/0yrmRed5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 335 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CETUS** 55 , **@CETUSPROTOCOL:** 52 , **👍RT** 33 , **SUI** 23 , **PARTNERSHIP** 22 , **APTOS** 19 , **@CETUSPROTOCOL** 18 , **NEW** 15 , **CRYPTO** 13 , **X** 13 , **ANNOUNCE** 13 , **PROTOCOL** 12 , **LIQUIDITY** 12 , **@URDEX_FINANCE:** 11 , **DEX** 8 , **ALPHA** 8 , **@SUINETWORK** 8 , **VERSION** 7 , **NFT** 7 , **1** 7 , 
+ 
+## What this user tweeted
+ 
+DeFi Vulnerabilities Exploited By Illicit Actors, Says US Treasury Report https://t.co/JuvaMt5hlb
+ 
+# cryptomoonexUSER INFO
+![image](http://pbs.twimg.com/profile_images/1644107825700904961/Lab8-s7c_normal.jpg)
+ 
+`User ScreenName:` cryptomoonex 
+ 
+`User chosen Name:` Crypto MoonEx 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 30 18:58:57 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1644107825700904961/Lab8-s7c_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ROBINHOOD** 1 , **PAY** 1 , **$102** 1 , **MILLION** 1 , **PENALTIES** 1 , **AFTER** 1 , **PROBE** 1 , **SEVEN** 1 , **STATE** 1 , **SECURITIES** 1 , **REGULATORS** 1 , **FOUND** 1 , **COMPANY…** 1 , **HTTPS://TCO/1JWUPYBA3XTHE** 1 , **UNITED** 1 , **STATES** 1 , **TREASURY** 1 , **DEPARTMENT** 1 , **ISSUED** 1 , **REPORT** 1 , 
+ 
+## What this user tweeted
+ 
+The United States Treasury Department has issued a report warning of the growing security risks associated with the… https://t.co/aGL4HcVeNq
+ 
+# niti_armyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1642205069239279616/9tzOY6Od_normal.jpg)
+ 
+`User ScreenName:` niti_army 
+ 
+`User chosen Name:` TayBae Stan. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 01 14:24:43 +0000 2023 
+ 
+`User Description?:` Stanning the absolute savage and unstoppable QUEEN ~ NITI TAYLOR 👸❤ 
+ 
+`Followers?: `3 
+ 
+`Following?:` 12 
+ 
+`User URL?:` None 
+ 
+`Location:` Mumbai, India 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1642205069239279616/9tzOY6Od_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2160 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NITITAYLOR** 118 , **PRACHIKAPOOR** 71 , **@NITISQUAD:** 51 , **BADEACHHELAGTEHAIN2** 49 , **PRARAG** 45 , **NITITAYLOR𓃵** 42 , **NITITAYLORRT** 37 , **@PRACHISLAYS:** 32 , **PRACHIKAPOORRT** 25 , **PRACHI** 19 , **@DUSTYBUNN21:** 18 , **BADEACHHELAGTEHAIN2RT** 17 , **@NITAYBAE:** 12 , **LIFE** 12 , **@NITI_FANMILY:** 11 , **LOVE** 9 , **@__MISHAAL__:** 9 , **@VARSHADHIMAN19:** 9 , **@DIVIYA03:** 8 , **@MUSKANS49087653:** 8 , 
+ 
+## What this user tweeted
+ 
+RT @nitisquad: Niti is so good here👏 those anger, frustration, vulnerabilities she is so good!
+#NitiTaylor #BadeAchheLagteHain2
+#NitiTaylor…
+ 
+# nftzan2763USER INFO
+![image](http://pbs.twimg.com/profile_images/1643032391752232963/C1SMPeHt_normal.jpg)
+ 
+`User ScreenName:` nftzan2763 
+ 
+`User chosen Name:` nftzan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 03 23:26:02 +0000 2023 
+ 
+`User Description?:` crypto currency matkter 
+ 
+`Followers?: `13 
+ 
+`Following?:` 119 
+ 
+`User URL?:` None 
+ 
+`Location:` Paris, France 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643032391752232963/C1SMPeHt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 416 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GHAETH_N** 48 , **@VENUSPROTOCOL** 47 , **@BINANCE** 43 , **@PLAYZAPGAMES** 42 , **@ZELWINOFFICIAL** 42 , **@CRYPTOUNITYCUT** 33 , **PROJECT** 21 , **TOKEN** 17 , **@SLS_GLOBAL** 17 , **VENUSPROTOCOL** 16 , **GAMES** 15 , **VERY** 15 , **NFT** 15 , **@METASTARGAME** 15 , **ZELWIN** 14 , **SOME** 13 , **PROJECTS** 13 , **MANY** 13 , **WHICH** 12 , **MOST** 12 , 
+ 
+## What this user tweeted
+ 
+@taskonxyz @metastargame Protecting users data, privacy &amp; funds are very important in a project. Can you explain a… https://t.co/uJ6wKTynzC@Panda_Airdrop24 @DAEX_GLOBAL Recently, crypto exchanges are prone to many vulnerabilities and are targeted by hack… https://t.co/o81v2rGb5t@taskonxyz @metastargame There is a very high chance of vulnerabilities in today's smart contracts, which allows Ha… https://t.co/tTYddnjMjx
+ 
+# Superman7842USER INFO
+![image](http://pbs.twimg.com/profile_images/1642731416202137600/4XisVU1N_normal.jpg)
+ 
+`User ScreenName:` Superman7842 
+ 
+`User chosen Name:` Supermen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 03 03:02:25 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 97 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1642731416202137600/4XisVU1N_normal.jpg 
+ 
+`Number of tweets excluding replies:` 97 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PLAYZAPGAMES** 30 , **@RADKETRDK** 18 , **@ALEYA1MONA** 12 , **@THOMAS_WQM** 12 , **APRIL** 10 , **MANY** 10 , **UTC** 9 , **COULD** 8 , **GAMES** 8 , **PROJECT** 8 , **CRYPTO** 8 , **US** 7 , **2023** 7 , **@GOHEALTHHERO** 7 , **@SWIMSPREADWIS** 7 , **@XDEFI_WALLET** 6 , **SOME** 6 , **TELL** 6 , **TOKEN** 6 , **AMA** 6 , 
+ 
+## What this user tweeted
+ 
+@vulture_peak @PlayZapGames Can you assure us that this won't be one of those projects that come out, do a lot of m… https://t.co/1y9aQBu6dO
+ 
+# Tech4Founders_USER INFO
+![image](http://pbs.twimg.com/profile_images/1642957936845529092/zIWYBbST_normal.jpg)
+ 
+`User ScreenName:` Tech4Founders_ 
+ 
+`User chosen Name:` Tech4Founders 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 03 18:26:43 +0000 2023 
+ 
+`User Description?:` Discover Some Of The Most Common Reasons Why Tech-Based Startups Fail... And How To Avoid Becoming Part Of That Statistic 
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` https://t.co/2q9kz7nGf8 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1642957936845529092/zIWYBbST_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TECH** 4 , **ESSENTIAL** 2 , **YOU'RE** 2 , **HELP** 2 , **SOME** 2 , **TECHNICAL** 2 , **SKILLS** 2 , **PROTECTING** 1 , **PRODUCT** 1 , **DATA** 1 , **NON-TECHNICAL** 1 , **FOUNDER** 1 , **CRUCIAL** 1 , **EDUCATE** 1 , **YOURSELF** 1 , **ABO…** 1 , **HTTPS://TCO/PVREMD22PAIF** 1 , **HAVING** 1 , **TROUBLE** 1 , **TALKING** 1 , 
+ 
+## What this user tweeted
+ 
+Protecting your product and data is essential, and as a non-technical founder, it's crucial to educate yourself abo… https://t.co/PvrEMD22PA
+ 
+# JoeyC5268USER INFO
+![image](http://pbs.twimg.com/profile_images/1641977188345057280/jtvFC3os_normal.jpg)
+ 
+`User ScreenName:` JoeyC5268 
+ 
+`User chosen Name:` JoeyChen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 01 01:29:08 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 1 
+`Following?:` 13 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 26 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1642863710804013056/1NXhMXGv_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1641977188345057280/jtvFC3os_normal.jpg 
  
-`Number of tweets excluding replies:` 8 
+`Number of tweets excluding replies:` 26 
  
 
  
@@ -110,44 +346,38 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**THREATINTELLIGENCE** 6 , **THREATINTEL** 3 , **RANSOMWARE** 2 , **INCIDENTRESPONSE** 2 , **INFOSEC** 2 , **TEST** 1 , **CLOUDSECURITYTEST** 1 , **CLOUDSECURITYTHREAT** 1 , **THREATTEST** 1 , **THREAT** 1 , **THREATSTHREATINTELLIGENCE** 1 , **THREATRANSOMWARETEST** 1 , **THREATTHREATINTEL** 1 , **HEY** 1 , **GUYS** 1 , 
+**STUDENTS** 10 , **485** 8 , **NEWS** 7 , **VISA** 7 , **I’M** 6 , **AUG** 6 , **COURSE** 5 , **SEMINAR** 5 , **SIYU** 4 , **CHEN** 4 , **MENTIONED** 4 , **PART** 4 , **AFTER** 3 , **CAREER** 3 , **INTO** 3 , **E…** 3 , **INTRODUCING** 3 , **RECENT** 3 , **SITUATION** 3 , **EVERYONE** 3 , 
  
 ## What this user tweeted
  
-Test #ThreatIntel #ThreatIntelligence #ransomware #incidentresponse #infosec #cloudsecurityTest
-#ThreatIntel  #ThreatIntelligence #ransomware #incidentresponse #infosec  #cloudsecurityTest ThreatIntelligence Threat
-#ThreatIntelligence 
-#ThreatIntel
-#Threats#ThreatIntel 
-Hey Guys
+Rohit is a researcher in South India. He believes the local climate problems include flooding, water scarcity and e… https://t.co/36JVw52Qe1
  
-# 3vgeniybogachevUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg)
+# becfr10USER INFO
+![image](http://pbs.twimg.com/profile_images/1641865750389444609/-K_yUWV9_normal.jpg)
  
-`User ScreenName:` 3vgeniybogachev 
+`User ScreenName:` becfr10 
  
-`User chosen Name:` Evgeniy Bogachev "Slavic" 
+`User chosen Name:` becbec 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 31 19:35:31 +0000 2023 
+`User signup date?:` Fri Mar 31 18:10:28 +0000 2023 
  
-`User Description?:` Evgeniy Mikhailovich Bogachev 
-Zeus Botnet author & creator ! 
+`User Description?:`  
  
-`Followers?: `3 
+`Followers?: `16 
  
-`Following?:` 7 
+`Following?:` 171 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 153 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1641865750389444609/-K_yUWV9_normal.jpg 
  
-`Number of tweets excluding replies:` 153 
+`Number of tweets excluding replies:` 814 
  
 
  
@@ -155,18 +385,128 @@ Zeus Botnet author & creator !
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 41 , **INFOSEC** 32 , **ZEUS** 30 , **BOTNET** 30 , **SECURITY** 20 , **PENTESTING** 17 , **@HACKINARTICLES:** 17 , **CYBERSECURITYTIPS** 16 , **HACKING** 15 , **ARRESTED** 15 , **@EHACKERNEWS:** 14 , **GENEVA** 12 , **HACKED** 11 , **DAY** 11 , **GANG** 11 , **LEADER** 11 , **NOTORIOUS** 11 , **INFORMATIONSECURITY** 10 , **CYBERSECURITYAWARENESS** 10 , **FBI-WANTED** 10 , 
+**AURMEAXBECKY** 131 , **BECKYSANGELS** 31 , **BECKY** 25 , **AURMEAXBECKYRT** 21 , **@BECKYFANCLUBPH_:** 13 , **IG** 12 , **@BECKYSANGEL_:** 11 , **ARMSTRONG** 10 , **VIA** 10 , **REBECCA** 10 , **TRENDING** 8 , **LOVE** 8 , **@RUOCAAA:** 8 , **@WILLMOMB:** 7 , **@MAMINNIELUVBECC:** 7 , **Y** 7 , **2** 6 , **1** 6 , **MAMI** 6 , **@BECKYFANCLUB05:** 6 , 
  
 ## What this user tweeted
  
-RT @DailyCTI: How to assess threat actor intentions and capabilities?
+RT @melxadamson: my heart feels so full after reading that becky interview. she really opened herself up to us, told us things about her th…
+ 
+# XYzk_officialUSER INFO
+![image](http://pbs.twimg.com/profile_images/1642539748471504897/X3UaTAXr_normal.jpg)
+ 
+`User ScreenName:` XYzk_official 
+ 
+`User chosen Name:` XYzk 💡🖤📕 | 🌏 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 02 09:16:59 +0000 2023 
+ 
+`User Description?:` A groundbreaking DEX industry effort. Utility the @Zksync. 
+ 
+`Followers?: `4 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1642539748471504897/X3UaTAXr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
 
-You can read @klrgrz 's blog about the Threat Box model.
+ 
 
-https://t.…RT @AnonymousH4ck35: If you need a comprehensive #email #OSINT #tool,
+ 
+## User Top tweeted words 
+ 
+**XYZK** 11 , **LIQUIDITY** 7 , **DEXS** 3 , **WHICH** 3 , **FEES** 3 , **USERS** 3 , **PRICE** 3 , **@ZKSYNC** 2 , **ZKSYNC** 2 , **USER** 2 , **W…** 2 , **ADVANTAGE** 2 , **ACTIVE** 2 , **UPGRADE** 2 , **TRADES** 2 , **RANGE** 2 , **AMM** 2 , **DEX** 2 , **MARKET** 2 , **CREATE** 2 , 
+ 
+## What this user tweeted
+ 
+➡️ Finding and fixing backlog vulnerabilities on DEXs through CLMM and ALM helps focus on deep liquidity, which all… https://t.co/HudbyVMCfD
+ 
+# foxoh9151413USER INFO
+![image](http://pbs.twimg.com/profile_images/1642646032826740739/ENkBCmdS_normal.jpg)
+ 
+`User ScreenName:` foxoh9151413 
+ 
+`User chosen Name:` foxoh9 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 02 21:50:36 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 92 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1642646032826740739/ENkBCmdS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 92 
+ 
 
-Poastal provides you with valuable information on any email address.…RT @CyberIQs_: How to make the most of Symantec CloudSOC CASB – (Part3) #infosec #infosecurity #cybersecurity #threatintel #threatintellige…RT @CtacPaladion: [INFO] Silent Night #Zeus #botnet available for #sale in #underground forums
-To read more visit: https://t.co/bM27kTbdG0…
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHAINGAMINGX** 61 , **NEW** 37 , **GAMING** 36 , **DECENTRALIZED** 27 , **ERA** 25 , **DEMOCRATIZED** 17 , **GLOBAL** 17 , **WELCOME** 16 , **@BI_DD_EX:** 15 , **SAFER** 14 , **HOLDING** 13 , **COMPETITION** 12 , **DOXXED** 12 , **@GREENLO77286781:** 12 , **USHERS** 11 , **MISS** 11 , **HERE** 9 , **WHILE** 9 , **I'VE** 8 , **@CRYPTOGEMS555** 8 , 
+ 
+## What this user tweeted
+ 
+RT @CoinDesk: .@FantomFDN users can now utilize @DeDotFi's security tools that alert them on common vulnerabilities and ensure that they tr…
+ 
+# goyawey5074724USER INFO
+![image](http://pbs.twimg.com/profile_images/1642648900971503617/wlKKpyxP_normal.jpg)
+ 
+`User ScreenName:` goyawey5074724 
+ 
+`User chosen Name:` goyawey507 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 02 22:02:18 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 176 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1642648900971503617/wlKKpyxP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 176 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHAINGAMINGX** 98 , **NEW** 86 , **GAMING** 73 , **ERA** 72 , **DECENTRALIZED** 69 , **DEMOCRATIZED** 55 , **GLOBAL** 54 , **WELCOME** 50 , **SAFER** 43 , **COMPETITION** 38 , **USHERS** 26 , **DON'T** 21 , **HOLDING** 20 , **@LYNELL61347055:** 18 , **DOXXED** 18 , **@HOLYMERLIN01:** 18 , **@BI_DD_EX:** 15 , **@GOYAWEY5074724:** 14 , **MISS** 14 , **TIME** 14 , 
+ 
+## What this user tweeted
+ 
+RT @CoinDesk: .@FantomFDN users can now utilize @DeDotFi's security tools that alert them on common vulnerabilities and ensure that they tr…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
