@@ -1,23 +1,24 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **krassenstein**  
+The most popular user is: **BushidoToken**  
  
 
-## Republicans think that they won last night.  
-They did NOT win!
+## My first blog of 2023 - Tips for Investigating Cybercrime Infrastructure
 
-Here's a video of a 'Covenant Mom' embracing expel… https://t.co/t6XmOZhLAG 
+🔗https://t.co/bc4vEjPKIS
+
+#CTI… https://t.co/xEIDMYnw5o 
 
   
 
@@ -26,24 +27,24 @@ Here's a video of a 'Covenant Mom' embracing expel… https://t.co/t6XmOZhLAG
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Wondering how to #Recover, #hacked, retrieve, or protect any accounts or wallets DMnOW#CyberSecurity #hacker… https://t.co/IXuDyEr7sE |
-| RT @MeAsHacker_HNA: #CVECVE-2022-1388F5 BIG-IP Unauthenticated #RCE Vulnerability#POCUse POST request to execute "cat /etc/passwd" com… |
-| RT @hackinarticles: Pic of the Day          #infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse… |
+| Hierarchical Graph Neural Network with Cross-Attention for Cross-Device #infosec #infosecurity #cybersecurity… https://t.co/kTWJAHZRDp |
+| A Deep Multi-Modal Cyber-Attack Detection in Industrial Control Systems. #infosec #infosecurity #cybersecurity… https://t.co/PEpdCLHsFP |
+| Social Honeypot for Humans: Luring People through Self-managed Instagram #infosec #infosecurity #cybersecurity… https://t.co/7WiiPxxBx9 |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **ptracesecurity** |
-| #3 Most tweeted to  | **Shubham_pen** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 6.74%|
+| #1 Most tweeted to  | **CyberIQs_** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **AnonymousH4ck35** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 1.6%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -54,40 +55,40 @@ Here's a video of a 'Covenant Mom' embracing expel… https://t.co/t6XmOZhLAG
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **PHISHING** |
-| fourth  | **@HACKINARTICLES:**  |
-| fifth  | **CYBERSECURITYTIPS**  |
+| second  | **INFOSECURITY**  |
+| third  | **THREATINTEL** |
+| fourth  | **@CYBERIQS_:**  |
+| fifth  | **THREATINTEL…**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @seasides_conf: #volunteer appreciation, if seasides team members were a celebrities, @harekrishna_rai will be Chellam sir of seasides.… |
+|Midnight Group impersonates ransomware actors for extortion attacks https://t.co/TQ7rIJEQVu |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **krassenstein**  |
+| The most retweeted user is: **BushidoToken**  |
 | ------------- |
-| Republicans think that they won last night.  They did NOT win!Here's a video of a 'Covenant Mom' embracing expel… https://t.co/t6XmOZhLAG |
+| My first blog of 2023 - Tips for Investigating Cybercrime Infrastructure🔗https://t.co/bc4vEjPKIS#CTI… https://t.co/xEIDMYnw5o |
 
 # Potential Fake Accounts
  
-# GhaliArtiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644738997128687617/jTQ4CRNa_normal.png)
+# actinfo001USER INFO
+![image](http://pbs.twimg.com/profile_images/1642863710804013056/1NXhMXGv_normal.png)
  
-`User ScreenName:` GhaliArti 
+`User ScreenName:` actinfo001 
  
-`User chosen Name:` GHALI ARTI 
+`User chosen Name:` Act Info 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 08 16:28:29 +0000 2023 
+`User signup date?:` Mon Apr 03 12:16:46 +0000 2023 
  
 `User Description?:`  
  
@@ -99,11 +100,11 @@ VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1644738997128687617/jTQ4CRNa_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1642863710804013056/1NXhMXGv_normal.png 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -111,77 +112,44 @@ VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
  
 ## User Top tweeted words 
  
-**–** 2 , **MONEY** 1 , **ROBOT** 1 , **SUBMITTER** 1 , **V740** 1 , **FULL** 1 , **ACTIVATED** 1 , **BACKLINKS** 1 , **SEO** 1 , **MARKETING** 1 , **TOOL** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/GOVYOGB0XR** 1 , 
+**THREATINTELLIGENCE** 6 , **THREATINTEL** 3 , **RANSOMWARE** 2 , **INCIDENTRESPONSE** 2 , **INFOSEC** 2 , **TEST** 1 , **CLOUDSECURITYTEST** 1 , **CLOUDSECURITYTHREAT** 1 , **THREATTEST** 1 , **THREAT** 1 , **THREATSTHREATINTELLIGENCE** 1 , **THREATRANSOMWARETEST** 1 , **THREATTHREATINTEL** 1 , **HEY** 1 , **GUYS** 1 , 
  
 ## What this user tweeted
  
-Money Robot Submitter v7.40 Full Activated – BackLinks SEO Marketing Tool – Discount 100% OFF… https://t.co/GOvYOgB0XR
+Test #ThreatIntel #ThreatIntelligence #ransomware #incidentresponse #infosec #cloudsecurityTest
+#ThreatIntel  #ThreatIntelligence #ransomware #incidentresponse #infosec  #cloudsecurityTest ThreatIntelligence Threat
+#ThreatIntelligence 
+#ThreatIntel
+#Threats#ThreatIntel 
+Hey Guys
  
-# CysHackathonUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644709836213608449/CW41D9ER_normal.jpg)
+# 3vgeniybogachevUSER INFO
+![image](http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg)
  
-`User ScreenName:` CysHackathon 
+`User ScreenName:` 3vgeniybogachev 
  
-`User chosen Name:` Cyber Security 
+`User chosen Name:` Evgeniy Bogachev "Slavic" 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 08 14:32:36 +0000 2023 
+`User signup date?:` Fri Mar 31 19:35:31 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Evgeniy Mikhailovich Bogachev 
+Zeus Botnet author & creator ! 
  
-`Followers?: `0 
+`Followers?: `3 
  
-`Following?:` 1 
+`Following?:` 7 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 149 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1644709836213608449/CW41D9ER_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**YOUTUBE** 2 , **–** 2 , **VIDIQ** 1 , **VISION** 1 , **ENTERPRISE** 1 , **V38610** 1 , **FULL** 1 , **ACTIVATED** 1 , **SEO** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/VUNMIBC8JX** 1 , 
- 
-## What this user tweeted
- 
-vidIQ Vision For YouTube Enterprise v3.86.1.0 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/VUNMIBC8Jx
- 
-# AkhtarKhan24487USER INFO
-![image](http://pbs.twimg.com/profile_images/1644686044514885632/CUfpgJUh_normal.png)
- 
-`User ScreenName:` AkhtarKhan24487 
- 
-`User chosen Name:` Akhtar Khan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 08 12:58:04 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644686044514885632/CUfpgJUh_normal.png 
- 
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 153 
  
 
  
@@ -189,247 +157,18 @@ vidIQ Vision For YouTube Enterprise v3.86.1.0 Full Activated – YouTube SEO –
  
 ## User Top tweeted words 
  
-**YOUTUBE** 2 , **–** 2 , **VIDIQ** 1 , **VISION** 1 , **ENTERPRISE** 1 , **V38610** 1 , **FULL** 1 , **ACTIVATED** 1 , **SEO** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/QWLY56TGVG** 1 , 
+**CYBERSECURITY** 40 , **INFOSEC** 31 , **ZEUS** 30 , **BOTNET** 30 , **SECURITY** 20 , **@HACKINARTICLES:** 17 , **PENTESTING** 16 , **CYBERSECURITYTIPS** 16 , **HACKING** 15 , **ARRESTED** 15 , **@EHACKERNEWS:** 14 , **GENEVA** 12 , **DAY** 11 , **GANG** 11 , **LEADER** 11 , **NOTORIOUS** 11 , **HACKED** 10 , **CYBERSECURITYAWARENESS** 10 , **FBI-WANTED** 10 , **MALWARE** 9 , 
  
 ## What this user tweeted
  
-vidIQ Vision For YouTube Enterprise v3.86.1.0 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/qWLY56TGVG
- 
-# CSecuritypostUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641415612529360896/xgcwVJDJ_normal.png)
- 
-`User ScreenName:` CSecuritypost 
- 
-`User chosen Name:` Ciber Security Post 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 30 12:22:32 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 57 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641415612529360896/xgcwVJDJ_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
+RT @DailyCTI: How to assess threat actor intentions and capabilities?
 
- 
+You can read @klrgrz 's blog about the Threat Box model.
 
- 
-## User Top tweeted words 
- 
-**REDUCE** 2 , **RT** 1 , **@IBMSECURITY:** 1 , **GOANYWHERE** 1 , **RANSOMWARE** 1 , **ATTACK** 1 , **HALTED** 1 , **IBM** 1 , **X-FORCE** 1 , **🛑** 1 , **DETAILS** 1 , **INVESTIGATION** 1 , **INSIGHT** 1 , **INTO** 1 , **R…RT** 1 , **@CISACYBER:** 1 , **💪** 1 , **FINISH** 1 , **WEEK** 1 , **STRONG** 1 , 
- 
-## What this user tweeted
- 
-RT @CISACyber: 💪 Finish your week strong and patch the 5🆕 CVEs that were added to @CISAgov’s Known Exploited Vulnerabilities Catalog! More…
- 
-# mubarok135USER INFO
-![image](http://pbs.twimg.com/profile_images/1644596111276134400/MYeUWVR1_normal.jpg)
- 
-`User ScreenName:` mubarok135 
- 
-`User chosen Name:` MUBAROK OFFICIAL 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 08 06:59:54 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644596111276134400/MYeUWVR1_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
+https://t.…RT @AnonymousH4ck35: If you need a comprehensive #email #OSINT #tool,
 
- 
-
- 
-## User Top tweeted words 
- 
-**FOXIT** 1 , **PDF** 1 , **EDITOR** 1 , **PRO** 1 , **V121115289** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/XIEM4M1EQ5** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/1BPMTNCVMO** 1 , 
- 
-## What this user tweeted
- 
-Foxit PDF Editor Pro v12.1.1.15289 Full Activated – Discount 100% OFF https://t.co/XiEm4M1Eq5 #infosec #bugcrowd… https://t.co/1bPmtnCVMO
- 
-# TravisPadi37649USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` TravisPadi37649 
- 
-`User chosen Name:` Travis Padilla 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 07 17:55:51 +0000 2023 
- 
-`User Description?:` hu 
- 
-`Followers?: `0 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LETSEXTRACT** 1 , **EMAIL** 1 , **STUDIO** 1 , **ULTIMATE** 1 , **BUSINESS** 1 , **V60042837** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/BUZ07CVFQK…** 1 , **HTTPS://TCO/CMUVGGRYPM** 1 , 
- 
-## What this user tweeted
- 
-LetsExtract Email Studio Ultimate Business v6.0.0.42837 Full Activated – Discount 100% OFF https://t.co/buz07CvFqk… https://t.co/CMuVgGRyPM
- 
-# bumper_hun21461USER INFO
-![image](http://pbs.twimg.com/profile_images/1643819614324027393/Jv1TvZ2i_normal.png)
- 
-`User ScreenName:` bumper_hun21461 
- 
-`User chosen Name:` Hunter Bumper 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 06 03:35:11 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 6 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 35 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643819614324027393/Jv1TvZ2i_normal.png 
- 
-`Number of tweets excluding replies:` 35 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**U** 10 , **LAWS** 4 , **US** 4 , **STOP** 3 , **LAW** 3 , **UR** 3 , **EVERYONE** 2 , **ACCESS** 2 , **NICE** 2 , **ARRESTS** 2 , **SPECIAL** 2 , **DON'T** 2 , **ALLOWED** 2 , **@NASCUS** 2 , **ANY** 2 , **HTTPS://TCO/OONDNHEG66@COUCHBASE** 1 , **WOW** 1 , **THANKS** 1 , **INVITE@DEPTOFDEFENSE** 1 , **@USARMY** 1 , 
- 
-## What this user tweeted
- 
-@AlyssaM_InfoSec Stop drugging us all laws ur going to get charged no special law for any of u
- 
-# NedAtTonkeanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644018005309792264/iCELKuzP_normal.jpg)
- 
-`User ScreenName:` NedAtTonkean 
- 
-`User chosen Name:` Ned @ Tonkean 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 06 16:37:03 +0000 2023 
- 
-`User Description?:` Helping companies build processes people actually follow, #NoCode, #GPT, Learner of things and amateur  grilled cheese critic 
- 
-`Followers?: `1016 
- 
-`Following?:` 72 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644018005309792264/iCELKuzP_normal.jpg 
- 
-`Number of tweets excluding replies:` 26 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LEGAL** 8 , **@TONKEAN** 5 , **INTO** 4 , **@GEORGEBESSENYEI** 4 , **AI** 4 , **@TONKEAN:** 4 , **PROCUREMENT** 4 , **CAN'T** 3 , **TEAMS** 3 , **LEGALOPS** 3 , **WRITE** 2 , **EXERCISE** 2 , **SEEN** 2 , **TOO** 2 , **PROFESSIONALS** 2 , **THESE** 2 , **ANY** 2 , **AUTOMATION** 2 , **HELP** 2 , **SALES** 2 , 
- 
-## What this user tweeted
- 
-@ItsMattsLaw @GeorgeBessenyei My question: @ItsMattsLaw - how can technology and automation (and/or orchestration)… https://t.co/NHngLU1uTt
- 
-# WeizLizeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644434247002849282/ySuJ_wS2_normal.jpg)
- 
-`User ScreenName:` WeizLize 
- 
-`User chosen Name:` Eliza Weizenbaum 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 07 20:08:34 +0000 2023 
- 
-`User Description?:` Rogerian Therapist 
- 
-`Followers?: `2 
- 
-`Following?:` 28 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644434247002849282/ySuJ_wS2_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**READ** 2 , **BOOKS** 2 , **RT** 1 , **@PHILOSOPHY_MUSE:** 1 , **FALSE** 1 , **NOTHING** 1 , **IMITATION** 1 , **TRUE** 1 , **CICERORT** 1 , **@SECURITYTRYBE:** 1 , **WEB** 1 , **APPLICATION** 1 , **HACKING** 1 , **TOOLS** 1 , **CYBERATTACKS** 1 , **CYBERSECURITY** 1 , **TECH** 1 , **INFOSEC** 1 , **HTTPS://TCO/STM4XMBV46RT** 1 , **@NEWSCIENTIST:** 1 , 
- 
-## What this user tweeted
- 
-RT @SecurityTrybe: Web Application Hacking Tools
-
-#cyberattacks #cybersecurity #tech #infosec https://t.co/STM4XMbv46
+Poastal provides you with valuable information on any email address.…RT @CyberIQs_: How to make the most of Symantec CloudSOC CASB – (Part3) #infosec #infosecurity #cybersecurity #threatintel #threatintellige…RT @CtacPaladion: [INFO] Silent Night #Zeus #botnet available for #sale in #underground forums
+To read more visit: https://t.co/bM27kTbdG0…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
