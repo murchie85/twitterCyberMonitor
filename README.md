@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **KeplerHomes**  
+The most popular user is: **KanekoaTheGreat**  
  
 
-## Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK 
+## Pranksters Vovan and Lexus posing as Petro Poroshenko got French ex-President Francois Hollande to admit the Minsk… https://t.co/WGjAYIzsJX 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **KeplerHomes**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities. |
-| RT @wallet_guard: 🚨 APPLE ZERO-DAY PATCHEDApple has released emergency security updates to address two new zero-day vulnerabilities explo… |
-| RT @michael_hoerger: Many progressives and scholars preach #Equity, #Diversity, and #Inclusivity (#EDI or #DEI). Proper universal masking… |
+| RT @SamRamani2: The Save Ukraine charity will play a key role in providing supporting evidence for the ICC arrest warrant relating to Russi… |
+| RT @FrankFigliuzzi1: Whoever coordinated this gravely damaging leak is allowing Russia to ferret out US and allied sources inside Moscow. T… |
+| @ischinger @MedvedevRussiaE @Ukraine This is not a tweet talk, we are seeing Ukraine disappearing |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **pxm__** |
-| #3 Most tweeted to  | **wallet_guard** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 5.84%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **Spriter99880** |
+| #2 Most tweeted to  | **nytimes** |
+| #3 Most tweeted to  | **visegrad24** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 4.6%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -50,133 +50,55 @@ The most popular user is: **KeplerHomes**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **OTHER**  |
-| third  | **SYSTEM** |
-| fourth  | **SINGLE-POINT**  |
-| fifth  | **GROUND**  |
+| first  | **UKRAINE**  |
+| second  | **RUSSIA**  |
+| third  | **WAR** |
+| fourth  | **US**  |
+| fifth  | **RUSSIAN**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (20.0%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @deuxcouers: thinking about what a gifted wordsmith taeyong is…the way he’s able to craft poetry out of his vulnerabilities, desires, na… |
+|The one possible exception might be the "FrankenSAM," or Sea Sparrow missiles mounted on Buk launchers. If the conv… https://t.co/kXW7wWxX7D |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KeplerHomes**  |
+| The most retweeted user is: **KanekoaTheGreat**  |
 | ------------- |
-| Before engaging with an unknown creature, it would be important to gather as much information as possible about the… https://t.co/4guiQWCBNK |
+| Pranksters Vovan and Lexus posing as Petro Poroshenko got French ex-President Francois Hollande to admit the Minsk… https://t.co/WGjAYIzsJX |
 
 # Potential Fake Accounts
  
-# amayp1USER INFO
-![image](http://pbs.twimg.com/profile_images/1642582845032898563/I25WAt7y_normal.jpg)
+# TheOtherSawUSER INFO
+![image](http://pbs.twimg.com/profile_images/1643088841933242370/vDPytbRc_normal.jpg)
  
-`User ScreenName:` amayp1 
+`User ScreenName:` TheOtherSaw 
  
-`User chosen Name:` Amay 
+`User chosen Name:` Sawyer Thee James 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 01 17:03:54 +0000 2023 
+`User signup date?:` Tue Apr 04 03:11:21 +0000 2023 
  
-`User Description?:` Quant Trader | Crypto | Chess 
+`User Description?:` I love Guns, I love Jesus, I love Grejis #ally 
  
-`Followers?: `2135 
+`Followers?: `3 
  
-`Following?:` 88 
+`Following?:` 52 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Your Neighborhood 
  
-`Number of tweets extracted`  : 128 
+`Number of tweets extracted`  : 15 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1642582845032898563/I25WAt7y_normal.jpg 
- 
-`Number of tweets excluding replies:` 130 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRADING** 30 , **QUANT** 21 , **TRADERS** 17 , **DATA** 14 , **MARKET** 13 , **PYTHON** 13 , **SCRIPT** 11 , **FACTOR** 11 , **WHICH** 10 , **USE** 9 , **STRATEGIES** 8 , **SOME** 8 , **MVO** 8 , **STAT** 8 , **ARB** 8 , **ART** 7 , **BINANCE** 7 , **ORDER** 7 , **STRATEGY** 6 , **THEN** 6 , 
- 
-## What this user tweeted
- 
-@xxd34d_ Please check dm. I have found vulnerabilities in your smart contract. Sent a dm from @amaychad
- 
-# SharksholdUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644012787591512064/wUQYmLQr_normal.png)
- 
-`User ScreenName:` Sharkshold 
- 
-`User chosen Name:` Solomon Osazee 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 06 16:22:47 +0000 2023 
- 
-`User Description?:` Beast Don't Forgive. How Then Can You Forget? 
- 
-`Followers?: `17 
- 
-`Following?:` 131 
- 
-`User URL?:` https://t.co/k6ZvhpFU70 
- 
-`Location:` Nigeria 
- 
-`Number of tweets extracted`  : 77 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644012787591512064/wUQYmLQr_normal.png 
- 
-`Number of tweets excluding replies:` 77 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK:** 12 , **@ELONMUSK** 11 , **TWITTER** 11 , **DOGE** 8 , **@CB_DOGE:** 7 , **DOGECOIN** 6 , **ELON** 5 , **MUSK** 5 , **@CRYPTODAILYTS:** 4 , **@DOGEOFFICIALCEO:** 3 , **LOVE** 3 , **!** 3 , **DOGECOINTOTHEMOON** 3 , **LOGO** 3 , **TESLA** 3 , **NEVER** 3 , **US** 3 , **:** 3 , **UNITED** 3 , **RT** 2 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
- 
-# Shahid13616USER INFO
-![image](http://pbs.twimg.com/profile_images/1642444687041519618/tZu0UrQ4_normal.jpg)
- 
-`User ScreenName:` Shahid13616 
- 
-`User chosen Name:` Muhammad Shahid 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 02 08:13:46 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642444687041519618/tZu0UrQ4_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1643088841933242370/vDPytbRc_normal.jpg 
  
 `Number of tweets excluding replies:` 15 
  
@@ -186,418 +108,22 @@ RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the syste
  
 ## User Top tweeted words 
  
-**FORSAGE** 8 , **BEST** 4 , **GREAT** 3 , **JOB** 3 , **GOOD** 3 , **LIFE** 3 , **DOING** 2 , **HOPE** 2 , **SYSTEM** 2 , **@ELONMUSK:** 2 , **OTHER** 2 , **@TRYBETTERBRAND** 2 , **WORK** 2 , **@100TRILLIONUSD:** 2 , **YT** 2 , **PLATE** 2 , **FORM** 2 , **VERY** 2 , **PLATFORM** 2 , **BITCOIN** 2 , 
+**GONNA** 3 , **HATE** 3 , **I'M** 2 , **SOME** 2 , **GOING** 2 , **BALLINFORGREJIS** 2 , **LOOK** 2 , **AQUATICTHINGY** 2 , **LIL** 2 , **SUCK** 2 , **WE'RE** 2 , **ANY** 1 , **LADIES** 1 , **AREN'T** 1 , **SOCIALISTS** 1 , **TALK** 1 , **TO?** 1 , **GRAMMY** 1 , **LEFT** 1 , **UKRAINE** 1 , 
  
 ## What this user tweeted
  
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
+Any ladies who aren't socialists I can talk to? My Grammy left Ukraine because of you guys, I ain't gonna marry you kid
  
-# maruam1143140USER INFO
-![image](http://pbs.twimg.com/profile_images/1642902986480394241/p0Kkg7i9_normal.jpg)
+# MichaelGra52864USER INFO
+![image](http://pbs.twimg.com/profile_images/1643995922743926788/RvrMAjj3_normal.jpg)
  
-`User ScreenName:` maruam1143140 
+`User ScreenName:` MichaelGra52864 
  
-`User chosen Name:` maruam 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 01 17:16:03 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `10 
- 
-`Following?:` 38 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642902986480394241/p0Kkg7i9_normal.jpg 
- 
-`Number of tweets excluding replies:` 1885 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@NANCY_PINTO1:** 194 , **PUEBLOENAMORYPAZRT** 193 , **TWITTER** 2 , **FIRST** 2 , **PUEBLOENAMORYPAZ** 2 , **RT** 1 , **@TITTERDAILY:** 1 , **SHOULDN’T** 1 , **SHADOWBAN** 1 , **SUBSTACK** 1 , **LINKS** 1 , **SHOW** 1 , **USERS** 1 , **POST** 1 , **PLACE…RT** 1 , **150** 1 , **151** 1 , **152** 1 , **153** 1 , **154** 1 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
- 
-# MnicaDa81486367USER INFO
-![image](http://pbs.twimg.com/profile_images/1642903994480615426/xvyam8ag_normal.jpg)
- 
-`User ScreenName:` MnicaDa81486367 
- 
-`User chosen Name:` Mónica Díaz 
+`User chosen Name:` Michael Graig 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 01 17:34:50 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `9 
- 
-`Following?:` 23 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642903994480615426/xvyam8ag_normal.jpg 
- 
-`Number of tweets excluding replies:` 1736 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@NANCY_PINTO1:** 102 , **PUEBLOENAMORYPAZRT** 102 , **🇻🇪** 93 , **📢** 93 , **▶️** 93 , **@ERNESTOPF23:** 92 , **@NICOLASMADURO** 92 , **@MIPPCIVZLA** 92 , **8ABR|** 52 , **PUEBLOENAMORYPAZ** 52 , **¡VIVA** 52 , **VENEZUELA!** 51 , **7ABR|** 41 , **ENDEFENSADELESEQUIBO** 41 , **¡VENEZUELA** 41 , **SE** 41 , **RESPETA!** 41 , **¡ETIQUETA** 2 , **DEL** 2 , **DÍA!** 2 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
- 
-# niti_armyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1642205069239279616/9tzOY6Od_normal.jpg)
- 
-`User ScreenName:` niti_army 
- 
-`User chosen Name:` TayBae Stan. 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 01 14:24:43 +0000 2023 
- 
-`User Description?:` Stanning the absolute savage and unstoppable QUEEN ~ NITI TAYLOR 👸❤ 
- 
-`Followers?: `4 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:` Mumbai, India 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642205069239279616/9tzOY6Od_normal.jpg 
- 
-`Number of tweets excluding replies:` 3131 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PRACHI** 180 , **2** 173 , **MONTHS** 169 , **NITI** 168 , **NITITAYLOR𓃵RT** 119 , **NITITAYLOR𓃵** 34 , **@SHINESTARANGEL:** 31 , **@NITISQUAD:** 26 , **@NITAYBAE:** 22 , **HAI** 19 , **@ASHICREATIONZ:** 19 , **NITITAYLOR** 13 , **LOVE** 12 , **@NITI_FANMILY:** 12 , **RING** 10 , **@UNIQUEGIRLLOVE:** 10 , **@__MISHAAL__:** 9 , **@NITIBLESSINGS:** 9 , **LIFE** 9 , **DON'T** 9 , 
- 
-## What this user tweeted
- 
-RT @dustybunn21: "Out of our vulnerabilities will come your strength."
-
-2 MONTHS OF NITI AS PRACHI
-#NitiTaylor𓃵RT @nitisquad: Niti is so good here👏 those anger, frustration, vulnerabilities she is so good!
-#NitiTaylor #BadeAchheLagteHain2
-#NitiTaylor…
- 
-# Elonmusk0792USER INFO
-![image](http://pbs.twimg.com/profile_images/1644644712727420928/OzpWIV62_normal.jpg)
- 
-`User ScreenName:` Elonmusk0792 
- 
-`User chosen Name:` Elon Musk 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 08 09:59:22 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 43 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644644712727420928/OzpWIV62_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK:** 5 , **RT** 1 , **@TITTERDAILY** 1 , **GREAT** 1 , **REDUCING** 1 , **IMPERSONATION** 1 , **RISKRT** 1 , **HTTPS://TCO/I5MDO8GSAZRT** 1 , **HTTPS://TCO/4IISLSWUYIRT** 1 , **SORRY** 1 , **SLIGHT** 1 , **GLITCH** 1 , **@SPACEX** 1 , **STARLINK** 1 , **COMING** 1 , **BACK** 1 , **ONLINE** 1 , **NOWRT** 1 , **CAUSED** 1 , **EXPIRED** 1 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
- 
-# Antonioperez30USER INFO
-![image](http://pbs.twimg.com/profile_images/1642742488556355585/l3D7Yd_M_normal.jpg)
- 
-`User ScreenName:` Antonioperez30 
- 
-`User chosen Name:` 🇻🇪❤️Antonio🇻🇪❤️ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 03 04:08:36 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `40 
- 
-`Following?:` 104 
- 
-`User URL?:` None 
- 
-`Location:` Barquisimeto, Venezuela 
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642742488556355585/l3D7Yd_M_normal.jpg 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK:** 7 , **RT** 1 , **STARSHIP** 1 , **STACKED** 1 , **READY** 1 , **LAUNCH** 1 , **NEXT** 1 , **WEEK** 1 , **PENDING** 1 , **REGULATORY** 1 , **APPROVALRT** 1 , **@COMMUNITYNOTES:** 1 , **¡HOLA** 1 , **🇲🇽** 1 , **Y** 1 , **🇪🇸!** 1 , **¡OI** 1 , **🇵🇹!** 1 , **WELCOME** 1 , **NEW** 1 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
- 
-# SbhhsVzbsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644660400619700224/A_FLY5kU_normal.jpg)
- 
-`User ScreenName:` SbhhsVzbs 
- 
-`User chosen Name:` Sbhhs Vzbs 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 08 08:53:50 +0000 2023 
- 
-`User Description?:` Tech enthusiast passionate about coding 💻, web development 🌐, and Web3 ⛓️.
-https://t.co/RMVQoxr2Mb 
- 
-`Followers?: `1 
- 
-`Following?:` 17 
- 
-`User URL?:` None 
- 
-`Location:` SG 
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644660400619700224/A_FLY5kU_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CHATGPT** 7 , **WEB** 5 , **LANGUAGE** 4 , **SUCH** 3 , **PROVIDING** 2 , **PAGES** 2 , **DEVELOPMENT** 2 , **TASKS** 2 , **PROCESSING** 2 , **RT** 1 , **@CYBERCONNECTHQ:** 1 , **HTTPS://TCO/EVE12ZGMRJTESTING** 1 , **DEBUGGING:** 1 , **ASSIST** 1 , **TESTING** 1 , **DEBUGGING** 1 , **APPLICATIONS** 1 , **INSIGHTS** 1 , **SUGGE…** 1 , **HTTPS://TCO/S9HLAAJMUQUSER** 1 , 
- 
-## What this user tweeted
- 
-Testing and Debugging: ChatGPT can assist in testing and debugging web applications by providing insights and sugge… https://t.co/S9HlaAJmuq
- 
-# CSecuritypostUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641415612529360896/xgcwVJDJ_normal.png)
- 
-`User ScreenName:` CSecuritypost 
- 
-`User chosen Name:` Ciber Security Post 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 30 12:22:32 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 57 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641415612529360896/xgcwVJDJ_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**REDUCE** 2 , **RT** 1 , **@IBMSECURITY:** 1 , **GOANYWHERE** 1 , **RANSOMWARE** 1 , **ATTACK** 1 , **HALTED** 1 , **IBM** 1 , **X-FORCE** 1 , **🛑** 1 , **DETAILS** 1 , **INVESTIGATION** 1 , **INSIGHT** 1 , **INTO** 1 , **R…RT** 1 , **@CISACYBER:** 1 , **💪** 1 , **FINISH** 1 , **WEEK** 1 , **STRONG** 1 , 
- 
-## What this user tweeted
- 
-RT @CISACyber: 💪 Finish your week strong and patch the 5🆕 CVEs that were added to @CISAgov’s Known Exploited Vulnerabilities Catalog! More…
- 
-# Elonmusk105374USER INFO
-![image](http://pbs.twimg.com/profile_images/1642441128543756288/ILtM_d8A_normal.jpg)
- 
-`User ScreenName:` Elonmusk105374 
- 
-`User chosen Name:` Elon musk 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 02 08:17:17 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 23 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 32 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642441128543756288/ILtM_d8A_normal.jpg 
- 
-`Number of tweets excluding replies:` 33 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK:** 15 , **@SPACEX:** 5 , **RT** 3 , **$ETH** 3 , **FIRST** 3 , **FOLLOW** 3 , **FALCON** 3 , **1** 2 , **WALLET** 2 , **9’S** 2 , **STAGE** 2 , **LANDED** 2 , **4** 2 , **TIME** 2 , **3** 2 , **STARSHIP** 2 , **PREPARING** 2 , **LAUNCH** 2 , **@INTELSAT** 2 , **IS-40E** 2 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
- 
-# qj_qw55752USER INFO
-![image](http://pbs.twimg.com/profile_images/1644560519913930752/QvycpNtZ_normal.jpg)
- 
-`User ScreenName:` qj_qw55752 
- 
-`User chosen Name:` qw qj 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 01 11:31:08 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 16 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644560519913930752/QvycpNtZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VERIFYING** 1 , **TWITTER** 1 , **ACCOUNT** 1 , **GALXEID** 1 , **GID:A5ZUI8N8T7RNJIDNTKRYXH** 1 , **@GALXE** 1 , **HTTPS://TCO/O0DVOWKHTVRT** 1 , **@ELONMUSK:** 1 , **CAUSED** 1 , **EXPIRED** 1 , **GROUND** 1 , **STATION** 1 , **CERT** 1 , **WE’RE** 1 , **SCRUBBING** 1 , **SYSTEM** 1 , **OTHER** 1 , **SINGLE-POINT** 1 , **VULNERABILITIES** 1 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
- 
-# SumitMehhtaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641289235951960064/Y7kFAKEF_normal.jpg)
- 
-`User ScreenName:` SumitMehhta 
- 
-`User chosen Name:` Sumit Mehta 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 30 04:00:21 +0000 2023 
- 
-`User Description?:` 𝙀𝙣𝙩𝙧𝙚𝙥𝙧𝙚𝙣𝙚𝙪𝙧 | 𝙁𝙤𝙪𝙣𝙙𝙚𝙧 : 𝙉𝙞𝙣𝙚𝙃𝙪𝙣𝙩 & 𝙑𝙤𝙞𝙞𝙯𝙤 | 🎓𝙊𝙣𝙩𝙚𝙧𝙞𝙤 𝘾𝘼 🇨🇦 | 𝘽𝙚 𝙏𝙝𝙚 𝘾𝙝𝙖𝙣𝙜𝙚 𝙔𝙤𝙪 𝙒𝙖𝙣𝙩 𝙏𝙤 𝙎𝙚𝙚 
- 
-`Followers?: `0 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:` Ontario, CA 
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641289235951960064/Y7kFAKEF_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK:** 2 , **TARGET** 2 , **@NITISHRAJPUTE** 2 , **JOIN** 2 , **YOUTUBE** 2 , **RT** 1 , **METAMORPHOSISAI** 1 , **HTTPS://TCO/GVZ2ETBFPLRT** 1 , **@NARENDRAMODI:** 1 , **OUTSTANDING** 1 , **ACCOMPLISHMENT** 1 , **IMPORTANT** 1 , **SECTOR** 1 , **ECONOMIC** 1 , **GROWTHRT** 1 , **@MCCOFFICIAL:** 1 , **REPRESENTING** 1 , **🇮🇳** 1 , **👏** 1 , **CONGRATULATIONS** 1 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
- 
-# Huey62600916470USER INFO
-![image](http://pbs.twimg.com/profile_images/1642974143862718464/ndsl5AqB_normal.png)
- 
-`User ScreenName:` Huey62600916470 
- 
-`User chosen Name:` Huey 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 03 19:35:35 +0000 2023 
+`User signup date?:` Wed Apr 05 18:53:05 +0000 2023 
  
 `User Description?:`  
  
@@ -609,50 +135,11 @@ RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the syste
  
 `Location:`  
  
-`Number of tweets extracted`  : 41 
+`Number of tweets extracted`  : 29 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1642974143862718464/ndsl5AqB_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1643995922743926788/RvrMAjj3_normal.jpg 
  
-`Number of tweets excluding replies:` 41 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LIGHT** 3 , **BAD** 2 , **COLD** 2 , **MAN** 2 , **THEY'LL** 2 , **MAKE** 2 , **POINT** 2 , **10** 2 , **BUD** 2 , **NEED** 2 , **WHERE** 2 , **@EXOACADEMIAN** 1 , **ITA** 1 , **DUDE** 1 , **BAD@STILLGRAY** 1 , **WHATACOFFEE** 1 , **COMING** 1 , **HOT** 1 , **OFF** 1 , **WEBS@DWPASULKA** 1 , 
- 
-## What this user tweeted
- 
-@elonmusk Will you update with how many single point vulnerabilities you discover?
- 
-# PCerrvante8680USER INFO
-![image](http://pbs.twimg.com/profile_images/1644775996825178112/o9Xz4Tzt_normal.jpg)
- 
-`User ScreenName:` PCerrvante8680 
- 
-`User chosen Name:` Polyam Cerrvantez 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 06 15:18:24 +0000 2023 
- 
-`User Description?:` Graduate Student, UCLA 
- 
-`Followers?: `25 
- 
-`Following?:` 546 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644775996825178112/o9Xz4Tzt_normal.jpg 
- 
-`Number of tweets excluding replies:` 322 
+`Number of tweets excluding replies:` 29 
  
 
  
@@ -660,120 +147,39 @@ RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the syste
  
 ## User Top tweeted words 
  
-**@ELONMUSK:** 20 , **@2AUPDATES:** 18 , **@MOROSKOSTAS:** 13 , **GUN** 11 , **@FOURBOXESDINER:** 11 , **COURT** 10 , **@MAJTOURE:** 9 , **LAW** 8 , **US** 8 , **@DEAFLIBERTARIAN:** 8 , **CARRY** 7 , **PERSON** 7 , **EVEN** 7 , **JUSTICE** 7 , **THOMAS** 7 , **V** 7 , **PERRY** 6 , **@IRAQVETERAN8888:** 6 , **SUPREME** 6 , **@GUNPOLICY:** 6 , 
+**PARTY** 4 , **SAY** 4 , **US** 3 , **MEAN** 3 , **WAY** 2 , **OPPOSING** 2 , **@KAMALAHARRIS** 2 , **PEOPLE** 2 , **BEING** 2 , **DOING** 2 , **INSURRECTION** 2 , **NEVER** 2 , **MANIPULATED** 2 , **I'M** 2 , **AGAIN** 2 , **WHERE** 2 , **TEAMS** 2 , **SOMETHING** 2 , **WASN'T** 2 , **@JDCOCCHIARELLA** 2 , 
  
 ## What this user tweeted
  
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
+@krassenstein Also remember
+-the way one party weaponized law enforcement to punish the opposing party and anyone a… https://t.co/msVEzVfqKu
  
-# Bubble_ChainUSER INFO
-![image](http://pbs.twimg.com/profile_images/1643691605969231883/ICUPSulK_normal.jpg)
+# McdonaldMc94324USER INFO
+![image](http://pbs.twimg.com/profile_images/1641253859581644803/CEZEaxV-_normal.jpg)
  
-`User ScreenName:` Bubble_Chain 
+`User ScreenName:` McdonaldMc94324 
  
-`User chosen Name:` Bubble Chain 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 05 19:04:48 +0000 2023 
- 
-`User Description?:` Bubble Chain is the worlds first web 3.0 version of PayPal. Stake and earn
-
-https://t.co/LahXzyAb2U 
- 
-`Followers?: `101 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 15 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643691605969231883/ICUPSulK_normal.jpg 
- 
-`Number of tweets excluding replies:` 15 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BUBBLE** 4 , **STAKING** 4 , **PAY** 3 , **SMART** 3 , **CONTRACT** 3 , **SECURE** 3 , **DONE** 2 , **EYES** 2 , **US** 2 , **SOLIDITY** 2 , **MAKING** 2 , **DEVELOPMENT** 2 , **EARN** 2 , **START** 2 , **$BUBBLE** 2 , **INFORMATION** 2 , **BACKEND** 2 , **CHAIN** 2 , **CG** 1 , **APPLICATION** 1 , 
- 
-## What this user tweeted
- 
-Through the use of Solidity, we have ensured that the Bubble Pay smart contract is both secure and efficient. The c… https://t.co/EsNnHSC96E
- 
-# NedAtTonkeanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644018005309792264/iCELKuzP_normal.jpg)
- 
-`User ScreenName:` NedAtTonkean 
- 
-`User chosen Name:` Ned @ Tonkean 
+`User chosen Name:` Bobbette McDonald 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 06 16:37:03 +0000 2023 
- 
-`User Description?:` Helping companies build processes people actually follow, #NoCode, #GPT, Learner of things and amateur  grilled cheese critic 
- 
-`Followers?: `1016 
- 
-`Following?:` 72 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644018005309792264/iCELKuzP_normal.jpg 
- 
-`Number of tweets excluding replies:` 26 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LEGAL** 8 , **@TONKEAN** 5 , **INTO** 4 , **@GEORGEBESSENYEI** 4 , **AI** 4 , **@TONKEAN:** 4 , **PROCUREMENT** 4 , **CAN'T** 3 , **TEAMS** 3 , **LEGALOPS** 3 , **WRITE** 2 , **EXERCISE** 2 , **SEEN** 2 , **TOO** 2 , **PROFESSIONALS** 2 , **THESE** 2 , **ANY** 2 , **AUTOMATION** 2 , **HELP** 2 , **SALES** 2 , 
- 
-## What this user tweeted
- 
-@jonathan_obrien @supplymgmt “Identify vulnerabilities with a 360-degree risk assessment” 
-
-YEP! This is definitely… https://t.co/Tyu6YCYDGz
- 
-# cnn_and_foxUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641629510096265220/7wCttFui_normal.jpg)
- 
-`User ScreenName:` cnn_and_fox 
- 
-`User chosen Name:` CNN AND FOX NEWS 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 31 02:31:55 +0000 2023 
+`User signup date?:` Thu Mar 30 01:28:39 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `137 
+`Followers?: `27 
  
-`Following?:` 445 
+`Following?:` 93 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 199 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1641629510096265220/7wCttFui_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1641253859581644803/CEZEaxV-_normal.jpg 
  
-`Number of tweets excluding replies:` 2384 
+`Number of tweets excluding replies:` 1105 
  
 
  
@@ -781,119 +187,246 @@ YEP! This is definitely… https://t.co/Tyu6YCYDGz
  
 ## User Top tweeted words 
  
-**–** 55 , **AFTER** 21 , **DIE** 13 , **POLICE** 11 , **IM** 11 , **BC** 9 , **TORONTO** 8 , **VS** 8 , **MASTERS** 7 , **UND** 7 , **ATTACK** 7 , **NATIONAL** 7 , **MIT** 7 , **MAN** 6 , **AUF** 5 , **SUNAK** 5 , **LAMPARD** 5 , **WIN** 5 , **FRANK** 5 , **NACH** 5 , 
+**REPUBLICANS** 18 , **TENNESSEE** 15 , **💙** 14 , **BREAKING:** 12 , **GOP** 9 , **CLARENCE** 9 , **@OCCUPYDEMOCRATS:** 9 , **EXPEL** 8 , **PEOPLE** 7 , **REP** 7 , **THOMAS** 7 , **@ANNIEFORTRUTH:** 7 , **@KANGAROOS991:** 7 , **@OREN_JACOBSON** 7 , **VOTE** 6 , **GOING** 6 , **@THERICHFROMCALI:** 6 , **NEW** 6 , **TIME** 6 , **AGAINST** 6 , 
  
 ## What this user tweeted
  
-Reentrancy Vulnerabilities and Recommended Mitigation Strategies | by Jude Abara | Coinmonks | Apr, 2023 https://t.co/5LsVmG6B26
+RT @FrankFigliuzzi1: Whoever coordinated this gravely damaging leak is allowing Russia to ferret out US and allied sources inside Moscow. T…
  
-# RomanceRoadmapUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644176589868105729/4aXIwGcb_normal.jpg)
+# Beytull45823184USER INFO
+![image](http://pbs.twimg.com/profile_images/1644830115476406273/XUPDFzoS_normal.jpg)
  
-`User ScreenName:` RomanceRoadmap 
+`User ScreenName:` Beytull45823184 
  
-`User chosen Name:` Romance Roadmap 
+`User chosen Name:` Ukraine News 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Apr 07 03:01:20 +0000 2023 
+`User signup date?:` Sat Apr 08 22:30:33 +0000 2023 
  
-`User Description?:` Navigate the ups and downs of love with RomanceRoadmap.
-https://t.co/oQGq15uqwe 
+`User Description?:` Ukraine News 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1644830115476406273/XUPDFzoS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@UAREALITYNOW** 2 , **UKRAINE'S** 2 , **MILITARY** 2 , **SECRETS** 2 , **EXPOSED:** 2 , **SHOCKING** 2 , **REVELATIONS** 2 , **@KARENGIERSING** 1 , **HTTPS://TCO/TZYRLLQTCW@WHISKEY_** 1 , **HTTPS://TCO/RWKOB7OJA5HTTPS://TCO/TZYRLLQTCW** 1 , **UKRAINEWAR** 1 , **UKRAINERUSSIAWAR️…** 1 , **HTTPS://TCO/XEIUFXHPEQHTTPS://TCO/TZYRLLQTCW** 1 , **HTTPS://TCO/C9ZYERGBNR** 1 , 
+ 
+## What this user tweeted
+ 
+https://t.co/TzyRlLQtCW
+
+Ukraine's Military Secrets Exposed: Shocking Revelations
+
+#UkraineWar #UkraineRussiaWar️… https://t.co/XEIufXhpeQhttps://t.co/TzyRlLQtCW
+
+Ukraine's Military Secrets Exposed: Shocking Revelations https://t.co/c9zyERgBnR
+ 
+# TerrasMulinUSER INFO
+![image](http://pbs.twimg.com/profile_images/1644827693056249857/MCG3jo-9_normal.jpg)
+ 
+`User ScreenName:` TerrasMulin 
+ 
+`User chosen Name:` Terras Mulin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 08 22:06:52 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1644827693056249857/MCG3jo-9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UKRAINE** 2 , **RT** 1 , **@STEPHENKING:** 1 , **KEEP** 1 , **HEARTS** 1 , **THOUGHTS** 1 , **DON’T** 1 , **SUPPORT** 1 , **APPEASERS** 1 , **LEAVE** 1 , **BEHINDRT** 1 , **@BILLBROWDER:** 1 , **BRAZIL’S** 1 , **PRESIDENT** 1 , **LULA** 1 , **URGED** 1 , **GIVE** 1 , **CRIMEA** 1 , **“THE** 1 , **WORLD** 1 , 
+ 
+## What this user tweeted
+ 
+RT @StephenKing: Keep Ukraine in your hearts and thoughts.
+Don’t support appeasers who would leave them behind.RT @Billbrowder: Brazil’s president Lula urged Ukraine to give up Crimea because “The world needs tranquillity”. I didn’t have particularly…
+ 
+# SORAB37388873USER INFO
+![image](http://pbs.twimg.com/profile_images/1644300217099993089/43ypDx2p_normal.jpg)
+ 
+`User ScreenName:` SORAB37388873 
+ 
+`User chosen Name:` СОРАБ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 07 11:11:34 +0000 2023 
+ 
+`User Description?:` НЕПОКОРАН,РОДА СОРАБСКОГА,НЕБЕСКОГА,НИКОМЕ,А ПОКОРАН САМО ГОСПОДУ БОГУ,ОЦУ НАШЕМУ,ЈЕДИНОМЕ,ПРАВОМЕ...!!!...СЛАВА МУ ЗА СВЕ И ЗА ВЈЕК И ВЈЕКОВА...!!! 
+ 
+`Followers?: `13 
+ 
+`Following?:` 83 
+ 
+`User URL?:` None 
+ 
+`Location:` БЕОГРАД,НЕБЕСКА СРБИЈА 
+ 
+`Number of tweets extracted`  : 53 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1644300217099993089/43ypDx2p_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**И** 15 , **ДА** 13 , **У** 13 , **SE** 11 , **U** 10 , **ЈЕ** 9 , **JE** 8 , **DA** 7 , **СЕ** 6 , **@TRACANI:** 6 , **@AHMATSILAN1:** 5 , **ЗА** 5 , **KO** 5 , **СЛАВА** 5 , **НА** 5 , **ZA** 4 , **ВЕЧНА** 4 , **@SEVASTOKRATOR3:** 3 , **РАДУЈ** 3 , **NE** 3 , 
+ 
+## What this user tweeted
+ 
+RT @panonski_kozak: Oh my Lord, what is this? Is this Hell? Is this Ukraine? Is this from a movie? 
+Neither is it from Hell, nor from Ukrai…
+ 
+# HumanRightsEURUSER INFO
+![image](http://pbs.twimg.com/profile_images/1643919330432761857/CuoU62bu_normal.jpg)
+ 
+`User ScreenName:` HumanRightsEUR 
+ 
+`User chosen Name:` Human Rights Violations Int. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 06 03:17:29 +0000 2023 
+ 
+`User Description?:` HRVE International/Europe - Sister organisation of Global Free Press Agency International. #Grassroots
+
+For inquiries: 
+humanrightsviolationsexposed@gmail.com 
+ 
+`Followers?: `13 
+ 
+`Following?:` 274 
+ 
+`User URL?:` https://t.co/Yb69SkTXTr 
+ 
+`Location:` Bruxelles - Paris - NYC - AMS 
+ 
+`Number of tweets extracted`  : 126 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643919330432761857/CuoU62bu_normal.jpg 
+ 
+`Number of tweets excluding replies:` 130 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NATO** 8 , **INDIA** 8 , **RUSSIA** 7 , **@KATEGOESTECH** 7 , **UKRAINIAN** 7 , **ISRAEL** 7 , **VIOLENCE** 7 , **TORTURE** 7 , **ABUSE** 7 , **ISRAELI** 6 , **FORCES** 6 , **@KATEGOESTECH:** 6 , **UKRAINE** 5 , **@CLASHREPORT** 5 , **RIGHTS** 5 , **@EMALOLETKA** 5 , **INTO** 5 , **MOSQUE** 5 , **PRESIDENT** 5 , **HUMAN** 5 , 
+ 
+## What this user tweeted
+ 
+@Husainvalizadeh @OnlinePalEng Plenty of organisations speak out actually. But no one can change domestic policy in… https://t.co/1XgofA5lAi
+ 
+# jottan3113USER INFO
+![image](http://pbs.twimg.com/profile_images/1644097391409373185/hfAYMeWl_normal.png)
+ 
+`User ScreenName:` jottan3113 
+ 
+`User chosen Name:` 꾸중물 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 06 21:58:58 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `27 
+ 
+`Following?:` 320 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 40 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1644097391409373185/hfAYMeWl_normal.png 
+ 
+`Number of tweets excluding replies:` 43 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SPRITER99880:** 9 , **RUSSIA** 6 , **@WINRUSSIAWILL:** 6 , **UKRAINE** 6 , **PUTIN** 5 , **ACCOUNTS** 4 , **WAR** 4 , **US** 4 , **PRESIDENT** 4 , **@NOWHERE_6869:** 4 , **RUSSIAN** 3 , **CHINA** 3 , **SOVIET** 3 , **SAUDI** 3 , **TWITTER** 2 , **PLATFORM** 2 , **LIFTS** 2 , **RESTRICTIONS** 2 , **AUTHORITIES** 2 , **KREMLIN** 2 , 
+ 
+## What this user tweeted
+ 
+RT @WinRussiawill: ⚡️This meme summaries the whole Ukrainian - Russian war 😅
+
+#NATO #Germany #Russia #Ukraine #Putin https://t.co/YSolkULU6vRT @WinRussiawill: The Twitter platform lifts restrictions on accounts of  Russian authorities... Accounts of the Kremlin, the Ministry of…
+ 
+# KelleySimichUSER INFO
+![image](http://pbs.twimg.com/profile_images/1644814498388234241/XTaN37IZ_normal.jpg)
+ 
+`User ScreenName:` KelleySimich 
+ 
+`User chosen Name:` Kelley Michael Simich 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 08 20:36:14 +0000 2023 
+ 
+`User Description?:` Emperor Kelley the 1st - King of Austria and Croatia - Tudor King of England - Titled with Knighthoods - Title Nobilis & Tabularium Nobilitatis Americanus Mem. 
  
 `Followers?: `2 
  
-`Following?:` 43 
+`Following?:` 222 
  
-`User URL?:` https://t.co/oQGq15uqwe 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 73 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644176589868105729/4aXIwGcb_normal.jpg 
- 
-`Number of tweets excluding replies:` 73 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RELATIONSHIP** 9 , **YOU'RE** 7 , **TRY** 5 , **BEING** 5 , **MAN** 5 , **IMPORTANT** 5 , **LIFE** 4 , **FOCUS** 4 , **MAKE** 4 , **PERSON** 4 , **GO** 4 , **KEY** 4 , **ANY** 4 , **NEEDS** 4 , **WHILE** 4 , **EMOTIONAL** 3 , **PARTNER?** 3 , **SOMEONE** 3 , **VALUE** 3 , **MAKES** 3 , 
- 
-## What this user tweeted
- 
-Looking for ways to deepen your emotional connection with your partner? Try sharing your own vulnerabilities and en… https://t.co/MWXOkxRqgB
- 
-# DC600ogUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644200156794060801/_8IHVaYk_normal.jpg)
- 
-`User ScreenName:` DC600og 
- 
-`User chosen Name:` Arnab Kar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 07 04:46:53 +0000 2023 
- 
-`User Description?:` Blockchain & crypto & web3 enthusiast || Content creator (non-technical) || Storyteller || Dreamcatcher 
- 
-`Followers?: `34 
- 
-`Following?:` 117 
- 
-`User URL?:` None 
+`User URL?:` https://t.co/veR3uacj14 
  
 `Location:`  
  
-`Number of tweets extracted`  : 107 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1644200156794060801/_8IHVaYk_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1644814498388234241/XTaN37IZ_normal.jpg 
  
-`Number of tweets excluding replies:` 107 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PRIVACY** 66 , **WEB3** 40 , **OASIS** 39 , **DEVELOPERS** 21 , **OASISNETWORK** 21 , **SAPPHIRE** 21 , **LAYER** 20 , **DAPPS** 15 , **@TATAA697:** 15 , **@OASISPROTOCOL** 14 , **@EGETEX90:** 14 , **@JEFFRAFAEL88:** 13 , **EVM** 13 , **DATA** 12 , **CONFIDENTIAL** 12 , **@_HEEYAHNUH:** 9 , **@OFFICIAL_CANDYX:** 9 , **COMMUNITY** 9 , **HEY** 8 , **FIRST** 8 , 
- 
-## What this user tweeted
- 
-RT @LacapMaricris: The use of the Internet can lead to data exposure &amp; loss of funds, but #Oasis uses TEE technology to protect the privacy…RT @bheecrush: How @OasisProtocol Protects Privacy Despite TEE Vulnerabilities - A Thread🧵
-
-The #OasisNetwork takes data security and #priv…
- 
-# PrairConstanzUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644198014251323392/2qeIuShJ_normal.png)
- 
-`User ScreenName:` PrairConstanz 
- 
-`User chosen Name:` Prair Constanz 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 07 04:29:34 +0000 2023 
- 
-`User Description?:` Stem cell biologist @CReM_Boston & @The_BMC @BU_Tweets. PhD Mechanobiology @MBIsg @NUSingapore. Views are my own. Organoids and materials 
- 
-`Followers?: `3 
- 
-`Following?:` 138 
- 
-`User URL?:` https://t.co/7sO8jwrSP7 
- 
-`Location:` Cambridge, MA 
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644198014251323392/2qeIuShJ_normal.png 
- 
-`Number of tweets excluding replies:` 17 
+`Number of tweets excluding replies:` 12 
  
 
  
@@ -901,116 +434,38 @@ The #OasisNetwork takes data security and #priv…
  
 ## User Top tweeted words 
  
-**CANCER** 7 , **STUDY** 4 , **WORK** 3 , **NEW** 3 , **DEVELOPMENT** 3 , **PAPER** 3 , **@PRECURSORCELL:** 2 , **ONLINE** 2 , **TUMOR** 2 , **DNA** 2 , **HAPPY** 2 , **@NATURE** 2 , **PUBLISHED** 2 , **SHARE** 2 , **@ELIFE** 2 , **FIRST** 2 , **ORGANOIDS** 2 , **EXCITED** 2 , **RT** 1 , **@C0NC0RDANCE:** 1 , 
+**EMPEROR** 3 , **KELLEY** 2 , **FIRST** 2 , **ENJOY** 2 , **SUCCEED** 2 , **PEOPLE** 2 , **GOVERNMENT** 2 , **GOOD** 2 , **FRANZ** 1 , **JOSEF** 1 , **1** 1 , **AUSTRIA-HUNGARY** 1 , **PICTURED** 1 , **BACKGROUND** 1 , **2021** 1 , **YOUR…** 1 , **HTTPS://TCO/1YJPLVQ4P3THE** 1 , **PRESSURE** 1 , **PUTS** 1 , **ONESELF** 1 , 
  
 ## What this user tweeted
  
-RT @Snippertlab: Happy that our study is published where we explored targetable vulnerabilities in RAS mutant colorectal cancer #organoids…
+The clear and present evidence of this illegal action of war on Ukraine from Russia is paramount that we do not lea… https://t.co/nI8P252dSp
  
-# CryptoKoliaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641793040502210566/0yrmRed5_normal.jpg)
+# RastaMonChantUSER INFO
+![image](http://pbs.twimg.com/profile_images/1642144001024311299/uMZXBNmC_normal.png)
  
-`User ScreenName:` CryptoKolia 
+`User ScreenName:` RastaMonChant 
  
-`User chosen Name:` Коля Кінах 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 31 13:19:41 +0000 2023 
- 
-`User Description?:` #BTC #binance #airdrop #arbitrum #sui #ETH #BNB #Cryptocurrency #followback 
- 
-`Followers?: `7 
- 
-`Following?:` 120 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641793040502210566/0yrmRed5_normal.jpg 
- 
-`Number of tweets excluding replies:` 375 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CETUS** 52 , **@CETUSPROTOCOL:** 48 , **👍RT** 31 , **SUI** 22 , **APTOS** 19 , **CRYPTO** 18 , **@CETUSPROTOCOL** 18 , **PARTNERSHIP** 16 , **NEW** 15 , **PROTOCOL** 12 , **LIQUIDITY** 12 , **ANNOUNCE** 11 , **ALPHA** 9 , **BITCOIN** 9 , **X** 9 , **DEX** 8 , **WALLET** 7 , **VERSION** 7 , **10** 7 , **POWERED** 7 , 
- 
-## What this user tweeted
- 
-DeFi Vulnerabilities Exploited By Illicit Actors, Says US Treasury Report https://t.co/JuvaMt5hlb
- 
-# cryptomoonexUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644107825700904961/Lab8-s7c_normal.jpg)
- 
-`User ScreenName:` cryptomoonex 
- 
-`User chosen Name:` Crypto MoonEx 
+`User chosen Name:` John Niemela 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 30 18:58:57 +0000 2023 
- 
-`User Description?:` It all started on January 3, 2009. And he will be a pioneer in the new world order. #BTC #ETH #BNB #AVAX #USDT 
- 
-`Followers?: `2209 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644107825700904961/Lab8-s7c_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SOLANA** 1 , **INTRODUCED** 1 , **SOLUTION** 1 , **AIMS** 1 , **REDUCE** 1 , **ON-CHAIN** 1 , **STORAGE** 1 , **COSTS** 1 , **NON-FUNGIBLE** 1 , **TOKENS** 1 , **(NFT)…** 1 , **HTTPS://TCO/HNY2XKFE6KBITCOIN’S** 1 , **MINING** 1 , **DIFFICULTY** 1 , **INCREASED** 1 , **FOURTH** 1 , **TIME** 1 , **ROW** 1 , **REACHED** 1 , **NEW** 1 , 
- 
-## What this user tweeted
- 
-The United States Treasury Department has issued a report warning of the growing security risks associated with the… https://t.co/aGL4HcVeNq
- 
-# Superman7842USER INFO
-![image](http://pbs.twimg.com/profile_images/1642731416202137600/4XisVU1N_normal.jpg)
- 
-`User ScreenName:` Superman7842 
- 
-`User chosen Name:` Supermen 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 03 03:02:25 +0000 2023 
+`User signup date?:` Sat Apr 01 12:36:53 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `3 
+`Followers?: `4 
  
-`Following?:` 28 
+`Following?:` 56 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 106 
+`Number of tweets extracted`  : 39 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1642731416202137600/4XisVU1N_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1642144001024311299/uMZXBNmC_normal.png 
  
-`Number of tweets excluding replies:` 106 
+`Number of tweets excluding replies:` 39 
  
 
  
@@ -1018,38 +473,38 @@ The United States Treasury Department has issued a report warning of the growing
  
 ## User Top tweeted words 
  
-**@PLAYZAPGAMES** 30 , **@RADKETRDK** 18 , **APRIL** 12 , **@ALEYA1MONA** 12 , **@THOMAS_WQM** 12 , **UTC** 11 , **MANY** 10 , **TOKEN** 9 , **CRYPTO** 9 , **GAMES** 9 , **AMA** 8 , **2023** 8 , **COULD** 8 , **PROJECT** 8 , **VERY** 7 , **US** 7 , **@GOHEALTHHERO** 7 , **@SWIMSPREADWIS** 7 , **COMMUNITY** 6 , **UNDERSTAND** 6 , 
+**BILLION** 5 , **GO** 5 , **BEING** 4 , **?** 4 , **117** 4 , **JOE** 4 , **VIDEO!** 4 , **TIKTOK** 4 , **@RASTAMONCHANT:** 3 , **TANK** 3 , **BIDENS** 3 , **SOCIAL** 3 , **WENT** 2 , **WEEKS** 2 , **MORNING** 2 , **VIDEOONE** 2 , **RUSSIAN** 2 , **DESTROYEDIS** 2 , **REPLAY** 2 , **UKRAINEAND** 2 , 
  
 ## What this user tweeted
  
-@vulture_peak @PlayZapGames Can you assure us that this won't be one of those projects that come out, do a lot of m… https://t.co/1y9aQBu6dO
+RT @RastaMonChant: Saw A Video,One Russian Tank Being Destroyed,Is this A Replay ? 117 Billion to the Ukraine,And all they Got is Videos of…
  
-# Tech4Founders_USER INFO
-![image](http://pbs.twimg.com/profile_images/1642957936845529092/zIWYBbST_normal.jpg)
+# DelCastVBarajasUSER INFO
+![image](http://pbs.twimg.com/profile_images/1642324572178358273/sUyIfVAC_normal.jpg)
  
-`User ScreenName:` Tech4Founders_ 
+`User ScreenName:` DelCastVBarajas 
  
-`User chosen Name:` Tech4Founders 
+`User chosen Name:` Barajas del Castillo Velasco Fernando 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 03 18:26:43 +0000 2023 
+`User signup date?:` Thu Mar 30 02:11:34 +0000 2023 
  
-`User Description?:` Discover Some Of The Most Common Reasons Why Tech-Based Startups Fail... And How To Avoid Becoming Part Of That Statistic 
+`User Description?:` Fco. I. Madero 102A, Bo. San Miguel , C.P. 08650 , Iztacalco CDMX, 
  
-`Followers?: `1 
+`Followers?: `4 
  
-`Following?:` 1 
+`Following?:` 346 
  
-`User URL?:` https://t.co/2q9kz7nGf8 
+`User URL?:` https://t.co/UeNk2K74bS 
  
-`Location:`  
+`Location:` ¡ Hijo d 2 Personalidades ! 
  
-`Number of tweets extracted`  : 8 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1642957936845529092/zIWYBbST_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1642324572178358273/sUyIfVAC_normal.jpg 
  
-`Number of tweets excluding replies:` 8 
+`Number of tweets excluding replies:` 1437 
  
 
  
@@ -1057,11 +512,11 @@ The United States Treasury Department has issued a report warning of the growing
  
 ## User Top tweeted words 
  
-**ESSENTIAL** 4 , **TECHNICAL** 4 , **TECH** 4 , **HELP** 3 , **SKILLS** 3 , **UNDERSTAND** 2 , **LEARN** 2 , **DATA** 2 , **STARTUP** 2 , **YOU'RE** 2 , **SOME** 2 , **PROPER** 1 , **CODE** 1 , **DOCUMENTATION** 1 , **MAINTAIN** 1 , **STARTUP'S** 1 , **TECHNOLOGY** 1 , **STACK** 1 , **TECHNICAL…** 1 , **HTTPS://TCO/TQLNTK33ONDISASTER** 1 , 
+**DE** 226 , **LA** 127 , **EN** 99 , **EL** 80 , **Y** 61 , **LOS** 44 , **QUE** 43 , **DEL** 33 , **PARA** 32 , **POR** 30 , **CON** 27 , **LAS** 24 , **UN** 22 , **UNA** 20 , **SE** 17 , **ES** 15 , **@REUTERS:** 14 , **@NYTIMES:** 14 , **MÁS** 14 , **@EXCELSIOR:** 12 , 
  
 ## What this user tweeted
  
-Protecting your product and data is essential, and as a non-technical founder, it's crucial to educate yourself abo… https://t.co/PvrEMD22PA
+RT @nytimes: Secret Pentagon documents that were exposed on social media shed new light on the war in Ukraine, showing how deeply the U.S.…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
