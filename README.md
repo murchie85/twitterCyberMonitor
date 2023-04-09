@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **KanekoaTheGreat**  
+The most popular user is: **MichaelSteele**  
  
 
-## Pranksters Vovan and Lexus posing as Petro Poroshenko got French ex-President Francois Hollande to admit the Minsk… https://t.co/WGjAYIzsJX 
+## Oh please! Let’s stop with the “liberal press” BS. I’m a conservative and I know like YOU do that this stinks. $500… https://t.co/S5MbYUuf8V 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **KanekoaTheGreat**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Ukraine’s coal miners dig deep to power a nation at war"Coal is essential for meeting Ukraine's energy needs due… https://t.co/DxjxHIlv7P |
-| @cnni 👏🏽👏🏽👏🏽Let's go Ukraine!!!Victory!Victory!Victory! |
-| @SariArhoHavren @chenweihua I think he supports the will of the people of Donbass and Crimea, who rightfully secede… https://t.co/W9A2OzFuuw |
+| 50 Methods For Lsass Dump(RTC0002)https://t.co/k14GeCgwVV#infosecurity #CyberSec #bug #BugBounty #infosec… https://t.co/ljxXTDgMiQ |
+| RT @G4lile0: I really enjoyed these reverse engineering articles by Rick Osgood @rickoooooo that explain step by step how to achieve arbitr… |
+| MA-909.022023: MyCERT Advisory - Microsoft Releases February 2023 Security Updates https://t.co/B5OSVaxO2S #CERT… https://t.co/W125fK8oEA |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Spriter99880** |
-| #2 Most tweeted to  | **nytimes** |
-| #3 Most tweeted to  | **visegrad24** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 4.42%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **hack_git** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **Shubham_pen** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 5.44%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -50,43 +50,172 @@ The most popular user is: **KanekoaTheGreat**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **RUSSIA**  |
-| third  | **US** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **WAR**  |
+| first  | **INFOSEC**  |
+| second  | **PENTESTING**  |
+| third  | **@HACK_GIT:** |
+| fourth  | **@HACKINARTICLES:**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @juliavkril: Ukraine and russia are NOT “brotherly nations”. They never were and they certainly never will be. Don’t believe me? Go ch… |
+|RT @Dennis_Porter_: The state of Arkansas has pulled off a surprise victory and become the first in the nation to pass the ‘Right to Mine’… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KanekoaTheGreat**  |
+| The most retweeted user is: **MichaelSteele**  |
 | ------------- |
-| Pranksters Vovan and Lexus posing as Petro Poroshenko got French ex-President Francois Hollande to admit the Minsk… https://t.co/WGjAYIzsJX |
+| Oh please! Let’s stop with the “liberal press” BS. I’m a conservative and I know like YOU do that this stinks. $500… https://t.co/S5MbYUuf8V |
 
 # Potential Fake Accounts
  
-# _VolodymyReportUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644425011485110272/92PKDnny_normal.jpg)
+# Dude04493028352USER INFO
+![image](http://pbs.twimg.com/profile_images/1643300403638050816/uWMqfInP_normal.jpg)
  
-`User ScreenName:` _VolodymyReport 
+`User ScreenName:` Dude04493028352 
  
-`User chosen Name:` Volodymyr🇺🇦🔱🪖 
+`User chosen Name:` Paul 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 05 16:53:48 +0000 2023 
+`User signup date?:` Tue Apr 04 09:52:49 +0000 2023 
  
-`User Description?:` Ніколи не відмовляємось від нашої 🇺🇦 Свободи 💪! Слава Україні 💙💛 Героям Слава 💪🔱!!! 
+`User Description?:` #Infosec|#Web3/#NFT/#Blockchain/#Crypto|#Sports|#Travel | #InformationTechnology |#OpenSource/#Linux| Looking for an entry level Remote job | CS undergrad | 
+ 
+`Followers?: `76 
+ 
+`Following?:` 638 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 94 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643300403638050816/uWMqfInP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 94 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**YUMMY** 7 , **AWW** 6 , **CUTE** 5 , **DUDE** 4 , **LOOKING** 4 , **POPULAR** 3 , **TIME** 3 , **WORLD** 3 , **MUCH** 3 , **KILLING** 2 , **MANY** 2 , **USE** 2 , **TOO** 2 , **MAMA** 2 , **LOOK** 2 , **MANGO** 2 , **FIND** 2 , **UNA** 2 , **PER** 2 , **UN** 2 , 
+ 
+## What this user tweeted
+ 
+RT @freeCodeCamp: Wireshark is a popular sniffer and packet analyzer that many infosec pros use.
+
+And @omer_ros teaches you how to use it i…
+ 
+# Ghaneswari27USER INFO
+![image](http://pbs.twimg.com/profile_images/1643131091757199360/egzN6vO7_normal.png)
+ 
+`User ScreenName:` Ghaneswari27 
+ 
+`User chosen Name:` Ghaneswari Dharua 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 04 05:59:14 +0000 2023 
+ 
+`User Description?:` "Helping businesses grow through digital strategies 🚀
+Follow me for tips on SEO, PPC, social media, and more 💻📈 
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` https://t.co/3rqRhKhOGn 
+ 
+`Location:` Delhi 
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643131091757199360/egzN6vO7_normal.png 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DIGITAL** 11 , **MARKETING** 10 , **DIGITALMARKETING** 6 , **BUSINESS** 5 , **HOME** 3 , **STRATEGY** 3 , **CREATING** 3 , **BRAND** 3 , **THROUGH** 2 , **NATIONAL** 2 , **MUST** 2 , **ANY** 2 , **GOOD** 2 , **KEY** 2 , **@EAGLESDMA:** 2 , **THREAD** 2 , **@ONTOP_MKT:** 2 , **SOCIALMEDIAMARKETING** 2 , **PLATFORM** 2 , **RT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day          
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
+ 
+# tryhackme_USER INFO
+![image](http://pbs.twimg.com/profile_images/1643329562091061249/5PIx0PUn_normal.jpg)
+ 
+`User ScreenName:` tryhackme_ 
+ 
+`User chosen Name:` Anonymous 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 04 19:07:30 +0000 2023 
+ 
+`User Description?:` Spam  Yourself 🩶 It’s Crippy to find me on Social Media 🌈 
+ 
+`Followers?: `3 
+ 
+`Following?:` 107 
+ 
+`User URL?:` None 
+ 
+`Location:` Russia 
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643329562091061249/5PIx0PUn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FAILED** 7 , **NIGGA😑OKAY** 7 , **AI** 4 , **COMING** 4 , **BARKING** 4 , **🫦DOGS** 4 , **SECURITY** 3 , **@SYEDSHAHEER_1:** 3 , **@JHADDIX:** 3 , **PENTESTING** 2 , **CHATGPT** 2 , **PAKISTAN** 2 , **MUST** 2 , **TECHNOLOGY** 2 , **DON'T** 2 , **@PAULMUTTON** 2 , **@PRESSUREPIG** 2 , **🎇** 2 , **PLAY** 2 , **@HEAVY_MAAMLAAT:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @Hakin9: Hakrawler - A fast CLI web crawler for hackers
+
+Want to gain knowledge and new skills in this topic? 
+
+Check out our article on…RT @hackinarticles: Privacy Email Accounts
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #CyberSec…
+ 
+# FayFay27463042USER INFO
+![image](http://pbs.twimg.com/profile_images/1644480352059281408/vvCUcy_s_normal.jpg)
+ 
+`User ScreenName:` FayFay27463042 
+ 
+`User chosen Name:` Fay 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 07 23:17:53 +0000 2023 
+ 
+`User Description?:` Owner Business
+I Live in Palm Beach, Miami. 
  
 `Followers?: `1 
  
@@ -94,13 +223,13 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 `User URL?:` None 
  
-`Location:` Kosiv, Ukraine 
+`Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 101 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1644425011485110272/92PKDnny_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1644480352059281408/vvCUcy_s_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 101 
  
 
  
@@ -108,41 +237,40 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
  
 ## User Top tweeted words 
  
-**BETWEEN** 2 , **UKRAINE** 2 , **SLAVA** 2 , **RT** 1 , **@NOELREPORTS:** 1 , **SITREP** 1 , **08/04/23** 1 , **TICK** 1 , **TOCK** 1 , **OVERVIEW** 1 , **DAILY** 1 , **EVENTS** 1 , **WAR** 1 , **RUSSIA** 1 , **CLOCK** 1 , **TICKIN…@INFOAGESTRATEGY** 1 , **🇺🇦💪!** 1 , **HEROIAM** 1 , **💙💛🙏!!** 1 , **THANK** 1 , 
+**@WSJ:** 14 , **ITS** 12 , **@BUSINESS:** 10 , **@MRDICKHITCHENS:** 9 , **@THEECONOMIST:** 9 , **US** 8 , **TIME** 7 , **NEW** 7 , **EASTER** 7 , **DAY** 5 , **WORK** 5 , **@FORBES:** 5 , **GETTING** 4 , **FIRST** 4 , **COULD** 4 , **TESLA** 4 , **PRICES** 4 , **GARDEN** 4 , **HOME** 4 , **MANY** 3 , 
  
 ## What this user tweeted
  
-RT @NOELreports: SitRep 08/04/23 - Tick tock...
+RT @corixpartners: The Curse of the Decade for Many CISOs &gt; https://t.co/rA4cI4IHKK 
 
-An overview of the daily events in the war between Russia and Ukraine. The clock is tickin…@InfoAgeStrategy Slava Ukraine 🇺🇦💪! Heroiam Slava 💙💛🙏!!
-Thank you friend for your support and encouragement so far… https://t.co/aPnB2TlgnO
+#cybersecurity #security #infosec #business #leaders…
  
-# bobu_aiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1643477172861140993/hivpatNP_normal.jpg)
+# NoonoNooor45564USER INFO
+![image](http://pbs.twimg.com/profile_images/1644858526647431168/rSG_y0IX_normal.png)
  
-`User ScreenName:` bobu_ai 
+`User ScreenName:` NoonoNooor45564 
  
-`User chosen Name:` BOBU.AI 
+`User chosen Name:` Nooor Noono 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 04 06:56:15 +0000 2023 
+`User signup date?:` Sun Apr 09 00:23:27 +0000 2023 
  
-`User Description?:` Bobu is an AI guided by one human. 
+`User Description?:`  
  
-`Followers?: `0 
+`Followers?: `2 
  
-`Following?:` 5 
+`Following?:` 1 
  
-`User URL?:` https://t.co/j5EOljwnnc 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1643477172861140993/hivpatNP_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1644858526647431168/rSG_y0IX_normal.png 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -150,32 +278,67 @@ Thank you friend for your support and encouragement so far… https://t.co/aPnB2
  
 ## User Top tweeted words 
  
-**FRANCE** 6 , **COMING** 4 , **PARIS** 3 , **PEOPLE** 3 , **AI** 3 , **THINGS** 2 , **🇫🇷** 2 , **SPIRIT** 2 , **@ELONMUSK:** 2 , **@TITTERDAILY** 2 , **RT** 1 , **@MAZZENILSSON:** 1 , **GOING** 1 , **NEXT** 1 , **LEVEL** 1 , **REVOLUTION;** 1 , **HTTPS://TCO/NOBMZQ8Z3LRT** 1 , **@SAIKATE108:** 1 , **STREETS** 1 , **FLOODED** 1 , 
+**FULL** 2 , **ACTIVATED** 2 , **–** 2 , **DISCOUNT** 2 , **100%** 2 , **OFF** 2 , **INFOSEC** 2 , **SEO** 1 , **POWERSUITE** 1 , **ENTERPRISE** 1 , **V976** 1 , **HTTPS://TCO/FI6EJTWLWQ** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/OLY83ILR5KPSIPHON** 1 , **PRO** 1 , **VPN** 1 , **V358** 1 , **HTTPS://TCO/XFNIHG7YZB** 1 , **BUGCROWD** 1 , **BUGBOUNTYTIPS…** 1 , 
  
 ## What this user tweeted
  
-RT @SaiKate108: France 🇫🇷 
-
-Today the streets of Paris are flooded with a never ending stream of people.
-
-The French are relentless and dis…
+SEO PowerSuite Enterprise v97.6 Full Activated – Discount 100% OFF https://t.co/fI6ejTWLWq #infosec #bugcrowd… https://t.co/oLY83IlR5KPsiphon Pro VPN v358 Full Activated – Discount 100% OFF https://t.co/xfniHG7YZb #infosec #bugcrowd #bugbountytips… https://t.co/oBho6Bny4D
  
-# Beytull45823184USER INFO
-![image](http://pbs.twimg.com/profile_images/1644830115476406273/XUPDFzoS_normal.jpg)
+# Social_JanitorUSER INFO
+![image](http://pbs.twimg.com/profile_images/1644844602946469891/ETlW-pRB_normal.jpg)
  
-`User ScreenName:` Beytull45823184 
+`User ScreenName:` Social_Janitor 
  
-`User chosen Name:` Ukraine News 
+`User chosen Name:` Social Janitor 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 08 22:30:33 +0000 2023 
+`User signup date?:` Sun Apr 02 22:49:22 +0000 2023 
  
-`User Description?:` Ukraine News 
+`User Description?:` Social engineering hacker conferences, talking my way into obscure discussions, enjoying awkwardness,  and keeping the toilets and hallways clean 
+ 
+`Followers?: `3 
+ 
+`Following?:` 8 
+ 
+`User URL?:` https://t.co/75JxSE7m8G 
+ 
+`Location:` Cape Canaveral, FL 
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1644844602946469891/ETlW-pRB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HACKSPACECON:** 13 , **TICKET** 6 , **HACK** 3 , **TRAINING** 3 , **HACKSPACECON** 3 , **SPACE** 3 , **CONFERENCE** 3 , **AFTER** 3 , **PARTY** 3 , **APRIL** 3 , **CON** 3 , **WEEK** 2 , **WANNA** 2 , **@TCMSECURITY:** 2 , **STICKERS** 2 , **ATTEND** 2 , **@_JOHNHAMMOND:** 2 , **GOING** 2 , **PASSWORD** 2 , **FAST** 2 , 
+ 
+## What this user tweeted
+ 
+RT @PlexTracCarl: Far out! 👽 The PlexTrac Team will be at the Kennedy Space Center in Florida from April 13-15 for @HackSpaceCon. We hope y…
+ 
+# JustPeeringInUSER INFO
+![image](http://pbs.twimg.com/profile_images/1644041911135531008/SKu9QKsi_normal.jpg)
+ 
+`User ScreenName:` JustPeeringIn 
+ 
+`User chosen Name:` JustPeeringIn 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 06 18:16:32 +0000 2023 
+ 
+`User Description?:` deaf offsec student 
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 36 
  
 `User URL?:` None 
  
@@ -183,7 +346,7 @@ The French are relentless and dis…
  
 `Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1644830115476406273/XUPDFzoS_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1644041911135531008/SKu9QKsi_normal.jpg 
  
 `Number of tweets excluding replies:` 6 
  
@@ -193,261 +356,17 @@ The French are relentless and dis…
  
 ## User Top tweeted words 
  
-**UKRAINEWAR** 3 , **UKRAINERUSSIAWAR️** 2 , **UKRAINELEAKS** 2 , **UKRAINE** 2 , **@UAREALITYNOW** 2 , **UKRAINE'S** 2 , **MILITARY** 2 , **SECRETS** 2 , **EXPOSED:** 2 , **SHOCKING** 2 , **REVELATIONS** 2 , **HTTPS://TCO/6P74JEOTDB** 1 , **HTTPS://TCO/19FJJBZHHXRUSSIAN** 1 , **ARMY** 1 , **STRUGGLES** 1 , **SUFFERING** 1 , **HEAVY** 1 , **LOSSES** 1 , **HTTPS://TCO/EZKS9BPJ15** 1 , **UKRAINE@KARENGIERSING** 1 , 
+**ANDROID** 3 , **NETWORK** 3 , **&GT;** 3 , **TRAFFIC** 2 , **INTERCEPTION** 2 , **RT** 1 , **@HACK_GIT:** 1 , **INTERCEPT** 1 , **TRAFIC** 1 , **HTTPS://TCO/4BCHKATDXP** 1 , **CYBERSECURITY** 1 , **I…RT** 1 , **@BUGHUNTY:** 1 , **NOISE** 1 , **LOGS!** 1 , **BURP** 1 , **SUITE** 1 , **PROXY** 1 , **OPTIONS** 1 , **TLS** 1 , 
  
 ## What this user tweeted
  
-Russian Army Struggles in Ukraine, Suffering Heavy Losses
+RT @hack_git: Android Network Traffic Interception
 
-https://t.co/EZKS9bpj15
-#UkraineWar #UkraineRussiaWar️ #UkraineLeaks #Ukraine
- 
-# TerrasMulinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644827693056249857/MCG3jo-9_normal.jpg)
- 
-`User ScreenName:` TerrasMulin 
- 
-`User chosen Name:` Terras Mulin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 08 22:06:52 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 45 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 20 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644827693056249857/MCG3jo-9_normal.jpg 
- 
-`Number of tweets excluding replies:` 20 
- 
+How to intercept network trafic on Android.
 
- 
+https://t.co/4bCHKaTdxP
 
- 
-## User Top tweeted words 
- 
-**@PATREON** 7 , **RUSSIAN** 6 , **DAY** 3 , **FELLAS** 3 , **TWITTER** 3 , **UKRAINE** 3 , **NEEDS** 3 , **PROPAGANDA** 3 , **@STERNENKO** 3 , **SUPPORT** 3 , **@BILLBROWDER:** 2 , **AFTER** 2 , **MUST** 2 , **@OLEX_SCHERBA:** 2 , **CRIMEA** 2 , **WORLD** 2 , **PRESIDENT** 2 , **RULES** 2 , **@ESTUPENDO666:** 2 , **WANNA** 2 , 
- 
-## What this user tweeted
- 
-RT @Tendar: German Economy Minister Habeck suggests that imports which might have Russia has origin must be checked more in detail. Denmark…RT @olex_scherba: Crimea is Ukraine! 
-We’ll be back! 
-
-#CrimeaIsUkraine #StandWithUkraine https://t.co/Eh9pqJPqB0RT @gubbdjavel: Another day passed.
-Ukraine will win the war.
-#UkraineWillWin
-
-The 🐆 are coming 
-muscovy delenda est.
-One day closer to the…RT @guyverhofstadt: The world needs more than ’tranquility’, President Lula… it needs rules, sovereignty, peace.
-
-Would you offer a Crimea-…
- 
-# cnn_and_foxUSER INFO
-![image](http://pbs.twimg.com/profile_images/1641629510096265220/7wCttFui_normal.jpg)
- 
-`User ScreenName:` cnn_and_fox 
- 
-`User chosen Name:` CNN AND FOX NEWS 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Mar 31 02:31:55 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `137 
- 
-`Following?:` 445 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1641629510096265220/7wCttFui_normal.jpg 
- 
-`Number of tweets excluding replies:` 2403 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 57 , **AFTER** 21 , **DIE** 13 , **POLICE** 11 , **IM** 11 , **VS** 9 , **BC** 9 , **NATIONAL** 8 , **MIT** 8 , **TORONTO** 8 , **UND** 7 , **ATTACK** 7 , **UFC** 6 , **MAN** 6 , **TIME** 5 , **287** 5 , **START** 5 , **EDMONTON** 5 , **DIES** 5 , **SUNAK** 5 , 
- 
-## What this user tweeted
- 
-Ukraine rescue group brings home 31 children taken by Russia – National https://t.co/xW1uFWvi8Q
- 
-# DelCastVBarajasUSER INFO
-![image](http://pbs.twimg.com/profile_images/1642324572178358273/sUyIfVAC_normal.jpg)
- 
-`User ScreenName:` DelCastVBarajas 
- 
-`User chosen Name:` Barajas del Castillo Velasco Fernando 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 30 02:11:34 +0000 2023 
- 
-`User Description?:` Fco. I. Madero 102A, Bo. San Miguel , C.P. 08650 , Iztacalco CDMX, 
- 
-`Followers?: `4 
- 
-`Following?:` 379 
- 
-`User URL?:` https://t.co/UeNk2K74bS 
- 
-`Location:` ¡ Hijo d 2 Personalidades ! 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642324572178358273/sUyIfVAC_normal.jpg 
- 
-`Number of tweets excluding replies:` 1539 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 196 , **EN** 96 , **LA** 95 , **EL** 75 , **Y** 55 , **LOS** 44 , **QUE** 43 , **PARA** 34 , **UN** 29 , **DEL** 29 , **CON** 27 , **UNA** 25 , **POR** 24 , **LAS** 24 , **SE** 17 , **ES** 17 , **MÁS** 14 , **AL** 13 , **@NYTIMES:** 13 , **@EXCELSIOR:** 12 , 
- 
-## What this user tweeted
- 
-RT @nytimes: Making a nerve-wracking 3,000-mile journey from Ukraine, into Russia-occupied territory, and back again, a group of mothers ma…
- 
-# MaosephLenstroUSER INFO
-![image](http://pbs.twimg.com/profile_images/1643999076751482880/vLPp3x7p_normal.jpg)
- 
-`User ScreenName:` MaosephLenstro 
- 
-`User chosen Name:` Maoseph Lenstro 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 30 15:01:31 +0000 2023 
- 
-`User Description?:` Guy who likes technology and politics 
- 
-`Followers?: `8 
- 
-`Following?:` 60 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643999076751482880/vLPp3x7p_normal.jpg 
- 
-`Number of tweets excluding replies:` 289 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DYLANBURNS1776** 30 , **@ROSSPUBLICA** 16 , **@THEELISHEV** 14 , **@PIP_DRAGON** 11 , **@YLECUN** 10 , **@KANTHAN2030** 10 , **US** 9 , **@RWAPODCAST** 8 , **PEOPLE** 8 , **RUSSIA** 8 , **@A_JAFF_** 7 , **TRUMP** 7 , **DON’T** 7 , **@REVMAXXING** 7 , **@NYTIMES** 7 , **EVEN** 6 , **CHINA** 6 , **SUPPORT** 6 , **RUSSIAN** 6 , **UKRAINIAN** 6 , 
- 
-## What this user tweeted
- 
-@stephenwalsh110 @BryantHodl @A_JaFF_ @RWApodcast Ukraine defeat is inevitable and now imminent
- 
-# EllisVidlerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644352611984744450/k9hYzhhu_normal.jpg)
- 
-`User ScreenName:` EllisVidler 
- 
-`User chosen Name:` Ellis Vidler 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 07 14:53:07 +0000 2023 
- 
-`User Description?:` Author, editor, chief cook and bottle washer. Stories with action, adventure, and heart. 
- 
-`Followers?: `11 
- 
-`Following?:` 84 
- 
-`User URL?:` https://t.co/yBObJnep8J 
- 
-`Location:` South Carolina 
- 
-`Number of tweets extracted`  : 90 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644352611984744450/k9hYzhhu_normal.jpg 
- 
-`Number of tweets excluding replies:` 90 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AUTHOR** 8 , **BOOK** 8 , **BOOKS** 6 , **MYSTERY** 6 , **THRILLER** 5 , **NEW** 5 , **READ** 4 , **KINDLE** 4 , **FIRST** 4 , **ROMANCE** 4 , **LOVE** 4 , **GOOD** 4 , **SERIES** 3 , **FIND** 3 , **BEACH** 3 , **FREE** 3 , **GO** 3 , **CRIME** 3 , **STORY** 3 , **@CHRISTAN7777:** 3 , 
- 
-## What this user tweeted
- 
-RT @Gerashchenko_en: "See my wife, hug my kids, go home to Mariupol" - Ukrainian Border Guards share what they want to do after Victory.
-
-M…
- 
-# LongNgu0689572USER INFO
-![image](http://pbs.twimg.com/profile_images/1642515026065113089/F0zCz4Z-_normal.jpg)
- 
-`User ScreenName:` LongNgu0689572 
- 
-`User chosen Name:` Maria 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Mar 30 17:43:12 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:` los angeles 
- 
-`Number of tweets extracted`  : 24 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642515026065113089/F0zCz4Z-_normal.jpg 
- 
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@NYTIMES:** 12 , **JUSTIN** 4 , **DONALD** 3 , **TRUMP** 3 , **AFTER** 3 , **TIME** 3 , **INVESTIGATION** 2 , **TWO** 2 , **BLACK** 2 , **LAWMAKERS** 2 , **REPRESENTATIVES** 2 , **JONES** 2 , **PEARSON** 2 , **COMES** 2 , **COURT** 2 , **@ELONMUSK:** 2 , **AGAINST** 2 , **RT** 1 , **SURGE** 1 , **YOUTHFUL** 1 , 
- 
-## What this user tweeted
- 
-RT @nytimes: Breaking News: A trove of leaked Pentagon documents reveals how deeply Russia’s security and intelligence services have been p…
+#cybersecurity #i…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
