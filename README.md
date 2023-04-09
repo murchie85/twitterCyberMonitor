@@ -1,20 +1,24 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **MichaelSteele**  
+The most popular user is: **BushidoToken**  
  
 
-## Oh please! Let’s stop with the “liberal press” BS. I’m a conservative and I know like YOU do that this stinks. $500… https://t.co/S5MbYUuf8V 
+## My first blog of 2023 - Tips for Investigating Cybercrime Infrastructure
+
+🔗https://t.co/bc4vEjPKIS
+
+#CTI… https://t.co/xEIDMYnw5o 
 
   
 
@@ -23,24 +27,24 @@ The most popular user is: **MichaelSteele**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Detected #phishing clone at address: hxxp://2616936[.]du493323[.]web[.]hosting-test[.]net/orange[.]fr/#orange… https://t.co/j96JYbOS9P |
-| 100% Non-drop original and best reviews.Yelp reviewshttps://t.co/nCQv7Lb4CA⭐️⭐️⭐️⭐️⭐️#pokemon #blacktechtwitter… https://t.co/8JKxjpAFqU |
-| RT @hackinarticles: Active Directory Pentesting Tools#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity… |
+| Addressing US Medical Device Cyber Integrity and Protecting Patients #infosec #infosecurity #cybersecurity… https://t.co/FOCc75z0Ls |
+| Get two years of ultimate VPN protection on unlimited connections for only #infosec #infosecurity #cybersecurity… https://t.co/PSOusKquvM |
+| RT @CyberIQs_: Western Digital network security incident and service outage #infosec #infosecurity #cybersecurity #threatintel #threatintel… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hack_git** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **Shubham_pen** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 5.32%|
+| #1 Most tweeted to  | **CyberIQs_** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **AnonymousH4ck35** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 1.52%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,255 +55,44 @@ The most popular user is: **MichaelSteele**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **@HACK_GIT:** |
-| fourth  | **@HACKINARTICLES:**  |
-| fifth  | **CYBERSECURITYTIPS**  |
+| second  | **INFOSECURITY**  |
+| third  | **THREATINTEL** |
+| fourth  | **@CYBERIQS_:**  |
+| fifth  | **THREATINTEL…**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @msftsecurity: Check out the news from Microsoft Secure—explore a new product, expanded features, and helpful new integrations: https://… |
+|RT @CyberIQs_: Article not here #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #hacking #cybernews #cyberattack #cl… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MichaelSteele**  |
+| The most retweeted user is: **BushidoToken**  |
 | ------------- |
-| Oh please! Let’s stop with the “liberal press” BS. I’m a conservative and I know like YOU do that this stinks. $500… https://t.co/S5MbYUuf8V |
+| My first blog of 2023 - Tips for Investigating Cybercrime Infrastructure🔗https://t.co/bc4vEjPKIS#CTI… https://t.co/xEIDMYnw5o |
 
 # Potential Fake Accounts
  
-# UnsaintWarriorUSER INFO
-![image](http://pbs.twimg.com/profile_images/1642300624871084033/thP6OOdW_normal.jpg)
+# actinfo001USER INFO
+![image](http://pbs.twimg.com/profile_images/1642863710804013056/1NXhMXGv_normal.png)
  
-`User ScreenName:` UnsaintWarrior 
+`User ScreenName:` actinfo001 
  
-`User chosen Name:` Unsaint_Warrior 
+`User chosen Name:` Act Info 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Mar 31 10:40:07 +0000 2023 
+`User signup date?:` Mon Apr 03 12:16:46 +0000 2023 
  
 `User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 48 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1642300624871084033/thP6OOdW_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@HACKINARTICLES:** 2 , **PIC** 2 , **DAY** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **CYBERSECURITYTIPS** 2 , **PENTESTING** 2 , **CYBERSECURITYAWARENESS** 2 , **RT** 1 , **INFORMATIONSE…RT** 1 , **@ANONOPSSE:** 1 , **HTTPS://TCO/OXAXEPSGTYRT** 1 , **INFORMATIONSECURITY…RT** 1 , **@DSAEZGIL:** 1 , **WAY** 1 , **EARTH** 1 , **ALREADY** 1 , **SUPER-COMPUTER** 1 , **MAP** 1 , **SUBMARINE** 1 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Pic of the Day          
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
- 
-# Dude04493028352USER INFO
-![image](http://pbs.twimg.com/profile_images/1643300403638050816/uWMqfInP_normal.jpg)
- 
-`User ScreenName:` Dude04493028352 
- 
-`User chosen Name:` Paul 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 09:52:49 +0000 2023 
- 
-`User Description?:` #Infosec|#Web3/#NFT/#Blockchain/#Crypto|#Sports|#Travel | #InformationTechnology |#OpenSource/#Linux| Looking for an entry level Remote job | CS undergrad | 
- 
-`Followers?: `77 
- 
-`Following?:` 638 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 94 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643300403638050816/uWMqfInP_normal.jpg 
- 
-`Number of tweets excluding replies:` 94 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**YUMMY** 7 , **AWW** 6 , **CUTE** 5 , **DUDE** 4 , **LOOKING** 4 , **POPULAR** 3 , **TIME** 3 , **WORLD** 3 , **MUCH** 3 , **KILLING** 2 , **MANY** 2 , **USE** 2 , **TOO** 2 , **MAMA** 2 , **LOOK** 2 , **MANGO** 2 , **FIND** 2 , **UNA** 2 , **PER** 2 , **UN** 2 , 
- 
-## What this user tweeted
- 
-RT @freeCodeCamp: Wireshark is a popular sniffer and packet analyzer that many infosec pros use.
-
-And @omer_ros teaches you how to use it i…
- 
-# Ghaneswari27USER INFO
-![image](http://pbs.twimg.com/profile_images/1643131091757199360/egzN6vO7_normal.png)
- 
-`User ScreenName:` Ghaneswari27 
- 
-`User chosen Name:` Ghaneswari Dharua 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 05:59:14 +0000 2023 
- 
-`User Description?:` "Helping businesses grow through digital strategies 🚀
-Follow me for tips on SEO, PPC, social media, and more 💻📈 
  
 `Followers?: `0 
- 
-`Following?:` 5 
- 
-`User URL?:` https://t.co/3rqRhKhOGn 
- 
-`Location:` Delhi 
- 
-`Number of tweets extracted`  : 28 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643131091757199360/egzN6vO7_normal.png 
- 
-`Number of tweets excluding replies:` 28 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DIGITAL** 11 , **MARKETING** 10 , **DIGITALMARKETING** 6 , **BUSINESS** 5 , **HOME** 3 , **STRATEGY** 3 , **CREATING** 3 , **BRAND** 3 , **THROUGH** 2 , **NATIONAL** 2 , **MUST** 2 , **ANY** 2 , **GOOD** 2 , **KEY** 2 , **@EAGLESDMA:** 2 , **THREAD** 2 , **@ONTOP_MKT:** 2 , **SOCIALMEDIAMARKETING** 2 , **PLATFORM** 2 , **RT** 1 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Pic of the Day          
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
- 
-# tryhackme_USER INFO
-![image](http://pbs.twimg.com/profile_images/1643329562091061249/5PIx0PUn_normal.jpg)
- 
-`User ScreenName:` tryhackme_ 
- 
-`User chosen Name:` Anonymous 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 19:07:30 +0000 2023 
- 
-`User Description?:` Spam  Yourself 🩶 It’s Crippy to find me on Social Media 🌈 
- 
-`Followers?: `3 
- 
-`Following?:` 109 
- 
-`User URL?:` None 
- 
-`Location:` Russia 
- 
-`Number of tweets extracted`  : 32 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643329562091061249/5PIx0PUn_normal.jpg 
- 
-`Number of tweets excluding replies:` 32 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FAILED** 7 , **NIGGA😑OKAY** 7 , **AI** 4 , **COMING** 4 , **BARKING** 4 , **🫦DOGS** 4 , **SECURITY** 3 , **@SYEDSHAHEER_1:** 3 , **@JHADDIX:** 3 , **PENTESTING** 2 , **CHATGPT** 2 , **PAKISTAN** 2 , **MUST** 2 , **TECHNOLOGY** 2 , **DON'T** 2 , **@PAULMUTTON** 2 , **@PRESSUREPIG** 2 , **🎇** 2 , **PLAY** 2 , **@HEAVY_MAAMLAAT:** 2 , 
- 
-## What this user tweeted
- 
-RT @Hakin9: Hakrawler - A fast CLI web crawler for hackers
-
-Want to gain knowledge and new skills in this topic? 
-
-Check out our article on…RT @hackinarticles: Privacy Email Accounts
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #CyberSec…
- 
-# FayFay27463042USER INFO
-![image](http://pbs.twimg.com/profile_images/1644480352059281408/vvCUcy_s_normal.jpg)
- 
-`User ScreenName:` FayFay27463042 
- 
-`User chosen Name:` Fay 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 07 23:17:53 +0000 2023 
- 
-`User Description?:` Owner Business
-I Live in Palm Beach, Miami. 
- 
-`Followers?: `1 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 101 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644480352059281408/vvCUcy_s_normal.jpg 
- 
-`Number of tweets excluding replies:` 101 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@WSJ:** 14 , **ITS** 12 , **@BUSINESS:** 10 , **@MRDICKHITCHENS:** 9 , **@THEECONOMIST:** 9 , **US** 8 , **TIME** 7 , **NEW** 7 , **EASTER** 7 , **DAY** 5 , **WORK** 5 , **@FORBES:** 5 , **GETTING** 4 , **FIRST** 4 , **COULD** 4 , **TESLA** 4 , **PRICES** 4 , **GARDEN** 4 , **HOME** 4 , **MANY** 3 , 
- 
-## What this user tweeted
- 
-RT @corixpartners: The Curse of the Decade for Many CISOs &gt; https://t.co/rA4cI4IHKK 
-
-#cybersecurity #security #infosec #business #leaders…
- 
-# NoonoNooor45564USER INFO
-![image](http://pbs.twimg.com/profile_images/1644858526647431168/rSG_y0IX_normal.png)
- 
-`User ScreenName:` NoonoNooor45564 
- 
-`User chosen Name:` Nooor Noono 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 09 00:23:27 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
  
 `Following?:` 1 
  
@@ -307,11 +100,11 @@ RT @corixpartners: The Curse of the Decade for Many CISOs &gt; https://t.co/rA4c
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1644858526647431168/rSG_y0IX_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1642863710804013056/1NXhMXGv_normal.png 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -319,38 +112,44 @@ RT @corixpartners: The Curse of the Decade for Many CISOs &gt; https://t.co/rA4c
  
 ## User Top tweeted words 
  
-**FULL** 2 , **ACTIVATED** 2 , **–** 2 , **DISCOUNT** 2 , **100%** 2 , **OFF** 2 , **INFOSEC** 2 , **SEO** 1 , **POWERSUITE** 1 , **ENTERPRISE** 1 , **V976** 1 , **HTTPS://TCO/FI6EJTWLWQ** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/OLY83ILR5KPSIPHON** 1 , **PRO** 1 , **VPN** 1 , **V358** 1 , **HTTPS://TCO/XFNIHG7YZB** 1 , **BUGCROWD** 1 , **BUGBOUNTYTIPS…** 1 , 
+**THREATINTELLIGENCE** 6 , **THREATINTEL** 3 , **RANSOMWARE** 2 , **INCIDENTRESPONSE** 2 , **INFOSEC** 2 , **TEST** 1 , **CLOUDSECURITYTEST** 1 , **CLOUDSECURITYTHREAT** 1 , **THREATTEST** 1 , **THREAT** 1 , **THREATSTHREATINTELLIGENCE** 1 , **THREATRANSOMWARETEST** 1 , **THREATTHREATINTEL** 1 , **HEY** 1 , **GUYS** 1 , 
  
 ## What this user tweeted
  
-SEO PowerSuite Enterprise v97.6 Full Activated – Discount 100% OFF https://t.co/fI6ejTWLWq #infosec #bugcrowd… https://t.co/oLY83IlR5KPsiphon Pro VPN v358 Full Activated – Discount 100% OFF https://t.co/xfniHG7YZb #infosec #bugcrowd #bugbountytips… https://t.co/oBho6Bny4D
+Test #ThreatIntel #ThreatIntelligence #ransomware #incidentresponse #infosec #cloudsecurityTest
+#ThreatIntel  #ThreatIntelligence #ransomware #incidentresponse #infosec  #cloudsecurityTest ThreatIntelligence Threat
+#ThreatIntelligence 
+#ThreatIntel
+#Threats#ThreatIntel 
+Hey Guys
  
-# Social_JanitorUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644844602946469891/ETlW-pRB_normal.jpg)
+# 3vgeniybogachevUSER INFO
+![image](http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg)
  
-`User ScreenName:` Social_Janitor 
+`User ScreenName:` 3vgeniybogachev 
  
-`User chosen Name:` Social Janitor 
+`User chosen Name:` Evgeniy Bogachev "Slavic" 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Apr 02 22:49:22 +0000 2023 
+`User signup date?:` Fri Mar 31 19:35:31 +0000 2023 
  
-`User Description?:` Social engineering hacker conferences, talking my way into obscure discussions, enjoying awkwardness,  and keeping the toilets and hallways clean 
+`User Description?:` Evgeniy Mikhailovich Bogachev 
+Zeus Botnet author & creator ! 
  
 `Followers?: `3 
  
-`Following?:` 8 
+`Following?:` 7 
  
-`User URL?:` https://t.co/75JxSE7m8G 
+`User URL?:` None 
  
-`Location:` Cape Canaveral, FL 
+`Location:`  
  
-`Number of tweets extracted`  : 25 
+`Number of tweets extracted`  : 152 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1644844602946469891/ETlW-pRB_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1641891630654410771/DF0Cxx0F_normal.jpg 
  
-`Number of tweets excluding replies:` 25 
+`Number of tweets excluding replies:` 156 
  
 
  
@@ -358,11 +157,15 @@ SEO PowerSuite Enterprise v97.6 Full Activated – Discount 100% OFF https://t.c
  
 ## User Top tweeted words 
  
-**@HACKSPACECON:** 13 , **TICKET** 6 , **HACK** 3 , **TRAINING** 3 , **HACKSPACECON** 3 , **SPACE** 3 , **CONFERENCE** 3 , **AFTER** 3 , **PARTY** 3 , **APRIL** 3 , **CON** 3 , **WEEK** 2 , **WANNA** 2 , **@TCMSECURITY:** 2 , **STICKERS** 2 , **ATTEND** 2 , **@_JOHNHAMMOND:** 2 , **GOING** 2 , **PASSWORD** 2 , **FAST** 2 , 
+**CYBERSECURITY** 40 , **ZEUS** 31 , **INFOSEC** 31 , **BOTNET** 30 , **SECURITY** 20 , **@HACKINARTICLES:** 17 , **PENTESTING** 16 , **CYBERSECURITYTIPS** 16 , **HACKING** 15 , **ARRESTED** 15 , **@EHACKERNEWS:** 14 , **HACKED** 12 , **GENEVA** 12 , **DAY** 11 , **GANG** 11 , **LEADER** 11 , **NOTORIOUS** 11 , **CYBERSECURITYAWARENESS** 10 , **FBI-WANTED** 10 , **INBOX** 9 , 
  
 ## What this user tweeted
  
-RT @PlexTracCarl: Far out! 👽 The PlexTrac Team will be at the Kennedy Space Center in Florida from April 13-15 for @HackSpaceCon. We hope y…
+RT @DailyCTI: How to assess threat actor intentions and capabilities?
+
+You can read @klrgrz 's blog about the Threat Box model.
+
+https://t.…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
