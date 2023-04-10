@@ -1,24 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **AnonOpsUnited**  
+The most popular user is: **SecurityTrybe**  
  
 
-## To @elonmusk
-
-1. Is this a violation of TOS calling for genocide of #Ukraine
-2. How is a terrorist state verified
-3… https://t.co/eNrIjiQA4f 
+## Cybersecurity Certifications to get in 2023 (For FREE) 
 
   
 
@@ -27,25 +23,25 @@ The most popular user is: **AnonOpsUnited**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @BrankoGrims1 He was assassinated by Putin and his henchmen z, Polish president Kaczynsky predicted the invasion ag… https://t.co/WguwJObNXm |
-| RT @Spriter99880: By blowing up the Nord Stream gas pipeline, the United States of America wanted to blackmail Russia in order to prevent a… |
-| RT @michaeldweiss: New from @JimmySecUK and myself: What the leaked U.S. intelligence docs say about Ukraine’s force disposition, lack of a… |
+| 1 Million+ #WordPress Sites Infected💥#Balada Injector #malware exploits theme and plugin vulnerabilities to breac… https://t.co/VBAFebSmpL |
+| RT @ISC2: Save for a limited time! Certified in #Cybersecurity Training + Exam Bundles starting at $0. Get it now: https://t.co/eMefDhNnL… |
+| RT @_1Billion: List of Coursera courses you can get for FREE through American Dream Academy with Certificates.🧵Career Certificates▫️IBM… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KanekoaTheGreat** |
-| #2 Most tweeted to  | **Spriter99880** |
-| #3 Most tweeted to  | **EuromaidanPress** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 4.4%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **_1Billion** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **SecurityTrybe** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 5.02%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -54,57 +50,57 @@ The most popular user is: **AnonOpsUnited**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **RUSSIAN**  |
-| third  | **USE** |
-| fourth  | **RUSSIA**  |
-| fifth  | **LAW**  |
+| first  | **CERTIFICATES**  |
+| second  | **FREE**  |
+| third  | **INFOSEC** |
+| fourth  | **COURSES**  |
+| fifth  | **CAREER**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @declassifiedUK: 👉NEW -- Exclusive: Depleted uranium accident file censored by @pmillerinfo The government is hiding a paper on the… |
+|RT @showdownvc: Meet the team who will be in Miami for Startup Showdown at @emergeamericas!  First up,@chad_harris14 - Chad is a Vice Pre… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AnonOpsUnited**  |
+| The most retweeted user is: **SecurityTrybe**  |
 | ------------- |
-| To @elonmusk1. Is this a violation of TOS calling for genocide of #Ukraine2. How is a terrorist state verified3… https://t.co/eNrIjiQA4f |
+| Cybersecurity Certifications to get in 2023 (For FREE) |
 
 # Potential Fake Accounts
  
-# 800lbs03USER INFO
-![image](http://pbs.twimg.com/profile_images/1643343211757457408/NQt1V7kq_normal.jpg)
+# HackOgrammerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1644824760344514561/SRqfRJRI_normal.jpg)
  
-`User ScreenName:` 800lbs03 
+`User ScreenName:` HackOgrammer 
  
-`User chosen Name:` 800lbs 
+`User chosen Name:` {Hack}Ogrammer 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 04 20:02:07 +0000 2023 
+`User signup date?:` Sat Apr 08 10:18:43 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Programmer | Penetration Tester | Offensive Coder | Bug Bounty Hunter 
  
-`Followers?: `2 
+`Followers?: `1 
  
-`Following?:` 71 
+`Following?:` 76 
  
-`User URL?:` None 
+`User URL?:` https://t.co/uWDbdRdpac 
  
-`Location:`  
+`Location:` Cyber Space 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1643343211757457408/NQt1V7kq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1644824760344514561/SRqfRJRI_normal.jpg 
  
-`Number of tweets excluding replies:` 323 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -112,28 +108,36 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**USA** 38 , **RUSSIA** 24 , **US** 15 , **UKRAINE** 15 , **WAR** 11 , **WEST** 11 , **@DECAMPDAVE** 9 , **UKRONAZI** 9 , **MILLION** 9 , **@INFOAGESTRATEGY** 9 , **NATO** 9 , **AMERICANS** 8 , **COUNTRIES** 7 , **UKROPEST** 7 , **ITS** 7 , **THAT’S** 7 , **STOP** 7 , **@APMASSARO3** 6 , **EUROPE** 6 , **THAN** 6 , 
+**SANDBOX** 2 , **OSINT** 2 , **SECURITY** 2 , **RT** 1 , **@DAILYOSINT:** 1 , **NEED** 1 , **MALWARE** 1 , **SERVICE?** 1 , **TRY** 1 , **@CERT_EE** 1 , **'S** 1 , **CUCKOO** 1 , **ANALYZE** 1 , **SUSPICIOUS** 1 , **FILES** 1 , **HTTPS://TCO/BNMK…RT** 1 , **@HACKINARTICLES:** 1 , **NMAP** 1 , **CHEAT** 1 , **SHEET** 1 , 
  
 ## What this user tweeted
  
-@Lagjuy @AvgoustisGeorge @apmassaro3 Absolutely 100% wrong, defences have been happening as Russia advances, Ukrain… https://t.co/YSHn8eLaBy
+RT @DailyOsint: Do you need a malware sandbox as a service?
+
+Try @CERT_EE 's Cuckoo Sandbox to analyze suspicious files.
+
+https://t.co/bNmK…RT @hackinarticles: Nmap Cheat Sheet  
+
+📷Full HD Image: https://t.co/Mpaz0HCl8x
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #re…
  
-# HaylaEmily69611USER INFO
-![image](http://pbs.twimg.com/profile_images/1645371942873055232/EAQtZJDo_normal.jpg)
+# EslamHa71840764USER INFO
+![image](http://pbs.twimg.com/profile_images/1645538453621178369/IiwB70HF_normal.jpg)
  
-`User ScreenName:` HaylaEmily69611 
+`User ScreenName:` EslamHa71840764 
  
-`User chosen Name:` Sunchez hayla Emily 
+`User chosen Name:` Eslam Hassan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 10 10:23:35 +0000 2023 
+`User signup date?:` Mon Apr 10 21:25:14 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `2 
  
-`Following?:` 15 
+`Following?:` 0 
  
 `User URL?:` None 
  
@@ -141,7 +145,7 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1645371942873055232/EAQtZJDo_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1645538453621178369/IiwB70HF_normal.jpg 
  
 `Number of tweets excluding replies:` 1 
  
@@ -151,40 +155,36 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**RT** 1 , **@CHAMATH:** 1 , **ANNUAL** 1 , **LETTER** 1 , **DROP…** 1 , **2022** 1 , **EDITION** 1 , **--RETURNS** 1 , **--WHAT** 1 , **HELL** 1 , **GOING** 1 , **(END** 1 , **ZIRP** 1 , **UKRAINE** 1 , **RE-RATING** 1 , **GROWTH** 1 , **ASSETS)** 1 , **--HOW…** 1 , 
+**–** 2 , **AUTO** 1 , **WHATSAPP** 1 , **BUSINESS** 1 , **SENDER** 1 , **TURBO** 1 , **PRO** 1 , **V120** 1 , **FULL** 1 , **ACTIVATED** 1 , **(AI)** 1 , **ANTI** 1 , **BLOCK** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/UABECL1RC5** 1 , 
  
 ## What this user tweeted
  
-RT @chamath: Annual letter drop… 2022 edition
-
---Returns
---What the hell is going on (end of ZIRP, Ukraine, re-rating growth assets)
---How…
+Auto WhatsApp Business Sender Turbo Pro v12.0 Full Activated (Ai) – Anti Block – Discount 100% OFF… https://t.co/UaBecL1rc5
  
-# hendypittman87USER INFO
-![image](http://pbs.twimg.com/profile_images/1643937838797402115/cC6WqxK__normal.png)
+# ExoticTechyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1643733805369528320/gVX7M_LV_normal.png)
  
-`User ScreenName:` hendypittman87 
+`User ScreenName:` ExoticTechy 
  
-`User chosen Name:` hendrina pittman 
+`User chosen Name:` ExoticTechy 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 06 11:24:58 +0000 2023 
+`User signup date?:` Wed Apr 05 21:53:55 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Discover the most exotic tech article for the most discerning tech enthusiast. With the latest cutting-edge technology. 
  
-`Followers?: `15 
+`Followers?: `0 
  
-`Following?:` 74 
+`Following?:` 6 
  
-`User URL?:` None 
+`User URL?:` https://t.co/NyoW5J21jx 
  
 `Location:`  
  
 `Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1643937838797402115/cC6WqxK__normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1643733805369528320/gVX7M_LV_normal.png 
  
 `Number of tweets excluding replies:` 9 
  
@@ -194,77 +194,39 @@ RT @chamath: Annual letter drop… 2022 edition
  
 ## User Top tweeted words 
  
-**CAN’T** 2 , **@GYAIGYIMII** 2 , **@THE_MARCOLI_BOY** 2 , **@KWADWOSHELDON** 2 , **@ENOKAY69** 2 , **RUSSIA** 2 , **@JOEBIDEN** 1 , **CARED** 1 , **FOCUS** 1 , **UKRAINE** 1 , **RUSSIAS** 1 , **GREAT** 1 , **NATION** 1 , **GAS** 1 , **WHILES** 1 , **PR…** 1 , **HTTPS://TCO/GJI1QPYLES@GAMEANALYST3** 1 , **BET** 1 , **SEF** 1 , **SPOIL** 1 , 
+**CYBERSECURITY** 2 , **SYSTEMS** 2 , **ENCRYPTION** 2 , **DARK** 2 , **WEB** 2 , **AI** 2 , **HEALTHCARE** 2 , **INTERNET** 2 , **BLOCKCHAIN** 2 , **CLOUD** 2 , **COMPUTING** 2 , **CYBERSECURITY?** 1 , **REFERS** 1 , **PRACTICE** 1 , **PROTECTING** 1 , **ELECTRONIC** 1 , **DEVICES** 1 , **NETWORKS…** 1 , **HTTPS://TCO/RH6XU4GCOSWHAT** 1 , **DOES** 1 , 
  
 ## What this user tweeted
  
-@JoeBiden All you cared about is focus on Ukraine because of Russias great nation and gas whiles we have our own pr… https://t.co/GJi1qpYlEs
+What is Cybersecurity?
+Cybersecurity refers to the practice of protecting electronic devices, systems, and networks… https://t.co/Rh6xu4gcOS
  
-# SonofRuskiHawkUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# abdalla05653370USER INFO
+![image](http://pbs.twimg.com/profile_images/1645222491248361472/X28nzykf_normal.png)
  
-`User ScreenName:` SonofRuskiHawk 
+`User ScreenName:` abdalla05653370 
  
-`User chosen Name:` Richard Pearson 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 04:01:16 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 84 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 396 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RUSSIA** 35 , **@VISEGRAD24** 20 , **UKRAINE** 13 , **RUSSIAN** 13 , **NATO** 13 , **RUSSIANS** 12 , **WHICH** 11 , **US** 10 , **NEVER** 10 , **YEAH** 8 , **PUTIN** 8 , **DON'T** 7 , **TALK** 6 , **THAT'S** 6 , **ITS** 6 , **MILITARY** 6 , **UKRAINIAN** 6 , **CAN'T** 6 , **ANY** 5 , **FINLAND** 5 , 
- 
-## What this user tweeted
- 
-@dimitrilascaris Now talk to me about Russia murdering Chechens, annexing territory in Ukraine (2X), annexing territory in Georgia (2X)...
- 
-# toklu130671USER INFO
-![image](http://pbs.twimg.com/profile_images/1645554751126241281/-avO1IFl_normal.png)
- 
-`User ScreenName:` toklu130671 
- 
-`User chosen Name:` Sena Toklu 
+`User chosen Name:` abdallah mohamed 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 10 22:30:00 +0000 2023 
+`User signup date?:` Mon Apr 10 00:29:43 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 7 
+`Following?:` 14 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 54 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1645554751126241281/-avO1IFl_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1645222491248361472/X28nzykf_normal.png 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 55 
  
 
  
@@ -272,39 +234,40 @@ RT @chamath: Annual letter drop… 2022 edition
  
 ## User Top tweeted words 
  
-**@MARSBAHISWIN** 1 , **TEBRIKLERRT** 1 , **@HITMANBETS_:** 1 , **⭐️YÜKLÜ** 1 , **BAHİS⭐️** 1 , **✅** 1 , **KAZANÇÇÇÇÇÇÇÇÇ✅** 1 , **❤️VİP** 1 , **TELEGRAM** 1 , **İÇİN** 1 , **DM❤️** 1 , **ARDA** 1 , **GÜLER** 1 , **ZAJC** 1 , **PENALTI** 1 , **JOAO** 1 , **PEDRO** 1 , **BITCOIN** 1 , **KIRMIZI** 1 , **J…** 1 , 
+**BITCOIN** 9 , **@ILYASGK:** 8 , **MATRIKS** 6 , **ONLINE** 5 , **NFT** 4 , **FREE** 4 , **DE** 4 , **NEED** 4 , **@BTCGENERATORS:** 4 , **GENERATORS** 4 , **EMAIL:** 4 , **ANONYMOUSBITCOINHACK@GMAILCOM** 4 , **VISIT:** 4 , **و** 4 , **IPTV** 4 , **GIVE** 3 , **FIND** 3 , **FIRE** 3 , **NAME** 3 , **CHANCE** 3 , 
  
 ## What this user tweeted
  
-@RT_com's account has been withheld in Belgium, Austria, Bulgaria, Sweden, Croatia, Spain, Slovenia, Cyprus, Slovakia, Czech Republic, Romania, Portugal, Poland, Denmark, Netherlands, Estonia, Malta, Luxembourg, Finland, France, Lithuania, Germany, Greece, Latvia, Hungary, Italy, Ireland, United Kingdom in response to a legal demand. Learn more.
+RT @tsm3301: IT Army of Ukraine gained access to 1.5 GB archive of #Russian state-controlled energy giant #Gazprom. 
+
+Be sure to give them…
  
-# wdh10p7APE28882USER INFO
-![image](http://pbs.twimg.com/profile_images/1644594442228342785/l8s158NW_normal.jpg)
+# FastForward77USER INFO
+![image](http://pbs.twimg.com/profile_images/1642935486149804056/Up1v5tx1_normal.jpg)
  
-`User ScreenName:` wdh10p7APE28882 
+`User ScreenName:` FastForward77 
  
-`User chosen Name:` バッチリグッド🎵 
+`User chosen Name:` FastForward 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 08 06:45:24 +0000 2023 
+`User signup date?:` Sun Apr 02 18:51:17 +0000 2023 
  
-`User Description?:` たびたび復活🤩
-ポチポチソルジャー。 
+`User Description?:` Shaping The Future Today 
  
-`Followers?: `11 
+`Followers?: `2 
  
-`Following?:` 31 
+`Following?:` 5 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 72 
+`Number of tweets extracted`  : 51 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1644594442228342785/l8s158NW_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1642935486149804056/Up1v5tx1_normal.jpg 
  
-`Number of tweets excluding replies:` 72 
+`Number of tweets excluding replies:` 51 
  
 
  
@@ -312,38 +275,38 @@ RT @chamath: Annual letter drop… 2022 edition
  
 ## User Top tweeted words 
  
-**@ELONMUSK:** 8 , **NEW** 5 , **BIDEN** 5 , **TRUMP** 5 , **@ERIQAJF:** 5 , **WHITE** 4 , **FIRST** 4 , **BEING** 4 , **@KANEKOATHEGREAT:** 3 , **RUSSIAN** 3 , **RECORDS** 3 , **HERE** 3 , **NATIONAL** 3 , **DALAI** 3 , **LAMA** 3 , **PEOPLE** 3 , **@CLIF_HIGH:** 3 , **2019** 2 , **PARLIAMENT** 2 , **LAW** 2 , 
+**NEW** 23 , **BLOG** 16 , **POST** 11 , **CHECK** 10 , **LATEST** 10 , **AI** 9 , **🚨** 8 , **MICROSOFT** 7 , **NEWS** 6 , **READY** 6 , **EXCITING** 6 , **ALERT** 6 , **USERS!** 5 , **HINTS** 5 , **GAME** 5 , **APPLE** 4 , **ITS** 4 , **MOST** 4 , **LEAKED** 4 , **QUORDLE** 4 , 
  
 ## What this user tweeted
  
-RT @KanekoaTheGreat: In April 2019, Ukraine's parliament approved a new law restricting the use of the Russian language despite Russian bei…RT @KanekoaTheGreat: Following the 2014 coup in Ukraine, parliament abolished a law that permitted the use of the Russian language, and Zel…
+🚨ATTENTION🚨 Public charge stations may not be as safe as you think!🔌😱 Learn about the risks of "Juice Jacking" and… https://t.co/l73PSyHp6o
  
-# totshka_nepoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644304814505902080/oY2ORfcj_normal.jpg)
+# carolynmoorman8USER INFO
+![image](http://pbs.twimg.com/profile_images/1643499359571685379/fmmOGLKT_normal.jpg)
  
-`User ScreenName:` totshka_nepo 
+`User ScreenName:` carolynmoorman8 
  
-`User chosen Name:` Totshka Nepodviznaya 
+`User chosen Name:` carolyn moorman 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 05 18:33:19 +0000 2023 
+`User signup date?:` Tue Apr 04 20:55:38 +0000 2023 
  
-`User Description?:`  
+`User Description?:` We Provide All kinds of (PVA) Accounts, Social Reviews & Online Banking Services. Also, We Provide Social Media Management, Content Writing, SEO Services. 
  
-`Followers?: `3 
+`Followers?: `7 
  
-`Following?:` 57 
+`Following?:` 9 
  
-`User URL?:` None 
+`User URL?:` https://t.co/zE0nEfJLzP 
  
-`Location:`  
+`Location:` los angeles, ca, usa 
  
-`Number of tweets extracted`  : 59 
+`Number of tweets extracted`  : 39 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1644304814505902080/oY2ORfcj_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1643499359571685379/fmmOGLKT_normal.jpg 
  
-`Number of tweets excluding replies:` 61 
+`Number of tweets excluding replies:` 39 
  
 
  
@@ -351,11 +314,98 @@ RT @KanekoaTheGreat: In April 2019, Ukraine's parliament approved a new law rest
  
 ## User Top tweeted words 
  
-**ΝΑ** 11 , **UKRAINE** 9 , **US** 5 , **ΤΑ** 5 , **@DRLOUPIS:** 5 , **ITS** 4 , **COUNTRY** 3 , **@SINNAIG:** 3 , **ΤΟΥ** 3 , **WELL** 3 , **ΤΟ** 3 , **ΚΑΙ** 3 , **FLAG** 3 , **ΟΙ** 3 , **RT** 2 , **FALL** 2 , **SORRY** 2 , **@MZAKHAROVA0:** 2 , **ΠΟΥ** 2 , **CASE** 2 , 
+**SMSHOPIT** 42 , **100%** 34 , **MACHINELEARNING** 31 , **ACCOUNTS** 31 , **DATASCIENCE…** 20 , **VERIFIED** 20 , **YAHOO** 14 , **EDU** 12 , **BEST** 12 , **QUALITY** 12 , **DATASCIENCE** 11 , **PYTHON…** 11 , **PHONE** 10 , **YELP** 7 , **REVIEWS** 7 , **ELITE** 7 , **YELP-** 7 , **SECURE** 7 , **SAFE** 7 , **EMAILS** 6 , 
  
 ## What this user tweeted
  
-RT @apocalypseos: “I don’t know that Ukraine will even exist as a nation-state by the end of 2023. Conditions inside Ukraine are horrific.…
+Buy Yelp Reviews, Elite Yelp- Secure &amp; 100% Safe
+https://t.co/QmzHHQ7mlx
+
+#smshopit #MachineLearning #DataScience… https://t.co/DKNRSFBh8V
+ 
+# Margare95455636USER INFO
+![image](http://pbs.twimg.com/profile_images/1642212831821955072/sMp5h0Lb_normal.jpg)
+ 
+`User ScreenName:` Margare95455636 
+ 
+`User chosen Name:` Mrs Margaret 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 01 17:04:16 +0000 2023 
+ 
+`User Description?:` BITCOIN TRADER EMILIA CRYPTO
+📊 BITCOIN INVESTMENT
+💹 BINARY FOREX TRADING
+📝 BINARY TRADE ACCOUNT MA 
+ 
+`Followers?: `374 
+ 
+`Following?:` 75 
+ 
+`User URL?:` None 
+ 
+`Location:` Los Angeles California  
+ 
+`Number of tweets extracted`  : 128 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1642212831821955072/sMp5h0Lb_normal.jpg 
+ 
+`Number of tweets excluding replies:` 128 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CLIENTS** 10 , **NEW** 9 , **US** 8 , **EARN** 8 , **MONEY** 8 , **BITCOIN** 7 , **SUCCESSFUL** 7 , **INVEST** 7 , **HERE** 7 , **DON'T** 6 , **MUCH** 6 , **MAKE** 6 , **WORK** 6 , **DAY** 6 , **FIRST** 5 , **KEEP** 5 , **BINARY** 5 , **CURRENCY** 5 , **HAPPY** 5 , **DROP** 5 , 
+ 
+## What this user tweeted
+ 
+Recommend us to people or friends who have been scammed in one way or another 💯✅
+#cybersecurity #ethics #security… https://t.co/OLLOuMLC08
+ 
+# yates4uUSER INFO
+![image](http://pbs.twimg.com/profile_images/1645456705034022912/qRdYjMQl_normal.jpg)
+ 
+`User ScreenName:` yates4u 
+ 
+`User chosen Name:` John B Yates 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 07 15:23:25 +0000 2023 
+ 
+`User Description?:` The most important thing I learned is that soldiers watch their leaders' actions. You can give them classes and lecture them forever, but it is your personal ex 
+ 
+`Followers?: `9 
+ 
+`Following?:` 214 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 12 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1645456705034022912/qRdYjMQl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 12 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@USARMY:** 8 , **LT** 2 , **CASE** 2 , **MISSED** 2 , **IT:** 2 , **ARMYPOSSIBILITIES** 2 , **TESTED** 2 , **NOVOSEL** 2 , **RT** 1 , **APRIL** 1 , **27** 1 , **COL** 1 , **CHARITY** 1 , **ADAMS** 1 , **JOINS** 1 , **GEN** 1 , **ARTHUR** 1 , **GREGG** 1 , **NEW** 1 , **NAMESAKES** 1 , 
+ 
+## What this user tweeted
+ 
+RT @USArmy: In case you missed it: He might be one of the most recognizable military working dogs.
+
+Meet Nick, a six-year-old German Shephe…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
