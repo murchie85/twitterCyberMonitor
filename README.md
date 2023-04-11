@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **SecurityTrybe**  
+The most popular user is: **BrianManookian**  
  
 
-## Cybersecurity Certifications to get in 2023 (For FREE) 
+## Cameron Sextin' @CSexton25 finally admits he's been living in Nashville for years while pocketing tens of thousands… https://t.co/hqNnmfGwpL 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **SecurityTrybe**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @rmhrisk @HackingButLegal @peculiarventure Do you really want to be associated with someone like this?https://t.co/ZrLADROcaW |
-| RT @digitaledwincom: Be careful what you share on #SocialMedia via @IamAritraG #AI #ArtificialIntelligence #CyberSecurity #Infosec cc: @big… |
-| IT security teams need “defensive AI” to fight back.#AI #ArtificialIntelligence #ML #MachineLearning #security… https://t.co/0SmsFu2378 |
+| The editors at Solutions Review lay out some VPN best practices enterprises should consider when deploying a new so… https://t.co/ZN8tbiAAnu |
+| RT @Cyberknow20: #killnet claims all ticket sales sites in #Brussels have been knocked off line. It appears the currently campaign against… |
+| RT @CISACyber: 🌐 #Cisco released security advisories for vulnerabilities affecting multiple products. A remote cyber threat actor could exp… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **hack_git** |
 | #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **SecurityTrybe** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 5.44%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #3 Most tweeted to  | **0x0SojalSec** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 6.54%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,70 +51,29 @@ The most popular user is: **SecurityTrybe**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **TICKETS**  |
-| third  | **DATA** |
-| fourth  | **FREE**  |
-| fifth  | **PHISHING**  |
+| second  | **@HACK_GIT:**  |
+| third  | **INFOSECURITY** |
+| fourth  | **PENTESTING**  |
+| fifth  | **@HACKINARTICLES:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (57.14%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (35.71%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DivergentCIO: Got 10 minutes? #Podcast #EmergingTech Subscribe! Daily sound bite! #TheDigitalExecutive #Coruzant @Coruzant #Digital #Pu… |
+|RT @hack_git: SymbioteYour target's phone's front and back cameras can be accessed by sending a linkhttps://t.co/5fFd5ELSlp#infosec #… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SecurityTrybe**  |
+| The most retweeted user is: **BrianManookian**  |
 | ------------- |
-| Cybersecurity Certifications to get in 2023 (For FREE) |
+| Cameron Sextin' @CSexton25 finally admits he's been living in Nashville for years while pocketing tens of thousands… https://t.co/hqNnmfGwpL |
 
 # Potential Fake Accounts
- 
-# SowdersMarketinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644049806707359744/W9fs5R-V_normal.jpg)
- 
-`User ScreenName:` SowdersMarketin 
- 
-`User chosen Name:` Tracie Sowders 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 06 18:20:55 +0000 2023 
- 
-`User Description?:` My affiliate marketing program. 
- 
-`Followers?: `0 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644049806707359744/W9fs5R-V_normal.jpg 
- 
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CLICK** 7 , **POSTED** 7 , **REDDIT** 7 , **LINK** 6 , **ABOVE** 6 , **TRAINING** 3 , **MADE** 3 , **CREATOR** 3 , **PUBLISHED** 3 , **100K** 3 , **TOOLS** 2 , **GREAT** 2 , **100%** 2 , **TRAFFIC** 2 , **"HOUSE** 2 , **3D** 2 , **FLIPBOOK** 2 , **EASY** 2 , **FREE** 2 , **MILLIONS** 2 , 
- 
-## What this user tweeted
- 
-https://t.co/rJDketP1KU
-Click the link above for purchase
-The Ethical Hacking Bible: Techniques and Tools for Cyber… https://t.co/vTR9EfwVmb
  
 # DualaSawaUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1645913326864457730/Ry_Ysxnn_normal.png)
@@ -155,73 +114,32 @@ The Ethical Hacking Bible: Techniques and Tools for Cyber… https://t.co/vTR9Ef
  
 Bulk Email Sender Professional Edition v9.4.4.1 Full Activated  – Discount 100% OFF https://t.co/t3j1uhEMGY… https://t.co/jv9Lz81ZjB
  
-# DigitalDozen_USER INFO
-![image](http://pbs.twimg.com/profile_images/1643657623009361920/cs5s11od_normal.jpg)
+# DetGiles38192USER INFO
+![image](http://pbs.twimg.com/profile_images/1643573340282703872/JxXMBxTI_normal.png)
  
-`User ScreenName:` DigitalDozen_ 
+`User ScreenName:` DetGiles38192 
  
-`User chosen Name:` Digital Dozen 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 05 16:17:00 +0000 2023 
- 
-`User Description?:` Welcome to Digital Dozen! We bring you the best and most useful apps, websites, and tools that can help you save time, work smarter, and achieve your goals. 
- 
-`Followers?: `0 
- 
-`Following?:` 6 
- 
-`User URL?:` https://t.co/C4uwmZAYmM 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643657623009361920/cs5s11od_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 2 , **ENGINEER** 2 , **AI** 2 , **MARKETING** 2 , **FUTURE…** 2 , **BUSINESS** 2 , **EFFORTLESSLY** 1 , **BOOST** 1 , **SOCIAL** 1 , **MEDIA** 1 , **PRESENCE** 1 , **MISSINGLETTR** 1 , **HTTPS://TCO/CCRPNXMO3NBUILD** 1 , **HIGH-CONVERTING** 1 , **WEBSITES** 1 , **FUNNELS** 1 , **PHONESITES** 1 , **HTTPS://TCO/1CKTUTRIHLSTREAMLINE** 1 , **SUBSCRIPTION** 1 , **SUBBLY:** 1 , 
- 
-## What this user tweeted
- 
-Effortlessly Boost Your Social Media Presence with Missinglettr
-#cybersecurity #engineer #ai #marketing #future… https://t.co/cCRpNXmO3NBuild High-Converting Websites and Funnels with Phonesites
-#cybersecurity #engineer #ai #marketing #future… https://t.co/1CkTutRihLStreamline Your Subscription Business with Subbly: The All-in-One Platform for Entrepreneurs and Small Business Own… https://t.co/OlBUktAMk3
- 
-# yaro_aliyu40121USER INFO
-![image](http://pbs.twimg.com/profile_images/1643291876483555332/WG6oMqXN_normal.png)
- 
-`User ScreenName:` yaro_aliyu40121 
- 
-`User chosen Name:` Aliyu Yaro 
+`User chosen Name:` Det Giles 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 04 16:38:08 +0000 2023 
+`User signup date?:` Wed Apr 05 11:16:34 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 30 
+`Following?:` 41 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 18 
+`Number of tweets extracted`  : 57 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1643291876483555332/WG6oMqXN_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1643573340282703872/JxXMBxTI_normal.png 
  
-`Number of tweets excluding replies:` 18 
+`Number of tweets excluding replies:` 57 
  
 
  
@@ -229,22 +147,28 @@ Effortlessly Boost Your Social Media Presence with Missinglettr
  
 ## User Top tweeted words 
  
-**@MSINGAWA** 3 , **30** 3 , **24** 2 , **LATER** 2 , **THAN** 2 , **MUST** 2 , **BETWEEN** 2 , **MAY** 2 , **GOT** 2 , **NITDA** 2 , **CYBERSECURITY** 2 , **SCHOLARSHIP** 2 , **NIGERIA** 2 , **INTRODUCTION** 2 , **@ADAMUGARBA** 2 , **ERA** 2 , **DOCTORATE** 2 , **DEGREE** 2 , **@SUFEEY_** 1 , **NIGHT** 1 , 
+**@DINOSN:** 7 , **@CYB_DETECTIVE:** 7 , **VERY** 4 , **1** 4 , **@THREE_CUBE:** 4 , **CYBERSECURITY** 4 , **MALWARE** 3 , **RESOURCES** 3 , **NMAP** 3 , **TOOLS** 3 , **RESEARCH** 3 , **FREE** 3 , **TRAINING** 3 , **ENGINEERING** 3 , **OPPORTUNITY** 3 , **RSAC** 3 , **SEARCH** 3 , **OSINT** 3 , **@FBI:** 3 , **@SPLUNK:** 3 , 
  
 ## What this user tweeted
  
-@_1Billion I'm newbie, got NITDA cybersecurity scholarship and lost due to lack of raspberry pi for lab practicals… https://t.co/6PZkq4QuZv
+RT @hack_git: Awesome Malware Techniques
+
+A curated list of resources to analyse and study malware techniques.
+
+https://t.co/IbWSeXVzEM
+
+#m…RT @CISACyber: 🚧 @CISAgov added #CVE-2023-28206 &amp; CVE-2023-28205 to the Known Exploited Vulnerabilities Catalog to start out the week! Keep…
  
-# Chaos3040682444USER INFO
-![image](http://pbs.twimg.com/profile_images/1643279990409101313/naKaxmif_normal.jpg)
+# EG_2507USER INFO
+![image](http://pbs.twimg.com/profile_images/1645667588859637760/bK4ZiSTY_normal.png)
  
-`User ScreenName:` Chaos3040682444 
+`User ScreenName:` EG_2507 
  
-`User chosen Name:` Chaos 
+`User chosen Name:` khairudin empiregroup 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 04 15:50:54 +0000 2023 
+`User signup date?:` Tue Apr 11 05:58:22 +0000 2023 
  
 `User Description?:`  
  
@@ -256,11 +180,11 @@ Effortlessly Boost Your Social Media Presence with Missinglettr
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1643279990409101313/naKaxmif_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1645667588859637760/bK4ZiSTY_normal.png 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -268,11 +192,54 @@ Effortlessly Boost Your Social Media Presence with Missinglettr
  
 ## User Top tweeted words 
  
-**COMPLETED** 1 , **MODULE** 1 , **LEARNING** 1 , **PROCESS** 1 , **HTB** 1 , **ACADEMY!** 1 , **HTTPS://TCO/JDMRJTGAI6** 1 , **HACKTHEBOX** 1 , **HTBACADEMY** 1 , **CYBERSECURITY** 1 , 
+**–** 4 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **OFF** 2 , **TELEGRAM** 2 , **WHATDROID** 1 , **PRO** 1 , **V237** 1 , **WHATSAPP** 1 , **MARKETING** 1 , **HTTPS://TCO/1Q4HNUSGOA** 1 , **INFOSEC…** 1 , **HTTPS://TCO/XHTEFNGVTOAUTO** 1 , **BUSINESS** 1 , **EDITION** 1 , **V1337** 1 , **BOT** 1 , **HTTPS://TCO/2ZKWRV6RGB…** 1 , 
  
 ## What this user tweeted
  
-I just completed module Learning Process in HTB Academy! https://t.co/jdMrjTGAI6 #hackthebox #htbacademy #cybersecurity
+WhatDROID Pro v2.37 Full Activated – WhatsApp Marketing – Discount 100% OFF https://t.co/1q4HNuSGoA #infosec… https://t.co/xHtEFNgvtoAuto Telegram Business Edition v1.3.3.7 Full Activated – Telegram Bot – Discount 100% OFF https://t.co/2zKWrv6RGB… https://t.co/1tSjDtvfot
+ 
+# ABTanha1378403USER INFO
+![image](http://pbs.twimg.com/profile_images/1645438920858157056/pgw0cVNZ_normal.png)
+ 
+`User ScreenName:` ABTanha1378403 
+ 
+`User chosen Name:` AB Tanha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 10 14:49:43 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 56 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1645438920858157056/pgw0cVNZ_normal.png 
+ 
+`Number of tweets excluding replies:` 56 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ILYASGK:** 9 , **MATRIKS** 6 , **YOUTUBE** 4 , **FREE** 4 , **FIRE** 4 , **FIND** 4 , **BORSA** 4 , **من** 4 , **ريال** 4 , **NFT** 3 , **EN** 3 , **MI** 3 , **Y** 3 , **@PDVAL_OFICIAL:** 3 , **TCELL** 3 , **شآهد** 3 , **VIP** 3 , **الباقة** 3 , **و** 3 , **🚨** 3 , 
+ 
+## What this user tweeted
+ 
+RT @tsm3301: The Ukrainian Military is leveraging online influencers.. can the US Military do the same? 
+
+¯\_(ツ)_/¯ Please share! 
+
+#infose…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
