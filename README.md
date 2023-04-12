@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **ireteeh**  
+The most popular user is: **maria_drutska**  
  
 
-## Can we do a thread for Cybersecurity beginners and enthusiasts? Can you please share links/resources that has helpe… https://t.co/MptiHYRPx0 
+## Ukraine gave up 3000 nuclear warheads because we were promised we would be protected.
+
+Now, our soldiers are castra… https://t.co/BRqPKxYUgO 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **ireteeh**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Upcoming event on April 13, 2023 for "Smart Cybersecurity Summit Singapore 2023". This was organized by @cswasia.… https://t.co/H6HlgpXzJN |
-| Proactive Cybersecurity Strategies for Small Business https://t.co/X7JX6BiVfV via @https://twitter.com/Nogentechblog |
-| '@HPE's 2023 #cybersecurity initiatives focus on #HPEGreenLake and talent' https://t.co/1WweSRtiAz https://t.co/Z5NaocSv0C |
+| Detected #phishing clone at address: hxxps://fenomenozz[.]ru[.]com/#BancaSella #bank #infosec #cybersecurity… https://t.co/QGkCWFIRei |
+| RT @0xtechrock: OSINT CheatSheet by @Haax9_ 🌐Explore the sub-categories to lookup for an IP, Domain, Person, Social, Number, Organisation… |
+| RT @hackinarticles: Security Operations Analyst#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #Cybe… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecurityTrybe** |
+| #1 Most tweeted to  | **hack_git** |
 | #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **hack_git** |
-| NewProfiles (less than 10 days) | 0.22%  |
+| #3 Most tweeted to  | **CyberIQs_** |
+| NewProfiles (less than 10 days) | 0.26%  |
 | Tweeters with < 10 followers  | 5.1%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,361 +53,29 @@ The most popular user is: **ireteeh**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **FREE**  |
-| third  | **AI** |
-| fourth  | **LEARN**  |
-| fifth  | **US**  |
+| second  | **PENTESTING**  |
+| third  | **INFOSECURITY** |
+| fourth  | **PHISHING**  |
+| fifth  | **@HACK_GIT:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
+![image](assets/infosec/sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @VirnetX_: The FBI has warned against “Juice Jacking,” the newest cybersecurity threat. Just another reminder that no one is safe from t… |
+|Join us on the 25th of April for the Island Data Governance Forum: Supplementing Infosec with AI event!Peter Bass… https://t.co/cgRagHH0in |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ireteeh**  |
+| The most retweeted user is: **maria_drutska**  |
 | ------------- |
-| Can we do a thread for Cybersecurity beginners and enthusiasts? Can you please share links/resources that has helpe… https://t.co/MptiHYRPx0 |
+| Ukraine gave up 3000 nuclear warheads because we were promised we would be protected.Now, our soldiers are castra… https://t.co/BRqPKxYUgO |
 
 # Potential Fake Accounts
- 
-# AndradeAdvocacyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1645527775988576256/lZaGw8ff_normal.jpg)
- 
-`User ScreenName:` AndradeAdvocacy 
- 
-`User chosen Name:` MA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 07 14:24:48 +0000 2023 
- 
-`User Description?:` Join me at: ABA #IPLSpring23 4/12-4/14 
- 
-`Followers?: `3 
- 
-`Following?:` 9 
- 
-`User URL?:` None 
- 
-`Location:` Los Angeles, CA 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1645527775988576256/lZaGw8ff_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**•** 4 , **IP** 2 , **MALPRACTICE** 2 , **F…** 2 , **RT** 1 , **@BRIANEDMONDSON:** 1 , **RISK** 1 , **INCLUDE:** 1 , **FINANCIAL** 1 , **REPUTATIONAL** 1 , **DISTRACTION** 1 , **LOSS** 1 , **FEES** 1 , **DISCIPLINARY** 1 , **ACTIONS** 1 , **INCRE…RT** 1 , **@BREEVCULEK:** 1 , **WIRE** 1 , **FRAUD** 1 , **LESSONS** 1 , 
- 
-## What this user tweeted
- 
-RT @BreeVculek: Wire Fraud — Lessons Learned 
-
-• Set expectations 
-• Agree in writing 
-• Remind clients &amp; counsel
-• Protect — cybersecurity…
- 
-# BreeVculekUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644036676497338371/dpJ5s_At_normal.jpg)
- 
-`User ScreenName:` BreeVculek 
- 
-`User chosen Name:` Bree Vculek 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 06 17:57:11 +0000 2023 
- 
-`User Description?:` Next up ➡️ live tweeting ABA #IPLSpring23 4/12-4/14 
- 
-`Followers?: `2 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:` Washington, DC 
- 
-`Number of tweets extracted`  : 14 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644036676497338371/dpJ5s_At_normal.jpg 
- 
-`Number of tweets excluding replies:` 14 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**•** 10 , **MALPRACTICE** 5 , **IPLSPRING23** 4 , **IP** 4 , **PANELISTS** 2 , **⬇️** 2 , **@ABAIPL** 2 , **RISKS:** 2 , **BEST** 2 , **PRACTICES** 2 , **LAW** 2 , **📝📝📝** 1 , **HTTPS://TCO/RGRAGAFKQZWIRE** 1 , **FRAUD** 1 , **LESSONS** 1 , **LEARNED** 1 , **SET** 1 , **EXPECTATIONS** 1 , **AGREE** 1 , **WRITING** 1 , 
- 
-## What this user tweeted
- 
-Wire Fraud — Lessons Learned 
-
-• Set expectations 
-• Agree in writing 
-• Remind clients &amp; counsel
-• Protect — cyber… https://t.co/Go363EwwM4
- 
-# PetrKud24160818USER INFO
-![image](http://pbs.twimg.com/profile_images/1646139831397801984/EDGpgdN5_normal.png)
- 
-`User ScreenName:` PetrKud24160818 
- 
-`User chosen Name:` Petr Kudrnac 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 12 13:14:53 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 101 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 78 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646139831397801984/EDGpgdN5_normal.png 
- 
-`Number of tweets excluding replies:` 78 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@NASA:** 15 , **@NASASOLARSYSTEM:** 12 , **ITS** 11 , **FIRST** 9 , **SPACECRAFT** 8 , **SPACE** 7 , **@SPACEX:** 5 , **MISSION** 5 , **FLIGHT** 5 , **ASTEROID** 5 , **@NASAWEBB:** 5 , **LAUNCH** 4 , **APRIL** 4 , **HUMAN** 4 , **DAY** 4 , **INTO** 4 , **US** 4 , **UNIVERSE** 4 , **DAYS** 4 , **@NASA** 4 , 
- 
-## What this user tweeted
- 
-RT @bertajarosova: Director of the 🇨🇿National Cyber and Information Security Agency met 🇺🇸Ambassador @bijan to discuss bilateral cooperatio…
- 
-# carolynmoorman8USER INFO
-![image](http://pbs.twimg.com/profile_images/1643499359571685379/fmmOGLKT_normal.jpg)
- 
-`User ScreenName:` carolynmoorman8 
- 
-`User chosen Name:` carolyn moorman 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 04 20:55:38 +0000 2023 
- 
-`User Description?:` We Provide All kinds of (PVA) Accounts, Social Reviews & Online Banking Services. Also, We Provide Social Media Management, Content Writing, SEO Services. 
- 
-`Followers?: `7 
- 
-`Following?:` 9 
- 
-`User URL?:` https://t.co/zE0nEfJLzP 
- 
-`Location:` los angeles, ca, usa 
- 
-`Number of tweets extracted`  : 50 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643499359571685379/fmmOGLKT_normal.jpg 
- 
-`Number of tweets excluding replies:` 50 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SMSHOPIT** 54 , **100%** 45 , **ACCOUNTS** 40 , **MACHINELEARNING** 38 , **DATASCIENCE…** 27 , **VERIFIED** 26 , **YAHOO** 18 , **EDU** 16 , **BEST** 14 , **QUALITY** 14 , **PHONE** 13 , **DATASCIENCE** 11 , **PYTHON…** 11 , **YELP** 10 , **REVIEWS** 10 , **ELITE** 10 , **YELP-** 10 , **SECURE** 10 , **SAFE** 10 , **GMAIL** 8 , 
- 
-## What this user tweeted
- 
-Buy Yahoo Accounts - 100% Phone Verified
-https://t.co/vKh0NwZzEd
-
-#smshopit #Yahoo #MachineLearning #DataScience… https://t.co/PJ0XxmbhFXBuy Yelp Reviews, Elite Yelp- Secure &amp; 100% Safe
-https://t.co/QmzHHQ7Ub5
-
-#smshopit #MachineLearning #DataScience… https://t.co/VLUkf8A7kC
- 
-# ThompsonTechnUSER INFO
-![image](http://pbs.twimg.com/profile_images/1646229662295523381/-W8UtVuD_normal.png)
- 
-`User ScreenName:` ThompsonTechn 
- 
-`User chosen Name:` Michael Thompson 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 12 19:11:51 +0000 2023 
- 
-`User Description?:` Cybersecurity expert, tech enthusiast, and productivity guru. Sharing insights and tips on staying safe online and getting more done in less time, and tech. 
- 
-`Followers?: `0 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646229662295523381/-W8UtVuD_normal.png 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PUBLISHED** 3 , **BOOST** 2 , **PRODUCTIVITY** 2 , **CYBERSECURITY** 1 , **101:** 1 , **PROTECT** 1 , **YOURSELF** 1 , **BUSINESS** 1 , **CYBER** 1 , **THREATS** 1 , **HTTPS://TCO/6BQ6MMWTQ7I** 1 , **TIME-BLOCKING** 1 , **TRICK** 1 , **200%** 1 , **HTTPS://TCO/VGR6UGG2GGI** 1 , **5** 1 , **SIMPLE** 1 , **HABITS** 1 , **WORKPLACE** 1 , **HTTPS://TCO/SVTKDF2SJP** 1 , 
- 
-## What this user tweeted
- 
-I just published Cybersecurity 101: How to Protect Yourself and Your Business from Cyber Threats https://t.co/6bQ6MmWTQ7
- 
-# zkoc4886USER INFO
-![image](http://pbs.twimg.com/profile_images/1646200283259715607/xHE7dm61_normal.jpg)
- 
-`User ScreenName:` zkoc4886 
- 
-`User chosen Name:` Zeynep Koc 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 12 17:13:53 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 10 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 195 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646200283259715607/xHE7dm61_normal.jpg 
- 
-`Number of tweets excluding replies:` 195 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LORDMETAVERSE:** 38 , **@CRYPTO_ALQUIST:** 34 , **@YUSUF_OZTURK06:** 32 , **BIR** 30 , **@BATMANKRIPTO:** 30 , **VE** 28 , **@TRADE4LIGHTNING:** 23 , **ILE** 19 , **BTC** 19 , **@KRIPTO_MCFLY:** 18 , **@KRIPTOAKREP:** 18 , **STOP** 17 , **BU** 16 , **BITCOIN** 15 , **ARKADAŞLAR** 15 , **LIGHTNINGTRADERS** 14 , **YENI** 13 , **;** 13 , **⚡** 11 , **DOSTLARIM** 11 , 
- 
-## What this user tweeted
- 
-RT @deeper_network: 🙏 Thank you to @Yusuf_Ozturk06 , who made this excellent video for the Turkish Deeper community.
-
-👉 https://t.co/ZPARf9…
- 
-# CyntelappUSER INFO
-![image](http://pbs.twimg.com/profile_images/1643910987488145408/c6w5E_ry_normal.jpg)
- 
-`User ScreenName:` Cyntelapp 
- 
-`User chosen Name:` Cyntelligence 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 06 09:34:41 +0000 2023 
- 
-`User Description?:` Stay ahead of cyber threats with Cyntelligence, your go-to source for real-time cyber threat intelligence news and insights. 
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` https://t.co/2SENr5BvmC 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1643910987488145408/c6w5E_ry_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBER** 3 , **APP** 2 , **DOWNLOAD** 2 , **AI** 1 , **BASED** 1 , **CHATBOT** 1 , **ANSWER** 1 , **SECURITY** 1 , **QUESTIONS** 1 , **FINGERTIP!** 1 , **CYNTELLIGENCE** 1 , **THREATINTELLIGENCE…** 1 , **HTTPS://TCO/DZT4MSE93KONE** 1 , **STOP** 1 , **KEEP** 1 , **UPDATED** 1 , **THREAT** 1 , **NEWS!** 1 , **THREATINTEL** 1 , **CYNTEL** 1 , 
- 
-## What this user tweeted
- 
-AI Based chatbot to answer all your cyber security questions at the fingertip!
-
-#cyntelligence #threatintelligence… https://t.co/dzt4mse93k
- 
-# mikelitoriesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644704602250420224/_aEQ8IwL_normal.jpg)
- 
-`User ScreenName:` mikelitories 
- 
-`User chosen Name:` mike 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 08 14:10:32 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644704602250420224/_aEQ8IwL_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@WOMENNASA:** 1 , **ARTEMIS** 1 , **II** 1 , **LANDING** 1 , **RECOVERY** 1 , **DIRECTOR** 1 , **@NASAGROUNDSYS** 1 , **LILIANA** 1 , **VILLARREAL** 1 , **OVERSEE** 1 , **SPLASHDOWN** 1 , **NEWLY…RT** 1 , **@NASASCAN:** 1 , **NASA** 1 , **@NASAJPL** 1 , **RESTORED** 1 , **DEEP** 1 , **SPACE** 1 , **NETWORK** 1 , 
- 
-## What this user tweeted
- 
-RT @NASASCaN: NASA and @NASAJPL have restored the Deep Space Network Now website following a cybersecurity review ahead of our crewed Artem…
  
 # helproom4050453USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
@@ -446,32 +116,32 @@ RT @NASASCaN: NASA and @NASAJPL have restored the Deep Space Network Now website
  
 vidIQ Vision For YouTube Enterprise v3.86.1.0 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/TxfcDBNidg
  
-# ViensTaylo56611USER INFO
-![image](http://pbs.twimg.com/profile_images/1646180996641857539/e8BW_BVC_normal.jpg)
+# 1CelluUSER INFO
+![image](http://pbs.twimg.com/profile_images/1645205457760387073/OiAXUrpZ_normal.jpg)
  
-`User ScreenName:` ViensTaylo56611 
+`User ScreenName:` 1Cellu 
  
-`User chosen Name:` Taylor Viens 
+`User chosen Name:` Cellu 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 12 15:57:05 +0000 2023 
+`User signup date?:` Sun Apr 09 23:17:04 +0000 2023 
  
-`User Description?:` Tech, business, finance and marketing writer and editor with over 50 books published and articles in The New York Times, Forbes, Hackernoon, HuffPo, &c. 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 8 
+`Following?:` 7 
  
 `User URL?:` None 
  
-`Location:` Santa Barbara 
+`Location:`  
  
-`Number of tweets extracted`  : 20 
+`Number of tweets extracted`  : 13 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1646180996641857539/e8BW_BVC_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1645205457760387073/OiAXUrpZ_normal.jpg 
  
-`Number of tweets excluding replies:` 20 
+`Number of tweets excluding replies:` 13 
  
 
  
@@ -479,13 +149,312 @@ vidIQ Vision For YouTube Enterprise v3.86.1.0 Full Activated – YouTube SEO –
  
 ## User Top tweeted words 
  
-**@HGINSIGHTS_:** 18 , **@HGINSIGHTS_** 6 , **–** 6 , **MARKET** 4 , **AWARD** 4 , **LATEST** 3 , **DOWNLOAD** 3 , **BUSINESS** 3 , **COMPANIES** 3 , **MARKETREPORT** 2 , **CLOUDSECURITY** 2 , **CLOUD** 2 , **2023** 2 , **WEDNESDAYWISDOM** 2 , **CEO** 2 , **DR** 2 , **ELIZABETH** 2 , **SMALLBUSINESS** 2 , **PRODUCTUPDATE** 2 , **DATA** 2 , 
+**CYBERSECURITY** 8 , **PENTESTING** 7 , **CYBERSEC** 6 , **INFOSEC** 5 , **@SHUBHAM_PEN:** 5 , **❯** 5 , **➟** 5 , **INFORMATIONSECURITY** 4 , **PYTHON** 4 , **LINUX** 3 , **CHEAT** 3 , **SHEET** 3 , **CREDIT:** 3 , **HACKING** 3 , **DATASECURITY** 3 , **SQL** 3 , **@HACKINARTICLES:** 2 , **CYBERSECURITYTIPS** 2 , **REDTEAM** 2 , **COMMAND** 2 , 
  
 ## What this user tweeted
  
-RT @HGInsights_: #Cloudsecurity is a $76 billion #marketopportunity in 2023 —  the fastest-growing market across #cybersecurity.
+RT @hackinarticles: Computer Ports
 
-Our lates…
+#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #CyberSec #network…
+ 
+# DetGiles38192USER INFO
+![image](http://pbs.twimg.com/profile_images/1643573340282703872/JxXMBxTI_normal.png)
+ 
+`User ScreenName:` DetGiles38192 
+ 
+`User chosen Name:` Det Giles 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 05 11:16:34 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 42 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 70 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643573340282703872/JxXMBxTI_normal.png 
+ 
+`Number of tweets excluding replies:` 70 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DINOSN:** 9 , **CYBERSECURITY** 7 , **@CYB_DETECTIVE:** 7 , **@THREE_CUBE:** 5 , **1** 5 , **INFOSEC** 4 , **MALWARE** 4 , **FREE** 4 , **HACKING** 4 , **MASTER** 4 , **@DAVIDBOMBAL:** 4 , **VERY** 4 , **YOURSELF** 3 , **CYBERWARRIOR** 3 , **RESOURCES** 3 , **NMAP** 3 , **TOOLS** 3 , **RESEARCH** 3 , **TRAINING** 3 , **ENGINEERING** 3 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Windows Attack Cheat Sheet  
+
+📷Full HD Image: https://t.co/CwPLBuWWUK
+
+#infosec #cybersecurity #cybersecuritytips #pent…RT @haneeni61853819: The Art of Mac Malware The Guide to Analyzing Malicious Software
+
+You can Read and Download it for free from:
+
+https:/…RT @davidbombal: She hacked a CNN Reporter ...
+
+YouTube video: https://t.co/YoCJxBILq5 
+
+#hacker #hack #hacking #infosec #cybersecurity #cy…
+ 
+# ChrisMorga64611USER INFO
+![image](http://pbs.twimg.com/profile_images/1646036818985377792/YqaoIel3_normal.jpg)
+ 
+`User ScreenName:` ChrisMorga64611 
+ 
+`User chosen Name:` jess lozano 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 12 04:36:11 +0000 2023 
+ 
+`User Description?:` aviation VC @JetBlueVentures | all opinions are (unfortunately) my own sf https://t.co/q3itbhw8Vj Joined July 2019 
+ 
+`Followers?: `1 
+ 
+`Following?:` 221 
+ 
+`User URL?:` https://t.co/IAiSyGGNzT 
+ 
+`Location:` Usak, Turkey 
+ 
+`Number of tweets extracted`  : 160 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1646036818985377792/YqaoIel3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 160 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@LOZANOSCHMITT:** 122 , **BEST** 6 , **HAPPY** 5 , **@KYLIEBOURJAILY** 5 , **VC** 5 , **TIME** 5 , **PEOPLE** 4 , **YEARS** 4 , **FEEL** 4 , **LITERALLY** 4 , **DAY** 4 , **NEXT** 4 , **2** 4 , **THOUGHT** 4 , **@BERN_IDENTITY** 3 , **WORKING** 3 , **ENOUGH** 3 , **AFTER** 3 , **EVER** 3 , **NEED** 3 , 
+ 
+## What this user tweeted
+ 
+RT @hack_git: KILLER TOOL (EDR Evasion)
+
+Killer: It's a AV/EDR Evasion tool created to bypass security tools for learning, until now the to…
+ 
+# Agnes__23USER INFO
+![image](http://pbs.twimg.com/profile_images/1644484859581321216/hpaEdAN0_normal.jpg)
+ 
+`User ScreenName:` Agnes__23 
+ 
+`User chosen Name:` Agnes 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 07 15:46:42 +0000 2023 
+ 
+`User Description?:` moi, j’aime beaucoup les voitures de sport. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1644484859581321216/hpaEdAN0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **CYBERSECURITYAWARENESS** 1 , **INFORMATIONSE…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day          
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
+ 
+# andriesyber88USER INFO
+![image](http://pbs.twimg.com/profile_images/1645936950870970368/gDFNkdvA_normal.jpg)
+ 
+`User ScreenName:` andriesyber88 
+ 
+`User chosen Name:` ᴀɴᴅʀɪᴇ ᴏɴᴇ℠ Ⓜ️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 10 13:24:53 +0000 2023 
+ 
+`User Description?:` ▉◣◢▉◢◥◣◢▔◤▉▉▉◢▔◤▉▔◣ ◥┆┆◤◥▔◤◢▁◤┆◤┆◥▁◣▉◥◣ ┗━═══❅◎ǁ̟ㅇɴㅌ℠ǁ̟◎❅═══━┛ 
+ 
+`Followers?: `337 
+ 
+`Following?:` 47 
+ 
+`User URL?:` https://t.co/r8h8FiPsvK 
+ 
+`Location:` Scurity Cybercrime  
+ 
+`Number of tweets extracted`  : 24 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1645936950870970368/gDFNkdvA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 24 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UNDANGAN&AMP;REF_CODE=7E2YEH** 7 , **UHIVE** 7 , **AIRDROP** 7 , **TOKEN** 7 , **AGAINST** 4 , **EASY** 4 , **OTHERS** 3 , **WITHOUT** 3 , **LIKES** 2 , **RETWEETS** 2 , **I'D** 2 , **LOVE** 2 , **SOMETHING** 2 , **LIKED🤝🐦** 2 , **JOIN** 2 , **FAST⚡⚡⚡** 2 , **RETWEET** 2 , **FASTLY✅** 2 , **F…** 2 , **JUDGE** 2 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Wireshark For Pentester: A Beginner’s Guide
+
+https://t.co/ipDR6O842U
+
+#infosec #cybersecurity #cybersecuritytips #pente…
+ 
+# ahmed1_ram56051USER INFO
+![image](http://pbs.twimg.com/profile_images/1645925533732032512/3y6xW0pT_normal.png)
+ 
+`User ScreenName:` ahmed1_ram56051 
+ 
+`User chosen Name:` ahmed1 ramdan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 11 23:03:21 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1645925533732032512/3y6xW0pT_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 3 , **CCLEANER** 1 , **EDITIONS** 1 , **(** 1 , **PROFESSIONAL** 1 , **BUSINESS** 1 , **TECHNICIAN** 1 , **)** 1 , **LATEST** 1 , **ACTIVATED** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/SPGKSIHXBN** 1 , 
+ 
+## What this user tweeted
+ 
+CCLeaner All Editions ( Professional – Business – Technician ) Latest Activated – Discount 100% OFF… https://t.co/SpgkSIHxBn
+ 
+# HamocvC54112USER INFO
+![image](http://pbs.twimg.com/profile_images/1645961894518312960/uFUh_9IV_normal.png)
+ 
+`User ScreenName:` HamocvC54112 
+ 
+`User chosen Name:` Hamocv Cv 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 12 01:27:50 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1645961894518312960/uFUh_9IV_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 3 , **SENDER** 2 , **PRO** 2 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **OFF** 2 , **AUTO** 1 , **WHATSAPP** 1 , **SMARTEST** 1 , **TURBO** 1 , **V20** 1 , **HTTPS://TCO/ZUIAC9JXTD** 1 , **INFOSEC…** 1 , **HTTPS://TCO/BGQFL8SPPUTELEGRAM** 1 , **V8740** 1 , **TELEGRAM** 1 , **MARKETING** 1 , **HTTPS://TCO/8DWTBOAHD4…** 1 , 
+ 
+## What this user tweeted
+ 
+Auto WhatsApp Smartest Sender Turbo Pro v2.0 Full Activated – Discount 100% OFF https://t.co/zuiAc9jXtd #infosec… https://t.co/BGQFL8sPPuTelegram Sender Pro v8.7.4.0 Full Activated – Telegram Marketing – Discount 100% OFF https://t.co/8DWTboAhD4… https://t.co/XQnj6Q5qAa
+ 
+# AngieK1571246USER INFO
+![image](http://pbs.twimg.com/profile_images/1643960287639502850/Et7HLRrC_normal.jpg)
+ 
+`User ScreenName:` AngieK1571246 
+ 
+`User chosen Name:` Angie K 🖤🖤Viciousblaze88🖤🖤 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 06 12:53:39 +0000 2023 
+ 
+`User Description?:` Cyber Security Analyst Nonprofit Sector 
+ 
+`Followers?: `3 
+ 
+`Following?:` 111 
+ 
+`User URL?:` None 
+ 
+`Location:` Las Vegas, NV 
+ 
+`Number of tweets extracted`  : 16 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643960287639502850/Et7HLRrC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 16 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LEARN** 4 , **@CYBERWARSHIP:** 2 , **MALWARE** 2 , **INFOSEC** 2 , **PENTEST** 2 , **REDTEAM** 2 , **WINDOWS** 2 , **SECURITY** 2 , **INCIDENTS** 2 , **MARKET** 2 , **@_JAVELYNN_:** 2 , **VS** 2 , **RT** 1 , **"CHINESE** 1 , **RUSSIAN** 1 , **HACKERS** 1 , **USING** 1 , **SILKLOADER** 1 , **EVADE** 1 , **DETECTION"** 1 , 
+ 
+## What this user tweeted
+ 
+RT @CyberWarship: "Chinese and Russian Hackers Using SILKLOADER Malware to Evade Detection"
+
+#infosec #pentest #redteam
+https://t.co/ltCWsC…RT @CyberWarship: "yetAnotherObfuscator: C# obfuscator that bypass windows defender"
+
+#infosec #redteam #pentest 
+https://t.co/aFLTkAwGV4 h…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
