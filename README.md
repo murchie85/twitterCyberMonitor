@@ -1,20 +1,24 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **QasimRashid**  
+The most popular user is: **BushidoToken**  
  
 
-## As Texas Gov Abbot prepares to pardon a white man &amp; convicted murderer for killing a peaceful BLM protestor—Texas s… https://t.co/fEFDLzmnFo 
+## My first blog of 2023 - Tips for Investigating Cybercrime Infrastructure
+
+🔗https://t.co/bc4vEjPKIS
+
+#CTI… https://t.co/xEIDMYnw5o 
 
   
 
@@ -23,24 +27,24 @@ The most popular user is: **QasimRashid**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ethereum: Dr @jutta_steiner &amp; Gustav Simonsson present together on “Securing Ethereum”  #infosec #security #blockchain #audit https://t… |
-| RT @hack_git: https://t.co/9PmVLONkgD API SecurityInstant, Open source API security → API discovery, automated business logic testing and… |
-| RT @ptracesecurity: Announcing the https://t.co/uCIhUVYwu3 API: critical dependency data for secure supply chains https://t.co/2jJsZKBihm… |
+| Varonis Opens Australia Data Center to Support SaaS Customers #infosec #infosecurity #cybersecurity #threatintel… https://t.co/3YGveLLayI |
+| ZeroFox Announces Partnership with Google Cloud #infosec #infosecurity #cybersecurity #threatintel… https://t.co/9WVEG6yQ30 |
+| RT @AnonymousH4ck35: #OSINT #ThreatIntel #intelligence #investigation #BlueTeam #infosec #cybersecurity #reconnaissanceIf you need useful i… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hack_git** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **CyberIQs_** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 5.56%|
+| #1 Most tweeted to  | **CyberIQs_** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **AnonymousH4ck35** |
+| NewProfiles (less than 10 days) | 0.08%  |
+| Tweeters with < 10 followers  | 1.18%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,202 +55,46 @@ The most popular user is: **QasimRashid**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **@HACK_GIT:**  |
-| third  | **INFOSECURITY** |
-| fourth  | **@HACKINARTICLES:**  |
-| fifth  | **RESOURCES**  |
+| second  | **INFOSECURITY**  |
+| third  | **THREATINTEL** |
+| fourth  | **THREATINTEL…**  |
+| fifth  | **CYBERSECURITY…**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (16.67%) **OBJECTIVE** (33.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TechNative: According to a report by Accenture, 43% of #cyberattacks target small businessesvia @SatoriCyber#Phishing #Ransomware #I… |
+|Russian hacker group Killnet leaks confidential data of NATO members #infosec #infosecurity #cybersecurity… https://t.co/I2m8AeUcxn |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QasimRashid**  |
+| The most retweeted user is: **BushidoToken**  |
 | ------------- |
-| As Texas Gov Abbot prepares to pardon a white man &amp; convicted murderer for killing a peaceful BLM protestor—Texas s… https://t.co/fEFDLzmnFo |
+| My first blog of 2023 - Tips for Investigating Cybercrime Infrastructure🔗https://t.co/bc4vEjPKIS#CTI… https://t.co/xEIDMYnw5o |
 
 # Potential Fake Accounts
  
-# MyPaisha74903USER INFO
-![image](http://pbs.twimg.com/profile_images/1645930445283164160/19leOxr5_normal.jpg)
+# ashim____USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` MyPaisha74903 
+`User ScreenName:` ashim____ 
  
-`User chosen Name:` Pãìshã my “Pãìshã” Wørld 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 11 23:22:52 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1645930445283164160/19leOxr5_normal.jpg 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FILM** 4 , **2'** 3 , **MOVIE** 3 , **NEWS** 3 , **TIMES** 3 , **HACK** 2 , **WI-FI** 2 , **PASSWORDS** 2 , **HTTPS://TCO/JJ2RQT3MFW** 2 , **INDIA** 2 , **ALLU** 2 , **PINKVILLA** 2 , **ACTOR** 2 , **KISHORE** 2 , **CALLS** 2 , **'KGF** 2 , **'MINDLESS'** 2 , **KANNADA** 2 , **PCMAG13** 1 , **POPULAR** 1 , 
- 
-## What this user tweeted
- 
-13 popular wireless hacking tools [updated 2021] | Infosec Resources https://t.co/zFLOyhx2QG
- 
-# DatapointzJayUSER INFO
-![image](http://pbs.twimg.com/profile_images/1644831966968315905/2RtYxYZv_normal.jpg)
- 
-`User ScreenName:` DatapointzJay 
- 
-`User chosen Name:` Jay 
+`User chosen Name:` ashim 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 08 22:37:16 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 236 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 19 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644831966968315905/2RtYxYZv_normal.jpg 
- 
-`Number of tweets excluding replies:` 19 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DON’T** 2 , **TWO** 2 , **PIZZA** 2 , **CALLED** 2 , **DISGUSTING** 2 , **NEED** 2 , **MENTION** 2 , **@COLEENS_** 1 , **REMEMBER** 1 , **SOMEONE** 1 , **SAYING** 1 , **EARLIER** 1 , **CAREER** 1 , **LEARN** 1 , **REALIZE** 1 , **KNOW@ALYSSAM_INFOSEC** 1 , **DAYS** 1 , **WHERE** 1 , **PHRASE** 1 , **‘BAD** 1 , 
- 
-## What this user tweeted
- 
-@AlyssaM_InfoSec We all have those days. It’s where the phrase ‘bad hair day’ came from😁
- 
-# GetNetworkVizUSER INFO
-![image](http://pbs.twimg.com/profile_images/1645179424873017351/FaHYkZgA_normal.jpg)
- 
-`User ScreenName:` GetNetworkViz 
- 
-`User chosen Name:` Get Network Visibility 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 07 00:33:11 +0000 2023 
- 
-`User Description?:` Empowering large enterprises with cutting-edge #networkvisibility solutions for enhanced security & performance. Total visibility, no blind spots. 
- 
-`Followers?: `0 
- 
-`Following?:` 7 
- 
-`User URL?:` https://t.co/yAeaXGdWNc 
- 
-`Location:` Santa Rosa, CA 
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1645179424873017351/FaHYkZgA_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NETWORK** 6 , **PACKET** 5 , **WHAT'S** 3 , **SECURITY** 3 , **PERFORMANCE** 2 , **SCALABILITY** 2 , **NETWORKVISIBILITY** 2 , **GROWTH** 2 , **VISIBILITY** 2 , **MARKET** 2 , **FUTURE** 2 , **LATEST** 2 , **THESE** 2 , **POP** 1 , **QUIZ!** 1 , **🧠** 1 , **MAIN** 1 , **FUNCTION** 1 , **BROKER?** 1 , **REPLY** 1 , 
- 
-## What this user tweeted
- 
-Pop quiz! 🧠 What's the main function of a network packet broker? Reply with your answer, and we'll reveal the corre… https://t.co/rd6xACusuk
- 
-# jkimbo86USER INFO
-![image](http://pbs.twimg.com/profile_images/1646605799433687054/IkGSa9rp_normal.png)
- 
-`User ScreenName:` jkimbo86 
- 
-`User chosen Name:` Jonathan K 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 13 20:06:29 +0000 2023 
+`User signup date?:` Sun Apr 09 06:21:08 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646605799433687054/IkGSa9rp_normal.png 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SECURITY** 5 , **RELEASED** 4 , **NEW** 4 , **ATTACK** 3 , **GRAPHS** 3 , **EMULATE** 3 , **BUNDLE** 2 , **CONTENT** 2 , **INFOSEC** 2 , **CONTINUOUS** 2 , **CYBERSECURITY** 2 , **TESTING** 2 , **HTTPS://TCO/M04BYVMXDJATTACKIQ** 1 , **CONSISTING** 1 , **SIX** 1 , **SEEK** 1 , **HIGHLY** 1 , **SOPHISTIC…** 1 , **HTTPS://TCO/2SSM1TPS0VATTACKIQ'S** 1 , **LIVE** 1 , 
- 
-## What this user tweeted
- 
-AttackIQ's live security optimization demos cover a wide range of critical #infosec topics! Register and learn how… https://t.co/DHdKG5Qddw
- 
-# seanedw39041155USER INFO
-![image](http://pbs.twimg.com/profile_images/1646706950418182145/UxZKuV0l_normal.png)
- 
-`User ScreenName:` seanedw39041155 
- 
-`User chosen Name:` sean edwards 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 14 02:48:25 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
+`Following?:` 16 
  
 `User URL?:` None 
  
@@ -254,7 +102,7 @@ AttackIQ's live security optimization demos cover a wide range of critical #info
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1646706950418182145/UxZKuV0l_normal.png 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
 `Number of tweets excluding replies:` 1 
  
@@ -264,11 +112,11 @@ AttackIQ's live security optimization demos cover a wide range of critical #info
  
 ## User Top tweeted words 
  
-**INSTAGRAM** 1 , **BOT** 1 , **PRO** 1 , **V550** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/SWOGWMM5OK** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/PN4DICGXTL** 1 , 
+**RT** 1 , **@FALCONFEEDSIO:** 1 , **NEWLY** 1 , **EMERGED** 1 , **HACKING** 1 , **GROUP** 1 , **WHICH** 1 , **CLAIMS** 1 , **NEPAL** 1 , **TARGETED** 1 , **DEFACED** 1 , **FEW** 1 , **WEBSITES** 1 , **BELONGING** 1 , **PAKISTAN…** 1 , 
  
 ## What this user tweeted
  
-Instagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/sWogWMM5oK #infosec #bugcrowd… https://t.co/pn4dIcgxTl
+RT @FalconFeedsio: A newly emerged hacking group which claims to be from Nepal is targeted and defaced few websites belonging to Pakistan.…
  
 # GuyLaDocheXUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1643611016410931202/_7OK0PEp_normal.jpg)
@@ -283,7 +131,7 @@ Instagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/sWogW
  
 `User Description?:` Used to live in Cali but now currently residing in Oklahoma. 
  
-`Followers?: `12 
+`Followers?: `11 
  
 `Following?:` 223 
  
@@ -307,7 +155,93 @@ Instagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/sWogW
  
 ## What this user tweeted
  
-RT @medus4_cdc: Some friends of mine have created a new way to protect you and your networks from malware, and they’re offering a free scan…
+RT @DailyOsint: Do you want to improve your online #privacy and security?
+
+TraceMyShadow allows you to check the digital traces you're leav…
+ 
+# CyntelappUSER INFO
+![image](http://pbs.twimg.com/profile_images/1643910987488145408/c6w5E_ry_normal.jpg)
+ 
+`User ScreenName:` Cyntelapp 
+ 
+`User chosen Name:` Cyntelligence 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 06 09:34:41 +0000 2023 
+ 
+`User Description?:` Stay ahead of cyber threats with Cyntelligence, your go-to source for real-time cyber threat intelligence news and insights. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 2 
+ 
+`User URL?:` https://t.co/2SENr5BvmC 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1643910987488145408/c6w5E_ry_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBER** 3 , **APP** 2 , **DOWNLOAD** 2 , **AI** 1 , **BASED** 1 , **CHATBOT** 1 , **ANSWER** 1 , **SECURITY** 1 , **QUESTIONS** 1 , **FINGERTIP!** 1 , **CYNTELLIGENCE** 1 , **THREATINTELLIGENCE…** 1 , **HTTPS://TCO/DZT4MSE93KONE** 1 , **STOP** 1 , **KEEP** 1 , **UPDATED** 1 , **THREAT** 1 , **NEWS!** 1 , **THREATINTEL** 1 , **CYNTEL** 1 , 
+ 
+## What this user tweeted
+ 
+One stop app to keep you updated on Cyber Threat News!
+
+Download Now. #ThreatIntel #cyntel  #cybercrime… https://t.co/s6iuCm55Eo
+ 
+# HackOgrammerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1644824760344514561/SRqfRJRI_normal.jpg)
+ 
+`User ScreenName:` HackOgrammer 
+ 
+`User chosen Name:` {Hack}Ogrammer 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 08 10:18:43 +0000 2023 
+ 
+`User Description?:` Programmer | Penetration Tester | Offensive Coder | Bug Bounty Hunter 
+ 
+`Followers?: `3 
+ 
+`Following?:` 79 
+ 
+`User URL?:` https://t.co/uWDbdRdpac 
+ 
+`Location:` Cyber Space 
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1644824760344514561/SRqfRJRI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SANDBOX** 2 , **OSINT** 2 , **SECURITY** 2 , **RT** 1 , **@DAILYOSINT:** 1 , **NEED** 1 , **MALWARE** 1 , **SERVICE?** 1 , **TRY** 1 , **@CERT_EE** 1 , **'S** 1 , **CUCKOO** 1 , **ANALYZE** 1 , **SUSPICIOUS** 1 , **FILES** 1 , **HTTPS://TCO/BNMK…RT** 1 , **@HACKINARTICLES:** 1 , **NMAP** 1 , **CHEAT** 1 , **SHEET** 1 , 
+ 
+## What this user tweeted
+ 
+RT @DailyOsint: Do you need a malware sandbox as a service?
+
+Try @CERT_EE 's Cuckoo Sandbox to analyze suspicious files.
+
+https://t.co/bNmK…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
