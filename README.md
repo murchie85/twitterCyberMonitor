@@ -1,22 +1,24 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **TheMentalist_0**  
+The most popular user is: **BushidoToken**  
  
 
-## How to deal with passive-aggressive attacks 
+## My first blog of 2023 - Tips for Investigating Cybercrime Infrastructure
 
-A thread to make a nasty person regret disrespecting you without bein… https://t.co/eClxcniLqS 
+🔗https://t.co/bc4vEjPKIS
+
+#CTI… https://t.co/xEIDMYnw5o 
 
   
 
@@ -25,24 +27,24 @@ A thread to make a nasty person regret disrespecting you without bein… https:/
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Detected #phishing clone at address: hxxps://protectmetawallet[.]com/#metamask #crypto #infosec #cybersecurity… https://t.co/gu4ow3B3cb |
-| RT @hack_git: Tiny-XSS-PayloadsA collection of tiny XSS Payloads that can be used in different contexts.https://t.co/Qjqtxs0Mw1Web:h… |
-| @AlyssaM_InfoSec This!!! Almost impossible to find. Usually the closest you get is people who won’t actively slag y… https://t.co/LE8FJmfJZs |
+| Lawsuit Claims Mount Nittany Health Shared Private Patient Information with #infosec #infosecurity #cybersecurity… https://t.co/exg6j3YbUV |
+| RT @jfslowik: The future of #CTI #ThreatIntel is LLM AI models generating reports on unenriched data ingested by LLM AI models that then ye… |
+| RT @fletch_ai: Fletch Top Threat Alert: Android's April 2023 Updates Patch Critical Remote Code Execution Vulnerabilities - #CVE-2023-21085… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **hack_git** |
-| #3 Most tweeted to  | **ptracesecurity** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 5.64%|
+| #1 Most tweeted to  | **CyberIQs_** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **FalconFeedsio** |
+| NewProfiles (less than 10 days) | 0.04%  |
+| Tweeters with < 10 followers  | 0.98%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -53,46 +55,46 @@ A thread to make a nasty person regret disrespecting you without bein… https:/
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **@HACKINARTICLES:** |
-| fourth  | **CYBERSECURITYTIPS**  |
-| fifth  | **INFOSECURITY**  |
+| second  | **INFOSECURITY**  |
+| third  | **THREATINTEL** |
+| fourth  | **THREATINTEL…**  |
+| fifth  | **CYBERSECURITY…**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @hack_git: 30Days30APISecurityTests🚀 Join us for 30days of daily API security tests. #30days30tests We've spent last 120days building… |
+|RT @vtxproject: Join us for Part 2 on May 4th! Learn how to use the Vertex-Threat-Intel Power-Up to work with &amp; record information about ac… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TheMentalist_0**  |
+| The most retweeted user is: **BushidoToken**  |
 | ------------- |
-| How to deal with passive-aggressive attacks A thread to make a nasty person regret disrespecting you without bein… https://t.co/eClxcniLqS |
+| My first blog of 2023 - Tips for Investigating Cybercrime Infrastructure🔗https://t.co/bc4vEjPKIS#CTI… https://t.co/xEIDMYnw5o |
 
 # Potential Fake Accounts
  
-# Abdalla43220013USER INFO
-![image](http://pbs.twimg.com/profile_images/1648025931754160130/BsssyBQM_normal.jpg)
+# ashim____USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` Abdalla43220013 
+`User ScreenName:` ashim____ 
  
-`User chosen Name:` Abdallah Hamdy 
+`User chosen Name:` ashim 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 17 18:09:35 +0000 2023 
+`User signup date?:` Sun Apr 09 06:21:08 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 21 
  
 `User URL?:` None 
  
@@ -100,7 +102,7 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECT
  
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1648025931754160130/BsssyBQM_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
 `Number of tweets excluding replies:` 1 
  
@@ -110,38 +112,38 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECT
  
 ## User Top tweeted words 
  
-**INTERNET** 1 , **DOWNLOAD** 1 , **MANAGER** 1 , **V641** 1 , **BUILD** 1 , **11** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/WXUYLN0DAL** 1 , **INFOSEC…** 1 , **HTTPS://TCO/86CVVKGINW** 1 , 
+**RT** 1 , **@FALCONFEEDSIO:** 1 , **NEWLY** 1 , **EMERGED** 1 , **HACKING** 1 , **GROUP** 1 , **WHICH** 1 , **CLAIMS** 1 , **NEPAL** 1 , **TARGETED** 1 , **DEFACED** 1 , **FEW** 1 , **WEBSITES** 1 , **BELONGING** 1 , **PAKISTAN…** 1 , 
  
 ## What this user tweeted
  
-Internet Download Manager v6.41 Build 11 Full Activated – Discount 100% OFF https://t.co/WxUyLN0DaL #infosec… https://t.co/86cVVkGinW
+RT @FalconFeedsio: A newly emerged hacking group which claims to be from Nepal is targeted and defaced few websites belonging to Pakistan.…
  
-# Pouya_blogUSER INFO
-![image](http://pbs.twimg.com/profile_images/1646852971320180741/oBhCiPUl_normal.png)
+# HackOgrammerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1644824760344514561/SRqfRJRI_normal.jpg)
  
-`User ScreenName:` Pouya_blog 
+`User ScreenName:` HackOgrammer 
  
-`User chosen Name:` Pouya 
+`User chosen Name:` {Hack}Ogrammer 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Apr 14 12:28:39 +0000 2023 
+`User signup date?:` Sat Apr 08 10:18:43 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Programmer | Penetration Tester | Offensive Coder | Bug Bounty Hunter 
  
-`Followers?: `0 
+`Followers?: `3 
  
-`Following?:` 10 
+`Following?:` 79 
  
-`User URL?:` None 
+`User URL?:` https://t.co/uWDbdRdpac 
  
-`Location:`  
+`Location:` Cyber Space 
  
-`Number of tweets extracted`  : 9 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1646852971320180741/oBhCiPUl_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1644824760344514561/SRqfRJRI_normal.jpg 
  
-`Number of tweets excluding replies:` 9 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -149,184 +151,15 @@ Internet Download Manager v6.41 Build 11 Full Activated – Discount 100% OFF ht
  
 ## User Top tweeted words 
  
-**🗞** 3 , **API** 3 , **USE** 2 , **~** 2 , **RT** 1 , **@MAHFUJWHH:** 1 , **AWESOME** 1 , **WRITEUP** 1 , **REFLECTED** 1 , **XSS** 1 , **FIND** 1 , **ROBOTSTXT** 1 , **FILE** 1 , **HTTPS://TCO/TJD9JTD6XRRT** 1 , **@PENTESTERLAB:** 1 , **ARTICLES** 1 , **WORTH** 1 , **READING** 1 , **DISCOVERED** 1 , **LAST** 1 , 
+**SANDBOX** 2 , **OSINT** 2 , **SECURITY** 2 , **RT** 1 , **@DAILYOSINT:** 1 , **NEED** 1 , **MALWARE** 1 , **SERVICE?** 1 , **TRY** 1 , **@CERT_EE** 1 , **'S** 1 , **CUCKOO** 1 , **ANALYZE** 1 , **SUSPICIOUS** 1 , **FILES** 1 , **HTTPS://TCO/BNMK…RT** 1 , **@HACKINARTICLES:** 1 , **NMAP** 1 , **CHEAT** 1 , **SHEET** 1 , 
  
 ## What this user tweeted
  
-RT @payloadartist: 🪲 Analysis of  CVE-2023-29084 Command injection in ManageEngine ADManager Plus
+RT @DailyOsint: Do you need a malware sandbox as a service?
 
-https://t.co/dI91EHQof0
+Try @CERT_EE 's Cuckoo Sandbox to analyze suspicious files.
 
-By @hir0ot 
-
-#i…
- 
-# IwiSisCatUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647094272993239042/rV5ZLtIg_normal.jpg)
- 
-`User ScreenName:` IwiSisCat 
- 
-`User chosen Name:` IwiSisCat 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 15 03:58:07 +0000 2023 
- 
-`User Description?:` @Hacktoria #OSINT #Deaf #Accessbility 
-
-(Better profile text upcoming!) 
- 
-`Followers?: `4 
- 
-`Following?:` 58 
- 
-`User URL?:` None 
- 
-`Location:` Norway 
- 
-`Number of tweets extracted`  : 6 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647094272993239042/rV5ZLtIg_normal.jpg 
- 
-`Number of tweets excluding replies:` 6 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AI** 3 , **USEFUL** 2 , **IMAGES** 2 , **@CYB_DETECTIVE:** 2 , **OSINT** 2 , **DISCORD** 2 , **MAPS** 2 , **RT** 1 , **@HACK_GIT:** 1 , **⚡CIPHEY** 1 , **AUTOMATICALLY** 1 , **DECRYPT** 1 , **ENCRYPTIONS** 1 , **WITHOUT** 1 , **KNOWING** 1 , **KEY** 1 , **CIPHER** 1 , **DECODE** 1 , **ENCODINGS** 1 , **CRACK** 1 , 
- 
-## What this user tweeted
- 
-RT @hack_git: ⚡Ciphey
-
-Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-
-https://t…
- 
-# skyemou5USER INFO
-![image](http://pbs.twimg.com/profile_images/1646274942756069376/L-8_pW_h_normal.jpg)
- 
-`User ScreenName:` skyemou5 
- 
-`User chosen Name:` Skye 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 12 22:11:12 +0000 2023 
- 
-`User Description?:` just an enby trans demigirl currently in progress
-💜💜💜🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🦈🦈🦈 |
-technical artist, musician, programmer
-| she/they 
- 
-`Followers?: `5 
- 
-`Following?:` 52 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 50 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646274942756069376/L-8_pW_h_normal.jpg 
- 
-`Number of tweets excluding replies:` 50 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HAND** 6 , **@GAMINGONLINUX:** 4 , **3D** 4 , **HOUDINI** 4 , **PIXELART** 3 , **BLENDER** 3 , **GENOCIDE** 3 , **GOES** 3 , **@ESQUEER_:** 3 , **DAY** 2 , **US** 2 , **WHILE** 2 , **GO** 2 , **GOT** 2 , **GAMING** 2 , **3DART** 2 , **MAKING** 2 , **ORIGINAL** 2 , **ART** 2 , **I'M** 2 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Pic of the Day          
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
- 
-# AHMEDIB19190965USER INFO
-![image](http://pbs.twimg.com/profile_images/1647911815202963456/bOO1jSgc_normal.png)
- 
-`User ScreenName:` AHMEDIB19190965 
- 
-`User chosen Name:` AHMED IBRAHIM 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 17 10:36:07 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647911815202963456/bOO1jSgc_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 2 , **AUTO** 1 , **WHATSAPP** 1 , **BUSINESS** 1 , **SENDER** 1 , **TURBO** 1 , **PRO** 1 , **V120** 1 , **FULL** 1 , **ACTIVATED** 1 , **(AI)** 1 , **ANTI** 1 , **BLOCK** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/GBJGTP4HHD** 1 , 
- 
-## What this user tweeted
- 
-Auto WhatsApp Business Sender Turbo Pro v12.0 Full Activated (Ai) – Anti Block – Discount 100% OFF… https://t.co/GBJGTP4hhD
- 
-# Ikaika77juleikaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647815178959077378/rZQGtkTE_normal.png)
- 
-`User ScreenName:` Ikaika77juleika 
- 
-`User chosen Name:` Ika Ika 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 17 04:12:08 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647815178959077378/rZQGtkTE_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 2 , **NINJATOK** 1 , **V1391** 1 , **FULL** 1 , **ACTIVATED** 1 , **UNLIMITED** 1 , **TIKTOK** 1 , **ACCOUNTS** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/MWXLMVT4LW** 1 , **INFOSEC…** 1 , **HTTPS://TCO/5EUHCSE16Y** 1 , 
- 
-## What this user tweeted
- 
-NinjaTok v1.3.9.1 Full Activated – Unlimited TikTok Accounts – Discount 100% OFF https://t.co/MWXLMVt4Lw #infosec… https://t.co/5EuhCSE16Y
+https://t.co/bNmK…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
