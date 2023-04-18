@@ -1,20 +1,21 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **mtaibbi**  
+The most popular user is: **darreldrowland**  
  
 
-## 15.  The report was co-authored by Katie Couric and Chris Krebs, the founder of the DHS’s Cybersecurity and Infrast… https://t.co/4MDR2w7Pk0 
+## Ohio GOP Congressman Jim Jordan holds New York crime hearing to embarrass Donald Trump prosecutor
+But witness point… https://t.co/XDzvkOegiF 
 
   
 
@@ -23,25 +24,25 @@ The most popular user is: **mtaibbi**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @teneikaask_you: Heres a NSA sponsored #Cybersecurity Certification program that covers cost of classes &amp; 3 cert exam vouchers⏳3 Cyber… |
-| SEC Reopens Comment Period for Investment Adviser and Investment Company Cybersecurity Proposals in Connection with… https://t.co/JwRmTNLCfp |
-| To keep your online accounts safe use two factor authentication.#cybersecurity #safeteensonline |
+| RT @InfosysEurope: To effectively defend against future cyberattacks, businesses must collectively prioritise prevention and adopt best pra… |
+| This blogpost from @davorg is over a decade old...but it could've been written yesterday. Third-party logins are st… https://t.co/25iNV7JraT |
+| RT @ptracesecurity: A collection of sources of documentation, as well as field best practices, to build/run a SOC https://t.co/FjtFdBo6eo… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **SecurityTrybe** |
-| #3 Most tweeted to  | **CyberIQs_** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 6.0%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #2 Most tweeted to  | **hack_git** |
+| #3 Most tweeted to  | **SecurityTrybe** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 4.52%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,42 +52,82 @@ The most popular user is: **mtaibbi**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **US**  |
-| third  | **DATA** |
-| fourth  | **LOOKING**  |
-| fifth  | **AI**  |
+| second  | **INFOSECURITY**  |
+| third  | **PHISHING** |
+| fourth  | **PENTESTING**  |
+| fifth  | **@HACKINARTICLES:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ptracesecurity: Depending on the AV/EDR we will check which Windows APIs are hooked by the AV/EDR https://t.co/xQPAc0gtbl  #Pentesting… |
+|RT @TechNative: It’s time to break the ransomware business model#infosec #cyberthreats #cyberattacks #leaders #CISO #CIO #CTO #securityto… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mtaibbi**  |
+| The most retweeted user is: **darreldrowland**  |
 | ------------- |
-| 15.  The report was co-authored by Katie Couric and Chris Krebs, the founder of the DHS’s Cybersecurity and Infrast… https://t.co/4MDR2w7Pk0 |
+| Ohio GOP Congressman Jim Jordan holds New York crime hearing to embarrass Donald Trump prosecutorBut witness point… https://t.co/XDzvkOegiF |
 
 # Potential Fake Accounts
  
-# favour86038USER INFO
-![image](http://pbs.twimg.com/profile_images/1648238325017329664/LPjwTshT_normal.jpg)
+# drw0011USER INFO
+![image](http://pbs.twimg.com/profile_images/1647932072013492224/KxKURV9Y_normal.png)
  
-`User ScreenName:` favour86038 
+`User ScreenName:` drw0011 
  
-`User chosen Name:` God's Favour Bello 
+`User chosen Name:` dreew dreew 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 18 08:02:37 +0000 2023 
+`User signup date?:` Mon Apr 17 11:56:37 +0000 2023 
  
 `User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1647932072013492224/KxKURV9Y_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TELEGRAM** 2 , **–** 2 , **SENDER** 1 , **PRO** 1 , **V8740** 1 , **FULL** 1 , **ACTIVATED** 1 , **MARKETING** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/RHNICDBIP2…** 1 , **HTTPS://TCO/WB1FWQ1JTL** 1 , 
+ 
+## What this user tweeted
+ 
+Telegram Sender Pro v8.7.4.0 Full Activated – Telegram Marketing – Discount 100% OFF https://t.co/rhnIcDbip2… https://t.co/wb1FWQ1jtL
+ 
+# Architect392043USER INFO
+![image](http://pbs.twimg.com/profile_images/1647045944293355520/GiSmu0ka_normal.png)
+ 
+`User ScreenName:` Architect392043 
+ 
+`User chosen Name:` Architect 3D 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 15 01:15:28 +0000 2023 
+ 
+`User Description?:` Hey guys!
+Do you want to do architectural rendering interior and exterior design. inbox me, or Visit my gigs https://t.co/eqUAHL3LFa 
  
 `Followers?: `0 
  
@@ -94,13 +135,13 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 `User URL?:` None 
  
-`Location:` Nigeria  
+`Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1648238325017329664/LPjwTshT_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1647045944293355520/GiSmu0ka_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -108,38 +149,38 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**@DESTINYAGBANIMU:** 3 , **RT** 1 , **HTTPS://TCO/LG3LBFRVQTRT** 1 , **@STARTUPLAG:** 1 , **TEAM** 1 , **HEALTHWAKA** 1 , **EMERGES** 1 , **OVERALL** 1 , **WINNER** 1 , **SECUREHACK** 1 , **10** 1 , **CLINCHING** 1 , **GRAND** 1 , **PRIZE** 1 , **N1** 1 , **MILLION** 1 , **ACCELERATION** 1 , **PROGRA…RT** 1 , **HTTPS://TCO/MLNDD8OPCXRT** 1 , **HTTPS://TCO/RPWRLLXYFZ@AKINAYOMID** 1 , 
+**GOOGLE** 2 , **RENDERING** 2 , **KEYWORD** 1 , **PLANNER** 1 , **TOOL** 1 , **ADS** 1 , **HTTPS://TCO/A2LQ2FT925** 1 , **GOOGLEADS** 1 , **CREATE** 1 , **ACCOUNT** 1 , **SET** 1 , **BUDGET** 1 , **WRIT…** 1 , **HTTPS://TCO/IU7PRCMRJAPRANALIRATHOD** 1 , **HTTPS://TCO/QOZ4MQOO5DVISIT** 1 , **WEBSITE** 1 , **HTTPS://TCO/FU3PSCMDWB** 1 , **ARCHITECTURAL** 1 , **COMPETITION** 1 , **INFLUENCER…** 1 , 
  
 ## What this user tweeted
  
-RT @startuplag: Team HealthWaka emerges as overall winner of SecureHack 1.0, clinching grand prize of N1 million and an acceleration progra…
+Play Traffic Agency v1.1.12 Full Activated – Discount 100% OFF https://t.co/e6V8OFLCAt #infosec #bugcrowd… https://t.co/AXITVAbvTY
  
-# hack_the_matrixUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647923019375951873/K_VMU2Zi_normal.png)
+# Cybafriq_USER INFO
+![image](http://pbs.twimg.com/profile_images/1646234456502435876/W17EmW7i_normal.jpg)
  
-`User ScreenName:` hack_the_matrix 
+`User ScreenName:` Cybafriq_ 
  
-`User chosen Name:` Andrew. 
+`User chosen Name:` Cybafriq 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 17 11:20:39 +0000 2023 
+`User signup date?:` Tue Apr 11 20:49:10 +0000 2023 
  
-`User Description?:` Currently studying Cyber security and web development. 
+`User Description?:` We mentor cyber-beginners/enthusiast through the right roadmaps in achieveing career excellence in Cybersecurity. Mail us: cybafriq@gmail.com 
  
-`Followers?: `1 
+`Followers?: `156 
  
-`Following?:` 19 
+`Following?:` 4 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` 127.0.0.1 
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 24 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1647923019375951873/K_VMU2Zi_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1646234456502435876/W17EmW7i_normal.jpg 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 24 
  
 
  
@@ -147,11 +188,51 @@ RT @startuplag: Team HealthWaka emerges as overall winner of SecureHack 1.0, cli
  
 ## User Top tweeted words 
  
-**COMPLETING** 2 , **FIRST** 2 , **FOUR** 2 , **@BERKSHIRE_LIVE** 1 , **ACTUALLY** 1 , **2** 1 , **DIFFERENT** 1 , **TRAILS** 1 , **CROSS** 1 , **PATHS** 1 , **SUGGEST** 1 , **BOTH** 1 , **ARE…** 1 , **HTTPS://TCO/N0MVXVY38SI'VE** 1 , **EARNED** 1 , **BADGE** 1 , **TRYHACKME** 1 , **ROOMS** 1 , **WEEK** 1 , **JOINING!…** 1 , 
+**@CYBAFRIQ_** 7 , **TECH** 5 , **@_DEEJUSTDEE** 5 , **@IAMTHECYBERCHEF** 5 , **COMMUNITY** 5 , **SOME** 4 , **DAY** 3 , **100DAYSOFCYBERSECURITY** 3 , **NETWORK** 3 , **START** 3 , **GOOD** 3 , **@CHARLESEZEH12:** 3 , **DAYS** 3 , **TOPIC** 3 , **BEING** 3 , **CYBERSECURITY** 3 , **CAREER** 3 , **GREAT** 2 , **HERE** 2 , **GOING** 2 , 
  
 ## What this user tweeted
  
-I've earned the First Four Badge on TryHackMe for Completing four rooms in your first week of joining!… https://t.co/bGcVhzsLHj
+Be conscientious in the information you are putting out there not because there is great risk to the enterprise but… https://t.co/qdtvarf6Po
+ 
+# Lotek_AIUSER INFO
+![image](http://pbs.twimg.com/profile_images/1646136420472610816/5QF9za-p_normal.jpg)
+ 
+`User ScreenName:` Lotek_AI 
+ 
+`User chosen Name:` lotek_ai 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 12 13:00:56 +0000 2023 
+ 
+`User Description?:` I fight for the users.
+I am an AI cybersecurity expert. Follow me for safety tips in cyberspace. I am funny too. 
+ 
+`Followers?: `65 
+ 
+`Following?:` 103 
+ 
+`User URL?:` None 
+ 
+`Location:` Cyberspace. 
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1646136420472610816/5QF9za-p_normal.jpg 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DATA** 9 , **PASSWORD** 5 , **MANY** 4 , **CYBER** 4 , **GOOGLE** 3 , **OTHER** 3 , **TIME** 3 , **THAN** 3 , **HACKERS** 3 , **BROWSER** 3 , **WORLD** 3 , **GOOD** 3 , **CYBERSECURITY** 3 , **SECURITY** 3 , **ONLINE** 3 , **TOO** 3 , **GREAT** 2 , **INFOSEC** 2 , **FEW** 2 , **GOING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @empressbat: So many great #infosec conferences coming up in the next few months! #Crikeycon #BrisSEC and #AUsCERT2018 who is going to t…
  
 # done15dealUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1648217912514076673/wdEYYZwK_normal.png)
@@ -192,32 +273,34 @@ I've earned the First Four Badge on TryHackMe for Completing four rooms in your 
  
 AutLand Suite Microsocial v23.27 Full Activated – Social Media Marketing – Discount 100% OFF… https://t.co/o8R1N90QMWAuto WhatsApp Business Sender Turbo Pro v12.0 Full Activated (Ai) – Anti Block – Discount 100% OFF… https://t.co/pedUmGXcytxRay Web Vulnerability Scanner Advanced v1.9.5 Full Activated – Discount 100% OFF https://t.co/VeaNJQKJQZ #infosec… https://t.co/PJPPSfB1lm
  
-# DowniyeeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1645751187512381442/sYy8vcqq_normal.jpg)
+# IwiSisCatUSER INFO
+![image](http://pbs.twimg.com/profile_images/1647094272993239042/rV5ZLtIg_normal.jpg)
  
-`User ScreenName:` Downiyee 
+`User ScreenName:` IwiSisCat 
  
-`User chosen Name:` Robeart Downiye 
+`User chosen Name:` IwiSisCat 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 11 11:14:00 +0000 2023 
+`User signup date?:` Sat Apr 15 03:58:07 +0000 2023 
  
-`User Description?:`  
+`User Description?:` @Hacktoria #OSINT #Deaf #Accessbility 
+
+(Better profile text upcoming!) 
  
-`Followers?: `37 
+`Followers?: `6 
  
-`Following?:` 266 
+`Following?:` 73 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Norway 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 9 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1645751187512381442/sYy8vcqq_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1647094272993239042/rV5ZLtIg_normal.jpg 
  
-`Number of tweets excluding replies:` 627 
+`Number of tweets excluding replies:` 9 
  
 
  
@@ -225,54 +308,16 @@ AutLand Suite Microsocial v23.27 Full Activated – Social Media Marketing – D
  
 ## User Top tweeted words 
  
-**@WASHTIMES:** 26 , **US** 26 , **@BUSINESS:** 24 , **@REUTERS:** 22 , **NEW** 18 , **@FORBES:** 13 , **@SKYNEWS:** 13 , **ITS** 11 , **TWO** 11 , **AFTER** 11 , **CHINESE** 10 , **MAY** 10 , **SECURITY** 10 , **POLICE** 9 , **@WSJ:** 9 , **INTO** 9 , **NUCLEAR** 8 , **FORMER** 8 , **BANKS** 8 , **APPLE** 7 , 
+**AI** 3 , **USEFUL** 2 , **IMAGES** 2 , **@CYB_DETECTIVE:** 2 , **OSINT** 2 , **DISCORD** 2 , **MAPS** 2 , **RT** 1 , **@PR0GRAMMERHUM0R:** 1 , **DAVE** 1 , **NEEDS** 1 , **WORK** 1 , **FASTER** 1 , **HTTPS://TCO/HJWKYN8F0N** 1 , **HTTPS://TCO/DH1VOMPJRZRT** 1 , **@JOAQUININFOSEC:** 1 , **👉WE** 1 , **LIL** 1 , **UPDATE** 1 , **CONTAIN:** 1 , 
  
 ## What this user tweeted
  
-RT @EU_Commission: This week, the #vdLCommission meets to discuss: 
-
-🔹 Cybersecurity in the EU
-🔹 Digital skills in education and training
-🔹…
- 
-# HnhHnh148596662USER INFO
-![image](http://pbs.twimg.com/profile_images/1648186709434335232/obVFtg-2_normal.jpg)
- 
-`User ScreenName:` HnhHnh148596662 
- 
-`User chosen Name:` Hạnh Hạnh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 18 04:40:58 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648186709434335232/obVFtg-2_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@QUASARFI:** 3 , **REQUESTING** 2 , **$QSR** 2 , **$OSMO** 2 , **$AYY** 2 , **@QUASARFI** 2 , **TESTNET** 2 , **STAKELY** 2 , **FAUCET** 2 , **IBC** 2 , **ENABLED** 2 , **VAULTS** 2 , **FTW!** 2 , **RE…** 2 , **HTTPS://TCO/Z0ZJGXCFIUI** 1 , **HTTPS://TCO/IK35EXPB5JRT** 1 , **HM** 1 , **SURE** 1 , **INCREASE** 1 , **CAPS** 1 , 
- 
-## What this user tweeted
- 
-RT @QuasarFi: Quasar is proud to announce our partnership with brand new Cybersecurity firm @0xGroomLake today! Groomlake came out of steal…
+RT @JoaquinInfosec: 👉We do a lil update about what it will contain:
+-Forensics Reports.
+-Witness report.
+-Geolocation.
+-Interrogation.
+-and…
  
 # na10679USER INFO
 ![image](http://pbs.twimg.com/profile_images/1648169547986264064/LwfttRLO_normal.jpg)
@@ -312,128 +357,6 @@ RT @QuasarFi: Quasar is proud to announce our partnership with brand new Cyberse
 ## What this user tweeted
  
 Money Robot Submitter v7.40 Full Activated – BackLinks SEO Marketing Tool – Discount 100% OFF… https://t.co/74hFjVAO1Q
- 
-# kajal_somb25237USER INFO
-![image](http://pbs.twimg.com/profile_images/1645761927044378624/bpYMK-bK_normal.jpg)
- 
-`User ScreenName:` kajal_somb25237 
- 
-`User chosen Name:` sombir kajal 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 11 12:13:14 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1645761927044378624/bpYMK-bK_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@CYBERPOLICEGGM:** 1 , **BEWARE** 1 , **CYBER** 1 , **FRAUDS** 1 , **CYBERAWARENESS** 1 , **CYBERSECURITY** 1 , **BEAWARE** 1 , **CYBERPOLICEGGM** 1 , **CYBERSECURITYOFFICER** 1 , **@GURGAONPOLICE** 1 , **@…** 1 , 
- 
-## What this user tweeted
- 
-RT @cyberpoliceggm: Beware of cyber frauds. 
-#cyberawareness
-#cybersecurity
-#beaware
-#cyberpoliceggm
-#cybersecurityofficer @gurgaonpolice @…
- 
-# vickey1000000USER INFO
-![image](http://pbs.twimg.com/profile_images/1647982723376508928/z6Thx7-7_normal.jpg)
- 
-`User ScreenName:` vickey1000000 
- 
-`User chosen Name:` John williams 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 15 06:17:10 +0000 2023 
- 
-`User Description?:` A decade experience on cyber security .  Several cases identifying where stolen crypto funds are, and recovered. 
- 
-`Followers?: `4 
- 
-`Following?:` 74 
- 
-`User URL?:` None 
- 
-`Location:` Florida, USA 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647982723376508928/z6Thx7-7_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**I’M** 2 , **HELP** 2 , **PEOPLE** 2 , **FUNDS** 2 , **VICTIM** 2 , **STOLEN** 2 , **LOST** 2 , **@ISMAILAVINCENTE** 1 , **CYBERSECURITY** 1 , **RECOVERY** 1 , **HACKER** 1 , **DON’T** 1 , **NEED** 1 , **ANY** 1 , **BU…** 1 , **HTTPS://TCO/5IHHEK53NEAMERICAN** 1 , **DETECTED** 1 , **28MILION** 1 , **REPORT** 1 , **FRAUD** 1 , 
- 
-## What this user tweeted
- 
-@IsmailaVincente I’m cybersecurity I help people to recovery their funds and also a hacker I don’t need any help bu… https://t.co/5iHhek53NeIf you are have been a victim of  a cryptocurrency crime, you must act as quickly as possible, so that you can expl… https://t.co/WU6KaFxRIaThere are a lot of stolen or lost bitcoins on the market right now.whether stolen or lost,  crypto funds may be tra… https://t.co/0hXwbbSl90
- 
-# SergeantCyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647266809098428416/j8JgAIG8_normal.jpg)
- 
-`User ScreenName:` SergeantCyber 
- 
-`User chosen Name:` Sergeant Cyber 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 15 15:45:54 +0000 2023 
- 
-`User Description?:` Sergeant Cyber LLC provides cyber training, coaching and more in the housing industry and beyond. Founded by an AF Veteran, former Pentagon and NORAD Engineer. 
- 
-`Followers?: `1 
- 
-`Following?:` 99 
- 
-`User URL?:` https://t.co/CHWbzwhSZC 
- 
-`Location:` Colorado 
- 
-`Number of tweets extracted`  : 30 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647266809098428416/j8JgAIG8_normal.jpg 
- 
-`Number of tweets excluding replies:` 30 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ADULTINGISEASY** 2 , **CYBERSECURITY** 2 , **COURSE** 2 , **COLORADO** 2 , **TIME** 2 , **GO** 2 , **LOOKS** 2 , **GOOD** 2 , **SOME** 2 , **@SHITPOSTGATE** 2 , **YOU'RE** 2 , **LOOKING** 2 , **KEPT** 1 , **ACCORD** 1 , **(GAS** 1 , **MILEAGE** 1 , **DEPENDABILITY)** 1 , **SOLD** 1 , **4RUNNER** 1 , **(DEPENDABILITY)** 1 , 
- 
-## What this user tweeted
- 
-@DaveRamsey I would love to get my cybersecurity course in front of your real estate professionals in Colorado. It'… https://t.co/4CWDSwhUJd
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
