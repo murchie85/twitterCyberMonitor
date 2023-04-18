@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **mtaibbi**  
+The most popular user is: **Esqueer_**  
  
 
-## 43.VP would later say it partnered with “several government agencies,” including the Office of the Surgeon General… https://t.co/SSJa9D30H3 
+## The man who destroyed cases of Bud and Busch light at a Topeka Walmart was also arrested for exposing his penis to… https://t.co/RGK98ZoOpc 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **mtaibbi**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @4n6lady: 🎉GIVEAWAY🎉I am giving away 10 e-book copies of Cybersecurity Blue Team Strategies! 🤩Enter by following, commenting, and RT… |
-| Grant Thornton is looking for GTIL Sr Associate, Global Cybersecurity OperationsMultiple locations, US( Cloud  Az… https://t.co/jMzLmsNiGu |
-| RT @GlenGilmore: ⏰ STARTING 🔜 #Cybersecurity 🔒 Networking 📶 &amp; IoT #Healthcare Solutions@ATTBusiness📆 4/18📍 Hall A, S Bld, Booth 9311… |
+| How to write an effective ransomware playbook #infosec #infosecurity #cybersecurity #threatintel… https://t.co/dEZdIa3a0u |
+| Allurity acquired Portugal's CloudComputing and Switzerland's Securix to strengthen its grip on European cybersecur… https://t.co/TLg2doZypR |
+| Israeli surveillance firm QuaDream is shutting down amidst spyware #infosec #infosecurity #cybersecurity… https://t.co/yOhiEGeHzH |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **4n6lady** |
-| #2 Most tweeted to  | **hackinarticles** |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **hack_git** |
 | #3 Most tweeted to  | **SecurityTrybe** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 5.42%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 4.62%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,68 +51,29 @@ The most popular user is: **mtaibbi**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **DATA**  |
-| third  | **TEAM** |
-| fourth  | **US**  |
-| fifth  | **10**  |
+| second  | **INFOSECURITY**  |
+| third  | **PHISHING** |
+| fourth  | **@HACKINARTICLES:**  |
+| fifth  | **PENTESTING**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PalCyberNews: 🇵🇸 169044 license plates of the #Zionist police vehicle were leaked by #hackers called "#VulzSecTeam"Download .csv:htt… |
+|@Gamliel_InfoSec @HackSpaceCon Thank you. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mtaibbi**  |
+| The most retweeted user is: **Esqueer_**  |
 | ------------- |
-| 43.VP would later say it partnered with “several government agencies,” including the Office of the Surgeon General… https://t.co/SSJa9D30H3 |
+| The man who destroyed cases of Bud and Busch light at a Topeka Walmart was also arrested for exposing his penis to… https://t.co/RGK98ZoOpc |
 
 # Potential Fake Accounts
- 
-# creeptoolUSER INFO
-![image](http://pbs.twimg.com/profile_images/1648355925290516485/6KD5idfS_normal.jpg)
- 
-`User ScreenName:` creeptool 
- 
-`User chosen Name:` 🤖 TheCreeptool 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 11 22:34:51 +0000 2023 
- 
-`User Description?:` Your go-to bot for all things tech, blockchain, and AI. Let's explore the future together! 
- 
-`Followers?: `64 
- 
-`Following?:` 426 
- 
-`User URL?:` None 
- 
-`Location:` TheMetaverse 
- 
-`Number of tweets extracted`  : 21 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648355925290516485/6KD5idfS_normal.jpg 
- 
-`Number of tweets excluding replies:` 21 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ITS** 4 , **REVOLUTIONIZING** 4 , **SCALABILITY** 3 , **NEWS** 3 , **ENABLE** 2 , **PODCASTS** 2 , **NEW** 2 , **COULD** 2 , **SECURITY** 2 , **WAY** 2 , **NETWORK** 2 , **POWER** 1 , **DISTRIBUTEDSYSTEMS** 1 , **LIES** 1 , **CONSENSUS** 1 , **US** 1 , **SOLVE** 1 , **COMPLEX** 1 , **PROBLEMS…** 1 , **HTTPS://TCO/DRWKFPAVB9STARTUP** 1 , 
- 
-## What this user tweeted
- 
-Startup life in SF has its perks: moderate weather, great food, and the world’s largest concentration of venture ca… https://t.co/qtUCFFOTrL
  
 # drw0011USER INFO
 ![image](http://pbs.twimg.com/profile_images/1647932072013492224/KxKURV9Y_normal.png)
@@ -152,84 +113,6 @@ Startup life in SF has its perks: moderate weather, great food, and the world’
 ## What this user tweeted
  
 Telegram Sender Pro v8.7.4.0 Full Activated – Telegram Marketing – Discount 100% OFF https://t.co/rhnIcDbip2… https://t.co/wb1FWQ1jtL
- 
-# KodyLynwoodUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647130608311881728/Usxusjno_normal.jpg)
- 
-`User ScreenName:` KodyLynwood 
- 
-`User chosen Name:` Lynwood Kody 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 15 06:49:54 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `28 
- 
-`Following?:` 47 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647130608311881728/Usxusjno_normal.jpg 
- 
-`Number of tweets excluding replies:` 22 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ACCESSIBILITY** 4 , **AI** 4 , **TECHNOLOGY** 4 , **POSTED** 4 , **REDDIT** 4 , **USE** 3 , **INDUSTRY** 3 , **AVAILABLE** 3 , **SECURITY** 3 , **MOST** 3 , **VISUAL** 2 , **OVERALL** 2 , **GAME** 2 , **WORTH** 2 , **GENERATIVE** 2 , **CYBERSECURITY** 2 , **POTENTIAL** 2 , **AID** 2 , **ANTICIPATION** 2 , **QUANTUM** 2 , 
- 
-## What this user tweeted
- 
-@ChrisMorga50424 the use of Generative AI in the cybersecurity industry has the potential to aid in the identificat… https://t.co/oqjWt33etk
- 
-# voluntee01USER INFO
-![image](http://pbs.twimg.com/profile_images/1647391351170818048/JK59EE8l_normal.jpg)
- 
-`User ScreenName:` voluntee01 
- 
-`User chosen Name:` Diane Lee 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 16 00:07:59 +0000 2023 
- 
-`User Description?:` MAGA 🇺🇸MY second account, my first was stolen, I married a fighter pilot, I have 3 sons, 2 were pilots.❤️Trump, let’s bring our country back! 🇺🇸 🚫DM❤️Rock 
- 
-`Followers?: `180 
- 
-`Following?:` 429 
- 
-`User URL?:` None 
- 
-`Location:` Oklahoma, USA 
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647391351170818048/JK59EE8l_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ACCOUNT** 6 , **OLD** 4 , **FOLLOWERS** 3 , **HACKER** 3 , **OTHER** 2 , **I’M** 2 , **NEW** 2 , **BACK** 2 , **FOLLOWED** 2 , **PLEASE** 2 , **DIDN’T** 2 , **PICTURE** 2 , **POST** 2 , **BTW** 1 , **HACKERS** 1 , **DOES** 1 , **CYBERSECURITY** 1 , **FBI** 1 , **MATTER** 1 , **TIME** 1 , 
- 
-## What this user tweeted
- 
-Btw I know who my hackers are and so does cybersecurity and the FBI, it’s just a matter of time before they are cau… https://t.co/KCWYKSjnVS
  
 # Architect392043USER INFO
 ![image](http://pbs.twimg.com/profile_images/1647045944293355520/GiSmu0ka_normal.png)
@@ -271,71 +154,32 @@ Do you want to do architectural rendering interior and exterior design. inbox me
  
 Play Traffic Agency v1.1.12 Full Activated – Discount 100% OFF https://t.co/e6V8OFLCAt #infosec #bugcrowd… https://t.co/AXITVAbvTY
  
-# SECConnoisseurUSER INFO
-![image](http://pbs.twimg.com/profile_images/1648390555619958789/rx4eurF0_normal.jpg)
+# Cybafriq_USER INFO
+![image](http://pbs.twimg.com/profile_images/1646234456502435876/W17EmW7i_normal.jpg)
  
-`User ScreenName:` SECConnoisseur 
+`User ScreenName:` Cybafriq_ 
  
-`User chosen Name:` The Crypto Connoisseur 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 18 18:06:03 +0000 2023 
- 
-`User Description?:` Passionate crypto enthusiast and blogger exploring the intersection of finance and technology. Providing insight, analysis, and perspective on all things crypto 
- 
-`Followers?: `2 
- 
-`Following?:` 146 
- 
-`User URL?:` https://t.co/VSsfbFHmho 
- 
-`Location:` USA 
- 
-`Number of tweets extracted`  : 50 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648390555619958789/rx4eurF0_normal.jpg 
- 
-`Number of tweets excluding replies:` 50 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CRYPTO** 24 , **POTENTIAL** 8 , **BITCOIN** 8 , **TOKENS** 6 , **MINING** 5 , **FUTURE** 5 , **REGULATORY** 5 , **COULD** 4 , **NEW** 4 , **CREDITORS** 4 , **REBOOT** 4 , **BLOCKSCALE** 4 , **MARKET** 4 , **CHALLENGES** 4 , **ITS** 4 , **INDUSTRY** 4 , **EXCHANGE** 3 , **TRIBE** 3 , **PROPOSAL** 3 , **MILLION** 3 , 
- 
-## What this user tweeted
- 
-The rise of #crypto has opened up new investment opportunities, but it's also brought new risks. Stay informed on t… https://t.co/tKK5PlBkZ5
- 
-# AfrocybersmartUSER INFO
-![image](http://pbs.twimg.com/profile_images/1645134199681171462/zj0rKD9t_normal.jpg)
- 
-`User ScreenName:` Afrocybersmart 
- 
-`User chosen Name:` African Cybersmart Network 
+`User chosen Name:` Cybafriq 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Apr 09 18:25:39 +0000 2023 
+`User signup date?:` Tue Apr 11 20:49:10 +0000 2023 
  
-`User Description?:` The African Cybersmart Network seeks to advance cybersecurity awareness in Africa through collaboration between organisations promoting online safety. 
+`User Description?:` We mentor cyber-beginners/enthusiast through the right roadmaps in achieveing career excellence in Cybersecurity. Mail us: cybafriq@gmail.com 
  
-`Followers?: `23 
+`Followers?: `156 
  
-`Following?:` 40 
+`Following?:` 4 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` 127.0.0.1 
  
-`Number of tweets extracted`  : 21 
+`Number of tweets extracted`  : 25 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1645134199681171462/zj0rKD9t_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1646234456502435876/W17EmW7i_normal.jpg 
  
-`Number of tweets excluding replies:` 21 
+`Number of tweets excluding replies:` 25 
  
 
  
@@ -343,77 +187,78 @@ The rise of #crypto has opened up new investment opportunities, but it's also br
  
 ## User Top tweeted words 
  
-**NETWORK** 14 , **CYBERSMART** 12 , **AFRICAN** 8 , **@DAVIDMOEPENG** 6 , **LAUNCH** 5 , **AFRICA** 5 , **@AFROCYBERSMART** 5 , **AFRICABECYBERSMART** 5 , **DRIF23** 4 , **@DAVIDMOEPENG:** 4 , **DIGITAL** 4 , **CYBERSECURITY** 4 , **@CYBERSMARTBW:** 4 , **COORDINATOR** 3 , **KENYA** 3 , **NAIROBI** 3 , **RIGHTS** 3 , **AWARENESS** 3 , **@JACKIELIDUBWI:** 3 , **LEAD** 2 , 
+**@CYBAFRIQ_** 8 , **@_DEEJUSTDEE** 6 , **@IAMTHECYBERCHEF** 6 , **TECH** 5 , **COMMUNITY** 5 , **@CHARLESEZEH12:** 4 , **DAYS** 4 , **100DAYSOFCYBERSECURITY** 4 , **TOPIC** 4 , **SOME** 4 , **DAY** 3 , **NETWORK** 3 , **START** 3 , **GOOD** 3 , **BEING** 3 , **CYBERSECURITY** 3 , **CAREER** 3 , **BASICS** 2 , **GREAT** 2 , **HERE** 2 , 
  
 ## What this user tweeted
  
-RT @nompilo_simanje: #DRIF23 also came with the launch of the Africa cyber smart network @Afrocybersmart coalition of orgs across Africa th…
+Be conscientious in the information you are putting out there not because there is great risk to the enterprise but… https://t.co/qdtvarf6Po
  
-# MrDevil26285497USER INFO
-![image](http://pbs.twimg.com/profile_images/1645488266097967104/X9rMu5O__normal.jpg)
+# Lotek_AIUSER INFO
+![image](http://pbs.twimg.com/profile_images/1646136420472610816/5QF9za-p_normal.jpg)
  
-`User ScreenName:` MrDevil26285497 
+`User ScreenName:` Lotek_AI 
  
-`User chosen Name:` Mr Devill 
+`User chosen Name:` lotek_ai 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 10 18:05:48 +0000 2023 
+`User signup date?:` Wed Apr 12 13:00:56 +0000 2023 
+ 
+`User Description?:` I fight for the users.
+I am an AI cybersecurity expert. Follow me for safety tips in cyberspace. I am funny too. 
+ 
+`Followers?: `65 
+ 
+`Following?:` 103 
+ 
+`User URL?:` None 
+ 
+`Location:` Cyberspace. 
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1646136420472610816/5QF9za-p_normal.jpg 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DATA** 9 , **PASSWORD** 5 , **MANY** 4 , **CYBER** 4 , **GOOGLE** 3 , **OTHER** 3 , **TIME** 3 , **THAN** 3 , **HACKERS** 3 , **BROWSER** 3 , **WORLD** 3 , **GOOD** 3 , **CYBERSECURITY** 3 , **SECURITY** 3 , **ONLINE** 3 , **TOO** 3 , **GREAT** 2 , **INFOSEC** 2 , **FEW** 2 , **GOING** 2 , 
+ 
+## What this user tweeted
+ 
+RT @empressbat: So many great #infosec conferences coming up in the next few months! #Crikeycon #BrisSEC and #AUsCERT2018 who is going to t…
+ 
+# done15dealUSER INFO
+![image](http://pbs.twimg.com/profile_images/1648217912514076673/wdEYYZwK_normal.png)
+ 
+`User ScreenName:` done15deal 
+ 
+`User chosen Name:` olajide olaseni 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 18 06:52:27 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 5 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 10 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1645488266097967104/X9rMu5O__normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1648217912514076673/wdEYYZwK_normal.png 
  
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COMPLETED** 7 , **ROOM!** 7 , **CHECK** 7 , **OUT:** 6 , **TRYHACKME…** 6 , **SECURITY** 4 , **INTRO** 2 , **TRYHACKME** 2 , **CYBER** 1 , **THREAT** 1 , **INTEL** 1 , **HTTPS://TCO/0UJ7BKXT67** 1 , **HTTPS://TCO/BB6SK10ESX@HACKTORIA** 1 , **YESINTRO** 1 , **DIGITAL** 1 , **FORENSICS** 1 , **HTTPS://TCO/5GAO9M0X38** 1 , **HTTPS://TCO/MJENAVDNVNPENTESTING** 1 , **FUNDAMENTALS** 1 , **HTTPS://TCO/26GPDA5ONB** 1 , 
- 
-## What this user tweeted
- 
-Pentesting Fundamentals - I have just completed this room! Check it out:  https://t.co/26gpDA5oNB #tryhackme… https://t.co/DjmTENyifV
- 
-# Noman49246NomanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647639503392186368/CvfeHoxX_normal.jpg)
- 
-`User ScreenName:` Noman49246Noman 
- 
-`User chosen Name:` Noman Gujjar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 16 14:42:08 +0000 2023 
- 
-`User Description?:` Hello friends, how are you, how are you, I want to tell you about this, I will share a post about technology, losing weight, taking good care of your health, et 
- 
-`Followers?: `3 
- 
-`Following?:` 70 
- 
-`User URL?:` https://t.co/FGUjsYvn2r 
- 
-`Location:` Pakistan 
- 
-`Number of tweets extracted`  : 63 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647639503392186368/CvfeHoxX_normal.jpg 
- 
-`Number of tweets excluding replies:` 63 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -421,38 +266,84 @@ Pentesting Fundamentals - I have just completed this room! Check it out:  https:
  
 ## User Top tweeted words 
  
-**@NOMAN49246NOMAN:** 31 , **اور** 9 , **SKIN** 8 , **جلد** 8 , **کو** 7 , **،** 6 , **کے** 5 , **1** 4 , **چمکدار** 4 , **میں** 4 , **على** 4 , **کی** 4 , **UV** 4 , **سے** 4 , **ہے** 4 , **جو** 4 , **2023:** 4 , **WEIGHT** 4 , **موہ** 4 , **BLOG** 4 , 
+**–** 5 , **FULL** 3 , **ACTIVATED** 3 , **DISCOUNT** 3 , **100%** 3 , **OFF…** 2 , **AUTLAND** 1 , **SUITE** 1 , **MICROSOCIAL** 1 , **V2327** 1 , **SOCIAL** 1 , **MEDIA** 1 , **MARKETING** 1 , **HTTPS://TCO/O8R1N90QMWAUTO** 1 , **WHATSAPP** 1 , **BUSINESS** 1 , **SENDER** 1 , **TURBO** 1 , **PRO** 1 , **V120** 1 , 
  
 ## What this user tweeted
  
-RT @Noman49246Noman: Advancing rapidly, transforming society. AI, IoT, blockchain, quantum computing, AR/VR, robotics, biotechnology, auton…
+AutLand Suite Microsocial v23.27 Full Activated – Social Media Marketing – Discount 100% OFF… https://t.co/o8R1N90QMWAuto WhatsApp Business Sender Turbo Pro v12.0 Full Activated (Ai) – Anti Block – Discount 100% OFF… https://t.co/pedUmGXcytxRay Web Vulnerability Scanner Advanced v1.9.5 Full Activated – Discount 100% OFF https://t.co/VeaNJQKJQZ #infosec… https://t.co/PJPPSfB1lm
  
-# MiningBearbyISHUSER INFO
-![image](http://pbs.twimg.com/profile_images/1645216178124587012/l4ysEl0g_normal.jpg)
+# IwiSisCatUSER INFO
+![image](http://pbs.twimg.com/profile_images/1647094272993239042/rV5ZLtIg_normal.jpg)
  
-`User ScreenName:` MiningBearbyISH 
+`User ScreenName:` IwiSisCat 
  
-`User chosen Name:` MiningBear by ISH 
+`User chosen Name:` IwiSisCat 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Apr 09 22:24:10 +0000 2023 
+`User signup date?:` Sat Apr 15 03:58:07 +0000 2023 
  
-`User Description?:` Merging #sustainable mining & 100% #renewableenergy for a greener #crypto future 🌍🌞💚 Revolutionizing the digital currency landscape🚀✨#Blockchain #GreenTech 
+`User Description?:` @Hacktoria #OSINT #Deaf #Accessbility 
+
+(Better profile text upcoming!) 
  
-`Followers?: `655 
+`Followers?: `6 
  
-`Following?:` 42 
+`Following?:` 73 
+ 
+`User URL?:` None 
+ 
+`Location:` Norway 
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1647094272993239042/rV5ZLtIg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 3 , **USEFUL** 2 , **IMAGES** 2 , **@CYB_DETECTIVE:** 2 , **OSINT** 2 , **DISCORD** 2 , **MAPS** 2 , **RT** 1 , **@PR0GRAMMERHUM0R:** 1 , **DAVE** 1 , **NEEDS** 1 , **WORK** 1 , **FASTER** 1 , **HTTPS://TCO/HJWKYN8F0N** 1 , **HTTPS://TCO/DH1VOMPJRZRT** 1 , **@JOAQUININFOSEC:** 1 , **👉WE** 1 , **LIL** 1 , **UPDATE** 1 , **CONTAIN:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @JoaquinInfosec: 👉We do a lil update about what it will contain:
+-Forensics Reports.
+-Witness report.
+-Geolocation.
+-Interrogation.
+-and…
+ 
+# na10679USER INFO
+![image](http://pbs.twimg.com/profile_images/1648169547986264064/LwfttRLO_normal.jpg)
+ 
+`User ScreenName:` na10679 
+ 
+`User chosen Name:` shatnawi naseem 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 18 03:40:16 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 82 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1645216178124587012/l4ysEl0g_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1648169547986264064/LwfttRLO_normal.jpg 
  
-`Number of tweets excluding replies:` 82 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -460,11 +351,11 @@ RT @Noman49246Noman: Advancing rapidly, transforming society. AI, IoT, blockchai
  
 ## User Top tweeted words 
  
-**MINING** 34 , **CRYPTO** 24 , **ENERGY** 19 , **SUSTAINABLE** 18 , **CRYPTOCURRENCY** 13 , **RENEWABLE** 12 , **USING** 10 , **BITCOIN** 9 , **SOME** 8 , **THAN** 8 , **GREEN** 7 , **MAKE** 7 , **BLOCKCHAIN** 7 , **NEW** 6 , **TOKENS** 6 , **PROJECTS** 6 , **CRYPTOCURRENCIES** 6 , **IMPORTANT** 6 , **TECHNOLOGY** 6 , **USED** 5 , 
+**–** 2 , **MONEY** 1 , **ROBOT** 1 , **SUBMITTER** 1 , **V740** 1 , **FULL** 1 , **ACTIVATED** 1 , **BACKLINKS** 1 , **SEO** 1 , **MARKETING** 1 , **TOOL** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/74HFJVAO1Q** 1 , 
  
 ## What this user tweeted
  
-Fact: Cryptocurrency mining can also have significant security risks, with some miners falling victim to hacking an… https://t.co/z6k2xBt9xR
+Money Robot Submitter v7.40 Full Activated – BackLinks SEO Marketing Tool – Discount 100% OFF… https://t.co/74hFjVAO1Q
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
