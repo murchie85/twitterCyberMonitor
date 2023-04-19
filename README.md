@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/ukraine/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **RepMTG**  
  
 
-## Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of… https://t.co/QX5nMfPBHU 
+## The Biden crime family participated in human trafficking by soliciting prostitutes from the United States and abroa… https://t.co/sPju9DZN8I 
 
   
 
@@ -25,25 +23,25 @@ Learn the vulnerabilities of… https://t.co/QX5nMfPBHU
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/ukraine/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KanekoaTheGreat: #8 Professor J. Alex Halderman of the University of Michigan's Computer Science Department provided testimony on the v… |
-| RT @KanekoaTheGreat: #11 Senator Elizabeth Warren published an article on her website on the vulnerabilities of the United States' election… |
-| RT @KanekoaTheGreat: #11 Senator Elizabeth Warren published an article on her website on the vulnerabilities of the United States' election… |
+| @NObamaski @nytimes I would expect nothing less from a barbaric Nazi offshoot. But no thanks. Ukraine and Russia me… https://t.co/YUOfw28VmX |
+| RT @pictureladyjan: Please help share Yaroslava's messages. People in Ukraine are still dying in Russian missile strikes. This is NOT norma… |
+| RT @MargoGontar: 🔥 10 out of 11 Iranian “Shahed” drones were shot down by Ukraine Air Commandment “East”, Ukraine Air Forces reported |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KanekoaTheGreat** |
-| #2 Most tweeted to  | **QuaiNetwork** |
-| #3 Most tweeted to  | **mechanikalk** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 3.22%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **Spriter99880** |
+| #2 Most tweeted to  | **RobertKennedyJr** |
+| #3 Most tweeted to  | **Gerashchenko_en** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 4.6%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -52,41 +50,119 @@ Learn the vulnerabilities of… https://t.co/QX5nMfPBHU
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@KANEKOATHEGREAT:**  |
-| second  | **VULNERABILITIES**  |
-| third  | **TESTIMONY** |
-| fourth  | **PROVIDED**  |
-| fifth  | **COMPUTER**  |
+| first  | **UKRAINE**  |
+| second  | **WAR**  |
+| third  | **RUSSIAN** |
+| fourth  | **US**  |
+| fifth  | **RUSSIA**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (60.0%)
+![image](assets/ukraine/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @KanekoaTheGreat: #8 Professor J. Alex Halderman of the University of Michigan's Computer Science Department provided testimony on the v… |
+|Yes, Crimes IS Ukraine. That's a great name for it https://t.co/6ZyTEnk71w |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **RepMTG**  |
 | ------------- |
-| Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?Learn the vulnerabilities of… https://t.co/QX5nMfPBHU |
+| The Biden crime family participated in human trafficking by soliciting prostitutes from the United States and abroa… https://t.co/sPju9DZN8I |
 
 # Potential Fake Accounts
  
-# Celerydoor56USER INFO
-![image](http://pbs.twimg.com/profile_images/1648800711088455683/oerNjUQV_normal.png)
+# MadhuRa42211608USER INFO
+![image](http://pbs.twimg.com/profile_images/1646094182644064256/tyXb6Jjv_normal.png)
  
-`User ScreenName:` Celerydoor56 
+`User ScreenName:` MadhuRa42211608 
  
-`User chosen Name:` C Ros 
+`User chosen Name:` Madhu Rajesh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 19 21:28:16 +0000 2023 
+`User signup date?:` Wed Apr 12 10:13:30 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `11 
+ 
+`Following?:` 93 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1646094182644064256/tyXb6Jjv_normal.png 
+ 
+`Number of tweets excluding replies:` 543 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**के** 130 , **में** 102 , **की** 91 , **है** 62 , **ने** 59 , **से** 55 , **को** 52 , **और** 47 , **पर** 44 , **का** 42 , **तो** 39 , **नहीं** 30 , **अतीक** 25 , **कर** 25 , **एक** 25 , **कि** 24 , **ही** 21 , **भी** 21 , **जी** 19 , **पुलिस** 17 , 
+ 
+## What this user tweeted
+ 
+RT @DeepaParent: Indian students stuck in Ukraine reached out to authorities in Romania- Poland to help them cross the border. I know this…
+ 
+# BrunoSo23658163USER INFO
+![image](http://pbs.twimg.com/profile_images/1648714262028640261/I8lrY5q9_normal.jpg)
+ 
+`User ScreenName:` BrunoSo23658163 
+ 
+`User chosen Name:` Bruno Souza 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 18 23:54:41 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 49 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1648714262028640261/I8lrY5q9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NATO** 6 , **WAR** 5 , **RUSSIA** 5 , **EVERYONE** 4 , **UKRAINE** 3 , **TAKES** 3 , **MONTHS** 3 , **POSITION** 3 , **TROOPS** 3 , **EQUIPMENT** 3 , **BORDER** 3 , **POPULAR** 3 , **EXPRESSION** 3 , **WIDELY** 3 , **USED** 3 , **COUNTRY** 3 , **EDUCATE** 3 , **ITS** 3 , **CHILDREN** 3 , **WAY** 3 , 
+ 
+## What this user tweeted
+ 
+NATO cannot decide the fate of humanity, as NATO is likely to infiltrate soldiers into Ukraine's army as false volu… https://t.co/SV28sVSGvj@ZelenskyyUa NATO cannot decide the fate of humanity, as NATO is likely to infiltrate soldiers into Ukraine's army… https://t.co/UUXCeRILKf
+ 
+# IncelTransphobeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1648709790107926531/TfZDbHBt_normal.png)
+ 
+`User ScreenName:` IncelTransphobe 
+ 
+`User chosen Name:` strike diamons 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 19 15:26:59 +0000 2023 
  
 `User Description?:`  
  
@@ -98,11 +174,11 @@ VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJE
  
 `Location:`  
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1648800711088455683/oerNjUQV_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1648709790107926531/TfZDbHBt_normal.png 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 5 
  
 
  
@@ -110,36 +186,169 @@ VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJE
  
 ## User Top tweeted words 
  
-**MAFSAUS** 4 , **BRONTE** 3 , **MAFSAU** 2 , **‘I** 2 , **CHILD** 2 , **FUCKING** 2 , **ASS** 2 , **HARRISON** 2 , **SUCH** 2 , **RT** 1 , **@EMMAMALENE:** 1 , **I’M** 1 , **SORRY** 1 , **FIVE** 1 , **MINUTES** 1 , **THERES** 1 , **ADVERTS** 1 , **ALREADY!?** 1 , **HTTPS://TCO/A2GH97ALUKRT** 1 , **@MAFSHYSTERIA:** 1 , 
+**4** 3 , **CHARGED** 3 , **GOING** 2 , **SPREADING** 2 , **US** 2 , **CITIZENS** 2 , **RUSSIAN** 2 , **@THEGREATFAGEN** 1 , **@DEITAONE** 1 , **TRUE** 1 , **EVEN** 1 , **WORSE** 1 , **LOCK** 1 , **CIVILIANS** 1 , **PRO** 1 , **RUSSI…** 1 , **HTTPS://TCO/QPM5CFAWLDRT** 1 , **@JAMESFLOVEIV:** 1 , **INTELLIGENCE** 1 , **OFFICERS** 1 , 
  
 ## What this user tweeted
  
-Bronte, you and Harrison have EXPLOITED so many couples' vulnerabilities just to deflect from your fake ass relatio… https://t.co/1PhP3Bok0Y
+@TheGreatFagen @DeItaone If it is true, it is even worse. They going to lock up 4 Civilians for spreading pro russi… https://t.co/qpm5cFawLD
  
-# amelia599164079USER INFO
-![image](http://pbs.twimg.com/profile_images/1645467125849419776/j9KZKNxd_normal.jpg)
+# Ishmael_MolamoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1647246009234341890/XpBjuXAd_normal.jpg)
  
-`User ScreenName:` amelia599164079 
+`User ScreenName:` Ishmael_Molamo 
  
-`User chosen Name:` amelia 
+`User chosen Name:` I S H M A E L 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 10 16:41:07 +0000 2023 
+`User signup date?:` Sat Apr 15 14:28:40 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Privacy Is Power. 
  
 `Followers?: `3 
  
-`Following?:` 46 
+`Following?:` 7 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Pretoria,Mamelodi,South Africa 
  
-`Number of tweets extracted`  : 70 
+`Number of tweets extracted`  : 21 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1645467125849419776/j9KZKNxd_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1647246009234341890/XpBjuXAd_normal.jpg 
+ 
+`Number of tweets excluding replies:` 22 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DAY** 4 , **ETF** 3 , **ANOTHER** 2 , **NORMAL** 2 , **COUNTRY** 2 , **29%** 2 , **BUY** 2 , **THESE** 2 , **ETFS** 2 , **RT** 1 , **@SHAUNMURISON_IG:** 1 , **JSE** 1 , **COMPANIES'** 1 , **EX-DIVIDEND** 1 , **HTTPS://TCO/KYX0QTVYNERT** 1 , **@SENTLETSE:** 1 , **ZELENSKY’S** 1 , **TERRORISTS** 1 , **FIRING** 1 , **MORTARS** 1 , 
+ 
+## What this user tweeted
+ 
+@RT_com's account has been withheld in Belgium, Austria, Bulgaria, Sweden, Croatia, Spain, Slovenia, Cyprus, Slovakia, Czech Republic, Romania, Portugal, Poland, Denmark, Netherlands, Estonia, Malta, Luxembourg, Finland, France, Lithuania, Germany, Greece, Latvia, Hungary, Italy, Ireland, United Kingdom in response to a legal demand. Learn more.
+ 
+# FenresulvenUSER INFO
+![image](http://pbs.twimg.com/profile_images/1648257287516037127/U0SBNGwL_normal.jpg)
+ 
+`User ScreenName:` Fenresulven 
+ 
+`User chosen Name:` 🇧🇻Fenrisulven🇧🇻 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 17 20:37:51 +0000 2023 
+ 
+`User Description?:` 4 generation Fella Chad. Bonked Vatniks before it was cool, 9 years of fighting drunk Kremlsjit. Not a people person FAFO!. Remove followers! 
+ 
+`Followers?: `0 
+ 
+`Following?:` 256 
+ 
+`User URL?:` None 
+ 
+`Location:` Galdhøpiggen 
+ 
+`Number of tweets extracted`  : 100 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1648257287516037127/U0SBNGwL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 100 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NORWAY** 10 , **RUSSIAN** 7 , **UKRAINE** 6 , **SOUTH** 6 , **AFRICA** 6 , **@DIRCO_ZA** 6 , **@NORAMBSA** 5 , **@AHUITFELDT** 5 , **SOME** 4 , **TWITTER** 4 , **MONEY** 4 , **SPREADING** 4 , **NORWEGIAN** 4 , **THEN** 4 , **FELLA** 3 , **TRUE** 3 , **PROBABLY** 3 , **PHONE** 3 , **INFO** 3 , **@UBUNTURADIOZA** 3 , 
+ 
+## What this user tweeted
+ 
+@KrzysztofJano15 @Animaldaigua I heard that some fellas are at their 4 fella. Twitter bonk dogs hard. They do not like Ukraine supporters.
+ 
+# novo1gratzUSER INFO
+![image](http://pbs.twimg.com/profile_images/1648814303972040707/Yk0Bo8Hi_normal.jpg)
+ 
+`User ScreenName:` novo1gratz 
+ 
+`User chosen Name:` Mike Novogratz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 18 23:12:05 +0000 2023 
+ 
+`User Description?:` CEO, GLXY CN. Early Investor: #Bitcoin, 
+
+@COMPASSPathway
+
+ , 
+
+@SpaceX
+
+  Board: #TheBailProject, 
+
+@REFORM
+
+, 
+
+@HudsonRiverPark
+
+. Disclaimer: http://bit. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 4 
+ 
+`User URL?:` https://t.co/4rtSzqHo77 
+ 
+`Location:` New York, NY 
+ 
+`Number of tweets extracted`  : 56 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1648814303972040707/Yk0Bo8Hi_normal.jpg 
+ 
+`Number of tweets excluding replies:` 56 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@NOVOGRATZ:** 48 , **CRYPTO** 5 , **YEARS** 4 , **TIME** 3 , **TRUE** 3 , **@NOVOGRATZ** 3 , **BANKING** 3 , **$BTC** 3 , **AGREE** 3 , **COIN** 3 , **GO** 3 , **DON’T** 2 , **TALK** 2 , **SPACE** 2 , **NEXT** 2 , **THANKS** 2 , **–** 2 , **BIGGEST** 2 , **WHERE** 2 , **READ** 2 , 
+ 
+## What this user tweeted
+ 
+RT @novogratz: If Xi brokers a peace in Russia/Ukraine war, where does EUR go??
+ 
+# DavidPatri22400USER INFO
+![image](http://pbs.twimg.com/profile_images/1648807826821636098/YvIEC-_y_normal.png)
+ 
+`User ScreenName:` DavidPatri22400 
+ 
+`User chosen Name:` David Patrick 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 19 21:56:33 +0000 2023 
+ 
+`User Description?:` I’m just a humble person 
+ 
+`Followers?: `0 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:` Ohio, USA 
+ 
+`Number of tweets extracted`  : 71 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1648807826821636098/YvIEC-_y_normal.png 
  
 `Number of tweets excluding replies:` 71 
  
@@ -149,381 +358,11 @@ Bronte, you and Harrison have EXPLOITED so many couples' vulnerabilities just to
  
 ## User Top tweeted words 
  
-**FOTOS** 62 , **IML** 61 , **TWITTER** 33 , **DE** 31 , **CABULOSO** 30 , **MARILIA** 30 , **MENDONCA** 30 , **PORTAL** 30 , **ZACARIAS** 30 , **MANO** 30 , **EU** 30 , **TOTALMENTE** 30 , **TRA…** 30 , **کو** 8 , **MOONBIN** 7 , **نے** 5 , **میں** 5 , **ROZI** 5 , **یہ** 4 , **ہے** 4 , 
+**@GREECEMFA:** 41 , **@NIKOSDENDIAS** 29 , **ΥΠΕΞ** 27 , **Ο** 17 , **ΜΕ** 15 , **FM** 14 , **@CNN:** 12 , **ΣΉΜΕΡΑ** 9 , **ΣΥΝΆΝΤΗΣΗ** 9 , **ΚΑΙ** 9 , **ΤΗΣ** 8 , **ΤΗΝ** 7 , **ΣΤΟ** 7 , **ΓΙΑ** 7 , **ΤΟΥ** 6 , **ΣΤΗΝ** 6 , **ΤΟ** 6 , **MEETING** 6 , **ΤΟΝ** 6 , **@ITALYINUS:** 6 , 
  
 ## What this user tweeted
  
-RT @OpenAI: We're launching the OpenAI Bug Bounty Program — earn cash awards for finding &amp; responsibly reporting security vulnerabilities.…
- 
-# ThecryptoisopUSER INFO
-![image](http://pbs.twimg.com/profile_images/1646940184489893903/C49ozY1K_normal.jpg)
- 
-`User ScreenName:` Thecryptoisop 
- 
-`User chosen Name:` The Crypto Is OP 💙🧡.bnb/sol 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 14 18:07:29 +0000 2023 
- 
-`User Description?:` #Bitcoin #Solana #Hodlers, Crypto Enthusiast ,Nft Early Adopter🚀🤑
-Moderator 
- 
-`Followers?: `1 
- 
-`Following?:` 8 
- 
-`User URL?:` None 
- 
-`Location:` Web3 
- 
-`Number of tweets extracted`  : 35 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646940184489893903/C49ozY1K_normal.jpg 
- 
-`Number of tweets excluding replies:` 35 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**QUAI** 28 , **@QUAINETWORK:** 27 , **@QUAINETWORK** 5 , **COMMUNITY** 5 , **POEM** 4 , **NETWORK** 4 , **@MECHANIKALK** 4 , **PROOF-OF-WORK** 3 , **AMA** 3 , **CO-FOUNDERS** 3 , **@ALANORWICK** 3 , **UNIVERSITY** 3 , **MINING** 3 , **"WHAT** 2 , **DOES** 2 , **PROTOCOL** 2 , **LEARN** 2 , **5** 2 , **AGE:** 2 , **CONCEPT** 2 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
- 
-# Michell44730965USER INFO
-![image](http://pbs.twimg.com/profile_images/1648672433602461696/cTIAVYBR_normal.jpg)
- 
-`User ScreenName:` Michell44730965 
- 
-`User chosen Name:` Michelle McManus 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 12:58:33 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648672433602461696/cTIAVYBR_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VULNERABILITY** 2 , **RISK** 2 , **LACEWORK** 1 , **PRIORITIZES** 1 , **CLOUD** 1 , **SECURITY** 1 , **RISKS** 1 , **NEW** 1 , **MANAGEMENT** 1 , **TECHNOLOGY** 1 , **HTTPS://TCO/RY2NYHA4EANEW** 1 , **CUSTOM** 1 , **SCORE** 1 , **CUTS** 1 , **NOISE** 1 , **90** 1 , **PERCENT** 1 , **HTTPS://TCO/QO8EKLEYO1** 1 , 
- 
-## What this user tweeted
- 
-New custom risk score cuts vulnerability noise by up to 90 percent https://t.co/Qo8EKlEYO1
- 
-# CounterproPepeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647680283171491840/0hXdoks9_normal.jpg)
- 
-`User ScreenName:` CounterproPepe 
- 
-`User chosen Name:` CounterproPepe 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 16 17:45:40 +0000 2023 
- 
-`User Description?:` Truth, counterpropaganda, meteorology, and all things Great Awakening. Connecting the hidden dots. #MAGA #WWG1WGA 
- 
-`Followers?: `87 
- 
-`Following?:` 220 
- 
-`User URL?:` None 
- 
-`Location:` Interwebs, EA 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647680283171491840/0hXdoks9_normal.jpg 
- 
-`Number of tweets excluding replies:` 1392 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BIDEN** 17 , **@AWAKENEDOUTLAW:** 10 , **@17SEVENTY6:** 9 , **TRUMP** 8 , **PEOPLE** 7 , **@GATEWAYPUNDIT:** 7 , **US** 7 , **FAMILY** 7 , **WHITE** 6 , **HOUSE** 6 , **DAY** 6 , **NEWS** 6 , **@THERISEOFROD:** 6 , **NEW** 6 , **TELL** 5 , **LEFT** 5 , **DOWN** 5 , **@FREEDOM9369:** 5 , **@KARLIBONNITA:** 5 , **FOX** 5 , 
- 
-## What this user tweeted
- 
-RT @KanekoaTheGreat: #24 PBS: Here’s how hackers might mess with electronic voting on Election Day (Nov. 8, 2016)
-
-“…vulnerabilities in ele…RT @KanekoaTheGreat: #12 In Dec. 2019, Senators Elizabeth Warren, Amy Klobuchar, Ron Wyden, and Mark Pocan sent letters to the three privat…RT @KanekoaTheGreat: #11 Senator Elizabeth Warren published an article on her website on the vulnerabilities of the United States' election…RT @KanekoaTheGreat: #10 Senator Ron Wyden provided testimony on the vulnerabilities of the United States' election system during a congres…RT @KanekoaTheGreat: #9 Professor Andrew Appel of Princeton University's Computer Science Department provided testimony on the vulnerabilit…RT @KanekoaTheGreat: #8 Professor J. Alex Halderman of the University of Michigan's Computer Science Department provided testimony on the v…RT @KanekoaTheGreat: #7 Professor Matt Blaze of Georgetown University's Computer Science Department provided testimony on the vulnerabiliti…
- 
-# lmv1387798USER INFO
-![image](http://pbs.twimg.com/profile_images/1648597702710792192/mmTi-jsY_normal.png)
- 
-`User ScreenName:` lmv1387798 
- 
-`User chosen Name:` lâm võ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 08:01:36 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 24 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 34 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648597702710792192/mmTi-jsY_normal.png 
- 
-`Number of tweets excluding replies:` 34 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CRYPTO** 9 , **BOX** 6 , **RED** 6 , **PACKET** 6 , **CAMPAIGN** 6 , **@BITGETRU:** 4 , **✅** 4 , **🤑** 4 , **/** 3 , **DE** 3 , **В** 3 , **:** 3 , **NOBITA** 2 , **MEME** 2 , **COIN** 2 , **PROJECT** 2 , **UPDATE** 2 , **BIG** 2 , **NEW** 2 , **$ETH** 2 , 
- 
-## What this user tweeted
- 
-RT @tradeleaf: STAY SAFU! 
-
-🔒  Please update #iOS and #macOS to prevent these vulnerabilities from compromising your assets.
- 
-# hali89808USER INFO
-![image](http://pbs.twimg.com/profile_images/1647166936575344640/C6cJAGCv_normal.jpg)
- 
-`User ScreenName:` hali89808 
- 
-`User chosen Name:` Oliver Connor 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 12 16:44:57 +0000 2023 
- 
-`User Description?:` Love to purchase the NFT 
- 
-`Followers?: `11 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 48 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647166936575344640/C6cJAGCv_normal.jpg 
- 
-`Number of tweets excluding replies:` 48 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@BITGETRU:** 8 , **JOIN** 5 , **PROJECT** 5 , **И** 4 , **MEME** 4 , **@TOKEN_COOTER:** 4 , **NEW** 3 , **В** 3 , **UPDATE** 3 , **1** 3 , **С** 3 , **ЧТО** 3 , **S** 3 , **E** 3 , **APRIL** 3 , **US** 3 , **:** 3 , **COOTER** 3 , **EMBRACETHECOOTER** 3 , **HOLDYOURCOOTER** 3 , 
- 
-## What this user tweeted
- 
-RT @YusufMirah: ❗️ Update iOS and macOS right now — again❗️   
-
-Once again, very serious vulnerabilities have been found in #Apple operatin…RT @tradeleaf: STAY SAFU! 
-
-🔒  Please update #iOS and #macOS to prevent these vulnerabilities from compromising your assets.
- 
-# Miggy_Garcia26USER INFO
-![image](http://pbs.twimg.com/profile_images/1646705204757430273/oKFhNxbH_normal.jpg)
- 
-`User ScreenName:` Miggy_Garcia26 
- 
-`User chosen Name:` John Miguel Garcia 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 14 02:37:33 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 31 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646705204757430273/oKFhNxbH_normal.jpg 
- 
-`Number of tweets excluding replies:` 31 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@DRAGONDEGENSNFT:** 10 , **@DRAGONDEGENSNFT** 10 , **DRAGON** 8 , **@MAW83269592:** 5 , **@NENAD_S92:** 4 , **READY** 4 , **LAUNCH** 4 , **PARTY** 4 , **DEGENS** 4 , **@ENERGI** 4 , **BLOCKCHAIN** 4 , **DAY** 3 , **AIRDROP** 3 , **MOST** 3 , **GM** 3 , **US** 3 , **NFT** 3 , **MINT** 3 , **4:20** 3 , **DEGENS!** 3 , 
- 
-## What this user tweeted
- 
-RT @energi: A solution to security vulnerabilities is a necessity in this nascent space.
-
-Currently, the most formidable solution is decent…
- 
-# CryptoClimbXUSER INFO
-![image](http://pbs.twimg.com/profile_images/1648562756147191809/guy5tFPE_normal.jpg)
- 
-`User ScreenName:` CryptoClimbX 
- 
-`User chosen Name:` Crypto Crusader 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 05:41:03 +0000 2023 
- 
-`User Description?:` Stay ahead of the curve with our cutting-edge research and analysis. #InvestmentResearch #MarketAnalysis 
- 
-`Followers?: `9 
- 
-`Following?:` 33 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648562756147191809/guy5tFPE_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**QUAI** 2 , **ZKSYNC** 2 , **RT** 1 , **@QUAINETWORK:** 1 , **WATCHED** 1 , **CO-FOUNDER** 1 , **@MECHANIKALK'S** 1 , **PRESENTATION** 1 , **ETH** 1 , **DENVER?** 1 , **LEARN** 1 , **VULNERABILITIES** 1 , **EX…RT** 1 , **@STYLEPROTOCOL:** 1 , **GM** 1 , **$STYLE** 1 , **GANG🔥** 1 , **ANYONE** 1 , **WHO'S** 1 , **LOOKING** 1 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
- 
-# cryptodegeneeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1648555961617883141/HLOA8_CN_normal.jpg)
- 
-`User ScreenName:` cryptodegenee 
- 
-`User chosen Name:` Invest Zenith 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 04:36:28 +0000 2023 
- 
-`User Description?:` Bringing you the latest insights and analysis on cryptocurrency markets. #CryptoNews #Blockchain 
- 
-`Followers?: `14 
- 
-`Following?:` 34 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648555961617883141/HLOA8_CN_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UPCOMING** 2 , **ETH** 2 , **QUAI** 2 , **RT** 1 , **@RAHUL19_RAHUL:** 1 , **ROYAL** 1 , **KINGDOM'S** 1 , **NEWEST** 1 , **TIER** 1 , **LIST** 1 , **NFT** 1 , **PROJECTS** 1 , **MONTH** 1 , **APRIL** 1 , **HERE** 1 , **(IN** 1 , **FAMOUS** 1 , **KIN…RT** 1 , **@QUAINETWORK:** 1 , **WATCHED** 1 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
- 
-# Josbel020382USER INFO
-![image](http://pbs.twimg.com/profile_images/1646634566214467585/wKM-lmiq_normal.png)
- 
-`User ScreenName:` Josbel020382 
- 
-`User chosen Name:` Josbel Caceres Rocha 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 13 22:00:48 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 10 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 69 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646634566214467585/wKM-lmiq_normal.png 
- 
-`Number of tweets excluding replies:` 69 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@QUAINETWORK:** 33 , **QUAI** 32 , **@TANIA_JEREZ7** 30 , **@GERMANO2023** 17 , **@HOWARDMEDINA82** 12 , **@HOWARD_MEDINA_B** 10 , **@MECHANIKALK** 6 , **@QUAINETWORK** 6 , **COMMUNITY** 5 , **NETWORK** 5 , **MINING** 5 , **CO-FOUNDER** 4 , **$QUAI** 4 , **PROOF-OF-WORK** 4 , **POEM** 4 , **CO-FOUNDERS** 3 , **@ALANORWICK** 3 , **AMA** 3 , **UNIVERSITY** 3 , **LEARN** 3 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
+RT @ItalyMFA_int: 🇮🇹🇺🇦 26 April, Italy hosts a conference in Rome on the reconstruction of Ukraine with the participation of 🇺🇦government a…RT @ItalyinUS: The transatlantic bond, the solid Italy-US ties and great partnership in key areas, from economic growth to Ukraine, trade,…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
