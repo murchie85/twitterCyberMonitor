@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **OccupyDemocrats**  
+The most popular user is: **AbuseIPDB_bot**  
  
 
-## BREAKING: America’s Special Inspector General for Afghanistan Reconstruction drops bombshell, reveals that Trump Se… https://t.co/roq1DXzwwy 
+## IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **OccupyDemocrats**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Dm me now for any #Hacked accounts or Recovery, #infosec #cybersecurity #pentesting #oscp #informationsecurity… https://t.co/0qnsSocGD8 |
-| Companies are spying on you.Go to settings and turn off ad personalization. It often permits companies to do inva… https://t.co/y8x4n3pcoh |
-| RT @AtomSpam: Detected #phishing clone at address: hxxp://vinno[.]shop/bigdeek/source#microsoft #infosec #cybersecurity #atomspam Follo… |
+| RT @CyberIQs_: GitHub Launches Private Bug Reporting, Package Provenance Features #infosec #infosecurity #cybersecurity #threatintel #threa… |
+| How will Apple help IT manage third-party app stores? #infosec #infosecurity #cybersecurity #threatintel… https://t.co/894RkxcLO9 |
+| RT @tehtris: [🚨NEWS] #ThreatIntelligence💥 For the occasion of Microsoft Patch Tuesday this week, the CVE-2023-21554 (CVSSv3: 9.8) in #Win… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hack_git** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **Shubham_pen** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 4.66%|
+| #1 Most tweeted to  | **CyberIQs_** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **JinibaBD** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 0.8%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -52,319 +52,28 @@ The most popular user is: **OccupyDemocrats**
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
 | second  | **INFOSECURITY**  |
-| third  | **PENTESTING** |
-| fourth  | **PHISHING**  |
-| fifth  | **@HACK_GIT:**  |
+| third  | **THREATINTEL** |
+| fourth  | **THREATINTEL…**  |
+| fifth  | **CYBERSECURITY…**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @th4ts3cur1ty: The importance of a cyber defence strategy #infosec #cybersecurity #strategy #strategy #cyberstrategy #cybersecuritystra… |
+|Impact of Artificial Intelligence on Cybersecurity #infosec #infosecurity #cybersecurity #threatintel… https://t.co/vHdR7RapXG |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **OccupyDemocrats**  |
+| The most retweeted user is: **AbuseIPDB_bot**  |
 | ------------- |
-| BREAKING: America’s Special Inspector General for Afghanistan Reconstruction drops bombshell, reveals that Trump Se… https://t.co/roq1DXzwwy |
+| IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb |
 
 # Potential Fake Accounts
- 
-# AshleyTran16405USER INFO
-![image](http://pbs.twimg.com/profile_images/1649127088228560907/mHQ0k-Ht_normal.jpg)
- 
-`User ScreenName:` AshleyTran16405 
- 
-`User chosen Name:` Ashley Tranfaglia 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 20 18:06:43 +0000 2023 
- 
-`User Description?:` Channel Manager working at runZero #infosec 
- 
-`Followers?: `18 
- 
-`Following?:` 21 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649127088228560907/mHQ0k-Ht_normal.jpg 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THEONLYMIKE_E** 2 , **@RAVICI** 2 , **@BENTLEYAUDREY** 2 , **@ROTATE26CHARS** 2 , **@D0RKPH0ENIX** 2 , **@AC1DGODDESS** 2 , **@IAN_INFOSEC** 2 , **@AMYSW_SEC…** 2 , **@CIOONTHERUN** 1 , **HTTPS://TCO/J5UYSWD9FA@CIOONTHERUN** 1 , **HTTPS://TCO/NZYBVEQF6T@CIOONTHERUN** 1 , **NOVOYHEY** 1 , **@MARRIOTTBONVOY** 1 , **BELIEVE** 1 , **CANCELLED** 1 , **RESERVATION** 1 , **@HOTEL_PROPER** 1 , **SAN** 1 , **FRAN…** 1 , **HTTPS://TCO/T8CIMHMLSQ** 1 , 
- 
-## What this user tweeted
- 
-@TheOnlyMike_E @cioontherun @ravici @BentleyAudrey @rotate26chars @d0rkph0enix @ac1dgoddess @ian_infosec @amysw_sec… https://t.co/J5uYsWd9fa@cioontherun @ravici @TheOnlyMike_E @BentleyAudrey @rotate26chars @d0rkph0enix @ac1dgoddess @ian_infosec @amysw_sec… https://t.co/NzybVeQF6t
- 
-# amranwar200USER INFO
-![image](http://pbs.twimg.com/profile_images/1647971712124743680/jgG8jTpn_normal.jpg)
- 
-`User ScreenName:` amranwar200 
- 
-`User chosen Name:` 3mr 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 15 11:23:12 +0000 2023 
- 
-`User Description?:` network security engineer💻 
- 
-`Followers?: `33 
- 
-`Following?:` 176 
- 
-`User URL?:` https://t.co/ibpOCpSQXO 
- 
-`Location:` Turgutlu, Türkiye 
- 
-`Number of tweets extracted`  : 71 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647971712124743680/jgG8jTpn_normal.jpg 
- 
-`Number of tweets excluding replies:` 71 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**INFOSEC** 10 , **CYBERSECURITY** 10 , **@HACKINARTICLES:** 9 , **CYBERSECURITYTIPS** 8 , **PENTESTING** 7 , **PIC** 6 , **DAY** 6 , **CYBERSECURITYAWARENESS** 6 , **من** 5 , **انا** 4 , **ETHICAL** 3 , **HACKING** 3 , **INFORMATIONSE…RT** 3 , **الناس** 3 , **ما** 3 , **عن** 3 , **@KALILINUX** 3 , **COMMAND** 2 , **ف** 2 , **PROACTIVE** 2 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Comprehensive Guide on OS Command Injection
-
-https://t.co/OK6ajA09EF
-
-#infosec #cybersecurity #cybersecuritytips #pente…RT @hackinarticles: Pic of the Day          
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
- 
-# alanwal21USER INFO
-![image](http://pbs.twimg.com/profile_images/1649021638049173504/TkeMhqX8_normal.png)
- 
-`User ScreenName:` alanwal21 
- 
-`User chosen Name:` alan walker 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 20 12:06:10 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649021638049173504/TkeMhqX8_normal.png 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**–** 3 , **PRO** 2 , **FULL** 2 , **ACTIVATED** 2 , **DISCOUNT** 2 , **100%** 2 , **INSTAGRAM** 1 , **AUDIENS** 1 , **EXTRACTOR** 1 , **MENTION** 1 , **V30** 1 , **SOCIAL** 1 , **MEDIA** 1 , **MARKETING** 1 , **TOOL** 1 , **OFF…** 1 , **HTTPS://TCO/BKZDUUY2PWINSTAGRAM** 1 , **BOT** 1 , **V550** 1 , **OFF** 1 , 
- 
-## What this user tweeted
- 
-Instagram Audiens Extractor And Mention Pro v3.0 Full Activated – Social Media Marketing Tool – Discount 100% OFF… https://t.co/BkZDuUY2pwInstagram Bot Pro v5.5.0 Full Activated – Discount 100% OFF https://t.co/5iup1H4oE9 #infosec #bugcrowd… https://t.co/c75WBBmQq5
- 
-# KryptNetwork_USER INFO
-![image](http://pbs.twimg.com/profile_images/1648983103082299392/0RbEyIji_normal.jpg)
- 
-`User ScreenName:` KryptNetwork_ 
- 
-`User chosen Name:` krypt network 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 16 14:55:56 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648983103082299392/0RbEyIji_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**COMMAND-LINE** 1 , **CHEAT** 1 , **SHEET** 1 , **👇** 1 , **HTTPS://TCO/ZTC4PWVNJA** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **HACKING** 1 , **DATASECURITY** 1 , **CYBERSEC…** 1 , **HTTPS://TCO/1ZNT6YDSDO** 1 , 
- 
-## What this user tweeted
- 
-Command-Line Cheat Sheet 👇
-
-https://t.co/zTc4pwVnjA
-
-#infosec #cybersecurity #hacking #DataSecurity #CyberSec… https://t.co/1zNT6ydSdo
- 
-# ayanika432USER INFO
-![image](http://pbs.twimg.com/profile_images/1648969193294028800/rBd4PyNh_normal.png)
- 
-`User ScreenName:` ayanika432 
- 
-`User chosen Name:` ayanika 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 20 08:37:46 +0000 2023 
- 
-`User Description?:` Bug Hunter 
- 
-`Followers?: `0 
- 
-`Following?:` 38 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 23 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648969193294028800/rBd4PyNh_normal.png 
- 
-`Number of tweets excluding replies:` 23 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TRICK3ST:** 9 , **BUG** 5 , **BUGBOUNTY** 3 , **BOUNTY** 3 , **HACKING** 3 , **@NAHAMSEC:** 3 , **TRICKEST** 2 , **ANYTHING** 2 , **WORKFLOWS** 2 , **XSS** 2 , **API** 2 , **🚀** 2 , **CO…RT** 2 , **CLOUD** 2 , **🔥** 2 , **2** 2 , **SKILLS** 2 , **WORKING** 2 , **🤖** 2 , **EPISODE** 2 , 
- 
-## What this user tweeted
- 
-RT @ReconOne_bk: How to Improve your Game 💪
-
-👇👇
-
-#recon #BugBounty #bugbountytools #cybersecurity #skills #infosec https://t.co/YHBw4rLqNm
- 
-# amrian023USER INFO
-![image](http://pbs.twimg.com/profile_images/1648920132071063556/8UMr0I8N_normal.png)
- 
-`User ScreenName:` amrian023 
- 
-`User chosen Name:` Marian Dura 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 20 05:22:49 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 23 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648920132071063556/8UMr0I8N_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@CYBERKNOW20:** 1 , **KILLNET** 1 , **COLLECTIVE** 1 , **TRAGERED** 1 , **EUROCONTROL** 1 , **POSTING** 1 , **WEBSITE** 1 , **DOWN** 1 , **ARGUABLY** 1 , **MOST** 1 , **SIGNIFICANT** 1 , **KIL…** 1 , 
- 
-## What this user tweeted
- 
-RT @Cyberknow20: #killnet collective has tragered eurocontrol, at  posting the website is down. 
-
-Arguably this is the most significant kil…
- 
-# MattsMLAITalkUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647799715965153281/ehGQ0qI3_normal.jpg)
- 
-`User ScreenName:` MattsMLAITalk 
- 
-`User chosen Name:` Matthew Daniels 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 17 03:08:42 +0000 2023 
- 
-`User Description?:` Computer Scientists | FCNN | MNIST Data Junky | OpenStack | msfconsole | Head in the Clouds but trying to Balance Loads #K8 #Linux #GymRatLife 
- 
-`Followers?: `13 
- 
-`Following?:` 272 
- 
-`User URL?:` https://t.co/KJWQW1UIIE 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 75 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647799715965153281/ehGQ0qI3_normal.jpg 
- 
-`Number of tweets excluding replies:` 76 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@PR0GRAMMERHUM0R:** 7 , **I’LL** 5 , **DAY** 4 , **BEING** 4 , **GREAT** 4 , **😂** 4 , **@HACKINARTICLES:** 3 , **PIC** 3 , **INFOSEC** 3 , **CYBERSECURITY** 3 , **CYBERSECURITYTIPS** 3 , **PENTESTING** 3 , **CYBERSECURITYAWARENESS** 3 , **I’M** 3 , **THAT’S** 3 , **POSSIBLE** 3 , **DATA** 3 , **=** 3 , **4** 2 , **@IAMMEMELOPER:** 2 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Pic of the Day          
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
