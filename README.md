@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **elonmusk**  
+The most popular user is: **AbuseIPDB_bot**  
  
 
-## The BBC interview last week was exceptional in illustrating why you cannot rely on the media for truth 
+## IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **elonmusk**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @tsm3301: @Josh_Pactor @KINGPOLARIAN_S @Brad_Spielman @Nature_and_Race Or get their acc shwacked is what. 🫡 If you get attacked like thi… |
-| @Infosec_Taylor You have some weird neighbors lol |
-| RT @BertJanCyber: New #KQL query! This time focussed on Vulnerability Management. List all devices that are internet-facing and have a vuln… |
+| Cofense Protect+ defends mid-size organizations from cyber threats #infosec #infosecurity #cybersecurity… https://t.co/9Jau0IDwKj |
+| TechSpot PC Buying Guide: 1H 2023 #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #hacking… https://t.co/5xOicTAqvI |
+| Valve restricted almost 2,500 Steam accounts for liking a review #infosec #infosecurity #cybersecurity #threatintel… https://t.co/0nfJlEHdpG |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hack_git** |
-| #2 Most tweeted to  | **Shubham_pen** |
-| #3 Most tweeted to  | **hackinarticles** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 3.42%|
+| #1 Most tweeted to  | **CyberIQs_** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **JinibaBD** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 0.7%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -52,150 +52,28 @@ The most popular user is: **elonmusk**
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
 | second  | **INFOSECURITY**  |
-| third  | **PHISHING** |
-| fourth  | **HACKING**  |
+| third  | **THREATINTEL** |
+| fourth  | **THREATINTEL…**  |
 | fifth  | **CYBERSECURITY…**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @EanMeyer: As an Infosec professional I can say you shouldn’t do this. A flood of requests would definitely take the website offline. Le… |
+|RT @CyberIQs_: Swimlane collaborates with AWS to accelerate investigation and response #infosec #infosecurity #cybersecurity #threatintel #… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **elonmusk**  |
+| The most retweeted user is: **AbuseIPDB_bot**  |
 | ------------- |
-| The BBC interview last week was exceptional in illustrating why you cannot rely on the media for truth |
+| IP address 119.29.27.246 has been caught red handed! 766 reports have been filed and a 100/100 confidence score has… https://t.co/XC7L3KSSUb |
 
 # Potential Fake Accounts
- 
-# PalletizerishabUSER INFO
-![image](http://pbs.twimg.com/profile_images/1649214991218647040/C3JYMcuV_normal.jpg)
- 
-`User ScreenName:` Palletizerishab 
- 
-`User chosen Name:` Palletizer perishables 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 21 00:50:25 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 160 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649214991218647040/C3JYMcuV_normal.jpg 
- 
-`Number of tweets excluding replies:` 160 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THECYBERSECHUB:** 60 , **@PROTONPRIVACY:** 17 , **@PALLETIZERISHAB:** 15 , **DATA** 9 , **NEW** 7 , **ATTACK** 7 , **CYBER** 6 , **SECURITY** 6 , **ITS** 5 , **ONLINE** 5 , **GOOGLE** 5 , **PROTON** 5 , **PEOPLE** 4 , **MALWARE** 4 , **AI** 4 , **US** 4 , **START** 4 , **ATTACKS** 4 , **CYBERSECURITY** 4 , **LINUX** 3 , 
- 
-## What this user tweeted
- 
-RT @TheCyberSecHub: New infosec products of the week: April 21, 2023 https://t.co/hXeMOamuTg
- 
-# RighttopriUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647746914136498177/wfGJ8BoS_normal.jpg)
- 
-`User ScreenName:` Righttopri 
- 
-`User chosen Name:` Right to Privacy 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 16 16:53:54 +0000 2023 
- 
-`User Description?:` The right to privacy is recognized as a basic human rights under Article 12 of the Universal Declaration of Human Rights Act 1948 
- 
-`Followers?: `2 
- 
-`Following?:` 43 
- 
-`User URL?:` https://t.co/YQBM50iu5k 
- 
-`Location:` 𑀅𑀶𑀺𑀯𑀸𑀬𑀼𑀢𑀫𑁆 
- 
-`Number of tweets extracted`  : 17 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647746914136498177/wfGJ8BoS_normal.jpg 
- 
-`Number of tweets excluding replies:` 17 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**:** 4 , **BLOOD** 3 , **INSTALL** 3 , **NEED** 2 , **NUMBER** 2 , **@JIOCINEMA** 2 , **QUESTIONS** 2 , **OPTION** 2 , **PLAM** 2 , **STORE** 2 , **SECURITY** 2 , **FORCE** 2 , **MANY** 2 , **RT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Pic of the Day          
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
- 
-# Pouya_blogUSER INFO
-![image](http://pbs.twimg.com/profile_images/1646852971320180741/oBhCiPUl_normal.png)
- 
-`User ScreenName:` Pouya_blog 
- 
-`User chosen Name:` Pouya 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 14 12:28:39 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 30 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646852971320180741/oBhCiPUl_normal.png 
- 
-`Number of tweets excluding replies:` 30 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@MEASHACKER_HNA:** 8 , **BUGBOUNTYTIP** 6 , **و** 5 , **FOUND** 5 , **BUGBOUNTY** 5 , **FIND** 4 , **که** 3 , **SUBDOMAINS** 3 , **BUG** 3 , **BUGBOUNTYTIPS** 3 , **@MQ_XZ_:** 3 , **BY:** 3 , **WRITEUPSRT** 3 , **XSS** 3 , **ACCOUNT** 3 , **🗞** 3 , **API** 3 , **?** 2 , **@HUSSEIN98D:** 2 , **VIA** 2 , 
- 
-## What this user tweeted
- 
-RT @HusseiN98D: Throwback to when I and @infosec_au found a 0day to hack +200 subdomains of a Bank 
-https://t.co/TlG6e5DINs
-
-#bugbounty htt…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
