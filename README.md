@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **joncoopertweets**  
+The most popular user is: **MeidasTouch**  
  
 
-## 🚨BREAKING: An arbitration panel has ordered Mike Lindell to pay $5 million to a cybersecurity expert who debunked h… https://t.co/eTxXKwVkcy 
+## 🚨 HOLY SHIT! Jim Jordan was just caught editing and misrepresenting witness interviews in an attempt to smear Sec.… https://t.co/9uaTs6EheX 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **joncoopertweets**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @caulmick: Lessons Learned ?Taoiseach and Tánaiste unaware Stephen Donnelly lost access to emails in cybersecurity breachHealth Mini… |
-| RT @SantanaelChan: PSA!Education DOES NOT equal intelligence!! I have a MASTERS in CYBERSECURITY and I WALKED into a POLE at a parking… |
-| Big Data Analytics in Cybersecurity: XDR, Digital Forensics, and More #dataanalysis https://t.co/zCMgEeatsI |
+| RT @SCMagazine: The @DHSgov announced a pair of initiatives for defending critical infrastructure and essential services from cyber attacks… |
+| RT @Shubham_pen: Best of Linux performance Cheat Sheet Credit: https://t.co/A3WZ0dnNFJ #infosec #cybersecurity #hacking #DataSecurity #C… |
+| RT @hackinarticles: Pic of the Day          #infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SantanaelChan** |
-| #2 Most tweeted to  | **hackinarticles** |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **hack_git** |
 | #3 Most tweeted to  | **Shubham_pen** |
-| NewProfiles (less than 10 days) | 0.61%  |
-| Tweeters with < 10 followers  | 5.75%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| NewProfiles (less than 10 days) | 0.35%  |
+| Tweeters with < 10 followers  | 4.28%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,108 +51,56 @@ The most popular user is: **joncoopertweets**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **LOOKING**  |
-| third  | **US** |
-| fourth  | **INFOSECURITY**  |
-| fifth  | **DOES**  |
+| second  | **INFOSECURITY**  |
+| third  | **PENTESTING** |
+| fourth  | **@HACKINARTICLES:**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Calvert Systems Engineering Inc is looking for a Cybersecurity Futures AnalystSarpy County, Nebraska, US( Analyst… https://t.co/GoUCFcjGv2 |
+|Password manager security: Which is the right option for me? #infosec #infosecurity #cybersecurity #threatintel… https://t.co/znX6dxsFe8 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joncoopertweets**  |
+| The most retweeted user is: **MeidasTouch**  |
 | ------------- |
-| 🚨BREAKING: An arbitration panel has ordered Mike Lindell to pay $5 million to a cybersecurity expert who debunked h… https://t.co/eTxXKwVkcy |
+| 🚨 HOLY SHIT! Jim Jordan was just caught editing and misrepresenting witness interviews in an attempt to smear Sec.… https://t.co/9uaTs6EheX |
 
 # Potential Fake Accounts
  
-# robogold426109USER INFO
-![image](http://pbs.twimg.com/profile_images/1646525970189254656/bFI2us9H_normal.jpg)
+# mansourctiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1647496039757225987/Ug-65DwT_normal.png)
  
-`User ScreenName:` robogold426109 
+`User ScreenName:` mansourcti 
  
-`User chosen Name:` robo gold 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 13 14:48:38 +0000 2023 
- 
-`User Description?:` all about tech ( artificial intelligence, facebook , tech news, blog tech ...) 
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` https://t.co/SC8O4nHaxY 
- 
-`Location:` Oujda, Royaume du Maroc 
- 
-`Number of tweets extracted`  : 72 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646525970189254656/bFI2us9H_normal.jpg 
- 
-`Number of tweets excluding replies:` 73 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TECNOLOGIA** 25 , **COMPUTERSCIENCE** 20 , **TECNOLOGIA…** 18 , **ARTIFICIAL** 11 , **PC** 11 , **INTELLIGENCE** 10 , **INSTAGRAM…** 10 , **PC…** 9 , **CHATGPT** 8 , **NEW** 6 , **COMPUTERSCIENCE…** 5 , **AI** 4 , **INSTAGRAM** 4 , **FREE** 4 , **VIDEO** 4 , **ROBOT** 3 , **SERVICE** 3 , **BRAZIL** 3 , **USE** 3 , **PLANS** 3 , 
- 
-## What this user tweeted
- 
-Brazilian companies must invest $504 million in artificial intelligence in 2022, according to the research… https://t.co/CKn60VByhMIBM brings artificial intelligence closer to the public on display at the Catavento Museum 
-https://t.co/f5vCmUJWYe… https://t.co/OHLaImhQuyThe robot learns to laugh depending on the situation 
-https://t.co/TDHzibbpD9
-
-#tecnologia #computerscience #pc… https://t.co/bidfW2VONHEmojis: It took 40 years to evolve :-) into 😂 
-https://t.co/8JHJjIfGUa
-
-#tecnologia #computerscience #pc #instagram… https://t.co/K9vG7OSk5kLawyer uses ChatGPT to file petition and gets fined by TSE 
-https://t.co/2FiSL6iDqk
-
-#tecnologia #computerscience… https://t.co/VvCc5ZT471Robots fry french fries and onion rings in the United States 
-https://t.co/723XgXHjis
-
-#tecnologia #computerscience… https://t.co/bVIVMBqfYd
- 
-# Anjani031219911USER INFO
-![image](http://pbs.twimg.com/profile_images/1646440653415661568/4qXyfyT0_normal.jpg)
- 
-`User ScreenName:` Anjani031219911 
- 
-`User chosen Name:` Anjani 
+`User chosen Name:` Mansour 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 13 09:08:54 +0000 2023 
+`User signup date?:` Sun Apr 16 07:03:59 +0000 2023 
  
-`User Description?:` Go Garuda, Garuda Go 
+`User Description?:`  
  
-`Followers?: `0 
+`Followers?: `3 
  
-`Following?:` 12 
+`Following?:` 75 
  
 `User URL?:` None 
  
-`Location:` Mylapore Tiruvallike, India 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 62 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1646440653415661568/4qXyfyT0_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1647496039757225987/Ug-65DwT_normal.png 
  
-`Number of tweets excluding replies:` 260 
+`Number of tweets excluding replies:` 62 
  
 
  
@@ -160,11 +108,157 @@ https://t.co/723XgXHjis
  
 ## User Top tweeted words 
  
-**@MR_AUGUSTITE:** 58 , **@AGNISHWARJ:** 46 , **@GARUDA_INDIA:** 45 , **DRONE** 32 , **GARUDA** 21 , **@GARUDA_INDIA** 19 , **@ELONMUSK** 16 , **DRONES** 15 , **KE** 14 , **MINISTER** 14 , **NEW** 13 , **YE** 12 , **HAI** 12 , **KI** 12 , **JI** 12 , **@NARENDRAMODI** 12 , **INDIA'S** 11 , **WHICH** 11 , **AEROSPACE** 10 , **INDIA** 9 , 
+**من** 14 , **في** 10 , **JAVASCRIPT** 8 , **و** 8 , **PYTHON** 6 , **HTML** 6 , **هذا** 6 , **CSS** 5 , **AI** 5 , **الله** 5 , **@FREE4ARAB1:** 5 , **USING** 4 , **BUILD** 4 , **INFOSEC** 4 , **COURSE** 4 , **[+]** 4 , **@SMALKALBANI:** 4 , **كاملة** 4 , **:** 4 , **المحاضرة** 4 , 
  
 ## What this user tweeted
  
-RT @GoI_MeitY: Never stay quiet about #cyberbullying! File your complaint @ https://t.co/Tu57PvybM2 &amp; make yourself aware @ https://t.co/as…
+RT @hack_git: mssql-spider
+
+Automated exploitation of MSSQL user impersonation and linked instances.
+
+https://t.co/YPgCCZWtEH
+
+#infosec #pe…RT @hack_git: Web application pentesting checklist
+
+A OWASP Based Checklist With 500+ Test Cases.
+
+https://t.co/maGSU2YvHV
+
+#infosec #pente…RT @hackinarticles: Comprehensive Guide on Unrestricted File Upload
+
+https://t.co/ST1qJm2dcK
+
+#infosec #cybersecurity #cybersecuritytips #p…RT @Shubham_pen: Zero Trust User Access 
+Credit: https://t.co/BabCxu1gMh
+
+#infosec #cybersecurity #hacking #DataSecurity #CyberSec #bugboun…
+ 
+# seanshawn154596USER INFO
+![image](http://pbs.twimg.com/profile_images/1649761565850349569/SE2aisjM_normal.jpg)
+ 
+`User ScreenName:` seanshawn154596 
+ 
+`User chosen Name:` sean shawn 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 22 10:52:03 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1649761565850349569/SE2aisjM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**EXPLOIT** 2 , **WEB** 2 , **BUGBOUNTY** 2 , **CHECKLIST** 2 , **!** 2 , **RT** 1 , **@HETMEHTAA:** 1 , **𝗫𝗦𝗦** 1 , **𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻** 1 , **𝗧𝗼𝗼𝗹:** 1 , **HELPS** 1 , **HACKERS** 1 , **IDENTIFY** 1 , **CROSS-SITE** 1 , **SCRIPTING** 1 , **VULNERABILITIES** 1 , **APPS** 1 , **TESTS** 1 , **REFLECT…RT** 1 , **@MQ_XZ_:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hetmehtaa: 𝗫𝗦𝗦 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗼𝗼𝗹:
+
+helps hackers identify and exploit cross-site scripting vulnerabilities in web apps. Tests for reflect…RT @DailyOsint: #Reconnaissance mind map
+
+https://t.co/ckwak64zBK
+
+#OSINT #investigation #intelligence #mindmap #infosec #cybersecurity #at…
+ 
+# R3acex18110USER INFO
+![image](http://pbs.twimg.com/profile_images/1647856342206668800/MG9oYi-U_normal.jpg)
+ 
+`User ScreenName:` R3acex18110 
+ 
+`User chosen Name:` Kyra🚀🌌🧑‍🚀 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 17 06:19:27 +0000 2023 
+ 
+`User Description?:` Crazy for 🌌🚀
+Love to read📖
+Want to know more. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1647856342206668800/MG9oYi-U_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@HACKINARTICLES:** 1 , **PIC** 1 , **DAY** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **CYBERSECURITYAWARENESS** 1 , **INFORMATIONSE…HTTPS://TCO/9YXVDBCDEL** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Pic of the Day          
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
+ 
+# ke30tCj4oq79754USER INFO
+![image](http://pbs.twimg.com/profile_images/1649736438848815105/2tVPV6QG_normal.png)
+ 
+`User ScreenName:` ke30tCj4oq79754 
+ 
+`User chosen Name:` 1490 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 22 11:26:32 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1649736438848815105/2tVPV6QG_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FULL** 3 , **ACTIVATED** 3 , **–** 3 , **DISCOUNT** 3 , **100%** 3 , **OFF** 3 , **AUTO** 2 , **SENDER** 2 , **PRO** 2 , **INFOSEC…** 2 , **WHATSAPP** 1 , **SMARTEST** 1 , **TURBO** 1 , **V20** 1 , **HTTPS://TCO/YLUZHZPJG2** 1 , **HTTPS://TCO/4BNKSR6JS7WHATSAPP** 1 , **CHAT** 1 , **V60** 1 , **HTTPS://TCO/1HK8PK1DYB** 1 , **INFOSEC** 1 , 
+ 
+## What this user tweeted
+ 
+Auto WhatsApp Smartest Sender Turbo Pro v2.0 Full Activated – Discount 100% OFF https://t.co/YluZhzpjG2 #infosec… https://t.co/4bnkSR6JS7WhatsApp Auto Chat Sender Pro v6.0 Full Activated – Discount 100% OFF https://t.co/1HK8PK1dyb #infosec #bugcrowd… https://t.co/UMOhx2g39yPlagiarism Checker X Enterprise v8.0.10 Full Activated – Discount 100% OFF https://t.co/6eBvMs7WHr #infosec… https://t.co/LTRPYVKYQF
  
 # NMartize90179USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
@@ -187,11 +281,11 @@ RT @GoI_MeitY: Never stay quiet about #cyberbullying! File your complaint @ http
  
 `Location:`  
  
-`Number of tweets extracted`  : 20 
+`Number of tweets extracted`  : 24 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 20 
+`Number of tweets excluding replies:` 24 
  
 
  
@@ -199,93 +293,13 @@ RT @GoI_MeitY: Never stay quiet about #cyberbullying! File your complaint @ http
  
 ## User Top tweeted words 
  
-**WIS** 4 , **AIRDROP** 3 , **||** 2 , **SOON** 2 , **$PEPE** 2 , **TOKEN** 2 , **➡️** 2 , **@TTSLONGTONG** 2 , **IKI** 2 , **DI** 2 , **GANJARCAPRES2024** 2 , **BAYC** 2 , **FOLLOW** 2 , **QUEST** 2 , **NFT** 2 , **10000** 2 , **FREE** 2 , **@GREEDYMEOW_:** 2 , **RT** 1 , **@CRYPTOSOCRATESS:** 1 , 
+**AIRDROP** 4 , **WIS** 4 , **$PEPE** 3 , **TOKEN** 3 , **➡️** 3 , **AI** 2 , **US** 2 , **🐸HURRY** 2 , **AIRDROP!** 2 , **GROWTH** 2 , **POPULAR** 2 , **MEME** 2 , **LARGEST** 2 , **COMING** 2 , **24** 2 , **HOURS** 2 , **LEFT** 2 , **||** 2 , **@TTSLONGTONG** 2 , **IKI** 2 , 
  
 ## What this user tweeted
  
 RT @AlvieriD: Royal Ransomware posts Graceworks Lutheran Services and finally has their Twitter account suspended.
 
 @LockerRoyal #cybersecu…
- 
-# mohammed07425USER INFO
-![image](http://pbs.twimg.com/profile_images/1649626863613153283/-ZZTh9ng_normal.png)
- 
-`User ScreenName:` mohammed07425 
- 
-`User chosen Name:` mohammed 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 22 04:11:07 +0000 2023 
- 
-`User Description?:` bug hunter 
- 
-`Followers?: `2 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:` pakistan 
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649626863613153283/-ZZTh9ng_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RCE** 2 , **RT** 1 , **@MIZZLE_NEUPANE5:** 1 , **YESI** 1 , **REWARDED** 1 , **SUBMISSION** 1 , **BUG** 1 , **@GOOGLEVRP** 1 , **BUGBOUNTY** 1 , **ETHICALHACKING** 1 , **CYBERSECURITY** 1 , **HTTP…** 1 , 
- 
-## What this user tweeted
- 
-RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @GoogleVRP 
-
-#BugBounty #ethicalhacking  #rce #cybersecurity http…
- 
-# rgniydgoiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1649622942609997824/xPVY5kLz_normal.png)
- 
-`User ScreenName:` rgniydgoi 
- 
-`User chosen Name:` RGNIYD OFFICIAL MoYAS GoI 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 22 03:55:32 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649622942609997824/xPVY5kLz_normal.png 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ANURAG_OFFICE:** 5 , **INDIA** 3 , **EXPECTED** 2 , **GREAT** 2 , **US** 2 , **PHYSICAL** 2 , **TAMIL** 2 , **3RD** 2 , **CONVOCATION** 2 , **CEREMONY** 2 , **RAJIV** 2 , **GANDHI** 2 , **NATIONAL** 2 , **INSTITUTE** 2 , **YOUTH** 2 , **@IANURAGTHAKUR:** 2 , **RT** 1 , **INDIAN** 1 , **SOFTWARE** 1 , **PRODUCT** 1 , 
- 
-## What this user tweeted
- 
-RT @Anurag_Office: The Indian software product industry is expected to reach 100 billion USD by 2025. India is expected to see a significan…
  
 # ayessuj61266USER INFO
 ![image](http://pbs.twimg.com/profile_images/1649620897626755072/qL8pT9q0_normal.png)
@@ -300,7 +314,7 @@ RT @Anurag_Office: The Indian software product industry is expected to reach 100
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
 `Following?:` 17 
  
@@ -308,7 +322,7 @@ RT @Anurag_Office: The Indian software product industry is expected to reach 100
  
 `Location:`  
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 10 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1649620897626755072/qL8pT9q0_normal.png 
  
@@ -320,7 +334,7 @@ RT @Anurag_Office: The Indian software product industry is expected to reach 100
  
 ## User Top tweeted words 
  
-**@TRICK3ST:** 5 , **BUG** 4 , **CVE** 3 , **AVAILABLE** 3 , **NEWEST** 3 , **CVES** 3 , **POC** 3 , **BUGBOUNTY** 3 , **GATHER** 2 , **UPDATE** 2 , **🔥** 2 , **VERY** 2 , **HACKING** 2 , **BOUNTY** 2 , **🔜** 2 , **TARGETS** 2 , **RCE** 2 , **RT** 1 , **🚨ATTENTION** 1 , **SECURITY** 1 , 
+**@TRICK3ST:** 5 , **CVE** 3 , **AVAILABLE** 3 , **NEWEST** 3 , **CVES** 3 , **POC** 3 , **BUG** 3 , **GATHER** 2 , **UPDATE** 2 , **🔥** 2 , **VERY** 2 , **BUGBOUNTY** 2 , **HACKING** 2 , **BOUNTY** 2 , **🔜** 2 , **TARGETS** 2 , **RT** 1 , **🚨ATTENTION** 1 , **SECURITY** 1 , **RESEARCHERS** 1 , 
  
 ## What this user tweeted
  
@@ -328,91 +342,7 @@ RT @payloadartist: 🔥 Awesome year-wise collection of CVE PoCs
 
 Very useful for #bugbounty, #Pentesting and #redteam.
 
-🔗 https://t.co/NDNVZF…RT @0xAsm0d3us: CVE: Gather and update all available and newest CVEs with their PoC.
-
-https://t.co/V2NQJX8gEJ
-
-#cve #hacking #bugbounty #cy…RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @GoogleVRP 
-
-#BugBounty #ethicalhacking  #rce #cybersecurity http…
- 
-# ABHIJITH172900USER INFO
-![image](http://pbs.twimg.com/profile_images/1649608998901915649/Rughhcs__normal.jpg)
- 
-`User ScreenName:` ABHIJITH172900 
- 
-`User chosen Name:` ABHIJITH NARAYANAN 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 22 03:00:08 +0000 2023 
- 
-`User Description?:` Cybersecurity enthusiast on a mission to defend against digital threats. Currently honing my skills as a pentester #cybersecurity #pentesting #ethicalhacking 
- 
-`Followers?: `0 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649608998901915649/Rughhcs__normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**EXCITED** 1 , **COMPLETED** 1 , **INTRODUCTORY** 1 , **NETWORKING** 1 , **MODULE** 1 , **TRY** 1 , **HACK** 1 , **ME!** 1 , **LOOKING** 1 , **FORWARD** 1 , **CONTINUING** 1 , **LEARN…** 1 , **HTTPS://TCO/7UHZWZWQ0O** 1 , 
- 
-## What this user tweeted
- 
-Excited to have completed the Introductory Networking module on Try Hack Me! Looking forward to continuing my learn… https://t.co/7UhZwZwQ0O
- 
-# d_ingsincebirthUSER INFO
-![image](http://pbs.twimg.com/profile_images/1649252451101429760/Cp7pwf-A_normal.jpg)
- 
-`User ScreenName:` d_ingsincebirth 
- 
-`User chosen Name:` i like pretty things 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 21 03:23:20 +0000 2023 
- 
-`User Description?:` accumulate good vibes, like poetry, lit, anime, illustrations, photos, cuisine, empathy, pets, cute things, nature, philosophy, religion, culture,hist,empowermt 
- 
-`Followers?: `10 
- 
-`Following?:` 124 
- 
-`User URL?:` None 
- 
-`Location:` everywhere all at once 
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649252451101429760/Cp7pwf-A_normal.jpg 
- 
-`Number of tweets excluding replies:` 249 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**YUE** 29 , **WEIBO** 22 , **SHEN** 21 , **NIGHT** 18 , **SHENYUE** 15 , **DIOR** 14 , **SHENYUEXWEIBONIGHT** 13 , **ART** 12 , **CHINA** 11 , **PHOTOGRAPHS** 11 , **@ARCHIVESHENYUE:** 10 , **TEMPLE** 8 , **1950’S** 8 , **BALLET** 8 , **SISTINE** 8 , **MULAN** 7 , **DE** 7 , **JAPAN** 6 , **NEW** 6 , **CHRISTIAN** 6 , 
- 
-## What this user tweeted
- 
-RT @artinsociety: You’ve no doubt heard of the Sistine Chapel, but here’s the 70 metre Sistine Hall, part of the Vatican Library, commissio…
+🔗 https://t.co/NDNVZF…
  
 # 0Darknight127USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
@@ -496,45 +426,6 @@ RT @hackinarticles: Pic of the Day
 
 #infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
  
-# _____myhuiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1648016962201714696/CKRrsrRT_normal.jpg)
- 
-`User ScreenName:` _____myhui 
- 
-`User chosen Name:` siapaaa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 17 17:33:56 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648016962201714696/CKRrsrRT_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@SHERAJ99:** 1 , **CHATGPT** 1 , **CHEAT** 1 , **SHEET** 1 , **MACHINELEARNING** 1 , **DATASCIENCE** 1 , **SQL** 1 , **CYBERSECURITY** 1 , **BIGDATA** 1 , **ANALYTICS** 1 , **AI** 1 , **IIOT** 1 , **PYTHON** 1 , **RSTATS** 1 , **TENSORFL…RT** 1 , **@IAMMEMELOPER:** 1 , **GOLDEN** 1 , **RULE** 1 , **PROGRAMMING!** 1 , 
- 
-## What this user tweeted
- 
-RT @Sheraj99: ChatGPT cheat sheet #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFl…
- 
 # RedbitbugUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1647807447267160065/XXVxn6Sc_normal.jpg)
  
@@ -560,7 +451,7 @@ RT @Sheraj99: ChatGPT cheat sheet #MachineLearning #DataScience #SQL #Cybersecur
  
 `Profile image:` http://pbs.twimg.com/profile_images/1647807447267160065/XXVxn6Sc_normal.jpg 
  
-`Number of tweets excluding replies:` 7 
+`Number of tweets excluding replies:` 6 
  
 
  
