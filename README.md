@@ -1,23 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **_RektArb_**  
+The most popular user is: **historyinmemes**  
  
 
-## The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗… https://t.co/rswRpdpy2T 
+## Muhammad Ali dodges 21 punches in 10 seconds (1977) https://t.co/TWyCaFarQU 
 
   
 
@@ -26,25 +23,25 @@ Check eligibility and grab yours before it's too late😎:
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Russian and Wagner troops clashed in deadly shootout, Ukraine claims.Russian &amp; Wagner troops opened fire on each… https://t.co/iH1Pe66Uv5 |
-| RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!Check eligibility and grab yours before it's too late😎:🔗https://t.co/c7EiVC9… |
-| RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!Check eligibility and grab yours before it's too late😎:🔗https://t.co/c7EiVC9… |
+| RT @HackingButLegal: 🚨 NEW: Is a dude who does horrible things to strangers over the Internet for $$ a family member of a high-ranking Swed… |
+| RT @Shubham_pen: Firewall Testing Checklist  Credit:https://t.co/i5GIh40G5T…#infosec #cybersecurity #hacking #DataSecurity #CyberSec #bu… |
+| RT @Shubham_pen: Top 10 OSINT Tools  CreditCredit: @Hacker_Combat #infosec #cybersecurity #hacking #DataSecurity #CyberSec #bugbountytip… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **_RektArb_** |
-| #2 Most tweeted to  | **Spriter99880** |
-| #3 Most tweeted to  | **timkmak** |
-| NewProfiles (less than 10 days) | 0.62%  |
-| Tweeters with < 10 followers  | 24.92%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **hack_git** |
+| #3 Most tweeted to  | **TheHackersNews** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 5.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -53,57 +50,57 @@ Check eligibility and grab yours before it's too late😎:
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **STILL**  |
-| third  | **TOO** |
-| fourth  | **BEFORE**  |
-| fifth  | **CHECK**  |
+| first  | **INFOSEC**  |
+| second  | **PENTESTING**  |
+| third  | **@HACKINARTICLES:** |
+| fourth  | **INFOSECURITY**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @grrls_sxy_shoes: Republicans love Putin and hate Ukraine. They think we should give all of our money to fight Palestine. They want us t… |
+|Huge congratulations to our manufacturing partner @flexxongl for winning not one but four awards at #rsaconference… https://t.co/vkoydqeTb7 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_RektArb_**  |
+| The most retweeted user is: **historyinmemes**  |
 | ------------- |
-| The $REKT #Airdrop is still live and ongoing!Check eligibility and grab yours before it's too late😎:🔗… https://t.co/rswRpdpy2T |
+| Muhammad Ali dodges 21 punches in 10 seconds (1977) https://t.co/TWyCaFarQU |
 
 # Potential Fake Accounts
  
-# Sarqis647588USER INFO
-![image](http://pbs.twimg.com/profile_images/1650896782556119041/N3c3Fiv9_normal.jpg)
+# KaiGeneral20088USER INFO
+![image](http://pbs.twimg.com/profile_images/1648225414735884289/zngxYmIx_normal.jpg)
  
-`User ScreenName:` Sarqis647588 
+`User ScreenName:` KaiGeneral20088 
  
-`User chosen Name:` Sarqis 
+`User chosen Name:` Kai General 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 20 10:47:15 +0000 2023 
+`User signup date?:` Tue Apr 18 07:16:12 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `21 
  
-`Following?:` 2 
+`Following?:` 297 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 198 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1650896782556119041/N3c3Fiv9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1648225414735884289/zngxYmIx_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 870 
  
 
  
@@ -111,31 +108,48 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
+**ドラゴンの日** 22 , **@HACKINARTICLES:** 16 , **INFOSEC** 13 , **CYBERSECURITY** 13 , **CYBERSECURITYTIPS** 13 , **PENTESTING** 9 , **DAY** 8 , **@NIXCRAFT:** 7 , **INFORMATIONSE…RT** 7 , **PIC** 6 , **CYBERSECURITYAWARENESS** 6 , **ULTRAMAN** 6 , **DRAGON** 6 , **@EARTHSKYSCIENCE:** 5 , **TRAINING** 5 , **POKEMON** 5 , **@FREECODECAMP:** 5 , **@7CUBE_ORI:** 5 , **POKÉMON** 5 , **@HEROS_ULTRAMAN:** 5 , 
  
 ## What this user tweeted
  
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
+RT @hackinarticles: Mitre Attack Cheat Sheet  
 
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
+📷Full HD Image: https://t.co/CwPLBuWp5c
+
+#infosec #cybersecurity #cybersecuritytips #pentes…RT @hackinarticles: Pic of the Day          
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…RT @hackinarticles: Pic of the Day          
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…RT @hackinarticles: Firefox Addons for Pentester
+
+📷Full HD Image: https://t.co/LhMHbOe25p
+
+#infosec #cybersecurity #cybersecuritytips #pent…RT @hackinarticles: Hashcat Cheat Sheet  
+
+📷Full HD Image: https://t.co/FfUkWkSCkR
+
+#infosec #cybersecurity #cybersecuritytips #pentesting…RT @hackinarticles: Ethical Hacking Proactive Training
+
+Join Ignite Technologies ETHICAL HACKING PROACTIVE TRAINING live sessions with core…RT @hackinarticles: Pic of the Day          
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…
  
-# S18478ShowalterUSER INFO
-![image](http://pbs.twimg.com/profile_images/1649630359947034624/P_oVeiLT_normal.png)
+# ElestaMelloUSER INFO
+![image](http://pbs.twimg.com/profile_images/1647681164692389893/ushfd3bL_normal.png)
  
-`User ScreenName:` S18478Showalter 
+`User ScreenName:` ElestaMello 
  
-`User chosen Name:` Spaulding Showalter 
+`User chosen Name:` Elesta Mello 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Apr 22 04:25:00 +0000 2023 
+`User signup date?:` Sun Apr 16 19:19:36 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `25 
+`Followers?: `5 
  
-`Following?:` 86 
+`Following?:` 48 
  
 `User URL?:` None 
  
@@ -143,48 +157,9 @@ Check eligibility and grab yours before it's too late😎:
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1649630359947034624/P_oVeiLT_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1647681164692389893/ushfd3bL_normal.png 
  
-`Number of tweets excluding replies:` 357 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TUCKER** 26 , **US** 17 , **NEWS** 16 , **CARLSON** 15 , **@BLACKINTHEEMPIR:** 14 , **FOX** 14 , **WAR** 13 , **@WALLSTREETSILV:** 12 , **@GGREENWALD:** 11 , **MEDIA** 10 , **@CAITOZ:** 9 , **@VINCENTCRYPT46:** 9 , **@SARCASMSTARDUST:** 8 , **FIRED** 8 , **PEOPLE** 7 , **MONEY** 7 , **WORLD** 7 , **@GRDECTER:** 7 , **NEW** 7 , **GOOD** 7 , 
- 
-## What this user tweeted
- 
-RT @johnpilger: This is a rare report from eastern Ukraine and Russia, by the indomitable Randy Credico, scared and brave, putting to shame…
- 
-# ivan44339859190USER INFO
-![image](http://pbs.twimg.com/profile_images/1650896421296406528/--buj7rX_normal.jpg)
- 
-`User ScreenName:` ivan44339859190 
- 
-`User chosen Name:` ivan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 23 16:57:58 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650896421296406528/--buj7rX_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 416 
  
 
  
@@ -192,402 +167,60 @@ RT @johnpilger: This is a rare report from eastern Ukraine and Russia, by the in
  
 ## User Top tweeted words 
  
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
+**@ADVOBARRYROUX:** 21 , **INFOSEC** 14 , **CYBERSECURITY** 14 , **@GODPENUEL:** 14 , **@HACKINARTICLES:** 12 , **CYBERSECURITYTIPS** 10 , **AFTER** 9 , **PENTESTING** 8 , **PEOPLE** 8 , **@CHRISEXCEL102:** 8 , **DAY** 7 , **THESE** 7 , **FREE** 7 , **SOUTH** 7 , **CHEAT** 6 , **WOMEN** 6 , **MAN** 6 , **MAKE** 6 , **STOP** 6 , **BEST** 6 , 
  
 ## What this user tweeted
  
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
+RT @Shubham_pen: Firewall Testing Checklist  
+Credit:https://t.co/i5GIh40G5T…
 
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
+#infosec #cybersecurity #hacking #DataSecurity #CyberSec #bu…RT @hackinarticles: Hydra Cheat Sheet  
+
+📷Full HD Image: https://t.co/rStsrJzXjE
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #r…RT @hackinarticles: Ethical Hacking Proactive Training
+
+Join Ignite Technologies ETHICAL HACKING PROACTIVE TRAINING live sessions with core…RT @hack_git: PE-Obfuscator
+
+PE obfuscator with Evasion in mind,  needs Admin Privilege in order to load RTCore64 driver.
+
+https://t.co/RkB…RT @hackinarticles: Metasploit Cheat Sheet  
+
+📷Full HD Image: https://t.co/TwVzFbbrBw
+
+#infosec #cybersecurity #cybersecuritytips #pentesti…RT @hackinarticles: Firefox Addons for Pentester
+
+📷Full HD Image: https://t.co/LhMHbOe25p
+
+#infosec #cybersecurity #cybersecuritytips #pent…RT @hack_git: PentestGPT
+
+A GPT-empowered penetration testing tool.
+
+https://t.co/LKowXigB9O
+
+#cybersecurity #infosec #pentesting
+https://t…RT @hackinarticles: Pic of the Day          
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationse…RT @hackinarticles: Nmap Cheat Sheet  
+
+📷Full HD Image: https://t.co/Mpaz0HCl8x
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #re…RT @hackinarticles: Linux Attack Cheat Sheet  
+
+📷Full HD Image: https://t.co/CwPLBuWp5c
+
+#infosec #cybersecurity #cybersecuritytips #pentes…
  
-# JohnTatum918593USER INFO
-![image](http://pbs.twimg.com/profile_images/1650992198173749251/kC6PvxwB_normal.png)
+# 3qElliotta61403USER INFO
+![image](http://pbs.twimg.com/profile_images/1650946864798134286/6HfM-qYT_normal.jpg)
  
-`User ScreenName:` JohnTatum918593 
+`User ScreenName:` 3qElliotta61403 
  
-`User chosen Name:` John Tatum 
+`User chosen Name:` elliottAY 3q 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 25 22:36:28 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650992198173749251/kC6PvxwB_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@VISEGRAD24:** 1 , **RUSSIANS** 1 , **PUBLISHED** 1 , **VIDEO** 1 , **CUTTING** 1 , **HEAD** 1 , **OFF** 1 , **CAPTURED** 1 , **UKRAINIAN** 1 , **SOLDIER** 1 , **TRIES** 1 , **STRUGGLE…** 1 , 
- 
-## What this user tweeted
- 
-RT @visegrad24: The Russians have just published a video of them cutting the head off a captured Ukrainian soldier as he tries to struggle…
- 
-# Inthacut2_0USER INFO
-![image](http://pbs.twimg.com/profile_images/1650896293785485313/Z_VIXuif_normal.jpg)
- 
-`User ScreenName:` Inthacut2_0 
- 
-`User chosen Name:` Lyssa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 03:44:12 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 5 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650896293785485313/Z_VIXuif_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# JoshuaPage76349USER INFO
-![image](http://pbs.twimg.com/profile_images/1650895618599178241/lPXHi57k_normal.jpg)
- 
-`User ScreenName:` JoshuaPage76349 
- 
-`User chosen Name:` Joshua Page 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 24 02:08:46 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650895618599178241/lPXHi57k_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# who_satoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1648686551604559872/ZCudA9fe_normal.png)
- 
-`User ScreenName:` who_sato 
- 
-`User chosen Name:` who sato 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 13:54:39 +0000 2023 
- 
-`User Description?:` who me to see.
-sow seeds of soul. 
- 
-`Followers?: `2 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:` 北海道 
- 
-`Number of tweets extracted`  : 26 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648686551604559872/ZCudA9fe_normal.png 
- 
-`Number of tweets excluding replies:` 27 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**UKRAINE** 14 , **OTONARI** 13 , **SOLETLUNA** 12 , **GOODLUCK** 10 , **SOW** 10 , **SEEDS** 10 , **แมนสรวง** 10 , **LISA** 9 , **IKON** 7 , **SOUL** 5 , **تمديد_إجازة_العيد** 5 , **CHANGE** 4 , **ZIB2** 4 , **บวงสรวงดื้อเฮียก็หาว่าซน** 4 , **CAN'T** 3 , **PAST** 3 , **FUTURE** 3 , **النصر_الوحده** 3 , **THINGS** 2 , **GO** 2 , 
- 
-## What this user tweeted
- 
-We will get stronger as things go.
- We will know as things go.
- Joy and sadness to the end of these days are the ke… https://t.co/nHkYWkndy0You can't turn back time.
- You can't change the facts of the past.
- But you can't change the past.
- If you change y… https://t.co/4Y7BOQ4Pwn
- 
-# 96GMRUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` 96GMR 
- 
-`User chosen Name:` Ghulam Murtaza Rind 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 20 10:00:06 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 66 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 11 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 11 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@POLITICALPRISM_:** 3 , **@PECONOMIST_:** 2 , **ARMS** 2 , **🧵** 2 , **STATEMENT** 2 , **VILLAGE** 2 , **PAKISTAN** 2 , **ہم** 2 , **کر** 2 , **@SAFFRONDIARIES:** 2 , **CONGRESS** 2 , **PULWAMAATTACK** 2 , **QUESTIONS** 2 , **RT** 1 , **SALES** 1 , **RUSSIA** 1 , **UKRAINE** 1 , **CONFLICT** 1 , **RUSSIAN** 1 , **EMBASSY** 1 , 
- 
-## What this user tweeted
- 
-RT @peconomist_: ARMS SALES IN RUSSIA UKRAINE CONFLICT
-A 🧵
-
-Russian Embassy recently issued a statement that, “Any arms deliveries to #Ukra…
- 
-# lex_betts_USER INFO
-![image](http://pbs.twimg.com/profile_images/1650895261131239424/oJqbEv9b_normal.png)
- 
-`User ScreenName:` lex_betts_ 
- 
-`User chosen Name:` Lex 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 17:14:46 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650895261131239424/oJqbEv9b_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# Igor71949342919USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Igor71949342919 
- 
-`User chosen Name:` Igor 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 22:00:12 +0000 2023 
- 
-`User Description?:` •Democrat
-•Slava Ukraine🇺🇦🇺🇦🇺🇦
-•#Abortionrights 
- 
-`Followers?: `97 
- 
-`Following?:` 1663 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 148 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 148 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ZELENSKYYUA** 16 , **UKRAINE** 16 , **NEW** 9 , **GOVERNMENT** 8 , **@DEAHQ** 7 , **MEN** 7 , **RUSSIA** 6 , **MILITARY** 6 , **SUPPORT** 6 , **@LOCKHEEDMARTIN:** 6 , **@JUSTINTRUDEAU** 6 , **@OLEKSIIREZNIKOV** 5 , **UKRAINIAN** 5 , **SOLDIERS** 5 , **FIGHTING** 5 , **PRESIDENT** 5 , **@ZELENSKYYUA:** 5 , **DAY** 5 , **BACK** 5 , **WAR** 5 , 
- 
-## What this user tweeted
- 
-@rej0604 That's why @ZelenskyyUa and @oleksiireznikov  and @CinC_AFU and Ukraine security service have to be aware of the enemy trenches@rej0604 Possibly yes,the trenches will surprise the Ukrainian troops when they counterattack which then  the count… https://t.co/Keo5Xtg5RX
- 
-# UuupinokUSER INFO
-![image](http://pbs.twimg.com/profile_images/1650895183960059909/pbsYw4Dc_normal.jpg)
- 
-`User ScreenName:` Uuupinok 
- 
-`User chosen Name:` Uuuping 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 17 16:20:23 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650895183960059909/pbsYw4Dc_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# Darmirex18USER INFO
-![image](http://pbs.twimg.com/profile_images/1650895156680482816/NfL6D7IE_normal.jpg)
- 
-`User ScreenName:` Darmirex18 
- 
-`User chosen Name:` Darmirex 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 23:33:22 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 17 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650895156680482816/NfL6D7IE_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 2 , **LAS** 2 , **RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…HOY** 1 , **PRESENTE** 1 , **LA** 1 , **PIZARRA** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# Maik63161347791USER INFO
-![image](http://pbs.twimg.com/profile_images/1650895011557285888/Eng_QwlF_normal.jpg)
- 
-`User ScreenName:` Maik63161347791 
- 
-`User chosen Name:` Maik 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 22 19:03:30 +0000 2023 
+`User signup date?:` Tue Apr 25 19:36:20 +0000 2023 
  
 `User Description?:`  
  
@@ -599,9 +232,134 @@ Check eligibility and grab yours before it's too late😎:
  
 `Location:`  
  
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1650946864798134286/6HfM-qYT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 4 , **FULL** 2 , **ACTIVATED** 2 , **MARKETING** 2 , **TOOL** 2 , **DISCOUNT** 2 , **100%** 2 , **OFF** 2 , **TUBE** 1 , **ATLAS** 1 , **PREMIUM** 1 , **V1030** 1 , **YOUTUBE** 1 , **HTTPS://TCO/ZNHXMMF8ZR…** 1 , **HTTPS://TCO/FMSX8H3AXOPINFLUX** 1 , **2** 1 , **AGENCY** 1 , **V35** 1 , **2022** 1 , **PINTEREST** 1 , 
+ 
+## What this user tweeted
+ 
+Tube Atlas Premium v1.0.3.0 Full Activated – YouTube Marketing Tool – Discount 100% OFF https://t.co/ZNHXMmF8zr… https://t.co/fMSx8h3AxOPinflux 2 Agency v3.5 2022 Full Activated – Pinterest Marketing Tool – Discount 100% OFF https://t.co/Hh6YqDLiOO… https://t.co/pAB0j2CKzZ
+ 
+# KryptNetwork_USER INFO
+![image](http://pbs.twimg.com/profile_images/1648983103082299392/0RbEyIji_normal.jpg)
+ 
+`User ScreenName:` KryptNetwork_ 
+ 
+`User chosen Name:` krypt network 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 16 14:55:56 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1648983103082299392/0RbEyIji_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HACKING** 5 , **INFOSEC** 4 , **BUG** 2 , **BUGBOUNTYTIPS** 2 , **👇** 2 , **BUGBOUNTY** 2 , **10** 1 , **MINUTE** 1 , **BOUNTIES** 1 , **CREDIT:** 1 , **GRAHAM** 1 , **ZEMEL** 1 , **HTTPS://TCO/PYYEFV0WEP** 1 , **OSINT🚨COLLECTION** 1 , **AWESOME** 1 , **GOOGLE** 1 , **DORKS🚨** 1 , **HTTPS://TCO/WXLSZ2QOP4** 1 , **DORKS…** 1 , **HTTPS://TCO/FGGMGGKXCJ🚨FIREWALL** 1 , 
+ 
+## What this user tweeted
+ 
+10 Minute Bug Bounties
+
+Credit: Graham Zemel
+
+https://t.co/PYYEfv0WEP
+
+#infosec #bugbountytips #hacking  #OSINT
+ 
+# LifeValidationUSER INFO
+![image](http://pbs.twimg.com/profile_images/1650148316858970113/WktKrKoW_normal.jpg)
+ 
+`User ScreenName:` LifeValidation 
+ 
+`User chosen Name:` Positive Mindset 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 23 14:40:50 +0000 2023 
+ 
+`User Description?:` Learn. Share. Vibe. Technology. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:` Nairobi, Kenya 
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1650148316858970113/WktKrKoW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 55 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FREE** 7 , **@BONIFACEMWANGI:** 5 , **ROAD** 4 , **/** 4 , **AI** 3 , **1** 3 , **@HACKINARTICLES:** 3 , **INFOSEC** 3 , **CYBERSECURITY** 3 , **CYBERSECURITYTIPS** 3 , **PENTESTING** 3 , **HERE** 3 , **PAY** 3 , **@ENGINEERS_FEED:** 3 , **---&GT;** 3 , **MINUTES** 3 , **LAND** 3 , **PEOPLE** 3 , **RT** 2 , **@CSABA_KISSI:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Tools used to Suspicious Emails
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #…
+ 
+# InfoKirimanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1650854283385147392/U0xgkWA1_normal.jpg)
+ 
+`User ScreenName:` InfoKiriman 
+ 
+`User chosen Name:` Kiriman Info 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 25 13:28:26 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
 `Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1650895011557285888/Eng_QwlF_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1650854283385147392/U0xgkWA1_normal.jpg 
  
 `Number of tweets excluding replies:` 1 
  
@@ -611,39 +369,119 @@ Check eligibility and grab yours before it's too late😎:
  
 ## User Top tweeted words 
  
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
+**DIABOLIC** 1 , **TRAFFIC** 1 , **BOT** 1 , **FULL** 1 , **EDITION** 1 , **V80** 1 , **LIFETIME** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/MUTWMOATRP** 1 , **INFOSEC…** 1 , **HTTPS://TCO/DEVBRRE4ZM** 1 , 
  
 ## What this user tweeted
  
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
+Diabolic Traffic Bot Full Edition v8.0 Lifetime Activated – Discount 100% OFF https://t.co/mUTwMoatrp #infosec… https://t.co/DEvbRRe4ZM
  
-# iamameerrizviUSER INFO
-![image](http://pbs.twimg.com/profile_images/1648068375632019456/wdNrZatw_normal.jpg)
+# TechTalks_AceUSER INFO
+![image](http://pbs.twimg.com/profile_images/1648601439864848384/tC-cSVoO_normal.jpg)
  
-`User ScreenName:` iamameerrizvi 
+`User ScreenName:` TechTalks_Ace 
  
-`User chosen Name:` Ameer A Raza 
+`User chosen Name:` TechTalksHQ 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 17 20:58:14 +0000 2023 
+`User signup date?:` Tue Apr 18 08:29:19 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Working in Executive Leadership with over 20 years of experience at tech giants like Cisco, Netapp, and Microsoft:
+https://t.co/pGQ2HY9bTv 
  
-`Followers?: `6 
+`Followers?: `2 
  
-`Following?:` 60 
+`Following?:` 8 
  
-`User URL?:` None 
+`User URL?:` https://t.co/r1y9xX04zO 
  
 `Location:`  
  
 `Number of tweets extracted`  : 24 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1648068375632019456/wdNrZatw_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1648601439864848384/tC-cSVoO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 24 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VIA** 23 , **RANSOMWARE** 17 , **@YOUTUBE…** 15 , **@YOUTUBE** 8 , **PHISHING** 6 , **STORY:** 5 , **HORROR** 4 , **VICTIM'S** 4 , **JOURNEY** 4 , **THROUGH** 4 , **ATTACK** 4 , **HTTPS://TCO/70PIAUTFLJ** 4 , **T** 3 , **HTTPS://TCO/SIMNKXSJCU** 3 , **HACKERS** 3 , **3** 3 , **RECESSION** 3 , **CRISIS:** 2 , **LOVE** 2 , **COUNTRY!** 2 , 
+ 
+## What this user tweeted
+ 
+India's is The Ransomware Capital of the World? How Cybercriminals are T... https://t.co/SImNkxSjCU via @YouTube… https://t.co/1TS3Mi0RfgIndia's Ransomware Crisis: How ransomware hackers love this country! https://t.co/SImNkxSjCU via @YouTube… https://t.co/HrJ0sNUXcsIndia's Ransomware Crisis: How ransomware hackers love this Country! https://t.co/SImNkxSjCU via @YouTube… https://t.co/5HEVCY5TD5RED FLAGS of a LinkedIn Ransomware Attack! #shorts https://t.co/WsNP8Q2W8p via @YouTube #CyberSecurity #hacker… https://t.co/5XJfJFag0c
+ 
+# OriendrilDevOpsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1647953974669058049/DSXTYjFK_normal.jpg)
+ 
+`User ScreenName:` OriendrilDevOps 
+ 
+`User chosen Name:` Oriendril DevOps 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 17 13:02:00 +0000 2023 
+ 
+`User Description?:` Dev in progress...🧑‍💻 
+ 
+`Followers?: `8 
+ 
+`Following?:` 188 
+ 
+`User URL?:` None 
+ 
+`Location:` anywhere 
+ 
+`Number of tweets extracted`  : 22 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1647953974669058049/DSXTYjFK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 22 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 14 , **À** 7 , **LES** 6 , **LE** 6 , **UNE** 5 , **POUR** 5 , **JE** 5 , **ET** 4 , **PAS** 4 , **!** 4 , **TOUS** 3 , **VOUS** 3 , **EN** 3 , **DES** 3 , **DANS** 3 , **PROJET** 3 , **LANGAGES** 2 , **AVEZ** 2 , **BONNES** 2 , **SUR** 2 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Firefox Addons for Pentester
+
+📷Full HD Image: https://t.co/LhMHbOe25p
+
+#infosec #cybersecurity #cybersecuritytips #pent…
+ 
+# itzhak_gUSER INFO
+![image](http://pbs.twimg.com/profile_images/1650554497247195152/h3e0BEPN_normal.png)
+ 
+`User ScreenName:` itzhak_g 
+ 
+`User chosen Name:` Itzhak Grinboim 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 24 17:37:12 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1650554497247195152/h3e0BEPN_normal.png 
  
 `Number of tweets excluding replies:` 26 
  
@@ -653,80 +491,38 @@ Check eligibility and grab yours before it's too late😎:
  
 ## User Top tweeted words 
  
-**@LFC:** 3 , **@GERALDCELENTE:** 3 , **NEWS** 3 , **@WALLSTREETSILV:** 2 , **YEARS** 2 , **TRENDS** 2 , **JOURNAL** 2 , **TREND** 2 , **FORECASTING** 2 , **INDEPENDENT** 2 , **AGO** 2 , **DG** 2 , **MEETING** 2 , **RT** 1 , **WATCH** 1 , **FREE** 1 , **HIGHLIGHTS** 1 , **3-2** 1 , **SUCCESS** 1 , **LIVNFO** 1 , 
+**@CLAROTY:** 16 , **@MEDIGATELTD:** 10 , **@CLAROTY** 8 , **OPC** 6 , **UA** 6 , **HEALTHCARE** 5 , **NEXUS** 5 , **TEAM82** 4 , **ITS** 4 , **SERIES** 4 , **PRODUCT** 4 , **DEEP** 3 , **DIVE** 3 , **GUIDE** 3 , **SECURITY** 3 , **APRIL** 3 , **JOIN** 3 , **MEDIGATE** 3 , **CYBERSECURITY** 3 , **20-MINUTE** 3 , 
  
 ## What this user tweeted
  
-@RT_com's account has been withheld in Belgium, Austria, Bulgaria, Sweden, Croatia, Spain, Slovenia, Cyprus, Slovakia, Czech Republic, Romania, Portugal, Poland, Denmark, Netherlands, Estonia, Malta, Luxembourg, Finland, France, Lithuania, Germany, Greece, Latvia, Hungary, Italy, Ireland, United Kingdom in response to a legal demand. Learn more.
+RT @MedigateLtd: 🥇 Medigate by @Claroty is honored to receive the Cyber Defense Global InfoSec award for Best Solution Healthcare IoT Secur…
  
-# marina686149831USER INFO
-![image](http://pbs.twimg.com/profile_images/1650894781424230402/RIfRAhcS_normal.jpg)
+# williammad3737USER INFO
+![image](http://pbs.twimg.com/profile_images/1650724428614090752/oWIcack5_normal.png)
  
-`User ScreenName:` marina686149831 
+`User ScreenName:` williammad3737 
  
-`User chosen Name:` marina 
+`User chosen Name:` william madia 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 20 18:18:56 +0000 2023 
+`User signup date?:` Tue Apr 25 04:52:27 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 19 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1650894781424230402/RIfRAhcS_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1650724428614090752/oWIcack5_normal.png 
  
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# officialdhejiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1650894556659949570/jpyKMfTY_normal.jpg)
- 
-`User ScreenName:` officialdheji 
- 
-`User chosen Name:` Mr Dee 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 21 07:17:06 +0000 2023 
- 
-`User Description?:` follow me for more sure odds. let’s win together 
- 
-`Followers?: `1 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650894556659949570/jpyKMfTY_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -734,545 +530,11 @@ Check eligibility and grab yours before it's too late😎:
  
 ## User Top tweeted words 
  
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…@TALENTEDFBG** 1 , **PLAY** 1 , **GAME** 1 , **???@TALENTEDFBG** 1 , **HTTPS://TCO/BT5CXYUW4X@TALENTEDFBG** 1 , **MAKE** 1 , 
+**–** 2 , **BURP** 1 , **BOUNTY** 1 , **PRO** 1 , **FULL** 1 , **ACTIVATED** 1 , **RIDE** 1 , **FIRST** 1 , **BUG** 1 , **HUNTING** 1 , **SPECIAL** 1 , **COUPON** 1 , **DISCOUNT** 1 , **20%** 1 , **OFF…** 1 , **HTTPS://TCO/X3URCMHHKB@3XS0** 1 , **THX@3XS0** 1 , 
  
 ## What this user tweeted
  
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# THEMANA_AYAKAUSER INFO
-![image](http://pbs.twimg.com/profile_images/1650894526851031041/I5F0VYql_normal.jpg)
- 
-`User ScreenName:` THEMANA_AYAKA 
- 
-`User chosen Name:` AYAKA 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 21 10:14:27 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650894526851031041/I5F0VYql_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# chny1925733864USER INFO
-![image](http://pbs.twimg.com/profile_images/1650894515681607686/Ug35T1Kt_normal.jpg)
- 
-`User ScreenName:` chny1925733864 
- 
-`User chosen Name:` 陳宇 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 23 01:08:50 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650894515681607686/Ug35T1Kt_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# Yolo23301298098USER INFO
-![image](http://pbs.twimg.com/profile_images/1650894464402030597/_9LMGLHC_normal.jpg)
- 
-`User ScreenName:` Yolo23301298098 
- 
-`User chosen Name:` Yolo 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 21 07:03:30 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650894464402030597/_9LMGLHC_normal.jpg 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **AIRDROP** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# dorkzonerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1649883416756723713/NyzJ5ZHh_normal.jpg)
- 
-`User ScreenName:` dorkzoner 
- 
-`User chosen Name:` I don't even know 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 22 21:08:03 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 14 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 10 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649883416756723713/NyzJ5ZHh_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STUPID** 3 , **LAVROV** 2 , **@UKRAINE_WORLD** 1 , **INTERESTING** 1 , **LONG** 1 , **RIDICULED** 1 , **UNTIL** 1 , **GOES** 1 , **AWAY@GERASHCHENKO_EN** 1 , **NORTH** 1 , **KOREA** 1 , **MOST** 1 , **STABILE** 1 , **COUNTRY** 1 , **WORLD@EUROMAIDANPRESS** 1 , **WALKING** 1 , **JOKE@KYIVINDEPENDENT** 1 , **RUSSIA** 1 , **ISN'T** 1 , **GOOD** 1 , 
- 
-## What this user tweeted
- 
-@ukraine_world It will be interesting to see how long Lavrov can be ridiculed until he just goes away.
- 
-# JerryKenec38743USER INFO
-![image](http://pbs.twimg.com/profile_images/1650943327720681473/9WcKA3X4_normal.png)
- 
-`User ScreenName:` JerryKenec38743 
- 
-`User chosen Name:` Jerry Kenechukwu 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 25 19:22:16 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 29 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650943327720681473/9WcKA3X4_normal.png 
- 
-`Number of tweets excluding replies:` 29 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@SIMON_EKPA:** 29 , **BIAFRA** 16 , **BRGIE** 13 , **QUESTION** 7 , **ANSWER** 7 , **PART** 6 , **PRIME** 6 , **MINISTER** 6 , **UPDATE!** 5 , **SIMON** 5 , **EKPA** 5 , **LIBERATION:** 5 , **ENTERBIAFRA** 4 , **NIGERIA** 3 , **LIBERATION** 3 , **2** 3 , **HTTPS://T…RT** 3 , **CALLING** 3 , **THROUGH** 3 , **REGION** 2 , 
- 
-## What this user tweeted
- 
-RT @simon_ekpa: The commander of the Armed Forces of Estonia, Martin Herem, said that Russia should break up into a large number of small s…
- 
-# Laila2806860901USER INFO
-![image](http://pbs.twimg.com/profile_images/1650894042220339203/XSQLF7iz_normal.png)
- 
-`User ScreenName:` Laila2806860901 
- 
-`User chosen Name:` Laila 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 12:29:13 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650894042220339203/XSQLF7iz_normal.png 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AIRDROP** 2 , **$STONKS** 2 , **RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…RT** 1 , **@STONKS_DAO_COIN:** 1 , **📈THE** 1 , **LIVE!📈** 1 , **FIND** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# user17111995USER INFO
-![image](http://pbs.twimg.com/profile_images/1650894006325325826/sjF8acvt_normal.jpg)
- 
-`User ScreenName:` user17111995 
- 
-`User chosen Name:` Rai Di bacco 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 23 04:42:11 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650894006325325826/sjF8acvt_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AIRDROP** 2 , **$STONKS** 2 , **RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…RT** 1 , **@STONKS_DAO_COIN:** 1 , **📈THE** 1 , **LIVE!📈** 1 , **FIND** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# MelanieBru81525USER INFO
-![image](http://pbs.twimg.com/profile_images/1650893987405008901/ou8wmtfW_normal.jpg)
- 
-`User ScreenName:` MelanieBru81525 
- 
-`User chosen Name:` Mélanie Bruni 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 23 14:04:19 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650893987405008901/ou8wmtfW_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AIRDROP** 2 , **$STONKS** 2 , **RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…RT** 1 , **@STONKS_DAO_COIN:** 1 , **📈THE** 1 , **LIVE!📈** 1 , **FIND** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# kikdarawan42USER INFO
-![image](http://pbs.twimg.com/profile_images/1650893834912686083/72nqgMZr_normal.png)
- 
-`User ScreenName:` kikdarawan42 
- 
-`User chosen Name:` Darawan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 19:00:31 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650893834912686083/72nqgMZr_normal.png 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AIRDROP** 2 , **$STONKS** 2 , **RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…RT** 1 , **@STONKS_DAO_COIN:** 1 , **📈THE** 1 , **LIVE!📈** 1 , **FIND** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# Ppayyu196473USER INFO
-![image](http://pbs.twimg.com/profile_images/1650893374055141376/XGK3PHUh_normal.jpg)
- 
-`User ScreenName:` Ppayyu196473 
- 
-`User chosen Name:` Ppayyu 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 10:06:19 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650893374055141376/XGK3PHUh_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**AIRDROP** 2 , **$STONKS** 2 , **RT** 1 , **@_REKTARB_:** 1 , **$REKT** 1 , **STILL** 1 , **LIVE** 1 , **ONGOING!** 1 , **CHECK** 1 , **ELIGIBILITY** 1 , **GRAB** 1 , **YOURS** 1 , **BEFORE** 1 , **TOO** 1 , **LATE😎:** 1 , **🔗HTTPS://TCO/C7EIVC9…RT** 1 , **@STONKS_DAO_COIN:** 1 , **📈THE** 1 , **LIVE!📈** 1 , **FIND** 1 , 
- 
-## What this user tweeted
- 
-RT @_RektArb_: The $REKT #Airdrop is still live and ongoing!
-
-Check eligibility and grab yours before it's too late😎:
-🔗https://t.co/c7EiVC9…
- 
-# DirkDigkleUSER INFO
-![image](http://pbs.twimg.com/profile_images/1649836842945052676/hZ1lNzmD_normal.png)
- 
-`User ScreenName:` DirkDigkle 
- 
-`User chosen Name:` Axel Scharf 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 22 18:05:30 +0000 2023 
- 
-`User Description?:` Just a dude 
- 
-`Followers?: `1 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 59 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649836842945052676/hZ1lNzmD_normal.png 
- 
-`Number of tweets excluding replies:` 59 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@D_FOUBERT** 34 , **@NAVARRAISE** 24 , **POLAND** 14 , **@PAWEL_REKO** 14 , **MILITARY** 9 , **EU** 8 , **%** 8 , **@BENESMAEL1** 8 , **?** 7 , **WELL** 7 , **GERMANY** 7 , **@OHBROKENBRITAIN** 7 , **@HOWBEEF** 7 , **@MAILONLINE** 7 , **@SUELLABRAVERMAN** 7 , **@ANDREASMOLLARD** 6 , **POLISH** 6 , **GDP** 6 , **UKRAINE** 5 , **YEAR** 5 , 
- 
-## What this user tweeted
- 
-@NN49906174 @JedziemyDalej @andreasmollard @d_foubert Billions ? That's not what statistics say . For the German ta… https://t.co/4aMthBl2oc
- 
-# vodkaanis767USER INFO
-![image](http://pbs.twimg.com/profile_images/1650961081257562112/n4x--CsX_normal.png)
- 
-`User ScreenName:` vodkaanis767 
- 
-`User chosen Name:` Anis Vodka 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 25 20:32:49 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 38 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650961081257562112/n4x--CsX_normal.png 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@CTVNEWS** 3 , **@SARGON_OF_AKKAD** 2 , **@MICHAELMALICE** 2 , **@AARVIC** 2 , **@TRAUMAAANURSE** 2 , **@JUSTINTRUDEAU** 2 , **@PLANETDEMISE** 1 , **WELL** 1 , **UK** 1 , **FAR** 1 , **AFTER** 1 , **HAPPENED** 1 , **CANADIAN…** 1 , **HTTPS://TCO/DXHKZHGG3V@ANATOLIISHARII** 1 , **ЕСТЬ** 1 , **ФОТО/ВИДЕО/ДОКАЗАТЕЛЬСТВА?** 1 , **Я** 1 , **В** 1 , **АНГЛОЯЗЫЧНОЙ** 1 , **СТРАНЕ** 1 , 
- 
-## What this user tweeted
- 
-@CTVNews They're grabbing guys from the streets and forcing them to die in these trenches. Ukraine is a concentration camp for males.
- 
-# LaranjaParaisoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1649818369590190085/q1VhKaG3_normal.jpg)
- 
-`User ScreenName:` LaranjaParaiso 
- 
-`User chosen Name:` Laranja Paraíso 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 22 16:51:17 +0000 2023 
- 
-`User Description?:` 🍊👍🤠🙂😎 
- 
-`Followers?: `39 
- 
-`Following?:` 1401 
- 
-`User URL?:` https://t.co/GJ4ctHmYgc 
- 
-`Location:` Global 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649818369590190085/q1VhKaG3_normal.jpg 
- 
-`Number of tweets excluding replies:` 344 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 28 , **O** 20 , **CHEGA** 17 , **DA** 15 , **QUE** 13 , **E** 12 , **NA** 12 , **PARA** 10 , **NEW** 9 , **ASSEMBLEIA** 8 , **REPÚBLICA** 7 , **25** 7 , **EM** 7 , **FIRST** 7 , **BIRTHDAY** 6 , **NÃO** 6 , **MONTENEGRO** 6 , **OS** 6 , **=** 6 , **HAPPY** 5 , 
- 
-## What this user tweeted
- 
-RT @TheStudyofWar: Here are today's control-of-terrain maps of #Russia's invasion of #Ukraine from @TheStudyofWar and @criticalthreats.…
+Burp Bounty Pro Full Activated – Ride First on Bug Hunting – Special Coupon Discount 20% OFF… https://t.co/x3urcMHHKB
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
