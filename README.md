@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **joncoopertweets**  
+The most popular user is: **FabrizioRomano**  
  
 
-## 🚨BREAKING: An arbitration panel has ordered Mike Lindell to pay $5 million to a cybersecurity expert who debunked h… https://t.co/eTxXKwVkcy 
+## Sheikh Jassim has submitted his final bid for Manchester United. 🚨🔴🇶🇦 #MUFC 
+
+In addition to figure to buy the Club… https://t.co/7AUCVAgGg2 
 
   
 
@@ -23,25 +25,25 @@ The most popular user is: **joncoopertweets**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BlackBerry: Join #BlackBerry Principal Sales Engineer Matt Gueiros for the "Ransomware - Defending Against a Persistent Threat" panel d… |
-| Ransomware attack reported in Spartanburg County, South Carolina https://t.co/UhF8wYPPQE #databreach #cybersecurity |
-| ⚠️Top #phishing scams of the week: #Walmart, #Amazon, #Netflix, and #MetaMask - can you spot these #scams?… https://t.co/mqZaCCzb4k |
+| @AlyssaM_InfoSec What do I do? Laugh and ignore them. What is the collective term for a group of ‘alphas’? A thud?… https://t.co/ql1o2oTZz4 |
+| RT @Carlos303664634: Snap👻: james420fr#DataSecurity #Privacy#100DaysOfCode #CloudSecurity#MachineLearning #Phishing #Ransomware #Cyberse… |
+| Sophos Reveals New Insights for Protecting Against Active Adversaries: https://t.co/ldR7x4zQrH by Dark Reading… https://t.co/gbFZz4mEW0 |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **hackinarticles** |
 | #2 Most tweeted to  | **SecurityTrybe** |
-| #3 Most tweeted to  | **0xor0ne** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 5.94%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #3 Most tweeted to  | **hack_git** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 6.26%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,95 +53,56 @@ The most popular user is: **joncoopertweets**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **US**  |
-| third  | **LOOKING** |
-| fourth  | **AI**  |
-| fifth  | **LEARN**  |
+| second  | **PENTESTING**  |
+| third  | **INFORMATIONSECURITY** |
+| fourth  | **@HACKINARTICLES:**  |
+| fifth  | **CYBERSECURITYTIPS**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (30.0%) & **NEGATIVELY-SUBJECTIVE** (30.0%) **OBJECTIVE** (40.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|If your looking for a great secure email try protonmail. Sign up below 👇 https://t.co/X29Hb1uJa4#secureemail… https://t.co/CteBTWEyhC |
+|Detected #phishing clone at address: hxxp://banlombpersnas[.]royalwebhosting[.]net/#BancoColombia #bank #infosec… https://t.co/yWOzon77lY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joncoopertweets**  |
+| The most retweeted user is: **FabrizioRomano**  |
 | ------------- |
-| 🚨BREAKING: An arbitration panel has ordered Mike Lindell to pay $5 million to a cybersecurity expert who debunked h… https://t.co/eTxXKwVkcy |
+| Sheikh Jassim has submitted his final bid for Manchester United. 🚨🔴🇶🇦 #MUFC In addition to figure to buy the Club… https://t.co/7AUCVAgGg2 |
 
 # Potential Fake Accounts
  
-# CliffMcGhe101USER INFO
-![image](http://pbs.twimg.com/profile_images/1649085182069055488/hxi7q9_h_normal.jpg)
+# ohhelloarsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1651784036686151680/Mr4_ls5s_normal.jpg)
  
-`User ScreenName:` CliffMcGhe101 
+`User ScreenName:` ohhelloars 
  
-`User chosen Name:` Cliff McGhee 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 20 16:16:41 +0000 2023 
- 
-`User Description?:` Collected every stone thrown at me and made myself an empire. 
- 
-`Followers?: `3 
- 
-`Following?:` 144 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 140 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649085182069055488/hxi7q9_h_normal.jpg 
- 
-`Number of tweets excluding replies:` 140 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 14 , **BREAKING:** 11 , **NEW** 10 , **COURT** 9 , **REPUBLICANS** 8 , **NEWS** 7 , **DAY** 7 , **SUPREME** 6 , **@CALLTOACTIVISM:** 6 , **@POTUS:** 6 , **WORK** 6 , **E** 6 , **JEAN** 6 , **PEOPLE** 5 , **DONALD** 5 , **CHILD** 5 , **AMERICA** 5 , **THE…RT** 5 , **SENATE** 5 , **FIRST** 5 , 
- 
-## What this user tweeted
- 
-RT @HomelandDems: 📺 WATCH: Ranking Member @RepSwalwell delivers his opening statement for the Cybersecurity &amp; Infrastructure Protection Sub…
- 
-# alladashivshanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1651149074937294851/z154k4Vp_normal.png)
- 
-`User ScreenName:` alladashivshan 
- 
-`User chosen Name:` Shivshankar Allada 
+`User chosen Name:` ashley renee 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 26 08:59:50 +0000 2023 
+`User signup date?:` Sun Apr 23 05:37:12 +0000 2023 
  
-`User Description?:`  
+`User Description?:` here for tech info and resources 👩🏽‍💻☕️ 
  
 `Followers?: `0 
  
-`Following?:` 0 
+`Following?:` 17 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 15 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1651149074937294851/z154k4Vp_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1651784036686151680/Mr4_ls5s_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 15 
  
 
  
@@ -147,92 +110,13 @@ RT @HomelandDems: 📺 WATCH: Ranking Member @RepSwalwell delivers his opening s
  
 ## User Top tweeted words 
  
-**SECURITY** 2 , **RT** 1 , **@OSTENDIO:** 1 , **BUILT** 1 , **HANDLE** 1 , **REAL** 1 , **THREATSNOT** 1 , **COMPLIANCE** 1 , **INTEGRATED** 1 , **RISK** 1 , **MANAGEMENT** 1 , **PLATFORM** 1 , **OSTENDIO…** 1 , 
+**@SHUBHAM_PEN:** 3 , **INFOSEC** 3 , **CYBERSECURITY** 3 , **INFORMATIONSECURITY** 3 , **HACKING** 3 , **BEST** 2 , **CHEAT** 2 , **SHEET** 2 , **DATASECURITY** 2 , **EVEN** 2 , **FAR** 2 , **YOU’RE** 2 , **BORN** 2 , **BEING** 2 , **NBA** 2 , **EVERYTHING** 2 , **RT** 1 , **@BADGALKEE:** 1 , **“I** 1 , **TALK** 1 , 
  
 ## What this user tweeted
  
-RT @Ostendio: Built to handle real security threats....not just your compliance.
-Integrated Security &amp; Risk Management Platform | Ostendio…
- 
-# HelenaBon81USER INFO
-![image](http://pbs.twimg.com/profile_images/1650532316739936257/p_JwqS2R_normal.jpg)
- 
-`User ScreenName:` HelenaBon81 
- 
-`User chosen Name:` Helena Bonham 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 24 16:07:59 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650532316739936257/p_JwqS2R_normal.jpg 
- 
-`Number of tweets excluding replies:` 660 
- 
+RT @Shubham_pen: Best of PORTS Cheat Sheet  
 
- 
-
- 
-## User Top tweeted words 
- 
-**ACCOUNT** 131 , **ISSUE** 92 , **SUPPORT** 88 , **HTTPS://TCO/F7LSGFKTG4** 81 , **TEAM** 65 , **SUCKS!** 65 , **SIMILAR** 65 , **TRIED** 65 , **REACHING** 65 , **BUT…** 65 , **INSTAGRAM** 53 , **REACH** 44 , **HIGH** 44 , **CHANCE** 44 , **RECOVERYIF** 40 , **DON’T** 40 , **MIND** 40 , **ADVISE** 40 , **TO…** 40 , **GOT** 40 , 
- 
-## What this user tweeted
- 
-Sorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/VTPlM3NzRXSorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/x0UFTmpHitSorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/EBmIYG06nESorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/Lcg9RdKjaT
- 
-# ohaja_prin32769USER INFO
-![image](http://pbs.twimg.com/profile_images/1649660477943758848/tUnMPHkK_normal.png)
- 
-`User ScreenName:` ohaja_prin32769 
- 
-`User chosen Name:` Lucid_bwoi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 22 06:24:41 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 42 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 48 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1649660477943758848/tUnMPHkK_normal.png 
- 
-`Number of tweets excluding replies:` 48 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BOSS** 8 , **@SECURITYTRYBE:** 7 , **3** 5 , **GOOD** 5 , **1** 4 , **2** 4 , **CYBERSECURITY** 4 , **DAY** 4 , **SOME** 3 , **USE** 3 , **SECURITY** 3 , **4** 3 , **5** 3 , **NETWORK** 3 , **BECOME** 3 , **GO** 3 , **📁** 3 , **@CORPORATEEWA** 3 , **US** 3 , **HERE** 2 , 
- 
-## What this user tweeted
- 
-RT @SecurityTrybe: Web Errors 
-
-#CyberSec #cybersecurity #tech #infosec https://t.co/gqpX3WwaVD
+#infosec #cybersecurity #informationsecurity #hacking #DataSecurity #CyberSec #bugbountytips…
  
 # 0x4A4FUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1650334694016184320/pxFSWY5S_normal.jpg)
@@ -249,17 +133,17 @@ RT @SecurityTrybe: Web Errors
  
 `Followers?: `17 
  
-`Following?:` 74 
+`Following?:` 82 
  
 `User URL?:` None 
  
 `Location:` Internet  
  
-`Number of tweets extracted`  : 16 
+`Number of tweets extracted`  : 24 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1650334694016184320/pxFSWY5S_normal.jpg 
  
-`Number of tweets excluding replies:` 16 
+`Number of tweets excluding replies:` 24 
  
 
  
@@ -267,46 +151,42 @@ RT @SecurityTrybe: Web Errors
  
 ## User Top tweeted words 
  
-**NEED** 2 , **COMING** 2 , **INTO** 2 , **FOLLOWING** 2 , **@0XOR0NE:** 2 , **LINUX** 2 , **MALWARE** 2 , **@HABSKII** 1 , **@ZXSMITHH** 1 , **CONQUER** 1 , **DESTROY** 1 , **VALUES** 1 , **​​AND** 1 , **BELIEFS** 1 , **NATION** 1 , **THAT'S** 1 , **EXACTLY** 1 , **TIKTOK** 1 , **WA…** 1 , **HTTPS://TCO/VUA3LAORDMRT** 1 , 
+**MALWARE** 4 , **نحن** 3 , **من** 3 , **جيل** 2 , **ولم** 2 , **CYBERSECURITY** 2 , **INFOSEC** 2 , **НА** 2 , **BOOK** 2 , **NEED** 2 , **COMING** 2 , **INTO** 2 , **FOLLOWING** 2 , **@0XOR0NE:** 2 , **LINUX** 2 , **@ABASHAI_** 1 , **@SIGMAFI_APP** 1 , **SCALABILITY** 1 , **UTXO** 1 , **MODEL** 1 , 
  
 ## What this user tweeted
  
-RT @0xor0ne: Cool book by @mytechnotalent if you want to learn the basics of reverse engineering
-
-https://t.co/yWK2oYP7hV
-
-#cybersecurity h…RT @0xor0ne: HiatusRAT Linux router malware analysis by @lumentechco
+RT @ptracesecurity: Analyzing Malware using FREE Online Tools https://t.co/q84hq3rvu0  #Pentesting #Malware  #CyberSecurity #Infosec https:…RT @0xor0ne: HiatusRAT Linux router malware analysis by @lumentechco
 
 https://t.co/KDYMBQj2G1
 
 #infosec #malware #Linux #iot #cybersecurity…
  
-# htp_onlineUSER INFO
-![image](http://pbs.twimg.com/profile_images/1651861455912808448/1kbR3Dp6_normal.jpg)
+# BoLessons87913USER INFO
+![image](http://pbs.twimg.com/profile_images/1649125384883929106/oh9fPu0e_normal.png)
  
-`User ScreenName:` htp_online 
+`User ScreenName:` BoLessons87913 
  
-`User chosen Name:` 404xNotFound 
+`User chosen Name:` BO Lessons 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 25 23:13:28 +0000 2023 
+`User signup date?:` Thu Apr 20 18:58:25 +0000 2023 
  
-`User Description?:` #AntiReligion #HackThePlanet | Program in a few languages. #SoftwareDeveloper | No affiliation. 
+`User Description?:`  
  
-`Followers?: `7 
+`Followers?: `0 
  
-`Following?:` 138 
+`Following?:` 2 
  
 `User URL?:` None 
  
-`Location:` United States 
+`Location:`  
  
-`Number of tweets extracted`  : 173 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1651861455912808448/1kbR3Dp6_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1649125384883929106/oh9fPu0e_normal.png 
  
-`Number of tweets excluding replies:` 173 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -314,45 +194,116 @@ https://t.co/KDYMBQj2G1
  
 ## User Top tweeted words 
  
-**@ANONOPSUNITED2** 26 , **@ANONOPSUNITED2:** 26 , **ANONYMOUS** 16 , **OPGOP** 15 , **YOU'RE** 14 , **SEXUAL** 11 , **BUG** 9 , **GOP** 8 , **PREDATORS** 8 , **RUSSIAN** 6 , **LAW** 6 , **GOOD** 6 , **DAY** 6 , **@OLEX_SCHERBA** 6 , **XSS** 6 , **REPUBLICAN** 6 , **BOUNTY** 6 , **STATES** 6 , **DON'T** 5 , **I'M** 5 , 
+**WEBSITE** 1 , **2** 1 , **APK** 1 , **BUILDER** 1 , **MATERIAL** 1 , **PLUS** 1 , **EDITION** 1 , **V5101** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/TLPBWTO9FY…** 1 , **HTTPS://TCO/ZWEEROYKQ3** 1 , 
  
 ## What this user tweeted
  
-RT @reborn8chan: Good morning everyone have a great friday. 
-
-#TheCollective
-#CyberBullying
-#Trollhunters
-#OpChildSafety 
-#CyberSecurity
-#S…
+Website 2 APK Builder Material Plus Edition v5.1.0.1 Full Activated – Discount 100% OFF https://t.co/tlPbWTO9FY… https://t.co/ZweERoyKq3
  
-# wc_hymanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1650622396410241027/JOjFkU_7_normal.jpg)
+# sushant_atramUSER INFO
+![image](http://pbs.twimg.com/profile_images/1650059884183027713/2TSTDyhL_normal.jpg)
  
-`User ScreenName:` wc_hyman 
+`User ScreenName:` sushant_atram 
  
-`User chosen Name:` WILLIAM THE BLACK 
+`User chosen Name:` Sushant Atram 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 24 22:06:39 +0000 2023 
+`User signup date?:` Sun Apr 23 08:50:11 +0000 2023 
  
-`User Description?:` Ayn Rand is my philosopher..I pursue happiness..I'm a Capitalist and that's my Politics...my purpose is to appreciate the benevolent universe.. 
+`User Description?:` Cyber Security Mentor | Ethical Hacker | Full Stack MERN Developer 
  
-`Followers?: `10 
+`Followers?: `1 
+ 
+`Following?:` 46 
+ 
+`User URL?:` https://t.co/9gArPzpPoT 
+ 
+`Location:` Yavatmal, India 
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1650059884183027713/2TSTDyhL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LEARNING** 4 , **BUG** 4 , **I'M** 3 , **SECURITY** 3 , **COMMUNITY** 3 , **NEW** 2 , **BELIEVE** 2 , **DAY** 2 , **@DAVIDBOMBAL:** 2 , **LEARN** 2 , **DAILYMOTIVATION** 2 , **INSPIRATION** 2 , **MOTIVATION** 2 , **BESTADVICE** 2 , **LIFELESSONS** 2 , **REALLY** 2 , **RUNNING** 2 , **NMAP** 2 , **BOUNTY** 2 , **DON'T** 2 , 
+ 
+## What this user tweeted
+ 
+@infosec_au You are 💯 right , but bug Bounty community really didn't care about your research, there motive is to m… https://t.co/thXQ3vJCjM
+ 
+# ChillwonderlandUSER INFO
+![image](http://pbs.twimg.com/profile_images/1652162989062242304/j5j1Df4Q_normal.png)
+ 
+`User ScreenName:` Chillwonderland 
+ 
+`User chosen Name:` Chill Wonderland 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 29 04:08:46 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1652162989062242304/j5j1Df4Q_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 2 , **NINJA** 1 , **PINNER** 1 , **V7713** 1 , **FULL** 1 , **ACTIVATED** 1 , **PINTEREST** 1 , **MARKETING** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/ZZ9RCAXG4L** 1 , **INFOSEC…** 1 , **HTTPS://TCO/MOPKP3Y5AS** 1 , 
+ 
+## What this user tweeted
+ 
+Ninja Pinner v7.7.1.3 Full Activated – Pinterest Marketing – Discount 100% OFF https://t.co/Zz9rcAXG4L #infosec… https://t.co/MOpkP3Y5aS
+ 
+# lincoln_cyberUSER INFO
+![image](http://pbs.twimg.com/profile_images/1651221082764988421/d15qC7BF_normal.jpg)
+ 
+`User ScreenName:` lincoln_cyber 
+ 
+`User chosen Name:` Lincoln Cyber 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Apr 26 13:16:51 +0000 2023 
+ 
+`User Description?:` Technology Blog with a Focus in Information Security. 
+ 
+`Followers?: `4 
  
 `Following?:` 108 
  
-`User URL?:` None 
+`User URL?:` https://t.co/bH7yFloxhE 
  
-`Location:` Johannesburg, South Africa 
+`Location:` United States 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 25 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1650622396410241027/JOjFkU_7_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1651221082764988421/d15qC7BF_normal.jpg 
  
-`Number of tweets excluding replies:` 378 
+`Number of tweets excluding replies:` 25 
  
 
  
@@ -360,11 +311,136 @@ RT @reborn8chan: Good morning everyone have a great friday.
  
 ## User Top tweeted words 
  
-**DIE** 27 , **@BUSINESS:** 26 , **THANK** 18 , **VIR** 17 , **@YAHOOFINANCE:** 16 , **AI** 13 , **@LANDBOU:** 12 , **US** 10 , **VAN** 9 , **NEW** 8 , **MAY** 8 , **GOING** 8 , **OM** 8 , **TE** 8 , **FREEDOM** 7 , **AFTER** 7 , **YEAR** 7 , **@MARKETS:** 7 , **ITS** 7 , **GOVERNMENT** 7 , 
+**INFOSEC** 8 , **INFORMATIONSECURITY** 7 , **INFORMATIONTECHNOLOGY** 6 , **OPEN** 3 , **SOURCE** 3 , **CYBERSECURITY** 2 , **LEARN** 2 , **GOT** 2 , **FAVORITE** 2 , **SOFTWARE** 2 , **USE** 2 , **PROTECT** 2 , **SENSITIVE** 2 , **INFORMATION** 2 , **NETWORK** 2 , **SECURITY** 2 , **QUESTION** 2 , **BEST** 2 , **RT** 1 , **@HACKINARTICLES:** 1 , 
  
 ## What this user tweeted
  
-RT @NREL: NREL and @UL_Solutions recently published testable requirements for certifying the #cybersecurity of energy storage and generatio…
+RT @hackinarticles: Pic of the Day 
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity ht…I wrote an article outlining some of my favorite open source software that I use regularly, to kick off a series of… https://t.co/pV17EGUCVx
+ 
+# as2m_1212USER INFO
+![image](http://pbs.twimg.com/profile_images/1652100038301216769/exUxtYy1_normal.png)
+ 
+`User ScreenName:` as2m_1212 
+ 
+`User chosen Name:` 18021268 Lê Văn Tiến 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Apr 28 23:58:38 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 92 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1652100038301216769/exUxtYy1_normal.png 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JJS0SBW:** 6 , **STRUCTURALMODELING** 6 , **SYSTEM** 4 , **LEARNING** 4 , **INCOSE** 3 , **STRUCTURAL** 3 , **CHECK** 3 , **PAPER** 3 , **FIRST** 3 , **P…RT** 3 , **MODEL** 3 , **@CURIOUSWAVEFN:** 3 , **INCOSE_ORG** 2 , **STRUCTURES** 2 , **EFFECTIVE** 2 , **MODELING** 2 , **PRACTICE** 2 , **MUST** 2 , **PART** 2 , **LARGER** 2 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Android Developer Roadmap
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity…RT @hackinarticles: Pic of the Day
+
+#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp #C…
+ 
+# ohaja_prin32769USER INFO
+![image](http://pbs.twimg.com/profile_images/1649660477943758848/tUnMPHkK_normal.png)
+ 
+`User ScreenName:` ohaja_prin32769 
+ 
+`User chosen Name:` Lucid_bwoi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 22 06:24:41 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 46 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 58 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1649660477943758848/tUnMPHkK_normal.png 
+ 
+`Number of tweets excluding replies:` 58 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BOSS** 8 , **@SECURITYTRYBE:** 7 , **DAY** 5 , **GO** 5 , **3** 5 , **GOOD** 5 , **U** 4 , **1** 4 , **2** 4 , **CYBERSECURITY** 4 , **@SPORTYBROKER** 3 , **GIVE** 3 , **SOME** 3 , **USE** 3 , **SECURITY** 3 , **4** 3 , **5** 3 , **NETWORK** 3 , **BECOME** 3 , **📁** 3 , 
+ 
+## What this user tweeted
+ 
+RT @SecurityTrybe: Web Errors 
+
+#CyberSec #cybersecurity #tech #infosec https://t.co/gqpX3WwaVD
+ 
+# StephenGates_H3USER INFO
+![image](http://pbs.twimg.com/profile_images/1650485733449138178/hH-3cFO2_normal.jpg)
+ 
+`User ScreenName:` StephenGates_H3 
+ 
+`User chosen Name:` Stephen Gates 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 24 12:44:37 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1650485733449138178/hH-3cFO2_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@JORGEORCHILLES:** 1 , **AUTOMATION** 1 , **REMEMBER** 1 , **CTO** 1 , **@SCYTHE_IO** 1 , **ALMOST** 1 , **3** 1 , **YEARS** 1 , **STILL** 1 , **SUPPORT** 1 , **BELIEVE** 1 , **MISSION…RT** 1 , **@LAUGHING_MANTIS:** 1 , **GLAD** 1 , **DISCUSSING** 1 , **TOPIC** 1 , **AUTOMATED** 1 , **/** 1 , **ASSISTED** 1 , 
+ 
+## What this user tweeted
+ 
+RT @snehalantani: A breakdown of the Pentesting challenge and drama between @jorgeorchilles and I this week during RSA… a 🧵#infosec
  
 # LegionxSoulUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1650817672974839809/JSlDt7LD_normal.jpg)
@@ -381,7 +457,7 @@ RT @NREL: NREL and @UL_Solutions recently published testable requirements for ce
 🎓 |
 US DHS certified | #cybersecurity 
  
-`Followers?: `368 
+`Followers?: `371 
  
 `Following?:` 142 
  
@@ -405,7 +481,7 @@ US DHS certified | #cybersecurity
  
 ## What this user tweeted
  
-RT @NCIIPC: Multiple Critical, High and Medium Severity Vulnerabilities have been discovered in #Hitachi Energy products. Follow OEM Securi…RT @hackinarticles: Pic of the Day 
+RT @hackinarticles: Pic of the Day 
 
 #infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity ht…
  
@@ -449,47 +525,6 @@ RT @NCIIPC: Multiple Critical, High and Medium Severity Vulnerabilities have bee
 RT @hackinarticles: Pic of the Day 
 
 #infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity ht…
- 
-# cyberstatesmanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1648753965612376065/11eoxAb4_normal.png)
- 
-`User ScreenName:` cyberstatesman 
- 
-`User chosen Name:` Cyber Statesman 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 19 18:22:32 +0000 2023 
- 
-`User Description?:` Simplifying the synergistic intersection between technology and the U.S. Federal Government 
- 
-`Followers?: `0 
- 
-`Following?:` 14 
- 
-`User URL?:` https://t.co/DZuAVjyam9 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648753965612376065/11eoxAb4_normal.png 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**2023** 6 , **T-MOBILE** 6 , **@CYBERSTATESMAN:** 5 , **AI** 5 , **CLOUD** 4 , **ORIGINAL** 4 , **NEEDS** 4 , **ELON** 4 , **ITS** 4 , **DEPARTMENT** 3 , **HOMELAND** 3 , **SECURITY** 3 , **(DHS)** 3 , **ARTIFICIAL** 3 , **INTELLIGENCE** 3 , **FEDERAL** 3 , **MOORE** 2 , **FORMER** 2 , **DIRECTOR** 2 , **GOOGLE** 2 , 
- 
-## What this user tweeted
- 
-NIST has just dropped a preview of their Cybersecurity Framework v2.0 https://t.co/1CIoxpEqdw
-
- #federal #cyber… https://t.co/x52xZBL4Sk
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
