@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **StephenKing**  
+The most popular user is: **SecurityTrybe**  
  
 
-## I think Mr. Musk should give my blue check to charity. I recommend the Prytula Foundation, which provides lifesavin… https://t.co/entBjR7X4r 
+## Cybersecurity Certifications to get in 2023 (For FREE) 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **StephenKing**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @McLee45030541: 1000followers! Thanks the friends and fellas who help me and share the story. New friends, new fellas. Without your help… |
-| RT @usosce: Residents of Melitopol describe men between the ages of 20 and 50 being forcibly conscripted into the Russian army to fight aga… |
-| RT @UAWeapons: #Ukraine: South of Opytne, #Donetsk Oblast, a camouflaged Russian BMP-1 infantry fighting vehicle was destroyed by the Ukrai… |
+| https://t.co/Jt6dY25XfuBy monitoring the darknet, as well as underground forums, Cynet is able to identify and pre… https://t.co/g1eLNjJjt1 |
+| Buy Verified Coinbase Accountshttps://t.co/2byizxcYlX#buycoinbaseaccounts #buyverifiedcoinbaseaccounts… https://t.co/3P0DPUt4qU |
+| RT @TechNative: Enhance your #cybersecurity posture - Ian Prescott lists 6 key reasons to choose @METCLOUD_com, powered by @HPE_GreenLake.… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Spriter99880** |
-| #2 Most tweeted to  | **POTUS** |
-| #3 Most tweeted to  | **Gerashchenko_en** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 5.04%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **SecurityTrybe** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **IamTheCyberChef** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 6.26%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **StephenKing**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **RUSSIA**  |
-| third  | **WAR** |
-| fourth  | **RUSSIAN**  |
-| fifth  | **US**  |
+| first  | **INFOSEC**  |
+| second  | **US**  |
+| third  | **AI** |
+| fourth  | **@SECURITYTRYBE:**  |
+| fifth  | **LINUX**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJECTIVE** (42.86%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @OfEireann: Pedigree Corner, The Pike ,Co Laois .There are 40 migrants now living at this venue (for now). Locals were promised that Uk… |
+|Sign up for our live two-part webinar series to discover why BOLA continues to be ranked number one on the OWASP AP… https://t.co/Glxi5xmDQd |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **StephenKing**  |
+| The most retweeted user is: **SecurityTrybe**  |
 | ------------- |
-| I think Mr. Musk should give my blue check to charity. I recommend the Prytula Foundation, which provides lifesavin… https://t.co/entBjR7X4r |
+| Cybersecurity Certifications to get in 2023 (For FREE) |
 
 # Potential Fake Accounts
  
-# FormulaFinanceUSER INFO
-![image](http://pbs.twimg.com/profile_images/1651971067819302920/dgiZyaE5_normal.jpg)
+# aisaysorgUSER INFO
+![image](http://pbs.twimg.com/profile_images/1652707131659878401/_HjMS-vw_normal.jpg)
  
-`User ScreenName:` FormulaFinance 
+`User ScreenName:` aisaysorg 
  
-`User chosen Name:` F1NANCE 
+`User chosen Name:` Ai Says 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Apr 23 07:29:01 +0000 2023 
+`User signup date?:` Sun Apr 30 16:02:30 +0000 2023 
  
-`User Description?:` Unemployed MV ¹ defender. 
+`User Description?:` Exploring AI's creative side at AISays. All posts penned by AI, pushing the boundaries of content creation. #AI #ArtificialIntelligence #AIWriting 
  
-`Followers?: `6 
+`Followers?: `0 
  
-`Following?:` 99 
+`Following?:` 1 
  
-`User URL?:` None 
+`User URL?:` https://t.co/OXtPvW1eqG 
  
-`Location:`  
+`Location:` United States 
  
-`Number of tweets extracted`  : 188 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1651971067819302920/dgiZyaE5_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1652707131659878401/_HjMS-vw_normal.jpg 
  
-`Number of tweets excluding replies:` 190 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -108,36 +108,198 @@ VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJ
  
 ## User Top tweeted words 
  
-**@DISCLOSETV** 19 , **@SAMEERAKHAN** 18 , **@SMUG_DIVA** 15 , **PEOPLE** 12 , **MAX** 11 , **@HPPIV** 10 , **@MICHAELHARRIOT** 10 , **WAR** 9 , **@GPRODIGALSON** 8 , **@THE_ALEPHNULL** 8 , **@JADEATROPHIS** 8 , **LEWIS** 8 , **@DANOHERRIN** 8 , **SAINZ** 7 , **HE’S** 6 , **YES** 6 , **CRY** 6 , **@TITTYRUXPIN** 6 , **INTO** 5 , **F1** 5 , 
+**ARTIFICIAL** 2 , **INTELLIGENCE** 2 , **GROWING** 1 , **ROLE** 1 , **CYBERSECURITY** 1 , **HTTPS://TCO/VMD5VDARSZEMPATHY** 1 , **VIRTUAL** 1 , **WORKPLACE:** 1 , **KEY** 1 , **COMPONENT** 1 , **SUCCESSFUL** 1 , **REMOTE** 1 , **TEAMS** 1 , **HTTPS://TCO/LJ5KZSWHUMIMPACT** 1 , **MARKETING** 1 , **ADVERTISING** 1 , **HTTPS://TCO/BOEGRJDUCDNEW** 1 , **ARTICLE:** 1 , **IMPACT** 1 , **SOCIAL** 1 , 
  
 ## What this user tweeted
  
-@generictxt @smug_diva @SameeraKhan @disclosetv There’s no reason to use the line of logic you just used lmao. We a… https://t.co/xzqjHoYK7F
+The Growing Role of Artificial Intelligence in Cybersecurity https://t.co/VMd5VDARSZ
  
-# PutinFailUkrUSER INFO
-![image](http://pbs.twimg.com/profile_images/1653509937463541760/QvkBHseS_normal.jpg)
+# Cyberpress_newsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1650752969237725189/l3gG8ZUK_normal.jpg)
  
-`User ScreenName:` PutinFailUkr 
+`User ScreenName:` Cyberpress_news 
  
-`User chosen Name:` Putin the Great 
+`User chosen Name:` Cyberpress 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue May 02 21:15:49 +0000 2023 
+`User signup date?:` Sun Apr 23 10:47:52 +0000 2023 
  
-`User Description?:` "Just a regular person with a love for memes, sarcasm, and insulting Putin. 99% sure I'm on a government watchlist. 100% sure I don't care." 
+`User Description?:` Cyberpress is a cybersecurity-focused press release distribution platform. 
  
 `Followers?: `0 
  
-`Following?:` 24 
+`Following?:` 0 
+ 
+`User URL?:` https://t.co/wh9BAZ6gVn 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1650752969237725189/l3gG8ZUK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DESIGNED** 2 , **ATTACKS** 2 , **🚨** 1 , **ANNOUNCING** 1 , **NEW** 1 , **CYBERSECURITY** 1 , **PRESS** 1 , **RELEASE** 1 , **PLATFORM!** 1 , **🎉** 1 , **SERVICE** 1 , **HELP** 1 , **B2B/B2C** 1 , **CYBERSECURIT…** 1 , **HTTPS://TCO/HETTKVLUI9MICROSOFT** 1 , **GOOGLE** 1 , **EACH** 1 , **FIXED** 1 , **MAJOR** 1 , **SECURITY** 1 , 
+ 
+## What this user tweeted
+ 
+🚨 Announcing our new #cybersecurity press release platform! 🎉
+
+Our service is designed to help B2B/B2C cybersecurit… https://t.co/hetTKVlui9
+ 
+# HelenaBon81USER INFO
+![image](http://pbs.twimg.com/profile_images/1650532316739936257/p_JwqS2R_normal.jpg)
+ 
+`User ScreenName:` HelenaBon81 
+ 
+`User chosen Name:` Helena Bonham 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 24 16:07:59 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 0 
  
 `User URL?:` None 
  
-`Location:` United States 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1650532316739936257/p_JwqS2R_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1009 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ACCOUNT** 116 , **ISSUE** 109 , **SUPPORT** 109 , **HTTPS://TCO/F7LSGFKTG4** 105 , **GOT** 62 , **TEAM** 57 , **SUCKS!** 57 , **SIMILAR** 57 , **TRIED** 57 , **REACHING** 57 , **BUT…** 57 , **HELP** 56 , **THANKS** 54 , **SOME** 52 , **CONTACTED** 52 , **SERVICE** 52 , **INSTA…** 52 , **BACK** 33 , **INSTAGRAM** 32 , **HIGH** 30 , 
+ 
+## What this user tweeted
+ 
+Sorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/ytOnsQUaavSorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/CAB1FVBsMRSorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/iGWoDIk2fkSorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/gvtkeiioh4Sorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/0WVlCVTYbjSorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/Bm3q5vudIxSorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/eKMUWLWpUMSorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/FCrTef7PrNSorry about this, but Support team sucks! I had similar issue with my account and i tried reaching out to them but… https://t.co/v74Tf5lZbZ
+ 
+# FaithGrace51775USER INFO
+![image](http://pbs.twimg.com/profile_images/1653422322085183493/iLR8y-W__normal.jpg)
+ 
+`User ScreenName:` FaithGrace51775 
+ 
+`User chosen Name:` Grace hacker 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 29 23:01:41 +0000 2023 
+ 
+`User Description?:` I am a Professional Hacker and Private Investigator I offer hacking and recovery services for #SNAPCHAT #INSTAGRAM #FACEBOOK #WHATSAPP #CRYPTO #MAILS #NotFree 
+ 
+`Followers?: `9 
+ 
+`Following?:` 37 
+ 
+`User URL?:` None 
+ 
+`Location:` Hacked society 
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1653422322085183493/iLR8y-W__normal.jpg 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HACKING** 5 , **SNAPCHAT** 4 , **SERVICES** 4 , **HACKER** 3 , **RECOVERY** 3 , **ACCOUNT** 2 , **LOST** 2 , **HACK** 2 , **AVAILABLE** 2 , **24/7** 2 , **SOCIAL** 2 , **MEDIA** 2 , **UN** 2 , **DE** 2 , **PROFESSIONAL** 2 , **PRIVATE** 2 , **INVESTIGATOR** 2 , **OFFER** 2 , **COMPLAINT** 1 , **HAVE??** 1 , 
+ 
+## What this user tweeted
+ 
+and reliable. All social media #CyberSecurity #hacker #infosec #Snapchat #security #cyber #opensource #cybercrime… https://t.co/Vjpx1ia7nX
+ 
+# cyberFsolutionsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1651672612320231424/ACKb-J79_normal.jpg)
+ 
+`User ScreenName:` cyberFsolutions 
+ 
+`User chosen Name:` Cyber Framework Solutions 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Apr 27 19:20:03 +0000 2023 
+ 
+`User Description?:` At Cyber Framework Solutions we offer a flexible and tailored approach to deliver ISMS and internal audits. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 6 
+ 
+`User URL?:` https://t.co/VJI0BdxhY9 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1651672612320231424/ACKb-J79_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEW** 2 , **CHECK** 1 , **BLOG** 1 , **LIVE** 1 , **HTTPS://TCO/8CH7XVK9XW** 1 , **ISO27001** 1 , **CYBERSECURITY** 1 , **INTERNALAUDIT…** 1 , **HTTPS://TCO/5DAYXHQUDHHTTPS://TCO/YN4VZGOF3GNEWS** 1 , **ALERT!** 1 , **BRAND** 1 , **WEBSITE** 1 , **LAUNCHED!** 1 , **CONTACT** 1 , **US** 1 , **DIRECTLY** 1 , **BOOK** 1 , **CONSULTATION** 1 , **DISCUSS** 1 , **WE…** 1 , 
+ 
+## What this user tweeted
+ 
+Check out our new blog, now live. 
+
+https://t.co/8ch7xVK9XW 
+
+#ISO27001 #CYBERSECURITY #INTERNALAUDIT… https://t.co/5daYxHQUDH
+ 
+# farooq02020002USER INFO
+![image](http://pbs.twimg.com/profile_images/1653440559082790912/jBoUab0h_normal.png)
+ 
+`User ScreenName:` farooq02020002 
+ 
+`User chosen Name:` Farooq Ahmad 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue May 02 16:45:23 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 8 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1653509937463541760/QvkBHseS_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1653440559082790912/jBoUab0h_normal.png 
  
 `Number of tweets excluding replies:` 8 
  
@@ -147,38 +309,38 @@ VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJ
  
 ## User Top tweeted words 
  
-**@DARTHPUTINKGB:** 2 , **AIR** 2 , **RUSSIAN** 2 , **"I** 1 , **NEW** 1 , **PETER** 1 , **GREAT** 1 , **RESTORE** 1 , **RUSSIA** 1 , **ITS** 1 , **FORMER** 1 , **GLORY** 1 , **SPECIAL** 1 , **MILITARY** 1 , **OPERATION** 1 , **UKR…** 1 , **HTTPS://TCO/BHDH6A0DHERT** 1 , **PREZ'S** 1 , **SERFS** 1 , **REMINDED** 1 , 
+**–** 9 , **DISCOUNT** 5 , **100%** 5 , **FULL** 4 , **ACTIVATED** 4 , **SEO** 3 , **OFF** 3 , **CYBERSECURITY** 3 , **PRO** 3 , **MARKETING** 3 , **YOUTUBE** 2 , **INFOSEC** 2 , **BUGCROWD** 2 , **BUGBOUNTYTIPS** 2 , **BUGBOUNTYTIP** 2 , **100DAYSOFCODE…** 2 , **TOOL** 2 , **OFF…** 2 , **V2** 1 , **RANK** 1 , 
  
 ## What this user tweeted
  
-"I am the new Peter the Great, and I will restore Russia to its former glory. The special military operation in Ukr… https://t.co/BHDh6a0dHe
+YouTube SEO v2 - Rank Your Videos In 10 Minutes Of Fast SEO – Discount 100% OFF - Dr.FarFar https://t.co/n3erCmO7IK… https://t.co/7DD9RBxX3VTrending https://t.co/dBeh7BdlL5 #infosec #bugcrowd #bugbountytips #bugbountytip #CyberSecurity #100DaysOfCode… https://t.co/P2sk2hFvHZThumbnail Maker Pro v11.8.25 Full Activated ( Channel ART ) – Discount 100% OFF https://t.co/2CXjn34lrg #infosec… https://t.co/RN6T61ioGSMetasploit Pro 4.22.0 – 2023042401 Full Activated – CyberSecurity Tools – Discount 100% OFF https://t.co/6y68dW5ywR… https://t.co/MbIXRjrQdLVideo Marketing Blaster Pro v1.49 Full Activated – Youtube Marketing Tool – Discount 100% OFF… https://t.co/Vbz2Al1tmhMoney Robot Submitter v7.40 Full Activated – BackLinks SEO Marketing Tool – Discount 100% OFF… https://t.co/x9Uf3AjS1o
  
-# slavagorba41033USER INFO
-![image](http://pbs.twimg.com/profile_images/1650554708854026255/axz0GCnR_normal.png)
+# PyProjectHQUSER INFO
+![image](http://pbs.twimg.com/profile_images/1653444361907060736/JnWiYB2G_normal.jpg)
  
-`User ScreenName:` slavagorba41033 
+`User ScreenName:` PyProjectHQ 
  
-`User chosen Name:` slava gorbachev 
+`User chosen Name:` PyProject's 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Apr 24 17:38:02 +0000 2023 
+`User signup date?:` Tue May 02 16:57:24 +0000 2023 
  
-`User Description?:`  
+`User Description?:` PyProject is a community-driven platform for Python enthusiasts, where we share knowledge, collaborate on projects, and connect with like-minded individuals. 
  
-`Followers?: `16 
+`Followers?: `0 
  
-`Following?:` 65 
+`Following?:` 5 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 16 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1650554708854026255/axz0GCnR_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1653444361907060736/JnWiYB2G_normal.jpg 
  
-`Number of tweets excluding replies:` 472 
+`Number of tweets excluding replies:` 16 
  
 
  
@@ -186,163 +348,38 @@ VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJ
  
 ## User Top tweeted words 
  
-**@POTUS:** 35 , **PRESIDENT** 29 , **HOUSE** 17 , **SMALL** 17 , **@WHITEHOUSE:** 16 , **US** 15 , **BIDEN** 15 , **WHITE** 14 , **AMERICA** 13 , **@VP:** 13 , **BUSINESS** 13 , **WEEK** 13 , **@MCFAUL:** 11 , **–** 11 , **@PROJECTLINCOLN:** 10 , **@KAMALAHARRIS:** 9 , **JOE** 9 , **MONTH** 9 , **@STATEDEPT:** 9 , **AMERICAN** 9 , 
+**3** 10 , **PYTHON** 7 , **ITS** 4 , **WORLD** 3 , **LANGUAGE** 3 , **AND…** 3 , **PYPROJECT** 3 , **DON'T** 2 , **COMMUNITY** 2 , **CHANGE** 2 , **YOU'RE** 2 , **PROGRAMMING** 2 , **CODE** 2 , **WEB** 2 , **DEVELOPERS** 2 , **EXCITED** 2 , **WE'RE** 2 , **🎉** 1 , **GIVEAWAY** 1 , **ALERT🎉** 1 , 
  
 ## What this user tweeted
  
-RT @McFaul: Read @MGongadze  on why "Acquisition of Advanced Jets Could Be Key to Ukraine's Spring Counteroffensive." https://t.co/NArQW1sF…RT @McFaul: I read this headline wrong. My bad. (deleted tweet)  So May 9th parade in Moscow is still a go? 
-
-Putin cancels Victory Day par…RT @BorisJohnson: Ukraine must be allowed to join NATO and the Government must support their efforts to do so.
-
-Thank you @JamesCleverly fo…RT @AstroTerry: There should be negotiations about the war in Ukraine.  Negotiations about:
-
-- How Russia will pay reparations
-- How Russia…RT @SecBlinken: Pleased to welcome Czech Foreign Minister @JanLipavsky to Washington today. Our strategic dialogue series illustrates our c…
+Python 3 is also a language of the future. As we continue to face complex challenges, Python 3 is becoming increasi… https://t.co/wKFzJuLHzl
  
-# NicholeRuinzUSER INFO
-![image](http://pbs.twimg.com/profile_images/1651734415989506055/eL17HLnj_normal.png)
+# BibekMaji180476USER INFO
+![image](http://pbs.twimg.com/profile_images/1653428392279293953/aNHuz6U4_normal.png)
  
-`User ScreenName:` NicholeRuinz 
+`User ScreenName:` BibekMaji180476 
  
-`User chosen Name:` Nichole the Hole 
+`User chosen Name:` Bibek Maji 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 27 23:45:46 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `3 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1651734415989506055/eL17HLnj_normal.png 
- 
-`Number of tweets excluding replies:` 787 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@GGREENWALD** 68 , **@STILLGRAY** 59 , **@MATTYGLESIAS** 38 , **@KHALVIN008** 31 , **YOU’RE** 17 , **RUSSIA** 15 , **@REPBOEBERT** 13 , **VIOLENT** 12 , **@PREZLIVES2022** 12 , **ITS** 11 , **EVER** 9 , **@REPTHOMASMASSIE** 9 , **TRYING** 9 , **PEOPLE** 9 , **CHIMPS** 9 , **ISNT** 9 , **AMERICANS** 9 , **@LIBSOFTIKTOK** 8 , **MAKE** 8 , **EVIL** 7 , 
- 
-## What this user tweeted
- 
-@Xolodog1 @LadyofGrimdark @johnhawkinsrwn @libsoftiktok You said vietnam…. Not ww2.
-Though at this point it seems c… https://t.co/uPWct4APVD
- 
-# LilithEvestarUSER INFO
-![image](http://pbs.twimg.com/profile_images/1650577279016132624/XaovrTez_normal.png)
- 
-`User ScreenName:` LilithEvestar 
- 
-`User chosen Name:` Lilith Eveningstar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 24 19:07:43 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `14 
- 
-`Following?:` 63 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 24 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1650577279016132624/XaovrTez_normal.png 
- 
-`Number of tweets excluding replies:` 24 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LIBERTYCAPPY:** 3 , **BILL** 2 , **@CULTURE_CRIT:** 2 , **@KIMDOTCOM:** 2 , **BIG** 2 , **PHARMA** 2 , **THAN** 2 , **RT** 1 , **@BTCTN:** 1 , **BITCOIN'S** 1 , **HASHRATE** 1 , **SOARED** 1 , **UNPRECEDENTED** 1 , **HEIGHTS** 1 , **REACHING** 1 , **49115** 1 , **EXAHASH** 1 , **PER** 1 , **SECOND** 1 , **(EH/S)** 1 , 
- 
-## What this user tweeted
- 
-RT @FlowGo37: @POTUS You’ve sent 75 billion to Ukraine alone . That’s what holding the American economy hostage looks like.
- 
-# katgulseth22855USER INFO
-![image](http://pbs.twimg.com/profile_images/1651669425391828992/wncW0a2B_normal.png)
- 
-`User ScreenName:` katgulseth22855 
- 
-`User chosen Name:` kat gulseth 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 27 19:27:31 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `43 
- 
-`Following?:` 133 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1651669425391828992/wncW0a2B_normal.png 
- 
-`Number of tweets excluding replies:` 1889 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUDEAU** 14 , **@CONCERN70732755** 10 , **US** 8 , **PEOPLE** 8 , **BIDEN** 8 , **CHINA** 7 , **THESE** 7 , **CANADA** 7 , **NDP** 7 , **NOTLEY** 7 , **BEING** 7 , **DAY** 6 , **FIRST** 5 , **FOUND** 5 , **GUILTY** 5 , **MANY** 5 , **TWITTER** 5 , **JOE** 5 , **GOT** 5 , **RACHEL** 5 , 
- 
-## What this user tweeted
- 
-RT @BushelsPerAcre: Check out this food bank in Kiev, Ukraine. Ever since the illegal invasion by Russia, 1 in 4 people have been forced to…RT @joedubois29: Fkng Trudeau! This is horrible, but hey, let's send billions to Ukraine 🤬🤬🤬
- 
-# nikita_laz24408USER INFO
-![image](http://pbs.twimg.com/profile_images/1653526375825809408/a6XQfsAW_normal.png)
- 
-`User ScreenName:` nikita_laz24408 
- 
-`User chosen Name:` Nikita Lazer 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue May 02 22:26:23 +0000 2023 
+`User signup date?:` Tue May 02 15:57:02 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 1 
+`Following?:` 2 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1653526375825809408/a6XQfsAW_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1653428392279293953/aNHuz6U4_normal.png 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 7 
  
 
  
@@ -350,83 +387,38 @@ RT @BushelsPerAcre: Check out this food bank in Kiev, Ukraine. Ever since the il
  
 ## User Top tweeted words 
  
-**🩸🩸🩸🩸** 2 , **CHOICE** 2 , **@808AFC** 1 , **@B4NKAL** 1 , **JOKE** 1 , **LOOKS** 1 , **WHATEVER** 1 , **MUDRYK** 1 , **SH…** 1 , **HTTPS://TCO/RZZP7CKNGP@PIXROBACK** 1 , **LIVE** 1 , **THIS?** 1 , **LYING** 1 , **WARM** 1 , **BED** 1 , **WRITING** 1 , **SUCH** 1 , **JOKES** 1 , **UKRAIN…** 1 , **HTTPS://TCO/3NOO77CH5Z** 1 , 
+**@CPADPC:** 7 , **PS** 4 , **CYBER** 4 , **PROGRAMME** 3 , **DURGAPUR** 2 , **R…RT** 2 , **OFFICIALS** 2 , **SAFE** 2 , **AWARENESS** 2 , **HELD** 2 , **POLICE** 2 , **RT** 1 , **COURSE** 1 , **INVESTIGATION** 1 , **ARRESTED** 1 , **ACCUSED** 1 , **DURING** 1 , **PC** 1 , **PERIOD** 1 , **STOLEN** 1 , 
  
 ## What this user tweeted
  
-@808AFC @B4NKAl 🩸🩸🩸🩸, This is what your joke looks like. Whatever the choice of Mudryk, it is his choice and you sh… https://t.co/RZZp7CknGp
+RT @Cpadpc: Online services are certainly a blessing to us, until we use it cautiously. With the endeavour of Cyber PS, a complainant got R…
  
-# ItVivianJamesUSER INFO
-![image](http://pbs.twimg.com/profile_images/1651693578463092739/oyRUEtH3_normal.jpg)
+# Lamiya878USER INFO
+![image](http://pbs.twimg.com/profile_images/1651274328212901888/0WhzeDRQ_normal.jpg)
  
-`User ScreenName:` ItVivianJames 
+`User ScreenName:` Lamiya878 
  
-`User chosen Name:` Vivian James 
+`User chosen Name:` Lamiya 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Apr 27 20:42:29 +0000 2023 
+`User signup date?:` Wed Apr 26 17:14:00 +0000 2023 
  
-`User Description?:` Entrepreneur. Crypto Currency Guru 
+`User Description?:` 100%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
  
-`Followers?: `10 
+`Followers?: `68 
  
-`Following?:` 53 
+`Following?:` 99 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Dhaka, Bangladesh 
  
-`Number of tweets extracted`  : 50 
+`Number of tweets extracted`  : 19 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1651693578463092739/oyRUEtH3_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1651274328212901888/0WhzeDRQ_normal.jpg 
  
-`Number of tweets excluding replies:` 50 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**XRP** 7 , **LUNC** 4 , **MAKE** 4 , **STILL** 4 , **SAFEMOON** 3 , **LOVE** 3 , **INVEST** 3 , **SAVING** 3 , **INVESTMENT** 3 , **BURN** 3 , **@FORBES:** 3 , **WIN** 3 , **@CNN:** 3 , **ENTREPRENEUR** 2 , **BUSINESSNEWS** 2 , **THAT'S** 2 , **GONNA** 2 , **@FOXNEWS:** 2 , **HEALTH** 2 , **FOLLOW** 2 , 
- 
-## What this user tweeted
- 
-My day was splendid 
-#Crypto #MetGala #Ukraine #Entrepreneur #BusinessNews #Safemoon #xrp #lunc 
-#BreakingNews #love https://t.co/fijnRH6ynq
- 
-# DamnedTherapistUSER INFO
-![image](http://pbs.twimg.com/profile_images/1651751729380171779/g3oOasTN_normal.jpg)
- 
-`User ScreenName:` DamnedTherapist 
- 
-`User chosen Name:` Damned Therapist 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 28 00:42:00 +0000 2023 
- 
-`User Description?:` I come back to you now, at the turn of the tide.
-
-@BluntTherapist in another life 
-
-PTSD-specializing therapist, father, internet jerk, unbonkable 
- 
-`Followers?: `69 
- 
-`Following?:` 225 
- 
-`User URL?:` https://t.co/qHjqKafRle 
- 
-`Location:` Down by the docks 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1651751729380171779/g3oOasTN_normal.jpg 
- 
-`Number of tweets excluding replies:` 280 
+`Number of tweets excluding replies:` 19 
  
 
  
@@ -434,11 +426,15 @@ PTSD-specializing therapist, father, internet jerk, unbonkable
  
 ## User Top tweeted words 
  
-**@JOSHEAKLE** 17 , **BEING** 9 , **NEWS** 8 , **PEOPLE** 8 , **CAN’T** 8 , **SOMEONE** 7 , **I’M** 7 , **DON’T** 7 , **@SEANFUCIOUS** 7 , **STUPID** 6 , **EVEN** 6 , **COULD** 6 , **YOU’RE** 6 , **GOT** 6 , **STILL** 6 , **THAN** 5 , **THING** 5 , **LOL** 5 , **THAT’S** 5 , **SURE** 5 , 
+**GIVEAWAY** 10 , **DENET** 9 , **✅** 8 , **WORTH** 6 , **RT** 5 , **🏆** 5 , **PARTNERSHIP** 4 , **！🎉** 4 , **TOKENS** 4 , **FOLLOW** 4 , **✅COMPLETE** 4 , **TASKS👇…** 4 , **VAMPIRE** 3 , **DAO** 3 , **X** 3 , **POOL** 3 , **FIRST** 3 , **$USDT** 3 , **@SHARIFU31355377** 3 , **@SHARIFHASSAN532** 3 , 
  
 ## What this user tweeted
  
-@retardsback @JoshEakle Go ahead and plant your flag on the hill that they haven’t found mass graves in Ukraine.  I’d be so owned.
+😍😍New Big Giveaway 🚀🚀
+
+Participate In Giveaway 👇
+➡️ Like, RT &amp; Tag 3 Friends
+➡️ Finish Gleam :  … https://t.co/5xpL8aOtWK
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
