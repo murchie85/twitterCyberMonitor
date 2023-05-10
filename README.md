@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "cybersecurity"**
+&#x1F34E; **TOPIC = "infosec"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/cybersecurity/TWEETS.png)
+![image](assets/infosec/TWEETS.png)
 <br></br>
-The most popular user is: **mysk_co**  
+The most popular user is: **brianstelter**  
  
 
-## We confirm that iOS 16 does communicate with Apple services outside an active VPN tunnel. Worse, it leaks DNS reque… https://t.co/0qvfLEXgdr 
+## Michael Fanone is currently a CNN contributor. And he's speaking out against CNN's Trump town hall. "I don't believ… https://t.co/YYuRdCDDxZ 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **mysk_co**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/cybersecurity/twitterPostedImage.png)
+![image](assets/infosec/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Shubham_pen: Azure Solution Mindmap Credit:https://t.co/VF9tRnrLQm… #infosec #cybersecurity #hacking #DataSecurity #CyberSec #Hacker… |
-| RT @SecurityTrybe: A Bird’s Eye View of Defense-in-Depth Structure of CyberSecurity #cybersecurity #infosec #tech #cyberattack #hacked #B… |
-| RT @SecurityTrybe: 12 Ways to Make Money From Cybersecurity1.  Security Auditing 2.  Bug Bounty Hunting 3.  Write Books4.  Become a Sp… |
+| RT @francelegal420: Snap👻:bedo420fr_ce#DataSecurity #Privacy#100DaysOfCode #CloudSecurity#MachineLearning #Phishing #Ransomware #Cyberse… |
+| RT @SANSDefense: 📣 ANNOUNCING A BRAND NEW COURSE!📣 SEC406 #Linux Security for Infosec Professionals, from authors @MarkBaggett &amp; Charlie… |
+| RT @AtomSpam: Detected #phishing clone at address: hxxp://intesa-info[.]com/#intesasanpaolo #isp #infosec #cybersecurity #atomspam Foll… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SecurityTrybe** |
-| #2 Most tweeted to  | **hackinarticles** |
-| #3 Most tweeted to  | **Shubham_pen** |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **Shubham_pen** |
+| #3 Most tweeted to  | **hack_git** |
 | NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 5.06%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| Tweeters with < 10 followers  | 5.74%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -51,27 +51,27 @@ The most popular user is: **mysk_co**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **@SECURITYTRYBE:** |
-| fourth  | **INFORMATIONSECURITY**  |
-| fifth  | **STUDY**  |
+| second  | **INFORMATIONSECURITY**  |
+| third  | **PENTESTING** |
+| fourth  | **CYBERSECURITYTIPS**  |
+| fifth  | **@HACKINARTICLES:**  |
 
 
-## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
+## Twitter Bio Analysis![image](assets/infosec/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+![image](assets/infosec/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Wondering how to #Recover, #hacked, retrieve, or protect any accounts or wallets DM now#CyberSecurity #hacker… https://t.co/6tFTWKNbJu |
+|Recent #PayPal and #MetaMask #emails urging users to enter their account details quickly come from fraudsters, the… https://t.co/YEDvQvMQQa |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mysk_co**  |
+| The most retweeted user is: **brianstelter**  |
 | ------------- |
-| We confirm that iOS 16 does communicate with Apple services outside an active VPN tunnel. Worse, it leaks DNS reque… https://t.co/0qvfLEXgdr |
+| Michael Fanone is currently a CNN contributor. And he's speaking out against CNN's Trump town hall. "I don't believ… https://t.co/YYuRdCDDxZ |
 
 # Potential Fake Accounts
  
@@ -127,9 +127,9 @@ Maltego XL v4.2.18 Full Activated – CyberSecurity Tools – Discount 100% OFF 
  
 `User Description?:`  
  
-`Followers?: `9 
+`Followers?: `10 
  
-`Following?:` 188 
+`Following?:` 199 
  
 `User URL?:` None 
  
@@ -194,119 +194,32 @@ RT @hackinarticles: Pic of the Day
  
 Alpha Bulk Messenger Whatsapp Pro v4.5.30.1 Full Activated – Discount 100% OFF https://t.co/vDtKHxZWH8 #infosec… https://t.co/sLIY93EKzxInvicti Professional Edition 23.4.0.40376 Full Activated – CyberSecurity Tools – Discount 100% OFF… https://t.co/aDDeWnaECr
  
-# techdulxUSER INFO
-![image](http://pbs.twimg.com/profile_images/1653998828519866368/WIseUclj_normal.png)
+# llo41928USER INFO
+![image](http://pbs.twimg.com/profile_images/1656314229299740672/C0yu_bBL_normal.png)
  
-`User ScreenName:` techdulx 
+`User ScreenName:` llo41928 
  
-`User chosen Name:` tech dulx 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu May 04 05:37:57 +0000 2023 
- 
-`User Description?:` TechdulX Trend is your go-to source for the latest trends in technology. Our page provides informativ 
- 
-`Followers?: `0 
- 
-`Following?:` 14 
- 
-`User URL?:` https://t.co/cigEdai1GV 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1653998828519866368/WIseUclj_normal.png 
- 
-`Number of tweets excluding replies:` 9 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**GAMING** 5 , **LAPTOP** 4 , **GTX** 3 , **GUIDE** 3 , **2023** 2 , **ROG** 2 , **FX503** 2 , **1060:** 2 , **ULTIMATE** 2 , **LEATHER** 2 , **MAJOR** 1 , **CYBERCRIME** 1 , **THREATS** 1 , **HTTPS://TCO/WHPDPVV7XHCYBERSECURITY** 1 , **ONLINE** 1 , **GAMBLING** 1 , **INDUSTRY:** 1 , **UNDERSTANDING** 1 , **RISKS** 1 , **STAYING** 1 , 
- 
-## What this user tweeted
- 
-Cybersecurity in the Online Gambling Industry: Understanding the Risks and Staying Safe https://t.co/VYhwMLulqL
- 
-# Tech_EfikoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1656310150595051521/loNQAuch_normal.jpg)
- 
-`User ScreenName:` Tech_Efiko 
- 
-`User chosen Name:` TechEfiko™ 
+`User chosen Name:` Neville Lloyd 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon May 01 19:19:47 +0000 2023 
- 
-`User Description?:` Empowering tech enthusiasts and beginners with the right roadmaps, resources, and support to thrive in the world of Cybersecurity. Mail us: Admin@techefiko.org 
- 
-`Followers?: `29 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:` Somewhere on Earth 
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1656310150595051521/loNQAuch_normal.jpg 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**INTO** 3 , **FREE** 3 , **@GENERALSILAS** 3 , **MANAGEMENT** 2 , **CYBERSECURITY** 2 , **WRITE** 2 , **90-DAY** 2 , **CYBER** 2 , **MENTORSHIP** 2 , **COMMENCES** 2 , **LIMITED** 2 , **SLOTS** 2 , **AVAILABLE** 2 , **COMPLETE** 2 , **NEWBIES** 2 , **SEND** 2 , **PASSWORD** 2 , **DAY** 2 , **RT** 1 , **@OLAMIDETOWOBOLA:** 1 , 
- 
-## What this user tweeted
- 
-RT @IamTheCyberChef: Get into cybersecurity NOW. There is room for everyone
-
-No matter your educational background 
-
-This should be your ro…RT @SecurityTrybe: 12 Ways to Make Money From Cybersecurity
-
-1.  Security Auditing 
-2.  Bug Bounty Hunting 
-3.  Write Books
-4.  Become a Sp…
- 
-# Altos62calUSER INFO
-![image](http://pbs.twimg.com/profile_images/1653104194491121664/7pNUc97Y_normal.png)
- 
-`User ScreenName:` Altos62cal 
- 
-`User chosen Name:` परिंदा_हूं 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 01 18:28:47 +0000 2023 
+`User signup date?:` Wed May 10 15:04:19 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `20 
+`Followers?: `0 
  
-`Following?:` 248 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 82 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1653104194491121664/7pNUc97Y_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1656314229299740672/C0yu_bBL_normal.png 
  
-`Number of tweets excluding replies:` 83 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -314,38 +227,38 @@ This should be your ro…RT @SecurityTrybe: 12 Ways to Make Money From Cybersecu
  
 ## User Top tweeted words 
  
-**के** 29 , **है** 27 , **में** 26 , **को** 18 , **की** 17 , **और** 16 , **का** 14 , **से** 14 , **पर** 10 , **एक** 9 , **तो** 9 , **भी** 8 , **नहीं** 8 , **कि** 8 , **ये** 8 , **सरकार** 7 , **है।** 7 , **देश** 7 , **लोगों** 6 , **लोग** 6 , 
+**INFOSEC** 2 , **SEO** 1 , **POWERSUITE** 1 , **ENTERPRISE** 1 , **V979** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/LLUJZQZM9V** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/SICTKBGM8ETRENDING** 1 , **HTTPS://TCO/LQZ2ZK1OT3** 1 , **BUGCROWD** 1 , **BUGBOUNTYTIPS** 1 , **BUGBOUNTYTIP** 1 , **CYBERSECURITY** 1 , **100DAYSOFCODE…** 1 , 
  
 ## What this user tweeted
  
-RT @YaleLawSch: A new book by Professor @scottjshapiro tells the story of some the information age’s most notorious hackers and cybersecuri…
+SEO PowerSuite Enterprise v97.9 Full Activated – Discount 100% OFF https://t.co/LluJzQZM9V #infosec #bugcrowd… https://t.co/SicTkBgM8ETrending https://t.co/Lqz2zk1oT3 #infosec #bugcrowd #bugbountytips #bugbountytip #CyberSecurity #100DaysOfCode… https://t.co/OMjlddhzGc
  
-# Jaidhanapal2USER INFO
-![image](http://pbs.twimg.com/profile_images/1654604528166264833/JWeHMYVa_normal.jpg)
+# ITboy127USER INFO
+![image](http://pbs.twimg.com/profile_images/1656185259598442497/eZbqxSCg_normal.jpg)
  
-`User ScreenName:` Jaidhanapal2 
+`User ScreenName:` ITboy127 
  
-`User chosen Name:` Jayalingeshdhanapal 
+`User chosen Name:` IT Boy 💯💌 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri May 05 05:03:33 +0000 2023 
+`User signup date?:` Wed May 10 05:58:04 +0000 2023 
  
-`User Description?:` 😒 🇮🇳  🇮🇱 
+`User Description?:` just a casual rookie android developer! 😇 
  
-`Followers?: `10 
+`Followers?: `6 
  
-`Following?:` 133 
+`Following?:` 137 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 74 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1654604528166264833/JWeHMYVa_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1656185259598442497/eZbqxSCg_normal.jpg 
  
-`Number of tweets excluding replies:` 1531 
+`Number of tweets excluding replies:` 74 
  
 
  
@@ -353,11 +266,91 @@ RT @YaleLawSch: A new book by Professor @scottjshapiro tells the story of some t
  
 ## User Top tweeted words 
  
-**PAKISTAN** 13 , **@JAIPURDIALOGUES:** 11 , **ISRAEL** 10 , **BJP** 9 , **:** 8 , **@THESKINDOCTOR13:** 8 , **@NARAYANANTBJP:** 8 , **ROCKETS** 7 , **@VEERA284:** 7 , **KERALA** 7 , **AFTER** 7 , **VOTES** 7 , **@GABBAR0099** 7 , **HINDUS** 6 , **WOMEN** 6 , **STORY** 6 , **US** 6 , **PEOPLE** 6 , **@SHEFVAIDYA:** 6 , **INDIA** 6 , 
+**GOOGLEIO** 8 , **@STUFFLISTINGS:** 7 , **TWITTER** 7 , **HERE** 6 , **•** 6 , **API** 6 , **GOOGLE** 5 , **DEVELOPER** 5 , **AI** 5 , **ANDROID** 4 , **WAY** 4 , **MOST** 4 , **NEED** 4 , **WELL** 3 , **GO** 3 , **FIRST** 3 , **@GENSHINIMPACT:** 3 , **VERSION** 3 , **GENSHINIMPACT** 3 , **CSS** 3 , 
  
 ## What this user tweeted
  
-RT @ChuckRobbins: Great to meet B.V.R. Subrahmanyam, CEO, @NITIAayog to discuss @cisco_in’s plans to manufacture products for Indian and gl…
+RT @SecurityTrybe: YouTube Channels for Hacking + BugBounty 
+
+#BugBounty #cybersecurity #YouTube #hacked #cyberattacks #infosec https://t.c…
+ 
+# TalentaInsanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1656154073027207169/ZIJJE4IY_normal.png)
+ 
+`User ScreenName:` TalentaInsan 
+ 
+`User chosen Name:` Talenta Insan Utama 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 10 04:27:55 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1656154073027207169/ZIJJE4IY_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MARKETING** 2 , **–** 2 , **VIDEO** 1 , **BLASTER** 1 , **PRO** 1 , **V149** 1 , **FULL** 1 , **ACTIVATED** 1 , **YOUTUBE** 1 , **TOOL** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/PITFWLNEI3RT** 1 , **@THESELFCAREMIND:** 1 , **REMEMBER** 1 , **HTTPS://TCO/VN04CYSY5JRT** 1 , **@SEFFSAID:** 1 , **BEST** 1 , **ANSWER** 1 , 
+ 
+## What this user tweeted
+ 
+Video Marketing Blaster Pro v1.49 Full Activated – Youtube Marketing Tool – Discount 100% OFF… https://t.co/PItFwlneI3
+ 
+# SidraSi1767828USER INFO
+![image](http://pbs.twimg.com/profile_images/1655779961234681863/qd_cLBiR_normal.png)
+ 
+`User ScreenName:` SidraSi1767828 
+ 
+`User chosen Name:` Sidra Sidra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue May 09 03:41:20 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1655779961234681863/qd_cLBiR_normal.png 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 16 , **FULL** 10 , **ACTIVATED** 10 , **DISCOUNT** 10 , **100%** 10 , **OFF** 7 , **PRO** 4 , **INFOSEC…** 4 , **EDITION** 4 , **MARKETING** 3 , **OFF…** 3 , **TRAFFIC** 3 , **INFOSEC** 3 , **TOOL** 2 , **EXTRACTOR** 2 , **BUGCROWD…** 2 , **CYBERSECURITY** 2 , **TOOLS** 2 , **VIDSCRIBE** 1 , **AI** 1 , 
+ 
+## What this user tweeted
+ 
+VidScribe AI PRO v3.38 Full Activated – Videos Marketing Tool – Discount 100% OFF https://t.co/R5A7GUmlLD #infosec… https://t.co/Xdfq447CiP
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
