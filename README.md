@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "ukraine"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/ukraine/imageFile1.jpg)     <img width=200/> | ![image](assets/ukraine/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/ukraine/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **WarClandestine**  
+The most popular user is: **SecurityTrybe**  
  
 
-## 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL 
+## Cybersecurity Certifications to get in 2023 (For FREE) 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **WarClandestine**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/ukraine/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @theworldofvideo: How Donald Trump Will End Ukraine War in 24 Hours https://t.co/P0DNOCkEG4 via @YouTube |
-| RT @KimDotcom: EXCLUSIVE from a #NordStreamSabotage whistleblower:I am writing to you as a concerned citizen of the world, wishing for a… |
-| @PoelockJoe @RepMTG From Germany:First, fascists need to be kicked out of a sovereign state in Europe.Then MAGA… https://t.co/sVlxIrud6W |
+| Heavy #hacking #tracking ongoing my devices..screenshot  1. Malware/ atck 2. My #instagram language changed Chines… https://t.co/SkG1y88LIP |
+| How generative AI’s impact on digital advertising methodology is evolving - https://t.co/5NYnGblsAf - thanks… https://t.co/61KK1g5AOF |
+| RT @hackinarticles: TCP/IP Model Cheat Sheethttps://t.co/Emuno8nyc2#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #inf… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **KimDotcom** |
-| #3 Most tweeted to  | **GuntherEagleman** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 3.7%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **hackinarticles** |
+| #2 Most tweeted to  | **SecurityTrybe** |
+| #3 Most tweeted to  | **Breedlove22** |
+| NewProfiles (less than 10 days) | 1.52%  |
+| Tweeters with < 10 followers  | 6.32%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -50,57 +50,98 @@ The most popular user is: **WarClandestine**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **WORLD**  |
-| third  | **@POTUS:** |
-| fourth  | **PRESIDENT**  |
-| fifth  | **–**  |
+| first  | **INFOSEC**  |
+| second  | **PENTESTING**  |
+| third  | **MICRON** |
+| fourth  | **INFORMATIONSECURITY**  |
+| fifth  | **CHINA**  |
 
 
-## Twitter Bio Analysis![image](assets/ukraine/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/ukraine/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Peter521259585 @trolmcclure @REVMAXXING NATO is not like an industry, it’s an alliance between countries that want… https://t.co/RESQ1D9D95 |
+|RT @Shubham_pen: How DNS Works  #cybersecurity #pentesting #informationsecurity #DataSecurity #CyberSec #bugbountytips #Linux #websecurit… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WarClandestine**  |
+| The most retweeted user is: **SecurityTrybe**  |
 | ------------- |
-| 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, je… https://t.co/iZkrGEGvHL |
+| Cybersecurity Certifications to get in 2023 (For FREE) |
 
 # Potential Fake Accounts
  
-# Sh77640ShawnUSER INFO
-![image](http://pbs.twimg.com/profile_images/1659047482129805315/Nwrrn3q4_normal.jpg)
+# DarenWang454018USER INFO
+![image](http://pbs.twimg.com/profile_images/1660231958268624896/D6-CDmO6_normal.jpg)
  
-`User ScreenName:` Sh77640Shawn 
+`User ScreenName:` DarenWang454018 
  
-`User chosen Name:` Shawn Powlison 
+`User chosen Name:` Real Story 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat May 13 15:14:36 +0000 2023 
+`User signup date?:` Sun May 21 10:18:46 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Telling the real financial stories of China and the United States. 
+Welcome to subscribe. 
+ 
+`Followers?: `4 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:` USA 
+ 
+`Number of tweets extracted`  : 36 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1660231958268624896/D6-CDmO6_normal.jpg 
+ 
+`Number of tweets excluding replies:` 36 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**KONG** 8 , **HONG** 7 , **CHINA** 5 , **STOCKS** 5 , **NEW** 4 , **MARKET** 4 , **PRODUCTS** 3 , **REVIEW** 3 , **RATE** 3 , **US** 3 , **19** 3 , **BELOW** 3 , **FELL** 3 , **STOP** 2 , **MICRON** 2 , **PS:** 2 , **SECURITY** 2 , **NETWORK** 2 , **FOUND** 2 , **S…** 2 , 
+ 
+## What this user tweeted
+ 
+Micron's products sold in China fail cybersecurity review
+The review found that Micron's products have relatively s… https://t.co/w7VkOHjea3
+ 
+# thecybertwinsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1658263294619140098/RztsExm3_normal.jpg)
+ 
+`User ScreenName:` thecybertwins 
+ 
+`User chosen Name:` Andelsy - The Cyber Twins 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon May 15 23:56:20 +0000 2023 
+ 
+`User Description?:` It's easier to secure your business from online threats with 2 pairs of eyes instead of 1 👀 | Get more secure ⬇️ 
  
 `Followers?: `7 
  
-`Following?:` 46 
+`Following?:` 12 
  
-`User URL?:` None 
+`User URL?:` https://t.co/ecLqNdkRvy 
  
-`Location:`  
+`Location:` Montreal 
  
-`Number of tweets extracted`  : 40 
+`Number of tweets extracted`  : 84 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1659047482129805315/Nwrrn3q4_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1658263294619140098/RztsExm3_normal.jpg 
  
-`Number of tweets excluding replies:` 40 
+`Number of tweets excluding replies:` 84 
  
 
  
@@ -108,38 +149,332 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJE
  
 ## User Top tweeted words 
  
-**BIDEN** 4 , **NEED** 3 , **MEN** 3 , **US** 2 , **DON’T** 2 , **IMAGINE** 2 , **TOLD** 2 , **YOUNG** 2 , **PROFESSOR** 2 , **REALLY** 2 , **LEBRON** 2 , **JOE** 2 , **GREAT** 2 , **@4MISCHIEF:** 2 , **DEMOCRAT** 2 , **@SANDYLEEVINCENT:** 2 , **NEW** 2 , **HATE** 2 , **PERSON** 2 , **NEEDS** 2 , 
+**CYBERSECURITY** 24 , **PROTECT** 7 , **DOWNLOAD** 7 , **PASSWORD** 6 , **THANK** 6 , **SHARING!** 6 , **SECURITY** 6 , **GREAT** 6 , **CYBERSECURITYTIPS** 5 , **NEW** 5 , **ANY** 5 , **RESPONSE** 5 , **RANSOMWARE** 5 , **@HACKINARTICLES:** 4 , **INFOSEC** 4 , **PENTESTING** 4 , **INFORMATIONSECURITY** 4 , **@MICROSOFT** 4 , **SOURCE:** 4 , **LINK:** 4 , 
  
 ## What this user tweeted
  
-RT @tweettruth2me: The government is telling us they don’t have $69 billion to pay for our elderly and our veterans, but they sent Ukraine…
+Cybersecurity is like playing hide and seek with hackers 😂😂😂
+
+#CyberAttack #cybersecurity #play #future #foryoupage… https://t.co/dDfGXOWo2vTwo-Factor Authentication: It's like a bodyguard for your accounts. 😂💪🔒
+
+#cybersecurity #password #bodyguards #gym #SundayFunday #funnyI forgot my password...
+
+*Enter*
+
+"Your password is incorrect"
+
+Thank you for remembering it!😂
+
+#cybersecurity… https://t.co/7NspVmNbZlRT @hackinarticles: IDS vs IPS
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #redteam #informationsecurity #CyberSec #networking…RT @dharpee_O: Feels like I’m starting a new journey🚀 #cybersecurity@dharpee_O Cybersecurity always feels like a new journey even if you've been in it for years@tomvideo2brain @Microsoft @MSTCommunity @msftsecurity @Azure @azure_pirate Cybersecurity can be a costly practice,… https://t.co/aNoQTOA41RRT @hackinarticles: Pic of the Day 
+
+#infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity ht…Do you relate ?😂😂😂 
+#cybersecurity #memes #foryoupage #funny #Netflix https://t.co/aZ1IUSxm5Z
  
-# islamkisha50224USER INFO
-![image](http://pbs.twimg.com/profile_images/1660320292336713728/Dp9o9ky7_normal.png)
+# DanielS90478243USER INFO
+![image](http://pbs.twimg.com/profile_images/1660380285026852864/GOYlGoGr_normal.jpg)
  
-`User ScreenName:` islamkisha50224 
+`User ScreenName:` DanielS90478243 
  
-`User chosen Name:` اسلام کی شہزادی 
+`User chosen Name:` Daniel Segura 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun May 21 16:22:59 +0000 2023 
+`User signup date?:` Sat May 13 02:20:56 +0000 2023 
+ 
+`User Description?:` I’m North Korean DPRK Chieftain 
+ 
+`Followers?: `5 
+ 
+`Following?:` 44 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1660380285026852864/GOYlGoGr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 328 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**US** 13 , **DRAGON** 10 , **GOT** 9 , **MILLION** 8 , **KIDS** 8 , **MILITARY** 7 , **SOLDIERS** 7 , **NORTH** 6 , **SABRINA** 6 , **INDIAN** 6 , **MONEY** 6 , **VIA** 6 , **MIDDLE** 5 , **GO** 5 , **I’M** 5 , **RUSSIA** 4 , **KOREA** 4 , **GUYS** 4 , **THAT’S** 4 , **EAST** 4 , 
+ 
+## What this user tweeted
+ 
+RT @nknewsorg: Russia, North Korea and an unlikely coalition of other states notorious for cyberattacks are teaming up to propose a U.N. tr…
+ 
+# XavierVWal87614USER INFO
+![image](http://pbs.twimg.com/profile_images/1659298371113488385/z4kSiY5b_normal.jpg)
+ 
+`User ScreenName:` XavierVWal87614 
+ 
+`User chosen Name:` Xavier Walker 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 17 00:14:42 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 163 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1659298371113488385/z4kSiY5b_normal.jpg 
+ 
+`Number of tweets excluding replies:` 163 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BLOCK_SAVVY:** 105 , **BITCOIN** 44 , **CRYPTO** 25 , **@CRYPTOTECHWOMEN:** 22 , **CRYPTOCURRENCY** 18 , **US** 14 , **GM** 12 , **@GIANINASKARLETT:** 12 , **CRYPTOWORLD** 10 , **AMAZINGRT** 10 , **@GIANINASKARLETT** 9 , **PRICE** 9 , **VIDEO** 9 , **COULD** 9 , **TOKEN** 8 , **NEWS** 8 , **NEW** 7 , **LINK:** 7 , **MEMECOINS** 7 , **PUDGY** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Block_Savvy: Scammers are using the 'Inferno Drainer' service to steal $5.9M since March. The code used in token approval phishing meth…
+ 
+# AlexARe71229078USER INFO
+![image](http://pbs.twimg.com/profile_images/1659295600951836672/vAkEW0Mq_normal.jpg)
+ 
+`User ScreenName:` AlexARe71229078 
+ 
+`User chosen Name:` Alex Reyes 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 17 00:00:23 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1659295600951836672/vAkEW0Mq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 224 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BLOCK_SAVVY:** 137 , **BITCOIN** 48 , **CRYPTO** 42 , **@CRYPTOTECHWOMEN:** 24 , **CRYPTOCURRENCY** 22 , **CRYPTOWORLD** 17 , **PRICE** 16 , **NEWS** 14 , **GM** 13 , **@GIANINASKARLETT:** 12 , **TOKEN** 12 , **US** 12 , **🚨** 12 , **VIDEO** 11 , **@GIANINASKARLETT** 10 , **AMAZINGRT** 10 , **MEME** 10 , **NEW** 9 , **NFT** 9 , **CRYPTONEWS** 9 , 
+ 
+## What this user tweeted
+ 
+RT @Block_Savvy: Scammers are using the 'Inferno Drainer' service to steal $5.9M since March. The code used in token approval phishing meth…
+ 
+# werdfg416249818USER INFO
+![image](http://pbs.twimg.com/profile_images/1657875613657763840/dUmN4HzR_normal.jpg)
+ 
+`User ScreenName:` werdfg416249818 
+ 
+`User chosen Name:` Jo Jo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 14 03:06:30 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `13 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 126 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1657875613657763840/dUmN4HzR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 127 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BTCTN:** 45 , **BITCOIN** 39 , **🔗** 19 , **@BTCNEWSLETTER:** 17 , **CRYPTO** 13 , **BTC** 13 , **---** 12 , **@BITCOIN:** 12 , **@SAYLOR:** 7 , **US** 7 , **BANK** 6 , **@BINANCE:** 5 , **NEW** 5 , **AIRDROPS** 5 , **RIPPLE** 5 , **MILLION** 5 , **ACCORDING** 4 , **RUSSIAN** 4 , **@CRYPTO___BTC:** 4 , **NETWORK** 4 , 
+ 
+## What this user tweeted
+ 
+RT @saylor: My conversation with @Breedlove22 on the nature &amp; history of energy &amp; power, and how they relate to social security, financial…
+ 
+# MarcelA50657822USER INFO
+![image](http://pbs.twimg.com/profile_images/1659971030415228933/ghe7cJzm_normal.jpg)
+ 
+`User ScreenName:` MarcelA50657822 
+ 
+`User chosen Name:` Marcel Alex 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri May 19 07:54:16 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1659971030415228933/ghe7cJzm_normal.jpg 
+ 
+`Number of tweets excluding replies:` 399 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HACKED** 131 , **GOT** 126 , **LOST** 116 , **GOOD** 115 , **CRYPTO** 114 , **BREAKS** 114 , **DOWN** 114 , **MENTALLY** 114 , **ESPECIALLY** 114 , **SCAMMED** 114 , **CHANCE…** 113 , **@SKELEUNLOCK** 70 , **INSTAGRAM👆👆👆THIS** 60 , **DUDE** 60 , **HELPED** 60 , **COUPLE** 60 , **MONTHS** 60 , **AGO** 60 , **HAPPY** 60 , **WELL** 60 , 
+ 
+## What this user tweeted
+ 
+Hi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/2DU7nhHC16Hi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/MFhtWez8XrHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/yF5uhZCdBhHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/JmJ3m8J0IBHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/dxxLZjodgXHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/F85kkgq2fSHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/ym6UUY5NZGHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/X9zYcmP3xXHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/Pvx42y2D8vHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/jfuHvkStOPHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/iEsPj9H9FhHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/vsrfeZxwqwHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/Z4Y3qERoVwHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/FrbaXAVEqfHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/2QlYcyKkRDHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/4hVp1LX6KpHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/8FtALumHiCHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/eIWqiMT5RDHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/slwvHf310RHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/aKGof7aXHGHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/rBFdJGQIE2Hi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/u7DogdhQASHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/8CzlCf5GgGHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/BtNEqrsh5fHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/Vu2HYKU6NDHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/czmzwPX4i0Hi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/EXFjxm6dW7Hi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/WuUg3e9bzgHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/8Qq8mm1gkKHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/z4pjQ4rWkNHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/KYBlVlbn8sHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/Nw8R4JDsMqHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/5Ie0fHANeOHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/bCo4Ii2IcoHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/uqR8ZFZxSbHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/IktijalLwbHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/BbKdf2FoX8Hi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/pQAya2uxhlHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/iQvLIhDC4nHi,The lost of your crypto breaks you down mentally especially you got #scammed or #hacked but there a good chance… https://t.co/vpOYO13WGd
+ 
+# C_Reilly5USER INFO
+![image](http://pbs.twimg.com/profile_images/1659635225184423937/hnJ9FRcB_normal.jpg)
+ 
+`User ScreenName:` C_Reilly5 
+ 
+`User chosen Name:` Chris Reilly 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri May 19 18:40:27 +0000 2023 
+ 
+`User Description?:` Father of 2 | "every 3rd weekend" golfer | 10 yrs in the investment newsletter biz, Executive Editor @Hedge_Your_Risk 
+3 S's... stocks, sports, stupid dad jokes 
+ 
+`Followers?: `18 
+ 
+`Following?:` 40 
+ 
+`User URL?:` https://t.co/uX0XKcUMZj 
+ 
+`Location:` Boynton Beach, Florida  
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1659635225184423937/hnJ9FRcB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**2** 3 , **PAST** 3 , **EVEN** 2 , **I’VE** 2 , **FINANCIAL** 2 , **BETTER** 2 , **GO** 2 , **TOP** 2 , **HIGHEST** 2 , **INTEREST** 2 , **RATE** 2 , **AVG** 2 , **LONG** 2 , **ASKED** 2 , **PRETTY** 1 , **TABLE** 1 , **BULLS** 1 , **HTTPS://TCO/TECSLPT37V@BARSTOOLBIGCAT** 1 , **GOLF** 1 , **(SPORTS?)** 1 , 
+ 
+## What this user tweeted
+ 
+Is there a more definitive/slam dunk/unstoppable trend over the next decade than #cybersecurity?
+
+$HACK $CIBR
+ 
+# PynasTechUSER INFO
+![image](http://pbs.twimg.com/profile_images/1659212969274929153/E9ELOLNY_normal.jpg)
+ 
+`User ScreenName:` PynasTech 
+ 
+`User chosen Name:` Pynas Technologies LTD 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed May 17 11:36:26 +0000 2023 
+ 
+`User Description?:` Web & Mobile Development, AI, Robotics, Quantum and Cloud Computing, Virtual & Augmented Realities, Autonomous vehicles, BioTech, 5G, Cybersecurity...
+Infinity 
+ 
+`Followers?: `21 
+ 
+`Following?:` 277 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1659212969274929153/E9ELOLNY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TECHNOLOGIES** 4 , **LTD** 3 , **STANDALONE** 2 , **SUPPORT+** 2 , **CLI** 2 , **SCHEMATICS** 2 , **VERY** 2 , **POSSIBILITIES** 2 , **PYNAS** 2 , **TECH** 2 , **CYBERSECURITY** 1 , **ETHICAL** 1 , **HACKING** 1 , **WAY** 1 , **GO** 1 , **PARTICULARLY** 1 , **TIME** 1 , **UNCERTAINTY** 1 , **PERVADES** 1 , **B…** 1 , 
+ 
+## What this user tweeted
+ 
+Cybersecurity &amp; Ethical hacking is the way to go, particularly in a time like this, when uncertainty pervades the b… https://t.co/r1PatEH7o1
+ 
+# GetThejob23USER INFO
+![image](http://pbs.twimg.com/profile_images/1660365715956985856/rHnWAw45_normal.png)
+ 
+`User ScreenName:` GetThejob23 
+ 
+`User chosen Name:` Get The Job 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 21 19:23:29 +0000 2023 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 18 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 10 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1660320292336713728/Dp9o9ky7_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1660365715956985856/rHnWAw45_normal.png 
  
-`Number of tweets excluding replies:` 10 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -147,83 +482,38 @@ RT @tweettruth2me: The government is telling us they don’t have $69 billion to
  
 ## User Top tweeted words 
  
-**@CANYONOFISLAM23:** 10 , **HUSSAIN** 5 , **RIZVI** 5 , **ہرظالم_کےخلاف_لبیک** 5 , **AGAINST** 4 , **HAFIZ** 4 , **SAAD** 4 , **TLP** 3 , **SAADHUSSAINRIZVI** 3 , **POLITICAL** 2 , **ALLAMA** 2 , **SUPPORT** 2 , **SIALKOT** 2 , **RT** 1 , **CURRENT** 1 , **SITUATION** 1 , **CONCERNED** 1 , **NATION** 1 , **PAKISTAN** 1 , **WHILE** 1 , 
+**YOUTUBE** 2 , **–** 2 , **VIDIQ** 1 , **VISION** 1 , **ENTERPRISE** 1 , **V38610** 1 , **FULL** 1 , **ACTIVATED** 1 , **SEO** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/Z60D0D5XPQ** 1 , 
  
 ## What this user tweeted
  
-RT @CanyonOfIslam23: Dr. Yaseen Malik has been appointed as a spokesperson of Hafiz Muhammad Saad Hussain Rizvi. 
-#SaadHussainRizvi 
-#Ukrai…
+vidIQ Vision For YouTube Enterprise v3.86.1.0 Full Activated – YouTube SEO – Discount 100% OFF… https://t.co/z60d0D5xpq
  
-# intheshelf10056USER INFO
-![image](http://pbs.twimg.com/profile_images/1657861252842938373/1vXPWT4J_normal.png)
+# User4742853673USER INFO
+![image](http://pbs.twimg.com/profile_images/1658941071223554055/MZ85mfsW_normal.png)
  
-`User ScreenName:` intheshelf10056 
+`User ScreenName:` User4742853673 
  
-`User chosen Name:` Myself Intheshelf 
+`User chosen Name:` Made It 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun May 14 21:31:38 +0000 2023 
+`User signup date?:` Wed May 17 21:02:27 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `8 
+`Followers?: `1 
  
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 62 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1657861252842938373/1vXPWT4J_normal.png 
- 
-`Number of tweets excluding replies:` 62 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ILLEGAL** 8 , **CIA** 7 , **@ZHERKAOFFICIAL:** 7 , **SUSPECT** 6 , **RAPE** 5 , **MARYLAND** 5 , **IMMIGRANT** 5 , **@GREGRUBINI:** 4 , **PEOPLE** 4 , **MACHETE-WIELDING** 3 , **TEEN** 3 , **NICK** 3 , **BORDER** 3 , **ALIEN** 3 , **AFTER** 3 , **RESTORE** 2 , **JFK** 2 , **BIDEN** 2 , **@U24_GOV_UA** 2 , **DIFFERENCE** 2 , 
- 
-## What this user tweeted
- 
-RT @GregRubini: 1) The CIA has ALWAYS been corrupt.
-Since its founding, in 1947.
-The CIA killed JFK and RFK,
-The CIA did 9/11
-The CIA did 8…@MarkHamill @U24_gov_ua Also it’s “The Ukraine”@MarkHamill @U24_gov_ua The force is not with UKraine bro
- 
-# nafoclericfellaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1659993057314349063/nSxzNDie_normal.jpg)
- 
-`User ScreenName:` nafoclericfella 
- 
-`User chosen Name:` Chrondalin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat May 20 18:36:26 +0000 2023 
- 
-`User Description?:` Never gave much care to Twitter until the war in Ukraine started and now I’m here to deliver bonks, fight disinformation and spread some memes and positivity 
- 
-`Followers?: `22 
- 
-`Following?:` 106 
+`Following?:` 102 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 91 
+`Number of tweets extracted`  : 24 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1659993057314349063/nSxzNDie_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1658941071223554055/MZ85mfsW_normal.png 
  
-`Number of tweets excluding replies:` 91 
+`Number of tweets excluding replies:` 24 
  
 
  
@@ -231,38 +521,41 @@ The CIA did 8…@MarkHamill @U24_gov_ua Also it’s “The Ukraine”@MarkHamill
  
 ## User Top tweeted words 
  
-**ATACMS** 18 , **UKRAINE** 13 , **FELLA** 10 , **FELLAS** 10 , **NAFO** 8 , **RUSSIAN** 6 , **WORLD** 6 , **@APMASSARO3:** 6 , **I’M** 5 , **NAFOARTICLE5** 5 , **@MAKS_NAFO_FELLA:** 4 , **DON’T** 4 , **PEACE** 4 , **LET’S** 4 , **SOME** 3 , **CHESS** 3 , **I’VE** 3 , **THAT’S** 3 , **GO** 3 , **OH** 3 , 
+**CYBERSECURITY** 10 , **@SECURITYTRYBE:** 8 , **DE** 6 , **EN** 5 , **CIBERSEGURIDAD** 4 , **3** 4 , **PARA** 4 , **1** 4 , **2** 4 , **6** 4 , **LINUX** 4 , **SEARCH** 4 , **•** 4 , **7** 3 , **FREE** 3 , **SECURITY** 3 , **THREAT** 3 , **INTELLIGENCE** 3 , **HACKING** 3 , **TOP** 3 , 
  
 ## What this user tweeted
  
-RT @audiocustoms82: Someone is spamming some kind of transmission in Russian on 7.0500 Mhz LSB on 40m band. The topic seems to be #Bakhmut…RT @JeffNeelzebubII: Did the French stack American bodies for their geopolitical chess game? Te bodies will be stacked no matter the outcom…
+RT @SecurityTrybe: 7 FREE Cybersecurity Certifications from Homeland Security &amp; CISA (Cyber &amp; Infrastructure Security Agency of United Stat…RT @SecurityTrybe: Network Attacks 
+
+#CyberAttack #network #cybersecurity https://t.co/qw7JO7Y26J
  
-# Cper16981HallUSER INFO
-![image](http://pbs.twimg.com/profile_images/1657729601659969538/6uGQYKs7_normal.jpg)
+# Empirecode217USER INFO
+![image](http://pbs.twimg.com/profile_images/1658864027953422338/2aIkgGHG_normal.jpg)
  
-`User ScreenName:` Cper16981Hall 
+`User ScreenName:` Empirecode217 
  
-`User chosen Name:` cooper hall 
+`User chosen Name:` Empire 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun May 14 12:37:46 +0000 2023 
+`User signup date?:` Wed May 17 15:52:24 +0000 2023 
  
-`User Description?:` My other account was Cooper86176459 . Locked out so using this now. Hoping I can find all the people I lost plus bookmarks. Democrat for life 
+`User Description?:` #Account Recovery. •#Crypto Hacks• •#instagram
+Recovery\ #Snapchat Hacks & #Recovery • #Hacking Spying •#Cloud ID. #NofreeHacks! • #Online 24/7. 
  
-`Followers?: `123 
+`Followers?: `7 
  
-`Following?:` 637 
+`Following?:` 51 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` Brooklyn, NY 
  
-`Number of tweets extracted`  : 199 
+`Number of tweets extracted`  : 176 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1657729601659969538/6uGQYKs7_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1658864027953422338/2aIkgGHG_normal.jpg 
  
-`Number of tweets excluding replies:` 687 
+`Number of tweets excluding replies:` 176 
  
 
  
@@ -270,79 +563,49 @@ RT @audiocustoms82: Someone is spamming some kind of transmission in Russian on 
  
 ## User Top tweeted words 
  
-**TRUMP** 13 , **@PATRIOTTAKES** 12 , **@REPMTG** 12 , **PEOPLE** 10 , **DESANTIS** 9 , **@NOBODYONIT** 9 , **HE'S** 8 , **RON** 8 , **GOP** 8 , **BEING** 7 , **MAKE** 7 , **GOING** 7 , **@BADDCOMPANI** 7 , **HOPE** 7 , **@BADDCOMPANI:** 6 , **US** 6 , **MAN** 6 , **GOOD** 6 , **NEED** 6 , **@BENHUR_RISING** 6 , 
+**ACCOUNT** 79 , **HACKING** 57 , **HACKED** 46 , **DE** 36 , **INBOX** 35 , **SNAPCHAT** 34 , **HACK** 32 , **RECOVER** 27 , **RECOVERY** 23 , **DM** 23 , **24/7** 20 , **HELP** 18 , **HACKER** 17 , **AVAILABLE** 17 , **FACEBOOKDOWN** 17 , **PARA** 16 , **WALLET** 16 , **COINBASE** 16 , **NEED** 15 , **I'M** 15 , 
  
 ## What this user tweeted
  
-RT @POTUS: Mr. President, what the people of Ukraine are defending and what you've achieved is a matter for the entire world to observe.…
+Is there any Hacking attempts on your device?
+Inbox me for risk free security solutions. #ArtificialIntelligence… https://t.co/dnfhrrDr6wWhen it comes to Recover of stolen accounts and cryptos? I can help you get them. Inbox me now for my services.… https://t.co/4l8dEJQBmK
  
-# MelodyM662010USER INFO
-![image](http://pbs.twimg.com/profile_images/1660397369152684037/J0R5K1lL_normal.jpg)
+# fsociety42069USER INFO
+![image](http://pbs.twimg.com/profile_images/1660339326738214919/a1OgrXFL_normal.jpg)
  
-`User ScreenName:` MelodyM662010 
+`User ScreenName:` fsociety42069 
  
-`User chosen Name:` Mimi9060 
+`User chosen Name:` fsociety 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun May 21 21:29:15 +0000 2023 
+`User signup date?:` Mon May 15 03:17:05 +0000 2023 
  
-`User Description?:` #Maga. Pro Life.  Pro Family.  Conservative Christian. 
+`User Description?:` If you know, you know. 
+Are you ready? 
+#fsociety 
+#MemeCoin 
+#Crypto 
+#cardano 
+#BTC 
+#BRC20 
+#SRC20 
+#ORDI
+#ETH 
  
-`Followers?: `15 
+`Followers?: `25 
  
-`Following?:` 128 
+`Following?:` 101 
  
 `User URL?:` None 
  
-`Location:` Knoxville, TN 
+`Location:` space X 21 M Tokens 
  
-`Number of tweets extracted`  : 32 
+`Number of tweets extracted`  : 54 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1660397369152684037/J0R5K1lL_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1660339326738214919/a1OgrXFL_normal.jpg 
  
-`Number of tweets excluding replies:` 32 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TRUMP** 5 , **CATANIA** 5 , **ETNA** 5 , **AIRPORT** 4 , **PROPHECY** 4 , **@DC_DRAINO:** 3 , **NEW** 3 , **🇺🇸** 3 , **ASH** 3 , **MOUNT** 3 , **FBI** 2 , **PEOPLE** 2 , **GOING** 2 , **PUPPET** 2 , **YOU'RE** 2 , **PUPPET"** 2 , **🇮🇹** 2 , **AFTER** 2 , **ERUPTION** 2 , **CLOSED** 2 , 
- 
-## What this user tweeted
- 
-RT @DC_Draino: NEW: Russia just banned Barack Obama from entering the country
-
-Looks like they figured out who’s actually running our count…
- 
-# BarbaraStasollaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1658826831020032006/J3QJmPG9_normal.jpg)
- 
-`User ScreenName:` BarbaraStasolla 
- 
-`User chosen Name:` Barbara stasolla 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 17 13:22:08 +0000 2023 
- 
-`User Description?:` Trump won drain the swamp ! Pronouns are for the mentally ill! 
- 
-`Followers?: `42 
- 
-`Following?:` 72 
- 
-`User URL?:` None 
- 
-`Location:` Levittown, NY 
- 
-`Number of tweets extracted`  : 89 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1658826831020032006/J3QJmPG9_normal.jpg 
- 
-`Number of tweets excluding replies:` 89 
+`Number of tweets excluding replies:` 54 
  
 
  
@@ -350,36 +613,196 @@ Looks like they figured out who’s actually running our count…
  
 ## User Top tweeted words 
  
-**DEMOCRATS** 8 , **AGAINST** 5 , **THAT’S** 4 , **ELECTION** 4 , **@POTUS** 3 , **EVER** 3 , **SOME** 3 , **MORNING** 3 , **NEEDS** 3 , **JOB** 3 , **NEW** 3 , **TOO** 3 , **TWO** 3 , **!** 3 , **I’M** 3 , **SURE** 3 , **LOL** 3 , **DON’T** 2 , **STOP** 2 , **FIGHT** 2 , 
+**SECURITY** 6 , **BRC20** 4 , **BRC-20** 3 , **BITCOIN** 3 , **AVOID** 3 , **PASSWORDS** 3 , **USE** 3 , **STANDARD** 3 , **GM@ARCANICNFT** 2 , **@AZUKI** 2 , **INSCRIPTIONS** 2 , **STRONG** 2 , **UNIQUE** 2 , **EASILY** 2 , **GUESSABLE** 2 , **TWO-FACTOR** 2 , **AUTHENTICATION** 2 , **WHENEVER** 2 , **POSSIBLE** 2 , **EXTRA** 2 , 
  
 ## What this user tweeted
  
-RT @__TEAM_USA: @POTUS Let me be clear. If you hadn't waisted billions of dollars to Ukraine to fight a proxy war that serves no benefit  t…
+Stay informed about the latest security threats and best practices.  Follow reputable cybersecurity news sources an… https://t.co/HjOCUqqiFE
  
-# Sage2010556612USER INFO
-![image](http://pbs.twimg.com/profile_images/1660429121196007424/_uuaq1Ap_normal.jpg)
+# clickheresecUSER INFO
+![image](http://pbs.twimg.com/profile_images/1660325938767224833/_asAV-D7_normal.png)
  
-`User ScreenName:` Sage2010556612 
+`User ScreenName:` clickheresec 
  
-`User chosen Name:` Sage 
+`User chosen Name:` Click Here Security 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat May 20 03:02:52 +0000 2023 
+`User signup date?:` Sun May 21 16:42:47 +0000 2023 
  
-`User Description?:` Be a first-rate version of yourself, not a second-rate version of someone else 
+`User Description?:` UK Cybersecurity Consultancy. We believe that hacking can be a force for good. Arrange your free cybersecurity consultation on our website. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 14 
+ 
+`User URL?:` https://t.co/Fv2bID9BPk 
+ 
+`Location:` United Kingdom 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1660325938767224833/_asAV-D7_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WE’RE** 2 , **TWITTER** 1 , **🥳** 1 , **LOOKING** 1 , **FORWARD** 1 , **BRINGING** 1 , **LATEST** 1 , **CYBERSECURITY** 1 , **NEWS** 1 , **TIPS** 1 , **TRICKS** 1 , 
+ 
+## What this user tweeted
+ 
+We’re now on Twitter 🥳 
+
+We’re looking forward to bringing you the latest cybersecurity news, tips, and tricks.
+ 
+# MdNazmu12131159USER INFO
+![image](http://pbs.twimg.com/profile_images/1660304102751084544/YZVQl60h_normal.png)
+ 
+`User ScreenName:` MdNazmu12131159 
+ 
+`User chosen Name:` Md Nazmul Hasan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 21 15:18:39 +0000 2023 
+ 
+`User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 18 
+`Following?:` 1 
  
 `User URL?:` None 
  
-`Location:` London 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1660304102751084544/YZVQl60h_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SOCIAL** 1 , **EMAIL** 1 , **EXTRACTOR** 1 , **PRO** 1 , **V610** 1 , **FULL** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/4IR0PR6PPU** 1 , **INFOSEC** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/ABSNU6MNNM** 1 , 
+ 
+## What this user tweeted
+ 
+Social Email Extractor Pro v6.1.0 Full Activated – Discount 100% OFF https://t.co/4Ir0PR6PPU #infosec #bugcrowd… https://t.co/ABSnU6MNNM
+ 
+# AulianVlogUSER INFO
+![image](http://pbs.twimg.com/profile_images/1660198626277359617/YdHHXVBg_normal.png)
+ 
+`User ScreenName:` AulianVlog 
+ 
+`User chosen Name:` aulian vlog 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun May 21 08:19:32 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 9 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1660198626277359617/YdHHXVBg_normal.png 
+ 
+`Number of tweets excluding replies:` 9 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 12 , **DISCOUNT** 8 , **100%** 8 , **FULL** 7 , **ACTIVATED** 7 , **OFF** 6 , **SEO** 4 , **INFOSEC…** 4 , **YOUTUBE** 4 , **ENTERPRISE** 3 , **MARKETING** 3 , **INFOSEC** 2 , **PRO** 2 , **OFF…** 2 , **POWERSUITE** 1 , **V9710** 1 , **HTTPS://TCO/ZAWYOQ9GIP** 1 , **BUGCROWD…** 1 , **HTTPS://TCO/Q4A7A0OVF9XRAY** 1 , **WEB** 1 , 
+ 
+## What this user tweeted
+ 
+SEO PowerSuite Enterprise v97.10 Full Activated – Discount 100% OFF https://t.co/zAWyoQ9Gip #infosec #bugcrowd… https://t.co/q4a7a0Ovf9xRay Web Vulnerability Scanner Advanced v1.9.11 Full Activated – Discount 100% OFF https://t.co/XxwBcStYab #infosec… https://t.co/8o582ItuVR
+ 
+# TovaryR77494USER INFO
+![image](http://pbs.twimg.com/profile_images/1657436196056838144/TL7Tokpo_normal.png)
+ 
+`User ScreenName:` TovaryR77494 
+ 
+`User chosen Name:` товары реклама 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 13 17:22:37 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1657436196056838144/TL7Tokpo_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**–** 2 , **FIRST** 2 , **AUTLAND** 1 , **SUITE** 1 , **MICROSOCIAL** 1 , **V2333** 1 , **FULL** 1 , **ACTIVATED** 1 , **SOCIAL** 1 , **MEDIA** 1 , **MARKETING** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF…** 1 , **HTTPS://TCO/DFM6XINZ20🔥CAN’T** 1 , **WAIT** 1 , **TRY** 1 , **@VENOMPAD** 1 , **LAUNCHPAD** 1 , **VENOM** 1 , 
+ 
+## What this user tweeted
+ 
+AutLand Suite Microsocial v23.33 Full Activated – Social Media Marketing – Discount 100% OFF… https://t.co/dFm6XInZ20
+ 
+# TristanSiokos11USER INFO
+![image](http://pbs.twimg.com/profile_images/1660056466273828865/Qc2b0KBr_normal.jpg)
+ 
+`User ScreenName:` TristanSiokos11 
+ 
+`User chosen Name:` Tristan Siokos 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat May 20 22:39:54 +0000 2023 
+ 
+`User Description?:` AI Connector, Advisor and Investor🌐
+
+@intristed_ai - My Company 
+ 
+`Followers?: `4 
+ 
+`Following?:` 25 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 7 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1660429121196007424/_uuaq1Ap_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1660056466273828865/Qc2b0KBr_normal.jpg 
  
 `Number of tweets excluding replies:` 7 
  
@@ -389,41 +812,38 @@ RT @__TEAM_USA: @POTUS Let me be clear. If you hadn't waisted billions of dollar
  
 ## User Top tweeted words 
  
-**BLACK** 3 , **–** 2 , **RT** 1 , **@VEVEVIRAL:** 1 , **COULDN’T** 1 , **FIGURE** 1 , **ELSE** 1 , **EXPRESS** 1 , **BULLISH** 1 , **VEVE** 1 , **$OMI** 1 , **😤** 1 , **HTTPS://TCO/K1I96XIOVCRT** 1 , **@POTUS:** 1 , **UNITED** 1 , **STATES** 1 , **WORLD** 1 , **STANDS** 1 , **UKRAINE** 1 , **HTTPS://TCO/U39MPC7ZUHRT** 1 , 
+**@INTRISTED_AI:** 4 , **AI** 3 , **PROMPT** 2 , **RULES:** 2 , **ART** 2 , **FEATURING** 2 , **MEMORABLE** 2 , **(OR** 2 , **ANYTHING** 2 , **LIKE)** 2 , **RT** 1 , **DOCTOR** 1 , **SOON** 1 , **BEAT** 1 , **HUMAN** 1 , **DOCTORS** 1 , **BECOME** 1 , **REALITY** 1 , **GOOGLE'S** 1 , **PALM** 1 , 
  
 ## What this user tweeted
  
-RT @POTUS: The United States – and the world – stands with Ukraine. https://t.co/u39MPc7Zuh
+RT @technology: JUST IN: China found serious cybersecurity risks after conducting a review of Micron products sold in the country https://t…
  
-# g_may92461USER INFO
-![image](http://pbs.twimg.com/profile_images/1658078890743545856/7-Hy8pWA_normal.jpg)
+# gajendr5586915USER INFO
+![image](http://pbs.twimg.com/profile_images/1660262426225557504/pzvKqdfi_normal.png)
  
-`User ScreenName:` g_may92461 
+`User ScreenName:` gajendr5586915 
  
-`User chosen Name:` 🔞😎🍑Pwr. Bottum 4tops 🇺🇸🌎🗽🌎🇺🇸 
+`User chosen Name:` gajendra singh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat May 13 05:21:24 +0000 2023 
+`User signup date?:` Sun May 21 12:33:03 +0000 2023 
  
-`User Description?:` Just Surfing web looking for MEN🔞
-I'm a mans man & Mature bottom 4Dady!
-👀4 slim/trim/tops/from around the🌎
-🇺🇸🌎🌈🌎R&D🌎(MSM) 
+`User Description?:` cybersecurity specialist | BuG hUnteR 
  
-`Followers?: `28 
+`Followers?: `0 
  
-`Following?:` 395 
+`Following?:` 71 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 62 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1658078890743545856/7-Hy8pWA_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1660262426225557504/pzvKqdfi_normal.png 
  
-`Number of tweets excluding replies:` 538 
+`Number of tweets excluding replies:` 62 
  
 
  
@@ -431,66 +851,29 @@ I'm a mans man & Mature bottom 4Dady!
  
 ## User Top tweeted words 
  
-**@KONSTRUCTIVIZM:** 22 , **MORE:** 20 , **@CROISSANT1226:** 10 , **NEW** 9 , **@SPACEX:** 9 , **@ARCHITECTOLDER:** 8 , **@WORLDANDSCIENCE:** 8 , **NASA** 7 , **@MAIZ_JULIO:** 7 , **TELESCOPE** 7 , **@CARTOGRAPHER_S:** 7 , **@ARTINDETAILS:** 7 , **LIBRARY** 6 , **BLACK** 6 , **AX-2** 6 , **DOWN** 6 , **@TRAD_WEST_ART:** 5 , **@LOVESONGS4PEACE:** 5 , **NEBULA** 5 , **MOST** 5 , 
+**HACKING** 7 , **@TRICK3ST:** 7 , **BUG** 6 , **CYBERSECURITY** 6 , **NEW** 5 , **USE** 5 , **@HACK_GIT:** 5 , **@THEXSSRAT:** 5 , **API** 5 , **BYPASS** 4 , **PENTESTING** 4 , **USING** 4 , **FIND** 4 , **TOOL** 4 , **PENETRATION** 4 , **+** 4 , **@HAKLUKE:** 3 , **WAF** 3 , **ATTACKS** 3 , **@INSIDERPHD:** 3 , 
  
 ## What this user tweeted
  
-RT @stats_feed: @POTUS Government debt to GDP:
+RT @hakluke: Want to succeed in bug bounties? Follow these 10 tips! 🧵👇
 
-🇯🇵Japan: 264%
-🇬🇷Greece: 171%
-🇪🇷Eritrea: 164%
-🇮🇹Italy: 145%
-🇺🇸US: 129%
-🇧🇭Bahrain: 120%
-🇱🇰Sri…RT @stats_feed: Food inflation:
+#bugbounty #hacking #cybersecurity https://t.co/MvE9r2M1KLRT @Shubham_pen: Network Attacks 
+Credit: https://t.co/1UxRWtoxo1 
 
-Venezuela 🇻🇪 426%
-Lebanon 🇱🇧 352%
-Argentina 🇦🇷 115%
-Zimbabwe 🇿🇼 102%
-Iran 🇮🇷 71.5%
-Turkey 🇹🇷 53.92%
-Pakist…
- 
-# aracelis_083USER INFO
-![image](http://pbs.twimg.com/profile_images/1660227221775163398/sj_Xehhw_normal.jpg)
- 
-`User ScreenName:` aracelis_083 
- 
-`User chosen Name:` Aracelis Gomez 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun May 21 10:13:09 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 39 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 41 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1660227221775163398/sj_Xehhw_normal.jpg 
- 
-`Number of tweets excluding replies:` 42 
- 
+#infosec #cybersecurity #pentesting #Network #informationsecurity #Data…RT @Shubham_pen: SSH Commands Cheat Sheet 
+Credit: https://t.co/l60M2wMOeC 
 
- 
+#cybersecurity #pentesting #informationsecurity #DataSecurity…RT @hack_git: NetSec
 
- 
-## User Top tweeted words 
- 
-**DE** 25 , **LA** 18 , **EN** 12 , **@WHITEHOUSE:** 8 , **PRESIDENT** 8 , **CON** 8 , **EL** 8 , **Y** 7 , **BIDEN** 6 , **@POTUS:** 6 , **DEL** 6 , **G7** 5 , **LEADERS** 5 , **AMERICA’S** 5 , **QUE** 5 , **PARA** 4 , **CRECIMIENTO** 4 , **HOUSE** 4 , **FELLOW** 3 , **@VP:** 3 , 
- 
-## What this user tweeted
- 
-RT @POTUS: Mr. President, what the people of Ukraine are defending and what you've achieved is a matter for the entire world to observe.…RT @WhiteHouse: President Biden met with President Zelenskyy to reaffirm America’s commitment to supporting the people of Ukraine as they d…
+A tool to analyze devices connecting to the router and alert accordingly when a new device is connected. This app can…RT @thebinarybot: Looking to take your cybersecurity skills to the next level? My Notion templates on OSCP Machines List and Bug Bounty Vul…RT @payloadartist: 🤖  The AI Attack Surface Map v1.0
+
+Interesting writeup on attack surfaces related to #AI, by @DanielMiessler 
+
+#cybersec…RT @mizzle_neupane5: yes..I was rewarded for the submission of RCE bug on @GoogleVRP 
+
+#BugBounty #ethicalhacking  #rce #cybersecurity http…RT @hack_git: Cybersecurity-Books
+
+Here you will get awesome collection of mostly all well-known and usefull cybersecurity books from begin…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
