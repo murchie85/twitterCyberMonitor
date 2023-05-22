@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "threatintel"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **PokemonGoApp**  
+The most popular user is: **fr0gger_**  
  
 
-## To help you take on Shadow Mewtwo, we’re giving away codes for Purified Gems if we reach 150k RT! To participate:… https://t.co/ec40JJlLxt 
+## 🤗I've written a book! Let me introduce you "Visual Threat Intelligence"
+
+You can register now to stay updated on it… https://t.co/hnmTVtvtyD 
 
   
 
@@ -23,24 +25,24 @@ The most popular user is: **PokemonGoApp**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/threatintel/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ptracesecurity: Block C2 communication with Defender for Endpoint  https://t.co/sYIIFTW9mo  #Pentesting #CyberSecurity #Infosec https:/… |
-| RT TheHackersNews "Facebook's parent company Meta hit with a record $1.3 billion fine by EU regulators for unlawful… https://t.co/ZkSgTaX5ae |
-| strange ways employees can (accidently) expose data  #DataSecurity #Privacy#100DaysOfCode #CloudSecurity… https://t.co/Iw6j6DawSU |
+| RT @FalconFeedsio: Mysterious Team Bangladesh claims to have taken down the website of Ministry of Health and Prevention - UAE and they als… |
+| #ThreatProtection Simple #ransomware continues to plague consumers and enterprises, hitting single machines via soc… https://t.co/dop9YXasQE |
+| Malware Analysis - djvu - 5579d34a9533f3b050cd53498b0f2486 - https://t.co/2Ij7wLqXaX#Malware #OSINT #ThreatIntel  #djvu |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **hack_git** |
-| #3 Most tweeted to  | **AlyssaM_InfoSec** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 5.52%|
+| #1 Most tweeted to  | **JinibaBD** |
+| #2 Most tweeted to  | **DailyOsint** |
+| #3 Most tweeted to  | **FalconFeedsio** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 1.93%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,150 +52,30 @@ The most popular user is: **PokemonGoApp**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **PENTESTING**  |
-| third  | **@HACKINARTICLES:** |
-| fourth  | **CYBERSECURITYTIPS**  |
-| fifth  | **INFORMATIONSECURITY**  |
+| first  | **THREATINTEL**  |
+| second  | **OSINT**  |
+| third  | **RANSOMWARE** |
+| fourth  | **VULNERABILITY**  |
+| fifth  | **CVE**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+![image](assets/threatintel/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@AlyssaM_InfoSec Please know that this does not represent all Christians. There are plenty that would view turning… https://t.co/rrDopRA8lt |
+|RT @JonGoodCyber: UBER CISO Sentenced in Court⁠Watch the full show ⏩ https://t.co/3lyCiivLIt⁠Need Cyber Security Training or Career Ser… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PokemonGoApp**  |
+| The most retweeted user is: **fr0gger_**  |
 | ------------- |
-| To help you take on Shadow Mewtwo, we’re giving away codes for Purified Gems if we reach 150k RT! To participate:… https://t.co/ec40JJlLxt |
+| 🤗I've written a book! Let me introduce you "Visual Threat Intelligence"You can register now to stay updated on it… https://t.co/hnmTVtvtyD |
 
 # Potential Fake Accounts
- 
-# Empirecode217USER INFO
-![image](http://pbs.twimg.com/profile_images/1658864027953422338/2aIkgGHG_normal.jpg)
- 
-`User ScreenName:` Empirecode217 
- 
-`User chosen Name:` Empire 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed May 17 15:52:24 +0000 2023 
- 
-`User Description?:` #Account Recovery. •#Crypto Hacks• •#instagram
-Recovery\ #Snapchat Hacks & #Recovery • #Hacking Spying •#Cloud ID. #NofreeHacks! • #Online 24/7. 
- 
-`Followers?: `11 
- 
-`Following?:` 52 
- 
-`User URL?:` None 
- 
-`Location:` Brooklyn, NY 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1658864027953422338/2aIkgGHG_normal.jpg 
- 
-`Number of tweets excluding replies:` 365 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**ACCOUNT** 93 , **HACKED** 87 , **HACKING** 67 , **INBOX** 44 , **DM** 40 , **RECOVERY** 38 , **AVAILABLE** 37 , **RECOVER** 37 , **SNAPCHAT** 37 , **HELP** 33 , **24/7** 32 , **ANY** 28 , **I'M** 27 , **SERVICES** 26 , **ICLOUD** 26 , **FACEBOOKDOWN** 25 , **HACK** 22 , **NEED** 22 , **IMESSAGE** 20 , **LOST** 20 , 
- 
-## What this user tweeted
- 
-Wondering how to recover hacked accounts and also protect any account or wallet? Leave me a DM for assistance.… https://t.co/lpjcMJpq3rFor support and help, contact your favorite #Hacker fast and reliable. All social media #CyberSecurity #hacker… https://t.co/iMmjtL32TaDm me now for any #Hacked accounts or Recovery, #infosec #cybersecurity #pentesting #oscp #informationsecurity… https://t.co/hKxui4Y1UNFor support and help, contact your favorite #Hacker fast and reliable. All social media #CyberSecurity #hacker… https://t.co/QerKGitmW0Wondering how to recover hacked accounts and also protect any account or wallet? Leave me a DM for assistance.… https://t.co/W3GwWXhwHSIf your Twitter got Hacked, Inbox me I'm available for all Hacking Services
-24/7 At your Services
-#hacking… https://t.co/rlec2JEZT3
- 
-# Mao040521USER INFO
-![image](http://pbs.twimg.com/profile_images/1660740201524731910/dbcnRiMK_normal.png)
- 
-`User ScreenName:` Mao040521 
- 
-`User chosen Name:` Mauricio Echeverry 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon May 22 20:11:33 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 1 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1660740201524731910/dbcnRiMK_normal.png 
- 
-`Number of tweets excluding replies:` 1 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DIABOLIC** 1 , **TRAFFIC** 1 , **BOT** 1 , **FULL** 1 , **EDITION** 1 , **V80** 1 , **LIFETIME** 1 , **ACTIVATED** 1 , **–** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/ZC5ZXLXNA7** 1 , **INFOSEC…** 1 , **HTTPS://TCO/MXPGF0EVTR** 1 , 
- 
-## What this user tweeted
- 
-Diabolic Traffic Bot Full Edition v8.0 Lifetime Activated – Discount 100% OFF https://t.co/zc5ZXLXna7 #infosec… https://t.co/mxPgf0EVTr
- 
-# Richard_Cyber01USER INFO
-![image](http://pbs.twimg.com/profile_images/1659150847152889857/5pQzHb8a_normal.jpg)
- 
-`User ScreenName:` Richard_Cyber01 
- 
-`User chosen Name:` Richard Cyber 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat May 13 04:34:56 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `8 
- 
-`Following?:` 19 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1659150847152889857/5pQzHb8a_normal.jpg 
- 
-`Number of tweets excluding replies:` 385 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HACKED** 71 , **ACCOUNT** 68 , **HACKING** 59 , **INBOX** 50 , **DM** 41 , **AVAILABLE** 36 , **ANY** 35 , **SNAPCHAT** 34 , **HELP** 28 , **RECOVER** 27 , **24/7** 27 , **?** 25 , **RECOVERY** 23 , **NEED** 23 , **ICLOUD** 22 , **SERVICES** 22 , **I'M** 22 , **ACCOUNTS** 20 , **ACCESS** 19 , **LOST** 18 , 
- 
-## What this user tweeted
- 
-When it comes to Recover of stolen accounts and cryptos? I can help you get them. Inbox me now for my services.… https://t.co/dO1B2jPOlt
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
